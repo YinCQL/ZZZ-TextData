@@ -1,6 +1,10 @@
 # ZZZ-TextData
 
-## 本项目介绍
+## 项目声明
+
+* 所有内容均来自 [miHoYo](https://www.mihoyo.com/) 旗下的[绝区零](https://zzz.mihoyo.com/main/)游戏当前公开版本以及[绳网情报站](https://baike.mihoyo.com/zzz/wiki/)
+
+## 项目介绍
 
 * 为大家提供绝区零游戏(v1.3.0)内的相关文本
 
@@ -10,10 +14,10 @@
 * InterKnotConfig-绳网内所有帖子信息(文本)
 * NewsConfig-新闻/报纸信息(文本)
 
-## 不提供的内容
+## 暂时不提供的内容
 
 * 对于剧情文本，因内容过多，暂不整理
-* 对于不在解包文件内的文本，暂不整理
+* 对于特殊或非常规文本，暂不整理
 
 ## issues
 
