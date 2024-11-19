@@ -13,6 +13,7 @@
 * PartnerConfig-代理人信息(文本)
 * InterKnotConfig-绳网内所有帖子信息(文本)
 * NewsConfig-新闻/报纸信息(文本)
+* MessagesConfig-私聊/群聊信息(文本)--(粗略版，有问题，需后续修复)
 
 ## 暂时不提供的内容
 
