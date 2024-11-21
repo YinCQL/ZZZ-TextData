@@ -10,10 +10,11 @@
 
 ## 目前所提供的内容
 
-* PartnerConfig-代理人信息(文本)
-* InterKnotConfig-绳网内所有帖子信息(文本)
-* NewsConfig-新闻/报纸信息(文本)
-* MessagesConfig-私聊/群聊信息(文本)--(粗略版，有问题，需后续修复)
+* PartnerConfig-代理人相关文本
+* InterKnotConfig-绳网内所有帖子文本
+* NewsConfig-新闻/报纸文本
+* TrustLVConfig-代理人好感等级相关文本
+* MessagesConfig-私聊/群聊文本--(粗略版，有问题，需后续修复)
 
 ## 暂时不提供的内容
 
