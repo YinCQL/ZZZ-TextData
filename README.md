@@ -10,12 +10,12 @@
 
 ## 目前所提供的内容
 
-* MessageConfig-Message(对话？)文本--(随便搞的,自行整理)
+* MessageConfig-Message(所有对话？)文本--(自行整理使用)
 * PartnerConfig-代理人相关文本
-* TrustLVConfig-代理人好感等级相关文本
+* TrustLVConfig-代理人好感等级相关文本(四个阶段所触发的对话)
 * InterKnotConfig-绳网内所有帖子文本
-* MonsterCardConfig-法厄同图鉴(怪物描述文本)
-* NewsConfig-新闻/报纸文本
+* MonsterCardConfig-法厄同图鉴(怪物图鉴描述文本)
+* NewsConfig-都市快报文本
 
 ## 暂时不提供的内容
 
