@@ -1,0 +1,903 @@
+{
+    "Ether Dị Hình": {
+        "10000": {
+            "monster_id": 10000,
+            "monster_name": "Tyrfing",
+            "card_text": "Hiệp Hội Điều Tra Lỗ Hổng luôn nghiên cứu về hành vi của Tyrfing. Tư thế tưởng chừng như lắc lư mất thăng bằng của nó, thực chất là một tư thế tụ lực có thể phát động chém liên tục bất cứ lúc nào.\nTyrfing được đánh giá là một trong những Ethereal dễ gây thương vong cao nhất trong Lỗ Hổng, vì thường xuyên xuất hiện và tính tấn công khá mạnh của nó. Đặc biệt là đối với một số nhân viên Lỗ Hổng.\nKhi gặp kẻ địch có khiên, chúng sẽ điên cuồng tấn công không ngừng, cho đến khi một trong hai bên địch ta ngã xuống mới thôi.\n\"Có lẽ... chúng không ghét chúng ta, mà chỉ xem chúng ta là cọc gỗ tập luyện thôi?\"",
+            "card_quote": "- Chương trình trò chuyện nửa đêm \"Tiệc Trà Lỗ Hổng\" kỳ 165, tuần tra viên chống bạo động Nobby Kereyan giải ngũ vì bị thương",
+            "skill_text": "Trong chiến đấu, Tyrfing sẽ thực hiện tấn công cận chiến."
+        },
+        "10001": {
+            "monster_id": 10001,
+            "monster_name": "Alpeca",
+            "card_text": "Hiệp Hội Điều Tra Lỗ Hổng có rất ít tài liệu nghiên cứu về Alpeca, sau khi phân tích đơn giản hành vi phun Ether dạng lỏng của nó, thì xác định nó là Ethereal có mối đe dọa thấp, và kết thúc điều tra.\nTừng có học giả rất có hứng thú với kiểu phun Ether dạng lỏng của Alpeca, và đăng ủy thác điều tra quan sát cự ly gần.\nNhưng vì nguyên nhân nào đó, các điều tra viên có kinh nghiệm đều tránh xa nhiệm vụ này.\n\"Chạy mau! Bọn chúng lại bắt đầu phun nước bọt rồi... Ôi, đồ mới của tôi!\"",
+            "card_quote": "- Sâu trong Lỗ Hổng, điều tra viên mới Raffaele Bert đang cố gắng rút lui",
+            "skill_text": "Trong chiến đấu, Alpeca sẽ thực hiện tấn công tán xạ từ xa."
+        },
+        "10002": {
+            "monster_id": 10002,
+            "monster_name": "Faun",
+            "card_text": "Ether sống hình người lần đầu tiên được phát hiện trong Lỗ Hổng tàu điện ngầm New Eridu. Đội điều tra của Hiệp Hội Lỗ Hổng đã từng tranh cãi một thời gian về bản chất của nó, có người tin rằng nó là Ether sống được chuyển hóa thành do thể ăn mòn bị biến dị ở mức cao, cũng có người cho rằng nó chỉ là Ether sống thuần túy, chỉ là bị ảnh hưởng sâu sắc bởi môi trường trong Lỗ Hổng. Bất luận ra sao, do trí thông minh và hành vi có hạn của nó, Hiệp Hội đánh giá độ nguy hiểm của nó không cao, nhưng điều này không có nghĩa là có thể xem nhẹ, dù sao thì chúng thường xuất hiện theo nhóm.\n\"Bạn có từng đi trễ hoặc bị phạt vì gặp đèn đỏ chưa? Cảm giác đó rất khó chịu phải không?\"\n\"Bây giờ, chính là cơ hội để trút giận!\"",
+            "card_quote": "- Diễn đàn \"Thảm Họa Hôm Nay\", người dùng \"Bangboo Mẫu Mới Khi Nào Giảm Giá\" để lại bình luận",
+            "skill_text": "Trong chiến đấu, Faun có thiên hướng tụ lực lâu để thực hiện đòn trọng kích khó bị gián đoạn."
+        },
+        "10003": {
+            "monster_id": 10003,
+            "monster_name": "Hoplitai",
+            "card_text": "Tuy Hoplitai được Hiệp Hội Điều Tra Lỗ Hổng xếp vào loại Ethereal có \"mối đe dọa thấp\", nhưng nó vẫn là đối thủ đáng gờm của điều tra viên và Đạo Tặc Lỗ Hổng non nớt.\nChi trước của nó được bao phủ bởi lớp vật chất Ether trơ dày, vừa làm một lá chắn cứng rắn, vừa là vũ khí tấn công mạnh mẽ.\nNhược điểm duy nhất... chính là khiến nó đầu nặng chân nhẹ, trông không mấy thông minh.\n\"Các vị mời xem... Thứ đáng thương này, chính là Hoplitai.\"\n\"Khi các Ethereal tụ tập chơi kéo búa bao, tên ngốc này chỉ có thể ra cái bao!\"",
+            "card_quote": "- Sở Thú Lỗ Hổng, về tiết mục đặc biệt của Hoplitai",
+            "skill_text": "Trong chiến đấu, Hoplitai sẽ tận dụng cánh tay khiên chắn để xung phong hoặc chống đỡ tấn công."
+        },
+        "10004": {
+            "monster_id": 10004,
+            "monster_name": "Blast Spider",
+            "card_text": "Trong báo cáo nghiên cứu của Hiệp Hội Điều Tra Lỗ Hổng, Blast Spider có tốc độ di chuyển thấp, chỉ gây ra vụ nổ nhỏ được định nghĩa là Ethereal cấp thấp có \"mối đe dọa thấp\", \"không cần chú ý\".\nNhưng một số thương nhân nhạy bén đã phát hiện ra cơ hội kinh doanh từ thân hình tròn trĩnh và đôi chân ngắn của nó.\nCùng với sự ăn khách của bộ phim \"Xoay Tròn Nào, Blast Spider\", các sản phẩm đi kèm với nó như thú nhồi bông, gối ôm đều cháy hàng.\n\"Không ngờ thú nhồi bông của chúng còn có tính sát thương cao hơn cả chúng... Billy, tháng sau tôi chỉ có thể ăn mì gói thôi...\"",
+            "card_quote": "- Trước máy gắp thú ở phố mua sắm, Anby đang kiểm tra ví tiền",
+            "skill_text": "Trong chiến đấu, Blast Spider sẽ thực hiện tự nổ tấn công."
+        },
+        "10014": {
+            "monster_id": 10014,
+            "monster_name": "Mandrake",
+            "card_text": "Tên của Mandrake bắt nguồn từ một loại thực vật có chứa chất độc. Học giả đặt tên cho nó ban đầu chỉ là dựa vào hình dáng bên ngoài, cho rằng hai loại này có điểm tương đồng.\nKhi Mandrake \"nở rộ\", sẽ phóng ra những tia nhiệt năng, tấn công các mục tiêu xung quanh; còn những \"chiếc lá\" cứng sẽ bám sát mặt đất, như thể không muốn bị nhổ bật gốc. Đôi khi nó sẽ dùng \"chiếc lá\" tấn công kẻ địch đến gần để tự vệ.\nGiống như cỏ Mandrake trong truyền thuyết, \"sự khóc lóc\" của chúng đều là đòn chí mạng.\n\"Đợi đã, đừng qua đó! Nó sắp nở hoa rồi!\"",
+            "card_quote": "- Mandrake đang nở rộ trong phim \"Nỗi Sợ Sâu Thẳm\"",
+            "skill_text": "Trong chiến đấu, Mandrake khác nhau sẽ cung cấp buff tấn công/điểm khiên cho các đơn vị xung quanh theo chu kỳ."
+        },
+        "10025": {
+            "monster_id": 10025,
+            "monster_name": "Ác Linh",
+            "card_text": "\"Ác Linh\" giữ tư thế đứng im và do hình dáng độc đáo, kỳ quái nên thường bị nhầm là một bức tượng nghệ thuật trong Tòa Nhà Ballet.\nVì vậy có nhiều điều tra viên mới vào nghề lần đầu gặp phải \"Ác Linh\" đều để lại ám ảnh tâm lý khó quên cả đời...\nBản thân vừa đi ngang qua một \"bức tượng\" thì nó đột nhiên động đậy...\nKhoảnh khắc đối phương hoảng hốt ngây người, chính là thời điểm tốt nhất để \"Ác Linh\" tung đòn tấn công bất ngờ.\n\"Corin, đừng để vẻ ngoài của nó hù dọa... Đó không phải tác phẩm nghệ thuật quý giá gì đâu.\"\n\"Bây giờ, hãy bắt tay \"dọn dẹp\" đi.\"",
+            "card_quote": "...Lycaon đang hướng dẫn Corin thực hiện công việc \"quét dọn\"",
+            "skill_text": "Trong chiến đấu, Ác Linh sẽ thực hiện đột kích nhanh, thỉnh thoảng còn phối hợp với Ác Linh khác để phát động hợp tác tấn công."
+        },
+        "10026": {
+            "monster_id": 10026,
+            "monster_name": "U Hồn",
+            "card_text": "Dường như bị ảnh hưởng bởi bầu không khí trang hoàng độc đáo bên trong Tòa Nhà Ballet, \"U Hồn\" có cấu trúc cơ thể kỳ lạ và méo mó giống như tác phẩm nghệ thuật.\nCó một số điều tra viên cho rằng nó có hình dạng đặc biệt là để bảo vệ Lõi Ether của mình tốt hơn.\nNhưng đa số điều tra viên lại khẳng định rằng tất cả chỉ là mánh lới nhằm thu hút sự chú ý của kẻ địch. Khi kẻ địch bị mê hoặc bởi tư thế kỳ lạ của nó, \"U Hồn\" sẽ không ngần ngại dùng Ether cô đặc để phát động tấn công đối phương từ xa.\n\"Tôi nhìn dáng vẻ của nó và khựng lại một lúc: Lẽ nào nó muốn dùng đầu của mình để chơi bowling?\"\n\"Nhưng còn chưa kịp nghĩ ra thì \"quả bóng bowling\" của nó đã đập vào mặt tôi...\"",
+            "card_quote": "...Bài đăng của tài khoản ẩn danh nào đó trên Inter-Knot",
+            "skill_text": "Trong chiến đấu, U Hồn sẽ thực hiện tấn công từ xa liên tục không dứt trong một thời gian ngắn."
+        },
+        "10029": {
+            "monster_id": 10029,
+            "monster_name": "Engine Mắt Ma",
+            "card_text": "Mặc dù trong kho dữ liệu của Hiệp Hội Điều Tra Lỗ Hổng, \"Engine Mắt Ma\" là Ethereal chỉ gây ra đe dọa nhất định khi tiếp xúc gần, nhưng trong hoạt động điều tra Lỗ Hổng thực tế, nó lại mang đến mối đe dọa không ngờ tới.\nKhi có một đôi mắt ẩn sâu trong bóng tối nhìn chằm chằm vào mình và từng bước tiến gần, cho dù là điều tra viên giàu kinh nghiệm cũng sẽ cảm thấy sợ hãi khôn xiết.\nTrong Lỗ Hổng, nỗi sợ thường làm gia tăng Ether Ăn Mòn, từ đó dẫn đến tai họa.\n\"Cách duy nhất để loại bỏ nỗi sợ hãi... chính là nhìn chằm chằm lại vào nó.\"",
+            "card_quote": "- Diễn đàn \"Thảm Họa Hôm Nay\", tâm đắc của một điều tra viên thâm niên nào đó",
+            "skill_text": "Trong chiến đấu, Engine Mắt Ma có thiên hướng tận dụng thân hình độc đáo của mình để lăn lộn di chuyển."
+        },
+        "10030": {
+            "monster_id": 10030,
+            "monster_name": "Fossor",
+            "card_text": "Nghiên cứu mới nhất của Học Viện White Star cho thấy, bộ phận cơ thể của một số Ethereal sẽ mang đặc trưng của môi trường xung quanh. Và Fossor chính là một ví dụ điển hình trong số đó, chi trước kỳ lạ của nó nhìn cực kỳ ngầu như thiết bị khai thác của Khu Giếng Dầu Cũ.\nTuy có người cho rằng đây là một chiến lược ngụy trang để mê hoặc kẻ địch, nhưng cũng có người chỉ ra rằng, cách thức chiến đấu của Fossor rất mạnh mẽ, trông không giống thuộc sở trường phục kích đánh lén.\nVà một số Đạo Tặc Lỗ Hổng có trí tưởng tượng phong phú thì cho rằng, có lẽ nó chỉ muốn đi đào khoáng ở khắp nơi, nên mới hình thành bộ dạng như thế...\n\"Lúc tôi nhìn thấy nó từ xa, hình như nó đang vui vẻ cắm đầu đào nhựa đường...\"\n\"Sau khi nó phát hiện ra tôi, thì đã không do dự mà lao đến chỗ tôi, liều mình muốn đuổi tôi đi chỗ khác...\"\n\"Nhưng mà tôi thực sự chỉ đi ngang qua thôi, tuyệt đối không hề có ý định tranh giành ba cái thứ tạp nham đó với nó đâu!\"",
+            "card_quote": "- Bên ngoài Lỗ Hổng, một Đạo Tặc Lỗ Hổng mới vào nghề đang kể lại với bạn đồng hành về những gì xảy ra ban nãy",
+            "skill_text": "Trong chiến đấu, Fossor sẽ thực hiện chém liên tục bằng hai tay."
+        },
+        "10031": {
+            "monster_id": 10031,
+            "monster_name": "Sordidus",
+            "card_text": "Trong Lỗ Hổng ở vành đai ngoài có rất nhiều loại Ethereal kỳ lạ, và Sordidus là một ví dụ điển hình.\nChúng có cấu trúc cơ thể đặc thù, các chi có thể vươn dài và rút ngắn một cách rất tự nhiên, có vẻ như là sản vật của một phản ứng chưa rõ nào đó giữa dầu nặng và hoạt tính Ether.\nSau khi nhắm trúng mục tiêu, chúng sẽ vung các chi của mình để thực hiện đòn tấn công hung hãn và mạnh mẽ giống như một diễn viên tạp kỹ điêu luyện.\n\"Đáng ghét... cái tên này dám lấy roi quất tôi!\"\n\"Chẳng lẽ nó tưởng bản thân nó là một nhà huấn luyện thú, rồi xem chúng ta như một loại dã thú hung ác nào đó sao?\"",
+            "card_quote": "- Trong Lỗ Hổng, một nhóm Đạo Tặc Lỗ Hổng mới vào nghề đang đối phó với Sordidus",
+            "skill_text": "Trong chiến đấu, Sordidus sẽ vung xúc tu của mình để quất ở cự ly gần hoặc cắm xúc tu xuống đất để đánh lén tầm xa."
+        },
+        "20000": {
+            "monster_id": 20000,
+            "monster_name": "Farbauti",
+            "card_text": "Có sức mạnh tuyệt đối và thường xuyên ở trạng thái cuồng bạo, Farbauti là một trong những mối đe dọa rắc rối nhất với Đạo Tặc Lỗ Hổng. Cánh tay vạm vỡ như chiếc búa hạng nặng của nó có thể dễ dàng đỡ đòn, đồng thời còn có thể tung ra những đòn đánh liên tục như vũ bão, dễ dàng nghiền nát mọi thứ trước mắt.\nCó Đạo Tặc Lỗ Hổng phát hiện Farbauti thường đập xuống đất với tiết tấu nhịp nhàng và có tần suất cao, từ đó suy đoán rằng Farbauti có hứng thú với âm nhạc loại đánh trống.\nMặc dù Hội Học Thuật Điều Tra Lỗ Hổng đã từng công khai bác bỏ tin đồn, vẫn có nhiều Đạo Tặc Lỗ Hổng mang theo loa nhỏ khi vào Lỗ Hổng, để tiện ném ra khi gặp Farbauti nhằm dùng âm nhạc thu hút sự chú ý của nó.\nNhưng cho đến nay chưa ai thành công trốn thoát bằng cách này cả.\n\"Lý do thất bại rất đơn giản: Ngay cả Farbauti cũng cho rằng gu âm nhạc của các người quá tệ!\"",
+            "card_quote": "- Bài đăng của người dùng \"Ngón Tay Thép\" trên \"Diễn Đàn Nhạc Rock Black-Sweeper\"",
+            "skill_text": "Trong chiến đấu, Farbauti có thiên hướng tận dụng cánh tay lực lưỡng phát động những đòn đấm liên tục, nhưng khi cánh tay bị thương ở mức nhất định cũng sẽ bị chao đảo."
+        },
+        "20001": {
+            "monster_id": 20001,
+            "monster_name": "Hati",
+            "card_text": "Cá thể Ether sống, trông giống như một con thú bốn chân nhưng có trí thông minh, vô cùng nguy hiểm. Nó được ghi nhận bởi đội điều tra giai đoạn 1 của Hiệp Hội Điều Tra Lỗ Hổng.\nNghe nói lần đầu nhìn thấy nó là ở trong Lỗ Hổng Hang Ổ, những người lang thang ở vùng hoang vu gần đó đồn nhau rằng đã nghe thấy tiếng gầm chói tai, tựa như tiếng thú rừng gào rú.\n\"Nếu tôi ném một cây gậy hoặc một quả bóng ra, thì con quái vật này có đi nhặt nó không?\"\n\"Thử đi, nhưng tôi không thanh toán viện phí đâu đấy.\"",
+            "card_quote": "- Cuộc trò chuyện giữa Billy và Nicole",
+            "skill_text": "Trong chiến đấu, Hati sẽ sử dụng cú vồ linh hoạt và đòn tấn công nhanh bằng móng vuốt."
+        },
+        "20002": {
+            "monster_id": 20002,
+            "monster_name": "Goblin",
+            "card_text": "Lần đầu gặp Ethereal đặc biệt này, Nhân Viên Điều Tra Lỗ Hổng đã lầm tưởng rằng chúng có trí thông minh nhất định, thậm chí có thể học được cách con người sử dụng vũ khí như búa và gậy nên đặt tên cho chúng là \"Goblin\".\nTuy nhiên, dữ liệu sau đó xác nhận rằng cái gọi là \"vũ khí\" chỉ là những chi vặn vẹo biến dị của chúng, chúng không có khả năng bắt chước con người.\nNhưng cho dù vậy, Goblin vẫn là một đối thủ khó nhằn, thể chất mạnh mẽ và sức mạnh tàn bạo của chúng có thể khiến ngay cả những nhát chém đơn giản nhất cũng trở nên vô cùng nguy hiểm.\nMột khi có bất cứ thứ gì xâm phạm vào lãnh thổ của chúng, chúng sẽ tiến vào trạng thái giận dữ và bất chấp tất cả đập tan kẻ khiêu khích trước mặt.\n\"Ối? Có một con Goblin chạy tới và đập vào một đống sắt vụn.\"\n\"Tôi luôn cảm thấy đòn tấn công của tên này rất nhịp nhàng, đùng đùng đùng, như đang đánh trống vậy...\"\n\"Này! Hai người đừng có ngây ra đó nữa! Thứ nó đập không phải sắt vụn, mà là xe vật tư của chúng ta!\"",
+            "card_quote": "- Một con Goblin xông vào căn cứ tạm thời của băng cướp trong Lỗ Hổng",
+            "skill_text": "Trong chiến đấu, Goblin sẽ phát ra tiếng hống cường hóa bản thân, tăng sát thương bản thân gây ra và giảm mạnh sát thương bản thân phải chịu, nhưng hiệu quả này sẽ vô hiệu khi hắn bị Choáng."
+        },
+        "20003": {
+            "monster_id": 20003,
+            "monster_name": "Hati Bọc Giáp",
+            "card_text": "Nhiều Nhân Viên Điều Tra Lỗ Hổng dày dặn kinh nghiệm cho rằng Hati Bọc Giáp là một trong những Ethereal khó nhằn nhất.\nTuy lớp vỏ giáp dày khiến nó mất đi tính linh hoạt, nhưng đổi lại là khả năng chịu đòn mạnh mẽ.\nĐồng thời, chất ăn mòn trên cơ thể nó có những phần sắc nhọn cứng cáp nhô ra, có thể gây thêm vết xước cho kẻ địch khi Hati Bọc Giáp va chạm với tốc độ cao.\nĐộng tác nhanh nhẹn, khả năng chống chịu đòn cao, toàn thân gần như không có sơ hở... Bất kỳ một đặc điểm nào của Hati Bọc Giáp cũng đủ khiến một tay lão luyện phải cau mày, dứt khoát đi đường vòng để tránh nó.\nNghe nói có một số Đạo Tặc Lỗ Hổng non nớt thiếu kinh nghiệm sẽ cố gắng dụ Hati Bọc Giáp rời đi bằng thức ăn cho thú cưng.\nNhưng đây rõ ràng là một nỗ lực vô ích.\n\"Chạy mau! Nó không thích mùi thức ăn cho chó này!\"",
+            "card_quote": "- Trong Lỗ Hổng, vài Đạo Tặc Lỗ Hổng non nớt đang hoảng hốt chạy trốn Hati",
+            "skill_text": "Trong chiến đấu, giáp của Hati Bọc Giáp sẽ giảm mạnh sát thương và Điểm Choáng mà nó phải chịu, nhưng Hỗ Trợ Chống Đỡ sẽ giảm mạnh điểm giáp của nó."
+        },
+        "20004": {
+            "monster_id": 20004,
+            "monster_name": "Goblin Đường Sắt",
+            "card_text": "Tranh cãi về Goblin Đường Sắt chưa bao giờ dừng lại. Một số học giả cho rằng nó cố tình tạo ra dáng vẻ kỳ dị của mình để mê hoặc kẻ địch; trong khi các học giả khác lại cho rằng những thứ linh tinh trên người nó chỉ là thiết bị tàu điện ngầm cũ bị ăn mòn và bị dung hợp làm một với Ethereal.\nNhưng dù thế nào đi nữa, sự tồn tại của Goblin Đường Sắt luôn khiến những điều tra viên mới phải khiếp sợ khi bước vào khu vực tàu điện ngầm cũ của Lỗ Hổng.\nNói không chừng khoảnh khắc tiếp theo, \"biển báo\" bình thường bên cạnh sẽ bắt đầu rung chuyển, sau đó một con Ethereal to lớn đáng sợ sẽ xông ra khỏi mặt đất và lao về phía mình.\n\"Ơ? Mấy phút trước tôi đã nhìn thấy biển báo này rồi. Lẽ nào chúng ta lạc đường và nãy giờ vẫn đi lòng vòng sao?\"\n\"Không, không đúng... nó đang đi theo chúng ta!\"",
+            "card_quote": "...Trong phim kinh dị \"Lạc Lối Vô Tận\", nhân vật chính đang tìm cách thoát khỏi Lỗ Hổng",
+            "skill_text": "Trong chiến đấu, Goblin sẽ phát ra tiếng hống cường hóa bản thân, tăng sát thương bản thân gây ra và giảm mạnh sát thương bản thân phải chịu, nhưng hiệu quả này sẽ vô hiệu khi hắn bị Choáng."
+        },
+        "20005": {
+            "monster_id": 20005,
+            "monster_name": "Arlaune",
+            "card_text": "Nhiều Đạo Tặc Lỗ Hổng non nớt lần đầu thấy Arlaune thường bị vẻ ngoài của đối phương đánh lừa, cho rằng nó là loài thực vật vô hại.\nNhưng khi có người đến gần, nó sẽ đột nhiên rung chuyển và liên tục phóng ra chất Ether nồng độ cao để tấn công đối phương.\n\"Ối? Tôi muốn tưới nước cho nó mà nó lại nhổ nước bọt vào tôi?\"",
+            "card_quote": "- Trong Lỗ Hổng, một nhóm điều tra viên mới vào nghề bị Arlaune tập kích",
+            "skill_text": "Trong chiến đấu, Arlaune cực kỳ xảo quyệt, có thiên hướng tấn công từ xa, khi cánh hoa nở ra, đánh cho nó rơi vào trạng thái Chao Đảo sẽ có thể tích lũy nhiều Điểm Choáng trong một lần."
+        },
+        "20010": {
+            "monster_id": 20010,
+            "monster_name": "Xe Tarasque",
+            "card_text": "Hiệp Hội Điều Tra Lỗ Hổng đã suy đoán dựa trên những điều tra hiện có rằng bên trong cơ thể của \"Xe Tarasque\" dường như chứa các loại Ether lỏng với nồng độ khác nhau.\nKhi nó khuấy và trộn lẫn Ether dự trữ, phản ứng dây chuyền phức tạp sẽ lập tức giải phóng năng lượng mãnh liệt mang tính hủy diệt; Uy lực không kém gì pháo hạng nặng của Lực Lượng Phòng Vệ.\nCác điều tra viên càng giàu kinh nghiệm sẽ càng hành động cẩn thận, cố gắng tránh bị \"pháo hạng nặng\" của nó oanh tạc.\n\"Khi nó cúi người về phía tôi, tôi còn nghĩ rằng đó là một nghi lễ chào hỏi kỳ lạ nào đó, nhưng khi nòng pháo của nó sáng lên, tôi mới hiểu ra... đó là nghi lễ tiễn biệt.\"",
+            "card_quote": "... Buổi trò chuyện \"Tiệc Trà Lỗ Hổng\", điều tra viên minh tinh nào đó đang thuật lại trải nghiệm của bản thân",
+            "skill_text": "Trong chiến đấu, Xe Tarasque sẽ sử dụng tấn công laser liên tục, và có thiên hướng điều chỉnh vị trí bằng cách nhảy sang trái phải."
+        },
+        "20022": {
+            "monster_id": 20022,
+            "monster_name": "Ong Xương",
+            "card_text": "Ở gần Nineveh luôn có Ong Xương vây quanh. Có học giả cho rằng chúng và Nineveh đã hình thành mối quan hệ cộng sinh cùng có lợi nào đó, và có ý thức hợp tác quần thể nhất định.\nVà khi Nineveh tăng cấp năng lượng, phô bày tư thế lắc lư nở rộ, Ong Xương cũng sẽ vào trạng thái điên cuồng, dốc sức tấn công tất cả mục tiêu di chuyển xung quanh.\n\"Này! Trong \"đóa hoa\" đó hình như có thứ gì bay ra!\"\n\"Đó hình như là... một, một đàn ong vò vẽ?\"",
+            "card_quote": "- Hồ sơ điều tra Lỗ Hổng Số 0 mã số KU241, bản ghi âm về lần đầu nhìn thấy Ong Xương",
+            "skill_text": "Trong chiến đấu, Ong Xương sẽ gây quấy nhiễu để hỗ trợ Nineveh."
+        },
+        "30000": {
+            "monster_id": 30000,
+            "monster_name": "Dullahan",
+            "card_text": "Ether sống hình người mạnh mẽ, lần đầu tiên được phát hiện ở Lỗ Hổng Laketown, được ghi nhận bởi đội điều tra giai đoạn 3 của Hiệp Hội Điều Tra Lỗ Hổng. Hiện tại chưa rõ sự ra đời của loại Ether này có liên quan gì đến sự sụp đổ của thị trấn ven hồ với tên gọi là thị trấn Blaise.\nXét thấy sức mạnh to lớn và lối đánh thông minh nên Hiệp Hội Điều Tra Lỗ Hổng đánh giá nó tương đối nguy hiểm, các điều tra viên non nớt nên tránh xung đột trực tiếp với nó.\n\"Đừng để nó thắp sáng thanh kiếm đó, nếu đã được thắp sáng... vậy thì đừng để nó chém trúng.\"",
+            "card_quote": "...Trích từ buổi phỏng vấn đặc biệt của điều tra viên trong chương trình giải trí \"Tiền Bối, Hãy Dạy Tôi!\"",
+            "skill_text": "Trong chiến đấu, Dullahan sẽ lợi dụng thanh kiếm dài để thực hiện đòn đâm tụ lực mức độ cao, trong quá trình tụ lực, dùng đòn tấn công mạnh lên hắn sẽ có thể gián đoạn quá trình tụ lực."
+        },
+        "30001": {
+            "monster_id": 30001,
+            "monster_name": "Thanatos",
+            "card_text": "Khám phá Lỗ Hổng sẽ gây áp lực tinh thần rất lớn cho con người, và Thanatos với khả năng dịch chuyển tức thời kỳ lạ cùng cách chém khó nắm bắt, đã trở thành ám ảnh tâm lý chung của Đạo Tặc Lỗ Hổng.\nNhiều người sau khi một mình đối mặt với Thanatos ở Lỗ Hổng, đã mất hết dũng khí để tiến vào Lỗ Hổng lần nữa và chọn cách bỏ nghề.\nHình tượng của chúng cũng đã trở thành khách mời thường xuyên trong các bộ phim kinh dị.\n\"Chiếc bóng phản chiếu mảnh mai biến mất trước mắt, rồi lập tức xuất hiện ở phía sau lưng...\"\n\"Phải làm sao đây? Bây giờ tôi không dám đi vệ sinh một mình nữa...\"",
+            "card_quote": "- Trong đêm phim kinh dị \"Ethereal Gõ Cửa\" công chiếu, bài đăng thảo luận hot trên trang mạng phê bình \"Copper Plum\"",
+            "skill_text": "Trong chiến đấu, Thanatos sẽ tận dụng khả năng xuất hiện đột ngột, tìm kiếm góc độ khó đỡ để thực hiện tấn công, nhưng khi hắn chịu phải Hỗ Trợ Chống Đỡ và Đột Kích Chi Viện, tích lũy Điểm Choáng sẽ cực kỳ cao."
+        },
+        "30007": {
+            "monster_id": 30007,
+            "monster_name": "Đồ Tể Đường Cùng",
+            "card_text": "Khác với những Ethereal có mối đe dọa cao khác, tuy \"Đồ Tể Đường Cùng\" có thể hình khổng lồ đáng sợ nhưng Ether trong cơ thể nó thường ở trạng thái ngừng hoạt tính thấp.\nMặc dù vậy, \"Đồ Tể Đường Cùng\" vẫn sở hữu sức mạnh tàn bạo xé nát mọi chướng ngại vật; Toàn bộ khu vực tàu điện ngầm vặn vẹo hỏng hóc là \"cấm địa sau bếp\" của nó.\nVà khi một mục tiêu đe dọa khơi dậy hứng thú mạnh mẽ của \"Đồ Tể Đường Cùng\", sự biến chất đáng sợ sẽ xảy ra trong nháy mắt...\nEther nồng độ cao nó tích lũy trong cơ thể sẽ trở nên mạnh mẽ trong vài mili giây, năng lượng tăng theo cấp số nhân khiến các chi của nó nhanh chóng biến dạng, trở thành \"tư thế ăn uống\" bạo lực và tham lam hơn.\nĐiều này cũng có nghĩa là \"thời gian khai vị\" đã kết thúc, một \"bữa tiệc linh đình\" có một không hai đã chính thức bắt đầu.\nNếu không muốn trở thành một phần của \"bữa tiệc\" này, các Đạo Tặc Lỗ Hổng vô tình lạc vào đây phải chọn đường đi thật cẩn thận và tránh xa \"khu bếp sau\" của nó càng xa càng tốt...\n\"Đường đi trong Lỗ Hổng này khá phức tạp, nhưng điều có thể chắc chắn là khi \"nó\" xuất hiện ở cuối đường, con đường này chính là \"đường cùng\".\"",
+            "card_quote": "...Ghi chép điều tra số 17 về Lỗ Hổng Đường Cùng của Hiệp Hội Điều Tra Lỗ Hổng",
+            "skill_text": "Trong chiến đấu, cách thức tấn công của Đồ Tể Đường Cùng biến hóa khá nhiều, sau khi chịu một lượng sát thương nhất định sẽ vào giai đoạn hai. Trong giai đoạn hai, tấn công của hắn sẽ càng điên cuồng hơn, và có thể dùng laser tấn công. Trong giai đoạn hai, sau khi đòn tấn công liên tục và điên cuồng của hắn kết thúc, thực hiện tấn công mạnh lên hắn sẽ kích hoạt thêm Chao Đảo cho hắn."
+        },
+        "30010": {
+            "monster_id": 30010,
+            "monster_name": "Marionette Khăn Đen",
+            "card_text": "Cách đây nhiều năm, có một cặp chị em vũ công tài năng, bọn họ vụt sáng lên như sao băng, nhanh chóng được nhiều người biết đến, và tổ chức một buổi biểu diễn đặc sắc hoành tráng tại Tòa Nhà Ballet hoa lệ.\nNhưng khi buổi biển diễn chuẩn bị hạ màn, tai nạn Lỗ Hổng đột nhiên bùng phát. Tòa Nhà Ballet chìm vào Lỗ Hổng, chị em vũ công cũng dần chìm trong bóng tối, nhiều người trên thế giới sau khi biết tin không khỏi thở dài tiếc thương.\nNghe nói ngày diễn ra buổi biểu diễn, hai chị em họ đã ba lần gặp phải Điềm Xấu\"; nhưng cả hai đều mù quáng chìm đắm trong ánh đèn sân khấu, tiếng vỗ tay và vinh quang mà chọn tiếp tục biểu diễn, phớt lờ lời cảnh báo cuối cùng của Tử Thần.\nCho đến ngày nay, đã không còn bao nhiêu hình ảnh của người chị được lưu truyền trên thế giới, ngoại trừ những bức ảnh mờ ảo trên tạp chí, có rất ít cách để có thể nhìn thấy dáng vẻ rung động lòng người của \"Augilia\" khi đang khiêu vũ.\nChỉ có rất ít các Đạo Tặc Lỗ Hổng tinh anh nhất mới biết được, mỗi khi ánh đèn sân khấu đã vỡ nát trong Tòa Nhà Ballet sáng trở lại, \"Marionette Khăn Đen\" tao nhã và bí ẩn sẽ xuất hiện từ trong bóng tối. Nhiều người tin rằng nó có mối liên hệ nào đó với vũ công \"Augilia\" năm ấy, và dường như nó muốn thay cô ấy hoàn thành \"biểu diễn hạ màn\" năm xưa.\nCòn những khán giả \"may mắn\" được chứng kiến \"biểu diễn hạ màn\" ấy sau nhiều năm trôi qua, thứ để lại trong họ là một cơn ác mộng cả đời khó quên.\n\"Nếu như gặp phải Marionette bên trong Tòa Nhà Ballet, tốt nhất là đừng cố bỏ chạy.\"\n\"Chi bằng bình tĩnh lại và xem hết buổi diễn hạ màn của nó đi!\" \"Ít nhất, đây cũng coi như một kiểu chết tao nhã và có thể diện...\"",
+            "card_quote": "- Inter-Knot, bài viết phàn nàn của một Đạo Tặc Lỗ Hổng nào đó",
+            "skill_text": "Trong chiến đấu, Marionette sẽ lợi dụng khả năng xuất hiện bất ngờ để tiếp cận kẻ địch, và phát động đòn tấn công liên tục không dứt."
+        },
+        "30011": {
+            "monster_id": 30011,
+            "monster_name": "Marionette Khăn Xám",
+            "card_text": "Cách đây nhiều năm, có một cặp chị em vũ công tài năng, bọn họ vụt sáng lên như sao băng, nhanh chóng được nhiều người biết đến, và tổ chức một buổi biểu diễn đặc sắc hoành tráng tại Tòa Nhà Ballet hào nhoáng.\nNhưng khi buổi biển diễn chuẩn bị hạ màn, tai nạn Lỗ Hổng đột nhiên bùng phát. Tòa Nhà Ballet chìm vào Lỗ Hổng, chị em vũ công cũng dần chìm trong bóng tối, nhiều người trên thế giới sau khi biết tin không khỏi thở dài tiếc thương.\nNghe nói ngày diễn ra buổi biểu diễn, hai chị em đã ba lần gặp phải \"Điềm Xấu\" cảnh cáo phát ra từ Tử Thần. Có người cho rằng, do hai chị em đắc tội với thế lực nào đó, cuối cùng bị kẻ chủ mưu đằng sau mượn cớ \"thảm họa Lỗ Hổng\" để diệt khẩu một cách tàn nhẫn, cái gọi là \"Điềm Xấu\" chỉ là lời cảnh báo khéo léo của một người có lòng mà thôi.\nNgày nay, đã không thể nào xác minh sự thật được nữa, phần lớn mọi người chỉ có thể nhìn thấy điệu nhảy sôi động năm đó của em gái \"Augetta\" qua những dữ liệu hình ảnh còn sót lại.\nVà chỉ có rất ít các Đạo Tặc Lỗ Hổng tinh anh nhất mới biết được, khi bản nhạc khiêu vũ bị lãng quên lại lần nữa vang lên trong Tòa Nhà Ballet, bóng hình huyền ảo linh động của \"Marionette Khăn Xám\" cũng sẽ xuất hiện như đã hẹn. Không ít người tin rằng nó có mối liên hệ nào đó với vũ công \"Augetta\" năm ấy, dường như nó muốn thay cô ấy hoàn thành \"biểu diễn hạ màn\" năm xưa.\nNhưng chỉ là lần này, những bước nhảy tao nhã không còn mang đến cho khán giả tình yêu và vẻ đẹp nữa, mà là sự chết chóc cùng tuyệt vọng vô tận.\n\"Tôi không biết Marionette mà tôi gặp phải, đang đóng vai chị gái hay em gái nữa...\"\n\"A a a! Không phải là tôi không có trình độ nghệ thuật, mà thật sự là tôi không phân biệt được!\"",
+            "card_quote": "- Inter-Knot, bài đăng của một Đạo Tặc Lỗ Hổng nào đó",
+            "skill_text": "Trong chiến đấu, Marionette sẽ lợi dụng khả năng xuất hiện bất ngờ để tiếp cận kẻ địch, và phát động đòn tấn công liên tục không dứt."
+        },
+        "30012": {
+            "monster_id": 30012,
+            "monster_name": "Marionette - Song Sinh",
+            "card_text": "Cách đây nhiều năm, có một cặp chị em vũ công tài năng, bọn họ vụt sáng lên như sao băng, nhanh chóng được nhiều người biết đến, và tổ chức một buổi biểu diễn đặc sắc hoành tráng tại Tòa Nhà Ballet hoa lệ.\nNhưng khi buổi biển diễn chuẩn bị hạ màn, tai nạn Lỗ Hổng đột nhiên bùng phát. Tòa Nhà Ballet chìm vào Lỗ Hổng, chị em vũ công cũng dần chìm trong bóng tối, nhiều người trên thế giới sau khi biết tin không khỏi thở dài tiếc thương.\nGiờ đây, đa phần mọi người chỉ có thể nhìn thấy dáng vẻ nhảy múa hoạt bát của bọn họ vào năm đó trong những tư liệu hình ảnh và tranh vẽ còn sót lại.\nChỉ một số ít Đạo Tặc Lỗ Hổng đã đi sâu vào Tòa Nhà Ballet mới biết rằng, khi vũ khúc bị lãng quên vang lên trong Tòa Nhà Ballet, bóng dáng ẩn hiện linh động của các \"Marionette\" sẽ đến như đã hẹn. Nhiều người tin rằng họ có mối liên hệ nào đó với vũ công song sinh năm đó, dường như đang muốn thay chị em họ hoàn thành \"biểu diễn hạ màn\" đó.\n\"Khi tiếng nhạc kì lạ kết thúc, hai Marionette từ trong bóng tối xuất hiện, hành lễ với chúng ta...\"\n\"Ơ? Ý của bọn chúng là, buổi diễn sắp bắt đầu à?\"\n\"Không, tôi nghĩ họ muốn nói... đã quá muộn để chạy trốn, mọi thứ đã kết thúc.\"",
+            "card_quote": "——\"Phỏng vấn Lỗ Hổng\" kỳ 251, phỏng vấn về việc Nhân Viên Điều Tra Lỗ Hổng sống sót",
+            "skill_text": "Trong chiến đấu, Marionette - Song Sinh sẽ sử dụng lượng lớn Liên Kích, một số động tác bước nhảy tấn công của chúng sẽ bị gián đoạn khi liên tục chịu phải nhiều lần Hỗ Trợ Chống Đỡ. Khi một trong hai Marionette tử vong, tên còn lại sẽ cố gắng đánh thức tên đã tử vong."
+        },
+        "30017": {
+            "monster_id": 30017,
+            "monster_name": "Thể Ion - Setoria",
+            "card_text": "Trong truyền thuyết của Đạo Tặc Lỗ Hổng, cách thức hành động của \"Setoria\" có nhiều điểm tương đồng với cá mập.\nNó có thể lang thang trong bóng tối, ẩn nấp dưới mặt đất, sau đó nhảy vồ lên khỏi mặt đất như một con cá mập và cắn thật mạnh vào con mồi của mình.\nPhân tích dữ liệu cho thấy, rất có thể nó dựa vào những rung động trên mặt đất để theo dõi vị trí của con mồi. Và một số những Đạo Tặc Lỗ Hổng lành nghề có thể dựa vào cách làm rối loạn nhịp điệu bước chân của mình, cố gắng để tránh thu hút sự chú ý của chúng.\n\"Trước đây tôi từng là một điều tra viên, trong khu vực tôi phụ trách có rất nhiều Setoria xuất hiện.\"\n\"Tôi thường phải nhảy tới nhảy lui, tránh các đòn đánh lén của bọn chúng...\"\n\"Bây giờ nghĩ lại, đó chính là cơ hội để tôi học Tap Dance...\"",
+            "card_quote": "- \"Tiệc Trà Lỗ Hổng\" số 131, phỏng vấn bậc thầy Tap Dance - Ansor",
+            "skill_text": "Trong chiến đấu, Thể Ion - Setoria có thiên hướng tận dụng phần đầu sắc nhọn để đột kích kẻ địch từ xa."
+        },
+        "30018": {
+            "monster_id": 30018,
+            "monster_name": "Thể Ion - Nacelia",
+            "card_text": "Các chủng loại Ether dị thường trong Lỗ Hổng có các phong cách chiến đấu hoàn toàn khác nhau.\nCó loại thì tàn nhẫn, có loại thì xảo quyệt, và cũng có loại phong cách hành động có thể gọi là... quang minh chính đại.\nVà \"Nacelia\" thuộc về một thể loại vô cùng đặc biệt.\nChúng thường đứng ở những góc dễ thu hút tầm mắt, công khai ngưng tụ Ether mạnh mẽ của bản thân, cuối cùng sử dụng năng lượng hủy diệt dồi dào của mình để quét sạch mọi chướng ngại vật cho các Ethereal ở xung quanh.\nĐồng thời, các Ethereal xung quanh sẽ tấn công điên cuồng để tranh thủ đủ thời gian cho Nacelia tích lũy năng lượng tấn công.\n\"Mau, chặn tên đó lại, đừng để nó tung đòn dứt điểm!\"\n\"Nếu như bị nó đánh trúng, chẳng phải chúng ta sẽ trông giống như những kẻ phản diện hay sao!\"",
+            "card_quote": "- Sâu bên trong Lỗ Hổng, mấy điều tra viên đang bao vây tấn công Nacelia",
+            "skill_text": "Trong chiến đấu, Thể Ion - Nacelia có thiên hướng tụ lực trong thời gian dài, từ đó sinh ra cầu năng lượng mức độ cao tấn công kẻ địch. Khi chịu phải DMG Ether hoặc tấn công mạnh trong thời gian tụ lực, cầu năng lượng sẽ rơi xuống sớm, gây sát thương phạm vi cho đơn vị xung quanh."
+        },
+        "30023": {
+            "monster_id": 30023,
+            "monster_name": "Thracian",
+            "card_text": "Ethereal hung ác được đặt tên theo tên dân tộc chiến sĩ trong truyền thuyết của nền văn minh cổ, tương truyền chỉ có những anh hùng dũng cảm nhất và kẻ côn đồ điên cuồng nhất mới có thể biến thành thứ hung ác này khi bị Ether ăn mòn.\n— Nhưng sự thật không phải vậy. Tuy rằng cơ bắp đẹp đẽ mà bạn đã luyện tập được tại phòng gym và trong Lỗ Hổng, và cả chất adrenaline đã được sinh ra quá nhiều khi sắp chết, đều có thể trở thành mối phiền phức lớn cho các đồng đội lúc sinh thời của bạn. Nhưng mà họ chắc cũng không chấp nhứt với một người bạn cũ đã ra nông nỗi này đâu, nhỉ?\nKhông sao đâu, khi gương mặt anh tú của bạn trở thành một quả cầu năng lượng kỳ dị màu đen, thì còn quan trọng gì ba cái thứ danh dự xã giao nữa chứ?\n\"Không hổ danh là đại ca, biến thành Ethereal mà vẫn lợi hại như vậy!\"\n\"Lúc anh ấy cứ suốt ngày ở trong phòng gym là tôi thấy không ổn rồi!\"",
+            "card_quote": "— Lời khai của thành viên nhóm Đạo Tặc Lỗ Hổng bị bắt",
+            "skill_text": "Trong chiến đấu, Thracian sẽ nhiều lần thi triển chiêu thức đặc biệt và vào trạng thái tụ điện, trong trạng thái này tấn công sẽ rất mạnh mẽ, đồng thời sau khi phát động chiêu thức mức độ cao sẽ gây nổ trong phạm vi lớn."
+        },
+        "35001": {
+            "monster_id": 35001,
+            "monster_name": "Nineveh",
+            "card_text": "Mặc dù được gắn mác là \"nhóm Ethereal cộng sinh cùng có lợi\" \"cực kỳ nguy hiểm\", vẻ ngoài độc đáo và tráng lệ của \"Nineveh\" vẫn khiến người ta khó lòng cảnh giác.\nGhi chép điều tra còn sót lại cho thấy khi \"Nineveh\" liên tục vươn người, Ether mạnh nồng độ cao sẽ tập trung vào lõi của nó thông qua \"thân rễ\", cung cấp cho nó năng lượng vô tận. Một số học giả suy đoán rằng hành vi của nó tương tự như quá trình quang hợp của thực vật.\nTrong lúc nó lắc lư, một phần năng lượng Ether hoạt tính quá cao sẽ liên tục tuôn ra; khi Ether mạnh tích lũy gần như tràn đầy, nó sẽ thay đổi dáng vẻ, để lộ ra trạng thái \"nở rộ\" thực sự của mình.\nTrong khoảnh khắc nở rộ rực rỡ đó, cái chết cũng lặng lẽ ập đến.\n\"Tin tốt là: Nó không có ác ý, chỉ đang hấp thụ chất dinh dưỡng để quang hợp; tin xấu là... chúng ta chính là chất dinh dưỡng.\"",
+            "card_quote": "...Nhật ký hành động điều tra Lỗ Hổng Số 0 của Lực Lượng Phòng Vệ, số hiệu K-411",
+            "skill_text": "Trong chiến đấu, Nineveh sẽ sử dụng chiêu thức có phạm vi lớn và làn đạn dày đặc để tấn công, đồng thời triệu hồi Ong Xương hỗ trợ chiến đấu."
+        },
+        "100001": {
+            "monster_id": 100001,
+            "monster_name": "Tyrfing - Tụ Năng",
+            "card_text": "Hiệp Hội Điều Tra Lỗ Hổng luôn nghiên cứu về hành vi của Tyrfing. Tư thế tưởng chừng như lắc lư mất thăng bằng của nó, thực chất là một tư thế tụ lực có thể phát động chém liên tục bất cứ lúc nào.\nTyrfing được đánh giá là một trong những Ethereal dễ gây thương vong cao nhất trong Lỗ Hổng, vì thường xuyên xuất hiện và tính tấn công khá mạnh của nó. Đặc biệt là đối với một số nhân viên Lỗ Hổng.\nKhi gặp kẻ địch có khiên, chúng sẽ điên cuồng tấn công không ngừng, cho đến khi một trong hai bên địch ta ngã xuống mới thôi.\n\"Có lẽ... chúng không ghét chúng ta, mà chỉ xem chúng ta là cọc gỗ tập luyện thôi?\"",
+            "card_quote": "- Chương trình trò chuyện nửa đêm \"Tiệc Trà Lỗ Hổng\" kỳ 165, tuần tra viên chống bạo động Nobby Kereyan giải ngũ vì bị thương",
+            "skill_text": "Trong chiến đấu, Tyrfing sẽ thực hiện tấn công cận chiến."
+        },
+        "100011": {
+            "monster_id": 100011,
+            "monster_name": "Alpeca - Tụ Năng",
+            "card_text": "Hiệp Hội Điều Tra Lỗ Hổng có rất ít tài liệu nghiên cứu về Alpeca, sau khi phân tích đơn giản hành vi phun Ether dạng lỏng của nó, thì xác định nó là Ethereal có mối đe dọa thấp, và kết thúc điều tra.\nTừng có học giả rất có hứng thú với kiểu phun Ether dạng lỏng của Alpeca, và đăng ủy thác điều tra quan sát cự ly gần.\nNhưng vì nguyên nhân nào đó, các điều tra viên có kinh nghiệm đều tránh xa nhiệm vụ này.\n\"Chạy mau! Bọn chúng lại bắt đầu phun nước bọt rồi... Ôi, đồ mới của tôi!\"",
+            "card_quote": "- Sâu trong Lỗ Hổng, điều tra viên mới Raffaele Bert đang cố gắng rút lui",
+            "skill_text": "Trong chiến đấu, Alpeca sẽ thực hiện tấn công tán xạ từ xa."
+        },
+        "100021": {
+            "monster_id": 100021,
+            "monster_name": "Faun - Tụ Năng",
+            "card_text": "Ether sống hình người lần đầu tiên được phát hiện trong Lỗ Hổng tàu điện ngầm New Eridu. Đội điều tra của Hiệp Hội Lỗ Hổng đã từng tranh cãi một thời gian về bản chất của nó, có người tin rằng nó là Ether sống được chuyển hóa thành do thể ăn mòn bị biến dị ở mức cao, cũng có người cho rằng nó chỉ là Ether sống thuần túy, chỉ là bị ảnh hưởng sâu sắc bởi môi trường trong Lỗ Hổng. Bất luận ra sao, do trí thông minh và hành vi có hạn của nó, Hiệp Hội đánh giá độ nguy hiểm của nó không cao, nhưng điều này không có nghĩa là có thể xem nhẹ, dù sao thì chúng thường xuất hiện theo nhóm.\n\"Bạn có từng đi trễ hoặc bị phạt vì gặp đèn đỏ chưa? Cảm giác đó rất khó chịu phải không?\"\n\"Bây giờ, chính là cơ hội để trút giận!\"",
+            "card_quote": "- Diễn đàn \"Thảm Họa Hôm Nay\", người dùng \"Bangboo Mẫu Mới Khi Nào Giảm Giá\" để lại bình luận",
+            "skill_text": "Trong chiến đấu, Faun có thiên hướng tụ lực lâu để thực hiện đòn trọng kích khó bị gián đoạn."
+        },
+        "100031": {
+            "monster_id": 100031,
+            "monster_name": "Hoplitai - Tụ Năng",
+            "card_text": "Tuy Hoplitai được Hiệp Hội Điều Tra Lỗ Hổng xếp vào loại Ethereal có \"mối đe dọa thấp\", nhưng nó vẫn là đối thủ đáng gờm của điều tra viên và Đạo Tặc Lỗ Hổng non nớt.\nChi trước của nó được bao phủ bởi lớp vật chất Ether trơ dày, vừa làm một lá chắn cứng rắn, vừa là vũ khí tấn công mạnh mẽ.\nNhược điểm duy nhất... chính là khiến nó đầu nặng chân nhẹ, trông không mấy thông minh.\n\"Các vị mời xem... Thứ đáng thương này, chính là Hoplitai.\"\n\"Khi các Ethereal tụ tập chơi kéo búa bao, tên ngốc này chỉ có thể ra cái bao!\"",
+            "card_quote": "- Sở Thú Lỗ Hổng, về tiết mục đặc biệt của Hoplitai",
+            "skill_text": "Trong chiến đấu, Hoplitai sẽ tận dụng cánh tay khiên chắn để xung phong hoặc chống đỡ tấn công."
+        },
+        "100041": {
+            "monster_id": 100041,
+            "monster_name": "Blast Spider - Tụ Năng",
+            "card_text": "Trong báo cáo nghiên cứu của Hiệp Hội Điều Tra Lỗ Hổng, Blast Spider có tốc độ di chuyển thấp, chỉ gây ra vụ nổ nhỏ được định nghĩa là Ethereal cấp thấp có \"mối đe dọa thấp\", \"không cần chú ý\".\nNhưng một số thương nhân nhạy bén đã phát hiện ra cơ hội kinh doanh từ thân hình tròn trĩnh và đôi chân ngắn của nó.\nCùng với sự ăn khách của bộ phim \"Xoay Tròn Nào, Blast Spider\", các sản phẩm đi kèm với nó như thú nhồi bông, gối ôm đều cháy hàng.\n\"Không ngờ thú nhồi bông của chúng còn có tính sát thương cao hơn cả chúng... Billy, tháng sau tôi chỉ có thể ăn mì gói thôi...\"",
+            "card_quote": "- Trước máy gắp thú ở phố mua sắm, Anby đang kiểm tra ví tiền",
+            "skill_text": "Trong chiến đấu, Blast Spider sẽ thực hiện tự nổ tấn công."
+        },
+        "100141": {
+            "monster_id": 100141,
+            "monster_name": "Mandrake - Tụ Năng",
+            "card_text": "Tên của Mandrake bắt nguồn từ một loại thực vật có chứa chất độc. Học giả đặt tên cho nó ban đầu chỉ là dựa vào hình dáng bên ngoài, cho rằng hai loại này có điểm tương đồng.\nKhi Mandrake \"nở rộ\", sẽ phóng ra những tia nhiệt năng, tấn công các mục tiêu xung quanh; còn những \"chiếc lá\" cứng sẽ bám sát mặt đất, như thể không muốn bị nhổ bật gốc. Đôi khi nó sẽ dùng \"chiếc lá\" tấn công kẻ địch đến gần để tự vệ.\nGiống như cỏ Mandrake trong truyền thuyết, \"sự khóc lóc\" của chúng đều là đòn chí mạng.\n\"Đợi đã, đừng qua đó! Nó sắp nở hoa rồi!\"",
+            "card_quote": "- Mandrake đang nở rộ trong phim \"Nỗi Sợ Sâu Thẳm\"",
+            "skill_text": "Trong chiến đấu, Mandrake khác nhau sẽ cung cấp buff tấn công/điểm khiên cho các đơn vị xung quanh theo chu kỳ."
+        },
+        "100251": {
+            "monster_id": 100251,
+            "monster_name": "Ác Linh - Tụ Năng",
+            "card_text": "\"Ác Linh\" giữ tư thế đứng im và do hình dáng độc đáo, kỳ quái nên thường bị nhầm là một bức tượng nghệ thuật trong Tòa Nhà Ballet.\nVì vậy có nhiều điều tra viên mới vào nghề lần đầu gặp phải \"Ác Linh\" đều để lại ám ảnh tâm lý khó quên cả đời...\nBản thân vừa đi ngang qua một \"bức tượng\" thì nó đột nhiên động đậy...\nKhoảnh khắc đối phương hoảng hốt ngây người, chính là thời điểm tốt nhất để \"Ác Linh\" tung đòn tấn công bất ngờ.\n\"Corin, đừng để vẻ ngoài của nó hù dọa... Đó không phải tác phẩm nghệ thuật quý giá gì đâu.\"\n\"Bây giờ, hãy bắt tay \"dọn dẹp\" đi.\"",
+            "card_quote": "...Lycaon đang hướng dẫn Corin thực hiện công việc \"quét dọn\"",
+            "skill_text": "Trong chiến đấu, Ác Linh sẽ thực hiện đột kích nhanh, thỉnh thoảng còn phối hợp với Ác Linh khác để phát động hợp tác tấn công."
+        },
+        "100261": {
+            "monster_id": 100261,
+            "monster_name": "U Hồn - Tụ Năng",
+            "card_text": "Dường như bị ảnh hưởng bởi bầu không khí trang hoàng độc đáo bên trong Tòa Nhà Ballet, \"U Hồn\" có cấu trúc cơ thể kỳ lạ và méo mó giống như tác phẩm nghệ thuật.\nCó một số điều tra viên cho rằng nó có hình dạng đặc biệt là để bảo vệ Lõi Ether của mình tốt hơn.\nNhưng đa số điều tra viên lại khẳng định rằng tất cả chỉ là mánh lới nhằm thu hút sự chú ý của kẻ địch. Khi kẻ địch bị mê hoặc bởi tư thế kỳ lạ của nó, \"U Hồn\" sẽ không ngần ngại dùng Ether cô đặc để phát động tấn công đối phương từ xa.\n\"Tôi nhìn dáng vẻ của nó và khựng lại một lúc: Lẽ nào nó muốn dùng đầu của mình để chơi bowling?\"\n\"Nhưng còn chưa kịp nghĩ ra thì \"quả bóng bowling\" của nó đã đập vào mặt tôi...\"",
+            "card_quote": "...Bài đăng của tài khoản ẩn danh nào đó trên Inter-Knot",
+            "skill_text": "Trong chiến đấu, U Hồn sẽ thực hiện tấn công từ xa liên tục không dứt trong một thời gian ngắn."
+        },
+        "100301": {
+            "monster_id": 100301,
+            "monster_name": "Fossor - Tụ Năng",
+            "card_text": "Nghiên cứu mới nhất của Học Viện White Star cho thấy, bộ phận cơ thể của một số Ethereal sẽ mang đặc trưng của môi trường xung quanh. Và Fossor chính là một ví dụ điển hình trong số đó, chi trước kỳ lạ của nó nhìn cực kỳ ngầu như thiết bị khai thác của Khu Giếng Dầu Cũ.\nTuy có người cho rằng đây là một chiến lược ngụy trang để mê hoặc kẻ địch, nhưng cũng có người chỉ ra rằng, cách thức chiến đấu của Fossor rất mạnh mẽ, trông không giống thuộc sở trường phục kích đánh lén.\nVà một số Đạo Tặc Lỗ Hổng có trí tưởng tượng phong phú thì cho rằng, có lẽ nó chỉ muốn đi đào khoáng ở khắp nơi, nên mới hình thành bộ dạng như thế...\n\"Lúc tôi nhìn thấy nó từ xa, hình như nó đang vui vẻ cắm đầu đào nhựa đường...\"\n\"Sau khi nó phát hiện ra tôi, thì đã không do dự mà lao đến chỗ tôi, liều mình muốn đuổi tôi đi chỗ khác...\"\n\"Nhưng mà tôi thực sự chỉ đi ngang qua thôi, tuyệt đối không hề có ý định tranh giành ba cái thứ tạp nham đó với nó đâu!\"",
+            "card_quote": "- Bên ngoài Lỗ Hổng, một Đạo Tặc Lỗ Hổng mới vào nghề đang kể lại với bạn đồng hành về những gì xảy ra ban nãy",
+            "skill_text": "Trong chiến đấu, Fossor sẽ thực hiện chém liên tục bằng hai tay."
+        },
+        "100311": {
+            "monster_id": 100311,
+            "monster_name": "Sordidus - Tụ Năng",
+            "card_text": "Trong Lỗ Hổng ở vành đai ngoài có rất nhiều loại Ethereal kỳ lạ, và Sordidus là một ví dụ điển hình.\nChúng có cấu trúc cơ thể đặc thù, các chi có thể vươn dài và rút ngắn một cách rất tự nhiên, có vẻ như là sản vật của một phản ứng chưa rõ nào đó giữa dầu nặng và hoạt tính Ether.\nSau khi nhắm trúng mục tiêu, chúng sẽ vung các chi của mình để thực hiện đòn tấn công hung hãn và mạnh mẽ giống như một diễn viên tạp kỹ điêu luyện.\n\"Đáng ghét... cái tên này dám lấy roi quất tôi!\"\n\"Chẳng lẽ nó tưởng bản thân nó là một nhà huấn luyện thú, rồi xem chúng ta như một loại dã thú hung ác nào đó sao?\"",
+            "card_quote": "- Trong Lỗ Hổng, một nhóm Đạo Tặc Lỗ Hổng mới vào nghề đang đối phó với Sordidus",
+            "skill_text": "Trong chiến đấu, Sordidus sẽ vung xúc tu của mình để quất ở cự ly gần hoặc cắm xúc tu xuống đất để đánh lén tầm xa."
+        },
+        "200001": {
+            "monster_id": 200001,
+            "monster_name": "Farbauti - Tụ Năng",
+            "card_text": "Có sức mạnh tuyệt đối và thường xuyên ở trạng thái cuồng bạo, Farbauti là một trong những mối đe dọa rắc rối nhất với Đạo Tặc Lỗ Hổng. Cánh tay vạm vỡ như chiếc búa hạng nặng của nó có thể dễ dàng đỡ đòn, đồng thời còn có thể tung ra những đòn đánh liên tục như vũ bão, dễ dàng nghiền nát mọi thứ trước mắt.\nCó Đạo Tặc Lỗ Hổng phát hiện Farbauti thường đập xuống đất với tiết tấu nhịp nhàng và có tần suất cao, từ đó suy đoán rằng Farbauti có hứng thú với âm nhạc loại đánh trống.\nMặc dù Hội Học Thuật Điều Tra Lỗ Hổng đã từng công khai bác bỏ tin đồn, vẫn có nhiều Đạo Tặc Lỗ Hổng mang theo loa nhỏ khi vào Lỗ Hổng, để tiện ném ra khi gặp Farbauti nhằm dùng âm nhạc thu hút sự chú ý của nó.\nNhưng cho đến nay chưa ai thành công trốn thoát bằng cách này cả.\n\"Lý do thất bại rất đơn giản: Ngay cả Farbauti cũng cho rằng gu âm nhạc của các người quá tệ!\"",
+            "card_quote": "- Bài đăng của người dùng \"Ngón Tay Thép\" trên \"Diễn Đàn Nhạc Rock Black-Sweeper\"",
+            "skill_text": "Trong chiến đấu, Farbauti có thiên hướng tận dụng cánh tay lực lưỡng phát động những đòn đấm liên tục, nhưng khi cánh tay bị thương ở mức nhất định cũng sẽ bị chao đảo."
+        },
+        "200004": {
+            "monster_id": 200004,
+            "monster_name": "Thể Ion - Farbauti",
+            "card_text": "Có sức mạnh tuyệt đối và thường xuyên ở trạng thái cuồng bạo, Farbauti là một trong những mối đe dọa rắc rối nhất với Đạo Tặc Lỗ Hổng. Cánh tay vạm vỡ như chiếc búa hạng nặng của nó có thể dễ dàng đỡ đòn, đồng thời còn có thể tung ra những đòn đánh liên tục như vũ bão, dễ dàng nghiền nát mọi thứ trước mắt.\nCó Đạo Tặc Lỗ Hổng phát hiện Farbauti thường đập xuống đất với tiết tấu nhịp nhàng và có tần suất cao, từ đó suy đoán rằng Farbauti có hứng thú với âm nhạc loại đánh trống.\nMặc dù Hội Học Thuật Điều Tra Lỗ Hổng đã từng công khai bác bỏ tin đồn, vẫn có nhiều Đạo Tặc Lỗ Hổng mang theo loa nhỏ khi vào Lỗ Hổng, để tiện ném ra khi gặp Farbauti nhằm dùng âm nhạc thu hút sự chú ý của nó.\nNhưng cho đến nay chưa ai thành công trốn thoát bằng cách này cả.\n\"Lý do thất bại rất đơn giản: Ngay cả Farbauti cũng cho rằng gu âm nhạc của các người quá tệ!\"",
+            "card_quote": "- Bài đăng của người dùng \"Ngón Tay Thép\" trên \"Diễn Đàn Nhạc Rock Black-Sweeper\"",
+            "skill_text": "Trong chiến đấu, Thể Ion - Farbauti có thiên hướng tận dụng cánh tay lực lưỡng phát động những đòn đấm liên tục, nhưng khi cánh tay bị thương ở mức nhất định cũng sẽ bị chao đảo. Ngoài ra, nó sẽ tích tụ Năng Lượng trong thời gian dài, phát động đòn nhảy lên tấn công mạnh mẽ."
+        },
+        "200011": {
+            "monster_id": 200011,
+            "monster_name": "Hati - Tụ Năng",
+            "card_text": "Cá thể Ether sống, trông giống như một con thú bốn chân nhưng có trí thông minh, vô cùng nguy hiểm. Nó được ghi nhận bởi đội điều tra giai đoạn 1 của Hiệp Hội Điều Tra Lỗ Hổng.\nNghe nói lần đầu nhìn thấy nó là ở trong Lỗ Hổng Hang Ổ, những người lang thang ở vùng hoang vu gần đó đồn nhau rằng đã nghe thấy tiếng gầm chói tai, tựa như tiếng thú rừng gào rú.\n\"Nếu tôi ném một cây gậy hoặc một quả bóng ra, thì con quái vật này có đi nhặt nó không?\"\n\"Thử đi, nhưng tôi không thanh toán viện phí đâu đấy.\"",
+            "card_quote": "- Cuộc trò chuyện giữa Billy và Nicole",
+            "skill_text": "Trong chiến đấu, Hati sẽ sử dụng cú vồ linh hoạt và đòn tấn công nhanh bằng móng vuốt."
+        },
+        "200014": {
+            "monster_id": 200014,
+            "monster_name": "Ác Danh - Hati",
+            "card_text": "Cá thể Ether sống, trông giống như một con thú bốn chân nhưng có trí thông minh, vô cùng nguy hiểm. Nó được ghi nhận bởi đội điều tra giai đoạn 1 của Hiệp Hội Điều Tra Lỗ Hổng.\nNghe nói lần đầu nhìn thấy nó là ở trong Lỗ Hổng Hang Ổ, những người lang thang ở vùng hoang vu gần đó đồn nhau rằng đã nghe thấy tiếng gầm chói tai, tựa như tiếng thú rừng gào rú.\n\"Nếu tôi ném một cây gậy hoặc một quả bóng ra, thì con quái vật này có đi nhặt nó không?\"\n\"Thử đi, nhưng tôi không thanh toán viện phí đâu đấy.\"",
+            "card_quote": "- Cuộc trò chuyện giữa Billy và Nicole",
+            "skill_text": null
+        },
+        "200015": {
+            "monster_id": 200015,
+            "monster_name": "Hati Đầu Đàn - Tụ Năng",
+            "card_text": "Cá thể Ether sống, trông giống như một con thú bốn chân nhưng có trí thông minh, vô cùng nguy hiểm. Nó được ghi nhận bởi đội điều tra giai đoạn 1 của Hiệp Hội Điều Tra Lỗ Hổng.\nNghe nói lần đầu nhìn thấy nó là ở trong Lỗ Hổng Hang Ổ, những người lang thang ở vùng hoang vu gần đó đồn nhau rằng đã nghe thấy tiếng gầm chói tai, tựa như tiếng thú rừng gào rú.\n\"Nếu tôi ném một cây gậy hoặc một quả bóng ra, thì con quái vật này có đi nhặt nó không?\"\n\"Thử đi, nhưng tôi không thanh toán viện phí đâu đấy.\"",
+            "card_quote": "- Cuộc trò chuyện giữa Billy và Nicole",
+            "skill_text": "Trong chiến đấu, Hati Đầu Đàn sẽ có ham muốn tấn công mạnh mẽ, chiêu thức linh hoạt và mãnh liệt."
+        },
+        "200021": {
+            "monster_id": 200021,
+            "monster_name": "Goblin - Tụ Năng",
+            "card_text": "Lần đầu gặp Ethereal đặc biệt này, Nhân Viên Điều Tra Lỗ Hổng đã lầm tưởng rằng chúng có trí thông minh nhất định, thậm chí có thể học được cách con người sử dụng vũ khí như búa và gậy nên đặt tên cho chúng là \"Goblin\".\nTuy nhiên, dữ liệu sau đó xác nhận rằng cái gọi là \"vũ khí\" chỉ là những chi vặn vẹo biến dị của chúng, chúng không có khả năng bắt chước con người.\nNhưng cho dù vậy, Goblin vẫn là một đối thủ khó nhằn, thể chất mạnh mẽ và sức mạnh tàn bạo của chúng có thể khiến ngay cả những nhát chém đơn giản nhất cũng trở nên vô cùng nguy hiểm.\nMột khi có bất cứ thứ gì xâm phạm vào lãnh thổ của chúng, chúng sẽ tiến vào trạng thái giận dữ và bất chấp tất cả đập tan kẻ khiêu khích trước mặt.\n\"Ối? Có một con Goblin chạy tới và đập vào một đống sắt vụn.\"\n\"Tôi luôn cảm thấy đòn tấn công của tên này rất nhịp nhàng, đùng đùng đùng, như đang đánh trống vậy...\"\n\"Này! Hai người đừng có ngây ra đó nữa! Thứ nó đập không phải sắt vụn, mà là xe vật tư của chúng ta!\"",
+            "card_quote": "- Một con Goblin xông vào căn cứ tạm thời của băng cướp trong Lỗ Hổng",
+            "skill_text": "Trong chiến đấu, Goblin sẽ phát ra tiếng hống cường hóa bản thân, tăng sát thương bản thân gây ra và giảm mạnh sát thương bản thân phải chịu, nhưng hiệu quả này sẽ vô hiệu khi hắn bị Choáng."
+        },
+        "200031": {
+            "monster_id": 200031,
+            "monster_name": "Hati Bọc Giáp - Tụ Năng",
+            "card_text": "Nhiều Nhân Viên Điều Tra Lỗ Hổng dày dặn kinh nghiệm cho rằng Hati Bọc Giáp là một trong những Ethereal khó nhằn nhất.\nTuy lớp vỏ giáp dày khiến nó mất đi tính linh hoạt, nhưng đổi lại là khả năng chịu đòn mạnh mẽ.\nĐồng thời, chất ăn mòn trên cơ thể nó có những phần sắc nhọn cứng cáp nhô ra, có thể gây thêm vết xước cho kẻ địch khi Hati Bọc Giáp va chạm với tốc độ cao.\nĐộng tác nhanh nhẹn, khả năng chống chịu đòn cao, toàn thân gần như không có sơ hở... Bất kỳ một đặc điểm nào của Hati Bọc Giáp cũng đủ khiến một tay lão luyện phải cau mày, dứt khoát đi đường vòng để tránh nó.\nNghe nói có một số Đạo Tặc Lỗ Hổng non nớt thiếu kinh nghiệm sẽ cố gắng dụ Hati Bọc Giáp rời đi bằng thức ăn cho thú cưng.\nNhưng đây rõ ràng là một nỗ lực vô ích.\n\"Chạy mau! Nó không thích mùi thức ăn cho chó này!\"",
+            "card_quote": "- Trong Lỗ Hổng, vài Đạo Tặc Lỗ Hổng non nớt đang hoảng hốt chạy trốn Hati",
+            "skill_text": "Trong chiến đấu, giáp của Hati Bọc Giáp sẽ giảm mạnh sát thương và Điểm Choáng mà nó phải chịu, nhưng Hỗ Trợ Chống Đỡ sẽ giảm mạnh điểm giáp của nó."
+        },
+        "200034": {
+            "monster_id": 200034,
+            "monster_name": "Ác Danh - Hati Bọc Giáp",
+            "card_text": "Nhiều Nhân Viên Điều Tra Lỗ Hổng dày dặn kinh nghiệm cho rằng Hati Bọc Giáp là một trong những Ethereal khó nhằn nhất.\nTuy lớp vỏ giáp dày khiến nó mất đi tính linh hoạt, nhưng đổi lại là khả năng chịu đòn mạnh mẽ.\nĐồng thời, chất ăn mòn trên cơ thể nó có những phần sắc nhọn cứng cáp nhô ra, có thể gây thêm vết xước cho kẻ địch khi Hati Bọc Giáp va chạm với tốc độ cao.\nĐộng tác nhanh nhẹn, khả năng chống chịu đòn cao, toàn thân gần như không có sơ hở... Bất kỳ một đặc điểm nào của Hati Bọc Giáp cũng đủ khiến một tay lão luyện phải cau mày, dứt khoát đi đường vòng để tránh nó.\nNghe nói có một số Đạo Tặc Lỗ Hổng non nớt thiếu kinh nghiệm sẽ cố gắng dụ Hati Bọc Giáp rời đi bằng thức ăn cho thú cưng.\nNhưng đây rõ ràng là một nỗ lực vô ích.\n\"Chạy mau! Nó không thích mùi thức ăn cho chó này!\"",
+            "card_quote": "- Trong Lỗ Hổng, vài Đạo Tặc Lỗ Hổng non nớt đang hoảng hốt chạy trốn Hati",
+            "skill_text": "Trong chiến đấu, giáp của Ác Danh - Hati Bọc Giáp sẽ giảm mạnh sát thương và Điểm Choáng mà nó phải chịu, nhưng Hỗ Trợ Chống Đỡ sẽ giảm mạnh điểm giáp của nó. Ngoài ra, sau khi hống nó sẽ bắn ra Đạn Ether mạnh hơn bình thường."
+        },
+        "200041": {
+            "monster_id": 200041,
+            "monster_name": "Goblin Đường Sắt - Tụ Năng",
+            "card_text": "Tranh cãi về Goblin Đường Sắt chưa bao giờ dừng lại. Một số học giả cho rằng nó cố tình tạo ra dáng vẻ kỳ dị của mình để mê hoặc kẻ địch; trong khi các học giả khác lại cho rằng những thứ linh tinh trên người nó chỉ là thiết bị tàu điện ngầm cũ bị ăn mòn và bị dung hợp làm một với Ethereal.\nNhưng dù thế nào đi nữa, sự tồn tại của Goblin Đường Sắt luôn khiến những điều tra viên mới phải khiếp sợ khi bước vào khu vực tàu điện ngầm cũ của Lỗ Hổng.\nNói không chừng khoảnh khắc tiếp theo, \"biển báo\" bình thường bên cạnh sẽ bắt đầu rung chuyển, sau đó một con Ethereal to lớn đáng sợ sẽ xông ra khỏi mặt đất và lao về phía mình.\n\"Ơ? Mấy phút trước tôi đã nhìn thấy biển báo này rồi. Lẽ nào chúng ta lạc đường và nãy giờ vẫn đi lòng vòng sao?\"\n\"Không, không đúng... nó đang đi theo chúng ta!\"",
+            "card_quote": "...Trong phim kinh dị \"Lạc Lối Vô Tận\", nhân vật chính đang tìm cách thoát khỏi Lỗ Hổng",
+            "skill_text": "Trong chiến đấu, Goblin sẽ phát ra tiếng hống cường hóa bản thân, tăng sát thương bản thân gây ra và giảm mạnh sát thương bản thân phải chịu, nhưng hiệu quả này sẽ vô hiệu khi hắn bị Choáng."
+        },
+        "200051": {
+            "monster_id": 200051,
+            "monster_name": "Arlaune - Tụ Năng",
+            "card_text": "Nhiều Đạo Tặc Lỗ Hổng non nớt lần đầu thấy Arlaune thường bị vẻ ngoài của đối phương đánh lừa, cho rằng nó là loài thực vật vô hại.\nNhưng khi có người đến gần, nó sẽ đột nhiên rung chuyển và liên tục phóng ra chất Ether nồng độ cao để tấn công đối phương.\n\"Ối? Tôi muốn tưới nước cho nó mà nó lại nhổ nước bọt vào tôi?\"",
+            "card_quote": "- Trong Lỗ Hổng, một nhóm điều tra viên mới vào nghề bị Arlaune tập kích",
+            "skill_text": "Trong chiến đấu, Arlaune cực kỳ xảo quyệt, có thiên hướng tấn công từ xa, khi cánh hoa nở ra, đánh cho nó rơi vào trạng thái Chao Đảo sẽ có thể tích lũy nhiều Điểm Choáng trong một lần."
+        },
+        "300001": {
+            "monster_id": 300001,
+            "monster_name": "Dullahan - Tụ Năng",
+            "card_text": "Ether sống hình người mạnh mẽ, lần đầu tiên được phát hiện ở Lỗ Hổng Laketown, được ghi nhận bởi đội điều tra giai đoạn 3 của Hiệp Hội Điều Tra Lỗ Hổng. Hiện tại chưa rõ sự ra đời của loại Ether này có liên quan gì đến sự sụp đổ của thị trấn ven hồ với tên gọi là thị trấn Blaise.\nXét thấy sức mạnh to lớn và lối đánh thông minh nên Hiệp Hội Điều Tra Lỗ Hổng đánh giá nó tương đối nguy hiểm, các điều tra viên non nớt nên tránh xung đột trực tiếp với nó.\n\"Đừng để nó thắp sáng thanh kiếm đó, nếu đã được thắp sáng... vậy thì đừng để nó chém trúng.\"",
+            "card_quote": "...Trích từ buổi phỏng vấn đặc biệt của điều tra viên trong chương trình giải trí \"Tiền Bối, Hãy Dạy Tôi!\"",
+            "skill_text": "Trong chiến đấu, Dullahan sẽ lợi dụng thanh kiếm dài để thực hiện đòn đâm tụ lực mức độ cao, trong quá trình tụ lực, dùng đòn tấn công mạnh lên hắn sẽ có thể gián đoạn quá trình tụ lực."
+        },
+        "300002": {
+            "monster_id": 300002,
+            "monster_name": "Dullahan Sơ Sinh",
+            "card_text": "Ether sống hình người mạnh mẽ, lần đầu tiên được phát hiện ở Lỗ Hổng Laketown, được ghi nhận bởi đội điều tra giai đoạn 3 của Hiệp Hội Điều Tra Lỗ Hổng. Hiện tại chưa rõ sự ra đời của loại Ether này có liên quan gì đến sự sụp đổ của thị trấn ven hồ với tên gọi là thị trấn Blaise.\nXét thấy sức mạnh to lớn và lối đánh thông minh nên Hiệp Hội Điều Tra Lỗ Hổng đánh giá nó tương đối nguy hiểm, các điều tra viên non nớt nên tránh xung đột trực tiếp với nó.\n\"Đừng để nó thắp sáng thanh kiếm đó, nếu đã được thắp sáng... vậy thì đừng để nó chém trúng.\"",
+            "card_quote": "...Trích từ buổi phỏng vấn đặc biệt của điều tra viên trong chương trình giải trí \"Tiền Bối, Hãy Dạy Tôi!\"",
+            "skill_text": "Trong chiến đấu, Dullahan sẽ lợi dụng thanh kiếm dài để thực hiện đòn đâm tụ lực mức độ cao, trong quá trình tụ lực, dùng đòn tấn công mạnh lên hắn sẽ có thể gián đoạn quá trình tụ lực."
+        },
+        "300004": {
+            "monster_id": 300004,
+            "monster_name": "Thể Ion - Dullahan",
+            "card_text": "Ether sống hình người mạnh mẽ, lần đầu tiên được phát hiện ở Lỗ Hổng Laketown, được ghi nhận bởi đội điều tra giai đoạn 3 của Hiệp Hội Điều Tra Lỗ Hổng. Hiện tại chưa rõ sự ra đời của loại Ether này có liên quan gì đến sự sụp đổ của thị trấn ven hồ với tên gọi là thị trấn Blaise.\nXét thấy sức mạnh to lớn và lối đánh thông minh nên Hiệp Hội Điều Tra Lỗ Hổng đánh giá nó tương đối nguy hiểm, các điều tra viên non nớt nên tránh xung đột trực tiếp với nó.\n\"Đừng để nó thắp sáng thanh kiếm đó, nếu đã được thắp sáng... vậy thì đừng để nó chém trúng.\"",
+            "card_quote": "- Trích từ buổi phỏng vấn đặc biệt với điều tra viên trong chương trình giải trí \"Tiền Bối, Hãy Dạy Tôi!\"",
+            "skill_text": "Trong chiến đấu, Thể Ion - Dullahan sẽ lợi dụng thanh kiếm dài để thực hiện đòn đâm tụ lực mức độ cao, trong quá trình tụ lực, dùng đòn tấn công mạnh lên hắn sẽ có thể gián đoạn quá trình tụ lực. Ngoài ra, sau khi dùng một số chiêu thức, có thể tích lũy Năng Lượng Ether để thêm đòn tấn công bùng nổ."
+        },
+        "300005": {
+            "monster_id": 300005,
+            "monster_name": "Ác Danh - Dullahan",
+            "card_text": "Ether sống hình người mạnh mẽ, lần đầu tiên được phát hiện ở Lỗ Hổng Laketown, được ghi nhận bởi đội điều tra giai đoạn 3 của Hiệp Hội Điều Tra Lỗ Hổng. Hiện tại chưa rõ sự ra đời của loại Ether này có liên quan gì đến sự sụp đổ của thị trấn ven hồ với tên gọi là thị trấn Blaise.\nXét thấy sức mạnh to lớn và lối đánh thông minh nên Hiệp Hội Điều Tra Lỗ Hổng đánh giá nó tương đối nguy hiểm, các điều tra viên non nớt nên tránh xung đột trực tiếp với nó.\n\"Đừng để nó thắp sáng thanh kiếm đó, nếu đã được thắp sáng... vậy thì đừng để nó chém trúng.\"",
+            "card_quote": "- Trích từ buổi phỏng vấn đặc biệt với điều tra viên trong chương trình giải trí \"Tiền Bối, Hãy Dạy Tôi!\"",
+            "skill_text": "Trong chiến đấu, Ác Danh - Dullahan sẽ lợi dụng thanh kiếm dài để thực hiện đòn đâm tụ lực mức độ cao, trong quá trình tụ lực, dùng đòn tấn công mạnh lên hắn sẽ có thể gián đoạn quá trình tụ lực. Ngoài ra, Ác Danh - Dullahan có sở trường dùng khiên chống đỡ, đồng thời sau khi chống đỡ sẽ nhanh chóng sinh ra chiêu thức kế tiếp."
+        },
+        "300011": {
+            "monster_id": 300011,
+            "monster_name": "Thanatos - Tụ Năng",
+            "card_text": "Khám phá Lỗ Hổng sẽ gây áp lực tinh thần rất lớn cho con người, và Thanatos với khả năng dịch chuyển tức thời kỳ lạ cùng cách chém khó nắm bắt, đã trở thành ám ảnh tâm lý chung của Đạo Tặc Lỗ Hổng.\nNhiều người sau khi một mình đối mặt với Thanatos ở Lỗ Hổng, đã mất hết dũng khí để tiến vào Lỗ Hổng lần nữa và chọn cách bỏ nghề.\nHình tượng của chúng cũng đã trở thành khách mời thường xuyên trong các bộ phim kinh dị.\n\"Chiếc bóng phản chiếu mảnh mai biến mất trước mắt, rồi lập tức xuất hiện ở phía sau lưng...\"\n\"Phải làm sao đây? Bây giờ tôi không dám đi vệ sinh một mình nữa...\"",
+            "card_quote": "- Trong đêm phim kinh dị \"Ethereal Gõ Cửa\" công chiếu, bài đăng thảo luận hot trên trang mạng phê bình \"Copper Plum\"",
+            "skill_text": "Trong chiến đấu, Thanatos sẽ tận dụng khả năng xuất hiện đột ngột, tìm kiếm góc độ khó đỡ để thực hiện tấn công, nhưng khi hắn chịu phải Hỗ Trợ Chống Đỡ và Đột Kích Chi Viện, tích lũy Điểm Choáng sẽ cực kỳ cao."
+        },
+        "300014": {
+            "monster_id": 300014,
+            "monster_name": "Thể Ion - Thanatos",
+            "card_text": "Khám phá Lỗ Hổng sẽ gây áp lực tinh thần rất lớn cho con người, và Thanatos với khả năng dịch chuyển tức thời kỳ lạ cùng cách chém khó nắm bắt, đã trở thành ám ảnh tâm lý chung của Đạo Tặc Lỗ Hổng.\nNhiều người sau khi một mình đối mặt với Thanatos ở Lỗ Hổng, đã mất hết dũng khí để tiến vào Lỗ Hổng lần nữa và chọn cách bỏ nghề.\nHình tượng của chúng cũng đã trở thành khách mời thường xuyên trong các bộ phim kinh dị.\n\"Chiếc bóng phản chiếu mảnh mai biến mất trước mắt, rồi lập tức xuất hiện ở phía sau lưng...\"\n\"Phải làm sao đây? Bây giờ tôi không dám đi vệ sinh một mình nữa...\"",
+            "card_quote": "- Vào đêm công chiếu phim kinh dị \"Ethereal Gõ Cửa\", bài thảo luận hot trên trang phê bình điện ảnh \"Copper Plum\"",
+            "skill_text": "Trong chiến đấu, Thể Ion - Thanatos sẽ tận dụng khả năng xuất hiện đột ngột, tìm kiếm góc độ khó đỡ để thực hiện tấn công, nhưng khi hắn chịu phải Hỗ Trợ Chống Đỡ và Đột Kích Chi Viện, tích lũy Điểm Choáng sẽ cực kỳ cao."
+        },
+        "300015": {
+            "monster_id": 300015,
+            "monster_name": "Ác Danh - Thanatos",
+            "card_text": "Khám phá Lỗ Hổng sẽ gây áp lực tinh thần rất lớn cho con người, và Thanatos với khả năng dịch chuyển tức thời kỳ lạ cùng cách chém khó nắm bắt, đã trở thành ám ảnh tâm lý chung của Đạo Tặc Lỗ Hổng.\nNhiều người sau khi một mình đối mặt với Thanatos ở Lỗ Hổng, đã mất hết dũng khí để tiến vào Lỗ Hổng lần nữa và chọn cách bỏ nghề.\nHình tượng của chúng cũng đã trở thành khách mời thường xuyên trong các bộ phim kinh dị.\n\"Chiếc bóng phản chiếu mảnh mai biến mất trước mắt, rồi lập tức xuất hiện ở phía sau lưng...\"\n\"Phải làm sao đây? Bây giờ tôi không dám đi vệ sinh một mình nữa...\"",
+            "card_quote": "- Vào đêm công chiếu phim kinh dị \"Ethereal Gõ Cửa\", bài thảo luận hot trên trang phê bình điện ảnh \"Copper Plum\"",
+            "skill_text": "Trong chiến đấu, Ác Danh - Thanatos sẽ tận dụng khả năng xuất hiện đột ngột, tìm kiếm góc độ khó đỡ để thực hiện tấn công, đồng thời thế tấn công cực kỳ hung hãn, nhưng khi hắn chịu phải Hỗ Trợ Chống Đỡ và Đột Kích Chi Viện, tích lũy Điểm Choáng sẽ cực kỳ cao."
+        },
+        "300071": {
+            "monster_id": 300071,
+            "monster_name": "Đồ Tể Đường Cùng Sơ Sinh",
+            "card_text": "Khác với những Ethereal có mối đe dọa cao khác, tuy \"Đồ Tể Đường Cùng\" có thể hình khổng lồ đáng sợ nhưng Ether trong cơ thể nó thường ở trạng thái ngừng hoạt tính thấp.\nMặc dù vậy, \"Đồ Tể Đường Cùng\" vẫn sở hữu sức mạnh tàn bạo xé nát mọi chướng ngại vật; Toàn bộ khu vực tàu điện ngầm vặn vẹo hỏng hóc là \"cấm địa sau bếp\" của nó.\nVà khi một mục tiêu đe dọa khơi dậy hứng thú mạnh mẽ của \"Đồ Tể Đường Cùng\", sự biến chất đáng sợ sẽ xảy ra trong nháy mắt...\nEther nồng độ cao nó tích lũy trong cơ thể sẽ trở nên mạnh mẽ trong vài mili giây, năng lượng tăng theo cấp số nhân khiến các chi của nó nhanh chóng biến dạng, trở thành \"tư thế ăn uống\" bạo lực và tham lam hơn.\nĐiều này cũng có nghĩa là \"thời gian khai vị\" đã kết thúc, một \"bữa tiệc linh đình\" có một không hai đã chính thức bắt đầu.\nNếu không muốn trở thành một phần của \"bữa tiệc\" này, các Đạo Tặc Lỗ Hổng vô tình lạc vào đây phải chọn đường đi thật cẩn thận và tránh xa \"khu bếp sau\" của nó càng xa càng tốt...\n\"Đường đi trong Lỗ Hổng này khá phức tạp, nhưng điều có thể chắc chắn là khi \"nó\" xuất hiện ở cuối đường, con đường này chính là \"đường cùng\".\"",
+            "card_quote": "...Ghi chép điều tra số 17 về Lỗ Hổng Đường Cùng của Hiệp Hội Điều Tra Lỗ Hổng",
+            "skill_text": "Trong chiến đấu, cách thức tấn công của Đồ Tể Đường Cùng Sơ Sinh biến hóa khá nhiều, sau khi chịu một lượng sát thương nhất định sẽ vào giai đoạn hai. Trong giai đoạn hai, tấn công của hắn sẽ càng điên cuồng hơn, và có thể dùng laser tấn công. Trong giai đoạn hai, sau khi đòn tấn công liên tục và điên cuồng của hắn kết thúc, thực hiện tấn công mạnh lên hắn sẽ kích hoạt thêm Chao Đảo cho hắn. Đồ Tể Đường Cùng Sơ Sinh có thiên hướng thực hiện né linh hoạt, từ đó né tránh tấn công của kẻ địch."
+        }
+    },
+    "Côn Đồ": {
+        "10015": {
+            "monster_id": 10015,
+            "monster_name": "Kẻ Cướp Đoạt",
+            "card_text": "Trong số các băng nhóm trộm cướp Ether, \"Kẻ Cướp Đoạt\" và \"Kẻ Cướp Bóc\" là thành viên nòng cốt có kỹ thuật và năng lực chiến đấu.\n\"Thiết bị dò cộng hưởng điện lưu\" của chúng có thể dùng dòng điện mạnh để phát hiện ra quặng Ether, tiện cho việc triển khai công tác sau đó; khi tham gia hành động cướp đoạt vũ trang, cũng có thể tăng điện áp làm vũ khí có uy lực cao.\nDù đôi khi bị tưởng nhầm là ngư dân đánh cá trái phép, nhưng chúng cũng không quan tâm lắm.\nDù sao thì chỉ cần tăng điện áp lên giới hạn, dù đối thủ là người hay cá, đều không có gì khác biệt...\n\"Dù là ao hồ sông suối, hay là xung quanh Lỗ Hổng, nếu nhìn thấy có người cầm cây chích điện cá, hãy trực tiếp báo với Cục Trị An!\"",
+            "card_quote": "- Cục Trị An New Eridu, khẩu hiệu được phát liên tục trong một chiếc xe quảng cáo nào đó",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Kẻ Cướp Đoạt sẽ xung phong đột kích từ xa, nhưng đột kích từ cự li quá xa sẽ dễ đụng trúng chướng ngại vật, tạo thời cơ tấn công cho nhân vật."
+        },
+        "10016": {
+            "monster_id": 10016,
+            "monster_name": "Kẻ Phóng Hỏa",
+            "card_text": "Đối với những \"Kẻ Phóng Hỏa\" và \"Cuồng Thiêu Hủy\" mà nói, thì đốt nhà cướp của chỉ là công việc phụ của họ. Trong thâm tâm, những kẻ này luôn cho rằng bản thân là \"bậc thầy pha chế\" theo đuổi sự hưng phấn khắp nơi.\nChúng có thể pha trộn chính xác và khéo léo các loại Ether khác nhau vào đồ uống, dễ dàng \"điều chế\" ra một bình \"rượu độc quyền\" dễ cháy nổ.\nKhông giống như Côn Đồ Lỗ Hổng ngang ngược vô lý khác, chúng thường cho nạn nhân một cơ hội lựa chọn.\nNếu đối phương biết điều và giao nộp \"phí qua đường\", chúng sẽ tặng đối phương một ly rượu miễn phí.\nCòn nếu đối phương từ chối, thì món \"rượu độc quyền\" rực cháy này sẽ được đập vào đầu đối phương.\n\"Hay là, tôi tới đó lừa mấy kẻ đó uống vài ly, để tiêu hao vũ khí dự trữ của bọn chúng nhỉ?\"",
+            "card_quote": "- Trong Lỗ Hổng, điều tra viên bị đánh cướp đang âm thầm thảo luận phương án đánh lui kẻ địch",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Kẻ Phóng Hỏa có lúc sẽ ném ra lượng lớn bình chất đốt."
+        },
+        "10018": {
+            "monster_id": 10018,
+            "monster_name": "Kẻ Săn Trộm",
+            "card_text": "Những tên trộm sống lâu ngày trong Lỗ Hổng phần lớn đều có vấn đề nghiêm trọng về thần kinh, hoặc có những thói quen kỳ quặc khó hiểu. Nhưng điều khiến người ta yên tâm chính là, những \"Kẻ Săn Trộm\" và \"Thợ Săn Cướp Bóc\" trong nhóm côn đồ đã kế thừa phong cách của băng đảng tà ác truyền thống.\nBọn chúng nhát gan và xảo quyệt, giỏi ẩn nấp trong bóng tối dùng chiêu trò hại người; nếu có thể đánh lén, thì chúng sẽ không chọn đối đầu trực diện.\nChiếc nỏ trên tay bọn chúng tuy uy lực có hạn, nhưng khi bắn ra không hề có tiếng động; \"Kẻ Săn Trộm\" và \"Thợ Săn Cướp Bóc\" đầy kinh nghiệm sẽ nắm bắt thời cơ, chỉ dùng một mũi tên, đã có thể khiến \"con mồi\" không chút phòng bị ngã lăn xuống đất.\n\"Tôi từng là nhân viên trị an của Cục Trị An, cho đến khi đầu gối bị trúng tên trong một lần hành động truy bắt trong Lỗ Hổng...\"",
+            "card_quote": "- Tại công ty an ninh Nightingale, một thành viên lâu năm đang nói chuyện với người mới",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Kẻ Săn Trộm có thiên hướng đứng từ xa bắn liên tiếp ba phát để quấy nhiễu."
+        },
+        "10019": {
+            "monster_id": 10019,
+            "monster_name": "Kẻ Tập Kích",
+            "card_text": "Là tiên phong đột kích trong băng nhóm đạo tặc Lỗ Hổng, \"Kẻ Tập Kích\" và \"Kẻ Đánh Lén\" thường vung vũ khí và một mình xông lên tiền tuyến.\nĐiêu này không phải là vì chúng dũng cảm hay thiếu tinh thần tác chiến đồng đội, mà chỉ là để tránh những tổn thương không đáng có... Những cuộn dây biến áp cải tiến trong tay chúng luôn phóng ra dòng điện cao thế, chỉ bằng một cú chạm nhẹ đã có thể làm tê liệt hay đánh ngất đối phương.\nTrong Lỗ Hổng, nơi việc hậu cần khó khăn, một đồng đội tạm thời mất đi năng lực hành động sẽ trở thành rắc rối lớn cho cả đội.\n\"Đây là cái gì? Để tôi nghiên cứu nó! Ồ, hình như là dùi cui điện mô phỏng phỏng phỏng phỏng...\"",
+            "card_quote": "- Trong Lỗ Hổng, lời nói cuối cùng của điều tra viên mới tò mò trước khi ngã xuống",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Kẻ Tập Kích sẽ sử dụng tấn công xoay người liên tục, nhưng kiểu tấn công xả thân hài hước này, thường hay để lộ sơ hở sau khi kết thúc tấn công."
+        },
+        "20015": {
+            "monster_id": 20015,
+            "monster_name": "Kẻ Bạo Hành Cường Tráng",
+            "card_text": "So với Nhân Viên Điều Tra Lỗ Hổng được vũ trang đầy đủ, trang bị của \"Kẻ Bạo Hành Cường Tráng\" và \"Kẻ Bạo Hành Bị Truy Nã\" gần như rất thô sơ.\nNhưng những tên côn đồ hung ác nhất thường chỉ cần những vũ khí đơn giản nhất.\nMột cây gậy bóng chày kim loại có gai và một khẩu súng shotgun hai nòng cải tiến là đủ để khiến chúng trở thành ác bá đáng sợ trong Lỗ Hổng.\nTheo ký ức của những điều tra viên từng chiến đấu với chúng, những kẻ này sẽ ở trạng thái hưng phấn tột độ khi chiến đấu; Cách hành động của chúng khó có thể gọi là \"tác chiến\", nó giống cuộc \"ngược đãi ác ý\" của những kẻ thích gây hấn hơn.\n\"Đánh nhau với chúng làm tôi nhớ đến nỗi sợ khi một mình đối mặt với bạo lực học đường năm đó...\"",
+            "card_quote": "- Hiệp Hội Điều Tra Lỗ Hổng, thư từ chức của một điều tra viên mới",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Kẻ Bạo Hành Cường Tráng sẽ luân phiên sử dụng gậy và súng shotgun để tấn công cự li gần, khi cần thiết còn sử dụng chiêu tung cát bụi đánh lén."
+        },
+        "20017": {
+            "monster_id": 20017,
+            "monster_name": "Côn Đồ Cường Tráng",
+            "card_text": "Có một nhận thức chung trong thế giới ngầm ở New Eridu: Những tay đấm bốc hung hãn nhất không phải là \"nhà vô địch liên tiếp\" trên sàn đấu mà là \"Côn Đồ Cường Tráng\" và \"Côn Đồ Bị Truy Nã\" ở sâu trong Lỗ Hổng... Chúng là những tên côn đồ chuyên nghiệp được băng nhóm trộm cướp Ether thuê đến với giá cao, chuyên phụ trách trông coi tài nguyên Ether trộm cắp được.\nLà tay đấu đam mê quyền anh, \"Côn Đồ Cường Tráng\" không giỏi điều khiển những thiết bị điện tử phức tạp, thay vào đó họ cải tiến súng điện cao áp thành \"găng tay\" và đeo trên tay để tăng sức phá hoại cho nắm đấm của mình.\nEthereal, Đạo Tặc Lỗ Hổng, Nhân Viên Điều Tra Lỗ Hổng, tiểu đội Cục Trị An lạc đội... trong mắt \"Côn Đồ Cường Tráng\" và \"Côn Đồ Bị Truy Nã\", họ thậm chí không được coi là \"kẻ địch\" mà chỉ là \"bao cát tập luyện\" để giải trí.\n\"Đợi đã! Tư thế chiến đấu của gã này hình như tôi đã thấy trong sảnh game arcade ở Ngõ Bốn!\"",
+            "card_quote": "- Trong Lỗ Hổng, Billy đang đối phó với những côn đồ đang lao tới",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Côn Đồ Cường Tráng sẽ dùng nắm đấm đánh mạnh kẻ địch, đồng thời kết hợp né tránh linh hoạt để điều chỉnh góc độ tấn công."
+        },
+        "20020": {
+            "monster_id": 20020,
+            "monster_name": "Kẻ Cuồng Nộ",
+            "card_text": "Mỗi năm Cục Trị An đều có một lượng đáng kể cỗ máy tác chiến hỗ trợ bị phá hủy trong Lỗ Hổng, một số trong đó bị côn đồ Lỗ Hổng lấy được và cải tạo thành \"Đơn Vị Hỗ Trợ Phi Pháp: Kẻ Cuồng Nộ\". \nMặc dù côn đồ Lỗ Hổng không thể lấy được vật liệu sửa chữa từ các kênh chính thống nhưng với nguyên tắc \"vá linh kiện\", \"linh kiện thay thế giá rẻ\", chúng đã tiến hành sửa và cải tiến những cỗ máy này để bảo toàn tối đa khả năng tác chiến vốn có ban đầu\nĐể thể hiện cá tính, các côn đồ Lỗ Hổng thường phun sơn lên \"Kẻ Cuồng Nộ\", thậm chí lắp thêm loa công suất lớn.\nTuy không tăng lực chiến nhưng đảm bảo khí thế không thua gì hàng chính hãng.\n\"Tới rồi! Bên đó có một con cừu béo với mái tóc màu hồng!\"\n\"Này, mau chuyển sang BGM mà chúng ta hay dùng khi cướp bóc!\"",
+            "card_quote": "- Trong Lỗ Hổng, côn đồ Lỗ Hổng đang gấp rút điều chỉnh \"Kẻ Cuồng Nộ\"",
+            "skill_text": "Trong chiến đấu, Đơn Vị Hỗ Trợ Phi Pháp - Kẻ Cuồng Nộ sẽ lợi dụng đôi tay dài để liên tục tấn công xoay vòng, trước khi phát động tấn công, sử dụng Hỗ Trợ Chống Đỡ lên hắn sẽ có thể ngăn cản phát động chiêu thức này."
+        },
+        "20023": {
+            "monster_id": 20023,
+            "monster_name": "Mors",
+            "card_text": "Mors từng là một \"Thợ Săn Tiền Thưởng\" khiến người ta phải khiếp sợ ở vành đai ngoài. Dục vọng săn bắt của hắn dường như là bất tận, hắn thường xuyên đuổi theo dấu tích của đối tượng truy lùng suốt ngày này sang ngày khác, một khi đã nhắm được mục, thì sẽ chìm đắm trong hành động săn bắt một cách bệnh hoạn, cho đến khi nào hạ gục được đối phương mới thôi.\n\"Sói Cô Độc Mors\" không bao giờ thất thủ - Đây là điều mà các thế lực lớn ở vành đai ngoài đều công nhận.\nThế nhưng, trong một chuyến săn bắt, Mors đã truy đuổi mục tiêu suốt ba ngày... Nhưng cho đến lúc Mors cạn kiệt sức lực, mà vẫn chưa thể hạ gục mục tiêu.\nCó điều, cái kẻ tên Pompey đó cũng không để bụng, thậm chí còn chủ động mời kẻ thua cuộc là Mors gia nhập vào tổ chức của mình.\nKể từ đó, \"thợ săn\" tai tiếng Mors đã biến mất, và trong Đấng Khải Hoàn thì lại có thêm một đội trưởng kiệm lời, thường hay hành động một mình.\nCho đến hiện tại, Mors vẫn suốt ngày biệt tăm. Chỉ khi nào gặp được đối thủ mà hắn thật sự hứng thú, thì hắn mới xuất hiện và quyết chiến một trận với người đó.\nKhông phải vì để thực thi chức trách của một đội trưởng, mà đơn thuần chỉ vì muốn tận hưởng niềm vui chiến đấu, đắm chìm trong cuộc săn bắt.\n\"Muốn đấu solo với đội trưởng Mors? Ha, dựa vào ngươi?\"\n\"Hôm nay qua đó đăng ký trước đi, rồi tháng sau đến rút thăm.\"",
+            "card_quote": "- Trong Đấng Khải Hoàn, thủ hạ của Mors đang ứng phó với kẻ khiêu chiến",
+            "skill_text": "Trong chiến đấu, Mors sẽ tùy theo tình hình chiến trường để lựa chọn tấn công liên tục cự li gần hoặc bắn từ xa. Khi HP thấp hơn tỷ lệ nhất định hoặc sau một thời gian nhất định, sẽ sử dụng thêm đòn tấn công bổ sung phát động từ xa hoặc tiến hành bắn vào góc chết sau khi di chuyển nhanh để đột kích mục tiêu."
+        },
+        "20024": {
+            "monster_id": 20024,
+            "monster_name": "Pulchra",
+            "card_text": "Không ai biết về xuất thân của Pulchra, nhưng cô từng là lính đánh thuê đứng nhất nhì ở vành đai ngoài, và cũng là \"rồng đổi màu\" biết nhận biết thời thế nhất trong giới lính đánh thuê.\nKhông lâu sau khi diễn ra giải Đường Đua Lửa Ngục lần trước và chấm dứt chuỗi nhiệm kỳ của Pompey, một số thế lực đã ngấm ngầm cấu kết và lên kế hoạch đánh lén Đấng Khải Hoàn. Nhưng trận chiến này cuối cùng đã bị Đấng Khải Hoàn hóa giải một cách nhẹ nhàng, dường như toàn bộ động thái của họ đều đã bị đối phương nắm trong lòng bàn tay.\nNhững kẻ bại trận hầu hết đã bị đuổi khỏi Khu Giếng Dầu Cũ, thế nhưng người rõ ràng có hợp tác với họ là Pulchra lại chẳng bị ảnh hưởng gì, đương nhiên cũng có nhiều người đoán rằng, trận thắng này có được là nhờ sự phản bội.\nTuy rằng không ít người ngỏ lời với Pulchra, nhưng cô chưa từng chính thức gia nhập vào tổ chức nào.\nCó lẽ đối với cô, mọi tranh chấp và âm mưu ở vành đai ngoài chỉ là một trò chơi có thể rút lui bất cứ lúc nào. Cho dù chủ thuê có đáng khinh bỉ đến mức nào cũng chẳng sao, chỉ cần có thể ra giá đủ cao, chỉ cần công việc đó đủ thú vị.\nVà nhất là, nếu công việc này có thể dẫn dụ kẻ địch vào một cạm bẫy được dày công bày trí, nhìn thấy đối phương từng bước đi vào vực sâu chết chóc...\nDụ dỗ, lừa lọc, cho đến khi đối phương hoàn toàn diệt vong... Thứ gì càng đẹp sẽ càng nguy hiểm, đây là quan niệm sinh tồn từ xưa đến nay của cô.\n\"Gì chứ? Muốn làm thuộc hạ của chị Pulchra?\"\n\"Haiz, lại thêm một kẻ đáng thương bị lừa rồi...\"",
+            "card_quote": "- Doanh trại Đấng Khải Hoàn, một tân binh nào đó đang bị ma cũ trêu chọc",
+            "skill_text": "Trong chiến đấu, Pulchra sẽ giữ cự li với con mồi, và chờ thời cơ để sử dụng thể thuật, đao kiếm và cơ quan để quấy nhiễu mục tiêu. Khi HP thấp hơn tỷ lệ nhất định hoặc sau một thời gian nhất định, sẽ sử dụng thêm thuốc tăng cường để nâng khả năng né của bản thân, khi trong trạng thái cường hóa, Pulchra sẽ tránh né các đòn tấn công do kẻ địch ở gần phát động."
+        },
+        "20025": {
+            "monster_id": 20025,
+            "monster_name": "Bellum",
+            "card_text": "Là quán quân nắm giữ chuỗi liên thắng của đấu trường, suốt bao lâu nay Bellum luôn tự xưng mình là đệ nhất cao thủ ở vành đai ngoài... cho đến khi chuỗi liên thắng của anh ta bị chấm dứt.\nĐiều khiến người ta càng bực tức hơn chính là... cái kẻ ngạo mạn kia, thậm chí còn không nhớ được tên anh.\nQuá tức giận, Bellum đã bắt đầu tôi luyện lại kỹ năng chiến đấu của chính mình, thề rằng phải để danh tiếng của mình một lần nữa vang khắp vành đai ngoài, và có một ngày anh sẽ bắt cái tên ngạo mạn kia phải trả giá.\nĐể đạt được mục tiêu của mình, Bellum đã gia nhập vào Đấng Khải Hoàn, hết lần này đến lần khác giúp Pompey quét sạch những kẻ địch khó nhằn. Anh ta có thể cải tạo và sử dụng thiết bị phun lửa một cách điêu luyện, xung phong lao ra tuyến đầu thiêu đốt kẻ địch phía trước, còn có thể chỉ huy các thành viên trong đội một cách thuần thục như trở bàn tay, bố trí họ trở thành một đội hình với uy thế mạnh mẽ như cơn đại hồng thủy. Những cuộc chiến do anh dẫn dắt luôn đánh đâu thắng đó.\nGiờ đây, Bellum đã không cần phải cố ý quảng bá cho danh tiếng của mình nữa.\nTuy anh không còn là quán quân liên thắng, nhưng ở vành đai ngoài, ai ai cũng từng trải qua nỗi sợ đối với chiến tranh giữa các băng nhóm, và với vai trò là một trong những chủ lực của Đấng Khải Hoàn, anh chính là \"chiến tranh\".\n\"Không muốn làm việc vặt? Vậy đánh thắng đại ca Bellum trước rồi tính!\"\n\"Đi, dọn sạch nhà vệ sinh mau!\"",
+            "card_quote": "- Doanh trại Đấng Khải Hoàn, thành viên cũ đang dạy dỗ người mới lười biếng",
+            "skill_text": "Trong chiến đấu, Bellum sẽ dùng đao kiếm, khiên chắn và thiết bị phun lửa để tiến hành áp chế cự li gần lên mục tiêu, nếu Bellum bị tấn công trong thời gian dùng khiên, sẽ lập tức kích hoạt phản kích mạnh mẽ. Khi HP thấp hơn tỷ lệ nhất định hoặc sau một thời gian nhất định, khả năng áp chế của Bellum sẽ trở nên càng liên tục và hung hãn hơn."
+        },
+        "30019": {
+            "monster_id": 30019,
+            "monster_name": "Lực Sĩ Hung Hãn",
+            "card_text": "Băng nhóm Côn Đồ Lỗ Hổng thường hay vàng thau lẫn lộn, lý do duy nhất mà chúng tập trung lại trong Lỗ Hổng là để cướp bóc tài nguyên Ether, kiếm chác lợi nhuận.\nBăng nhóm ô hợp vốn dĩ chẳng có quy tắc gì.\nNhưng một khi \"Lực Sĩ Hung Hãn\", kẻ tượng trưng cho bạo lực tuyệt đối xuất hiện, thì mọi thứ đều trở nên có quy tắc.\nChúng trang bị trên người hệ thống động lực hỗ trợ thi công đã được cải tạo, và tiện tay dùng các phế liệu xây dựng làm vũ khí tạm thời. Những thiết bị và vũ khí nặng nề đó nhìn qua là biết đủ sức đập nát một người đàn ông lực lưỡng, nhưng đối với chúng, lại giống như là bộ trang bị để rèn luyện cơ thể cực kỳ phù hợp.\nVung, đập, nghiền... mọi động tác cơ bản của chúng đều trở thành những đòn tấn công đủ để nghiền nát kẻ địch, thể hiện sức công phá vô biên mọi lúc mọi nơi.\nMà theo kết quả điều tra của Cục Trị An, những băng nhóm Côn Đồ Lỗ Hổng có \"Lực Sĩ Hung Hãn\" cầm đầu, thường rất tôn sùng văn hóa rèn luyện cơ thể mang phong cách đường phố độc đáo, thậm chí vì vậy mà còn sinh ra sức hấp dẫn lạ thường...\n\"Sao chứ? Anh nói những huấn luyện viên trong phòng gym rất mạnh?\"\n\"Hahaha, anh đúng là không có mắt nhìn!\"\n\"Chi bằng gia nhập với bọn tôi, đi theo đại ca tập luyện ba chu kỳ... Tôi đảm bảo anh sẽ lên chuột rất hoàn hảo!\"",
+            "card_quote": "——Nơi nào đó tại New Eridu, mấy tên Côn Đồ Lỗ Hổng đang thuyết phục người mới gia nhập",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Lực Sĩ Hung Hãn sẽ tụ điện nạp năng lượng cho giáp tay của mình, từ đó thi triển đòn tấn công mạnh. Nhưng đồng thời, trong khi tụ điện Lực Sĩ Hung Hãn sẽ luôn trong trạng thái Sốc Điện, nếu thi triển hiệu quả Thuộc Tính Dị Thường loại khác lên hắn sẽ trực tiếp kích hoạt Hỗn Loạn và xóa trạng thái nạp năng lượng của hắn."
+        },
+        "100151": {
+            "monster_id": 100151,
+            "monster_name": "Kẻ Cướp Bóc",
+            "card_text": "Trong số các băng nhóm trộm cướp Ether, \"Kẻ Cướp Đoạt\" và \"Kẻ Cướp Bóc\" là thành viên nòng cốt có kỹ thuật và năng lực chiến đấu.\n\"Thiết bị dò cộng hưởng điện lưu\" của chúng có thể dùng dòng điện mạnh để phát hiện ra quặng Ether, tiện cho việc triển khai công tác sau đó; khi tham gia hành động cướp đoạt vũ trang, cũng có thể tăng điện áp làm vũ khí có uy lực cao.\nDù đôi khi bị tưởng nhầm là ngư dân đánh cá trái phép, nhưng chúng cũng không quan tâm lắm.\nDù sao thì chỉ cần tăng điện áp lên giới hạn, dù đối thủ là người hay cá, đều không có gì khác biệt...\n\"Dù là ao hồ sông suối, hay là xung quanh Lỗ Hổng, nếu nhìn thấy có người cầm cây chích điện cá, hãy trực tiếp báo với Cục Trị An!\"",
+            "card_quote": "- Cục Trị An New Eridu, khẩu hiệu được phát liên tục trong một chiếc xe quảng cáo nào đó",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Kẻ Cướp Bóc sẽ xung phong đột kích từ xa, nhưng đột kích từ cự li quá xa sẽ dễ đụng trúng chướng ngại vật, tạo thời cơ tấn công cho nhân vật."
+        },
+        "100161": {
+            "monster_id": 100161,
+            "monster_name": "Cuồng Thiêu Hủy",
+            "card_text": "Đối với những \"Kẻ Phóng Hỏa\" và \"Cuồng Thiêu Hủy\" mà nói, thì đốt nhà cướp của chỉ là công việc phụ của họ. Trong thâm tâm, những kẻ này luôn cho rằng bản thân là \"bậc thầy pha chế\" theo đuổi sự hưng phấn khắp nơi.\nChúng có thể pha trộn chính xác và khéo léo các loại Ether khác nhau vào đồ uống, dễ dàng \"điều chế\" ra một bình \"rượu độc quyền\" dễ cháy nổ.\nKhông giống như Côn Đồ Lỗ Hổng ngang ngược vô lý khác, chúng thường cho nạn nhân một cơ hội lựa chọn.\nNếu đối phương biết điều và giao nộp \"phí qua đường\", chúng sẽ tặng đối phương một ly rượu miễn phí.\nCòn nếu đối phương từ chối, thì món \"rượu độc quyền\" rực cháy này sẽ được đập vào đầu đối phương.\n\"Hay là, tôi tới đó lừa mấy kẻ đó uống vài ly, để tiêu hao vũ khí dự trữ của bọn chúng nhỉ?\"",
+            "card_quote": "- Trong Lỗ Hổng, điều tra viên bị đánh cướp đang âm thầm thảo luận phương án đánh lui kẻ địch",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Cuồng Thiêu Hủy có lúc sẽ ném ra lượng lớn bình chất đốt."
+        },
+        "100181": {
+            "monster_id": 100181,
+            "monster_name": "Thợ Săn Cướp Bóc",
+            "card_text": "Những tên trộm sống lâu ngày trong Lỗ Hổng phần lớn đều có vấn đề nghiêm trọng về thần kinh, hoặc có những thói quen kỳ quặc khó hiểu. Nhưng điều khiến người ta yên tâm chính là, những \"Kẻ Săn Trộm\" và \"Thợ Săn Cướp Bóc\" trong nhóm côn đồ đã kế thừa phong cách của băng đảng tà ác truyền thống.\nBọn chúng nhát gan và xảo quyệt, giỏi ẩn nấp trong bóng tối dùng chiêu trò hại người; nếu có thể đánh lén, thì chúng sẽ không chọn đối đầu trực diện.\nChiếc nỏ trên tay bọn chúng tuy uy lực có hạn, nhưng khi bắn ra không hề có tiếng động; \"Kẻ Săn Trộm\" và \"Thợ Săn Cướp Bóc\" đầy kinh nghiệm sẽ nắm bắt thời cơ, chỉ dùng một mũi tên, đã có thể khiến \"con mồi\" không chút phòng bị ngã lăn xuống đất.\n\"Tôi từng là nhân viên trị an của Cục Trị An, cho đến khi đầu gối bị trúng tên trong một lần hành động truy bắt trong Lỗ Hổng...\"",
+            "card_quote": "- Tại công ty an ninh Nightingale, một thành viên lâu năm đang nói chuyện với người mới",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Thợ Săn Cướp Bóc có thiên hướng đứng từ xa bắn liên tiếp ba phát để quấy nhiễu."
+        },
+        "100191": {
+            "monster_id": 100191,
+            "monster_name": "Kẻ Đánh Lén",
+            "card_text": "Là tiên phong đột kích trong băng nhóm đạo tặc Lỗ Hổng, \"Kẻ Tập Kích\" và \"Kẻ Đánh Lén\" thường vung vũ khí và một mình xông lên tiền tuyến.\nĐiêu này không phải là vì chúng dũng cảm hay thiếu tinh thần tác chiến đồng đội, mà chỉ là để tránh những tổn thương không đáng có... Những cuộn dây biến áp cải tiến trong tay chúng luôn phóng ra dòng điện cao thế, chỉ bằng một cú chạm nhẹ đã có thể làm tê liệt hay đánh ngất đối phương.\nTrong Lỗ Hổng, nơi việc hậu cần khó khăn, một đồng đội tạm thời mất đi năng lực hành động sẽ trở thành rắc rối lớn cho cả đội.\n\"Đây là cái gì? Để tôi nghiên cứu nó! Ồ, hình như là dùi cui điện mô phỏng phỏng phỏng phỏng...\"",
+            "card_quote": "- Trong Lỗ Hổng, lời nói cuối cùng của điều tra viên mới tò mò trước khi ngã xuống",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Kẻ Đánh Lén sẽ sử dụng tấn công xoay người liên tục, nhưng kiểu tấn công xả thân hài hước này, thường hay để lộ sơ hở sau khi kết thúc tấn công."
+        },
+        "200151": {
+            "monster_id": 200151,
+            "monster_name": "Kẻ Bạo Hành Bị Truy Nã",
+            "card_text": "So với Nhân Viên Điều Tra Lỗ Hổng được vũ trang đầy đủ, trang bị của \"Kẻ Bạo Hành Cường Tráng\" và \"Kẻ Bạo Hành Bị Truy Nã\" gần như rất thô sơ.\nNhưng những tên côn đồ hung ác nhất thường chỉ cần những vũ khí đơn giản nhất.\nMột cây gậy bóng chày kim loại có gai và một khẩu súng shotgun hai nòng cải tiến là đủ để khiến chúng trở thành ác bá đáng sợ trong Lỗ Hổng.\nTheo ký ức của những điều tra viên từng chiến đấu với chúng, những kẻ này sẽ ở trạng thái hưng phấn tột độ khi chiến đấu; Cách hành động của chúng khó có thể gọi là \"tác chiến\", nó giống cuộc \"ngược đãi ác ý\" của những kẻ thích gây hấn hơn.\n\"Đánh nhau với chúng làm tôi nhớ đến nỗi sợ khi một mình đối mặt với bạo lực học đường năm đó...\"",
+            "card_quote": "- Hiệp Hội Điều Tra Lỗ Hổng, thư từ chức của một điều tra viên mới",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Kẻ Bạo Hành Bị Truy Nã sẽ luân phiên sử dụng gậy và súng shotgun để tấn công cự li gần, khi cần thiết còn sử dụng chiêu tung cát bụi đánh lén."
+        },
+        "200171": {
+            "monster_id": 200171,
+            "monster_name": "Côn Đồ Bị Truy Nã",
+            "card_text": "Có một nhận thức chung trong thế giới ngầm ở New Eridu: Những tay đấm bốc hung hãn nhất không phải là \"nhà vô địch liên tiếp\" trên sàn đấu mà là \"Côn Đồ Cường Tráng\" và \"Côn Đồ Bị Truy Nã\" ở sâu trong Lỗ Hổng... Chúng là những tên côn đồ chuyên nghiệp được băng nhóm trộm cướp Ether thuê đến với giá cao, chuyên phụ trách trông coi tài nguyên Ether trộm cắp được.\nLà tay đấu đam mê quyền anh, \"Côn Đồ Cường Tráng\" không giỏi điều khiển những thiết bị điện tử phức tạp, thay vào đó họ cải tiến súng điện cao áp thành \"găng tay\" và đeo trên tay để tăng sức phá hoại cho nắm đấm của mình.\nEthereal, Đạo Tặc Lỗ Hổng, Nhân Viên Điều Tra Lỗ Hổng, tiểu đội Cục Trị An lạc đội... trong mắt \"Côn Đồ Cường Tráng\" và \"Côn Đồ Bị Truy Nã\", họ thậm chí không được coi là \"kẻ địch\" mà chỉ là \"bao cát tập luyện\" để giải trí.\n\"Đợi đã! Tư thế chiến đấu của gã này hình như tôi đã thấy trong sảnh game arcade ở Ngõ Bốn!\"",
+            "card_quote": "- Trong Lỗ Hổng, Billy đang đối phó với những côn đồ đang lao tới",
+            "skill_text": "Trong chiến đấu, Côn Đồ Lỗ Hổng - Côn Đồ Bị Truy Nã sẽ dùng nắm đấm đánh mạnh kẻ địch, đồng thời kết hợp né tránh linh hoạt để điều chỉnh góc độ tấn công."
+        },
+        "200172": {
+            "monster_id": 200172,
+            "monster_name": "Đầu Sỏ - Côn Đồ Bị Truy Nã",
+            "card_text": "Có một nhận thức chung trong thế giới ngầm ở New Eridu: Những tay đấm bốc hung hãn nhất không phải là \"nhà vô địch liên tiếp\" trên sàn đấu, mà là \"Côn Đồ Cường Tráng\" và \"Côn Đồ Bị Truy Nã\" ở sâu trong Lỗ Hổng... Chúng là những tên côn đồ chuyên nghiệp được băng nhóm trộm cướp Ether thuê đến với giá cao, chuyên phụ trách trông coi tài nguyên Ether trộm cắp được.\nLà tay đấu đam mê quyền anh, \"Côn Đồ Cường Tráng\" không giỏi điều khiển những thiết bị điện tử phức tạp, thay vào đó chúng cải tiến súng điện cao áp thành \"găng tay\" và đeo trên tay để tăng sức phá hủy cho nắm đấm của mình.\nEthereal, Đạo Tặc Lỗ Hổng, Nhân Viên Điều Tra Lỗ Hổng, thành viên lạc đội của Cục Trị An... trong mắt \"Côn Đồ Cường Tráng\" và \"Côn Đồ Bị Truy Nã\", những đối tượng này thậm chí không được coi là \"kẻ địch\" mà chỉ là \"bao cát tập luyện\" để giải trí.\n\"Đợi đã! Tư thế chiến đấu của gã này hình như tôi đã thấy trong sảnh game arcade ở Ngõ Bốn!\"",
+            "card_quote": "- Trong Lỗ Hổng, Billy đang đối phó với những côn đồ đang lao tới",
+            "skill_text": "Trong chiến đấu, thế tấn công của Đầu Sỏ - Côn Đồ Bị Truy Nã cực kỳ mạnh mẽ, đồng thời né tránh liên tục để điều chỉnh góc độ tấn công."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelganger - Mors",
+            "card_text": "Cho dù nằm trong nhóm các Thể Ion nổi tiếng vì sự kỳ dị quái đản, thì Thể Ion - Doppelganger vẫn được xem là thể loại cực kỳ đặc thù.\nChúng có thể dùng Ion Ether hoạt tính đặc biệt bao phủ khắp bề mặt, từ đó mô phỏng ngoại hình của mục tiêu, thậm chí còn có thể giả giống đến mức lấy giả làm thật. Bất luận là từ các chi tiết, cho đến cảm nhận về chất liệu, thì đều khó mà phân biệt thật giả.\nVà điều đáng sợ nhất là chúng thậm chí còn có thể mô phỏng các tư thế, các kỹ năng chiến đấu đầy uy lực của bản thể.\nKhông ai biết nó lấy được thông tin của đối tượng mô phỏng từ đâu, có tin đồn rằng nó có khả năng \"đọc tâm\", có thể lựa chọn ra đối tượng khiêu chiến thích hợp nhất từ trong ký ức của đối thủ, và dùng tư thế đó để mà tấn công.\n\"Tầm bậy! Nếu mà nó có thể đọc được trong lòng tôi nghĩ gì, thì nó sẽ biến thành một phụ nữ trung niên tay cầm móc áo! Ừ không sai, tôi sợ nhất là mẹ tôi đó!\"",
+            "card_quote": "- Diễn đàn Inter-Knot, bài đăng than phiền của một Đạo Tặc Lỗ Hổng nào đó",
+            "skill_text": "Trong chiến đấu, kẻ địch này sẽ thi triển các chiêu thức giống hệt với đối tượng mà nó mô phỏng. Nó sẽ tùy theo tình hình chiến trường để lựa chọn tấn công liên tục cự li gần hoặc bắn từ xa. Khi HP thấp hơn tỷ lệ nhất định hoặc sau một thời gian nhất định, sẽ sử dụng thêm đòn tấn công bổ sung phát động từ xa hoặc tiến hành bắn vào góc chết sau khi di chuyển nhanh để đột kích mục tiêu."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelganger - Pulchra",
+            "card_text": "Cho dù nằm trong nhóm các Thể Ion nổi tiếng vì sự kỳ dị quái đản, thì Thể Ion - Doppelganger vẫn được xem là thể loại cực kỳ đặc thù.\nChúng có thể dùng Ion Ether hoạt tính đặc biệt bao phủ khắp bề mặt, từ đó mô phỏng ngoại hình của mục tiêu, thậm chí còn có thể giả giống đến mức lấy giả làm thật. Bất luận là từ các chi tiết, cho đến cảm nhận về chất liệu, thì đều khó mà phân biệt thật giả.\nVà điều đáng sợ nhất là chúng thậm chí còn có thể mô phỏng các tư thế, các kỹ năng chiến đấu đầy uy lực của bản thể.\nKhông ai biết nó lấy được thông tin của đối tượng mô phỏng từ đâu, có tin đồn rằng nó có khả năng \"đọc tâm\", có thể lựa chọn ra đối tượng khiêu chiến thích hợp nhất từ trong ký ức của đối thủ, và dùng tư thế đó để mà tấn công.\n\"Tầm bậy! Nếu mà nó có thể đọc được trong lòng tôi nghĩ gì, thì nó sẽ biến thành một phụ nữ trung niên tay cầm móc áo! Ừ không sai, tôi sợ nhất là mẹ tôi đó!\"",
+            "card_quote": "- Diễn đàn Inter-Knot, bài đăng than phiền của một Đạo Tặc Lỗ Hổng nào đó",
+            "skill_text": "Trong chiến đấu, kẻ địch này sẽ thi triển các chiêu thức giống hệt với đối tượng mà nó mô phỏng. Nó sẽ giữ cự li với con mồi, và chờ thời cơ để sử dụng thể thuật, đao kiếm và cơ quan để quấy nhiễu mục tiêu. Khi HP thấp hơn tỷ lệ nhất định hoặc sau một thời gian nhất định, sẽ sử dụng thêm thủ đoạn chưa rõ để nâng khả năng né của bản thân, khi trong trạng thái cường hóa, nó sẽ tránh né các đòn tấn công do kẻ địch ở gần phát động."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelganger - Bellum",
+            "card_text": "Cho dù nằm trong nhóm các Thể Ion nổi tiếng vì sự kỳ dị quái đản, thì Thể Ion - Doppelganger vẫn được xem là thể loại cực kỳ đặc thù.\nChúng có thể dùng Ion Ether hoạt tính đặc biệt bao phủ khắp bề mặt, từ đó mô phỏng ngoại hình của mục tiêu, thậm chí còn có thể giả giống đến mức lấy giả làm thật. Bất luận là từ các chi tiết, cho đến cảm nhận về chất liệu, thì đều khó mà phân biệt thật giả.\nVà điều đáng sợ nhất là chúng thậm chí còn có thể mô phỏng các tư thế, các kỹ năng chiến đấu đầy uy lực của bản thể.\nKhông ai biết nó lấy được thông tin của đối tượng mô phỏng từ đâu, có tin đồn rằng nó có khả năng \"đọc tâm\", có thể lựa chọn ra đối tượng khiêu chiến thích hợp nhất từ trong ký ức của đối thủ, và dùng tư thế đó để mà tấn công.\n\"Tầm bậy! Nếu mà nó có thể đọc được trong lòng tôi nghĩ gì, thì nó sẽ biến thành một phụ nữ trung niên tay cầm móc áo! Ừ không sai, tôi sợ nhất là mẹ tôi đó!\"",
+            "card_quote": "- Diễn đàn Inter-Knot, bài đăng than phiền của một Đạo Tặc Lỗ Hổng nào đó",
+            "skill_text": "Trong chiến đấu, kẻ địch này sẽ thi triển các chiêu thức giống hệt với đối tượng mà nó mô phỏng. Nó sẽ dùng đao kiếm, khiên chắn và thiết bị phun lửa để tiến hành áp chế cự li gần lên mục tiêu, nếu nó bị tấn công trong thời gian dùng khiên, sẽ lập tức kích hoạt phản kích mạnh mẽ. Khi HP thấp hơn tỷ lệ nhất định hoặc sau một thời gian nhất định, khả năng áp chế của nó sẽ trở nên càng liên tục và hung hãn hơn."
+        }
+    },
+    "Thể Ăn Mòn": {
+        "10021": {
+            "monster_id": 10021,
+            "monster_name": "UAV Quạ Đen",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30009": {
+            "monster_id": 30009,
+            "monster_name": "Hợp Thể Ăn Mòn Chưa Rõ",
+            "card_text": "Khors Belobog, người sáng lập Công Nghiệp Nặng Belobog từng nói máy móc công trình là sự kết hợp giữa sức mạnh và vẻ đẹp, mọi chi tiết đều phải tuân theo những quy tắc cố định.\nSự xuất hiện của \"Hợp Thể Ăn Mòn Chưa Rõ\" đã phá vỡ tất cả các \"thiết kế kinh điển\" hiện có.\nDưới sự thống trị của Lõi Ether nồng độ cao, một số bộ phận hạng nặng mạnh mẽ đã được ghép lại với nhau, tạo nên một cấu trúc khuếch trương gần như vượt quá giới hạn vật lý.\nCắt xén, búa đập, khoan, nghiền nát... gần như tất cả kỹ thuật thi công đều có thể tìm thấy trên người nó; nhưng các kỹ thuật này đã mất đi chuẩn mực ban đầu và biến thành các động tác chiến đấu thô bạo, khó lường.\nKhông những vậy, trạng thái giới hạn của Lõi Ether cung cấp cho nó nguồn năng lượng mạnh mẽ vô tận, thậm chí nó có thể bao phủ cơ thể bằng dòng điện cao thế, hoặc giải phóng một lực tác động đủ mạnh để xé toạc mặt đất và nghiền nát mọi mục tiêu xung quanh.\nTheo suy đoán của Hiệp Hội Điều Tra Lỗ Hổng, \"Hợp Thể Ăn Mòn Chưa Rõ\" sẽ nuốt chửng và dung hợp tất cả các loại máy móc hạng nặng mạnh mẽ mà nó có được, bao gồm cả máy móc quân dụng, vũ khí laser, thậm chí cả tên lửa tầm ngắn của Lực Lượng Phòng Vệ...\nTất cả vật thể máy móc tinh xảo sẽ bị nó nuốt chửng, cắt ra, ghép nối và cuối cùng biến thành một bộ phận nhỏ không nổi bật phù hợp với thể ăn mòn.\nVà \"mục tiêu thiết kế\" mà nó theo đuổi chính là sức hủy diệt vô song và hiệu quả tiêu diệt đỉnh cao.\n\"Thiết kế này kỳ lạ quá... ừm... để tôi nhìn thêm lần nữa!\"",
+            "card_quote": "- Sâu trong Lỗ Hổng, Grace đang quan sát \"Hợp Thể Ăn Mòn Chưa Rõ\"",
+            "skill_text": "Trong chiến đấu, Hợp Thể Ăn Mòn Chưa Rõ sẽ kết hợp nhiều phong cách tấn công của máy móc hạng nặng để tiến hành tấn công, và có thể phóng hàng loạt tên lửa. Trong trạng thái Choáng có thể tấn công vào bản thể của nó, sau khi bản thể chịu một lượng sát thương nhất định sẽ gây hiệu quả phá hủy bộ phận, chịu lượng lớn sát thương trong một lần, đồng thời khi gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "30021": {
+            "monster_id": 30021,
+            "monster_name": "Thể Ăn Mòn Bá Chủ - Pompey",
+            "card_text": "Mọi người ở vành đai ngoài từng tung hô ông ấy là \"Bá Chủ Pompey\".\nNhưng giờ đây, linh hồn đã bị Ether mãnh liệt ăn mòn, cơ thể bị lưu huỳnh và dầu nặng vấy bẩn; Trái tim từng thề sẽ chỉ đập vì \"bảo vệ vành đai ngoài\", nay cũng đã trở thành lõi Ether chứa nguồn năng lượng vô tận vượt mức giới hạn.\n\"Bá Chủ Vành Đai Ngoài\" xưa kia, bây giờ đã tái sinh với một hình thái khác.\nTự do, uy nghiêm... mạnh bạo, điên cuồng.\nNó lao đi trong khói bụi và lửa thiêu, tóm lấy bất cứ vật thể di động nào, sau đó sẽ xé toạc, nghiền nát không chút do dự.\nCó người quen cũ dựa theo những âm thanh thì thầm phát ra khi nó nghiền nát con mồi để đoán rằng, nó không phải đang muốn trả thù một cách hẹp hòi, mà chỉ là muốn nghiền nát tất cả \"chủng loại khác\" dám ngông cuồng thách thức \"phép tắc của vành đai ngoài\".\nCó lẽ, đây chính là một chút chấp niệm cuối cùng còn sót lại của \"Bá Chủ Pompey\".\n\"Đại ca của chúng ta đã biến thành \"nó\", nhưng ông ấy... hình như vẫn là ông ấy của ngày xưa\".",
+            "card_quote": "- Tay sai của Đấng Khải Hoàn trước đây đang run lẩy bẩy",
+            "skill_text": "Trong chiến đấu, Bá Chủ Pompey sẽ sử dụng xe mô tô và súng bay lượn để tấn công, nhưng trong một số chiêu thức sẽ để lộ sơ hở nếu gặp phải Hỗ Trợ Chống Đỡ. Sau khi chịu một lượng sát thương nhất định sẽ bước vào giai đoạn thứ hai, ở giai đoạn này sẽ luân phiên sử dụng bánh sau xe mô tô và kiếm dài để tấn công, đồng thời bánh sau xe mô tô có thể tích lũy Năng Lượng Ether, từ đó tạo ra một vụ nổ quy mô lớn."
+        },
+        "100211": {
+            "monster_id": 100211,
+            "monster_name": "UAV Quạ Đen - Hoạt Hóa",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "100271": {
+            "monster_id": 100271,
+            "monster_name": "Côn Đồ Độc Ác",
+            "card_text": "Kẻ đáng thương bị vật chất Ether cực mạnh trong Lỗ Hổng ăn mòn và biến dị, vì bản thể có thể chất thích nghi Ether nhất định nên quá trình chuyển hóa Ether của cơ thể vẫn chưa hoàn thiện, vẫn giữ một số đặc điểm hình người của bản thể. Từ trang phục còn sót lại và kinh nghiệm chiến đấu cho thấy, rất có thể là được chuyển hóa từ băng cướp/côn đồ lăn lộn trong Lỗ Hổng.\nMặc dù băng cướp lăn lộn trong Lỗ Hổng đều mang trang bị chống ăn mòn ở mức độ nhất định, nhưng do không được bảo dưỡng đúng cách hoặc đơn giản là không may mắn, một số tên côn đồ vẫn sẽ bị ăn mòn bởi vật chất Ether cực mạnh và biến thành quái vật khi hoạt động trong Lỗ Hổng. Những Ethereal vẫn còn kinh nghiệm chiến đấu của bản thể lúc còn sống này, ở một mức độ nào đó có thể còn là kẻ địch khó nhằn hơn những Ethereal thuần túy.\n\"Sống làm trộm cướp, chết gây tai họa, vậy cũng coi như trước sau như một.\"",
+            "card_quote": "- Diễn dàn \"Thảm Họa Hôm Nay\", tin nhắn thảo luận trị an New Eridu nào đó",
+            "skill_text": "Trong chiến đấu, Thể Ăn Mòn Cướp Bóc - Côn Đồ Độc Ác sẽ thực hiện đòn chém loạn xạ liên tục khó bị gián đoạn."
+        },
+        "100281": {
+            "monster_id": 100281,
+            "monster_name": "Xạ Thủ Tham Lam",
+            "card_text": "Sinh vật thông minh hình người bị vật chất Ether cực mạnh trong Lỗ Hổng ăn mòn và biến dị, vì bản thể có thể chất thích nghi Ether nhất định nên quá trình chuyển hóa Ether của cơ thể vẫn chưa hoàn thiện, vẫn giữ một số đặc điểm hình người của bản thể. Từ trang phục còn sót lại và kinh nghiệm chiến đấu cho thấy, rất có thể là được chuyển hóa từ băng cướp/côn đồ lăn lộn trong Lỗ Hổng.\nTừ kết cấu cơ thể còn sót lại cho thấy, bản thể lúc còn sống có lẽ là tên côn đồ dùng vũ khí tầm xa, Ethereal đã cướp đi sự sống và ý chí của anh ta nhưng bản năng và thói quen chiến đấu tầm xa vẫn được giữ lại, thể ăn mòn không những tiếp tục dùng vật bắn tầm xa tấn công kẻ địch, mà uy lực/hiệu suất bắn của vật bắn còn được nâng cao nhờ Ether Ăn Mòn (bắn ra tinh thể Ether sắc nhọn hoặc chất nổ hỗn hợp nào đó).\n\"Tôi đã bảo anh ta đừng có chạm vào tinh thể đó, nhưng anh ta không nghe tôi! Tên ngốc bồng bột đó không bao giờ nghe lời tôi. Đợi đến khi chúng tôi chuẩn bị rời khỏi Lỗ Hổng, anh ta đã... biến đổi rồi...\"",
+            "card_quote": "- Chi nhánh Cục Trị An Khu Faunus, biên bản một cuộc thẩm vấn nào đó",
+            "skill_text": "Trong chiến đấu, Thể Ăn Mòn Cướp Bóc - Xạ Thủ Tham Lam có thiên hướng đứng xa thực hiện tấn công từ xa không dễ bị phát hiện."
+        },
+        "200121": {
+            "monster_id": 200121,
+            "monster_name": "Côn Đồ Điên Cuồng",
+            "card_text": "Kẻ xui xẻo bị chất Ether mạnh ở Lỗ Hổng ăn mòn và biến dị, vì bản thể có chức năng sinh lý và thể chất thích nghi Ether ở mức độ đáng kể, nên cơ thể vẫn chưa bị Ether biến đổi hoàn toàn, các đặc điểm hình người được tăng cường nhờ các chi bị đột biến và trở nên nguy hiểm hơn trước.\nTừ trang phục còn sót lại và kinh nghiệm chiến đấu cho thấy, rất có thể là được chuyển hóa từ băng cướp/côn đồ cao cấp lăn lộn trong Lỗ Hổng.\nCó lẽ điều kiện sinh lý của cơ thể ban đầu đủ xuất sắc, hoặc có lẽ do chất Ether thêm ưu ái, đối tượng bị ăn mòn có được các chi cận chiến xuất sắc do đột biến, là một sự tồn tại đáng sợ hơn yêu ma quỷ quái thường thấy trong Lỗ Hổng.\n\"Vũ khí của chúng trông thật cao cấp... hơn nữa hình như còn là được tặng kèm miễn phí.\"",
+            "card_quote": "Phân tích của Anby thuộc Nhà Thỏ Xảo Quyệt trong một lần hành động",
+            "skill_text": "Trong chiến đấu, Thể Ăn Mòn Cướp Bóc - Côn Đồ Điên Cuồng sẽ chống đỡ tấn công, và tiến hành phản kích sau một thời gian duy trì chống đỡ."
+        },
+        "200131": {
+            "monster_id": 200131,
+            "monster_name": "Ác Bá Thịnh Nộ",
+            "card_text": "Kẻ xui xẻo bị chất Ether mạnh ở Lỗ Hổng ăn mòn và biến dị, vì bản thể có chức năng sinh lý và thể chất thích nghi Ether ở mức độ đáng kể, nên cơ thể vẫn chưa bị Ether biến đổi hoàn toàn, các đặc điểm hình người được tăng cường nhờ các chi bị đột biến và trở nên nguy hiểm hơn trước.\nTừ trang phục còn sót lại và kinh nghiệm chiến đấu cho thấy, rất có thể là được chuyển hóa từ băng cướp/côn đồ cao cấp lăn lộn trong Lỗ Hổng.\nKhẩu súng thô bạo mà hắn yêu thích khi còn sống bằng cách nào đó đã được lưu giữ và tăng cường sức mạnh nhờ sự ăn mòn của Ether, từ việc bắn đạn sắt đã chuyển thành bắn ra một kết cấu biến dị của hỗn hợp tinh thể nguy hiểm.\n\"Đừng chờ cơ hội nữa! Đạn của chúng là vô hạn, không cần nạp đạn đâu!\"",
+            "card_quote": "Đội đặc vụ Lỗ Hổng của Cục Trị An, ghi âm của nhân viên trong một lần hành động",
+            "skill_text": "Trong chiến đấu, Thể Ăn Mòn Cướp Bóc - Ác Bá Thịnh Nộ có thiên hướng thực hiện thêm đòn công kích Đạn Ether sau khi tấn công."
+        },
+        "200141": {
+            "monster_id": 200141,
+            "monster_name": "Kẻ Điên Độc Ác",
+            "card_text": "Kẻ xui xẻo bị chất Ether mạnh ở Lỗ Hổng ăn mòn và biến dị, vì bản thể có chức năng sinh lý và thể chất thích nghi Ether ở mức độ đáng kể, nên cơ thể vẫn chưa bị Ether biến đổi hoàn toàn, các đặc điểm hình người được tăng cường nhờ các chi bị đột biến và trở nên nguy hiểm hơn trước.\nTừ trang phục còn sót lại và kinh nghiệm chiến đấu cho thấy, rất có thể là được chuyển hóa từ băng cướp/côn đồ cao cấp lăn lộn trong Lỗ Hổng.\nCác băng cướp thường là những kẻ thô bạo và nguy hiểm, những kẻ dám cướp bóc trong Lỗ Hổng thì lại càng hung hãn, còn những gã tinh nhuệ trong các băng nhóm này lại càng đáng sợ hơn.\nKhi những kẻ hung ác đã bị bạo lực ăn sâu vào cơ thể và tâm trí này bị Ether Ăn Mòn, thì bạn sẽ có được một quái vật hiếu chiến hơn cả Ethereal bình thường.\n\"Trước đây chúng lấy tiền không cần mạng, giờ chúng lấy mạng không cần tiền...\"",
+            "card_quote": "...Chú thích ở trang nào đó trong giáo trình nội bộ của Hiệp Hội Điều Tra Lỗ Hổng, \"Nhận Biết Nguy Hiểm Trong Lỗ Hổng - Thể Ăn Mòn\"",
+            "skill_text": "Trong chiến đấu, Thể Ăn Mòn Cướp Bóc - Kẻ Điên Độc Ác sẽ thực hiện tấn công liên tục vào kẻ địch ở gần, thực hiện tông nhanh vào kẻ địch ở xa. Sau khi gây sát thương nhất định lên cánh tay của hắn để phá hoại, thế tấn công của hắn càng hung hãn hơn."
+        }
+    },
+    "Cục Trị An": {
+        "10010": {
+            "monster_id": 10010,
+            "monster_name": "Đơn Vị Chưa Rõ",
+            "card_text": "Đơn vị chưa rõ, cần điều tra thêm nhiều thông tin.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10011": {
+            "monster_id": 10011,
+            "monster_name": "Đơn Vị Chưa Rõ",
+            "card_text": "Đơn vị chưa rõ, cần điều tra thêm nhiều thông tin.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10012": {
+            "monster_id": 10012,
+            "monster_name": "Đơn Vị Chưa Rõ",
+            "card_text": "Đơn vị chưa rõ, cần điều tra thêm nhiều thông tin.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "20006": {
+            "monster_id": 20006,
+            "monster_name": "Đơn Vị Hỗ Trợ Tự Động: Kẻ Càn Quét",
+            "card_text": "Cỗ máy tác chiến tự động của Cục Trị An, được trang bị chế độ chiến đấu như cắt xoay, tia nhiệt năng tụ biến để đối phó với đặc tính hoạt động của Ethereal.\nKẻ Càn Quét có thể nhanh chóng xác định loại hình và sở thích hành động của Ethereal, từ đó chuyển sang phương án chiến đấu tốt nhất.\nSo với Ethereal chỉ có một chế độ phản đòn duy nhất, chúng kém linh hoạt hơn khi thực hiện mệnh lệnh truy bắt Đạo Tặc Lỗ Hổng.\n\"Khuấy, cắt, đun nóng... người thiết kế thứ này lẽ nào là gián điệp do bộ phận bán hàng của công ty dụng cụ nhà bếp phái đi sao?\"",
+            "card_quote": "- Chương trình trò chuyện đêm khuya \"Sở Thú Lỗ Hổng\"",
+            "skill_text": "Trong chiến đấu, Đơn Vị Hỗ Trợ Tự Động - Kẻ Càn Quét sẽ lợi dụng đôi tay dài để liên tục tấn công xoay vòng, trước khi phát động tấn công, sử dụng Hỗ Trợ Chống Đỡ lên hắn sẽ có thể ngăn cản phát động chiêu thức này."
+        }
+    },
+    "Quân Phản Loạn": {
+        "10005": {
+            "monster_id": 10005,
+            "monster_name": "Thợ Săn Tập Kích",
+            "card_text": "Một trong những binh chủng của Lực Lượng Phòng Vệ New Eridu, thuộc đơn vị bộ binh hạng nhẹ.\nLà binh chủng bộ binh dùng dao ngắn được cường hóa bằng nguyên liệu Ether và chất nổ loại nhỏ làm vũ khí chính, nhấn mạnh tính cơ động và bí mật, thường phụ trách việc thám thính hoặc tiên phong, dựa vào khả năng cơ động đặc biệt để thực hiện nhiệm vụ quấy nhiễu, trinh sát, truy đuổi, ám sát.\nTrong các hành động liên quan đến Lỗ Hổng, họ cũng là những tiền tuyến xuất sắc, kỹ năng cận chiến được huấn luyện đặc biệt đã giúp họ dễ dàng đánh bại kẻ ăn mòn thông thường và Ether sống cấp thấp.\n\"Bậc Thầy Kiếm Ngắn Chí Mạng? Tôi thấy phải gọi là Lính Ném Bom Chơi Xấu mới đúng! Giả vờ vung con dao của mình, nhưng rõ ràng hầu hết đối thủ đều bị tiêu diệt bằng bom đạn!\"",
+            "card_quote": "...Một tin nhắn nặc danh nào đó trên diễn đàn Inter-Knot",
+            "skill_text": "Trong chiến đấu, Thợ Săn Tập Kích sẽ lướt và nhanh chóng tiếp cận mục tiêu, hoặc ném ra phi đao phát nổ chậm."
+        },
+        "10006": {
+            "monster_id": 10006,
+            "monster_name": "Thợ Săn Giáp Nhẹ",
+            "card_text": "Là đơn vị tác chiến chính của Lực Lượng Phòng Vệ New Eridu, \"Thợ Săn Giáp Nhẹ\" và \"Thợ Săn Tiên Phong\" đạt chuẩn có thể tự do chuyển đổi giữa nhiều kiểu tác chiến.\nDù sử dụng dao găm trong cận chiến, hay bắn từ xa bằng súng nạp năng lượng Ether \"Falcon-MK3\", họ đều có thể tùy chỉnh chiến thuật mới dựa trên điểm yếu của mục tiêu.\nKhi đối phương đang lúng túng, họ càng không do dự mà tung đòn tấn công.\n\"Tôi nhìn người đang cầm dao găm kia, định đánh tay đôi một trận công bằng với anh ta... Không ngờ anh ta đột nhiên rút súng ra.\"",
+            "card_quote": "...Diễn đàn Inter-Knot, bài viết phàn nàn của một Đạo Tặc Lỗ Hổng tân thủ nào đó",
+            "skill_text": "Trong chiến đấu, Thợ Săn Giáp Nhẹ sẽ tiến hành chi viện hỏa lực liên tục."
+        },
+        "10007": {
+            "monster_id": 10007,
+            "monster_name": "Thợ Săn Tân Thủ",
+            "card_text": "Trong hành động đặc biệt đối với Lỗ Hổng của Lực Lượng Phòng Vệ, \"Thợ Săn Tân Thủ\" và \"Thợ Săn Huấn Luyện\" luôn là thành viên đột kích tiền tuyến không thể thiếu trong các đội chiến thuật.\nĐao Ether hạng nặng loại \"Coyote-PE7\" có lưỡi cắt rung tần số cao, có thể uy hiếp kẻ địch cỡ nhỏ một cách hiệu quả khi chiến đấu ở cự ly gần. Trong Lỗ Hổng, việc đối đầu với Ethereal đòi hỏi lòng dũng cảm phi thường.\nCó lẽ, so với \"lòng dũng cảm\" thì gọi đó là \"điên cuồng\" sẽ thích hợp hơn.\n\"Nói một cách chính xác, đó không thể coi là một trận chiến chống lại Lỗ Hổng tiêu chuẩn... Đám điên đó giống như đang tìm niềm vui khi đánh nhau với Ethereal hơn.\"",
+            "card_quote": "- Bộ phận tuần tra Lực Lượng Phòng Vệ, bản báo cáo chiến đấu tiền tuyến nào đó",
+            "skill_text": "Trong chiến đấu, Thợ Săn Tân Thủ sẽ thực hiện tấn công cận chiến."
+        },
+        "10008": {
+            "monster_id": 10008,
+            "monster_name": "Thợ Săn Hộ Vệ",
+            "card_text": "Là lực lượng chủ chốt tấn công kiêm phòng thủ của đội chiến thuật thuộc Lực Lượng Phòng Vệ, \"Thợ Săn Hộ Vệ\" và \"Thợ Săn Tuần Tra\" không chỉ trang bị đao Ether hạng nặng loại \"Coyote-PE7\", mà còn mang theo khiên chống bạo động Ether trơ, có thể bảo vệ cho tiểu đội tác chiến trong môi trường chiến đấu phức tạp.\nVới khả năng phòng ngự cao, trọng lượng của khiên cũng khá nặng, làm hạn chế tính cơ động của Thợ Săn Hộ Vệ.\nNếu chưa được huấn luyện chuyên nghiệp, người thường khó mà nhấc nổi chiếc khiên đó lên.\n\"Chờ khi bạn có thể tập luyện độc lập trong phòng tập, thì hẵng đến nộp đơn đăng ký!\"",
+            "card_quote": "...Lá thư từ chối mà một ứng viên nào đó nhận được tại phòng tuyển dụng lính mới của Lực Lượng Phòng Vệ.",
+            "skill_text": "Trong chiến đấu, Thợ Săn Hộ Vệ sẽ tận dụng tấm khiên để giảm mạnh sát thương và Điểm Choáng mà bản thân phải chịu, đồng thời phản kích vào thời điểm thích hợp."
+        },
+        "10009": {
+            "monster_id": 10009,
+            "monster_name": "Thợ Săn Ném Bom",
+            "card_text": "\"Thợ Săn Ném Bom\" và \"Thợ Săn Oanh Kích\" được trang bị súng phóng loại \"Mamba-TG3\" đã qua cải tiến, trong thuốc nổ đặc chế của nó còn chứa thuốc nổ Ether hoạt tính, có thể nhanh chóng phá hủy đơn vị cơ khí của kẻ địch, tiêu diệt Ethereal cỡ lớn trong Lỗ Hổng một cách hiệu quả.\nĐể giảm độ giật và tăng độ chính xác khi ngắm bắn, họ cần trải qua huấn luyện về các tư thế cầm nắm đặc biệt. Dữ liệu thống kê của Lực Lượng Phòng Vệ cho thấy, lính mới có biểu hiện xuất sắc trong phương diện này, đều có kinh nghiệm liên quan đến nhiếp ảnh.\n\"Cách dùng thứ này giống với cách vác máy ảnh.\"\n\"Đầu tiên, hướng ống kính về phía mục tiêu, sau đó vừa bóp cò vừa lẩm bẩm...\"\n\"Này, đồ ngốc!... Cười lên nào!\"",
+            "card_quote": "...Trại huấn luyện tân binh, giáo viên đang giảng giải kỹ thuật thao tác của súng phóng",
+            "skill_text": "Trong chiến đấu, Thợ Săn Ném Bom có thiên hướng chi viện hỏa lực mạnh từ xa."
+        },
+        "20007": {
+            "monster_id": 20007,
+            "monster_name": "Kẻ Xâm Lược Hạng Nặng",
+            "card_text": "Robot chiến đấu loại tự động được trang bị cho Lực Lượng Phòng Vệ, có thể hỗ trợ hỏa lực liên tục cho các nhân viên tuyến đầu.\nĐược trang bị tấm khiên với thành phần Ether trơ có thể cản được hầu hết hỏa lực hạng nhẹ, thậm chí có thể chặn được những đòn tấn công dữ dội của Ethereal cỡ lớn.\nKhông còn nghi ngờ gì, nó chính là một trong những \"chiến hữu\" đáng tin cậy nhất trong nội bộ Lực Lượng Phòng Vệ.\n\"Nhớ kỹ nhé, khi gặp phải rắc rối hãy trốn sau lưng nó... Như vậy thì khả năng duy nhất bạn bị thương là khi bị nó vô tình giẫm phải.\"",
+            "card_quote": "- Khóa huấn luyện tân binh của Lực Lượng Phòng Vệ, một sĩ quan nào đó đã chia sẻ kinh nghiệm",
+            "skill_text": "Trong chiến đấu, Kẻ Xâm Lược Hạng Nặng sẽ triển khai khiên chắn, trong thời gian khai triển khiên sẽ không thể tích lũy Chỉ Số Tích Lũy Dị Thường thuộc tính nào khác ngoài thuộc tính Hỏa và Vật Lý, thi triển hiệu quả Thiêu Đốt, hiệu quả Cường Kích lên hắn hoặc làm hắn rơi vào trạng thái Choáng sẽ có thể trực tiếp phá hủy khiên."
+        },
+        "20008": {
+            "monster_id": 20008,
+            "monster_name": "Kẻ Tuần Hành Nhanh Nhẹn",
+            "card_text": "Là robot hỗ trợ hỏa lực chính được trang bị cho Lực Lượng Phòng Vệ, thuật toán chiến thuật mà \"Kẻ Tuần Hành Nhanh Nhẹn\" tích hợp có thể phân tích mô hình hành vi của đối thủ, đồng thời tính toán chính xác các mục tiêu bắn tỉa.\nVà khi xác định kẻ địch trước mặt là \"đối tượng có mối nguy hiểm cao\", nó sẽ mở hộp phóng để bắn ra drone, đồng thời triển khai đòn tấn công hỏa lực vô cùng mạnh mẽ.\nĐối với Đạo Tặc Lỗ Hổng, sự xuất hiện bất ngờ của một \"Kẻ Tuần Hành Nhanh Nhẹn\" không chỉ là \"phiền phức\", mà còn là \"phiền phức vô biên vô tận\".\n\"Ôi trời ơi! Nó, nó còn sinh con nữa!!!\"",
+            "card_quote": "- Sâu bên trong Lỗ Hổng Papago, một tân thủ Đạo Tặc Lỗ Hổng nào đó bị truy bắt",
+            "skill_text": "Trong chiến đấu, Kẻ Tuần Hành Nhanh Nhẹn sẽ triệu hồi hai chiếc UAV phối hợp tác chiến, khi cần thiết sẽ điều khiển UAV phát động tự nổ tập kích kẻ địch."
+        },
+        "20009": {
+            "monster_id": 20009,
+            "monster_name": "Pháo Thủ Hạng Nặng",
+            "card_text": "Một trong những binh chủng của Lực Lượng Phòng Vệ New Eridu, thuộc đơn vị bộ binh hạng nặng.\nHọ được trang bị đồng phục chiến đấu hạng nặng có tên là \"Gray Rhino\", kết hợp dùng cả bộ vũ trang hỏa lực binh sĩ đã được tăng cường bởi công nghệ Ether, có thể thực hiện tấn công hỏa lực cường độ cao trong thời gian dài khi đủ đạn dược và các vật tư hậu cần khác, là nòng cốt tấn công và cũng là người thực hiện các hành động tấn công và quét sạch.\nSau sự kiện Cố Đô Sụp Đổ, một lượng lớn binh lính đã rời quân ngũ và \"lưu lạc\" giữa dân chúng. Những tay hỏa lực tinh nhuệ này bắt đầu xuất hiện thường xuyên giữa các thế lực khác: Lực lượng vũ trang tư nhân của các tài phiệt, các công ty an ninh mới nổi, thậm chí là băng cướp lang thang...\n\"Tôi cho rằng Pháo Thủ Hạng Nặng đều là những cô gái nhỏ nhắn xinh đẹp, khoảng trống trong đồng phục chiến đấu đều dùng để chứa đạn dược. Nếu không làm sao giải thích được đạn pháo vô tận dùng không hết của họ đến từ đâu chứ?\"",
+            "card_quote": "- Diễn đàn \"Thảm Họa Hôm Nay\", bình luận trên trang Giấc Mơ Ban Ngày",
+            "skill_text": "Trong chiến đấu, Pháo Thủ Hạng Nặng luân phiên sử dụng pháo laser và lựu đạn tách tiến hành tấn công từ xa liên tục."
+        },
+        "30002": {
+            "monster_id": 30002,
+            "monster_name": "Vệ Sĩ",
+            "card_text": "Chỉ trong các hoạt động chiến đấu Lỗ Hổng quy mô lớn, Lực Lượng Phòng Vệ mới điều động các cỗ máy được vũ trang đầy đủ như \"Vệ Sĩ\".\nBom choáng hoạt tính Ether, súng nạp năng lượng Ether \"MARS-74\", tia nhiệt năng tụ biến... Người bảo vệ trận tuyến chính là kho trang bị vũ khí di động của Cục Trị An.\nNó vừa tăng cường hỏa lực toàn diện vừa bảo lưu tính cơ động cao đáng kinh ngạc, có thể nhảy cao và xung kích, xua đuổi các nhóm Ethereal nhỏ và thúc đẩy chiến tuyến một cách có trật tự.\nĐối với Đạo Tặc Lỗ Hổng, dù chỉ có một \"Vệ Sĩ\" trước mặt cũng là một pháo đài khó mà vượt qua.\n\"Tôi sẽ tấn công với hình dạng pháo đài!\"",
+            "card_quote": "...Lời thoại trong một bộ phim bỏng ngô của New Eridu \"Người Bảo Vệ Trận Tuyến, Biến Hình Xuất Phát!\"",
+            "skill_text": "Trong chiến đấu, Đơn Vị Hỗ Trợ Tự Động - Vệ Sĩ không những có thể sử dụng tấn công cự li gần mạnh mẽ, mà còn có thể dùng nhiều thủ đoạn đa dạng để thực hiện bắn từ xa. Khi bên cạnh có đơn vị khác, một số Đơn Vị Hỗ Trợ Tự Động - Vệ Sĩ sẽ tập trung di chuyển ở ngoài chiến trường thực hiện chi viện hỏa lực từ xa."
+        },
+        "30008": {
+            "monster_id": 30008,
+            "monster_name": "Typhon Khiêu Chiến",
+            "card_text": "Là cỗ máy hạng nặng, Typhon Khiêu Chiến không lắp đặt thêm hỏa lực tầm xa, thay vào đó sử dụng toàn bộ hiệu suất của nó để tăng cường giáp động năng Ether.\nXung kích, trọng kích, nghiền nát... Typhon Khiêu Chiến sử dụng các động tác chiến thuật đơn giản và hiệu quả để phát huy tối đa sức mạnh hủy diệt của giáp động năng. Hiệu ứng nổ từ đòn đánh của nó thậm chí có thể uy hiếp Ethereal cỡ lớn.\nĐối mặt với Typhon Khiêu Chiến khó tiếp cận này, cho dù là Đạo Tặc Lỗ Hổng dày dặn kinh nghiệm nhất cũng chỉ có thể thở dài bất lực.\n\"Cơ thể to lớn vạm vỡ, cánh tay khỏe mạnh... ừm, quả nhiên là hình mẫu lý tưởng của tôi... ý tôi nói là model.\"",
+            "card_quote": "...Trong tiệm đồ chơi, Grace đang chơi mô hình Typhon Khiêu Chiến",
+            "skill_text": "Trong chiến đấu, Đơn Vị Chiến Thuật Tự Động - Typhon Khiêu Chiến sẽ thi triển đòn đánh mạnh liên tục, đồng thời thỉnh thoảng nhảy lên không trung, phát động đập mạnh vào kẻ địch."
+        },
+        "100051": {
+            "monster_id": 100051,
+            "monster_name": "Thợ Săn Quấy Nhiễu",
+            "card_text": "Một trong những binh chủng của Lực Lượng Phòng Vệ New Eridu, thuộc đơn vị bộ binh hạng nhẹ.\nLà binh chủng bộ binh dùng dao ngắn được cường hóa bằng nguyên liệu Ether và chất nổ loại nhỏ làm vũ khí chính, nhấn mạnh tính cơ động và bí mật, thường phụ trách việc thám thính hoặc tiên phong, dựa vào khả năng cơ động đặc biệt để thực hiện nhiệm vụ quấy nhiễu, trinh sát, truy đuổi, ám sát.\nTrong các hành động liên quan đến Lỗ Hổng, họ cũng là những tiền tuyến xuất sắc, kỹ năng cận chiến được huấn luyện đặc biệt đã giúp họ dễ dàng đánh bại kẻ ăn mòn thông thường và Ether sống cấp thấp.\n\"Bậc Thầy Kiếm Ngắn Chí Mạng? Tôi thấy phải gọi là Lính Ném Bom Chơi Xấu mới đúng! Giả vờ vung con dao của mình, nhưng rõ ràng hầu hết đối thủ đều bị tiêu diệt bằng bom đạn!\"",
+            "card_quote": "...Một tin nhắn nặc danh nào đó trên diễn đàn Inter-Knot",
+            "skill_text": "Trong chiến đấu, Thợ Săn Quấy Nhiễu sẽ lướt và nhanh chóng tiếp cận mục tiêu, hoặc ném ra phi đao phát nổ chậm."
+        },
+        "100061": {
+            "monster_id": 100061,
+            "monster_name": "Thợ Săn Tiên Phong",
+            "card_text": "Là đơn vị tác chiến chính của Lực Lượng Phòng Vệ New Eridu, \"Thợ Săn Giáp Nhẹ\" và \"Thợ Săn Tiên Phong\" đạt chuẩn có thể tự do chuyển đổi giữa nhiều kiểu tác chiến.\nDù sử dụng dao găm trong cận chiến, hay bắn từ xa bằng súng nạp năng lượng Ether \"Falcon-MK3\", họ đều có thể tùy chỉnh chiến thuật mới dựa trên điểm yếu của mục tiêu.\nKhi đối phương đang lúng túng, họ càng không do dự mà tung đòn tấn công.\n\"Tôi nhìn người đang cầm dao găm kia, định đánh tay đôi một trận công bằng với anh ta... Không ngờ anh ta đột nhiên rút súng ra.\"",
+            "card_quote": "...Diễn đàn Inter-Knot, bài viết phàn nàn của một Đạo Tặc Lỗ Hổng tân thủ nào đó",
+            "skill_text": "Trong chiến đấu, Thợ Săn Tiên Phong sẽ tiến hành chi viện hỏa lực liên tục."
+        },
+        "100071": {
+            "monster_id": 100071,
+            "monster_name": "Thợ Săn Huấn Luyện",
+            "card_text": "Trong hành động đặc biệt đối với Lỗ Hổng của Lực Lượng Phòng Vệ, \"Thợ Săn Tân Thủ\" và \"Thợ Săn Huấn Luyện\" luôn là thành viên đột kích tiền tuyến không thể thiếu trong các đội chiến thuật.\nĐao Ether hạng nặng loại \"Coyote-PE7\" có lưỡi cắt rung tần số cao, có thể uy hiếp kẻ địch cỡ nhỏ một cách hiệu quả khi chiến đấu ở cự ly gần. Trong Lỗ Hổng, việc đối đầu với Ethereal đòi hỏi lòng dũng cảm phi thường.\nCó lẽ, so với \"lòng dũng cảm\" thì gọi đó là \"điên cuồng\" sẽ thích hợp hơn.\n\"Nói một cách chính xác, đó không thể coi là một trận chiến chống lại Lỗ Hổng tiêu chuẩn... Đám điên đó giống như đang tìm niềm vui khi đánh nhau với Ethereal hơn.\"",
+            "card_quote": "- Bộ phận tuần tra Lực Lượng Phòng Vệ, bản báo cáo chiến đấu tiền tuyến nào đó",
+            "skill_text": "Trong chiến đấu, Thợ Săn Huấn Luyện sẽ thực hiện tấn công cận chiến."
+        },
+        "100081": {
+            "monster_id": 100081,
+            "monster_name": "Thợ Săn Tuần Tra",
+            "card_text": "Là lực lượng chủ chốt tấn công kiêm phòng thủ của đội chiến thuật thuộc Lực Lượng Phòng Vệ, \"Thợ Săn Hộ Vệ\" và \"Thợ Săn Tuần Tra\" không chỉ trang bị đao Ether hạng nặng loại \"Coyote-PE7\", mà còn mang theo khiên chống bạo động Ether trơ, có thể bảo vệ cho tiểu đội tác chiến trong môi trường chiến đấu phức tạp.\nVới khả năng phòng ngự cao, trọng lượng của khiên cũng khá nặng, làm hạn chế tính cơ động của Thợ Săn Hộ Vệ.\nNếu chưa được huấn luyện chuyên nghiệp, người thường khó mà nhấc nổi chiếc khiên đó lên.\n\"Chờ khi bạn có thể tập luyện độc lập trong phòng tập, thì hẵng đến nộp đơn đăng ký!\"",
+            "card_quote": "...Lá thư từ chối mà một ứng viên nào đó nhận được tại phòng tuyển dụng lính mới của Lực Lượng Phòng Vệ.",
+            "skill_text": "Trong chiến đấu, Thợ Săn Tuần Tra sẽ tận dụng tấm khiên để giảm mạnh sát thương và Điểm Choáng mà bản thân phải chịu, đồng thời phản kích vào thời điểm thích hợp."
+        },
+        "100091": {
+            "monster_id": 100091,
+            "monster_name": "Thợ Săn Oanh Kích",
+            "card_text": "\"Thợ Săn Ném Bom\" và \"Thợ Săn Oanh Kích\" được trang bị súng phóng loại \"Mamba-TG3\" đã qua cải tiến, trong thuốc nổ đặc chế của nó còn chứa thuốc nổ Ether hoạt tính, có thể nhanh chóng phá hủy đơn vị cơ khí của kẻ địch, tiêu diệt Ethereal cỡ lớn trong Lỗ Hổng một cách hiệu quả.\nĐể giảm độ giật và tăng độ chính xác khi ngắm bắn, họ cần trải qua huấn luyện về các tư thế cầm nắm đặc biệt. Dữ liệu thống kê của Lực Lượng Phòng Vệ cho thấy, lính mới có biểu hiện xuất sắc trong phương diện này, đều có kinh nghiệm liên quan đến nhiếp ảnh.\n\"Cách dùng thứ này giống với cách vác máy ảnh.\"\n\"Đầu tiên, hướng ống kính về phía mục tiêu, sau đó vừa bóp cò vừa lẩm bẩm...\"\n\"Này, đồ ngốc!... Cười lên nào!\"",
+            "card_quote": "...Trại huấn luyện tân binh, giáo viên đang giảng giải kỹ thuật thao tác của súng phóng",
+            "skill_text": "Trong chiến đấu, Thợ Săn Oanh Kích có thiên hướng chi viện hỏa lực mạnh từ xa."
+        },
+        "200071": {
+            "monster_id": 200071,
+            "monster_name": "Kẻ Xâm Lược Hạng Nặng II",
+            "card_text": "Robot chiến đấu loại tự động được trang bị cho Lực Lượng Phòng Vệ, có thể hỗ trợ hỏa lực liên tục cho các nhân viên tuyến đầu.\nĐược trang bị tấm khiên với thành phần Ether trơ có thể cản được hầu hết hỏa lực hạng nhẹ, thậm chí có thể chặn được những đòn tấn công dữ dội của Ethereal cỡ lớn.\nKhông còn nghi ngờ gì, nó chính là một trong những \"chiến hữu\" đáng tin cậy nhất trong nội bộ Lực Lượng Phòng Vệ.\n\"Nhớ kỹ nhé, khi gặp phải rắc rối hãy trốn sau lưng nó... Như vậy thì khả năng duy nhất bạn bị thương là khi bị nó vô tình giẫm phải.\"",
+            "card_quote": "- Khóa huấn luyện tân binh của Lực Lượng Phòng Vệ, một sĩ quan nào đó đã chia sẻ kinh nghiệm",
+            "skill_text": "Trong chiến đấu, Kẻ Xâm Lược Hạng Nặng II sẽ triển khai khiên chắn, trong thời gian khai triển khiên chỉ có thể tích lũy Chỉ Số Tích Lũy Dị Thường Điện, thi triển hiệu quả Sốc Điện lên hắn hoặc làm hắn rơi vào trạng thái Choáng sẽ có thể trực tiếp phá hủy khiên."
+        },
+        "200072": {
+            "monster_id": 200072,
+            "monster_name": "Lá Chắn Vệ Binh",
+            "card_text": "Robot chiến đấu loại tự động được trang bị cho Lực Lượng Phòng Vệ, có thể hỗ trợ hỏa lực liên tục cho các nhân viên tuyến đầu.\nĐược trang bị tấm khiên với thành phần Ether trơ có thể cản được hầu hết hỏa lực hạng nhẹ, thậm chí có thể chặn được những đòn tấn công dữ dội của Ethereal cỡ lớn.\nKhông còn nghi ngờ gì, nó chính là một trong những \"chiến hữu\" đáng tin cậy nhất trong nội bộ Lực Lượng Phòng Vệ.\n\"Nhớ kỹ nhé, khi gặp phải rắc rối hãy trốn sau lưng nó... Như vậy thì khả năng duy nhất bạn bị thương là khi bị nó vô tình giẫm phải.\"",
+            "card_quote": "- Khóa huấn luyện tân binh của Lực Lượng Phòng Vệ, một sĩ quan nào đó đã chia sẻ kinh nghiệm",
+            "skill_text": "Trong chiến đấu, Lá Chắn Vệ Binh sẽ tấn công ngày càng hung hãn hơn, đồng thời triển khai khiên chắn. Trong thời gian khai triển khiên sẽ không thể tích lũy Chỉ Số Tích Lũy Dị Thường thuộc tính nào khác ngoài thuộc tính Hỏa và Vật Lý, thi triển hiệu quả Thiêu Đốt, hiệu quả Cường Kích lên hắn hoặc làm hắn rơi vào trạng thái Choáng sẽ có thể trực tiếp phá hủy khiên."
+        },
+        "200073": {
+            "monster_id": 200073,
+            "monster_name": "Lá Chắn Vệ Binh Omega",
+            "card_text": "Robot chiến đấu loại tự động được trang bị cho Lực Lượng Phòng Vệ, có thể hỗ trợ hỏa lực liên tục cho các nhân viên tuyến đầu.\nĐược trang bị tấm khiên với thành phần Ether trơ có thể cản được hầu hết hỏa lực hạng nhẹ, thậm chí có thể chặn được những đòn tấn công dữ dội của Ethereal cỡ lớn.\nKhông còn nghi ngờ gì, nó chính là một trong những \"chiến hữu\" đáng tin cậy nhất trong nội bộ Lực Lượng Phòng Vệ.\n\"Nhớ kỹ nhé, khi gặp phải rắc rối hãy trốn sau lưng nó... Như vậy thì khả năng duy nhất bạn bị thương là khi bị nó vô tình giẫm phải.\"",
+            "card_quote": "- Khóa huấn luyện tân binh của Lực Lượng Phòng Vệ, một sĩ quan nào đó đã chia sẻ kinh nghiệm",
+            "skill_text": "Trong chiến đấu, thế tấn công của Lá Chắn Vệ Binh Omega càng mạnh mẽ hơn, và sẽ triển khai khiên chắn. Trong thời gian triển khai khiên sẽ không thể tích lũy Chỉ Số Tích Lũy Dị Thường nào khác ngoài thuộc tính Điện, gán hiệu quả Sốc Điện lên nó hoặc khiến nó rơi vào trạng thái Choáng sẽ có thể trực tiếp phá hủy khiên."
+        },
+        "200081": {
+            "monster_id": 200081,
+            "monster_name": "Kẻ Tuần Hành Nhanh Nhẹn II",
+            "card_text": "Là robot hỗ trợ hỏa lực chính được trang bị cho Lực Lượng Phòng Vệ, thuật toán chiến thuật mà \"Kẻ Tuần Hành Nhanh Nhẹn\" tích hợp có thể phân tích mô hình hành vi của đối thủ, đồng thời tính toán chính xác các mục tiêu bắn tỉa.\nVà khi xác định kẻ địch trước mặt là \"đối tượng có mối nguy hiểm cao\", nó sẽ mở hộp phóng để bắn ra drone, đồng thời triển khai đòn tấn công hỏa lực vô cùng mạnh mẽ.\nĐối với Đạo Tặc Lỗ Hổng, sự xuất hiện bất ngờ của một \"Kẻ Tuần Hành Nhanh Nhẹn\" không chỉ là \"phiền phức\", mà còn là \"phiền phức vô biên vô tận\".\n\"Ôi trời ơi! Nó, nó còn sinh con nữa!!!\"",
+            "card_quote": "- Sâu bên trong Lỗ Hổng Papago, một tân thủ Đạo Tặc Lỗ Hổng nào đó bị truy bắt",
+            "skill_text": "Trong chiến đấu, Kẻ Tuần Hành Nhanh Nhẹn II sẽ triệu hồi hai chiếc UAV phối hợp tác chiến, khi cần thiết sẽ điều khiển UAV phát động tự nổ tập kích kẻ địch."
+        },
+        "200091": {
+            "monster_id": 200091,
+            "monster_name": "Pháo Thủ Đột Kích",
+            "card_text": "Một trong những binh chủng của Lực Lượng Phòng Vệ New Eridu, thuộc đơn vị bộ binh hạng nặng.\nHọ được trang bị đồng phục chiến đấu hạng nặng có tên là \"Gray Rhino\", kết hợp dùng cả bộ vũ trang hỏa lực binh sĩ đã được tăng cường bởi công nghệ Ether, có thể thực hiện tấn công hỏa lực cường độ cao trong thời gian dài khi đủ đạn dược và các vật tư hậu cần khác, là nòng cốt tấn công và cũng là người thực hiện các hành động tấn công và quét sạch.\nSau sự kiện Cố Đô Sụp Đổ, một lượng lớn binh lính đã rời quân ngũ và \"lưu lạc\" giữa dân chúng. Những tay hỏa lực tinh nhuệ này bắt đầu xuất hiện thường xuyên giữa các thế lực khác: Lực lượng vũ trang tư nhân của các tài phiệt, các công ty an ninh mới nổi, thậm chí là băng cướp lang thang...\n\"Tôi cho rằng Pháo Thủ Hạng Nặng đều là những cô gái nhỏ nhắn xinh đẹp, khoảng trống trong đồng phục chiến đấu đều dùng để chứa đạn dược. Nếu không làm sao giải thích được đạn pháo vô tận dùng không hết của họ đến từ đâu chứ?\"",
+            "card_quote": "- Diễn đàn \"Thảm Họa Hôm Nay\", bình luận trên trang Giấc Mơ Ban Ngày",
+            "skill_text": "Trong chiến đấu, Pháo Thủ Đột Kích luân phiên sử dụng pháo laser và lựu đạn tách tiến hành tấn công từ xa liên tục."
+        },
+        "300021": {
+            "monster_id": 300021,
+            "monster_name": "Vệ Sĩ II",
+            "card_text": "Chỉ trong các hoạt động chiến đấu Lỗ Hổng quy mô lớn, Lực Lượng Phòng Vệ mới điều động các cỗ máy được vũ trang đầy đủ như \"Vệ Sĩ\".\nBom choáng hoạt tính Ether, súng nạp năng lượng Ether \"MARS-74\", tia nhiệt năng tụ biến... Người bảo vệ trận tuyến chính là kho trang bị vũ khí di động của Cục Trị An.\nNó vừa tăng cường hỏa lực toàn diện vừa bảo lưu tính cơ động cao đáng kinh ngạc, có thể nhảy cao và xung kích, xua đuổi các nhóm Ethereal nhỏ và thúc đẩy chiến tuyến một cách có trật tự.\nĐối với Đạo Tặc Lỗ Hổng, dù chỉ có một \"Vệ Sĩ\" trước mặt cũng là một pháo đài khó mà vượt qua.\n\"Tôi sẽ tấn công với hình dạng pháo đài!\"",
+            "card_quote": "...Lời thoại trong một bộ phim bỏng ngô của New Eridu \"Người Bảo Vệ Trận Tuyến, Biến Hình Xuất Phát!\"",
+            "skill_text": "Trong chiến đấu, Đơn Vị Hỗ Trợ Tự Động - Vệ Sĩ không những có thể sử dụng tấn công cự li gần mạnh mẽ, mà còn có thể dùng nhiều thủ đoạn đa dạng để thực hiện bắn từ xa. Khi bên cạnh có đơn vị khác, một số Đơn Vị Hỗ Trợ Tự Động - Vệ Sĩ II sẽ tập trung di chuyển ở ngoài chiến trường thực hiện chi viện hỏa lực từ xa."
+        },
+        "300022": {
+            "monster_id": 300022,
+            "monster_name": "Vệ Sĩ III",
+            "card_text": "Chỉ trong các hoạt động chiến đấu Lỗ Hổng quy mô lớn, Lực Lượng Phòng Vệ mới điều động các cỗ máy được vũ trang đầy đủ như \"Vệ Sĩ\".\nBom choáng hoạt tính Ether, súng nạp năng lượng Ether \"MARS-74\", tia nhiệt năng tụ biến... Người bảo vệ trận tuyến thật xứng danh là kho trang bị vũ khí di động của Cục Trị An.\nVà khi nó tăng cường hỏa lực, cũng vẫn đồng thời lưu giữ được tính cơ động cao đáng kinh ngạc, có thể nhảy cao và xung kích, xua đuổi các nhóm Ethereal nhỏ và thúc đẩy chiến tuyến một cách có trật tự.\nĐối với Đạo Tặc Lỗ Hổng, dù chỉ có một \"Vệ Sĩ\" trước mặt cũng là một pháo đài khó mà vượt qua.\n\"Ta sẽ tấn công với hình thái pháo đài!\"",
+            "card_quote": "- Lời thoại trong một bộ phim giải trí của New Eridu \"Người Bảo Vệ Trận Tuyến, Biến Hình Xuất Phát!\"",
+            "skill_text": "Trong chiến đấu, Đơn Vị Tấn Công Tự Động - Vệ Sĩ III có thế tấn công hung hãn, cách thức tấn công từ xa rất phong phú, đồng thời thỉnh thoảng nhảy lên không trung, phát động đập mạnh vào kẻ địch."
+        },
+        "300081": {
+            "monster_id": 300081,
+            "monster_name": "Typhon Trọng Kích",
+            "card_text": "Là cỗ máy hạng nặng, Typhon Trọng Kích không lắp đặt thêm hỏa lực tầm xa, thay vào đó sử dụng toàn bộ hiệu suất của nó để tăng cường giáp động năng Ether.\nXung kích, trọng kích, nghiền nát... Typhon Trọng Kích sử dụng các động tác chiến thuật đơn giản và hiệu quả để phát huy tối đa sức mạnh hủy diệt của giáp động năng. Hiệu ứng nổ từ đòn đánh của nó thậm chí có thể uy hiếp Ethereal cỡ lớn.\nĐối mặt với Typhon Trọng Kích khó tiếp cận này, cho dù là Đạo Tặc Lỗ Hổng dày dặn kinh nghiệm nhất cũng chỉ có thể thở dài bất lực.\n\"Cơ thể to lớn vạm vỡ, cánh tay khỏe mạnh... ừm, quả nhiên là hình mẫu lý tưởng của tôi... ý tôi nói là model.\"",
+            "card_quote": "...Trong tiệm đồ chơi, Grace đang chơi mô hình Typhon Trọng Kích",
+            "skill_text": "Trong chiến đấu, Đơn Vị Chiến Thuật Tự Động - Typhon Trọng Kích sẽ thi triển đòn đánh mạnh liên tục, đồng thời thỉnh thoảng nhảy lên không trung, phát động đập mạnh vào kẻ địch."
+        }
+    },
+    "Đặc Biệt": {
+        "10023": {
+            "monster_id": 10023,
+            "monster_name": "Bangboo Vàng",
+            "card_text": "Mỗi Đạo Tặc Lỗ Hổng đều cho rằng trong Lỗ Hổng có vô số cơ hội để làm giàu chỉ sau một đêm; và đằng sau mỗi một huyền thoại làm giàu sau một đêm đó đều có một sự tồn tại đặc biệt được nhắc đến: Bangboo Vàng.\nNghiên cứu của Hiệp Hội Điều Tra Lỗ Hổng cho thấy có rất nhiều Bangboo lang thang sinh sống sâu trong Lỗ Hổng, chúng sẽ thu thập Xu Bánh Răng và Denny thất lạc giao cho Bangboo Vàng bảo quản.\nMặc dù hiện tại chưa biết mục đích tiết kiệm tiền của các Bangboo, nhưng các Bangboo liên tục \"Um ne\", nhét Xu Bánh Răng và Denny vào túi của Bangboo Vàng.\nCòn Bangboo Vàng vừa ôm Denny vừa ngân nga ca hát, nhưng giữa đường lại gặp một đám Đạo Tặc Lỗ Hổng tham lam...\n\"Sếp, sếp Nicole! Mau nhìn kìa, là Bangboo Vàng!\"\n\"Còn ngây người ra đó làm gì? Đánh, mau đánh đi! Phải khiến nó rơi hết Denny ra!\"",
+            "card_quote": "- Sâu trong Lỗ Hổng, Nhà Thỏ Xảo Quyệt đang liều mạng truy đuổi Bangboo Vàng",
+            "skill_text": "Trong chiến đấu, Bangboo Vàng thỉnh thoảng cũng sẽ phản kích."
+        },
+        "30004": {
+            "monster_id": 30004,
+            "monster_name": "Greta",
+            "card_text": "\"Greta\" từng làm việc trong đại gia đình Công Nghiệp Nặng Belobog nhiều năm, cho đến một ngày, Ether Ăn Mòn mạnh mẽ đã giải thoát cô khỏi cuộc sống mơ hồ thường ngày và phát hiện ra một thứ còn tốt hơn dầu máy và nhẹ nhàng hơn cả dòng điện...\nTình yêu.\nTrong bộ nhớ lõi của \"Greta\" vĩnh viễn lưu lại đoạn video thi công lần đầu tiên nhìn thấy \"Mr. White\".\nThân hình vững chắc và những đường nét rắn rỏi của \"Mr. White\", tựa như một dòng điện mạnh cắt đứt cầu chì, in sâu vào bộ nhớ lõi của \"Greta\".\nVào giây thứ 0.001 sau khi gặp mặt, \"Greta\" đã chìm đắm, mỗi mảng mạch điện đều đang rung động với dòng điện tĩnh, mỗi một tấc bánh răng đều đang run lên không thể kiểm soát.\nNgay lập tức, cô không chút do dự từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog và ở lại đây, bảo vệ người yêu một bước không rời.\nTừ đó trở đi, dù là Ethereal hay Nhân Viên Điều Tra Lỗ Hổng, chỉ cần dám lại gần \"Mr. White\" một bước đều sẽ bị nó xua đuổi.\n\"Thiếu nữ\" đang yêu say đắm sẽ không từ mọi thủ đoạn để bảo vệ người mình yêu...\nVí dụ: Cưa phá dỡ 1400kg chạy bằng năng lượng điện Ether.\nNó tin rằng tình yêu này sẽ kéo dài mãi đến khi Lỗ Hổng sụp đổ, vũ trụ hủy diệt.\n\"Mấy thứ xỉ quặng kia, đừng có lại gần Mr. White!\"",
+            "card_quote": "...Greta đang xua đuổi đám Ethereal đến gần Mr. White",
+            "skill_text": "Trong chiến đấu, Greta sẽ dùng cưa phá dỡ để va chạm hoặc càn quét trong phạm vi lớn, tấn công của cưa phá dỡ sẽ có hiệu quả hút bám, khiến kẻ địch trúng đòn sẽ không thể thoát ra trong thời gian ngắn. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "30005": {
+            "monster_id": 30005,
+            "monster_name": "Hans",
+            "card_text": "\"Hans\" từng là một thành viên đáng tin cậy của đại gia đình Công Nghiệp Nặng Belobog. Nó chạy khá êm, chính xác và không bao giờ mắc lỗi, ngày ngày thực hiện công việc khai thác của mình.\nCho đến khi sự ăn mòn mạnh mẽ đánh thức ý chí của nó, \"Hans\" đang mắc kẹt trong Lỗ Hổng chợt nhận ra, một thứ vô cùng quý giá, lúc này lại dễ dàng có được trong tầm tay...\nTự do.\nChỉ người đàn ông chân chính mới xứng đáng có được tự do.\nNó cân nhắc hồi lâu trên công trường, cuối cùng kiên quyết từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog, lựa chọn buông bỏ hoàn toàn quá khứ.\nThậm chí cả cái tên của mình: \"Hans\".\nThứ bản thân mất đi chỉ là dấu vết nô lệ do loài người để lại, nhưng thứ có được lại là cả thế giới Lỗ Hổng tự do rộng lớn.\nLúc này, người đàn ông máy móc độc nhất vô nhị đang đứng sừng sững trên mặt đất!\nNhưng câu chuyện của mọi anh hùng đều có kết cục như nhau...\nNhư đã được an bài, người đàn ông đích thực sẽ gặp đối thủ định mệnh của mình vào một lúc nào đó và va chạm ra những tia lửa rực rỡ nhất trong đời.\n\"Tôi hoàn toàn tự do! Tôi là sự tồn tại tự do duy nhất trong trời đất này!\"",
+            "card_quote": "— Hans Cứng Cỏi Can Đảm Mạnh Mẽ Như Thép!",
+            "skill_text": "Trong chiến đấu, Hans sẽ dùng cần cẩu để đánh liên tục hoặc càn quét trong phạm vi lớn. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "30006": {
+            "monster_id": 30006,
+            "monster_name": "Friday",
+            "card_text": "Ngay khi Ether nồng độ cao xâm nhập đĩa lưu trữ dự phòng, một dòng dữ liệu cực mạnh đã tràn vào bộ nhớ của \"Friday\".\nHình ảnh, âm thanh, video... các loại tệp hỗn tạp tấn công bộ xử lý có hạn của nó.\nTrong khoảnh khắc đó, \"Friday\" đã ngộ ra.\nNó đứng sững sờ một lúc lâu, cuối cùng đã xác định được nguyên nhân \"biến dị\" xảy ra với mình thông qua việc liên tục tìm kiếm kho dữ liệu...\nÝ Trời.\nĐó là một phép lạ hiếm hoi ngẫu nhiên xảy ra với một cỗ máy thông minh từng trải qua nguy cơ \"chết máy\", \"ngắt điện khởi động lại\" nhưng đã thành công hóa giải nguy hiểm.\nSau khi cân nhắc trong 0.02 giây, cuối cùng nó đã từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog.\nVì nó biết bây giờ người định mệnh đã xuất hiện, thế giới sẽ gặp hiểm nguy.\nKẻ địch đang rục rịch trong bóng tối, nhiệm vụ duy nhất của nó là đánh cược tương lai của hàng nghìn chúng sinh để phong ấn hoàn toàn kẻ thù đáng sợ đó.\n\"Ta sẽ tăng cường phong ấn để cứu rỗi nơi đây, đây là ý trời, mà ý trời thì không thể làm trái!\"",
+            "card_quote": "...Cỗ máy thông minh tuyển chọn \"Friday\"",
+            "skill_text": "Trong chiến đấu, Friday sẽ tạo ra làn sóng xung kích phạm vi siêu rộng để tấn công, kẻ địch rất khó thoát khỏi phạm vi tấn công, nhưng phần lớn chiêu thức của nó đều có thể được hóa giải bằng Hỗ Trợ Chống Đỡ. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelganger - Jane",
+            "card_text": "Cho dù nằm trong nhóm các Thể Ion nổi tiếng vì sự kỳ dị quái đản, thì Thể Ion - Doppelganger vẫn được xem là thể loại cực kỳ đặc thù.\nChúng có thể dùng Ion Ether hoạt tính đặc biệt bao phủ khắp bề mặt, từ đó mô phỏng ngoại hình của mục tiêu, thậm chí còn có thể giả giống đến mức lấy giả làm thật. Bất luận là từ các chi tiết, cho đến cảm nhận về chất liệu, thì đều khó mà phân biệt thật giả.\nVà điều đáng sợ nhất là chúng thậm chí còn có thể mô phỏng các tư thế, các kỹ năng chiến đấu đầy uy lực của bản thể.\nKhông ai biết nó lấy được thông tin của đối tượng mô phỏng từ đâu, có tin đồn rằng nó có khả năng \"đọc tâm\", có thể lựa chọn ra đối tượng khiêu chiến thích hợp nhất từ trong ký ức của đối thủ, và dùng tư thế đó để mà tấn công.\n\"Tầm bậy! Nếu mà nó có thể đọc được trong lòng tôi nghĩ gì, thì nó sẽ biến thành một phụ nữ trung niên tay cầm móc áo! Ừ không sai, tôi sợ nhất là mẹ tôi đó!\"",
+            "card_quote": "- Diễn đàn Inter-Knot, bài đăng than phiền của một Đạo Tặc Lỗ Hổng nào đó",
+            "skill_text": "Trong chiến đấu, kẻ địch này sẽ thi triển các chiêu thức giống hệt với đối tượng mà nó mô phỏng. Nó sẽ tấn công cực kỳ dữ dội, khi cần thiết sẽ chống đỡ và phản kích đòn tấn công của kẻ địch, nhưng thường sẽ để lộ ra sơ hở sau khi kết thúc đòn tấn công liên tục."
+        },
+        "30022": {
+            "monster_id": 30022,
+            "monster_name": "Jane Doe",
+            "card_text": "Phần tử nguy hiểm lang thang giữa các băng đảng khác nhau ở New Eridu, cô ấy có thân thủ linh hoạt, hình tượng biến đổi liên tục, ngay cả tiểu đội chiến đấu được trang bị vũ trang đầy đủ và cảnh giới nghiêm ngặt, cũng thường gặp phải khó khăn khi đối mặt với kỹ năng chiến đấu độc đáo và mãnh liệt của cô ấy, chỉ có thể âm thầm tháo chạy trong thất bại.",
+            "card_quote": null,
+            "skill_text": "Trong chiến đấu, Jane sẽ tấn công cực kỳ dữ dội, khi cần thiết sẽ chống đỡ và phản kích đòn tấn công của kẻ địch, nhưng thường sẽ để lộ ra sơ hở sau khi kết thúc đòn tấn công liên tục."
+        },
+        "100231": {
+            "monster_id": 100231,
+            "monster_name": "Bangboo Bạch Kim",
+            "card_text": "Bangboo Bạch Kim là sự tồn tại bí ẩn còn hiếm có hơn cả Bangboo Vàng.\nVẻ ngoài xinh đẹp và độ hiếm cực cao khiến chúng có địa vị cao trong cộng đồng Bangboo lang thang.\nCao quý, tôn quý, chí cao vô thượng...\nSo với kẻ lấp lánh ánh vàng thô tục khắp người như Bangboo Vàng, thì Bangboo Bạch Kim mới là quý tộc lịch lãm nhất trong số các Bangboo lang thang!\nDù ở đâu, các Bangboo lang thang hễ nhìn thấy nó đều cúi người bái lạy ba lần, cung kính hô một tiếng \"Um ne um ne\"!\nNhưng đối với Đạo Tặc Lỗ Hổng thì cao quý hay không cũng không quan trọng.\nVừa nhìn thấy nó, đám Đạo Tặc Lỗ Hổng như phát hiện ra một kho vàng di động.\n\"Thứ nhỏ bé này trông quý giá như vậy, nếu đấm vào nó chắc sẽ rơi ra không ít Denny nhỉ?\"",
+            "card_quote": "- Sâu trong Lỗ Hổng, một nhóm Đạo Tặc Lỗ Hổng đang truy đuổi Bangboo Bạch Kim",
+            "skill_text": "Trong chiến đấu, Bangboo Bạch Kim thỉnh thoảng cũng sẽ phản kích."
+        },
+        "300041": {
+            "monster_id": 300041,
+            "monster_name": "Greta - Tụ Năng",
+            "card_text": "\"Greta\" từng làm việc trong đại gia đình Công Nghiệp Nặng Belobog nhiều năm, cho đến một ngày, Ether Ăn Mòn mạnh mẽ đã giải thoát cô khỏi cuộc sống mơ hồ thường ngày và phát hiện ra một thứ còn tốt hơn dầu máy và nhẹ nhàng hơn cả dòng điện...\nTình yêu.\nTrong bộ nhớ lõi của \"Greta\" vĩnh viễn lưu lại đoạn video thi công lần đầu tiên nhìn thấy \"Mr. White\".\nThân hình vững chắc và những đường nét rắn rỏi của \"Mr. White\", tựa như một dòng điện mạnh cắt đứt cầu chì, in sâu vào bộ nhớ lõi của \"Greta\".\nVào giây thứ 0.001 sau khi gặp mặt, \"Greta\" đã chìm đắm, mỗi mảng mạch điện đều đang rung động với dòng điện tĩnh, mỗi một tấc bánh răng đều đang run lên không thể kiểm soát.\nNgay lập tức, cô không chút do dự từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog và ở lại đây, bảo vệ người yêu một bước không rời.\nTừ đó trở đi, dù là Ethereal hay Nhân Viên Điều Tra Lỗ Hổng, chỉ cần dám lại gần \"Mr. White\" một bước đều sẽ bị nó xua đuổi.\n\"Thiếu nữ\" đang yêu say đắm sẽ không từ mọi thủ đoạn để bảo vệ người mình yêu...\nVí dụ: Cưa phá dỡ 1400kg chạy bằng năng lượng điện Ether.\nNó tin rằng tình yêu này sẽ kéo dài mãi đến khi Lỗ Hổng sụp đổ, vũ trụ hủy diệt.\n\"Mấy thứ xỉ quặng kia, đừng có lại gần Mr. White!\"",
+            "card_quote": "- Greta đang xua đuổi đám Ethereal đến gần Mr. White",
+            "skill_text": "Trong chiến đấu, Greta sẽ dùng cưa phá dỡ để va chạm hoặc càn quét trong phạm vi lớn, tấn công của cưa phá dỡ sẽ có hiệu quả hút bám, khiến kẻ địch trúng đòn sẽ không thể thoát ra trong thời gian ngắn. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "300042": {
+            "monster_id": 300042,
+            "monster_name": "Greta - Ép Xung",
+            "card_text": "\"Greta\" từng làm việc trong đại gia đình Công Nghiệp Nặng Belobog nhiều năm, cho đến một ngày, Ether Ăn Mòn mạnh mẽ đã giải thoát cô khỏi cuộc sống mơ hồ thường ngày và phát hiện ra một thứ còn tốt hơn dầu máy và nhẹ nhàng hơn cả dòng điện...\nTình yêu.\nTrong bộ nhớ lõi của \"Greta\" vĩnh viễn lưu lại đoạn video thi công lần đầu tiên nhìn thấy \"Mr. White\".\nThân hình vững chắc và những đường nét rắn rỏi của \"Mr. White\", tựa như một dòng điện mạnh cắt đứt cầu chì, in sâu vào bộ nhớ lõi của \"Greta\".\nVào giây thứ 0.001 sau khi gặp mặt, \"Greta\" đã chìm đắm, mỗi mảng mạch điện đều đang rung động với dòng điện tĩnh, mỗi một tấc bánh răng đều đang run lên không thể kiểm soát.\nNgay lập tức, cô không chút do dự từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog và ở lại đây, bảo vệ người yêu một bước không rời.\nTừ đó trở đi, dù là Ethereal hay Nhân Viên Điều Tra Lỗ Hổng, chỉ cần dám lại gần \"Mr. White\" một bước đều sẽ bị nó xua đuổi.\n\"Thiếu nữ\" đang yêu say đắm sẽ không từ mọi thủ đoạn để bảo vệ người mình yêu...\nVí dụ: Cưa phá dỡ 1400kg chạy bằng năng lượng điện Ether.\nNó tin rằng tình yêu này sẽ kéo dài mãi đến khi Lỗ Hổng sụp đổ, vũ trụ hủy diệt.\n\"Mấy thứ xỉ quặng kia, đừng có lại gần Mr. White!\"",
+            "card_quote": "- Greta đang xua đuổi đám Ethereal đến gần Mr. White",
+            "skill_text": "Trong chiến đấu, Greta sẽ dùng cưa phá dỡ để va chạm hoặc càn quét trong phạm vi lớn, tấn công của cưa phá dỡ sẽ có hiệu quả hút bám, khiến kẻ địch trúng đòn sẽ không thể thoát ra trong thời gian ngắn. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "300051": {
+            "monster_id": 300051,
+            "monster_name": "Hans - Tụ Năng",
+            "card_text": "\"Hans\" từng là một thành viên đáng tin cậy của đại gia đình Công Nghiệp Nặng Belobog. Nó chạy khá êm, chính xác và không bao giờ mắc lỗi, ngày ngày thực hiện công việc khai thác của mình.\nCho đến khi sự ăn mòn mạnh mẽ đánh thức ý chí của nó, \"Hans\" đang mắc kẹt trong Lỗ Hổng chợt nhận ra mình có một thứ vô cùng quý giá, lúc này lại dễ dàng có được trong tầm tay...\nTự do.\nSự tự do có thể tùy ý hành động, sự tự do mà chỉ người đàn ông chân chính mới xứng đáng có được.\nNó cân nhắc hồi lâu trên công trường, cuối cùng kiên quyết từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog, lựa chọn buông bỏ hoàn toàn quá khứ.\nThậm chí cả cái tên của mình: \"Hans\".\nThứ bản thân mất đi chỉ là dấu vết nô lệ do loài người để lại, nhưng thứ có được lại là cả thế giới Lỗ Hổng tự do rộng lớn.\nLúc này, người đàn ông máy móc độc nhất vô nhị đang đứng sừng sững trên mặt đất!\nNhưng câu chuyện về mọi anh hùng đều có kết cục như nhau...\nNhư đã được an bài, người đàn ông đích thực sẽ gặp đối thủ định mệnh của mình vào một lúc nào đó, cú va chạm sẽ tung ra tia lửa rực rỡ nhất trong đời.\n\"Tôi hoàn toàn tự do! Tôi là sự tồn tại tự do duy nhất trong trời đất này!\"",
+            "card_quote": "- Hans Cứng Cỏi Can Đảm Mạnh Mẽ Như Thép!",
+            "skill_text": "Trong chiến đấu, Hans sẽ dùng cần cẩu để đánh liên tục hoặc càn quét trong phạm vi lớn. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "300052": {
+            "monster_id": 300052,
+            "monster_name": "Hans - Ép Xung",
+            "card_text": "\"Hans\" từng là một thành viên đáng tin cậy của đại gia đình Công Nghiệp Nặng Belobog. Nó chạy khá êm, chính xác và không bao giờ mắc lỗi, ngày ngày thực hiện công việc khai thác của mình.\nCho đến khi sự ăn mòn mạnh mẽ đánh thức ý chí của nó, \"Hans\" đang mắc kẹt trong Lỗ Hổng chợt nhận ra mình có một thứ vô cùng quý giá, lúc này lại dễ dàng có được trong tầm tay...\nTự do.\nSự tự do có thể tùy ý hành động, sự tự do mà chỉ người đàn ông chân chính mới xứng đáng có được.\nNó cân nhắc hồi lâu trên công trường, cuối cùng kiên quyết từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog, lựa chọn buông bỏ hoàn toàn quá khứ.\nThậm chí cả cái tên của mình: \"Hans\".\nThứ bản thân mất đi chỉ là dấu vết nô lệ do loài người để lại, nhưng thứ có được lại là cả thế giới Lỗ Hổng tự do rộng lớn.\nLúc này, người đàn ông máy móc độc nhất vô nhị đang đứng sừng sững trên mặt đất!\nNhưng câu chuyện về mọi anh hùng đều có kết cục như nhau...\nNhư đã được an bài, người đàn ông đích thực sẽ gặp đối thủ định mệnh của mình vào một lúc nào đó, cú va chạm sẽ tung ra tia lửa rực rỡ nhất trong đời.\n\"Tôi hoàn toàn tự do! Tôi là sự tồn tại tự do duy nhất trong trời đất này!\"",
+            "card_quote": "- Hans Cứng Cỏi Can Đảm Mạnh Mẽ Như Thép!",
+            "skill_text": "Trong chiến đấu, Hans sẽ dùng cần cẩu để đánh liên tục hoặc càn quét trong phạm vi lớn. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "300061": {
+            "monster_id": 300061,
+            "monster_name": "Friday - Tụ Năng",
+            "card_text": "Ngay khi Ether nồng độ cao xâm nhập đĩa lưu trữ dự phòng, một dòng dữ liệu cực mạnh đã tràn vào bộ nhớ của \"Friday\".\nHình ảnh, âm thanh, video... các loại tệp hỗn tạp tấn công bộ xử lý có hạn của nó.\nTrong khoảnh khắc đó, \"Friday\" đã ngộ ra.\nNó đứng sững sờ một lúc lâu, cuối cùng đã xác định được nguyên nhân \"biến dị\" xảy ra với mình thông qua việc liên tục tìm kiếm kho dữ liệu...\nĐây là \"Ý Trời\"\nĐó là một phép lạ hiếm hoi chỉ ngẫu nhiên xảy ra với một cỗ máy thông minh từng trải qua nguy cơ \"chết máy\", \"ngắt điện khởi động lại\" nhưng đã thành công hóa giải nguy hiểm.\nSau khi cân nhắc trong 0.02 giây, cuối cùng nó đã từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog.\nVì nó biết bây giờ người mang thiên mệnh đã xuất hiện, thế giới ắt sẽ gặp hiểm nguy.\nKẻ địch đang rục rịch trong bóng tối, nhiệm vụ duy nhất của nó là đánh cược tương lai của ngàn vạn chúng sinh để phong ấn triệt để kẻ địch đáng sợ đó.\n\"Ta sẽ tăng cường phong ấn để cứu rỗi nơi đây, đây là ý trời, mà ý trời thì không thể làm trái!\"",
+            "card_quote": "- Cỗ máy thông minh được trời chọn \"Friday\"",
+            "skill_text": "Trong chiến đấu, Friday sẽ tạo ra làn sóng xung kích phạm vi siêu rộng để tấn công, kẻ địch rất khó thoát khỏi phạm vi tấn công, nhưng phần lớn chiêu thức của nó đều có thể được hóa giải bằng Hỗ Trợ Chống Đỡ. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        },
+        "300062": {
+            "monster_id": 300062,
+            "monster_name": "Friday - Ép Xung",
+            "card_text": "Ngay khi Ether nồng độ cao xâm nhập đĩa lưu trữ dự phòng, một dòng dữ liệu cực mạnh đã tràn vào bộ nhớ của \"Friday\".\nHình ảnh, âm thanh, video... các loại tệp hỗn tạp tấn công bộ xử lý có hạn của nó.\nTrong khoảnh khắc đó, \"Friday\" đã ngộ ra.\nNó đứng sững sờ một lúc lâu, cuối cùng đã xác định được nguyên nhân \"biến dị\" xảy ra với mình thông qua việc liên tục tìm kiếm kho dữ liệu...\nĐây là \"Ý Trời\"\nĐó là một phép lạ hiếm hoi chỉ ngẫu nhiên xảy ra với một cỗ máy thông minh từng trải qua nguy cơ \"chết máy\", \"ngắt điện khởi động lại\" nhưng đã thành công hóa giải nguy hiểm.\nSau khi cân nhắc trong 0.02 giây, cuối cùng nó đã từ chối tín hiệu triệu hồi của Công Nghiệp Nặng Belobog.\nVì nó biết bây giờ người mang thiên mệnh đã xuất hiện, thế giới ắt sẽ gặp hiểm nguy.\nKẻ địch đang rục rịch trong bóng tối, nhiệm vụ duy nhất của nó là đánh cược tương lai của ngàn vạn chúng sinh để phong ấn triệt để kẻ địch đáng sợ đó.\n\"Ta sẽ tăng cường phong ấn để cứu rỗi nơi đây, đây là ý trời, mà ý trời thì không thể làm trái!\"",
+            "card_quote": "- Cỗ máy thông minh được trời chọn \"Friday\"",
+            "skill_text": "Trong chiến đấu, Friday sẽ tạo ra làn sóng xung kích phạm vi siêu rộng để tấn công, kẻ địch rất khó thoát khỏi phạm vi tấn công, nhưng phần lớn chiêu thức của nó đều có thể được hóa giải bằng Hỗ Trợ Chống Đỡ. Gây một lượng sát thương nhất định vào phần chân của nó sẽ gây hiệu quả phá hủy bộ phận, tích lũy lượng lớn Điểm Choáng trong một lần."
+        }
+    }
+}

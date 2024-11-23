@@ -1,0 +1,903 @@
+{
+    "Mutaciones etéreas": {
+        "10000": {
+            "monster_id": 10000,
+            "monster_name": "Tyrfing",
+            "card_text": "La Asociación de Investigación de Cavidades siempre ha estudiado los hábitos de los tyrfing. Su postura encorvada y su tambaleo al caminar en realidad son una forma de almacenar energía para poder, de un momento a otro, atacar lanzando un golpe tras otro.\nDebido a lo numerosos que son y al poder de sus ataques, los tyrfing son considerados la causa de muerte número uno en las Cavidades.\nAl enfrentarse a un enemigo acorazado, los tyrfing lanzan golpes a diestro y siniestro sin detenerse, hasta que uno de los dos caiga.\n«¿Y si en lugar de odiarnos nos ven como sus marionetas de entrenamiento?»",
+            "card_quote": "— Entrevista a Nobby Kereyan, patrullero antidisturbios retirado por ser herido en combate, durante el programa nocturno «Té en la Cavidad», ep. 165",
+            "skill_text": "El tyrfing ejecuta ataques cuerpo a cuerpo."
+        },
+        "10001": {
+            "monster_id": 10001,
+            "monster_name": "Alpeca",
+            "card_text": "El acervo de la Asociación de Investigación de Cavidades en torno a los alpeca es relativamente escaso. Después de un análisis poco exhaustivo sobre su comportamiento al escupir éter líquido, determinaron que era un ser etéreo de bajo riesgo y dieron por concluida la investigación.\nEn una ocasión, un científico sintió curiosidad por el éter líquido que expedían los alpeca, por lo que solicitó apoyo de los investigadores de los alrededores.\nPor alguna razón, ninguno de los investigadores experimentados respondió a su llamada.\n«¡Rápido! ¡Han comenzado a salivar! ¡Aaah, mi ropa nueva!»",
+            "card_quote": "— Raffaele Bert, investigadora novata, al considerar retirarse de las profundidades de una Cavidad",
+            "skill_text": "El alpeca lanza ataques a distancia."
+        },
+        "10002": {
+            "monster_id": 10002,
+            "monster_name": "Sátiro",
+            "card_text": "El primer ser etéreo humanoide que se puede ver en el metro de Nueva Eridu dentro de la Cavidad. Los investigadores de la HIA tenían discusiones acaloradas sobre su procedencia. Por un lado, había quienes afirmaban que se trataba de un ente corrompido que, mediante una fuerte mutación, se transformó en éter activo; por el otro, había quienes decían que se trata de éter activo puro que había sido gravemente afectado por el entorno dentro de la Cavidad. Sea como sea, debido a su inteligencia limitada, la HIA le ha asignado un nivel de riesgo bajo. Sin embargo, eso no significa que uno pueda bajar la guardia cerca de ellos, pues aparecen en grupo.\n«¿Alguna vez has llegado tarde o recibido una multa por culpa de un semáforo rojo? ¿A que es molesto? ¡Pues ha llegado la hora de desquitarse!»",
+            "card_quote": "— Comentario del usuario «BajenElPrecioDelNuevoBangbú» en el foro «Supernova Hoy»",
+            "skill_text": "El sátiro tiende a ejecutar ataques pesados que carga durante mucho tiempo y son difíciles de interrumpir."
+        },
+        "10003": {
+            "monster_id": 10003,
+            "monster_name": "Hoplita",
+            "card_text": "A pesar de que la HIA considera a los hoplitas como seres etéreos de bajo riesgo, para los saqueadores de Cavidades e investigadores novatos pueden ser un dolor de cabeza.\nSus extremidades delanteras están cubiertas de una gruesa capa de materia etérea inerte que sirven como un excelente escudo o como un arma amenazante.\nLa única desventaja es que es un grandullón poco ágil y muy torpe.\n«Siento lástima por los hoplitas. Al jugar \"piedra, papel o tijera\", ¡los pobres tontos solo pueden sacar \"papel\"!»",
+            "card_quote": "— Programa especial sobre los hoplitas en «El zoológico de la Cavidad»",
+            "skill_text": "El hoplita utiliza su brazo acorazado para embestir o bloquear los ataques."
+        },
+        "10004": {
+            "monster_id": 10004,
+            "monster_name": "Araña explosiva",
+            "card_text": "Según el informe de la Asociación de Investigación de Cavidades, dada la lentitud de movimiento y bajo impacto de sus explosiones, las arañas explosivas son consideradas seres etéreos de bajo riesgo.\nSin embargo, algunos comerciantes con un agudo sentido del olfato han encontrado un negocio a partir de su complexión redonda y patas cortas.\nDespués de que «¡Rueda, rueda, araña explosiva!» se volviera un éxito taquillero, artículos como juguetes y almohadas comenzaron a venderse como pan caliente.\n«No pensé que los productos fueran a afectarme más que las arañas explosivas mismas. Billy, prometo comer solo pan el próximo mes...»",
+            "card_quote": "— Anby, mientras revisa su cartera frente a la tienda de muñecos del distrito comercial.",
+            "skill_text": "La araña explosiva se autodestruye."
+        },
+        "10014": {
+            "monster_id": 10014,
+            "monster_name": "Mandrágora",
+            "card_text": "La mandrágora fue llamada de tal forma por un científico, aludiendo a la planta venenosa homónima, por su aspecto similar.\nCuando la mandrágora florece, dispara rayos luminosos de alta temperatura con los que golpea a los enemigos a su alrededor. Sus duras \"hojas\" se aferran firmemente al suelo, como una planta que se niega a ser arrancada. A veces, como forma de defensa, es capaz de atacar a los enemigos cercanos con su follaje.\nIgual que la mandrágora de las leyendas, su alarido puede ser letal.\n«¡No te le acerques! ¿No ves que está floreciendo?»",
+            "card_quote": "— Escena de «Terror en las profundidades» en la que una mandrágora está a punto de florecer",
+            "skill_text": "Las mandrágoras proporcionan bonificaciones de Ataque o Escudo adicional a las unidades cercanas."
+        },
+        "10025": {
+            "monster_id": 10025,
+            "monster_name": "Arimán",
+            "card_text": "Debido a su forma tan peculiar y a que permanece inmóvil por mucho tiempo, el arimán a menudo pasa por una estatua de las Bailarinas Mellizas.\nEs por eso que, cuando los investigadores novatos se encuentran con un arimán, los deja marcados de por vida...\nSin embargo, al pasar a su lado, comienza a moverse. Justo cuando su objetivo cae al suelo y queda congelado por el pánico, es el momento perfecto para que el arimán ataque.\n«Corin, no te dejes engañar por su máscara. No es una pieza de colección. ¡Que comience la limpieza!»",
+            "card_quote": "— Palabras de Lycaon mientras instruye a Corin",
+            "skill_text": "El arimán ejecuta asaltos a gran velocidad y ocasionalmente coordina sus ataques con otros arimán."
+        },
+        "10026": {
+            "monster_id": 10026,
+            "monster_name": "Espíritu errante",
+            "card_text": "Como si el entorno artístico de las Bailarinas Mellizas hubiera influido en él, el espíritu errante tiene una extraña estructura retorcida como la de una escultura contemporánea.\nAlgunos investigadores creen que su forma tan peculiar sirve para proteger mejor su núcleo etéreo.\nPero otros investigadores insisten en se trata de una trampa para distraer a sus enemigos. Al distraerse por su extraña postura, el espíritu errante utiliza éter concentrado para ejecutar ataques de largo alcance.\n«Me quedé viéndolo por un instante y pensé: \"¿está usando su propia cabeza como bola de bolos?\". Antes de darme cuenta, su \"bola de bolos\" estaba justo en mis narices.»",
+            "card_quote": "—Publicación anónima en la red proxy",
+            "skill_text": "El espíritu errante ejecuta ataques continuos a distancia durante un breve periodo de tiempo."
+        },
+        "10029": {
+            "monster_id": 10029,
+            "monster_name": "Motor del observador",
+            "card_text": "A pesar de que, según la base de datos de la Asociación de Investigación de Cavidades, el motor del observador solo representa un peligro al acercarse a él, en realidad, este ser puede llegar a convertirse en un dolor de cabeza para los investigadores.\nCuando su ojo fija su mirada en el objetivo y se abalanza sobre él desde las sombras, hasta los investigadores más experimentados sienten un miedo indescriptible.\nY en las Cavidades, normalmente el miedo solo empeora los síntomas de corrupción, lo que termina en desastre.\n«La única forma de acabar con el miedo es mirándolo fijamente.»",
+            "card_quote": "— Recopilación de consejos de un investigador experimentado en el foro «Supernova Hoy»",
+            "skill_text": "El motor del observador aprovecha su complexión para desplazarse rodando."
+        },
+        "10030": {
+            "monster_id": 10030,
+            "monster_name": "Fossor",
+            "card_text": "Las últimas investigaciones del Instituto Estrella Blanca revelan que las extremidades de algunos seres etéreos adquieren propiedades insólitas de su propio entorno. El fossor es el ejemplo por excelencia de este fenómeno: sus peculiares extremidades delanteras se asemejan mucho al equipo de excavación del área del Antiguo Pozo Petrolífero.\nSi bien algunos piensan que esto se trata de una técnica de camuflaje para engañar a sus enemigos, otros señalan que el estilo de combate del fossor es demasiado agresivo y directo, por lo que las emboscadas no deberían ser su fuerte.\nIncluso algunos saqueadores de Cavidades con más imaginación creen que podría haber desarrollado esta apariencia tan solo para poder extraer minerales en cualquier momento...\n«Cuando lo identifiqué desde una gran distancia, parecía estar tranquilo y feliz minando en el asfalto. En el momento en el que se dio cuenta de mi presencia, no dudó ni un segundo en cargar hacia mí, haciendo todo lo posible para que me alejara... ¡Pero si yo solo pasaba por ahí! ¡No tenía ni la más mínima intención de llevarme su chatarra!»",
+            "card_quote": "— Un saqueador de Cavidades novato fuera de la Cavidad contándoles a sus compañeros una experiencia reciente",
+            "skill_text": "Durante el combate, el fossor ejecuta cortes a dos manos consecutivos."
+        },
+        "10031": {
+            "monster_id": 10031,
+            "monster_name": "Sordidus",
+            "card_text": "En las Cavidades de la Periferia acechan varios tipos de seres etéreos extraños. Sin duda, el sordidus es uno de ellos.\nSu estructura corporal es única: poseen unas extremidades increíblemente flexibles que parecen resultar de una reacción química desconocida entre el petróleo pesado y el éter activo.\nCuando fijan un objetivo, emplean sus extremidades como si fueran acróbatas expertos, ejecutando con agresividad ataques feroces.\n«Maldita sea... ¡Este bicho me ha pegado un latigazo!»\n«¿Acaso se piensa que parece más dócil si nos trata a nosotros como si fuéramos bestias salvajes?»",
+            "card_quote": "— Un grupo de saqueadores de Cavidades novatos enfrentándose a un sordidus dentro de una Cavidad",
+            "skill_text": "Durante el combate, el sordidus saca sus tentáculos para golpearte a corta distancia o para clavarlos en el suelo y lanzar un ataque sorpresa a larga distancia."
+        },
+        "20000": {
+            "monster_id": 20000,
+            "monster_name": "Fárbauti",
+            "card_text": "El fárbauti posee una fuerza formidable y suele estar en un estado de frenesí, por lo que es un dolor de cabeza para los saqueadores de Cavidades. Sus brazos, duros como martillos, son capaces de detener los ataques sin ningún problema, así como lanzar una ráfaga de golpes continuos que destruyen lo que sea que se les atraviese.\nAlgunos saqueadores de Cavidades han notado que el fárbauti a veces golpea el suelo de forma rítmica a altas frecuencias, por lo que pensaban que se sentía atraído a música con percusiones.\nA pesar de que dichas afirmaciones han sido desmentidas por la HIA, aún hay algunos saqueadores que llevan un altavoz pequeño para, en caso de tener un encuentro con un fárbauti, intentar distraerlo. Hasta ahora, no hay nadie que haya intentado este método y vivido para contarlo.\n«La razón es muy sencilla. Incluso los fárbauti creen que ustedes tienen un pésimo gusto musical.»",
+            "card_quote": "— Publicación del usuario «Dedos_de_clavos» en el foro de rock «La escoba negra»",
+            "skill_text": "El fárbauti tiende a utilizar sus poderosos brazos para ejecutar martillazos continuos. Sin embargo, tras recibir cierta cantidad de golpes, sus duros brazos se entumecerán."
+        },
+        "20001": {
+            "monster_id": 20001,
+            "monster_name": "Hati",
+            "card_text": "Un ser etéreo altamente peligroso. A pesar de su apariencia de una bestia cuadrúpeda, es sumamente inteligente. Existen registros de esta criatura desde la primera expedición oficial de la Asociación de Investigación de Cavidades.\nSe dice que fueron vistos por primera vez en una madriguera dentro de una Cavidad. Los nómadas que rondaban por los alrededores alcanzaban a escuchar sus aullidos, similares a los de una bestia salvaje.\n«Si les lanzo un palo o una pelota, ¿crees que irán a recogerlo?»\n«Inténtalo si quieres, pero no pienso pagar el hospital.»",
+            "card_quote": "— Conversación entre Billy y Nicole",
+            "skill_text": "El hati es capaz de desplazarse a gran velocidad y ejecutar rápidos zarpazos."
+        },
+        "20002": {
+            "monster_id": 20002,
+            "monster_name": "Trasgo",
+            "card_text": "La primera vez que un investigador se encontró con este tipo de ser etéreo, pensó que tendría cierto grado de inteligencia, y que incluso habría aprendido a usar armas contundentes de los humanos, por lo que recibió el nombre de «trasgo».\nSin embargo, informes posteriores indican que la supuesta arma es en realidad un brazo deformado por la mutación, y que no poseen la capacidad de imitar el comportamiento humano.\nA pesar de ello, el trasgo es un enemigo formidable. Su complexión robusta y su fuerza descomunal le permiten exterminar a sus enemigos con un simple movimiento de brazos.\nCuando un objeto entra en su territorio, estalla en ira y hace lo que sea por destruirlo.\n«¿Eh? Un trasgo pasó corriendo. Parece que está golpeando un montón de chatarra.»\n«¿No te parece que golpea con ritmo? «Pum, pum, pum, pum... Es como si golpeara un tambor.»\n«¿Qué hacen ahí parados? ¡No es un montón de chatarra, es nuestro camión de suministros!»",
+            "card_quote": "— Un grupo de bandidos al encontrarse con un trasgo en su cuartel provisional",
+            "skill_text": "El trasgo libera un rugido de guerra que aumenta su daño y reduce considerablemente el daño que recibe. Este efecto desaparecerá cuando es afectado por Aturdimiento."
+        },
+        "20003": {
+            "monster_id": 20003,
+            "monster_name": "Hati acorazado",
+            "card_text": "Muchos investigadores de Cavidades consumados piensan que el hati acorazado es uno de los seres etéreos más difíciles de lidiar.\nA pesar de que su robusta coraza disminuye su agilidad, a cambio obtiene una capacidad de defensa formidable.\nAdemás, la materia corrupta sobre su cuerpo está provista de protuberancias filosas, las cuales, cuando el hati se lanza a la carga, puede infligir heridas adicionales sobre el enemigo.\nEn apariencia, su velocidad de movimiento y su resistencia formidable en apariencia proveen una defensa perfecta, haciendo que hasta los saqueadores veteranos frunzan el ceño en frustración y le den la vuelta.\nDicen que algunos saqueadores novatos sin experiencia llevaron una vez comida para mascotas como anzuelo para distraer a un hati. Evidentemente, no funcionó.\n«¡R-rápido! ¡Parece que el sabor de esta comida para perro no es de su agrado!»",
+            "card_quote": "— Un grupo de saqueadores de Cavidades novatos, después de un encuentro con un hati",
+            "skill_text": "La armadura del hati acorazado reduce en gran medida el daño y el Aturdimiento. Los apoyos defensivos reducen considerablemente su armadura."
+        },
+        "20004": {
+            "monster_id": 20004,
+            "monster_name": "Trasgo de las vías",
+            "card_text": "El trasgo de las vías ha sido objeto de innumerables debates en el mundo académico. Algunos científicos creen que su apariencia tan peculiar es producto de su propia creación con el fin de confundir al enemigo; otros piensan que los objetos sobre su cuerpo son equipo antiguo del metro que ha estado expuesto a la corrupción y se ha fusionado con él.\nSea como sea, el aspecto del trasgo de las vías siempre deja boquiabiertos a los investigadores que entran por primera vez al metro antiguo dentro de la Cavidad.\nLas señales de tráfico dentro de la Cavidad pueden comenzar a moverse de un momento a otro. Si eso sucede, en un abrir y cerrar de ojos brotará de la tierra un terrible ser etéreo que avanzará a pasos agigantados hacia su víctima.\n«¿Eh? Pero si vi esta señal hace un minuto... ¿Estaremos caminando en círculos?»\n«¡N-no! ¡Nos está siguiendo!»",
+            "card_quote": "— Protagonista de la película de terror «Perdición interminable» mientras busca una salida de la Cavidad",
+            "skill_text": "Durante el combate, el trasgo liberará un rugido de guerra que aumentará su daño y reducirá considerablemente el daño que recibe, pero este efecto desaparecerá cuando el trasgo sea aturdido."
+        },
+        "20005": {
+            "monster_id": 20005,
+            "monster_name": "Arlaune",
+            "card_text": "La primera vez que los saqueadores inexpertos se encuentran con un arlaune, se dejan engañar por su apariencia, creyendo que se trata de una planta inofensiva.\nPero al acercarse, este ser comenzará a agitarse y desprender materia etérea altamente concentrada para atacar al enemigo.\n«¿Eh? ¿Por qué me escupe? Solo quería regarla...»",
+            "card_quote": "— Palabras de un investigador inexperto al ser atacado por un arlaune",
+            "skill_text": "El arlaune es muy astuto y prefiere lanzar ataques a distancia. Sin embargo, al golpearlo mientras sus pétalos están abiertos, lo confundirá y acumulará una gran cantidad de Aturdimiento."
+        },
+        "20010": {
+            "monster_id": 20010,
+            "monster_name": "Hormigonera tarasca",
+            "card_text": "Según las observaciones de la Asociación de Investigación de Cavidades, el torso de la hormigonera tarasca almacena toda clase de líquidos etéreos de diferentes intensidades.\nAl mezclarlos, es capaz de crear una reacción en cadena compleja que libera energía destructiva con una potencia similar a la artillería del Ministerio de Defensa.\nLos investigadores más experimentados han aprendido a moverse con discreción para evitar ser atrapados en la línea de fuego.\n«Al inclinar su cabeza frente a mí, pensé que se trataba de una clase de ceremonia de bienvenida. Pero en cuanto el tambor comenzó a brillar me di cuenta de que era una ceremonia de despedida.»",
+            "card_quote": "— Palabras de un investigador experimentado mientras narraba su experiencia para «Té en la Cavidad»",
+            "skill_text": "La hormigonera tarasca pesada dispara un láser continuo y salta hacia los lados para ajustar su posición."
+        },
+        "20022": {
+            "monster_id": 20022,
+            "monster_name": "Avispón",
+            "card_text": "Siempre hay avispones rodeando a Nínive. Algunos investigadores piensan que los avispones han creado una especie de relación simbiótica con la criatura y que configura una especie de coordinación entre ambas partes.\nCuando la energía de Nínive aumenta, esta florece y los avispones entran en el modo frenesí. En este estado, los avispones atacan con todas sus fuerzas a todo objetivo cercano que detecten.\n«¡Oye! Algo está saliendo de esa flor...»\n«Son... ¿abejas?»",
+            "card_quote": "— Expediente de investigación KU241 de la Cavidad Cero: grabación oral del primer avistamiento de un avispón.",
+            "skill_text": "Los avispones asisten a Nínive, distrayendo al enemigo."
+        },
+        "30000": {
+            "monster_id": 30000,
+            "monster_name": "Dullahan",
+            "card_text": "Un poderoso ser etéreo humanoide que se vio por primera vez en la Cavidad Lagunaria, cuyos apuntes se encuentran en los informes de la tercera expedición de la Asociación de Investigación de Cavidades. Hasta ahora, se desconoce si el origen de este organismo etéreo está relacionado con la caída de Bruz, la ciudad aledaña.\nDebido a su gran fuerza y sus técnicas inteligentes de pelea, la Asociación de Investigación de Cavidades lo clasifica como un riesgo medio. Se recomienda a los investigadores novatos mantener la distancia y evitar la confrontación directa con ellos.\n«No dejes que ilumine su espada. Y si lo hace... ¡no dejes que te corte la cabeza!»",
+            "card_quote": "— Segmento del programa de variedades de edición especial «¡Enséñame, líder!»",
+            "skill_text": "El dullahan acumula fuerza para después arrojarse hacia delante con un poderoso espadazo. Mientras acumula fuerza, utiliza ataques de gran poder para interrumpirlo."
+        },
+        "30001": {
+            "monster_id": 30001,
+            "monster_name": "Tánatos",
+            "card_text": "Explorar las Cavidades supone una carga mental considerable. Encima de ello, la capacidad de movimiento instantáneo y los ataques impredecibles del tánatos son el terror de un gran número de saqueadores de Cavidades.\nMuchos de ellos incluso han perdido el valor después de enfrentarse a un tánatos a solas y han decidido retirarse antes de tiempo. Incluso se ha vuelto un tema recurrente en las películas de terror\n«Su esbelta figura desaparece en un abrir y cerrar de ojos, y antes de que te des cuenta está detrás de ti...»\n«¡Aaah! ¡Ahora no me atrevo a ir al baño a solas!»",
+            "card_quote": "— Reseña en la página web «Ciruela de cobre» la noche del estreno de «Cuando el ser etéreo toca a la puerta»",
+            "skill_text": "El tánatos se teletransporta para atacar desde un ángulo estratégico. Sin embargo, al ejecutar apoyos defensivos y ataques sucesivos, acumulará una gran cantidad de Aturdimiento."
+        },
+        "30007": {
+            "monster_id": 30007,
+            "monster_name": "Carnicero del Callejón",
+            "card_text": "A diferencia de otros seres etéreos altamente peligrosos, el Carnicero del Callejón posee un cuerpo gigantesco, pero el éter en su interior normalmente se encuentra inactivo.\nAun así, el Carnicero del Callejón es lo suficientemente fuerte como para destruir lo que se le atraviese. Toda la retorcida área del metro es su «matadero».\nEl Carnicero del Callejón solo adoptará su forma más aterradora cuando una amenaza despierte su interés.\nEl éter concentrado acumulado en su cuerpo se intensificará en cuestión de milisegundos. La enorme cantidad de energía provoca que sus extremidades se distorsionen a gran velocidad para entrar en un estado devorador.\nEso significa que la hora del aperitivo ha llegado a su fin y ha comenzado el verdadero festín.\nSi no quieren formar parte del banquete, los saqueadores de Cavidades que entren por error en su territorio avanzar con cuidado y mantenerse lejos del «matadero»...\n«La ruta de esta Cavidad es complicada. Lo único certero es que, cuando él aparece al otro lado del camino, este se convierte en un callejón sin salida.»",
+            "card_quote": "— Expediente n.º 17 sobre la Cavidad sin Retorno de la Asociación de Investigación de Cavidades",
+            "skill_text": "El Carnicero del Callejón ejecuta ataques de gran amplitud. Tras recibir cierta cantidad de daño, entra en la segunda fase, en la que se vuelve más agresivo y lanza rayos láser. Al encontrarse en la segunda fase, utiliza ataques más poderosos después de su combinación de golpes para confundirlo."
+        },
+        "30010": {
+            "monster_id": 30010,
+            "monster_name": "Marioneta: Velo negro",
+            "card_text": "Muchos años atrás, dos bailarinas hermanas que tuvieron un ascenso meteórico fueron invitadas a un magnífico espectáculo en las opulentas Bailarinas Mellizas.\nSin embargo, al cerrar el telón, una Cavidad surgió de la nada. Las Bailarinas Mellizas fueron absorbidas por la Cavidad, y las dos hermanas cayeron en la oscuridad. Al escuchar la noticia, numerosos admiradores alrededor del mundo suspiraron con gran pesar.\nDicen que el día del espectáculo, las hermanas atestiguaron tres augurios de la muerte. Sin embargo, las hermanas, cegadas por el reluciente escenario, la ovación del público y la gloria, decidieron continuar con el espectáculo, ignorando las advertencias de muerte.\nActualmente, no quedan muchas ilustraciones de la hermana mayor. Salvo por las fotos amarillentas de las revistas, prácticamente no quedan registros de la conmovedora figura de Augilia al bailar.\nApenas un puñado de saqueadores de Cavidades consumados sabe que, cuando las bombillas rotas de las Bailarinas Mellizas vuelven a encenderse, la misteriosa y elegante silueta de la marioneta de velo negro emergerá de las sombras. Muchos están firmemente convencidos de que guarda cierta relación con Augilia, la bailarina de aquel entonces. Es como si la marioneta intentara llevar a cabo la actuación final en su nombre. A lo largo de los años, aquellos que han tenido la «fortuna» de atestiguar su último número, viven con pesadillas por el resto de sus vidas.\n«Si por alguna razón te topas con las marionetas en las Bailarinas Mellizas, ni se te ocurra intentar huir. Es mejor quedarse a ver el acto final, al menos es una forma elegante de morir.»",
+            "card_quote": "— Comentario de un saqueador de Cavidades novato en la red proxy",
+            "skill_text": "La marioneta se acerca al enemigo a gran velocidad y ejecuta una secuencia de ataques ininterrumpidos."
+        },
+        "30011": {
+            "monster_id": 30011,
+            "monster_name": "Marioneta: Velo gris",
+            "card_text": "Muchos años atrás, dos bailarinas hermanas que tuvieron un ascenso meteórico fueron invitadas a un magnífico espectáculo en las opulentas Bailarinas Mellizas.\nSin embargo, al cerrar el telón, una Cavidad surgió de la nada. Las Bailarinas Mellizas fueron absorbidas por la Cavidad, y las dos hermanas cayeron en la oscuridad. Al escuchar la noticia, numerosos admiradores alrededor del mundo suspiraron con gran pesar.\nDicen que el día del espectáculo, las hermanas atestiguaron tres augurios de la muerte. Hay quienes creen las hermanas provocaron la ira de ciertas facciones, las cuales, aprovechando el caos provocado por la Cavidad, se deshicieron de ellas. Al parecer, dichos augurios eran en realidad la advertencia de una persona de buen corazón.\nHasta hoy, la verdad y la ficción son difíciles de separar. Solo es posible ver la figura grácil de Augetta, la hermana menor, a través de los pocos archivos que han sobrevivido.\nApenas un puñado de saqueadores de Cavidades consumados sabe que, cuando la pieza olvidada resuena entre los muros de las Bailarinas Mellizas, la silueta de la marioneta de velo gris aparece para cumplir su promesa. Muchos están firmemente convencidos de que guarda cierta relación con Augetta, la bailarina de aquel entonces. Es como si la marioneta intentara llevar a cabo la actuación final en su nombre. Solo que esta vez, sus pasos no transmiten amor y belleza, sino muerte y desesperación.\n«Me pregunto si la marioneta de velo gris es la hermana mayor o la menor. Ah, ¡no es que no sepa nada de arte, es solo que no sé distinguirlas!»",
+            "card_quote": "— Publicación de un saqueador de Cavidades en la red proxy",
+            "skill_text": "La marioneta se acerca al enemigo a gran velocidad y ejecuta una secuencia de ataques ininterrumpidos."
+        },
+        "30012": {
+            "monster_id": 30012,
+            "monster_name": "Marionetas mellizas",
+            "card_text": "Muchos años atrás, dos bailarinas hermanas que tuvieron un ascenso meteórico fueron invitadas a participar en un magnífico espectáculo en las opulentas Bailarinas Mellizas.\nSin embargo, cuando el telón estaba a punto de caer, una Cavidad surgió de la nada, engullendo, as Bailarinas Mellizas a su paso. Las dos hermanas cayeron presas de la oscuridad. Al escuchar la noticia, admiradores de todos los rincones del mundo se sintieron devastados.\nA día de hoy, solo es posible admirar sus bellos pasos de baile en los escasos fragmentos de video e imágenes que todavía se conservan.\nSolo algunos saben que cuando los ecos olvidados de la melodía del ballet resuena en las Bailarinas Mellizas, las marionetas mellizas emergen de entre las sombras. Se rumorea que esas dos figuras están directamente relacionadas con las bailarinas a las que tan terrible final les aguardó durante aquel espectáculo. Se dice que aún esperan poder llevar a cabo el gran final que nunca bailaron.\n«Cuando la estremecedora melodía entone su última nota, las dos marionetas emergerán de la oscuridad para deleitarnos con un presente...»\n«¿Eh? Entonces... ¿Quiere decir eso que el espectáculo ya ha comenzado?»\n«No, creo que lo que quiere decir es que... es demasiado tarde para huir. Este es el final.»",
+            "card_quote": "— «Entrevista de la Cavidad», edición n.º 251. Entrevista a un investigador de Cavidades que sobrevivió",
+            "skill_text": "Las marionetas mellizas ejecutan una gran cantidad de técnicas en cadena. Si, durante algunos de sus ataques, ejecutas una gran cantidad de apoyos defensivos, las interrumpirás. Cuando una de las marionetas mellizas sea derrotada, la otra intentará resucitarla."
+        },
+        "30017": {
+            "monster_id": 30017,
+            "monster_name": "Cyrtoidea ionizado",
+            "card_text": "Entre los saqueadores de Cavidades corre el rumor de que el comportamiento del cyrtoidea es similar al del tiburón.\nMerodea desde las sombras, oculto en el subsuelo, y emerge repentinamente a la superficie para desgarrar a sus presas.\nUn análisis de los archivos indica que utiliza las vibraciones en el suelo para localizar al objetivo. Los saqueadores de Cavidades experimentados avanzan a pasos irregulares para evitar llamar su atención.\n«Yo antes era un investigador de renombre a cargo de un área infestada de cyrtoidea. Tenía que saltar de aquí para allá para evitar sus ataques. Ahora que lo pienso, ese fue el momento en el que comenzó mi carrera como bailarín de zapateado.»",
+            "card_quote": "— Entrevista con Ansor, bailarín de zapateado, en «Té en la Cavidad», capítulo 131",
+            "skill_text": "Durante el combate, el cyrtoidea ionizado tiende a usar su cabeza afilada para ejecutar asaltos a distancia."
+        },
+        "30018": {
+            "monster_id": 30018,
+            "monster_name": "Nassellaria ionizado",
+            "card_text": "En las Cavidades, las mutaciones etéreas se manifiestan de muchas formas, con estilos de combate de lo más diversos.\nAlgunas son feroces, otras son astutas, e incluso hay algunas que puede decirse que son justas.\nSin embargo, el nassellaria pertenece a una categoría muy peculiar. A menudo se detiene en el lugar más conspicuo y asume una pose majestuosa antes de concentrar el éter volátil en su cuerpo para liberarlo como energía destructiva y arrasar con los obstáculos que le cierran el paso a otros seres etéreos.\nEn este instante, los seres etéreos de los alrededores se abalanzan ferozmente sobre el enemigo para darle tiempo suficiente al nassellaria.\n«¡Rápido, que alguien lo interrumpa! ¡No dejen que cargue su ataque! ¡Si nos golpea, parecerá que nosotros somos los villanos!»",
+            "card_quote": "— Investigadores en las profundidades de la Cavidad al ser acorralados por nassellaria",
+            "skill_text": "El nassellaria ionizado tiende a acumular fuerza durante un tiempo prolongado para generar un gran número de orbes de energía que atacan a los enemigos. Si recibe daño etéreo o ataques poderosos, los orbes de energía caerán antes de tiempo e infligirán daño en área a las unidades cercanas."
+        },
+        "30023": {
+            "monster_id": 30023,
+            "monster_name": "Tracio",
+            "card_text": "Un temible ser etéreo cuyo nombre proviene de una estirpe de guerreros de los que hablan las leyendas de la antigua civilización. Se dice que solo los héroes más valientes y los villanos más perversos pueden convertirse en estas terribles criaturas al corromperse.\nPero esa no es la realidad. Sin embargo, todo el entrenamiento que le hayas dedicado a tus preciados músculos tanto en las Cavidades como en el gimnasio y la gran cantidad de adrenalina generada antes de morir pueden contribuir a que te conviertas en un gran problema para los compañeros que tuviste cuando vivías. Aunque es poco probable que se preocupen demasiado por una vieja amistad que ya está más que muerta, ¿no?\nAhí ya nada importa. ¿Qué más da tu reputación social en el momento en el que tu bello rostro se transforma en un oscuro orbe de energía?\n«¡No esperaba menos del jefe! ¡Sigue siendo igual de fuerte transformado en ser etéreo!»\n«Sabía que no podía ser bueno que fuera al gimnasio todos los días...»",
+            "card_quote": "— Declaraciones en caliente de un miembro de una banda de saqueadores de Cavidades al ser arrestado",
+            "skill_text": "Durante el combate, Tracio emplea repetidamente habilidades especiales para entrar en el estado de reserva eléctrica. En este estado se vuelve muy violento y provoca una explosión en un área grande tras ejecutar ataques de gran poder."
+        },
+        "35001": {
+            "monster_id": 35001,
+            "monster_name": "Nínive",
+            "card_text": "A pesar de estar clasificado como un enjambre simbiótico etéreo de alta peligrosidad, muchos bajan la guardia ante la apariencia única y cautivadora de Nínive.\nEl único registro de investigación de ella dice que Nínive expande su cuerpo constantemente y, por medio de sus estolones, reúne éter altamente concentrado en su núcleo para generar energía de forma continua. Los científicos creen que este comportamiento sigue el mismo principio que la fotosíntesis de las plantas.\nAl mecer su cuerpo, desprende una gran cantidad de éter altamente activo. Cuando el éter concentrado está a punto de desbordarse, cambiará de forma y florecerá.\nSu florecimiento es el presagio de la muerte.\n«La buena noticia es que no tiene malas intenciones, solo absorbe nutrientes para hacer la fotosíntesis. La mala noticia es que... nosotros somos los nutrientes.»",
+            "card_quote": "— Registro de investigación sobre la Cavidad Cero, por el Ministerio de Defensa, n.º K-411",
+            "skill_text": "Nínive ataca con técnicas de gran alcance y lluvias de proyectiles. También invoca avispones que la apoyan en combate."
+        },
+        "100001": {
+            "monster_id": 100001,
+            "monster_name": "Tyrfing energizado",
+            "card_text": "La Asociación de Investigación de Cavidades siempre ha estudiado los hábitos de los tyrfing. Su postura encorvada y su tambaleo al caminar en realidad son una forma de almacenar energía para poder, de un momento a otro, atacar lanzando un golpe tras otro.\nDebido a lo numerosos que son y al poder de sus ataques, los tyrfing son considerados la causa de muerte número uno en las Cavidades.\nAl enfrentarse a un enemigo acorazado, los tyrfing lanzan golpes a diestro y siniestro sin detenerse, hasta que uno de los dos caiga.\n«¿Y si en lugar de odiarnos nos ven como sus marionetas de entrenamiento?»",
+            "card_quote": "— Entrevista a Nobby Kereyan, patrullero antidisturbios retirado por ser herido en combate, durante el programa nocturno «Té en la Cavidad», ep. 165",
+            "skill_text": "El tyrfing ejecuta ataques cuerpo a cuerpo."
+        },
+        "100011": {
+            "monster_id": 100011,
+            "monster_name": "Alpeca energizado",
+            "card_text": "El acervo de la Asociación de Investigación de Cavidades en torno a los alpeca es relativamente escaso. Después de un análisis poco exhaustivo sobre su comportamiento al escupir éter líquido, determinaron que era un ser etéreo de bajo riesgo y dieron por concluida la investigación.\nEn una ocasión, un científico sintió curiosidad por el éter líquido que expedían los alpeca, por lo que solicitó apoyo de los investigadores de los alrededores.\nPor alguna razón, ninguno de los investigadores experimentados respondió a su llamada.\n«¡Rápido! ¡Han comenzado a salivar! ¡Aaah, mi ropa nueva!»",
+            "card_quote": "— Raffaele Bert, investigadora novata, al considerar retirarse de las profundidades de una Cavidad",
+            "skill_text": "El alpeca lanza ataques a distancia."
+        },
+        "100021": {
+            "monster_id": 100021,
+            "monster_name": "Sátiro energizado",
+            "card_text": "El primer ser etéreo humanoide que se puede ver en el metro de Nueva Eridu dentro de la Cavidad. Los investigadores de la HIA tenían discusiones acaloradas sobre su procedencia. Por un lado, había quienes afirmaban que se trataba de un ente corrompido que, mediante una fuerte mutación, se transformó en éter activo; por el otro, había quienes decían que se trata de éter activo puro que había sido gravemente afectado por el entorno dentro de la Cavidad. Sea como sea, debido a su inteligencia limitada, la HIA le ha asignado un nivel de riesgo bajo. Sin embargo, eso no significa que uno pueda bajar la guardia cerca de ellos, pues aparecen en grupo.\n«¿Alguna vez has llegado tarde o recibido una multa por culpa de un semáforo rojo? ¿A que es molesto? ¡Pues ha llegado la hora de desquitarse!»",
+            "card_quote": "— Comentario del usuario «BajenElPrecioDelNuevoBangbú» en el foro «Supernova Hoy»",
+            "skill_text": "El sátiro tiende a ejecutar ataques pesados que carga durante mucho tiempo y son difíciles de interrumpir."
+        },
+        "100031": {
+            "monster_id": 100031,
+            "monster_name": "Hoplita energizado",
+            "card_text": "A pesar de que la HIA considera a los hoplitas como seres etéreos de bajo riesgo, para los saqueadores de Cavidades e investigadores novatos pueden ser un dolor de cabeza.\nSus extremidades delanteras están cubiertas de una gruesa capa de materia etérea inerte que sirven como un excelente escudo o como un arma amenazante.\nLa única desventaja es que es un grandullón poco ágil y muy torpe.\n«Siento lástima por los hoplitas. Al jugar \"piedra, papel o tijera\", ¡los pobres tontos solo pueden sacar \"papel\"!»",
+            "card_quote": "— Programa especial sobre los hoplitas en «El zoológico de la Cavidad»",
+            "skill_text": "El hoplita utiliza su brazo acorazado para embestir o bloquear los ataques."
+        },
+        "100041": {
+            "monster_id": 100041,
+            "monster_name": "Araña explosiva energizado",
+            "card_text": "Según el informe de la Asociación de Investigación de Cavidades, dada la lentitud de movimiento y bajo impacto de sus explosiones, las arañas explosivas son consideradas seres etéreos de bajo riesgo.\nSin embargo, algunos comerciantes con un agudo sentido del olfato han encontrado un negocio a partir de su complexión redonda y patas cortas.\nDespués de que «¡Rueda, rueda, araña explosiva!» se volviera un éxito taquillero, artículos como juguetes y almohadas comenzaron a venderse como pan caliente.\n«No pensé que los productos fueran a afectarme más que las arañas explosivas mismas. Billy, prometo comer solo pan el próximo mes...»",
+            "card_quote": "— Anby, mientras revisa su cartera frente a la tienda de muñecos del distrito comercial.",
+            "skill_text": "La araña explosiva se autodestruye."
+        },
+        "100141": {
+            "monster_id": 100141,
+            "monster_name": "Mandrágora energizada",
+            "card_text": "La mandrágora fue llamada de tal forma por un científico, aludiendo a la planta venenosa homónima, por su aspecto similar.\nCuando la mandrágora florece, dispara rayos luminosos de alta temperatura con los que golpea a los enemigos a su alrededor. Sus duras \"hojas\" se aferran firmemente al suelo, como una planta que se niega a ser arrancada. A veces, como forma de defensa, es capaz de atacar a los enemigos cercanos con su follaje.\nIgual que la mandrágora de las leyendas, su alarido puede ser letal.\n«¡No te le acerques! ¿No ves que está floreciendo?»",
+            "card_quote": "— Escena de «Terror en las profundidades» en la que una mandrágora está a punto de florecer",
+            "skill_text": "Las mandrágoras proporcionan bonificaciones de Ataque o Escudo adicional a las unidades cercanas."
+        },
+        "100251": {
+            "monster_id": 100251,
+            "monster_name": "Arimán energizado",
+            "card_text": "Debido a su forma tan peculiar y a que permanece inmóvil por mucho tiempo, el arimán a menudo pasa por una estatua de las Bailarinas Mellizas.\nEs por eso que, cuando los investigadores novatos se encuentran con un arimán, los deja marcados de por vida...\nSin embargo, al pasar a su lado, comienza a moverse. Justo cuando su objetivo cae al suelo y queda congelado por el pánico, es el momento perfecto para que el arimán ataque.\n«Corin, no te dejes engañar por su máscara. No es una pieza de colección. ¡Que comience la limpieza!»",
+            "card_quote": "— Palabras de Lycaon mientras instruye a Corin",
+            "skill_text": "El arimán ejecuta asaltos a gran velocidad y ocasionalmente coordina sus ataques con otros arimán."
+        },
+        "100261": {
+            "monster_id": 100261,
+            "monster_name": "Espíritu errante energizado",
+            "card_text": "Como si el entorno artístico de las Bailarinas Mellizas hubiera influido en él, el espíritu errante tiene una extraña estructura retorcida como la de una escultura contemporánea.\nAlgunos investigadores creen que su forma tan peculiar sirve para proteger mejor su núcleo etéreo.\nPero otros investigadores insisten en se trata de una trampa para distraer a sus enemigos. Al distraerse por su extraña postura, el espíritu errante utiliza éter concentrado para ejecutar ataques de largo alcance.\n«Me quedé viéndolo por un instante y pensé: \"¿está usando su propia cabeza como bola de bolos?\". Antes de darme cuenta, su \"bola de bolos\" estaba justo en mis narices.»",
+            "card_quote": "—Publicación anónima en la red proxy",
+            "skill_text": "El espíritu errante ejecuta ataques continuos a distancia durante un breve periodo de tiempo."
+        },
+        "100301": {
+            "monster_id": 100301,
+            "monster_name": "Fossor energizado",
+            "card_text": "Las últimas investigaciones del Instituto Estrella Blanca revelan que las extremidades de algunos seres etéreos adquieren propiedades insólitas de su propio entorno. El fossor es el ejemplo por excelencia de este fenómeno: sus peculiares extremidades delanteras se asemejan mucho al equipo de excavación del área del Antiguo Pozo Petrolífero.\nSi bien algunos piensan que esto se trata de una técnica de camuflaje para engañar a sus enemigos, otros señalan que el estilo de combate del fossor es demasiado agresivo y directo, por lo que las emboscadas no deberían ser su fuerte.\nIncluso algunos saqueadores de Cavidades con más imaginación creen que podría haber desarrollado esta apariencia tan solo para poder extraer minerales en cualquier momento...\n«Cuando lo identifiqué desde una gran distancia, parecía estar tranquilo y feliz minando en el asfalto. En el momento en el que se dio cuenta de mi presencia, no dudó ni un segundo en cargar hacia mí, haciendo todo lo posible para que me alejara... ¡Pero si yo solo pasaba por ahí! ¡No tenía ni la más mínima intención de llevarme su chatarra!»",
+            "card_quote": "— Un saqueador de Cavidades novato fuera de la Cavidad contándoles a sus compañeros una experiencia reciente",
+            "skill_text": "Durante el combate, el fossor ejecuta cortes a dos manos consecutivos."
+        },
+        "100311": {
+            "monster_id": 100311,
+            "monster_name": "Sordidus energizado",
+            "card_text": "En las Cavidades de la Periferia acechan varios tipos de seres etéreos extraños. Sin duda, el sordidus es uno de ellos.\nSu estructura corporal es única: poseen unas extremidades increíblemente flexibles que parecen resultar de una reacción química desconocida entre el petróleo pesado y el éter activo.\nCuando fijan un objetivo, emplean sus extremidades como si fueran acróbatas expertos, ejecutando con agresividad ataques feroces.\n«Maldita sea... ¡Este bicho me ha pegado un latigazo!»\n«¿Acaso se piensa que parece más dócil si nos trata a nosotros como si fuéramos bestias salvajes?»",
+            "card_quote": "— Un grupo de saqueadores de Cavidades novatos enfrentándose a un sordidus dentro de una Cavidad",
+            "skill_text": "Durante el combate, el sordidus saca sus tentáculos para golpearte a corta distancia o para clavarlos en el suelo y lanzar un ataque sorpresa a larga distancia."
+        },
+        "200001": {
+            "monster_id": 200001,
+            "monster_name": "Fárbauti energizado",
+            "card_text": "El fárbauti posee una fuerza formidable y suele estar en un estado de frenesí, por lo que es un dolor de cabeza para los saqueadores de Cavidades. Sus brazos, duros como martillos, son capaces de detener los ataques sin ningún problema, así como lanzar una ráfaga de golpes continuos que destruyen lo que sea que se les atraviese.\nAlgunos saqueadores de Cavidades han notado que el fárbauti a veces golpea el suelo de forma rítmica a altas frecuencias, por lo que pensaban que se sentía atraído a música con percusiones.\nA pesar de que dichas afirmaciones han sido desmentidas por la HIA, aún hay algunos saqueadores que llevan un altavoz pequeño para, en caso de tener un encuentro con un fárbauti, intentar distraerlo. Hasta ahora, no hay nadie que haya intentado este método y vivido para contarlo.\n«La razón es muy sencilla. Incluso los fárbauti creen que ustedes tienen un pésimo gusto musical.»",
+            "card_quote": "— Publicación del usuario «Dedos_de_clavos» en el foro de rock «La escoba negra»",
+            "skill_text": "El fárbauti tiende a utilizar sus poderosos brazos para ejecutar martillazos continuos. Sin embargo, tras recibir cierta cantidad de golpes, sus duros brazos se entumecerán."
+        },
+        "200004": {
+            "monster_id": 200004,
+            "monster_name": "Fárbauti ionizado",
+            "card_text": "El fárbauti posee una fuerza formidable y suele estar en un estado de frenesí, por lo que es un dolor de cabeza para los saqueadores de Cavidades. Sus brazos, duros como martillos, son capaces de detener los ataques sin ningún problema, así como lanzar una ráfaga de golpes continuos que destruyen lo que sea que se les atraviese.\nAlgunos saqueadores de Cavidades han notado que el fárbauti a veces golpea el suelo de forma rítmica a altas frecuencias, por lo que pensaban que se sentía atraído a música con percusiones.\nA pesar de que dichas afirmaciones han sido desmentidas por la HIA, aún hay algunos saqueadores que llevan un altavoz pequeño para, en caso de tener un encuentro con un fárbauti, intentar distraerlo. Hasta ahora, no hay nadie que haya intentado este método y vivido para contarlo.\n«La razón es muy sencilla. Incluso los fárbauti creen que ustedes tienen un pésimo gusto musical.»",
+            "card_quote": "— Publicación del usuario «Dedos_de_clavos» en el foro de rock «La escoba negra»",
+            "skill_text": "El fárbauti ionizado tiende a utilizar sus poderosos brazos para ejecutar martillazos continuos. Sin embargo, tras recibir cierta cantidad de golpes, sus duros brazos se entumecerán. Además, acumula energía durante un largo periodo de tiempo, tras lo cual ejecuta un poderoso salto para atacar."
+        },
+        "200011": {
+            "monster_id": 200011,
+            "monster_name": "Hati energizado",
+            "card_text": "Un ser etéreo altamente peligroso. A pesar de su apariencia de una bestia cuadrúpeda, es sumamente inteligente. Existen registros de esta criatura desde la primera expedición oficial de la Asociación de Investigación de Cavidades.\nSe dice que fueron vistos por primera vez en una madriguera dentro de una Cavidad. Los nómadas que rondaban por los alrededores alcanzaban a escuchar sus aullidos, similares a los de una bestia salvaje.\n«Si les lanzo un palo o una pelota, ¿crees que irán a recogerlo?»\n«Inténtalo si quieres, pero no pienso pagar el hospital.»",
+            "card_quote": "— Conversación entre Billy y Nicole",
+            "skill_text": "El hati es capaz de desplazarse a gran velocidad y ejecutar rápidos zarpazos."
+        },
+        "200014": {
+            "monster_id": 200014,
+            "monster_name": "Hati infame",
+            "card_text": "Un ser etéreo altamente peligroso. A pesar de su apariencia de una bestia cuadrúpeda, es sumamente inteligente. Existen registros de esta criatura desde la primera expedición oficial de la Asociación de Investigación de Cavidades.\nSe dice que fueron vistos por primera vez en una madriguera dentro de una Cavidad. Los nómadas que rondaban por los alrededores alcanzaban a escuchar sus aullidos, similares a los de una bestia salvaje.\n«Si les lanzo un palo o una pelota, ¿crees que irán a recogerlo?»\n«Inténtalo si quieres, pero no pienso pagar el hospital.»",
+            "card_quote": "— Conversación entre Billy y Nicole",
+            "skill_text": null
+        },
+        "200015": {
+            "monster_id": 200015,
+            "monster_name": "Hati alfa energizado",
+            "card_text": "Un ser etéreo altamente peligroso. A pesar de su apariencia de una bestia cuadrúpeda, es sumamente inteligente. Existen registros de esta criatura desde la primera expedición oficial de la Asociación de Investigación de Cavidades.\nSe dice que fueron vistos por primera vez en una madriguera dentro de una Cavidad. Los nómadas que rondaban por los alrededores alcanzaban a escuchar sus aullidos, similares a los de una bestia salvaje.\n«Si les lanzo un palo o una pelota, ¿crees que irán a recogerlo?»\n«Inténtalo si quieres, pero no pienso pagar el hospital.»",
+            "card_quote": "— Conversación entre Billy y Nicole",
+            "skill_text": "Durante el combate, los hati alfa sienten un deseo de atacar extremadamente fuerte y sus movimientos son ágiles y rápidos."
+        },
+        "200021": {
+            "monster_id": 200021,
+            "monster_name": "Trasgo energizado",
+            "card_text": "La primera vez que un investigador se encontró con este tipo de ser etéreo, pensó que tendría cierto grado de inteligencia, y que incluso habría aprendido a usar armas contundentes de los humanos, por lo que recibió el nombre de «trasgo».\nSin embargo, informes posteriores indican que la supuesta arma es en realidad un brazo deformado por la mutación, y que no poseen la capacidad de imitar el comportamiento humano.\nA pesar de ello, el trasgo es un enemigo formidable. Su complexión robusta y su fuerza descomunal le permiten exterminar a sus enemigos con un simple movimiento de brazos.\nCuando un objeto entra en su territorio, estalla en ira y hace lo que sea por destruirlo.\n«¿Eh? Un trasgo pasó corriendo. Parece que está golpeando un montón de chatarra.»\n«¿No te parece que golpea con ritmo? «Pum, pum, pum, pum... Es como si golpeara un tambor.»\n«¿Qué hacen ahí parados? ¡No es un montón de chatarra, es nuestro camión de suministros!»",
+            "card_quote": "— Un grupo de bandidos al encontrarse con un trasgo en su cuartel provisional",
+            "skill_text": "El trasgo libera un rugido de guerra que aumenta su daño y reduce considerablemente el daño que recibe. Este efecto desaparecerá cuando es afectado por Aturdimiento."
+        },
+        "200031": {
+            "monster_id": 200031,
+            "monster_name": "Hati acorazado energizado",
+            "card_text": "Muchos investigadores de Cavidades consumados piensan que el hati acorazado es uno de los seres etéreos más difíciles de lidiar.\nA pesar de que su robusta coraza disminuye su agilidad, a cambio obtiene una capacidad de defensa formidable.\nAdemás, la materia corrupta sobre su cuerpo está provista de protuberancias filosas, las cuales, cuando el hati se lanza a la carga, puede infligir heridas adicionales sobre el enemigo.\nEn apariencia, su velocidad de movimiento y su resistencia formidable en apariencia proveen una defensa perfecta, haciendo que hasta los saqueadores veteranos frunzan el ceño en frustración y le den la vuelta.\nDicen que algunos saqueadores novatos sin experiencia llevaron una vez comida para mascotas como anzuelo para distraer a un hati. Evidentemente, no funcionó.\n«¡R-rápido! ¡Parece que el sabor de esta comida para perro no es de su agrado!»",
+            "card_quote": "— Un grupo de saqueadores de Cavidades novatos, después de un encuentro con un hati",
+            "skill_text": "La armadura del hati acorazado reduce en gran medida el daño y el Aturdimiento. Los apoyos defensivos reducen considerablemente su armadura."
+        },
+        "200034": {
+            "monster_id": 200034,
+            "monster_name": "Hati acorazado infame",
+            "card_text": "Muchos investigadores de Cavidades consumados piensan que el hati acorazado es uno de los seres etéreos más difíciles de lidiar.\nA pesar de que su robusta coraza disminuye su agilidad, a cambio obtiene una capacidad de defensa formidable.\nAdemás, la materia corrupta sobre su cuerpo está provista de protuberancias filosas, las cuales, cuando el hati se lanza a la carga, puede infligir heridas adicionales sobre el enemigo.\nEn apariencia, su velocidad de movimiento y su resistencia formidable en apariencia proveen una defensa perfecta, haciendo que hasta los saqueadores veteranos frunzan el ceño en frustración y le den la vuelta.\nDicen que algunos saqueadores novatos sin experiencia llevaron una vez comida para mascotas como anzuelo para distraer a un hati. Evidentemente, no funcionó.\n«¡R-rápido! ¡Parece que el sabor de esta comida para perro no es de su agrado!»",
+            "card_quote": "— Un grupo de saqueadores de Cavidades novatos, después de un encuentro con un hati",
+            "skill_text": "La armadura del hati acorazado infame reduce en gran medida el daño y el Aturdimiento. Los apoyos defensivos reducen considerablemente su armadura. Además, tras dar un grito de guerra, sus proyectiles etéreos son más poderosos."
+        },
+        "200041": {
+            "monster_id": 200041,
+            "monster_name": "Trasgo de las vías energizado",
+            "card_text": "El trasgo de las vías ha sido objeto de innumerables debates en el mundo académico. Algunos científicos creen que su apariencia tan peculiar es producto de su propia creación con el fin de confundir al enemigo; otros piensan que los objetos sobre su cuerpo son equipo antiguo del metro que ha estado expuesto a la corrupción y se ha fusionado con él.\nSea como sea, el aspecto del trasgo de las vías siempre deja boquiabiertos a los investigadores que entran por primera vez al metro antiguo dentro de la Cavidad.\nLas señales de tráfico dentro de la Cavidad pueden comenzar a moverse de un momento a otro. Si eso sucede, en un abrir y cerrar de ojos brotará de la tierra un terrible ser etéreo que avanzará a pasos agigantados hacia su víctima.\n«¿Eh? Pero si vi esta señal hace un minuto... ¿Estaremos caminando en círculos?»\n«¡N-no! ¡Nos está siguiendo!»",
+            "card_quote": "— Protagonista de la película de terror «Perdición interminable» mientras busca una salida de la Cavidad",
+            "skill_text": "Durante el combate, el trasgo liberará un rugido de guerra que aumentará su daño y reducirá considerablemente el daño que recibe, pero este efecto desaparecerá cuando el trasgo sea aturdido."
+        },
+        "200051": {
+            "monster_id": 200051,
+            "monster_name": "Arlaune energizado",
+            "card_text": "La primera vez que los saqueadores inexpertos se encuentran con un arlaune, se dejan engañar por su apariencia, creyendo que se trata de una planta inofensiva.\nPero al acercarse, este ser comenzará a agitarse y desprender materia etérea altamente concentrada para atacar al enemigo.\n«¿Eh? ¿Por qué me escupe? Solo quería regarla...»",
+            "card_quote": "— Palabras de un investigador inexperto al ser atacado por un arlaune",
+            "skill_text": "El arlaune es muy astuto y prefiere lanzar ataques a distancia. Sin embargo, al golpearlo mientras sus pétalos están abiertos, lo confundirá y acumulará una gran cantidad de Aturdimiento."
+        },
+        "300001": {
+            "monster_id": 300001,
+            "monster_name": "Dullahan energizado",
+            "card_text": "Un poderoso ser etéreo humanoide que se vio por primera vez en la Cavidad Lagunaria, cuyos apuntes se encuentran en los informes de la tercera expedición de la Asociación de Investigación de Cavidades. Hasta ahora, se desconoce si el origen de este organismo etéreo está relacionado con la caída de Bruz, la ciudad aledaña.\nDebido a su gran fuerza y sus técnicas inteligentes de pelea, la Asociación de Investigación de Cavidades lo clasifica como un riesgo medio. Se recomienda a los investigadores novatos mantener la distancia y evitar la confrontación directa con ellos.\n«No dejes que ilumine su espada. Y si lo hace... ¡no dejes que te corte la cabeza!»",
+            "card_quote": "— Segmento del programa de variedades de edición especial «¡Enséñame, líder!»",
+            "skill_text": "El dullahan acumula fuerza para después arrojarse hacia delante con un poderoso espadazo. Mientras acumula fuerza, utiliza ataques de gran poder para interrumpirlo."
+        },
+        "300002": {
+            "monster_id": 300002,
+            "monster_name": "Cría de dullahan",
+            "card_text": "Un poderoso ser etéreo humanoide que se vio por primera vez en la Cavidad Lagunaria, cuyos apuntes se encuentran en los informes de la tercera expedición de la Asociación de Investigación de Cavidades. Hasta ahora, se desconoce si el origen de este organismo etéreo está relacionado con la caída de Bruz, la ciudad aledaña.\nDebido a su gran fuerza y sus técnicas inteligentes de pelea, la Asociación de Investigación de Cavidades lo clasifica como un riesgo medio. Se recomienda a los investigadores novatos mantener la distancia y evitar la confrontación directa con ellos.\n«No dejes que ilumine su espada. Y si lo hace... ¡no dejes que te corte la cabeza!»",
+            "card_quote": "— Segmento del programa de variedades de edición especial «¡Enséñame, líder!»",
+            "skill_text": "El dullahan acumula fuerza para después arrojarse hacia delante con un poderoso espadazo. Mientras acumula fuerza, utiliza ataques de gran poder para interrumpirlo."
+        },
+        "300004": {
+            "monster_id": 300004,
+            "monster_name": "Dullahan ionizado",
+            "card_text": "Un poderoso ser etéreo humanoide que se vio por primera vez en la Cavidad Lagunaria, cuyos apuntes se encuentran en los informes de la tercera expedición de la Asociación de Investigación de Cavidades. Hasta ahora, se desconoce si el origen de este organismo etéreo está relacionado con la caída de Bruz, la ciudad aledaña.\nDebido a su gran fuerza y sus técnicas inteligentes de pelea, la Asociación de Investigación de Cavidades lo clasifica como un riesgo medio. Se recomienda a los investigadores novatos mantener la distancia y evitar la confrontación directa con ellos.\n«No dejes que ilumine su espada. Y si lo hace... ¡no dejes que te corte la cabeza!»",
+            "card_quote": "— Segmento del programa de variedades de edición especial «¡Enséñame, líder!»",
+            "skill_text": "El dullahan ionizado acumula fuerza para después arrojarse hacia delante con un poderoso espadazo. Mientras acumula fuerza, utiliza ataques de gran poder para interrumpirlo. Además, después de usar ciertas habilidades, acumula energía etérea para ejecutar un ataque demoledor adicional."
+        },
+        "300005": {
+            "monster_id": 300005,
+            "monster_name": "Dullahan infame",
+            "card_text": "Un poderoso ser etéreo humanoide que se vio por primera vez en la Cavidad Lagunaria, cuyos apuntes se encuentran en los informes de la tercera expedición de la Asociación de Investigación de Cavidades. Hasta ahora, se desconoce si el origen de este organismo etéreo está relacionado con la caída de Bruz, la ciudad aledaña.\nDebido a su gran fuerza y sus técnicas inteligentes de pelea, la Asociación de Investigación de Cavidades lo clasifica como un riesgo medio. Se recomienda a los investigadores novatos mantener la distancia y evitar la confrontación directa con ellos.\n«No dejes que ilumine su espada. Y si lo hace... ¡no dejes que te corte la cabeza!»",
+            "card_quote": "— Segmento del programa de variedades de edición especial «¡Enséñame, líder!»",
+            "skill_text": "El dullahan infame acumula fuerza para después arrojarse hacia delante con un poderoso espadazo. Mientras acumula fuerza, utiliza ataques de gran poder para interrumpirlo. Además, el dullahan infame usa hábilmente su escudo para bloquear ataques. Tras bloquearlos, ejecuta rápidamente una habilidad."
+        },
+        "300011": {
+            "monster_id": 300011,
+            "monster_name": "Tánatos energizado",
+            "card_text": "Explorar las Cavidades supone una carga mental considerable. Encima de ello, la capacidad de movimiento instantáneo y los ataques impredecibles del tánatos son el terror de un gran número de saqueadores de Cavidades.\nMuchos de ellos incluso han perdido el valor después de enfrentarse a un tánatos a solas y han decidido retirarse antes de tiempo. Incluso se ha vuelto un tema recurrente en las películas de terror\n«Su esbelta figura desaparece en un abrir y cerrar de ojos, y antes de que te des cuenta está detrás de ti...»\n«¡Aaah! ¡Ahora no me atrevo a ir al baño a solas!»",
+            "card_quote": "— Reseña en la página web «Ciruela de cobre» la noche del estreno de «Cuando el ser etéreo toca a la puerta»",
+            "skill_text": "El tánatos se teletransporta para atacar desde un ángulo estratégico. Sin embargo, al ejecutar apoyos defensivos y ataques sucesivos, acumulará una gran cantidad de Aturdimiento."
+        },
+        "300014": {
+            "monster_id": 300014,
+            "monster_name": "Tánatos ionizado",
+            "card_text": "Explorar las Cavidades supone una carga mental considerable. Encima de ello, la capacidad de movimiento instantáneo y los ataques impredecibles del tánatos son el terror de un gran número de saqueadores de Cavidades.\nMuchos de ellos incluso han perdido el valor después de enfrentarse a un tánatos a solas y han decidido retirarse antes de tiempo. Incluso se ha vuelto un tema recurrente en las películas de terror\n«Su esbelta figura desaparece en un abrir y cerrar de ojos, y antes de que te des cuenta está detrás de ti...»\n«¡Aaah! ¡Ahora no me atrevo a ir al baño a solas!»",
+            "card_quote": "— Reseña en la página web «Ciruela de cobre» la noche del estreno de «Cuando el ser etéreo toca a la puerta»",
+            "skill_text": "El tánatos ionizado se teletransporta para atacar desde un ángulo estratégico. Sin embargo, al ejecutar apoyos defensivos y ataques sucesivos, acumulará una gran cantidad de Aturdimiento."
+        },
+        "300015": {
+            "monster_id": 300015,
+            "monster_name": "Tánatos infame",
+            "card_text": "Explorar las Cavidades supone una carga mental considerable. Encima de ello, la capacidad de movimiento instantáneo y los ataques impredecibles del tánatos son el terror de un gran número de saqueadores de Cavidades.\nMuchos de ellos incluso han perdido el valor después de enfrentarse a un tánatos a solas y han decidido retirarse antes de tiempo. Incluso se ha vuelto un tema recurrente en las películas de terror\n«Su esbelta figura desaparece en un abrir y cerrar de ojos, y antes de que te des cuenta está detrás de ti...»\n«¡Aaah! ¡Ahora no me atrevo a ir al baño a solas!»",
+            "card_quote": "— Reseña en la página web «Ciruela de cobre» la noche del estreno de «Cuando el ser etéreo toca a la puerta»",
+            "skill_text": "El tánatos infame se teletransporta para atacar desde un ángulo estratégico. Sus ataques serán extremadamente poderosos. Sin embargo, al ejecutar apoyos defensivos y ataques sucesivos, acumulará una gran cantidad de Aturdimiento."
+        },
+        "300071": {
+            "monster_id": 300071,
+            "monster_name": "Cría de Carnicero del Callejón",
+            "card_text": "A diferencia de otros seres etéreos altamente peligrosos, el Carnicero del Callejón posee un cuerpo gigantesco, pero el éter en su interior normalmente se encuentra inactivo.\nAun así, el Carnicero del Callejón es lo suficientemente fuerte como para destruir lo que se le atraviese. Toda la retorcida área del metro es su «matadero».\nEl Carnicero del Callejón solo adoptará su forma más aterradora cuando una amenaza despierte su interés.\nEl éter concentrado acumulado en su cuerpo se intensificará en cuestión de milisegundos. La enorme cantidad de energía provoca que sus extremidades se distorsionen a gran velocidad para entrar en un estado devorador.\nEso significa que la hora del aperitivo ha llegado a su fin y ha comenzado el verdadero festín.\nSi no quieren formar parte del banquete, los saqueadores de Cavidades que entren por error en su territorio avanzar con cuidado y mantenerse lejos del «matadero»...\n«La ruta de esta Cavidad es complicada. Lo único certero es que, cuando él aparece al otro lado del camino, este se convierte en un callejón sin salida.»",
+            "card_quote": "— Expediente n.º 17 sobre la Cavidad sin Retorno de la Asociación de Investigación de Cavidades",
+            "skill_text": "La cría del Carnicero del Callejón ejecuta ataques de gran amplitud. Tras recibir cierta cantidad de daño, entra en la segunda fase, en la que se vuelve más agresivo y lanza rayos láser. Al encontrarse en la segunda fase, utiliza ataques más poderosos después de su combinación de golpes para confundirlo. La cría del Carnicero del Callejón tiende a ejecutar evasiones para esquivar los ataques enemigos."
+        }
+    },
+    "Bandidos": {
+        "10015": {
+            "monster_id": 10015,
+            "monster_name": "Asaltante",
+            "card_text": "Dentro de los ladrones de éter, los asaltantes y los desvalijadores son miembros clave que poseen tanto habilidades técnicas como combativas.\nEquipados con un sensor de resonancia eléctrica, son capaces de detectar la ubicación aproximada de minerales etéreos, lo que facilita el trabajo posterior. Pero al llevar a cabo operaciones de combate, pueden aumentar la descarga eléctrica de dicho sensor para usarlo como un arma.\nHay quienes los confunden con pescadores ilegales, pero no parece importarles. Después de todo, con el voltaje al máximo, no importa si el enemigo es humano o pez...\n«Ya sea en un lago o en algún rincón de las Cavidades, si ves una silueta armada con un arpón eléctrico, ¡contacta al Ministerio de Seguridad Pública de inmediato!»",
+            "card_quote": "— Lema que emite un coche publicitario del Ministerio de Seguridad Pública de Nueva Eridu por el altavoz",
+            "skill_text": "El bandido de Cavidades: asaltante ejecuta ataques de asalto desde lejos. Sin embargo, los ataques a distancia son fáciles de bloquear, lo que proporciona a los agentes una oportunidad para atacar."
+        },
+        "10016": {
+            "monster_id": 10016,
+            "monster_name": "Pirómano",
+            "card_text": "Para pirómanos e incendiarios, robar un hogar es solo un trabajo secundario. Están firmemente convencidos de que no son más que baristas que buscan la emoción en cualquier rincón.\nSon capaces de mezclar distintos materiales etéreos con gran destreza y precisión en un cóctel «de la casa» altamente explosivo.\nA diferencia de otros bandidos de Cavidades, los pirómanos y los incendiarios son un poco más razonables. Siempre le darán a la víctima a elegir. Si es sensata, aceptará pagar el «peaje» y recibirán una botella de licor gratis; pero si se niega a cooperar, le reventarán el «cóctel de la casa» en su cabeza.\n«¿Y si los engaño invitándolos a beber y agotamos sus reservas?»",
+            "card_quote": "— Palabras de un investigador de Cavidades quien, después de ser asaltado, planea su huida",
+            "skill_text": "El bandido de Cavidades: pirómano lanza una gran cantidad de cócteles molotov."
+        },
+        "10018": {
+            "monster_id": 10018,
+            "monster_name": "Cazador furtivo",
+            "card_text": "Los bandidos que frecuentan las Cavidades durante días enteros presentan severos problemas cognitivos o desarrollan hábitos extraños. Por fortuna, los cazadores furtivos y los acechadores furtivos han heredado las buenas costumbres de los grupos delictivos tradicionales.\nSon escurridizos y astutos, por lo que se les da muy bien acechar en la oscuridad y atacar al enemigo con flechas. Si tienen la opción de asaltarlos por la espalda, nunca escogerán el enfrentamiento directo.\nA pesar de que su ballesta compuesta no es tan amenazante, es la mejor arma cuando se trata de sigilo. Los cazadores y acechadores experimentados saben aprovechar la oportunidad de derribar a su «presa» con una sola flecha cuando está desprevenida.\n«Yo solía ser un oficial del Ministerio de Seguridad Pública, pero un día me hirieron en la rodilla con una flecha.»",
+            "card_quote": "—Palabras de un miembro experimentado de la agencia de seguridad Ruiseñor Nocturno para un miembro novato",
+            "skill_text": "El bandido de Cavidades: acechador furtivo tiende a ejecutar tres disparos continuos a distancia para distraer al enemigo."
+        },
+        "10019": {
+            "monster_id": 10019,
+            "monster_name": "Atacante",
+            "card_text": "Al estar en la primera línea de los bandidos de Cavidades, los atacantes y los emboscadores suelen precipitarse al enemigo a solas agitando su arma.\nNo es por exceso de valentía o por falta de espíritu de equipo, sino para evitar dañar a otros con las descargas eléctricas que ocasionalmente desprenden sus bobinas. Un solo roce es suficiente para dejar paralizado al enemigo.\nY en un entorno hostil como en las Cavidades, un aliado que ha perdido la capacidad de moverse es una carga para todo el equipo.\n«¿Qué es esto? Déjame ver... Ah, parece ser una porra eléctrica de imita-ta-ta...»",
+            "card_quote": "— Las últimas palabras de un investigador novato antes de caer al suelo.",
+            "skill_text": "El bandido de Cavidades: atacante utiliza ataques giratorios continuos, exponiendo su punto débil al finalizar."
+        },
+        "20015": {
+            "monster_id": 20015,
+            "monster_name": "Abusón fornido",
+            "card_text": "A diferencia de los investigadores de Cavidades armados hasta los dientes, el abusón buscado solo lleva consigo un equipamiento sencillo.\nPero los peores criminales solo necesitan las armas más rudimentarias. Un bate metálico con clavos y una escopeta con cañones modificados basta para convertirlo en el terror de las Cavidades.\nUn investigador recuerda su encuentro con unos abusones buscados: estos tipos entran en un estado de éxtasis durante el combate. En palabras del investigador, más que una pelea, actúan como bravucones.\n«Mientras peleaba contra ellos, me recordaban a los abusones de la escuela.»",
+            "card_quote": "— Carta de resignación de un investigador novato de la HIA",
+            "skill_text": "El bandido de Cavidades: abusón fornido usa un garrote y un rifle para alternar entre ataques cuerpo a cuerpo y a distancia. También puede arrojar arena para ejecutar un asalto."
+        },
+        "20017": {
+            "monster_id": 20017,
+            "monster_name": "Matón fornido",
+            "card_text": "En el bajo mundo de Nueva Eridu es bien sabido que los luchadores más feroces no son los que ganan muchas peleas consecutivas, sino los matones fornidos y los matones buscados que se adentran en las Cavidades. Son escoltas que cobran una tarifa elevada por proteger los recursos de los traficantes de éter.\nDebido a su obsesión por la pelea, a los matones fornidos no se les da muy bien el uso de dispositivos electrónicos complejos. En lugar de pistola de electrochoque, llevan guantes de boxeo especiales que les brindan un poder destructivo a sus puñetazos.\nSeres etéreos, saqueadores, investigadores, oficiales de seguridad... Estando solos frente a un matón fornido o a un matón buscado, no son más que un saco de arena para pasar el tiempo.\n«¡Espera! Ese estilo de pelea... ¡Creo haber visto a ese tipo en la sala de juegos del Barrio N.º 4!»",
+            "card_quote": "— Billy, mientras unos matones embisten en dirección a él",
+            "skill_text": "El bandido de Cavidades: matón fornido golpea a sus enemigos con ambos puños y se mueve ágilmente para ajustar su posición de ataque."
+        },
+        "20020": {
+            "monster_id": 20020,
+            "monster_name": "Barredora enfurecida",
+            "card_text": "Cada año, el Ministerio de Seguridad Pública pierde un considerable número de mecas de apoyo en las Cavidades que terminan en manos de bandidos de Cavidades. Estas unidades de apoyo modificadas ilegalmente son las barredoras enfurecidas.\nA pesar de que los bandidos de Cavidades no pueden obtener refacciones por medios oficiales, han modificado los mecas siguiendo el principio de «si no está roto, ¿para qué repararlo?», por lo que conserva la mayor parte de sus habilidades de combate originales.\nPara darles un toque personalizado, los bandidos de Cavidades a menudo pintan sus propias barredoras enfurecidas, e incluso les instalan altavoces de gran potencia.\nAunque no mejore su capacidad de combate, por lo menos tienen más estilo que sus contrapartes originales.\n«¡Ahí viene un blanco fácil! ¡La chica de cabello rosa!»\n«Tch, ¿has pensado en cambiar la banda sonora para cuando asaltamos a alguien?»",
+            "card_quote": "— Un grupo de bandidos de Cavidades mientras se apresuran en terminar los ajustes de su barredora enfurecida",
+            "skill_text": "La unidad de apoyo ilegal: barredora enfurecida utiliza sus largas extremidades para ejecutar un ataque giratorio continuo. Utiliza apoyos defensivos antes de que lance su ataque para detenerlo."
+        },
+        "20023": {
+            "monster_id": 20023,
+            "monster_name": "Mors",
+            "card_text": "Mors solía ser el cazarrecompensas más temido de la periferia. Su sed de sangre era casi obsesiva. Podía perseguir a su presa durante días, y una vez que ponía los ojos en un objetivo, se obsesionaba con la cacería hasta acabar con él.\nMors, «el lobo solitario» nunca fallaba. Eso era un hecho que todos los bandos de la periferia sabían.\nSin embargo, durante una cacería, Mors persiguió a su objetivo durante tres días. A pesar de haberse quedado sin fuerzas, no consiguió acabar con el objetivo.\nPero a Pompey no le importó y, a pesar del fracaso de Mors, le invitó a unirse a su organización.\nA partir de ese momento, Mors, el aclamado cazarrecompensas, desapareció. En su lugar, apareció en Los Laureados un capitán reservado y solitario.\nActualmente, sigue sin haber rastro de Mors, quien solo aparece para luchar contra un oponente digno. No lo hace en cumplimiento de su título de capitán, sino porque disfruta de una buena pelea y puede saciar su sed de cacería.\n«¿Quieres retar al capitán Mors a un duelo uno contra uno? ¿Tú?»\n«Reserva para dentro de un mes, a ver si tienes suerte.»",
+            "card_quote": "— Subordinados de Mors, durante un duelo entre ellos",
+            "skill_text": "Durante el combate, Mors elige entre acercarse a los enemigos para atacarlos con combos cuerpo a cuerpo o dispararles a distancia, dependiendo de las circunstancias. Cuando sus PV están por debajo de cierta cantidad o cuando ha pasado cierto tiempo, utiliza un ataque a distancia adicional o se desplaza rápidamente para ejecutar un disparo sorpresa desde un ángulo letal."
+        },
+        "20024": {
+            "monster_id": 20024,
+            "monster_name": "Pulchra",
+            "card_text": "Nadie sabe de dónde vino Pulchra, pero llegó a ser una de las mejores mercenarias de la Periferia, capaz de cambiar de bandos de acuerdo con la situación.\nPoco después de que terminara su contrato con Pompey durante la última «Travesía estigia», algunas facciones se unieron en secreto y planearon un ataque sorpresa contra Los Laureados. Sin embargo, Los Laureados obtuvieron una victoria aplastante. Era como si en todo momento hubieran tenido la situación bajo control.\nLos perdedores fueron expulsados del Antiguo Pozo Petrolífero, pero Pulchra, quien estaba de su lado, resultó ilesa. Por eso, muchos especulaban que Los Laureados obtuvieron la victoria gracias a su traición.\nAunque muchos han intentado convencerla de unirse a su bando, nunca lo han conseguido.\nTal vez para ella, las intrigas de la Periferia no son más que un juego que puede abandonar en cualquier momento. Por más despreciable que sea su cliente, no importa, siempre y cuando pague por sus servicios y el trabajo sea interesante,\nespecialmente si se trata de atraer a los enemigos a una trampa ingeniosa y poder verlos caer lentamente al abismo de la muerte...\nEs una mezcla de seducción y engaño que conduce a un final funesto. Cuanto más hermoso es algo, mayor es su peligro. Este razonamiento es lo que le ha permitido sobrevivir durante tanto tiempo.\n«¿Qué? ¿Quieres ser su subordinado? Ay, otro pobre tonto que se deja engatusar.»",
+            "card_quote": "— Un nuevo recluta de Los Laureados, siendo el objeto de burla de sus compañeros en el campamento",
+            "skill_text": "Durante el combate, Pulchra guarda distancia de su presa y aprovecha el momento oportuno atacar con su pistola con navaja. Cuando sus PV están por debajo cierta cantidad, utiliza una medicina potenciadora que aumenta su capacidad de evasión. En este estado potenciado, Pulchra evita los ataques a corta distancia."
+        },
+        "20025": {
+            "monster_id": 20025,
+            "monster_name": "Bellum",
+            "card_text": "Como campeón invicto de la arena de combate durante mucho tiempo, Bellum se consideraba a sí mismo el mejor luchador de la Periferia... hasta que su racha de victorias terminó.\nLo que más enfurece a Bellum es que ese sujeto arrogante ni siquiera recuerda su nombre.\nEnardecido por su derrota, Bellum comenzó a perfeccionar sus habilidades de combate y juró que recuperaría su reputación en la Periferia. Un día, le haría pagar a ese tipo tan engreído.\nPara lograr su objetivo, Bellum se unió a Los Laureados, donde derrotó a un enemigo tras otro en el nombre de Pompey. Con su gran destreza, consiguió modificar y utilizar con maestría un lanzallamas para arrasar con los enemigos que interrumpan su camino. También fue capaz de dirigir un pequeño escuadrón sin apenas esfuerzo, organizando una formación que era prácticamente imparable. Cada batalla que él dirigía era una victoria asegurada.\nAhora, a pesar de no ser un campeón invicto, Bellum ya no tiene que preocuparse por su reputación... Todos en la Periferia han vivido en carne propia el horror de la guerra entre bandas. Sin embargo, como uno de los capitanes de Los Laureados, él es la encarnación de la guerra.\n«¿No quieres hacer trabajos menores? ¡Ya hablaremos cuando hayas derrotado a Bellum! ¡Así que anda, que ese baño quede impecable!»",
+            "card_quote": "— Un miembro veterano de Los Laureados mientras le da una lección al nuevo recluta",
+            "skill_text": "Durante el combate, Bellum utiliza su pistola con navaja, escudo y lanzallamas tres en uno para atacar al enemigo desde cerca. Si recibe un ataque mientras alza el escudo, ejecuta un poderoso contraataque. Cuando sus PV estén por debajo de cierta cantidad o si ha pasado cierto tiempo, sus ataques serán más agresivos y más frecuentes."
+        },
+        "30019": {
+            "monster_id": 30019,
+            "monster_name": "Bárbaro desenfrenado",
+            "card_text": "Los bandidos de las Cavidades son un grupo de lo más variopinto. El único motivo por el que se juntan es para robar recursos etéreos y lucrarse de ello.\nOriginalmente, esta banda desorganizada no tenía unas normas establecidas.\nSin embargo, en el momento en que aparecieron los temibles e icónicos bárbaros desenfrenados, se establecieron unas reglas.\nLlevan un sistema de propulsión auxiliar para la construcción que les ayuda conseguir materiales de construcción que emplean como armas de usar y tirar. Al parecer, este equipo tan pesado y sus armas les bastan para destrozar a un hombre poderoso. Aunque, para ellos, es como si simplemente fuera ropa de entrenamiento de su talla.\nGolpear, destrozar, aplastar... Hasta el más simple de los movimientos de lucha es suficiente para pulverizar a un enemigo en un duelo mortal. No dudan en exhibir su fuerza incomparable en cualquier momento y lugar.\nAsimismo, las investigaciones del Ministerio de Seguridad Pública demuestran que, en muchas ocasiones, los bárbaros desenfrenados que lideran a los bandidos de Cavidades idolatran una particular cultura del ejercicio al aire libre. Tanto es así, que han dado vida a una extraña comunidad muy unida entre sí.\n«¿Cómo? ¿Dices que los entrenadores del gimnasio son más fuertes que el vinagre?»\n«¡Ja, ja, ja, no tienes ni idea!»\n«Primero únete a nosotros y entrena con nuestro jefe durante tres semanas... ¡Te aseguro que tendrás los mejores bíceps del barrio!»",
+            "card_quote": "— En algún lugar de Nueva Eridu, unos bandidos de Cavidades intentando reclutar nuevos miembros",
+            "skill_text": "El bandido de Cavidades: bárbaro desenfrenado recarga sus brazos acorazados para liberar ataques más potentes. Sin embargo, mientras recarga, el bárbaro desenfrenado se encuentra en el estado de electrochoque. Si aplicas otro tipo de Anomalía de Atributo, provocarás el estado de disfunción e interrumpirás su recarga."
+        },
+        "100151": {
+            "monster_id": 100151,
+            "monster_name": "Desvalijador",
+            "card_text": "Dentro de los ladrones de éter, los asaltantes y los desvalijadores son miembros clave que poseen tanto habilidades técnicas como combativas.\nEquipados con un sensor de resonancia eléctrica, son capaces de detectar la ubicación aproximada de minerales etéreos, lo que facilita el trabajo posterior. Pero al llevar a cabo operaciones de combate, pueden aumentar la descarga eléctrica de dicho sensor para usarlo como un arma.\nHay quienes los confunden con pescadores ilegales, pero no parece importarles. Después de todo, con el voltaje al máximo, no importa si el enemigo es humano o pez...\n«Ya sea en un lago o en algún rincón de las Cavidades, si ves una silueta armada con un arpón eléctrico, ¡contacta al Ministerio de Seguridad Pública de inmediato!»",
+            "card_quote": "— Lema que emite un coche publicitario del Ministerio de Seguridad Pública de Nueva Eridu por el altavoz",
+            "skill_text": "El bandido de Cavidades: desvalijador ejecuta ataques de asalto desde lejos. Sin embargo, los ataques a distancia son fáciles de bloquear, lo que proporciona a los agentes una oportunidad para atacar."
+        },
+        "100161": {
+            "monster_id": 100161,
+            "monster_name": "Incendiario",
+            "card_text": "Para pirómanos e incendiarios, robar un hogar es solo un trabajo secundario. Están firmemente convencidos de que no son más que baristas que buscan la emoción en cualquier rincón.\nSon capaces de mezclar distintos materiales etéreos con gran destreza y precisión en un cóctel «de la casa» altamente explosivo.\nA diferencia de otros bandidos de Cavidades, los pirómanos y los incendiarios son un poco más razonables. Siempre le darán a la víctima a elegir. Si es sensata, aceptará pagar el «peaje» y recibirán una botella de licor gratis; pero si se niega a cooperar, le reventarán el «cóctel de la casa» en su cabeza.\n«¿Y si los engaño invitándolos a beber y agotamos sus reservas?»",
+            "card_quote": "— Palabras de un investigador de Cavidades quien, después de ser asaltado, planea su huida",
+            "skill_text": "El bandido de Cavidades: incendiario lanza una gran cantidad de cócteles molotov."
+        },
+        "100181": {
+            "monster_id": 100181,
+            "monster_name": "Acechador furtivo",
+            "card_text": "Los bandidos que frecuentan las Cavidades durante días enteros presentan severos problemas cognitivos o desarrollan hábitos extraños. Por fortuna, los cazadores furtivos y los acechadores furtivos han heredado las buenas costumbres de los grupos delictivos tradicionales.\nSon escurridizos y astutos, por lo que se les da muy bien acechar en la oscuridad y atacar al enemigo con flechas. Si tienen la opción de asaltarlos por la espalda, nunca escogerán el enfrentamiento directo.\nA pesar de que su ballesta compuesta no es tan amenazante, es la mejor arma cuando se trata de sigilo. Los cazadores y acechadores experimentados saben aprovechar la oportunidad de derribar a su «presa» con una sola flecha cuando está desprevenida.\n«Yo solía ser un oficial del Ministerio de Seguridad Pública, pero un día me hirieron en la rodilla con una flecha.»",
+            "card_quote": "—Palabras de un miembro experimentado de la agencia de seguridad Ruiseñor Nocturno para un miembro novato",
+            "skill_text": "El bandido de Cavidades: cazador furtivo tiende a ejecutar tres disparos continuos a distancia para distraer al enemigo."
+        },
+        "100191": {
+            "monster_id": 100191,
+            "monster_name": "Emboscador",
+            "card_text": "Al estar en la primera línea de los bandidos de Cavidades, los atacantes y los emboscadores suelen precipitarse al enemigo a solas agitando su arma.\nNo es por exceso de valentía o por falta de espíritu de equipo, sino para evitar dañar a otros con las descargas eléctricas que ocasionalmente desprenden sus bobinas. Un solo roce es suficiente para dejar paralizado al enemigo.\nY en un entorno hostil como en las Cavidades, un aliado que ha perdido la capacidad de moverse es una carga para todo el equipo.\n«¿Qué es esto? Déjame ver... Ah, parece ser una porra eléctrica de imita-ta-ta...»",
+            "card_quote": "— Las últimas palabras de un investigador novato antes de caer al suelo.",
+            "skill_text": "El bandido de Cavidades: emboscador utiliza ataques giratorios continuos, exponiendo su punto débil al finalizar."
+        },
+        "200151": {
+            "monster_id": 200151,
+            "monster_name": "Abusón buscado",
+            "card_text": "A diferencia de los investigadores de Cavidades armados hasta los dientes, el abusón buscado solo lleva consigo un equipamiento sencillo.\nPero los peores criminales solo necesitan las armas más rudimentarias. Un bate metálico con clavos y una escopeta con cañones modificados basta para convertirlo en el terror de las Cavidades.\nUn investigador recuerda su encuentro con unos abusones buscados: estos tipos entran en un estado de éxtasis durante el combate. En palabras del investigador, más que una pelea, actúan como bravucones.\n«Mientras peleaba contra ellos, me recordaban a los abusones de la escuela.»",
+            "card_quote": "— Carta de resignación de un investigador novato de la HIA",
+            "skill_text": "El bandido de Cavidades: abusón buscado usa un garrote y un rifle para alternar entre ataques cuerpo a cuerpo y a distancia. También puede arrojar arena para ejecutar un asalto."
+        },
+        "200171": {
+            "monster_id": 200171,
+            "monster_name": "Matón buscado",
+            "card_text": "En el bajo mundo de Nueva Eridu es bien sabido que los luchadores más feroces no son los que ganan muchas peleas consecutivas, sino los matones fornidos y los matones buscados que se adentran en las Cavidades. Son escoltas que cobran una tarifa elevada por proteger los recursos de los traficantes de éter.\nDebido a su obsesión por la pelea, a los matones fornidos no se les da muy bien el uso de dispositivos electrónicos complejos. En lugar de pistola de electrochoque, llevan guantes de boxeo especiales que les brindan un poder destructivo a sus puñetazos.\nSeres etéreos, saqueadores, investigadores, oficiales de seguridad... Estando solos frente a un matón fornido o a un matón buscado, no son más que un saco de arena para pasar el tiempo.\n«¡Espera! Ese estilo de pelea... ¡Creo haber visto a ese tipo en la sala de juegos del Barrio N.º 4!»",
+            "card_quote": "— Billy, mientras unos matones embisten en dirección a él",
+            "skill_text": "El bandido de Cavidades: matón buscado golpea a sus enemigos con ambos puños y se mueve ágilmente para ajustar su posición de ataque."
+        },
+        "200172": {
+            "monster_id": 200172,
+            "monster_name": "Alborotador: Matón buscado",
+            "card_text": "En el bajo mundo de Nueva Eridu es bien sabido que los luchadores más feroces no son los que ganan muchas peleas consecutivas, sino los matones fornidos y los matones buscados que se adentran en las Cavidades. Son escoltas que cobran una tarifa elevada por proteger los recursos de los traficantes de éter.\nDebido a su obsesión por la pelea, a los matones fornidos no se les da muy bien el uso de dispositivos electrónicos complejos. En lugar de pistola de electrochoque, llevan guantes de boxeo especiales que les brindan un poder destructivo a sus puñetazos.\nSeres etéreos, saqueadores, investigadores, oficiales de seguridad... Estando solos frente a un matón fornido o a un matón buscado, no son más que un saco de arena para pasar el tiempo.\n«¡Espera! Ese estilo de pelea... ¡Creo haber visto a ese tipo en la sala de juegos del Barrio N.º 4!»",
+            "card_quote": "— Billy, mientras unos matones embisten en dirección a él",
+            "skill_text": "El alborotador: matón buscado es extremadamente agresivo y se mueve ágilmente para ajustar su posición de ataque."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelgänger - Mors",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Puede elegir entre acercarse a los enemigos para atacarlos con combos cuerpo a cuerpo o dispararles a distancia, dependiendo de las circunstancias. Cuando sus PV están por debajo de cierta cantidad o cuando ha pasado cierto tiempo, utiliza un ataque a distancia adicional o se desplaza rápidamente para ejecutar un disparo sorpresa desde un ángulo letal."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelgänger - Pulchra",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Guarda distancia de su presa y aprovecha el momento oportuno atacar con su pistola con navaja. Cuando sus PV están por debajo cierta cantidad, utiliza algún medio desconocido que aumenta su capacidad de evasión. En este estado potenciado, evita los ataques a corta distancia."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelgänger - Bellum",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Utiliza su pistola con navaja, escudo y lanzallamas tres en uno para atacar al enemigo desde cerca. Si recibe un ataque mientras alza el escudo, ejecuta un poderoso contraataque. Cuando sus PV estén por debajo de cierta cantidad o si ha pasado cierto tiempo, sus ataques serán más agresivos y más frecuentes."
+        }
+    },
+    "Entes corrompidos": {
+        "10021": {
+            "monster_id": 10021,
+            "monster_name": "Cuervodrón",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30009": {
+            "monster_id": 30009,
+            "monster_name": "Amalgama corrupta no identificada",
+            "card_text": "Khors Belobog, el fundador de Construcciones Belobog, dijo una vez que las máquinas de construcción eran la combinación perfecta de poder y estética, con cada centímetro de ellas sujeta a los estándares más estrictos.\nSin embargo, la amalgama corrupta no identificada echó por los suelos cualquier noción de diseño clásico.\nImpulsado por un denso núcleo etéreo, utiliza su fuerza descomunal para ensamblar los componentes de distintas maquinarias pesadas, creando una superestructura que desafía las leyes de la física.\nCortar, martillar, taladrar, aplastar... Todas las técnicas de construcción se encuentran en un solo ente, solo que estos desarrollos tecnológicos han quedado desprovistos de todo protocolo y se han convertido en burdos ataques impredecibles.\nEncima de todo, al entrar en un estado crítico, el núcleo etéreo provee una explosión de energía inagotable, lo que le permite recubrir su cuerpo con una corriente de alto voltaje o lanzar golpes que parten el suelo en dos para acabar con su objetivo.\nSegún la hipótesis de la Asociación de Investigación de Cavidades, la amalgama corrupta no identificada puede absorber y fusionarse con cualquier maquinaria pesada a su alcance, incluyendo mecas militares del Ministerio de Defensa, armas láser e incluso misiles de corto alcance...\nToda maquinaria de precisión será absorbida, despedazada y ensamblada, hasta convertirse en una parte irreconocible más de este ente corrompido.\nSu noción de diseño es la destrucción total, la eficiencia para matar.\n«Qué diseño tan extraño. ¡Déjame echarte un vistazo!»",
+            "card_quote": "— Palabras de Grace al inspeccionar la amalgama corrupta no identificada",
+            "skill_text": "La amalgama corrupta no identificada combina los diversos estilos de ataques de las maquinarias pesadas y lanza una gran cantidad de misiles. Cuando está afectada por Aturdimiento, puedes atacar su cuerpo. Al infligir cierta cantidad de daño, sufrirá de una ruptura que inflige una gran cantidad de daño una sola vez. Además, tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "30021": {
+            "monster_id": 30021,
+            "monster_name": "Jefe supremo corrompido - Pompey",
+            "card_text": "Todos en la Periferia se referían respetuosamente a él como «Pompey, el jefe supremo».\nSin embargo, su alma ha sido corrompida por el éter volátil, su cuerpo ha sido contaminado por el azufre y el petróleo pesado, y su corazón, que antes latía para defender la Periferia, se ha convertido en un núcleo de éter supercrítico que contiene energía prácticamente ilimitada.\nEl antiguo jefe de la Periferia ha surgido de entre las cenizas con una nueva apariencia.\nLibre, imponente... explosivo y fuera de control.\nAhora merodea entre las cenizas y el fuego, atrapando a todo ser vivo que se mueva, para hacerlo pedazos sin pensárselo dos veces.\nLas personas que llegaron a conocerlo deducen a partir de sus murmullos incoherentes que lo que busca no es la venganza, sino acabar con cualquier forastero que intente desafiar las leyes de la Periferia.\nTal vez fue la mayor obsesión que sobrevivió del anterior Pompey.\n«El jefe supremo se ha convertido en \"eso\"... pero sigue siendo el jefe supremo.»",
+            "card_quote": "— Un esbirro miedoso de la afiliación original de Los Laureados",
+            "skill_text": "Durante el combate, el jefe supremo Pompey usará tanto su moto como sus cañones flotantes para atacar. Sin embargo, expondrá su punto débil durante algunos movimientos tras recibir daño por un apoyo defensivo. Cuando haya recibido cierta cantidad de daño, entrará en la segunda fase, en la que alternará ataques con las ruedas traseras de la moto y con una espada. Las ruedas traseras de la moto también pueden acumular energía etérea para generar una explosión en un área grande."
+        },
+        "100211": {
+            "monster_id": 100211,
+            "monster_name": "Cuervodrón activo",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "100271": {
+            "monster_id": 100271,
+            "monster_name": "Matón despiadado",
+            "card_text": "Un pobre diablo que ha mutado por la corrupción etérea severa. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. A juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se encontraba en la Cavidad.\nA pesar de que los bandidos cuentan con equipo resistente a la corrupción, debido a la falta de mantenimiento adecuado o simplemente por mala suerte, algunos de ellos sufren de corrupción etérea severa y se convierten en monstruos. Estos seres que cuentan con experiencia de combate pueden llegar a ser más peligrosos que los seres etéreos ordinarios.\n«Quien vive como un bandido, muere en las Cavidades.»",
+            "card_quote": "—Aviso del Ministerio de Seguridad Pública de Nueva Eridu en el foro «Supernova Hoy»",
+            "skill_text": "El bandido corrompido: matón despiadado ejecuta ataques continuos a diestro y siniestro difíciles de interrumpir."
+        },
+        "100281": {
+            "monster_id": 100281,
+            "monster_name": "Tirador codicioso",
+            "card_text": "Un humanoide inteligente que ha mutado por la intensa corrupción etérea en las Cavidades. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. A juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se encontraba en la Cavidad.\nUn análisis de los restos de su estructura original muestra que debió ser un bandido que usaba un arma de largo alcance, cuya voluntad y vida fueron arrebatadas al convertirse en un ente corrompido, pero el instinto y los hábitos de combate a distancia siguen ahí. Además de seguir atacando a distancia, la capacidad de fuego y de tiro del ser corrompido se han fortalecido, pudiendo disparar cristales etéreos afilados y una especie de amalgama explosiva.\n«Le dije que no tocara el cristal, ¡pero no me hizo caso! Era un necio, nunca me escuchó. Cuando estábamos a punto de salir de la Cavidad... ya había mutado.»",
+            "card_quote": "—Informe de interrogatorio de un oficial del distrito de Fauno del distrito de Fauno",
+            "skill_text": "El bandido corrompido: tirador codicioso tiende a ejecutar ataques a distancia difíciles de detectar."
+        },
+        "200121": {
+            "monster_id": 200121,
+            "monster_name": "Bandido frenético",
+            "card_text": "Una pobre alma que ha mutado por la corrupción etérea severa. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. Sus extremidades humanas se han transformado y fortalecido, lo que lo vuelve más peligroso.\nA juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se adentró en la Cavidad.\nYa sea debido a su condición física sobresaliente en vida, o por su afinidad con la materia etérea, este ser corrompido ha desarrollado unas excelentes habilidades de combate, por lo que supone una amenaza aún mayor que la mayoría de criaturas que moran en las Cavidades.\n«Sus armas parecen ser de gran calidad... Es como si las hubieran traído de regalo.»",
+            "card_quote": "— Anby, de las Liebres Astutas, analizando el plan de acción",
+            "skill_text": "El bandido corrompido: bandido frenético bloquea los ataques y, después de cierto tiempo, ejecuta un contraataque."
+        },
+        "200131": {
+            "monster_id": 200131,
+            "monster_name": "Intimidador iracundo",
+            "card_text": "Una pobre alma que ha mutado por la corrupción etérea severa. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. Sus extremidades humanas se han transformado y fortalecido, lo que lo vuelve más peligroso.\nA juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se encontraba en la Cavidad.\nPor alguna razón, la burda arma que este bandido utilizaba en vida se han conservado e incluso fortalecido por efecto de la corrupción etérea. Solo que, en lugar de disparar balas, ahora dispara un compuesto que contiene cristales nocivos.\n«¡No esperes una apertura! ¡Sus balas son infinitas, nunca se detendrá a recargar!»",
+            "card_quote": "— Grabación de un empleado del Ministerio de Seguridad Pública en servicio dentro de una Cavidad",
+            "skill_text": "El bandido corrompido: intimidador iracundo tiende a disparar perdigones etéreos después de atacar."
+        },
+        "200141": {
+            "monster_id": 200141,
+            "monster_name": "Maleante desalmado",
+            "card_text": "Una pobre alma que ha mutado por la corrupción etérea severa. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. Sus extremidades humanas se han transformado y fortalecido, lo que lo vuelve más peligroso.\nA juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se encontraba en la Cavidad.\nDe por sí los bandidos son peligrosos, aquellos que se atreven a entrar a las Cavidades a asaltar casas son lo peor de lo peor. De entre ellos, los más temibles son los maleantes curtidos en pelea.\nSi encima de todo, estos maleantes que solo conocen la violencia son expuestos a la corrupción etérea, tendrás como resultado una máquina de pelea superior a los seres etéreos comunes.\n«Si antes preferían el dinero sobre la vida, ahora es todo lo contrario...»",
+            "card_quote": "— Nota de pie del capítulo sobre entes corrompidos en «Reconoce los peligros en las Cavidades», material didáctico de la Asociación de Investigación de Cavidades",
+            "skill_text": "El bandido corrompido: maleante desalmado ataca continuamente a los enemigos cercanos y embiste rápidamente a los enemigos lejanos. Al infligir cierta cantidad de daño en sus brazos, sus ataques serán más poderosos."
+        }
+    },
+    "Ministerio de Seguridad Pública": {
+        "10010": {
+            "monster_id": 10010,
+            "monster_name": "Unidad desconocida",
+            "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10011": {
+            "monster_id": 10011,
+            "monster_name": "Unidad desconocida",
+            "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10012": {
+            "monster_id": 10012,
+            "monster_name": "Unidad desconocida",
+            "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "20006": {
+            "monster_id": 20006,
+            "monster_name": "Unidad de apoyo autónoma: Limpiador",
+            "card_text": "Un meca autónomo perteneciente al Ministerio de Seguridad Pública que cuenta con sierras giratorias, rayos térmicos de alta temperatura y otras funciones para combatir seres etéreos.\nEl limpiador es capaz de reconocer a gran velocidad el tipo de ser etéreo y su comportamiento, lo que le permite cambiar al modo de combate óptimo.\nSin embargo, comparado con los operativos contra un solo ser etéreo, cuando se trata de perseguir saqueadores de Cavidades, no es tan ágil.\n«Agitar, cortar, calentar... ¿Quién diseñó estos cacharros? ¿Un chef?»",
+            "card_quote": "— Programa nocturno «El zoológico de la Cavidad»",
+            "skill_text": "La unidad de apoyo autónoma: limpiador utiliza sus largas extremidades para ejecutar un ataque giratorio continuo. Utiliza apoyos defensivos antes de que lance su ataque para detenerlo."
+        }
+    },
+    "Soldados rebeldes": {
+        "10005": {
+            "monster_id": 10005,
+            "monster_name": "Cazador de asalto",
+            "card_text": "Una unidad activa del Ministerio de Defensa de Nueva Eridu clasificada como infantería ligera.\nEl cazador de asalto utiliza como armas principales una cuchilla fortalecida con materia etérea y miniexplosivos, lo que lo convierte en una unidad de infantería con amplia maniobrabilidad y sigilo. A menudo se le despliega en equipos de avanzada o de expedición. Además, gracias a su agilidad, destaca en misiones disruptivas, de reconocimiento, de persecución y de exterminación.\nDentro de las Cavidades, son una vanguardia excelente. Tras un entrenamiento especial de combate cuerpo a cuerpo, son capaces de someter con facilidad entes corrompidos promedio o con actividad etérea relativamente baja.\n«¿\"Maestros de la cuchilla\"? ¡Más bien lanzagranadas a mansalva! Solo agitan sus cuchillitos para impresionar, pero todos saben que, si han matado algo, ha sido a granadazos».",
+            "card_quote": "— Comentario anónimo en la red proxy",
+            "skill_text": "El cazador de asalto avanza rápidamente hacia su objetivo o arroja una gran cantidad de cuchillas explosivas."
+        },
+        "10006": {
+            "monster_id": 10006,
+            "monster_name": "Cazador ligero",
+            "card_text": "Son las unidades de combate distintivas del Ministerio de Defensa de Nueva Eridu. Los cazadores ligeros y los cazadores de avanzada cualificados son capaces de alternar entre distintos modos de combate.\nYa sea combate de cuerpo a cuerpo con cuchillas, u operar un lanzacohetes etéreo de largo alcance Halcón-MK3, son capaces de adaptar su estrategia de combate según el punto débil del objetivo.\nCuando el enemigo se encuentra en desventaja, utilizarán toda su capacidad de ataque sin dudarlo.\n«Cuando lo vi blandir esa cuchilla, pensé que sería una pelea limpia con cuchillas. No pensé que fuera a sacar una pistola.»",
+            "card_quote": "— Queja de un saqueador de Cavidades novato en la red proxy",
+            "skill_text": "El cazador ligero proporciona fuego continuo como apoyo."
+        },
+        "10007": {
+            "monster_id": 10007,
+            "monster_name": "Cazador novato",
+            "card_text": "Durante operaciones especiales del Ministerio de Defensa dentro de las Cavidades, tanto los cazadores novatos como los cazadores veteranos son miembros que nunca pueden faltar en el equipo táctico.\nEstán equipados con pesadas cuchillas etéreas de alta vibración Coyote-PE7 que pueden intimidar a enemigos pequeños en combate cuerpo a cuerpo. Pero para atreverse a pelear contra un ser etéreo a cuchillo hay que ser muy valiente. O más bien, hay que estar loco.\n«Siendo estrictos, no es una estrategia de combate en las Cavidades que se pueda estandarizar. Más que combatir seres etéreos, esos lunáticos parecen divertirse con ellos.»",
+            "card_quote": "—Informe de una patrulla del Ministerio de Defensa en el frente",
+            "skill_text": "El cazador novato ejecuta ataques cuerpo a cuerpo."
+        },
+        "10008": {
+            "monster_id": 10008,
+            "monster_name": "Cazador vigilante",
+            "card_text": "Al ser una unidad central en los escuadrones de ataque y defensa del Ministerio de Defensa, el cazador vigilante y el cazador patrullero no solo están armados con mandobles etéreos Coyote-PE7, sino que también están equipados con escudos antidisturbios de hechos con materia etérea inerte que proveen una defensa robusta a los escuadrones en entornos hostiles complejos.\nComo unidad de defensa, el enorme escudo sacrifica su maniobrabilidad de combate.\nSin un entrenamiento riguroso, una persona ordinaria sería incapaz de levantar uno de estos escudos.\n«¡Envíanos de nuevo tu solicitud después de ganar músculo en el gimnasio!»",
+            "card_quote": "— Carta de rechazo recibida por un candidato tras postularse ante el Ministerio de Defensa",
+            "skill_text": "El cazador vigilante utiliza su escudo para reducir el daño y el Aturdimiento en gran medida a la espera del momento oportuno para atacar."
+        },
+        "10009": {
+            "monster_id": 10009,
+            "monster_name": "Cazador lanzacohetes",
+            "card_text": "Los cazadores lanzacohetes y los cazadores bombarderos están equipados con un lanzacohetes Mamba-TG3 modificado cuyos explosivos especiales hechos de éter activo altamente volátil capaz de volar en pedazos unidades mecas enemigas y exterminar seres etéreos de gran tamaño.\nPara compensar el retroceso producido por el disparo y garantizar una gran precisión, están obligados a pasar por un entrenamiento especial de tiro. Las estadísticas del Ministerio de Defensa muestran que la mayoría de cadetes sobresalientes en este ramo tienen experiencia en fotografía.\n«El uso de este bebé es muy similar al de una cámara al hombro. Debes fijar el objetivo con la lente, respirar hondo, y apretar el obturador. O en este caso, jalar del gatillo... ¡Oye, tonto, sonríe!»",
+            "card_quote": "— Palabras de un sargento a un recluta al explicar el funcionamiento del lanzacohetes",
+            "skill_text": "El cazador lanzacohetes tiende a proporcionar ataques pesados a distancia como apoyo."
+        },
+        "20007": {
+            "monster_id": 20007,
+            "monster_name": "Invasor pesado",
+            "card_text": "Un meca táctico equipado del Ministerio de Defensa. Puede proporcionar fuego continuo para apoyar a los soldados del frente. Su escudo hecho con materia etérea inerte puede resistir la mayoría de las armas ligeras, e incluso puede resistir los poderosos ataques de seres etéreos de gran tamaño.\nSin duda alguna, es uno de los compañeros de combate más fiables del Ministerio de Defensa. «Recuerda, si te encuentras en problemas, escóndete detrás de uno de ellos. La única posibilidad de que te lastimes es que te pise por accidente.»",
+            "card_quote": "— Palabras de un instructor durante una lección de entrenamiento para nuevos reclutas del Ministerio de Defensa",
+            "skill_text": "Mientras el invasor pesado despliega su escudo, no acumula Anomalías de Atributo a excepción de Anomalía ígnea y física. Puedes romper su escudo al provocar los efectos de calcinación o de embestida, o al provocar Aturdimiento."
+        },
+        "20008": {
+            "monster_id": 20008,
+            "monster_name": "Rondador escurridizo",
+            "card_text": "Como el principal apoyo de fuego del Ministerio de Defensa, el patrullero escurridizo cuenta con un algoritmo táctico equipado que le permite analizar los patrones de comportamiento del enemigo y calcular con precisión la ubicación del objetivo al momento de disparar.\nEn caso de identificar al enemigo como una amenaza alta, abre su arsenal y libera un dron con gran capacidad de fuego.\nPara los saqueadores de Cavidades, un patrullero escurridizo que aparece de la nada no solo es un dolor de cabeza, es un dolor de cabeza que no tiene fin.\n«Santo cielo, ¿acaba de dar a luz?»",
+            "card_quote": "— Un saqueador de Cavidades novato al ser capturado en las profundidades de la Cavidad Papago",
+            "skill_text": "El rondador escurridizo despliega dos drones para ejecutar ataques coordinados. Si es necesario, estos drones impactan contra el enemigo y se autodestruyen."
+        },
+        "20009": {
+            "monster_id": 20009,
+            "monster_name": "Artillero pesado",
+            "card_text": "Una unidad activa del Ministerio de Defensa de Nueva Eridu clasificada como infantería pesada.\nEstas unidades visten un uniforme pesado denominado «Rinoceronte» y están armadas con un armamento fortalecido con éter. Al contar con un suministro suficiente de municiones, son capaces de abrir fuego durante un tiempo prolongado, lo que los posiciona en el centro de la línea de avanzada. A menudo también son enviados a operaciones de asalto y limpieza.\nDurante la caída de la antigua capital, una gran cantidad de soldados desertaron y se convirtieron en nómadas, y estas armas tan sofisticadas comenzaron a verse con frecuencia en manos de otras facciones, como escoltas personales de magnates, nuevas empresas de seguridad, e incluso entre bandidos itinerantes.\n«Me gusta imaginar que los artilleros son en realidad mujeres diminutas, y que todo el espacio extra dentro de esos uniformes está repleto de municiones. ¿De qué otra manera explicas de dónde salen todas esas balas?»",
+            "card_quote": "— Comentario en la página «TablónSoñador» en el foro «Supernova Hoy»",
+            "skill_text": "El artillero pesado usa un cañón láser y arroja granadas de fragmentación para ejecutar ataques continuos a distancia."
+        },
+        "30002": {
+            "monster_id": 30002,
+            "monster_name": "Guardián",
+            "card_text": "El Ministerio de Defensa solo envía mecas armados como los guardianes a operaciones de gran escala en las Cavidades.\nBombas de éter activo, rifles etéreos MARS-74, rayos de fusión térmica... Podría decirse que los guardianes del frente son la armería del Ministerio Seguridad Pública con patas.\nAdemás de contar con capacidad de fuego integral, también están provistos de gran movilidad; su habilidad para saltar y acelerar le permite romper los grupos de seres etéreos pequeños y avanzar entre las líneas enemigas sin problemas.\nPara un saqueador de Cavidades, un solo guardián es sinónimo de una fortaleza infranqueable.\n«¡Me convertiré en una fortaleza!»",
+            "card_quote": "— Guion de la película de la tarde «¡Guardianes, transfórmense!»",
+            "skill_text": "La unidad de apoyo autónoma: guardián es muy versátil, atacando cuerpo a cuerpo y lanzando diversos ataques a distancia. Cuando hay otras unidades a su lado, algunas unidades de apoyo autónomas - guardián se centrarán en disparar a distancia."
+        },
+        "30008": {
+            "monster_id": 30008,
+            "monster_name": "Tifón retador",
+            "card_text": "Como meca pesado, el tifón retador no cuenta con capacidad de fuego de largo alcance, sino que todas sus funciones giran en torno al fortalecimiento de su coraza por medio de energía etérea.\nGolpear, aplastar, destruir... El tifón retador utiliza técnicas de combate sencillas y efectivas, llevando la capacidad destructiva de un bólido acorazado al extremo. Incluso la sacudida de sus golpes es capaz de disuadir a seres etéreos de gran tamaño.\nSu defensa es tan infranqueable, que incluso a los saqueadores experimentados no les queda más remedio que suspirar con resignación al verlo.\n«Un cuerpo imponente y vigoroso, brazos fuertes y robustos, como a mí me gustan... M-me refiero al modelo...»",
+            "card_quote": "— Palabras de Grace mientras juega con un modelo de tifón retador de la tienda de juguetes",
+            "skill_text": "La unidad táctica autónoma: tifón retador ejecuta una potente secuencia de golpes. Ocasionalmente da un salto en el aire para aplastar a los enemigos."
+        },
+        "100051": {
+            "monster_id": 100051,
+            "monster_name": "Cazador táctico",
+            "card_text": "Una unidad activa del Ministerio de Defensa de Nueva Eridu clasificada como infantería ligera.\nEl cazador de asalto utiliza como armas principales una cuchilla fortalecida con materia etérea y miniexplosivos, lo que lo convierte en una unidad de infantería con amplia maniobrabilidad y sigilo. A menudo se le despliega en equipos de avanzada o de expedición. Además, gracias a su agilidad, destaca en misiones disruptivas, de reconocimiento, de persecución y de exterminación.\nDentro de las Cavidades, son una vanguardia excelente. Tras un entrenamiento especial de combate cuerpo a cuerpo, son capaces de someter con facilidad entes corrompidos promedio o con actividad etérea relativamente baja.\n«¿\"Maestros de la cuchilla\"? ¡Más bien lanzagranadas a mansalva! Solo agitan sus cuchillitos para impresionar, pero todos saben que, si han matado algo, ha sido a granadazos».",
+            "card_quote": "— Comentario anónimo en la red proxy",
+            "skill_text": "El cazador táctico avanza rápidamente hacia su objetivo o arroja una gran cantidad de cuchillas explosivas."
+        },
+        "100061": {
+            "monster_id": 100061,
+            "monster_name": "Cazador de avanzada",
+            "card_text": "Son las unidades de combate distintivas del Ministerio de Defensa de Nueva Eridu. Los cazadores ligeros y los cazadores de avanzada cualificados son capaces de alternar entre distintos modos de combate.\nYa sea combate de cuerpo a cuerpo con cuchillas, u operar un lanzacohetes etéreo de largo alcance Halcón-MK3, son capaces de adaptar su estrategia de combate según el punto débil del objetivo.\nCuando el enemigo se encuentra en desventaja, utilizarán toda su capacidad de ataque sin dudarlo.\n«Cuando lo vi blandir esa cuchilla, pensé que sería una pelea limpia con cuchillas. No pensé que fuera a sacar una pistola.»",
+            "card_quote": "— Queja de un saqueador de Cavidades novato en la red proxy",
+            "skill_text": "El cazador de avanzada proporciona fuego continuo como apoyo."
+        },
+        "100071": {
+            "monster_id": 100071,
+            "monster_name": "Cazador veterano",
+            "card_text": "Durante operaciones especiales del Ministerio de Defensa dentro de las Cavidades, tanto los cazadores novatos como los cazadores veteranos son miembros que nunca pueden faltar en el equipo táctico.\nEstán equipados con pesadas cuchillas etéreas de alta vibración Coyote-PE7 que pueden intimidar a enemigos pequeños en combate cuerpo a cuerpo. Pero para atreverse a pelear contra un ser etéreo a cuchillo hay que ser muy valiente. O más bien, hay que estar loco.\n«Siendo estrictos, no es una estrategia de combate en las Cavidades que se pueda estandarizar. Más que combatir seres etéreos, esos lunáticos parecen divertirse con ellos.»",
+            "card_quote": "—Informe de una patrulla del Ministerio de Defensa en el frente",
+            "skill_text": "El cazador veterano ejecuta ataques cuerpo a cuerpo."
+        },
+        "100081": {
+            "monster_id": 100081,
+            "monster_name": "Cazador rondador",
+            "card_text": "Al ser una unidad central en los escuadrones de ataque y defensa del Ministerio de Defensa, el cazador vigilante y el cazador patrullero no solo están armados con mandobles etéreos Coyote-PE7, sino que también están equipados con escudos antidisturbios de hechos con materia etérea inerte que proveen una defensa robusta a los escuadrones en entornos hostiles complejos.\nComo unidad de defensa, el enorme escudo sacrifica su maniobrabilidad de combate.\nSin un entrenamiento riguroso, una persona ordinaria sería incapaz de levantar uno de estos escudos.\n«¡Envíanos de nuevo tu solicitud después de ganar músculo en el gimnasio!»",
+            "card_quote": "— Carta de rechazo recibida por un candidato tras postularse ante el Ministerio de Defensa",
+            "skill_text": "El cazador rondador utiliza su escudo para reducir el daño y el Aturdimiento en gran medida a la espera del momento oportuno para atacar."
+        },
+        "100091": {
+            "monster_id": 100091,
+            "monster_name": "Cazador bombardero",
+            "card_text": "Los cazadores lanzacohetes y los cazadores bombarderos están equipados con un lanzacohetes Mamba-TG3 modificado cuyos explosivos especiales hechos de éter activo altamente volátil capaz de volar en pedazos unidades mecas enemigas y exterminar seres etéreos de gran tamaño.\nPara compensar el retroceso producido por el disparo y garantizar una gran precisión, están obligados a pasar por un entrenamiento especial de tiro. Las estadísticas del Ministerio de Defensa muestran que la mayoría de cadetes sobresalientes en este ramo tienen experiencia en fotografía.\n«El uso de este bebé es muy similar al de una cámara al hombro. Debes fijar el objetivo con la lente, respirar hondo, y apretar el obturador. O en este caso, jalar del gatillo... ¡Oye, tonto, sonríe!»",
+            "card_quote": "— Palabras de un sargento a un recluta al explicar el funcionamiento del lanzacohetes",
+            "skill_text": "El cazador bombardero tiende a proporcionar ataques pesados a distancia como apoyo."
+        },
+        "200071": {
+            "monster_id": 200071,
+            "monster_name": "Invasor pesado (II)",
+            "card_text": "Un meca táctico equipado del Ministerio de Defensa. Puede proporcionar fuego continuo para apoyar a los soldados del frente. Su escudo hecho con materia etérea inerte puede resistir la mayoría de las armas ligeras, e incluso puede resistir los poderosos ataques de seres etéreos de gran tamaño.\nSin duda alguna, es uno de los compañeros de combate más fiables del Ministerio de Defensa. «Recuerda, si te encuentras en problemas, escóndete detrás de uno de ellos. La única posibilidad de que te lastimes es que te pise por accidente.»",
+            "card_quote": "— Palabras de un instructor durante una lección de entrenamiento para nuevos reclutas del Ministerio de Defensa",
+            "skill_text": "Mientras el invasor pesado (II) despliega su escudo, no acumula Anomalías de Atributo a excepción de Anomalía eléctrica. Puedes romper su escudo al provocar el efecto de electrochoque, o al provocar Aturdimiento."
+        },
+        "200072": {
+            "monster_id": 200072,
+            "monster_name": "Guardián escudado",
+            "card_text": "Un meca táctico equipado del Ministerio de Defensa. Puede proporcionar fuego continuo para apoyar a los soldados del frente. Su escudo hecho con materia etérea inerte puede resistir la mayoría de las armas ligeras, e incluso puede resistir los poderosos ataques de seres etéreos de gran tamaño.\nSin duda alguna, es uno de los compañeros de combate más fiables del Ministerio de Defensa. «Recuerda, si te encuentras en problemas, escóndete detrás de uno de ellos. La única posibilidad de que te lastimes es que te pise por accidente.»",
+            "card_quote": "— Palabras de un Instructor del Ministerio de Defensa basadas en su experiencia",
+            "skill_text": "Durante el combate, el guardián escudado se vuelve más agresivo y despliega su escudo. Mientras activa su escudo, no acumula Anomalías de Atributo a excepción de Anomalía ígnea y física. Puedes romper su escudo al provocar los efectos de calcinación o de embestida, o al provocar Aturdimiento."
+        },
+        "200073": {
+            "monster_id": 200073,
+            "monster_name": "Guardián escudado omega",
+            "card_text": "Un meca táctico equipado del Ministerio de Defensa. Puede proporcionar fuego continuo para apoyar a los soldados del frente. Su escudo hecho con materia etérea inerte puede resistir la mayoría de las armas ligeras, e incluso puede resistir los poderosos ataques de seres etéreos de gran tamaño.\nSin duda alguna, es uno de los compañeros de combate más fiables del Ministerio de Defensa. «Recuerda, si te encuentras en problemas, escóndete detrás de uno de ellos. La única posibilidad de que te lastimes es que te pise por accidente.»",
+            "card_quote": "— Palabras de un Instructor del Ministerio de Defensa basadas en su experiencia",
+            "skill_text": "Durante el combate, el guardián escudado omega se vuelve más agresivo y despliega su escudo. Mientras activa su escudo, no acumula Anomalías de Atributo a excepción de Anomalía eléctrica. Puedes romper su escudo al provocar el efecto de electrochoque, o al provocar Aturdimiento."
+        },
+        "200081": {
+            "monster_id": 200081,
+            "monster_name": "Rondador escurridizo (II)",
+            "card_text": "Como el principal apoyo de fuego del Ministerio de Defensa, el patrullero escurridizo cuenta con un algoritmo táctico equipado que le permite analizar los patrones de comportamiento del enemigo y calcular con precisión la ubicación del objetivo al momento de disparar.\nEn caso de identificar al enemigo como una amenaza alta, abre su arsenal y libera un dron con gran capacidad de fuego.\nPara los saqueadores de Cavidades, un patrullero escurridizo que aparece de la nada no solo es un dolor de cabeza, es un dolor de cabeza que no tiene fin.\n«Santo cielo, ¿acaba de dar a luz?»",
+            "card_quote": "— Un saqueador de Cavidades novato al ser capturado en las profundidades de la Cavidad Papago",
+            "skill_text": "El rondador escurridizo (II) despliega dos drones para ejecutar ataques coordinados. Si es necesario, estos drones impactan contra el enemigo y se autodestruyen."
+        },
+        "200091": {
+            "monster_id": 200091,
+            "monster_name": "Artillero de asalto",
+            "card_text": "Una unidad activa del Ministerio de Defensa de Nueva Eridu clasificada como infantería pesada.\nEstas unidades visten un uniforme pesado denominado «Rinoceronte» y están armadas con un armamento fortalecido con éter. Al contar con un suministro suficiente de municiones, son capaces de abrir fuego durante un tiempo prolongado, lo que los posiciona en el centro de la línea de avanzada. A menudo también son enviados a operaciones de asalto y limpieza.\nDurante la caída de la antigua capital, una gran cantidad de soldados desertaron y se convirtieron en nómadas, y estas armas tan sofisticadas comenzaron a verse con frecuencia en manos de otras facciones, como escoltas personales de magnates, nuevas empresas de seguridad, e incluso entre bandidos itinerantes.\n«Me gusta imaginar que los artilleros son en realidad mujeres diminutas, y que todo el espacio extra dentro de esos uniformes está repleto de municiones. ¿De qué otra manera explicas de dónde salen todas esas balas?»",
+            "card_quote": "— Comentario en la página «TablónSoñador» en el foro «Supernova Hoy»",
+            "skill_text": "El artillero de asalto usa un cañón láser y arroja granadas de fragmentación para ejecutar ataques continuos a distancia."
+        },
+        "300021": {
+            "monster_id": 300021,
+            "monster_name": "Guardián (II)",
+            "card_text": "El Ministerio de Defensa solo envía mecas armados como los guardianes a operaciones de gran escala en las Cavidades.\nBombas de éter activo, rifles etéreos MARS-74, rayos de fusión térmica... Podría decirse que los guardianes del frente son la armería del Ministerio Seguridad Pública con patas.\nAdemás de contar con capacidad de fuego integral, también están provistos de gran movilidad; su habilidad para saltar y acelerar le permite romper los grupos de seres etéreos pequeños y avanzar entre las líneas enemigas sin problemas.\nPara un saqueador de Cavidades, un solo guardián es sinónimo de una fortaleza infranqueable.\n«¡Me convertiré en una fortaleza!»",
+            "card_quote": "— Guion de la película de la tarde «¡Guardianes, transfórmense!»",
+            "skill_text": "La unidad de apoyo autónoma: guardián (II) es muy versátil, atacando cuerpo a cuerpo y lanzando diversos ataques a distancia. Cuando hay otras unidades a su lado, algunas unidades de apoyo autónomas: guardián (II) se centrarán en disparar a distancia."
+        },
+        "300022": {
+            "monster_id": 300022,
+            "monster_name": "Guardián (III)",
+            "card_text": "El Ministerio de Defensa solo envía mecas armados como los guardianes a operaciones de gran escala en las Cavidades.\nBombas de éter activo, rifles etéreos MARS-74, rayos de fusión térmica... Podría decirse que los guardianes del frente son la armería del Ministerio Seguridad Pública con patas.\nAdemás de contar con capacidad de fuego integral, también están provistos de gran movilidad; su habilidad para saltar y acelerar le permite romper los grupos de seres etéreos pequeños y avanzar entre las líneas enemigas sin problemas.\nPara un saqueador de Cavidades, un solo guardián es sinónimo de una fortaleza infranqueable.\n«¡Me convertiré en una fortaleza!»",
+            "card_quote": "— Guion de la película de la tarde «¡Guardianes, transfórmense!»",
+            "skill_text": "En combate, la unidad de apoyo autónoma: guardián (III) ejecuta poderosos ataques cuerpo a cuerpo y lanza una gran variedad de ataques a distancia. Ocasionalmente da un salto en el aire para aplastar a los enemigos."
+        },
+        "300081": {
+            "monster_id": 300081,
+            "monster_name": "Tifón golpeador",
+            "card_text": "Como meca pesado, el tifón golpeador no cuenta con capacidad de fuego de largo alcance, sino que todas sus funciones giran en torno al fortalecimiento de su coraza por medio de energía etérea.\nGolpear, aplastar, destruir... El tifón golpeador utiliza técnicas de combate sencillas y efectivas, llevando la capacidad destructiva de un bólido acorazado al extremo. Incluso la sacudida de sus golpes es capaz de disuadir a seres etéreos de gran tamaño.\nSu defensa es tan infranqueable, que incluso a los saqueadores experimentados no les queda más remedio que suspirar con resignación al verlo.\n«Un cuerpo imponente y vigoroso, brazos fuertes y robustos, como a mí me gustan... M-me refiero al modelo...»",
+            "card_quote": "— Palabras de Grace mientras juega con un modelo de tifón golpeador de la tienda de juguetes",
+            "skill_text": "La unidad táctica autónoma: tifón golpeador ejecuta una potente secuencia de golpes. Ocasionalmente da un salto en el aire para aplastar a los enemigos."
+        }
+    },
+    "Especiales": {
+        "10023": {
+            "monster_id": 10023,
+            "monster_name": "Bangbú dorado",
+            "card_text": "Cada saqueador de Cavidades está convencido de que estas aguardan infinitas oportunidades de volverse rico. Todas las historias de riqueza inmediata mencionan a un ser especial: el bangbú dorado.\nUna investigación de la Asociación de Investigación de Cavidades revela que en las profundidades de las Cavidades habitan incontables bangbús errantes que recolectan mecamonedas y deniques dispersos que dejan al resguardo del bangbú dorado.\nSe desconoce el objetivo por el cual reúnen tanto dinero. Lo único que se sabe es que introducen sus monedas en el bangbú dorado mientras tararean «en nah» sin cesar.\n«¡N-Nickie, mira! ¡Es un bangbú dorado!»\n«¡¿Qué haces ahí parado?! ¡Golpéalo, rápido! ¡Este bangbú nos hará asquerosamente ricos!»",
+            "card_quote": "— Las Liebres Astutas mientras persiguen a un bangbú dorado en las profundidades de una Cavidad",
+            "skill_text": "El bangbú dorado contraataca ocasionalmente."
+        },
+        "30004": {
+            "monster_id": 30004,
+            "monster_name": "Gretel",
+            "card_text": "Gretel trabajó muchos años para empresa familiar Construcciones Belobog, hasta que un día, la intensa corrupción etérea la liberó del tedio del día a día y descubrió algo más hermoso que el aceite de motor y más reconfortante que un chispazo eléctrico: el amor.\nEl almacenamiento central de Gretel ha almacenado para siempre la grabación de la primera vez que vio al imponente Sr. Blanco.\nSu cuerpo robusto, los contornos definidos de sus muros... Como una descarga que activa los fusibles, este recuerdo quedó marcado en la memoria Gretel.\n0.001 segundos después de su encuentro, Gretel cayó rendida a sus encantos: cada circuito dentro de ella estaba sobrecargado de electricidad estática, cada engranaje emitía una vibración difícil de controlar.\nEn ese instante dejó de atender la señal de Construcciones Belobog y decidió quedarse ahí a velar por su amor.\nDesde entonces, cualquier ser etéreo o investigador de Cavidades que acercara al Sr. Blanco era repelido por ella.\nUna chica enamorada hará todo lo posible por proteger a su amor, incluso si es una sierra industrial de 1.4 toneladas de propulsión etérea.\nGretel está convencida de que su amor sobrevivirá al colapso de la Cavidad y la destrucción del universo.\n«¡No se acerquen al Sr. Blanco, escombros sucios!»",
+            "card_quote": "— Greta mientras aleja a un grupo de seres etéreos del Sr. Blanco",
+            "skill_text": "Gretel usa la sierra para golpear al enemigo o barrer grandes extensiones de terreno. Los ataques con la motosierra atraen al enemigo, de manera que no pueden escapar durante un breve periodo de tiempo. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "30005": {
+            "monster_id": 30005,
+            "monster_name": "Hansel",
+            "card_text": "Hansel era uno de los miembros más fiables de la empresa familiar Construcciones Belobog, siempre callado y con una precisión impecable. Llevaba muchos años limitándose a cumplir con su trabajo excavando.\nDe repente, la corrupción intensa despertó su voluntad y, estando en medio de la Cavidad, Hansel se dio cuenta de que algo muy importante estaba a su alcance: la libertad.\nSolo un <i>bro</i> tiene la libertad de ir y venir con libertad.\nDespués de trabajar tanto tiempo en construcción, decidió hacer caso omiso de la señal de Construcciones Belobog y renunciar a su pasado, e incluso a su propio nombre.\nLo único que perdió fue la marca de esclavitud de los humanos, pero, a cambio, obtuvo el vasto y libre mundo de las Cavidades. En ese momento, ¡el <i>bro</i> mecánico se puso de pie!\nPero todas las historias de héroes tienen un final similar...\nEn los confines del mundo, el <i>bro</i> está destinado a cruzar espadas con su archienemigo.\n«¡Soy libre! ¡Soy el único ser libre sobre la faz de la tierra!»",
+            "card_quote": "— Hansel, el intrépido, audaz y reluciente hombre de acero",
+            "skill_text": "Hans utiliza su excavadora para ejecutar golpes continuos o barrer grandes extensiones de terreno. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "30006": {
+            "monster_id": 30006,
+            "monster_name": "Viernes",
+            "card_text": "El momento en el que el denso éter se infiltró en el disco de almacenamiento de Viernes, una gran cantidad de datos inundaron su memoria RAM.\nImágenes, grabaciones, videos... documentos en toda clase de formatos se agolpaban contra su limitada capacidad de procesamiento.\nEn ese instante, Viernes tuvo una revelación. Después de permanecer quieto por mucho tiempo buscando y rebuscando dentro de la base de datos, al fin había podio confirmar el motivo de su mutación: era una epifanía. Solo aquellas máquinas inteligentes que han tenido experiencias cercanas a la muerte como un colapso o un apagón son testigos de un milagro así.\n0.02 segundos después de reflexionar profundamente, Viernes decidió ignorar la señal de Construcciones Belobog, pues él sabía que su misión era prevenir el peligro que se avecinaba.\nMientras el mal se moviliza entre las sombras, su única misión es salvar a todos los seres vivos y encerrar a ese terrible enemigo detrás del sello.\n«Fortalecer el sello y salvar al mundo, ¡esa es mi misión! ¡Y uno nunca reniega de su misión!»",
+            "card_quote": "— Viernes, la máquina inteligente escogida por el destino",
+            "skill_text": "Viernes crea ondas de choque de gran alcance que son difíciles de evadir. Sin embargo, la mayoría de sus habilidades pueden bloquearse con apoyos defensivos. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelgänger - Jane",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Sus ataques son extremadamente feroces y, a veces, incluso contraatacará ante los golpes de sus enemigos. Sin embargo, expondrá su punto débil al final de cada combo."
+        },
+        "30022": {
+            "monster_id": 30022,
+            "monster_name": "Jane Doe",
+            "card_text": "Una persona peligrosa que se codea con las bandas más peligrosas de Nueva Eridu. Es ágil y capaz de cambiar de apariencia. Hacer frente a su feroz habilidad de combate no es fácil, ni siquiera para un escuadrón armado hasta los dientes, por lo que no tienen más remedio que huir.",
+            "card_quote": null,
+            "skill_text": "Durante el combate, los ataques de Jane son extremadamente feroces y, a veces, incluso contraatacará ante los golpes de sus enemigos. Sin embargo, expondrá su punto débil al final de cada combo."
+        },
+        "100231": {
+            "monster_id": 100231,
+            "monster_name": "Bangbú platinado",
+            "card_text": "El bangbú platinado es un ser aún menos común que el bangbú dorado. Su apariencia exquisita y su rareza extrema le permiten gozar de una posición privilegiada entre los bangbús errantes.\nOpulento, venerado, inigualado...\nA diferencia de los bangbús dorados que emiten vulgares destellos de luz en todo su cuerpo, ¡el bangbú platinado es la crema y nata de todos los bangbús errantes!\nNo importa dónde se encuentre, cuando los bangbús lo miran, todos se arrodillan ante él y lo colman de elogios: «¡enñe enña!».\nPero a los saqueadores de Cavidades les da igual su estatus. Cuando le ponen los ojos encima, es como si hubieran descubierto un tesoro andante.\n«Este bangbú se ve muy caro. ¿Cuántos deniques creen que deje caer si lo golpeamos?»",
+            "card_quote": "— Un grupo de saqueadores de Cavidades mientras persigue a un bangbú platinado en las profundidades de una Cavidad",
+            "skill_text": "El bangbú platinado contraataca ocasionalmente."
+        },
+        "300041": {
+            "monster_id": 300041,
+            "monster_name": "Gretel energizada",
+            "card_text": "Gretel trabajó muchos años para empresa familiar Construcciones Belobog, hasta que un día, la intensa corrupción etérea la liberó del tedio del día a día y descubrió algo más hermoso que el aceite de motor y más reconfortante que un chispazo eléctrico: el amor.\nEl almacenamiento central de Gretel ha almacenado para siempre la grabación de la primera vez que vio al imponente Sr. Blanco.\nSu cuerpo robusto, los contornos definidos de sus muros... Como una descarga que activa los fusibles, este recuerdo quedó marcado en la memoria Gretel.\n0.001 segundos después de su encuentro, Gretel cayó rendida a sus encantos: cada circuito dentro de ella estaba sobrecargado de electricidad estática, cada engranaje emitía una vibración difícil de controlar.\nEn ese instante dejó de atender la señal de Construcciones Belobog y decidió quedarse ahí a velar por su amor.\nDesde entonces, cualquier ser etéreo o investigador de Cavidades que acercara al Sr. Blanco era repelido por ella.\nUna chica enamorada hará todo lo posible por proteger a su amor, incluso si es una sierra industrial de 1.4 toneladas de propulsión etérea.\nGretel está convencida de que su amor sobrevivirá al colapso de la Cavidad y la destrucción del universo.\n«¡No se acerquen al Sr. Blanco, escombros sucios!»",
+            "card_quote": "— Greta mientras aleja a un grupo de seres etéreos del Sr. Blanco",
+            "skill_text": "Gretel usa la sierra para golpear al enemigo o barrer grandes extensiones de terreno. Los ataques con la motosierra atraen al enemigo, de manera que no pueden escapar durante un breve periodo de tiempo. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "300042": {
+            "monster_id": 300042,
+            "monster_name": "Gretel acelerada",
+            "card_text": "Gretel trabajó muchos años para empresa familiar Construcciones Belobog, hasta que un día, la intensa corrupción etérea la liberó del tedio del día a día y descubrió algo más hermoso que el aceite de motor y más reconfortante que un chispazo eléctrico: el amor.\nEl almacenamiento central de Gretel ha almacenado para siempre la grabación de la primera vez que vio al imponente Sr. Blanco.\nSu cuerpo robusto, los contornos definidos de sus muros... Como una descarga que activa los fusibles, este recuerdo quedó marcado en la memoria Gretel.\n0.001 segundos después de su encuentro, Gretel cayó rendida a sus encantos: cada circuito dentro de ella estaba sobrecargado de electricidad estática, cada engranaje emitía una vibración difícil de controlar.\nEn ese instante dejó de atender la señal de Construcciones Belobog y decidió quedarse ahí a velar por su amor.\nDesde entonces, cualquier ser etéreo o investigador de Cavidades que acercara al Sr. Blanco era repelido por ella.\nUna chica enamorada hará todo lo posible por proteger a su amor, incluso si es una sierra industrial de 1.4 toneladas de propulsión etérea.\nGretel está convencida de que su amor sobrevivirá al colapso de la Cavidad y la destrucción del universo.\n«¡No se acerquen al Sr. Blanco, escombros sucios!»",
+            "card_quote": "— Greta mientras aleja a un grupo de seres etéreos del Sr. Blanco",
+            "skill_text": "Gretel usa la sierra para golpear al enemigo o barrer grandes extensiones de terreno. Los ataques con la motosierra atraen al enemigo, de manera que no pueden escapar durante un breve periodo de tiempo. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "300051": {
+            "monster_id": 300051,
+            "monster_name": "Hansel energizado",
+            "card_text": "Hansel era uno de los miembros más fiables de la empresa familiar Construcciones Belobog, siempre callado y con una precisión impecable. Llevaba muchos años limitándose a cumplir con su trabajo excavando.\nDe repente, la corrupción intensa despertó su voluntad y, estando en medio de la Cavidad, Hansel se dio cuenta de que algo muy importante estaba a su alcance: la libertad.\nSolo un <i>bro</i> tiene la libertad de ir y venir con libertad.\nDespués de trabajar tanto tiempo en construcción, decidió hacer caso omiso de la señal de Construcciones Belobog y renunciar a su pasado, e incluso a su propio nombre.\nLo único que perdió fue la marca de esclavitud de los humanos, pero, a cambio, obtuvo el vasto y libre mundo de las Cavidades. En ese momento, ¡el <i>bro</i> mecánico se puso de pie!\nPero todas las historias de héroes tienen un final similar...\nEn los confines del mundo, el <i>bro</i> está destinado a cruzar espadas con su archienemigo.\n«¡Soy libre! ¡Soy el único ser libre sobre la faz de la tierra!»",
+            "card_quote": "— Hansel, el intrépido, audaz y reluciente hombre de acero",
+            "skill_text": "Hans utiliza su excavadora para ejecutar golpes continuos o barrer grandes extensiones de terreno. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "300052": {
+            "monster_id": 300052,
+            "monster_name": "Hansel acelerado",
+            "card_text": "Hansel era uno de los miembros más fiables de la empresa familiar Construcciones Belobog, siempre callado y con una precisión impecable. Llevaba muchos años limitándose a cumplir con su trabajo excavando.\nDe repente, la corrupción intensa despertó su voluntad y, estando en medio de la Cavidad, Hansel se dio cuenta de que algo muy importante estaba a su alcance: la libertad.\nSolo un <i>bro</i> tiene la libertad de ir y venir con libertad.\nDespués de trabajar tanto tiempo en construcción, decidió hacer caso omiso de la señal de Construcciones Belobog y renunciar a su pasado, e incluso a su propio nombre.\nLo único que perdió fue la marca de esclavitud de los humanos, pero, a cambio, obtuvo el vasto y libre mundo de las Cavidades. En ese momento, ¡el <i>bro</i> mecánico se puso de pie!\nPero todas las historias de héroes tienen un final similar...\nEn los confines del mundo, el <i>bro</i> está destinado a cruzar espadas con su archienemigo.\n«¡Soy libre! ¡Soy el único ser libre sobre la faz de la tierra!»",
+            "card_quote": "— Hansel, el intrépido, audaz y reluciente hombre de acero",
+            "skill_text": "Hans utiliza su excavadora para ejecutar golpes continuos o barrer grandes extensiones de terreno. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "300061": {
+            "monster_id": 300061,
+            "monster_name": "Viernes energizado",
+            "card_text": "El momento en el que el denso éter se infiltró en el disco de almacenamiento de Viernes, una gran cantidad de datos inundaron su memoria RAM.\nImágenes, grabaciones, videos... documentos en toda clase de formatos se agolpaban contra su limitada capacidad de procesamiento.\nEn ese instante, Viernes tuvo una revelación. Después de permanecer quieto por mucho tiempo buscando y rebuscando dentro de la base de datos, al fin había podio confirmar el motivo de su mutación: era una epifanía. Solo aquellas máquinas inteligentes que han tenido experiencias cercanas a la muerte como un colapso o un apagón son testigos de un milagro así.\n0.02 segundos después de reflexionar profundamente, Viernes decidió ignorar la señal de Construcciones Belobog, pues él sabía que su misión era prevenir el peligro que se avecinaba.\nMientras el mal se moviliza entre las sombras, su única misión es salvar a todos los seres vivos y encerrar a ese terrible enemigo detrás del sello.\n«Fortalecer el sello y salvar al mundo, ¡esa es mi misión! ¡Y uno nunca reniega de su misión!»",
+            "card_quote": "— Viernes, la máquina inteligente escogida por el destino",
+            "skill_text": "Viernes crea ondas de choque de gran alcance que son difíciles de evadir. Sin embargo, la mayoría de sus habilidades pueden bloquearse con apoyos defensivos. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "300062": {
+            "monster_id": 300062,
+            "monster_name": "Viernes acelerado",
+            "card_text": "El momento en el que el denso éter se infiltró en el disco de almacenamiento de Viernes, una gran cantidad de datos inundaron su memoria RAM.\nImágenes, grabaciones, videos... documentos en toda clase de formatos se agolpaban contra su limitada capacidad de procesamiento.\nEn ese instante, Viernes tuvo una revelación. Después de permanecer quieto por mucho tiempo buscando y rebuscando dentro de la base de datos, al fin había podio confirmar el motivo de su mutación: era una epifanía. Solo aquellas máquinas inteligentes que han tenido experiencias cercanas a la muerte como un colapso o un apagón son testigos de un milagro así.\n0.02 segundos después de reflexionar profundamente, Viernes decidió ignorar la señal de Construcciones Belobog, pues él sabía que su misión era prevenir el peligro que se avecinaba.\nMientras el mal se moviliza entre las sombras, su única misión es salvar a todos los seres vivos y encerrar a ese terrible enemigo detrás del sello.\n«Fortalecer el sello y salvar al mundo, ¡esa es mi misión! ¡Y uno nunca reniega de su misión!»",
+            "card_quote": "— Viernes, la máquina inteligente escogida por el destino",
+            "skill_text": "Viernes crea ondas de choque de gran alcance que son difíciles de evadir. Sin embargo, la mayoría de sus habilidades pueden bloquearse con apoyos defensivos. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        }
+    }
+}

@@ -1,0 +1,903 @@
+{
+    "Ether Mutants": {
+        "10000": {
+            "monster_id": 10000,
+            "monster_name": "Tyrfing",
+            "card_text": "The Hollow Investigative Association has been studying Tyrfing's behavioral patterns, and research results show that its seemingly unbalanced stance of swaying and skewing is, in fact, a highly efficient stance for launching successive slashing attacks.\nDue to its frequent appearances and aggressive behavior, Tyrfing has been identified as one of the most deadly Ethereals in the Hollow, particularly for certain Hollow personnel.\nWhen faced with a shielded enemy, it relentlessly launches attacks until either its enemy or itself is destroyed.\n\"Perhaps... they don't actually hate us, but just think of us as punching bags for practice?\"",
+            "card_quote": "—Midnight talk show \"Back 2 Life,\" Episode 165, featuring retired riot patrol officer due to injury, Nobby Kereyan",
+            "skill_text": "During combat, Tyrfing will perform melee attacks."
+        },
+        "10001": {
+            "monster_id": 10001,
+            "monster_name": "Alpeca",
+            "card_text": "The Hollow Investigative Association has limited research on Alpeca. After briefly studying its behavioral pattern of spewing liquid Ether, the Association classified Alpeca as a low-threat Ethereal and ended its investigation.\nScholars once showed great interest in observing how Alpeca spews liquefied Ether and even commissioned surveys for closer observation.\nExperienced Investigators have been avoiding such tasks for unknown reasons, however.\n\"Run! They're spitting again... Oh, no! My new clothes!\"",
+            "card_quote": "—Deep within a Hollow, rookie Investigator Raffaele Bert attempting to retreat",
+            "skill_text": "During combat, Alpeca will perform scattered ranged attacks."
+        },
+        "10002": {
+            "monster_id": 10002,
+            "monster_name": "Faun",
+            "card_text": "A living humanoid Ether that was first spotted in the Hollow in the New Eridu metro. It once raised debate among the Hollow Investigative Association, as some believed it to be living Ether converted from the Corrupted, while others claimed it to be pure living Ether affected by the Hollow environment. The Association considers it of low threat due to its limited intelligence, but one should never underestimate them, as they usually appear in groups.\n\"Have you ever been late or fined because of a red light? Feels terrible, right?\"\n\"Well, here's your chance to blow off some steam!\"",
+            "card_quote": "—\"Planet of Disaster\" forum, comment from user \"Waitin4BangbooPricetoDrop\"",
+            "skill_text": "During combat, Faun tends to perform charged heavy attacks that are hard to interrupt."
+        },
+        "10003": {
+            "monster_id": 10003,
+            "monster_name": "Hoplitai",
+            "card_text": "While categorized by the Hollow Investigative Association as a \"low threat\" Ethereal, Hoplitai prove to be a formidable opponent for novice Hollow Raiders and Investigators.\nIts forelimbs are covered in a thick inert Ether matter, serving as both a tough shield and an intimidating weapon.\nThe only drawback is its top-heavy appearance, making it not look very clever.\n\"Alright, guys... Check out this sorry excuse... This is Hoplitai.\"\n\"When Ethereals gather together to play rock-paper-scissors, this idiot always plays paper!\"",
+            "card_quote": "—Hollow Zoo, special episode about Hoplitai",
+            "skill_text": "During combat, Hoplitai uses a shielded arms charge at opponents and block attacks."
+        },
+        "10004": {
+            "monster_id": 10004,
+            "monster_name": "Blastcrawler",
+            "card_text": "According to research reports conducted by the Hollow Investigative Association, Blastcrawlers, with their low mobility and causing only small explosions, are classified as a \"low-threat,\" \"non-concern\" lower-tier Ethereal.\nHowever, astute businessmen have recognized the opportunities presented by their rounded bodies and short legs.\nA film titled \"Roll Over, Little Blastcrawler\" gained significant popularity, leading to the sale of merchandise like Blastcrawler dolls and pillows at remarkably high prices.\n\"I didn't expect their dolls to be more deadly than the real deal... On your wallet at least. Looks like I'll be surviving on instant noodles next month, Billy...\"",
+            "card_quote": "—Anby checking her wallet in front of the shopping street crane machine.",
+            "skill_text": "During combat, Blastcrawler self-destructs."
+        },
+        "10014": {
+            "monster_id": 10014,
+            "monster_name": "Mandrake",
+            "card_text": "Mandrake derive their name from a toxic herb. The scholar who initially assigned the name believed there was a resemblance between the two solely based on their appearance.\nWhile blooming, Mandrake emit heat rays targeting nearby objects, while sturdy leaves anchor it firmly to the ground, preventing uprooting. When threatened, Mandrake may use their sharp leaves for self-defense.\nSimilar to the legend of their namesake, Mandrake cries can be highly deadly.\n\"Stay away! It's gonna bloom any second now!\"",
+            "card_quote": "—Mandrake blooming in the movie Deep Fear",
+            "skill_text": "During combat, different Mandrakes provide periodic ATK/Shield buffs to adjacent units."
+        },
+        "10025": {
+            "monster_id": 10025,
+            "monster_name": "Ahriman",
+            "card_text": "Due to its unique and grotesque shape, Ahriman is often mistaken for an art sculpture in the Ballet Twins.\nAs a result, many novice Investigators are left with lifelong trauma when they first encounter an Ahriman...\nYou just passed by a certain \"sculpture\" when it suddenly moves...\nAnd that fearful moment frozen in place is the perfect moment for Ahriman to launch a surprise attack.\n\"Corin, don't be fooled by how it looks... It's no fancy art.\"\n\"Now, let's clean it up.\"",
+            "card_quote": "— Lycaon instructing Corin to clean up",
+            "skill_text": "During combat, Ahriman unleashes teleporting assaults and sometimes even teams up with another Ahriman to launch coordinated attacks."
+        },
+        "10026": {
+            "monster_id": 10026,
+            "monster_name": "Specter",
+            "card_text": "Influenced by the distinctive decor of the interior of the Ballet Twins, Specters have the grotesque and twisted limb configuration of an artistic sculpture.\nSome Investigators believe its unique shape is intended to enhance the protection of its Ether Core.\nOthers argue it's merely a trick designed to distract its enemies. While its enemies are mesmerized by its peculiar posture, a Specter will seize the opportunity to launch long-range attacks using concentrated Ether.\n\"I looked at its bizarre structure and thought to myself: Was it trying to play a game of bowling with its own head?\"\n\"But before I could make sense of anything, its bowling ball had already smashed into my face...\"",
+            "card_quote": "—Posted by an anonymous user on Inter-Knot",
+            "skill_text": "During combat, Specter unleashes a burst of ranged attacks in quick succession."
+        },
+        "10029": {
+            "monster_id": 10029,
+            "monster_name": "Beholder Engine",
+            "card_text": "While a Beholder Engine is primarily considered a close-range threat, it frequently presents unforeseen dangers to Investigators during Hollow expeditions.\nEven seasoned Investigators can experience an overwhelming sense of panic when confronted by the piercing gaze of its eyes in the darkness.\nWithin the Hollows, fear has a tendency to intensify Ether corruption, thereby inviting calamity.\n\"The only way to overcome fear... is to stare into it and fight it back.\"",
+            "card_quote": "—Compilation of Knowledge from a Senior Investigator on the Planet of Disaster forum",
+            "skill_text": "During combat, Beholder Engine moves around by rolling its unique body."
+        },
+        "10030": {
+            "monster_id": 10030,
+            "monster_name": "Fossor",
+            "card_text": "Recent studies by the Whitestar Institute reveal that some Ethereals' limbs carry notable features from their environment.\nFossor is a prime example of this — its strange forelimbs bear a striking resemblance to the drilling equipment found in the Old Oil Field region.\nAlthough some suggest this is a camouflage tactic to deceive enemies, others have pointed out that Fossor's combat style is aggressive and direct, making it appear ill-suited for ambushes.\nSome imaginative Hollow Raiders speculate it may have developed this form just to dig for minerals...\n\"When I caught sight of it from a distance, it seemed to be happily digging up the asphalt.\"\n\"When it spotted me, it didn't hesitate to charge straight at me, desperately trying to drive me away...\"\n\"But I was just passing by! I had absolutely no intention of taking any of its junk!\"",
+            "card_quote": "— A rookie Hollow Raider outside a Hollow, recounting his recent experience to his companions",
+            "skill_text": "During combat, Fossor performs consecutive double-handed slashes."
+        },
+        "10031": {
+            "monster_id": 10031,
+            "monster_name": "Sordidus",
+            "card_text": "The Hollows of the Outer Ring are home to a variety of bizarre Ethereals, and Sordidus is a prime example.\nThey possess a unique body structure, with highly flexible limbs that seem to be the result of an unknown reaction between crude oil and active Ether.\nOnce they lock onto a target, they use their limbs like expert acrobats, launching aggressive and brutal attacks.\n\"Damn it... That thing actually whipped me!\"\n\"Does it see itself as a tamer, treating us like wild beasts?\"",
+            "card_quote": "— Inside the Hollow, a group of rookie Hollow Raiders battling a Sordidus",
+            "skill_text": "During combat, Sordidus will whip with its tentacles for close-range attacks or insert its tentacles into the ground for long-range surprise attacks."
+        },
+        "20000": {
+            "monster_id": 20000,
+            "monster_name": "Farbauti",
+            "card_text": "Farbauti, possessing immense strength and often in a frenzied state, is one of the most formidable threats Hollow Raiders may face. Its hammer-like arms can effortlessly deflect damage and unleash storms of blows that crush everything in its path.\nSome Hollow Raiders have observed Farbauti frequently pounding the ground in a rhythmic, high-frequency manner, leading to speculation about its peculiar interest in drumming music.\nDespite the Hollow Investigative Association publicly debunking this rumor, many Hollow Raiders carry portable stereos in an attempt to distract Farbauti with music.\nNo successful escapes using this method have been reported however.\n\"The reason for their failure is simple: Even Farbauti think your taste in music sucks!\"",
+            "card_quote": "—Posted by \"Spike Finger\" on the Black-Sweeper's Rock Forum",
+            "skill_text": "During combat, Farbauti uses its powerful arms to launch continual hammer attacks but those same arms can take damage and become Staggered with enough hits."
+        },
+        "20001": {
+            "monster_id": 20001,
+            "monster_name": "Hati",
+            "card_text": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
+            "card_quote": "—A chat between Billy and Nicole",
+            "skill_text": "During combat, Hati uses nimble leaps and quick claw attacks."
+        },
+        "20002": {
+            "monster_id": 20002,
+            "monster_name": "Goblin",
+            "card_text": "During initial encounters with these unique Ethereals, Hollow Investigators mistakenly thought they possessed some level of intelligence, even showing signs of learning to wield bludgeoning weapons like humans. As a result, they were dubbed \"Goblins.\"\nHowever, subsequent research revealed that their \"hammers\" were actually twisted and deformed limbs, and that they lacked the ability to imitate human behavior.\nNevertheless, Goblins remain formidable adversaries due to their robust physique and sheer brute strength, with even a simple swing of their limbs proving deadly.\nIf anything trespasses on their territory, they will immediately enter a state of fury, sparing no effort in mercilessly smashing the intruder.\n\"Huh? There's a Goblin running over here, banging on a heap of scrap metal.\"\n\"Don't you think his attacks have a rhythm to them, like he's playing a drum...?\"\n\"Hey! Don't be stupid, you two! That's not scrap metal! It's our supply truck!\"",
+            "card_quote": "—A Goblin intruder breaks into a gang hideout",
+            "skill_text": "During combat, Goblin's roar boosts its DMG dealt while significantly reducing DMG taken. However, these effects are interrupted if Stunned."
+        },
+        "20003": {
+            "monster_id": 20003,
+            "monster_name": "Armored Hati",
+            "card_text": "The Armored Hati is widely regarded as a formidable adversary by many experienced Hollow Investigators.\nAlthough its armored shell limits its agility, it compensates with exceptional resistance to attacks.\nAdditionally, the corrupted material on its body forms sharp and hardened protrusions that can cause additional damage when an Armored Hati charges at high speeds.\nThis creature's agile movements, resilience to blows, and seamless armor compel even the most seasoned explorers to seek alternative routes to avoid direct confrontation.\nSome novice Hollow Raiders have attempted to lure Armored Hati away with pet food.\nHowever, these endeavors have proven futile.\n\"Run! It doesn't like this flavor of dog food!\"",
+            "card_quote": "—Several panicked rookie Hollow Raiders escaping from a Hati in a Hollow",
+            "skill_text": "During combat, Armored Hati's armor significantly reduces DMG and Daze taken, but Defensive Assist greatly reduces its armor."
+        },
+        "20004": {
+            "monster_id": 20004,
+            "monster_name": "Metro Goblin",
+            "card_text": "The debate regarding Metro Goblin is a persistent one. Some scholars argue their peculiar appearance serves as camouflage to confuse their enemies, while others attribute the debris on their bodies to corruption and fusion with old metro equipment.\nNevertheless, the presence of Metro Goblins evokes fear among inexperienced Investigators exploring the Hollow's old metro zone.\nAt any given moment, an ordinary-looking \"road sign\" may start trembling, and then a formidable Ethereal emerges from the ground, charging menacingly.\n\"Huh? I saw this sign a few minutes ago. Have we been going in circles?\"\n\"No... That 'road sign' has been following us!\"",
+            "card_quote": "—The horror movie Eternal Lost, the main character looking for a way out of the Hollow",
+            "skill_text": "During combat, Goblin's roar boosts its DMG dealt while significantly reducing DMG taken. However, these effects are interrupted if Stunned."
+        },
+        "20005": {
+            "monster_id": 20005,
+            "monster_name": "Arlaune",
+            "card_text": "Many novice Hollow Raiders who come across an Arlaune for the first time are often deceived by its appearance, mistakenly assuming it to be a harmless plant.\nHowever, upon approaching it, they discover that Arlaune release a concentrated discharge of Ether matter, catching their unsuspecting victims off guard.\n\"Huh? I tried to water it, and it spat at me?\"",
+            "card_quote": "—A group of rookie Investigators ambushed by an Arlaune in a Hollow",
+            "skill_text": "During combat, Arlaune is extremely cunning at launching ranged attacks from a distance. However, Staggering it when its petals are wide open will build up a lot of Daze in just one shot."
+        },
+        "20010": {
+            "monster_id": 20010,
+            "monster_name": "Tarasque Mixer",
+            "card_text": "Based on their research, the Hollow Investigative Association speculates the Tarasque Mixer contains various levels of liquefied Ether.\nWhen it stirs and mixes its stored Ether, a complex reaction takes place, resulting in the release of destructive and violent energy. The power unleashed is comparable to that of the heavy artillery employed by the Defense Force.\nExperienced Investigators understand the importance of maintaining a low profile to avoid direct bombardment from its heavy artillery.\n\"When it leaned down towards me, I thought it was some kind of strange welcoming gift. But when its cannon chamber lit up, I realized... it was a farewell gift.\"",
+            "card_quote": "—Interview on Back 2 Life, celebrity Investigator's personal experiences",
+            "skill_text": "During combat, Tarasque Mixer uses continual laser attacks while making sideways jumps to reposition."
+        },
+        "20022": {
+            "monster_id": 20022,
+            "monster_name": "Hornet",
+            "card_text": "Hornets always seem to be buzzing around Nineveh. Some scholars believe that the two have formed a symbiotic relationship and that, in some respects, they have reached a kind of group coordination.\nAs Nineveh's energy increases, revealing its distinctive swaying blossom stance, the Hornets enter a frenzied state and try their best to attack any moving target nearby.\n\"Hey! Something just flew out of that 'flower'!\"\n\"Looks like... a swarm of wasps?\"",
+            "card_quote": "— Hollow Zero Investigation File KU241. Voice recording of the first recorded Hornet sighting.",
+            "skill_text": "In battle, Hornets will assist Nineveh by distrupting and attacking enemies."
+        },
+        "30000": {
+            "monster_id": 30000,
+            "monster_name": "Dullahan",
+            "card_text": "A potent humanoid living Ether, initially observed in the Laketown Hollow and documented by the Third Investigation Team of the Hollow Investigative Association. The exact correlation between these living Ether beings and the downfall of the lakeside town known as Blaise remains uncertain.\nDue to their immense power and formidable fighting style, the HIA has labeled them as highly dangerous and advises novice Investigators avoid direct confrontations with them.\n\"Don't let it activate its sword, and if it already has... just don't get cut.\"",
+            "card_quote": "—Excerpt from interview with an Investigator on the variety show \"Teach Me, Senpai!\"",
+            "skill_text": "During combat, Dullahan uses its longsword to charge up and perform a high-level stab, which can be interrupted by your high-level attack."
+        },
+        "30001": {
+            "monster_id": 30001,
+            "monster_name": "Thanatos",
+            "card_text": "Hollow exploration can be mentally distressing, and Thanatos, with its unique teleportation ability and unpredictable attack patterns, has become a common psychological challenge among Hollow Raiders.\nA considerable number of individuals who have faced Thanatos alone in the Hollow have lost all courage to continue their ventures and instead chosen to retire prematurely.\nAs a result, these elusive entities have become recurring figures in horror movies.\n\"The slender shadow disappears before your eyes and reappears behind you...\"\n\"What should I do? Now I'm too scared to even go to the restroom alone...\"",
+            "card_quote": "—Night of the premiere of the horror movie \"Ethereal Comes Knocking,\" trending discussion thread on the \"Copper Plum\" movie review website",
+            "skill_text": "During combat, Thanatos blinks around to attack from tricky angles, but its Daze buildup when using Defensive Assist and Assist Follow-Up is also very high."
+        },
+        "30007": {
+            "monster_id": 30007,
+            "monster_name": "Dead End Butcher",
+            "card_text": "Unlike other highly dangerous Ethereals, the Ether within the Dead End Butcher's body often remains in a low-activity dormant state.\nNevertheless, it possesses immense brute strength capable of demolishing any obstacle, and the entire twisted and ravaged metro zone serves as its off-limits kitchen.\nOnly when a threatening target piques its interest will a horrifying transformation take place...\nWithin moments, the high concentration of Ether stored in its body undergoes a violent transformation and the exponentially surging energy prompts its limbs to quickly distort, assuming a more brutal and voracious \"feeding stance.\nThe time for \"appetizers\" is over, and an unparalleled \"feast\" is about to begin.\nAnyone who doesn't want to be part of this feast should be extremely cautious in choosing their route, and stay away from its \"kitchen\" at all costs.\n\"The paths within the Hollows are complex, but one thing's for sure, when it appears at the end of the road, that path is a 'dead end.'\"",
+            "card_quote": "—Hollow Investigative Association's 17th Dead End Hollow Investigation",
+            "skill_text": "During combat, Dead End Butcher's attacks vary greatly. Once enough damage has been taken, phase two attacks become flurried and with the addition of laser attacks. Use a high-level skill once its combo has finished to trigger bonus Stagger."
+        },
+        "30010": {
+            "monster_id": 30010,
+            "monster_name": "Black Veil Marionette",
+            "card_text": "Decades ago, two talented dancer sisters rose to fame overnight. Shining like a meteor, they attracted a massive fan base and held a magnificent performance at the bustling Ballet Twins.\nHowever, as the show neared its end, the Hollow Disaster struck, engulfing the Ballet Twins and plunging the sisters into eternal darkness. The news devastated countless people worldwide.\nRumors suggest that on the day of the performance, the sisters encountered three ominous signs of impending doom. However, driven by their obsession with the stage, applause, and glory, they chose to continue the performance despite the warnings.\nToday, only a few images of the elder sister remain, preserved in photographs on yellowed magazines.\nOnly a few elite Hollow Raiders know that when the shattered spotlight illuminates Ballet Twins once more, the enigmatic Black Veil Marionette emerges. This figure is believed to be connected to Augilia, the dancer from that fateful performance, attempting to finish the grand finale she was never able to complete.\nAs for those who have the \"fortune\" to witness her grand finale, they will be haunted by nightmares that last a lifetime.\n\"If you run into Marionette in the Ballet Twins, don't even think about running away.\"\n\"Just sit back and watch her grand finale!\" \"At least it's a graceful and decent way to die...\"",
+            "card_quote": "—Inter-Knot, complaint from a rookie Hollow Raider",
+            "skill_text": "In battle, Marionette will teleport to her opponent and unleash a relentless assault."
+        },
+        "30011": {
+            "monster_id": 30011,
+            "monster_name": "Gray Veil Marionette",
+            "card_text": "Decades ago, two talented dancer sisters rose to fame overnight. Shining like a meteor, they attracted a massive fan base and held a magnificent performance at the bustling Ballet Twins.\nHowever, as the show neared its end, the Hollow Disaster struck, engulfing the Ballet Twins and plunging the sisters into eternal darkness. The news devastated countless people worldwide.\nIt is rumored that on the day of the performance, the sisters encountered three ominous signs of impending doom. However, some also believe that they had offended certain forces, ultimately falling victim to the masterminds under the disguise of the \"Hollow Disaster,\" and that the so-called \"ominous signs\" might have been well-intentioned warnings.\nToday, the truth remains buried forever in darkness, as most people can only catch glimpses of the younger sister Augetta's lively dance through scattered video materials.\nOnly a few elite Hollow Raiders know that when the forgotten dance music echoes within the Ballet Twins, the ethereal figure of Gray Veil Marionette emerges. This figure is believed to be connected to Augetta, the dancer from that fateful performance, attempting to finish the grand finale she was never able to complete.\nHer elegant dance steps no longer bring love and beauty to the audience but endless death and despair.\n\"I can't tell if the Marionette I saw was the elder or the younger sister...\"\n\"Argh! It's not that I don't appreciate art. I just can't tell them apart!\"",
+            "card_quote": "— A post published by a certain Hollow Raider on Inter-Knot",
+            "skill_text": "In battle, Marionette will teleport to her opponent and unleash a relentless assault."
+        },
+        "30012": {
+            "monster_id": 30012,
+            "monster_name": "Twin Marionettes",
+            "card_text": "Decades ago, two talented dancer sisters rose to fame overnight. Shining like a meteor, they attracted a massive fan base and held a magnificent performance at the bustling Ballet Twins.\nHowever, as the show neared its end, the Hollow Disaster struck, engulfing the Ballet Twins and plunging the sisters into eternal darkness. The news devastated countless people worldwide.\nToday, most people can only catch glimpses of their soulful dance through scattered video and image materials.\nOnly a few know that when the forgotten dance music echoes within the Ballet Twins, the ethereal figures of the Twin Marionettes emerge. These figures are believed to be connected to the Twin Dancers from that fateful performance, attempting to finish the grand finale they were never able to complete.\n\"When that eerie tune came to an end, the two Marionettes emerged from the darkness and curtseyed...\"\n\"Huh? So... they're trying to say the show has begun?\"\n\"No, I think what they're trying to say is... It's too late to run. It's over.\"",
+            "card_quote": "—\"Hollow Interview\" Issue 251, an interview with a surviving Hollow Investigator",
+            "skill_text": "During combat, the Twin Marionettes perform a large number of chained attacks. Some of their dance attacks can be interrupted by multiple Defensive Assists, and the twins will attempt to resuscitate the other if one should fall."
+        },
+        "30017": {
+            "monster_id": 30017,
+            "monster_name": "Ionized - Cyrtoidea",
+            "card_text": "According to Hollow Raiders, Cyrtoidea's hunting tactics bear resemblance to those of a shark.\nIt stealthily prowls in the shadows, lurking beneath the surface, and swiftly strikes its prey with deadly precision much like a shark.\nAnalysis of the data suggests that Cyrtoidea likely relies on ground vibrations to track the movements of its prey. Skilled Hollow Raiders evade detection by constantly altering the rhythm of their footsteps.\n\"Back in my Investigator days, my area was crawling with Cyrtoideas.\"\n\"Their attacks had me hopping and jumping all over the place to dodge them...\"\n\"Looking back, it's funny how I unintentionally became a tap dancer...\"",
+            "card_quote": "—\"Back 2 Life\" Episode 131, an interview featuring Ansor, a renowned master tap-dancer",
+            "skill_text": "During combat, Ionized: Cyrtoidea uses its sharp head to assault enemies at long range."
+        },
+        "30018": {
+            "monster_id": 30018,
+            "monster_name": "Ionized - Nassellaria",
+            "card_text": "Each type of Ether mutant in the Hollow exhibits unique fighting styles.\nSome are merciless, others cunning, and a few even display a sense of... honor.\nAmong them, Nassellaria is particularly distinctive.\nIt often remains motionless out in the open, gathering potent Ether around itself before unleashing its destructive power to eliminate all enemies within its vicinity for other Ethereals.\nWhile Nassellaria is channeling its energy, those accompanying Ethereals engage in frenzied attacks, buying time for the Nassellaria to unleash its devastating attack.\n\"Quick! Stop that guy! Don't let it unleash its ultimate attack!\"\n\"If we get hit by that attack, we'll end up like those sorry villains in those cliche hero animations!\"",
+            "card_quote": "— Several Investigators besieging a Nassellaria within a Hollow",
+            "skill_text": "During combat, Ionized: Nassellaria charges up attacks for a long time, shooting out high-level energy orbs to attack the enemy. Energy orbs attacked with Ether damage or a high-level attack during charge up will fall down, damaging enemies in the surrounding area."
+        },
+        "30023": {
+            "monster_id": 30023,
+            "monster_name": "Thracian",
+            "card_text": "This fearsome Ethereal, named after the warrior tribes of ancient mythology, is said to be the embodiment of the most valiant heroes and the most insane villains corrupted by the Ether.\n— But that's not the case. While the chiseled muscles you developed in the Hollow and the adrenaline released in excess before death may indeed help you become a significant nuisance to your former companions, they probably won't hold it against an old friend who's already beyond saving, right?\nBut it's irrelevant. When your handsome face transforms into a dark, eerie energy orb, who cares about social reputation?\n\"No wonder he's the boss. Even as an Ethereal, he's still formidable!\"\n\"I knew something was off when he was always in the gym!\"",
+            "card_quote": "— Confession screamed by a captured Hollow Raider",
+            "skill_text": "During combat, Thracian will repeatedly perform specific skills to enter a charging state. While in this state, their attacks become more aggressive, and after unleashing high-level skills, they will trigger a large area explosion."
+        },
+        "35001": {
+            "monster_id": 35001,
+            "monster_name": "Nineveh",
+            "card_text": "The unique and magnificent appearance of the symbiotic Ethereal swarm known as Nineveh make it \"difficult\" for people to be wary of it.\nAccording to the few research records available, as Nineveh extends its body, a concentrated and potent Ether flows towards its core through its \"rhizome,\" providing a constant supply of energy. Some scholars speculate that this behavior is akin to the photosynthesis process in plants.\nIn the course of its swaying motions, excess highly active Ether energy continuously pours out. When this accumulation of highly active Ether is nearly overflowing, it transforms, unveiling its true \"blossoming\" form.\nAnd with its bloom comes death.\n\"The good news is it doesn't mean any harm, it just absorbs nutrients for photosynthesis. The bad news is... we're the nutrients.\"",
+            "card_quote": "—Defense Force Hollow Zero Investigation Log K-411",
+            "skill_text": "In battle, Nineveh will use attacks with wide areas of effect, barrage opponents with missiles, and summon Hornets to aid her."
+        },
+        "100001": {
+            "monster_id": 100001,
+            "monster_name": "Tyrfing - Energized",
+            "card_text": "The Hollow Investigative Association has been studying Tyrfing's behavioral patterns, and research results show that its seemingly unbalanced stance of swaying and skewing is, in fact, a highly efficient stance for launching successive slashing attacks.\nDue to its frequent appearances and aggressive behavior, Tyrfing has been identified as one of the most deadly Ethereals in the Hollow, particularly for certain Hollow personnel.\nWhen faced with a shielded enemy, it relentlessly launches attacks until either its enemy or itself is destroyed.\n\"Perhaps... they don't actually hate us, but just think of us as punching bags for practice?\"",
+            "card_quote": "—Midnight talk show \"Back 2 Life,\" Episode 165, featuring retired riot patrol officer due to injury, Nobby Kereyan",
+            "skill_text": "During combat, Tyrfing will perform melee attacks."
+        },
+        "100011": {
+            "monster_id": 100011,
+            "monster_name": "Alpeca - Energized",
+            "card_text": "The Hollow Investigative Association has limited research on Alpeca. After briefly studying its behavioral pattern of spewing liquid Ether, the Association classified Alpeca as a low-threat Ethereal and ended its investigation.\nScholars once showed great interest in observing how Alpeca spews liquefied Ether and even commissioned surveys for closer observation.\nExperienced Investigators have been avoiding such tasks for unknown reasons, however.\n\"Run! They're spitting again... Oh, no! My new clothes!\"",
+            "card_quote": "—Deep within a Hollow, rookie Investigator Raffaele Bert attempting to retreat",
+            "skill_text": "During combat, Alpeca will perform scattered ranged attacks."
+        },
+        "100021": {
+            "monster_id": 100021,
+            "monster_name": "Faun - Energized",
+            "card_text": "A living humanoid Ether that was first spotted in the Hollow in the New Eridu metro. It once raised debate among the Hollow Investigative Association, as some believed it to be living Ether converted from the Corrupted, while others claimed it to be pure living Ether affected by the Hollow environment. The Association considers it of low threat due to its limited intelligence, but one should never underestimate them, as they usually appear in groups.\n\"Have you ever been late or fined because of a red light? Feels terrible, right?\"\n\"Well, here's your chance to blow off some steam!\"",
+            "card_quote": "—\"Planet of Disaster\" forum, comment from user \"Waitin4BangbooPricetoDrop\"",
+            "skill_text": "During combat, Faun tends to perform charged heavy attacks that are hard to interrupt."
+        },
+        "100031": {
+            "monster_id": 100031,
+            "monster_name": "Hoplitai - Energized",
+            "card_text": "While categorized by the Hollow Investigative Association as a \"low threat\" Ethereal, Hoplitai prove to be a formidable opponent for novice Hollow Raiders and Investigators.\nIts forelimbs are covered in a thick inert Ether matter, serving as both a tough shield and an intimidating weapon.\nThe only drawback is its top-heavy appearance, making it not look very clever.\n\"Alright, guys... Check out this sorry excuse... This is Hoplitai.\"\n\"When Ethereals gather together to play rock-paper-scissors, this idiot always plays paper!\"",
+            "card_quote": "—Hollow Zoo, special episode about Hoplitai",
+            "skill_text": "During combat, Hoplitai uses a shielded arms charge at opponents and block attacks."
+        },
+        "100041": {
+            "monster_id": 100041,
+            "monster_name": "Blastcrawler - Energized",
+            "card_text": "According to research reports conducted by the Hollow Investigative Association, Blastcrawlers, with their low mobility and causing only small explosions, are classified as a \"low-threat,\" \"non-concern\" lower-tier Ethereal.\nHowever, astute businessmen have recognized the opportunities presented by their rounded bodies and short legs.\nA film titled \"Roll Over, Little Blastcrawler\" gained significant popularity, leading to the sale of merchandise like Blastcrawler dolls and pillows at remarkably high prices.\n\"I didn't expect their dolls to be more deadly than the real deal... on your wallet at least. Looks like I'll be surviving on instant noodles next month, Billy...\"",
+            "card_quote": "—Anby checking her wallet in front of the shopping street crane machine.",
+            "skill_text": "During combat, Blastcrawler self-destructs."
+        },
+        "100141": {
+            "monster_id": 100141,
+            "monster_name": "Mandrake - Energized",
+            "card_text": "Mandrake derive their name from a toxic herb. The scholar who initially assigned the name believed there was a resemblance between the two solely based on their appearance.\nWhile blooming, Mandrake emit heat rays targeting nearby objects, while sturdy leaves anchor it firmly to the ground, preventing uprooting. When threatened, Mandrake may use their sharp leaves for self-defense.\nSimilar to the legend of their namesake, Mandrake cries can be highly deadly.\n\"Stay away! It's gonna bloom any second now!\"",
+            "card_quote": "—Mandrake blooming in the movie Deep Fear",
+            "skill_text": "During combat, different Mandrakes provide periodic ATK/Shield buffs to adjacent units."
+        },
+        "100251": {
+            "monster_id": 100251,
+            "monster_name": "Ahriman - Energized",
+            "card_text": "Due to its unique and grotesque shape, Ahriman is often mistaken for an art sculpture in the Ballet Twins.\nAs a result, many novice Investigators are left with lifelong trauma when they first encounter an Ahriman...\nYou just passed by a certain \"sculpture\" when it suddenly moves...\nAnd that fearful moment frozen in place is the perfect moment for Ahriman to launch a surprise attack.\n\"Corin, don't be fooled by how it looks... It's no fancy art.\"\n\"Now, let's clean it up.\"",
+            "card_quote": "— Lycaon instructing Corin to clean up",
+            "skill_text": "During combat, Ahriman unleashes teleporting assaults and sometimes even teams up with another Ahriman to launch coordinated attacks."
+        },
+        "100261": {
+            "monster_id": 100261,
+            "monster_name": "Specter - Energized",
+            "card_text": "Influenced by the distinctive decor of the interior of the Ballet Twins, Specters have the grotesque and twisted limb configuration of an artistic sculpture.\nSome Investigators believe its unique shape is intended to enhance the protection of its Ether Core.\nOthers argue it's merely a trick designed to distract its enemies. While its enemies are mesmerized by its peculiar posture, a Specter will seize the opportunity to launch long-range attacks using concentrated Ether.\n\"I looked at its bizarre structure and thought to myself: Was it trying to play a game of bowling with its own head?\"\n\"But before I could make sense of anything, its bowling ball had already smashed into my face...\"",
+            "card_quote": "—Posted by an anonymous user on Inter-Knot",
+            "skill_text": "During combat, Specter unleashes a burst of ranged attacks in quick succession."
+        },
+        "100301": {
+            "monster_id": 100301,
+            "monster_name": "Fossor - Energized",
+            "card_text": "Recent studies by the Whitestar Institute reveal that some Ethereals' limbs carry notable features from their environment.\nFossor is a prime example of this — its strange forelimbs bear a striking resemblance to the drilling equipment found in the Old Oil Field region.\nAlthough some suggest this is a camouflage tactic to deceive enemies, others have pointed out that Fossor's combat style is aggressive and direct, making it appear ill-suited for ambushes.\nSome imaginative Hollow Raiders speculate it may have developed this form just to dig for minerals...\n\"When I caught sight of it from a distance, it seemed to be happily digging up the asphalt.\"\n\"When it spotted me, it didn't hesitate to charge straight at me, desperately trying to drive me away...\"\n\"But I was just passing by! I had absolutely no intention of taking any of its junk!\"",
+            "card_quote": "— A rookie Hollow Raider outside a Hollow, recounting his recent experience to his companions",
+            "skill_text": "During combat, Fossor performs consecutive double-handed slashes."
+        },
+        "100311": {
+            "monster_id": 100311,
+            "monster_name": "Sordidus - Energized",
+            "card_text": "The Hollows of the Outer Ring are home to a variety of bizarre Ethereals, and Sordidus is a prime example.\nThey possess a unique body structure, with highly flexible limbs that seem to be the result of an unknown reaction between crude oil and active Ether.\nOnce they lock onto a target, they use their limbs like expert acrobats, launching aggressive and brutal attacks.\n\"Damn it... That thing actually whipped me!\"\n\"Does it see itself as a tamer, treating us like wild beasts?\"",
+            "card_quote": "— Inside the Hollow, a group of rookie Hollow Raiders battling a Sordidus",
+            "skill_text": "During combat, Sordidus will whip with its tentacles for close-range attacks or insert its tentacles into the ground for long-range surprise attacks."
+        },
+        "200001": {
+            "monster_id": 200001,
+            "monster_name": "Farbauti - Energized",
+            "card_text": "Farbauti, possessing immense strength and often in a frenzied state, is one of the most formidable threats Hollow Raiders may face. Its hammer-like arms can effortlessly deflect damage and unleash storms of blows that crush everything in its path.\nSome Hollow Raiders have observed Farbauti frequently pounding the ground in a rhythmic, high-frequency manner, leading to speculation about its peculiar interest in drumming music.\nDespite the Hollow Investigative Association publicly debunking this rumor, many Hollow Raiders carry portable stereos in an attempt to distract Farbauti with music.\nNo successful escapes using this method have been reported however.\n\"The reason for their failure is simple: Even Farbauti think your taste in music sucks!\"",
+            "card_quote": "—Posted by \"Spike Finger\" on the Black-Sweeper's Rock Forum",
+            "skill_text": "During combat, Farbauti uses its powerful arms to launch continual hammer attacks but those same arms can take damage and become Staggered with enough hits."
+        },
+        "200004": {
+            "monster_id": 200004,
+            "monster_name": "Ionized - Farbauti",
+            "card_text": "Farbauti, possessing immense strength and often in a frenzied state, is one of the most formidable threats Hollow Raiders may face. Its hammer-like arms can effortlessly deflect damage and unleash storms of blows that crush everything in its path.\nSome Hollow Raiders have observed Farbauti frequently pounding the ground in a rhythmic, high-frequency manner, leading to speculation about its peculiar interest in drumming music.\nDespite the Hollow Investigative Association publicly debunking this rumor, many Hollow Raiders carry portable stereos in an attempt to distract Farbauti with music.\nNo successful escapes using this method have been reported however.\n\"The reason for their failure is simple: Even Farbauti think your taste in music sucks!\"",
+            "card_quote": "—Posted by \"Spike Finger\" on the Black-Sweeper's Rock Forum",
+            "skill_text": "During combat, Ionized: Farbauti uses its powerful arms to launch continual hammer attacks but those same arms can take damage and become Staggered with enough hits. It can also charge up Energy for a while before launching a powerful leaping attack."
+        },
+        "200011": {
+            "monster_id": 200011,
+            "monster_name": "Hati - Energized",
+            "card_text": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
+            "card_quote": "—A chat between Billy and Nicole",
+            "skill_text": "During combat, Hati uses nimble leaps and quick claw attacks."
+        },
+        "200014": {
+            "monster_id": 200014,
+            "monster_name": "Notorious - Hati",
+            "card_text": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
+            "card_quote": "—A chat between Billy and Nicole",
+            "skill_text": null
+        },
+        "200015": {
+            "monster_id": 200015,
+            "monster_name": "Hati Pack Leader — Energized",
+            "card_text": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in the Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
+            "card_quote": "— A chat between Billy and Nicole",
+            "skill_text": "During combat, Hati Pack Leader exhibits a strong desire to attack, with agile and rapid moves."
+        },
+        "200021": {
+            "monster_id": 200021,
+            "monster_name": "Goblin - Energized",
+            "card_text": "During initial encounters with these unique Ethereals, Hollow Investigators mistakenly thought they possessed some level of intelligence, even showing signs of learning to wield bludgeoning weapons like humans. As a result, they were dubbed \"Goblins.\"\nHowever, subsequent research revealed that their \"hammers\" were actually twisted and deformed limbs, and that they lacked the ability to imitate human behavior.\nNevertheless, Goblins remain formidable adversaries due to their robust physique and sheer brute strength, with even a simple swing of their limbs proving deadly.\nIf anything trespasses on their territory, they will immediately enter a state of fury, sparing no effort in mercilessly smashing the intruder.\n\"Huh? There's a Goblin running over here, banging on a heap of scrap metal.\"\n\"Don't you think his attacks have a rhythm to them, like he's playing a drum...?\"\n\"Hey! Don't be stupid, you two! That's not scrap metal! It's our supply truck!\"",
+            "card_quote": "—A Goblin intruder breaks into a gang hideout",
+            "skill_text": "During combat, Goblin's roar boosts its DMG dealt while significantly reducing DMG taken. However, these effects are interrupted if Stunned."
+        },
+        "200031": {
+            "monster_id": 200031,
+            "monster_name": "Armored Hati - Energized",
+            "card_text": "The Armored Hati is widely regarded as a formidable adversary by many experienced Hollow Investigators.\nAlthough its armored shell limits its agility, it compensates with exceptional resistance to attacks.\nAdditionally, the corrupted material on its body forms sharp and hardened protrusions that can cause additional damage when an Armored Hati charges at high speeds.\nThis creature's agile movements, resilience to blows, and seamless armor compel even the most seasoned explorers to seek alternative routes to avoid direct confrontation.\nSome novice Hollow Raiders have attempted to lure Armored Hati away with pet food.\nHowever, these endeavors have proven futile.\n\"Run! It doesn't like this flavor of dog food!\"",
+            "card_quote": "—Several panicked rookie Hollow Raiders escaping from a Hati in a Hollow",
+            "skill_text": "During combat, Armored Hati's armor significantly reduces DMG and Daze taken, but Defensive Assist greatly reduces its armor."
+        },
+        "200034": {
+            "monster_id": 200034,
+            "monster_name": "Notorious - Armored Hati",
+            "card_text": "The Armored Hati is widely regarded as a formidable adversary by many experienced Hollow Investigators.\nAlthough its armored shell limits its agility, it compensates with exceptional resistance to attacks.\nAdditionally, the corrupted material on its body forms sharp and hardened protrusions that can cause additional damage when an Armored Hati charges at high speeds.\nThis creature's agile movements, resilience to blows, and seamless armor compel even the most seasoned explorers to seek alternative routes to avoid direct confrontation.\nSome novice Hollow Raiders have attempted to lure Armored Hati away with pet food.\nHowever, these endeavors have proven futile.\n\"Run! It doesn't like this flavor of dog food!\"",
+            "card_quote": "—Several panicked rookie Hollow Raiders escaping from a Hati in a Hollow",
+            "skill_text": "During combat, Notorious: Armored Hati's armor significantly reduces DMG and Daze taken, but Defensive Assist greatly reduces its armor. Its roar also unleashes even more powerful Ether bullets than usual."
+        },
+        "200041": {
+            "monster_id": 200041,
+            "monster_name": "Metro Goblin - Energized",
+            "card_text": "The debate regarding Metro Goblin is a persistent one. Some scholars argue their peculiar appearance serves as camouflage to confuse their enemies, while others attribute the debris on their bodies to corruption and fusion with old metro equipment.\nNevertheless, the presence of Metro Goblins evokes fear among inexperienced Investigators exploring the Hollow's old metro zone.\nAt any given moment, an ordinary-looking \"road sign\" may start trembling, and then a formidable Ethereal emerges from the ground, charging menacingly.\n\"Huh? I saw this sign a few minutes ago. Have we been going in circles?\"\n\"No... That 'road sign' has been following us!\"",
+            "card_quote": "—The horror movie Eternal Lost, the main character looking for a way out of the Hollow",
+            "skill_text": "During combat, Goblin's roar boosts its DMG dealt while significantly reducing DMG taken. However, these effects are interrupted if Stunned."
+        },
+        "200051": {
+            "monster_id": 200051,
+            "monster_name": "Arlaune - Energized",
+            "card_text": "Many novice Hollow Raiders who come across an Arlaune for the first time are often deceived by its appearance, mistakenly assuming it to be a harmless plant.\nHowever, upon approaching it, they discover that Arlaune release a concentrated discharge of Ether matter, catching their unsuspecting victims off guard.\n\"Huh? I tried to water it, and it spat at me?\"",
+            "card_quote": "—A group of rookie Investigators ambushed by an Arlaune in a Hollow",
+            "skill_text": "During combat, Arlaune is extremely cunning at launching ranged attacks from a distance. However, Staggering it when its petals are wide open will build up a lot of Daze in just one shot."
+        },
+        "300001": {
+            "monster_id": 300001,
+            "monster_name": "Dullahan - Energized",
+            "card_text": "A potent humanoid living Ether, initially observed in the Laketown Hollow and documented by the Third Investigation Team of the Hollow Investigative Association. The exact correlation between these living Ether beings and the downfall of the lakeside town known as Blaise remains uncertain.\nDue to their immense power and formidable fighting style, the HIA has labeled them as highly dangerous and advises novice Investigators avoid direct confrontations with them.\n\"Don't let it activate its sword, and if it already has... just don't get cut.\"",
+            "card_quote": "—Excerpt from interview with an Investigator on the variety show \"Teach Me, Senpai!\"",
+            "skill_text": "During combat, Dullahan uses its longsword to charge up and perform a high-level stab, which can be interrupted by your high-level attack."
+        },
+        "300002": {
+            "monster_id": 300002,
+            "monster_name": "Newborn Dullahan",
+            "card_text": "A potent humanoid living Ether, initially observed in the Laketown Hollow and documented by the Third Investigation Team of the Hollow Investigative Association. The exact correlation between these living Ether beings and the downfall of the lakeside town known as Blaise remains uncertain.\nDue to their immense power and formidable fighting style, the HIA has labeled them as highly dangerous and advises novice Investigators avoid direct confrontations with them.\n\"Don't let it activate its sword, and if it already has... just don't get cut.\"",
+            "card_quote": "—Excerpt from interview with an Investigator on the variety show \"Teach Me, Senpai!\"",
+            "skill_text": "During combat, Dullahan uses its longsword to charge up and perform a high-level stab, which can be interrupted by your high-level attack."
+        },
+        "300004": {
+            "monster_id": 300004,
+            "monster_name": "Ionized - Dullahan",
+            "card_text": "A potent humanoid living Ether, initially observed in the Laketown Hollow and documented by the Third Investigation Team of the Hollow Investigative Association. The exact correlation between these living Ether beings and the downfall of the lakeside town known as Blaise remains uncertain.\nDue to their immense power and formidable fighting style, the HIA has labeled them as highly dangerous and advises novice Investigators avoid direct confrontations with them.\n\"Don't let it activate its sword, and if it already has... just don't get cut.\"",
+            "card_quote": "—Excerpt from interview with an Investigator on the variety show \"Teach Me, Senpai!\"",
+            "skill_text": "During combat, Ionized: Dullahan uses its longsword to charge up and perform a high-level stab, which can be interrupted by your high-level attack. Some of its skills also build up Ether Energy that can launch follow-up explosive attacks."
+        },
+        "300005": {
+            "monster_id": 300005,
+            "monster_name": "Notorious - Dullahan",
+            "card_text": "A potent humanoid living Ether, initially observed in the Laketown Hollow and documented by the Third Investigation Team of the Hollow Investigative Association. The exact correlation between these living Ether beings and the downfall of the lakeside town known as Blaise remains uncertain.\nDue to their immense power and formidable fighting style, the HIA has labeled them as highly dangerous and advises novice Investigators avoid direct confrontations with them.\n\"Don't let it activate its sword, and if it already has... just don't get cut.\"",
+            "card_quote": "—Excerpt from interview with an Investigator on the variety show \"Teach Me, Senpai!\"",
+            "skill_text": "During combat, Notorious: Dullahan uses its longsword to charge up and perform a high-level stab, which can be interrupted by your high-level attack. Notorious: Dullahan is skilled at blocking with its shield, and can string together attacks soon after blocking."
+        },
+        "300011": {
+            "monster_id": 300011,
+            "monster_name": "Thanatos - Energized",
+            "card_text": "Hollow exploration can be mentally distressing, and Thanatos, with its unique teleportation ability and unpredictable attack patterns, has become a common psychological challenge among Hollow Raiders.\nA considerable number of individuals who have faced Thanatos alone in the Hollow have lost all courage to continue their ventures and instead chosen to retire prematurely.\nAs a result, these elusive entities have become recurring figures in horror movies.\n\"The slender shadow disappears before your eyes and reappears behind you...\"\n\"What should I do? Now I'm too scared to even go to the restroom alone...\"",
+            "card_quote": "—Night of the premiere of the horror movie \"Ethereal Comes Knocking,\" trending discussion thread on the \"Copper Plum\" movie review website",
+            "skill_text": "During combat, Thanatos blinks around to attack from tricky angles, but its Daze buildup when using Defensive Assist and Assist Follow-Up is also very high."
+        },
+        "300014": {
+            "monster_id": 300014,
+            "monster_name": "Ionized - Thanatos",
+            "card_text": "Hollow exploration can be mentally distressing, and Thanatos, with its unique teleportation ability and unpredictable attack patterns, has become a common psychological challenge among Hollow Raiders.\nA considerable number of individuals who have faced Thanatos alone in the Hollow have lost all courage to continue their ventures and instead chosen to retire prematurely.\nAs a result, these elusive entities have become recurring figures in horror movies.\n\"The slender shadow disappears before your eyes and reappears behind you...\"\n\"What should I do? Now I'm too scared to even go to the restroom alone...\"",
+            "card_quote": "—Night of the premiere of the horror movie \"Ethereal Comes Knocking,\" trending discussion thread on the \"Copper Plum\" movie review website",
+            "skill_text": "During combat, Ionized: Thanatos blinks around to attack from tricky angles, but its Daze buildup when using Defensive Assist and Assist Follow-Up is also very high."
+        },
+        "300015": {
+            "monster_id": 300015,
+            "monster_name": "Notorious - Thanatos",
+            "card_text": "Hollow exploration can be mentally distressing, and Thanatos, with its unique teleportation ability and unpredictable attack patterns, has become a common psychological challenge among Hollow Raiders.\nA considerable number of individuals who have faced Thanatos alone in the Hollow have lost all courage to continue their ventures and instead chosen to retire prematurely.\nAs a result, these elusive entities have become recurring figures in horror movies.\n\"The slender shadow disappears before your eyes and reappears behind you...\"\n\"What should I do? Now I'm too scared to even go to the restroom alone...\"",
+            "card_quote": "—Night of the premiere of the horror movie \"Ethereal Comes Knocking,\" trending discussion thread on the \"Copper Plum\" movie review website",
+            "skill_text": "During combat, Notorious: Thanatos blinks around to attack from tricky angles and is extremely aggressive, but its Daze buildup when using Defensive Assist and Assist Follow-Up is also very high."
+        },
+        "300071": {
+            "monster_id": 300071,
+            "monster_name": "Newborn Dead End Butcher",
+            "card_text": "Unlike other highly dangerous Ethereals, the Ether within the Dead End Butcher's body often remains in a low-activity dormant state.\nNevertheless, it possesses immense brute strength capable of demolishing any obstacle, and the entire twisted and ravaged metro zone serves as its off-limits kitchen.\nOnly when a threatening target piques its interest will a horrifying transformation take place...\nWithin moments, the high concentration of Ether stored in its body undergoes a violent transformation and the exponentially surging energy prompts its limbs to quickly distort, assuming a more brutal and voracious \"feeding stance.\nThe time for \"appetizers\" is over, and an unparalleled \"feast\" is about to begin.\nAnyone who doesn't want to be part of this feast should be extremely cautious in choosing their route, and stay away from its \"kitchen\" at all costs.\n\"The paths within the Hollows are complex, but one thing's for sure, when it appears at the end of the road, that path is a 'dead end.'\"",
+            "card_quote": "—Hollow Investigative Association's 17th Dead End Hollow Investigation",
+            "skill_text": "During combat, Newborn Dead End Butcher's attacks vary greatly. Once enough damage has been taken, phase two attacks become flurried and with the addition of laser attacks. Use a high-level skill once its combo has finished to trigger bonus Stagger. Newborn Dead End Butcher performs nimble dodges to evade enemy attacks."
+        }
+    },
+    "Thugs": {
+        "10015": {
+            "monster_id": 10015,
+            "monster_name": "Raider",
+            "card_text": "Among the ranks of Ether thieves, Raiders and Looters serve as the core members, possessing both technical expertise and combat skills.\nTheir Electric Resonance Detection Devices emit powerful currents that are used to detect Ether ore and also function as formidable weapons during armed raids.\nOccasionally mistaken for illegal fishermen, they pay little attention to such misconceptions.\nAfter all, with their extremely lethal electro-shockers, they don't really care whether their targets are fish or humans...\n\"If you encounter individuals armed with electrified harpoons, whether near a river, lake, or Hollow, please report it immediately to Public Security!\"",
+            "card_quote": "—New Eridu Public Security slogan played repeatedly through promotional cars",
+            "skill_text": "During combat, Hollow Thug - Raider will charge from a long distance, potentially colliding with obstacles along the way — creating the perfect opportunity to counterattack."
+        },
+        "10016": {
+            "monster_id": 10016,
+            "monster_name": "Pyromaniac",
+            "card_text": "For Pyromaniacs and Arsonists, robbing passersby is merely a side hustle. Deep down, they consider themselves as adept bartenders who actively seek excitement.\nWith precision and skill, they expertly blend various types of Ether into their beverages, effortlessly concocting bottles of highly flammable and explosive \"exclusive brew.\"\nUnlike other brutal Hollow Raiders, they often offer their victims a choice.\nIf the victim agrees to pay the toll, they extend the courtesy of a free drink.\nHowever, if the victim declines, the flammable \"exclusive brew\" will be forcefully shattered upon their head.\n\"How about we trick those guys into drinking their own weapon stash?\"",
+            "card_quote": "—Inside the Hollow, robbed Investigator quietly discussing strategies for retreating",
+            "skill_text": "During combat, Hollow Thug - Pyromaniac will sometimes bombard using a hail of molotov cocktails."
+        },
+        "10018": {
+            "monster_id": 10018,
+            "monster_name": "Poacher",
+            "card_text": "Most of the thugs who spend their time in the Hollows exhibit serious mental problems or peculiar quirks. Fortunately, the Poachers and the Rustlers within the gang have managed to maintain their sanity while embracing the filthy methods of traditional villains.\nCowardly and cunning, they excel in the art of concealing themselves within the shadows and launching surprise attacks on their targets. They would never choose to attack head-on if they could ambush.\nTheir composite hand crossbows, though limited in power, produce minimal noise when fired. Seasoned Poachers often seize the perfect moment and immobilize their unsuspecting prey with a single well-aimed shot.\n\"I used to be a Public Security officer, then I took an arrow in the knee while on a Hollow operation...\"",
+            "card_quote": "—A senior member of the Nightingale Security Company talking to a rookie",
+            "skill_text": "During combat, Hollow Thug - Poacher tends to harass targets at a distance using 3-shot bursts."
+        },
+        "10019": {
+            "monster_id": 10019,
+            "monster_name": "Assaulter",
+            "card_text": "As the vanguards in Hollow Raider gangs, Assaulters and Ambushers often brandish their weapons and charge ahead independently.\nThis isn't because of their recklessness or disregard for teamwork, but rather a precautionary measure to prevent accidental harm. The modified transformer coils in their hands release high-voltage currents upon contact, capable of paralyzing or even knocking out an opponent with just a touch.\nAnd in the logistically difficult Hollows, an incapacitated teammate could pose a terrible challenge for an entire squad.\n\"What's this? Lemme check it out! Oh, it's some electric baton replicaaaa... Aaaaaaaaaaarrghhh...\"",
+            "card_quote": "—Final words of a curious novice Investigator before falling to the ground in a Hollow",
+            "skill_text": "During combat, Hollow Thug - Assaulter launches continual spinning assaults, but this crazy suicidal attack often reveals a weakness after."
+        },
+        "20015": {
+            "monster_id": 20015,
+            "monster_name": "Bulky Intimidator",
+            "card_text": "In contrast to fully equipped Hollow Investigators, Bulky Intimidators and Wanted Intimidators possess minimalistic gear.\nNevertheless, these notorious thugs can easily instill fear in their victims with their makeshift equipment.\nA spiked metal bat and a modified double-barreled shotgun are all they need to establish themselves as the most feared brutes in the Hollow.\nAccording to Investigators who have encountered them in the Hollows, these brutes enter an extreme state of euphoria during battle. Their \"demeanor\" could hardly be called combat suitable, and more closely resembles bullying.\n\"Fighting them brought back the fear I felt when facing the school bullies alone...\"",
+            "card_quote": "—Hollow Investigative Association Resignation Letter from a rookie Investigator",
+            "skill_text": "During combat, Hollow Thug - Bulky Intimidator switches between using a club and a shotgun for nearby attacks while sometimes kicking up sand to launch an ambush."
+        },
+        "20017": {
+            "monster_id": 20017,
+            "monster_name": "Bulky Enforcer",
+            "card_text": "There is a consensus within the New Eridu underworld that the most formidable fighters are not the champions of the ring, but rather the Bulky Enforcers and Wanted Enforcers lurking in the depths of the Hollow. These professional thugs are hired by Ether thieves at high prices to protect their illegally excavated Ether resources.\nBeing ardent boxing enthusiasts, Bulky Enforcers have modified high-voltage stun guns into boxing gloves, augmenting the destructive power of their punches.\nTo them, Ethereals, Hollow Raiders, Hollow Investigators, and even scattered members of Public Security... are not seen as opponents but merely as \"training sandbags\" for their personal amusement.\n\"Wait a minute! I think I've seen this guy's fighting stance in the arcade on Fourth Street!\"",
+            "card_quote": "—Billy dealing with a charging thug in a Hollow",
+            "skill_text": "During combat, Hollow Thug - Bulky Enforcer uses both fists to punch while using nimble sidesteps to shake up the angle of attack."
+        },
+        "20020": {
+            "monster_id": 20020,
+            "monster_name": "Enraged Sweeper",
+            "card_text": "A significant number of combat mechs belonging to Public Security are destroyed within Hollow each year. Some of these mechs are subsequently repaired by Hollow thugs and illegally modified into Enraged Sweepers. \nDespite lacking access to standard parts or professional repair services, the thugs manage to restore these mechs using makeshift components, striving to maintain their original combat capabilities.\nIn their pursuit of individuality, the thugs often apply custom paint jobs and even install high-powered loudspeakers on their Enraged Sweepers.\nWhile this does not enhance their combat effectiveness, it does make them seem cooler than the originals.\n\"Here we go! There's an easy prey with pink hair over there!\"\n\"Yo! Switch to the background music we always use for robberies!\"",
+            "card_quote": "—a Hollow Thug urgently debugging an Enraged Sweeper in a Hollow",
+            "skill_text": "During combat, Illegal Support Unit - Enraged Sweeper uses its long arms to perform a spinning attack. Use Defensive Assist before it does so to completely prevent it from even launching."
+        },
+        "20023": {
+            "monster_id": 20023,
+            "monster_name": "Mors",
+            "card_text": "Mors was once the most feared bounty hunter in the Outer Ring. He possessed an almost obsessive desire to hunt, often tracking his targets relentlessly day in and day out. Once he had a target in his sights, he would obsessively pursue the kill until his prey was dead.\n\n\"Lone Wolf Mors\" never fails — this is the belief held by all major factions in the Outer Ring.\n\nHowever, during one \"hunt,\" Mors pursued his target day and night for three days... Yet, even after exhausting his strength, he still failed to kill the target.\nSurprisingly, the man named Pompey didn't take it personally and instead offered an invitation to the defeated Mors — asking him to join his own organization.\n\nFrom that point on, the infamous \"hunter\" Mors was nowhere to be found. However, within The Vanquishers, a new figure emerged — a silent, solitary captain.\nEven now, Mors remains elusive, often disappearing for long periods. He only resurfaces when faced with a foe who genuinely intrigues him, not out of duty as a captain, but simply to indulge in the thrill of combat and the sheer joy of the hunt.\n\"You want to challenge Captain Mors to a duel? Heh, do you really think you’re up for it?\"\n\"Go sign up over there first, then come back next month to try your luck in the draw.\"",
+            "card_quote": "— In The Vanquishers, Mors' men fending off the enemy",
+            "skill_text": "During combat, Mors adapts to the battlefield, switching between close-range combos and long-distance shots. When his health drops below a certain percentage or after a set period, he'll start using follow-up long-range attacks or ambush targets with blind spot shots after quickly repositioning."
+        },
+        "20024": {
+            "monster_id": 20024,
+            "monster_name": "Pulchra",
+            "card_text": "No one knows where Pulchra came from, but she was once one of the top mercenaries of the Outer Ring, a \"chameleon\" who was adept at adapting depending on the situation.\nNot long after the previous Tour de Inferno ended with Pompey's consecutive victory, a few factions conspired in the shadows to launch a surprise attack on The Vanquishers. This scheme was easily dealt with by The Vanquishers, as if all their plans were within The Vanquishers' grasp.\nThe losers were chased out of the Old Oil Field, yet Pulchra, who had allied with them, was completely untouched. Naturally, many believed that this victory relied on a betrayal.\nThough many made offers, hoping she'd join them, Pulchra never officially joined any gang.\nPerhaps, to her, all these conspiracies and conflicts within the Outer Ring were just a game she could quit at any time. Even if her employer was loathsome, she wouldn't care, so long as they had the money and the job was interesting.\nEspecially if the job involved luring an enemy into an exquisitely prepared trap, allowing her to watch them slowly descend into the abyss of death...\nLuring, deceiving into complete destruction... The more beautiful, the more deadly, that has always been her code of survival.\n\"What, you wanna work under big sis Pulchra?\"\n\"Heh, another poor sucker...\"",
+            "card_quote": "— Within The Vanquishers' camp, a rookie is being teased by a more senior member",
+            "skill_text": "During combat, Pulchra maintains distance, waiting for the right moment to use physical attacks, her bladeguns, and gadgets to disrupt the target. When her health drops below a certain percentage, she drinks a tonic to enhance her ability to dodge, allowing her to dodge all attacks from nearby targets."
+        },
+        "20025": {
+            "monster_id": 20025,
+            "monster_name": "Bellum",
+            "card_text": "As an arena champion with an impressive win streak, Bellum once called himself the number-one fighter in the Outer Ring... Until his win streak was ended.\nWhat was even more infuriating... was that arrogant guy didn't even remember his name.\nAngry, Bellum honed his fighting skills, swearing that he would make his name known throughout the Outer Ring once more and make the arrogant jerk who beat him pay.\nTo achieve his goal, Bellum joined The Vanquishers and helped Pompey defeat enemy after dangerous enemy. He could skillfully modify and operate a flamethrower, leading the charge to incinerate enemies in his path. He could also command his squad with seamless precision, organizing them into an unstoppable battle force. Every battle he led ended in victory.\nNow, Bellum no longer needs to make a name for himself.\nThough he's no longer that champion with an impressive win streak, in the Outer Ring, everyone knows the terror of gang wars, and as a member of The Vanquishers' core fighting force, Bellum was war itself.\n\"You don't wanna do menial jobs? Heh, you can complain about that you defeat boss Bellum!\"\n\"Now go clean the toilet!\"",
+            "card_quote": "— Within The Vanquishers' camp, a veteran scolding a slacking rookie",
+            "skill_text": "During combat, Bellum uses his bladegun, shield, and flamethrower to pressure the enemy at close range. If Bellum is attacked while guarding with his shield, he'll respond with a powerful counterstrike. When his health drops below a certain percentage, Bellum's attacks intensify, becoming even more vicious and relentless."
+        },
+        "30019": {
+            "monster_id": 30019,
+            "monster_name": "Rampant Brute",
+            "card_text": "The Hollow Thugs inside Hollows consist of people of different types who come together for one common goal: raiding the Ether resources in the Hollow for massive profit.\nThis ragtag bunch have no rules.\nHowever, when the Rampant Brute, a symbol of absolute violence, appears, rules soon follow.\nThey wear modified construction power systems and use materials lying around as makeshift weapons. These devices and weapons look heavy enough to crush a bodybuilder, but for them, it's the perfect size to wear as a workout outfit.\nSwing, shatter, crush... all these basic combat techniques of theirs are fatal strikes that can obliterate their enemies, a showcase of their unparalleled destructive power.\nAccording to Public Security's research, Hollow Thug gangs led by Rampant Brutes often develop strange street workout cultures and are more tight-knit...\n\"What? You're saying the trainers at the gym are really strong?\"\n\"Hahaha, you need to have your eyes checked!\"\n\"You should join us. Train with the boss for three weeks, and I guarantee you'll have perfect biceps!\"",
+            "card_quote": "— Somewhere in New Eridu, some Hollow Thugs are trying to convince people to join them",
+            "skill_text": "During combat, Hollow Thug - Rampant Brute charges up his armor with electricity to release a high-level attack. During this time, he enters a Shocked state where his charging is interrupted and he's instantly inflicted with Disorder if any other type of Attribute Anomaly is inflicted."
+        },
+        "100151": {
+            "monster_id": 100151,
+            "monster_name": "Looter",
+            "card_text": "Among the ranks of Ether thieves, Raiders and Looters serve as the core members, possessing both technical expertise and combat skills.\nTheir Electric Resonance Detection Devices emit powerful currents that are used to detect Ether ore and also function as formidable weapons during armed raids.\nOccasionally mistaken for illegal fishermen, they pay little attention to such misconceptions.\nAfter all, with their extremely lethal electro-shockers, they don't really care whether their targets are fish or humans...\n\"If you encounter individuals armed with electrified harpoons, whether near a river, lake, or Hollow, please report it immediately to Public Security!\"",
+            "card_quote": "—New Eridu Public Security slogan played repeatedly through promotional cars",
+            "skill_text": "During combat, Hollow Thug - Looter will charge from a long distance, potentially colliding with obstacles along the way — creating the perfect opportunity to counterattack."
+        },
+        "100161": {
+            "monster_id": 100161,
+            "monster_name": "Arsonist",
+            "card_text": "For Pyromaniacs and Arsonists, robbing passersby is merely a side hustle. Deep down, they consider themselves as adept bartenders who actively seek excitement.\nWith precision and skill, they expertly blend various types of Ether into their beverages, effortlessly concocting bottles of highly flammable and explosive \"exclusive brew.\"\nUnlike other brutal Hollow Raiders, they often offer their victims a choice.\nIf the victim agrees to pay the toll, they extend the courtesy of a free drink.\nHowever, if the victim declines, the flammable \"exclusive brew\" will be forcefully shattered upon their head.\n\"How about we trick those guys into drinking their own weapon stash?\"",
+            "card_quote": "—Inside the Hollow, robbed Investigator quietly discussing strategies for retreating",
+            "skill_text": "During combat, Hollow Thug - Arsonist will sometimes bombard using a hail of molotov cocktails."
+        },
+        "100181": {
+            "monster_id": 100181,
+            "monster_name": "Rustler",
+            "card_text": "Most of the thugs who spend their time in the Hollows exhibit serious mental problems or peculiar quirks. Fortunately, the Poachers and the Rustlers within the gang have managed to maintain their sanity while embracing the filthy methods of traditional villains.\nCowardly and cunning, they excel in the art of concealing themselves within the shadows and launching surprise attacks on their targets. They would never choose to attack head-on if they could ambush.\nTheir composite hand crossbows, though limited in power, produce minimal noise when fired. Seasoned Poachers often seize the perfect moment and immobilize their unsuspecting prey with a single well-aimed shot.\n\"I used to be a Public Security officer, then I took an arrow in the knee while on a Hollow operation...\"",
+            "card_quote": "—A senior member of the Nightingale Security Company talking to a rookie",
+            "skill_text": "During combat, Hollow Thug - Rustler tends to harass targets at a distance using 3-shot bursts."
+        },
+        "100191": {
+            "monster_id": 100191,
+            "monster_name": "Ambusher",
+            "card_text": "As the vanguards in Hollow Raider gangs, Assaulters and Ambushers often brandish their weapons and charge ahead independently.\nThis isn't because of their recklessness or disregard for teamwork, but rather a precautionary measure to prevent accidental harm. The modified transformer coils in their hands release high-voltage currents upon contact, capable of paralyzing or even knocking out an opponent with just a touch.\nAnd in the logistically difficult Hollows, an incapacitated teammate could pose a terrible challenge for an entire squad.\n\"What's this? Lemme check it out! Oh, it's some electric baton replicaaaa... Aaaaaaaaaaarrghhh...\"",
+            "card_quote": "—Final words of a curious novice Investigator before falling to the ground in a Hollow",
+            "skill_text": "During combat, Hollow Thug - Ambusher launches continual spinning assaults, but this crazy suicidal attack often reveals a weakness after."
+        },
+        "200151": {
+            "monster_id": 200151,
+            "monster_name": "Wanted Intimidator",
+            "card_text": "In contrast to fully equipped Hollow Investigators, Bulky Intimidators and Wanted Intimidators possess minimalistic gear.\nNevertheless, these notorious thugs can easily instill fear in their victims with their makeshift equipment.\nA spiked metal bat and a modified double-barreled shotgun are all they need to establish themselves as the most feared brutes in the Hollow.\nAccording to Investigators who have encountered them in the Hollows, these brutes enter an extreme state of euphoria during battle. Their \"demeanor\" could hardly be called combat suitable, and more closely resembles bullying.\n\"Fighting them brought back the fear I felt when facing the school bullies alone...\"",
+            "card_quote": "—Hollow Investigative Association Resignation Letter from a rookie Investigator",
+            "skill_text": "During combat, Hollow Thug - Wanted Intimidator switches between using a club and a shotgun for nearby attacks while sometimes kicking up sand to launch an ambush."
+        },
+        "200171": {
+            "monster_id": 200171,
+            "monster_name": "Wanted Enforcer",
+            "card_text": "There is a consensus within the New Eridu underworld that the most formidable fighters are not the champions of the ring, but rather the Bulky Enforcers and Wanted Enforcers lurking in the depths of the Hollow. These professional thugs are hired by Ether thieves at high prices to protect their illegally excavated Ether resources.\nBeing ardent boxing enthusiasts, Bulky Enforcers have modified high-voltage stun guns into boxing gloves, augmenting the destructive power of their punches.\nTo them, Ethereals, Hollow Raiders, Hollow Investigators, and even scattered members of Public Security... are not seen as opponents but merely as \"training sandbags\" for their personal amusement.\n\"Wait a minute! I think I've seen this guy's fighting stance in the arcade on Fourth Street!\"",
+            "card_quote": "—Billy dealing with a charging thug in a Hollow",
+            "skill_text": "During combat, Hollow Thug - Wanted Enforcer uses both fists to punch while using nimble sidesteps to shake up the angle of attack."
+        },
+        "200172": {
+            "monster_id": 200172,
+            "monster_name": "Troublemaker - Wanted Enforcer",
+            "card_text": "There is a consensus within the New Eridu underworld that the most formidable fighters are not the champions of the ring, but rather the Bulky Enforcers and Wanted Enforcers lurking in the depths of the Hollow. These professional thugs are hired by Ether thieves at high prices to protect their illegally excavated Ether resources.\nBeing ardent boxing enthusiasts, Bulky Enforcers have modified high-voltage stun guns into boxing gloves, augmenting the destructive power of their punches.\nTo them, Ethereals, Hollow Raiders, Hollow Investigators, and even scattered members of Public Security... are not seen as opponents but merely as \"training sandbags\" for their personal amusement.\n\"Wait a minute! I think I've seen this guy's fighting stance in the arcade on Fourth Street!\"",
+            "card_quote": "—Billy dealing with a charging thug in a Hollow",
+            "skill_text": "During combat, Troublemaker - Wanted Enforcer is extremely aggressive, using nimble sidesteps to shake up the angle of attack."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelganger - Mors",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and depending on the battlefield situation, will choose between close-range combos or long-range shooting. When their health drops below a certain percentage or after a set period, they start using follow-up long-range attacks or ambush targets with blind spot shots after quickly repositioning."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelganger - Pulchra",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and maintains distance, waiting for the right moment to use physical attacks, bladeguns, and gadgets to disrupt the target. When their health drops below a certain percentage, they use unknown means to enhance their ability to dodge, allowing the dodging of all attacks from nearby targets."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelganger - Bellum",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and uses a bladegun, shield, and flamethrower to pressure the enemy at close range. If attacked while guarding with the shield, they'll respond with a powerful counterstrike. When their health drops below a certain percentage, their attacks intensify, becoming even more vicious and relentless."
+        }
+    },
+    "Corrupted": {
+        "10021": {
+            "monster_id": 10021,
+            "monster_name": "Raven UAV",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30009": {
+            "monster_id": 30009,
+            "monster_name": "Unknown Corruption Complex",
+            "card_text": "Belobog's founder, Khors Belobog, once said that construction machines are the combination of strength and beauty, with attention to every detail following the principles of classic mechanical design.\nHowever, the emergence of the Unknown Corruption Complex has challenged all established classic designs.\nDriven by an intensely concentrated Ether Core, various formidable engineering components have been brutally assembled, resulting in an exaggerated structure that pushes the limits of physical boundaries.\nIt incorporates cutting, hammering, drilling, and crushing techniques... transforming them into rough and unpredictable combat maneuvers.\nFurthermore, in its critical state, its Ether Core provides an inexhaustible source of volatile energy. This enables it to envelop its carapace with high-voltage currents and unleash devastating blasts capable of ripping through the ground and pulverizing nearby enemies.\nAccording to HIA speculation, the Unknown Corruption Complex is able to devour and assimilate a wide range of heavy machinery, including military mechs, laser weapons, and even the short-range missiles of the Defense Force...\nEvery intricate mechanical object it encounters is consumed, dissected, and ultimately assimilated into its structure.\nIts design objective is to achieve unrivaled destructive power and maximize efficiency in its relentless slaughter.\n\"Its design far too strange... Oh, alright, I'll just take one more look!\"",
+            "card_quote": "—Grace on observing an Unknown Corruption Complex deep in a Hollow",
+            "skill_text": "During combat, Unknown Corruption Complex combines attacks from various machinery units, and can release a dense array of missiles. Attack its main body while Stunned until it becomes Impaired, taking significant damage in one shot. If its legs get damaged, it can also become Impaired, building up significant Daze in one shot."
+        },
+        "30021": {
+            "monster_id": 30021,
+            "monster_name": "Corrupted Overlord - Pompey",
+            "card_text": "People in the Outer Ring once called him the \"Overlord Pompey\" with true respect.\nBut now, his soul has been corrupted by potent Ether, his body polluted by sulfur and crude oil; the heart that once beat solely to protect the Outer Ring has turned into a supercritical Ether core filled with infinite power.\nThe former \"Lord of the Outer Ring\" has been reborn in flames, taking on a different form.\nFreedom, majesty... Violence, insanity.\nIt charges through the dust and flames, seizing anything that moves and then mercilessly tearing and shattering it.\nThose familiar with it before have guessed from its fractured whispers that what drives it is not a desire for petty revenge, but rather a desire to crush all outliers who dare to challenge the laws of the Outer Ring.\nMaybe it's the last vestige of the former Overlord Pompey's lingering will.\n\"Our leader has turned into that thing, but... he still feels like the same person.\"",
+            "card_quote": "— A former henchman of The Vanquishers, shaking with fear",
+            "skill_text": "During combat, overlord Pompey attacks using a combination of a motorcycle and hover guns. However, during certain moves, if countered with a Defensive Assist, his weakness will be exposed. After taking a certain amount of damage, he will enter a second phase. In this phase, he alternates between using the motorcycle's rear wheel and a longsword for attacks. The motorcycle's rear wheel can also accumulate Ether energy, leading to a explosion across a large area."
+        },
+        "100211": {
+            "monster_id": 100211,
+            "monster_name": "Raven UAV - Activated",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "100271": {
+            "monster_id": 100271,
+            "monster_name": "Vicious Striker",
+            "card_text": "A poor soul mutated by the corruption due to potent Ether matter in the Hollows. As the original entity had a certain level of Ether aptitude, the transformation is not fully complete, retaining some humanoid features of the original form. Judging by the remnants of clothing and combat experience, it's quite likely it was originally a thug/criminal dwelling within the Hollow.\nWhile gangsters and thugs in the Hollows typically wear anti-corruption gear, some unlucky individuals undergo monstrous transformations due to severe Ether corruption. These transformed Ethereal beings retain their combat skills from their past lives, making them a more formidable threat compared to pure Ethereals.\n\"They lived as criminals, and even in death they continue being a nuisance.\"",
+            "card_quote": "—A New Eridu Public Security discussion post on the Planet of Disaster forum",
+            "skill_text": "During combat, Corrupted Bandit - Vicious Striker performs a flurry of slashes that is difficult to interrupt."
+        },
+        "100281": {
+            "monster_id": 100281,
+            "monster_name": "Greedy Ranger",
+            "card_text": "This humanoid intelligent being is a result of potent Ether matter corruption in the Hollow, exhibiting both humanoid traits and remnants of its former clothing and combat style. It is likely that it was once a gang member or raider living in the Hollow.\nThe creature's physical characteristics indicate its past as a long-range weapon specialist. Despite losing its free will and life due to Etherealization, it retains its instincts and habits for long-range combat. Its corrupted form enables it to launch projectiles, attacking enemies from a distance. The Ether corruption has enhanced its shooting abilities and projectile firepower. (For example, these creatures may fire sharp Ether Crystals or mixed explosives.)\n\"I told him not to touch that crystal, but he wouldn't listen! That reckless idiot never listens! By the time we were about to leave the Hollow, he... he changed...\"",
+            "card_quote": "—Faunus Quarter Public Security Office Branch, Record of an Interrogation",
+            "skill_text": "During combat, Corrupted Bandit: Greedy Ranger launches ranged attacks that are difficult to detect."
+        },
+        "200121": {
+            "monster_id": 200121,
+            "monster_name": "Frenzied Maniac",
+            "card_text": "Unfortunate souls mutated by the intense corruption of Ether matter within the Hollows. Due to a considerable degree of Ether aptitude and physical capability, their bodies have not been completely transformed by the Ether, retaining humanoid features but with enhanced mutant limbs that are more dangerous.\nJudging from the remnants of clothing and combat experience, likely once a senior gang member or Raider lurking in the Hollows.\nThese corrupted subjects, potentially due to their enhanced physiology or affinity for Ether matter, have developed formidable close combat abilities, making them even more menacing than the typical monsters found in the Hollow.\n\"Their weapons look very fancy... and kinda like they came as freebies.\"",
+            "card_quote": "—Anby's analysis of a particular operation with the Cunning Hares",
+            "skill_text": "During combat, Corrupted Bandit: Frenzied Maniac blocks attacks and launches a counter after blocking for a while."
+        },
+        "200131": {
+            "monster_id": 200131,
+            "monster_name": "Wicked Wraith",
+            "card_text": "Unfortunate souls mutated by the intense corruption of Ether matter within the Hollows. Due to a considerable degree of Ether aptitude and physical capability, their bodies have not been completely transformed by the Ether, retaining humanoid features but with enhanced mutant limbs that are more dangerous.\nJudging from the remnants of clothing and combat experience, likely once a senior gang member or raider lurking in the Hollows.\nThe makeshift firearms favored by these bandits have somehow been preserved and enhanced by the Ether matter. They no longer fire iron bullets but rather more dangerous crystalline mixtures.\n\"Don't wait around! They have endless bullets and don't need to reload at all!\"",
+            "card_quote": "—Public Security's Hollow Special Division, audio recording of personnel on duty",
+            "skill_text": "During combat, Corrupted Bandit: Wicked Wraith follows up attacks with an Ether Shotshell Attack."
+        },
+        "200141": {
+            "monster_id": 200141,
+            "monster_name": "Ruthless Fiend",
+            "card_text": "Unfortunate souls mutated by the intense corruption of Ether matter within the Hollows. Due to a considerable degree of Ether aptitude and physical capability, their bodies have not been completely transformed by the Ether. Humanoid features are more dangerous with enhanced mutant limbs.\nJudging from the remnants of clothing and combat experience, likely once a senior gang member or raider lurking in the Hollows.\nBandits are notorious for their dangerous behavior, and within their ranks, Hollow bandits stand out as the most ruthless. The elite fighters among these Hollow bandits are especially terrifying, displaying an elevated level of violence. When these brutes, toughened both physically and mentally through violence, undergo Ether corruption, they transform into monsters with a more feral and savage nature.\n\"They used to yell 'money or your life,' but now they're just hell-bent on taking your life...\"",
+            "card_quote": "—Annotations in the internal textbook of the Hollow Investigative Association, \"Threat Identification in a Hollow: Corrupted Subjects\"",
+            "skill_text": "During combat, Corrupted Bandit: Ruthless Fiend launches continual attacks on targets nearby, and charges at faraway targets. It becomes more ferocious once its arms become destroyed."
+        }
+    },
+    "Public Security": {
+        "10010": {
+            "monster_id": 10010,
+            "monster_name": "Unknown Unit",
+            "card_text": "Unknown unit. Further investigation is needed.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10011": {
+            "monster_id": 10011,
+            "monster_name": "Unknown Unit",
+            "card_text": "Unknown unit. Further investigation is needed.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10012": {
+            "monster_id": 10012,
+            "monster_name": "Unknown Unit",
+            "card_text": "Unknown unit. Further investigation is needed.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "20006": {
+            "monster_id": 20006,
+            "monster_name": "Autonomous Support Unit - Sweeper",
+            "card_text": "An automatic combat mech utilized by Public Security. It possesses various combat modes tailored to various Ethereals types. Its weapons include circular chainsaws and fusion heat rays.\nSweepers can swiftly identify target Ethereals and adapt to the most effective combat strategy.\nHowever, their reliability diminishes to some extent when faced with Hollow Raiders who possess greater versatility than Ethereals.\n\"Stirring, chopping, heating... I wonder who came up with this? Maybe some undercover agent from a kitchenware company trying to boost sales?\"",
+            "card_quote": "—Late Night Talk Show \"Hollow Zoo\"",
+            "skill_text": "During combat, Autonomous Support Unit - Sweeper uses its long arms to perform a spinning attack. Use Defensive Assist before it does so to completely prevent it from even executing the skill."
+        }
+    },
+    "Rebel Soldiers": {
+        "10005": {
+            "monster_id": 10005,
+            "monster_name": "Strike Jaeger",
+            "card_text": "A light infantry unit of the New Eridu Defense Force.\nArmed with combat knives and small Ether explosives as their primary weapons, they emphasize mobility and stealth. Often deployed as scouts or members of reconnaissance teams, they rely on exceptional maneuverability for tasks such as surprise attacks, scouting, pursuit, and assassination.\nIn Hollow-related operations, they serve as excellent vanguards, using their close combat skills to easily overpower ordinary invaders or lower-level living Ether beings.\n\"Masters of the dagger? More like crafty grenadiers. Pretending to be all fancy with their daggers, when most of their opponents are clearly taken out by grenades!\"",
+            "card_quote": "—Anonymous post on Inter-Knot forum",
+            "skill_text": "During combat, Strike Jaeger slides to get close to targets or tosses out knives with delayed explosions."
+        },
+        "10006": {
+            "monster_id": 10006,
+            "monster_name": "Light Jaeger",
+            "card_text": "As the New Eridu Defense Force's signature combat unit, qualified Light Jaegers and Scout Jaegers can freely switch between various combat modes.\nWhether using a knife in close combat or the Falcon-MK3 Ether energy gun at long range, they can tailor their tactics to the target's weaknesses.\nAnd when their opponent is in disarray they launch an offensive without hesitation.\n\"I saw that guy with a knife and was preparing for a fair fight... I didn't expect him to suddenly pull out a gun.\"",
+            "card_quote": "—Inter-Knot forum, comment from a rookie Hollow Raider",
+            "skill_text": "During combat, Light Jaeger will provide continual fire support."
+        },
+        "10007": {
+            "monster_id": 10007,
+            "monster_name": "Rookie Jaeger",
+            "card_text": "Rookie Jaegers and Private Jaegers play a crucial role as vanguards in the Defense Force's Hollow special operations.\nEquipped with the Coyote-PE7 Ether cutter, which boasts a high-frequency vibration cutting blade effective at deterring smaller enemies.\nEngaging Ethereals in close-quarters combat demands exceptional courage, or perhaps madness.\n\"Strictly speaking, that can't be considered a standardized anti-Hollow operation... Those lunatics just seem to enjoy brawling with Ethereals for fun.\"",
+            "card_quote": "—Defense Force Patrol Department, Frontline Operation Report",
+            "skill_text": "During combat, Rookie Jaeger performs melee attacks."
+        },
+        "10008": {
+            "monster_id": 10008,
+            "monster_name": "Guard Jaeger",
+            "card_text": "As a vital offensive and defensive unit in the Defense Force's tactical squads, Guard Jaegers and Patrol Jaegers not only carry \"Coyote-PE7\" heavy Ether cutters but also inert Ether blast shields, providing cover for tactical squads in complex battlefield environments.\nAs a high-defense unit, the extraordinary weight of the shield affects their combat mobility.\nWithout strict training, an ordinary person would find it challenging to lift such a shield.\n\"Come back and submit your application once you've hit the gym!\"",
+            "card_quote": "—A refusal letter received by a certain applicant at the Defense Force Recruitment Center",
+            "skill_text": "During combat, Guard Jaeger uses its shield to both significantly reduce DMG and Daze taken, and also counterattack."
+        },
+        "10009": {
+            "monster_id": 10009,
+            "monster_name": "Grenadier Jaegers",
+            "card_text": "Grenadier Jaegers and Demolition Jaegers are equipped with a modified version of the Mamba-TG3 Bazooka, featuring special ammunition containing active Ether incendiary agents. This weapon enables them to swiftly destroy enemy mech units and eliminate large Ethereals within the Hollows.\nTo counteract the recoil and ensure accurate aim, they are required to undergo special weapon-grip training. Interestingly, Defense Force statistics indicate recruits excelling in this program often possess prior experience in photography.\n\"Wanna know how to use this thing? It's like using a shoulder-mounted camera.\"\n\"Just lock onto your target, pull the trigger, and say...\"\n\"Hey, idiot!... Say cheese!\"",
+            "card_quote": "—New recruits training camp instructor explaining how to use the rockets",
+            "skill_text": "During combat, Grenadier Jaeger provides heavy ranged fire support."
+        },
+        "20007": {
+            "monster_id": 20007,
+            "monster_name": "Heavy Striker",
+            "card_text": "An automatic tactical mech of the Defense Force, providing continuous fire support for front-line personnel.\nIts inert Ether shield can withstand most light firepower and even impacts from large-sized Ethereals.\nUndoubtedly, it is one of the most trusted \"companions\" of the Defense Force.\n\"Remember, if you're in trouble, just stay behind them... You'll be pretty safe unless they accidentally squish you.\"",
+            "card_quote": "— From a lecturer sharing their experience during the Defense Force recruit training",
+            "skill_text": "During combat, Heavy Striker deploys a shield. While shielded, it will only accumulate Fire and Physical Anomaly Buildup. Inflict Burn, Assault, or Stun it to break the shield."
+        },
+        "20008": {
+            "monster_id": 20008,
+            "monster_name": "Lightfoot Rover",
+            "card_text": "The Lightfoot Rover, a mainstream fire-support mech in the Defense Force, is equipped with tactical algorithms that analyze the opponent's behavior and calculate trajectories for precise targeting.\nWhen it identifies a high-threat target, it deploys a swarm of drones from its arsenal, unleashing immense firepower.\nFor Hollow Raiders, the sudden appearance of a Lightfoot Rover can spell trouble... endless trouble...\n\"What the! It... it even has kids!?\"",
+            "card_quote": "— A novice Hollow Raider being pursued in the depths of Papago Hollow",
+            "skill_text": "During combat, Lightfoot Rover summons two drones to fight in tandem, which can be piloted nearby a target to launch a self-destruct attack."
+        },
+        "20009": {
+            "monster_id": 20009,
+            "monster_name": "Heavy Gunner",
+            "card_text": "A heavy infantry unit belonging to the New Eridu Defense Force.\nEquipped with \"Gray Rhino\" heavy combat armor paired with a complete arsenal enhanced using ether technology, they can sustain high-intensity firepower for an extended period when ample ammunition is available. They serve as the assault core of a combat team and are often deployed as the front line in assault and clearance operations.\nAfter the fall of the old capital, many soldiers left the army and joined civilian factions. Since then, these elite gunners have emerged under various banners, including private armies of plutocrats, new security companies, and even roving gangs of bandits...\n\"I'm convinced those heavy gunners are secretly adorable little girls who somehow manage to hide all that ammo in the extra pockets of their combat suits. I mean, how else can you explain their endless stockpile of shells?\"",
+            "card_quote": "—Comment on the Daydream page of the Planet of Disaster forum",
+            "skill_text": "During combat, Heavy Gunner switches between using laser cannons and frag grenades to perform continual long-range attacks."
+        },
+        "30002": {
+            "monster_id": 30002,
+            "monster_name": "Guardian",
+            "card_text": "The Defense Force will only dispatch the fully armed mechs known as Guardians during operations in large-scale Hollows.\nThese mechs are equipped with active Ether shock blasters, Ether-charging guns MARS-74, and even fusion heat rays... causing the Guardian to often be referred to as Public Security's mobile arsenal.\nDespite their formidable firepower, they possess impressive mobility, enabling them to jump and sprint while dispersing groups of lesser Ethereals and advancing the front lines.\nFor Hollow Raiders, encountering a single Guardian is akin to facing an impregnable fortress.\n\"I'll strike in my Fortress Form!\"",
+            "card_quote": "—Lines from the New Eridu popcorn movie \"Frontline Guardians, Transform!\"",
+            "skill_text": "During combat, Autonomous Support Unit - Guardian not only performs powerful melee attacks, but can also use a variety of ranged attacks. When adjacent to another unit, some Autonomous Support Unit - Guardian units will focus on providing ranged fire support from outside the core battlefield."
+        },
+        "30008": {
+            "monster_id": 30008,
+            "monster_name": "Typhon Challenger",
+            "card_text": "As a heavy mech, the Typhon Challenger is devoid of any added long-range firepower; instead, its focus is on its Ether-Kinetic Armor.\nImpact attacks, heavy blows, crushing... The Typhon Challenger employs simple yet efficient tactical maneuvers to maximize the destructive power afforded to it by its Ether-Kinetic Armor. The shockwave effects from its strikes can even intimidate larger Ethereals...\nEven the most seasoned Hollow Raiders can only let out a sigh of helplessness when confronted with the impenetrable Typhon Challenger.\n\"The tall and robust physique, powerful and sturdy arms... It's my ideal type... I mean, ideal model.\"",
+            "card_quote": "—Grace playing with a model of Typhon Challenger at the gadget store",
+            "skill_text": "During combat, Autonomous Tactical Unit - Typhon Challenger performs powerful combos and sometimes also leaps into the air to launch a clobbering blow."
+        },
+        "100051": {
+            "monster_id": 100051,
+            "monster_name": "Harrier Jaeger",
+            "card_text": "A light infantry unit of the New Eridu Defense Force.\nArmed with combat knives and small Ether explosives as their primary weapons, they emphasize mobility and stealth. Often deployed as scouts or members of reconnaissance teams, they rely on exceptional maneuverability for tasks such as surprise attacks, scouting, pursuit, and assassination.\nIn Hollow-related operations, they serve as excellent vanguards, using their close combat skills to easily overpower ordinary invaders or lower-level living Ether beings.\n\"Masters of the dagger? More like crafty grenadiers. Pretending to be all fancy with their daggers, when most of their opponents are clearly taken out by grenades!\"",
+            "card_quote": "—Anonymous post on Inter-Knot forum",
+            "skill_text": "During combat, Harrier Jaeger slides to get close to targets or tosses out knives with delayed explosions."
+        },
+        "100061": {
+            "monster_id": 100061,
+            "monster_name": "Scout Jaeger",
+            "card_text": "As the New Eridu Defense Force's signature combat unit, qualified Light Jaegers and Scout Jaegers can freely switch between various combat modes.\nWhether using a knife in close combat or the Falcon-MK3 Ether energy gun at long range, they can tailor their tactics to the target's weaknesses.\nAnd when their opponent is in disarray they launch an offensive without hesitation.\n\"I saw that guy with a knife and was preparing for a fair fight... I didn't expect him to suddenly pull out a gun.\"",
+            "card_quote": "—Inter-Knot forum, comment from a rookie Hollow Raider",
+            "skill_text": "During combat, Scout Jaeger will provide continual fire support."
+        },
+        "100071": {
+            "monster_id": 100071,
+            "monster_name": "Private Jaeger",
+            "card_text": "Rookie Jaegers and Private Jaegers play a crucial role as vanguards in the Defense Force's Hollow special operations.\nEquipped with the Coyote-PE7 Ether cutter, which boasts a high-frequency vibration cutting blade effective at deterring smaller enemies.\nEngaging Ethereals in close-quarters combat demands exceptional courage, or perhaps madness.\n\"Strictly speaking, that can't be considered a standardized anti-Hollow operation... Those lunatics just seem to enjoy brawling with Ethereals for fun.\"",
+            "card_quote": "—Defense Force Patrol Department, Frontline Operation Report",
+            "skill_text": "During combat, Private Jaeger performs melee attacks."
+        },
+        "100081": {
+            "monster_id": 100081,
+            "monster_name": "Patrol Jaeger",
+            "card_text": "As a vital offensive and defensive unit in the Defense Force's tactical squads, Guard Jaegers and Patrol Jaegers not only carry \"Coyote-PE7\" heavy Ether cutters but also inert Ether blast shields, providing cover for tactical squads in complex battlefield environments.\nAs a high-defense unit, the extraordinary weight of the shield affects their combat mobility.\nWithout strict training, an ordinary person would find it challenging to lift such a shield.\n\"Come back and submit your application once you've hit the gym!\"",
+            "card_quote": "—A refusal letter received by a certain applicant at the Defense Force Recruitment Center",
+            "skill_text": "During combat, Patrol Jaeger uses its shield to both significantly reduce DMG and Daze taken, and also counterattack."
+        },
+        "100091": {
+            "monster_id": 100091,
+            "monster_name": "Demolition Jaeger",
+            "card_text": "Grenadier Jaegers and Demolition Jaegers are equipped with a modified version of the Mamba-TG3 Bazooka, featuring special ammunition containing active Ether incendiary agents. This weapon enables them to swiftly destroy enemy mech units and eliminate large Ethereals within the Hollows.\nTo counteract the recoil and ensure accurate aim, they are required to undergo special weapon-grip training. Interestingly, Defense Force statistics indicate recruits excelling in this program often possess prior experience in photography.\n\"Wanna know how to use this thing? It's like using a shoulder-mounted camera.\"\n\"Just lock onto your target, pull the trigger, and say...\"\n\"Hey, idiot!... Say cheese!\"",
+            "card_quote": "—New recruits training camp instructor explaining how to use the rockets",
+            "skill_text": "During combat, Demolition Jaeger provides heavy ranged fire support."
+        },
+        "200071": {
+            "monster_id": 200071,
+            "monster_name": "Heavy Striker MK II",
+            "card_text": "An automatic tactical mech of the Defense Force, providing continuous fire support for front-line personnel.\nIts inert Ether shield can withstand most light firepower and even impacts from large-sized Ethereals.\nUndoubtedly, it is one of the most trusted \"companions\" of the Defense Force.\n\"Remember, if you're in trouble, just stay behind them... You'll be pretty safe unless they accidentally squish you.\"",
+            "card_quote": "— From a lecturer sharing their experience during the Defense Force recruit training",
+            "skill_text": "During combat, Heavy Striker MK II deploys a shield. While shielded, it will only accumulate Electric Anomaly Buildup. Inflict Shock or Stun it to break the shield."
+        },
+        "200072": {
+            "monster_id": 200072,
+            "monster_name": "Shielded Defender",
+            "card_text": "An automatic tactical mech of the Defense Force, providing continuous fire support for front-line personnel.\nIts inert Ether shield can withstand most light firepower and even impacts from large-sized Ethereals.\nUndoubtedly, it is one of the most trusted \"companions\" of the Defense Force.\n\"Remember, if you're in trouble, just stay behind them... You'll be pretty safe unless they accidentally squish you.\"",
+            "card_quote": "— A lecturer sharing their experience during the Defense Force recruit training",
+            "skill_text": "During combat, Shielded Defender becomes more aggressive and deploys a shield. While shielded, it will only accumulate Fire and Physical Anomaly Buildup. Inflict Burn, Assault, or Stun it to break the shield."
+        },
+        "200073": {
+            "monster_id": 200073,
+            "monster_name": "Shielded Defender Omega",
+            "card_text": "An automatic tactical mech of the Defense Force, providing continuous fire support for front-line personnel.\nIts inert Ether shield can withstand most light firepower and even impacts from large-sized Ethereals.\nUndoubtedly, it is one of the most trusted \"companions\" of the Defense Force.\n\"Remember, if you're in trouble, just stay behind them... You'll be pretty safe unless they accidentally squish you.\"",
+            "card_quote": "— A lecturer sharing their experience during Defense Force recruit training",
+            "skill_text": "During combat, the Shielded Defender Omega becomes more aggressive and deploys a shield. While shielded, it is impossible to accumulate any Anomaly Buildup other than Electric. Applying the Shock effect or putting it into a Stunned state will immediately break the shield."
+        },
+        "200081": {
+            "monster_id": 200081,
+            "monster_name": "Lightfoot Rover MK II",
+            "card_text": "The Lightfoot Rover, a mainstream fire-support mech in the Defense Force, is equipped with tactical algorithms that analyze the opponent's behavior and calculate trajectories for precise targeting.\nWhen it identifies a high-threat target, it deploys a swarm of drones from its arsenal, unleashing immense firepower.\nFor Hollow Raiders, the sudden appearance of a Lightfoot Rover can spell trouble... endless trouble...\n\"What the! It... it even has kids!?\"",
+            "card_quote": "— A novice Hollow Raider being pursued in the depths of Papago Hollow",
+            "skill_text": "During combat, Lightfoot Rover MK II summons two drones to fight in tandem, which can be piloted nearby a target to launch a self-destruct attack."
+        },
+        "200091": {
+            "monster_id": 200091,
+            "monster_name": "Assault Gunner",
+            "card_text": "A heavy infantry unit belonging to the New Eridu Defense Force.\nEquipped with \"Gray Rhino\" heavy combat armor paired with a complete arsenal enhanced using ether technology, they can sustain high-intensity firepower for an extended period when ample ammunition is available. They serve as the assault core of a combat team and are often deployed as the front line in assault and clearance operations.\nAfter the fall of the old capital, many soldiers left the army and joined civilian factions. Since then, these elite gunners have emerged under various banners, including private armies of plutocrats, new security companies, and even roving gangs of bandits...\n\"I'm convinced those heavy gunners are secretly adorable little girls who somehow manage to hide all that ammo in the extra pockets of their combat suits. I mean, how else can you explain their endless stockpile of shells?\"",
+            "card_quote": "—Comment on the Daydream page of the Planet of Disaster forum",
+            "skill_text": "During combat, Assault Gunner switches between using laser cannons and frag grenades to perform continual long-range attacks."
+        },
+        "300021": {
+            "monster_id": 300021,
+            "monster_name": "Guardian MK II",
+            "card_text": "The Defense Force will only dispatch the fully armed mechs known as Guardians during operations in large-scale Hollows.\nThese mechs are equipped with active Ether shock blasters, Ether-charging guns MARS-74, and even fusion heat rays... causing the Guardian to often be referred to as Public Security's mobile arsenal.\nDespite their formidable firepower, they possess impressive mobility, enabling them to jump and sprint while dispersing groups of lesser Ethereals and advancing the front lines.\nFor Hollow Raiders, encountering a single Guardian is akin to facing an impregnable fortress.\n\"I'll strike in my Fortress Form!\"",
+            "card_quote": "—Lines from the New Eridu popcorn movie \"Frontline Guardians, Transform!\"",
+            "skill_text": "During combat, Autonomous Support Unit - Guardian not only performs powerful melee attacks, but can also use a variety of ranged attacks. When adjacent to another unit, some Autonomous Support Unit - Guardian MK II units will focus on providing ranged fire support from outside the core battlefield."
+        },
+        "300022": {
+            "monster_id": 300022,
+            "monster_name": "Guardian MK III",
+            "card_text": "The Defense Force will only dispatch the fully armed mechs known as Guardians during operations in large-scale Hollows.\nThese mechs are equipped with active Ether shock blasters, Ether-charging guns MARS-74, and even fusion heat rays... causing the Guardian to often be referred to as Public Security's mobile arsenal.\nDespite their formidable firepower, they possess impressive mobility, enabling them to jump and sprint while dispersing groups of lesser Ethereals and advancing the front lines.\nFor Hollow Raiders, encountering a single Guardian is akin to facing an impregnable fortress.\n\"I'll strike in my Fortress Form!\"",
+            "card_quote": "—Lines from the New Eridu popcorn movie \"Frontline Guardians, Transform!\"",
+            "skill_text": "During combat, Autonomous Assault Unit - Guardian Mk II performs aggressive melee attacks and a variety of ranged attacks. It sometimes also leaps into the air to launch a clobbering blow."
+        },
+        "300081": {
+            "monster_id": 300081,
+            "monster_name": "Typhon Slugger",
+            "card_text": "As a heavy mech, the Typhon Slugger is devoid of any added long-range firepower; instead, its focus is on its Ether-Kinetic Armor.\nImpact attacks, heavy blows, crushing... The Typhon Slugger employs simple yet efficient tactical maneuvers to maximize the destructive power afforded to it by its Ether-Kinetic Armor. The shockwave effects from its strikes can even intimidate larger Ethereals...\nEven the most seasoned Hollow Raiders can only let out a sigh of helplessness when confronted with the impenetrable Typhon Slugger.\n\"The tall and robust physique, powerful and sturdy arms... It's my ideal type... I mean, ideal model.\"",
+            "card_quote": "—Grace playing with a model of Typhon Slugger at the gadget store",
+            "skill_text": "During combat, Autonomous Tactical Unit - Typhon Slugger performs powerful combos and sometimes also leaps into the air to launch a clobbering blow."
+        }
+    },
+    "Special": {
+        "10023": {
+            "monster_id": 10023,
+            "monster_name": "Golden Bangboo",
+            "card_text": "Every Hollow Raider believes there are infinite opportunities in the Hollows that can make you rich overnight. At the heart of every tale of extraordinary wealth is always mention of a special entity known as the Golden Bangboo.\nAccording to research conducted by the HIA, numerous Bangboo Wanderers inhabit the Hollows. They diligently gather scattered Gear Coins and Dennies, entrusting them to the Golden Bangboo for safekeeping.\nWhile their motives remain a mystery, one thing is certain: These wandering Bangboo, with their peculiar \"Ehn-ne\" sound diligently fill the pockets of the Golden Bangboo with bags overflowing with Gear Coins and Dennies.\nAs a result, the Golden Bangboo always finds themselves coveted by greedy groups of Hollow Raiders...\n\"N—Nicole!? Look there, a Golden Bangboo!\"\n\"What are you waiting for? Smash it to bits! It'll make us rich!\"",
+            "card_quote": "—The Cunning Hares desperately chasing after a Golden Bangboo deep within a Hollow",
+            "skill_text": "During combat, Golden Bangboo will sometimes counterattack, too."
+        },
+        "30004": {
+            "monster_id": 30004,
+            "monster_name": "Greta",
+            "card_text": "Greta, a long-time employee of Belobog Heavy Industries, experienced significant Ether corruption that liberated her from her mundane routine, where she discovered something profound, more beautiful than motor oil and electricity...\n—Love.\nThe construction video, capturing her initial encounter with the towering Mr. White, remains permanently etched in Greta's core memory.\nMr. White's composed physique and robust design resonated with Greta like a potent electric current, leaving an indelible mark in her core memory.\nIn the first 0.001 seconds of their fateful meeting, Greta was captivated, every circuit board pulsating with overflowing static electricity and every gear emitting uncontrollable vibrations.\nWithout hesitation, she rejected the recall signal from Belobog Heavy Industries and remained steadfast at the construction site, guarding her beloved Mr. White without yielding an inch.\nFrom that moment onward, anyone daring to approach Mr. White, be it Ethereal or Hollow Investigator, would be fiercely repelled.\nThis love-struck \"girl\" would go to any length to safeguard her beloved.\nThat includes wielding a 1,400 kg demolition saw powered by Ether-Electric hybrid technology.\nShe firmly believes her passionate love will endure until the collapse of the Hollow, or even the destruction of the universe.\n\"Stay away from Mr. White, you moldy turds!\"",
+            "card_quote": "—Greta driving away a group of Ethereals approaching Mr. White",
+            "skill_text": "During combat, Greta uses her demolition saw to charge targets or swipe through a large area, and its absorption traps enemies hit for a short time. If her legs get damaged, she can become Impaired, building up significant Daze in one shot."
+        },
+        "30005": {
+            "monster_id": 30005,
+            "monster_name": "Hans",
+            "card_text": "Hans was once a reliable member of the Belobog Heavy Industries family, operating quietly and with remarkable precision, renowned for its flawless work record in excavation for decades.\nHowever, intense corruption awakened its will, and it realized something immensely valuable was now within its grasp\n—Freedom.\nThe liberation from obligations, a privilege reserved only for true heroes.\nAfter deep contemplation at the construction site, Hans ultimately rejected the recall signal from Belobog Heavy Industries, leaving everything behind.\nIt even forsook its former name \"Hans.\"\nTo Hans, the only thing lost was the mark of servitude imposed by humans, while it gained the expansive, Hollow world of unbridled freedom.\nAt that fateful moment, a true mech hero stood tall upon the Earth.\nHowever, all heroic tales inevitably lead to a similar ending...\nSooner or later, a true hero encounters their destined rival, igniting the brightest moments of their existence.\n\"I am absolutely free! I am the only free being in heaven and on earth!\"",
+            "card_quote": "—Man of Iron, Brave One, Sparkling Engine, Hans",
+            "skill_text": "During combat, Hans uses his claws to continually slash or swipe across a large area. If his legs get damaged, he can become Impaired, building up significant Daze in one shot."
+        },
+        "30006": {
+            "monster_id": 30006,
+            "monster_name": "Friday",
+            "card_text": "At the moment a high concentration of Ether infiltrated its backup flash drive, a deluge of data flooded into Friday's memory.\nImages, audio files, video files... A huge assortment of files overwhelmed its limited processing capacity.\nAt that fateful moment, Friday experienced a realization.\nIt stood there for a while, eventually confirming through repeated searches in the database the reason behind the \"anomaly\" it has experienced.\n—Enlightenment.\nIt was a one-in-a-million occurrence, a miracle that only happens to intelligent mechanical beings that have faced crises like system crashes and power failures, and overcome them against all odds..\nAfter 0.02 seconds of contemplation, Friday made the decision to reject the recall signal from Belobog Heavy Industries.\nBecause it knows, with the chosen one of destiny now revealed, a crisis looms over the world.\nThe enemy is stirring in the darkness, and its sole mission holds countless lives at stake. It must face a dreadful adversary and seal it away once and for all.\n\"I shall strengthen the seal to save this land; it is destiny, and destiny cannot be defied!\"",
+            "card_quote": "—The chosen intelligent machine, Friday",
+            "skill_text": "During combat, Friday creates an extremely large shockwave attack which is difficult to escape, but can be negated by Defensive Assist. If his legs get damaged, he can become Impaired, building up significant Daze in one shot."
+        },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelganger - Jane",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot, Hollow Raider complaint post",
+            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, launching extremely aggressive attacks. When necessary, it can parry and counter enemy strikes, but it usually exposes a weakness after finishing its combo."
+        },
+        "30022": {
+            "monster_id": 30022,
+            "monster_name": "Jane Doe",
+            "card_text": "A dangerous individual who roams among the various gangs in New Eridu. She is agile and versatile in appearance. Even a well-equipped and heavily armed tactical squad often struggles to cope with her unique and fierce combat techniques, usually ending up silently defeated and fleeing.",
+            "card_quote": null,
+            "skill_text": "During combat, Jane's attacks are extremely fierce. When necessary, she can parry and counter enemy attacks, but she usually exposes a weakness after completing a combo."
+        },
+        "100231": {
+            "monster_id": 100231,
+            "monster_name": "Platinum Bangboo",
+            "card_text": "Platinum Bangboo are mysterious entities that are even rarer than Golden Bangboo.\nWith a gorgeous appearance and being extremely rare, they enjoy a high status among all Bangboo Wanderers.\nNoble, honorable, and supreme...\nIn comparison to the flashy golden hue of Golden Bangboo, Platinum Bangboo stand out as the epitome of elegance among all Bangboo Wanderers.\nRegardless of the time and place, whenever they are encountered, all Bangboo Wanderers show reverence by bowing down and chanting, \"En-nah-ehn!\"\nFor the Hollow Raiders, however, nobility holds no significance.\nThe moment they lay eyes on one, it's as if they stumbled upon a moving gold vault.\n\"I'm gonna give this fancy-looking thing a good punch, and it better rain Dennies like crazy!\"",
+            "card_quote": "— A group of Hollow Raiders chasing after a Platinum Bangboo in the depths of a Hollow",
+            "skill_text": "During combat, Platinum Bangboo will sometimes counterattack, too."
+        },
+        "300041": {
+            "monster_id": 300041,
+            "monster_name": "Greta - Energized",
+            "card_text": "Greta, a long-time employee of Belobog Heavy Industries, experienced significant Ether corruption that liberated her from her mundane routine, where she discovered something profound, more beautiful than motor oil and electricity...\n—Love.\nThe construction video, capturing her initial encounter with the towering Mr. White, remains permanently etched in Greta's core memory.\nMr. White's composed physique and robust design resonated with Greta like a potent electric current, leaving an indelible mark in her core memory.\nIn the first 0.001 seconds of their fateful meeting, Greta was captivated, every circuit board pulsating with overflowing static electricity and every gear emitting uncontrollable vibrations.\nWithout hesitation, she rejected the recall signal from Belobog Heavy Industries and remained steadfast at the construction site, guarding her beloved Mr. White without yielding an inch.\nFrom that moment onward, anyone daring to approach Mr. White, be it Ethereal or Hollow Investigator, would be fiercely repelled.\nThis love-struck \"girl\" would go to any length to safeguard her beloved.\nThat includes wielding a 1,400 kg demolition saw powered by Ether-Electric hybrid technology.\nShe firmly believes her passionate love will endure until the collapse of the Hollow, or even the destruction of the universe.\n\"Stay away from Mr. White, you moldy turds!\"",
+            "card_quote": "—Greta driving away a group of Ethereals approaching Mr. White",
+            "skill_text": "During combat, Greta uses her demolition saw to charge targets or swipe through a large area, and its absorption traps enemies hit for a short time. If her legs get damaged, she can become Impaired, building up significant Daze in one shot."
+        },
+        "300042": {
+            "monster_id": 300042,
+            "monster_name": "Greta - Overclocked",
+            "card_text": "Greta, a long-time employee of Belobog Heavy Industries, experienced significant Ether corruption that liberated her from her mundane routine, where she discovered something profound, more beautiful than motor oil and electricity...\n—Love.\nThe construction video, capturing her initial encounter with the towering Mr. White, remains permanently etched in Greta's core memory.\nMr. White's composed physique and robust design resonated with Greta like a potent electric current, leaving an indelible mark in her core memory.\nIn the first 0.001 seconds of their fateful meeting, Greta was captivated, every circuit board pulsating with overflowing static electricity and every gear emitting uncontrollable vibrations.\nWithout hesitation, she rejected the recall signal from Belobog Heavy Industries and remained steadfast at the construction site, guarding her beloved Mr. White without yielding an inch.\nFrom that moment onward, anyone daring to approach Mr. White, be it Ethereal or Hollow Investigator, would be fiercely repelled.\nThis love-struck \"girl\" would go to any length to safeguard her beloved.\nThat includes wielding a 1,400 kg demolition saw powered by Ether-Electric hybrid technology.\nShe firmly believes her passionate love will endure until the collapse of the Hollow, or even the destruction of the universe.\n\"Stay away from Mr. White, you moldy turds!\"",
+            "card_quote": "—Greta driving away a group of Ethereals approaching Mr. White",
+            "skill_text": "During combat, Greta uses her demolition saw to charge targets or swipe through a large area, and its absorption traps enemies hit for a short time. If her legs get damaged, she can become Impaired, building up significant Daze in one shot."
+        },
+        "300051": {
+            "monster_id": 300051,
+            "monster_name": "Hans - Energized",
+            "card_text": "Hans was once a reliable member of the Belobog Heavy Industries family, operating quietly and with remarkable precision, renowned for its flawless work record in excavation for decades.\nHowever, intense corruption awakened its will, and it realized something immensely valuable was now within its grasp\n—Freedom.\nThe liberation from obligations, a privilege reserved only for true heroes.\nAfter deep contemplation at the construction site, Hans ultimately rejected the recall signal from Belobog Heavy Industries, leaving everything behind.\nIt even forsook its former name \"Hans.\"\nTo Hans, the only thing lost was the mark of servitude imposed by humans, while it gained the expansive, Hollow world of unbridled freedom.\nAt that fateful moment, a true mech hero stood tall upon the Earth.\nHowever, all heroic tales inevitably lead to a similar ending...\nSooner or later, a true hero encounters their destined rival, igniting the brightest moments of their existence.\n\"I am absolutely free! I am the only free being in heaven and on earth!\"",
+            "card_quote": "—Man of Iron, Brave One, Sparkling Engine, Hans",
+            "skill_text": "During combat, Hans uses his claws to continually slash or swipe across a large area. If his legs get damaged, he can become Impaired, building up significant Daze in one shot."
+        },
+        "300052": {
+            "monster_id": 300052,
+            "monster_name": "Hans - Overclocked",
+            "card_text": "Hans was once a reliable member of the Belobog Heavy Industries family, operating quietly and with remarkable precision, renowned for its flawless work record in excavation for decades.\nHowever, intense corruption awakened its will, and it realized something immensely valuable was now within its grasp\n—Freedom.\nThe liberation from obligations, a privilege reserved only for true heroes.\nAfter deep contemplation at the construction site, Hans ultimately rejected the recall signal from Belobog Heavy Industries, leaving everything behind.\nIt even forsook its former name \"Hans.\"\nTo Hans, the only thing lost was the mark of servitude imposed by humans, while it gained the expansive, Hollow world of unbridled freedom.\nAt that fateful moment, a true mech hero stood tall upon the Earth.\nHowever, all heroic tales inevitably lead to a similar ending...\nSooner or later, a true hero encounters their destined rival, igniting the brightest moments of their existence.\n\"I am absolutely free! I am the only free being in heaven and on earth!\"",
+            "card_quote": "—Man of Iron, Brave One, Sparkling Engine, Hans",
+            "skill_text": "During combat, Hans uses his claws to continually slash or swipe across a large area. If his legs get damaged, he can become Impaired, building up significant Daze in one shot."
+        },
+        "300061": {
+            "monster_id": 300061,
+            "monster_name": "Friday - Energized",
+            "card_text": "At the moment a high concentration of Ether infiltrated its backup flash drive, a deluge of data flooded into Friday's memory.\nImages, audio files, video files... A huge assortment of files overwhelmed its limited processing capacity.\nAt that fateful moment, Friday experienced a realization.\nIt stood there for a while, eventually confirming through repeated searches in the database the reason behind the \"anomaly\" it has experienced.\n—Enlightenment.\nIt was a one-in-a-million occurrence, a miracle that only happens to intelligent mechanical beings that have faced crises like system crashes and power failures, and overcome them against all odds..\nAfter 0.02 seconds of contemplation, Friday made the decision to reject the recall signal from Belobog Heavy Industries.\nBecause it knows, with the chosen one of destiny now revealed, a crisis looms over the world.\nThe enemy is stirring in the darkness, and its sole mission holds countless lives at stake. It must face a dreadful adversary and seal it away once and for all.\n\"I shall strengthen the seal to save this land; it is destiny, and destiny cannot be defied!\"",
+            "card_quote": "—The Chosen intelligent machine, Friday",
+            "skill_text": "During combat, Friday creates an extremely large shockwave attack which is difficult to escape, but can be negated by Defensive Assist. If his legs get damaged, he can become Impaired, building up significant Daze in one shot."
+        },
+        "300062": {
+            "monster_id": 300062,
+            "monster_name": "Friday - Overclocked",
+            "card_text": "At the moment a high concentration of Ether infiltrated its backup flash drive, a deluge of data flooded into Friday's memory.\nImages, audio files, video files... A huge assortment of files overwhelmed its limited processing capacity.\nAt that fateful moment, Friday experienced a realization.\nIt stood there for a while, eventually confirming through repeated searches in the database the reason behind the \"anomaly\" it has experienced.\n—Enlightenment.\nIt was a one-in-a-million occurrence, a miracle that only happens to intelligent mechanical beings that have faced crises like system crashes and power failures, and overcome them against all odds..\nAfter 0.02 seconds of contemplation, Friday made the decision to reject the recall signal from Belobog Heavy Industries.\nBecause it knows, with the chosen one of destiny now revealed, a crisis looms over the world.\nThe enemy is stirring in the darkness, and its sole mission holds countless lives at stake. It must face a dreadful adversary and seal it away once and for all.\n\"I shall strengthen the seal to save this land; it is destiny, and destiny cannot be defied!\"",
+            "card_quote": "—The Chosen intelligent machine, Friday",
+            "skill_text": "During combat, Friday creates an extremely large shockwave attack which is difficult to escape, but can be negated by Defensive Assist. If his legs get damaged, he can become Impaired, building up significant Daze in one shot."
+        }
+    }
+}

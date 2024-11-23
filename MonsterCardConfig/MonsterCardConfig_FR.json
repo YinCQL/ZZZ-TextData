@@ -1,0 +1,903 @@
+{
+    "Mutants éthériques": {
+        "10000": {
+            "monster_id": 10000,
+            "monster_name": "Tyrfing",
+            "card_text": "Après l'étude du comportement du Tyrfing par l'Association d'inspection des Néantres, il a été montré que sa posture penchée et son balancement constant, qui donne l'impression qu'il manque d'équilibre, était en réalité la posture idéale pour lancer une série de taillades successives.\nPar ses fréquentes apparitions et son agressivité, le Tyrfing est considéré comme l'un des Éthéréens les plus dangereux des Néantres, en particulier pour certaines personnes affectées à l'inspection des Néantres.\nEn effet, lorsqu'il rencontre un adversaire muni d'un bouclier, il attaque ce dernier sans relâche jusqu'à ce que son ennemi, ou lui-même, soit anéanti.\n« Peut-être que nous ne sommes pas des ennemis, à ces yeux, mais plutôt... des sacs de frappe pour son entraînement ? »",
+            "card_quote": "– Le talk-show de minuit <i>À l'heure du goûter dans les Néantres</i>, épisode 165, avec Nobby Kereyan comme invité, un agent antiémeute parti à la retraite suite à une blessure.",
+            "skill_text": "En combat, Tyrfing attaque au corps à corps."
+        },
+        "10001": {
+            "monster_id": 10001,
+            "monster_name": "Alpeca",
+            "card_text": "Les recherches effectuées par l'Association d'inspection des Néantres sur l'Alpeca sont limitées. Après avoir observé son comportement et son habitude de cracher de l'éther liquide, l'Association a considéré que l'Alpeca représentait un risque minime, et n'a pas poursuivi les recherches.\nToutefois, des scientifiques, intrigués par la capacité de l'Alpeca à cracher de l'éther liquéfié, ont montré un grand intérêt pour cet Éthéréen et ont commissionné plusieurs inspection pour de plus amples observations.\nCependant, les inspecteurs chevronnés semblent réticents à accomplir lesdites commissions. La raison de ce refus reste encore inconnue.\n« Tirons-nous ! Il recommence à cracher... Oh, c'est pas vrai ! Mes fringues toutes neuves ! »",
+            "card_quote": "– Au cœur d'une Néantre, l'inspecteur novice Raffaele Bert tente de battre en retraite",
+            "skill_text": "En combat, Alpeca lance des attaques à distance dispersées."
+        },
+        "10002": {
+            "monster_id": 10002,
+            "monster_name": "Faune",
+            "card_text": "De l'éther vivant humanoïde rencontré pour la première fois dans une Néantre du métro de la Nouvelle-Eridu. Au moment de sa découverte, l'Association ne savait pas exactement s'il s'agissait d'éther vivant provenant d'individus corrompus, ou d'éther pur, animé uniquement par l'environnement de la Néantre. À cause de son intelligence limitée, l'Association considère qu'il représente un risque minime, bien qu'il ne faille jamais le sous-estimer, puisqu'il apparaît d'ordinaire en groupe.\n« Ça vous est déjà arrivé d'être en retard ou de prendre une prune à cause d'un feu rouge ? C'est frustrant, non ?\nEh bien, voilà l'occasion rêvée de se défouler un peu ! »",
+            "card_quote": "– Commentaire de l'utilisateur « Vivementquelesprix2Bangboubaissent » sur le forum « Planète des catastrophes »",
+            "skill_text": "En combat, Faune a tendance à lancer des attaques lourdes chargées difficiles à interrompre."
+        },
+        "10003": {
+            "monster_id": 10003,
+            "monster_name": "Hoplites",
+            "card_text": "Considérés comme une menace minime par l'Association d'inspection des Néantres, les Hoplites s'avèrent être l'adversaire idéal pour les écumeurs et inspecteurs de Néantres débutants.\nSes membres antérieurs sont couverts d'une épaisse couche de matière éthérique inerte, qui lui sert à la fois de bouclier robuste et d'arme menaçante.\nSon seul inconvénient est son haut du corps surdimensionné qui lui donne l'air pataud et butor.\n« Hé, les gars... Matez-moi ce gros bêta. Ça, ce sont des Hoplites.\nQuand les Éthéréens jouent à pierre-feuille-ciseaux, eux, ils jouent feuille à tous les coups ! »",
+            "card_quote": "– <i>Seul face à la Néantre</i>, épisode spécial sur les Hoplites",
+            "skill_text": "En combat, les Hoplites chargent avec un bouclier et bloquent les attaques."
+        },
+        "10004": {
+            "monster_id": 10004,
+            "monster_name": "Araignée explosive",
+            "card_text": "Selon les rapports de recherche de l'Association d'inspection des Néantres, les araignées explosives, à cause de leur mobilité réduite et du rayon limité de leurs explosions, sont des Éthéréens de seconde zone et ne représentent qu'une « menace minime », et peuvent « être ignorées ».\nToutefois, certains hommes d'affaires au flair aiguisé ont décelé en elles un certain potentiel, notamment en raison de la rondeur de leurs et corps et de leurs petites pattes.\nEn effet, c'est ainsi qu'est né le long-métrage <i>Roule, petite araignée explosive</i>, qui fit un carton au box-office et entraîna ensuite la production de poupées et oreillers araignée explosive qui se vendent aujourd'hui à prix d'or.\n« Je ne savais pas que leurs poupées étaient plus meurtrières que les vraies... pour mon portefeuille, en tout cas. On dirait que je vais me nourrir uniquement de nouilles instantanées le mois prochain, Billy... »",
+            "card_quote": "– Anby vérifiant son portefeuille devant la grue de la rue commerçante.",
+            "skill_text": "En combat, les Araignées explosives s'auto-détruisent."
+        },
+        "10014": {
+            "monster_id": 10014,
+            "monster_name": "Mandragore",
+            "card_text": "Les Mandragores tirent leur nom d'une plante toxique. Le chercheur qui les a nommées leur a donné ce nom uniquement sur la base de leurs apparences similaires.\nLorsqu'elles entrent en floraison, les Mandragores émettent des rayons de chaleur qui ciblent les objets à proximité, tandis que leurs feuilles robustes se plantent dans le sol afin d'éviter le déracinement. En cas de danger, il arrive que les Mandragores se défendent à l'aide de leurs feuilles pointues.\nÀ l'instar des légendes qui entourent leurs plantes éponymes, le cri des Mandragores peut s'avérer fatal.\n« N'approchez pas ! Elle est sur le point de fleurir ! »",
+            "card_quote": "– Mandragore en fleur dans le film <i>Peur panique</i>",
+            "skill_text": "En combat, en fonction de leur type, les Mandragores confèrent des bonus d'ATQ ou des boucliers aux unités adjacentes."
+        },
+        "10025": {
+            "monster_id": 10025,
+            "monster_name": "Ahriman",
+            "card_text": "À cause de sa forme si particulière et grotesque, on prend souvent l'Ahriman pour une sculpture provenant des Jumelles Ballet.\nPar conséquent, de nombreux inspecteurs novices ont été traumatisés par leur première rencontre avec un Ahriman...\nImaginez, vous passez à côté d'une « statue », quand celle-ci se met soudain à bouger...\nDe plus, ce moment de terreur pétrifiante donne à l'Ahriman une occasion rêvée pour frapper par surprise.\n« Corin, ne te laisse pas berner par son apparence... Ce n'est pas une œuvre d'art.\n– Il est temps de faire le ménage. »",
+            "card_quote": "– Lycaon demandant à Corin de nettoyer",
+            "skill_text": "En combat, l'Ahriman se téléporte pour attaquer et s'associe parfois à un autre Ahriman pour lancer des attaques coordonnées."
+        },
+        "10026": {
+            "monster_id": 10026,
+            "monster_name": "Spectre",
+            "card_text": "Influencés par la décoration à l'intérieur des Jumelles Ballet, les membres des Spectres se sont tordus pour imiter la forme grotesque des sculptures qui y sont exposées.\nCertains inspecteurs pensent que cette transformation a pour but de mieux protéger leur cœur éthérique.\nToutefois, d'autres penchent plutôt pour une simple diversion, destinée à brouiller l'ennemi. En effet, tandis que leurs adversaires observent avec perplexité leur posture singulière, les Spectres peuvent en profiter pour attaquer à distance avec de l'éther concentré.\n« Je regardai son étrange physionomie et me demandai : \"Essaie-t-il de jouer au bowling avec sa propre tête ?\".\nMais avant que je puisse arriver à un quelconque conclusion, sa boule de bowling, qui lui servait de tête, m'avait déjà atterri en pleine figure... »",
+            "card_quote": "– Publié par un utilisateur anonyme sur Inter-nœud",
+            "skill_text": "En combat, le Spectre assène des séries d'attaques à distance rapides."
+        },
+        "10029": {
+            "monster_id": 10029,
+            "monster_name": "Engin scruteur",
+            "card_text": "Bien que l'Engin scruteur soit principalement considéré comme une menace lorsqu'il est au corps-à-corps, il est souvent la source de problèmes imprévisibles pour les inspecteurs lors de leurs expéditions en Néantres.\nMême les inspecteurs les plus aguerris peuvent être pris d'une panique incontrôlable lorsqu'ils sont confronté au regard pénétrant de ses yeux tapis dans l'ombre.\nÀ l'intérieur des Néantres, la peur a tendance à intensifier le développement de la corruption éthérique, source de toutes les catastrophes.\n« Le seul moyen de vaincre sa peur... C'est de la regarder droit dans les yeux et de se battre. »",
+            "card_quote": "– Recueil des connaissances d'un inspecteur chevronné sur le forum « Planète des catastrophes »",
+            "skill_text": "En combat, l'Engin scruteur se déplace en roulant grâce à son corps particulier."
+        },
+        "10030": {
+            "monster_id": 10030,
+            "monster_name": "Fossor",
+            "card_text": "De récentes études menées par l'Institut de l'Étoile blanche ont révélé que les membres de certains Éthéréens présentent des caractéristiques propres à leur environnement.\nLe Fossor en est le parfait exemple : ses étranges membres antérieurs ressemblent étonnamment au matériel de forage que l'on trouve dans la région de l'Ancien gisement de pétrole.\nSi certains pensent qu'il s'agit d'une tactique de camouflage pour tromper les ennemis, d'autres disent que le style de combat du Fossor agressif et direct ne le rend pas apte aux embuscades.\nCertains écumeurs de Néantres à l'esprit imaginatif supposent qu'il a peut-être développé cette forme simplement pour creuser à la recherche de minéraux...\n« Quand je l'ai aperçu de loin, il semblait creuser l'asphalte avec entrain.\nLorsqu'il m'a repéré, il m'a foncé dessus sans hésiter, tentant désespérément de m'éloigner...\nMais je je ne faisais que passer ! Je n'avais absolument pas l'intention de lui dérober sa ferraille ! »",
+            "card_quote": "— Un écumeur de Néantres débutant, racontant sa nouvelle expérience à ses compagnons devant une Néantre.",
+            "skill_text": "En combat, Fossor enchaîne des lacérations à deux mains."
+        },
+        "10031": {
+            "monster_id": 10031,
+            "monster_name": "Sordidus",
+            "card_text": "Les Néantres de la couronne extérieure abritent toutes sortes d'Éthéréens étranges, Sordidus en est un parfait exemple.\nIls possèdent une structure corporelle unique, avec des membres extrêmement souples qui semblent être le résultat d'une réaction inconnue entre du pétrole brut et de l'éther actif.\nUne fois qu'ils ont une cible dans leur ligne de mire, ils utilisent leurs membres pour lancer des attaques agressives et brutales, comme d'agiles acrobates.\n« Purée... Cette chose vient vraiment de me fouetter !\n– Est-ce qu'ils se prennent pour des dompteurs et nous voient comme des bêtes sauvages ? »",
+            "card_quote": "— À l'intérieur de la Néantre, un groupe d'écumeurs de Néantres débutants se retrouve face à un Sordidus.",
+            "skill_text": "En combat, Sordidus utilise ses tentacules pour effectuer des attaques à bout portant ou enfonce ses tentacules dans le sol pour effectuer des attaques par surprises à distance."
+        },
+        "20000": {
+            "monster_id": 20000,
+            "monster_name": "Farbauti",
+            "card_text": "D'une force terrible et souvent enragé, la Farbauti est l'une des menaces les plus horribles que les écumeurs de Néantres puissent rencontrer. Ses bras en formes de massues le protègent aisément de tous les dégâts et se déchaînent dans une pluie de coups dévastateurs qui ravagent tout sur son passage.\nCertains écumeurs de Néantres racontent avoir déjà vu un Farbauti frapper le sol dans un rythme endiablé, ce qui laisse supposer que ces créatures auraient un certain intérêt pour les percussions.\nBien que l'Association d'inspection des Néantres ait déjà démenti cette rumeur, de nombreux écumeurs de Néantres continuent d'emmener avec eux des chaînes stéréo dans l'espoir de distraire les Farbautis avec de la musique.\nCependant, on ne recense à ce jour aucune tentative fructueuse d'échapper à ces créatures à l'aide de cette méthode.\n« La raison derrière ses échecs est simple : même les Farbauti trouvent que tes goûts musicaux sont nazes ! »",
+            "card_quote": "– Publié par « Doigts pointus » sur le forum « Rock du Balayeur Sombre »",
+            "skill_text": "En combat, le Farbauti lance des attaques assommantes à l'aide de ses puissants bras, toutefois, ces derniers peuvent être pris pour cible et lui infliger Vacillement avec suffisamment d'insistance."
+        },
+        "20001": {
+            "monster_id": 20001,
+            "monster_name": "Hati",
+            "card_text": "L'équipe d'inspection Phase-I de l'AIN a enfin documenté l'existence de cet individu d'éther sentient, aux allures de bête quadrupède et extrêmement dangereuse.\nSelon les rumeurs, elle aurait été aperçue pour la première fois dans son terrier à l'intérieur d'une Néantre, où les explorateurs qui inspectaient des déchets à proximité auraient entendu des rugissements déchirants rappelant des hurlements de bêtes sauvages.\n« Si on lance un ballon ou un bâton, tu crois que le monstre ira le chercher ?\n– Tu peux essayer, mais ce n'est pas moi qui paierai ta facture d'hôpital. »",
+            "card_quote": "– Une conversation entre Billy et Nicole",
+            "skill_text": "En combat, le Hati utilise des bonds agiles et ses griffes rapides pour attaquer."
+        },
+        "20002": {
+            "monster_id": 20002,
+            "monster_name": "Gobelin",
+            "card_text": "Lors des premières rencontres avec ces Éthéréens uniques en leur genre, les inspecteurs de Néantres ont d'abord cru qu'ils possédaient un certain degré d'intelligence et montraient même des signes d'apprentissage, notamment pour le maniement d'armes contendantes similaires à celles des humains. C'est pourquoi on leur donna le nom de Gobelins. Cependant, on a découvert par la suite que ce qu'on croyait être des gourdins, n'étaient en réalité que des membres déformés, et que ces créatures étaient incapables d'imiter les comportements humains.\nNéanmoins, les Gobelins restent des adversaires redoutables en raison de leur stature impressionnante et de leur force brute. En effet, un simple coup de leur membre peut s'avérer mortel.\nDès qu'un intrus pénètre sur leur territoire, ils entrent dans une rage incontrôlable et se jettent sur l'invité indésirable pour le mettre en morceaux.\n« Hein ? Il y a un Gobelin qui tape sur de la ferraille là-bas.\n– Tu ne trouves pas qu'il a le sens du rythme ? On dirait qu'il joue de la batterie...\n– Hé, arrêtez de jouer aux imbéciles, vous deux ! Ce n'est pas de la ferraille, c'est notre camion de ravitaillement ! »",
+            "card_quote": "– Un intru gobelin entre par effraction dans le repère du gang",
+            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'ils infligent et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il subit un Étourdissement."
+        },
+        "20003": {
+            "monster_id": 20003,
+            "monster_name": "Hati cuirassé",
+            "card_text": "Le Hati cuirassé est considéré comme un adversaire redoutable par de nombreux inspecteurs de Néantres chevronnés.\nBien que sa carapace blindée limite son agilité, elle la compense largement par une résistance exceptionnelle.\nDe plus, la matière corrompue à la surface de son corps forme des épines renforcées qui aggravent considérablement les dégâts qu'un Hati cuirassé peut infliger en chargeant à grande vitesse.\nSon agilité, sa résistance aux coups et son armure sans faille font de cette créature un obstacle que de nombreux explorateurs aguerris préfèrent volontiers contourner.\nCertains écumeurs de Néantres débutants ont déjà tenté de distraire un Hati cuirassé avec de la nourriture pour animaux.\nCependant, ces tentatives étaient vaines.\n« Courrez ! Il n'a pas l'air d'aimer cette marque de croquettes ! »",
+            "card_quote": "– Plusieurs écumeurs de Néantres novices paniqués échappant à un Hati dans une Néantre",
+            "skill_text": "En combat, l'armure du Hati cuirassé réduit considérablement les DGT et la confusion qu'il subit. Les soutiens défensifs réduisent grandement son armure."
+        },
+        "20004": {
+            "monster_id": 20004,
+            "monster_name": "Gobelin du métro",
+            "card_text": "Le débat qui entoure les Gobelins du métro dure, et n'est pas près de s'arrêter. Certains attribuent leur apparence particulière à une technique de camouflage destinée à trompeur leurs ennemis, tandis que d'autres pensent que les débris accolés à leurs corps sont le résultat d'une fusion entre eux et les installations du métro due à la corruption.\nQuoi qu'il en soit, la seule présence de Gobelins du métro suffit à insuffler la peur chez les inspecteurs qui explore les Néantres dans la zone de l'ancien métro.\nÀ n'importe quel moment, un panneau de signalisation d'apparence ordinaire peut se mettre à trembler, et laisser place à un Éthéréen qui sort de terre pour vous foncer dessus sans hésiter.\n« Hein ? Je crois que j'ai déjà vu ce panneau il y a quelques minutes. Est-ce qu'on tourne en rond ,\n– Non... Je crois que ce panneau nous a suivis ! »",
+            "card_quote": "– Le film d'horreur <i>Une perte sans fin</i>, dans lequel le personnage principal cherche à sortir d'une Néantre",
+            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'il inflige et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il subit un Étourdissement."
+        },
+        "20005": {
+            "monster_id": 20005,
+            "monster_name": "Alrune",
+            "card_text": "Trompés par leur apparence, de nombreux écumeurs de Néantres prennent les Alrunes pour des plantes inoffensives lorsqu'ils en rencontrent pour la première fois.\nToutefois, lorsqu'ils s'en approchent, ils découvrent que l'Alrune émet des décharges de matière éthérique, qui surprennent ses victimes qui ne se doutent de rien.\n« Quoi ? J'ai voulu l'arroser, et elle m'a craché dessus en retour ! »",
+            "card_quote": "– Un groupe d'inspecteurs novices pris en embuscade par un Alrune dans une Néantre",
+            "skill_text": "En combat, l'Alrune lance des attaques à distance extrêmement rusées. Toutefois, lui infliger Vacillement lorsque ses pétales sont ouverts permet d'accumuler énormément de confusion en un seul coup."
+        },
+        "20010": {
+            "monster_id": 20010,
+            "monster_name": "Bétonnière tarasque",
+            "card_text": "D'après ses recherches, l'Association d'inspection des Néantres pense que les Bétonnières tarasques contiennent de l'éther liquéfié en quantités variable.\nÀ mesure qu'elles remuent et mélangent l'éther qu'elles contiennent, une réaction complexe se produit et dégage violemment une quantité folle d'énergie destructrice. La force qui s'en résulte est comparable à celle générée par l'artillerie lourde des Forces de défense.\nLes inspecteurs chevronnés savent à quel point il est crucial de ne pas attirer leur attention et tomber sous le feu de leurs bombardements.\n« Quand elle s'est penchée dans ma direction, j'ai cru qu'elle allait m'offrir une sorte de cadeau de bienvenue. Mais quand j'ai vu son canon s'illuminer, j'ai compris qu'il s'agissait... d'un cadeau d'adieu. »",
+            "card_quote": "– L'entretien d'un inspecteur célèbre sur son expérience personnelle dans <i>2 Retour</i>",
+            "skill_text": "En combat, la Bétonnière tarasque lance des attaques lasers continues tout en se repositionnant à l'aide de bonds latéraux."
+        },
+        "20022": {
+            "monster_id": 20022,
+            "monster_name": "Frelon",
+            "card_text": "Ninive semble toujours entourée par le bourdonnement des frelons. Certains chercheurs pensent qu'ils forment une sorte de symbiose et ont développé un certain esprit de groupe.\nÀ mesure que l'énergie de Ninive augmente et qu'elle dévoile ses postures de floraison distinctives, les frelons s'enragent et s'efforcent d'attaquer toute cible en mouvement à proximité.\n« Eh, quelque chose vient de sortir de cette \"fleur\" !\n– On dirait... un essaim de guêpes ? »",
+            "card_quote": "– Dossier d'inspection de la Néantre Zéro KU241. Enregistrement vocal de la toute première observation de Frelons",
+            "skill_text": "En combat, les Frelons aident Ninive en interrompant les attaques de ses ennemis."
+        },
+        "30000": {
+            "monster_id": 30000,
+            "monster_name": "Dullahan",
+            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthérique et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
+            "card_quote": "– Extrait d'un entretien avec un inspecteur dans l'émission de variété <i>Instruis-moi, senpai !</i>",
+            "skill_text": "En combat, le Dullahan charge pour lancer une attaque puissante à l'aide de son épée longue, qui peut être interrompue par d'autres attaques puissantes."
+        },
+        "30001": {
+            "monster_id": 30001,
+            "monster_name": "Thanatos",
+            "card_text": "L'exploration des Néantres peut être un fardeau mental très pesant, et le Thanatos, avec ses téléportations et ses schémas d'attaques imprévisibles est devenu un traumatisme psychologique récurrent chez les écumeurs de Néantres.\nUn grand nombre d'aventuriers qui ont été confrontés seuls à un Thanatos ont perdu toute volonté de continuer leurs explorations et ont immédiatement choisi de prendre leur retraite prématurément.\nEn conséquence, ces êtres fuyants sont devenus des monstres fréquents dans les films d'horreur.\n« Leur ombre immense et svelte disparaît de ton champ de vision, pour réapparaître dans ton dos...\n– Comment je vais faire ? J'ai trop peur pour aller aux toilettes tout seul, maintenant ! »",
+            "card_quote": "– Nuit de l'avant-première du film d'horreur <i>Éthéréens sur le seuil</i>, fil de discussion tendance sur le site de critiques de films « Prune de cuivre »",
+            "skill_text": "En combat, le Thanatos apparaît et disparaît du champ de bataille pour attaquer par surprise. Il subit une considérable lorsque vous lui infligez des soutiens défensifs ou des soutiens de suivi."
+        },
+        "30007": {
+            "monster_id": 30007,
+            "monster_name": "Boucher de l'Impasse",
+            "card_text": "Contrairement aux autres Éthéréens, l'éther à l'intérieur du corps du Boucher de l'Impasse reste souvent dans un état dormant.\nIl fait, néanmoins, preuve d'une force brute extraordinaire qui lui permet de détruire n'importe quel obstacle et de faire de l'ancien métro en ruines et distordu son garde-manger personnel.\nCe n'est que lorsqu'il affronte un adversaire à sa taille, qui pique sa curiosité, qu'il entreprend une métamorphose épouvantable...\nEn quelques instants, l'éther extrêmement concentré dans son organisme subit une violente transformation qui génère d'immenses quantités d'énergie qui force ses membres à se déformer rapidement. Cette forme, plus brutale encore que la précédente, est celle qu'il prend pour se nourrir.\nFini les amuse-gueules, il est temps que le festin commence !\nAinsi, quiconque souhaiterait éviter d'être au menu, devrait bien planifier son itinéraire et éviter à tout prix de se retrouver dans son garde-manger.\n« Les chemins des Néantres sont sinueux. Mais une chose est sûre, lorsqu'il apparaît au bout de la route, vous pouvez être sûr d'être dans une \"impasse\". »",
+            "card_quote": "– La 17e enquête de l'Association d'inspection des Néantres au sujet de la Néantre de l'Impasse",
+            "skill_text": "En combat, les attaques du Boucher de l'Impasse sont très variées. Lorsqu'il subit suffisamment de dégâts, il prend sa forme finale et dispose d'attaques plus féroces, ainsi que de lasers. Frappez-le avec des compétences à haut niveau à la fin e son combo pour lui infliger davantage de Vacillement."
+        },
+        "30010": {
+            "monster_id": 30010,
+            "monster_name": "Marionnette au voile noir",
+            "card_text": "Il y a des dizaines d'années, deux sœurs ballerines sont devenues célèbres du jour au lendemain. Aussi brillantes que des étoiles filantes, elles firent affluer des masses d'admirateurs qui se précipitèrent pour assister à leur représentation aux Jumelles Ballet, qui étaient alors à leur apogée.\nCependant, alors que leur spectacle touchait à sa fin, une Néantre apparut et engloutit les Jumelles Ballet, plongeant ainsi les sœurs dans l'obscurité pour l'éternité. Leurs fans dans le monde entier furent dévastés par la nouvelle qui se répandit.\nLa rumeur prétend que le jour du désastre, les sœurs avaient rencontré trois présages annonçant une catastrophe funeste imminente. Néanmoins, obnubilées par la scène, les applaudissements et la gloire, elles décidèrent de poursuivre le spectacle malgré les avertissements.\nAujourd'hui, il ne reste plus que quelques images de la sœur aînée, préservées dans les pages de magazines jaunis.\nSeuls quelques écumeurs de Néantres aguerris savent que lorsque les projecteurs brisés illuminent à nouveau les Jumelles Ballet, la mystérieuse Marionnette au voile noir sort de l'ombre. On suppose que cette silhouette est liée à Augilia, la ballerine disparue lors de cette représentation fatidique, qui cherche à montrer au monde le grand final qu'elle n'a jamais pu finir.\nQuant aux rares « chanceux » qui ont pu assister à ce grand final, ils seront à jamais assaillis par les cauchemars.\n« Si vous croisez la Marionnette dans les Jumelles Ballet, n'espérez pas pouvoir vous enfuir.\nPrenez un siège et profitez de son grand final !\n– Au moins, on aura le droit à un spectacle avant de passer l'arme à gauche... »",
+            "card_quote": "– Inter-nœud, plainte d'un écumeur de Néantres novice",
+            "skill_text": "En combat, la Marionnette se téléporte vers son adversaire pour lui asséner une série d'attaques incessantes."
+        },
+        "30011": {
+            "monster_id": 30011,
+            "monster_name": "Marionnette au voile gris",
+            "card_text": "Il y a des dizaines d'années, deux sœurs ballerines sont devenues célèbres du jour au lendemain. Aussi brillantes que des étoiles filantes, elles firent affluer des masses d'admirateurs qui se précipitèrent pour assister à leur représentation aux Jumelles Ballet, qui étaient alors à leur apogée.\nCependant, alors que leur spectacle touchait à sa fin, une Néantre apparut et engloutit les Jumelles Ballet, plongeant ainsi les sœurs dans l'obscurité pour l'éternité. Leurs fans dans le monde entier furent dévastés par la nouvelle qui se répandit.\nLa rumeur prétend que le jour du désastre, les sœurs avaient rencontré trois présages annonçant une catastrophe funeste imminente. Toutefois, certains prétendent qu'elles auraient contrarié quelques personnes influentes, qui se seraient vengées en maquillant cela en catastrophe liée à une Néantre, et que ces soi-disant « présages » ne seraient que des avertissements bienveillants.\nAujourd'hui, la vérité sur cette affaire reste un mystère, et on ne peut apercevoir que des fragments des pas de danse enjoués de la cadette, Augetta, sur des vidéos éparpillées.\nSeuls certains écumeurs de Néantres aguerris savent que lorsque la musique dansante retentit dans les Jumelles Ballet, la silhouette éthérée de la Marionnette au voile gris sort de l'ombre. On suppose que cette silhouette est liée à Augetta, la ballerine disparue lors de cette représentation fatidique, qui cherche à montrer au monde le grand final qu'elle n'a jamais pu finir.\n« Je n'arrive pas à savoir si la Marionnette que j'ai vue est la sœur aînée ou la cadette...\nArf ! Ce n'est pas que je n'y connais rien en art, c'est juste que je n'arrive pas à les différencier ! »",
+            "card_quote": "– Publication d'un certain écumeur de Néantres sur Inter-nœud",
+            "skill_text": "En combat, la Marionnette se téléporte vers son adversaire pour lui asséner une série d'attaques incessantes."
+        },
+        "30012": {
+            "monster_id": 30012,
+            "monster_name": "Marionnettes jumelles",
+            "card_text": "Il y a des dizaines d'années, deux sœurs ballerines sont devenues célèbres du jour au lendemain. Aussi brillantes que des étoiles filantes, elles firent affluer des masses d'admirateurs qui se précipitèrent pour assister à leur représentation aux Jumelles Ballet, qui étaient alors à leur apogée.\nCependant, alors que leur spectacle touchait à sa fin, une Néantre apparut et engloutit les Jumelles Ballet, plongeant ainsi les sœurs dans l'obscurité pour l'éternité. Leurs fans dans le monde entier furent dévastés par la nouvelle qui se répandit.\nAujourd'hui, on ne peut apercevoir que des fragments de leurs pas de danse enjoués sur des vidéos et images éparpillées.\nSeuls certains savent que lorsque la musique dansante retentit dans les Jumelles Ballet, les silhouettes éthérées des Marionnettes jumelles sortent de l'ombre. On suppose que ces silhouettes sont liées aux Jumelles ballerines, disparues lors de cette représentation fatidique, qui cherchent à montrer au monde le grand final qu'elles n'ont jamais pu finir.\n« Lorsque l'air sinistre s'est achevé, les deux Marionnettes ont surgi des ténèbres et ont fait une révérence... »\n« Hein ? Donc... elles essayent de nous dire que le spectacle commence ? »\n« Non, je pense qu'elles essayent de nous dire... que c'est trop tard pour fuir. C'est fini. »",
+            "card_quote": "- « Entretien au sujet des Néantres » numéro 251, un entretien avec un inspecteur des Néantres ayant survécu.",
+            "skill_text": "En combat, les Marionnettes jumelles assènent de nombreuses attaques d'enchaînement. Certains de leurs mouvements de danse peuvent être interrompus par des soutiens défensifs. Les jumelles tentent de se ranimer entre elles lorsqu'une d'entre elles tombe au combat."
+        },
+        "30017": {
+            "monster_id": 30017,
+            "monster_name": "Cyrtoïde (Ionisé)",
+            "card_text": "D'après les écumeurs de Néantres, les tactiques de chasse du Cyrtoïde ressemblent quelque peu à celles d'un requin.\nIl se tapit dans l'ombre, se faufile sous la surface et frappe sa proie avec vélocité et une précision mortelle digne d'un requin.\nL'analyse de données laisse supposer que le Cyrtoïde utilise probablement les vibrations du sol pour suivre les mouvements de sa proie. Les écumeurs de Néantres les plus expérimentés brouillent la détection de leurs mouvements en alternant le rythme de leurs pas.\n« À l'époque où j'étais inspecteur, ma zone grouillait de Cyrtoïdes.\nQuand ils attaquaient, je devais bondir et sauter dans tous les sens pour les esquiver...\nEn y repensant, c'est drôle de se dire que c'est de cette façon que je suis devenu danseur de claquettes sans le vouloir... »",
+            "card_quote": "– « 2 Retours » n° 131, interview d'Ansor, célèbre danseur de claquettes",
+            "skill_text": "En combat, Cyrtoïde (Ionisé) attaque les ennemis à distance à l'aide de sa tête pointue."
+        },
+        "30018": {
+            "monster_id": 30018,
+            "monster_name": "Nassellaire (Ionisé)",
+            "card_text": "Chaque type de mutant éthérique dans les Néantres présente un style de combat unique.\nCertains sont impitoyables, d'autres rusés et certains comportent même un certain sens de... l'honneur.\nParmi eux, celui du Nassellaire est particulièrement unique.\nIl reste souvent immobile en plein milieu du champ de bataille, où il accumule de l'éther actif autour de lui avant de relâcher une force destructrice pour éliminer tous les ennemis à proximité pour les autres Éthéréens.\nLorsque le Nassellaire canalise son énergie, les Éthéréens qui l'accompagnent se lancent dans une frénésie offensive pour laisser le temps au Nassellaire de lancer son attaque dévastatrice.\n« Vite ! Arrêtez-le ! Ne le laissez pas lancer son attaque finale !\n– Si on se fait toucher par cette attaque, on finira comme les sbires des méchants dans les dessins animés de superhéros ! »",
+            "card_quote": "– Plusieurs inspecteurs prenant un Nassellaire en étau dans une Néantre",
+            "skill_text": "En combat, le Nassellaire (Ionisé) charge longuement ses attaques, puis tire des orbes énergétiques à haut niveau. Lorsque vous infligez des DGT éthériques ou assénez une attaque à haute niveau pendant le chargement, l'orbe tombera et frappera tous les ennemis dans la zone environnante."
+        },
+        "30023": {
+            "monster_id": 30023,
+            "monster_name": "Thrace",
+            "card_text": "Cet Éthéréen redoutable, dont le nom provient d'un peuple guerrier d'une mythologie antique, est réputé comme l'incarnation des plus grands combattants et des esprits malveillants les plus cruels corrompus par l'éther.\n— Mais ce n'est pas le cas. Bien que vos muscules saillants développés après des années d'exploration de Néantres et la bouffée d'adrénaline relâchée juste avant la mort puissent poser de gros problèmes à vos anciens coéquipiers une fois transformé, croyez-vous que vos camarades se retiendraient contre les reste d'un vieil ami qu'ils ne peuvent plus sauver ?\nMais cela n'a aucune importance. Lorsque votre joli minois se transforme en un orbe sombre et sinistre, qui se préoccupe encore de sa réputation ?\n« Pas étonnant que ce soit lui le patron. Même en Éthéréen, il est toujours aussi classe !\nJe savais bien que ça se finirait mal quand il allait constamment à la salle ! »",
+            "card_quote": "— Confession bruyante d'un écumeur de Néantres capturé",
+            "skill_text": "En combat, le Thrace exécute ses compétences à répétition pour entrer dans un état de charge. Dans cet état, ses attaques deviennent plus agressives, et après avoir exécuté des compétences de haut niveau, il déclenche une explosion dans une vaste zone."
+        },
+        "35001": {
+            "monster_id": 35001,
+            "monster_name": "Ninive",
+            "card_text": "La beauté unique de l'essaim d'Éthéréens symbiotes appelé Ninive peut être trompeur et incite ceux qui le voient à baisser leur garde.\nD'après le peu de recherches disponibles, à mesure que Ninive s'étend, un puissant flot d'éther concentré circule depuis son noyau vers ses rhizomes, et leur fournit une source constante d'énergie. Certains chercheurs pensent que ce comportement est similaire à celui de la photosynthèse chez les plantes.\nAu fil de ses mouvements de balancier, des surplus d'énergie éthérique hautement active se dégage constamment de son corps. Lorsque l'accumulation d'éther actif atteint un seuil de saturation, il se transforme et révèle sa véritable forme, telle une floraison.\nL'épanouissement de cette fleur est annonciateur de mort.\n« La bonne nouvelle, c'est qu'il ne nous veut aucun mal. Il absorbe juste des nutriments pour la photosynthèse. La mauvaise nouvelle, c'est que les nutriments... c'est nous. »",
+            "card_quote": "– Journal d'enquête K-411 des Forces de défense de la Néantre Zéro",
+            "skill_text": "En combat, Ninive lance des attaques à vaste effet de zone, bloque ses ennemis avec des barrages de missiles et invoque des Frelons pour l'aider."
+        },
+        "100001": {
+            "monster_id": 100001,
+            "monster_name": "Tyrfing (Énergisé)",
+            "card_text": "Après l'étude du comportement du Tyrfing par l'Association d'inspection des Néantres, il a été montré que sa posture penchée et son balancement constant, qui donne l'impression qu'il manque d'équilibre, était en réalité la posture idéale pour lancer une série de taillades successives.\nPar ses fréquentes apparitions et son agressivité, le Tyrfing est considéré comme l'un des Éthéréens les plus dangereux des Néantres, en particulier pour certaines personnes affectées à l'inspection des Néantres.\nEn effet, lorsqu'il rencontre un adversaire muni d'un bouclier, il attaque ce dernier sans relâche jusqu'à ce que son ennemi, ou lui-même, soit anéanti.\n« Peut-être que nous ne sommes pas des ennemis, à ces yeux, mais plutôt... des sacs de frappe pour son entraînement ? »",
+            "card_quote": "– Le talk-show de minuit <i>À l'heure du goûter dans les Néantres</i>, épisode 165, avec Nobby Kereyan comme invité, un agent antiémeute parti à la retraite suite à une blessure.",
+            "skill_text": "En combat, Tyrfing attaque au corps à corps."
+        },
+        "100011": {
+            "monster_id": 100011,
+            "monster_name": "Alpeca (Énergisé)",
+            "card_text": "Les recherches effectuées par l'Association d'inspection des Néantres sur l'Alpeca sont limitées. Après avoir observé son comportement et son habitude de cracher de l'éther liquide, l'Association a considéré que l'Alpeca représentait un risque minime, et n'a pas poursuivi les recherches.\nToutefois, des scientifiques, intrigués par la capacité de l'Alpeca à cracher de l'éther liquéfié, ont montré un grand intérêt pour cet Éthéréen et ont commissionné plusieurs inspection pour de plus amples observations.\nCependant, les inspecteurs chevronnés semblent réticents à accomplir lesdites commissions. La raison de ce refus reste encore inconnue.\n« Tirons-nous ! Il recommence à cracher... Oh, c'est pas vrai ! Mes fringues toutes neuves ! »",
+            "card_quote": "– Au cœur d'une Néantre, l'inspecteur novice Raffaele Bert tente de battre en retraite",
+            "skill_text": "En combat, Alpeca lance des attaques à distance dispersées."
+        },
+        "100021": {
+            "monster_id": 100021,
+            "monster_name": "Faune (Énergisé)",
+            "card_text": "De l'éther vivant humanoïde rencontré pour la première fois dans une Néantre du métro de la Nouvelle-Eridu. Au moment de sa découverte, l'Association ne savait pas exactement s'il s'agissait d'éther vivant provenant d'individus corrompus, ou d'éther pur, animé uniquement par l'environnement de la Néantre. À cause de son intelligence limitée, l'Association considère qu'il représente un risque minime, bien qu'il ne faille jamais le sous-estimer, puisqu'il apparaît d'ordinaire en groupe.\n« Ça vous est déjà arrivé d'être en retard ou de prendre une prune à cause d'un feu rouge ? C'est frustrant, non ?\nEh bien, voilà l'occasion rêvée de se défouler un peu ! »",
+            "card_quote": "– Commentaire de l'utilisateur « Vivementquelesprix2Bangboubaissent » sur le forum « Planète des catastrophes »",
+            "skill_text": "En combat, Faune a tendance à lancer des attaques lourdes chargées difficiles à interrompre."
+        },
+        "100031": {
+            "monster_id": 100031,
+            "monster_name": "Hoplites (Énergisés)",
+            "card_text": "Considérés comme une menace minime par l'Association d'inspection des Néantres, les Hoplites s'avèrent être l'adversaire idéal pour les écumeurs et inspecteurs de Néantres débutants.\nSes membres antérieurs sont couverts d'une épaisse couche de matière éthérique inerte, qui lui sert à la fois de bouclier robuste et d'arme menaçante.\nSon seul inconvénient est son haut du corps surdimensionné qui lui donne l'air pataud et butor.\n« Hé, les gars... Matez-moi ce gros bêta. Ça, ce sont des Hoplites.\nQuand les Éthéréens jouent à pierre-feuille-ciseaux, eux, ils jouent feuille à tous les coups ! »",
+            "card_quote": "– <i>Seul face à la Néantre</i>, épisode spécial sur les Hoplites",
+            "skill_text": "En combat, les Hoplites chargent avec un bouclier et bloquent les attaques."
+        },
+        "100041": {
+            "monster_id": 100041,
+            "monster_name": "Araignée explosive (Énergisée)",
+            "card_text": "Selon les rapports de recherche de l'Association d'inspection des Néantres, les araignées explosives, à cause de leur mobilité réduite et du rayon limité de leurs explosions, sont des Éthéréens de seconde zone et ne représentent qu'une « menace minime », et peuvent « être ignorées ».\nToutefois, certains hommes d'affaires au flair aiguisé ont décelé en elles un certain potentiel, notamment en raison de la rondeur de leurs et corps et de leurs petites pattes.\nEn effet, c'est ainsi qu'est né le long-métrage <i>Roule, petite araignée explosive</i>, qui fit un carton au box-office et entraîna ensuite la production de poupées et oreillers araignée explosive qui se vendent aujourd'hui à prix d'or.\n« Je ne savais pas que leurs poupées étaient plus meurtrières que les vraies... pour mon portefeuille, en tout cas. On dirait que je vais me nourrir uniquement de nouilles instantanées le mois prochain, Billy... »",
+            "card_quote": "– Anby vérifiant son portefeuille devant la grue de la rue commerçante.",
+            "skill_text": "En combat, les Araignées explosives s'auto-détruisent."
+        },
+        "100141": {
+            "monster_id": 100141,
+            "monster_name": "Mandragore (Énergisée)",
+            "card_text": "Les Mandragores tirent leur nom d'une plante toxique. Le chercheur qui les a nommées leur a donné ce nom uniquement sur la base de leurs apparences similaires.\nLorsqu'elles entrent en floraison, les Mandragores émettent des rayons de chaleur qui ciblent les objets à proximité, tandis que leurs feuilles robustes se plantent dans le sol afin d'éviter le déracinement. En cas de danger, il arrive que les Mandragores se défendent à l'aide de leurs feuilles pointues.\nÀ l'instar des légendes qui entourent leurs plantes éponymes, le cri des Mandragores peut s'avérer fatal.\n« N'approchez pas ! Elle est sur le point de fleurir ! »",
+            "card_quote": "– Mandragore en fleur dans le film <i>Peur panique</i>",
+            "skill_text": "En combat, en fonction de leur type, les Mandragores confèrent des bonus d'ATQ ou des boucliers aux unités adjacentes."
+        },
+        "100251": {
+            "monster_id": 100251,
+            "monster_name": "Ahriman (Énergisé)",
+            "card_text": "À cause de sa forme si particulière et grotesque, on prend souvent l'Ahriman pour une sculpture provenant des Jumelles Ballet.\nPar conséquent, de nombreux inspecteurs novices ont été traumatisés par leur première rencontre avec un Ahriman...\nImaginez, vous passez à côté d'une « statue », quand celle-ci se met soudain à bouger...\nDe plus, ce moment de terreur pétrifiante donne à l'Ahriman une occasion rêvée pour frapper par surprise.\n« Corin, ne te laisse pas berner par son apparence... Ce n'est pas une œuvre d'art.\n– Il est temps de faire le ménage. »",
+            "card_quote": "– Lycaon demandant à Corin de nettoyer",
+            "skill_text": "En combat, l'Ahriman se téléporte pour attaquer et s'associe parfois à un autre Ahriman pour lancer des attaques coordonnées."
+        },
+        "100261": {
+            "monster_id": 100261,
+            "monster_name": "Spectre (Énergisé)",
+            "card_text": "Influencés par la décoration à l'intérieur des Jumelles Ballet, les membres des Spectres se sont tordus pour imiter la forme grotesque des sculptures qui y sont exposées.\nCertains inspecteurs pensent que cette transformation a pour but de mieux protéger leur cœur éthérique.\nToutefois, d'autres penchent plutôt pour une simple diversion, destinée à brouiller l'ennemi. En effet, tandis que leurs adversaires observent avec perplexité leur posture singulière, les Spectres peuvent en profiter pour attaquer à distance avec de l'éther concentré.\n« Je regardai son étrange physionomie et me demandai : \"Essaie-t-il de jouer au bowling avec sa propre tête ?\".\nMais avant que je puisse arriver à un quelconque conclusion, sa boule de bowling, qui lui servait de tête, m'avait déjà atterri en pleine figure... »",
+            "card_quote": "– Publié par un utilisateur anonyme sur Inter-nœud",
+            "skill_text": "En combat, le Spectre assène des séries d'attaques à distance rapides."
+        },
+        "100301": {
+            "monster_id": 100301,
+            "monster_name": "Fossor (Énergisé)",
+            "card_text": "De récentes études menées par l'Institut de l'Étoile blanche ont révélé que les membres de certains Éthéréens présentent des caractéristiques propres à leur environnement.\nLe Fossor en est le parfait exemple : ses étranges membres antérieurs ressemblent étonnamment au matériel de forage que l'on trouve dans la région de l'Ancien gisement de pétrole.\nSi certains pensent qu'il s'agit d'une tactique de camouflage pour tromper les ennemis, d'autres disent que le style de combat du Fossor agressif et direct ne le rend pas apte aux embuscades.\nCertains écumeurs de Néantres à l'esprit imaginatif supposent qu'il a peut-être développé cette forme simplement pour creuser à la recherche de minéraux...\n« Quand je l'ai aperçu de loin, il semblait creuser l'asphalte avec entrain.\nLorsqu'il m'a repéré, il m'a foncé dessus sans hésiter, tentant désespérément de m'éloigner...\nMais je je ne faisais que passer ! Je n'avais absolument pas l'intention de lui dérober sa ferraille ! »",
+            "card_quote": "— Un écumeur de Néantres débutant, racontant sa nouvelle expérience à ses compagnons devant une Néantre.",
+            "skill_text": "En combat, Fossor enchaîne des lacérations à deux mains."
+        },
+        "100311": {
+            "monster_id": 100311,
+            "monster_name": "Sordidus (Énergisé)",
+            "card_text": "Les Néantres de la couronne extérieure abritent toutes sortes d'Éthéréens étranges, Sordidus en est un parfait exemple.\nIls possèdent une structure corporelle unique, avec des membres extrêmement souples qui semblent être le résultat d'une réaction inconnue entre du pétrole brut et de l'éther actif.\nUne fois qu'ils ont une cible dans leur ligne de mire, ils utilisent leurs membres pour lancer des attaques agressives et brutales, comme d'agiles acrobates.\n« Purée... Cette chose vient vraiment de me fouetter !\n– Est-ce qu'ils se prennent pour des dompteurs et nous voient comme des bêtes sauvages ? »",
+            "card_quote": "— À l'intérieur de la Néantre, un groupe d'écumeurs de Néantres débutants se retrouve face à un Sordidus.",
+            "skill_text": "En combat, Sordidus utilise ses tentacules pour effectuer des attaques à bout portant ou enfonce ses tentacules dans le sol pour effectuer des attaques par surprises à distance."
+        },
+        "200001": {
+            "monster_id": 200001,
+            "monster_name": "Farbauti (Énergisé)",
+            "card_text": "D'une force terrible et souvent enragé, la Farbauti est l'une des menaces les plus horribles que les écumeurs de Néantres puissent rencontrer. Ses bras en formes de massues le protègent aisément de tous les dégâts et se déchaînent dans une pluie de coups dévastateurs qui ravagent tout sur son passage.\nCertains écumeurs de Néantres racontent avoir déjà vu un Farbauti frapper le sol dans un rythme endiablé, ce qui laisse supposer que ces créatures auraient un certain intérêt pour les percussions.\nBien que l'Association d'inspection des Néantres ait déjà démenti cette rumeur, de nombreux écumeurs de Néantres continuent d'emmener avec eux des chaînes stéréo dans l'espoir de distraire les Farbautis avec de la musique.\nCependant, on ne recense à ce jour aucune tentative fructueuse d'échapper à ces créatures à l'aide de cette méthode.\n« La raison derrière ses échecs est simple : même les Farbauti trouvent que tes goûts musicaux sont nazes ! »",
+            "card_quote": "– Publié par « Doigts pointus » sur le forum « Rock du Balayeur Sombre »",
+            "skill_text": "En combat, le Farbauti lance des attaques assommantes à l'aide de ses puissants bras, toutefois, ces derniers peuvent être pris pour cible et lui infliger Vacillement avec suffisamment d'insistance."
+        },
+        "200004": {
+            "monster_id": 200004,
+            "monster_name": "Farbauti (Ionisé)",
+            "card_text": "D'une force terrible et souvent enragé, le Farbauti est l'une des menaces les plus horribles que les écumeurs de Néantres puissent rencontrer. Ses bras en formes de massues le protègent aisément de tous les dégâts et se déchaînent dans une pluie de coups dévastateurs qui ravagent tout sur leur passage.\nCertains écumeurs de Néantres racontent avoir déjà vu un Farbauti frapper le sol dans un rythme endiablé, ce qui laisse supposer que ces créatures auraient un certain intérêt pour les percussions.\nBien que l'Association d'inspection des Néantres ait déjà démenti cette rumeur, de nombreux écumeurs de Néantres continuent d'emmener avec eux des chaînes stéréo dans l'espoir de distraire les Farbautis avec de la musique.\nCependant, on ne recense à ce jour aucune tentative fructueuse d'échapper à ces créatures à l'aide de cette méthode.\n« La raison derrière ses échecs est simple : même les Farbautis trouvent que tes goûts musicaux sont nazes ! »",
+            "card_quote": "– Publié par « Doigts pointus » sur le forum « Rock du Balayeur Sombre »",
+            "skill_text": "En combat, le Farbauti (Ionisé) lance des attaques assommantes à l'aide de ses puissants bras, toutefois, ces derniers peuvent être pris pour cible et lui infliger Vacillement avec suffisamment d'insistance. Il peut également accumuler de l'énergie pendant un instant avec de bondir pour lancer une attaque puissante."
+        },
+        "200011": {
+            "monster_id": 200011,
+            "monster_name": "Hati (Énergisé)",
+            "card_text": "L'équipe d'inspection Phase-I de l'AIN a enfin documenté l'existence de cet individu d'éther sentient, aux allures de bête quadrupède et extrêmement dangereuse.\nSelon les rumeurs, elle aurait été aperçue pour la première fois dans son terrier à l'intérieur d'une Néantre, où les explorateurs qui inspectaient des déchets à proximité auraient entendu des rugissements déchirants rappelant des hurlements de bêtes sauvages.\n« Si on lance un ballon ou un bâton, tu crois que le monstre ira le chercher ?\n– Tu peux essayer, mais ce n'est pas moi qui paierai ta facture d'hôpital. »",
+            "card_quote": "– Une conversation entre Billy et Nicole",
+            "skill_text": "En combat, le Hati utilise des bonds agiles et ses griffes rapides pour attaquer."
+        },
+        "200014": {
+            "monster_id": 200014,
+            "monster_name": "Hati (Infâme)",
+            "card_text": "L'équipe d'inspection Phase-I de l'AIN a enfin documenté l'existence de cet individu d'éther sentient, aux allures de bête quadrupède et extrêmement dangereuse.\nSelon les rumeurs, elle aurait été aperçue pour la première fois dans son terrier à l'intérieur d'une Néantre, où les explorateurs qui inspectaient des déchets à proximité auraient entendu des rugissements déchirants rappelant des hurlements de bêtes sauvages.\n« Si on lance un ballon ou un bâton, tu crois que le monstre ira le chercher ?\n– Tu peux essayer, mais ce n'est pas moi qui paierai ta facture d'hôpital. »",
+            "card_quote": "– Une conversation entre Billy et Nicole",
+            "skill_text": null
+        },
+        "200015": {
+            "monster_id": 200015,
+            "monster_name": "Chef de meute Hati (Énergisé)",
+            "card_text": "L'équipe d'inspection Phase-I de l'AIN a enfin documenté l'existence de cet individu d'éther sentient, aux allures de bête quadrupède et extrêmement dangereuse.\nSelon les rumeurs, elle aurait été aperçue pour la première fois dans son terrier à l'intérieur d'une Néantre, où les explorateurs qui inspectaient des déchets à proximité auraient entendu des rugissements déchirants rappelant des hurlements de bêtes sauvages.\n« Si on lance un ballon ou un bâton, tu crois que le monstre ira le chercher ?\n– Tu peux essayer, mais ce n'est pas moi qui paierai ta facture d'hôpital. »",
+            "card_quote": "— Une conversation entre Billy et Nicole.",
+            "skill_text": "En combat, le Chef de meute Hati possède un énorme désir d'attaquer, et se montre agile et rapide."
+        },
+        "200021": {
+            "monster_id": 200021,
+            "monster_name": "Gobelin (Énergisé)",
+            "card_text": "Lors des premières rencontres avec ces Éthéréens uniques en leur genre, les inspecteurs de Néantres ont d'abord cru qu'ils possédaient un certain degré d'intelligence et montraient même des signes d'apprentissage, notamment pour le maniement d'armes contendantes similaires à celles des humains. C'est pourquoi on leur donna le nom de Gobelins. Cependant, on a découvert par la suite que ce qu'on croyait être des gourdins, n'étaient en réalité que des membres déformés, et que ces créatures étaient incapables d'imiter les comportements humains.\nNéanmoins, les Gobelins restent des adversaires redoutables en raison de leur stature impressionnante et de leur force brute. En effet, un simple coup de leur membre peut s'avérer mortel.\nDès qu'un intrus pénètre sur leur territoire, ils entrent dans une rage incontrôlable et se jettent sur l'invité indésirable pour le mettre en morceaux.\n« Hein ? Il y a un Gobelin qui tape sur de la ferraille là-bas.\n– Tu ne trouves pas qu'il a le sens du rythme ? On dirait qu'il joue de la batterie...\n– Hé, arrêtez de jouer aux imbéciles, vous deux ! Ce n'est pas de la ferraille, c'est notre camion de ravitaillement ! »",
+            "card_quote": "– Un intru gobelin entre par effraction dans le repère du gang",
+            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'ils infligent et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il subit un Étourdissement."
+        },
+        "200031": {
+            "monster_id": 200031,
+            "monster_name": "Hati cuirassé (Énergisé)",
+            "card_text": "Le Hati cuirassé est considéré comme un adversaire redoutable par de nombreux inspecteurs de Néantres chevronnés.\nBien que sa carapace blindée limite son agilité, elle la compense largement par une résistance exceptionnelle.\nDe plus, la matière corrompue à la surface de son corps forme des épines renforcées qui aggravent considérablement les dégâts qu'un Hati cuirassé peut infliger en chargeant à grande vitesse.\nSon agilité, sa résistance aux coups et son armure sans faille font de cette créature un obstacle que de nombreux explorateurs aguerris préfèrent volontiers contourner.\nCertains écumeurs de Néantres débutants ont déjà tenté de distraire un Hati cuirassé avec de la nourriture pour animaux.\nCependant, ces tentatives étaient vaines.\n« Courrez ! Il n'a pas l'air d'aimer cette marque de croquettes ! »",
+            "card_quote": "– Plusieurs écumeurs de Néantres novices paniqués échappant à un Hati dans une Néantre",
+            "skill_text": "En combat, l'armure du Hati cuirassé réduit considérablement les DGT et la confusion qu'il subit. Les soutiens défensifs réduisent grandement son armure."
+        },
+        "200034": {
+            "monster_id": 200034,
+            "monster_name": "Hati cuirassé (Infâme)",
+            "card_text": "Le Hati cuirassé est considéré comme un adversaire redoutable par de nombreux inspecteurs de Néantres chevronnés.\nBien que sa carapace blindée limite son agilité, elle la compense largement par une résistance exceptionnelle.\nDe plus, la matière corrompue à la surface de son corps forme des épines renforcées qui aggravent considérablement les dégâts qu'un Hati peut infliger en chargeant à grande vitesse.\nSon agilité, sa résistance aux coups et son armure sans faille font de cette créature un obstacle que de nombreux explorateurs aguerris préfèrent volontiers contourner.\nCertains écumeurs de Néantres débutants ont déjà tenté de distraire un Hati cuirassé avec de la nourriture pour animaux.\nCependant, ces tentatives étaient vaines.\n« Courez ! Il n'a pas l'air d'aimer cette marque de croquettes ! »",
+            "card_quote": "– Plusieurs écumeurs de Néantres novices paniqués échappant à un Hati dans une Néantre",
+            "skill_text": "En combat, l'armure du Hati cuirassé (Infâme) réduit considérablement les DGT et la confusion qu'il subit. Les soutiens défensifs réduisent grandement son armure. Son rugissement tire également des projectiles éthériques encore plus puissants."
+        },
+        "200041": {
+            "monster_id": 200041,
+            "monster_name": "Gobelin du métro (Énergisé)",
+            "card_text": "Le débat qui entoure les Gobelins du métro dure, et n'est pas près de s'arrêter. Certains attribuent leur apparence particulière à une technique de camouflage destinée à trompeur leurs ennemis, tandis que d'autres pensent que les débris accolés à leurs corps sont le résultat d'une fusion entre eux et les installations du métro due à la corruption.\nQuoi qu'il en soit, la seule présence de Gobelins du métro suffit à insuffler la peur chez les inspecteurs qui explore les Néantres dans la zone de l'ancien métro.\nÀ n'importe quel moment, un panneau de signalisation d'apparence ordinaire peut se mettre à trembler, et laisser place à un Éthéréen qui sort de terre pour vous foncer dessus sans hésiter.\n« Hein ? Je crois que j'ai déjà vu ce panneau il y a quelques minutes. Est-ce qu'on tourne en rond ,\n– Non... Je crois que ce panneau nous a suivis ! »",
+            "card_quote": "– Le film d'horreur <i>Une perte sans fin</i>, dans lequel le personnage principal cherche à sortir d'une Néantre",
+            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'il inflige et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il subit un Étourdissement."
+        },
+        "200051": {
+            "monster_id": 200051,
+            "monster_name": "Alrune (Énergisé)",
+            "card_text": "Trompés par leur apparence, de nombreux écumeurs de Néantres prennent les Alrunes pour des plantes inoffensives lorsqu'ils en rencontrent pour la première fois.\nToutefois, lorsqu'ils s'en approchent, ils découvrent que l'Alrune émet des décharges de matière éthérique, qui surprennent ses victimes qui ne se doutent de rien.\n« Quoi ? J'ai voulu l'arroser, et elle m'a craché dessus en retour ! »",
+            "card_quote": "– Un groupe d'inspecteurs novices pris en embuscade par un Alrune dans une Néantre",
+            "skill_text": "En combat, l'Alrune lance des attaques à distance extrêmement rusées. Toutefois, lui infliger Vacillement lorsque ses pétales sont ouverts permet d'accumuler énormément de confusion en un seul coup."
+        },
+        "300001": {
+            "monster_id": 300001,
+            "monster_name": "Dullahan (Énergisé)",
+            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthérique et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
+            "card_quote": "– Extrait d'un entretien avec un inspecteur dans l'émission de variété <i>Instruis-moi, senpai !</i>",
+            "skill_text": "En combat, le Dullahan charge pour lancer une attaque puissante à l'aide de son épée longue, qui peut être interrompue par d'autres attaques puissantes."
+        },
+        "300002": {
+            "monster_id": 300002,
+            "monster_name": "Dullahan nouveau-né",
+            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthérique et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
+            "card_quote": "– Extrait d'un entretien avec un inspecteur dans l'émission de variété <i>Instruis-moi, senpai !</i>",
+            "skill_text": "En combat, le Dullahan charge pour lancer une attaque puissante à l'aide de son épée longue, qui peut être interrompue par d'autres attaques puissantes."
+        },
+        "300004": {
+            "monster_id": 300004,
+            "monster_name": "Dullahan (Ionisé)",
+            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthériques et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
+            "card_quote": "– Extrait d'un entretien avec un inspecteur dans l'émission de variété <i>Instruis-moi, senpai !</i>",
+            "skill_text": "En combat, le Dullahan (Ionisé) charge pour lancer une attaque puissante à l'aide de son épée longue, qui peut être interrompue par d'autres attaques à haut niveau. Certaines de ses compétences accumulent également de l'énergie éthérique qui lui permet d'enchaîner avec des attaques explosives."
+        },
+        "300005": {
+            "monster_id": 300005,
+            "monster_name": "Dullahan (Infâme)",
+            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthériques et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
+            "card_quote": "– Extrait d'un entretien avec un inspecteur dans l'émission de variété <i>Instruis-moi, senpai !</i>",
+            "skill_text": "En combat, le Dullahan (Infâme) charge pour lancer une attaque puissante à l'aide de son épée longue, qui peut être interrompue par d'autres attaques puissantes. Il peut bloquer les attaques avec son bouclier et riposter rapidement."
+        },
+        "300011": {
+            "monster_id": 300011,
+            "monster_name": "Thanatos (Énergisé)",
+            "card_text": "L'exploration des Néantres peut être un fardeau mental très pesant, et le Thanatos, avec ses téléportations et ses schémas d'attaques imprévisibles est devenu un traumatisme psychologique récurrent chez les écumeurs de Néantres.\nUn grand nombre d'aventuriers qui ont été confrontés seuls à un Thanatos ont perdu toute volonté de continuer leurs explorations et ont immédiatement choisi de prendre leur retraite prématurément.\nEn conséquence, ces êtres fuyants sont devenus des monstres fréquents dans les films d'horreur.\n« Leur ombre immense et svelte disparaît de ton champ de vision, pour réapparaître dans ton dos...\n– Comment je vais faire ? J'ai trop peur pour aller aux toilettes tout seul, maintenant ! »",
+            "card_quote": "– Nuit de l'avant-première du film d'horreur <i>Éthéréens sur le seuil</i>, fil de discussion tendance sur le site de critiques de films « Prune de cuivre »",
+            "skill_text": "En combat, le Thanatos apparaît et disparaît du champ de bataille pour attaquer par surprise. Il subit une considérable lorsque vous lui infligez des soutiens défensifs ou des soutiens de suivi."
+        },
+        "300014": {
+            "monster_id": 300014,
+            "monster_name": "Thanatos (Ionisé)",
+            "card_text": "L'exploration des Néantres peut être un fardeau mental très pesant, et le Thanatos, avec ses téléportations et ses schémas d'attaques imprévisibles est devenu un traumatisme psychologique récurrent chez les écumeurs de Néantres.\nUn grand nombre d'aventuriers qui ont été confrontés seuls à un Thanatos ont perdu toute volonté de continuer leurs explorations et ont immédiatement choisi de prendre leur retraite prématurément.\nEn conséquence, ces êtres fuyants sont devenus des monstres fréquents dans les films d'horreur.\n« Leur ombre immense et svelte disparaît de ton champ de vision, pour réapparaître dans ton dos...\n– Comment je vais faire ? J'ai trop peur pour aller aux toilettes tout seul, maintenant ! »",
+            "card_quote": "– Nuit de l'avant-première du film d'horreur <i>Éthéréens sur le seuil</i>, fil de discussion tendance sur le site de critiques de films « Prune de cuivre »",
+            "skill_text": "En combat, le Thanatos (Ionisé) apparaît et disparaît du champ de bataille pour attaquer par surprise. Il subit une considérable lorsque vous lui infligez des soutiens défensifs ou des soutiens de suivi."
+        },
+        "300015": {
+            "monster_id": 300015,
+            "monster_name": "Thanatos (Infâme)",
+            "card_text": "L'exploration des Néantres peut être un fardeau mental très pesant, et le Thanatos, avec ses téléportations et ses schémas d'attaques imprévisibles est devenu un traumatisme psychologique récurrent chez les écumeurs de Néantres.\nUn grand nombre d'aventuriers qui ont été confrontés seuls à un Thanatos ont perdu toute volonté de continuer leurs explorations et ont immédiatement choisi de prendre leur retraite prématurément.\nEn conséquence, ces êtres fuyants sont devenus des monstres fréquents dans les films d'horreur.\n« Leur ombre immense et svelte disparaît de ton champ de vision, pour réapparaître dans ton dos...\n– Comment je vais faire ? J'ai trop peur pour aller aux toilettes tout seul, maintenant ! »",
+            "card_quote": "– Nuit de l'avant-première du film d'horreur <i>Éthéréens sur le seuil</i>, fil de discussion tendance sur le site de critiques de films « Prune de cuivre »",
+            "skill_text": "En combat, le Thanatos (Infâme) est très agressif, et apparaît et disparaît du champ de bataille pour attaquer par surprise. Il subit une considérable lorsque vous lui infligez des soutiens défensifs ou des soutiens de suivi."
+        },
+        "300071": {
+            "monster_id": 300071,
+            "monster_name": "Boucher de l'Impasse nouveau-né",
+            "card_text": "Contrairement aux autres Éthéréens, l'éther à l'intérieur du corps du Boucher de l'Impasse reste souvent dans un état dormant.\nIl fait, néanmoins, preuve d'une force brute extraordinaire qui lui permet de détruire n'importe quel obstacle et de faire de l'ancien métro en ruines et distordu son garde-manger personnel.\nCe n'est que lorsqu'il affronte un adversaire à sa taille, qui pique sa curiosité, qu'il entreprend une métamorphose épouvantable...\nEn quelques instants, l'éther extrêmement concentré dans son organisme subit une violente transformation qui génère d'immenses quantités d'énergie qui force ses membres à se déformer rapidement. Cette forme, plus brutale encore que la précédente, est celle qu'il prend pour se nourrir.\nFini les amuse-gueules, il est temps que le festin commence !\nAinsi, quiconque souhaiterait éviter d'être au menu, devrait bien planifier son itinéraire et éviter à tout prix de se retrouver dans son garde-manger.\n« Les chemins des Néantres sont sinueux. Mais une chose est sûre, lorsqu'il apparaît au bout de la route, vous pouvez être sûr d'être dans une \"impasse\". »",
+            "card_quote": "– La 17e enquête de l'Association d'inspection des Néantres au sujet de la Néantre de l'Impasse",
+            "skill_text": "En combat, les attaques du Boucher de l'Impasse nouveau-né sont très variées. Lorsqu'il subit suffisamment de dégâts, il prend sa forme finale et dispose d'attaques plus féroces, ainsi que de lasers. Frappez-le avec des compétences à haut niveau à la fin e son combo pour lui infliger davantage de Vacillement. Le Boucher de l'Impasse nouveau-né peut esquiver les attaques avec des bonds agiles."
+        }
+    },
+    "Bandits": {
+        "10015": {
+            "monster_id": 10015,
+            "monster_name": "Pilleur",
+            "card_text": "Dans les rangs de voleurs d'éther, les Pilleurs et les Rapineurs constituent la force principale grâce à leur expertise technique ainsi qu'à leur aptitude au combat.\nLeurs détecteurs de résonance électrique émettent des puissantes tensions permettant de détecter les minerais éthériques, mais peuvent également servir d'armes terribles au combat lors de rixes à main armée.\nSouvent confondus avec des pêcheurs illégaux, ils ne se soucient pas de l'image qu'ils renvoient.\nEn effet, armés de leurs tasers mortels, que leurs adversaires soient des poissons ou des humains ne fait aucune différence pour eux...\n« Si vous croisez des individus armés de harpons électrifiés, que ce soit près d'un cours d'eau, d'un lac ou d'une Néantre, veuillez les signaler immédiatement à la Sécurité publique ! »",
+            "card_quote": "– Slogan de la Sécurité publique de la Nouvelle-Eridu diffusé de façon répétée depuis des voitures publicitaires",
+            "skill_text": "En combat, Bandit des Néantres – Pilleur charge sa cible à distance, heurtant potentiellement des obstacles sur son chemin, créant ainsi des occasions parfaites pour contre-attaquer."
+        },
+        "10016": {
+            "monster_id": 10016,
+            "monster_name": "Pyromane",
+            "card_text": "Pour les Pyromanes et les Incendiaires, les vols en tout genre ne sont qu'une activité accessoire. Au plus profond de leur âme, ils se considèrent plutôt comme des amateurs de cocktails à la recherche de sensations fortes.\nAvec technique et précision, ils mélangent toutes sortes d'éthers différents dans leurs boissons, et concoctent avec un flegme sans faille des « cuvées spéciales » hautement inflammables et explosives.\nContrairement aux autres écumeurs de Néantres violents, ils offrent souvent à leurs victimes un choix.\nSi leurs victimes acceptent de payer leur « taxe », ils leur offrent généreusement une boisson gratuite.\nToutefois, si la victime refuse, ils versent violemment leur « cuvée spéciale » sur la tête de leur souffre-douleur.\n« Et si on leur faisait boire leur propre arsenal, à ces ordures ? »",
+            "card_quote": "– Dans une Néantre, un inspecteur victime de vol discute tranquillement d'une stratégie de repli",
+            "skill_text": "En combat, Bandit des Néantres – Pyromane bombarde parfois ses cibles avec des pluies de cocktails molotov."
+        },
+        "10018": {
+            "monster_id": 10018,
+            "monster_name": "Braconnier",
+            "card_text": "La plupart des bandits qui errent dans les Néantres montrent de graves troubles psychologiques, ou du moins quelques curieuses excentricités. Heureusement, les braconniers et les boucaniers enrôlés dans les bandes criminelles ont réussi à conserver tous leurs esprits, tout en adoptant les ignobles méthodes traditionnelles des autres bandits.\nPar lâcheté aussi bien que par ruse, ils sont devenus des maîtres de la dissimulation, attendant dans l'ombre de surprendre leurs proies. Ils évitent toute confrontation directe s'ils peuvent tendre une embuscade.\nLeur pistolet arbalète composite est extrêmement silencieux, mais d'une puissance limitée. D'ordinaire, les braconniers les plus chevronnés attendent le moment idéal pour neutraliser leur proie d'un seul tir bien placé.\n« Moi aussi, j'étais officier de la Sécurité publique autrefois. Et puis, j'ai pris une flèche dans le genou lors d'une opération en Néantre... »",
+            "card_quote": "– Un membre chevronné de la société Rossignol Sécurité parlant avec un novice",
+            "skill_text": "En combat, Bandit des Néantres – Braconnier harcèle ses cibles à distance avec des tirs à trois coups."
+        },
+        "10019": {
+            "monster_id": 10019,
+            "monster_name": "Agresseur",
+            "card_text": "Constituant l'avant-garde des écumeurs de Néantres, les Agresseurs et les Embusqués sortent souvent leurs armes et foncent tête baissée de leur propre chef.\nCe n'est pas par inconscience ou par manque de considération pour le travail d'équipe, mais plutôt pour éviter tout dommage collatéral. En effet, les bobines de transformateur modifiées qu'il tiennent en main produisent un courant à haute tension capable de paralyser ou de mettre hors d'état de nuire leurs adversaires d'un simple toucher.\nAinsi, à l'intérieur des Néantres, où les déplacements sont déjà extrêmement complexes, un coéquipier inconscient pourrait poser un terrible problème pour l'ensemble du groupe.\n« C'est quoi, ça ? Fais voir ! Oh, on dirait une matraque électriIiIiIi... AaAaaAaAaaargh... »",
+            "card_quote": "– Les dernières paroles d'un inspecteur novice curieux avant de s'écrouler dans une Néantre",
+            "skill_text": "En combat, Bandit des Néantres – Agresseur lance des attaques tournoyantes continues, qui s'avèrent suicidaires puisqu'elles révèlent ses faiblesses."
+        },
+        "20015": {
+            "monster_id": 20015,
+            "monster_name": "Malfrat costaud",
+            "card_text": "Contrairement aux inspecteurs de Néantres, les Malfrats costauds et les Malfrats recherchés recherchés possèdent un équipement minimaliste.\nNéanmoins, l'équipement de fortune de ces voyous tristement célèbres suffit à insuffler la peur chez leurs victimes.\nUne batte en métal à pics, ainsi qu'un fusil à deux coups modifié sont tout ce dont ils ont besoin pour se faire connaître comme les brutes les plus craintes des Néantres.\nSelon les inspecteurs qui ont croisé ces malfrats, ces derniers entreraient dans une sorte de transe meurtrière lors des combats. Cette euphorie est même peu adaptée au combat et ressemblerait plus à du harcèlement scolaire.\n« Les affronter a fait remonter de mauvais souvenirs de l'époque où on m'harcelait à l'école... »",
+            "card_quote": "– Lettre de démission d'un inspecteur novice de l'Association d'inspection des Néantres",
+            "skill_text": "En combat, Bandit des Néantres – Malfrat costaud alterne entre sa masse et son fusil à pompe pour attaquer à courtes distances, et lance parfois du sable pour attaquer par surprise."
+        },
+        "20017": {
+            "monster_id": 20017,
+            "monster_name": "Truand costaud",
+            "card_text": "Dans les milieux clandestins de la Nouvelle-Eridu, tout le monde s'accorde à dire que même les plus redoutables des combattants des cercles de combat n'arrivent pas à la cheville des Truands costauds ou des truands recherchés qui rôdent dans les Néantres. Ces voyous professionnels sont engagés à prix d'or par des voleurs de matière éthérique pour protéger leur butin mal acquis.\nGrands fans de boxe, les truands costauds ont incorporé des tasers à haute tension dans leurs gants de boxe, pour renforcer l'impact déjà destructeur de leurs coups.\nÀ leurs yeux, les Éthéréens, les écumeurs et inspecteurs de Néantres, voire même les agents de la Sécurité publique, ne sont pas des adversaires, mais plutôt des sacs de frappe sur lesquels ils peuvent se défouler.\n« Une seconde. Je crois que j'ai déjà vu la posture de combat de ce type dans la salle d'arcade de la Quatrième ! »",
+            "card_quote": "– Billy s'occupant d'un truand en pleine charge dans une Néantre",
+            "skill_text": "En combat, Bandit des Néantres – Truand costaud frappe avec ses deux poings, et utilise son jeu de jambes agile pour changer l'angle d'attaque."
+        },
+        "20020": {
+            "monster_id": 20020,
+            "monster_name": "Balayeur enragé",
+            "card_text": "Chaque année, un nombre considérable de méchas de combat de la Sécurité publique sont détruits dans les Néantres. Certains de ces méchas sont ensuite récupérés et réparés par des bandits des Néantres, qui les modifient illégalement pour créer des Balayeurs enragés.\nFaute d'accès à des pièces détachées officielles ou à des services de réparation professionnels, les bandits réparent les méchas à l'aide de composant de fortune, tout en cherchant à conserver leur aptitude au combat. Afin d'asseoir leur individualité, les bandits marquent les Balayeurs enragés à la peinture d'un signe reconnaissable, voire leur installent des haut-parleurs ultre puissants.\nBien que cela n'ait aucune incidence sur leurs capacités au combat, leur apparence est beaucoup plus singulière que celle des originaux.\n« C'est parti ! On a une cible facile aux cheveux roses dans le viseur !\nAllez, mets la musique qu'on lance pour les braquages d'habitude ! »",
+            "card_quote": "– Un bandit des Néantres corrigeant d'urgence un balayeur enragé dans une Néantre",
+            "skill_text": "En combat, Unité de soutien illégale – Balayeur enragé lance des attaques tournoyantes à l'aide de ses longs bras. Assénez-lui un soutien défensif avec le début de son attaque afin de l'interrompre."
+        },
+        "20023": {
+            "monster_id": 20023,
+            "monster_name": "Mors",
+            "card_text": "Mors était autrefois le chasseur de primes le plus redouté de la couronne extérieure. Il possédait une envie de traquer presque obsessionnelle, poursuivant souvent ses cibles sans relâche, jour après jour. Une fois qu'il avait une proie en ligne de mire, il la coursait sans relâche jusqu'à ce qu'elle soit morte.\n\n« Mors le Loup solitaire » n'échoue jamais, c'est ce que se disent toutes les grandes factions de la couronne extérieure.\n\nCependant, lors d'une « chasse », Mors a traqué sa cible jour et nuit pendant trois jours... Même après avoir épuisé toutes ses réserves, il n'a pas réussi à l'éliminer.\nÉtonnamment, l'homme nommé qu'il traquait, Pompée, ne lui tint pas rigueur de sa tentative, et proposa à Mors, vaincu, de rejoindre sa bande.\n\nDepuis cet instant, le redoutable « chasseur » Mors a disparu. Cependant, au sein des Conquérants, un nouveau personnage est apparu : un capitaine taciturne et solitaire.\nAujourd'hui encore, Mors reste insaisissable, disparaissant souvent pendant de longues périodes. Il ne réapparaît que lorsqu'il est confronté à un ennemi qui l'intrigue vraiment, non pas pour son devoir de capitaine, mais simplement pour s'adonner à l'exaltation du combat et au bonheur de la chasse.\n« Tu veux défier le capitaine Mors en duel ? Héhé, tu penses vraiment avoir les épaules pour ça ?\nVa d'abord t'inscrire là-bas, puis présente-toi le mois prochain pour tenter ta chance au tirage au sort. »",
+            "card_quote": "— Au sein des Conquérants, les hommes de Mors font face à un adversaire.",
+            "skill_text": "En combat, Mors s'adapte au champ de bataille, alternant combos à bout portant et tirs à longue portée. Quand ses PV passent en dessous d'un certain pourcentage ou bout d'un certain temps, il commence à enchaîner des attaques à distance ou à tendre des pièges avec des tirs dans l'angle mort après s'être furtivement repositionné."
+        },
+        "20024": {
+            "monster_id": 20024,
+            "monster_name": "Pulchra",
+            "card_text": "Nul ne sait d'où vient Pulchra, mais elle faisait partie des meilleurs mercenaires de la couronne extérieure, un « caméléon » qui s'adapte en toutes circonstances.\nPeu de temps après la victoire de Pompée lors du dernier Tour de l'enfer, quelques factions ont conspiré dans l'ombre pour lancer une attaque surprise contre les Conquérants. Ils n'ont eu aucun mal à déjouer cette manœuvre, comme s'ils étaient au courant de toutes les manigances. \nLes perdants ont été chassés de l'Ancien gisement de pétrole et bien qu'elle se soit alliée à eux, Pulchra en est ressortie en toute impunité. En toute logique, beaucoup ont pensé que cette victoire reposait sur une trahison.\nMalgré de nombreuses offres, Pulchra n'a jamais officiellement rejoint une bande.\nPeut-être que pour elle, tous ces complots et conflits au sein de la couronne extérieure n'étaient qu'un jeu qu'elle pouvait abandonner à n'importe quel moment. Même si son employeur était détestable, elle s'en fichait, tant qu'il avait de l'argent et que le travail était intéressant.\nSurtout si la mission consistait à appâter les ennemis dans des pièges sophistiqués et savourer l'expression sur leurs visages tandis qu'ils sombrent lentement dans les profondeurs de la mort.\nSéduire, tromper, jusqu'à ce que l'adversaire soit complètement détruit... Plus une chose est sublime, plus elle est dangereuse. C'est son crédo en matière de survie.\n« Quoi ? Tu veux bosser pour Pulchra ?\nHéhé, encore une personne qui n'a plus toute sa tête... »",
+            "card_quote": "— Dans le camp des Conquérants, un soldat avec de la bouteille remonte les bretelles d'une nouvelle recrue.",
+            "skill_text": "En combat, Pulchra garde ses distances, attendant le moment opportun pour utiliser ses attaques physiques, ses pistolets à baïonnette et autres gadgets pour perturber sa cible. Quand ses PV passent en dessous d'un certain pourcentage, elle prend une boisson tonifiante pour renforcer ses capacités d'esquive, lui permettant d'éviter toute attaque provenant de ses cibles proches."
+        },
+        "20025": {
+            "monster_id": 20025,
+            "monster_name": "Bellum",
+            "card_text": "En tant que champion de combat d'arène avec une impressionnante série de victoires, Bellum s'est attribué le titre du meilleur combattant de la couronne extérieure, jusqu'à ce que cette série de victoires prenne fin.\nLe plus exaspérant... c'est que le type arrogant qui l'a vaincu ne se souvienne même pas de son nom.\nFurieux, Bellum a perfectionné ses talents de combattant, se faisant la promesse que son nom résonnerait à nouveau dans toute la couronne extérieure et qu'il ferait payer ce crétin arrogant.\nPour atteindre son objectif, Bellum a rejoint les Conquérants et aidé Pompée à vaincre les ennemis les plus dangereux les uns que les autres. Il pouvait modifier et utiliser aisément un lance-flammes, avec lequel il lançait la charge pour incinérer les ennemis sur son passage. Il pouvait également mener son escouade avec une précision sans faille, l'organisant en une force de combat imparable. Toutes les batailles qu'il a dirigées se sont soldées par des victoires.\nCertes, il n'est plus le champion qui enchaînait les victoires, mais tous ceux de la couronne extérieure ont été témoin de l'horreur de la Guerre des factions et en tant que membre d'élite des Conquérants, il est l'incarnation même de la Guerre.\n« Tu ne veux pas faire la sale besogne ? Héhé, il ne fallait pas perdre contre Bellum !\nMaintenant, va récurer ces chiottes ! »",
+            "card_quote": "— Dans les rangs des Conquérants, un soldat avec de la bouteille réprimande une nouvelle recrue qui tire au flanc.",
+            "skill_text": "En combat, Bellum utilise son fusil à baïonnette, un bouclier et un lance-flamme pour acculer son adversaire à bout portant. Si Bellum est attaqué alors qu'il est en posture de garde avec son boucler, il lance une puissante contre-attaque. Quand ses PV passent en dessous d'un certain pourcentage, les attaques de Bellum s'intensifient et deviennent plus féroces et impitoyables."
+        },
+        "30019": {
+            "monster_id": 30019,
+            "monster_name": "Brute déchaînée",
+            "card_text": "Les Bandits des Néantres sont constitués de personnes de tous horizons qui se sont rassemblés dans un seul but : piller les ressources éthériques des Néantres pour se remplir les poches.\nCes bandes de malfrats hétéroclites sont sans foi ni loi.\nNéanmoins, lorsque la Brute déchaînée, le mètre-étalon de la violence, fait son apparition, c'est elle qui fait la loi.\nElle porte des équipements de construction modifiés et ramasse la moindre ferraille qui traîne pour en faire des armes de fortune. Les appareils et les armes qu'elle porte ont l'air assez lourds pour écraser un bodybuilder, mais pour elle, il s'agit de poids idéals pour une bonne séance de muscu.\nFrapper, briser, écraser... autant de techniques de combat de base qui sont, lorsque assénées des mains de la Brute déchaînée. Une véritable démonstration de leur force destructrice inégalée.\nD'après les recherches de la Sécurité publique, les bandes de Bandits des Néantres menée par des Brutes déchaînées développent souvent une étrange culture de musculation intensive en pleine rue et sont bien plus soudées...\n« Quoi ? Tu trouves que les entraîneurs de la salle sont hyper forts ?\n– Hahaha, t'as oublié tes lunettes ou quoi ?\n– Tu devrais nous rejoindre. Trois semaines de muscu avec le boss et t'aurais des biceps en acier trempé ! »",
+            "card_quote": "– Quelque part à la Nouvelle-Eridu, des Bandit des Néantres tentent de rallier de nouvelles recrues.",
+            "skill_text": "En combat, Bandit des Néantres – Brute déchaînée charge son armure d'électricité pour lancer des attaques à haut niveau. Lorsque sa charge est interrompue, il subit Électrocution immédiatement, et Dysfonctionnement s'il souffre déjà d'une autre anomalie d'attribut."
+        },
+        "100151": {
+            "monster_id": 100151,
+            "monster_name": "Rapineur",
+            "card_text": "Dans les rangs de voleurs d'éther, les Pilleurs et les Rapineurs constituent la force principale grâce à leur expertise technique ainsi qu'à leur aptitude au combat.\nLeurs détecteurs de résonance électrique émettent des puissantes tensions permettant de détecter les minerais éthériques, mais peuvent également servir d'armes terribles au combat lors de rixes à main armée.\nSouvent confondus avec des pêcheurs illégaux, ils ne se soucient pas de l'image qu'ils renvoient.\nEn effet, armés de leurs tasers mortels, que leurs adversaires soient des poissons ou des humains ne fait aucune différence pour eux...\n« Si vous croisez des individus armés de harpons électrifiés, que ce soit près d'un cours d'eau, d'un lac ou d'une Néantre, veuillez les signaler immédiatement à la Sécurité publique ! »",
+            "card_quote": "– Slogan de la Sécurité publique de la Nouvelle-Eridu diffusé de façon répétée depuis des voitures publicitaires",
+            "skill_text": "En combat, Bandit des Néantres – Rapineur charge sa cible à distance, heurtant potentiellement des obstacles sur son chemin, créant ainsi des occasions parfaites pour contre-attaquer."
+        },
+        "100161": {
+            "monster_id": 100161,
+            "monster_name": "Incendiaire",
+            "card_text": "Pour les Pyromanes et les Incendiaires, les vols en tout genre ne sont qu'une activité accessoire. Au plus profond de leur âme, ils se considèrent plutôt comme des amateurs de cocktails à la recherche de sensations fortes.\nAvec technique et précision, ils mélangent toutes sortes d'éthers différents dans leurs boissons, et concoctent avec un flegme sans faille des « cuvées spéciales » hautement inflammables et explosives.\nContrairement aux autres écumeurs de Néantres violents, ils offrent souvent à leurs victimes un choix.\nSi leurs victimes acceptent de payer leur « taxe », ils leur offrent généreusement une boisson gratuite.\nToutefois, si la victime refuse, ils versent violemment leur « cuvée spéciale » sur la tête de leur souffre-douleur.\n« Et si on leur faisait boire leur propre arsenal, à ces ordures ? »",
+            "card_quote": "– Dans une Néantre, un inspecteur victime de vol discute tranquillement d'une stratégie de repli",
+            "skill_text": "En combat, Bandit des Néantres – Incendiaire bombarde parfois ses cibles avec des pluies de cocktails molotov."
+        },
+        "100181": {
+            "monster_id": 100181,
+            "monster_name": "Boucanier",
+            "card_text": "La plupart des bandits qui errent dans les Néantres montrent de graves troubles psychologiques, ou du moins quelques curieuses excentricités. Heureusement, les braconniers et les boucaniers enrôlés dans les bandes criminelles ont réussi à conserver tous leurs esprits, tout en adoptant les ignobles méthodes traditionnelles des autres bandits.\nPar lâcheté aussi bien que par ruse, ils sont devenus des maîtres de la dissimulation, attendant dans l'ombre de surprendre leurs proies. Ils évitent toute confrontation directe s'ils peuvent tendre une embuscade.\nLeur pistolet arbalète composite est extrêmement silencieux, mais d'une puissance limitée. D'ordinaire, les braconniers les plus chevronnés attendent le moment idéal pour neutraliser leur proie d'un seul tir bien placé.\n« Moi aussi, j'étais officier de la Sécurité publique autrefois. Et puis, j'ai pris une flèche dans le genou lors d'une opération en Néantre... »",
+            "card_quote": "– Un membre chevronné de la société Rossignol Sécurité parlant avec un novice",
+            "skill_text": "En combat, Bandit des Néantres – Boucanier harcèle ses cibles à distance avec des tirs à trois coups."
+        },
+        "100191": {
+            "monster_id": 100191,
+            "monster_name": "Embusqué",
+            "card_text": "Constituant l'avant-garde des écumeurs de Néantres, les Agresseurs et les Embusqués sortent souvent leurs armes et foncent tête baissée de leur propre chef.\nCe n'est pas par inconscience ou par manque de considération pour le travail d'équipe, mais plutôt pour éviter tout dommage collatéral. En effet, les bobines de transformateur modifiées qu'il tiennent en main produisent un courant à haute tension capable de paralyser ou de mettre hors d'état de nuire leurs adversaires d'un simple toucher.\nAinsi, à l'intérieur des Néantres, où les déplacements sont déjà extrêmement complexes, un coéquipier inconscient pourrait poser un terrible problème pour l'ensemble du groupe.\n« C'est quoi, ça ? Fais voir ! Oh, on dirait une matraque électriIiIiIi... AaAaaAaAaaargh... »",
+            "card_quote": "– Les dernières paroles d'un inspecteur novice curieux avant de s'écrouler dans une Néantre",
+            "skill_text": "En combat, Bandit des Néantres – Embusqué lance des attaques tournoyantes continues, qui s'avèrent suicidaires puisqu'elles révèlent ses faiblesses."
+        },
+        "200151": {
+            "monster_id": 200151,
+            "monster_name": "Malfrat recherché",
+            "card_text": "Contrairement aux inspecteurs de Néantres, les Malfrats costauds et les Malfrats recherchés recherchés possèdent un équipement minimaliste.\nNéanmoins, l'équipement de fortune de ces voyous tristement célèbres suffit à insuffler la peur chez leurs victimes.\nUne batte en métal à pics, ainsi qu'un fusil à deux coups modifié sont tout ce dont ils ont besoin pour se faire connaître comme les brutes les plus craintes des Néantres.\nSelon les inspecteurs qui ont croisé ces malfrats, ces derniers entreraient dans une sorte de transe meurtrière lors des combats. Cette euphorie est même peu adaptée au combat et ressemblerait plus à du harcèlement scolaire.\n« Les affronter a fait remonter de mauvais souvenirs de l'époque où on m'harcelait à l'école... »",
+            "card_quote": "– Lettre de démission d'un inspecteur novice de l'Association d'inspection des Néantres",
+            "skill_text": "En combat, Bandit des Néantres – Malfrat recherché alterne entre sa masse et son fusil à pompe pour attaquer à courtes distances, et lance parfois du sable pour attaquer par surprise."
+        },
+        "200171": {
+            "monster_id": 200171,
+            "monster_name": "Truand recherché",
+            "card_text": "Dans les milieux clandestins de la Nouvelle-Eridu, tout le monde s'accorde à dire que même les plus redoutables des combattants des cercles de combat n'arrivent pas à la cheville des Truands costauds ou des truands recherchés qui rôdent dans les Néantres. Ces voyous professionnels sont engagés à prix d'or par des voleurs de matière éthérique pour protéger leur butin mal acquis.\nGrands fans de boxe, les truands costauds ont incorporé des tasers à haute tension dans leurs gants de boxe, pour renforcer l'impact déjà destructeur de leurs coups.\nÀ leurs yeux, les Éthéréens, les écumeurs et inspecteurs de Néantres, voire même les agents de la Sécurité publique, ne sont pas des adversaires, mais plutôt des sacs de frappe sur lesquels ils peuvent se défouler.\n« Une seconde. Je crois que j'ai déjà vu la posture de combat de ce type dans la salle d'arcade de la Quatrième ! »",
+            "card_quote": "– Billy s'occupant d'un truand en pleine charge dans une Néantre",
+            "skill_text": "En combat, Bandit des Néantres – Truand costaud recherché frappe avec ses deux poings, et utilise son jeu de jambes agile pour changer l'angle d'attaque."
+        },
+        "200172": {
+            "monster_id": 200172,
+            "monster_name": "Délinquant – Truand recherché",
+            "card_text": "Dans les milieux clandestins de la Nouvelle-Eridu, tout le monde s'accorde à dire que même les plus redoutables des combattants des cercles de combat n'arrivent pas à la cheville des Truands costauds ou des truands recherchés qui rôdent dans les Néantres. Ces voyous professionnels sont engagés à prix d'or par des voleurs de matière éthérique pour protéger leur butin mal acquis.\nGrands fans de boxe, les truands costauds ont incorporé des tasers à haute tension dans leurs gants de boxe, pour renforcer l'impact déjà destructeur de leurs coups.\nÀ leurs yeux, les Éthéréens, les écumeurs et inspecteurs de Néantres, voire même les agents de la Sécurité publique, ne sont pas des adversaires, mais plutôt des sacs de frappe sur lesquels ils peuvent se défouler.\n« Une seconde. Je crois que j'ai déjà vu la posture de combat de ce type dans la salle d'arcade de la Quatrième ! »",
+            "card_quote": "– Billy s'occupant d'un truand en pleine charge dans une Néantre",
+            "skill_text": "En combat, Délinquant – Truand recherché est extrêmement agressif, et utilise son jeu de jambes agile pour changer l'angle d'attaque."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelganger – Mors",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en s'adaptant au champ de bataille pour alterner des combos à bout portant et tirs à longue portée. Quand ses PV passent en dessous d'un certain pourcentage ou bout d'un certain temps, il commence à enchaîner des attaques à distance ou à tendre des pièges avec des tirs dans l'angle mort après s'être furtivement repositionné."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelganger – Pulchra",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible tout en gardant ses distances, attendant le moment opportun pour utiliser ses attaques physiques, ses pistolets à baïonnette et autres gadgets pour perturber sa cible. Quand ses PV passent en dessous d'un certain pourcentage, il entreprend un moyen inconnu pour renforcer ses capacités d'esquive, lui permettant d'éviter toute attaque provenant de ses cibles proches."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelganger – Bellum",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en utilisant un fusil à baïonnette, un bouclier et un lance-flamme pour acculer son adversaire à bout portant. S'il est attaqué alors qu'il est en posture de garde avec son bouclier, il lance une puissante contre-attaque. Quand ses PV passent en dessous d'un certain pourcentage, ses attaques s'intensifient et deviennent plus féroces et impitoyables."
+        }
+    },
+    "Corrompus": {
+        "10021": {
+            "monster_id": 10021,
+            "monster_name": "Drone Corbeau",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30009": {
+            "monster_id": 30009,
+            "monster_name": "Complexe de corruption inconnu",
+            "card_text": "Khors Belobog, fondateur des usines Belobog, disait que les engins de construction était le mariage parfait de la force et de la beauté, et que leur conception devait suivre, dans les moindres détails, les principes de la mécanique classique.\nToutefois, la découverte du Complexe de corruption inconnu a remis en question tous les modèles de conception classique établis.\nPar l'impulsion d'un cœur éthérique hautement concentré, divers composants de pointe se sont assemblés de manière brutale, et on engendré une structure excessive qui repoussait toutes les limites de la physique.\nMélangeant des techniques de coupe, de martèlement, de forage et de pilonnage... elle les transforma pour créer des tactiques de combat imprévisibles.\nDe plus, lorsqu'il atteint un seuil critique, le cœur éthérique fournit une source inépuisable d'énergie volatile. Cela lui permet de couvrir sa carapace de courants à haute tension, et d'émettre des décharges dévastatrices capables de fendre la terre et pulvériser ses adversaires.\nSelon les hypothèses de l'AIN, le Complexe de corruption inconnu est capable de dévorer et d'absorber un grand éventail d'engins lourd, notamment des méchas militaires, des armes à laser, voire des missiles à courte portée des Forces de défense...\nChaque objet mécanique élaboré qu'il touche est absorbé, disséqué et finalement assimilé à sa structure.\nIl a été conçu dans le but d'acquérir une force destructrice inégalée, pour maximiser son efficacité dans son massacre incessant.\n« Sa conception est beaucoup trop étrange... Bon, allez, encore un petit coup d'œil ! »",
+            "card_quote": "– Grace sur l'observation d'un complexe de corruption inconnu au cœur d'une Néantre",
+            "skill_text": "En combat, le Complexe de corruption inconnu combine les attaques des différents engins de construction, et peut tirer des barrages de missiles. Pendant qu'il est étourdi, attaquez son corps principal jusqu'à le briser pour lui infliger une immense quantité de dégâts. Ses jambes peuvent également être brisées pour lui infliger une confusion considérable."
+        },
+        "30021": {
+            "monster_id": 30021,
+            "monster_name": "Suzerain corrompu – Pompée",
+            "card_text": "Les habitants de la couronne extérieure le nommaient respectueusement « Suzerain Pompée ».\nMais son âme a été corrompue par l'éther et son corps est intoxiqué par le soufre et le pétrole brut. Ce cœur qui ne battait que pour la couronne extérieure s'est changé en noyau éthérique emplit d'une puissance infinie.\nL'ancien « Seigneur de la couronne extérieure » est revenu des flammes dans une forme différente.\nLibre, majestueux... violent, fou.\nIl charge à travers cendres et flammes en saisissant tout ce qui bouge pour l'exterminer sans pitié.\nCeux qui le connaissaient ont compris, en se basant sur ses chuchotements saccadés, qu'il n'est pas animé par un désir de vengeance mesquin, mais plutôt par la volonté d'écraser tous les intrus qui osent défier les règles de la couronne extérieure.\nIl s'agit peut-être du dernier vestige de la volonté de l'ancien Suzerain Pompée.\n« Notre chef s'est transformé en \"ça\", mais... il n'en reste pas moins lui-même. »",
+            "card_quote": "— Un ancien sous-fifre des Conquérants, tremblant de peur.",
+            "skill_text": "En combat, le Suzerain Pompée attaque avec une combinaison de moto et de pistolets flottants. Cependant, lors de certains mouvements, s'il est contré par un soutien défensif, son point faible se retrouve exposé. Après avoir subi un certain nombre de DGT, il entre dans une deuxième phase durant laquelle il utilise alternativement la roue arrière de sa moto et une longue épée pour attaquer. La roue arrière de sa moto peut également accumuler de l'énergie éthérique, ce qui provoque une explosion de grande ampleur."
+        },
+        "100211": {
+            "monster_id": 100211,
+            "monster_name": "Drone corbeau (Activé)",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "100271": {
+            "monster_id": 100271,
+            "monster_name": "Frappeur sournois",
+            "card_text": "Un pauvre hère que la corruption due à la matière éthérique active des Néantres a fait muter. Puisque l'individu qui s'est métamorphosé présentait une certaine affinité éthérique, la transformation n'a pas pu être complète et a conservé quelque traits humanoïdes de sa forme originelle. À en juger par ses loques et son aptitude au combat, il s'agissait probablement d'un bandit, ou d'un criminel, qui rôdait dans les Néantres.\nBien que les bandits et les voyous qui sévissent dans les Néantres portent de l'équipement anti-corruption, certains malchanceux subissent des transformations monstrueuses à cause d'un état de corruption avancée. Ces Éthéréens mutants conservent l'aptitude au combat de leur vie passée, ce qui en fait des adversaires bien plus redoutables que les Éthéréens pure souche.\n« Maintenant leurs vies de criminels terminées, même dans la mort, ils continuent d'être nuisibles. »",
+            "card_quote": "– Une publication de discussion de la Sécurité publique de la Nouvelle-Eridu sur le forum « Planète des catastrophes »",
+            "skill_text": "En combat, Bandit corrompu – Frappeur sournois assène des séries d'entailles difficiles à interrompre."
+        },
+        "100281": {
+            "monster_id": 100281,
+            "monster_name": "Rôdeur avare",
+            "card_text": "Cet être humanoïde intelligent est le résultat d'une corruption à de la matière éthérique très active à l'intérieur d'une Néantre. Conservant certains traits humanoïdes, des loques et une aptitude au combat particulière, il est fort probable qu'il fût jadis un bandit ou un écumeur ayant élu domicile dans une Néantre.\nLes caractéristiques physiques de cette créatures indiquent qu'il était un spécialiste des armes à distance dans son ancienne vie. Malgré avoir perdu tout libre-arbitre à cause de sa transformation en Éthéréen, il a, néanmoins, conservé ses instincts et sa préférence pour le combat à distance. Sa forme corrompue lui permet de tirer des projectiles pour attaquer ses adversaires. La corruption éthérique a même amplifié son aptitude au tir et la puissance de ses projectiles. (Ces créatures peuvent tirer des cristaux éthériques pointus ou un mélange d'explosifs, par exemple.)\n« Je lui avais bien dit de ne pas toucher à ce cristal, mais il ne m'a pas écouté ! Cet imbécile n'écoute jamais rien de ce qu'on lui dit, de toute façon ! Et, au moment de sortir de la Néantre, il... Il s'est transformé... »",
+            "card_quote": "– Bureau de la Sécurité publique du quartier des Faunes, rapport d'un interrogatoire",
+            "skill_text": "En combat, Bandit corrompu – Rôdeur avare lance des attaques à distance difficiles à détecter."
+        },
+        "200121": {
+            "monster_id": 200121,
+            "monster_name": "Maniaque frénétique",
+            "card_text": "Des âmes malchanceuses qui ont muté à cause de la corruption intense provoquée par la matière éthérique des Néantres. En raison de leur affinité éthérique élevée ainsi que leurs capacités physiques impressionnantes, leurs corps n'ont pas entièrement été transformés par l'éther. Leur forme humanoïde, renforcée par des membres mutants, n'en est que plus dangereuse.\nÀ en juger par ses loques et son aptitude au combat, il s'agissait probablement d'un haut gradé d'une bande criminelle ou d'un écumeur expérimenté qui rôdait dans les Néantres.\nProbablement en raison de leur affinité éthérique ou de leur physiologie supérieure, ces êtres corrompus ont développé une aptitude extraordinaire pour le combat rapproché, rendant ces créatures beaucoup plus dangereuses que la plupart des monstres que l'on croise habituellement dans les Néantres.\n« Ils ont des armes plutôt haut de gamme... mais maintenant, elles sont gratuites... »",
+            "card_quote": "– Analyse d'Anby sur une certaine opération des Lièvres rusés",
+            "skill_text": "En combat, Bandit corrompu – Maniaque frénétique bloque les attaques et riposte après avoir encaissé pendant un certain temps."
+        },
+        "200131": {
+            "monster_id": 200131,
+            "monster_name": "Esprit tordu",
+            "card_text": "Des âmes malchanceuses qui ont muté à cause de la corruption intense provoquée par la matière éthérique des Néantres. En raison de leur affinité éthérique élevée ainsi que leurs capacités physiques impressionnantes, leurs corps n'ont pas entièrement été transformés par l'éther. Leur forme humanoïde, renforcée par des membres mutants, n'en est que plus dangereuse.\nÀ en juger par ses loques et son aptitude au combat, il s'agissait probablement d'un haut gradé d'une bande criminelle ou d'un écumeur expérimenté qui rôdait dans les Néantres.\nLes armes de fortune fabriqués par ces bandits ont mystérieusement survécu à la transformation et ont même été améliorée par la matière éthérique. Les balles qui en sortent ne sont plus de plomb, mais composées d'un mélange de cristaux extrêmement nocif.\n« Ne restez pas plantés là ! Leurs munitions sont illimitées et ils n'ont pas besoin de recharger ! »",
+            "card_quote": "– Division spéciale en Néantres de la Sécurité publique, enregistrement audio du personnel en service",
+            "skill_text": "En combat, Bandit corrompu – Esprit tordu enchaîne ses attaques avec une attaque de chevrotine éthérique."
+        },
+        "200141": {
+            "monster_id": 200141,
+            "monster_name": "Diable impitoyable",
+            "card_text": "Des âmes malchanceuses qui ont muté à cause de la corruption intense provoquée par la matière éthérique des Néantres. En raison de leur affinité éthérique élevée ainsi que leurs capacités physiques impressionnantes, leurs corps n'ont pas entièrement été transformés par l'éther. Leur forme humanoïde, renforcée par des membres mutants, n'en est que plus dangereuse.\nÀ en juger par ses loques et son aptitude au combat, il s'agissait probablement d'un haut gradé d'une bande criminelle ou d'un écumeur expérimenté qui rôdait dans les Néantres.\nLes voyous sont connus pour leur violence, mais parmi eux, les bandits des Néantres sont réputés être les plus impitoyables. Les combattants d'élite de ces bandits sont particulièrement terrifiants, et font preuve d'une violence incommensurable. Lorsque ces brutes endurcies à la fois physiquement et mentalement sont suffisamment corrompues par l'éther, ils se changent en monstres encore plus féroces et sauvages que tous les autres.\n« Avant, ils hurlaient \"La bourse ou la vie\". Maintenant, ils ne nous laisse même plus le choix... »",
+            "card_quote": "– Annotations dans un manuel interne de l'Association d'inspection des Néantres, « Identification d'une menace dans une Néantre : sujets corrompus »",
+            "skill_text": "En combat, Bandit corrompu – Diable impitoyable lance des attaques en continu sur les cibles à proximité, et charge ses adversaires à distance. Il entre dans une rage incontrôlable lorsque ses bras sont détruits."
+        }
+    },
+    "Sécurité publique": {
+        "10010": {
+            "monster_id": 10010,
+            "monster_name": "Unité non identifiée",
+            "card_text": "Unité non identifiée. Analyse complémentaire nécessaire.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10011": {
+            "monster_id": 10011,
+            "monster_name": "Unité non identifiée",
+            "card_text": "Unité non identifiée. Analyse complémentaire nécessaire.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10012": {
+            "monster_id": 10012,
+            "monster_name": "Unité non identifiée",
+            "card_text": "Unité non identifiée. Analyse complémentaire nécessaire.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "20006": {
+            "monster_id": 20006,
+            "monster_name": "Unité de soutien autonome – Balayeur",
+            "card_text": "Un mécha de combat automatisé employé par la Sécurité publique. Il possède de nombreux modes de combats adaptés à différents types d'Éthéréens. Son arsenal est composé de scies circulaires et de rayons thermiques à fusion.\nLes Balayeurs savent identifier rapidement les Éthéréens et choisir la stratégie de combat la plus efficace en fonction de leurs adversaires. Toutefois, leurs capacités d'adaptation montrent leurs limites lorsqu'ils sont confrontés à des écumeurs de Néantres, dont les styles de combats sont bien plus variés.\n« Remuer, hacher, chauffer... Je me demande qui l'a programmé. Peut-être un vendeur d'ustensiles de cuisine sous couverture qui cherche à promouvoir ses produits ? »",
+            "card_quote": "– Le talk show de minuit <i>Seul face à la Néantre</i>",
+            "skill_text": "En combat, Unité de soutien autonome – Balayeur enragé lance des attaques tournoyantes à l'aide de ses longs bras. Assénez-lui un soutien défensif avec le début de son attaque afin de l'interrompre et l'empêcher d'exécuter sa compétence."
+        }
+    },
+    "Soldats rebelles": {
+        "10005": {
+            "monster_id": 10005,
+            "monster_name": "Jäger de frappe",
+            "card_text": "Une unité d'infanterie légère des Forces de défense de la Nouvelle-Eridu.\nSe concentrant principalement sur leur mobilité et leur discrétion, leur arsenal est constitué de couteaux de combats et de petits explosifs éthériques. Souvent envoyés en éclaireurs ou en reconnaissance, leur grande mobilité leur permet d'accomplir des opérations d'embuscade, de surveillance, de traque, mais également d'assassinat.\nDans les Néantres, ils constituent une avant-garde excellente, et repoussent les intrus lambdas et les ennemis éthériques des niveau moindre au corps-à-corps.\n\n« De fines lames, vous dites ? Ce sont plutôt des fous des explosifs, si vous voulez mon avis. Ils se la jouent avec leurs dagues, mais tout ce qu'ils font, c'est balancer des grenades dans tous les sens pour éliminer leurs ennemis ! »",
+            "card_quote": "– Publication anonyme sur le forum Inter-nœud",
+            "skill_text": "En combat, le Jäger de frappe glisse pour se rapprocher de ses cibles, ou lance des couteaux explosifs à retardement."
+        },
+        "10006": {
+            "monster_id": 10006,
+            "monster_name": "Jäger léger",
+            "card_text": "L'unité de combat phare des Forces de défense de la Nouvelle-Eridu. Un Jäger léger ou un Jäger éclaireur bien entraîné peut aisément passer d'un style de combat à l'autre.\nQue ce soit leur aptitude au couteau au corps-à-corps, ou leur précision au tir avec le fusil à énergie éthérique Faucon MK III à longue distance, ils savent parfaitement adapter leur style de combat aux faiblesses de leurs adversaires.\nLorsque leur adversaire est en mauvaise posture, il n'hésite pas à passer à l'offensive, sans montrer la moindre pitié.\n« J'ai vu ce type sortir un couteau. Moi, je m'attendais à un combat à la loyale... Et puis, le voilà qui sort un flingue. »",
+            "card_quote": "– Forum Inter-nœud, commentaire d'un écumeur de Néantres novice",
+            "skill_text": "En combat, le Jäger léger fournit des tirs de soutien constants."
+        },
+        "10007": {
+            "monster_id": 10007,
+            "monster_name": "Jäger enrôlé",
+            "card_text": "Les Jägers enrôlés et les Jägers de 1re classe jouent un rôle crucial dans les Forces spéciales en Néantres des Forces de défense de la Nouvelle-Eridu.\nIls sont armés du cutter éthérique Coyote-PE7, une lame vibrante à haute fréquence, très efficace pour venir à bout des petits ennemis.\nSe frotter aux Éthéréens aux corps-à-corps demande énormément de courage, et peut-être même de folie.\n« À proprement parler, on ne peut pas vraiment appeler ça une opération de neutralisation de Néantre standard... On dirait que ces givrés aiment simplement éventrer de l'Éthéréen. »",
+            "card_quote": "– Département des patrouilles des Forces de défense, rapport des opérations de première ligne",
+            "skill_text": "En combat, le Jäger enrôlé attaque au corps à corps."
+        },
+        "10008": {
+            "monster_id": 10008,
+            "monster_name": "Jäger sentinelle",
+            "card_text": "Unités offensives et défensives cruciales des escouades tactiques des Forces de défense, les Jägers sentinelles et les Jägers patrouilleurs sont non seulement équipés de Coyote-PE7, des lames éthériques lourdes, mais également de boucliers éthériques anti-explosion à inertie, qui leur permettent de se protéger dans les environnements de combat les plus complexes.\nLe poids considérable de ce bouclier, fait de ces troupes des unités défensives très résistantes, au détriment, cependant, de leur mobilité au combat.\nSans entraînement strict, il est quasiment impossible de soulever ce genre de boucliers.\n« Reviens t'engager quand tu auras soulevé un peu de fonte ! »",
+            "card_quote": "– Lettre de refus d'un centre de recrutement reçue par un candidat qui souhaitait s'engager dans les Forces de défense",
+            "skill_text": "En combat, le Jäger sentinelle utilise sont bouclier pour réduire considérablement les DGT et la confusion qu'il subit, mais également pour contre-attaquer."
+        },
+        "10009": {
+            "monster_id": 10009,
+            "monster_name": "Jäger grenadier",
+            "card_text": "Ces Jägers grenadiers et Jägers de démolition sont équipés d'une version modifiée du bazouka Mamba-TG3, dont les roquettes sont constitués d'agents incendiaires éthériques hautement actifs. Cette arme exceptionnelle leur permet de se débarrasser rapidement des unités mécaniques ennemies, ainsi que des Éthéréens, les plus imposants à l'intérieur des Néantres.\nAfin de contrebalancer le recul et d'assurer une précision sans faille, les grenadiers doivent suivre un entraînement spécial, centré sur le maniement des armes lourdes. Curieusement, les statistiques des Forces de défenses montrent, par ailleurs, que leurs meilleurs éléments avaient été photographes auparavant.\n« Vous voulez savoir comment vous servir de ce truc ? C'est comme avec un appareil photo fixé à l'épaule.\nOn vise la cible, on verrouille, on appuie sur la gâchette, et on dit...\n\"Hé, charogne ! Ouistiti !\" »",
+            "card_quote": "– Instructeur du camp d'entraînement des nouvelles recrues expliquant comment utiliser les projectiles",
+            "skill_text": "En combat, le Jäger grenadier fournit des tirs de soutien lourds constants."
+        },
+        "20007": {
+            "monster_id": 20007,
+            "monster_name": "Frappeur lourd",
+            "card_text": "Un mécha automatique tactique des Forces de défense qui fournit une puissance de feu constante pour assister les troupes de première ligne.\nSon bouclier éthérique à inertie peut résister à la plupart des attaques légères et même aux impacts d'Éthéréens de gabarit supérieur.\nIl s'agit sans aucun doute du compagnon d'armes le plus fiable des Forces de défense.\n« Souvenez-vous, si vous êtes dans la mouise, vous n'avez qu'à vous replier derrière eux... Vous serez en sécurité, à moins qu'ils vous écrasent par mégarde. »",
+            "card_quote": "– Un instructeur partage son expérience avec des recrues des Forces de défense lors d'un stage de formation",
+            "skill_text": "En combat, le Frappeur lourd déploie un bouclier. Lorsqu'il est protégé par un bouclier, il ne subit que de l'accumulation d'anomalie de feu et physique. Infligez-lui Brûlure, Assaut ou un Étourdissement pour briser son bouclier."
+        },
+        "20008": {
+            "monster_id": 20008,
+            "monster_name": "Rover agile",
+            "card_text": "Le Rover agile, un mécha de soutien répandu dans les Forces de défense. Il est doté d'algorithmes tactiques qui analysent le comportement des ennemis et calculent leur trajectoire pour un ciblage précis.\nLorsqu'il détecte une menace élevée, il déploie un essaim de drones de son arsenal, qui infligent des dégâts considérables.\nPour les écumeurs de Néantres, tomber sur une Rover agile est souvent synonyme d'ennuis... d'ennuis sans fin...\n« C'est quoi ce...! Il... Il a même des petits !? »",
+            "card_quote": "– Un écumeur de Néantres novice poursuivi dans les profondeurs de la Néantre Papago",
+            "skill_text": "En combat, le Rover agile invoque deux drones qui se battent en tandem et se dirigent vers ses cibles pour s'auto-détruire."
+        },
+        "20009": {
+            "monster_id": 20009,
+            "monster_name": "Canonnier",
+            "card_text": "Une unité d'infanterie lourde des Forces de défense de la Nouvelle-Eridu.\nÉquipés d'une armure lourde de combat « Rhino Gris » et d'un arsenal amélioré à l'aide de technologie éthérique, ils peuvent fournir un feu fourni sur de longue période lorsque les munitions sont suffisantes. Équipe d'assaut principale des Forces de défense, ils sont souvent déployés en première ligne lors des opérations offensives et de nettoyage.\nAprès la chute de l'ancienne capitale, de nombreux militaires ont quitté l'armée pour rejoindre des factions civiles. Depuis, ces tireurs aguerris se sont démarqués sous diverses bannières, notamment des armées privées financées par des ploutocrates, de nouvelles entreprises de sécurité, et même des bandes criminelles errantes...\n« Je suis convaincu que ces tireurs lourds sont en réalité d'adorables fillettes qui cachent leurs munitions dans l'espace libre de leurs combinaisons de combat. Autrement, comment expliquer leurs stocks inépuisables de cartouches ? »",
+            "card_quote": "– Un commentaire sur la page Rêverie du forum « Planète des catastrophes »",
+            "skill_text": "En combat, le Canonnier lance des attaques à distance en continu en alternant entre son canon laser et des grenades à fragmentation."
+        },
+        "30002": {
+            "monster_id": 30002,
+            "monster_name": "Gardien",
+            "card_text": "Lors des opérations en Néantres de grande envergure, les Forces de défense ne déploient que leurs méchas les mieux équipés : les Gardiens.\nCes méchas sont équipés de fusils à décharges éthériques, de fuisls à munitions éthériques MARS-74, ainsi que de rayons thermiques à fusion, ce qui vaut aux Gardiens le surnom d'arsenal mobile des la Sécurité publique.\nMalgré leur puissance de feu phénoménale, ils font, néanmoins, preuve d'une mobilité impressionnantes, puisqu'ils sont capables de sauter et de courir tout en dispersant des groupes d'Éthéréens mineurs lorsqu'ils percent les premières lignes.\nPour les écumeurs de Néantres, croisé un seul Gardien revient à se frotter à une forteresse imprenable.\n« Le siège est déclaré ! »",
+            "card_quote": "– Répliques du nouveau film tendance de la Nouvelle-Eridu <i>Gardiens au front, transformation !</i>",
+            "skill_text": "En combat, Unité de soutien autonome – Gardien peut aussi bien asséner de puissantes attaques au corps à corps, mais également lancer diverses attaques à distance. Lorsqu'il se trouve à côté d'autres unités, certains Gardiens s'efforcent de fournir des tirs de soutien à distance."
+        },
+        "30008": {
+            "monster_id": 30008,
+            "monster_name": "Typhon combattant",
+            "card_text": "Le Typhon combattant est un mécha lourd dépourvu de système d'attaque à distance. À la place, sa conception se concentre sur son armure cinétique éthérique.\nDirects, crochets, attaques plongeantes... Le Typhon combattant emploie des tactiques simples, mais efficaces, pour maximiser sa puissance destructrice conférée par son armure cinétique éthérique. Les ondes de choc générées par ses coups feraient trembler même les plus gros Éthéréens.\nMême les écumeurs de Néantres les plus aguerris ne peuvent que laisser échapper un soupir désespéré, lorsqu'ils croisent la route d'un Typhon combattant.\n« Ce grand buste robuste, ces bras imposants... C'est tout à fait mon type... Euh, je veux dire, j'aime beaucoup ce modèle. »",
+            "card_quote": "– Grace jouant avec une réplique du Typhon combattant à la boutique de gadgets",
+            "skill_text": "En combat, Unité tactique autonome – Typhon combattant lance de puissants combos, et bondit parfois dans les airs pour asséner une attaque plongeante."
+        },
+        "100051": {
+            "monster_id": 100051,
+            "monster_name": "Jäger assaillant",
+            "card_text": "Une unité d'infanterie légère des Forces de défense de la Nouvelle-Eridu.\nSe concentrant principalement sur leur mobilité et leur discrétion, leur arsenal est constitué de couteaux de combats et de petits explosifs éthériques. Souvent envoyés en éclaireurs ou en reconnaissance, leur grande mobilité leur permet d'accomplir des opérations d'embuscade, de surveillance, de traque, mais également d'assassinat.\nDans les Néantres, ils constituent une avant-garde excellente, et repoussent les intrus lambdas et les ennemis éthériques des niveau moindre au corps-à-corps.\n\n« De fines lames, vous dites ? Ce sont plutôt des fous des explosifs, si vous voulez mon avis. Ils se la jouent avec leurs dagues, mais tout ce qu'ils font, c'est balancer des grenades dans tous les sens pour éliminer leurs ennemis ! »\n– Message anonyme trouvé sur Inter-nœud",
+            "card_quote": "– Publication anonyme sur le forum Inter-nœud",
+            "skill_text": "En combat, le Jäger assaillant glisse pour se rapprocher de ses cibles, ou lance des couteaux explosifs à retardement."
+        },
+        "100061": {
+            "monster_id": 100061,
+            "monster_name": "Jäger éclaireur",
+            "card_text": "L'unité de combat phare des Forces de défense de la Nouvelle-Eridu. Un Jäger léger ou un Jäger éclaireur bien entraîné peut aisément passer d'un style de combat à l'autre.\nQue ce soit leur aptitude au couteau au corps-à-corps, ou leur précision au tir avec le fusil à énergie éthérique Faucon MK III à longue distance, ils savent parfaitement adapter leur style de combat aux faiblesses de leurs adversaires.\nLorsque leur adversaire est en mauvaise posture, il n'hésite pas à passer à l'offensive, sans montrer la moindre pitié.\n« J'ai vu ce type sortir un couteau. Moi, je m'attendais à un combat à la loyale... Et puis, le voilà qui sort un flingue. »",
+            "card_quote": "– Forum Inter-nœud, commentaire d'un écumeur de Néantres novice",
+            "skill_text": "En combat, le Jäger éclaireur fournit des tirs de soutien constants."
+        },
+        "100071": {
+            "monster_id": 100071,
+            "monster_name": "Jäger de 1re classe",
+            "card_text": "Les Jägers enrôlés et les Jägers de 1re classe jouent un rôle crucial dans les Forces spéciales en Néantres des Forces de défense de la Nouvelle-Eridu.\nIls sont armés du cutter éthérique Coyote-PE7, une lame vibrante à haute fréquence, très efficace pour venir à bout des petits ennemis.\nSe frotter aux Éthéréens aux corps-à-corps demande énormément de courage, et peut-être même de folie.\n« À proprement parler, on ne peut pas vraiment appeler ça une opération de neutralisation de Néantre standard... On dirait que ces givrés aiment simplement éventrer de l'Éthéréen. »",
+            "card_quote": "– Département des patrouilles des Forces de défense, rapport des opérations de première ligne",
+            "skill_text": "En combat, le Jäger de 1re classe attaque au corps à corps."
+        },
+        "100081": {
+            "monster_id": 100081,
+            "monster_name": "Jäger patrouilleur",
+            "card_text": "Unités offensives et défensives cruciales des escouades tactiques des Forces de défense, les Jägers sentinelles et les Jägers patrouilleurs sont non seulement équipés de Coyote-PE7, des lames éthériques lourdes, mais également de boucliers éthériques anti-explosion à inertie, qui leur permettent de se protéger dans les environnements de combat les plus complexes.\nLe poids considérable de ce bouclier, fait de ces troupes des unités défensives très résistantes, au détriment, cependant, de leur mobilité au combat.\nSans entraînement strict, il est quasiment impossible de soulever ce genre de boucliers.\n« Reviens t'engager quand tu auras soulevé un peu de fonte ! »",
+            "card_quote": "– Lettre de refus d'un centre de recrutement reçue par un candidat qui souhaitait s'engager dans les Forces de défense",
+            "skill_text": "En combat, le Jäger patrouilleur utilise sont bouclier pour réduire considérablement les DGT et la confusion qu'il subit, mais également pour contre-attaquer."
+        },
+        "100091": {
+            "monster_id": 100091,
+            "monster_name": "Jäger de démolition",
+            "card_text": "Ces Jägers grenadiers et Jägers de démolition sont équipés d'une version modifiée du bazouka Mamba-TG3, dont les roquettes sont constitués d'agents incendiaires éthériques hautement actifs. Cette arme exceptionnelle leur permet de se débarrasser rapidement des unités mécaniques ennemies, ainsi que des Éthéréens, les plus imposants à l'intérieur des Néantres.\nAfin de contrebalancer le recul et d'assurer une précision sans faille, les grenadiers doivent suivre un entraînement spécial, centré sur le maniement des armes lourdes. Curieusement, les statistiques des Forces de défenses montrent, par ailleurs, que leurs meilleurs éléments avaient été photographes auparavant.\n« Vous voulez savoir comment vous servir de ce truc ? C'est comme avec un appareil photo fixé à l'épaule.\nOn vise la cible, on verrouille, on appuie sur la gâchette, et on dit...\n\"Hé, charogne ! Ouistiti !\" »",
+            "card_quote": "– Instructeur du camp d'entraînement des nouvelles recrues expliquant comment utiliser les projectiles",
+            "skill_text": "En combat, le Jäger de démolition fournit des tirs de soutien lourds constants."
+        },
+        "200071": {
+            "monster_id": 200071,
+            "monster_name": "Frappeur lourd MK II",
+            "card_text": "Un mécha automatique tactique des Forces de défense qui fournit une puissance de feu constante pour assister les troupes de première ligne.\nSon bouclier éthérique à inertie peut résister à la plupart des attaques légères et même aux impacts d'Éthéréens de gabarit supérieur.\nIl s'agit sans aucun doute du compagnon d'armes le plus fiable des Forces de défense.\n« Souvenez-vous, si vous êtes dans la mouise, vous n'avez qu'à vous replier derrière eux... Vous serez en sécurité, à moins qu'ils vous écrasent par mégarde. »",
+            "card_quote": "– Un instructeur partage son expérience avec des recrues des Forces de défense lors d'un stage de formation",
+            "skill_text": "En combat, le Frappeur lourd MK II déploie un bouclier. Lorsqu'il est protégé par un bouclier, il ne subit que de l'accumulation d'anomalie électrique. Infligez-lui Électrocution ou un Étourdissement pour briser son bouclier."
+        },
+        "200072": {
+            "monster_id": 200072,
+            "monster_name": "Égide",
+            "card_text": "Un mécha automatique tactique des Forces de défense qui fournit une puissance de feu constante pour assister les troupes de première ligne.\nSon bouclier éthérique à inertie peut résister à la plupart des attaques légères et même aux impacts d'Éthéréens de gabarit supérieur.\nIl s'agit sans aucun doute du compagnon d'armes le plus fiable des Forces de défense.\n« Souvenez-vous, si vous êtes dans la mouise, vous n'avez qu'à vous replier derrière eux... Vous serez en sécurité, à moins qu'ils vous écrasent par mégarde. »",
+            "card_quote": "— Un instructeur partage son expérience avec des recrues des Forces de défense lors d'un stage de formation.",
+            "skill_text": "En combat, l'Égide devient plus agressif et déploie un Bouclier. Sous la protection du bouclier, il peut accumuler des anomalies d'attribut feu et physique. Infligez Brûlure, Assaut ou Confusion pour briser le Bouclier."
+        },
+        "200073": {
+            "monster_id": 200073,
+            "monster_name": "Égide oméga",
+            "card_text": "Un mécha automatique tactique des Forces de défense qui fournit une puissance de feu constante pour assister les troupes de première ligne.\nSon bouclier éthérique à inertie peut résister à la plupart des attaques légères et même aux impacts d'Éthéréens de gabarit supérieur.\nIl s'agit sans aucun doute du compagnon d'armes le plus fiable des Forces de défense.\n« Souvenez-vous, si vous êtes dans la mouise, vous n'avez qu'à vous replier derrière eux... Vous serez en sécurité, à moins qu'ils vous écrasent par mégarde. »",
+            "card_quote": "— Un instructeur partage son expérience avec des recrues des Forces de défense lors d'un stage de formation.",
+            "skill_text": "En combat, l'Égide oméga devient plus agressif et déploie un Bouclier. Sous la protection du bouclier, il peut accumuler uniquement l'anomalie d'attribut électrique. Infligez-lui Électrocution ou Étourdissement pour briser immédiatement son bouclier."
+        },
+        "200081": {
+            "monster_id": 200081,
+            "monster_name": "Rover agile MK II",
+            "card_text": "Le Rover agile, un mécha de soutien répandu dans les Forces de défense. Il est doté d'algorithmes tactiques qui analysent le comportement des ennemis et calculent leur trajectoire pour un ciblage précis.\nLorsqu'il détecte une menace élevée, il déploie un essaim de drones de son arsenal, qui infligent des dégâts considérables.\nPour les écumeurs de Néantres, tomber sur une Rover agile est souvent synonyme d'ennuis... d'ennuis sans fin...\n« C'est quoi ce...! Il... Il a même des petits !? »",
+            "card_quote": "– Un écumeur de Néantres novice poursuivi dans les profondeurs de la Néantre Papago",
+            "skill_text": "En combat, le Rover agile MK II invoque deux drones qui se battent en tandem et se dirigent vers ses cibles pour s'auto-détruire."
+        },
+        "200091": {
+            "monster_id": 200091,
+            "monster_name": "Canon d'assaut",
+            "card_text": "Une unité d'infanterie lourde des Forces de défense de la Nouvelle-Eridu.\nÉquipés d'une armure lourde de combat « Rhino Gris » et d'un arsenal amélioré à l'aide de technologie éthérique, ils peuvent fournir un feu fourni sur de longue période lorsque les munitions sont suffisantes. Équipe d'assaut principale des Forces de défense, ils sont souvent déployés en première ligne lors des opérations offensives et de nettoyage.\nAprès la chute de l'ancienne capitale, de nombreux militaires ont quitté l'armée pour rejoindre des factions civiles. Depuis, ces tireurs aguerris se sont démarqués sous diverses bannières, notamment des armées privées financées par des ploutocrates, de nouvelles entreprises de sécurité, et même des bandes criminelles errantes...\n« Je suis convaincu que ces tireurs lourds sont en réalité d'adorables fillettes qui cachent leurs munitions dans l'espace libre de leurs combinaisons de combat. Autrement, comment expliquer leurs stocks inépuisables de cartouches ? »",
+            "card_quote": "– Un commentaire sur la page Rêverie du forum « Planète des catastrophes »",
+            "skill_text": "En combat, le Canon d'assaut lance des attaques à distance en continu en alternant entre son canon laser et des grenades à fragmentation."
+        },
+        "300021": {
+            "monster_id": 300021,
+            "monster_name": "Gardien MK II",
+            "card_text": "Lors des opérations en Néantres de grande envergure, les Forces de défense ne déploient que leurs méchas les mieux équipés : les Gardiens.\nCes méchas sont équipés de fusils à décharges éthériques, de fuisls à munitions éthériques MARS-74, ainsi que de rayons thermiques à fusion, ce qui vaut aux Gardiens le surnom d'arsenal mobile des la Sécurité publique.\nMalgré leur puissance de feu phénoménale, ils font, néanmoins, preuve d'une mobilité impressionnantes, puisqu'ils sont capables de sauter et de courir tout en dispersant des groupes d'Éthéréens mineurs lorsqu'ils percent les premières lignes.\nPour les écumeurs de Néantres, croisé un seul Gardien revient à se frotter à une forteresse imprenable.\n« Le siège est déclaré ! »",
+            "card_quote": "– Répliques du nouveau film tendance de la Nouvelle-Eridu <i>Gardiens au front, transformation !</i>",
+            "skill_text": "En combat, l'Unité de soutien autonome – Gardien réalise non seulement des attaques de mêlée, mais peut aussi lancer des attaques à distances variées. Quand elle est jointe à une autre unité, comme l'Unité de soutien autonome – Gardien MK II, elle apporte un soutien balistique en tirant depuis l'extérieur du champ de bataille."
+        },
+        "300022": {
+            "monster_id": 300022,
+            "monster_name": "Gardien MK III",
+            "card_text": "Lors des opérations en Néantres de grande envergure, les Forces de défense ne déploient que leurs méchas les mieux équipés : les Gardiens.\nCes méchas sont équipés de fusils à décharges éthériques, de fusils à munitions éthériques MARS-74, ainsi que de rayons thermiques à fusion, ce qui vaut aux Gardiens le surnom d'arsenal mobile des la Sécurité publique.\nMalgré leur puissance de feu phénoménale, ils font néanmoins preuve d'une mobilité impressionnante, puisqu'ils sont capables de sauter et de courir tout en dispersant des groupes d'Éthéréens mineurs lorsqu'ils percent les premières lignes.\nPour les écumeurs de Néantres, croiser un seul Gardien revient à se frotter à une forteresse imprenable.\n« Le siège est déclaré ! »",
+            "card_quote": "– Répliques du nouveau film tendance de la Nouvelle-Eridu <i>Gardiens au front, transformation !</i>",
+            "skill_text": "En combat, Unité offensive autonome – Gardien MK II peut aussi bien asséner de puissantes attaques au corps à corps, mais également lancer diverses attaques à distance. Il bondit parfois dans les airs pour lancer des attaques plongeantes."
+        },
+        "300081": {
+            "monster_id": 300081,
+            "monster_name": "Typhon cogneur",
+            "card_text": "Le Typhon cogneur est un mécha lourd dépourvu de système d'attaque à distance. À la place, sa conception se concentre sur son armure cinétique éthérique.\nDirects, crochets, attaques plongeantes... Le Typhon cogneur emploie des tactiques simples, mais efficaces, pour maximiser sa puissance destructrice conférée par son armure cinétique éthérique. Les ondes de choc générées par ses coups feraient trembler même les plus gros Éthéréens.\nMême les écumeurs de Néantres les plus aguerris ne peuvent que laisser échapper un soupir désespéré, lorsqu'ils croisent la route d'un Typhon cogneur.\n« Ce grand buste robuste, ces bras imposants... C'est tout à fait mon type... Euh, je veux dire, j'aime beaucoup ce modèle. »",
+            "card_quote": "– Grace jouant avec une réplique du Typhon cogneur à la boutique de gadgets",
+            "skill_text": "En combat, Unité tactique autonome – Typhon cogneur lance de puissants combos, et bondit parfois dans les airs pour asséner une attaque plongeante."
+        }
+    },
+    "Spéciaux": {
+        "10023": {
+            "monster_id": 10023,
+            "monster_name": "Bangbou doré",
+            "card_text": "Tous les écumeurs de Néantres croient que les Néantres recèlent un nombre infini d'opportunités qui leur permettraient de s'en mettre plein les poches en clin d'œil. Dans toutes les légendes qui promettent des montagnes de dennies, on retrouve toujours un personnage particulier : le Bangbou doré.\nD'après les recherches menées par l'AIN, de nombreux Bangbous errants ont élu domicile dans les Néantres. Il collecte avec ferveur les pièces rouages et autres dennies éparpillés, et les confient au Bangbous dorés pour les mettre en sûreté.\nBien que les raisons derrière ce comportement demeurent un mystère, une chose est sûre : ces Bangbous errants, remplissent méticuleusement, au son de « Ehn-ne », les poches des Bangbous dorés de sacs remplis à ras bord de pièces rouages et de dennies.\nPar conséquent, les Bangbous dorés sont souvent la cible privilégiés des groupes d'écumeurs de Néantres...\n« N–Nicole !? Regarde, là-bas, un Bangbou doré !\n– Qu'est-ce que t'attends !? Réduis-le en morceaux ! À nous les thunes ! »",
+            "card_quote": "– Les Lièvres rusés poursuivant désespéremment un Bangbou doré au fin fond d'une Néantre",
+            "skill_text": "En combat, le Bangbou doré peut parfois riposter."
+        },
+        "30004": {
+            "monster_id": 30004,
+            "monster_name": "Gretel",
+            "card_text": "Gretel, employée de longue date des usines Belobog, a subi une corruption éthérique significative qui l'a libérée de sa routine ennuyeuse. C'est là qu'elle a découvert quelque chose de plus profond, de plus beau que l'huile de moteur et l'électricité qui la fait tourner...\nL'amour.\nLes vidéos de surveillance du chantier qui ont capturé sa première rencontre avec l'imposant M. White resteront à jamais gravées dans la mémoire interne de Gretel.\nL'architecture et la robustesse de M. White ont généré un puissant courant électrique dans les circuits de Gretel, et ont laissé une marque indélébile dans le cœur logique de Gretel.\nDès les premières millisecondes de leur rencontre guidée par le destin, Gretel était conquise, tous ses circuits imprimés étaient saturés d'électricité statiques et chaque rouage de son système se mit à vibrer.\nSans la moindre hésitation, elle ignora le signal de rappel des usines Belobog, s'installa fermement sur le chantier pour protéger son bien-aimé M. White, et décida de ne plus bouger d'un pouce.\nÀ partir de cet instant, quiconque oserait s'approcher de M. White, que ce soit un Éthéréen ou un inspecteur de Néantres, se ferait repousser manu militari.\nCette « jeune fille » éprise d'amour ferait tout pour protéger son bien-aimé.\nNotamment brandir une scie de démolition hybride de 1 400 kg alimentée à l'éther et à l'électricité.\nElle croit fermement que son amour enflammé durera jusqu'à l'effondrement de la Néantre, voire jusqu'à la destruction de l'Univers.\n« N'approchez pas de M. White, bande de déchets puants ! »",
+            "card_quote": "– Gretel éloignant un groupe d'Éthéréens s'approchant de M. White",
+            "skill_text": "En combat, à l'aide de sa scie de démolition, Gretel, charge ses ennemis ou balaye une vaste zone, de plus son attraction permet de piéger les ennemis touchés pendant un court instant. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "30005": {
+            "monster_id": 30005,
+            "monster_name": "Hansel",
+            "card_text": "Hansel était autrefois un employé modèle de la grande famille des usines Belobog. Il travaillait en silence avec une précision sans faille, et a même battu le record de l'excavation la plus rapide qui était inégalé depuis des décennies.\nToutefois, la corruption éthérique a libéré son libre-arbitre, et c'est là qu'il a pris conscience d'une chose extrêmement importante qui était désormais à sa portée...\nLa liberté.\nSeuls les véritables héros ont le privilège de se soustraire à leurs obligations.\nAprès une longue introspection sur le chantier, Hansel décida finalement d'ignorer le signal de rappel des usines Belobog, et laissa son passé derrière lui.\nIl répugna même son ancien nom « Hansel ».\nAux yeux d'Hansel, tout ce qu'il avait perdu n'était que le stigmate de la servitude imposée par les humains. À la place, il gagna les grandes étendues indomptées d'un monde de liberté, celui des Néantres.\nÀ cet instant, il sut qu'un véritable héros mécha avait émergé, et se tenait, fier, au-dessus du monde.\nMais, malheureusement, tous les récits héroïques se terminent de la même manière...\nTôt ou tard, tout héros doit affronter son ennemi juré, choisi par le destin. Et leur affrontement donnerait lieu aux moments les plus passionnés de leur existence.\n« Je suis libre ! Je suis le seul être vraiment libre dans les cieux comme sur la terre ! »",
+            "card_quote": "– Homme de fer, le courageux, la machine étincelante, Hansel",
+            "skill_text": "En combat, Hansel utilise ses pinces pour lancer des entrailles continues ou balayer une vaste zone. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "30006": {
+            "monster_id": 30006,
+            "monster_name": "Vendredi",
+            "card_text": "Lorsque de l'éther en haute concentration s'est infiltré dans le disque dur de secours de Vendredi, un flot incessant de données s'est insinué dans sa mémoire.\nDes images, des fichiers audios et vidéos... Ce large éventail de fichiers surpassait les limites de ses capacités de traitement.\nC'est là que Vendredi eut une révélation.\nIl resta immobile quelque temps, recherchant frénétiquement la raison de cette « anomalie » dans la base de données.\nL'illumination.\nIl y avait une chance sur un million, c'était un miracle qui n'arrivait qu'aux être mécaniques intelligents qui avaient surmonté contre toute attente des catastrophes, telles que des erreurs systèmes ou des pannes d'alimentation.\nAu bout d'une longue introspection de deux dixièmes de seconde, Vendredi décida d'ignorer le signal de rappel des usines Belobog.\nParce qu'il savait, qu'une fois l'élu de la destinée révélé, qu'une catastrophe se profilait à l'horizon.\nL'ennemi attend patiemment, tapi dans l'ombre, et le succès de la mission de Vendredi décidera du sort d'un nombre incalculable de vies. Il doit affronter cet ennemi terrible et le sceller hors de ce monde une bonne fois pour toutes.\n« Je renforcerai le sceau, car c'est mon destin, et l'on ne remet pas en cause le destin ! »",
+            "card_quote": "– La machine intelligente choisie, Vendredi",
+            "skill_text": "En combat, Vendredi lance des ondes de choc difficiles à esquiver, mais qui peuvent être bloquées par des soutiens défensifs. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelganger – Jane",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en lançant des attaques extrêmement agressives. En cas de nécessité, il peut parer et contrer les frappes ennemies, cependant il expose généralement son point faible après avoir réalisé son combo."
+        },
+        "30022": {
+            "monster_id": 30022,
+            "monster_name": "Jane Doe",
+            "card_text": "Une personne dangereuse qui erre parmi les différents gangs de la Nouvelle-Eridu. Elle est agile et pleines de ressources. Même une escouade tactique bien équipée et lourdement armée se retrouve souvent en mauvaise posture face à ses techniques de combat uniques et féroces, et finit généralement par perdre sans grabuge et prendre la fuite.",
+            "card_quote": null,
+            "skill_text": "En bat, les attaques de Jane sont extrêmement féroces. En cas de nécessité, elle peut parer et contrer les frappes ennemies, cependant elle expose généralement son point faible après avoir réalisé un combo."
+        },
+        "100231": {
+            "monster_id": 100231,
+            "monster_name": "Bangbou de platine",
+            "card_text": "Les Bangbous de platine, sont des entités énigmatiques encore plus rares que les Bangbous dorés.\nGrâce à leur apparence luxueuse et leur rareté, ils profitent d'une place de choix au sein des Bangbous errants.\nNobles, honorés et vénérés...\nContrairement aux couleurs tape-à-l'œil des Bangbous dorés, les Bangbous de platine sont l'incarnation de l'élégance parmis les Bangbous errants.\nQu'il neige ou qu'il vente, dès que les Bangbous errants croisent un Bangbou de platine, ils lui montrent leur respect, en lui faisant la révérence et en chantant ses louanges au son des « En-nah-ehn » !\nPour les écumeurs de Néantres, cependant, la noblesse et l'élégance n'ont aucune valeur à leurs yeux.\nPour eux, croiser un Bangbou de platine revient à croiser un coffre-fort sur pattes.\n« Je vais donner une bonne torgnole à ce beau petit trésor, et il a intérêt à faire pleuvoir les dennies ! »",
+            "card_quote": "– Un groupe d'écumeurs de Néantres poursuivant un Bangbou de platine dans les profondeurs d'une Néantre",
+            "skill_text": "En combat, le Bangbou de platine peut parfois riposter."
+        },
+        "300041": {
+            "monster_id": 300041,
+            "monster_name": "Gretel (Énergisé)",
+            "card_text": "Gretel, employée de longue date des usines Belobog, a subi une corruption éthérique significative qui l'a libérée de sa routine ennuyeuse. C'est là qu'elle a découvert quelque chose de plus profond, de plus beau que l'huile de moteur et l'électricité qui la fait tourner...\nL'amour.\nLes vidéos de surveillance du chantier qui ont capturé sa première rencontre avec l'imposant M. White resteront à jamais gravées dans la mémoire interne de Gretel.\nL'architecture et la robustesse de M. White ont généré un puissant courant électrique dans les circuits de Gretel, et ont laissé une marque indélébile dans le cœur logique de Gretel.\nDès les premières millisecondes de leur rencontre guidée par le destin, Gretel était conquise, tous ses circuits imprimés étaient saturés d'électricité statique et chaque rouage de son système se mit à vibrer.\nSans la moindre hésitation, elle ignora le signal de rappel des usines Belobog, s'installa fermement sur le chantier pour protéger son bien-aimé M. White, et décida de ne plus bouger d'un pouce.\nÀ partir de cet instant, quiconque oserait s'approcher de M. White, que ce soit un Éthéréen ou un inspecteur de Néantres, se ferait repousser manu militari.\nCette « jeune fille » éprise d'amour ferait tout pour protéger son bien-aimé.\nNotamment brandir une scie de démolition hybride de 1 400 kg alimentée à l'éther et à l'électricité.\nElle croit fermement que son amour enflammé durera jusqu'à l'effondrement de la Néantre, voire jusqu'à la destruction de l'univers.\n« N'approchez pas de M. White, bande de déchets puants ! »",
+            "card_quote": "– Gretel éloignant un groupe d'Éthéréens s'approchant de M. White",
+            "skill_text": "En combat, à l'aide de sa scie de démolition, Gretel, charge ses ennemis ou balaye une vaste zone, de plus son attraction permet de piéger les ennemis touchés pendant un court instant. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "300042": {
+            "monster_id": 300042,
+            "monster_name": "Gretel (Surcadencée)",
+            "card_text": "Gretel, employée de longue date des usines Belobog, a subi une corruption éthérique significative qui l'a libérée de sa routine ennuyeuse. C'est là qu'elle a découvert quelque chose de plus profond, de plus beau que l'huile de moteur et l'électricité qui la fait tourner...\nL'amour.\nLes vidéos de surveillance du chantier qui ont capturé sa première rencontre avec l'imposant M. White resteront à jamais gravées dans la mémoire interne de Gretel.\nL'architecture et la robustesse de M. White ont généré un puissant courant électrique dans les circuits de Gretel, et ont laissé une marque indélébile dans le cœur logique de Gretel.\nDès les premières millisecondes de leur rencontre guidée par le destin, Gretel était conquise, tous ses circuits imprimés étaient saturés d'électricité statique et chaque rouage de son système se mit à vibrer.\nSans la moindre hésitation, elle ignora le signal de rappel des usines Belobog, s'installa fermement sur le chantier pour protéger son bien-aimé M. White, et décida de ne plus bouger d'un pouce.\nÀ partir de cet instant, quiconque oserait s'approcher de M. White, que ce soit un Éthéréen ou un inspecteur de Néantres, se ferait repousser manu militari.\nCette « jeune fille » éprise d'amour ferait tout pour protéger son bien-aimé.\nNotamment brandir une scie de démolition hybride de 1 400 kg alimentée à l'éther et à l'électricité.\nElle croit fermement que son amour enflammé durera jusqu'à l'effondrement de la Néantre, voire jusqu'à la destruction de l'univers.\n« N'approchez pas de M. White, bande de déchets puants ! »",
+            "card_quote": "– Gretel éloignant un groupe d'Éthéréens s'approchant de M. White",
+            "skill_text": "En combat, à l'aide de sa scie de démolition, Gretel, charge ses ennemis ou balaye une vaste zone, de plus son attraction permet de piéger les ennemis touchés pendant un court instant. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "300051": {
+            "monster_id": 300051,
+            "monster_name": "Hansel (Énergisé)",
+            "card_text": "Hansel était autrefois un employé modèle de la grande famille des usines Belobog. Il travaillait en silence avec une précision sans faille, et a même battu le record de l'excavation la plus rapide qui était inégalé depuis des décennies.\nToutefois, la corruption éthérique a libéré son libre-arbitre, et c'est là qu'il a pris conscience d'une chose extrêmement importante qui était désormais à sa portée...\nLa liberté.\nSeuls les véritables héros ont le privilège de se soustraire à leurs obligations.\nAprès une longue introspection sur le chantier, Hansel décida finalement d'ignorer le signal de rappel des usines Belobog, et laissa son passé derrière lui.\nIl répugna même son ancien nom « Hansel ».\nAux yeux d'Hansel, tout ce qu'il avait perdu n'était que le stigmate de la servitude imposée par les humains. À la place, il gagna les grandes étendues indomptées d'un monde de liberté, celui des Néantres.\nÀ cet instant, il sut qu'un véritable héros mécha avait émergé, et se tenait, fier, au-dessus du monde.\nMais, malheureusement, tous les récits héroïques se terminent de la même manière...\nTôt ou tard, tout héros doit affronter son ennemi juré, choisi par le destin. Et leur affrontement donne lieu aux moments les plus passionnés de leur existence.\n« Je suis libre ! Je suis le seul être vraiment libre dans les cieux comme sur la terre ! »",
+            "card_quote": "– L'homme de fer, le courageux, la machine étincelante, Hansel",
+            "skill_text": "En combat, Hansel utilise ses pinces pour lancer des entrailles continues ou balayer une vaste zone. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "300052": {
+            "monster_id": 300052,
+            "monster_name": "Hansel (Surcadencé)",
+            "card_text": "Hansel était autrefois un employé modèle de la grande famille des usines Belobog. Il travaillait en silence avec une précision sans faille, et a même battu le record de l'excavation la plus rapide qui était inégalé depuis des décennies.\nToutefois, la corruption éthérique a libéré son libre-arbitre, et c'est là qu'il a pris conscience d'une chose extrêmement importante qui était désormais à sa portée...\nLa liberté.\nSeuls les véritables héros ont le privilège de se soustraire à leurs obligations.\nAprès une longue introspection sur le chantier, Hansel décida finalement d'ignorer le signal de rappel des usines Belobog, et laissa son passé derrière lui.\nIl répugna même son ancien nom « Hansel ».\nAux yeux d'Hansel, tout ce qu'il avait perdu n'était que le stigmate de la servitude imposée par les humains. À la place, il gagna les grandes étendues indomptées d'un monde de liberté, celui des Néantres.\nÀ cet instant, il sut qu'un véritable héros mécha avait émergé, et se tenait, fier, au-dessus du monde.\nMais, malheureusement, tous les récits héroïques se terminent de la même manière...\nTôt ou tard, tout héros doit affronter son ennemi juré, choisi par le destin. Et leur affrontement donne lieu aux moments les plus passionnés de leur existence.\n« Je suis libre ! Je suis le seul être vraiment libre dans les cieux comme sur la terre ! »",
+            "card_quote": "– L'homme de fer, le courageux, la machine étincelante, Hansel",
+            "skill_text": "En combat, Hansel utilise ses pinces pour lancer des entrailles continues ou balayer une vaste zone. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "300061": {
+            "monster_id": 300061,
+            "monster_name": "Vendredi (Énergisé)",
+            "card_text": "Lorsque de l'éther en haute concentration s'est infiltré dans le disque dur de secours de Vendredi, un flot incessant de données s'est insinué dans sa mémoire.\nDes images, des fichiers audios et vidéos... Ce large éventail de fichiers surpassait les limites de ses capacités de traitement.\nC'est là que Vendredi eut une révélation.\nIl resta immobile quelque temps, recherchant frénétiquement la raison de cette « anomalie » dans la base de données.\nL'illumination.\nIl y avait une chance sur un million, c'était un miracle qui n'arrivait qu'aux êtres mécaniques intelligents qui avaient surmonté contre toute attente des catastrophes, telles que des erreurs systèmes ou des pannes d'alimentation.\nAu bout d'une longue introspection de deux dixièmes de seconde, Vendredi décida d'ignorer le signal de rappel des usines Belobog.\nParce qu'il savait qu'une fois l'élu de la destinée révélé, une catastrophe se profilerait à l'horizon.\nL'ennemi attend patiemment, tapi dans l'ombre, et le succès de la mission de Vendredi décidera du sort d'un nombre incalculable de vies. Il doit affronter cet ennemi terrible et le sceller hors de ce monde une bonne fois pour toutes.\n« Je renforcerai le sceau, car c'est mon destin, et l'on ne remet pas en cause le destin ! »",
+            "card_quote": "– La machine intelligente élue, Vendredi",
+            "skill_text": "En combat, Vendredi lance des ondes de choc difficiles à esquiver, mais qui peuvent être bloquées par des soutiens défensifs. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "300062": {
+            "monster_id": 300062,
+            "monster_name": "Vendredi (Surcadencé)",
+            "card_text": "Lorsque de l'éther en haute concentration s'est infiltré dans le disque dur de secours de Vendredi, un flot incessant de données s'est insinué dans sa mémoire.\nDes images, des fichiers audios et vidéos... Ce large éventail de fichiers surpassait les limites de ses capacités de traitement.\nC'est là que Vendredi eut une révélation.\nIl resta immobile quelque temps, recherchant frénétiquement la raison de cette « anomalie » dans la base de données.\nL'illumination.\nIl y avait une chance sur un million, c'était un miracle qui n'arrivait qu'aux êtres mécaniques intelligents qui avaient surmonté contre toute attente des catastrophes, telles que des erreurs systèmes ou des pannes d'alimentation.\nAu bout d'une longue introspection de deux dixièmes de seconde, Vendredi décida d'ignorer le signal de rappel des usines Belobog.\nParce qu'il savait qu'une fois l'élu de la destinée révélé, une catastrophe se profilerait à l'horizon.\nL'ennemi attend patiemment, tapi dans l'ombre, et le succès de la mission de Vendredi décidera du sort d'un nombre incalculable de vies. Il doit affronter cet ennemi terrible et le sceller hors de ce monde une bonne fois pour toutes.\n« Je renforcerai le sceau, car c'est mon destin, et l'on ne remet pas en cause le destin ! »",
+            "card_quote": "– La machine intelligente élue, Vendredi",
+            "skill_text": "En combat, Vendredi lance des ondes de choc difficiles à esquiver, mais qui peuvent être bloquées par des soutiens défensifs. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        }
+    }
+}

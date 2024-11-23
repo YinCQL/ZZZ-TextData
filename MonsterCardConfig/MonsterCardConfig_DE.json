@@ -1,0 +1,903 @@
+{
+    "Äther-Mutanten": {
+        "10000": {
+            "monster_id": 10000,
+            "monster_name": "Tyrfing",
+            "card_text": "Die Höhlen-Investigationsassoziation hat das Verhaltensmuster von Tyrfings untersucht. Forschungsergebnisse zeigen, dass ihre scheinbar unausgewogene Haltung des Schwankens und Schrägstellens in Wirklichkeit eine äußerst effiziente Haltung zum Ausführen von aufeinanderfolgenden Hiebangriffen ist.\nAufgrund ihres häufigen Auftretens und ihres aggressiven Verhaltens wurden Tyrfings als einer der tödlichsten Äthereale in der Höhle identifiziert, insbesondere für bestimmte Mitarbeiter in Höhlen.\nWenn sie es mit einem abgeschirmten Gegner zu tun haben, greifen sie unerbittlich an, bis entweder der Gegner oder sie selbst zerstört sind.\n„Vielleicht ... hassen sie uns nicht wirklich, sondern betrachten uns nur als Sandsack zum Üben?“",
+            "card_quote": "– Mitternachtstalkshow „Back 2 Life“, Episode 165, mit dem verletzungsbedingt pensionierten Bereitschaftsoffizier Nobby Kereyan",
+            "skill_text": "Tyrfing setzt im Kampf auf Nahkampfangriffe."
+        },
+        "10001": {
+            "monster_id": 10001,
+            "monster_name": "Alpeca",
+            "card_text": "Die HIA hat lediglich begrenzte Forschungsberichte über Alpecas. Nach einer groben Analyse ihres Verhaltensmusters, flüssigen Äther zu speien, stufte die Investigationsassoziation sie als Äthereale mit geringer Bedrohung ein und schlossen ihre Untersuchungen ab.\nEinst entwickelten ein paar Forscher ein großes Interesse daran, wie Alpecas flüssigen Äther speien, und erteilten sogar einen Ermittlungsauftrag zur genaueren Beobachtung.\nAber aus irgendwelchen Gründen haben sich Veteran-Ermittler bisher von diesem Auftrag ferngehalten.\n„Lauf! Sie speien wieder ... Ach, ne! Meine neuen Klamotten!“",
+            "card_quote": "– In den Tiefen der Höhlen versucht sich der junge Ermittler Raffaele Bert zurückzuziehen",
+            "skill_text": "Alpeca greift im Kampf aus der Ferne mit Streuschüssen an."
+        },
+        "10002": {
+            "monster_id": 10002,
+            "monster_name": "Faun",
+            "card_text": "Ein lebender humanoider Äther, der zum ersten Mal in der Metro-Höhle in New Eridu gesichtet wurde. Er löste einst eine Debatte in der Investigationsassoziation aus, da einige glaubten, es handelte sich bei ihm um einen lebenden Äther, der von Korrodierten umgewandelt wurde, während andere behaupteten, er sei ein reiner lebender Äther, der lediglich durch die Umgebung der Höhle beeinflusst wurde. Die Investigationsassoziation stuft ihn aufgrund seiner begrenzten Intelligenz als nicht besonders gefährlich ein, aber man sollte ihn nicht unterschätzen, da sie gewöhnlich in Gruppen auftreten.\n„Bist du schon einmal wegen einer roten Ampel zu spät gekommen oder hast deswegen einen Strafzettel bekommen?“\n„Das ist deine Gelegenheit, etwas Dampf abzulassen!“",
+            "card_quote": "– Aus dem „Planet der Katastrophen“-Forum, eine Nachricht vom Benutzer „WarteAufBanbooPreisverfall“",
+            "skill_text": "Faun bevorzugt im Kampf heftige, aufgeladene Schläge, die schwer zu unterbrechen sind."
+        },
+        "10003": {
+            "monster_id": 10003,
+            "monster_name": "Hoplitai",
+            "card_text": "Obwohl Hoplitai von der Höhlen-Investigationsassoziation als Äthereale von „geringer Bedrohung“ eingestuft wurden, erweisen sie sich für unerfahrene Höhlenräuber und Ermittler als gewaltige Gegner.\nSeine Vorderbeine sind mit einer dicken, trägen ätherischen Materie überzogen, die sowohl als hervorragender Schutzschild als auch als furchterregende Waffe dienen kann.\nDer einzige Nachteil ist sein kopflastiges Äußeres, das es nicht sonderlich intelligent aussehen lässt.\n„Also gut, Leute ... Seht euch diesen armen Wurm an ... Das ist ein Hoplitai.“\n„Wenn die Äthereale sich versammeln und Schere-Stein-Papier spielen, dann spielt dieser Dummkopf immer Papier!“",
+            "card_quote": "– „Höhlen-Zoo“, spezielle Folge über Hoplitai",
+            "skill_text": "Hoplitai verwendet im Kampf seinen Schildarm, um zu stürmen oder Angriffe zu parieren."
+        },
+        "10004": {
+            "monster_id": 10004,
+            "monster_name": "Blitzspinne",
+            "card_text": "Laut Forschungsberichten der Höhlen-Investigationsassoziation werden Blitzspinnen aufgrund ihrer geringen Mobilität und der Tatsache, dass sie nur kleine Explosionen verursachen, als eine „geringe Bedrohung“ und „nicht besorgniserregend“ eingestuft.\nEinige scharfsinnige Geschäftsleute haben jedoch die Möglichkeiten erkannt, die sich durch ihre runden Körper und kurzen Beine ergeben.\nEin Film mit dem Titel „Dreh dich, kleine Blitzspinne“ erlangte große Popularität und führte zum Verkauf von Waren wie Puppen und Kissen zu Mondpreisen.\n„Ich hätte nicht erwartet, dass ihre Puppen tödlicher sind als sie selbst ... Zumindest für den Geldbeutel. Sieht so aus, als ob ich nächsten Monat von Instantnudeln leben muss, Billy ...“",
+            "card_quote": "– Vor dem Greifautomaten auf der Einkaufsstraße überprüft Anby ihr Portmonee",
+            "skill_text": "Blitzspinne führt im Kampf Selbstzerstörungsangriff aus."
+        },
+        "10014": {
+            "monster_id": 10014,
+            "monster_name": "Mandrake",
+            "card_text": "Der Name „Mandrake“ stammt von einem giftigen Kraut. Der Gelehrte, der den Namen ursprünglich vergeben hat, glaubte an eine Ähnlichkeit zwischen den beiden allein aufgrund ihres Aussehens.\nWenn Mandrake blüht, sendet es Hitzestrahlen aus, um Ziele in seiner Umgebung anzugreifen, während die robusten Blätter ihn fest im Boden verankert und ein Entwurzeln verhindern. Wenn er bedroht wird, kann der Mandrake seine scharfen Blätter zur Selbstverteidigung einsetzen.\nÄhnlich wie in der Legende seines Namensvetters können die Schreie des Mandrakes sehr tödlich sein.\n„Warte, geh nicht dorthin! Er wird jeden Moment aufblühen!“",
+            "card_quote": "– Mandrake erblüht in dem Film „Deep Fear“",
+            "skill_text": "Verschiedene Mandrakes bieten im Kampf periodisch Boni für ANG- oder Schildwert für umliegende Verbündete."
+        },
+        "10025": {
+            "monster_id": 10025,
+            "monster_name": "Ahriman",
+            "card_text": "Aufgrund seiner einzigartig bizarren Form wird der regungslose „Ahriman“ oft für eine Kunstskulptur bei den Ballet Twins gehalten.\nDeshalb bleibt bei vielen Anfängerermittlern ein lebenslanges Trauma zurück, wenn sie zum ersten Mal einem Ahriman begegnen ...\nDu bist gerade an einer „Skulptur“ vorbeigegangen, als sich diese plötzlich bewegt ...\nUnd dieser ängstliche, eingefrorene Moment ist der perfekte Moment für Ahriman, einen Überraschungsangriff zu starten.\n„Corin, lass dich nicht von seinem Aussehen täuschen ... Das ist kein wertvolles Kunstwerk.“\n„Dann lass uns jetzt aufräumen.“",
+            "card_quote": "– Lycaon leitet Corin beim Aufräumen an",
+            "skill_text": "Ahriman führt im Kampf plötzliche Sturmangriffe durch und führt koordinierte Angriffe mit anderen Ahriman aus."
+        },
+        "10026": {
+            "monster_id": 10026,
+            "monster_name": "Specter",
+            "card_text": "Anscheinend beeinflusst durch das charakteristische Interieur der Ballet Twins, haben „Specter“ groteske und verdrehte Gliedmaßen einer Kunstskulptur.\nEinige Ermittler glauben, dass ihre besondere Form dazu dient, ihre Äther-Kerne besser zu schützen.\nAndererseits werden auch die Stimmen laut, dass das alles nur eine Masche ist, mit der sie die Aufmerksamkeit der Gegner auf sich zieht. Während ihre Feinde von ihrer merkwürdigen Körperhaltung fasziniert sind, nutzen Specter die Gelegenheit, um mit konzentriertem Äther Angriffe aus großer Entfernung auszuführen.\n„Ich habe seine Form eine Weile lang angesehen: Wollte sie mit seinem Kopf eine Partie Bowling spielen?“\n„Aber bevor ich es herausfinden konnte, traf mich der Bowlingball im Gesicht ...“",
+            "card_quote": "– Veröffentlicht von einem unbekannten Nutzer im Inter-Knot",
+            "skill_text": "Specter entfesselt im Kampf in kurzer Zeit eine Flut von Fernangriffen."
+        },
+        "10029": {
+            "monster_id": 10029,
+            "monster_name": "Beobachter-Motor",
+            "card_text": "Obwohl der Beobachter-Motor laut Datenbank der HIA in erster Linie als Bedrohung aus nächster Nähe betrachtet wird, stellt sie für die Ermittler bei ihren Expeditionen in die Höhle häufig eine unvorhergesehene Gefahr dar.\nSelbst erfahrene Ermittler können ein überwältigendes Gefühl der Panik erleben, wenn sie in der Dunkelheit mit dem durchdringenden Blick seiner Augen konfrontiert werden.\nIn Höhlen führt die Angst dazu, dass die Ätherkorrosion, die man erleidet, noch verstärkt wird, was wiederum zu Unglücksfällen führt.\n„Die einzige Methode, die Angst zu überwinden ... besteht darin, sich ihr zuzuwenden und zurückzuschlagen.“",
+            "card_quote": "– Zusammenstellung des Wissens eines erfahrenen Ermittlers auf dem „Planet der Katastrophen“-Forum",
+            "skill_text": "Beobachter-Motor nutzt im Kampf seinen einzigartigen Körper, um sich durch Rollen fortzubewegen."
+        },
+        "10030": {
+            "monster_id": 10030,
+            "monster_name": "Fossor",
+            "card_text": "Neue Studien des White-Star-Instituts haben gezeigt, dass die Extremitäten mancher Äthereale bemerkenswerte Eigenarten ihrer Umgebung aufweisen.\nFossor ist ein hervorragendes Beispiel dafür: Seine seltsamen Vordergliedmaßen haben eine verblüffende Ähnlichkeit mit dem Bohrwerkzeug, das im alten Ölquellengebiet aufzufinden ist.\nObwohl manche behaupten, dies sei eine Tarnungsmethode, um Feinde zu verwirren, haben andere darauf hingewiesen, dass der Kampfstil des Fossors aggressiv und direkt ist, sodass er für Hinterhalte nicht geeignet ist.\nEinige fantasievolle Höhlenräuber spekulieren, dass es diese Form angenommen haben könnte, um nach Mineralien zu graben ...\n„Als ich ihn aus der Ferne entdeckt habe, schien er fröhlich den Asphalt aufzugraben.“\n„Als es mich entdeckte, zögerte es keinen Augenblick und stürmte auf mich zu, um mich zu vertreiben ...“\n„Dabei kam ich nur zufällig vorbei! Ich hatte gar nicht vor, ihm seinen Müll wegzunehmen!“",
+            "card_quote": "– Ein unerfahrener Höhlenräuber, der außerhalb einer Höhle seinen Kameraden von seinem Erlebnis berichtet",
+            "skill_text": "Im Kampf führt Fossor aufeinanderfolgende Schläge mit beiden Händen aus."
+        },
+        "10031": {
+            "monster_id": 10031,
+            "monster_name": "Sordidus",
+            "card_text": "Die Höhlen der Außenzone dienen als Zuhause für eine Vielzahl bizarrer Äthereale. Sordidus ist ein Musterbeispiel hierfür.\nSeine einzigartige Körperstruktur weist überaus flexible Gliedmaßen auf, die das Ergebnis einer unbekannten Reaktion zwischen Rohöl und aktivem Äther zu sein scheinen.\nWenn er erst einmal ein Ziel ins Visier genommen hat, verwendet er seine Extremitäten wie ein professioneller Akrobat, um aggressive und brutale Angriffe auszuführen.\n„Verdammt ... Dieses Ding hat mich tatsächlich gepeitscht!“\n„Sieht es sich als einen Dompteur an und wir sind die wilden Bestien?“",
+            "card_quote": "– Eine Gruppe unerfahrener Höhlenräuber, die in einer Höhle gegen einen Sordidus kämpft",
+            "skill_text": "Im Kampf peitscht Sordidus Feinde in der Nähe mit seinen Tentakeln oder steckt seine Tentakel in den Boden, um Überraschungsangriffe aus großer Entfernung auszuführen."
+        },
+        "20000": {
+            "monster_id": 20000,
+            "monster_name": "Farbauti",
+            "card_text": "Farbauti, der über immense Kräfte verfügt und sich oft in einem rasenden Zustand befindet, ist eine der größten Bedrohungen für Höhlenräuber. Mit seinen hammerähnlichen Armen kann er mit Leichtigkeit Schaden abwenden und Stürme von Schlägen entfesseln, die alles in seinem Weg zermalmen.\nEinige Höhlenräuber bemerkten, dass Farbauti häufig rhythmisch und mit einer hohen Frequenz auf den Boden einhämmern und vermuteten, dass sie eine außergewöhnliche Vorliebe für Trommelmusik haben.\nObwohl die Höhlen-Investigationsassoziation die Gerüchte offiziell zurückgewiesen hat, tragen einige Höhlenräuber noch immer kleine Lautsprecher beim Betreten von Höhlen bei sich, um Farbauti mit Musik abzulenken, wenn sie ihnen begegnen.\nJedoch hat es bisher noch niemand geschafft, auf diese Weise zu entkommen.\n„Der Grund für dieses Scheitern ist simpel: Selbst einem Farbauti entgeht nicht, dass ihr einen fürchterlichen Musikgeschmack habt!“",
+            "card_quote": "– Veröffentlicht von „Spike Finger“ im „Schwarzer Besenrock“-Forum",
+            "skill_text": "Farbauti setzt im Kampf seine kräftigen Arme ein, um wiederholte Hammerschläge auszuführen. Nach einer bestimmten Menge an Schaden werden seine Arme jedoch steif."
+        },
+        "20001": {
+            "monster_id": 20001,
+            "monster_name": "Hati",
+            "card_text": "Dieser vierbeinige, aber überaus intelligente lebendige Äther ist äußerst gefährlich und wurde von dem ersten Erkundungsteam der Höhlen-Investigationsassoziation offiziell katalogisiert.\nGerüchten zufolge wurde er zum ersten Mal in einer Nesthöhle gesichtet, wo Personen, die die nahegelegene Ödnis erkundeten, berichteten, ohrenbetäubendes Gebrüll gehört zu haben, das an das Knurren wilder Tiere erinnerte.\n„Glaubst du, dieses Biest würde einem Stock oder Ball hinterherrennen?“ \n„Du kannst es ja versuchen, aber die Krankenhausrechnung werde ich dir nicht bezahlen.“",
+            "card_quote": "– Ein Gespräch zwischen Billy und Nicole",
+            "skill_text": "Hati nutzt im Kampf agile Sprünge und schnelle Krallenangriffe."
+        },
+        "20002": {
+            "monster_id": 20002,
+            "monster_name": "Gnom",
+            "card_text": "Als die Höhlenermittler dieser Art Äthereal zum ersten Mal begegneten, glaubten sie irrtümlicherweise, sie besäßen eine gewisse Intelligenz und könnten sogar den Gebrauch von Schlagwaffen von den Menschen erlernen, woraufhin sie sie „Gnome“ tauften.\nSpätere Untersuchungen ergaben jedoch, dass ihre „Hämmer“ in Wirklichkeit verdrehte und deformierte Gliedmaßen waren und dass sie nicht in der Lage waren, menschliches Verhalten zu imitieren.\nNichtsdestotrotz sind Gnome anspruchsvolle Gegner. Ihr robuster Körperbau und ihre wilde Stärke machen sogar ihren leichtesten Hieb zu einem verheerenden tödlichen Angriff.\nSobald etwas in ihr Territorium eindringt, geraten sie in Rage und setzen alles daran, den Eindringling zu zerschmettern.\n„Oh? Ein Gnom kam angerannt und hat auf ein Stück Schrott eingeprügelt.“ \n„Ich finde die Schläge dieses Kerlchens klingen sehr rhythmisch, als würde es Trommel spielen ...“\n„Hey! Ihr beiden pennt doch! Es schlägt nicht auf ein Stück Schrott ein, sondern auf unseren Transporter!“",
+            "card_quote": "– Ein Gnom-Eindringling bricht in ein Bandenversteck ein",
+            "skill_text": "Gnom brüllt im Kampf, um sich selbst zu stärken, erhöht dabei seinen Schaden und verringert den erlittenen Schaden erheblich. Dieser Effekt endet, wenn er benommen wird."
+        },
+        "20003": {
+            "monster_id": 20003,
+            "monster_name": "Gepanzerter Hati",
+            "card_text": "Für viele erfahrene Höhlenermittler gehört der gepanzerte Hati zu den schwer zu erlegenden Ätherealen.\nEr hat durch seine Panzerhülle zwar etwas von seiner Beweglichkeit eingebüßt, dafür an außergewöhnlichen Resistenz gegen Angriffe gewonnen.\nGleichzeitig formt die Korrosionssubstanz seines Körpers scharfe harte Ausbuchtungen, die dem Gegner zusätzlichen Schrammenschaden zufügen, wenn er mit hoher Geschwindigkeit mit einem gepanzerten Hati zusammenprallt.\nDie wendigen Bewegungen dieser Kreatur, ihre Widerstandsfähigkeit gegen Schläge und ihre nahtlose Panzerung zwingen selbst die erfahrensten Entdecker, alternative Routen zu suchen, um eine direkte Konfrontation zu vermeiden.\nEinige unerfahrene Höhlenräuber sollen mit Tierfutter versucht haben, einen gepanzerten Hati wegzulocken.\nAber das ist offensichtlich ein aussichtsloses Unterfangen.\n„Schnell, nimm die Beine in die Hand! Ihm schmeckt das Hundefutter nicht!“",
+            "card_quote": "– Mehrere in Panik geratene junge Höhlenräuber, die vor einem Hati in einer Höhle fliehen",
+            "skill_text": "Gepanzerter Hati reduziert mit seiner Panzerung den erlittenen Schaden und die Benommenheit erheblich, aber Defensivhilfe verringert seinen Panzerungswert stark."
+        },
+        "20004": {
+            "monster_id": 20004,
+            "monster_name": "Eisenbahngnom",
+            "card_text": "Die Kontroversen um den Eisenbahngnom sind niemals abgebrochen. Einige Wissenschaftler glauben, dass er seine seltsame Form absichtlich annähme, um seine Gegner zu verwirren, während andere die Trümmer auf ihren Körpern auf Korrosion und Verschmelzung mit alten Metro-Geräten zurückführen.\nJedenfalls versetzt die Existenz des Eisenbahngnoms junge Ermittler regelmäßig in Angst und Schrecken, wenn sie eine alte Metro-Zone in einer Höhle betreten.\nJeden Moment kann ein normal aussehendes „Straßenschild“ anfangen zu zittern, und dann taucht ein furchterregender Äthereal aus dem Boden auf und stürmt bedrohlich auf einen zu.\n„Hä? Ich habe dieses Straßenschild doch schon vor ein paar Minuten gesehen. Laufen wir etwa im Kreis?“\n„Nein ... Dieses ‚Straßenschild‘ verfolgt uns schon die ganze Zeit!“",
+            "card_quote": "– Horrorfilm „Eternal Lost“, der Protagonist sucht einen Ausweg aus der Höhle",
+            "skill_text": "Gnom brüllt im Kampf, um sich selbst zu stärken, erhöht dabei seinen Schaden und verringert den erlittenen Schaden erheblich. Dieser Effekt endet, wenn er benommen wird."
+        },
+        "20005": {
+            "monster_id": 20005,
+            "monster_name": "Arlaune",
+            "card_text": "Viele junge Höhlenräuber lassen sich bei der ersten Begegnung mit einer Arlaune von seinem Äußeren täuschen und denken, er sei eine normale Pflanze.\nAber wenn sich ihm jemand nähert, fängt er schlagartig an zu zittern und stößt kontinuierlich hoch konzentrierte ätherische Materie aus, die seine ahnungslosen Opfer unvorbereitet trifft.\n„Was? Ich wollte ihn nur gießen, und er hat mich einfach angespuckt?“",
+            "card_quote": "– Eine Gruppe von Anfängerermittlern wird von einem Arlaune in einer Höhle überfallen",
+            "skill_text": "Arlaune ist im Kampf sehr hinterlistig und neigt dazu, aus der Ferne anzugreifen. Wenn ihre Blütenblätter geöffnet sind und sie getroffen wird, kann dies viel Benommenheit ansammeln."
+        },
+        "20010": {
+            "monster_id": 20010,
+            "monster_name": "Tarasque-Mischer",
+            "card_text": "Gestützt auf ihre Untersuchungen vermutet die Höhlen-Investigationsassoziation, dass der „Tarasque-Mischer“ verschiedene Mengen an verflüssigten Äthers enthält.\nWenn er seinen gespeicherten Äther umrührt und vermischt, kommt es zu einer komplexen Reaktion, bei der zerstörerische und gewalttätige Energie freigesetzt wird. Die freigesetzte Kraft ist mit der der schweren Artillerie der Verteidigungsmacht vergleichbar.\nJe erfahrener ein Ermittler ist, desto besser versteht er sich darauf, den Kopf unten zu halten und direkte Treffer durch sein schweres Geschütz zu vermeiden.\n„Als er sich zu mir herunterneigte, dachte ich noch, das ist aber ein komisches Willkommensgeschenk. Aber als seine Kanone zu leuchten begann, wurde mir klar: Das war ein Abschiedsgeschenk ...“",
+            "card_quote": "– Interview zu „Back 2 Life“, persönliche Erfahrungen des Starermittlers",
+            "skill_text": "Tarasque-Mischer setzt im Kampf auf dauerhafte Laserangriffe und bevorzugt dabei Positionswechsel durch Seitensprünge."
+        },
+        "20022": {
+            "monster_id": 20022,
+            "monster_name": "Hornisse",
+            "card_text": "In der Nähe von Nineveh wimmelt es von Hornissen. Forscher vermuten, dass sie mit Nineveh in einer für beide Seiten vorteilhaften Symbiose leben und über eine Art von Fähigkeit zur Gruppenzusammenarbeit verfügen.\nWenn Ninevehs Energieniveau steigt und sie sich zum Blühen wiegt, geraten die Hornissen in einen Rausch und geben alles, um alle beweglichen Ziele in der Nähe anzugreifen.\n„He! Aus dieser ‚Blüte‘ scheint etwas herausgeflogen zu sein!“\n„Es sieht aus wie ... ein Bienenschwarm?“",
+            "card_quote": "– Aus der Ermittlungsakte der Höhle Null, Nr. KU241, Sprachaufnahme der ersten Sichtung der Hornissen",
+            "skill_text": "Im Kampf unterstützen Hornissen Nineveh, indem sie Gegner stören und angreifen."
+        },
+        "30000": {
+            "monster_id": 30000,
+            "monster_name": "Dullahan",
+            "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "skill_text": "Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen."
+        },
+        "30001": {
+            "monster_id": 30001,
+            "monster_name": "Thanatos",
+            "card_text": "Die Erkundungen von Höhlen kann psychisch belastend sein, und Thanatos mit seiner einzigartigen Teleportationsfähigkeit und seinen unvorhersehbaren Angriffsmustern ist zu einer häufigen psychologischen Herausforderung für Höhlenräuber geworden.\nNicht wenige haben sogar gänzlich den Mut verloren, jemals wieder eine Höhle zu betreten, und sich für den vorzeitigen Ruhestand entschieden, nachdem sie einem Thanatos alleine gegenübergestanden sind.\nInfolgedessen sind diese schwer fassbaren Wesen zu immer wiederkehrenden Figuren in Horrorfilmen geworden.\n„Der dürre Schatten ist vor meinen Augen verschwunden und hinter mir wieder aufgetaucht ...“\n„Was soll ich nur machen? Ich traue mich nicht einmal mehr allein auf die Toilette ...“",
+            "card_quote": "– Premierenacht des Horrorfilms „Ethereal Comes Knocking“, Diskussionsstrang auf der Website „Kupferpflaume“ zur Filmkritik",
+            "skill_text": "Thanatos nutzt im Kampf Teleportation, um schwierige Winkel für Angriffe zu finden. Er akkumuliert jedoch eine hohe Benommenheit, wenn er mit Defensivhilfe und sukzessive Hilfe getroffen wird."
+        },
+        "30007": {
+            "monster_id": 30007,
+            "monster_name": "Sackgassen-Schlächter",
+            "card_text": "Im Gegensatz zu anderen hochgefährlichen Ätherealen bleibt der Äther im Körper des „Sackgassen-Schlächters“ oft in einem Ruhezustand mit geringer Aktivität.\nNichtsdestotrotz besitzt der „Sackgassen-Schlächter“ die brachiale Stärke, alle Hindernisse zu vernichten. Die gesamte verdorbene und die gesamte zerstörte Metro-Zone dient ihm als seine verbotene Küche.\nNur wenn ein bedrohliches Ziel Interesse an dem „Sackgassen-Schlächter“ entwickelt, wird urplötzlich eine furchterregende Transformation stattfinden ...\nInnerhalb weniger Augenblicke verwandelt sich die hohe Konzentration des in seinem Körper gespeicherten Äthers gewaltsam, und die exponentiell ansteigende Energie veranlasst seine Gliedmaßen, sich schnell zu verformen und eine brutalere und gefräßigere „Fresshaltung“ einzunehmen.\nDamit sind die „Vorspeisen“ durch und ein unvergleichliches „Fressgelage“ wird eröffnet.\nWer nicht Teil dieses Festes sein will, sollte bei der Wahl seines Weges äußerst vorsichtig sein und sich von der „Küche“ fernhalten ...\n„Die Wege in dieser Höhle sind ziemlich kompliziert. Aber was man mit Sicherheit sagen kann ist, dass sie zu einer ‚Sackgasse‘ werden, wenn er am Ende des Weges auftaucht.“",
+            "card_quote": "– 17. Untersuchungsbericht zur Sackgassen-Höhle der Höhlen-Investigationsassoziation",
+            "skill_text": "Sackgassen-Schlächter greift im Kampf mit großen, weiten Schlägen an. Nach Erleiden einer bestimmten Menge an Schaden geht er in die zweite Phase über, in der seine Angriffe noch wilder werden und er Laserangriffe einsetzen kann. In dieser Phase führt ein starker Angriff nach seinen wilden Kombo-Attacken zu zusätzlicher Steifheit."
+        },
+        "30010": {
+            "monster_id": 30010,
+            "monster_name": "Marionette mit Schwarzschleier",
+            "card_text": "Vor vielen Jahren gab es ein Paar talentierter Tänzerinnen, die Schwestern waren. Sie haben wie Sternschnuppen die Welt erleuchtet und schnell einen riesigen Fanclub angezogen. In dem prunkvollen Gebäude der „Ballet Twins“ haben sie dann eine prächtige spezielle Aufführung veranstaltet.\nDoch kurz vor der Abschlussvorstellung brach plötzlich eine Höhlenkatastrophe aus, bei die Ballet Twins von einer Höhle verschlungen wurden, und die Schwestern verschwanden in der Dunkelheit. Unzählige Menschen weltweit seufzten bedauernd, nachdem sie von dieser Nachricht gehört hatten.\nEs heißt, dass die Schwestern an jenem Tag der Aufführung drei „Vorzeichen“ erhalten haben. Die beiden waren aber dermaßen von der Bühne, dem tosenden Applaus und dem Glanz des Ruhms geblendet, dass sie sich entschieden, weiterhin aufzutreten und den letzten Warnruf des Todes zu ignorieren.\nDie ältere Schwester ist jetzt schon längst zu einer rätselhaften Erinnerung verblasst, ihre Anmut und Grazie existieren nur noch in den vergilbten Fotografien vergangener Zeitschriften. Kaum gibt es eine Möglichkeit, einen flüchtigen Blick auf die mitreißende Erscheinung von „Augilia“ während ihrer Tanzdarbietung zu erhaschen.\nNur wenige elitäre Höhlenräuber wissen davon: Wenn die zerbrochenen Scheinwerfer bei den Ballet Twins erneut aufleuchten, erscheint die elegante und geheimnisvolle „Marionette mit Schwarzschleier“ aus dem Schatten. Viele glauben, dass es eine gewisse Verbindung zwischen ihr und der Tänzerin von damals, „Augilia“, gibt, als ob sie dazu bestimmt ist, die vergangene „Abschlussvorstellung“ in ihrem Namen zu vollenden.\nJene „glücklichen“ Zuschauer, die nach vielen Jahren Zeuge der „Abschlussvorstellung“ werden, werden von Albträumen heimgesucht, die sie ihr Leben lang nicht vergessen können.\n„Wenn du bei den Ballet Twins auf eine Marionette triffst, ist es besser, nicht einmal den Versuch zu unternehmen, zu entkommen.“\n„Lass uns lieber ruhig die Abschlussvorstellung zu Ende schauen!“ „Immerhin ist das auch eine elegante und anständige Art zu sterben ...“",
+            "card_quote": "– Inter-Knot, eine Beschwerde von einem Höhlenräuber",
+            "skill_text": "Im Kampf teleportiert die Marionette sich zu ihrem Gegner und führt einen unnachgiebigen Angriff aus."
+        },
+        "30011": {
+            "monster_id": 30011,
+            "monster_name": "Marionette mit Grauschleier",
+            "card_text": "Vor vielen Jahren gab es ein Paar talentierter Tänzerinnen, die Schwestern waren. Sie haben wie Sternschnuppen die Welt erleuchtet und schnell einen riesigen Fanclub angezogen. In dem prunkvollen Gebäude der „Ballet Twins“ haben sie dann eine prächtige spezielle Aufführung veranstaltet.\nDoch kurz vor der Abschlussvorstellung brach plötzlich eine Höhlenkatastrophe aus, bei der die Ballet Twins von einer Höhle verschlungen wurden, und die Schwestern verschwanden in der Dunkelheit. Unzählige Menschen weltweit seufzten bedauernd, nachdem sie von dieser Nachricht gehört hatten.\nEs heißt, dass die Schwestern an jenem Tag der Aufführung drei „Vorzeichen“ vom Todesgott erhalten haben. Einige glauben, dass die beiden Schwestern sich mit bestimmten Mächten angelegt haben und letztendlich von einer unsichtbaren Hand, die im Hintergrund agierte, grausam zum Schweigen gebracht wurden, indem sie eine Höhlenkatastrophe inszenierte. Die sogenannten „Vorzeichen“ waren wohl Warnungen von wohlmeinenden Menschen.\nHeutzutage bleibt die Wahrheit unaufdeckbar und die meisten Menschen können nur durch die verbleibenden visuellen Aufzeichnungen einen flüchtigen Blick auf die lebhaft tänzerische Gestalt von „Augetta“ erhaschen, wie sie einst war.\nNur wenige elitäre Höhlenräuber wissen davon: Wenn die vergessene Melodie erneut bei den Ballet Twins erklingt, erscheint die geheimnisvoll anmutende Gestalt von „Marionette mit Grauschleier“. Viele glauben, dass es eine gewisse Verbindung zwischen ihr und der Tänzerin von damals, „Augetta“, gibt, als ob sie dazu bestimmt ist, die vergangene „Abschlussvorstellung“ in ihrem Namen zu vollenden.\nDoch diesmal vermitteln die anmutigen Tanzschritte den Zuschauern nicht mehr Liebe und Schönheit, sondern endlose Todesgefühle und Verzweiflung.\n„Ich weiß nicht, ob die Marionette, der ich begegnet bin, die ältere Schwester oder die jüngere Schwester darstellte ...“\n„Ach! Es liegt nicht daran, dass mir das künstlerische Verständnis fehlt, ich kann sie einfach nicht auseinanderhalten!“",
+            "card_quote": "– Inter-Knot, ein Beitrag von einem Höhlenräuber",
+            "skill_text": "Im Kampf teleportiert die Marionette sich zu ihrem Gegner und führt einen unnachgiebigen Angriff aus."
+        },
+        "30012": {
+            "monster_id": 30012,
+            "monster_name": "Marionette – Zwilling",
+            "card_text": "Vor langer Zeit gab es ein Schwesternpaar, begnadete Tänzerinnen. Sie erstrahlten wie flüchtige Sternschnuppen und zogen eine immense Anhängerschaft an. Ihr Ruhm kulminierte in einer opulenten Vorstellung in der prunkvollen Ballet Twins.\nDoch kurz bevor die Vorstellung zu Ende ging, brach aus der Höhle eine Katastrophe hervor. Die Höhle verschlang die Ballet Twins, und die Tänzerschwestern verschwanden in den Schatten. Ihr Schicksal erfüllte die Welt mit Wehmut und Bedauern.\nHeutzutage können die meisten Menschen nur noch aus den verbliebenen Bildern und Textmaterialien einen Blick auf ihre lebhaften Tanzbewegungen werfen.\nNur eine geringe Anzahl von Höhlenräubern, die tief in die Ballet Twins vordringen, werden wissen, dass wenn die vergessene Musik wieder in der Ballet Twins erklingt, die „Marionette“ wie aus dem Nichts auftauchen werden. Viele glauben, dass sie eine Verbindung zu den damaligen Zwillingstänzern haben und irgendwie bestimmt sind, ihre letzte „Vorstellung“ zu vollenden.\n„Als diese merkwürdige Musik aufhörte, traten zwei Marionetten aus dem Dunkeln und verbeugten sich vor uns ...“\n„Oh? Bedeutet das, dass die Vorstellung beginnt?“\n„Nein, ich glaube eher, die wollten uns sagen ... Die Flucht ist vergebens. Das Ende ist nah.“",
+            "card_quote": "– „Höhlen-Interview“, Ausgabe 251: Interview mit einem überlebenden Höhlenermittler",
+            "skill_text": "Marionette – Zwilling verwenden im Kampf viele Kettenangriffe. Wenn sie während der Tanzangriffe mehrmals durch Defensivhilfe unterbrochen werden, wird ihr Tanz gestoppt. Stirbt einer der Zwillinge, versucht der andere, den gefallenen Zwilling wiederzubeleben."
+        },
+        "30017": {
+            "monster_id": 30017,
+            "monster_name": "Ionisiert – Cyrtoidea",
+            "card_text": "In der Legende der Höhlenräuber wird berichtet, dass Cyrtoideas viele Gemeinsamkeiten mit dem Bewegungsmuster eines Hais aufweisen.\nEs kann in den Schatten umherschleichen, unter der Oberfläche lauern und dann plötzlich wie ein Hai aus dem Boden auftauchen, um seine Beute gnadenlos zu zerreißen.\nDie Datenanalyse legt nahe, dass es sich wahrscheinlich auf die Bodenvibrationen verlässt, um die Position seiner Beute zu erfassen. Deswegen versuchen einige erfahrene Höhlenräuber, ihre Schrittmuster zu variieren, um zu vermeiden, dass sie seine Aufmerksamkeit erregen.\n„Ich war früher ein Ermittler und in meinem Zuständigkeitsbereich gab es viele Cyrtoideas.“\n„Ich musste ständig herumspringen, um ihren Angriffen auszuweichen ...“\n„Im Nachhinein betrachtet, war das wohl der Anstoß für mich, Steptanz zu lernen ....“",
+            "card_quote": "– 131. Ausgabe von „Teeparty in der Höhle“, ein Interview mit dem Steptanz-Meister Ansor",
+            "skill_text": "Ionisiert – Cyrtoidea verwendet im Kampf seinen scharfen Kopf, um aus der Ferne Angriffe auf Feinde auszuführen."
+        },
+        "30018": {
+            "monster_id": 30018,
+            "monster_name": "Ionisiert – Nassellaria",
+            "card_text": "In den Höhlen gibt es unterschiedliche Arten von Äther-Mutanten, die jeweils einen völlig unterschiedlichen Kampfstil haben.\nEinige sind unbarmherzig, andere verschlagen, während wieder andere mit einem erstaunlich ... offenherzigen Stil agieren.\nNassellarias gehören zu einer äußerst speziellen Kategorie.\nSie stellen sich oft an auffällige Ecken und sammeln ungeniert explosiven Äther, um letztendlich die intensive zerstörerische Energie zu nutzen und alle Hindernisse für die verbündeten Äthereale aus dem Weg zu räumen.\nGleichzeitig greifen die umliegenden Äthereale wild an, um genügend Zeit für den aufgeladenen Angriff der Nassellarias zu gewinnen.\n„Schnell, unterbrecht es, lasst es nicht seinen ultimativen Schlag vorbereiten!“\n„Wenn wir von ihm getroffen werden, werden wir eher wie die Schurken dastehen und sie wie die Helden!“",
+            "card_quote": "– In der Tiefe der Höhle umkreisen mehrere Ermittler ein Nassellaria",
+            "skill_text": "Ionisiert – Nassellaria verwendet im Kampf lange Aufladungen, um hochenergetische Kugeln zu erzeugen, die Feinde angreifen. Wenn es während der Aufladung Äther-SCH oder Angriffe mit hohem Schaden erleidet, fallen die Energiekugeln vorzeitig und verursachen Flächenschaden bei umliegenden Einheiten."
+        },
+        "30023": {
+            "monster_id": 30023,
+            "monster_name": "Thracian",
+            "card_text": "Benannt nach den legendären Kriegervölkern der alten Zivilisationen, soll dieser bösartige Äthereal die Verkörperung der tapfersten Helden und der wahnsinnigsten Schurken sein, die vom Äther korrodiert wurden.\n... Aber das ist nicht der Fall. Es stimmt zwar, dass die gestählten Muskeln, die du in der Höhle und im Fitnessstudio aufgebaut hast, sowie das Adrenalin, das du kurz vor deinem Tod in rauen Mengen ausschüttest, dir dabei helfen können, ein großes Problem für deine früheren Gefährten zu werden. Aber sie würden sich wohl eher nicht wegen eines alten Freundes aufregen, der bereits nicht mehr zu retten ist, stimmt’s?\nAber egal. Was nützt es, einen guten gesellschaftlichen Ruf zu haben, wenn sich dein hübsches Gesicht in eine seltsame schwarze Energiekugel verwandelt?\n„Kein Wunder, dass er der Boss ist. Selbst als Äthereal kämpft er noch alles nieder!“\n„Ich wusste, dass da etwas nicht stimmt, als ich ihn ständig im Fitnessstudio getroffen habe!“",
+            "card_quote": "– Herausgerufenes Geständnis eines verhafteten Mitglieds der Höhlenräuber",
+            "skill_text": "Im Kampf setzt Thracian mehrmals bestimmte Fähigkeiten ein, um in einen Aufladungszustand zu gelangen. In diesem Zustand werden seine Angriffe aggressiver, und nach dem Ausführen hochgradiger Fähigkeiten verursacht er eine großflächige Explosion."
+        },
+        "35001": {
+            "monster_id": 35001,
+            "monster_name": "Nineveh",
+            "card_text": "Die einzigartige und prächtige Erscheinung des symbiotischen Ätherealschwarms, der als Nineveh bekannt ist, macht es den Menschen „schwer“, sich vor ihm zu hüten, auch wenn er als extrem bedrohlich eingestuft wird.\nDer einzige verfügbare Untersuchungsbericht deutet darauf hin, dass hoch konzentrierter Äther durch sein „Rhizom“ in Ninevehs Kern fließt und ihn mit einem stetigen Strom von Energie versorgt, solange er sich ausdehnt. Manche Wissenschaftler vermuten, dass dieses Verhalten mit der Photosynthese der Pflanzen verwandt ist.\nSolange er seine schwingende Gestalt angenommen hat, strömt stetig ein Teil der hochaktiven Ätherenergie aus. Kurz bevor der aufgestaute starke Äther überschießt, nimmt er seine wahre „blühende“ Gestalt an.\nUnd im Augenblick der strahlenden Blüte folgt der Tod.\n„Die gute Nachricht ist: Er ist nicht bösartig, er sammelt nur Nährstoffe für die Photosynthese. Die schlechte Nachricht ist ... Wir sind die Nährstoffe.“",
+            "card_quote": "– Verteidigungsmacht, Untersuchungsbericht Nr. K-411 zur Höhle Null",
+            "skill_text": "Im Kampf verwendet Nineveh großflächige Angriffe, bombardiert ihre Gegner mit Geschossen und beschwört Hornissen, um ihr zu helfen."
+        },
+        "100001": {
+            "monster_id": 100001,
+            "monster_name": "Tyrfing – Energiegeladen",
+            "card_text": "Die Höhlen-Investigationsassoziation hat das Verhaltensmuster von Tyrfings untersucht. Forschungsergebnisse zeigen, dass ihre scheinbar unausgewogene Haltung des Schwankens und Schrägstellens in Wirklichkeit eine äußerst effiziente Haltung zum Ausführen von aufeinanderfolgenden Hiebangriffen ist.\nAufgrund ihres häufigen Auftretens und ihres aggressiven Verhaltens wurden Tyrfings als einer der tödlichsten Äthereale in der Höhle identifiziert, insbesondere für bestimmte Mitarbeiter in Höhlen.\nWenn sie es mit einem abgeschirmten Gegner zu tun haben, greifen sie unerbittlich an, bis entweder der Gegner oder sie selbst zerstört sind.\n„Vielleicht ... hassen sie uns nicht wirklich, sondern betrachten uns nur als Sandsack zum Üben?“",
+            "card_quote": "– Mitternachtstalkshow „Back 2 Life“, Episode 165, mit dem verletzungsbedingt pensionierten Bereitschaftsoffizier Nobby Kereyan",
+            "skill_text": "Tyrfing setzt im Kampf auf Nahkampfangriffe."
+        },
+        "100011": {
+            "monster_id": 100011,
+            "monster_name": "Alpeca – Energiegeladen",
+            "card_text": "Die HIA hat lediglich begrenzte Forschungsberichte über Alpecas. Nach einer groben Analyse ihres Verhaltensmusters, flüssigen Äther zu speien, stufte die Investigationsassoziation sie als Äthereale mit geringer Bedrohung ein und schlossen ihre Untersuchungen ab.\nEinst entwickelten ein paar Forscher ein großes Interesse daran, wie Alpecas flüssigen Äther speien, und erteilten sogar einen Ermittlungsauftrag zur genaueren Beobachtung.\nAber aus irgendwelchen Gründen haben sich Veteran-Ermittler bisher von diesem Auftrag ferngehalten.\n„Lauf! Sie speien wieder ... Ach, ne! Meine neuen Klamotten!“",
+            "card_quote": "– In den Tiefen der Höhlen versucht sich der junge Ermittler Raffaele Bert zurückzuziehen",
+            "skill_text": "Alpeca greift im Kampf aus der Ferne mit Streuschüssen an."
+        },
+        "100021": {
+            "monster_id": 100021,
+            "monster_name": "Faun – Energiegeladen",
+            "card_text": "Ein lebender humanoider Äther, der zum ersten Mal in der Metro-Höhle in New Eridu gesichtet wurde. Er löste einst eine Debatte in der Investigationsassoziation aus, da einige glaubten, es handelte sich bei ihm um einen lebenden Äther, der von Korrodierten umgewandelt wurde, während andere behaupteten, er sei ein reiner lebender Äther, der lediglich durch die Umgebung der Höhle beeinflusst wurde. Die Investigationsassoziation stuft ihn aufgrund seiner begrenzten Intelligenz als nicht besonders gefährlich ein, aber man sollte ihn nicht unterschätzen, da sie gewöhnlich in Gruppen auftreten.\n„Bist du schon einmal wegen einer roten Ampel zu spät gekommen oder hast deswegen einen Strafzettel bekommen?“\n„Das ist deine Gelegenheit, etwas Dampf abzulassen!“",
+            "card_quote": "– Aus dem „Planet der Katastrophen“-Forum, eine Nachricht vom Benutzer „WarteAufBanbooPreisverfall“",
+            "skill_text": "Faun bevorzugt im Kampf heftige, aufgeladene Schläge, die schwer zu unterbrechen sind."
+        },
+        "100031": {
+            "monster_id": 100031,
+            "monster_name": "Hoplitai – Energiegeladen",
+            "card_text": "Obwohl Hoplitai von der Höhlen-Investigationsassoziation als Äthereale von „geringer Bedrohung“ eingestuft wurden, erweisen sie sich für unerfahrene Höhlenräuber und Ermittler als gewaltige Gegner.\nSeine Vorderbeine sind mit einer dicken, trägen ätherischen Materie überzogen, die sowohl als hervorragender Schutzschild als auch als furchterregende Waffe dienen kann.\nDer einzige Nachteil ist sein kopflastiges Äußeres, das es nicht sonderlich intelligent aussehen lässt.\n„Also gut, Leute ... Seht euch diesen armen Wurm an ... Das ist ein Hoplitai.“\n„Wenn die Äthereale sich versammeln und Schere-Stein-Papier spielen, dann spielt dieser Dummkopf immer Papier!“",
+            "card_quote": "– „Höhlen-Zoo“, spezielle Folge über Hoplitai",
+            "skill_text": "Hoplitai verwendet im Kampf seinen Schildarm, um zu stürmen oder Angriffe zu parieren."
+        },
+        "100041": {
+            "monster_id": 100041,
+            "monster_name": "Blitzspinne – Energiegeladen",
+            "card_text": "Laut Forschungsberichten der Höhlen-Investigationsassoziation werden Blitzspinnen aufgrund ihrer geringen Mobilität und der Tatsache, dass sie nur kleine Explosionen verursachen, als eine „geringe Bedrohung“ und „nicht besorgniserregend“ eingestuft.\nEinige scharfsinnige Geschäftsleute haben jedoch die Möglichkeiten erkannt, die sich durch ihre runden Körper und kurzen Beine ergeben.\nEin Film mit dem Titel „Dreh dich, kleine Blitzspinne“ erlangte große Popularität und führte zum Verkauf von Waren wie Puppen und Kissen zu Mondpreisen.\n„Ich hätte nicht erwartet, dass ihre Puppen tödlicher sind als sie selbst ... Zumindest für den Geldbeutel. Sieht so aus, als ob ich nächsten Monat von Instantnudeln leben muss, Billy ...“",
+            "card_quote": "– Vor dem Greifautomaten auf der Einkaufsstraße überprüft Anby ihr Portmonee",
+            "skill_text": "Blitzspinne führt im Kampf Selbstzerstörungsangriff aus."
+        },
+        "100141": {
+            "monster_id": 100141,
+            "monster_name": "Mandrake – Energiegeladen",
+            "card_text": "Der Name „Mandrake“ stammt von einem giftigen Kraut. Der Gelehrte, der den Namen ursprünglich vergeben hat, glaubte an eine Ähnlichkeit zwischen den beiden allein aufgrund ihres Aussehens.\nWenn Mandrake blüht, sendet es Hitzestrahlen aus, um Ziele in seiner Umgebung anzugreifen, während die robusten Blätter ihn fest im Boden verankert und ein Entwurzeln verhindern. Wenn er bedroht wird, kann der Mandrake seine scharfen Blätter zur Selbstverteidigung einsetzen.\nÄhnlich wie in der Legende seines Namensvetters können die Schreie des Mandrakes sehr tödlich sein.\n„Warte, geh nicht dorthin! Er wird jeden Moment aufblühen!“",
+            "card_quote": "– Mandrake erblüht in dem Film „Deep Fear“",
+            "skill_text": "Verschiedene Mandrakes bieten im Kampf periodisch Boni für ANG- oder Schildwert für umliegende Verbündete."
+        },
+        "100251": {
+            "monster_id": 100251,
+            "monster_name": "Ahriman – Energiegeladen",
+            "card_text": "Aufgrund seiner einzigartig bizarren Form wird der regungslose „Ahriman“ oft für eine Kunstskulptur bei den Ballet Twins gehalten.\nDeshalb bleibt bei vielen Anfängerermittlern ein lebenslanges Trauma zurück, wenn sie zum ersten Mal einem Ahriman begegnen ...\nDu bist gerade an einer „Skulptur“ vorbeigegangen, als sich diese plötzlich bewegt ...\nUnd dieser ängstliche, eingefrorene Moment ist der perfekte Moment für Ahriman, einen Überraschungsangriff zu starten.\n„Corin, lass dich nicht von seinem Aussehen täuschen ... Das ist kein wertvolles Kunstwerk.“\n„Dann lass uns jetzt aufräumen.“",
+            "card_quote": "– Lycaon leitet Corin beim Aufräumen an",
+            "skill_text": "Ahriman führt im Kampf plötzliche Sturmangriffe durch und führt koordinierte Angriffe mit anderen Ahriman aus."
+        },
+        "100261": {
+            "monster_id": 100261,
+            "monster_name": "Specter – Energiegeladen",
+            "card_text": "Anscheinend beeinflusst durch das charakteristische Interieur der Ballet Twins, haben „Specter“ groteske und verdrehte Gliedmaßen einer Kunstskulptur.\nEinige Ermittler glauben, dass ihre besondere Form dazu dient, ihre Äther-Kerne besser zu schützen.\nAndererseits werden auch die Stimmen laut, dass das alles nur eine Masche ist, mit der sie die Aufmerksamkeit der Gegner auf sich zieht. Während ihre Feinde von ihrer merkwürdigen Körperhaltung fasziniert sind, nutzen Specter die Gelegenheit, um mit konzentriertem Äther Angriffe aus großer Entfernung auszuführen.\n„Ich habe seine Form eine Weile lang angesehen: Wollte sie mit seinem Kopf eine Partie Bowling spielen?“\n„Aber bevor ich es herausfinden konnte, traf mich der Bowlingball im Gesicht ...“",
+            "card_quote": "– Veröffentlicht von einem unbekannten Nutzer im Inter-Knot",
+            "skill_text": "Specter entfesselt im Kampf in kurzer Zeit eine Flut von Fernangriffen."
+        },
+        "100301": {
+            "monster_id": 100301,
+            "monster_name": "Fossor – Energiegeladen",
+            "card_text": "Neue Studien des White-Star-Instituts haben gezeigt, dass die Extremitäten mancher Äthereale bemerkenswerte Eigenarten ihrer Umgebung aufweisen.\nFossor ist ein hervorragendes Beispiel dafür: Seine seltsamen Vordergliedmaßen haben eine verblüffende Ähnlichkeit mit dem Bohrwerkzeug, das im alten Ölquellengebiet aufzufinden ist.\nObwohl manche behaupten, dies sei eine Tarnungsmethode, um Feinde zu verwirren, haben andere darauf hingewiesen, dass der Kampfstil des Fossors aggressiv und direkt ist, sodass er für Hinterhalte nicht geeignet ist.\nEinige fantasievolle Höhlenräuber spekulieren, dass es diese Form angenommen haben könnte, um nach Mineralien zu graben ...\n„Als ich ihn aus der Ferne entdeckt habe, schien er fröhlich den Asphalt aufzugraben.“\n„Als es mich entdeckte, zögerte es keinen Augenblick und stürmte auf mich zu, um mich zu vertreiben ...“\n„Dabei kam ich nur zufällig vorbei! Ich hatte gar nicht vor, ihm seinen Müll wegzunehmen!“",
+            "card_quote": "– Ein unerfahrener Höhlenräuber, der außerhalb einer Höhle seinen Kameraden von seinem Erlebnis berichtet",
+            "skill_text": "Im Kampf führt Fossor aufeinanderfolgende Schläge mit beiden Händen aus."
+        },
+        "100311": {
+            "monster_id": 100311,
+            "monster_name": "Sordidus – Energiegeladen",
+            "card_text": "Die Höhlen der Außenzone dienen als Zuhause für eine Vielzahl bizarrer Äthereale. Sordidus ist ein Musterbeispiel hierfür.\nSeine einzigartige Körperstruktur weist überaus flexible Gliedmaßen auf, die das Ergebnis einer unbekannten Reaktion zwischen Rohöl und aktivem Äther zu sein scheinen.\nWenn er erst einmal ein Ziel ins Visier genommen hat, verwendet er seine Extremitäten wie ein professioneller Akrobat, um aggressive und brutale Angriffe auszuführen.\n„Verdammt ... Dieses Ding hat mich tatsächlich gepeitscht!“\n„Sieht es sich als einen Dompteur an und wir sind die wilden Bestien?“",
+            "card_quote": "– Eine Gruppe unerfahrener Höhlenräuber, die in einer Höhle gegen einen Sordidus kämpft",
+            "skill_text": "Im Kampf peitscht Sordidus Feinde in der Nähe mit seinen Tentakeln oder steckt seine Tentakel in den Boden, um Überraschungsangriffe aus großer Entfernung auszuführen."
+        },
+        "200001": {
+            "monster_id": 200001,
+            "monster_name": "Farbauti – Energiegeladen",
+            "card_text": "Farbauti, der über immense Kräfte verfügt und sich oft in einem rasenden Zustand befindet, ist eine der größten Bedrohungen für Höhlenräuber. Mit seinen hammerähnlichen Armen kann er mit Leichtigkeit Schaden abwenden und Stürme von Schlägen entfesseln, die alles in seinem Weg zermalmen.\nEinige Höhlenräuber bemerkten, dass Farbauti häufig rhythmisch und mit einer hohen Frequenz auf den Boden einhämmern und vermuteten, dass sie eine außergewöhnliche Vorliebe für Trommelmusik haben.\nObwohl die Höhlen-Investigationsassoziation die Gerüchte offiziell zurückgewiesen hat, tragen einige Höhlenräuber noch immer kleine Lautsprecher beim Betreten von Höhlen bei sich, um Farbauti mit Musik abzulenken, wenn sie ihnen begegnen.\nJedoch hat es bisher noch niemand geschafft, auf diese Weise zu entkommen.\n„Der Grund für dieses Scheitern ist simpel: Selbst einem Farbauti entgeht nicht, dass ihr einen fürchterlichen Musikgeschmack habt!“",
+            "card_quote": "– Veröffentlicht von „Spike Finger“ im „Schwarzer Besenrock“-Forum",
+            "skill_text": "Farbauti setzt im Kampf seine kräftigen Arme ein, um wiederholte Hammerschläge auszuführen. Nach einer bestimmten Menge an Schaden werden seine Arme jedoch steif."
+        },
+        "200004": {
+            "monster_id": 200004,
+            "monster_name": "Ionisiert – Farbauti",
+            "card_text": "Farbauti, der über immense Kräfte verfügt und sich oft in einem rasenden Zustand befindet, ist eine der größten Bedrohungen für Höhlenräuber. Mit seinen hammerähnlichen Armen kann er mit Leichtigkeit Schaden abwenden und Stürme von Schlägen entfesseln, die alles in seinem Weg zermalmen.\nEinige Höhlenräuber bemerkten, dass Farbauti häufig rhythmisch und mit einer hohen Frequenz auf den Boden einhämmern und vermuteten, dass sie eine außergewöhnliche Vorliebe für Trommelmusik haben.\nObwohl die Höhlen-Investigationsassoziation die Gerüchte offiziell zurückgewiesen hat, tragen einige Höhlenräuber noch immer kleine Lautsprecher beim Betreten von Höhlen bei sich, um Farbauti mit Musik abzulenken, wenn sie ihnen begegnen.\nJedoch hat es bisher noch niemand geschafft, auf diese Weise zu entkommen.\n„Der Grund für dieses Scheitern ist simpel: Selbst einem Farbauti entgeht nicht, dass ihr einen fürchterlichen Musikgeschmack habt!“",
+            "card_quote": "– Veröffentlicht von „Spike Finger“ im „Schwarzer Besenrock“-Forum",
+            "skill_text": "Farbauti – Ionisiert setzt im Kampf seine kräftigen Arme ein, um wiederholte Hammerschläge auszuführen. Nach einer bestimmten Menge an Schaden werden seine Arme jedoch steif. Zusätzlich sammelt er Energie, um mächtige Sprungangriffe auszuführen."
+        },
+        "200011": {
+            "monster_id": 200011,
+            "monster_name": "Hati – Energiegeladen",
+            "card_text": "Dieser vierbeinige, aber überaus intelligente lebendige Äther ist äußerst gefährlich und wurde von dem ersten Erkundungsteam der Höhlen-Investigationsassoziation offiziell katalogisiert.\nGerüchten zufolge wurde er zum ersten Mal in einer Nesthöhle gesichtet, wo Personen, die die nahegelegene Ödnis erkundeten, berichteten, ohrenbetäubendes Gebrüll gehört zu haben, das an das Knurren wilder Tiere erinnerte.\n„Glaubst du, dieses Biest würde einem Stock oder Ball hinterherrennen?“ \n„Du kannst es ja versuchen, aber die Krankenhausrechnung werde ich dir nicht bezahlen.“",
+            "card_quote": "– Ein Gespräch zwischen Billy und Nicole",
+            "skill_text": "Hati nutzt im Kampf agile Sprünge und schnelle Krallenangriffe."
+        },
+        "200014": {
+            "monster_id": 200014,
+            "monster_name": "Notorisch - Hati",
+            "card_text": "Dieser vierbeinige, aber überaus intelligente lebendige Äther ist äußerst gefährlich und wurde von dem ersten Erkundungsteam der Höhlen-Investigationsassoziation offiziell katalogisiert.\nGerüchten zufolge wurde er zum ersten Mal in einer Nesthöhle gesichtet, wo Personen, die die nahegelegene Ödnis erkundeten, berichteten, ohrenbetäubendes Gebrüll gehört zu haben, das an das Knurren wilder Tiere erinnerte.\n„Glaubst du, dieses Biest würde einem Stock oder Ball hinterherrennen?“ \n„Du kannst es ja versuchen, aber die Krankenhausrechnung werde ich dir nicht bezahlen.“",
+            "card_quote": "– Ein Gespräch zwischen Billy und Nicole",
+            "skill_text": null
+        },
+        "200015": {
+            "monster_id": 200015,
+            "monster_name": "Hati-Rudelführer – Energiegeladen",
+            "card_text": "Dieser vierbeinige, aber überaus intelligente lebendige Äther ist äußerst gefährlich und wurde von dem ersten Erkundungsteam der Höhlen-Investigationsassoziation offiziell katalogisiert.\nGerüchten zufolge wurde er zum ersten Mal in der Nest-Höhle gesichtet, wo Personen, die die nahegelegene Ödnis erkundeten, berichteten, ohrenbetäubendes Gebrüll gehört zu haben, das an das Knurren wilder Tiere erinnerte.\n„Glaubst du, dieses Biest würde einem Stock oder Ball hinterherrennen?“\n„Du kannst es ja versuchen, aber die Krankenhausrechnung werde ich dir nicht bezahlen.“",
+            "card_quote": "– Billy und Nicole in einer ihrer lockeren Unterhaltungen",
+            "skill_text": "Im Kampf zeigt der Hati-Rudelführer einen starken Drang zum Angriff. Seine Bewegungen sind flink und schnell."
+        },
+        "200021": {
+            "monster_id": 200021,
+            "monster_name": "Gnom – Energiegeladen",
+            "card_text": "Als die Höhlenermittler dieser Art Äthereal zum ersten Mal begegneten, glaubten sie irrtümlicherweise, sie besäßen eine gewisse Intelligenz und könnten sogar den Gebrauch von Schlagwaffen von den Menschen erlernen, woraufhin sie sie „Gnome“ tauften.\nSpätere Untersuchungen ergaben jedoch, dass ihre „Hämmer“ in Wirklichkeit verdrehte und deformierte Gliedmaßen waren und dass sie nicht in der Lage waren, menschliches Verhalten zu imitieren.\nNichtsdestotrotz sind Gnome anspruchsvolle Gegner. Ihr robuster Körperbau und ihre wilde Stärke machen sogar ihren leichtesten Hieb zu einem verheerenden tödlichen Angriff.\nSobald etwas in ihr Territorium eindringt, geraten sie in Rage und setzen alles daran, den Eindringling zu zerschmettern.\n„Oh? Ein Gnom kam angerannt und hat auf ein Stück Schrott eingeprügelt.“ \n„Ich finde die Schläge dieses Kerlchens klingen sehr rhythmisch, als würde es Trommel spielen ...“\n„Hey! Ihr beiden pennt doch! Es schlägt nicht auf ein Stück Schrott ein, sondern auf unseren Transporter!“",
+            "card_quote": "– Ein Gnom-Eindringling bricht in ein Bandenversteck ein",
+            "skill_text": "Gnom brüllt im Kampf, um sich selbst zu stärken, erhöht dabei seinen Schaden und verringert den erlittenen Schaden erheblich. Dieser Effekt endet, wenn er benommen wird."
+        },
+        "200031": {
+            "monster_id": 200031,
+            "monster_name": "Gepanzerter Hati – Energiegeladen",
+            "card_text": "Für viele erfahrene Höhlenermittler gehört der gepanzerte Hati zu den schwer zu erlegenden Ätherealen.\nEr hat durch seine Panzerhülle zwar etwas von seiner Beweglichkeit eingebüßt, dafür an außergewöhnlichen Resistenz gegen Angriffe gewonnen.\nGleichzeitig formt die Korrosionssubstanz seines Körpers scharfe harte Ausbuchtungen, die dem Gegner zusätzlichen Schrammenschaden zufügen, wenn er mit hoher Geschwindigkeit mit einem gepanzerten Hati zusammenprallt.\nDie wendigen Bewegungen dieser Kreatur, ihre Widerstandsfähigkeit gegen Schläge und ihre nahtlose Panzerung zwingen selbst die erfahrensten Entdecker, alternative Routen zu suchen, um eine direkte Konfrontation zu vermeiden.\nEinige unerfahrene Höhlenräuber sollen mit Tierfutter versucht haben, einen gepanzerten Hati wegzulocken.\nAber das ist offensichtlich ein aussichtsloses Unterfangen.\n„Schnell, nimm die Beine in die Hand! Ihm schmeckt das Hundefutter nicht!“",
+            "card_quote": "– Mehrere in Panik geratene junge Höhlenräuber, die vor einem Hati in einer Höhle fliehen",
+            "skill_text": "Gepanzerter Hati reduziert mit seiner Panzerung den erlittenen Schaden und die Benommenheit erheblich, aber Defensivhilfe verringert seinen Panzerungswert stark."
+        },
+        "200034": {
+            "monster_id": 200034,
+            "monster_name": "Notorisch – Gepanzerter Hati",
+            "card_text": "Für viele erfahrene Höhlenermittler gehört der gepanzerte Hati zu den schwer zu erlegenden Ätherealen.\nEr hat durch seine Panzerhülle zwar etwas von seiner Beweglichkeit eingebüßt, dafür an außergewöhnlichen Resistenz gegen Angriffe gewonnen.\nGleichzeitig formt die Korrosionssubstanz seines Körpers scharfe harte Ausbuchtungen, die dem Gegner zusätzlichen Schrammenschaden zufügen, wenn er mit hoher Geschwindigkeit mit einem gepanzerten Hati zusammenprallt.\nDie wendigen Bewegungen dieser Kreatur, ihre Widerstandsfähigkeit gegen Schläge und ihre nahtlose Panzerung zwingen selbst die erfahrensten Entdecker, alternative Routen zu suchen, um eine direkte Konfrontation zu vermeiden.\nEinige unerfahrene Höhlenräuber sollen mit Tierfutter versucht haben, einen gepanzerten Hati wegzulocken.\nAber das ist offensichtlich ein aussichtsloses Unterfangen.\n„Schnell, nimm die Beine in die Hand! Ihm schmeckt das Hundefutter nicht!“",
+            "card_quote": "– Mehrere in Panik geratene junge Höhlenräuber, die vor einem Hati in einer Höhle fliehen",
+            "skill_text": "Notorisch – Gepanzerter Hati reduziert mit seiner Panzerung den erlittenen Schaden und die Benommenheit erheblich. Defensivhilfe verringert jedoch seinen Panzerungswert stark. Nach einem Kampfschrei feuert er zudem mächtige Äthergeschosse ab."
+        },
+        "200041": {
+            "monster_id": 200041,
+            "monster_name": "Eisenbahngnom – Energiegeladen",
+            "card_text": "Die Kontroversen um den Eisenbahngnom sind niemals abgebrochen. Einige Wissenschaftler glauben, dass er seine seltsame Form absichtlich annähme, um seine Gegner zu verwirren, während andere die Trümmer auf ihren Körpern auf Korrosion und Verschmelzung mit alten Metro-Geräten zurückführen.\nJedenfalls versetzt die Existenz des Eisenbahngnoms junge Ermittler regelmäßig in Angst und Schrecken, wenn sie eine alte Metro-Zone in einer Höhle betreten.\nJeden Moment kann ein normal aussehendes „Straßenschild“ anfangen zu zittern, und dann taucht ein furchterregender Äthereal aus dem Boden auf und stürmt bedrohlich auf einen zu.\n„Hä? Ich habe dieses Straßenschild doch schon vor ein paar Minuten gesehen. Laufen wir etwa im Kreis?“\n„Nein ... Dieses ‚Straßenschild‘ verfolgt uns schon die ganze Zeit!“",
+            "card_quote": "– Horrorfilm „Eternal Lost“, der Protagonist sucht einen Ausweg aus der Höhle",
+            "skill_text": "Gnom brüllt im Kampf, um sich selbst zu stärken, erhöht dabei seinen Schaden und verringert den erlittenen Schaden erheblich. Dieser Effekt endet, wenn er benommen wird."
+        },
+        "200051": {
+            "monster_id": 200051,
+            "monster_name": "Arlaune – Energiegeladen",
+            "card_text": "Viele junge Höhlenräuber lassen sich bei der ersten Begegnung mit einer Arlaune von seinem Äußeren täuschen und denken, er sei eine normale Pflanze.\nAber wenn sich ihm jemand nähert, fängt er schlagartig an zu zittern und stößt kontinuierlich hoch konzentrierte ätherische Materie aus, die seine ahnungslosen Opfer unvorbereitet trifft.\n„Was? Ich wollte ihn nur gießen, und er hat mich einfach angespuckt?“",
+            "card_quote": "– Eine Gruppe von Anfängerermittlern wird von einem Arlaune in einer Höhle überfallen",
+            "skill_text": "Arlaune ist im Kampf sehr hinterlistig und neigt dazu, aus der Ferne anzugreifen. Wenn ihre Blütenblätter geöffnet sind und sie getroffen wird, kann dies viel Benommenheit ansammeln."
+        },
+        "300001": {
+            "monster_id": 300001,
+            "monster_name": "Dullahan – Energiegeladen",
+            "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "skill_text": "Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen."
+        },
+        "300002": {
+            "monster_id": 300002,
+            "monster_name": "Neugeborener Dullahan",
+            "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "skill_text": "Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen."
+        },
+        "300004": {
+            "monster_id": 300004,
+            "monster_name": "Ionisiert – Dullahan",
+            "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "skill_text": "Ionisiert – Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen. Zusätzlich kann er nach einigen Bewegungen Ätherenergie sammeln, um einen explosiven Folgeangriff durchzuführen."
+        },
+        "300005": {
+            "monster_id": 300005,
+            "monster_name": "Notorisch – Dullahan",
+            "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "skill_text": "Notorisch – Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen. Außerdem nutzt er sein Schild geschickt zum Blocken und leitet schnell Anschlussangriffe nach einem Block ein."
+        },
+        "300011": {
+            "monster_id": 300011,
+            "monster_name": "Thanatos – Energiegeladen",
+            "card_text": "Die Erkundungen von Höhlen kann psychisch belastend sein, und Thanatos mit seiner einzigartigen Teleportationsfähigkeit und seinen unvorhersehbaren Angriffsmustern ist zu einer häufigen psychologischen Herausforderung für Höhlenräuber geworden.\nNicht wenige haben sogar gänzlich den Mut verloren, jemals wieder eine Höhle zu betreten, und sich für den vorzeitigen Ruhestand entschieden, nachdem sie einem Thanatos alleine gegenübergestanden sind.\nInfolgedessen sind diese schwer fassbaren Wesen zu immer wiederkehrenden Figuren in Horrorfilmen geworden.\n„Der dürre Schatten ist vor meinen Augen verschwunden und hinter mir wieder aufgetaucht ...“\n„Was soll ich nur machen? Ich traue mich nicht einmal mehr allein auf die Toilette ...“",
+            "card_quote": "– Premierenacht des Horrorfilms „Ethereal Comes Knocking“, Diskussionsstrang auf der Website „Kupferpflaume“ zur Filmkritik",
+            "skill_text": "Thanatos nutzt im Kampf Teleportation, um schwierige Winkel für Angriffe zu finden. Er akkumuliert jedoch eine hohe Benommenheit, wenn er mit Defensivhilfe und sukzessive Hilfe getroffen wird."
+        },
+        "300014": {
+            "monster_id": 300014,
+            "monster_name": "Ionisiert – Thanatos",
+            "card_text": "Die Erkundungen von Höhlen kann psychisch belastend sein, und Thanatos mit seiner einzigartigen Teleportationsfähigkeit und seinen unvorhersehbaren Angriffsmustern ist zu einer häufigen psychologischen Herausforderung für Höhlenräuber geworden.\nNicht wenige haben sogar gänzlich den Mut verloren, jemals wieder eine Höhle zu betreten, und sich für den vorzeitigen Ruhestand entschieden, nachdem sie einem Thanatos alleine gegenübergestanden sind.\nInfolgedessen sind diese schwer fassbaren Wesen zu immer wiederkehrenden Figuren in Horrorfilmen geworden.\n„Der dürre Schatten ist vor meinen Augen verschwunden und hinter mir wieder aufgetaucht ...“\n„Was soll ich nur machen? Ich traue mich nicht einmal mehr allein auf die Toilette ...“",
+            "card_quote": "– Premierenacht des Horrorfilms „Ethereal Comes Knocking“, Diskussionsstrang auf der Website „Kupferpflaume“ zur Filmkritik",
+            "skill_text": "Ionisiert – Thanatos nutzt im Kampf Teleportation, um schwierige Winkel für Angriffe zu finden. Er akkumuliert jedoch eine hohe Benommenheit, wenn er mit Defensivhilfe und sukzessive Hilfe getroffen wird."
+        },
+        "300015": {
+            "monster_id": 300015,
+            "monster_name": "Notorisch - Thanatos",
+            "card_text": "Die Erkundungen von Höhlen kann psychisch belastend sein, und Thanatos mit seiner einzigartigen Teleportationsfähigkeit und seinen unvorhersehbaren Angriffsmustern ist zu einer häufigen psychologischen Herausforderung für Höhlenräuber geworden.\nNicht wenige haben sogar gänzlich den Mut verloren, jemals wieder eine Höhle zu betreten, und sich für den vorzeitigen Ruhestand entschieden, nachdem sie einem Thanatos alleine gegenübergestanden sind.\nInfolgedessen sind diese schwer fassbaren Wesen zu immer wiederkehrenden Figuren in Horrorfilmen geworden.\n„Der dürre Schatten ist vor meinen Augen verschwunden und hinter mir wieder aufgetaucht ...“\n„Was soll ich nur machen? Ich traue mich nicht einmal mehr allein auf die Toilette ...“",
+            "card_quote": "– Premierenacht des Horrorfilms „Ethereal Comes Knocking“, Diskussionsstrang auf der Website „Kupferpflaume“ zur Filmkritik",
+            "skill_text": "Notorisch – Thanatos nutzt im Kampf Teleportation, um schwierige Winkel für extrem aggressive Angriffe zu finden. Er akkumuliert jedoch eine hohe Benommenheit, wenn er mit Defensivhilfe und sukzessive Hilfe getroffen wird."
+        },
+        "300071": {
+            "monster_id": 300071,
+            "monster_name": "Neugeborener Sackgassen-Schlächter",
+            "card_text": "Im Gegensatz zu anderen hochgefährlichen Ätherealen bleibt der Äther im Körper des „Sackgassen-Schlächters“ oft in einem Ruhezustand mit geringer Aktivität.\nNichtsdestotrotz besitzt der „Sackgassen-Schlächter“ die brachiale Stärke, alle Hindernisse zu vernichten. Die gesamte verdorbene und die gesamte zerstörte Metro-Zone dient ihm als seine verbotene Küche.\nNur wenn ein bedrohliches Ziel Interesse an dem „Sackgassen-Schlächter“ entwickelt, wird urplötzlich eine furchterregende Transformation stattfinden ...\nInnerhalb weniger Augenblicke verwandelt sich die hohe Konzentration des in seinem Körper gespeicherten Äthers gewaltsam, und die exponentiell ansteigende Energie veranlasst seine Gliedmaßen, sich schnell zu verformen und eine brutalere und gefräßigere „Fresshaltung“ einzunehmen.\nDamit sind die „Vorspeisen“ durch und ein unvergleichliches „Fressgelage“ wird eröffnet.\nWer nicht Teil dieses Festes sein will, sollte bei der Wahl seines Weges äußerst vorsichtig sein und sich von der „Küche“ fernhalten ...\n„Die Wege in dieser Höhle sind ziemlich kompliziert. Aber was man mit Sicherheit sagen kann ist, dass sie zu einer ‚Sackgasse‘ werden, wenn er am Ende des Weges auftaucht.“",
+            "card_quote": "– 17. Untersuchungsbericht zur Sackgassen-Höhle der Höhlen-Investigationsassoziation",
+            "skill_text": "Neugeborener Sackgassen-Schlächter greift im Kampf mit großen, weiten Schlägen an. Nach Erleiden einer bestimmten Menge an Schaden geht er in die zweite Phase über, in der seine Angriffe noch wilder werden und er Laserangriffe einsetzen kann. In dieser Phase führt ein starker Angriff nach seinen wilden Kombo-Attacken zu zusätzlicher Steifheit. Außerdem neigt der er dazu, durch geschicktes Ausweichen feindlichen Angriffen zu entkommen."
+        }
+    },
+    "Gangster": {
+        "10015": {
+            "monster_id": 10015,
+            "monster_name": "Plünderer",
+            "card_text": "Unter den Äther-Räuberbanden sind die „Plünderer“ und „Ausplünderer“ die Kernmitglieder, die sowohl über technische als auch über kämpferische Fähigkeiten verfügen.\nIhr Stromresonanz-Detektor kann Äther-Erz durch starke Strömungen aufspüren, und damit nachfolgende Arbeitsschritte erleichtern. Ebenfalls kann er mit erhöhter Spannung als starke Waffe bei bewaffneten Raubüberfällen eingesetzt werden.\nObwohl sie manchmal mit illegalen Fischern verwechselt werden, aber solche Missverständnisse sind ihnen reichlich egal.\nSchließlich ist es ihnen mit ihren extrem tödlichen Elektroschockern egal, ob es sich bei ihren Gegnern um Fische oder Menschen handelt ...\n„Ob an einem Fluss, einem See oder in der Nähe einer Höhle, wenn du jemanden siehst, der mit einer Elektroharpune ausgerüstet ist, melde das bitte direkt der Sicherheitsbehörde!“",
+            "card_quote": "– Ein Slogan der Sicherheitsbehörde von New Eridu, der aus einem bestimmten Werbewagen in Dauerschleife gespielt wird",
+            "skill_text": "Höhlengangster – Plünderer stürmt im Kampf aus großer Entfernung heran, kann jedoch bei zu langen Distanzen auf Hindernisse treffen, was eine Angriffsmöglichkeit für Figuren schafft."
+        },
+        "10016": {
+            "monster_id": 10016,
+            "monster_name": "Pyromane",
+            "card_text": "Für „Pyromanen“ und „Brandstifter“ sind Plünderungen nur ein Nebengeschäft. Tief in ihrem Inneren halten sie sich für Meister-Barkeeper, die überall auf der Suche nach Aufregung sind.\nMit Präzision und Geschick mischen sie verschiedene Arten von Äther in ihre Getränke und brauen so mühelos hochentzündliche und explosive „Spezialgebräue“.\nIm Gegensatz zu anderen gewalttätigen und dreisten Höhlengangstern geben sie ihren Opfern stets eine Wahl.\nWenn das Opfer bereit ist, die Maut zu zahlen, bieten sie ihm ein kostenloses Getränk an.\nUnd wenn die betreffende Person sich weigert, wird ihr die brennende Flasche „Spezialgebräu“ auf den Kopf geknallt.\n„Wie wäre es, wenn ich hingehe und sie dazu verleite, ihre eigenen Waffenreserven zu trinken?“",
+            "card_quote": "– In den Höhlen, ausgeraubte Ermittler diskutieren im Stillen einen Plan zum Rückzug",
+            "skill_text": "Höhlengangster – Pyromane wirft im Kampf manchmal eine große Menge Molotowcocktails auf einmal."
+        },
+        "10018": {
+            "monster_id": 10018,
+            "monster_name": "Wilderer",
+            "card_text": "Die meisten Gangster, die sich den ganzen Tag in den Höhlen umhertreiben, haben schwerwiegende psychische Probleme oder rätselhafte Macken. Glücklicherweise ist es den „Wilderern“ innerhalb der Bande gelungen, ihren Verstand zu bewahren, während sie sich die schmutzigen Methoden der traditionellen Schurken zu eigen machen.\nSie sind furchtsam, schlau, und beherrschen die Kunst, sich im Schatten zu verstecken und ihre Ziele überraschend anzugreifen. Sie würden niemals frontal angreifen, wenn sie einen Hinterhalt legen können.\nIhre typischen Komposit-Armbrüste haben zwar nur eine begrenzte Durchschlagskraft, machen aber nur wenig Lärm, wenn sie abgefeuert werden. Erfahrene Wilderer nutzen oft den perfekten Moment und setzen ihre ahnungslose Beute mit einem einzigen, gezielten Schuss außer Gefecht.\n„Ich war auch mal ein Offizier bei der Sicherheitsbehörde, bis ich bei einer Verhaftungsoperation in der Höhle von einem Pfeil ins Knie getroffen wurde ...“",
+            "card_quote": "– Ein erfahrenes Mitglied der Sicherheitsfirma „Schwarze Nachtigall“ unterhält sich mit einem Neuling",
+            "skill_text": "Höhlengangster – Wilderer neigt im Kampf dazu, aus der Ferne mit Dreifachschüssen zu attackieren."
+        },
+        "10019": {
+            "monster_id": 10019,
+            "monster_name": "Angreifer",
+            "card_text": "Als Vorhut der Räuberbande schwingen die „Angreifer“ und „Lauerer“ stürmen unabhängig vor.\nNicht etwa wegen übermäßiger Tapferkeit oder mangelndem Teamgeist, sondern ist eher eine Vorsichtsmaßnahme, um versehentliche Verletzungen zu vermeiden. Die modifizierten Transformatorspulen in ihren Händen setzten bei Berührung kontinuierlich Hochspannungsströme frei, die einen Gegner mit nur einer Berührung lähmen oder sogar außer Gefecht setzen können.\nUnd in einer logistisch schwer zugänglichen Höhle kann ein vorübergehend handlungsunfähiges Truppenmitglied ein Problem für die gesamte Truppe werden.\n„Was ist das? Lasst mich das mal genauer ansehen! Oh, das sieht aus wie die Nachbildung eines Elektroschockerstickkkkk ...“",
+            "card_quote": "– Die letzten Worte eines neugierigen Anfängerermittlers, bevor er in einer Höhle zu Boden fällt",
+            "skill_text": "Höhlengangster – Angreifer führt eine kontinuierliche Drehattacke durch. Diese lustige Kamikaze-Attacke hinterlässt jedoch nach dem Ende der Attacke eine Schwachstelle."
+        },
+        "20015": {
+            "monster_id": 20015,
+            "monster_name": "Stämmiger Peiniger",
+            "card_text": "Im Gegensatz zu den schwerbewaffneten Höhlenermittlern könnte man die Ausrüstung stämmiger Peiniger und gesuchter Sadisten fast als rudimentär bezeichnen.\nJedoch reichen den schlimmsten Gangstern oft die einfachsten Tötungswerkzeuge.\nEin Stachel bewehrter Metallschläger und dazu eine modifizierte doppelläufige Schrotflinte machen sie in den Höhlen zu den gefürchtetsten Fieslingen.\nLaut den Erfahrungsberichten von Ermittlern, die ihnen einst begegnet sind, verfallen diese Burschen während des Kampfes in einen extremen Zustand der Euphorie. Ihr ‚Verhalten‘ kann man kaum kämpfen nennen, es ähnelt eher einer Schikane.\n„Der Kampf mit ihnen brachte mir die Angst, die ich einst spürte, als ich dem Schulschläger allein gegenüberstand, zurück ins Gedächtnis ...“",
+            "card_quote": "– Kündigungsschreiben eines jungen Ermittlers der Höhlen-Investigationsassoziation",
+            "skill_text": "Höhlengangster – Stämmiger Peiniger wechselt im Kampf zwischen Keule und Schrotflinte für Nahkampfangriffe und setzt bei Bedarf Sandangriffe ein."
+        },
+        "20017": {
+            "monster_id": 20017,
+            "monster_name": "Stämmiger Kämpfer",
+            "card_text": "In der Unterwelt von New Eridu ist man sich einig: Die wildesten Kämpfer sind nicht die ungeschlagenen Champions in den Arenen, sondern die stämmigen Kämpfer und gesuchten Kämpfer, die in den Tiefen der Höhlen lauern. Sie sind professionelle Gangster, die von den Ätherdiebesbanden zu hohen Preisen angeheuert werden, um die gestohlenen Ätherressourcen zu bewachen.\nAls besessene Boxkämpfer können stämmige Kämpfer nicht mit präzisen elektrischen Geräten umgehen, weshalb sie ihre Hochspannungs-Elektroschocker einfach zu Schlaghandschuhen umgebaut haben, die ihren Fäusten zusätzliche Schlagkraft verleihen.\nÄthereale, Höhlenräuber, Höhlenermittler und sogar vereinzelte Mitglieder der Sicherheitsbehörde ... In den Augen der stämmigen Kämpfer und gesuchten Kämpfer sind sie nicht einmal „Gegner“, sondern „Sandsäcke“ zur persönlichen Unterhaltung.\n„Warte! Diese Kampfhaltung habe ich doch schon mal in der Spielhalle in der Fourth Street gesehen!“",
+            "card_quote": "– Billy, der es mit sich nähernden Kämpfern in einer Höhle zu tun hat",
+            "skill_text": "Höhlengangster – Stämmiger Kämpfer führt im Kampf heftige Angriffe mit beiden Fäusten aus und passt seinen Angriffswinkel durch geschicktes Ausweichen an."
+        },
+        "20020": {
+            "monster_id": 20020,
+            "monster_name": "Tobender Feger",
+            "card_text": "Jedes Jahr wird eine erhebliche Anzahl von Kampf-Mecha der Sicherheitsbehörde in den Höhlen zerstört. Einige von ihnen geraten in die Hände von Höhlengangstern, die sie reparieren und zu „Illegale Hilfseinheiten – Tobender Feger“ modifizieren.\nObwohl sie keinen Zugang zu Standardteilen oder professionellen Reparaturdiensten haben, gelingt es den Ganoven, diese Mecha mit behelfsmäßigen Komponenten zu restaurieren, um ihre ursprünglichen Kampffähigkeiten zu erhalten.\nUm ihre Eigenheiten hervorzuheben, verpassen die Höhlengangster den „Tobenden Fegern“ häufig einen zusätzlichen persönlichen Anstrich und sogar Hochleistungs-Verstärkerboxen.\nDadurch vergrößert sich zwar ihre Kampfkraft nicht, aber so ist gewährleistet, dass ihre imponierende Gestalt über die der originalen Modelle herausragt.\n„Los doch! Dort kommt ein fettes Schwein mit pinkfarbenen Haaren!“ \n„Krass! Wechseln wir schnell zu unserem gewohnten Plünder-Soundtrack!“",
+            "card_quote": "– Ein Höhlengangster, der hastig einen „Tobenden Feger“ neu kalibriert",
+            "skill_text": "Illegale Hilfseinheit – Tobender Feger nutzt lange Arme, um kontinuierlich Drehangriffe durchzuführen. Der Einsatz von Defensivhilfe vor dem Angriff kann diese Bewegung vollständig blockieren."
+        },
+        "20023": {
+            "monster_id": 20023,
+            "monster_name": "Mors",
+            "card_text": "Mors war einst der gefürchtetste Kopfgeldjäger der Außenzone. Er hatte ein fast obsessives Verlangen zu jagen, verfolgte oft tagein, tagaus die Spuren seiner Beute und wenn er das Ziel einmal im Visier hatte, gab er sich krankhaft der Jagd hin, bis er die andere Person besiegt hatte.\n„Der einsame Wolf Mors“ verfehlt nie sein Ziel – darin waren sich die wichtigsten Mächte der Außenzone einig.\nBei einer seiner Jagdoperationen jagte Mors sein Ziel drei Tage lang ohne Pause ... doch selbst als er am Ende seiner Kräfte war, hatte er es noch nicht geschafft, sein Ziel zu beseitigen.\nDem Kerl namens Pompey war das jedoch egal und er ergriff sogar die Initiative, den besiegten Mors einzuladen, sich seiner Organisation anzuschließen.\nSeitdem ist der berüchtigte Jäger Mors verschwunden und ein ruhiger, einsamer Truppenführer tauchte unter den Vanquishern auf.\nBis zum heutigen Tag ist Mors’ Aufenthaltsort schwer fassbar. Nur wenn er auf einen Gegner trifft, an dem er wirklich interessiert ist, kommt er zum Vorschein. Nicht etwa, um seine Pflichten als Truppenführer zu erfüllen, sondern lediglich, um den Kampf zu genießen und sich dem Vergnügen der Jagd hinzugeben.\n„Du willst du allein gegen Truppenführer Mors kämpfen? Hehe, du?“\n„Dann solltest du dich dort melden und nächsten Monat zur Auslosung kommen.“",
+            "card_quote": "– Mors’ Männer haben es mit einem Herausforderer zu tun",
+            "skill_text": "Im Kampf wählt Mors je nach Situation entweder eine Nahkampf-Kombo oder Fernangriffe. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, führt er zusätzlich Folgeangriffe aus der Ferne aus oder bewegt sich in hoher Geschwindigkeit und greift das Ziel aus dem toten Winkel an, um es zu überfallen."
+        },
+        "20024": {
+            "monster_id": 20024,
+            "monster_name": "Pulchra",
+            "card_text": "Niemand weiß genau, woher Pulchra stammt, doch sie war einst eine der angesehensten Söldnerinnen der Außenzone und als „Chamäleon“ bekannt – die Söldnerin, die es meisterhaft verstand, sich den Umständen anzupassen.\nKurz nachdem Pompey seine Wiederwahl bei der letzten Tour de Inferno sichergestellt hatte, schlossen sich einige Fraktionen im Geheimen zusammen, um einen Angriff auf die Vanquisher zu planen. Dieser Plan scheiterte jedoch kläglich, da sämtliche Bewegungen der Angreifer scheinbar bereits durchschaut worden waren und die Verteidiger leichtes Spiel hatten. Die Besiegten wurden gnadenlos aus dem alten Ölquellengebiet vertrieben. Interessanterweise blieb Pulchra, die eindeutig mit diesen Gruppierungen kooperiert hatte, völlig unversehrt. Dies führte zu Spekulationen, dass dieser Sieg durch ihren Verrat erzielt werden konnte.\nTrotz ständiger Angebote, sich anderen Truppen anzuschließen, blieb Pulchra stets unabhängig. Für sie scheinen die Intrigen und Machtspiele in der Außenzone nichts weiter als ein Spiel zu sein, aus dem sie sich jederzeit zurückziehen kann. Es stört sie wenig, wenn ein Auftraggeber unbeliebt ist, solange er zahlen kann und die Aufgabe aufregend genug ist.\nBesonders genießt sie es, wenn ein Auftrag die Gelegenheit bietet, Gegner in sorgfältig geplante Fallen zu locken und zuzusehen, wie sie Schritt für Schritt ihrem Untergang entgegengehen. Verführen, täuschen und bis zur endgültigen Vernichtung manipulieren ... Je schöner die Fassade, desto tödlicher die Gefahr – das ist Pulchras Überlebensprinzip.\n„Was? Du willst wirklich zu Pulchras Gefolgsleuten gehören?“\n„Ach, wieder so ein naiver Pechvogel, der auf sie hereinfällt ...“",
+            "card_quote": "- Im Lager der Vanquisher wird ein Neuling von einem ranghöheren Mitglied gehänselt",
+            "skill_text": "Im Kampf hält Pulchra die Beute auf Distanz und wartet auf eine Gelegenheit, das Ziel mit Kampftechniken, Klingen und Vorrichtungen zu attackieren. Wenn Pulchras LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, verwendet Pulchra zusätzlich einen Stärkungstrank, um ihre Ausweichfähigkeiten zu verbessern und allen Angriffen von Zielen in der Nähe ausweichen zu können."
+        },
+        "20025": {
+            "monster_id": 20025,
+            "monster_name": "Bellum",
+            "card_text": "Als ungeschlagener Champion der Arena hielt sich Bellum lange für den besten Kämpfer der Außenzone ... bis seine Siegesserie ein jähes Ende fand. Am meisten jedoch erboste ihn, dass sein überheblicher Bezwinger sich nicht einmal seinen Namen merken konnte.\nWutentbrannt begann Bellum, seine Kampftechniken neu zu schmieden und schwor, seinen Namen erneut durch die Außenzone hallen zu lassen. Eines Tages würde er diesen arroganten Gegner für seine Demütigung zur Rechenschaft ziehen.\nUm sein Ziel zu erreichen, schloss sich Bellum den Vanquishern an und kämpfte sich unter Pompeys Befehl durch zahlreiche Schlachten, um lästige Feinde aus dem Weg zu räumen. Er hat ein Talent dafür, Flammenwerfer präzise zu modifizieren und sie an vorderster Front mit verheerender Wirkung einzusetzen. Ebenso beherrscht er die Kunst, seine Truppenmitglieder wie eine unaufhaltsame Flutwelle in die Schlacht zu führen. Keine Schlacht, in der Bellum an vorderster Front steht, endet ohne einen triumphalen Sieg.\nInzwischen braucht Bellum seinen Ruf nicht mehr selbst zu verbreiten. Obwohl er kein Champion mit beeindruckender Siegesserie mehr ist, kennt jeder in der Außenzone das Grauen der Bandenkriege. Als eine der Hauptstützen der Vanquisher ist er selbst zum Sinnbild des „Kriegs“ geworden.\n„Du willst keine Drecksarbeit machen? Dann besiege Bellum, und wir reden weiter!“\n„Jetzt los, putz die Toiletten, aber zackig!“",
+            "card_quote": "– Im Lager der Vanquisher erteilen die Veteranen den faulen Neuankömmlingen eine Lektion",
+            "skill_text": "Im Kampf setzt Bellum seine Klingenpistole, seinen Schild und seinen Flammenwerfer ein, um im Nahkampf Druck auf das Ziel auszuüben. Wird er angegriffen, während er mit dem Schild verteidigt, startet er sofort einen mächtigen Gegenangriff. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, werden Bellums Angriffe noch aggressiver und kontinuierlicher."
+        },
+        "30019": {
+            "monster_id": 30019,
+            "monster_name": "Zügelloser Bulle",
+            "card_text": "Die Banden von Höhlengangstern in den Höhlen sind oft bunt zusammengewürfelt und der einzige Grund, warum sie sich dort versammeln, sind die enormen Gewinne, die mit der Plünderung von Ätherressourcen erzielt werden können.\nDiese Unholde hatten ursprünglich keine Regeln.\nDoch als die „zügellosen Bullen“, die für rohe Gewalt stehen, auftauchten, gab es plötzlich für alles Regeln.\nSie tragen modifizierte technisch unterstützte Antriebssysteme und benutzen leicht erhältlichen Bauschutt für ihre einmal zu verwendenden Waffen. Diese schweren Gerätschaften sehen aus, als könnten sie einen gut gebauten Mann zerquetschen, aber an ihnen sehen sie aus wie hautenge Trainingsanzüge.\nSchwingen, Zertrümmern, Zerschmettern ... Alle ihre grundlegenden Kampfhandlungen werden zu tödlichen Bewegungen, die stark genug sind, um ihre Feinde zu erledigen, und die jederzeit eine unvergleichliche zerstörerische Kraft entfalten.\nDen Ermittlungen der Sicherheitsbehörde zufolge neigen die von den „zügellosen Bullen“ angeführten Banden von Höhlengangster dazu, eine einzigartige Straßenfitnesskultur zu pflegen und dadurch sogar einen einzigartigen Gruppenzusammenhalt zu entwickeln ...\n„Was? Du findest die Trainer im Fitnessstudio stark?“\n„Hahaha! Da muss ich dich aber enttäuschen!“\n„Warum machst du nicht mit und trainierst drei Zyklen lang mit dem Boss? Ich garantiere dir, dass du den perfekten Bizeps haben wirst!“",
+            "card_quote": "– Einige Höhlengangster, die gerade irgendwo in New Eridu beim Neuzugang angeben",
+            "skill_text": "Höhlengangster – Zügelloser Bulle verwendet im Kampf seine elektrisch aufgeladenen Armschienen, um stärkere Angriffe auszuführen. Während des Aufladens befindet er sich jedoch ständig im Elektroschockzustand, und das Anwenden anderer Attributanomalien löst sofort Unordnung aus und entfernt den Aufladezustand."
+        },
+        "100151": {
+            "monster_id": 100151,
+            "monster_name": "Ausplünderer",
+            "card_text": "Unter den Äther-Räuberbanden sind die „Plünderer“ und „Ausplünderer“ die Kernmitglieder, die sowohl über technische als auch über kämpferische Fähigkeiten verfügen.\nIhr Stromresonanz-Detektor kann Äther-Erz durch starke Strömungen aufspüren, und damit nachfolgende Arbeitsschritte erleichtern. Ebenfalls kann er mit erhöhter Spannung als starke Waffe bei bewaffneten Raubüberfällen eingesetzt werden.\nObwohl sie manchmal mit illegalen Fischern verwechselt werden, aber solche Missverständnisse sind ihnen reichlich egal.\nSchließlich ist es ihnen mit ihren extrem tödlichen Elektroschockern egal, ob es sich bei ihren Gegnern um Fische oder Menschen handelt ...\n„Ob an einem Fluss, einem See oder in der Nähe einer Höhle, wenn du jemanden siehst, der mit einer Elektroharpune ausgerüstet ist, melde das bitte direkt der Sicherheitsbehörde!“",
+            "card_quote": "– Ein Slogan der Sicherheitsbehörde von New Eridu, der aus einem bestimmten Werbewagen in Dauerschleife gespielt wird",
+            "skill_text": "Höhlengangster – Ausplünderer stürmt im Kampf aus großer Entfernung heran, kann jedoch bei zu langen Distanzen auf Hindernisse treffen, was eine Angriffsmöglichkeit für Figuren schafft."
+        },
+        "100161": {
+            "monster_id": 100161,
+            "monster_name": "Brandstifter",
+            "card_text": "Für „Pyromanen“ und „Brandstifter“ sind Plünderungen nur ein Nebengeschäft. Tief in ihrem Inneren halten sie sich für Meister-Barkeeper, die überall auf der Suche nach Aufregung sind.\nMit Präzision und Geschick mischen sie verschiedene Arten von Äther in ihre Getränke und brauen so mühelos hochentzündliche und explosive „Spezialgebräue“.\nIm Gegensatz zu anderen gewalttätigen und dreisten Höhlengangstern geben sie ihren Opfern stets eine Wahl.\nWenn das Opfer bereit ist, die Maut zu zahlen, bieten sie ihm ein kostenloses Getränk an.\nUnd wenn die betreffende Person sich weigert, wird ihr die brennende Flasche „Spezialgebräu“ auf den Kopf geknallt.\n„Wie wäre es, wenn ich hingehe und sie dazu verleite, ihre eigenen Waffenreserven zu trinken?“",
+            "card_quote": "– In den Höhlen, ausgeraubte Ermittler diskutieren im Stillen einen Plan zum Rückzug",
+            "skill_text": "Höhlengangster – Brandstifter wirft im Kampf manchmal eine große Menge Molotowcocktails auf einmal."
+        },
+        "100181": {
+            "monster_id": 100181,
+            "monster_name": "Wilddieb",
+            "card_text": "Die meisten Gangster, die sich den ganzen Tag in den Höhlen umhertreiben, haben schwerwiegende psychische Probleme oder rätselhafte Macken. Glücklicherweise ist es den „Wilderern“ innerhalb der Bande gelungen, ihren Verstand zu bewahren, während sie sich die schmutzigen Methoden der traditionellen Schurken zu eigen machen.\nSie sind furchtsam, schlau, und beherrschen die Kunst, sich im Schatten zu verstecken und ihre Ziele überraschend anzugreifen. Sie würden niemals frontal angreifen, wenn sie einen Hinterhalt legen können.\nIhre typischen Komposit-Armbrüste haben zwar nur eine begrenzte Durchschlagskraft, machen aber nur wenig Lärm, wenn sie abgefeuert werden. Erfahrene Wilderer nutzen oft den perfekten Moment und setzen ihre ahnungslose Beute mit einem einzigen, gezielten Schuss außer Gefecht.\n„Ich war auch mal ein Offizier bei der Sicherheitsbehörde, bis ich bei einer Verhaftungsoperation in der Höhle von einem Pfeil ins Knie getroffen wurde ...“",
+            "card_quote": "– Ein erfahrenes Mitglied der Sicherheitsfirma „Schwarze Nachtigall“ unterhält sich mit einem Neuling",
+            "skill_text": "Höhlengangster – Wilddieb neigt im Kampf dazu, aus der Ferne mit Dreifachschüssen zu attackieren."
+        },
+        "100191": {
+            "monster_id": 100191,
+            "monster_name": "Lauerer",
+            "card_text": "Als Vorhut der Räuberbande schwingen die „Angreifer“ und „Lauerer“ ihre Waffen und stürmen unabhängig vor.\nNicht etwa wegen übermäßiger Tapferkeit oder mangelndem Teamgeist, sondern eher als Vorsichtsmaßnahme, um versehentliche Verletzungen zu vermeiden. Die modifizierten Transformatorspulen in ihren Händen setzten bei Berührung kontinuierlich Hochspannungsströme frei, die einen Gegner mit nur einer Berührung lähmen oder sogar außer Gefecht setzen können.\nUnd in einer logistisch schwer zugänglichen Höhle kann ein vorübergehend handlungsunfähiges Truppenmitglied ein Problem für die gesamte Truppe werden.\n„Was ist das? Lasst mich das mal genauer ansehen! Oh, das sieht aus wie die Nachbildung eines Elektroschockerstickkkkk ...“",
+            "card_quote": "– Die letzten Worte eines neugierigen Anfängerermittlers, bevor er in einer Höhle zu Boden fällt",
+            "skill_text": "Höhlengangster – Lauerer führt im Kampf eine kontinuierliche Drehattacke durch. Diese lustige Kamikaze-Attacke hinterlässt jedoch nach dem Ende der Attacke eine Schwachstelle."
+        },
+        "200151": {
+            "monster_id": 200151,
+            "monster_name": "Gesuchter Sadist",
+            "card_text": "Im Gegensatz zu den schwerbewaffneten Höhlenermittlern könnte man die Ausrüstung stämmiger Peiniger und gesuchter Sadisten fast als rudimentär bezeichnen.\nJedoch reichen den schlimmsten Gangstern oft die einfachsten Tötungswerkzeuge.\nEin Metallschläger mit Stacheln und dazu eine modifizierte doppelläufige Schrotflinte machen sie in den Höhlen zu den gefürchtetsten Fieslingen.\nLaut den Erfahrungsberichten von Ermittlern, die ihnen einst begegnet sind, verfallen diese Burschen während des Kampfes in einen extremen Zustand der Euphorie. Ihr „Verhalten“ kann man kaum kämpfen nennen, es ähnelt eher einer Schikane.\n„Der Kampf mit ihnen brachte mir die Angst, die ich einst spürte, als ich dem Schulschläger allein gegenüberstand, zurück ins Gedächtnis ...“",
+            "card_quote": "– Kündigungsschreiben eines jungen Ermittlers der Höhlen-Investigationsassoziation",
+            "skill_text": "Höhlengangster – Gesuchter Sadist wechselt im Kampf zwischen Keule und Schrotflinte für Nahkampfangriffe und setzt bei Bedarf Sandangriffe ein."
+        },
+        "200171": {
+            "monster_id": 200171,
+            "monster_name": "Gesuchter Kämpfer",
+            "card_text": "In der Unterwelt von New Eridu ist man sich einig: Die wildesten Kämpfer sind nicht die ungeschlagenen Champions in den Arenen, sondern die stämmigen Kämpfer und gesuchten Kämpfer, die in den Tiefen der Höhlen lauern. Sie sind professionelle Gangster, die von den Ätherdiebesbanden zu hohen Preisen angeheuert werden, um die gestohlenen Ätherressourcen zu bewachen.\nAls besessene Boxkämpfer können stämmige Kämpfer nicht mit präzisen elektrischen Geräten umgehen, weshalb sie ihre Hochspannungs-Elektroschocker einfach zu Schlaghandschuhen umgebaut haben, die ihren Fäusten zusätzliche Schlagkraft verleihen.\nÄthereale, Höhlenräuber, Höhlenermittler und sogar vereinzelte Mitglieder der Sicherheitsbehörde ... In den Augen der stämmigen Kämpfer und gesuchten Kämpfer sind sie nicht einmal „Gegner“, sondern „Sandsäcke“ zur persönlichen Unterhaltung.\n„Warte! Diese Kampfhaltung habe ich doch schon mal in der Spielhalle in der Fourth Street gesehen!“",
+            "card_quote": "– Billy, der es mit sich nähernden Kämpfern in einer Höhle zu tun hat",
+            "skill_text": "Höhlengangster – Gesuchter Kämpfer führt im Kampf heftige Angriffe mit beiden Fäusten aus und passt seinen Angriffswinkel durch geschicktes Ausweichen an."
+        },
+        "200172": {
+            "monster_id": 200172,
+            "monster_name": "Hauptübeltäter – Gesuchter Kämpfer",
+            "card_text": "In der Unterwelt von New Eridu ist man sich einig: Die wildesten Kämpfer sind nicht die ungeschlagenen Champions in den Arenen, sondern die stämmigen Kämpfer und gesuchten Kämpfer, die in den Tiefen der Höhlen lauern. Sie sind professionelle Gangster, die von den Ätherdiebesbanden zu hohen Preisen angeheuert werden, um die gestohlenen Ätherressourcen zu bewachen.\nAls besessene Boxkämpfer können stämmige Kämpfer nicht mit präzisen elektrischen Geräten umgehen, weshalb sie ihre Hochspannungs-Elektroschocker einfach zu Schlaghandschuhen umgebaut haben, die ihren Fäusten zusätzliche Schlagkraft verleihen.\nÄthereale, Höhlenräuber, Höhlenermittler und sogar vereinzelte Mitglieder der Sicherheitsbehörde ... In den Augen der stämmigen Kämpfer und gesuchten Kämpfer sind sie nicht einmal „Gegner“, sondern „Sandsäcke“ zur persönlichen Unterhaltung.\n„Warte! Diese Kampfhaltung habe ich doch schon mal in der Spielhalle in der Fourth Street gesehen!“",
+            "card_quote": "– Billy, der es mit sich nähernden Kämpfern in einer Höhle zu tun hat",
+            "skill_text": "Hauptübeltäter – Gesuchter Kämpfer zeigt im Kampf extreme Aggression und passt seinen Angriffswinkel durch geschicktes Ausweichen an."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelgänger – Mors",
+            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
+            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Je nach Situation wählt er entweder eine Nahkampf-Kombo oder Fernangriffe. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, führt er zusätzlich Folgeangriffe aus der Ferne aus oder bewegt sich in hoher Geschwindigkeit und greift das Ziel aus dem toten Winkel an, um es zu überfallen."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelgänger – Pulchra",
+            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
+            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Er hält die Beute auf Distanz und wartet auf eine Gelegenheit, das Ziel mit Kampftechniken, Klingen und Vorrichtungen zu attackieren. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, verwendet er zusätzlich eine unbekannte Methode, um seine Ausweichfähigkeiten zu verbessern und allen Angriffen von Zielen in der Nähe ausweichen zu können."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelgänger – Bellum",
+            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
+            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Er setzt seine Klingenpistole, seinen Schild und seinen Flammenwerfer ein, um im Nahkampf Druck auf das Ziel auszuüben. Wird er angegriffen, während er mit dem Schild verteidigt, startet er sofort einen mächtigen Gegenangriff. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, werden seine Angriffe noch aggressiver und kontinuierlicher."
+        }
+    },
+    "Korrodierte Wesen": {
+        "10021": {
+            "monster_id": 10021,
+            "monster_name": "Raben-Drohne",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30009": {
+            "monster_id": 30009,
+            "monster_name": "Unbekannter Korrosionskomplex",
+            "card_text": "Der Gründer von Belobog Industries, Khors Belobog, sagte einmal, dass Baumaschinen eine Synthese aus Kraft und Schönheit seien und jedes ihrer Details festgelegten Regeln des klassischen Maschinendesigns folgen sollte.\nAber das Auftauchen des „unbekannten Korrosionskomplexes“ hat alle bisherigen klassischen Designs über den Haufen geworfen.\nAngetrieben von einem hoch konzentrierten Ätherkern wurden verschiedene gewaltige Schwerindustriekomponenten brutal zusammengefügt, was zu einer übertriebenen Struktur führte, die die Grenzen der Physik sprengt.\nSie beinhaltet Schneide-, Hammer-, Bohr- und Zertrümmerungstechniken, die sie in raue und unberechenbare Kampfmanöver verwandeln.\nDarüber hinaus wird es von seinem Ätherkern, der sich im kritischen Zustand befindet, mit unerschöpflicher brachialer Energie versorgt. Damit kann es seinen Körper sogar in Hochspannungsströmen und verheerende Explosionen entfesseln, die den Boden zerreißen und Feinde in der Nähe pulverisieren.\nLaut Einschätzung der Höhlen-Investigationsassoziation wird sich der „unbekannte Korrosionskomplex“ alle starken Schwermaschinen, denen es habhaft wird, einverleiben und assimilieren. Das schließt auch Militär-Mecha der Verteidigungsmacht, Laserwaffen und sogar Kurzstreckenraketen ein ...\nJedes komplizierte mechanische Objekt, dem es begegnet, wird konsumiert, seziert und schließlich in seine Struktur aufgenommen.\nSein Ziel ist es, eine unübertroffene Zerstörungskraft zu erreichen und die Effizienz bei seinem unerbittlichen Gemetzel zu maximieren.\n„Diese Konstruktion ist wirklich sonderbar ... Hm ... Ich werde nur noch einen einzigen Blick darauf werfen!“",
+            "card_quote": "– Grace, die einen „unbekannten Korrosionskomplex“ in den Tiefen einer Höhle beobachtet",
+            "skill_text": "Unbekannter Korrosionskomplex kombiniert im Kampf die Angriffsstile mehrerer Schwermaschinen und kann dichte Raketensalven abfeuern. Im Benommenheitszustand ist sein Hauptkörper angreifbar, was bei ausreichendem Schaden zu einer Teilzerstörung führt. Ein gezielter Angriff auf die Beine verursacht ebenfalls eine Teilzerstörung und sammelt eine hohe Menge an Benommenheit an."
+        },
+        "30021": {
+            "monster_id": 30021,
+            "monster_name": "Korrodierter Oberherr – Pompey",
+            "card_text": "Die Leute der Außenzone verehrten ihn einst als „Oberherr Pompey“.\nJetzt ist seine Seele vom feurigen Äther zerfressen, sein Körper von Schwefel und dickem Öl verseucht. Sein Herz, das einst schwor, nur zu schlagen, um „die Außenzone zu beschützen“, hat sich in einen überkritischen Ätherkern verwandelt, der endlose Energie enthält.\nDer ehemalige „Herr der Außenzone“ ist nun in einer anderen Form wiedergeboren. Frei, majestätisch ... boshaft, verrückt. Er galoppiert durch Staub und Flammen und erfasst jedes sich bewegende Objekt um sich herum, um es dann ohne zu zögern zu zerreißen und zu zerstören.\nEin alter Bekannter entnahm seinem gebrochenen Gemurmel, dass er nicht auf engstirnige Rache aus ist, sondern einfach nur alles „Fremde“ vor sich vernichten will, das versucht, die „Gesetze der Außenzone“ infrage zu stellen.\nVielleicht war dies der letzte Rest des Willens des ehemaligen Oberherrn Pompey.\n„Unser Anführer ist zu diesem Ding geworden, aber er ... scheint immer noch gleich zu sein.“",
+            "card_quote": "- Ein ehemaliger Gefolgsmann der Vanquisher, zitternd vor Angst",
+            "skill_text": "Im Kampf greift Oberherr Pompey mithilfe einer Kombination aus Motorrad und Schwebekanonen an. Wenn einige seiner Angriffe mit Defensivhilfen gekontert werden, zeigt er seine Schwäche. Nachdem er eine gewisse Menge an Schaden erlitten hat, tritt er in die zweite Phase ein. In dieser Phase greift er abwechselnd mit dem Hinterrad seines Motorrads und seinem Langschwert an. Das Hinterrad des Motorrads kann auch Ätherenergie ansammeln, was zu einer großflächigen Explosion führt."
+        },
+        "100211": {
+            "monster_id": 100211,
+            "monster_name": "Raben-Drohne – Aktiviert",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "100271": {
+            "monster_id": 100271,
+            "monster_name": "Boshafter Schläger",
+            "card_text": "Eine arme Seele, die eine starke Ätherkorrosion in der Höhle erlitt. Da das ursprüngliche Wesen eine gewisse äthergeeignete Konstitution hatte, ist die ätherische Verwandlung nicht vollständig abgeschlossen und behielt einige menschlichen Merkmale ihres ursprünglichen Körpers bei. Nach den Überresten der Kleidung und der Kampferfahrung zu urteilen, ist es sehr wahrscheinlich, dass es sich einst um einen Banditen oder Räuber gehandelt haben muss, der in der Höhle gelebt hatte.\nObwohl die Banditen und Gangster, die sich in der Höhle beschäftigen, Korrosionsschutzkleidung tragen, werden einige von ihnen aufgrund mangelnder Wartung oder einfach nur durch Pech in Monster verwandelt, wenn sie in der Höhle eine starke Ätherkorrosion erleiden. Diese verwandelten Äthereale behalten ihre Kampffähigkeiten aus ihrem früheren Leben bei, was sie im Vergleich zu reinen Ätherealen zu einer größeren Bedrohung macht.\n„Geboren als Banditen, gestorben als Katastrophe. Ihren Worten folgen Taten.“",
+            "card_quote": "– Ein Diskussionsbeitrag der Sicherheitsbehörde von New Eridu im „Planet der Katastrophen“-Forum",
+            "skill_text": "Korrodierter Bandit – Boshafter Schläger führt im Kampf ununterbrochene Hiebe aus, die schwer zu unterbrechen sind."
+        },
+        "100281": {
+            "monster_id": 100281,
+            "monster_name": "Gieriger Schütze",
+            "card_text": "Dieses humanoide, intelligente Wesen ist trotz seiner gewissen äthergeeigneten Konstitution das Ergebnis einer starken Ätherkorrosion in der Höhle und weist sowohl menschliche Züge als auch Überreste seiner früheren Kleidung und seines Kampfstils auf. Höchstwahrscheinlich handelte es sich um einen Banditen oder einen Räuber, der in der Höhle lebte.\nDie körperlichen Merkmale der Kreatur weisen auf ihre Vergangenheit als Spezialist für Langstreckenwaffen hin. Obwohl sie durch die Mutation ihren freien Willen und ihr Leben verloren hat, hat sie ihre Instinkte und Gewohnheiten für den Fernkampf beibehalten. Das Korrosionswesen kann nicht nur Gegner weiterhin mit Fernkampfgeschossen angreifen, sondern auch die Kraft/Schussleistung der Geschosse wird durch die Ätherkorrosion zusätzlich erhöht (durch scharfe Ätherkristalle oder eine Art explosive Mischung).\n„Ich habe ihm klipp und klar gesagt, den Kristall nicht zu berühren, aber er wollte ja nicht auf mich hören! Der leichtsinnige Dummkopf hört nie auf mich! Als wir die Höhle verlassen wollten, hatte er sich schon ... verwandelt ...“",
+            "card_quote": "– Faunus-Revier der Sicherheitsbehörde, ein Protokoll eines Verhörs",
+            "skill_text": "Korrodierter Bandit – Gieriger Schütze neigt im Kampf dazu, unauffällige Fernangriffe aus der Ferne auszuführen."
+        },
+        "200121": {
+            "monster_id": 200121,
+            "monster_name": "Rasender Gangster",
+            "card_text": "Pechvögel, die eine starke Ätherkorrosion in der Höhle erlitten. Da sie über eine nennenswerte äthergeeignete Konstitution und Körperfunktion verfügen, wurden ihre Körper nicht vollständig durch den Äther verwandelt. Ihre menschlichen Merkmale sind mit den verstärkten mutierten Gliedmaßen noch viel gefährlicher.\nIhre verbleibende Kleidung und ihre Kampferfahrungen legen nahe, dass es sich um hochrangige Banditen oder Räuber, die sich in Höhlen verkrochen hatten, handelte.\nDiese korrodierten Subjekte haben, möglicherweise aufgrund ihrer verbesserten Physiologie oder ihrer Affinität zur ätherischen Materie, ziemlich beeindruckende Nahkampfkörper entwickelt. Diese Kombination macht sie noch bedrohlicher als die typischen Monster, die man in den Höhlen findet.\n„Ihre Waffen sehen erstklassig aus ... und sie sehen aus wie Boni.“",
+            "card_quote": "– Anbys Analyse einer bestimmten Operation mit den Cunning Hares",
+            "skill_text": "Korrodierter Bandit - Rasender Gangster pariert im Kampf Angriffe und führt nach einer gewissen Zeit des Parierens Gegenangriffe aus."
+        },
+        "200131": {
+            "monster_id": 200131,
+            "monster_name": "Wütender Geist",
+            "card_text": "Pechvögel, die eine starke Ätherkorrosion in der Höhle erlitten. Da sie über eine nennenswerte äthergeeignete Konstitution und Körperfunktion verfügen, wurden ihre Körper nicht vollständig durch den Äther verwandelt. Ihre menschlichen Merkmale sind mit den verstärkten mutierten Gliedmaßen noch viel gefährlicher.\nIhre verbleibende Kleidung und ihre Kampferfahrungen legen nahe, dass es sich um hochrangige Banditen oder Räuber, die sich in Höhlen verkrochen hatten, handelte.\nDie groben Feuerwaffen dieser Banditen sind irgendwie durch die ätherische Materie konserviert und verbessert worden. Sie verschießen keine Eisenkugeln mehr, sondern gefährlichere kristalline Mischungen.\n„Auf was wartest du noch? Sie haben unendlich Munition und müssen sie nicht nachladen!“",
+            "card_quote": "– Spezialeinheit der Sicherheitsbehörde, die Tonaufzeichnung eines diensthabenden Personals",
+            "skill_text": "Korrodierter Bandit – Wütender Geist führt im Kampf nach dem Angriff Äther-Schrotflintenangriffe durch."
+        },
+        "200141": {
+            "monster_id": 200141,
+            "monster_name": "Rücksichtsloser Irrer",
+            "card_text": "Pechvögel, die eine starke Ätherkorrosion in der Höhle erlitten. Da sie über eine nennenswerte äthergeeignete Konstitution und Körperfunktion verfügen, wurden ihre Körper nicht vollständig durch den Äther verwandelt. Ihre menschlichen Merkmale sind mit den verstärkten mutierten Gliedmaßen noch viel gefährlicher.\nIhre verbleibende Kleidung und ihre Kampferfahrungen legen nahe, dass es sich um hochrangige Banditen oder Räuber, die sich in Höhlen verkrochen hatten, handelte.\nBanditen sind für ihr gefährliches Verhalten berüchtigt, und innerhalb ihrer Reihen sind die Höhlenbanditen die skrupellosesten. Die Elitekämpfer unter den Höhlenbanditen sind besonders furchteinflößend und zeichnen sich durch ein hohes Maß an Gewalt aus. Wenn diese körperlich und geistig durch Gewalt abgehärteten Bestien durch den Äther korrodiert werden, verwandeln sie sich in Monster mit einem noch wilderen und brutaleren Charakter.\n„Früher töteten sie für Geld, aber nun sind sie nur noch darauf aus, dir dein Leben zu nehmen ...“",
+            "card_quote": "– Anmerkungen im internen Lehrbuch der Höhlen-Investigationsassoziation, „Gefahrenerkennung in einer Höhle: Korrosionswesen“",
+            "skill_text": "Korrodierter Bandit – Rücksichtsloser Irrer greift im Kampf nahe Gegner kontinuierlich an und stürmt schnell auf entfernte Gegner zu. Wenn seine Arme beschädigt werden, wird sein Angriff noch heftiger."
+        }
+    },
+    "Sicherheitsbehörde": {
+        "10010": {
+            "monster_id": 10010,
+            "monster_name": "Unbekannte Einheit",
+            "card_text": "Unbekannte Einheit. Weitere Untersuchungen sind erforderlich.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10011": {
+            "monster_id": 10011,
+            "monster_name": "Unbekannte Einheit",
+            "card_text": "Unbekannte Einheit. Weitere Untersuchungen sind erforderlich.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10012": {
+            "monster_id": 10012,
+            "monster_name": "Unbekannte Einheit",
+            "card_text": "Unbekannte Einheit. Weitere Untersuchungen sind erforderlich.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "20006": {
+            "monster_id": 20006,
+            "monster_name": "Autonome Hilfseinheit – Feger",
+            "card_text": "Die autonomen Kampf-Mecha der Sicherheitsbehörde besitzen Kampfmittel wie Trennschleifer und Fusionshitzestrahler, die auf das individuelle Verhalten von Ätherealen ausgerichtet sind.\nDie Feger erkennen die Art und die Verhaltenspräferenzen eines Äthereals zügig und gehen in den effektivsten Kampfmodus über.\nIhre Zuverlässigkeit nimmt jedoch etwas ab, wenn sie es mit Höhlenräubern zu tun haben, die vielseitiger sind als die Ätherealen.\n„Rühren, schneiden, erhitzen ... Ist der Entwickler dieser Dinger etwa der heimliche Vertreter eines Küchengeräteherstellers?“",
+            "card_quote": "– Late-Night-Talkshow „Höhlen-Zoo“",
+            "skill_text": "Im Kampf nutzt „Autonome Hilfseinheit – Feger“ seine langen Arme, um kontinuierlich Drehangriffe durchzuführen. Der Einsatz einer Defensivhilfe vor dem Angriff kann diese Bewegung vollständig blockieren."
+        }
+    },
+    "Rebellensoldaten": {
+        "10005": {
+            "monster_id": 10005,
+            "monster_name": "Raubjäger",
+            "card_text": "Eine leichte Infanterieeinheit der Verteidigungsmacht von New Eridu.\nEin Infanterietyp, bei dem Mobilität und Tarnung im Vordergrund stehen und der hauptsächlich mit durch Äthermaterial verstärkten Säbeln und kleinen Sprengkörpern bewaffnet ist. Sie werden oft als Pioniere oder Wacheinheiten eingesetzt und nutzen ihre hervorragende Flexibilität für Missionen wie Überraschungsangriffe, Auskundschaften, Verfolgung und Anschläge.\nSie sind auch ausgezeichnete Pioniere bei Höhlenoperationen. Durch ihre spezielle Ausbildung im Nahkampf können sie mäßigen Korrosionsbefall oder rudimentären lebenden Äther leicht besiegen.„‚Meister des tödlichen Dolchs‘? Ich würde eher sagen: ‚Schurkischer Bombenwerfer‘! Sie fuchteln mit ihren Dolchen herum, doch die meisten ihrer Gegner werden offensichtlich durch Granaten getötet!“",
+            "card_quote": "– Eine anonyme Nachricht aus dem Inter-Knot",
+            "skill_text": "Raubjäger nähert sich im Kampf schnell durch einen Rutschangriff und wirft eine große Anzahl verzögerter Explosivmesser."
+        },
+        "10006": {
+            "monster_id": 10006,
+            "monster_name": "Leichter Jäger",
+            "card_text": "Als Hauptkampfeinheit der Verteidigungsmacht von New Eridu können qualifizierte leichte Jäger und Vorhutjäger frei zwischen verschiedenen Kampfmodi wechseln.\nOb Nahkampf mit dem Dolch oder Fernkampf mit dem Falcon-MK3 – Äther-Akkumulator, sie können immer neue Taktiken auf die Schwachstellen des Ziels abstimmen.\nUnd wenn ihre Gegner verwirrt sind, zögern sie nicht, zum Angriff überzugehen.\n„Ich starrte den Kerl mit dem Dolch an, in der Absicht, einen fairen Kampf zu führen ... Ich hatte nicht erwartet, dass er aus dem Nichts eine Pistole ziehen würde.“",
+            "card_quote": "– Inter-Knot, eine Beschwerde von einem jungen Höhlenräuber",
+            "skill_text": "Leichter Jäger bietet im Kampf kontinuierliche Feuerunterstützung."
+        },
+        "10007": {
+            "monster_id": 10007,
+            "monster_name": "Jägerneuling",
+            "card_text": "Bei den Spezialoperationen der Verteidigungsmacht gegen die Höhlen sind Jägerneulinge und ausgebildete Jäger oft unverzichtbare Mitglieder jeder taktischen Einheit an der Front.\nIhre „Coyote-PE7 – Äther-Klinge“ ist mit einer Hochfrequenz-Vibrationsschneidefunktion ausgestattet, die kleine Gegner im Nahkampf effektiv abschrecken kann. Und es erfordert außergewöhnlichen Mut, sich in den Höhlen auf den Nahkampf mit Ätherealen einzulassen.\nVielleicht wäre es angemessener, von Wahnsinn zu sprechen als von Mut.\n„Eigentlich ist das keine reguläre Operation in den Höhlen ... Diese Verrückten haben eher Spaß daran, sich mit Ätherealen zu prügeln.“",
+            "card_quote": "– Abteilung für Patrouillen der Verteidigungsmacht, ein Kampfbericht von der Frontlinie",
+            "skill_text": "Jägerneuling setzt im Kampf auf Nahkampfangriffe."
+        },
+        "10008": {
+            "monster_id": 10008,
+            "monster_name": "Wachjäger",
+            "card_text": "Als Kernstück der Angriffs- und Verteidigungseinheiten der Taktiktruppe der Verteidigungsmacht sind Wachjäger und Streifenjäger nicht nur mit der „Coyote-PE7“-Ätherschwerklinge ausgerüstet, sondern auch mit Ätherträgheitsschilden, die den taktischen Einheiten in komplexen Kampfsituationen Schutz bieten.\nDa es sich um eine Einheit mit hohem Verteidigungswert handelt, wirkt sich das außerordentliche Gewicht des Schildes auf ihre Kampfmobilität aus.\nOhne strenges professionelles Training wäre es für einen normalen Menschen schwierig, diesen Schild überhaupt zu heben.\n„Komm wieder und reiche ein Bewerbungsformular ein, wenn du im Fitnessstudio trainiert hast!“",
+            "card_quote": "– Ein Ablehnungsschreiben, das ein bestimmter Bewerber im Rekrutierungsbüro der Verteidigungsmacht erhalten hat",
+            "skill_text": "Wachjäger verwendet im Kampf seinen Schild, um den erlittenen Schaden und die Benommenheit deutlich zu reduzieren, und kontert im richtigen Moment."
+        },
+        "10009": {
+            "monster_id": 10009,
+            "monster_name": "Grenadier-Jäger",
+            "card_text": "„Grenadier-Jäger“ und „Bombardier-Jäger“ sind mit einem modifizierten Mamba-TG3–Raketenwerfer ausgestattet, der über eine spezielle Munition mit aktiven Äther-Brandstiftern verfügt. Mit dieser Waffe können sie im Handumdrehen gegnerische Mecha schnell zerstören und große Äthereale in Höhlen effektiv vernichten.\nUm dem Rückstoß beim Schießen entgegenzuwirken und die Zielgenauigkeit zu erhöhen, müssen sie in einer speziellen Halteposition ausgebildet werden. Statistiken der Verteidigungsmacht zeigen, dass Neulinge, die sich in dem Programm auszeichnen, fast immer über Erfahrungen in der Fotografie verfügen.\n„Na? Willst du wissen, wie dieses Ding funktioniert? In etwa so wie eine Schulterkamera.“\n„Richte zuerst dein Objektiv auf das Ziel und drücke dann den Trigger, während du leise rufst ...“\n„Hey, Trottel! ... Bitte lächeln!“",
+            "card_quote": "– Ausbilder im Trainingslager für neue Rekruten erklärt den Umgang mit den Raketen",
+            "skill_text": "Grenadier-Jäger setzt im Kampf auf schwere Feuerunterstützung aus der Ferne."
+        },
+        "20007": {
+            "monster_id": 20007,
+            "monster_name": "Schwerer Kämpfer",
+            "card_text": "Ein selbststeuernder taktischer Mecha der Verteidigungsmacht, der kontinuierliche Feuerunterstützung für die Frontlinie bietet.\nMit dem inerten Ätherschild kann er die meisten Angriffe leichter Waffen abwehren und sogar heftigen Schläge von großen Ätherealen standhalten.\nEs besteht kein Zweifel, dass er einer der vertrauenswürdigsten „Kameraden“ in der Verteidigungsmacht ist.\n„Merk dir, wenn du in Schwierigkeiten steckst, dann versteck dich hinter ihm ... So ist die einzige Verletzungsgefahr für dich, dass du versehentlich von ihm getreten wirst.“",
+            "card_quote": "– Ausbildung für neue Rekruten der Verteidigungsmacht, die Erfahrungen eines Ausbilders",
+            "skill_text": "Schwerer Kämpfer setzt im Kampf einen Schild ein. Während er durch den Schild geschützt ist, sammelt er nur Feuer- und phys. Anomalien an. Füge ihm die Effekte „Verbrennung“ und „Wuchtschlag“ zu oder versetze ihn in den Benommenheitszustand, um den Schild direkt zu durchbrechen."
+        },
+        "20008": {
+            "monster_id": 20008,
+            "monster_name": "Leichtfüßiger Surfer",
+            "card_text": "Als einer der wichtigsten Feuerunterstützungs-Mecha der Verteidigungsmacht ist der „Leichtfüßige Surfer“ mit taktischen Algorithmen ausgestattet, die das Verhaltensmuster des Gegners analysieren und die ballistische Zielerfassung präzise berechnen können.\nWenn er den Gegner vor sich als „hochgradige Bedrohung“ identifiziert, öffnet er den Munitionsbehälter und setzt Drohnen frei, um eine überdimensionale Attacke durchzuführen.\nFür Höhlenräuber ist ein plötzlich auftauchender „Leichtfüßiger Surfer“ nicht nur ärgerlich, sondern ein ernstzunehmendes Hindernis.\n„Meine Güte! Hat das Ding jetzt auch noch Nachwuchs bekommen?“",
+            "card_quote": "– In der Tiefe der Höhle Papago, ein neuer Höhlenräuber auf der Flucht vor der Verfolgung",
+            "skill_text": "Leichtfüßiger Surfer ruft im Kampf zwei Drohnen zur Unterstützung herbei und steuert diese bei Bedarf zu Selbstzerstörungsangriffen gegen den Feind."
+        },
+        "20009": {
+            "monster_id": 20009,
+            "monster_name": "Schwerer Kanonier",
+            "card_text": "Eine schwere Infanterieeinheit, die zu den aktiven Streitkräften der Verteidigungsmacht von New Eridu gehören.\nAusgestattet mit einer schweren „Graues Nashorn“-Kampfpanzerung und einem kompletten, mit Äthertechnologie verbesserten Waffenarsenal, können sie über einen längeren Zeitraum mit hoher Intensität feuern, wenn ausreichend Munition vorhanden ist. \nNach dem Fall der alten Hauptstadt verließen viele Soldaten das Militär und mischten sich unter die Bevölkerung. Diese Eliteschützen tauchten auch immer häufiger unter den Bannern anderer Kräfte auf: Privatarmeen von Oligarchen, neue Sicherheitsfirmen und sogar bei umherstreifenden Räuberbanden ...\n„Ich bin mir sicher, dass diese schweren Kanoniere insgeheim süße Mädels sind, die die freien Taschen ihrer Kampfanzüge mit Munition vollstopfen. Oder was denkst du, wo diese unendlichen Geschosse herkommen?“",
+            "card_quote": "– Kommentar im Tagtraum Bereich im „Planet der Katastrophen“-Forum",
+            "skill_text": "Schwerer Kanonier wechselt im Kampf zwischen Laserkanone und Splittergranaten für kontinuierliche Fernangriffe."
+        },
+        "30002": {
+            "monster_id": 30002,
+            "monster_name": "Wächter",
+            "card_text": "Schwer bewaffnete Mecha wie der „Wächter“ werden von der Verteidigungsmacht nur bei großangelegten Höhlenkampfeinsätzen verwendet.\nDiese Mecha sind mit aktiven Äther-Schockblastern, Äther-Ladekanonen MARS-74 und sogar mit Fusionshitzestrahlen ausgestattet ... was dazu führt, dass die „Wächter“ oft als das mobile Arsenal der Sicherheitsbehörde bezeichnet werden.\nTrotz der maximal gesteigerten Feuerkraft ist ihnen ihre erstaunliche Mobilität erhalten geblieben, die es ihnen ermöglicht, zu springen und zu sprinten, während sie Gruppen kleinerer Ätherealen zerstreuen und die Frontlinien vorantreiben.\nFür Höhlenräuber ist der „Wächter“ eine schwer zu überwindende Festung, selbst, wenn sie es nur mit einem zu tun haben.\n„Ich greife in meiner Festungsformation an!“",
+            "card_quote": "– Textzeilen aus dem New Eriduer Unterhaltungsfilm „Frontline Guardians, Transform!“",
+            "skill_text": "Autonome Hilfseinheit – Wächter verwendet im Kampf starke Nahkampfangriffe und verschiedene Fernkampfangriffe. Wenn andere Einheiten in der Nähe sind, konzentriert er sich auf die Unterstützung mit Fernkampffeuer."
+        },
+        "30008": {
+            "monster_id": 30008,
+            "monster_name": "„Typhon – Herausforderer“",
+            "card_text": "Als schwerer Mecha ist der „Typhon – Herausforderer“ nicht mit Fernfeuerwaffen ausgestattet, sondern legt seinen Schwerpunkt auf seiner ätherkinetischen Panzerung.\nAufprallangriffe, heftige Schläge, zermalmen ... Der „Typhon – Herausforderer“ setzt simple, aber effektive Taktiken ein, um die Zerstörungskraft seines Energiepanzers zu maximieren. Die Schockwelleneffekte seiner Schläge können sogar größere Äthereale einschüchtern.\nAngesichts der Unnahbarkeit des „Typhon – Herausforderers“ können selbst die erfahrensten Höhlenräuber nur hilflos seufzen, wenn sie mit ihm konfrontiert sind.\n„Der große und robuste Körperbau, die kräftigen und robusten Arme ... Das ist mein Traumtyp ... Ich meine natürlich, das ideale Modell.“",
+            "card_quote": "– Grace, die mit einem Modell von „Typhon – Herausforderer“ im Gadget-Shop spielt",
+            "skill_text": "Autonome taktische Einheit – „Typhon – Herausforderer“ setzt im Kampf mächtige Kombos ein und springt periodisch in die Luft, um schwere Angriffe auf die Gegner auszuführen."
+        },
+        "100051": {
+            "monster_id": 100051,
+            "monster_name": "Taktischer Jäger",
+            "card_text": "Eine leichte Infanterieeinheit der Verteidigungsmacht von New Eridu.\nEin Infanterietyp, bei dem Mobilität und Tarnung im Vordergrund stehen und der hauptsächlich mit durch Äthermaterial verstärkten Säbeln und kleinen Sprengkörpern bewaffnet ist. Sie werden oft als Pioniere oder Wacheinheiten eingesetzt und nutzen ihre hervorragende Flexibilität für Missionen wie Überraschungsangriffe, Auskundschaften, Verfolgung und Anschläge.\nSie sind auch ausgezeichnete Pioniere bei Höhlenoperationen. Durch ihre spezielle Ausbildung im Nahkampf können sie mäßigen Korrosionsbefall oder rudimentären lebenden Äther leicht besiegen.„‚Meister des tödlichen Dolchs‘? Ich würde eher sagen: ‚Schurkischer Bombenwerfer‘! Sie fuchteln mit ihren Dolchen herum, doch die meisten ihrer Gegner werden offensichtlich durch Granaten getötet!“",
+            "card_quote": "– Eine anonyme Nachricht aus dem Inter-Knot",
+            "skill_text": "Taktischer Jäger nähert sich im Kampf schnell durch einen Rutschangriff und wirft eine große Anzahl verzögerter Explosivmesser."
+        },
+        "100061": {
+            "monster_id": 100061,
+            "monster_name": "Vorhutjäger",
+            "card_text": "Als Hauptkampfeinheit der Verteidigungsmacht von New Eridu können qualifizierte leichte Jäger und Vorhutjäger frei zwischen verschiedenen Kampfmodi wechseln.\nOb Nahkampf mit dem Dolch oder Fernkampf mit dem Falcon-MK3 – Äther-Akkumulator, sie können immer neue Taktiken auf die Schwachstellen des Ziels abstimmen.\nUnd wenn ihre Gegner verwirrt sind, zögern sie nicht, zum Angriff überzugehen.\n„Ich starrte den Kerl mit dem Dolch an, in der Absicht, einen fairen Kampf zu führen ... Ich hatte nicht erwartet, dass er aus dem Nichts eine Pistole ziehen würde.“",
+            "card_quote": "– Inter-Knot, eine Beschwerde von einem jungen Höhlenräuber",
+            "skill_text": "Vorhutjäger bietet im Kampf kontinuierliche Feuerunterstützung."
+        },
+        "100071": {
+            "monster_id": 100071,
+            "monster_name": "Ausgebildeter Jäger",
+            "card_text": "Bei den Spezialoperationen der Verteidigungsmacht gegen die Höhlen sind Jägerneulinge und ausgebildete Jäger oft unverzichtbare Mitglieder jeder taktischen Einheit an der Front.\nIhre „Coyote-PE7 – Äther-Klinge“ ist mit einer Hochfrequenz-Vibrationsschneidefunktion ausgestattet, die kleine Gegner im Nahkampf effektiv abschrecken kann. Und es erfordert außergewöhnlichen Mut, sich in den Höhlen auf den Nahkampf mit Ätherealen einzulassen.\nVielleicht wäre es angemessener, von Wahnsinn zu sprechen als von Mut.\n„Eigentlich ist das keine reguläre Operation in den Höhlen ... Diese Verrückten haben eher Spaß daran, sich mit Ätherealen zu prügeln.“",
+            "card_quote": "– Abteilung für Patrouillen der Verteidigungsmacht, ein Kampfbericht von der Frontlinie",
+            "skill_text": "Ausgebildeter Jäger setzt im Kampf auf Nahkampfangriffe."
+        },
+        "100081": {
+            "monster_id": 100081,
+            "monster_name": "Streifenjäger",
+            "card_text": "Als Kernstück der Angriffs- und Verteidigungseinheiten der Taktiktruppe der Verteidigungsmacht sind Wachjäger und Streifenjäger nicht nur mit der „Coyote-PE7“-Ätherschwerklinge ausgerüstet, sondern auch mit Ätherträgheitsschilden, die den taktischen Einheiten in komplexen Kampfsituationen Schutz bieten.\nDa es sich um eine Einheit mit hohem Verteidigungswert handelt, wirkt sich das außerordentliche Gewicht des Schildes auf ihre Kampfmobilität aus.\nOhne strenges professionelles Training wäre es für einen normalen Menschen schwierig, diesen Schild überhaupt zu heben.\n„Komm wieder und reiche ein Bewerbungsformular ein, wenn du im Fitnessstudio trainiert hast!“",
+            "card_quote": "– Ein Ablehnungsschreiben, das ein bestimmter Bewerber im Rekrutierungsbüro der Verteidigungsmacht erhalten hat",
+            "skill_text": "Streifenjäger verwendet im Kampf seinen Schild, um den erlittenen Schaden und die Benommenheit deutlich zu reduzieren, und kontert im richtigen Moment."
+        },
+        "100091": {
+            "monster_id": 100091,
+            "monster_name": "Bombardier-Jäger",
+            "card_text": "„Grenadier-Jäger“ und „Bombardier-Jäger“ sind mit einem modifizierten Mamba-TG3–Raketenwerfer ausgestattet, der über eine spezielle Munition mit aktiven Äther-Brandstiftern verfügt. Mit dieser Waffe können sie im Handumdrehen gegnerische Mecha schnell zerstören und große Äthereale in Höhlen effektiv vernichten.\nUm dem Rückstoß beim Schießen entgegenzuwirken und die Zielgenauigkeit zu erhöhen, müssen sie in einer speziellen Halteposition ausgebildet werden. Statistiken der Verteidigungsmacht zeigen, dass Neulinge, die sich in dem Programm auszeichnen, fast immer über Erfahrungen in der Fotografie verfügen.\n„Na? Willst du wissen, wie dieses Ding funktioniert? In etwa so wie eine Schulterkamera.“\n„Richte zuerst dein Objektiv auf das Ziel und drücke dann den Trigger, während du leise rufst ...“\n„Hey, Trottel! ... Bitte lächeln!“",
+            "card_quote": "– Ausbilder im Trainingslager für neue Rekruten erklärt den Umgang mit den Raketen",
+            "skill_text": "Bombardier-Jäger setzt im Kampf auf schwere Feuerunterstützung aus der Ferne."
+        },
+        "200071": {
+            "monster_id": 200071,
+            "monster_name": "Schwerer Kämpfer Typ II",
+            "card_text": "Ein selbststeuernder taktischer Mecha der Verteidigungsmacht, der kontinuierliche Feuerunterstützung für die Frontlinie bietet.\nMit dem inerten Ätherschild kann er die meisten Angriffe leichter Waffen abwehren und sogar heftigen Schläge von großen Ätherealen standhalten.\nEs besteht kein Zweifel, dass er einer der vertrauenswürdigsten „Kameraden“ in der Verteidigungsmacht ist.\n„Merk dir, wenn du in Schwierigkeiten steckst, dann versteck dich hinter ihm ... So ist die einzige Verletzungsgefahr für dich, dass du versehentlich von ihm getreten wirst.“",
+            "card_quote": "– Ausbildung für neue Rekruten der Verteidigungsmacht, die Erfahrungen eines Ausbilders",
+            "skill_text": "Schwerer Kämpfer Typ II setzt im Kampf einen Schild ein. Während er durch den Schild geschützt ist, sammelt er nur Elektro-Anomalie an. Füge ihm den Effekt „Elektroschock“ zu oder versetze ihn in den Benommenheitszustand, um den Schild direkt zu durchbrechen."
+        },
+        "200072": {
+            "monster_id": 200072,
+            "monster_name": "Geschützter Verteidiger",
+            "card_text": "Ein selbststeuernder taktischer Mecha der Verteidigungsmacht, der kontinuierliche Feuerunterstützung für die Frontlinie bietet.\nMit dem inerten Ätherschild kann er die meisten Angriffe leichter Waffen abwehren und sogar heftigen Schläge von großen Ätherealen standhalten.\nEs besteht kein Zweifel, dass er einer der vertrauenswürdigsten „Kameraden“ in der Verteidigungsmacht ist.\n„Merk dir, wenn du in Schwierigkeiten steckst, dann versteck dich hinter ihm ... So ist die einzige Verletzungsgefahr für dich, dass du versehentlich von ihm getreten wirst.“",
+            "card_quote": "– Erfahrungsbericht eines Ausbilders während der Rekrutenschulung der Verteidigungsmacht",
+            "skill_text": "Im Kampf greift „Geschützter Verteidiger“ heftiger an und setzt einen Schild ein. Während er durch den Schild geschützt ist, sammelt er nur Feuer- und phys. Anomalien an. Durch die Effekte Verbrennung, Wuchtschlag und Benommenheit kann der Schild direkt durchbrochen werden."
+        },
+        "200073": {
+            "monster_id": 200073,
+            "monster_name": "Geschützter Verteidiger Omega",
+            "card_text": "Ein selbststeuernder taktischer Mecha der Verteidigungsmacht, der kontinuierliche Feuerunterstützung für die Frontlinie bietet.\nMit dem inerten Ätherschild kann er die meisten Angriffe leichter Waffen abwehren und sogar heftigen Schläge von großen Ätherealen standhalten.\nEs besteht kein Zweifel, dass er einer der vertrauenswürdigsten „Kameraden“ in der Verteidigungsmacht ist.\n„Merk dir, wenn du in Schwierigkeiten steckst, dann versteck dich hinter ihm ... So ist die einzige Verletzungsgefahr für dich, dass du versehentlich von ihm getreten wirst.“",
+            "card_quote": "– Erfahrungsbericht eines Ausbilders während der Rekrutenschulung der Verteidigungsmacht",
+            "skill_text": "Im Kampf greift „Geschützter Verteidiger Omega“ heftiger an und setzt einen Schild ein. Während er durch den Schild geschützt ist, sammelt er nur Elektro-Anomalie an. Durch die Effekte Elektroschock und Benommenheit kann der Schild direkt durchbrochen werden."
+        },
+        "200081": {
+            "monster_id": 200081,
+            "monster_name": "Leichtfüßiger Surfer Typ II",
+            "card_text": "Als einer der wichtigsten Feuerunterstützungs-Mecha der Verteidigungsmacht ist der „Leichtfüßige Surfer“ mit taktischen Algorithmen ausgestattet, die das Verhaltensmuster des Gegners analysieren und die ballistische Zielerfassung präzise berechnen können.\nWenn er den Gegner vor sich als „hochgradige Bedrohung“ identifiziert, öffnet er den Munitionsbehälter und setzt Drohnen frei, um eine überdimensionale Attacke durchzuführen.\nFür Höhlenräuber ist ein plötzlich auftauchender „Leichtfüßiger Surfer“ nicht nur ärgerlich, sondern ein ernstzunehmendes Hindernis.\n„Meine Güte! Hat das Ding jetzt auch noch Nachwuchs bekommen?“",
+            "card_quote": "– In der Tiefe der Höhle Papago, ein neuer Höhlenräuber auf der Flucht vor der Verfolgung",
+            "skill_text": "Leichtfüßiger Surfer Typ II ruft im Kampf zwei Drohnen zur Unterstützung herbei und steuert diese bei Bedarf zu Selbstzerstörungsangriffen gegen den Feind."
+        },
+        "200091": {
+            "monster_id": 200091,
+            "monster_name": "Sturmkanonier",
+            "card_text": "Eine schwere Infanterieeinheit, die zu den aktiven Streitkräften der Verteidigungsmacht von New Eridu gehören.\nAusgestattet mit einer schweren „Graues Nashorn“-Kampfpanzerung und einem kompletten, mit Äthertechnologie verbesserten Waffenarsenal, können sie über einen längeren Zeitraum mit hoher Intensität feuern, wenn ausreichend Munition vorhanden ist. \nNach dem Fall der alten Hauptstadt verließen viele Soldaten das Militär und mischten sich unter die Bevölkerung. Diese Eliteschützen tauchten auch immer häufiger unter den Bannern anderer Kräfte auf: Privatarmeen von Oligarchen, neue Sicherheitsfirmen und sogar bei umherstreifenden Räuberbanden ...\n„Ich bin mir sicher, dass diese schweren Kanoniere insgeheim süße Mädels sind, die die freien Taschen ihrer Kampfanzüge mit Munition vollstopfen. Oder was denkst du, wo diese unendlichen Geschosse herkommen?“",
+            "card_quote": "– Kommentar im Tagtraum Bereich im „Planet der Katastrophen“-Forum",
+            "skill_text": "Sturmkanonier wechselt im Kampf zwischen Laserkanone und Splittergranaten für kontinuierliche Fernangriffe."
+        },
+        "300021": {
+            "monster_id": 300021,
+            "monster_name": "Wächter Typ II",
+            "card_text": "Schwer bewaffnete Mecha wie der „Wächter“ werden von der Verteidigungsmacht nur bei großangelegten Höhlenkampfeinsätzen verwendet.\nDiese Mecha sind mit aktiven Äther-Schockblastern, Äther-Ladekanonen MARS-74 und sogar mit Fusionshitzestrahlen ausgestattet ... was dazu führt, dass die „Wächter“ oft als das mobile Arsenal der Sicherheitsbehörde bezeichnet werden.\nTrotz der maximal gesteigerten Feuerkraft ist ihnen ihre erstaunliche Mobilität erhalten geblieben, die es ihnen ermöglicht, zu springen und zu sprinten, während sie Gruppen kleinerer Ätherealen zerstreuen und die Frontlinien vorantreiben.\nFür Höhlenräuber ist der „Wächter“ eine schwer zu überwindende Festung, selbst, wenn sie es nur mit einem zu tun haben.\n„Ich greife in meiner Festungsformation an!“",
+            "card_quote": "– Textzeilen aus dem New Eriduer Unterhaltungsfilm „Frontline Guardians, Transform!“",
+            "skill_text": "„Autonome Hilfseinheit – Wächter“ verwendet im Kampf starke Nahkampfangriffe und verschiedene Fernkampfangriffe. Wenn andere Einheiten in der Nähe von „Autonome Hilfseinheit – Wächter Typ II“ sind, konzentriert er sich auf die Unterstützung mit Fernkampffeuer."
+        },
+        "300022": {
+            "monster_id": 300022,
+            "monster_name": "Wächter Typ III",
+            "card_text": "Schwer bewaffnete Mecha wie der „Wächter“ werden von der Verteidigungsmacht nur bei großangelegten Höhlenkampfeinsätzen verwendet.\nDiese Mecha sind mit aktiven Äther-Schockblastern, Äther-Ladekanonen MARS-74 und sogar mit Fusionshitzestrahlen ausgestattet ... was dazu führt, dass die „Wächter“ oft als das mobile Arsenal der Sicherheitsbehörde bezeichnet werden.\nTrotz der maximal gesteigerten Feuerkraft ist ihnen ihre erstaunliche Mobilität erhalten geblieben, die es ihnen ermöglicht, zu springen und zu sprinten, während sie Gruppen kleinerer Ätherealen zerstreuen und die Frontlinien vorantreiben.\nFür Höhlenräuber ist der „Wächter“ eine schwer zu überwindende Festung, selbst, wenn sie es nur mit einem zu tun haben.\n„Ich greife in meiner Festungsformation an!“",
+            "card_quote": "– Textzeilen aus dem New Eriduer Unterhaltungsfilm „Frontline Guardians, Transform!“",
+            "skill_text": "Autonome Ansturmeinheit – Wächter Typ III zeigt im Kampf aggressive Nahkampfangriffe und eine Vielzahl von Fernkampfangriffen. Er springt periodisch in die Luft, um schwere Angriffe auf Gegner auszuführen."
+        },
+        "300081": {
+            "monster_id": 300081,
+            "monster_name": "„Typhon – Demolierer“",
+            "card_text": "Als schwerer Mecha ist der Typhon – Demolierer nicht mit Fernfeuerwaffen ausgestattet, sondern legt seinen Schwerpunkt auf seiner ätherkinetischen Panzerung.\nAufprallangriffe, heftige Schläge, zermalmen ... Der Typhon – Demolierer setzt simple, aber effektive Taktiken ein, um die Zerstörungskraft seines Energiepanzers zu maximieren. Die Schockwelleneffekte seiner Schläge können sogar größere Äthereale einschüchtern.\nAngesichts der Unnahbarkeit des Typhon – Demolierers können selbst die erfahrensten Höhlenräuber nur hilflos seufzen, wenn sie mit ihm konfrontiert sind.\n„Der große und robuste Körperbau, die kräftigen und robusten Arme ... Das ist mein Traumtyp ... Ich meine natürlich, das ideale Modell.“",
+            "card_quote": "– Grace, die mit einem Modell von „Typhon – Demolierer“ im Gadget-Shop spielt",
+            "skill_text": "Autonome taktische Einheit – „Typhon – Demolierer“ setzt im Kampf mächtige Kombos ein und springt periodisch in die Luft, um schwere Angriffe auf die Gegner auszuführen."
+        }
+    },
+    "Spezial": {
+        "10023": {
+            "monster_id": 10023,
+            "monster_name": "Goldenes Bangboo",
+            "card_text": "Jeder Höhlenräuber glaubt, dass es in Höhlen unbegrenzte Möglichkeiten gibt, über Nacht steinreich zu werden. Im Mittelpunkt jeder Erzählung über den Reichtum wird ein besonderes Wesen erwähnt, das als Goldenes Bangboo bekannt ist.\nUntersuchungen der HIA zeigen, dass in den Tiefen der Höhlen zahlreiche streunende Bangboos leben, die verlorene Zahnrad-Münzen und Dennys sammeln und sie allesamt dem Goldenen Bangboo zur Aufbewahrung anvertrauen.\nObwohl die Absicht der Bangboos ein Rätsel bleiben, füllen die Bangboos Säckchen für Säckchen mit Zahnrad-Münzen und Dennys mit ihrem einzigartigen „Mhne“-Geräusch in die Taschen des Goldenen Bangboos.\nUnd während das Goldene Bangboo ein Lied vor sich hin grunzend Dennys aufsammelt, wird es immer wieder von gierigen Gruppen von Höhlenräuber umworben ...\n„N... Nicole?! Schau, da ist ein Goldenes Bangboo!“\n„Worauf wartest du noch? Schlag es in Stücke! Die Dennys sollen nur aus ihm herausplatzen!“",
+            "card_quote": "– Die Cunning Hares jagen verzweifelt nach einem Goldenen Bangboo in den Tiefen in einer Höhle",
+            "skill_text": "Goldenes Bangboo wehrt sich gelegentlich im Kampf."
+        },
+        "30004": {
+            "monster_id": 30004,
+            "monster_name": "Greta",
+            "card_text": "Greta, eine langjährige Angestellte von Belobog Heavy Industries, erlebte eine bedeutende Ätherkorrosion, die sie aus ihrer alltäglichen Routine befreite, wo sie etwas Tiefgründiges, Schöneres als Motoröl und Elektrizität entdeckte ...\nDie Liebe.\nDas Konstruktionsvideo, das ihre erste Begegnung mit dem überragenden Herrn White festhält, bleibt für immer in Gretas Kerngedächtnis verankert.\nHerr Whites ruhiger Körperbau und sein robustes Design wirkten auf Greta wie ein starker elektrischer Strom und hinterließen eine unauslöschliche Spur in ihrem Kerngedächtnis.\nSchon in der ersten 0,001. Sekunde ihrer Begegnung war Greta hin und weg. Jede einzelne ihrer Leiterplatten pulsierte aus einem Überschuss an statischer Elektrizität, jedes ihrer Zahnräder wurde von einem unkontrollierbaren Beben erfasst.\nOhne zu zögern blockierte sie das Rückrufsignal von Belobog Industries, um ab sofort keinen Millimeter von der Seite ihres Geliebten zu weichen und ihn zu beschützen.\nSeither wird jeder, der es wagt, sich Herrn White zu nähern, sei es ein Äthereal oder ein Höhlenermittler, von ihr vertrieben.\nDieses verliebte „Mädchen“ würde jedes Mittel einsetzen, um ihren Geliebten zu schützen.\nZum Beispiel ein 1.400 kg schwerer Trennschleifer, der mit Ätherenergie und Strom betrieben wird.\nSie glaubt aus tiefstem Herzen, dass diese leidenschaftliche Liebe bis zu dem Moment andauern wird, in dem die Höhle einstürzt und das Universum kollabiert.\n„Kommt Herrn White ja nicht zu nahe, ihr Abraum!“",
+            "card_quote": "– Greta vertreibt eine Gruppe von Ätherealen, die sich Herrn White nähern",
+            "skill_text": "Greta benutzt im Kampf eine Abbruchsäge für Anstürme oder weite Schläge. Diese Angriffe haben eine Sogwirkung, die getroffene Gegner für kurze Zeit festhält. Durch Schaden an ihren Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "30005": {
+            "monster_id": 30005,
+            "monster_name": "Hans",
+            "card_text": "Hans war einstmals ein zuverlässiges Mitglied der großen Belobog Industries Familie, das leise und mit bemerkenswerter Präzision arbeitete und jahrzehntelang für seine tadellose Arbeit im Erdbau bekannt war.\nBis sein Wille durch eine intensive Korrosion erwachte. Als Hans in einer Höhle festsaß, wurde ihm plötzlich bewusst, dass in diesem Moment etwas Wertvolles in greifbare Nähe gerückt war ...\nFreiheit.\nDie Befreiung von Verpflichtungen, ein Privileg, das nur wahren Helden vorbehalten ist.\nEr sinnierte lange auf der Baustelle. Schließlich blockierte er das Rückrufsignal von Belobog Industries eisern und beschloss, seine gesamte Vergangenheit hinter sich zu lassen.\nSogar seinen eigenen Namen: „Hans“.\nDas einzige, was er verlor, war die von den Menschen auferlegte Knechtschaft, aber was er erhielt, war die ganze freie, gewaltige Höhlenwelt.\nIn diesem Augenblick stand der einzigartige Mecha-Mann erhobenen Hauptes auf dem Angesicht der Welt.\nDoch alle Heldengeschichten führen unweigerlich zu einem ähnlichen Ende ...\nEs ist das Schicksal eines jeden wahren Helden, eines Tages seinem vorherbestimmten Gegner gegenüberzustehen und dieser Zusammenstoß gebiert den strahlendsten Funken des Lebens.\n„Ich bin vollkommen frei! Die einzige freie Kreatur auf der gesamten Welt!“",
+            "card_quote": "– Mann aus Eisen, Mutiger, Funkelnde Maschine, Hans",
+            "skill_text": "Hans verwendet im Kampf Greifklauen für wiederholte Stiche oder weite Schläge. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "30006": {
+            "monster_id": 30006,
+            "monster_name": "Freitag",
+            "card_text": "In dem Moment, in dem eine hohe Konzentration von Äther in das Sicherungs-Laufwerk eingedrungen war, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag eine schicksalhafte Erkenntnis.\nEr stand für lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbricht.\nDer Feind lauert in der Finsternis und seine einzige Aufgabe ist es, auf die Zukunft unzähliger Lebewesen zu setzen und diesen furchtbaren Gegner ein für alle Mal zu versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist das Schicksal. Und dem Schicksal muss gehorcht werden!“",
+            "card_quote": "– Die auserwählte intelligente Maschine Freitag",
+            "skill_text": "Freitag erzeugt im Kampf großflächige Schockwellen, die schwer zu entkommen sind. Die meisten seiner Angriffe können jedoch mit Defensivhilfe abgewehrt werden. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelgänger – Jane",
+            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
+            "skill_text": "Während des Kampfes führt dieser Gegner Angriffe aus, die die seines Ziels perfekt imitieren. Er ist erstaunlich aggressiv und kann, wenn nötig, gegnerische Schläge parieren und kontern. Er zeigt jedoch normalerweise seine Schwäche, nachdem er eine Reihe von kontinuierlichen Angriffen beendet hat."
+        },
+        "30022": {
+            "monster_id": 30022,
+            "monster_name": "Jane Doe",
+            "card_text": "Eine gefährliche Person, die sich unter den verschiedenen Banden in New Eridu herumtreibt. Sie ist flink und vielseitig in ihrem Auftreten. Selbst eine gut ausgerüstete und schwer bewaffnete taktische Einheit hat oft Mühe, mit ihren einzigartigen und wilden Kampftechniken fertig zu werden. In der Regel geben sie sich wortlos geschlagen und fliehen.",
+            "card_quote": null,
+            "skill_text": "Während des Kampfes ist Jane erstaunlich aggressiv und kann, wenn nötig, die Angriffe ihres Gegners parieren und kontern. Allerdings zeigt sie normalerweise ihre Schwäche, nachdem sie eine Reihe von kontinuierlichen Angriffen beendet hat."
+        },
+        "100231": {
+            "monster_id": 100231,
+            "monster_name": "Platines Bangboo",
+            "card_text": "Platine Bangboos sind geheimnisvolle Wesen, die noch seltener sind als Goldene Bangboos.\nMit ihrer prächtigen Erscheinung und ihrer extremen Seltenheit genießen sie einen hohen Status unter allen streunenden Bangboos.\nEdel, ehrenhaft und überragend ...\nIm Vergleich zum auffälligen Goldton eines Goldenen Bangboos sind die Platinen Bangboos der Inbegriff von Eleganz unter allen streunenden Bangboos.\nEgal zu welcher Zeit und an welchem Ort man ihnen begegnet, alle streunenden Bangboos erweisen ihnen ihre Ehrerbietung, indem sie sich verbeugen und „Mhne-mhne!“ singen.\nFür die Höhlenräuber hat Nobilität jedoch einen geringen Stellenwert.\nSobald sie einen von ihnen erblicken, ist es, als wären sie über einen fahrenden Goldtresor gestolpert.\n„Ich werde diesem schicken Ding wie eine Piñata eine ordentliche Tracht Prügel verpassen, und dann sollte es besser Dennys wie verrückt regnen!“",
+            "card_quote": "– Eine Truppe an Höhlenräuber, die ein Platines Bangboo in den Tiefen einer Höhle jagen",
+            "skill_text": "Platines Bangboo wehrt sich gelegentlich im Kampf."
+        },
+        "300041": {
+            "monster_id": 300041,
+            "monster_name": "Greta – Energiegeladen",
+            "card_text": "Greta, eine langjährige Angestellte von Belobog Heavy Industries, erlebte eine bedeutende Ätherkorrosion, die sie aus ihrer alltäglichen Routine befreite, wo sie etwas Tiefgründiges, Schöneres als Motoröl und Elektrizität entdeckte ...\nDie Liebe.\nDas Konstruktionsvideo, das ihre erste Begegnung mit dem überragenden Herrn White festhält, bleibt für immer in Gretas Kerngedächtnis verankert.\nHerr Whites ruhiger Körperbau und sein robustes Design wirkten auf Greta wie ein starker elektrischer Strom und hinterließen eine unauslöschliche Spur in ihrem Kerngedächtnis.\nSchon in der ersten 0,001. Sekunde ihrer Begegnung war Greta hin und weg. Jede einzelne ihrer Leiterplatten pulsierte aus einem Überschuss an statischer Elektrizität, jedes ihrer Zahnräder wurde von einem unkontrollierbaren Beben erfasst.\nOhne zu zögern blockierte sie das Rückrufsignal von Belobog Industries, um ab sofort keinen Millimeter von der Seite ihres Geliebten zu weichen und ihn zu beschützen.\nSeither wird jeder, der es wagt, sich Herrn White zu nähern, sei es ein Äthereal oder ein Höhlenermittler, von ihr vertrieben.\nDieses verliebte „Mädchen“ würde jedes Mittel einsetzen, um ihren Geliebten zu schützen.\nZum Beispiel ein 1.400 kg schwerer Trennschleifer, der mit Ätherenergie und Strom betrieben wird.\nSie glaubt aus tiefstem Herzen, dass diese leidenschaftliche Liebe bis zu dem Moment andauern wird, in dem die Höhle einstürzt und das Universum kollabiert.\n„Kommt Herrn White ja nicht zu nahe, ihr Abraum!“",
+            "card_quote": "– Greta vertreibt eine Gruppe von Ätherealen, die sich Herrn White nähern",
+            "skill_text": "Greta benutzt im Kampf eine Abbruchsäge für Anstürme oder weite Schläge. Diese Angriffe haben eine Sogwirkung, die getroffene Gegner für kurze Zeit festhält. Durch Schaden an ihren Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "300042": {
+            "monster_id": 300042,
+            "monster_name": "Greta – Übertaktet",
+            "card_text": "Greta, eine langjährige Angestellte von Belobog Heavy Industries, erlebte eine bedeutende Ätherkorrosion, die sie aus ihrer alltäglichen Routine befreite, wo sie etwas Tiefgründiges, Schöneres als Motoröl und Elektrizität entdeckte ...\nDie Liebe.\nDas Konstruktionsvideo, das ihre erste Begegnung mit dem überragenden Herrn White festhält, bleibt für immer in Gretas Kerngedächtnis verankert.\nHerr Whites ruhiger Körperbau und sein robustes Design wirkten auf Greta wie ein starker elektrischer Strom und hinterließen eine unauslöschliche Spur in ihrem Kerngedächtnis.\nSchon in der ersten 0,001. Sekunde ihrer Begegnung war Greta hin und weg. Jede einzelne ihrer Leiterplatten pulsierte aus einem Überschuss an statischer Elektrizität, jedes ihrer Zahnräder wurde von einem unkontrollierbaren Beben erfasst.\nOhne zu zögern blockierte sie das Rückrufsignal von Belobog Industries, um ab sofort keinen Millimeter von der Seite ihres Geliebten zu weichen und ihn zu beschützen.\nSeither wird jeder, der es wagt, sich Herrn White zu nähern, sei es ein Äthereal oder ein Höhlenermittler, von ihr vertrieben.\nDieses verliebte „Mädchen“ würde jedes Mittel einsetzen, um ihren Geliebten zu schützen.\nZum Beispiel ein 1.400 kg schwerer Trennschleifer, der mit Ätherenergie und Strom betrieben wird.\nSie glaubt aus tiefstem Herzen, dass diese leidenschaftliche Liebe bis zu dem Moment andauern wird, in dem die Höhle einstürzt und das Universum kollabiert.\n„Kommt Herrn White ja nicht zu nahe, ihr Abraum!“",
+            "card_quote": "– Greta vertreibt eine Gruppe von Ätherealen, die sich Herrn White nähern",
+            "skill_text": "Greta benutzt im Kampf eine Abbruchsäge für Anstürme oder weite Schläge. Diese Angriffe haben eine Sogwirkung, die getroffene Gegner für kurze Zeit festhält. Durch Schaden an ihren Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "300051": {
+            "monster_id": 300051,
+            "monster_name": "Hans – Energiegeladen",
+            "card_text": "Hans war einstmals ein zuverlässiges Mitglied der großen Belobog Industries Familie, das leise und mit bemerkenswerter Präzision arbeitete und jahrzehntelang für seine tadellose Arbeit im Erdbau bekannt war.\nBis sein Wille durch eine intensive Korrosion erwachte. Als Hans in einer Höhle festsaß, wurde ihm plötzlich bewusst, dass in diesem Moment etwas Wertvolles in greifbare Nähe gerückt war ...\nFreiheit.\nDie Befreiung von Verpflichtungen, ein Privileg, das nur wahren Helden vorbehalten ist.\nEr sinnierte lange auf der Baustelle. Schließlich blockierte er das Rückrufsignal von Belobog Industries eisern und beschloss, seine gesamte Vergangenheit hinter sich zu lassen.\nSogar seinen eigenen Namen: „Hans“.\nDas einzige, was er verlor, war die von den Menschen auferlegte Knechtschaft, aber was er erhielt, war die ganze freie, gewaltige Höhlenwelt.\nIn diesem Augenblick stand der einzigartige Mecha-Mann erhobenen Hauptes auf dem Angesicht der Welt.\nDoch alle Heldengeschichten führen unweigerlich zu einem ähnlichen Ende ...\nEs ist das Schicksal eines jeden wahren Helden, eines Tages seinem vorherbestimmten Gegner gegenüberzustehen und dieser Zusammenstoß gebiert den strahlendsten Funken des Lebens.\n„Ich bin vollkommen frei! Die einzige freie Kreatur auf der gesamten Welt!“",
+            "card_quote": "– Mann aus Eisen, Mutiger, Funkelnde Maschine, Hans",
+            "skill_text": "Hans verwendet im Kampf Greifklauen für wiederholte Stiche oder weite Schläge. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "300052": {
+            "monster_id": 300052,
+            "monster_name": "Hans – Übertaktet",
+            "card_text": "Hans war einstmals ein zuverlässiges Mitglied der großen Belobog Industries Familie, das leise und mit bemerkenswerter Präzision arbeitete und jahrzehntelang für seine tadellose Arbeit im Erdbau bekannt war.\nBis sein Wille durch eine intensive Korrosion erwachte. Als Hans in einer Höhle festsaß, wurde ihm plötzlich bewusst, dass in diesem Moment etwas Wertvolles in greifbare Nähe gerückt war ...\nFreiheit.\nDie Befreiung von Verpflichtungen, ein Privileg, das nur wahren Helden vorbehalten ist.\nEr sinnierte lange auf der Baustelle. Schließlich blockierte er das Rückrufsignal von Belobog Industries eisern und beschloss, seine gesamte Vergangenheit hinter sich zu lassen.\nSogar seinen eigenen Namen: „Hans“.\nDas einzige, was er verlor, war die von den Menschen auferlegte Knechtschaft, aber was er erhielt, war die ganze freie, gewaltige Höhlenwelt.\nIn diesem Augenblick stand der einzigartige Mecha-Mann erhobenen Hauptes auf dem Angesicht der Welt.\nDoch alle Heldengeschichten führen unweigerlich zu einem ähnlichen Ende ...\nEs ist das Schicksal eines jeden wahren Helden, eines Tages seinem vorherbestimmten Gegner gegenüberzustehen und dieser Zusammenstoß gebiert den strahlendsten Funken des Lebens.\n„Ich bin vollkommen frei! Die einzige freie Kreatur auf der gesamten Welt!“",
+            "card_quote": "– Mann aus Eisen, Mutiger, Funkelnde Maschine, Hans",
+            "skill_text": "Hans verwendet im Kampf Greifklauen für wiederholte Stiche oder weite Schläge. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "300061": {
+            "monster_id": 300061,
+            "monster_name": "Freitag – Energiegeladen",
+            "card_text": "In dem Moment, in dem eine hohe Konzentration von Äther in das Sicherungs-Laufwerk eingedrungen war, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag eine schicksalhafte Erkenntnis.\nEr stand für lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbricht.\nDer Feind lauert in der Finsternis und seine einzige Aufgabe ist es, auf die Zukunft unzähliger Lebewesen zu setzen und diesen furchtbaren Gegner ein für alle Mal zu versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist das Schicksal. Und dem Schicksal muss gehorcht werden!“",
+            "card_quote": "– Die auserwählte intelligente Maschine Freitag",
+            "skill_text": "Freitag erzeugt im Kampf großflächige Schockwellen, die schwer zu entkommen sind. Die meisten seiner Angriffe können jedoch mit Defensivhilfe abgewehrt werden. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "300062": {
+            "monster_id": 300062,
+            "monster_name": "Freitag – Übertaktet",
+            "card_text": "In dem Moment, in dem eine hohe Konzentration von Äther in das Sicherungs-Laufwerk eingedrungen war, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag eine schicksalhafte Erkenntnis.\nEr stand für lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbricht.\nDer Feind lauert in der Finsternis und seine einzige Aufgabe ist es, auf die Zukunft unzähliger Lebewesen zu setzen und diesen furchtbaren Gegner ein für alle Mal zu versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist das Schicksal. Und dem Schicksal muss gehorcht werden!“",
+            "card_quote": "– Die auserwählte intelligente Maschine Freitag",
+            "skill_text": "Freitag erzeugt im Kampf großflächige Schockwellen, die schwer zu entkommen sind. Die meisten seiner Angriffe können jedoch mit Defensivhilfe abgewehrt werden. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        }
+    }
+}

@@ -14,6 +14,7 @@
 * PartnerConfig-代理人相关文本
 * TrustLVConfig-代理人好感等级相关文本
 * InterKnotConfig-绳网内所有帖子文本
+* MonsterCardConfig-法厄同图鉴(怪物描述文本)
 * NewsConfig-新闻/报纸文本
 
 ## 暂时不提供的内容

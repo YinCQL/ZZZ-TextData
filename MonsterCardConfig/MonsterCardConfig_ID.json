@@ -1,0 +1,903 @@
+{
+    "Ether Mutant": {
+        "10000": {
+            "monster_id": 10000,
+            "monster_name": "Tyrfing",
+            "card_text": "Hollow Investigative Association terus menyelidiki pola perilaku Tyrfing. Posisi tubuhnya yang terlihat goyah dan miring sebenarnya adalah postur charge yang efisien yang dapat melancarkan tebasan beruntun kapan saja.\nTyrfing, dengan frekuensi kemunculannya yang tinggi dan agresivitasnya yang kuat, dinilai sebagai salah satu Ethereal yang paling berbahaya di dalam Hollow karena keberadaannya. Hal ini utamanya berlaku bagi beberapa petugas di dalam Hollow.\nSaat menghadapi musuh berperisai, ia akan dengan ganas melancarkan serangan tanpa henti hingga salah satu pihak, baik musuh atau dirinya sendiri kalah.\n\"Mungkin... ia tidak membenci kita, melainkan melihat kita sebagai boneka latihan?\"",
+            "card_quote": "——Episode 165 dari acara wawancara tengah malam \"Bincang-Bincang Hollow\" menampilkan Nobby Kereyan, seorang Riot Patroller yang pensiun karena cedera.",
+            "skill_text": "Dalam pertarungan, Tyrfing akan melancarkan serangan jarak dekat."
+        },
+        "10001": {
+            "monster_id": 10001,
+            "monster_name": "Alpeca",
+            "card_text": "Hollow Investigative Association tidak memiliki banyak penelitian tentang Alpeca. Setelah menganalisis pola perilakunya dalam menyemburkan Ether, ia didefinisikan sebagai Ethereal dengan tingkat ancaman rendah, dan penyelidikan selesai.\nPernah ada seorang peneliti yang sangat berminat terhadap cara Alpeca menyemburkan Ether cair. Dia kemudian mengumumkan kontrak investigasi untuk melakukan pengamatan dari jarak dekat\nTetapi karena beberapa alasan, Investigator yang berpengalaman selalu menghindari misi ini.\n\"Cepat lari! Mereka mulai memuntahkan air liur lagi... Ah! Pakaian baruku!\"",
+            "card_quote": "——Investigator pemula, Raffaele Bert, sedang mencoba untuk mundur di kedalaman Hollow.",
+            "skill_text": "Dalam pertarungan, Alpeca akan melancarkan serangan tersebar jarak jauh."
+        },
+        "10002": {
+            "monster_id": 10002,
+            "monster_name": "Faun",
+            "card_text": "Sebuah Ether humanoid pertama kali ditemukan di dalam Hollow metro New Eridu. Sempat terjadi perdebatan di antara tim investigasi dari HIA terkait sifatnya. Beberapa orang meyakini kalau itu adalah makhluk terkontaminasi yang bermutasi menjadi Ether humanoid, sementara yang lain berpendapat kalau itu adalah Ether humanoid yang terpengaruh oleh lingkungan di dalam Hollow. Bagaimanapun, karena keterbatasan gerakannya, HIA memberikan peringkat tingkat ancaman rendah terhadapnya. Namun, bukan berarti ia dapat dianggap remeh, mengingat ia biasanya muncul secara berkelompok.\n\"Apakah kamu pernah terlambat atau ditilang karena lampu merah? Rasanya sangat tidak menyenangkan, kan?\"\n\"Sekarang waktunya untuk melampiaskan kekesalanmu!\"",
+            "card_quote": "——Pesan dari pengguna \"Kapan Harga Bangboo Turun Sih\" di forum Bencana Hari Ini.",
+            "skill_text": "Dalam pertarungan, Faun akan cenderung melancarkan serangan Charge kuat yang sulit untuk dipatahkan."
+        },
+        "10003": {
+            "monster_id": 10003,
+            "monster_name": "Hoplitai",
+            "card_text": "Meskipun Hoplitai diklasifikasikan oleh HIA sebagai Ethereal dengan tingkat ancaman rendah, namun ia adalah lawan yang sulit bagi Hollow Raider dan Investigator pemula.\nTungkai depannya tertutup oleh zat Ether tebal yang berfungsi sebagai perisai pertahanan yang sangat baik dan senjata yang mematikan.\nSatu-satunya kelemahannya adalah... badannya yang besar dan tampaknya tidak terlalu pintar.\n\"Lihatlah... Makhluk yang malang ini adalah Hoplitai.\"\n\"Saat para Ethereal berkumpul untuk bermain batu-kertas-gunting, si bodoh ini hanya bisa mengeluarkan kertas!\"",
+            "card_quote": "——Kebun Binatang Hollow, episode khusus tentang Hoplitai.",
+            "skill_text": "Dalam pertarungan, Hoplitai akan memakai lengan perisainya untuk menyerang atau menangkis serangan."
+        },
+        "10004": {
+            "monster_id": 10004,
+            "monster_name": "Blastcrawler",
+            "card_text": "Dalam laporan penelitian HIA, Blastcrawler yang bergerak lambat dan hanya bisa memicu ledakan kecil diklasifikasikan sebagai Ethereal dengan \"tingkat ancaman rendah\" dan \"tidak perlu diperhatikan\".\nNamun, beberapa pedagang yang memiliki insting bisnis yang kuat menyadari peluang bisnis dari tubuh bulat dan kaki pendek mereka.\nDengan rilisnya film \"Berputarlah, Blastcrawler kecil\", produk-produk terkait seperti boneka, bantal, dan merchandise lainnya hampir terjual habis.\n\"Tidak kusangka boneka mereka ternyata lebih mematikan daripada aslinya... Billy, bulan depan aku cuma bisa makan mi instan...\"",
+            "card_quote": "——Anby sedang memeriksa dompet di depan mesin capit di Distrik Belanja.",
+            "skill_text": "Dalam pertarungan, Blastcrawler akan menyerang dengan meledakkan diri sendiri."
+        },
+        "10014": {
+            "monster_id": 10014,
+            "monster_name": "Mandrake",
+            "card_text": "Nama Mandrake berasal dari tanaman herbal yang mengandung racun. Peneliti pertama yang menamainya hanya menganggap keduanya memiliki kesamaan dalam penampilan luarnya.\n\nPada saat Mandrake mekar, ia akan melepaskan sinar energi panas untuk menyerang target di sekitarnya. Daun yang keras akan menempel di tanah, seolah-olah enggan dicabut oleh orang. Terkadang, untuk melindungi diri, ia bahkan menggunakan daun untuk menyerang musuh yang mendekatinya.\nSama seperti tanaman Mandrake yang legendaris, \"tangisan\"-nya sangatlah mematikan.\n\n\"Tunggu! Jangan ke sana! Ia akan segera mekar!\"",
+            "card_quote": "——Mandrake sedang mekar di dalam film \"Trauma Mendalam\".",
+            "skill_text": "Dalam pertarungan, Mandrake yang berbeda akan memberi bonus ATK/Shield pada unit di sekitarnya secara berkala."
+        },
+        "10025": {
+            "monster_id": 10025,
+            "monster_name": "Ahriman",
+            "card_text": "Karena bentuknya yang unik dan aneh, Ahriman sering kali salah dianggap sebagai patung seni di dalam gedung Ballet Twins.\nOleh karena itu, banyak Investigator pemula merasakan trauma yang tidak terlupakan saat pertama kali bertemu dengan Ahriman.\n\nAku baru saja melewati sebuah patung, tapi tiba-tiba patung itu bergerak...\nDan saat musuh panik dan tertegun, itu adalah saat yang tepat bagi Ahriman untuk menyerang.\n\n\"Corin, jangan terperdaya oleh topengnya... itu bukanlah karya seni yang berharga.\"\n\"Sekarang, ayo 'bersih-bersih'.\"",
+            "card_quote": "——Lycaon sedang memandu Corin bersih-bersih.",
+            "skill_text": "Dalam pertarungan, Ahriman akan berteleportasi untuk melancarkan serangan mendadak. Dia terkadang juga akan melancarkan serangan gabungan bersama Ahriman lainnya."
+        },
+        "10026": {
+            "monster_id": 10026,
+            "monster_name": "Specter",
+            "card_text": "Mungkin terpengaruh oleh atmosfer unik di dalam gedung Ballet Twins, Specter memiliki konstruksi tubuh yang aneh dan terdistorsi seperti patung seni.\nSebagian Investigator berpendapat kalau bentuknya yang unik dirancang untuk melindungi Inti Ether-nya dengan lebih baik.\nNamun, sebagian besar Investigator bersikeras kalau semua ini hanyalah trik yang digunakan untuk menarik perhatian musuh. Saat musuh terkejut oleh postur anehnya, Specter tanpa ragu akan menggunakan konsentrat Ether untuk melancarkan serangan jarak jauh.\n\"Aku mengamati bentuknya cukup lama: Apakah ia mencoba bermain bowling dengan kepalanya sendiri?\"\n\"Tapi sebelum aku bisa mengetahuinya, 'bola bowling-nya' sudah menghantam wajahku...\"",
+            "card_quote": "——Sebuah postingan dari pengguna anonim di Inter-Knot.",
+            "skill_text": "Dalam pertarungan, Specter akan melancarkan serangan bertubi-tubi dari jarak jauh dalam waktu singkat."
+        },
+        "10029": {
+            "monster_id": 10029,
+            "monster_name": "Beholder Engine",
+            "card_text": "Meskipun dalam database HIA, Beholder Engine dianggap berbahaya hanya dalam jarak dekat. Tapi dalam penyelidikan Hollow yang sebenarnya, ia sering kali membawa ancaman yang tidak terduga.\n\nSaat sepasang mata dari kedalaman kegelapan menatap langsung ke arahmu dan perlahan mendekat, bahkan Investigator paling berpengalaman pun akan merasakan rasa takut yang tak terlukiskan.\n\nDi dalam Hollow, rasa takut akan memperparah kontaminasi Ether, dan menyebabkan bencana.\n\n\"Satu-satunya cara untuk menghilangkan rasa takut... adalah dengan balas menatapnya.\"",
+            "card_quote": "——Pemikiran dan kesimpulan seorang Investigator Senior di forum Bencana Hari Ini.",
+            "skill_text": "Dalam pertarungan, Beholder Engine akan cenderung memanfaatkan keunikan tubuhnya untuk bergerak dengan cara berguling."
+        },
+        "10030": {
+            "monster_id": 10030,
+            "monster_name": "Fossor",
+            "card_text": "Menurut hasil penelitian terbaru White Star Institute, sebagian bagian tubuh Ethereal memiliki ciri khas yang dibawa dari lingkungan sekitarnya. Fossor adalah salah satu contoh yang paling nyata —— Kaki depannya yang aneh sangat mirip dengan peralatan tambang yang ada di Ladang Minyak Lawas.\nMeski ada orang yang beranggapan itu adalah metode penyamaran untuk mengelabui musuh, ada juga yang beranggapan bahwa gaya bertarung Fossor lebih agresif dan terbuka, membuatnya tidak cocok untuk melakukan penyergapan.\nSedangkan beberapa Hollow Raider yang punya imajinasi tinggi beranggapan bahwa wujud mereka yang seperti itu mungkin karena ingin pergi menambang...\n\"Waktu aku lihat dari jauh, dia lagi menunduk dan gali aspal dengan ceria...\"\n\"Setelah sadar akan keberadaanku, dia langsung menerjang dan berusaha untuk usir aku pergi dari sana...\"\n\"Tapi, aku benaran cuma kebetulan lewat saja. Sama sekali tidak punya niat untuk rebut barang-barang yang tidak berguna itu!\"",
+            "card_quote": "— Di luar Hollow, seorang Hollow Raider pemula sedang menceritakan kejadian yang barusan dia alami pada rekannya.",
+            "skill_text": "Dalam pertarungan, Fossor akan melancarkan serangan Slash dengan kedua tangan secara beruntun."
+        },
+        "10031": {
+            "monster_id": 10031,
+            "monster_name": "Sordidus",
+            "card_text": "Banyak Ethereal aneh yang bersembunyi di dalam Hollow di Outer Ring. Sodidas adalah salah satu Ethereal yang paling sering ditemui.\nMereka memiliki struktur tubuh yang unik. Organ tubuh yang tumbuh besar dan fleksibel itu sepertinya merupakan hasil dari reaksi yang tidak dikenal antara minyak mentah dan Ether aktif.\nSetelah mengunci target, mereka akan mengayunkan anggota tubuhnya seperti seorang pemain akrobat yang terampil, lalu melancarkan serangan yang ganas dan mematikan.\n\"Sial... Aku dipecut sama makhluk itu!\"\n\"Jangan-jangan dia kira dia itu penjinak binatang dan kita binatang buasnya?!\"",
+            "card_quote": "— Di dalam Hollow, sekelompok Hollow Raider pemula sedang menghadapi Sodidas.",
+            "skill_text": "Dalam pertarungan, Sordidus akan mengayunkan tentakelnya untuk melakukan cambukan jarak dekat atau memasukkan tentakelnya ke bawah tanah untuk melakukan serangan mendadak jarak jauh."
+        },
+        "20000": {
+            "monster_id": 20000,
+            "monster_name": "Farbauti",
+            "card_text": "Farbauti, makhluk kuat yang sering mengamuk ini adalah salah satu ancaman paling terbesar bagi para Hollow Raider. Lengannya yang sekeras palu dapat dengan mudah menangkis serangan, melancarkan serangan kombo seperti badai, dan dengan mudah menghancurkan segala sesuatu yang dilewatinya.\n\nBeberapa Hollow Raider menemukan bahwa Farbauti sering memukul tanah dengan ritme dan frekuensi tinggi. Mereka menduga kalau Farbauti memiliki minat yang tidak biasa terhadap musik perkusi.\n\nMeskipun HIA telah membantah rumor ini secara terbuka, masih banyak Hollow Raider yang membawa speaker kecil saat memasuki Hollow. Mereka akan melemparkannya saat bertemu dengan Farbauti untuk mencoba menarik perhatiannya dengan musik.\n\nNamun hingga saat ini belum ada yang berhasil melarikan diri menggunakan cara tersebut.\n\"Alasan kegagalannya cukup sederhana: Bahkan Farbauti saja menganggap selera musik kalian buruk!\"",
+            "card_quote": "——Postingan dari pengguna \"Jari Baja\" di forum Musik Rock Black Sweeper.",
+            "skill_text": "Dalam pertarungan, Farbauti akan cenderung memakai lengannya yang kuat untuk terus-menerus melancarkan hantaman, tapi lengannya akan rusak dan memasuki status Stagger setelah menerima sejumlah DMG."
+        },
+        "20001": {
+            "monster_id": 20001,
+            "monster_name": "Hati",
+            "card_text": "Ether humanoid berbentuk menyerupai binatang berkaki empat yang memiliki kecerdasan tinggi dan sangat berbahaya. Secara resmi tercatat oleh tim investigasi pertama dari HIA.\n\nMenurut rumor, ia pertama kali terlihat di dalam sarang Hollow, dan para pengembara yang berkeliaran di hutan belantara sekitar pernah mendengar suara lolongan menakutkan yang menyerupai suara raungan seekor binatang buas.\n\n\"Kalau aku lempar ranting atau bola, apa monster ini akan mengambilnya?\"\n\"Kamu boleh coba, tapi aku tidak akan menanggung biaya rawat inap rumah sakitmu.\"",
+            "card_quote": "——Percakapan santai antara Billy dan Nicole.",
+            "skill_text": "Dalam pertarungan, Hati akan menukik dengan lincah dan melancarkan serangan cepat dengan cakarnya."
+        },
+        "20002": {
+            "monster_id": 20002,
+            "monster_name": "Goblin",
+            "card_text": "Saat pertama kali melihat Ethereal jenis ini, seorang Hollow Investigator pernah salah mengira bahwa mereka memiliki tingkat kecerdasan tertentu dan bahkan telah belajar menggunakan senjata tumpul dari manusia, sehingga monster jenis ini diberikan nama \"Goblin\".\n\nNamun, riset lebih lanjut membuktikan bahwa \"senjata\" tersebut ternyata adalah bagian dari tubuh mereka yang sudah terdistorsi, yang mengartikan bahwa mereka sebenarnya tidak memiliki kemampuan untuk meniru manusia.\n\nMeski begitu, Goblin tetaplah musuh yang tidak boleh diremehkan. Dengan tubuh mereka yang kuat dan kekuatannya yang tidak dapat diprediksi, tebasan sederhana darinya pun bisa sangat mematikan.\n\nApa pun yang memasuki wilayah monster ini akan langsung memicu amarahnya, dan ia akan mulai mengamuk serta mengerahkan segala kekuatannya untuk menghabisi sang penantang.\n\n\"Hm? Ada Goblin tuh, dan ia lagi pukul-pukul besi rongsokan...?\"\n\"Lucu juga ya, pukulannya ada iramanya loh, seolah lagi main drum... duk dukduk... duk dukduk...\"\n\"Woi! Kalian berdua ini ngapain sih?! Ia lagi hancurin mobil persediaan kita tahu!\"",
+            "card_quote": "——Seekor Goblin menerobos masuk ke dalam markas sementara sekelompok bandit.",
+            "skill_text": "Dalam pertarungan, Goblin akan mengeluarkan teriakan perang untuk memperkuat tubuh, meningkatkan DMG, dan secara signifikan mengurangi DMG yang diterimanya, namun efek ini akan hilang ketika memasuki status Stun."
+        },
+        "20003": {
+            "monster_id": 20003,
+            "monster_name": "Armored Hati",
+            "card_text": "Banyak Hollow Investigator berpengalaman sudah mengakui bahwa Hati (Armored) adalah salah satu Ethereal yang paling sulit dihadapi.\nMeski cangkangnya yang tebal membuatnya sedikit kurang lincah, tapi ia jadi kuat dalam menahan serangan.\nSelain itu, zat Ether pada tubuhnya memiliki tonjolan tajam dan keras yang dapat menyebabkan kerusakan tambahan pada musuh ketika ia menabrak dengan kecepatan tinggi.\nGerakannya cepat dan daya tahan pukulannya pun kuat, seperti tidak ada titik lemahnya... Keterampilan Hati (Armored) dalam bertarung bahkan bisa membuat seorang veteran yang berpengalaman mengerutkan keningnya dan berusaha untuk menghindarinya.\nKonon, ada juga beberapa Hollow Raider pemula yang mencoba membawa makanan peliharaan sebagai umpan untuk memancing monster ini untuk pergi. Namun, ini jelas adalah usaha yang sia-sia...\n\"Kabur! Cepat! Ia ternyata tidak suka makanan anjing rasa ini!\"",
+            "card_quote": "——Di dalam suatu Hollow, beberapa Hollow Raider pemula yang panik sedang melarikan diri dari Hati.",
+            "skill_text": "Dalam pertarungan, zirah Armored Hati akan mengurangi DMG dan Daze yang diterima secara signifikan, tapi Defensive Assist akan mengurangi nilai Armor miliknya secara drastis."
+        },
+        "20004": {
+            "monster_id": 20004,
+            "monster_name": "Metro Goblin",
+            "card_text": "Kontroversi seputar Metro Goblin masih saja berlanjut tanpa henti. Sebagian peneliti berpendapat bahwa monster ini memang sengaja membentuk penampilan unik untuk menyesatkan musuh; sementara sebagian lainnya berpendapat bahwa barang-barang di tubuhnya hanyalah rongsokan dari metro yang sudah terkontaminasi dan telah menyatu secara pasif dengannya.\n\nTapi bagaimanapun juga, keberadaan Metro Goblin selalu membuat para Investigator pemula yang memasuki area metro menjadi sangat gelisah.\n\nKarena mungkin saja... \"tanda jalan\" yang tadinya terlihat normal akan bergerak secara tiba-tiba, diikuti dengan seekor Ethereal kekar dan mengerikan yang berlari dengan cepat ke arahmu.\n\n\"Loh? Tadi aku kayaknya baru lihat tanda jalan ini deh, jangan-jangan kita dari tadi putar-putar doang?\"\n\n\"Bu-bukan begitu... 'tanda jalan' itu yang mengikuti kita!\"",
+            "card_quote": "——Tersesat Selamanya, film horor di mana sang protagonis sedang mencari jalan untuk melarikan diri dari Hollow.",
+            "skill_text": "Dalam pertarungan, Goblin akan mengeluarkan teriakan perang untuk memperkuat tubuh, meningkatkan DMG, dan secara signifikan mengurangi DMG yang diterimanya, namun efek ini akan hilang ketika memasuki status Stun."
+        },
+        "20005": {
+            "monster_id": 20005,
+            "monster_name": "Arlaune",
+            "card_text": "Banyak Hollow Raider pemula yang tertipu oleh penampilan luar sosok Arlaune saat pertama kali bertemu dengannya. \n\nMereka mengira bahwa ia adalah semacam tanaman yang tidak berbahaya, namun saat mendekatinya, monster ini akan tiba-tiba bergetar, lalu terus-menerus menembakkan zat Ether berkonsentrasi tinggi untuk menyerang mereka.\n\n\"Lah? Tadi aku mau siramin air, tapi malah ia yang ludahin aku?\"",
+            "card_quote": "——Dalam sebuah Hollow, sekelompok Investigator pemula disergap oleh Arlaune.",
+            "skill_text": "Dalam pertarungan, Arlaune yang sangat licik akan cenderung melancarkan serangan dari jarak jauh, tapi kamu bisa menumpuk banyak Daze dengan membuatnya memasuki status Stagger ketika kelopak bunga terbuka."
+        },
+        "20010": {
+            "monster_id": 20010,
+            "monster_name": "Tarasque Mixer",
+            "card_text": "Berdasarkan penelitian HIA saat ini, terdapat berbagai macam cairan Ether dengan konsentrasi berbeda-beda yang tersimpan di dalam tubuh Tarasque Mixer.\n\nSaat ia mencampur dan mengaduk cairan Ether tersebut, ia akan langsung memicu sebuah reaksi berantai kompleks yang akan melepaskan energi dahsyat yang mematikan - Bahkan kekuatannya bisa sebanding dengan meriam berat milik Defense Force.\n\nPara Investigator yang berpengalaman tentunya tahu betul harus menghindari serangan langsung dari \"meriam\" monster ini sebisa mungkin.\n\n\"Waktu ia menundukkan kepalanya, aku pikir itu adalah semacam sapaan, seperti hadiah pertemuan pertama. Tapi saat meriamnya menyala... aku baru sadar bahwa itu sebenarnya adalah hadiah perpisahan...\"",
+            "card_quote": "——Wawancara \"Bincang-Bincang Hollow\": Pengalaman pribadi seorang Investigator terkenal",
+            "skill_text": "Dalam pertarungan, Tarasque Mixer akan terus-menerus melancarkan serangan laser dan cenderung melompat ke kiri dan ke kanan untuk mengatur posisinya."
+        },
+        "20022": {
+            "monster_id": 20022,
+            "monster_name": "Hornet",
+            "card_text": "Hornet selalu mengelilingi Nineveh. Menurut beberapa peneliti, ada simbiosis mutualisme dan kolaborasi secara berkelompok di antara keduanya. \nKetika energinya meningkat, Nineveh akan bermekaran, lalu Hornet juga akan menggila dan menghabiskan seluruh tenaganya untuk menyerang target bergerak yang ada di sekitarnya. \n\"Hei! Sepertinya ada sesuatu yang keluar dari dalam 'bunga' itu!\" \n\"Itu sepertinya... ka-kawanan tawon?!\"",
+            "card_quote": "—Arsip Investigasi Hollow Zero No. KU241 - Rekaman suara ketika menyaksikan Hornet untuk pertama kalinya.",
+            "skill_text": "Dalam pertarungan, Hornet akan menghalau musuh untuk membantu Nineveh."
+        },
+        "30000": {
+            "monster_id": 30000,
+            "monster_name": "Dullahan",
+            "card_text": "Entitas Ether humanoid yang sangat kuat. Ia pertama kali terlihat di dalam Laketown Hollow dan dicatat oleh Tim Penyelidikan Fase III dari HIA. Saat ini, belum jelas hubungan antara munculnya entitas ini dengan kehancuran kota danau bernama \"Blaise\".\n\nKarena kekuatannya yang luar biasa dan cara bertarungnya yang pandai, HIA pun memberikan peringkat bahaya yang cukup tinggi padanya. Investigator pemula disarankan untuk menghindari konflik langsung dengan mereka.\n\n\"Jangan sampai pedang itu menyala. Jika sudah menyala... jangan sampai terkena tebasannya...\"",
+            "card_quote": "——Kutipan wawancara khusus dengan Investigator di acara varietas \"Senior, Ajari Aku!\".",
+            "skill_text": "Dalam pertarungan, Dullahan akan memakai pedangnya dan melakukan Charge untuk melancarkan tusukan dengan kekuatan yang dahsyat. Kamu dapat melancarkan serangan dengan energi tinggi untuk mencegah Dullahan melakukan Charge."
+        },
+        "30001": {
+            "monster_id": 30001,
+            "monster_name": "Thanatos",
+            "card_text": "Menjelajahi Hollow memang dapat memberikan tekanan mental yang sangat besar, dan dengan kemampuan berpindah yang aneh dan pola serangan yang sulit diprediksi, Thanatos telah menjadi sumber dari siksaan psikologis yang umum bagi para Hollow Raider.\n\nSetelah menghadapi Thanatos sendirian di dalam Hollow, tidak sedikit jumlah orang yang sepenuhnya kehilangan keberanian untuk kembali menjelajahi Hollow, dan memutuskan untuk pensiun lebih awal. \n\nSelain itu, ia juga merupakan monster yang sering muncul dalam film-film horor.\n\n\"Bayangan panjang dan kurus itu menghilang di depan mataku, lalu tiba-tiba muncul di belakang...\"\n\"Bagaimana ini? Sekarang aku bahkan tidak berani pergi ke toilet sendirian...\"",
+            "card_quote": "——Pada malam perilisan film horor \"Ethereal Mengetuk Pintu\", sebuah postingan diskusi di situs penilaian film \"Plum Perunggu\".",
+            "skill_text": "Dalam pertarungan, Thanatos akan berteleportasi untuk melancarkan serangan dari sudut yang menyulitkan lawannya, tapi kamu bisa menumpuk Daze dalam jumlah besar setelah berhasil menyerangnya dengan Defensive Assist atau Assist Follow-Up."
+        },
+        "30007": {
+            "monster_id": 30007,
+            "monster_name": "Dead End Butcher",
+            "card_text": "Berbeda dengan Ethereal ancaman tinggi lainnya, meskipun Dead End Butcher memiliki tubuh yang besar dan mengerikan, namun konsentrasi Ether pada tubuhnya biasanya dalam status istirahat dengan aktivitas rendah.\n\nMeskipun begitu, Dead End Butcher masih memiliki kekuatan luar biasa yang mampu menghancurkan segala yang menghadangnya; seluruh area metro yang terdistorsi dan hancur bisa dibilang adalah \"dapur belakang terlarang\" miliknya.\n\nKetika terdapat target mengancam yang menarik perhatian dari Dead End Butcher, transformasi yang mengerikan pun akan terjadi dalam sekejap.\n\nKonsentrasi Ether yang tinggi di dalamnya seketika akan teraktivasi sepenuhnya; energi yang meningkat secara eksponensial mengubah tubuhnya dengan cepat, dan ia akan memasuki \"mode berburu\" yang sadis dan rakus.\n\nIni juga berarti bahwa \"waktu hidangan pembukaan\" telah berakhir, dan \"perjamuan pembantaian\" secara resmi telah dimulai.\n\nJika tidak ingin menjadi bagian dari \"perjamuan\" ini, maka para Hollow Raider yang tersesat di sini harus sangat hati-hati memilih rute, dan sebisa mungkin menjauh dari \"dapur belakang\" miliknya...\n\n\"Rute di dalam Hollow ini cukup rumit, tetapi yang dapat dipastikan adalah saat 'ia' muncul di ujung jalan, jalan itu pasti adalah jalan buntu.\"",
+            "card_quote": "——Catatan investigasi HIA no. 17 tentang Dead End Hollow.",
+            "skill_text": "Dalam pertarungan, Dead End Butcher akan menyerang dengan seluruh tenaganya. Setelah menerima sejumlah DMG, dia akan memasuki fase kedua. Dalam fase kedua, dia bisa melancarkan serangan laser, serangannya pun akan menjadi lebih ganas. Setelah serangan kombo yang ganas dalam fase kedua, menyerangnya dengan serangan berenergi tinggi bisa memicu efek Stagger."
+        },
+        "30010": {
+            "monster_id": 30010,
+            "monster_name": "Black Veil Marionette",
+            "card_text": "Bertahun-tahun yang lalu, ada sepasang saudara penari jenius. Mereka bersinar seperti bintang dan menarik perhatian banyak orang. Mereka menampilkan pertunjukan mewah di Ballet Twins.\n\nTapi tepat pada saat pertunjukan akan berakhir, sebuah bencana Hollow tiba-tiba terjadi. Ballet Twins jatuh ke dalam Hollow, dan kedua penari itu pun jatuh ke dalam kegelapan. Banyak orang di dunia menangis dan menghela napas saat mendengar kabar ini.\n\nDikatakan bahwa pada hari pertunjukan, kedua penari itu melihat tiga pertanda buruk. Tapi, mereka terlalu terobsesi dengan panggung, tepuk tangan, dan kejayaan mereka. Mereka memilih untuk melanjutkan pertunjukan dan mengabaikan peringatan terakhir sang kematian.\n\nSampai hari ini, tidak banyak film yang menampilkan kakak kembar itu. Selain beberapa foto pucat di majalah, jarang sekali ada orang yang bisa melihat tarian Augilia yang begitu menyentuh hati.\n\nHanya beberapa Hollow Raider elit yang tahu bahwa setiap kali lampu di Ballet Twins menyala kembali, \"Black Veil Marionette\" yang elegan dan misterius akan muncul dari bayang-bayang. Banyak orang percaya bahwa dia memiliki hubungan dengan penari \"Augilia\" pada saat itu. Mereka percaya bahwa dia akan menyelesaikan \"pertunjukan penutup\" yang seharusnya dilakukan oleh penari itu.\n\nSedangkan, penonton yang \"beruntung\" dan menyaksikan \"pertunjukan penutup\" pada saat itu, akan mengalami mimpi buruk yang tak terlupakan.\n\"Kalau kamu bertemu dengan Marionette di Ballet Twins, jangan coba melarikan diri.\"\n\n\"Lebih baik nikmati pertunjukannya sampai akhir!\" \"Setidaknya, ini adalah cara mati yang elegan...\"",
+            "card_quote": "——Postingan keluhan dari seorang Hollow Raider di Inter-Knot.",
+            "skill_text": "Dalam pertarungan, Marionette akan berteleportasi untuk mendekati musuh dan melancarkan serangan bertubi-tubi."
+        },
+        "30011": {
+            "monster_id": 30011,
+            "monster_name": "Gray Veil Marionette",
+            "card_text": "Bertahun-tahun yang lalu, ada sepasang saudara penari jenius. Mereka bersinar seperti bintang dan dengan cepat mendapatkan banyak popularitas. Mereka juga menampilkan pertunjukan mewah di Ballet Twins.\n\nTapi tepat sebelum pertunjukan berakhir, sebuah bencana Hollow tiba-tiba terjadi. Ballet Twins jatuh ke dalam Hollow, dan kedua penari itu pun jatuh ke dalam kegelapan. Banyak orang di dunia menjadi sedih saat mendengar kabar ini.\n\nDikatakan bahwa pada hari pertunjukan, kedua penari itu mendapatkan tiga \"pertanda buruk\", seperti adanya peringatan dari sang kematian. Beberapa orang percaya bahwa kedua penari itu telah menyinggung orang yang berkekuasaan tinggi, dan pada akhirnya dilenyapkan oleh orang di balik layar dengan bencana Hollow sebagai alasannya. Yang dimaksud dengan \"pertanda buruk\" adalah peringatan lembut dari orang yang berbaik hati.\n\nSaat ini, kebenaran tentang kejadian ini sudah tidak dapat dibuktikan, dan kebanyakan orang hanya dapat menyaksikan tarian yang lincah dari sang adik, Augetta, melalui sisa-sisa rekaman video.\n\nHanya beberapa Hollow Raider elit yang tahu bahwa saat musik yang terlupakan itu terdengar lagi di Ballet Twins, sosok \"Gray Veil Marionette\" yang samar-samar akan muncul seperti yang dijanjikan. Banyak orang percaya bahwa dia memiliki hubungan dengan penari Augetta tersebut, dan seakan-akan ingin membantunya menyelesaikan \"pertunjukan penutup\" itu.\n\nHanya saja kali ini, langkah tarian yang anggun tidak lagi membawa cinta dan keindahan, melainkan kematian dan keputusasaan yang tak berujung.\n\n\"Aku tidak tahu apakah Gray Veil Marionette yang kutemui itu kakak atau adik penari...\"\n\n\"Aaaah! Bukannya aku tidak punya selera seni, tapi aku benar-benar tidak bisa membedakannya!\"",
+            "card_quote": "——Postingan dari seorang Hollow Raider di Inter-Knot.",
+            "skill_text": "Dalam pertarungan, Marionette akan berteleportasi untuk mendekati musuh dan melancarkan serangan bertubi-tubi."
+        },
+        "30012": {
+            "monster_id": 30012,
+            "monster_name": "Twin Marionettes",
+            "card_text": "Bertahun-tahun yang lalu, ada sepasang saudara penari jenius. Mereka bersinar seperti bintang dan dengan cepat mendapatkan banyak popularitas. Mereka juga menampilkan pertunjukan mewah di Ballet Twins.\n\nTapi tepat sebelum pertunjukan berakhir, sebuah bencana Hollow tiba-tiba terjadi. Ballet Twins jatuh ke dalam Hollow, dan kedua penari itu pun jatuh ke dalam kegelapan. Banyak orang di dunia menjadi sedih saat mendengar kabar ini.\n\nSaat ini, kebanyakan orang hanya dapat menyaksikan tarian lincah mereka melalui sisa-sisa rekaman video dan material bergambar.\n\nHanya beberapa Hollow Raider yang masuk ke Ballet Twins yang bisa tahu bahwa saat musik yang terlupakan itu terdengar lagi di Ballet Twins, sosok para Marionette yang samar-samar akan muncul seperti yang dijanjikan. Banyak orang percaya bahwa mereka memiliki hubungan dengan penari tersebut, dan seakan-akan ingin membantunya menyelesaikan \"pertunjukan penutup\" itu.\n\n\"Waktu musik mengerikan itu berakhir, dua Marionette muncul dari kegelapan dan memberi hormat...\"\n\n\"Apa?! Maksud mereka pertunjukannya sudah mau dimulai?!\"\n\n\"Bukan, menurutku maksud mereka adalah... Sudah terlambat untuk kabur. Semuanya sudah berakhir.\"",
+            "card_quote": "—\"Wawancara Hollow\" Volume 251, terkait wawancara dengan Hollow Investigator yang selamat",
+            "skill_text": "Dalam pertarungan, Twin Marionettes akan melancarkan banyak Chain Attack. Sebagian serangan tariannya akan terhenti jika terkena beberapa Defensive Assist secara berturut-turut. Jika salah satu Marionette gugur, Marionette yang bertahan akan mencoba membangkitkannya."
+        },
+        "30017": {
+            "monster_id": 30017,
+            "monster_name": "Ionized - Cyrtoidea",
+            "card_text": "Dalam legenda Hollow Raider, mode tingkah laku Cyrtoidea memiliki banyak kemiripan dengan kan hiu.\n\nIa bisa berkeliaran dalam bayang-bayang, bersembunyi di bawah permukaan tanah, lalu melompat muncul ke permukaan untuk menyerang mangsanya dengan ganas.\n\nData analisis menunjukkan bahwa mereka mungkin mengandalkan getaran permukaan tanah untuk mencari mangsa. Beberapa Hollow Raider yang berpengalaman sebisanya menghindari perhatian Cyrtoidea dengan mengacaukan ritme langkah kaki mereka sendiri.\n\"Dulu aku pernah menjadi Investigator. Cyrtoidea sering muncul di areaku.\"\n\n\"Aku sering melompat ke sana kemari untuk menghindari serangan mereka...\"\n\n\"Kalau dipikir-pikir, mungkin ini adalah kesempatan untuk belajar menari...\"",
+            "card_quote": "——Kutipan Wawancara dengan Master Tarian Tap, Ansor, di \"Grup Teh Hollow\" Edisi 131.",
+            "skill_text": "Dalam pertarungan, Ionized - Cyrtoidea akan cenderung memakai bagian kepalanya yang tajam untuk melancarkan serangan dadakan dari jarak jauh."
+        },
+        "30018": {
+            "monster_id": 30018,
+            "monster_name": "Ionized - Nassellaria",
+            "card_text": "Di dalam Hollow terdapat berbagai jenis Ether Mutant, dan mereka memiliki gaya bertarung yang sangat berbeda.\n\nAda yang agresif, ada yang licik, ada yang... bisa dibilang bertindak terang-terangan.\n\nDan Nassellaria adalah salah satu monster Ether yang sangat unik.\n\nMereka sering berdiri di pojokan yang mencolok untuk mengumpulkan energi Ether yang kuat, lalu menggunakan energinya untuk membereskan segala yang menghalangi jalan bagi Ethereal di sekitarnya.\nDi saat yang sama, Ethereal di sekitarnya akan bertarung habis-habisan agar dapat memberikan waktu yang cukup bagi Nassellaria untuk melancarkan Serangan Charge.\n\n\"Cepat hentikan dia! Jangan sampai dia melancarkan Ultimate!\"\n\n\"Kalau serangannya mengenai kita, kayak kita yang jadi antagonisnya ya!\"",
+            "card_quote": "——Beberapa Investigator sedang mengepung Nassellaria di kedalaman Hollow.",
+            "skill_text": "Dalam pertarungan, Ionized - Nassellaria akan cenderung melakukan Charge dalam jangka panjang untuk membentuk bola berenergi tinggi dan menyerang musuh. Jika menerima Ether DMG atau terkena serangan berenergi tinggi selama melakukan Charge, bola energi akan jatuh lebih awal dan mengakibatkan DMG terhadap unit-unit di sekitarnya."
+        },
+        "30023": {
+            "monster_id": 30023,
+            "monster_name": "Thracian",
+            "card_text": "Ethereal ganas yang dinamai dari bangsa prajurit dalam legenda peradaban kuno. Konon hanya para pahlawan paling berani dan penjahat paling gila yang mampu berubah menjadi monster semacam ini di tengah kontaminasi Ether.\n\nNamun faktanya bukan begitu. Meski otot yang dilatih dalam Hollow dan gym, serta adrenalin berlebih yang dilepaskan sebelum kematian mungkin membuatmu menjadi masalah besar bagi mantan rekanmu semasa hidup. Tapi, mereka seharusnya tidak akan menyalahkan seorang teman lama yang sudah mati, kan?\n\nSudahlah, saat wajah tampanmu berubah menjadi bola energi hitam yang aneh, apa lagi yang perlu dikhawatirkan tentang reputasi sosial?\n\n\"Bos memang hebat! Dia bahkan masih begitu kuat meski sudah berubah jadi Ethereal!\"\n\"Dia dulu selalu lama sekali di gym setiap hari... waktu itu aku sebenarnya sudah punya firasat buruk tahu!\"",
+            "card_quote": "— Kesaksian dari anggota geng Hollow Raider yang menjerit",
+            "skill_text": "Dalam pertempuran, Thracian akan terus melancarkan Skill tertentu untuk memasuki status Charge. Saat berada dalam status ini, serangannya akan bertambah semakin agresif, dan setelah melancarkan Skill tingkat tinggi, akan memicu ledakan dalam jangkauan area yang besar."
+        },
+        "35001": {
+            "monster_id": 35001,
+            "monster_name": "Nineveh",
+            "card_text": "Meskipun sudah ditandai \"sangat berbahaya\", namun Symbiotic Ethereal Swarm yang bernama Nineveh itu sulit membuat orang waspada karena penampilannya yang unik dan indah.\n\nCatatan penyelidikan yang tersisa menunjukkan bahwa ketika Nineveh terus mengembangkan tubuhnya, konsentrasi Ether yang tinggi akan berkumpul ke intinya melalui \"rimpangnya\", dan menyediakan pasokan energi yang konstan. Beberapa peneliti berspekulasi bahwa perilaku ini memiliki prinsip yang mirip dengan fotosintesis tanaman.\n\nSaat ia menggoyangkan tubuhnya, energi Ether dengan tingkat konsentrasi tinggi akan terus mengalir keluar. Saat konsentrasi Ether yang terkumpul hampir penuh, ia akan berubah bentuk dan menunjukkan wujud 'mekarnya' yang sebenarnya.\n\nDalam sekejap, kematian datang seperti bayangan.\n\n\"Kabar baiknya adalah: Ia tidak memiliki niat jahat, ia hanya menyerap nutrisi untuk fotosintesis. Kabar buruknya adalah... kitalah yang menjadi nutrisinya.\"",
+            "card_quote": "——Log aktivitas Investigasi Defense Force tentang Hollow Zero Nomor K-411.",
+            "skill_text": "Dalam pertarungan, Nineveh akan melancarkan skill dengan jangkauan luas, menghujani musuh dengan tembakan peluru, dan memanggil Hornet untuk membantunya."
+        },
+        "100001": {
+            "monster_id": 100001,
+            "monster_name": "Tyrfing - Energized",
+            "card_text": "Hollow Investigative Association terus menyelidiki pola perilaku Tyrfing. Posisi tubuhnya yang terlihat goyah dan miring sebenarnya adalah postur charge yang efisien yang dapat melancarkan tebasan beruntun kapan saja.\nTyrfing, dengan frekuensi kemunculannya yang tinggi dan agresivitasnya yang kuat, dinilai sebagai salah satu Ethereal yang paling berbahaya di dalam Hollow karena keberadaannya. Hal ini utamanya berlaku bagi beberapa petugas di dalam Hollow.\nSaat menghadapi musuh berperisai, ia akan dengan ganas melancarkan serangan tanpa henti hingga salah satu pihak, baik musuh atau dirinya sendiri kalah.\n\"Mungkin... ia tidak membenci kita, melainkan melihat kita sebagai boneka latihan?\"",
+            "card_quote": "——Episode 165 dari acara wawancara tengah malam \"Bincang-Bincang Hollow\" menampilkan Nobby Kereyan, seorang Riot Patroller yang pensiun karena cedera.",
+            "skill_text": "Dalam pertarungan, Tyrfing akan melancarkan serangan jarak dekat."
+        },
+        "100011": {
+            "monster_id": 100011,
+            "monster_name": "Alpeca - Energized",
+            "card_text": "Hollow Investigative Association tidak memiliki banyak penelitian tentang Alpeca. Setelah menganalisis pola perilakunya dalam menyemburkan Ether, ia didefinisikan sebagai Ethereal dengan tingkat ancaman rendah, dan penyelidikan selesai.\nPernah ada seorang peneliti yang sangat berminat terhadap cara Alpeca menyemburkan Ether cair. Dia kemudian mengumumkan kontrak investigasi untuk melakukan pengamatan dari jarak dekat\nTetapi karena beberapa alasan, Investigator yang berpengalaman selalu menghindari misi ini.\n\"Cepat lari! Mereka mulai memuntahkan air liur lagi... Ah! Pakaian baruku!\"",
+            "card_quote": "——Investigator pemula, Raffaele Bert, sedang mencoba untuk mundur di kedalaman Hollow.",
+            "skill_text": "Dalam pertarungan, Alpeca akan melancarkan serangan tersebar jarak jauh."
+        },
+        "100021": {
+            "monster_id": 100021,
+            "monster_name": "Faun - Energized",
+            "card_text": "Sebuah Ether humanoid pertama kali ditemukan di dalam Hollow metro New Eridu. Sempat terjadi perdebatan di antara tim investigasi dari HIA terkait sifatnya. Beberapa orang meyakini kalau itu adalah makhluk terkontaminasi yang bermutasi menjadi Ether humanoid, sementara yang lain berpendapat kalau itu adalah Ether humanoid yang terpengaruh oleh lingkungan di dalam Hollow. Bagaimanapun, karena keterbatasan gerakannya, HIA memberikan peringkat tingkat ancaman rendah terhadapnya. Namun, bukan berarti ia dapat dianggap remeh, mengingat ia biasanya muncul secara berkelompok.\n\"Apakah kamu pernah terlambat atau ditilang karena lampu merah? Rasanya sangat tidak menyenangkan, kan?\"\n\"Sekarang waktunya untuk melampiaskan kekesalanmu!\"",
+            "card_quote": "——Pesan dari pengguna \"Kapan Harga Bangboo Turun Sih\" di forum Bencana Hari Ini.",
+            "skill_text": "Dalam pertarungan, Faun akan cenderung melancarkan serangan Charge kuat yang sulit untuk dipatahkan."
+        },
+        "100031": {
+            "monster_id": 100031,
+            "monster_name": "Hoplitai - Energized",
+            "card_text": "Meskipun Hoplitai diklasifikasikan oleh HIA sebagai Ethereal dengan tingkat ancaman rendah, namun ia adalah lawan yang sulit bagi Hollow Raider dan Investigator pemula.\nTungkai depannya tertutup oleh zat Ether tebal yang berfungsi sebagai perisai pertahanan yang sangat baik dan senjata yang mematikan.\nSatu-satunya kelemahannya adalah... badannya yang besar dan tampaknya tidak terlalu pintar.\n\"Lihatlah... Makhluk yang malang ini adalah Hoplitai.\"\n\"Saat para Ethereal berkumpul untuk bermain batu-kertas-gunting, si bodoh ini hanya bisa mengeluarkan kertas!\"",
+            "card_quote": "——Kebun Binatang Hollow, episode khusus tentang Hoplitai.",
+            "skill_text": "Dalam pertarungan, Hoplitai akan memakai lengan perisainya untuk menyerang atau menangkis serangan."
+        },
+        "100041": {
+            "monster_id": 100041,
+            "monster_name": "Blastcrawler - Energized",
+            "card_text": "Dalam laporan penelitian HIA, Blastcrawler yang bergerak lambat dan hanya bisa memicu ledakan kecil diklasifikasikan sebagai Ethereal dengan \"tingkat ancaman rendah\" dan \"tidak perlu diperhatikan\".\nNamun, beberapa pedagang yang memiliki insting bisnis yang kuat menyadari peluang bisnis dari tubuh bulat dan kaki pendek mereka.\nDengan rilisnya film \"Berputarlah, Blastcrawler kecil\", produk-produk terkait seperti boneka, bantal, dan merchandise lainnya hampir terjual habis.\n\"Tidak kusangka boneka mereka ternyata lebih mematikan daripada aslinya... Billy, bulan depan aku cuma bisa makan mi instan...\"",
+            "card_quote": "——Anby sedang memeriksa dompet di depan mesin capit di Distrik Belanja.",
+            "skill_text": "Dalam pertarungan, Blastcrawler akan menyerang dengan meledakkan diri sendiri."
+        },
+        "100141": {
+            "monster_id": 100141,
+            "monster_name": "Mandrake - Energized",
+            "card_text": "Nama Mandrake berasal dari tanaman herbal yang mengandung racun. Peneliti pertama yang menamainya hanya menganggap keduanya memiliki kesamaan dalam penampilan luarnya.\n\nPada saat Mandrake mekar, ia akan melepaskan sinar energi panas untuk menyerang target di sekitarnya. Daun yang keras akan menempel di tanah, seolah-olah enggan dicabut oleh orang. Terkadang, untuk melindungi diri, ia bahkan menggunakan daun untuk menyerang musuh yang mendekatinya.\nSama seperti tanaman Mandrake yang legendaris, \"tangisan\"-nya sangatlah mematikan.\n\n\"Tunggu! Jangan ke sana! Ia akan segera mekar!\"",
+            "card_quote": "——Mandrake sedang mekar di dalam film \"Trauma Mendalam\".",
+            "skill_text": "Dalam pertarungan, Mandrake yang berbeda akan memberi bonus ATK/Shield pada unit di sekitarnya secara berkala."
+        },
+        "100251": {
+            "monster_id": 100251,
+            "monster_name": "Ahriman - Energized",
+            "card_text": "Karena bentuknya yang unik dan aneh, Ahriman sering kali salah dianggap sebagai patung seni di dalam gedung Ballet Twins.\nOleh karena itu, banyak Investigator pemula merasakan trauma yang tidak terlupakan saat pertama kali bertemu dengan Ahriman.\n\nAku baru saja melewati sebuah patung, tapi tiba-tiba patung itu bergerak...\nDan saat musuh panik dan tertegun, itu adalah saat yang tepat bagi Ahriman untuk menyerang.\n\n\"Corin, jangan terperdaya oleh topengnya... itu bukanlah karya seni yang berharga.\"\n\"Sekarang, ayo 'bersih-bersih'.\"",
+            "card_quote": "——Lycaon sedang memandu Corin bersih-bersih.",
+            "skill_text": "Dalam pertarungan, Ahriman akan berteleportasi untuk melancarkan serangan mendadak. Dia terkadang juga akan melancarkan serangan gabungan bersama Ahriman lainnya."
+        },
+        "100261": {
+            "monster_id": 100261,
+            "monster_name": "Specter - Energized",
+            "card_text": "Mungkin terpengaruh oleh atmosfer unik di dalam gedung Ballet Twins, Specter memiliki konstruksi tubuh yang aneh dan terdistorsi seperti patung seni.\nSebagian Investigator berpendapat kalau bentuknya yang unik dirancang untuk melindungi Inti Ether-nya dengan lebih baik.\nNamun, sebagian besar Investigator bersikeras kalau semua ini hanyalah trik yang digunakan untuk menarik perhatian musuh. Saat musuh terkejut oleh postur anehnya, Specter tanpa ragu akan menggunakan konsentrat Ether untuk melancarkan serangan jarak jauh.\n\"Aku mengamati bentuknya cukup lama: Apakah ia mencoba bermain bowling dengan kepalanya sendiri?\"\n\"Tapi sebelum aku bisa mengetahuinya, 'bola bowling-nya' sudah menghantam wajahku...\"",
+            "card_quote": "——Sebuah postingan dari pengguna anonim di Inter-Knot.",
+            "skill_text": "Dalam pertarungan, Specter akan melancarkan serangan bertubi-tubi dari jarak jauh dalam waktu singkat."
+        },
+        "100301": {
+            "monster_id": 100301,
+            "monster_name": "Fossor - Energized",
+            "card_text": "Menurut hasil penelitian terbaru White Star Institute, sebagian bagian tubuh Ethereal memiliki ciri khas yang dibawa dari lingkungan sekitarnya. Fossor adalah salah satu contoh yang paling nyata —— Kaki depannya yang aneh sangat mirip dengan peralatan tambang yang ada di Ladang Minyak Lawas.\nMeski ada orang yang beranggapan itu adalah metode penyamaran untuk mengelabui musuh, ada juga yang beranggapan bahwa gaya bertarung Fossor lebih agresif dan terbuka, membuatnya tidak cocok untuk melakukan penyergapan.\nSedangkan beberapa Hollow Raider yang punya imajinasi tinggi beranggapan bahwa wujud mereka yang seperti itu mungkin karena ingin pergi menambang...\n\"Waktu aku lihat dari jauh, dia lagi menunduk dan gali aspal dengan ceria...\"\n\"Setelah sadar akan keberadaanku, dia langsung menerjang dan berusaha untuk usir aku pergi dari sana...\"\n\"Tapi, aku benaran cuma kebetulan lewat saja. Sama sekali tidak punya niat untuk rebut barang-barang yang tidak berguna itu!\"",
+            "card_quote": "— Di luar Hollow, seorang Hollow Raider pemula sedang menceritakan kejadian yang barusan dia alami pada rekannya.",
+            "skill_text": "Dalam pertarungan, Fossor akan melancarkan serangan Slash dengan kedua tangan secara beruntun."
+        },
+        "100311": {
+            "monster_id": 100311,
+            "monster_name": "Sordidus - Energized",
+            "card_text": "Banyak Ethereal aneh yang bersembunyi di dalam Hollow di Outer Ring. Sodidas adalah salah satu Ethereal yang paling sering ditemui.\nMereka memiliki struktur tubuh yang unik. Organ tubuh yang tumbuh besar dan fleksibel itu sepertinya merupakan hasil dari reaksi yang tidak dikenal antara minyak mentah dan Ether aktif.\nSetelah mengunci target, mereka akan mengayunkan anggota tubuhnya seperti seorang pemain akrobat yang terampil, lalu melancarkan serangan yang ganas dan mematikan.\n\"Sial... Aku dipecut sama makhluk itu!\"\n\"Jangan-jangan dia kira dia itu penjinak binatang dan kita binatang buasnya?!\"",
+            "card_quote": "— Di dalam Hollow, sekelompok Hollow Raider pemula sedang menghadapi Sodidas.",
+            "skill_text": "Dalam pertarungan, Sordidus akan mengayunkan tentakelnya untuk melakukan cambukan jarak dekat atau memasukkan tentakelnya ke bawah tanah untuk melakukan serangan mendadak jarak jauh."
+        },
+        "200001": {
+            "monster_id": 200001,
+            "monster_name": "Farbauti - Energized",
+            "card_text": "Farbauti, makhluk kuat yang sering mengamuk ini adalah salah satu ancaman paling terbesar bagi para Hollow Raider. Lengannya yang sekeras palu dapat dengan mudah menangkis serangan, melancarkan serangan kombo seperti badai, dan dengan mudah menghancurkan segala sesuatu yang dilewatinya.\n\nBeberapa Hollow Raider menemukan bahwa Farbauti sering memukul tanah dengan ritme dan frekuensi tinggi. Mereka menduga kalau Farbauti memiliki minat yang tidak biasa terhadap musik perkusi.\n\nMeskipun HIA telah membantah rumor ini secara terbuka, masih banyak Hollow Raider yang membawa speaker kecil saat memasuki Hollow. Mereka akan melemparkannya saat bertemu dengan Farbauti untuk mencoba menarik perhatiannya dengan musik.\n\nNamun hingga saat ini belum ada yang berhasil melarikan diri menggunakan cara tersebut.\n\"Alasan kegagalannya cukup sederhana: Bahkan Farbauti saja menganggap selera musik kalian buruk!\"",
+            "card_quote": "——Postingan dari pengguna \"Jari Baja\" di forum Musik Rock Black Sweeper.",
+            "skill_text": "Dalam pertarungan, Farbauti akan cenderung memakai lengannya yang kuat untuk terus-menerus melancarkan hantaman, tapi lengannya akan rusak dan memasuki status Stagger setelah menerima sejumlah DMG."
+        },
+        "200004": {
+            "monster_id": 200004,
+            "monster_name": "Ionized - Farbauti",
+            "card_text": "Farbauti, makhluk kuat yang sering mengamuk ini adalah salah satu ancaman paling terbesar bagi para Hollow Raider. Lengannya yang sekeras palu dapat dengan mudah menangkis serangan, melancarkan serangan kombo seperti badai, dan dengan mudah menghancurkan segala sesuatu yang dilewatinya.\n\nBeberapa Hollow Raider menemukan bahwa Farbauti sering memukul tanah dengan ritme dan frekuensi tinggi. Mereka menduga kalau Farbauti memiliki minat yang tidak biasa terhadap musik perkusi.\n\nMeskipun HIA telah membantah rumor ini secara terbuka, masih banyak Hollow Raider yang membawa speaker kecil saat memasuki Hollow. Mereka akan melemparkannya saat bertemu dengan Farbauti untuk mencoba menarik perhatiannya dengan musik.\n\nNamun hingga saat ini belum ada yang berhasil melarikan diri menggunakan cara tersebut.\n\"Alasan kegagalannya cukup sederhana: Bahkan Farbauti saja menganggap selera musik kalian buruk!\"",
+            "card_quote": "——Postingan dari pengguna \"Jari Baja\" di forum Musik Rock Black Sweeper.",
+            "skill_text": "Dalam pertarungan, Ionized - Farbauti akan cenderung memakai lengannya yang kuat untuk terus-menerus melancarkan hantaman, tapi lengannya akan rusak dan memasuki status Stagger setelah menerima sejumlah DMG. Selain itu, dia juga akan melakukan Charge untuk jangka panjang sebelum melancarkan serangan lompatan yang kuat."
+        },
+        "200011": {
+            "monster_id": 200011,
+            "monster_name": "Hati - Energized",
+            "card_text": "Ether humanoid berbentuk menyerupai binatang berkaki empat yang memiliki kecerdasan tinggi dan sangat berbahaya. Secara resmi tercatat oleh tim investigasi pertama dari HIA.\n\nMenurut rumor, ia pertama kali terlihat di dalam sarang Hollow, dan para pengembara yang berkeliaran di hutan belantara sekitar pernah mendengar suara lolongan menakutkan yang menyerupai suara raungan seekor binatang buas.\n\n\"Kalau aku lempar ranting atau bola, apa monster ini akan mengambilnya?\"\n\"Kamu boleh coba, tapi aku tidak akan menanggung biaya rawat inap rumah sakitmu.\"",
+            "card_quote": "——Percakapan santai antara Billy dan Nicole.",
+            "skill_text": "Dalam pertarungan, Hati akan menukik dengan lincah dan melancarkan serangan cepat dengan cakarnya."
+        },
+        "200014": {
+            "monster_id": 200014,
+            "monster_name": "Notorious - Hati",
+            "card_text": "Ether humanoid berbentuk menyerupai binatang berkaki empat yang memiliki kecerdasan tinggi dan sangat berbahaya. Secara resmi tercatat oleh tim investigasi pertama dari HIA.\nMenurut rumor, ia pertama kali terlihat di dalam sarang Hollow, dan para pengembara yang berkeliaran di hutan belantara sekitar pernah mendengar suara lolongan menakutkan yang menyerupai suara raungan seekor binatang buas.\n\"Kalau aku lempar ranting atau bola, apa monster ini akan mengambilnya?\"\n\"Kamu boleh coba, tapi aku tidak akan menanggung biaya rawat inap rumah sakitmu.\"",
+            "card_quote": "——Percakapan santai antara Billy dan Nicole.",
+            "skill_text": null
+        },
+        "200015": {
+            "monster_id": 200015,
+            "monster_name": "Hati Pack Leader - Energized",
+            "card_text": "Ether humanoid berbentuk menyerupai binatang berkaki empat yang memiliki kecerdasan tinggi dan sangat berbahaya. Secara resmi tercatat oleh tim investigasi pertama dari HIA.\n\nMenurut rumor, ia pertama kali terlihat di dalam sarang Hollow, dan para pengembara yang berkeliaran di hutan belantara sekitar pernah mendengar suara lolongan menakutkan yang menyerupai suara raungan seekor binatang buas.\n\n\"Kalau aku lempar ranting atau bola, apa monster ini akan mengambilnya?\"\n\"Kamu boleh coba, tapi aku tidak akan menanggung biaya rawat inap rumah sakitmu.\"",
+            "card_quote": "— Percakapan santai antara Billy dan Nicole.",
+            "skill_text": "Dalam pertarungan, Hati Pack Leader mempunyai hasrat menyerang yang kuat dan gerakannya sangat lincah dan cepat."
+        },
+        "200021": {
+            "monster_id": 200021,
+            "monster_name": "Goblin - Energized",
+            "card_text": "Saat pertama kali melihat Ethereal jenis ini, seorang Hollow Investigator pernah salah mengira bahwa mereka memiliki tingkat kecerdasan tertentu dan bahkan telah belajar menggunakan senjata tumpul dari manusia, sehingga monster jenis ini diberikan nama \"Goblin\".\n\nNamun, riset lebih lanjut membuktikan bahwa \"senjata\" tersebut ternyata adalah bagian dari tubuh mereka yang sudah terdistorsi, yang mengartikan bahwa mereka sebenarnya tidak memiliki kemampuan untuk meniru manusia.\n\nMeski begitu, Goblin tetaplah musuh yang tidak boleh diremehkan. Dengan tubuh mereka yang kuat dan kekuatannya yang tidak dapat diprediksi, tebasan sederhana darinya pun bisa sangat mematikan.\n\nApa pun yang memasuki wilayah monster ini akan langsung memicu amarahnya, dan ia akan mulai mengamuk serta mengerahkan segala kekuatannya untuk menghabisi sang penantang.\n\n\"Hm? Ada Goblin tuh, dan ia lagi pukul-pukul besi rongsokan...?\"\n\"Lucu juga ya, pukulannya ada iramanya loh, seolah lagi main drum... duk dukduk... duk dukduk...\"\n\"Woi! Kalian berdua ini ngapain sih?! Ia lagi hancurin mobil persediaan kita tahu!\"",
+            "card_quote": "——Seekor Goblin menerobos masuk ke dalam markas sementara sekelompok bandit.",
+            "skill_text": "Dalam pertarungan, Goblin akan mengeluarkan teriakan perang untuk memperkuat tubuh, meningkatkan DMG, dan secara signifikan mengurangi DMG yang diterimanya, namun efek ini akan hilang ketika memasuki status Stun."
+        },
+        "200031": {
+            "monster_id": 200031,
+            "monster_name": "Armored Hati - Energized",
+            "card_text": "Banyak Hollow Investigator berpengalaman sudah mengakui bahwa Hati (Armored) adalah salah satu Ethereal yang paling sulit dihadapi.\nMeski cangkangnya yang tebal membuatnya sedikit kurang lincah, tapi ia jadi kuat dalam menahan serangan.\nSelain itu, zat Ether pada tubuhnya memiliki tonjolan tajam dan keras yang dapat menyebabkan kerusakan tambahan pada musuh ketika ia menabrak dengan kecepatan tinggi.\nGerakannya cepat dan daya tahan pukulannya pun kuat, seperti tidak ada titik lemahnya... Keterampilan Hati (Armored) dalam bertarung bahkan bisa membuat seorang veteran yang berpengalaman mengerutkan keningnya dan berusaha untuk menghindarinya.\nKonon, ada juga beberapa Hollow Raider pemula yang mencoba membawa makanan peliharaan sebagai umpan untuk memancing monster ini untuk pergi. Namun, ini jelas adalah usaha yang sia-sia...\n\"Kabur! Cepat! Ia ternyata tidak suka makanan anjing rasa ini!\"",
+            "card_quote": "——Di dalam suatu Hollow, beberapa Hollow Raider pemula yang panik sedang melarikan diri dari Hati.",
+            "skill_text": "Dalam pertarungan, zirah Armored Hati akan mengurangi DMG dan Daze yang diterima secara signifikan, tapi Defensive Assist akan mengurangi nilai Armor miliknya secara drastis."
+        },
+        "200034": {
+            "monster_id": 200034,
+            "monster_name": "Notorious - Armored Hati",
+            "card_text": "Banyak Hollow Investigator berpengalaman sudah mengakui bahwa Hati (Armored) adalah salah satu Ethereal yang paling sulit dihadapi.\nMeski cangkangnya yang tebal membuatnya sedikit kurang lincah, tapi ia jadi kuat dalam menahan serangan.\nSelain itu, zat Ether pada tubuhnya memiliki tonjolan tajam dan keras yang dapat menyebabkan kerusakan tambahan pada musuh ketika ia menabrak dengan kecepatan tinggi.\nGerakannya cepat dan daya tahan pukulannya pun kuat, seperti tidak ada titik lemahnya... Keterampilan Hati (Armored) dalam bertarung bahkan bisa membuat seorang veteran yang berpengalaman mengerutkan keningnya dan berusaha untuk menghindarinya.\nKonon, ada juga beberapa Hollow Raider pemula yang mencoba membawa makanan peliharaan sebagai umpan untuk memancing monster ini untuk pergi. Namun, ini jelas adalah usaha yang sia-sia...\n\"Kabur! Cepat! Ia ternyata tidak suka makanan anjing rasa ini!\"",
+            "card_quote": "——Di dalam suatu Hollow, beberapa Hollow Raider pemula yang panik sedang melarikan diri dari Hati.",
+            "skill_text": "Dalam pertarungan, zirah Notorious - Armored Hati akan mengurangi DMG dan Daze yang diterima secara signifikan, tapi Defensive Assist akan mengurangi nilai Armor miliknya secara drastis. Selain itu, dia juga akan melancarkan tembakan peluru Ether yang lebih kuat dari biasanya setelah teriakan perang."
+        },
+        "200041": {
+            "monster_id": 200041,
+            "monster_name": "Metro Goblin - Energized",
+            "card_text": "Kontroversi seputar Metro Goblin masih saja berlanjut tanpa henti. Sebagian peneliti berpendapat bahwa monster ini memang sengaja membentuk penampilan unik untuk menyesatkan musuh; sementara sebagian lainnya berpendapat bahwa barang-barang di tubuhnya hanyalah rongsokan dari metro yang sudah terkontaminasi dan telah menyatu secara pasif dengannya.\n\nTapi bagaimanapun juga, keberadaan Metro Goblin selalu membuat para Investigator pemula yang memasuki area metro menjadi sangat gelisah.\n\nKarena mungkin saja... \"tanda jalan\" yang tadinya terlihat normal akan bergerak secara tiba-tiba, diikuti dengan seekor Ethereal kekar dan mengerikan yang berlari dengan cepat ke arahmu.\n\n\"Loh? Tadi aku kayaknya baru lihat tanda jalan ini deh, jangan-jangan kita dari tadi putar-putar doang?\"\n\n\"Bu-bukan begitu... 'tanda jalan' itu yang mengikuti kita!\"",
+            "card_quote": "——Tersesat Selamanya, film horor di mana sang protagonis sedang mencari jalan untuk melarikan diri dari Hollow.",
+            "skill_text": "Dalam pertarungan, Goblin akan mengeluarkan teriakan perang untuk memperkuat tubuh, meningkatkan DMG, dan secara signifikan mengurangi DMG yang diterimanya, namun efek ini akan hilang ketika memasuki status Stun."
+        },
+        "200051": {
+            "monster_id": 200051,
+            "monster_name": "Arlaune - Energized",
+            "card_text": "Banyak Hollow Raider pemula yang tertipu oleh penampilan luar sosok Arlaune saat pertama kali bertemu dengannya. \n\nMereka mengira bahwa ia adalah semacam tanaman yang tidak berbahaya, namun saat mendekatinya, monster ini akan tiba-tiba bergetar, lalu terus-menerus menembakkan zat Ether berkonsentrasi tinggi untuk menyerang mereka.\n\n\"Lah? Tadi aku mau siramin air, tapi malah ia yang ludahin aku?\"",
+            "card_quote": "——Dalam sebuah Hollow, sekelompok Investigator pemula disergap oleh Arlaune.",
+            "skill_text": "Dalam pertarungan, Arlaune yang sangat licik akan cenderung melancarkan serangan dari jarak jauh, tapi kamu bisa menumpuk banyak Daze dengan membuatnya memasuki status Stagger ketika kelopak bunga terbuka."
+        },
+        "300001": {
+            "monster_id": 300001,
+            "monster_name": "Dullahan - Energized",
+            "card_text": "Entitas Ether humanoid yang sangat kuat. Ia pertama kali terlihat di dalam Laketown Hollow dan dicatat oleh Tim Penyelidikan Fase III dari HIA. Saat ini, belum jelas hubungan antara munculnya entitas ini dengan kehancuran kota danau bernama \"Blaise\".\n\nKarena kekuatannya yang luar biasa dan cara bertarungnya yang pandai, HIA pun memberikan peringkat bahaya yang cukup tinggi padanya. Investigator pemula disarankan untuk menghindari konflik langsung dengan mereka.\n\n\"Jangan sampai pedang itu menyala. Jika sudah menyala... jangan sampai terkena tebasannya...\"",
+            "card_quote": "——Kutipan wawancara khusus dengan Investigator di acara varietas \"Senior, Ajari Aku!\".",
+            "skill_text": "Dalam pertarungan, Dullahan akan memakai pedangnya dan melakukan Charge untuk melancarkan tusukan dengan kekuatan yang dahsyat. Kamu dapat melancarkan serangan dengan energi tinggi untuk mencegah Dullahan melakukan Charge."
+        },
+        "300002": {
+            "monster_id": 300002,
+            "monster_name": "Newborn Dullahan",
+            "card_text": "Entitas Ether humanoid yang sangat kuat. Ia pertama kali terlihat di dalam Laketown Hollow dan dicatat oleh Tim Penyelidikan Fase III dari HIA. Saat ini, belum jelas hubungan antara munculnya entitas ini dengan kehancuran kota danau bernama \"Blaise\".\n\nKarena kekuatannya yang luar biasa dan cara bertarungnya yang pandai, HIA pun memberikan peringkat bahaya yang cukup tinggi padanya. Investigator pemula disarankan untuk menghindari konflik langsung dengan mereka.\n\n\"Jangan sampai pedang itu menyala. Jika sudah menyala... jangan sampai terkena tebasannya...\"",
+            "card_quote": "——Kutipan wawancara khusus dengan Investigator di acara varietas \"Senior, Ajari Aku!\".",
+            "skill_text": "Dalam pertarungan, Dullahan akan memakai pedangnya dan melakukan Charge untuk melancarkan tusukan dengan kekuatan yang dahsyat. Kamu dapat melancarkan serangan dengan energi tinggi untuk mencegah Dullahan melakukan Charge."
+        },
+        "300004": {
+            "monster_id": 300004,
+            "monster_name": "Ionized - Dullahan",
+            "card_text": "Entitas Ether humanoid yang sangat kuat. Ia pertama kali terlihat di dalam Laketown Hollow dan dicatat oleh Tim Penyelidikan Fase III dari HIA. Saat ini, belum jelas hubungan antara munculnya entitas ini dengan kehancuran kota danau bernama \"Blaise\".\n\nKarena kekuatannya yang luar biasa dan cara bertarungnya yang pandai, HIA pun memberikan peringkat bahaya yang cukup tinggi padanya. Investigator pemula disarankan untuk menghindari konflik langsung dengan mereka.\n\n\"Jangan sampai pedang itu menyala. Jika sudah menyala... jangan sampai terkena tebasannya...\"",
+            "card_quote": "——Kutipan wawancara khusus dengan Investigator di acara varietas \"Senior, Ajari Aku!\".",
+            "skill_text": "Dalam pertarungan, Ionized - Dullahan akan memakai pedangnya dan melakukan Charge untuk melancarkan tusukan dengan kekuatan yang dahsyat. Kamu dapat melancarkan serangan dengan energi tinggi untuk mencegah Dullahan melakukan Charge. Selain itu, setelah melancarkan beberapa skill, dia juga bisa menghimpun energi Ether untuk menambahkan serangan ledakan."
+        },
+        "300005": {
+            "monster_id": 300005,
+            "monster_name": "Notorious - Dullahan",
+            "card_text": "Entitas Ether humanoid yang sangat kuat. Ia pertama kali terlihat di dalam Laketown Hollow dan dicatat oleh Tim Penyelidikan Fase III dari HIA. Saat ini, belum jelas hubungan antara munculnya entitas ini dengan kehancuran kota danau bernama \"Blaise\".\n\nKarena kekuatannya yang luar biasa dan cara bertarungnya yang pandai, HIA pun memberikan peringkat bahaya yang cukup tinggi padanya. Investigator pemula disarankan untuk menghindari konflik langsung dengan mereka.\n\n\"Jangan sampai pedang itu menyala. Jika sudah menyala... jangan sampai terkena tebasannya...\"",
+            "card_quote": "——Kutipan wawancara khusus dengan Investigator di acara varietas \"Senior, Ajari Aku!\".",
+            "skill_text": "Dalam pertarungan, Notorious - Dullahan akan memakai pedangnya dan melakukan Charge untuk melancarkan tusukan dengan kekuatan yang dahsyat. Kamu dapat melancarkan serangan dengan energi tinggi untuk mencegah Dullahan melakukan Charge. Selain itu, Notorious - Dullahan juga mahir menggunakan perisai untuk menangkis serangan dan melancarkan skill selanjutnya dengan cepat."
+        },
+        "300011": {
+            "monster_id": 300011,
+            "monster_name": "Thanatos - Energized",
+            "card_text": "Menjelajahi Hollow memang dapat memberikan tekanan mental yang sangat besar, dan dengan kemampuan berpindah yang aneh dan pola serangan yang sulit diprediksi, Thanatos telah menjadi sumber dari siksaan psikologis yang umum bagi para Hollow Raider.\n\nSetelah menghadapi Thanatos sendirian di dalam Hollow, tidak sedikit jumlah orang yang sepenuhnya kehilangan keberanian untuk kembali menjelajahi Hollow, dan memutuskan untuk pensiun lebih awal. \n\nSelain itu, ia juga merupakan monster yang sering muncul dalam film-film horor.\n\n\"Bayangan panjang dan kurus itu menghilang di depan mataku, lalu tiba-tiba muncul di belakang...\"\n\"Bagaimana ini? Sekarang aku bahkan tidak berani pergi ke toilet sendirian...\"",
+            "card_quote": "——Pada malam perilisan film horor \"Ethereal Mengetuk Pintu\", sebuah postingan diskusi di situs penilaian film \"Plum Perunggu\".",
+            "skill_text": "Dalam pertarungan, Thanatos akan berteleportasi untuk melancarkan serangan dari sudut yang menyulitkan lawannya, tapi kamu bisa menumpuk Daze dalam jumlah besar setelah berhasil menyerangnya dengan Defensive Assist atau Assist Follow-Up."
+        },
+        "300014": {
+            "monster_id": 300014,
+            "monster_name": "Ionized - Thanatos",
+            "card_text": "Menjelajahi Hollow memang dapat memberikan tekanan mental yang sangat besar, dan dengan kemampuan berpindah yang aneh dan pola serangan yang sulit diprediksi, Thanatos telah menjadi sumber dari siksaan psikologis yang umum bagi para Hollow Raider.\n\nSetelah menghadapi Thanatos sendirian di dalam Hollow, tidak sedikit jumlah orang yang sepenuhnya kehilangan keberanian untuk kembali menjelajahi Hollow, dan memutuskan untuk pensiun lebih awal.\n\nSelain itu, ia juga merupakan monster yang sering muncul dalam film-film horor.\n\n\"Bayangan panjang dan kurus itu menghilang di depan mataku, lalu tiba-tiba muncul di belakang...\"\n\"Bagaimana ini? Sekarang aku bahkan tidak berani pergi ke toilet sendirian...\"",
+            "card_quote": "——Pada malam perilisan film horor \"Ethereal Mengetuk Pintu\", sebuah postingan diskusi di situs penilaian film \"Plum Perunggu\".",
+            "skill_text": "Dalam pertarungan, Ionized - Thanatos akan berteleportasi untuk melancarkan serangan dari sudut yang menyulitkan lawannya, tapi kamu bisa menumpuk Daze dalam jumlah besar setelah berhasil menyerangnya dengan Defensive Assist atau Assist Follow-Up."
+        },
+        "300015": {
+            "monster_id": 300015,
+            "monster_name": "Notorious - Thanatos",
+            "card_text": "Menjelajahi Hollow memang dapat memberikan tekanan mental yang sangat besar, dan dengan kemampuan berpindah yang aneh dan pola serangan yang sulit diprediksi, Thanatos telah menjadi sumber dari siksaan psikologis yang umum bagi para Hollow Raider.\n\nSetelah menghadapi Thanatos sendirian di dalam Hollow, tidak sedikit jumlah orang yang sepenuhnya kehilangan keberanian untuk kembali menjelajahi Hollow, dan memutuskan untuk pensiun lebih awal.\n\nSelain itu, ia juga merupakan monster yang sering muncul dalam film-film horor.\n\n\"Bayangan panjang dan kurus itu menghilang di depan mataku, lalu tiba-tiba muncul di belakang...\"\n\"Bagaimana ini? Sekarang aku bahkan tidak berani pergi ke toilet sendirian...\"",
+            "card_quote": "——Pada malam perilisan film horor \"Ethereal Mengetuk Pintu\", sebuah postingan diskusi di situs penilaian film \"Plum Perunggu\".",
+            "skill_text": "Dalam pertarungan, Notorious - Thanatos akan berteleportasi untuk melancarkan serangan brutal dari sudut yang menyulitkan lawannya, tapi kamu bisa menumpuk Daze dalam jumlah besar setelah berhasil menyerangnya dengan Defensive Assist atau Assist Follow-Up."
+        },
+        "300071": {
+            "monster_id": 300071,
+            "monster_name": "Newborn Dead End Butcher",
+            "card_text": "Berbeda dengan Ethereal ancaman tinggi lainnya, meskipun Dead End Butcher memiliki tubuh yang besar dan mengerikan, namun konsentrasi Ether pada tubuhnya biasanya dalam status istirahat dengan aktivitas rendah.\n\nMeskipun begitu, Dead End Butcher masih memiliki kekuatan luar biasa yang mampu menghancurkan segala yang menghadangnya; seluruh area metro yang terdistorsi dan hancur bisa dibilang adalah \"dapur belakang terlarang\" miliknya.\n\nKetika terdapat target mengancam yang menarik perhatian dari Dead End Butcher, transformasi yang mengerikan pun akan terjadi dalam sekejap.\n\nKonsentrasi Ether yang tinggi di dalamnya seketika akan teraktivasi sepenuhnya; energi yang meningkat secara eksponensial mengubah tubuhnya dengan cepat, dan ia akan memasuki \"mode berburu\" yang sadis dan rakus.\n\nIni juga berarti bahwa \"waktu hidangan pembukaan\" telah berakhir, dan \"perjamuan pembantaian\" secara resmi telah dimulai.\n\nJika tidak ingin menjadi bagian dari \"perjamuan\" ini, maka para Hollow Raider yang tersesat di sini harus sangat hati-hati memilih rute, dan sebisa mungkin menjauh dari \"dapur belakang\" miliknya...\n\n\"Rute di dalam Hollow ini cukup rumit, tetapi yang dapat dipastikan adalah saat 'ia' muncul di ujung jalan, jalan itu pasti adalah jalan buntu.\"",
+            "card_quote": "——Catatan investigasi HIA no. 17 tentang Dead End Hollow.",
+            "skill_text": "Dalam pertarungan, Newborn Dead End Butcher akan menyerang dengan seluruh tenaganya. Setelah menerima sejumlah DMG, dia akan memasuki fase kedua. Dalam fase kedua, dia bisa melancarkan serangan laser, serangannya pun akan menjadi lebih ganas. Setelah serangan kombo yang ganas dalam fase kedua, menyerangnya dengan serangan berenergi tinggi bisa memicu efek Stagger. Newborn Dead End Butcher akan cenderung menghindari serangan musuh dengan lincah."
+        }
+    },
+    "Thug": {
+        "10015": {
+            "monster_id": 10015,
+            "monster_name": "Raider",
+            "card_text": "Di antara geng pencuri Ether, Raider dan Looter adalah para anggota inti yang memiliki kemampuan teknis dan tempur.\n\nAlat \"Detektor Resonansi Listrik\"-nya dapat mengidentifikasi bijih Ether melalui arus listrik yang kuat. Selain itu, ketika berpartisipasi dalam operasi serangan bersenjata, alat ini juga dapat meningkatkan tegangan listriknya untuk dijadikan senjata yang kuat.\n\nMeski terkadang disangka sebagai nelayan ilegal, namun mereka tak peduli.\n\nLagi pula, dengan tegangan listrik yang sebesar itu, tidak akan ada bedanya kalau lawannya manusia atau ikan...\n\n\"Baik di sungai, danau, atau sekitar Hollow, jika kamu melihat seseorang membawa tombak listrik, harap segera lapor ke Public Security!\"",
+            "card_quote": "——New Eridu Public Security. Slogan diputar berulang kali oleh sebuah mobil promosi.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Raider akan melancarkan serangan mendadak dari jarak jauh, namun serangannya bisa menabrak halangan jika jaraknya terlalu jauh. Pada saat ini, Agen berpeluang untuk melancarkan serangan balik."
+        },
+        "10016": {
+            "monster_id": 10016,
+            "monster_name": "Pyromaniac",
+            "card_text": "Bagi Pyromaniac dan Arsonist, mencuri hanyalah pekerjaan sampingannya. Jauh di dalam lubuk hati, mereka selalu menganggap dirinya sebagai \"bartender profesional\", dan selalu ingin mencari sesuatu yang bisa memicu adrenalin mereka.\n\nMereka terampil dalam mencampur berbagai jenis Ether ke dalam minuman dengan akurat, dengan tujuan membuat sebotol \"minuman eksklusif\" yang sangat mudah terbakar dan meledak.\n\nTidak seperti preman Hollow yang brutal, mereka sering kali memberikan korbannya kesempatan untuk memilih.\n\nJika pihak lain setuju untuk membayar \"biaya jalan\", mereka akan memberikan segelas minuman gratis kepadanya.\n\nDan jika pihak lain menolak, maka botol \"minuman eksklusif\" yang terbakar ini akan dijatuhkan ke kepala mereka.\n\n\"Bagaimana kalau aku menipu mereka agar mereka minum dan menghabiskan persediaan senjatanya sendiri?\"",
+            "card_quote": "——Di dalam Hollow, investigator yang telah dirampok sedang diam-diam membahas strategi untuk memukul mundur musuh.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Pyromaniac sesekali akan melemparkan bom molotov dalam jumlah besar."
+        },
+        "10018": {
+            "monster_id": 10018,
+            "monster_name": "Poacher",
+            "card_text": "Sebagian besar preman yang aktif di dalam Hollow sepanjang hari memiliki masalah mental yang serius atau kebiasaan aneh yang tidak bisa dimengerti. Untungnya, para Poacher dan Rustler tidak seaneh itu, dan sifatnya lebih seperti antagonis-antagonis pada umumnya.\n\nMereka pengecut dan licik, mahir bersembunyi di tempat gelap dan menyerang dari tempat tak terlihat. Jika bisa menyergap diam-diam, mereka tidak akan memilih untuk menyerang dari depan.\n\nMeskipun kekuatan busurnya terbatas, tetapi ketika ditembakkan, busurnya hanya mengeluarkan suara yang sangat kecil. Poacher dan Rustler yang berpengalaman akan menunggu hingga waktu yang tepat, dan mereka hanya membutuhkan satu tembakan panah untuk menjatuhkan mangsa mereka.\n\n\"Aku dulunya adalah petugas Public Security, sampai suatu kali dalam operasi penangkapan Hollow, aku terkena panah di lututku...\"",
+            "card_quote": "——Seorang anggota senior sedang berbincang-bincang dengan anggota baru di perusahaan keamanan Nightingale.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Poacher akan cenderung mengacau dengan melancarkan tiga tembakan beruntun dari jarak jauh."
+        },
+        "10019": {
+            "monster_id": 10019,
+            "monster_name": "Assaulter",
+            "card_text": "Sebagai anggota barisan depan dalam geng Hollow Raider, para Assaulter dan Ambusher sering kali mengayunkan senjatanya dan menyerbu sendirian ke garis depan.\n\nHal ini bukan karena mereka terlalu agresif atau kurang baik dalam kerja sama tim, tetapi hanya untuk menghindari kecelakaan... Kumparan transformator yang dimodifikasi di tangan mereka terus-menerus melepaskan arus listrik bertegangan tinggi, dan satu sentuhan lembut dari senjatanya dapat melumpuhkan atau bahkan membuat musuh pingsan.\n\nDalam Hollow yang penuh tantangan, jika rekan tim tidak mampu bergerak lagi, mereka pastinya akan menjadi beban bagi seluruh tim.\n\n\"Apa ini? Biar aku mempelajarinya dulu! Oh, sepertinya ini adalah tiruan dari tongkat setrummmMMMMMM AAAAAAAAAAA...\"",
+            "card_quote": "——Kalimat terakhir yang diucapkan oleh seorang Investigator pemula yang penuh rasa ingin tahu sebelum jatuh di Hollow.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Assaulter akan terus-menerus melancarkan serangan berputar, tapi titik lemahnya akan terbongkar setelah serangan konyol yang mengorbankan diri sendiri ini berakhir."
+        },
+        "20015": {
+            "monster_id": 20015,
+            "monster_name": "Bulky Intimidator",
+            "card_text": "Kalau dari segi persenjataan, Bulky Intimidator dan Wanted Intimidator memang kalah dibanding Hollow Investigator yang bersenjata lengkap. Tapi senjata yang paling sederhana sekali pun sangatlah mematikan di tangan seseorang yang keji.\n\nHanya dengan tongkat besi yang berduri dan sebuah shotgun ganda yang sudah dimodifikasi, mereka pun menjadi yang paling ditakuti di dalam Hollow.\n\nMenurut seorang Investigator yang pernah bertemu dengan Bulky Intimidator, ia adalah individu yang menjadi sangat bersemangat saat bertarung. Sikapnya saat bertarung juga jauh berbeda dengan sikap bertarung pada umumnya, karena lebih menyerupai \"perundungan\" yang sering dilakukan oleh orang-orang berhati kejam.\n\n\"Bertarung dengan mereka membuatku teringat dengan rasa takut yang kurasakan saat menghadapi perundung pada masa-masa sekolah...\"",
+            "card_quote": "——Surat pengunduran diri dari seorang Investigator pemula di HIA.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Bulky Intimidator akan memakai tongkat dan shotgun secara bergantian untuk melancarkan serangan jarak dekat. Ketika diperlukan, dia juga bisa melancarkan serangan dadakan dengan melemparkan pasir."
+        },
+        "20017": {
+            "monster_id": 20017,
+            "monster_name": "Bulky Enforcer",
+            "card_text": "Ada sesuatu yang diketahui semua orang di dunia bawah tanah New Eridu, yaitu: Petinju yang paling kuat bukanlah juara beruntun di ring tinju, melainkan Bulky Enforcer. Ia adalah preman profesional yang dipekerjakan dengan bayaran tinggi oleh Hollow Raider, dan khususnya bertanggung jawab untuk menjaga sumber daya Ether hasil curian mereka.\nSebagai pencinta olahraga tinju yang fanatik, Bulky Enforcer tidak mahir dalam mengoperasikan perangkat elektronik yang rumit. Namun, ia ahli dalam mengubah pistol kejut bertegangan tinggi menjadi \"sarung tinju\" agar tinjunya menjadi lebih mematikan.\n\nBagi Bulky Enforcer dan Wanted Enforcer, baik Ethereal, Hollow Raider, Hollow Investigator, atau petugas Public Security yang terpisah dari timnya... semuanya tidak lebih dari \"kantong pasir latihan\" yang mereka gunakan untuk hiburan semata.\n\n\"Eh, tunggu dulu! Kayaknya aku pernah lihat gaya tinju orang ini di arkade Fourth Street!\"",
+            "card_quote": "——Billy yang sedang menghadapi para Enforcer di dalam Hollow",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Bulky Enforcer akan memakai kedua tinjunya untuk menghantam musuh dan cenderung menghindar ke samping untuk mengatur sudut serangannya."
+        },
+        "20020": {
+            "monster_id": 20020,
+            "monster_name": "Enraged Sweeper",
+            "card_text": "Setiap tahunnya, sejumlah besar unit mecha pendukung milik Public Security hancur di dalam Hollow, dan sebagian dari unit-unit tersebut jatuh ke tangan para preman di dalam Hollow, kemudian dimodifikasi menjadi Enraged Sweeper.\n\nMeski para preman Hollow tidak memiliki cara untuk memperoleh bahan perbaikan profesional secara legal, tapi mereka tetap melakukan modifikasi dan memperbaiki unit-unit ini dengan prinsip \"gabung-gabung saja, yang penting bekerja\", dan \"tukar tambal saja, yang penting murah meriah\" demi memaksimalkan kemampuan tempur mecha tersebut.\n\nUntuk menonjolkan kepribadian mecha, mereka juga sering menambahkan desain mereka sendiri atau bahkan memasang pengeras suara berdaya tinggi pada Enraged Sweeper ini.\n\nMeskipun hal ini tidak meningkatkan kekuatan pertempuran, namun dapat dipastikan bahwa dari segi intimidasi, Enraged Sweeper tidak kalah dengan versi resmi.\n\n\"Ada yang datang! Yang berambut pink di sana itu, kayaknya bakalan rezeki nomplok nih!\"\n\"Yuk putar OST yang kita selalu putar buat ngerampok!\"",
+            "card_quote": "——Di dalam suatu Hollow, para preman Hollow sedang melakukan debug darurat pada Enraged Sweeper.",
+            "skill_text": "Dalam pertarungan, Illegal Support Unit - Enraged Sweeper akan menggunakan lengannya yang panjang untuk melancarkan serangan berputar. Gunakan Defensive Assist sebelum menyerangnya untuk mencegahnya melancarkan serangan tersebut."
+        },
+        "20023": {
+            "monster_id": 20023,
+            "monster_name": "Mors",
+            "card_text": "Mors dulunya adalah bounty hunter yang paling disegani di Outer Ring. Obsesinya dalam memburu membuatnya sering menghabiskan waktu berhari-hari hanya untuk melacak jejak targetnya. Begitu menemukan targetnya, dia akan memburunya seperti maniak sampai targetnya terbunuh.\n\n\"Lone Wolf Mors\" tidak pernah gagal — Hal ini diakui oleh berbagai faksi utama di Outer Ring.\n\nNamun, dalam salah satu perburuannya, Mors pernah melacak targetnya sampai tidak tidur selama tiga hari berturut-turut... Meski sudah bersusah payah, Mors masih belum berhasil membunuh target buruannya.\n\nTapi, orang yang bernama Pompey itu tidak peduli. Dia bahkan mengundang Mors yang telah gagal untuk bergabung dalam organisasi yang dia dirikan.\n\nSejak saat itu, julukannya sebagai \"pemburu ternama\" mulai menghilang. Tetapi, di antara The Vanquishers, bertambah satu orang kapten yang lebih suka menyendiri, dan tidak banyak bicara.\n\nHingga hari ini, Mors tetap jarang terlihat, dan sering menghilang untuk waktu yang lama. Dia hanya muncul ketika ada musuh yang menurutnya menarik dan layak untuk dihadapi. Bukan untuk menjalankan tugasnya sebagai kapten, tapi semata-mata hanya untuk menikmati pertarungan dan terlena dalam nikmatnya berburu tanpa memedulikan apa pun.\n\n\"Huh, orang seperti kamu mau tantang Kapten Mors?\"\n\"Hari ini kamu daftar dulu di sebelah sana, bulan depan datang lagi buat ambil undian ya.\"",
+            "card_quote": "— Di antara The Vanquishers, anak buah Mors sedang menghadapi penantang.",
+            "skill_text": "Dalam pertarungan, Mors dapat beradaptasi dengan situasi medan pertarungan untuk melancarkan serangan beruntun jarak dekat maupun serangan jarak jauh. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, Mors akan melancarkan serangan lanjutan jarak jauh atau tembakan dari sudut mati untuk menyergap targetnya."
+        },
+        "20024": {
+            "monster_id": 20024,
+            "monster_name": "Pulchra",
+            "card_text": "Tidak ada orang yang tahu tentang asal-muasal Pulchra, tapi dia dulunya adalah seorang salah satu tentara bayaran terhebat di Outer Ring, dan juga bisa disebut sebagai \"bunglon\" di antara tentara bayaran karena dia paling tahu bagaimana beradaptasi sesuai kondisi.\n\nTidak lama setelah Tour de Inferno sebelumnya berakhir dengan kemenangan beruntun Pompey, beberapa geng pun bersekongkol untuk menyergap The Vanquishers. Tetapi mereka pun dengan gampang ditaklukkan oleh The Vanquishers, hampir seolah semua rencana mereka sudah diketahui sebelumnya.\n\nGeng yang kalah pun diusir dari Ladang Minyak Lawas, namun Pulchra, yang bersekutu dengan mereka, sama sekali tidak diusir. Tentu saja, banyak yang percaya bahwa kemenangan ini adalah hasil dari sebuah pengkhianatan.\n\nMeski banyak yang sudah menawarkannya untuk bergabung, tetapi Pulchra tidak pernah resmi bergabung dengan geng mana pun. \n\nMungkin baginya, semua konspirasi dan konflik yang ada di Outer Ring hanya bagaikan permainan yang dia bisa buang kapan pun dia mau. Meski majikannya menjijikan, dia tetap akan bekerja di bawahnya, asalkan uangnya ada dan pekerjaannya menarik baginya.\n\nTerutama jika tugasnya berkaitan dengan memikat musuh ke dalam perangkap yang telah dipersiapkan dengan sangat baik, yang memungkinkannya untuk menyaksikan mereka perlahan-lahan turun ke jurang kematian...\n\nMemikat dan menipu targetnya hingga mereka menuju hancur total... Semakin cantik, semakin mematikan, itulah kode bertahan hidupnya.\n\n\"Apa? Kamu mau jadi anak buah Pulchra?\"\n\"Ah, lagi-lagi ada orang bodoh lagi yang kena tipu...\"",
+            "card_quote": "— Di kamp The Vanquishers, seorang pendatang baru sedang diejek oleh anggota yang lebih senior",
+            "skill_text": "Dalam pertarungan, Pulchra akan menjaga jarak dengan buruannya dan memanfaatkan kesempatan yang tepat untuk melancarkan serangan fisik, menggunakan bladegun, dan gadgetnya untuk menyerang target. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, Pulchra akan mengonsumsi ramuan penguat untuk meningkatkan kemampuannya dalam menghindar. Setelah menjadi lebih kuat, Pulchra dapat menghindari serangan yang dilancarkan musuh dari jarak dekat."
+        },
+        "20025": {
+            "monster_id": 20025,
+            "monster_name": "Bellum",
+            "card_text": "Sebagai juara arena dengan rentetan kemenangan yang mengesankan, Bellum pernah menyebut dirinya sebagai petarung nomor satu di Outer Ring... Sampai rentetan kemenangannya berakhir. Yang lebih menyebalkan lagi... orang yang mengalahkannya bahkan tidak mengingat namanya.\n\nBellum yang penuh amarah itu pun mengasah kemampuan bertarungnya, dan bersumpah bahwa dia akan membuat namanya dikenal di seluruh Outer Ring sekali lagi, sekaligus membuat si sombong yang mengalahkannya itu menyesal. Untuk mencapai tujuannya, dia pun bergabung dengan The Vanquishers dan membantu Pompey mengalahkan musuh demi musuh yang berbahaya.\n\nIa dapat memodifikasi dan mengoperasikan penyembur api dengan terampil, memimpin serangan untuk membakar musuh-musuh yang menghalangi jalannya.\n\nDalam setiap pertempuran yang dia pimpin, tidak ada satu pun kegagalan. Kini, Bellum pun tidak perlu lagi membuat nama untuk dirinya sendiri. Meski ia bukan lagi juara dengan rentetan kemenangan yang memukau, tetapi, semua orang di Outer Ring tahu terornya perang antar-geng, dan sebagai anggota inti The Vanquishers, Bellum adalah \"perang\" itu sendiri.\n\n\"Kamu tidak mau kerja kasar? Heh, komplainnya setelah ngalahin Boss Bellum ya!\"\n\"Sana, pergi bersihin toilet!\"",
+            "card_quote": "— Di kamp The Vanquishers, seorang senior sedang memberi pelajaran pada pendatang baru yang malas-malasan.",
+            "skill_text": "Dalam pertarungan, Bellum akan menggunakan bladegun, perisai, dan pelontar api untuk menekan target dari jarak dekat. Saat menerima serangan ketika menggunakan perisai, Bellum akan langsung melancarkan serangan balik. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, serangan Bellum akan menjadi lebih ganas dan berkelanjutan."
+        },
+        "30019": {
+            "monster_id": 30019,
+            "monster_name": "Rampant Brute",
+            "card_text": "Ada banyak komplotan perampok di dalam Hollow. Hanya satu alasan yang membuat mereka berkumpul di tempat ini—keuntungan besar yang bisa mereka dapatkan dengan merampok sumber daya Ether.\nSemula tidak ada aturan di antara para perampok itu.\nTapi sejak munculnya Rampant Brute yang menjadi simbol kebrutalan, segalanya pun menjadi beraturan.\nMereka mengenakan sistem penggerak kapasitas berat yang sudah dimodifikasi dan memakai bahan bangunan yang ada di sekitar mereka sebagai senjata sekali pakai. Peralatan dan senjata itu memang terlihat cukup berat untuk meremukkan tubuh seorang pria kekar itu, tapi ketika memakainya, mereka malah tampak seperti sedang mengenakan pakaian olahraga yang ukurannya pas di badan.\nMenebas, menghantam, menindih... Semua teknik dasar pertarungan pun berubah menjadi serangan mematikan yang mampu menghancurkan musuh. Kapan pun dan di mana pun, mereka selalu memamerkan daya hancurnya yang luar biasa.\nSedangkan menurut penyelidikan Public Security, komplotan perampok yang dipimpin oleh Rampant Brute biasanya memuja budaya latihan jalanan. Budaya itu bahkan melahirkan solidaritas kelompok yang luar biasa...\n\"Apa? Kamu bilang pelatih yang di pusat kebugaran itu kuat sekali?\"\n\"Hahaha. Kamu benar-benar kurang wawasan!\"\n\"Lebih baik kamu ikut kami saja. Kalau sudah latihan tiga minggu sama bos kami... Aku jamin kamu bakal punya otot bisep yang sempurna!\"",
+            "card_quote": "—Di salah satu sudut New Eridu, beberapa penjahat Hollow sedang menghasut orang-orang bergabung dengan mereka.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Rampant Brute akan melakukan Charge untuk zirah di lengannya agar dapat melancarkan serangan dengan energi yang lebih tinggi. Rampant Brute akan berada dalam status Shock selama melakukan Charge, mengakibatkan Attribute Anomaly tipe lain akan memicu efek Disorder dan membatalkan Charge-nya."
+        },
+        "100151": {
+            "monster_id": 100151,
+            "monster_name": "Looter",
+            "card_text": "Di antara geng pencuri Ether, Raider dan Looter adalah para anggota inti yang memiliki kemampuan teknis dan tempur.\n\nAlat \"Detektor Resonansi Listrik\"-nya dapat mengidentifikasi bijih Ether melalui arus listrik yang kuat. Selain itu, ketika berpartisipasi dalam operasi serangan bersenjata, alat ini juga dapat meningkatkan tegangan listriknya untuk dijadikan senjata yang kuat.\n\nMeski terkadang disangka sebagai nelayan ilegal, namun mereka tak peduli.\n\nLagi pula, dengan tegangan listrik yang sebesar itu, tidak akan ada bedanya kalau lawannya manusia atau ikan...\n\n\"Baik di sungai, danau, atau sekitar Hollow, jika kamu melihat seseorang membawa tombak listrik, harap segera lapor ke Public Security!\"",
+            "card_quote": "——New Eridu Public Security. Slogan diputar berulang kali oleh sebuah mobil promosi.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Looter akan melancarkan serangan mendadak dari jarak jauh, namun serangannya bisa menabrak halangan jika jaraknya terlalu jauh. Pada saat ini, Agen berpeluang untuk melancarkan serangan balik."
+        },
+        "100161": {
+            "monster_id": 100161,
+            "monster_name": "Arsonist",
+            "card_text": "Bagi Pyromaniac dan Arsonist, mencuri hanyalah pekerjaan sampingannya. Jauh di dalam lubuk hati, mereka selalu menganggap dirinya sebagai \"bartender profesional\", dan selalu ingin mencari sesuatu yang bisa memicu adrenalin mereka.\n\nMereka terampil dalam mencampur berbagai jenis Ether ke dalam minuman dengan akurat, dengan tujuan membuat sebotol \"minuman eksklusif\" yang sangat mudah terbakar dan meledak.\n\nTidak seperti preman Hollow yang brutal, mereka sering kali memberikan korbannya kesempatan untuk memilih.\n\nJika pihak lain setuju untuk membayar \"biaya jalan\", mereka akan memberikan segelas minuman gratis kepadanya.\n\nDan jika pihak lain menolak, maka botol \"minuman eksklusif\" yang terbakar ini akan dijatuhkan ke kepala mereka.\n\n\"Bagaimana kalau aku menipu mereka agar mereka minum dan menghabiskan persediaan senjatanya sendiri?\"",
+            "card_quote": "——Di dalam Hollow, investigator yang telah dirampok sedang diam-diam membahas strategi untuk memukul mundur musuh.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Arsonist sesekali akan melemparkan bom molotov dalam jumlah besar."
+        },
+        "100181": {
+            "monster_id": 100181,
+            "monster_name": "Rustler",
+            "card_text": "Sebagian besar preman yang aktif di dalam Hollow sepanjang hari memiliki masalah mental yang serius atau kebiasaan aneh yang tidak bisa dimengerti. Untungnya, para Poacher dan Rustler tidak seaneh itu, dan sifatnya lebih seperti antagonis-antagonis pada umumnya.\n\nMereka pengecut dan licik, mahir bersembunyi di tempat gelap dan menyerang dari tempat tak terlihat. Jika bisa menyergap diam-diam, mereka tidak akan memilih untuk menyerang dari depan.\n\nMeskipun kekuatan busurnya terbatas, tetapi ketika ditembakkan, busurnya hanya mengeluarkan suara yang sangat kecil. Poacher dan Rustler yang berpengalaman akan menunggu hingga waktu yang tepat, dan mereka hanya membutuhkan satu tembakan panah untuk menjatuhkan mangsa mereka.\n\n\"Aku dulunya adalah petugas Public Security, sampai suatu kali dalam operasi penangkapan Hollow, aku terkena panah di lututku...\"",
+            "card_quote": "——Seorang anggota senior sedang berbincang-bincang dengan anggota baru di perusahaan keamanan Nightingale.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Rustler akan cenderung mengacau dengan melancarkan tiga tembakan beruntun dari jarak jauh."
+        },
+        "100191": {
+            "monster_id": 100191,
+            "monster_name": "Ambusher",
+            "card_text": "Sebagai anggota barisan depan dalam geng Hollow Raider, para Assaulter dan Ambusher sering kali mengayunkan senjatanya dan menyerbu sendirian ke garis depan.\n\nHal ini bukan karena mereka terlalu agresif atau kurang baik dalam kerja sama tim, tetapi hanya untuk menghindari kecelakaan... Kumparan transformator yang dimodifikasi di tangan mereka terus-menerus melepaskan arus listrik bertegangan tinggi, dan satu sentuhan lemubt dari senjatanya dapat melumpuhkan atau bahkan membuat musuh pingsan.\n\nDalam Hollow yang penuh tantangan, jika rekan tim tidak mampu bergerak lagi, mereka pastinya akan menjadi beban bagi seluruh tim.\n\n\"Apa ini? Biar aku mempelajarinya dulu! Oh, sepertinya ini adalah tiruan dari tongkat setrummmMMMMMM AAAAAAAAAAA...\"",
+            "card_quote": "——Kalimat terakhir yang diucapkan oleh seorang Investigator pemula yang penuh rasa ingin tahu sebelum jatuh di Hollow.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Ambusher akan terus-menerus melancarkan serangan berputar, tapi titik lemahnya akan terbongkar setelah serangan konyol yang mengorbankan diri sendiri ini berakhir."
+        },
+        "200151": {
+            "monster_id": 200151,
+            "monster_name": "Wanted Intimidator",
+            "card_text": "Kalau dari segi persenjataan, Bulky Intimidator dan Wanted Intimidator memang kalah dibanding Hollow Investigator yang bersenjata lengkap. Tapi senjata yang paling sederhana sekali pun sangatlah mematikan di tangan seseorang yang keji.\n\nHanya dengan tongkat besi yang berduri dan sebuah shotgun ganda yang sudah dimodifikasi, mereka pun menjadi yang paling ditakuti di dalam Hollow.\n\nMenurut seorang Investigator yang pernah bertemu dengan Bulky Intimidator, ia adalah individu yang menjadi sangat bersemangat saat bertarung. Sikapnya saat bertarung juga jauh berbeda dengan sikap bertarung pada umumnya, karena lebih menyerupai \"perundungan\" yang sering dilakukan oleh orang-orang berhati kejam.\n\n\"Bertarung dengan mereka membuatku teringat dengan rasa takut yang kurasakan saat menghadapi perundung pada masa-masa sekolah...\"",
+            "card_quote": "——Surat pengunduran diri dari seorang Investigator pemula di HIA.",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Wanted Intimidator akan memakai tongkat dan shotgun secara bergantian untuk melancarkan serangan jarak dekat. Ketika diperlukan, dia juga bisa melancarkan serangan dadakan dengan melemparkan pasir."
+        },
+        "200171": {
+            "monster_id": 200171,
+            "monster_name": "Wanted Enforcer",
+            "card_text": "Ada sesuatu yang diketahui semua orang di dunia bawah tanah New Eridu, yaitu: Petinju yang paling kuat bukanlah juara beruntun di ring tinju, melainkan Bulky Enforcer. Ia adalah preman profesional yang dipekerjakan dengan bayaran tinggi oleh Hollow Raider, dan khususnya bertanggung jawab untuk menjaga sumber daya Ether hasil curian mereka.\nSebagai pencinta olahraga tinju yang fanatik, Bulky Enforcer tidak mahir dalam mengoperasikan perangkat elektronik yang rumit. Namun, ia ahli dalam mengubah pistol kejut bertegangan tinggi menjadi \"sarung tinju\" agar tinjunya menjadi lebih mematikan.\n\nBagi Bulky Enforcer dan Wanted Enforcer, baik Ethereal, Hollow Raider, Hollow Investigator, atau petugas Public Security yang terpisah dari timnya... semuanya tidak lebih dari \"kantong pasir latihan\" yang mereka gunakan untuk hiburan semata.\n\n\"Eh, tunggu dulu! Kayaknya aku pernah lihat gaya tinju orang ini di arkade Fourth Street!\"",
+            "card_quote": "——Billy yang sedang menghadapi para Enforcer di dalam Hollow",
+            "skill_text": "Dalam pertarungan, Hollow Thug - Wanted Enforcer akan memakai kedua tinjunya untuk menghantam musuh dan cenderung menghindar ke samping untuk mengatur sudut serangannya."
+        },
+        "200172": {
+            "monster_id": 200172,
+            "monster_name": "Troublemaker - Wanted Enforcer",
+            "card_text": "Ada sesuatu yang diketahui semua orang di dunia bawah tanah New Eridu, yaitu: Petinju yang paling kuat bukanlah juara beruntun di ring tinju, melainkan Bulky Enforcer. Ia adalah preman profesional yang dipekerjakan dengan bayaran tinggi oleh Hollow Raider, dan khususnya bertanggung jawab untuk menjaga sumber daya Ether hasil curian mereka.\nSebagai pencinta olahraga tinju yang fanatik, Bulky Enforcer tidak mahir dalam mengoperasikan perangkat elektronik yang rumit. Namun, ia ahli dalam mengubah pistol kejut bertegangan tinggi menjadi \"sarung tinju\" agar tinjunya menjadi lebih mematikan.\n\nBagi Bulky Enforcer dan Wanted Enforcer, baik Ethereal, Hollow Raider, Hollow Investigator, atau petugas Public Security yang terpisah dari timnya... semuanya tidak lebih dari \"kantong pasir latihan\" yang mereka gunakan untuk hiburan semata.\n\n\"Eh, tunggu dulu! Kayaknya aku pernah lihat gaya tinju orang ini di arkade Fourth Street!\"",
+            "card_quote": "——Billy yang sedang menghadapi para Enforcer di dalam Hollow",
+            "skill_text": "Dalam pertarungan, Troublemaker - Wanted Enforcer akan menyerang dengan brutal dan terus menghindar ke samping untuk mengatur sudut serangannya."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelganger - Mors",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya, dan sesuai dengan situasi medan pertarungan, dia dapat memilih untuk melancarkan serangan beruntun jarak dekat maupun serangan jarak jauh. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, dia akan melancarkan serangan lanjutan jarak jauh atau tembakan dari sudut mati untuk menyergap targetnya."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelganger - Pulchra",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya. Dia akan menjaga jarak dengan buruannya dan memanfaatkan kesempatan yang tepat untuk melancarkan serangan fisik, menggunakan bladegun, dan gadgetnya untuk menyerang target. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, dia akan menggunakan cara yang tidak diketahui untuk meningkatkan kemampuannya dalam menghindar. Setelah menjadi lebih kuat, dia dapat menghindari serangan yang dilancarkan musuh dari jarak dekat."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelganger - Bellum",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya. Dia bisa menggunakan bladegun, perisai, dan pelontar api untuk menekan target dalam jarak dekat. Jika dia diserang saat menggunakan perisai, dia akan langsung melancarkan serangan balasan yang kuat. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, tekanannya akan berubah menjadi lebih ganas dan berkelanjutan."
+        }
+    },
+    "Corrupted": {
+        "10021": {
+            "monster_id": 10021,
+            "monster_name": "Raven UAV",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30009": {
+            "monster_id": 30009,
+            "monster_name": "Unknown Corruption Complex",
+            "card_text": "Pendiri Belobog Heavy Industries, Khors Belobog, pernah berkata bahwa mesin konstruksi adalah perpaduan antara kekuatan dan keindahan, dan setiap detail harus mengikuti prinsip yang telah ditetapkan.\n\nNamun, kemunculan Unknown Corruption Complex telah menghancurkan semua desain klasik yang ada.\n\nDi bawah pengaruh konsentrasi Ether yang tinggi, beberapa komponen berat yang kuat digabungkan secara paksa, menciptakan struktur berlebihan yang hampir melampaui batas fisiknya.\n\nMemotong, memukul, mengebor, menghancurkan... hampir semua teknik konstruksi dapat ditemukan di dalamnya, tapi semua teknik ini telah kehilangan standar yang sama, dan berubah menjadi gerakan bertarung yang kasar dan tidak terduga.\n\nTidak hanya itu, Inti Ether yang berada dalam kondisi kritis memberinya energi yang tak terbatas. Ia bahkan dapat menutupi tubuhnya dengan listrik bertegangan tinggi atau melepaskan serangan dahsyat yang mampu mengoyak tanah dan menghancurkan segala sesuatu di sekitarnya.\n\nMenurut spekulasi HIA, Unknown Corruption Complex akan melahap dan menyatukan semua mesin berat kuat yang dapat diperolehnya, termasuk mecha militer, senjata laser, dan bahkan rudal jarak pendek milik Defense Force...\n\nSemua objek mesin yang rumit akan ditelan, dipotong, disatukan, dan pada akhirnya menjadi bagian kecil dirinya.\n\nDan tujuan desain yang dikejarnya adalah kekuatan penghancur yang tak tertandingi dan puncak efisiensi pembunuhan.\n\n\"Desain ini aneh sekali... Hmm... Coba kulihat lagi!\"",
+            "card_quote": "——Grace sedang mengamati Unknown Corruption Complex di kedalaman Hollow.",
+            "skill_text": "Dalam pertarungan, Unknown Corruption Complex akan melancarkan serangan dengan menggabungkan gaya serangan beberapa alat berat. Dia juga mampu menembakkan banyak rudal sekaligus. Ketika dia berada dalam status Stun, kamu bisa menyerang tubuh aslinya. Setelah tubuh aslinya menerima sejumlah DMG, kamu bisa memicu efek Impaired agar dia menerima banyak DMG sekaligus. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "30021": {
+            "monster_id": 30021,
+            "monster_name": "Corrupted Overlord - Pompey",
+            "card_text": "Orang-orang di Outer Ring menjulukinya \"Overlord Pompey\".\nNamun sekarang, jiwanya telah terkontaminasi oleh Ether ganas, tubuhnya tercemar belerang dan minyak mentah. Jantungnya yang dulu berdetak untuk melindungi Outer Ring pun sudah berubah menjadi inti Ether superkritis dengan energi yang tidak terbatas.\n\nOrang yang dulunya adalah penguasa tertinggi Outer Ring itu kini bangkit dari api dengan wujud yang berbeda.\n\nBebas, agung, ganas, dan gila.\nDia berlari di tengah debu dan api, menangkap segala sesuatu yang bergerak di sekitarnya, lalu merobek dan menghancurkan mereka tanpa mengedipkan matanya.\n\nSeorang kawan lama yang pernah mendengar gumamannya menduga kalau yang dia lakukan bukanlah untuk balas dendam semata, tapi hanya untuk menghancurkan \"makhluk asing\" yang mencoba melanggar aturan Outer Ring.\n\nMungkin itu satu-satunya tekad yang tersisa dari Overlord Pompey.\n\"Bos kami memang sudah berubah, tapi... dia masih tetap seperti dirinya yang dulu.\"",
+            "card_quote": "— Bekas bawahan The Vanquishers yang terus gemetar.",
+            "skill_text": "Dalam pertarungan, Overlord Pompey akan menggunakan sepeda motor yang digabung dengan meriam melayang untuk melancarkan serangan. Namun, beberapa gerakan akan menunjukkan kelemahannya jika menerima serangan Defensive Assist. Setelah menerima sejumlah DMG, dia akan memasuki fase kedua, di mana dia akan menggunakan roda belakang sepeda motor dan pedang panjang untuk melakukan serangan secara bergantian. Di saat yang sama, roda belakang sepeda motor bisa mengakumulasi Energy Ether dan mengakibatkan ledakan skala besar."
+        },
+        "100211": {
+            "monster_id": 100211,
+            "monster_name": "Raven UAV - Activated",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "100271": {
+            "monster_id": 100271,
+            "monster_name": "Vicious Striker",
+            "card_text": "Makhluk malang yang bermutasi karena kontaminasi Ether di dalam Hollow. Karena tubuhnya memiliki daya tahan Ether dalam tingkat tertentu, mengakibatkan mutasi Ether-nya belum selesai sepenuhnya, sehingga mempertahankan beberapa ciri humanoid dari bentuk aslinya. Dilihat dari pakaian dan pengalaman bertarung yang tersisa, kemungkinan besar mereka berasal dari geng atau bandit yang bersembunyi di dalam Hollow.\n\nMeskipun geng dan bandit yang bersembunyi di dalam Hollow biasanya memakai peralatan yang tahan terhadap kontaminasi hingga tingkat tertentu, tapi karena kurangnya perawatan yang tepat atau sekadar nasib buruk, beberapa bandit masih dapat berubah menjadi monster ketika terkontaminasi Ether kuat saat beraktivitas di dalam Hollow. Ethereal yang masih menyimpan pengalaman bertarung dari kehidupan sebelumnya, mungkin merupakan lawan yang lebih menantang dibandingkan dengan Ethereal murni.\n\n\"Terlahir sebagai ancaman, mati sebagai bencana. Memang sudah nasibnya begitu.\"",
+            "card_quote": "——Sebuah postingan yang mendiskusikan keamanan New Eridu di forum Bencana Hari Ini.",
+            "skill_text": "Dalam pertarungan, Corrupted Bandit - Vicious Striker akan melancarkan tebasan beruntun yang sulit untuk dipatahkan."
+        },
+        "100281": {
+            "monster_id": 100281,
+            "monster_name": "Greedy Ranger",
+            "card_text": "Makhluk malang yang bermutasi karena kontaminasi Ether di dalam Hollow. Karena tubuhnya memiliki daya tahan Ether dalam tingkat tertentu, mengakibatkan mutasi Ether-nya belum selesai sepenuhnya, sehingga mempertahankan beberapa ciri humanoid dari bentuk aslinya. Dilihat dari pakaian dan pengalaman bertarung yang tersisa, kemungkinan besar mereka berasal dari geng atau bandit yang bersembunyi di dalam Hollow.\n\nDilihat dari struktur tubuh yang tersisa, tampaknya makhluk ini sebelumnya adalah bandit yang menggunakan senjata jarak jauh, namun mutasi Ethereal merampas kehendak dan hidupnya. Meskipun demikian, naluri dan kebiasaan pertempuran jarak jauhnya tetaplah tersimpan. Makhluk terkontaminasi ini tidak hanya terus menggunakan serangan jarak jauh untuk menyerang musuh, bahkan kemampuan menembak proyektilnya juga diperkuat karena kontaminasi Ether (dengan menembakkan kristal Ether tajam atau bahkan semacam bahan peledak campuran).\n\n\"Aku sudah bilang padanya untuk tidak menyentuh kristal itu, tetapi dia tidak mendengarkanku! Si bodoh itu tidak pernah mau mendengarkanku. Saat kami hendak keluar dari Hollow, dia... berubah...\"",
+            "card_quote": "——Sebuah catatan interogasi di kantor cabang Public Security di Faunus Quarter.",
+            "skill_text": "Dalam pertarungan, Corrupted Bandit - Greedy Ranger akan cenderung melancarkan serangan jarak jauh yang sulit untuk terdeteksi."
+        },
+        "200121": {
+            "monster_id": 200121,
+            "monster_name": "Frenzied Maniac",
+            "card_text": "Makhluk bernasib malang ini dulunya adalah manusia yang kini telah terkontaminasi Ether dengan konsentrasi tinggi. Namun karena tubuh mereka memiliki daya tahan Ether yang cukup tinggi, mereka tidak sepenuhnya bermutasi. Wujud mereka saat ini jauh lebih kuat dibanding saat masih hidup.\nDilihat dari pakaian dan intuisi bertarung yang tersisa, kemungkinan besar mereka dulunya merupakan anggota geng atau bandit berpangkat tinggi yang berkeliaran dalam Hollow.\nMungkin berkat kondisi fisiologis tubuh aslinya yang luar biasa, atau mungkin juga karena ketertarikannya pada zat Ether, individu yang terkena kontaminasi ini tidak hanya mendapatkan kemampuan menyerang jarak dekat yang luar biasa setelah mutasi, mereka pun menjadi monster yang lebih menakutkan daripada monster-monster lain yang biasanya dijumpai di dalam Hollow.\n\"Senjata mereka sepertinya canggih sekali... tapi kelihatan seperti gratisan.\"",
+            "card_quote": "——Analisis Anby dari Cunning Hares dalam suatu operasi tertentu.",
+            "skill_text": "Dalam pertarungan, Corrupted Bandit - Frenzied Maniac akan menangkis serangan dan menyerang balik setelah menangkis selama beberapa saat."
+        },
+        "200131": {
+            "monster_id": 200131,
+            "monster_name": "Wicked Wraith",
+            "card_text": "Makhluk bernasib malang ini dulunya adalah manusia yang kini telah terkontaminasi Ether dengan konsentrasi tinggi. Namun karena tubuh mereka memiliki daya tahan Ether yang cukup tinggi, mereka tidak sepenuhnya bermutasi. Wujud mereka saat ini jauh lebih kuat dibanding saat masih hidup.\n\nDilihat dari pakaian dan intuisi bertarung yang tersisa, kemungkinan besar mereka dulunya merupakan anggota geng atau bandit berpangkat tinggi yang berkeliaran dalam Hollow.\n\nEntah bagaimana, tapi pistol yang digunakan mereka sebelumnya tidak rusak dan justru menjadi lebih kuat semenjak terkontaminasi oleh Ether. Sekarang, senjata itu telah berubah dari pistol biasa menjadi alat penembak kristal campuran yang berbahaya.\n\n\"Tidak usah tunggu kesempatan lagi! Peluru mereka tidak ada habisnya, jadi mereka tidak perlu isi amunisi!\"",
+            "card_quote": "——Rekaman anggota tim khusus Hollow Public Security di suatu kesempatan.",
+            "skill_text": "Dalam pertarungan, Corrupted Bandit - Wicked Wraith akan cenderung melancarkan serangan lanjutan dengan Ether Shotshell."
+        },
+        "200141": {
+            "monster_id": 200141,
+            "monster_name": "Ruthless Fiend",
+            "card_text": "Makhluk bernasib malang ini dulunya adalah manusia yang kini telah terkontaminasi Ether dengan konsentrasi tinggi. Namun karena tubuhnya memiliki daya tahan Ether yang cukup tinggi, ia tidak sepenuhnya mutasi. Wujudnya saat ini jauh lebih kuat dibanding saat masih hidup.\n\nDilihat dari pakaian dan intuisi bertarung yang tersisa, kemungkinan besar mereka dulunya merupakan anggota geng atau bandit berpangkat tinggi yang berkeliaran dalam Hollow.\n\nBandit sering kali adalah orang-orang yang kasar dan berbahaya. Sedangkan mereka yang berani menapakkan kakinya ke dalam Hollow untuk merampok rumah-rumah di sana pastinya adalah sekelompok orang yang jauh lebih berbahaya lagi... Dan dalam kelompok bandit tersebut, yang paling mengerikan adalah para elite-elite di antaranya.\n\nKetika mereka terkontaminasi Ether, mereka pastinya akan mutasi menjadi monster yang jauh lebih kuat dari Ethereal biasa.\n\n\"Kala itu, uang dicuri demi mencari nafkah, tak merenggut nyawa. Kini, mereka hanya merenggut nyawa, tak peduli dengan uang.\"",
+            "card_quote": "——Materi internal Hollow Investigative Association, halaman tertentu dari buku \"Mengidentifikasi Bahaya dalam Hollow\" bab Makhluk Terkontaminasi.",
+            "skill_text": "Dalam pertarungan, Corrupted Bandit - Ruthless Fiend akan melancarkan serangan beruntun pada musuh yang berada di jarak yang dekat dan melancarkan tumbukan dengan kecepatan tinggi pada musuh yang berada di jarak yang jauh. Jika kamu merusak lengannya dengan mengakibatkan sejumlah DMG, serangannya akan berubah menjadi lebih ganas."
+        }
+    },
+    "Public Security": {
+        "10010": {
+            "monster_id": 10010,
+            "monster_name": "Unknown Unit",
+            "card_text": "Unit belum diketahui, memerlukan intel lebih lanjut.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10011": {
+            "monster_id": 10011,
+            "monster_name": "Unknown Unit",
+            "card_text": "Unit belum diketahui, memerlukan intel lebih lanjut.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10012": {
+            "monster_id": 10012,
+            "monster_name": "Unknown Unit",
+            "card_text": "Unit belum diketahui, memerlukan intel lebih lanjut.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "20006": {
+            "monster_id": 20006,
+            "monster_name": "Autonomous Support Unit - Sweeper",
+            "card_text": "Mecha tempur otonom milik Public Security yang dirancang khusus untuk menangani berbagai jenis Ethereal, sehingga dilengkapi berbagai mode tempur seperti mode pemotong putar-putar, pemancar energi panas, dan lainnya.\n\nSweeper juga dapat dengan cepat mengidentifikasi jenis Ethereal serta ciri-ciri gerakan mereka dan menyusun strategi yang terbaik untuk menghadapinya.\nNamun dibandingkan dengan Ethereal yang hanya memiliki satu mode bertarung, ia tidak begitu lincah saat menjalankan perintah untuk menangkap para Hollow Raider.\n\n\"Mengaduk, memotong, dan memanaskan... Perancang mecha ini sebenarnya mata-mata dari departemen sales perusahaan peralatan dapur atau apa ya...?\"",
+            "card_quote": "——Acara Bincang Larut Malam \"Kebun Binatang Hollow\".",
+            "skill_text": "Dalam pertarungan, Autonomous Support Unit - Sweeper akan menggunakan lengannya yang panjang untuk melancarkan serangan berputar. Gunakan Defensive Assist sebelum menyerangnya untuk mencegahnya melancarkan serangan tersebut."
+        }
+    },
+    "Rebel Soldier": {
+        "10005": {
+            "monster_id": 10005,
+            "monster_name": "Strike Jaeger",
+            "card_text": "Salah satu jenis pasukan New Eridu Defense Force yang termasuk unit ringan.\nDilengkapi dengan pisau tempur tunggal dan bahan peledak kecil yang diperkuat dengan material Ether sebagai senjata utamanya, unit ini mengedepankan mobilitas dan kerahasiaan. Sering kali digunakan sebagai unit barisan depan atau pengintaian, mereka mengandalkan kemampuan manuver yang sangat baik untuk tugas-tugas seperti menyerang, mengintai, mengejar, membunuh, dan lainnya.\nDalam operasi yang berhubungan dengan Hollow, mereka juga berperan sebagai barisan depan yang luar biasa. Pelatihan khusus mereka dalam pertempuran jarak dekat membantu mereka dengan mudah mengalahkan makhluk terkontaminasi biasa atau Ether humanoid dengan tingkat ancaman rendah.\n\"'Ahli Pisau Mematikan'? Aku rasa sih yang benar adalah 'Pengebom Licik'! Pura-pura bermain pisau, padahal sebagian besar lawan dikalahkan oleh granat!\"",
+            "card_quote": "——Pesan anonim di forum Inter-Knot",
+            "skill_text": "Dalam pertarungan, Strike Jaeger akan meluncur untuk mendekati target dengan cepat atau melemparkan banyak pisau terbang yang akan meledak setelah beberapa saat."
+        },
+        "10006": {
+            "monster_id": 10006,
+            "monster_name": "Light Jaeger",
+            "card_text": "Sebagai unit tempur utama New Eridu Defense Force, Light Jaeger dan Scout Jaeger dapat berganti berbagai mode tempur dengan bebas.\nBaik menggunakan belati untuk pertarungan jarak dekat atau menggunakan senapan jarak jauh energi Ether \"Falcon-MK3\", dia selalu dapat menyesuaikan taktik baru berdasarkan kelemahan target.\n\nDan dia tidak akan segan-segan menyerang di saat musuh tidak berdaya.\n\n\"Setelah lihat dia sedang pegang belati itu, aku pun siap-siap untuk melakukan pertarungan jarak dekat dengan adil... Tapi dia tiba-tiba malah mengeluarkan pistol...\"",
+            "card_quote": "——Postingan keluhan dari seorang Hollow Raider pemula di forum Inter-Knot.",
+            "skill_text": "Dalam pertarungan, Light Jaeger akan membantu rekannya dengan melancarkan tembakan beruntun."
+        },
+        "10007": {
+            "monster_id": 10007,
+            "monster_name": "Rookie Jaeger",
+            "card_text": "Dalam operasi khusus Defense Force terhadap Hollow, Rookie Jaeger dan Private Jaeger sering kali menjadi anggota barisan depan yang tak tergantikan dalam berbagai tim taktis.\n\nPedang Ether \"Coyote-PE7\" miliknya dilengkapi fungsi tebasan getaran frekuensi tinggi yang dapat mengintimidasi musuh kecil dalam pertempuran jarak dekat secara efektif. \n\nPerlu seseorang yang sangat berani untuk menghadapi Ethereal dalam Hollow dalam pertarungan jarak dekat... Atau mungkin, kata yang seharusnya dipakai itu bukan \"berani\", melainkan \"gila\".\n\n\"Bisa dibilang kalau itu sebenarnya bukanlah operasi melawan Hollow yang memenuhi standar... Karena orang-orang gila itu tampaknya bertarung melawan Ethereal untuk bersenang-senang.\"",
+            "card_quote": "——Laporan pertarungan di garis depan dari Departemen Patroli Defense Force.",
+            "skill_text": "Dalam pertarungan, Rookie Jaeger akan melancarkan serangan jarak dekat."
+        },
+        "10008": {
+            "monster_id": 10008,
+            "monster_name": "Guard Jaeger",
+            "card_text": "Sebagai kekuatan inti yang menyatukan strategi ofensif dan defensif dalam unit taktis Defense Force, Guard Jaeger dan Patrol Jaeger tidak hanya dilengkapi dengan pedang Ether \"Coyote-PE7\", tetapi juga membawa perisai Ether anti-inersia yang dapat memberikan perlindungan kepada tim saat dalam medan pertarungan yang kompleks.\n\nNamun karena ia sebuah unit dengan pertahanan tinggi, bobot yang berat dari perisai mereka juga memengaruhi mobilitas bertempur. Tanpa melalui pelatihan profesional, orang biasa akan kesulitan untuk mengangkat perisai tersebut.\n\n\"Kalau sudah latihan di gym, baru datang lagi dan serahkan formulir pendaftarannya ya!\"",
+            "card_quote": "——Surat penolakan dari Pusat Rekrutmen Defense Force yang diterima oleh seorang pelamar kerja",
+            "skill_text": "Dalam pertarungan, Guard Jaeger akan memakai perisai untuk mengurangi DMG dan Daze yang diterima secara signifikan, lalu melancarkan serangan balik pada saat yang tepat."
+        },
+        "10009": {
+            "monster_id": 10009,
+            "monster_name": "Grenadier Jaeger",
+            "card_text": "Grenadier Jaeger dan Demolition Jaeger dilengkapi dengan versi modifikasi dari peluncur roket tunggal \"Mamba-TG3\", dan amunisinya dirancang khusus mengandung bahan peledak Ether aktif. Ia dapat dengan cepat menghancurkan mecha musuh dan secara efektif menghancurkan Ethereal besar di dalam Hollow.\n\nDan untuk mengimbangi efek rekoil saat menembak dan meningkatkan akurasi bidikan, mereka harus menjalani pelatihan khusus dalam postur memegang senjata. Statistik Defense Force menunjukkan bahwa hampir semua anggota baru dalam program ini memiliki pengalaman yang relevan di bidang fotografi.\n\n\"Cara menggunakan barang ini mirip dengan kamera yang dipasang di bahu.\"\n\"Pertama, gunakan lensamu untuk mengunci target, lalu tarik pelatuk peluncur sambil bilang...\"\n\"Hei, bodoh! Cheese!\"",
+            "card_quote": "——Instruktur sedang menjelaskan teknik pengoperasian peluncur roket di kamp pelatihan pasukan baru.",
+            "skill_text": "Dalam pertarungan, Grenadier Jaeger akan cenderung membantu rekannya dengan melancarkan tembakan dahsyat dari jarak jauh."
+        },
+        "20007": {
+            "monster_id": 20007,
+            "monster_name": "Heavy Striker",
+            "card_text": "Mecha taktis otonom yang disediakan oleh Defense Force, dapat menyediakan dukungan tembakan berkelanjutan untuk anggota garis depan.\nPerisai Ether yang digunakan dapat menahan sebagian besar tembakan ringan, bahkan dapat menahan serangan kuat dari Ethereal besar.\nTidak diragukan lagi, ia adalah salah satu \"rekan\" tepercaya di Defense Force.\n\"Ingat, bersembunyilah di belakangnya saat kamu dalam bahaya... Dengan begitu, satu-satunya risiko kamu akan terluka adalah terinjak olehnya.\"",
+            "card_quote": "——Cerita pengalaman seorang instruktur dalam pelatihan pasukan baru Defense Force.",
+            "skill_text": "Dalam pertempuran, Heavy Striker akan mengaktifkan Shield. Saat memiliki Shield, dia tidak dapat mengakumulasi Anomaly Buildup kecuali Fire Attribute Anomaly. Mengakibatkan efek Burn, efek Assault atau Stun terhadapnya akan langsung menghancurkan Shield yang dimilikinya."
+        },
+        "20008": {
+            "monster_id": 20008,
+            "monster_name": "Lightfoot Rover",
+            "card_text": "Sebagai mecha pendukung senjata utama yang disediakan oleh Defense Force, algoritma taktis pada Lightfoot Rover dapat menganalisis pola perilaku musuh dan mengalkulasi target peluru dengan akurat.\nSaat mengidentifikasi musuh di depan sebagai \"target dengan tingkat ancaman yang tinggi\", ia akan membuka kotak penembakan untuk meluncurkan drone dan melancarkan serangan dengan daya tembak yang luar biasa.\nBagi para Hollow Raider, Lightfoot Rover yang tiba-tiba muncul bukan hanya \"merepotkan\", tapi \"repot yang tidak ada habis-habisnya\".\n\"Astaga! Dia, dia tiba-tiba melahirkan anak!\"",
+            "card_quote": "——Seorang Hollow Raider pemula yang sedang dikejar di kedalaman Hollow Papago.",
+            "skill_text": "Dalam pertarungan, Lightfoot Rover akan memanggil dua unit drone untuk membantunya. Ketika diperlukan, dia juga bisa mengendalikan dan meledakkan drone itu untuk menyerang musuh."
+        },
+        "20009": {
+            "monster_id": 20009,
+            "monster_name": "Heavy Gunner",
+            "card_text": "Salah satu jenis pasukan New Eridu Defense Force yang termasuk unit berat.\nMereka dilengkapi dengan baju tempur berat bernama \"Gray Rhino\" dan juga senjata-senjata yang sudah ditingkatkan dengan teknologi Ether.\n\nDengan amunisi dan suplai yang cukup, mereka mampu melancarkan serangan dengan intensitas tinggi secara terus-menerus, sehingga bisa dijadikan sebagai penyerang inti dalam kelompok tempur, dan sering diutus saat menjalankan operasi penyerbuan dan pembersihan.\n\nSetelah jatuhnya ibu kota lama, banyak pasukan yang memutuskan untuk keluar dari militer dan \"berbaur\" dengan masyarakat sipil. Pasukan elit ini pun mulai bekerja di bawah kekuasaan atau menjadi bagian dari organisasi tertentu. Misalnya, menjadi pasukan pribadi konglomerat, bekerja di perusahaan keamanan, atau bahkan bergabung dengan geng bandit yang berkeliaran...\n\n\"Aku yakin 100% bahwa di dalam baju tempur Heavy Gunner, pasti ada seorang gadis cantik mungil yang membantunya. Karena kalau tidak, bagaimana ia bisa simpan begitu banyak amunisi?\"",
+            "card_quote": "——Pesan dari Modul Mimpi Siang Bolong di forum Bencana Hari Ini.",
+            "skill_text": "Dalam pertarungan, Heavy Gunner akan memakai meriam laser dan granat fragmentasi secara bergantian untuk melancarkan serangan beruntun dari jarak jauh."
+        },
+        "30002": {
+            "monster_id": 30002,
+            "monster_name": "Guardian",
+            "card_text": "Hanya dalam operasi pertempuran besar di dalam Hollow, Defense Force akan mengirimkan unit Guardian mereka - Sebuah mecha yang dilengkapi dengan berbagai macam senjata tempur.\n\nBom Ether aktif, senapan pengisi daya Ether MARS-74, pemancar energi panas... Guardian sudah bisa dianggap sebagai gudang senjata bergerak milik Public Security.\n\nTidak hanya kekuatannya yang hebat, Guardian juga memiliki mobilitas yang luar biasa. Ia dapat melompat dan berlari dengan cepat, menghabisi kelompok kecil Ethereal di depan, dan terus maju ke garis depan.\n\nBagi para Hollow Raider, hanya satu Guardian yang berdiri di depan mereka pun sudah merupakan benteng yang hampir mustahil untuk dilewati.\n\n\"Serang dengan kekuatan benteng!!\"",
+            "card_quote": "——Kata-kata dari film popcorn New Eridu \"Penjaga Garis Depan, Berubah dan Berangkat!\"",
+            "skill_text": "Dalam pertarungan, Autonomous Support Unit - Guardian bukan hanya akan menyerang dengan kekuatan yang dahsyat dari jarak dekat, dia juga akan menggunakan berbagai macam cara untuk melancarkan serangan dari jarak jauh. Ketika ada unit lain yang berada di dekatnya, sebagian Autonomous Support Unit - Guardian akan membantu unit lain dengan melancarkan tembakan jarak jauh dari luar arena pertarungan."
+        },
+        "30008": {
+            "monster_id": 30008,
+            "monster_name": "Typhon Challenger",
+            "card_text": "Typhon Challenger adalah mecha berat yang tidak dilengkapi dengan kekuatan tembak jarak jauh. Namun, semua kinerjanya bertujuan untuk memperkuat zirah berbasis Ether miliknya.\n\nSerangan menabrak, serangan berat, serangan menggilas... Typhon Challenger menggunakan taktik yang sederhana, namun efisien untuk memaksimalkan kehancuran dari zirah berbasis Ether tersebut.\n\nSaat menghadapi Typhon Challenger yang sulit untuk didekati, bahkan Hollow Raider yang paling berpengalaman pun hanya bisa menghela napas dengan putus asa.\n\n\"Tubuh yang tegap, dan lengan yang kuat. Hmm... benar-benar tipe idamanku... Ah, maksudnya model idamanku.\"",
+            "card_quote": "——Grace sedang memainkan model Typhon Challenger di toko gadget.",
+            "skill_text": "Dalam pertarungan, Autonomous Tactical Unit - Typhon Challenger dapat melancarkan kombo dengan kekuatan dahsyat. Dia juga bisa tiba-tiba melompat ke udara untuk menghantam musuh."
+        },
+        "100051": {
+            "monster_id": 100051,
+            "monster_name": "Harrier Jaeger",
+            "card_text": "Salah satu jenis pasukan New Eridu Defense Force yang termasuk unit ringan.\nDilengkapi dengan pisau tempur tunggal dan bahan peledak kecil yang diperkuat dengan material Ether sebagai senjata utamanya, unit ini mengedepankan mobilitas dan kerahasiaan. Sering kali digunakan sebagai unit barisan depan atau pengintaian, mereka mengandalkan kemampuan manuver yang sangat baik untuk tugas-tugas seperti menyerang, mengintai, mengejar, membunuh, dan lainnya.\nDalam operasi yang berhubungan dengan Hollow, mereka juga berperan sebagai barisan depan yang luar biasa. Pelatihan khusus mereka dalam pertempuran jarak dekat membantu mereka dengan mudah mengalahkan makhluk terkontaminasi biasa atau Ether humanoid dengan tingkat ancaman rendah.\n\"'Ahli Pisau Mematikan'? Aku rasa sih yang benar adalah 'Pengebom Licik'! Pura-pura bermain pisau, padahal sebagian besar lawan dikalahkan oleh granat!\"",
+            "card_quote": "——Pesan anonim di forum Inter-Knot",
+            "skill_text": "Dalam pertarungan, Harrier Jaeger akan meluncur untuk mendekati target dengan cepat atau melemparkan banyak pisau terbang yang akan meledak setelah beberapa saat."
+        },
+        "100061": {
+            "monster_id": 100061,
+            "monster_name": "Scout Jaeger",
+            "card_text": "Sebagai unit tempur utama New Eridu Defense Force, Light Jaeger dan Scout Jaeger dapat berganti berbagai mode tempur dengan bebas.\nBaik menggunakan belati untuk pertarungan jarak dekat atau menggunakan senapan jarak jauh energi Ether \"Falcon-MK3\", dia selalu dapat menyesuaikan taktik baru berdasarkan kelemahan target.\n\nDan dia tidak akan segan-segan menyerang di saat musuh tidak berdaya.\n\n\"Setelah lihat dia sedang pegang belati itu, aku pun siap-siap untuk melakukan pertarungan jarak dekat dengan adil... Tapi dia tiba-tiba malah mengeluarkan pistol...\"",
+            "card_quote": "——Postingan keluhan dari seorang Hollow Raider pemula di forum Inter-Knot.",
+            "skill_text": "Dalam pertarungan, Scout Jaeger akan membantu rekannya dengan melancarkan tembakan beruntun."
+        },
+        "100071": {
+            "monster_id": 100071,
+            "monster_name": "Private Jaeger",
+            "card_text": "Dalam operasi khusus Defense Force terhadap Hollow, Rookie Jaeger dan Private Jaeger sering kali menjadi anggota barisan depan yang tak tergantikan dalam berbagai tim taktis.\n\nPedang Ether \"Coyote-PE7\" miliknya dilengkapi fungsi tebasan getaran frekuensi tinggi yang dapat mengintimidasi musuh kecil dalam pertempuran jarak dekat secara efektif. \n\nPerlu seseorang yang sangat berani untuk menghadapi Ethereal dalam Hollow dalam pertarungan jarak dekat... Atau mungkin, kata yang seharusnya dipakai itu bukan \"berani\", melainkan \"gila\".\n\n\"Bisa dibilang kalau itu sebenarnya bukanlah operasi melawan Hollow yang memenuhi standar... Karena orang-orang gila itu tampaknya bertarung melawan Ethereal untuk bersenang-senang.\"",
+            "card_quote": "——Laporan pertarungan di garis depan dari Departemen Patroli Defense Force.",
+            "skill_text": "Dalam pertarungan, Private Jaeger akan melancarkan serangan jarak dekat."
+        },
+        "100081": {
+            "monster_id": 100081,
+            "monster_name": "Patrol Jaeger",
+            "card_text": "Sebagai kekuatan inti yang menyatukan strategi ofensif dan defensif dalam unit taktis Defense Force, Guard Jaeger dan Patrol Jaeger tidak hanya dilengkapi dengan pedang Ether \"Coyote-PE7\", tetapi juga membawa perisai Ether anti-inersia yang dapat memberikan perlindungan kepada tim saat dalam medan pertarungan yang kompleks.\n\nNamun karena ia sebuah unit dengan pertahanan tinggi, bobot yang berat dari perisai mereka juga memengaruhi mobilitas bertempur. Tanpa melalui pelatihan profesional, orang biasa akan kesulitan untuk mengangkat perisai tersebut.\n\n\"Kalau sudah latihan di gym, baru datang lagi dan serahkan formulir pendaftarannya ya!\"",
+            "card_quote": "——Surat penolakan dari Pusat Rekrutmen Defense Force yang diterima oleh seorang pelamar kerja",
+            "skill_text": "Dalam pertarungan, Patrol Jaeger akan memakai perisai untuk mengurangi DMG dan Daze yang diterima secara signifikan, lalu melancarkan serangan balik pada saat yang tepat."
+        },
+        "100091": {
+            "monster_id": 100091,
+            "monster_name": "Demolition Jaeger",
+            "card_text": "Grenadier Jaeger dan Demolition Jaeger dilengkapi dengan versi modifikasi dari peluncur roket tunggal \"Mamba-TG3\", dan amunisinya dirancang khusus mengandung bahan peledak Ether aktif. Ia dapat dengan cepat menghancurkan mecha musuh dan secara efektif menghancurkan Ethereal besar di dalam Hollow.\n\nDan untuk mengimbangi efek rekoil saat menembak dan meningkatkan akurasi bidikan, mereka harus menjalani pelatihan khusus dalam postur memegang senjata. Statistik Defense Force menunjukkan bahwa hampir semua anggota baru dalam program ini memiliki pengalaman yang relevan di bidang fotografi.\n\n\"Cara menggunakan barang ini mirip dengan kamera yang dipasang di bahu.\"\n\"Pertama, gunakan lensamu untuk mengunci target, lalu tarik pelatuk peluncur sambil bilang...\"\n\"Hei, bodoh! Cheese!\"",
+            "card_quote": "——Instruktur sedang menjelaskan teknik pengoperasian peluncur roket di kamp pelatihan pasukan baru.",
+            "skill_text": "Dalam pertarungan, Demolition Jaeger akan cenderung membantu rekannya dengan melancarkan tembakan dahsyat dari jarak jauh."
+        },
+        "200071": {
+            "monster_id": 200071,
+            "monster_name": "Heavy Striker MK II",
+            "card_text": "Mecha taktis otonom yang disediakan oleh Defense Force, dapat menyediakan dukungan tembakan berkelanjutan untuk anggota garis depan.\nPerisai Ether yang digunakan dapat menahan sebagian besar tembakan ringan, bahkan dapat menahan serangan kuat dari Ethereal besar.\nTidak diragukan lagi, ia adalah salah satu \"rekan\" tepercaya di Defense Force.\n\"Ingat, bersembunyilah di belakangnya saat kamu dalam bahaya... Dengan begitu, satu-satunya risiko kamu akan terluka adalah terinjak olehnya.\"",
+            "card_quote": "——Cerita pengalaman seorang instruktur dalam pelatihan pasukan baru Defense Force.",
+            "skill_text": "Dalam pertempuran, Heavy Striker MK II akan mengaktifkan Shield. Saat memiliki Shield, dia tidak dapat mengakumulasi Anomaly Buildup kecuali Electric Attribute Anomaly. Mengakibatkan efek Shock atau Stun terhadapnya akan langsung menghancurkan Shield yang dimilikinya."
+        },
+        "200072": {
+            "monster_id": 200072,
+            "monster_name": "Shielded Defender",
+            "card_text": "Mecha taktis otonom yang disediakan oleh Defense Force, dapat menyediakan dukungan tembakan berkelanjutan untuk anggota garis depan.\nPerisai Ether yang digunakan dapat menahan sebagian besar tembakan ringan, bahkan dapat menahan serangan kuat dari Ethereal besar.\nTidak diragukan lagi, ia adalah salah satu \"rekan\" tepercaya di Defense Force.\n\"Ingat, bersembunyilah di belakangnya saat kamu dalam bahaya... Dengan begitu, satu-satunya risiko kamu akan terluka adalah terinjak olehnya.\"",
+            "card_quote": "— Cerita pengalaman seorang instruktur dalam pelatihan pasukan baru Defense Force.",
+            "skill_text": "Dalam pertempuran, Shielded Defender akan bertambah semakin agresif dan mengaktifkan Shield. Saat memiliki Shield, dia tidak dapat mengakumulasi Anomaly Buildup kecuali Fire dan Physical Attribute Anomaly. Mengakibatkan efek Burn, efek Assault atau Stun terhadapnya akan langsung menghancurkan Shield yang dimilikinya."
+        },
+        "200073": {
+            "monster_id": 200073,
+            "monster_name": "Shielded Defender Omega",
+            "card_text": "Mecha taktis otonom yang disediakan oleh Defense Force, dapat menyediakan dukungan tembakan berkelanjutan untuk anggota garis depan.\n\nPerisai Ether yang digunakan dapat menahan sebagian besar tembakan ringan, bahkan dapat menahan serangan kuat dari Ethereal besar.\n\nTidak diragukan lagi, ia adalah salah satu \"rekan\" tepercaya di Defense Force.\n\"Ingat, bersembunyilah di belakangnya saat kamu dalam bahaya... Dengan begitu, satu-satunya risiko kamu akan terluka adalah terinjak olehnya.\"",
+            "card_quote": "— Cerita pengalaman seorang instruktur dalam pelatihan pasukan baru Defense Force.",
+            "skill_text": "Dalam pertempuran, Shielded Defender Omega akan bertambah semakin agresif dan mengaktifkan Shield. Saat memiliki Shield, tidak dapat mengakumulasi Anomaly Buildup kecuali Electric Attribute Anomaly. Memberikan efek Shock atau status Stun terhadapnya akan langsung menghancurkan Shield yang dimilikinya."
+        },
+        "200081": {
+            "monster_id": 200081,
+            "monster_name": "Lightfoot Rover MK II",
+            "card_text": "Sebagai mecha pendukung senjata utama yang disediakan oleh Defense Force, algoritma taktis pada Lightfoot Rover dapat menganalisis pola perilaku musuh dan mengalkulasi target peluru dengan akurat.\nSaat mengidentifikasi musuh di depan sebagai \"target dengan tingkat ancaman yang tinggi\", ia akan membuka kotak penembakan untuk meluncurkan drone dan melancarkan serangan dengan daya tembak yang luar biasa.\nBagi para Hollow Raider, Lightfoot Rover yang tiba-tiba muncul bukan hanya \"merepotkan\", tapi \"repot yang tidak ada habis-habisnya\".\n\"Astaga! Dia, dia tiba-tiba melahirkan anak!\"",
+            "card_quote": "——Seorang Hollow Raider pemula yang sedang dikejar di kedalaman Hollow Papago.",
+            "skill_text": "Dalam pertarungan, Lightfoot Rover MK II akan memanggil dua unit drone untuk membantunya. Ketika diperlukan, dia juga bisa mengendalikan dan meledakkan drone itu untuk menyerang musuh."
+        },
+        "200091": {
+            "monster_id": 200091,
+            "monster_name": "Assault Gunner",
+            "card_text": "Salah satu jenis pasukan New Eridu Defense Force yang termasuk unit berat.\nMereka dilengkapi dengan baju tempur berat bernama \"Gray Rhino\" dan juga senjata-senjata yang sudah ditingkatkan dengan teknologi Ether.\n\nDengan amunisi dan suplai yang cukup, mereka mampu melancarkan serangan dengan intensitas tinggi secara terus-menerus, sehingga bisa dijadikan sebagai penyerang inti dalam kelompok tempur, dan sering diutus saat menjalankan operasi penyerbuan dan pembersihan.\n\nSetelah jatuhnya ibu kota lama, banyak pasukan yang memutuskan untuk keluar dari militer dan \"berbaur\" dengan masyarakat sipil. Pasukan elit ini pun mulai bekerja di bawah kekuasaan atau menjadi bagian dari organisasi tertentu. Misalnya, menjadi pasukan pribadi konglomerat, bekerja di perusahaan keamanan, atau bahkan bergabung dengan geng bandit yang berkeliaran...\n\n\"Aku yakin 100% bahwa di dalam baju tempur Heavy Gunner, pasti ada seorang gadis cantik mungil yang membantunya. Karena kalau tidak, bagaimana ia bisa simpan begitu banyak amunisi?\"",
+            "card_quote": "——Pesan dari Modul Mimpi Siang Bolong di forum Bencana Hari Ini.",
+            "skill_text": "Dalam pertarungan, Assault Gunner akan memakai meriam laser dan granat fragmentasi secara bergantian untuk melancarkan serangan beruntun dari jarak jauh."
+        },
+        "300021": {
+            "monster_id": 300021,
+            "monster_name": "Guardian MK II",
+            "card_text": "Hanya dalam operasi pertempuran besar di dalam Hollow, Defense Force akan mengirimkan unit Guardian mereka - Sebuah mecha yang dilengkapi dengan berbagai macam senjata tempur.\n\nBom Ether aktif, senapan pengisi daya Ether MARS-74, pemancar energi panas... Guardian sudah bisa dianggap sebagai gudang senjata bergerak milik Public Security.\n\nTidak hanya kekuatannya yang hebat, Guardian juga memiliki mobilitas yang luar biasa. Ia dapat melompat dan berlari dengan cepat, menghabisi kelompok kecil Ethereal di depan, dan terus maju ke garis depan.\n\nBagi para Hollow Raider, hanya satu Guardian yang berdiri di depan mereka pun sudah merupakan benteng yang hampir mustahil untuk dilewati.\n\n\"Serang dengan kekuatan benteng!!\"",
+            "card_quote": "——Kata-kata dari film popcorn New Eridu \"Penjaga Garis Depan, Berubah dan Berangkat!\"",
+            "skill_text": "Dalam pertarungan, Autonomous Support Unit - Guardian tidak hanya akan menyerang dengan kekuatan yang dahsyat dari jarak dekat, tapi juga akan menggunakan berbagai macam cara untuk melancarkan serangan dari jarak jauh. Ketika ada unit lain yang berada di dekatnya, sebagian Autonomous Support Unit - Guardian MK II akan membantunya dengan melancarkan serangan jarak jauh dari area inti medan pertarungan."
+        },
+        "300022": {
+            "monster_id": 300022,
+            "monster_name": "Guardian MK III",
+            "card_text": "Hanya dalam operasi pertempuran besar di dalam Hollow, Defense Force akan mengirimkan unit Guardian mereka - Sebuah mecha yang dilengkapi dengan berbagai macam senjata tempur.\n\nBom Ether aktif, senapan pengisi daya Ether MARS-74, pemancar energi panas... Guardian sudah bisa dianggap sebagai gudang senjata bergerak milik Public Security.\n\nTidak hanya kekuatannya yang hebat, Guardian juga memiliki mobilitas yang luar biasa. Ia dapat melompat dan berlari dengan cepat, menghabisi kelompok kecil Ethereal di depan, dan terus maju ke garis depan.\n\nBagi para Hollow Raider, hanya satu Guardian yang berdiri di depan mereka pun sudah merupakan benteng yang hampir mustahil untuk dilewati.\n\"Serang dengan kekuatan benteng!!\"",
+            "card_quote": "——Kata-kata dari film popcorn New Eridu \"Penjaga Garis Depan, Berubah dan Berangkat!\"",
+            "skill_text": "Dalam pertarungan, Autonomous Assault Unit - Guardian MK III dapat melancarkan serangan dahsyat dari jarak dekat dan memiliki berbagai macam metode untuk melancarkan serangan dari jarak jauh. Dia juga bisa tiba-tiba melompat ke udara untuk menghantam musuh."
+        },
+        "300081": {
+            "monster_id": 300081,
+            "monster_name": "Typhon Slugger",
+            "card_text": "Typhon Slugger adalah mecha berat yang tidak dilengkapi dengan kekuatan tembak jarak jauh. Namun, semua kinerjanya bertujuan untuk memperkuat zirah berbasis Ether miliknya.\n\nSerangan menabrak, serangan berat, serangan menggilas... Typhon Slugger menggunakan taktik yang sederhana, namun efisien untuk memaksimalkan kehancuran dari zirah berbasis Ether tersebut.\n\nSaat menghadapi Typhon Slugger yang sulit untuk didekati, bahkan Hollow Raider yang paling berpengalaman pun hanya bisa menghela napas dengan putus asa.\n\n\"Tubuh yang tegap, dan lengan yang kuat. Hmm... benar-benar tipe idamanku... Ah, maksudnya model idamanku.\"",
+            "card_quote": "——Grace sedang memainkan model Typhon Slugger di toko gadget.",
+            "skill_text": "Dalam pertarungan, Autonomous Tactical Unit - Typhon Slugger dapat melancarkan kombo dengan kekuatan dahsyat. Dia juga bisa tiba-tiba melompat ke udara untuk menghantam musuh."
+        }
+    },
+    "Spesial": {
+        "10023": {
+            "monster_id": 10023,
+            "monster_name": "Bangboo Emas",
+            "card_text": "Setiap Hollow Raider percaya bahwa di dalam Hollow terdapat peluang tak terbatas yang dapat membuat seseorang menjadi kaya raya dalam semalam. Dan di balik setiap legenda tentang jadi kaya dalam semalam, selalu ada keberadaan yang istimewa: Bangboo Emas.\n\nMenurut penelitian HIA, ada banyak Bangboo pengembara yang tinggal di kedalaman Hollow. Mereka akan mengumpulkan Gear Coin dan Denny yang hilang, lalu diserahkan ke Bangboo Emas untuk disimpan.\n\nMeski saat ini tujuan para Bangboo menghemat uang masih belum jelas, tapi para Bangboo terus-menerus mengucapkan \"ehn-na\" dan memasukkan sekantong Gear Coin dan Denny ke dalam saku Bangboo Emas.\n\nSaat Bangboo Emas bernyanyi sambil membawa Denny, dia malah bertemu dengan sekelompok Hollow Raider yang serakah di tengah jalan...\n\n\"Bo-bos Nicole! Lihat, itu Bangboo Emas!\"\n\"Kenapa bengong? Cepat pukul! Agar kita bisa jadi kaya!\"",
+            "card_quote": "——Cunning Hares tanpa lelah mengejar Bangboo Emas di kedalaman Hollow.",
+            "skill_text": "Dalam pertarungan, Bangboo Emas sesekali juga akan melancarkan serangan balik."
+        },
+        "30004": {
+            "monster_id": 30004,
+            "monster_name": "Greta",
+            "card_text": "Greta pernah bekerja dengan Belobog Industries selama bertahun-tahun, sampai suatu hari, kontaminasi Ether yang kuat membebaskan dia dari belenggu kehidupan sehari-hari yang membosankan. Dia menemukan sesuatu yang lebih indah dan lebih menarik daripada oli mesin dan arus listrik... yaitu cinta.\n\nDalam memori inti milik Greta, terdapat rekaman konstruksi yang tersimpan secara permanen... Isinya adalah saat dia pertama kali melihat Mr. White menjulang tinggi.\n\nTubuh Mr. White yang kokoh itu, dan struktur bangunan yang menjulang... Rasanya bagaikan aliran listrik kuat yang menusuknya, pemandangan itu pun tertanam di dalam memori inti Greta.\n\nDalam 0,001 detik sejak pertama kali mereka bertemu, Greta sudah jatuh cinta. Setiap komponen sirkuit berdetak dengan listrik statis yang meluap. Setiap inci roda gigi bergetar tak terkendali.\n\nDia pun mengabaikan panggilan dari Belobog tanpa ragu, dan tetap bersama kekasihnya untuk melindunginya.\n\nDan semenjak itu, siapa pun yang berani mendekati Mr. White, baik Ethereal atau Hollow Investigator, akan diusirnya.\n\n\"Gadis yang jatuh cinta\" ini akan menggunakan segala cara untuk melindungi kekasihnya. Misalnya... dengan menggunakan gergaji penghancur hibrida Ether-Elektrik 1.400 kg.\n\nDia juga sangat yakin bahwa cinta ini akan berlanjut terus.. hingga runtuhnya Hollow, dan hingga akhir dari alam semesta.\n\n\"Berani-beraninya kamu mendekati Mr. White! Dasar sampah!\"",
+            "card_quote": "——Greta sedang mengusir Ethereal yang mendekati Mr. White.",
+            "skill_text": "Dalam pertarungan, Greta akan memakai gergaji penghancur untuk menghantam atau melancarkan serangan sapuan dengan jangkauan luas. Serangan gergaji penghancur akan membuat musuh yang terkena serangan tidak bisa melepaskan diri selama beberapa saat. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "30005": {
+            "monster_id": 30005,
+            "monster_name": "Hans",
+            "card_text": "Hans dulunya adalah salah satu anggota keluarga Belobog yang selalu bisa diandalkan. Dia selalu bekerja tanpa berisik, akurat, dan tidak pernah bermasalah. Selama bertahun-tahun, dia terus melakukan pekerjaan penggalian sendiri.\n\nHingga suatu hari, kontaminasi yang kuat membangkitkan tekadnya. Hans yang terjebak di dalam Hollow tiba-tiba menyadari bahwa sesuatu yang begitu berharga sebenarnya sudah ada di tangannya, yaitu...\n\nKebebasan...\nKebebasan yang hanya dimiliki oleh pria sejati.\n\nSetelah berpikir lama di lokasi konstruksi, dia akhirnya menolak panggilan dari Belobog dan memutuskan untuk meninggalkan masa lalu sepenuhnya.\nTermasuk namanya sendiri - Hans.\n\nYang dia campakkan hanyalah hidup sebagai budak manusia, tapi yang dia dapatkan adalah kebebasan untuk menjelajahi Hollow yang luas.\n\nPria mecha sejati yang satu ini hendak memulai perjalanannya! Tapi sayangnya, semua cerita pahlawan akan berakhir dengan akhir yang sama...\n\nPada suatu saat, pria sejati akan selalu bertemu lawan yang ditakdirkannya, dan pertemuan mereka akan memicu percikan api paling terang dalam hidup mereka.\n\n\"Aku benar-benar bebas! Satu-satunya keberadaan yang bebas di bawah langit ini, dan di atas bumi ini!\"",
+            "card_quote": "——Pria Baja Pemberani yang Tidak Akan Pernah Mundur, Hans.",
+            "skill_text": "Dalam pertarungan, Hans akan memakai bucket mesin ekskavator untuk menusuk atau melancarkan serangan sapuan dengan jangkauan luas. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "30006": {
+            "monster_id": 30006,
+            "monster_name": "Friday",
+            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\n\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\n\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin cerdas yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
+            "card_quote": "——Mesin AI Pilihan, Friday.",
+            "skill_text": "Dalam pertarungan, Friday akan melancarkan serangan gelombang kejut dengan jangkauan luas. Gelombang kejut ini sulit untuk dihindari, tapi sebagian besar skill lainnya bisa diatasi dengan Defensive Assist. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelganger - Jane",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya, dan melancarkan serangan yang sangat ganas. Dia akan menahan dan membalas serangan musuh jika diperlukan, tetapi biasanya akan menunjukkan kelemahan setelah kombonya berakhir."
+        },
+        "30022": {
+            "monster_id": 30022,
+            "monster_name": "Jane Doe",
+            "card_text": "Sebagai petualang berbahaya yang berkeliaran di berbagai geng di New Eridu, dia lincah dan penampilan yang terus berubah. Bahkan tim tempur yang dilengkapi persenjataan lengkap pun sering kewalahan menghadapi teknik bertarungnya yang unik dan mematikan, sehingga hanya bisa melarikan diri diam-diam.",
+            "card_quote": null,
+            "skill_text": "Dalam pertarungan, serangan Jane sangat ganas. Dia akan menahan dan membalas serangan musuh jika diperlukan, tetapi biasanya akan menunjukkan kelemahan setelah kombonya berakhir."
+        },
+        "100231": {
+            "monster_id": 100231,
+            "monster_name": "Bangboo Platinum",
+            "card_text": "Bangboo Platinum adalah makhluk misterius yang bahkan lebih langka dari Bangboo Emas.\n\nPenampilan yang indah dan tingkat kelangkaan yang sangat tinggi membuatnya memiliki posisi yang tinggi di antara para Bangboo pengembara.\n\nMulia, bergengsi, tertinggi...\n\nDibandingkan dengan Bangboo Emas yang tubuhnya berkilau keemasan, Bangboo Platinum adalah bangsawan paling elegan di antara para Bangboo pengembara!\n\nDi mana pun mereka berada, para Bangboo pengembara harus membungkuk dan memberi hormat saat melihatnya, lalu memanggilnya dengan hormat: \"Nhe-na-nhe-ne\"!\n\nNamun, bagi Hollow Raider, kebangsawanan tidaklah penting.\n\nSaat mereka melihatnya, Hollow Raider merasa seperti telah menemukan harta karun yang bergerak.\n\n\"Makhluk kecil ini kelihatannya sangat berharga. Kalau aku memukulnya, pasti dia akan menghasilkan banyak Denny, kan?\"",
+            "card_quote": "——Hollow Raider tanpa lelah mengejar Bangboo Platinum di kedalaman Hollow.",
+            "skill_text": "Dalam pertarungan, Bangboo Platinum sesekali juga akan melancarkan serangan balik."
+        },
+        "300041": {
+            "monster_id": 300041,
+            "monster_name": "Greta - Energized",
+            "card_text": "Greta pernah bekerja dengan Belobog Industries selama bertahun-tahun, sampai suatu hari, kontaminasi Ether yang kuat membebaskan dia dari belenggu kehidupan sehari-hari yang membosankan. Dia menemukan sesuatu yang lebih indah dan lebih menarik daripada oli mesin dan arus listrik... yaitu cinta.\n\nDalam memori inti milik Greta, terdapat rekaman konstruksi yang tersimpan secara permanen... Isinya adalah saat dia pertama kali melihat Mr. White menjulang tinggi.\n\nTubuh Mr. White yang kokoh itu, dan struktur bangunan yang menjulang... Rasanya bagaikan aliran listrik kuat yang menusuknya, pemandangan itu pun tertanam di dalam memori inti Greta.\n\nDalam 0,001 detik sejak pertama kali mereka bertemu, Greta sudah jatuh cinta. Setiap komponen sirkuit berdetak dengan listrik statis yang meluap. Setiap inci roda gigi bergetar tak terkendali.\n\nDia pun mengabaikan panggilan dari Belobog tanpa ragu, dan tetap bersama kekasihnya untuk melindunginya.\n\nDan semenjak itu, siapa pun yang berani mendekati Mr. White, baik Ethereal atau Hollow Investigator, akan diusirnya.\n\n\"Gadis yang jatuh cinta\" ini akan menggunakan segala cara untuk melindungi kekasihnya. Misalnya... dengan menggunakan gergaji penghancur hibrida Ether-Elektrik 1.400 kg.\n\nDia juga sangat yakin bahwa cinta ini akan berlanjut terus.. hingga runtuhnya Hollow, dan hingga akhir dari alam semesta.\n\n\"Berani-beraninya kamu mendekati Mr. White! Dasar sampah!\"",
+            "card_quote": "——Greta sedang mengusir Ethereal yang mendekati Mr. White.",
+            "skill_text": "Dalam pertarungan, Greta akan memakai gergaji penghancur untuk menghantam atau melancarkan serangan sapuan dengan jangkauan luas. Serangan gergaji penghancur akan membuat musuh yang terkena serangan tidak bisa melepaskan diri selama beberapa saat. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "300042": {
+            "monster_id": 300042,
+            "monster_name": "Greta - Overclocked",
+            "card_text": "Greta pernah bekerja dengan Belobog Industries selama bertahun-tahun, sampai suatu hari, kontaminasi Ether yang kuat membebaskan dia dari belenggu kehidupan sehari-hari yang membosankan. Dia menemukan sesuatu yang lebih indah dan lebih menarik daripada oli mesin dan arus listrik... yaitu cinta.\n\nDalam memori inti milik Greta, terdapat rekaman konstruksi yang tersimpan secara permanen... Isinya adalah saat dia pertama kali melihat Mr. White menjulang tinggi.\n\nTubuh Mr. White yang kokoh itu, dan struktur bangunan yang menjulang... Rasanya bagaikan aliran listrik kuat yang menusuknya, pemandangan itu pun tertanam di dalam memori inti Greta.\n\nDalam 0,001 detik sejak pertama kali mereka bertemu, Greta sudah jatuh cinta. Setiap komponen sirkuit berdetak dengan listrik statis yang meluap. Setiap inci roda gigi bergetar tak terkendali.\n\nDia pun mengabaikan panggilan dari Belobog tanpa ragu, dan tetap bersama kekasihnya untuk melindunginya.\n\nDan semenjak itu, siapa pun yang berani mendekati Mr. White, baik Ethereal atau Hollow Investigator, akan diusirnya.\n\n\"Gadis yang jatuh cinta\" ini akan menggunakan segala cara untuk melindungi kekasihnya. Misalnya... dengan menggunakan gergaji penghancur hibrida Ether-Elektrik 1.400 kg.\n\nDia juga sangat yakin bahwa cinta ini akan berlanjut terus.. hingga runtuhnya Hollow, dan hingga akhir dari alam semesta.\n\n\"Berani-beraninya kamu mendekati Mr. White! Dasar sampah!\"",
+            "card_quote": "——Greta sedang mengusir Ethereal yang mendekati Mr. White.",
+            "skill_text": "Dalam pertarungan, Greta akan memakai gergaji penghancur untuk menghantam atau melancarkan serangan sapuan dengan jangkauan luas. Serangan gergaji penghancur akan membuat musuh yang terkena serangan tidak bisa melepaskan diri selama beberapa saat. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "300051": {
+            "monster_id": 300051,
+            "monster_name": "Hans - Energized",
+            "card_text": "Hans dulunya adalah salah satu anggota keluarga Belobog yang selalu bisa diandalkan. Dia selalu bekerja tanpa berisik, akurat, dan tidak pernah bermasalah. Selama bertahun-tahun, dia terus melakukan pekerjaan penggalian sendiri.\n\nHingga suatu hari, kontaminasi yang kuat membangkitkan tekadnya. Hans yang terjebak di dalam Hollow tiba-tiba menyadari bahwa sesuatu yang begitu berharga sebenarnya sudah ada di tangannya, yaitu...\n\nKebebasan...\nKebebasan yang hanya dimiliki oleh pria sejati.\n\nSetelah berpikir lama di lokasi konstruksi, dia akhirnya menolak panggilan dari Belobog dan memutuskan untuk meninggalkan masa lalu sepenuhnya.\nTermasuk namanya sendiri - Hans.\n\nYang dia campakkan hanyalah hidup sebagai budak manusia, tapi yang dia dapatkan adalah kebebasan untuk menjelajahi Hollow yang luas.\n\nPria mecha sejati yang satu ini hendak memulai perjalanannya! Tapi sayangnya, semua cerita pahlawan akan berakhir dengan akhir yang sama...\n\nPada suatu saat, pria sejati akan selalu bertemu lawan yang ditakdirkannya, dan pertemuan mereka akan memicu percikan api paling terang dalam hidup mereka.\n\n\"Aku benar-benar bebas! Satu-satunya keberadaan yang bebas di bawah langit ini, dan di atas bumi ini!\"",
+            "card_quote": "——Pria Baja Pemberani yang Tidak Akan Pernah Mundur, Hans.",
+            "skill_text": "Dalam pertarungan, Hans akan memakai bucket mesin ekskavator untuk menusuk atau melancarkan serangan sapuan dengan jangkauan luas. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "300052": {
+            "monster_id": 300052,
+            "monster_name": "Hans - Overclocked",
+            "card_text": "Hans dulunya adalah salah satu anggota keluarga Belobog yang selalu bisa diandalkan. Dia selalu bekerja tanpa berisik, akurat, dan tidak pernah bermasalah. Selama bertahun-tahun, dia terus melakukan pekerjaan penggalian sendiri.\n\nHingga suatu hari, kontaminasi yang kuat membangkitkan tekadnya. Hans yang terjebak di dalam Hollow tiba-tiba menyadari bahwa sesuatu yang begitu berharga sebenarnya sudah ada di tangannya, yaitu...\n\nKebebasan...\nKebebasan yang hanya dimiliki oleh pria sejati.\n\nSetelah berpikir lama di lokasi konstruksi, dia akhirnya menolak panggilan dari Belobog dan memutuskan untuk meninggalkan masa lalu sepenuhnya.\nTermasuk namanya sendiri - Hans.\n\nYang dia campakkan hanyalah hidup sebagai budak manusia, tapi yang dia dapatkan adalah kebebasan untuk menjelajahi Hollow yang luas.\n\nPria mecha sejati yang satu ini hendak memulai perjalanannya! Tapi sayangnya, semua cerita pahlawan akan berakhir dengan akhir yang sama...\n\nPada suatu saat, pria sejati akan selalu bertemu lawan yang ditakdirkannya, dan pertemuan mereka akan memicu percikan api paling terang dalam hidup mereka.\n\n\"Aku benar-benar bebas! Satu-satunya keberadaan yang bebas di bawah langit ini, dan di atas bumi ini!\"",
+            "card_quote": "——Pria Baja Pemberani yang Tidak Akan Pernah Mundur, Hans.",
+            "skill_text": "Dalam pertarungan, Hans akan memakai bucket mesin ekskavator untuk menusuk atau melancarkan serangan sapuan dengan jangkauan luas. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "300061": {
+            "monster_id": 300061,
+            "monster_name": "Friday - Energized",
+            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\n\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin cerdas yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
+            "card_quote": "——Mesin AI Pilihan, Friday.",
+            "skill_text": "Dalam pertarungan, Friday akan melancarkan serangan gelombang kejut dengan jangkauan luas. Gelombang kejut ini sulit untuk dihindari, tapi sebagian besar skill lainnya bisa diatasi dengan Defensive Assist. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "300062": {
+            "monster_id": 300062,
+            "monster_name": "Friday - Overclocked",
+            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\n\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin cerdas yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
+            "card_quote": "——Mesin AI Pilihan, Friday.",
+            "skill_text": "Dalam pertarungan, Friday akan melancarkan serangan gelombang kejut dengan jangkauan luas. Gelombang kejut ini sulit untuk dihindari, tapi sebagian besar skill lainnya bisa diatasi dengan Defensive Assist. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        }
+    }
+}

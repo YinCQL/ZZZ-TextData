@@ -1,0 +1,903 @@
+{
+    "Mutantes Etéreos": {
+        "10000": {
+            "monster_id": 10000,
+            "monster_name": "Tyrfing",
+            "card_text": "A Associação de Investigação de Esferas Negras estuda os padrões comportamentais do Tyrfing, e os resultados da pesquisa mostram que, na verdade, a postura que parece desequilibrada, sempre se balançando e se inclinando, é uma forma muito eficiente para desferir ataques cortantes sucessivos.\nPor seus aparecimentos frequentes e comportamento agressivo, o Tyrfing foi identificado como um dos Etéreos mais letais na Esfera Negra, principalmente para certos indivíduos da equipe.\nDiante de um inimigo protegido por escudo, ele desfere ataques sem parar até o inimigo ou ele ser destruído.\n\"Talvez... eles não nos odeiem, mas nos vejam como sacos de pancada para treinar.\"",
+            "card_quote": "— Programa de entrevistas à meia-noite \"O Encontro\", episódio 165, apresentando o agente aposentado por ferimento da patrulha antimotim, Nobby Kereyan",
+            "skill_text": "Durante o combate, Tyrfing realiza ataques corpo-a-corpo."
+        },
+        "10001": {
+            "monster_id": 10001,
+            "monster_name": "Alpeca",
+            "card_text": "A Associação de Investigação de Esferas Negras limitou a pesquisa sobre Alpeca. Após um breve período de estudo do padrão comportamental dos cuspes de Éter líquido dele, a Associação classificou o Alpeca como um Etéreo de baixo risco e encerrou a investigação.\nAlguns estudiosos demonstram grande interesse na observação de como Alpeca cospe Éter liquefeito e solicitaram análises para observação direta.\nPorém, os investigadores experientes vêm evitando tais tarefas por motivos desconhecidos.\n\"Corram! Eles estão cuspindo de novo... Ah, não! Minha roupa nova!\"",
+            "card_quote": "— Nas profundezas de uma Esfera Negra, o investigador novato Raffaele Bert tenta recuar",
+            "skill_text": "Durante o combate, Alpeca realizará diferentes ataques à distância."
+        },
+        "10002": {
+            "monster_id": 10002,
+            "monster_name": "Sátiro",
+            "card_text": "Um Éter humanoide vivo foi visto pela primeira vez na Esfera Negra do metrô de Nova Eridu. Ele já suscitou debates na Associação de Investigação de Esferas Negras, visto que alguns acreditavam que era um Éter vivo convertido a partir de corrupção enquanto outros afirmavam que era um Éter vivo puro afetado pelo ambiente da Esfera Negra. A Associação os considera de baixo risco em virtude de sua inteligência limitada, mas não devemos subestimá-los, já que costumam andar em grupos.\n\"Você já se atrasou ou recebeu uma multa por causa de má sinalização? É péssimo, não é?\"\n\"Bem, aí está a chance de botar a raiva pra fora!\"",
+            "card_quote": "— Fórum Planeta do Desastre, comentário do usuário \"EsperandoBaixarPreçoDoBangboo\"",
+            "skill_text": "Durante o combate, Sátiro costuma efetuar ataques pesados carregados que são difíceis de interromper."
+        },
+        "10003": {
+            "monster_id": 10003,
+            "monster_name": "Hoplita",
+            "card_text": "Embora categorizado pela Associação de Investigação de Esferas Negras como um Etéreo de \"baixo risco\", o Hoplita se mostra um oponente formidável para saqueadores e investigadores novatos.\nSeus membros dianteiros são cobertos por uma matéria etérea espessa, que serve tanto como escudo quanto como arma intimidante.\nO problema é que o corpo desproporcional o faz não parecer muito inteligente.\n\"Certo, pessoal, este exemplar patético... é o hoplita.\"\n\"Quando os Etéreos se reúnem para brincar de pedra, papel e tesoura, esse idiota sempre escolhe papel!\"",
+            "card_quote": "— Zoo na Esfera, episódio especial sobre Hoplita",
+            "skill_text": "Durante o combate, Hoplita avança contra adversários e bloqueia os ataques usando seus braços como escudo."
+        },
+        "10004": {
+            "monster_id": 10004,
+            "monster_name": "Explodaranha",
+            "card_text": "Segundo relatórios de pesquisas conduzidas pela Associação de Investigação de Esferas Negras, as Explodaranhas, com sua baixa mobilidade e pequenas explosões, são classificadas com Etéreos de baixo nível, \"baixo risco\" e \"irrelevantes\".\nPorém, empresários astutos reconheceram as oportunidades oferecidas por seus corpos arredondados e pernas curtas.\nUm filme intitulado \"Role, Explodaranha\" ganhou grande popularidade, levando à venda de produtos como bonecos e travesseiros da Explodaranha a preços consideráveis.\n\"Eu não esperava que esses bonecos fossem mais letais do que os originais... Pelo menos, para as carteiras. Parece que vou passar o próximo mês sobrevivendo à base de macarrão instantâneo, Billy...\"",
+            "card_quote": "— Anby conferindo a carteira na frente da máquina de grua na rua comercial.",
+            "skill_text": "Durante o combate, a Explodaranha se destrói."
+        },
+        "10014": {
+            "monster_id": 10014,
+            "monster_name": "Mandrágora",
+            "card_text": "O nome da Mandrágora deriva de uma erva tóxica. O estudioso que atribuiu primeiro o nome acreditava que havia uma semelhança entre ambas com base apenas na aparência delas.\nAo desabrochar, a Mandrágora emite raios de calor direcionados a objetos próximos enquanto folhas robustas a ancoram com firmeza no solo para evitar ser arrancada. Quando ameaçada, a Mandrágora pode usar suas folhas afiadas como autodefesa.\nSemelhante à lenda de sua homônima, os gritos da Mandrágora podem ser muito letais.\n\"Para trás! Vai desabrochar a qualquer momento!\"",
+            "card_quote": "— Mandrágora florescendo no filme Medo Profundo",
+            "skill_text": "Durante o combate, Mandrágoras fornecem bônus de ATQ/Escudo para unidades adjacentes."
+        },
+        "10025": {
+            "monster_id": 10025,
+            "monster_name": "Arimã",
+            "card_text": "Devido à sua forma única e grotesca, Arimã costuma ser confundido com uma escultura artística nos Edifícios Balé.\nComo resultado disso, muitos investigadores novatos ficam traumatizados pelo resto da vida após seu primeiro encontro com um Arimã...\nVocê acaba de passar por uma certa \"escultura\", e então ela se move...\nEsse instante aterrador de paralisia é a oportunidade perfeita para Arimã lançar um ataque surpresa.\n\"Corin, não se deixe enganar pelas aparências... isso aí não é arte moderna.\"\n\"É hora de darmos um jeito nisso.\"",
+            "card_quote": "— Lycaon orientando Corin na limpeza",
+            "skill_text": "Durante o combate, Arimã executa ataques de teletransporte e, às vezes, se une a outro Arimã para executar ataques coordenados."
+        },
+        "10026": {
+            "monster_id": 10026,
+            "monster_name": "Espectro",
+            "card_text": "Influenciados pela distinta decoração interna dos Edifícios Balé, os espectros apresentam uma estrutura grotesca e retorcida, como uma escultura artística.\nAlguns investigadores acreditam que sua forma única tem a finalidade de manter seu Núcleo de Éter mais protegido.\nOutros investigadores argumentam que isso não passa de um truque projetado para causar distração. Enquanto seus inimigos estão fascinados por sua postura peculiar, um espectro aproveitará a oportunidade para desferir ataques de longo alcance usando Éter concentrado.\n\"Olhei para estrutura bizarra e pensei: ele tá tentando jogar boliche com a própria cabeça?\"\n\"Mas, antes que eu percebesse, a bola de boliche já tinha esmagado a minha cara...\"",
+            "card_quote": "— Publicado por um usuário anônimo na Interlaço",
+            "skill_text": "Durante o combate, Espectro executa uma sequência de ataques de longo alcance."
+        },
+        "10029": {
+            "monster_id": 10029,
+            "monster_name": "Mecanismo Observador",
+            "card_text": "Embora um Mecanismo Observador seja considerado principalmente uma ameaça de curto alcance, ele costuma apresentar perigos imprevistos aos investigadores durante expedições em Esferas Negras.\nMesmo investigadores experientes podem sentir uma sensação avassaladora de pânico quando confrontados pelo olhar penetrante dos olhos dele na escuridão.\nNo interior das Esferas Negras, o medo tem uma tendência de intensificar a corrupção do Éter, sendo um convite à calamidade.\n\"A única forma de superar o medo... é encarando-o de frente e revidando.\"",
+            "card_quote": "— Compilação de Conhecimento de um investigador sênior no fórum Planeta do Desastre",
+            "skill_text": "Durante o combate, o Mecanismo Observador se move rolando o próprio corpo."
+        },
+        "10030": {
+            "monster_id": 10030,
+            "monster_name": "Fossor",
+            "card_text": "Estudos recentes do Instituto Estrela Branca revelaram que os membros de alguns Etéreos carregam características do ambiente.\nFossor é um exemplo disso. Seus estranhos membros superiores têm incrível semelhança com os equipamentos de perfuração do antigo Campo de Petróleo.\nEmbora alguns sugiram que isso é uma tática de camuflagem para enganar inimigos, outros dizem que o estilo agressivo e direto de Fossor não condiz com alguém que faz emboscadas.\nSaqueadores de Esfera mais criativos especulam que Fossor desenvolveu esta forma para cavar atrás de minérios...\n\"Quando eu o vi na distância, parecia que ele estava bem feliz cavando o asfalto.\"\n\"Quando ele me viu, não pensou duas vezes antes de me atacar e me afugentar correndo dali...\"\n\"Mas eu só estava de passagem! Eu não queria nenhuma das quinquilharias dele!\"",
+            "card_quote": "— Um saqueador novato do lado de fora de uma Esfera Negra contando sua experiência recente aos seus companheiros",
+            "skill_text": "Fossor realiza cortes duplos consecutivos durante o combate."
+        },
+        "10031": {
+            "monster_id": 10031,
+            "monster_name": "Sordidus",
+            "card_text": "Muitas criaturas bizarras vivem nas Esferas Negras da zona externa, entre elas os Sordidus.\nEles possuem uma estrutura corporal única, com membros muito flexíveis, que parecem ser fruto de uma reação entre petróleo cru e Éter ativado.\nQuando eles definem um alvo, usam seus membros como acrobatas experientes e lançam ataques brutalmente agressivos.\n\"Droga! Aquela coisa me chicoteou!\"\n\"Será que ele acha que é um domador, e nos trata como animais selvagens?\"",
+            "card_quote": "— Um grupo de saqueadores novatos lutam contra um Sordidus na Esfera Negra",
+            "skill_text": "Sordidus chicoteia seus tentáculos, para ataques de curto alcance ou insere os tentáculos no chão, para ataques de longo alcance durante o combate."
+        },
+        "20000": {
+            "monster_id": 20000,
+            "monster_name": "Fárbauti",
+            "card_text": "Ostentando uma força imensa e quase sempre em estado frenético, Fárbauti é uma das ameaças mais formidáveis que os saqueadores podem enfrentar. Seus braços em forma de martelo podem desviar facilmente os ataques e desferir saraivadas de golpes que esmagam tudo no caminho.\nAlguns saqueadores observaram Fárbauti batendo com frequência no chão de maneira rítmica e muito rápido, levando a especulações sobre seu interesse peculiar por música percussiva.\nEmbora a Associação de Investigação de Esferas Negras tenha desmentido publicamente esse rumor, muitos saqueadores carregam aparelhos de som portáteis na tentativa de distrair Fárbauti com música.\nNo entanto, não há relatos de fugas bem-sucedidas usando esse método.\n\"O motivo do fracasso deles é simples: até os Fárbauti acham o gosto musical de vocês uma porcaria!\"",
+            "card_quote": "— Publicado por \"dedo_de_cravo\" no Fórum Rock da Faxina Sombria",
+            "skill_text": "Durante o combate, Fárbauti usa seus poderosos braços para executar ataques de martelada contínuos, mas tais braços podem ser danificados e paralisados após sofrerem uma certa quantidade de dano."
+        },
+        "20001": {
+            "monster_id": 20001,
+            "monster_name": "Hati",
+            "card_text": "A Equipe de Investigação da Fase I da AIEN documentou oficialmente a existência desta criatura Etérea consciente, que se assemelha a uma fera de quatro patas, representando um perigo significativo.\nSegundo boatos, a primeira aparição ocorreu na Esfera Negra principal, onde indivíduos que exploravam os resíduos próximos disseram ouvir rugidos ensurdecedores que lembravam os grunhidos de animais selvagens.\n\"Se eu jogar um graveto ou uma bola, será que aquele monstro vai pegar?\"\n\"Você pode tentar, mas não vou pagar suas despesas médicas.\"",
+            "card_quote": "— Um bate-papo entre Billy e Nicole",
+            "skill_text": "Durante o combate, Hati usa saltos ágeis e ataques rápidos com a garra."
+        },
+        "20002": {
+            "monster_id": 20002,
+            "monster_name": "Goblin",
+            "card_text": "Durante os primeiros encontros com esses Etéreos singulares, os investigadores de Esferas Negras acreditaram erroneamente que eles tinham algum nível de inteligência, mostrando até sinais de aprendizado no manejo de armas perigosas, assim como os humanos. Por isso, foram apelidados de \"Goblins\".\nNo entanto, pesquisas subsequentes revelaram que seus \"martelos\" eram, na verdade, membros torcidos e deformados, e que eles não tinham a capacidade de imitar comportamentos humanos.\nApesar disso, os Goblins permanecem adversários formidáveis devido ao físico robusto e à força bruta, sendo capazes de causar a morte até mesmo com um simples golpe de seus membros.\nSe algo invade o território deles, eles entram de imediato num estado de fúria, esmagando sem piedade o intruso com pouco esforço.\n\"Hã? Tem um goblin correndo para cá, batendo num monte de sucata.\"\n\"Você não acha que os ataques dele têm um certo ritmo, como se ele estivesse tocando uma bateria?\"\n\"Ei! Não sejam idiotas! Isso não é sucata! É nosso caminhão de suprimentos!\"",
+            "card_quote": "— Um Goblin invade o esconderijo de uma gangue",
+            "skill_text": "Durante o combate, o rugido do Goblin aumenta o dano que ele causa e reduz muito o dano que ele recebe. Entretanto, esses efeitos são interrompidos se ele for Atordoado."
+        },
+        "20003": {
+            "monster_id": 20003,
+            "monster_name": "Hati Blindado",
+            "card_text": "Muitos investigadores de Esferas Negras experientes consideram o Hati Blindado um adversário formidável.\nEmbora a carapaça blindada limite a agilidade dele, sua capacidade defensiva é extraordinária.\nAlém disso, o material corrompido em seu corpo forma protuberâncias afiadas e resistentes capazes de causar danos adicionais quando o Hati Blindado ataca em alta velocidade.\nOs movimentos ágeis, a resistência a golpes e a armadura impenetrável dessa criatura obrigam até os exploradores mais experientes a buscar rotas alternativas para evitar confrontos diretos.\nAlguns saqueadores novatos tentaram atrair o Hati Blindado com comida de animais de estimação.\nObviamente, isso não funciona muito bem.\n\"Corra! Ele não gosta desse sabor de ração para cachorro!\"",
+            "card_quote": "— Vários saqueadores novatos em pânico fugindo de um Hati numa Esfera Negra",
+            "skill_text": "Durante o combate, a armadura do Hati Blindado reduz bastante o dano e o Atordoamento recebidos, mas a Assistência Defensiva reduz muito da sua blindagem."
+        },
+        "20004": {
+            "monster_id": 20004,
+            "monster_name": "Goblin da Ferrovia",
+            "card_text": "A discussão sobre os Goblins da Ferrovia não termina. Alguns estudiosos argumentam que a aparência peculiar deles serve como camuflagem para confundir os inimigos enquanto outros atribuem os detritos em seus corpos à corrupção e à fusão com equipamentos antigos do metrô.\nNo entanto, a presença dos Goblins da Ferrovia evoca medo entre os investigadores inexperientes que exploram a zona antiga do metrô na Esfera Negra.\nA qualquer momento, o que parece ser uma simples \"placa de trânsito\" pode começar a tremer e, então, um formidável Etéreo emerge do chão, investindo de forma ameaçadora.\n\"Hã? Eu vi essa placa há alguns minutos. Estamos andando em círculos?\"\n\"Não... Essa 'placa de trânsito' está nos seguindo!\"",
+            "card_quote": "— O personagem principal do filme de terror Perdição Eterna procurando uma saída da Esfera Negra",
+            "skill_text": "Durante o combate, o rugido do Goblin aumenta o dano que ele causa e reduz muito o dano que ele recebe. Entretanto, esses efeitos são interrompidos se ele for Atordoado."
+        },
+        "20005": {
+            "monster_id": 20005,
+            "monster_name": "Arlaune",
+            "card_text": "Muitos saqueadores novatos que se deparam com um Arlaune pela primeira vez costumam ser ludibriados pela aparência dela, assumindo equivocadamente que se trata de uma planta inofensiva.\nMas, ao se aproximarem, descobrem que a Arlaune libera uma descarga concentrada de matéria Etérea, que surpreende suas vítimas.\n\"Hã? Eu tentei regá-la, e ela cuspiu em mim?\"",
+            "card_quote": "— Um grupo de investigadores novatos encurralados por uma Arlaune numa Esfera Negra",
+            "skill_text": "Durante o combate, Arlaune executa ataques de longo alcance extremamente inteligentes. Entretanto, Desequilibrá-la enquanto suas pétalas estiverem abertas causará um acúmulo grande de Atordoamento com um só golpe."
+        },
+        "20010": {
+            "monster_id": 20010,
+            "monster_name": "Betoneira Tarasca",
+            "card_text": "Com base em pesquisas, a Associação de Investigação de Esferas Negras especula que a Betoneira Tarasca contém vários níveis de Éter liquefeito.\nQuando ela mexe e mistura seu Éter armazenado, ocorre uma reação complexa que resulta na liberação de uma energia destrutiva e violenta. O poder desencadeado é comparável ao da artilharia pesada empregada pela Força de Defesa.\nInvestigadores experientes entendem a importância da discrição para evitar o bombardeio direto da artilharia pesada.\n\"Quando ela se inclinou na minha direção, pensei que fosse algum tipo de presente de boas-vindas estranho. Mas, quando a câmara do canhão se iluminou, percebi que... era um presente de despedida.\"",
+            "card_quote": "— Experiências pessoais de celebridades da investigação contadas na entrevista de O Encontro",
+            "skill_text": "Durante o combate, a Betoneira Tarasca usa ataques de laser contínuos enquanto pula para os lados para se reposicionar."
+        },
+        "20022": {
+            "monster_id": 20022,
+            "monster_name": "Vespa",
+            "card_text": "Parece que as Vespas estão sempre por perto da Nínive. Alguns estudiosos acreditam que uma relação simbiótica foi formada e que, de uma certa forma, alcançaram um certo tipo de coordenação em grupo.\nConforme a energia da Nínive aumenta, revelando sua distinta postura de desabrochar oscilante, as Vespas entram em um estado de frenesi e atacam qualquer alvo móvel por perto.\n\"Ei, alguma coisa saiu voando daquela flor!\"\n\"Parece um... enxame de vespas?\"",
+            "card_quote": "— Arquivo KU241 da Investigação da Esfera Zero. Gravação de voz da primeira observação registrada das Vespas.",
+            "skill_text": "Na batalha, as Vespas ajudarão Nínive ao interromper e atacar os inimigos."
+        },
+        "30000": {
+            "monster_id": 30000,
+            "monster_name": "Dullahan",
+            "card_text": "Um poderoso humanoide de Éter vivo, observado pela primeira vez na Esfera Negra de Lagunópolis e documentado pela Terceira Equipe de Investigação da Associação de Investigação de Esferas Negras. Permanece incerta a correlação exata entre esses seres de Éter vivo e a queda da cidade ribeirinha conhecida como Blaise.\nDevido ao imenso poder e estilo de luta formidável, a AIEN os classificou como muito perigosos e aconselha que investigadores novatos evitem confrontos diretos com eles.\n\"Não deixe que ele ative a espada, e, se já tiver ativado, não deixe que te corte.\"",
+            "card_quote": "— Trecho da entrevista com um investigador no programa de variedades \"Me Ensine, Senpai!\"",
+            "skill_text": "Durante o combate, Dullahan usa sua longa espada para avançar e executar um ataque de alto nível, que pode ser interrompido pelos seus próprios ataques de alto nível."
+        },
+        "30001": {
+            "monster_id": 30001,
+            "monster_name": "Tânatos",
+            "card_text": "Explorar Esferas Negras pode ser mentalmente angustiante, e Tânatos, com sua habilidade singular de teletransporte e padrões de ataque imprevisíveis, tornou-se um desafio psicológico comum entre os saqueadores.\nMuitos indivíduos que enfrentaram Tânatos por conta própria na Esfera Negra perderam toda a coragem de continuar suas aventuras e optaram por se aposentar antes da hora.\nComo resultado, essas entidades elusivas se tornaram figuras recorrentes em filmes de terror.\n\"A sombra esguia desaparece diante de seus olhos e reaparece atrás de você...\"\n\"O que devo fazer? Agora estou com tanto medo que nem consigo ir ao banheiro sozinho...\"",
+            "card_quote": "— Tópico de discussão em alta no site de críticas de cinema \"Ameixa Cúprica\" na noite de estreia do filme de terror \"Etéreo Bate à Porta\"",
+            "skill_text": "Durante o combate, Tânatos se teletransporta para atacar a partir de ângulos diferentes do normal, mas seu acúmulo de Atordoamento ao usar Assistência Defensiva e Assistência Imediata também é muito alto."
+        },
+        "30007": {
+            "monster_id": 30007,
+            "monster_name": "Carniceiro do Beco",
+            "card_text": "Ao contrário de outros Etéreos altamente perigosos, o Éter dentro do corpo do Carniceiro do Beco costuma permanecer num estado dormente de baixa atividade.\nNo entanto, ele tem uma força bruta imensa capaz de demolir qualquer obstáculo, e toda a Zona do Metrô retorcida e devastada serve como sua cozinha proibida.\nApenas quando um alvo ameaçador desperta seu interesse é que ocorre uma transformação horripilante...\nEm instantes, a alta concentração de Éter armazenada em seu corpo sofre uma transformação violenta, e a energia que aumenta exponencialmente faz com que seus membros se distorçam muito rápido, assumindo uma postura de \"alimentação\" mais brutal e voraz.\nA hora dos \"aperitivos\" terminou, e um \"banquete\" inigualável está prestes a começar.\nQualquer um que não queira fazer parte deste banquete deve ser bastante cauteloso ao escolher o caminho e ficar longe da \"cozinha\" a todo custo.\n\"Os caminhos nas Esferas Negras são complexos, mas uma coisa é certa: quando ele aparece no final do caminho, esse caminho é um 'beco sem saída'.\"",
+            "card_quote": "— 17ª Investigação da Esfera Sem Saída da Associação de Investigação de Esferas Negras",
+            "skill_text": "Durante o combate, os ataques do Carniceiro do Beco variam muito. Após ele sofrer dano suficiente, os ataques da fase dois tornam-se sequenciais, com a adição de ataques de laser. Use uma habilidade de alto nível após seu combo acabar para aumentar a paralisação."
+        },
+        "30010": {
+            "monster_id": 30010,
+            "monster_name": "Marionete do Véu Preto",
+            "card_text": "Décadas atrás, duas dançarinas talentosas foram alçadas para a fama, do dia para a noite. Elas conquistaram uma multidão de fãs e faziam uma apresentação magnífica nos badalados Edifícios Balé.\nMas, quando a apresentação estava quase no fim, o desastre da Esfera Negra aconteceu e as duas torres foram engolidas, encerrando as irmãs na eterna escuridão. Essa notícia foi devastadora para fãs do mundo todo.\nHá rumores de que as irmãs perceberam três sinais de que o terror estava próximo, na apresentação daquela noite. Mas, inspiradas por sua obsessão com o palco, os aplausos e a glória, elas decidiram continuar com o show e ignorar os sinais.\nHoje, apenas algumas imagens da irmã mais velha existem, preservadas em fotografias amareladas em velhas páginas de revista.\nApenas alguns saqueadores de elite sabem que, quando o holofote trincado ilumina os Edifícios Balé, a enigmática Marionete do Véu Preto aparece.\nAcredita-se que esta figura esteja ligada a Augilia, uma das dançarinas daquela fatídica noite, que ainda tenta apresentar o grand finale que nunca foi capaz de concluir.\nAqueles que têm a \"sorte\" de testemunhar seu show são assombrados com pesadelos para o resto da vida.\n\"Se você encontrar a Marionete nos Edifícios Balé, nem pense em correr!\"\n\"É melhor só sentar e assistir o show.\" \n\"Pelo menos é um jeito decente de morrer!\"",
+            "card_quote": "— Fórum da Interlaço, comentário de um saqueador de Esferas amador",
+            "skill_text": "Durante a batalha, as Marionetes Gêmeas teletransportam para o oponente e desferem ataques implacáveis."
+        },
+        "30011": {
+            "monster_id": 30011,
+            "monster_name": "Marionete do Véu Cinza",
+            "card_text": "Décadas atrás, duas dançarinas talentosas foram alçadas para a fama, do dia para a noite. Elas conquistaram uma multidão de fãs e faziam uma apresentação magnífica nos badalados Edifícios Balé.\nMas, quando a apresentação estava quase no fim, o desastre da Esfera Negra aconteceu e as duas torres foram engolidas, encerrando as irmãs na eterna escuridão. Essa notícia foi devastadora para fãs do mundo todo.\nHá rumores de que as irmãs perceberam três sinais de que o terror estava próximo, na apresentação daquela noite. Mas, algumas pessoas acreditam que elas ofenderam algumas \"forças\" e acabaram sendo vítimas, cuja queda foi disfarçada pelo desastre da Esfera Negra. Essas pessoas acham que os sinais eram, na verdade, avisos bem intencionados.\nHoje a verdade está enterrada na escuridão, já que só restaram imagens da irmã Augetta dançando em poucas fitas de vídeo.\nApenas alguns saqueadores de elite sabem que, quando a música esquecida ecoa pelos Edifícios Balé, a figura Etérea da Marionete do Véu Cinza aparece.\nAcredita-se que esta figura esteja ligada a Augetta, uma das dançarinas daquela fatídica noite, que ainda tenta apresentar o grand finale que nunca foi capaz de concluir.\nSua dança elegante não traz mais amor e beleza à audiência, mas sim morte e desespero.\n\"Não sei se encontrei a Marionete da irmã mais velha ou da mais nova...!\"\n\"Ah, não é que eu não seja um amante das artes. É que eu não consigo ver a diferença entre elas!\"",
+            "card_quote": "— Publicação de um saqueador de Esferas na Interlaço",
+            "skill_text": "Durante a batalha, as Marionetes Gêmeas teletransportam para o oponente e desferem ataques implacáveis."
+        },
+        "30012": {
+            "monster_id": 30012,
+            "monster_name": "Marionetes Gêmeas",
+            "card_text": "Décadas atrás, duas talentosas irmãs dançarinas ganharam fama da noite para o dia. Como uma estrela cadente, eles atraíram uma enorme base de fãs e realizaram uma apresentação magnífica no badalado Edifícios Balé.\nNo entanto, à medida que o show se aproximava do fim, o Desastre das Esferas Negras aconteceu, engolindo as Bailarinas Gêmeas e mergulhando elas na escuridão eterna. A notícia chocou inúmeras pessoas em todo o mundo.\nHoje, a maioria das pessoas só consegue vislumbrar sua dança comovente por meio de vídeos e imagens que sobreviveram para contar história.\nPoucos sabem que, quando a música daquela dança esquecida ecoa nos Edifícios Balé, emergem as figuras etéreas das Bailarinas Gêmeas. Acredita-se que essas criaturas estejam ligadas às dançarinas gêmeas daquela apresentação fatídica, tentando terminar o grand finale que nunca foram capazes de completar.\n\"Quando aquela música arrepiante chegou ao fim, as duas bailarinas emergiram da escuridão e fizeram uma reverência...\"\n\"Hum? Então... elas estão tentando dizer que o show começou?\"\n\"Não. Acho que o que elas estão tentando dizer é que... é tarde demais para fugir. É o nosso fim.\"",
+            "card_quote": "— trecho da entrevista com um investigador sobrevivente na edição 251 de \"Histórias da Esfera Negra\"",
+            "skill_text": "Durante o combate, as Marionetes Gêmeas efetuam inúmeros Ataques em Cadeia. Alguns dos seus ataques podem ser interrompidos usando várias Assistências Defensivas. Além disso, as gêmeas tentam se ressuscitar caso uma delas caia."
+        },
+        "30017": {
+            "monster_id": 30017,
+            "monster_name": "Ionizado - Cyrtoidea",
+            "card_text": "Segundo relatos de saqueadores, as táticas de caça do Cyrtoidea parecem com as de tubarões.\nElem se aproximam discretamente pelas sombras, rondando sob a superfície e, assim como um tubarão, atacam a presa com agilidade e precisão mortais.\nAnálises dos dados sugerem que o Cyrtoidea utiliza as vibrações do solo para rastrear os movimentos de suas vítimas. Saqueadores experientes conseguem evitar ser detectados alterando constantemente o ritmo de sua caminhada.\n\"Na época que eu era investigador, minha área tava lotada de Cyrtoideas.\"\n\"Os ataques deles me faziam sair pulando, pra tentar me esquivar...\"\n\"Se pensar bem, perdi uma oportunidade de aprender a dançar sapateado...\"",
+            "card_quote": "— Edição 131 de \"Chá na Esfera Negra\", entrevista com Ansor, um sapateador renomado",
+            "skill_text": "Durante o combate, Cyrtoidea - Ionizada usa sua afiada cabeça para atacar inimigos com um longo alcance."
+        },
+        "30018": {
+            "monster_id": 30018,
+            "monster_name": "Ionizado - Nassellaria ",
+            "card_text": "Cada tipo de mutante Etéreo nas Esferas Negras tem um estilo único de combate.\nAlguns são implacáveis, outros maliciosos, e alguns até parecem ter certa... honra.\nEntre eles, Nassellaria é particularmente peculiar. Ele fica a céu aberto, imóvel, só capturando o poder do Éter ao redor, para lançar todo seu poder de destruição e eliminar os inimigos da região para os outros Etéreos.\nEnquanto Nassellaria capta toda a energia que pode, os Etéreos ao redor dele atacam freneticamente, para ganhar tempo antes do ataque devastador.\n\"Rápido! Pare aquele cara ali! Não deixa ele lançar o ataque!\"\n\"Se ele conseguir atacar, a gente vira pó, como os vilões de quadrinhos, bem clichê!\"",
+            "card_quote": "— Nas profundezas da Esfera Negra, vários investigadores estão cercando Nassellaria ",
+            "skill_text": "Durante o combate, Nassellaria - Ionizada carrega ataques durante muito tempo, disparando bolas de energia de alto nível para atacar seus inimigos. Bolas de energia atingidas por dano de Éter ou um ataque de alto nível durante a carga cairão, causando dano nos inimigos à sua volta."
+        },
+        "30023": {
+            "monster_id": 30023,
+            "monster_name": "Thracian",
+            "card_text": "Nomeado em homenagem à raça de guerreiros lendários da antiga civilização, acredita-se que este Etéreo cruel seja a incorporação de valentes heróis e vilões insanos corrompidos pelo Éter.\nMas isso não é verdade. Seus músculos esculpidos pela Esfera Negra e os montantes de adrenalina liberados antes de sua morte são um percalço para seus antigos companheiros... porém, isso não será um problema para eles. Afinal de contas, esse velho amigo já não tem salvação.\nMas quem se importa? Quando a bela face se transforma na sombria orbe negra, sua reputação social será o que menos vai te importar.\n\"Por isso que ele é o chefe. Mesmo virando Etéreo, ele ainda é formidável!\"\n\"Eu sabia que tinha algo de errado quando percebi que ele era rato de academia!\"",
+            "card_quote": "— Confissão aos gritos de um integrante da gangue de saqueadores",
+            "skill_text": "Durante o combate, Thracian realiza movimentos constantes para entrar num estado de carregamento. Nesse estado, seus ataques se tornam mais agressivos e, após alguns movimentos avançados, ele causa uma explosão em grande área."
+        },
+        "35001": {
+            "monster_id": 35001,
+            "monster_name": "Nínive",
+            "card_text": "A aparência única e magnífica do enxame simbiótico Etéreo conhecido como Nínive faz com que seja \"difícil\" para as pessoas desconfiarem dele.\nDe acordo com os poucos registros de pesquisa disponíveis, à medida que o Nínive estende seu corpo, um Éter concentrado e potente flui em direção ao seu núcleo através de seu \"rizoma\", fornecendo um suprimento constante de energia. Alguns estudiosos especulam que esse comportamento é semelhante ao processo de fotossíntese em plantas.\nNo decorrer de seus movimentos ondulantes, um excesso de energia de Éter muito ativo é derramado de forma contínua. Quando esse acúmulo de Éter muito ativo está quase transbordando, ele se transforma, revelando sua verdadeira forma de \"floração\".\nE com essa floração vem a morte.\n\"A boa notícia é que ele não tem a intenção de fazer mal. Apenas quer absorver nutrientes para a fotossíntese. A má notícia é que... nós somos os nutrientes.\"",
+            "card_quote": "— Registro de Investigações K-411 da Esfera Zero da Força de Defesa",
+            "skill_text": "Na batalha, Nínive usa ataques com grandes áreas de efeito, bombardeia oponentes com mísseis e invoca Vespas para ajudá-la."
+        },
+        "100001": {
+            "monster_id": 100001,
+            "monster_name": "Tyrfing - Energizado",
+            "card_text": "A Associação de Investigação de Esferas Negras estuda os padrões comportamentais do Tyrfing, e os resultados da pesquisa mostram que, na verdade, a postura que parece desequilibrada, sempre se balançando e se inclinando, é uma forma muito eficiente para desferir ataques cortantes sucessivos.\nPor seus aparecimentos frequentes e comportamento agressivo, o Tyrfing foi identificado como um dos Etéreos mais letais na Esfera Negra, principalmente para certos indivíduos da equipe.\nDiante de um inimigo protegido por escudo, ele desfere ataques sem parar até o inimigo ou ele ser destruído.\n\"Talvez... eles não nos odeiem, mas nos vejam como sacos de pancada para treinar.\"",
+            "card_quote": "— Programa de entrevistas à meia-noite \"O Encontro\", episódio 165, apresentando o agente aposentado por ferimento da patrulha antimotim, Nobby Kereyan",
+            "skill_text": "Durante o combate, Tyrfing realiza ataques corpo-a-corpo."
+        },
+        "100011": {
+            "monster_id": 100011,
+            "monster_name": "Alpeca - Energizado",
+            "card_text": "A Associação de Investigação de Esferas Negras limitou a pesquisa sobre Alpeca. Após um breve período de estudo do padrão comportamental dos cuspes de Éter líquido dele, a Associação classificou o Alpeca como um Etéreo de baixo risco e encerrou a investigação.\nAlguns estudiosos demonstram grande interesse na observação de como Alpeca cospe Éter liquefeito e solicitaram análises para observação direta.\nPorém, os investigadores experientes vêm evitando tais tarefas por motivos desconhecidos.\n\"Corram! Eles estão cuspindo de novo... Ah, não! Minha roupa nova!\"",
+            "card_quote": "— Nas profundezas de uma Esfera Negra, o investigador novato Raffaele Bert tenta recuar",
+            "skill_text": "Durante o combate, Alpeca realizará diferentes ataques à distância."
+        },
+        "100021": {
+            "monster_id": 100021,
+            "monster_name": "Sátiro - Energizado",
+            "card_text": "Um Éter humanoide vivo foi visto pela primeira vez na Esfera Negra do metrô de Nova Eridu. Ele já suscitou debates na Associação de Investigação de Esferas Negras, visto que alguns acreditavam que era um Éter vivo convertido a partir de corrupção enquanto outros afirmavam que era um Éter vivo puro afetado pelo ambiente da Esfera Negra. A Associação os considera de baixo risco em virtude de sua inteligência limitada, mas não devemos subestimá-los, já que costumam andar em grupos.\n\"Você já se atrasou ou recebeu uma multa por causa de má sinalização? É péssimo, não é?\"\n\"Bem, aí está a chance de botar a raiva pra fora!\"",
+            "card_quote": "— Fórum Planeta do Desastre, comentário do usuário \"EsperandoBaixarPreçoDoBangboo\"",
+            "skill_text": "Durante o combate, Sátiro costuma efetuar ataques pesados carregados que são difíceis de interromper."
+        },
+        "100031": {
+            "monster_id": 100031,
+            "monster_name": "Hoplita - Energizado",
+            "card_text": "Embora categorizado pela Associação de Investigação de Esferas Negras como um Etéreo de \"baixo risco\", o Hoplita se mostra um oponente formidável para saqueadores e investigadores novatos.\nSeus membros dianteiros são cobertos por uma matéria etérea espessa, que serve tanto como escudo quanto como arma intimidante.\nO problema é que o corpo desproporcional o faz não parecer muito inteligente.\n\"Certo, pessoal, este exemplar patético... é o hoplita.\"\n\"Quando os Etéreos se reúnem para brincar de pedra, papel e tesoura, esse idiota sempre escolhe papel!\"",
+            "card_quote": "— Zoo na Esfera, episódio especial sobre Hoplita",
+            "skill_text": "Durante o combate, Hoplita avança contra adversários e bloqueia os ataques usando seus braços como escudo."
+        },
+        "100041": {
+            "monster_id": 100041,
+            "monster_name": "Explodaranha - Energizado",
+            "card_text": "Segundo relatórios de pesquisas conduzidas pela Associação de Investigação de Esferas Negras, as Explodaranhas, com sua baixa mobilidade e pequenas explosões, são classificadas com Etéreos de baixo nível, \"baixo risco\" e \"irrelevantes\".\nPorém, empresários astutos reconheceram as oportunidades oferecidas por seus corpos arredondados e pernas curtas.\nUm filme intitulado \"Role, Explodaranha\" ganhou grande popularidade, levando à venda de produtos como bonecos e travesseiros da Explodaranha a preços consideráveis.\n\"Eu não esperava que esses bonecos fossem mais letais do que os originais... Pelo menos, para as carteiras. Parece que vou passar o próximo mês sobrevivendo à base de macarrão instantâneo, Billy...\"",
+            "card_quote": "— Anby conferindo a carteira na frente da máquina de grua na rua comercial.",
+            "skill_text": "Durante o combate, a Explodaranha se destrói."
+        },
+        "100141": {
+            "monster_id": 100141,
+            "monster_name": "Mandrágora - Energizada",
+            "card_text": "O nome da Mandrágora deriva de uma erva tóxica. O estudioso que atribuiu primeiro o nome acreditava que havia uma semelhança entre ambas com base apenas na aparência delas.\nAo desabrochar, a Mandrágora emite raios de calor direcionados a objetos próximos enquanto folhas robustas a ancoram com firmeza no solo para evitar ser arrancada. Quando ameaçada, a Mandrágora pode usar suas folhas afiadas como autodefesa.\nSemelhante à lenda de sua homônima, os gritos da Mandrágora podem ser muito letais.\n\"Para trás! Vai desabrochar a qualquer momento!\"",
+            "card_quote": "— Mandrágora florescendo no filme Medo Profundo",
+            "skill_text": "Durante o combate, Mandrágoras fornecem bônus de ATQ/Escudo para unidades adjacentes."
+        },
+        "100251": {
+            "monster_id": 100251,
+            "monster_name": "Arimã - Energizado",
+            "card_text": "Devido à sua forma única e grotesca, Arimã costuma ser confundido com uma escultura artística nos Edifícios Balé.\nComo resultado disso, muitos investigadores novatos ficam traumatizados pelo resto da vida após seu primeiro encontro com um Arimã...\nVocê acaba de passar por uma certa \"escultura\", e então ela se move...\nEsse instante aterrador de paralisia é a oportunidade perfeita para Arimã lançar um ataque surpresa.\n\"Corin, não se deixe enganar pelas aparências... isso aí não é arte moderna.\"\n\"É hora de darmos um jeito nisso.\"",
+            "card_quote": "— Lycaon orientando Corin na limpeza",
+            "skill_text": "Durante o combate, Arimã executa ataques de teletransporte e, às vezes, se une a outro Arimã para executar ataques coordenados."
+        },
+        "100261": {
+            "monster_id": 100261,
+            "monster_name": "Espectro - Energizado",
+            "card_text": "Influenciados pela distinta decoração interna dos Edifícios Balé, os espectros apresentam uma estrutura grotesca e retorcida, como uma escultura artística.\nAlguns investigadores acreditam que sua forma única tem a finalidade de manter seu Núcleo de Éter mais protegido.\nOutros investigadores argumentam que isso não passa de um truque projetado para causar distração. Enquanto seus inimigos estão fascinados por sua postura peculiar, um espectro aproveitará a oportunidade para desferir ataques de longo alcance usando Éter concentrado.\n\"Olhei para estrutura bizarra e pensei: ele tá tentando jogar boliche com a própria cabeça?\"\n\"Mas, antes que eu percebesse, a bola de boliche já tinha esmagado a minha cara...\"",
+            "card_quote": "— Publicado por um usuário anônimo na Interlaço",
+            "skill_text": "Durante o combate, Espectro executa uma sequência de ataques de longo alcance."
+        },
+        "100301": {
+            "monster_id": 100301,
+            "monster_name": "Fossor - Energizado",
+            "card_text": "Estudos recentes do Instituto Estrela Branca revelaram que os membros de alguns Etéreos carregam características do ambiente.\nFossor é um exemplo disso. Seus estranhos membros superiores têm incrível semelhança com os equipamentos de perfuração do antigo Campo de Petróleo.\nEmbora alguns sugiram que isso é uma tática de camuflagem para enganar inimigos, outros dizem que o estilo agressivo e direto de Fossor não condiz com alguém que faz emboscadas.\nSaqueadores de Esfera mais criativos especulam que Fossor desenvolveu esta forma para cavar atrás de minérios...\n\"Quando eu o vi na distância, parecia que ele estava bem feliz cavando o asfalto.\"\n\"Quando ele me viu, não pensou duas vezes antes de me atacar e me afugentar correndo dali...\"\n\"Mas eu só estava de passagem! Eu não queria nenhuma das quinquilharias dele!\"",
+            "card_quote": "— Um saqueador novato do lado de fora de uma Esfera Negra contando sua experiência recente aos seus companheiros",
+            "skill_text": "Fossor realiza cortes duplos consecutivos durante o combate."
+        },
+        "100311": {
+            "monster_id": 100311,
+            "monster_name": "Sordidus - Energizado",
+            "card_text": "Muitas criaturas bizarras vivem nas Esferas Negras da zona externa, entre elas os Sordidus.\nEles possuem uma estrutura corporal única, com membros muito flexíveis, que parecem ser fruto de uma reação entre petróleo cru e Éter ativado.\nQuando eles definem um alvo, usam seus membros como acrobatas experientes e lançam ataques brutalmente agressivos.\n\"Droga! Aquela coisa me chicoteou!\"\n\"Será que ele acha que é um domador, e nos trata como animais selvagens?\"",
+            "card_quote": "— Um grupo de saqueadores novatos lutam contra um Sordidus na Esfera Negra",
+            "skill_text": "Sordidus chicoteia seus tentáculos, para ataques de curto alcance ou insere os tentáculos no chão, para ataques de longo alcance durante o combate."
+        },
+        "200001": {
+            "monster_id": 200001,
+            "monster_name": "Fárbauti - Energizado",
+            "card_text": "Ostentando uma força imensa e quase sempre em estado frenético, Fárbauti é uma das ameaças mais formidáveis que os saqueadores podem enfrentar. Seus braços em forma de martelo podem desviar facilmente os ataques e desferir saraivadas de golpes que esmagam tudo no caminho.\nAlguns saqueadores observaram Fárbauti batendo com frequência no chão de maneira rítmica e muito rápido, levando a especulações sobre seu interesse peculiar por música percussiva.\nEmbora a Associação de Investigação de Esferas Negras tenha desmentido publicamente esse rumor, muitos saqueadores carregam aparelhos de som portáteis na tentativa de distrair Fárbauti com música.\nNo entanto, não há relatos de fugas bem-sucedidas usando esse método.\n\"O motivo do fracasso deles é simples: até os Fárbauti acham o gosto musical de vocês uma porcaria!\"",
+            "card_quote": "— Publicado por \"dedo_de_cravo\" no Fórum Rock da Faxina Sombria",
+            "skill_text": "Durante o combate, Fárbauti usa seus poderosos braços para executar ataques de martelada contínuos, mas tais braços podem ser danificados e paralisados após sofrerem uma certa quantidade de dano."
+        },
+        "200004": {
+            "monster_id": 200004,
+            "monster_name": "Ionizado - Fárbauti",
+            "card_text": "Ostentando uma força imensa e quase sempre em estado frenético, Fárbauti é uma das ameaças mais formidáveis que os saqueadores podem enfrentar. Seus braços em forma de martelo podem desviar facilmente os ataques e desferir saraivadas de golpes que esmagam tudo no caminho.\nAlguns saqueadores observaram Fárbauti batendo com frequência no chão de maneira rítmica e muito rápido, levando a especulações sobre seu interesse peculiar por música percussiva.\nEmbora a Associação de Investigação de Esferas Negras tenha desmentido publicamente esse rumor, muitos saqueadores carregam aparelhos de som portáteis na tentativa de distrair Fárbauti com música.\nNo entanto, não há relatos de fugas bem-sucedidas usando esse método.\n\"O motivo do fracasso deles é simples: até os Fárbauti acham o gosto musical de vocês uma porcaria!\"",
+            "card_quote": "— Publicado por \"dedo_de_cravo\" no Fórum Rock da Faxina Sombria",
+            "skill_text": "Durante o combate, Fárbauti - Ionizado usa seus poderosos braços para executar ataques de martelada contínuos, mas tais braços podem ser danificados e paralisados após sofrerem uma certa quantidade de dano. Também consegue acumular Energia durante um tempo para depois executar um poderoso ataque pulando."
+        },
+        "200011": {
+            "monster_id": 200011,
+            "monster_name": "Hati - Energizado",
+            "card_text": "A Equipe de Investigação da Fase I da AIEN documentou oficialmente a existência desta criatura etérea consciente, que se assemelha a uma fera de quatro patas, representando um perigo significativo.\nSegundo boatos, a primeira aparição ocorreu na Esfera Negra principal, onde indivíduos que exploravam os resíduos próximos disseram ouvir rugidos ensurdecedores que lembravam os grunhidos de animais selvagens.\n\"Se eu jogar um graveto ou uma bola, será que aquele monstro vai pegar?\"\n\"Você pode tentar, mas não vou pagar suas despesas médicas.\"",
+            "card_quote": "— Um bate-papo entre Billy e Nicole",
+            "skill_text": "Durante o combate, Hati usa saltos ágeis e ataques rápidos com a garra."
+        },
+        "200014": {
+            "monster_id": 200014,
+            "monster_name": "Hati - Notório",
+            "card_text": "A Equipe de Investigação da Fase I da AIEN documentou oficialmente a existência desta criatura etérea consciente, que se assemelha a uma fera de quatro patas, e representa um perigo significativo.\nSegundo boatos, a primeira aparição ocorreu na Esfera Negra principal. Indivíduos que exploravam os resíduos próximos disseram ouvir rugidos ensurdecedores que lembravam os grunhidos de animais selvagens.\n\"Se eu jogar um graveto ou uma bola, será que aquele monstro vai pegar?\"\n\"Você pode tentar, mas eu não vou pagar sua conta do hospital.\"",
+            "card_quote": "— Um bate-papo entre Billy e Nicole",
+            "skill_text": null
+        },
+        "200015": {
+            "monster_id": 200015,
+            "monster_name": "Hati Alfa - Energizado",
+            "card_text": "A Equipe de Investigação da Fase I da AIEN documentou oficialmente a existência desta criatura etérea consciente, que se assemelha a uma fera de quatro patas e representa perigo significativo.\nSegundo boatos, a primeira aparição ocorreu na Esfera Negra principal, onde indivíduos que exploravam os resíduos próximos disseram ouvir rugidos ensurdecedores, similares a grunhidos de animais selvagens.\n\"Se eu jogar um graveto ou uma bola, será que aquele monstro vai pegar?\"\n\"Você pode tentar, mas não vou pagar suas despesas médicas.\"",
+            "card_quote": "— Uma conversa entre Billy e Nicole",
+            "skill_text": "Hati Alfa tem um forte desejo de atacar e seus movimentos são rápidos e ágeis durante o combate."
+        },
+        "200021": {
+            "monster_id": 200021,
+            "monster_name": "Goblin - Energizado",
+            "card_text": "Durante os primeiros encontros com esses Etéreos singulares, os investigadores de Esferas Negras acreditaram erroneamente que eles tinham algum nível de inteligência, mostrando até sinais de aprendizado no manejo de armas perigosas, assim como os humanos. Por isso, foram apelidados de \"Goblins\".\nNo entanto, pesquisas subsequentes revelaram que seus \"martelos\" eram, na verdade, membros torcidos e deformados, e que eles não tinham a capacidade de imitar comportamentos humanos.\nApesar disso, os Goblins permanecem adversários formidáveis devido ao físico robusto e à força bruta, sendo capazes de causar a morte até mesmo com um simples golpe de seus membros.\nSe algo invade o território deles, eles entram de imediato num estado de fúria, esmagando sem piedade o intruso com pouco esforço.\n\"Hã? Tem um goblin correndo para cá, batendo num monte de sucata.\"\n\"Você não acha que os ataques dele têm um certo ritmo, como se ele estivesse tocando uma bateria?\"\n\"Ei! Não sejam idiotas! Isso não é sucata! É nosso caminhão de suprimentos!\"",
+            "card_quote": "— Um Goblin invade o esconderijo de uma gangue",
+            "skill_text": "Durante o combate, o rugido do Goblin aumenta o dano que ele causa e reduz muito o dano que ele recebe. Entretanto, esses efeitos são interrompidos se ele for Atordoado."
+        },
+        "200031": {
+            "monster_id": 200031,
+            "monster_name": "Hati Blindado - Energizado",
+            "card_text": "Muitos investigadores de Esferas Negras experientes consideram o Hati Blindado um adversário formidável.\nEmbora a carapaça blindada limite a agilidade dele, sua capacidade defensiva é extraordinária.\nAlém disso, o material corrompido em seu corpo forma protuberâncias afiadas e resistentes capazes de causar danos adicionais quando o Hati Blindado ataca em alta velocidade.\nOs movimentos ágeis, a resistência a golpes e a armadura impenetrável dessa criatura obrigam até os exploradores mais experientes a buscar rotas alternativas para evitar confrontos diretos.\nAlguns saqueadores novatos tentaram atrair o Hati Blindado com comida de animais de estimação.\nObviamente, isso não funciona muito bem.\n\"Corra! Ele não gosta desse sabor de ração para cachorro!\"",
+            "card_quote": "— Vários saqueadores novatos em pânico fugindo de um Hati numa Esfera Negra",
+            "skill_text": "Durante o combate, a armadura do Hati Blindado reduz bastante o dano e o Atordoamento recebidos, mas a Assistência Defensiva reduz muito da sua blindagem."
+        },
+        "200034": {
+            "monster_id": 200034,
+            "monster_name": "Hati Blindado - Notório",
+            "card_text": "Muitos investigadores de Esferas Negras experientes consideram o Hati Blindado um adversário formidável.\nEmbora a carapaça blindada limite sua agilidade, sua capacidade defensiva é extraordinária.\nAlém disso, o material corrompido em seu corpo forma protuberâncias afiadas e resistentes, capazes de causar danos adicionais quando o Hati Blindado ataca em alta velocidade.\nOs movimentos ágeis, resistência a golpes e a armadura impenetrável dessa criatura obrigam até os exploradores mais experientes a buscar rotas alternativas para evitar confrontos diretos.\nAlguns Saqueadores de Esferas novatos tentaram atrair o Hati Blindado com comida de animais de estimação.\nObviamente, isso não funciona muito bem.\n\"Corra! Ele não gosta desse sabor de ração de cachorro!\"",
+            "card_quote": "— Vários saqueadores de esfera novatos em pânico fugindo de um Hati numa Esfera Negra",
+            "skill_text": "Durante o combate, a armadura do Hati Blindado - Notório reduz bastante o dano e o Atordoamento recebidos, mas a Assistência Defensiva reduz muito da sua blindagem. Seu rugido também libera balas de Éter mais poderosas do que o normal."
+        },
+        "200041": {
+            "monster_id": 200041,
+            "monster_name": "Filhote de Goblin da Ferrovia - Energizado",
+            "card_text": "A discussão sobre os Goblins da Ferrovia não termina. Alguns estudiosos argumentam que a aparência peculiar deles serve como camuflagem para confundir os inimigos enquanto outros atribuem os detritos em seus corpos à corrupção e à fusão com equipamentos antigos do metrô.\nNo entanto, a presença dos Goblins da Ferrovia evoca medo entre os investigadores inexperientes que exploram a zona antiga do metrô na Esfera Negra.\nA qualquer momento, o que parece ser uma simples \"placa de trânsito\" pode começar a tremer e, então, um formidável Etéreo emerge do chão, investindo de forma ameaçadora.\n\"Hã? Eu vi essa placa há alguns minutos. Estamos andando em círculos?\"\n\"Não... Essa 'placa de trânsito' está nos seguindo!\"",
+            "card_quote": "— O personagem principal do filme de terror Perdição Eterna procurando uma saída da Esfera Negra",
+            "skill_text": "Durante o combate, o rugido do Goblin aumenta o dano que ele causa e reduz muito o dano que ele recebe. Entretanto, esses efeitos são interrompidos se ele for Atordoado."
+        },
+        "200051": {
+            "monster_id": 200051,
+            "monster_name": "Arlaune - Energizado",
+            "card_text": "Muitos saqueadores novatos que se deparam com um Arlaune pela primeira vez costumam ser ludibriados pela aparência dela, assumindo equivocadamente que se trata de uma planta inofensiva.\nMas, ao se aproximarem, descobrem que a Arlaune libera uma descarga concentrada de matéria etérea, que surpreende suas vítimas.\n\"Hã? Eu tentei regá-la, e ela cuspiu em mim?\"",
+            "card_quote": "— Um grupo de investigadores novatos encurralados por uma Arlaune numa Esfera Negra",
+            "skill_text": "Durante o combate, Arlaune executa ataques de longo alcance extremamente inteligentes. Entretanto, Desequilibrá-la enquanto suas pétalas estiverem abertas causará um acúmulo grande de Atordoamento com um só golpe."
+        },
+        "300001": {
+            "monster_id": 300001,
+            "monster_name": "Dullahan - Energizado",
+            "card_text": "Um poderoso humanoide de Éter vivo, observado pela primeira vez na Esfera Negra de Lagunópolis e documentado pela Terceira Equipe de Investigação da Associação de Investigação de Esferas Negras. Permanece incerta a correlação exata entre esses seres de Éter vivo e a queda da cidade ribeirinha conhecida como Blaise.\nDevido ao imenso poder e estilo de luta formidável, a AIEN os classificou como muito perigosos e aconselha que investigadores novatos evitem confrontos diretos com eles.\n\"Não deixe que ele ative a espada, e, se já tiver ativado, não deixe que te corte.\"",
+            "card_quote": "— Trecho da entrevista com um investigador no programa de variedades \"Me Ensine, Senpai!\"",
+            "skill_text": "Durante o combate, Dullahan usa sua longa espada para avançar e executar um ataque de alto nível, que pode ser interrompido pelos seus próprios ataques de alto nível."
+        },
+        "300002": {
+            "monster_id": 300002,
+            "monster_name": "Filhote de Dullahan",
+            "card_text": "Um poderoso humanoide de Éter vivo, observado pela primeira vez na Esfera Negra de Lagunópolis e documentado pela Terceira Equipe de Investigação da Associação de Investigação de Esferas Negras. Permanece incerta a correlação exata entre esses seres de Éter vivo e a queda da cidade ribeirinha conhecida como Blaise.\nDevido ao imenso poder e estilo de luta formidável, a AIEN os classificou como muito perigosos e aconselha que investigadores novatos evitem confrontos diretos com eles.\n\"Não deixe que ele ative a espada, e, se já tiver ativado, não deixe que te corte.\"",
+            "card_quote": "— Trecho da entrevista com um investigador no programa de variedades \"Me Ensine, Senpai!\"",
+            "skill_text": "Durante o combate, Dullahan usa sua longa espada para avançar e executar um ataque de alto nível, que pode ser interrompido pelos seus próprios ataques de alto nível."
+        },
+        "300004": {
+            "monster_id": 300004,
+            "monster_name": "Dullahan - Ionizado",
+            "card_text": "Um poderoso humanoide de Éter vivo, inicialmente observado na Esfera Negra de Lagunópolis e documentado pela Terceira Equipe de Investigação da AIEN. Permanece incerta a correlação exata entre esses seres de Éter vivo e a queda da cidade ribeirinha conhecida como Blaise.\nDevido ao imenso poder e estilo de luta formidável, a AIEN os classificou como altamente perigosos e aconselha que investigadores novatos evitem confrontos diretos com eles.\n\"Não deixe que ele ative a espada, e se já tiver ativado... não deixe que te corte.\"",
+            "card_quote": "— Trecho da entrevista com um investigador no programa de variedades \"Me Ensine, Senpai!\"",
+            "skill_text": "Durante o combate, Dullahan- Ionizado usa sua longa espada para avançar e executar um ataque de alto nível, que pode ser interrompido pelos seus próprios ataques de alto nível. Algumas das suas habilidades também acumulam Energia de Éter que pode iniciar ataques subsequentes explosivos."
+        },
+        "300005": {
+            "monster_id": 300005,
+            "monster_name": "Dullahan - Notório",
+            "card_text": "Um poderoso humanoide de Éter vivo, inicialmente observado na Esfera Negra de Lagunópolis e documentado pela Terceira Equipe de Investigação da AIEN. Permanece incerta a correlação exata entre esses seres de Éter vivo e a queda da cidade ribeirinha conhecida como Blaise.\nDevido ao imenso poder e estilo de luta formidável, a AIEN os classificou como altamente perigosos e aconselha que investigadores novatos evitem confrontos diretos com eles.\n\"Não deixe que ele ative a espada, e se já tiver ativado... não deixe que te corte.\"",
+            "card_quote": "— Trecho da entrevista com um investigador no programa de variedades \"Me Ensine, Senpai!\"",
+            "skill_text": "Durante o combate, Dullahan - Notório usa sua longa espada para avançar e executar um ataque de alto nível, que pode ser interrompido pelos seus próprios ataques de alto nível. Dullahan - Notório consegue bloquear ataques com seu escudo e combinar ataques logo após o bloqueio."
+        },
+        "300011": {
+            "monster_id": 300011,
+            "monster_name": "Tânatos - Energizado",
+            "card_text": "Explorar Esferas Negras pode ser mentalmente angustiante, e Tânatos, com sua habilidade singular de teletransporte e padrões de ataque imprevisíveis, tornou-se um desafio psicológico comum entre os saqueadores.\nMuitos indivíduos que enfrentaram Tânatos por conta própria na Esfera Negra perderam toda a coragem de continuar suas aventuras e optaram por se aposentar antes da hora.\nComo resultado, essas entidades elusivas se tornaram figuras recorrentes em filmes de terror.\n\"A sombra esguia desaparece diante de seus olhos e reaparece atrás de você...\"\n\"O que devo fazer? Agora estou com tanto medo que nem consigo ir ao banheiro sozinho...\"",
+            "card_quote": "— Tópico de discussão em alta no site de críticas de cinema \"Ameixa Cúprica\" na noite de estreia do filme de terror \"Etéreo Bate à Porta\"",
+            "skill_text": "Durante o combate, Tânatos se teletransporta para atacar a partir de ângulos diferentes do normal, mas seu acúmulo de Atordoamento ao usar Assistência Defensiva e Assistência Imediata também é muito alto."
+        },
+        "300014": {
+            "monster_id": 300014,
+            "monster_name": "Ionizado - Tânatos",
+            "card_text": "Explorar Esferas Negras pode ser mentalmente angustiante, e Tânatos, com sua habilidade singular de teletransporte e padrões de ataque imprevisíveis, tornou-se um desafio psicológico comum entre os saqueadores.\nMuitos indivíduos que enfrentaram Tânatos por conta própria na Esfera Negra perderam toda a coragem de continuar suas aventuras e optaram por se aposentar prematuramente.\nComo resultado, essas entidades elusivas se tornaram figuras recorrentes em filmes de terror.\n\"A sombra esguia desaparece diante de seus olhos e reaparece atrás de você...\"\n\"O que devo fazer? Agora estou com tanto medo que nem consigo ir ao banheiro sozinho...\"",
+            "card_quote": "— Noite de estreia do filme de terror \"Etéreo Bate à Porta\", tópico de discussão em alta no site de críticas de cinema \"Ameixa Cúprica\"",
+            "skill_text": "Durante o combate, Ionizado - Tânatos se teletransporta para atacar a partir de ângulos diferentes do normal, mas seu acúmulo de Atordoamento ao usar Assistência Defensiva e Assistência Imediata também é muito alto."
+        },
+        "300015": {
+            "monster_id": 300015,
+            "monster_name": "Tânatos - Notório",
+            "card_text": "Explorar Esferas Negras pode ser mentalmente angustiante, e Tânatos, com sua habilidade singular de teletransporte e padrões de ataque imprevisíveis, tornou-se um desafio psicológico comum entre os saqueadores.\nMuitos indivíduos que enfrentaram Tânatos por conta própria na Esfera Negra perderam toda a coragem de continuar suas aventuras e optaram por se aposentar prematuramente.\nComo resultado, essas entidades elusivas se tornaram figuras recorrentes em filmes de terror.\n\"A sombra esguia desaparece diante de seus olhos e reaparece atrás de você...\"\n\"O que devo fazer? Agora estou com tanto medo que nem consigo ir ao banheiro sozinho...\"",
+            "card_quote": "— Noite de estreia do filme de terror \"Etéreo Bate à Porta\", tópico de discussão em alta no site de críticas de cinema \"Ameixa Cúprica\"",
+            "skill_text": "Durante o combate, Tânatos - Notório se teletransporta para atacar a partir de ângulos diferentes do normal e é extremamente agressivo, mas seu acúmulo de Atordoamento ao usar Assistência Defensiva e Assistência Imediata também é muito alto."
+        },
+        "300071": {
+            "monster_id": 300071,
+            "monster_name": "Filhote de Carniceiro do Beco",
+            "card_text": "Ao contrário de outros Etéreos altamente perigosos, o Éter dentro do corpo do Carniceiro do Beco costuma permanecer num estado dormente de baixa atividade.\nNo entanto, ele tem uma força bruta imensa capaz de demolir qualquer obstáculo, e toda a Zona do Metrô retorcida e devastada serve como sua cozinha proibida.\nApenas quando um alvo ameaçador desperta seu interesse é que ocorre uma transformação horripilante...\nEm instantes, a alta concentração de Éter armazenada em seu corpo sofre uma transformação violenta, e a energia que aumenta exponencialmente faz com que seus membros se distorçam muito rápido, assumindo uma postura de \"alimentação\" mais brutal e voraz.\nA hora dos \"aperitivos\" terminou, e um \"banquete\" inigualável está prestes a começar.\nQualquer um que não queira fazer parte deste banquete deve ser bastante cauteloso ao escolher o caminho e ficar longe da \"cozinha\" a todo custo.\n\"Os caminhos nas Esferas Negras são complexos, mas uma coisa é certa: quando ele aparece no final do caminho, esse caminho é um 'beco sem saída'.\"",
+            "card_quote": "— 17ª Investigação da Esfera Sem Saída da Associação de Investigação de Esferas Negras",
+            "skill_text": "Durante o combate, os ataques do Filhote de Carniceiro do Beco variam muito. Após ele sofrer dano suficiente, os ataques da fase dois tornam-se sequenciais, com a adição de ataques de laser. Use uma habilidade de alto nível após seu combo acabar para aumentar a paralisação. O Filhote de Carniceiro do Beco efetua esquivas rápidas para evitar ataques inimigos."
+        }
+    },
+    "Bandidos": {
+        "10015": {
+            "monster_id": 10015,
+            "monster_name": "Saqueador",
+            "card_text": "Exemplares centrais entre os ladrões de Éter, os Saqueadores e os Piratas possuem tanto habilidades técnicas, quanto habilidades de combate.\nSeus dispositivos de detecção de ressonância elétrica emitem correntes poderosas para detectar minérios de Éter, além de funcionarem como armas formidáveis durante incursões armadas.\nEles nem ligam para o fato de serem ocasionalmente confundidos com pescadores ilegais.\nAfinal, com seu aparato elétrico extremamente letal, eles pouco se importam se seus alvos são peixes ou humanos...\n\"Caso encontre indivíduos armados com arpões eletrificados, seja próximo a um rio, lago ou Esfera Negra, comunique imediatamente ao Departamento de Segurança Pública!\"",
+            "card_quote": "— Slogan do Departamento de Segurança Pública de Nova Eridu tocado repetidamente em carros de divulgação",
+            "skill_text": "Durante o combate, o Bandido de Esfera - Saqueador avançará uma longa distância, podendo até colidir com obstáculos no seu caminho, criando uma oportunidade perfeita para contra-ataques."
+        },
+        "10016": {
+            "monster_id": 10016,
+            "monster_name": "Piromaníaco",
+            "card_text": "Para os Piromaníacos e Incendiários, roubar transeuntes não passa de renda extra. No fundo, eles se veem como bartenders hábeis em uma constante busca por emoção.\nCom talento, precisão e profissionalismo, misturam vários tipos de Éter em suas bebidas, criando garrafas de uma \"poção exclusiva\" altamente inflamável e explosiva.\nEles, ao contrário de outros saqueadores de esfera brutais, costumam oferecer uma escolha às suas vítimas.\nSe a vítima concorda em pagar a taxa, eles estendem a cortesia de uma bebida gratuita.\nPorém, se a resposta for negativa, a garrafa de \"poção exclusiva\" inflamável será quebrada à força na cabeça da vítima.\n\"Que tal tapearmos esses caras para que bebam seu próprio estoque de armas?\"",
+            "card_quote": "— Investigador roubado discutindo discretamente estratégias de retirada na Esfera Negra",
+            "skill_text": "Às vezes, durante o combate, o Bandido de Esfera - Piromaníaco efetua bombardeios usando vários coquetéis molotov."
+        },
+        "10018": {
+            "monster_id": 10018,
+            "monster_name": "Caçador Furtivo",
+            "card_text": "A maioria dos bandidos que passam um tempo nas Esferas Negras exibem sérios problemas mentais ou peculiaridades. Felizmente, os Caçadores Furtivos e os Ladrões da gangue conseguiram manter sua sanidade abraçando os métodos sujos dos vilões tradicionais.\nCovardes e astutos, eles se sobressaem na arte de se ocultar nas sombras para surpreender seus alvos. Jamais optam por atacar de frente se podem armar emboscadas.\nSuas bestas leves e versáteis, embora limitadas em potência, produzem um ruído mínimo ao serem disparadas. Caçadores Furtivos experientes costumam tirar proveito do momento perfeito e imobilizam sua presa desavisada com um único disparo bem direcionado.\n\"Eu era Oficial da Segurança Pública, até que um dia levei uma flechada no joelho durante uma operação numa Esfera Negra...\"",
+            "card_quote": "— Membro sênior da Empresa de Segurança Rouxinol falando com um novato",
+            "skill_text": "Durante o combate, o Bandido de Esfera - Caçador Furtivo costuma atacar os alvos à distância usando sequências de 3 disparos."
+        },
+        "10019": {
+            "monster_id": 10019,
+            "monster_name": "Agressor",
+            "card_text": "Como vanguardistas em gangues de saqueadores de esfera, os Agressores e os Emboscadores costumam empunhar suas armas e avançar de maneira independente.\nIsso não se deve à sua imprudência ou à falta de consideração pelo trabalho em equipe, mas sim a uma medida de precaução para evitar danos acidentais. As bobinas modificadas do transformador em suas mãos liberam correntes de alta voltagem no contato, capazes de paralisar, ou até mesmo nocautear um oponente com apenas um toque.\nE nas Esferas Negras, que já apresentam desafios logísticos o suficiente, um único companheiro de equipe incapacitado poderia representar um desafio terrível para todo o esquadrão.\n\"O que é isso? Deixa eu ver! Ah, é uma réplica de aparelho de eletrochoque... Aaaaaaaaaaarrghhh...\"",
+            "card_quote": "— Palavras finais de um investigador novato curioso antes de cair no chão numa Esfera Negra",
+            "skill_text": "Durante o combate, o Bandido de Esfera- Agressor executa ataques giratórios contínuos, mas estes insanos ataques suicidas costumam revelar uma fraqueza."
+        },
+        "20015": {
+            "monster_id": 20015,
+            "monster_name": "Intimidador Corpulento",
+            "card_text": "Em comparação com os investigadores de Esferas Negras totalmente equipados, os Intimidadores Corpulentos e os Intimidadores Procurados possuem equipamentos minimalistas.\nNo entanto, esses notórios valentões conseguem, facilmente, incutir medo em suas vítimas com um equipamento improvisado.\nUm bastão de metal com espinhos e uma espingarda de cano duplo modificada são tudo o que eles precisam para se posicionarem como os brutamontes mais temidos na Esfera.\nSegundo os investigadores que os encontraram, esses brutamontes entram num estado extremo de euforia durante a batalha. O \"comportamento\" deles dificilmente seria considerado adequado para o combate e se assemelha mais a atos de bullying.\n\"Lutar contra eles trouxe de volta o medo que senti ao enfrentar os valentões da escola sem a ajuda de ninguém...\"",
+            "card_quote": "— Carta de Demissão de um investigador novato da Associação de Investigação de Esferas Negras",
+            "skill_text": "Durante o combate, o Bandido de Esfera - Intimidador Corpulento alterna entre o uso de um bastão ou de uma escopeta, alternando entre ataques contra alvos próximos e chutes na areia para executar uma emboscada."
+        },
+        "20017": {
+            "monster_id": 20017,
+            "monster_name": "Capanga Corpulento",
+            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nSendo entusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de esfera, investigadores de esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancada\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
+            "card_quote": "— O Billy está lidando com uns capangas que se aproximaram dele na Esfera",
+            "skill_text": "Durante o combate, o Bandido de Esfera - Capanga Corpulento usa ambos os punhos para socar, enquanto usa ágeis passadas laterais para alternar o ângulo de ataque."
+        },
+        "20020": {
+            "monster_id": 20020,
+            "monster_name": "Limpador Furioso",
+            "card_text": "Um número significativo de mecas de combate pertencentes ao DSP é destruído na Esfera Negra todos os anos. Alguns desses mecas são reparados depois por bandidos de Esferas Negras e transformados ilegalmente em Limpadores Furiosos.\nApesar de não terem acesso a peças padrão ou a serviços de reparo profissionais, os bandidos conseguem restaurar esses mecas usando componentes improvisados, fazendo o possível para manter as condições de combate originais.\nNa busca pela individualidade, os bandidos costumam aplicar pinturas personalizadas e até instalam alto-falantes potentes em seus Limpadores Furiosos.\nEmbora isso não aumente a eficácia em combate, faz com que pareçam mais legais do que os originais.\n\"Lá vamos nós! Tem uma presa fácil ali com cabelo cor-de-rosa!\"\n\"Ei! Coloca aquela música de fundo que a gente sempre usa nos roubos!\"",
+            "card_quote": "— Bandido de Esfera ajustando com urgência um Limpador Furioso numa Esfera Negra",
+            "skill_text": "Durante o combate, a Unidade de Suporte Ilegal - Limpador Furioso usa seus longos braços para realizar um ataque giratório. Use a Assistência Defensiva antes dele fazê-lo para não permitir o ataque."
+        },
+        "20023": {
+            "monster_id": 20023,
+            "monster_name": "Mors",
+            "card_text": "Mors já foi o caçador de recompensas mais temido da zona externa. Seu desejo de caçar era quase compulsivo, e ele costumava perseguir seus alvos sem parar por dias a fio. Quando ele colocava os olhos em um alvo, persegui-lo se tornava uma obsessão até que a presa estivesse derrotada.\nAs principais facções da zona externa acreditam que Mors, o \"lobo solitário\", nunca falha.\nDurante certa caçada, Mors perseguiu seu alvo por três dias e três noites... Porém, mesmo tendo exaurido todas as suas forças, ele não conseguiu matá-lo. Por incrível que pareça, o homem, chamado Pompey, não levou para o lado pessoal e ainda ofereceu ao derrotado Mors um convite para se juntar à sua organização.\nDesse momento em diante, ficou impossível encontrar o famoso \"caçador\" Mors. Entretanto, nos Aniquiladores, uma nova figura surgia... Um capitão solitário e silencioso. Até o momento, Mors continua elusivo e costuma desaparecer por longos períodos. Ele só reaparece quando encontra um rival que aguça sua curiosidade. Não porque é seu dever como capitão, mas para sentir a emoção da luta e a felicidade da caçada.\n\"Você quer desafiar o capitão Mors para um duelo? Olha só... você acha mesmo que consegue?\"\n\"Vá se inscrever ali e volte no próximo mês para ver se você tem mais sorte.\"",
+            "card_quote": "— Nos Aniquiladores, homens de Mors se defendendo do inimigo",
+            "skill_text": "Mors se adapta ao campo de batalha durante o combate. Ele alterna entre combos de curta distância e tiros de longa distância. Quando sua vida cai abaixo de determinada percentagem ou após determinado período, ele passa usar ataques consecutivos de longa distância ou a emboscar seus alvos com tiros sem alvo definido, quando se reposiciona."
+        },
+        "20024": {
+            "monster_id": 20024,
+            "monster_name": "Pulchra",
+            "card_text": "Ninguém sabe de onde Pulchra veio, mas ela já foi uma das melhores mercenárias da zona externa, uma \"camaleoa\" que se adaptava facilmente conforme a situação. Pouco depois do último Tour Incendiário, algumas facções conspiraram para lançar um ataque surpresa contra Os Aniquiladores. Esse esquema foi facilmente neutralizado por eles, como se todos os planos estivessem ao alcance de suas mãos. Os derrotados foram expulsos do antigo Campo de Petróleo, mas Pulchra, que havia se aliado a eles, saiu completamente ilesa. Naturalmente, muitos acreditaram que essa vitória se deu graças a uma traição.\nEmbora muitos tenham feito ofertas, esperando que ela se juntasse a eles, Pulchra nunca se uniu oficialmente a nenhuma gangue. Talvez, para ela, todas essas conspirações e conflitos na zona externa fossem apenas um jogo que ela poderia abandonar a qualquer momento. Mesmo que seu empregador fosse detestável, ela não se importaria, desde que tivesse dinheiro e o trabalho fosse interessante. Especialmente se o trabalho envolvesse atrair um inimigo para uma armadilha habilmente preparada, permitindo que ela assistisse enquanto ele lentamente mergulhava no abismo da morte...\nAtrair e enganar até a completa destruição... Quanto mais beleza, mais mortal - esse sempre foi seu código de sobrevivência.\n\"O quê? Quer trabalhar sob o comando da mana Pulchra?\"\n\"Heh, mais um pobre coitado..\"",
+            "card_quote": "— No acampamento dos Aniquiladores, um novato sendo provocado por um veterano",
+            "skill_text": "Pulchra mantém distância durante o combate e espera pelo momento ideal para usar ataques físicos, sua lâmina-revólver e dispositivos para prejudicar o alvo. Quando sua vida cai abaixo de determinada percentagem, ela toma um tônico que melhora sua habilidade de realizar Esquivas e permite que ela desvie de ataques de alvos próximos."
+        },
+        "20025": {
+            "monster_id": 20025,
+            "monster_name": "Bellum",
+            "card_text": "Como campeão de arena com uma impressionante sequência de vitórias, Bellum já se autointitulou o lutador número um da zona externa... até que sua sequência foi interrompida.\nO que foi ainda mais irritante... é que aquele cara arrogante nem sequer se lembrava do nome dele.\nFurioso, Bellum aprimorou suas habilidades de luta, jurando que faria seu nome ser conhecido em toda a zona externa mais uma vez e faria aquele idiota arrogante que o derrotou pagar.\nPara alcançar seu objetivo, Bellum se juntou aos Aniquiladores e ajudou Pompey a derrotar vários inimigos poderosos. Ele sabia modificar e operar um lança-chamas com habilidade, liderando ataques para incinerar inimigos em seu caminho. Também conseguia comandar sua equipe com precisão impecável, organizando-os em uma força de batalha imbatível. Todas as batalhas que liderou terminaram em vitória.\nAgora, Bellum não precisa mais que seu nome seja conhecido.\nEmbora ele não seja mais aquele campeão com uma impressionante sequência de vitórias, na zona externa, todos conhecem o terror das guerras de gangues, e como membro da força de combate principal dos Aniquiladores, Bellum era o sinônimo de guerra.\n\"Você não quer fazer trabalhos braçais? Haha, você só pode reclamar depois de derrotar o chefe Bellum!\"\n\"Agora vai limpar o banheiro!\"",
+            "card_quote": "— Um veterano está repreendendo um novato negligente no acampamento dos Aniquiladores",
+            "skill_text": "Durante o combate, Bellum usa sua lâmina-revólver, escudo e lança-chamas para pressionar os inimigos próximos. Quando atacado enquanto guarda o escudo, ele responde com um belo contra-ataque. Quando sua vida cai abaixo de determinada percentagem, seus ataques se tornam mais cruéis e implacáveis."
+        },
+        "30019": {
+            "monster_id": 30019,
+            "monster_name": "Guerreiro Bruto",
+            "card_text": "As gangues de saqueadores de Esferas geralmente são uma bagunça, com pessoas muito diferentes. A única razão para conseguirem se reunir é porque roubar recursos etéreos é muito lucrativo.\nEsses bandos de arruaceiros vivem de forma desregrada.\nMas a ordem se instaura quando surge o maior símbolo da violência, os \"Guerreiros Brutos\".\nEles usam um sistema de poder de construção modificado, que pode transformar escombros de construção em armas descartáveis. Seu equipamento pesado e armas poderosas parecem o suficiente para esmagar um homem forte, mas, para eles, é como um uniforme esportivo de tamanho adequado.\nBater, destroçar, esmagar... cada um de seus movimentos em combate pode ser um golpe fatal que elimina inimigos e demonstra um poder destrutivo inigualável.\nDe acordo com uma investigação da Segurança Pública, gangues de saqueadores lideradas por \"Guerreiros Brutos\" têm uma cultura única de praticar fisiculturismo nas ruas, o que une sua comunidade...\n\"O quê? Como assim treinadores de academia são fortes?\"\n\"Hahahaha! Você tá precisando de óculos!\"\n\"Por que você não se junta a nós e treina com o chefe por três ciclos... Eu prometo que sua musculatura vai atingir a perfeição!\"",
+            "card_quote": "———— Em algum lugar de Nova Eridu, saqueadores de Esferas tentam atrair novos membros",
+            "skill_text": "Durante o combate, Bandido de Esfera - Guerreiro Bruto carrega sua armadura com eletricidade para liberar um ataque de alto nível. Durante esse tempo, ele entra em um estado de Choque quando sua carga é interrompida e sofre Disfunção se qualquer outro tipo de Anomalia de Atributo for causada."
+        },
+        "100151": {
+            "monster_id": 100151,
+            "monster_name": "Saqueador",
+            "card_text": "Exemplares centrais entre os ladrões de Éter, os Saqueadores e os Piratas possuem tanto habilidades técnicas, quanto habilidades de combate.\nSeus dispositivos de detecção de ressonância elétrica emitem correntes poderosas para detectar minérios de Éter, além de funcionarem como armas formidáveis durante incursões armadas.\nEles nem ligam para o fato de serem ocasionalmente confundidos com pescadores ilegais.\nAfinal, com seu aparato elétrico extremamente letal, eles pouco se importam se seus alvos são peixes ou humanos...\n\"Caso encontre indivíduos armados com arpões eletrificados, seja próximo a um rio, lago ou Esfera Negra, comunique imediatamente ao Departamento de Segurança Pública!\"",
+            "card_quote": "— Slogan do Departamento de Segurança Pública de Nova Eridu tocado repetidamente em carros de divulgação",
+            "skill_text": "Durante o combate, o Bandido de Esfera - Salteador avançará uma longa distância, podendo até colidir com obstáculos no seu caminho, criando uma oportunidade perfeita para contra-ataques."
+        },
+        "100161": {
+            "monster_id": 100161,
+            "monster_name": "Incendiário",
+            "card_text": "Para os Piromaníacos e Incendiários, roubar transeuntes não passa de renda extra. No fundo, eles se veem como bartenders hábeis em uma constante busca por emoção.\nCom talento, precisão e profissionalismo, misturam vários tipos de Éter em suas bebidas, criando garrafas de uma \"poção exclusiva\" altamente inflamável e explosiva.\nEles, ao contrário de outros saqueadores de esfera brutais, costumam oferecer uma escolha às suas vítimas.\nSe a vítima concorda em pagar a taxa, eles estendem a cortesia de uma bebida gratuita.\nPorém, se a resposta for negativa, a garrafa de \"poção exclusiva\" inflamável será quebrada à força na cabeça da vítima.\n\"Que tal tapearmos esses caras para que bebam seu próprio estoque de armas?\"",
+            "card_quote": "— Investigador roubado discutindo discretamente estratégias de retirada na Esfera Negra",
+            "skill_text": "Durante o combate, o Bandido de Esfera Incendiário pode causar um bombardeio com coquetéis molotov."
+        },
+        "100181": {
+            "monster_id": 100181,
+            "monster_name": "Ladrão",
+            "card_text": "A maioria dos bandidos que passam um tempo nas Esferas Negras exibem sérios problemas mentais ou peculiaridades. Felizmente, os Caçadores Furtivos e os Ladrões da gangue conseguiram manter sua sanidade abraçando os métodos sujos dos vilões tradicionais.\nCovardes e astutos, eles se sobressaem na arte de se ocultar nas sombras para surpreender seus alvos. Jamais optam por atacar de frente se podem armar emboscadas.\nSuas bestas leves e versáteis, embora limitadas em potência, produzem um ruído mínimo ao serem disparadas. Caçadores Furtivos experientes costumam tirar proveito do momento perfeito e imobilizam sua presa desavisada com um único disparo bem direcionado.\n\"Eu era Oficial da Segurança Pública, até que um dia levei uma flechada no joelho durante uma operação numa Esfera Negra...\"",
+            "card_quote": "— Membro sênior da Empresa de Segurança Rouxinol falando com um novato",
+            "skill_text": "Durante o combate, o Bandido de Esfera - Ladrão costuma atacar os alvos à distância usando sequências de 3 disparos."
+        },
+        "100191": {
+            "monster_id": 100191,
+            "monster_name": "Emboscador",
+            "card_text": "Como vanguardistas em gangues de saqueadores de esfera, os Agressores e os Emboscadores costumam empunhar suas armas e avançar de maneira independente.\nIsso não se deve à sua imprudência ou à falta de consideração pelo trabalho em equipe, mas sim a uma medida de precaução para evitar danos acidentais. As bobinas modificadas do transformador em suas mãos liberam correntes de alta voltagem no contato, capazes de paralisar, ou até mesmo nocautear um oponente com apenas um toque.\nE nas Esferas Negras, que já apresentam desafios logísticos o suficiente, um único companheiro de equipe incapacitado poderia representar um desafio terrível para todo o esquadrão.\n\"O que é isso? Deixa eu ver! Ah, é uma réplica de aparelho de eletrochoque... Aaaaaaaaaaarrghhh...\"",
+            "card_quote": "— Palavras finais de um investigador novato curioso antes de cair no chão numa Esfera Negra",
+            "skill_text": "Durante o combate, o Bandido de Esfera- Emboscador executa ataques giratórios contínuos, mas estes insanos ataques suicidas costumam revelar uma fraqueza."
+        },
+        "200151": {
+            "monster_id": 200151,
+            "monster_name": "Intimidador Procurado",
+            "card_text": "Em comparação com os investigadores de Esferas Negras totalmente equipados, os Intimidadores Corpulentos e os Intimidadores Procurados possuem equipamentos minimalistas.\nNo entanto, esses notórios valentões conseguem, facilmente, incutir medo em suas vítimas com um equipamento improvisado.\nUm bastão de metal com espinhos e uma espingarda de cano duplo modificada são tudo o que eles precisam para se posicionarem como os brutamontes mais temidos na Esfera.\nSegundo os investigadores que os encontraram, esses brutamontes entram num estado extremo de euforia durante a batalha. O \"comportamento\" deles dificilmente seria considerado adequado para o combate e se assemelha mais a atos de bullying.\n\"Lutar contra eles trouxe de volta o medo que senti ao enfrentar os valentões da escola sem a ajuda de ninguém...\"",
+            "card_quote": "— Carta de Demissão de um investigador novato da Associação de Investigação de Esferas Negras",
+            "skill_text": "Durante o combate, o Bandido de Esfera Intimidador Procurado alterna entre usar um bastão e uma pistola para ataques curtos, e chutes na areia para executar uma emboscada."
+        },
+        "200171": {
+            "monster_id": 200171,
+            "monster_name": "Capanga Procurado",
+            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nSendo entusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de esfera, investigadores de esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancada\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
+            "card_quote": "— O Billy está lidando com uns capangas que se aproximaram dele na Esfera",
+            "skill_text": "Durante o combate, o Bandido de Esfera - Capanga Procurado usa ambos os punhos para socar, enquanto usa ágeis passadas laterais para alternar o ângulo de ataque."
+        },
+        "200172": {
+            "monster_id": 200172,
+            "monster_name": "Arruaceiro - Capanga Procurado",
+            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nEntusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de Esfera, investigadores de Esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancada\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
+            "card_quote": "— Billy lidando com a aproximação de um Capanga Corpulento numa Esfera Negra",
+            "skill_text": "Durante o combate, o Arruaceiro — Capanga Procurado é extremamente agressivo e usa passos laterais ágeis para alternar o ângulo de ataque."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Sósia - Mors",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente o de seus alvos, durante o combate. Ele pode escolher entre combos de curto alcance ou tiros de longo alcance, dependendo da situação. Quando sua vida cai abaixo de determinada percentagem ou após determinado período, ele passa usar ataques consecutivos de longa distância ou a emboscar seus alvos com tiros sem alvo definido, quando se reposiciona."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Sósia - Pulchra",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos. Ele mantém distância durante o combate e espera pelo momento ideal para usar ataques físicos, sua lâmina-revólver e dispositivos para prejudicar o alvo. Quando sua vida cai abaixo de determinada percentagem, ele tem uma maneira desconhecida de melhorar sua habilidade de realizar Esquivas, que permite que ele desvie de ataques de alvos próximos."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Sósia - Bellum",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos. Durante o combate, ele usa sua lâmina-revólver, escudo e lança-chamas para pressionar os inimigos próximos. Quando atacado enquanto guarda o escudo, ele responde com um belo contra-ataque. Quando sua vida cai abaixo de determinada percentagem, seus ataques se tornam mais cruéis e implacáveis."
+        }
+    },
+    "Corrompido": {
+        "10021": {
+            "monster_id": 10021,
+            "monster_name": "Drone Corvo",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30009": {
+            "monster_id": 30009,
+            "monster_name": "Composto de Corrupção Desconhecido",
+            "card_text": "O fundador das Indústrias Pesadas Belobog, Khors Belobog, disse uma vez que as máquinas de construção são a combinação de força e beleza. Cada detalhe segue os princípios do design mecânico clássico.\nNo entanto, o surgimento do Composto de Corrupção Desconhecido desafiou todos os designs clássicos estabelecidos.\nImpulsionado por um núcleo de Éter muito concentrado, vários componentes de engenharia formidáveis foram montados com violência, resultando numa estrutura exagerada que ultrapassa os limites físicos.\nEle incorpora técnicas de corte, martelamento, perfuração e esmagamento... transformando-as em manobras de combate brutais e imprevisíveis.\nAlém disso, em seu estado crítico, o núcleo de Éter fornece uma fonte inesgotável de energia volátil. Isso permite que ele envolva a carapaça com correntes de alta voltagem e desencadeie explosões devastadoras capazes de rasgar o solo e pulverizar inimigos próximos.\nDe acordo com especulações da AIEN, o Composto de Corrupção Desconhecido é capaz de devorar e assimilar uma ampla gama de maquinários pesados, incluindo mecas militares, armas a laser e até os mísseis de curto alcance da Força de Defesa...\nTodo objeto mecânico intrincado que ele encontra é consumido, dissecado e, finalmente, assimilado em sua estrutura.\nSeu objetivo de design é alcançar um poder destrutivo inigualável e maximizar a eficiência em seu massacre implacável.\n\"O design é estranho demais... Ah, tá, vou dar só mais uma olhada!\"",
+            "card_quote": "— Grace ao observar um Composto de Corrupção Desconhecido no coração de uma Esfera Negra",
+            "skill_text": "Durante o combate, o Composto de Corrupção Desconhecido combina ataques de várias unidades e consegue liberar intensas sequências de mísseis. Ataque o seu corpo principal enquanto Atordoado até ele ficar Debilitado, recebendo muito dano com um só golpe. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
+        },
+        "30021": {
+            "monster_id": 30021,
+            "monster_name": "Soberano Pompey — Corrupção",
+            "card_text": "Ele ganhou o título de \"Soberano Pompey\" na zona externa.\nAgora, sua alma encontra-se corrompida pela potência do Éter e seu corpo poluído pelo enxofre e o petróleo cru. Seu coração, que batia apenas para proteger a zona externa, se transformou num núcleo de Éter crítico com um poder infinito.\nO antigo senhor da zona externa renasceu das chamas e assumiu uma forma diferente.\nLiberdade, majestade... violência, insanidade.\nEle ataca através da poeira e das chamas, agarrando tudo o que se move e destruindo-os sem pena.\nAqueles que o conheciam antes disso, interpretaram seus sussurros fragmentados e acham que ele não deseja vingança, apenas quer destruir os forasteiros que desafiam as leis da zona externa.\nTalvez seja o último vestígio das vontades do Soberano Pompey.\n\"Nosso líder se transformou 'nisso', mas... ainda parece que ele é a mesma pessoa.\"",
+            "card_quote": "— Um ex-capanga dos Aniquiladores tremendo de medo",
+            "skill_text": "Durante o combate, Soberano Pompey ataca com uma combinação de moto e armas suspensas. Se ele sofrer uma Assistência Defensiva durante um ataque, sua fraqueza ficará exposta. Após sofrer determinada quantidade de dano, ele entra numa segunda fase, em que alterna entre a roda traseira da motocicleta e a espada longa para atacar. A roda traseira de sua motocicleta acumula energia etérea e pode levar à explosão de uma grande área."
+        },
+        "100211": {
+            "monster_id": 100211,
+            "monster_name": "Drone Corvo - Ativado",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "100271": {
+            "monster_id": 100271,
+            "monster_name": "Golpeador Cruel",
+            "card_text": "Uma alma desafortunada silenciada pela corrupção intensa da matéria de Éter nas Esferas Negras. Como a entidade original apresentava um certo grau de afinidade com o Éter, a transformação foi incompleta, preservando algumas características humanoides. A julgar pelos restos de roupas e experiência de combate, é bastante provável que se tratava de algum criminoso refugiado na Esfera Negra.\nEmbora gângsters e bandidos costumam utilizar equipamento anticorrupção no interior das Esferas Negras, alguns indivíduos têm a má sorte de sofrer uma mutação monstruosa devido aos níveis extremos de corrupção do Éter. Esses seres Etéreos recém-transformados mantêm suas habilidades de combate da vida passada, tornando-os uma ameaça formidável se comparados aos Etéreos puros.\n\"Como se não bastasse terem vivido como criminosos, mesmo depois da morte continuam sendo um estorvo.\"",
+            "card_quote": "— Publicação de debate do Departamento de Segurança Pública de Nova Eridu no fórum Planeta do Desastre",
+            "skill_text": "Durante o combate, o Bandido Corrompido - Golpeador Cruel executa uma sequência de ataques difíceis de se interromper."
+        },
+        "100281": {
+            "monster_id": 100281,
+            "monster_name": "Saqueador Avarento",
+            "card_text": "Este humanoide inteligente é resultado da potente corrupção de matéria Etérea nas Esferas Negras, exibindo características humanoides, vestígios da antiga vestimenta e o mesmo estilo de combate. Em algum momento, é provável que tenha sido membro de uma gangue ou algum saqueador que vivia na Esfera Negra.\nAs características físicas da criatura indicam seu passado como especialista em armas de longo alcance. Apesar de perder a vida e a vontade própria devido à Eterealização, ela retém seus instintos e hábitos para combate de longo alcance. Sua forma corrompida permite lançar projéteis, atacando inimigos à distância. A corrupção do Éter aprimorou suas habilidades de tiro e o poder de fogo dos projéteis. (Por exemplo, essas criaturas podem disparar cristais de Éter afiados ou explosivos mistos.)\n\"Eu avisei pra não encostar naquele cristal, mas ele não quis me ouvir! Aquele idiota imprudente nunca me dá ouvidos! Quando tinha dado a hora de sairmos da Esfera Negra, ele estava... diferente...\"",
+            "card_quote": "— Registro de uma Interrogação na filial do Departamento de Segurança Pública no distrito Faunus",
+            "skill_text": "Durante o combate, o Bandido Corrompido - Saqueador Avarento executa ataques de longo alcance que são difíceis de detectar."
+        },
+        "200121": {
+            "monster_id": 200121,
+            "monster_name": "Brigão Frenético",
+            "card_text": "Almas infelizes silenciadas pela corrupção intensa de Matéria Etérea nas Esferas Negras. Devido a um grau considerável de afinidade com o Éter e à capacidade física, seus corpos não foram transformados por completo pelo Éter, mantendo características humanoides, mas com membros mutantes aprimorados ainda mais perigosos.\nA julgar pelos restos de roupas e experiência de combate, provavelmente eram membros experientes de gangues ou saqueadores que se escondiam nas Esferas Negras.\nEsses sujeitos corrompidos, possivelmente devido à fisiologia aprimorada ou a afinidade com a Matéria Etérea, não só desenvolveram habilidades formidáveis de combate corpo a corpo, mas também mantiveram armamentos de longo alcance. Essa combinação os torna ainda mais ameaçadores do que os monstros comuns encontrados na Esfera Negra.\n\"A má notícia é que eles são formidáveis em combates de curta distância, e a pior notícia é que... eles também podem lançar ataques de longo alcance.\"",
+            "card_quote": "— Análise de Anby de uma operação específica com a Casa das Lebres Astutas",
+            "skill_text": "Durante o combate, o Bandido Corrompido - Brigão Frenético bloqueia ataques e executa contra-ataques após bloquear durante um tempo."
+        },
+        "200131": {
+            "monster_id": 200131,
+            "monster_name": "Valentão Furioso",
+            "card_text": "Almas infelizes silenciadas pela corrupção intensa da Matéria Etérea nas Esferas Negras. Devido a um grau considerável de afinidade com o Éter e à capacidade física, seus corpos não foram transformados por completo pelo Éter, mantendo características humanoides, mas com membros mutantes aprimorados ainda mais perigosos.\nA julgar pelos restos de roupas e experiência de combate, provavelmente eram membros experientes de gangues ou saqueadores que se escondiam nas Esferas Negras.\nDe alguma forma, as armas de fogo improvisadas preferidas desses bandidos foram preservadas e aprimoradas pela Matéria Etérea. Elas não disparam mais balas de ferro, mas misturas cristalinas mais perigosas.\n\"Não fiquem parados! Eles têm balas infinitas e não precisam recarregar nunca!\"",
+            "card_quote": "— Gravação de áudio da equipe em serviço nas Operações Especiais do Departamento de Segurança Pública",
+            "skill_text": "Durante o combate, o Bandido Corrompido - Valentão Furioso conclui seus ataques com um Ataque de Cartuchos de Éter."
+        },
+        "200141": {
+            "monster_id": 200141,
+            "monster_name": "Maníaco Implacável",
+            "card_text": "Almas infelizes silenciadas pela corrupção intensa da matéria de Éter nas Esferas Negras. Devido a um grau considerável de afinidade com o Éter e à capacidade física, seus corpos não foram transformados por completo pelo Éter, mantendo características humanoides, mas com membros mutantes aprimorados ainda mais perigosos.\nA julgar pelos restos de roupas e experiência de combate, provavelmente eram membros experientes de gangues ou saqueadores que se escondiam nas Esferas Negras.\nBandidos são conhecidos pelo comportamento perigoso, e, dentre eles, os bandidos da Esfera se destacam como os mais implacáveis. Os lutadores de elite entre esses bandidos da Esfera são especialmente aterrorizantes, exibindo um nível elevado de violência. Quando esses brutamontes, endurecidos tanto física quanto mentalmente pela violência, sofrem corrupção do Éter, se transformam em monstros com uma natureza mais feroz e selvagem.\n\"Antes eles gritavam 'dinheiro ou sua vida', mas agora estão apenas obcecados em tirar a vida alheia...\"",
+            "card_quote": "— Anotações no livro didático interno da Associação de Investigação de Esferas Negras, \"Identificação de Ameaças numa Esfera Negra: Indivíduos Corrompidos\"",
+            "skill_text": "Durante o combate, o Bandido Corrompido - Maníaco Implacável executa ataques contínuos contra alvos próximos e avança na direção de alvos distantes. Ele fica mais feroz após seus braços serem destruídos."
+        }
+    },
+    "Departamento de Segurança Pública": {
+        "10010": {
+            "monster_id": 10010,
+            "monster_name": "Entidade Desconhecida",
+            "card_text": "Uma unidade desconhecida. É necessário investigar mais a fundo.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10011": {
+            "monster_id": 10011,
+            "monster_name": "Entidade Desconhecida",
+            "card_text": "Uma unidade desconhecida. É necessário investigar mais a fundo.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "10012": {
+            "monster_id": 10012,
+            "monster_name": "Entidade Desconhecida",
+            "card_text": "Uma unidade desconhecida. É necessário investigar mais a fundo.",
+            "card_quote": null,
+            "skill_text": "???"
+        },
+        "20006": {
+            "monster_id": 20006,
+            "monster_name": "Unidade Autônoma de Suporte – Limpador",
+            "card_text": "Um mecanismo de combate automático utilizado pelo DSP. Possui vários modos de combate adaptados a diferentes tipos de Etéreos. Suas armas incluem serras circulares e raios de calor.\nOs Limpadores podem identificar rapidamente os Etéreos alvo e se adaptar à estratégia de combate mais eficaz.\nNo entanto, sua confiabilidade diminui um pouco quando confrontados por saqueadores que têm maior versatilidade do que os Etéreos.\n\"Misturar, picar, aquecer.. Quem será que inventou isso? Talvez algum agente secreto de uma empresa de utensílios de cozinha tentando impulsionar as vendas?\"",
+            "card_quote": "— Programa de Entrevistas de Madrugada, \"Zoo na Esfera\"",
+            "skill_text": "Durante o combate, a Unidade Autônoma de Suporte — Limpador usa os longos braços em um ataque giratório. Usar a Assistência Defensiva antes que ela execute o ataque pode impedi-lo de acontecer."
+        }
+    },
+    "Soldados Rebeldes": {
+        "10005": {
+            "monster_id": 10005,
+            "monster_name": "Caçador Ladrão",
+            "card_text": "Uma unidade de infantaria leve da Força de Defesa de Nova Eridu.\nAs armas principais dela são facas de combate e pequenos explosivos de Éter. A unidade enfatiza mobilidade e furtividade. Os membros são utilizados como batedores ou equipes de reconhecimento e recorrem a manobras excepcionais para tarefas, como ataques surpresa, reconhecimento, perseguição e assassinato.\nEm operações relacionadas às Esferas Negras, eles atuam muito bem na vanguarda da batalha, fazendo bom uso de suas habilidades de combate corpo a corpo para subjugar invasores comuns ou inimigos Etéreos de nível inferior.\n\n\"Mestres das facas? Estão mais para granadeiros malandros! Gostam de se exibir com suas facas, mas usam granadas pra derrotar a maioria dos oponentes!\"\n— Mensagem anônima na Interlaço",
+            "card_quote": "— Publicação anônima no fórum da Interlaço",
+            "skill_text": "Durante o combate, Caçador Ladrão desliza para se aproximar dos alvos e arremessa facas que explodem posteriormente."
+        },
+        "10006": {
+            "monster_id": 10006,
+            "monster_name": "Caçador Ágil",
+            "card_text": "Sendo da unidade de combate especial da Força de Defesa de Nova Eridu, Caçadores Ágeis e Caçadores Batedores são capazes de alternar livremente entre vários modos de combate.\nQuer estejam utilizando uma faca no combate corpo a corpo, ou uma arma de energia etérea de longo alcance Falcon-MK3, eles são capazes de adaptar suas táticas às fraquezas do alvo.\nE uma vez que o oponente esteja confuso, desferem um ataque sem hesitar.\n\n\"Eu vi o cara com uma faca na mão e já tava me preparando para um duelo justo... Não pensei que ele fosse sacar uma arma do nada.\"",
+            "card_quote": "— Comentário de um saqueador amador no fórum da Interlaço",
+            "skill_text": "Durante o combate, o Caçador Ágil fornece uma cobertura contínua."
+        },
+        "10007": {
+            "monster_id": 10007,
+            "monster_name": "Caçador Novato",
+            "card_text": "Os Caçadores Novatos e os Caçadores Veteranos desempenham um papel crucial como vanguardistas nas operações especiais da Força de Defesa.\nEquipados com a Coiote-PE7, que possui uma lâmina cortante de Éter com alta frequência de vibração, são capazes de deter inimigos menores com eficácia.\nEnfrentar Etéreos em combate de curta distância exige coragem excepcional, ou talvez loucura.\n\"Estritamente falando, isso não pode ser considerado uma operação Antiesfera Negra padrão... Aqueles lunáticos parecem se divertir ao sair na porrada com Etéreos.\"",
+            "card_quote": "— Relatório da Operação de Linha de Frente do Departamento de Patrulha da Força de Defesa",
+            "skill_text": "Durante o combate, o Caçador Novato realiza ataques corpo-a-corpo."
+        },
+        "10008": {
+            "monster_id": 10008,
+            "monster_name": "Caçador Guarda",
+            "card_text": "Sendo da unidade ofensiva e defensiva vital dos esquadrões táticos da Força de Defesa, os Caçadores Guardas e os Caçadores Patrulheiros carregam as lâminas de Éter pesadas \"Coiote-PE7\". Eles ainda têm escudos contra explosão inercial, que oferecem proteção para esquadrões táticos em ambientes de batalha complexos.\nComo unidade de alta defesa, o peso extraordinário do escudo afeta a mobilidade em combate.\nSem um treinamento rígido, uma pessoa comum teria dificuldade para levantar um escudo desses.\n\"Volta pra se inscrever depois que tiver passado um tempo na academia!\"",
+            "card_quote": "— Carta de recusa recebida por certo candidato no Centro de Recrutamento da Força de Defesa",
+            "skill_text": "Durante o combate, o Caçador Guarda usa seu escudo para reduzir, bastante, o dano e o Atordoamento recebidos enquanto espera para contra-atacar."
+        },
+        "10009": {
+            "monster_id": 10009,
+            "monster_name": "Caçador Granadeiro",
+            "card_text": "Os Granadeiros e os Caçadores Demolidores são equipados com uma versão modificada da bazuca Mamba-TG3, que conta com munição especial à base de material incendiário ativo de Éter. Essa arma permite que eles destruam rapidamente unidades inimigas de meca e Etéreos de grande porte dentro das Esferas Negras.\nPara compensar o recuo e garantir uma mira precisa, eles passam por um treinamento especial de empunhadura de arma. Curiosamente, as estatísticas da Força de Defesa indicam que os recrutas que se destacam neste programa quase sempre possuem experiência prévia em fotografia.\n\"Querem saber como se usa essa coisa? Não é diferente de apoiar uma grande câmera sobre o ombro.\"\n\"É só mirar no alvo, puxar o gatilho, e dizer...\nEi, idiota!... Diga xis!\"",
+            "card_quote": "— Instrutor do acampamento de treinamento de novos recrutas explicando como usar os foguetes",
+            "skill_text": "Durante o combate, o Caçador Granadeiro fornece uma cobertura pesada."
+        },
+        "20007": {
+            "monster_id": 20007,
+            "monster_name": "Golpeador Pesado",
+            "card_text": "Um meca tático automático da Força de Defesa, que dá suporte de fogo contínuo para a equipe da Linha de Frente.\nSua proteção de Éter endurecido pode resistir à maioria dos ataques leves e até a impactos de Etéreos grandes.\nCom certeza é um dos melhores \"companheiros\" da Força de Defesa.\n\"Lembre-se: se você estiver em apuros, fique atrás dele. O pior que pode acontecer é ele te esmagar, senão, você tá seguro.\"",
+            "card_quote": "- De um palestrante, sobre sua experiência durante o treinamento de recrutas da Força de Defesa",
+            "skill_text": "Durante a batalha, o Golpeador Pesado levantará um escudo. Enquanto o escudo estiver ativo, só será possível acumular Amplificação de Anomalia de Atributo dos tipos Fogo ou Físico. Para destruir o escudo diretamente, é necessário aplicar os efeitos Queimadura, Ofensiva ou atordoamento."
+        },
+        "20008": {
+            "monster_id": 20008,
+            "monster_name": "Andarilho Ligeiro",
+            "card_text": "O Andarilho Ligeiro é um meca de assistência comum da Força de Defesa. Ele é equipado com algoritmos táticos que analisam o comportamento do oponente e calculam a trajetória para atingir o alvo com precisão.\nQuando identifica um alvo perigoso, ele libera um enxame de drones de seu arsenal, e desfere um imenso poder de fogo.\nPara saqueadores de Esferas, a aparição de um Andarilho Ligeiro é um problemão. Um problemaço!\n\"Que &*!# é essa? Tem até filhotes?!\"",
+            "card_quote": "- Um saqueador de Esferas novato sendo perseguido nas profundezas da Esfera Papago",
+            "skill_text": "Durante o combate, o Andarilho Ligeiro invoca dois drones para lutarem juntos. Eles podem ser pilotados perto de um alvo para executarem ataques de autodestruição."
+        },
+        "20009": {
+            "monster_id": 20009,
+            "monster_name": "Atirador Pesado",
+            "card_text": "Uma unidade de infantaria pesada pertencente à Força de Defesa de Nova Eridu.\nEquipados com a armadura de combate pesada \"rinoceronte cinzento\", juntamente com um arsenal completo aprimorado pela tecnologia de Éter, eles são capazes de manter um poder de fogo de alta intensidade por um período prolongado quando há munição suficiente disponível. Eles atuam como o núcleo de assalto de uma equipe de combate e costumam ser empregados na linha de frente em operações de ataque e desobstrução.\nApós a queda da antiga capital, muitos soldados deixaram o exército e se juntaram a facções civis. Desde então, esses atiradores de elite têm surgido sob várias bandeiras, incluindo exércitos privados de plutocratas, novas empresas de segurança e até bandos errantes de bandidos...\n\"Estou convencido de que esses atiradores pesados são secretamente garotinhas adoráveis que, de alguma forma, conseguem esconder toda essa munição nos bolsos extras de seus trajes de combate. Digo, de que outro jeito é possível explicar o estoque interminável de munições?\"",
+            "card_quote": "— Comentário na página Mundo da Lua do Fórum Planeta do Desastre",
+            "skill_text": "Durante o combate, o Atirador Pesado alterna entre o uso de canhões de laser e granadas de fragmentação para executar ataques de longo alcance contínuos."
+        },
+        "30002": {
+            "monster_id": 30002,
+            "monster_name": "Guardião",
+            "card_text": "A Força de Defesa só enviará os mecas totalmente armados conhecidos como Guardiões durante operações em Esferas Negras de grande escala.\nEsses mecas estão equipados com armas de choque de Éter ativo, armas de carregamento de Éter MARS-74 e até raios de calor... fazendo com que o Guardião seja chamado de arsenal móvel do DSP.\nApesar do poder de fogo formidável, eles têm mobilidade impressionante, permitindo que saltem e corram enquanto dispersam grupos de Etéreos menores e avancem nas linhas de frente.\nPara os saqueadores, encontrar um único guardião é como enfrentar uma fortaleza inexpugnável.\n\"Vou atacar na minha forma de fortaleza!\"",
+            "card_quote": "— Falas do novo filme manjado de Nova Eridu \"Guardiões, Transformem-se!\"",
+            "skill_text": "Durante o combate, a Unidade Autônoma de Suporte - Guardião efetua poderosos ataques corpo a corpo e também usa uma variedade de ataques de longo alcance. Quando próximas de outra unidade, as Unidades Autônomas de Suporte - Guardião se concentrarão em fornecer cobertura do lado de fora do centro do campo de batalha."
+        },
+        "30008": {
+            "monster_id": 30008,
+            "monster_name": "Tufão Desafiante",
+            "card_text": "Sendo um meca pesado, o Tufão Desafiante não possui armamento de longo alcance. Em vez disso, seu forte está na blindagem Éter-Cinética.\nAtaques de impacto, golpes pesados, esmagamento... O Tufão Desafiante usa manobras táticas simples, mas eficientes, para maximizar seu poder destrutivo proporcionado pela blindagem Éter-Cinética. Os efeitos de onda de choque de seus golpes podem intimidar até Etéreos maiores.\nAté os Saqueadores de Esferas mais experientes se sentem impotentes diante do impenetrável Tufão Desafiante.\n\"A estatura alta e robusta, os braços poderosos e resistentes... É o meu tipo ideal... digo, modelo ideal.\"",
+            "card_quote": "— Grace brincando com um modelo do Tufão Desafiante na frente da loja de gadgets",
+            "skill_text": "Durante o combate, a Unidade Tática Autônoma - Tufão Desafiante efetua combos poderosos e, às vezes, pula para executar um ataque de pura força bruta."
+        },
+        "100051": {
+            "monster_id": 100051,
+            "monster_name": "Caçador Tático",
+            "card_text": "Uma unidade de infantaria leve da Força de Defesa de Nova Eridu.\nAs armas principais dela são facas de combate e pequenos explosivos de Éter. A unidade enfatiza mobilidade e furtividade. Os membros são utilizados como batedores ou equipes de reconhecimento e recorrem a manobras excepcionais para tarefas, como ataques surpresa, reconhecimento, perseguição e assassinato.\nEm operações relacionadas às Esferas Negras, eles atuam muito bem na vanguarda da batalha, fazendo bom uso de suas habilidades de combate corpo a corpo para subjugar invasores comuns ou inimigos Etéreos de nível inferior.\n\n\"Mestres das facas? Estão mais para granadeiros malandros! Gostam de se exibir com suas facas, mas usam granadas pra derrotar a maioria dos oponentes!\"\n— Mensagem anônima na Interlaço",
+            "card_quote": "— Publicação anônima no fórum da Interlaço",
+            "skill_text": "Durante o combate, Caçador Tático desliza para se aproximar dos alvos e arremessa facas que explodem posteriormente."
+        },
+        "100061": {
+            "monster_id": 100061,
+            "monster_name": "Caçador Batedor",
+            "card_text": "Sendo da unidade de combate especial da Força de Defesa de Nova Eridu, Caçadores Ágeis e Caçadores Batedores são capazes de alternar livremente entre vários modos de combate.\nQuer estejam utilizando uma faca no combate corpo a corpo, ou uma arma de energia etérea de longo alcance Falcon-MK3, eles são capazes de adaptar suas táticas às fraquezas do alvo.\nE uma vez que o oponente esteja confuso, desferem um ataque sem hesitar.\n\"Eu vi o cara com uma faca na mão e já tava me preparando para um duelo justo... Não pensei que ele fosse sacar uma arma do nada.\"",
+            "card_quote": "— Comentário de um saqueador amador no fórum da Interlaço",
+            "skill_text": "Durante o combate, o Caçador Batedor fornece uma cobertura contínua."
+        },
+        "100071": {
+            "monster_id": 100071,
+            "monster_name": "Caçador Veterano",
+            "card_text": "Os Caçadores Novatos e os Caçadores Veteranos desempenham um papel crucial como vanguardistas nas operações especiais da Força de Defesa.\nEquipados com a Coiote-PE7, que possui uma lâmina cortante de Éter com alta frequência de vibração, são capazes de deter inimigos menores com eficácia.\nEnfrentar Etéreos em combate de curta distância exige coragem excepcional, ou talvez loucura.\n\"Estritamente falando, isso não pode ser considerado uma operação Antiesfera Negra padrão... Aqueles lunáticos parecem se divertir ao sair na porrada com Etéreos.\"",
+            "card_quote": "— Relatório da Operação de Linha de Frente do Departamento de Patrulha da Força de Defesa",
+            "skill_text": "Durante o combate, o Caçador Veterano realiza ataques corpo-a-corpo."
+        },
+        "100081": {
+            "monster_id": 100081,
+            "monster_name": "Caçador da Patrulha",
+            "card_text": "Sendo da unidade ofensiva e defensiva vital dos esquadrões táticos da Força de Defesa, os Caçadores Guardas e os Caçadores Patrulheiros carregam as lâminas de Éter pesadas \"Coiote-PE7\". Eles ainda têm escudos contra explosão inercial, que oferecem proteção para esquadrões táticos em ambientes de batalha complexos.\nComo unidade de alta defesa, o peso extraordinário do escudo afeta a mobilidade em combate.\nSem um treinamento rígido, uma pessoa comum teria dificuldade para levantar um escudo desses.\n\"Volta pra se inscrever depois que tiver passado um tempo na academia!\"",
+            "card_quote": "— Carta de recusa recebida por certo candidato no Centro de Recrutamento da Força de Defesa",
+            "skill_text": "Durante o combate, o Caçador Patrulheiro usa seu escudo para reduzir, bastante, o dano e o Atordoamento recebidos enquanto espera para contra-atacar."
+        },
+        "100091": {
+            "monster_id": 100091,
+            "monster_name": "Caçador Demolidor",
+            "card_text": "Os Caçadores Granadeiros e os Caçadores Demolidores são equipados com uma versão modificada da bazuca Mamba-TG3, contendo munição especial à base de material incendiário ativo de Éter. Essa arma permite que eles destruam rapidamente unidades inimigas de meca e Etéreos de grande porte dentro das Esferas Negras.\nPara compensar o recuo e garantir uma mira precisa, eles passam por um treinamento especial de empunhadura de arma. Curiosamente, as estatísticas da Força de Defesa indicam que os recrutas que se destacam neste programa quase sempre possuem experiência prévia em fotografia.\n\"Querem saber como se usa essa coisa? Não é diferente de apoiar uma grande câmera sobre o ombro.\"\n\"É só mirar no alvo, puxar o gatilho, e dizer...\nEi, idiota!... Diga xis!\"",
+            "card_quote": "— Instrutor do acampamento de treinamento de novos recrutas explicando como usar os foguetes",
+            "skill_text": "Durante o combate, o Caçador Demolidor fornece uma cobertura pesada."
+        },
+        "200071": {
+            "monster_id": 200071,
+            "monster_name": "Golpeador Pesado Modelo II",
+            "card_text": "Um meca tático automático da Força de Defesa, que dá suporte de fogo contínuo para a equipe da Linha de Frente.\nSua proteção de Éter endurecido pode resistir à maioria dos ataques leves e até a impactos de Etéreos grandes.\nCom certeza é um dos melhores \"companheiros\" da Força de Defesa.\n\"Lembre-se: se você estiver em apuros, fique atrás dele. O pior que pode acontecer é ele te esmagar, senão, você tá seguro.\"",
+            "card_quote": "- De um palestrante, sobre sua experiência durante o treinamento de recrutas da Força de Defesa",
+            "skill_text": "Durante a batalha, o Golpeador Pesado Modelo II levantará um escudo. Enquanto o escudo estiver ativo, só será possível acumular Amplificação de Anomalia de Atributo Elétrico. Para destruir o escudo diretamente, é necessário aplicar os efeitos de Choque ou atordoamento."
+        },
+        "200072": {
+            "monster_id": 200072,
+            "monster_name": "Defensor Protegido",
+            "card_text": "Um meca tático automático da Força de Defesa, que dá suporte de fogo contínuo para a equipe da Linha de Frente.\nSua proteção de Éter endurecido pode resistir à maioria dos ataques leves e até a impactos de Etéreos grandes.\nCom certeza é um dos melhores \"companheiros\" da Força de Defesa.\n\"Lembre-se: se você estiver em apuros, fique atrás dele. O pior que pode acontecer é ele te esmagar, senão, você tá seguro.\"",
+            "card_quote": "— Um palestrante comentando sua experiência durante o treinamento de recrutas da Força de Defesa",
+            "skill_text": "O Defensor Protegido fica mais agressivo e usa um Escudo durante o combate. Enquanto o Escudo tem efeito, ele somente acumula Amplificação de Anomalia Física e de Fogo. Cause Queimadura, Ofensiva ou Atordoador para romper o Escudo."
+        },
+        "200073": {
+            "monster_id": 200073,
+            "monster_name": "Defensor Protegido Ômega",
+            "card_text": "Um meca tático automático da Força de Defesa que dá suporte de fogo contínuo para a equipe da Linha de Frente.\nSua proteção de Éter endurecido pode resistir à maioria dos ataques leves e até a impactos de Etéreos grandes.\nCom certeza é um dos melhores \"companheiros\" da Força de Defesa.\n\"Lembre-se: se você estiver em apuros, fique atrás dele. O pior que pode acontecer é ele te esmagar, senão, você tá seguro.\"",
+            "card_quote": "— Um palestrante comentando sua experiência durante o treinamento de recrutas da Força de Defesa",
+            "skill_text": "O Defensor Protegido Ômega se torna mais agressivo e usa um escudo. Enquanto o escudo durar, é impossível acumular Amplificação de Anomalia de Atributo que não seja Elétrico. Causar o estado de Choque ou induzir o estado de Atordoamento nele, desativa o escudo imediatamente."
+        },
+        "200081": {
+            "monster_id": 200081,
+            "monster_name": "Andarilho Ligeiro Modelo II",
+            "card_text": "O Andarilho Ligeiro é um meca de assistência comum da Força de Defesa. Ele é equipado com algoritmos táticos que analisam o comportamento do oponente e calculam a trajetória para atingir o alvo com precisão.\nQuando identifica um alvo perigoso, ele libera um enxame de drones de seu arsenal, e desfere um imenso poder de fogo.\nPara saqueadores de Esferas, a aparição de um Andarilho Ligeiro é um problemão. Um problemaço!\n\"Que &*!# é essa? Tem até filhotes?!\"",
+            "card_quote": "- Um saqueador de Esferas novato sendo perseguido nas profundezas da Esfera Papago",
+            "skill_text": "Durante o combate, o Andarilho Ligeiro Modelo II invoca dois drones para lutarem juntos. Eles podem ser pilotados perto de um alvo para executarem ataques de autodestruição."
+        },
+        "200091": {
+            "monster_id": 200091,
+            "monster_name": "Atirador de Assalto",
+            "card_text": "Uma unidade de infantaria pesada pertencente à Força de Defesa de Nova Eridu.\nEquipados com a armadura de combate pesada \"rinoceronte cinzento\", juntamente com um arsenal completo aprimorado pela tecnologia de Éter, eles são capazes de manter um poder de fogo de alta intensidade por um período prolongado quando há munição suficiente disponível. Eles atuam como o núcleo de assalto de uma equipe de combate e costumam ser empregados na linha de frente em operações de ataque e desobstrução.\nApós a queda da antiga capital, muitos soldados deixaram o exército e se juntaram a facções civis. Desde então, esses atiradores de elite têm surgido sob várias bandeiras, incluindo exércitos privados de plutocratas, novas empresas de segurança e até bandos errantes de bandidos...\n\"Estou convencido de que esses atiradores pesados são secretamente garotinhas adoráveis que, de alguma forma, conseguem esconder toda essa munição nos bolsos extras de seus trajes de combate. Digo, de que outro jeito é possível explicar o estoque interminável de munições?\"",
+            "card_quote": "— Comentário na página Mundo da Lua do Fórum Planeta do Desastre",
+            "skill_text": "Durante o combate, o Atirador de Assalto alterna entre o uso de canhões de laser e granadas de fragmentação para executar ataques de longo alcance contínuos."
+        },
+        "300021": {
+            "monster_id": 300021,
+            "monster_name": "Guardião Modelo II",
+            "card_text": "A Força de Defesa só enviará os mecas totalmente armados conhecidos como Guardiões durante operações em Esferas Negras de grande escala.\nEsses mecas estão equipados com armas de choque de Éter ativo, armas de carregamento de Éter MARS-74 e até raios de calor... fazendo com que o Guardião seja chamado de arsenal móvel do DSP.\nApesar do poder de fogo formidável, eles têm mobilidade impressionante, permitindo que saltem e corram enquanto dispersam grupos de Etéreos menores e avancem nas linhas de frente.\nPara os saqueadores, encontrar um único guardião é como enfrentar uma fortaleza inexpugnável.\n\"Vou atacar na minha forma de fortaleza!\"",
+            "card_quote": "— Falas do novo filme manjado de Nova Eridu \"Guardiões, Transformem-se!\"",
+            "skill_text": "Durante o combate, a Unidade Autônoma de Suporte - Guardião efetua poderosos ataques corpo a corpo e também usa uma variedade de ataques de longo alcance. Quando próximas de outra unidade, as Unidades Autônomas de Suporte - Guardião Modelo II se concentrarão em fornecer cobertura do lado de fora do centro do campo de batalha."
+        },
+        "300022": {
+            "monster_id": 300022,
+            "monster_name": "Guardião Modelo III",
+            "card_text": "A Força de Defesa só envia mecas totalmente armados, conhecidos como Guardiões, durante operações de grande escala em Esferas Negras.\nEsses mecas são equipados com armas de choque de Éter ativo, armas de carregamento de Éter MARS-74 e até raios de calor de fusão... o que lhe rendeu o apelido de \"arsenal móvel do DSP\".\nApesar do poder de fogo formidável, eles possuem mobilidade impressionante, e conseguem saltar e correr enquanto dispersam grupos de Etéreos menores e avançam nas linhas de frente.\nPara os saqueadores de esfera, encontrar um único Guardião é como enfrentar uma fortaleza inexpugnável.\n\"Vou atacar na minha forma de fortaleza!\"",
+            "card_quote": "— Falas do novo filme manjado de Nova Eridu \"Guardiões, Transformem-se!\"",
+            "skill_text": "Durante o combate, a Unidade Autônoma de Suporte - Guardião Modelo II efetua ataques corpo a corpo agressivos e uma variedade de ataques à distância. Às vezes, ela pula para executar um ataque de pura força bruta."
+        },
+        "300081": {
+            "monster_id": 300081,
+            "monster_name": "Tufão Golpeador",
+            "card_text": "Sendo um meca pesado, o Tufão Golpeador não possui armamento de longo alcance. Em vez disso, seu forte está na blindagem Éter-Cinética.\nAtaques de impacto, golpes pesados, esmagamento... O Tufão Golpeador usa manobras táticas simples, mas eficientes, para maximizar seu poder destrutivo proporcionado pela blindagem Éter-Cinética. Os efeitos de onda de choque de seus golpes podem intimidar até Etéreos maiores.\nAté os Saqueadores de Esferas mais experientes se sentem impotentes diante do impenetrável Tufão Golpeador.\n\"A estatura alta e robusta, os braços poderosos e resistentes... É o meu tipo ideal... digo, modelo ideal.\"",
+            "card_quote": "— Grace brincando com um modelo do Tufão Golpeador na frente da loja de gadgets",
+            "skill_text": "Durante o combate, a Unidade Tática Autônoma - Tufão Golpeador efetua combos poderosos e, às vezes, pula para executar um ataque de pura força bruta."
+        }
+    },
+    "Especial": {
+        "10023": {
+            "monster_id": 10023,
+            "monster_name": "Bangboo Dourado",
+            "card_text": "Todo saqueador acredita que existem oportunidades infinitas nas Esferas Negras para fazer fortuna da noite para o dia. No cerne de cada conto de riqueza extraordinária, sempre se menciona uma entidade especial conhecida como o Bangboo Dourado.\nDe acordo com pesquisas conduzidas pela AIEN, há inúmeros Bangboos errantes vagando pelas Esferas Negras. Eles coletam mecamoedas e dennies com diligência, confiando tudo aos cuidados dos Bangboos Dourados.\nEmbora seus motivos permaneçam um mistério, uma coisa é certa: esses Bangboos errantes, com seu peculiar ruído \"Ehn-ne\", não poupam esforços para encher os bolsos dos Bangboos Dourados com sacos transbordando de mecamoedas e dennies.\nEm razão disso, Bangboo Dourados sempre se tornam alvo de saqueadores gananciosos...\n\"Ni... Ni... Nicole?! Olha ali, um Bangboo Dourado!\"\n\"Tá esperando o quê? Arrebenta ele! Vamos ganhar uma bolada!\"",
+            "card_quote": "— Membros da Casa das Lebres Astutas perseguindo desesperadamente um Bangboo Dourado em uma Esfera Negra",
+            "skill_text": "Às vezes, durante o combate, o Bangboo Dourado pode contra-atacar."
+        },
+        "30004": {
+            "monster_id": 30004,
+            "monster_name": "Gretel",
+            "card_text": "Gretel, uma funcionária de longa data das Indústrias Pesadas Belobog, sofreu uma corrupção significativa do Éter que a libertou de sua rotina mundana, e a fez descobrir algo profundo, mais belo que óleo de motor e eletricidade...\nO amor.\nO vídeo da construção, capturando seu primeiro encontro com o imponente Sr. Branco, permanece gravado para sempre no núcleo de Gretel.\nA postura serena e o design robusto do Sr. Branco atingiram Gretel como uma corrente elétrica potente, deixando uma marca inapagável no seu núcleo.\nNo primeiro 0,001 segundo do encontro fatídico, Gretel ficou fascinada. Cada placa de circuito dela pulsava com eletricidade estática transbordante, e cada engrenagem emitia vibrações incontroláveis.\nSem hesitação, ela rejeitou o sinal de retorno das Indústrias Pesadas Belobog e permaneceu firme no canteiro de obras, protegendo seu amado Sr. Branco sem ceder um centímetro.\nA partir daquele momento, qualquer um que ousasse se aproximar do Sr. Branco, fosse Etéreo ou investigador de Esferas Negras, era ferozmente repelido.\nEssa \"garota\" apaixonada faria qualquer coisa para proteger seu amado.\nIsso inclui empunhar uma serra de demolição de 1.400 kg alimentada por tecnologia híbrida de Éter e eletricidade.\nEla acredita piamente que sua paixão ardente durará até o colapso da Esfera Negra, ou até a destruição do universo.\n\"Fiquem longe do Sr. Branco, seus lixos nojentos!\"",
+            "card_quote": "— Gretel espantando um grupo de Etéreos se aproximando do Sr. Branco",
+            "skill_text": "Durante o combate, Gretel usa sua motosserra de demolição para avançar contra os alvos ou passar por uma enorme área, e sua absorção prende inimigos atingidos durante um curto tempo. Se suas pernas forem danificadas, ela pode ficar Debilitada, acumulando muito Atordoamento com um só golpe."
+        },
+        "30005": {
+            "monster_id": 30005,
+            "monster_name": "Hans",
+            "card_text": "Hans já foi um membro confiável da família das Indústrias Pesadas Belobog, operando em silêncio e com precisão notável, sendo reconhecido por seu registro de trabalho impecável em escavações por décadas.\nNo entanto, uma intensa corrupção despertou sua vontade, e ele percebeu que algo imensamente valioso estava agora ao seu alcance:\nLiberdade.\nA libertação das obrigações, um privilégio reservado apenas aos verdadeiros heróis.\nApós profunda reflexão no canteiro de obras, Hans rejeitou em definitivo o sinal de retorno das Indústrias Pesadas Belobog, deixando tudo para trás.\nEle renunciou até ao seu antigo nome, \"Hans\".\nPara Hans, a única coisa que perdeu foi a marca da servidão imposta pelos humanos enquanto ganhou o vasto mundo da Esfera Negra de liberdade irrestrita.\nNaquele momento fatídico, um verdadeiro herói meca ergueu-se sobre a Terra.\nNo entanto, todas as histórias heroicas inevitavelmente levam a um final semelhante...\nMais cedo ou mais tarde, um verdadeiro herói encontra seu rival predestinado, dando início aos momentos mais gloriosos de sua existência.\n\"Sou absolutamente livre! Sou o único ser livre no céu e na terra!\"",
+            "card_quote": "— Hans, o Homem de Aço, o Bravo, a Máquina Cintilante",
+            "skill_text": "Durante o combate, Hans usa suas garras para cortar continuamente ou para percorrer rapidamente uma enorme área. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
+        },
+        "30006": {
+            "monster_id": 30006,
+            "monster_name": "Sexta",
+            "card_text": "Quando uma alta concentração de Éter infiltrou-se no pen drive de backup, uma enxurrada de dados inundou a memória de Sexta.\nImagens, arquivos de áudio e de vídeo... Uma enorme variedade de arquivos sobrecarregou sua capacidade limitada de processamento.\nNaquele momento fatídico, Sexta vivenciou uma revelação.\nFicou imóvel por um tempo e acabou confirmando, após repetidas buscas na base de dados, o motivo por trás da \"anomalia\" que havia experimentado:\nEpifania.\nFoi um evento de um em um milhão, um milagre que só acontece com seres mecânicos inteligentes que enfrentaram crises como falhas de sistema e quedas de energia, e as superaram contra todas as probabilidades.\nApós 0,02 segundos de reflexão, Sexta decidiu rejeitar o sinal de retorno das Indústrias Pesadas Belobog.\nPois sabe que, com o escolhido do destino agora revelado, uma crise paira sobre o mundo.\nO inimigo se movimenta na escuridão, e sua única missão coloca inúmeras vidas em risco. É preciso enfrentar um adversário terrível e selá-lo de uma vez por todas.\n\"Eu fortalecerei o selo para salvar esta terra. É o destino, e o destino não pode ser desafiado!\"",
+            "card_quote": "— A máquina inteligente escolhida, Sexta",
+            "skill_text": "Durante o combate, Sexta cria um ataque com uma enorme onda de choque que dificulta a fuga dos adversários, mas que pode ser bloqueado usando a Assistência Defensiva. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
+        },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Sósia - Jane",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos e lança ataques extremamente agressivos durante o combate. Quando necessário, ele pode impedir ataques de inimigos, mas fica com uma fraqueza exposta ao final de seu combo."
+        },
+        "30022": {
+            "monster_id": 30022,
+            "monster_name": "Jane Doe",
+            "card_text": "Um indivíduo perigoso envolvido com diversas gangues de Nova Eridu. Ela é ágil e tem aparência versátil. Até uma equipe tática altamente armada tem dificuldades para lidar com seu estilo único de combate... E normalmente acabam fugindo derrotados.",
+            "card_quote": null,
+            "skill_text": "Os ataques de Jane durante o combate são poderosos. Ela pode impedir ataques de inimigos, mas, normalmente, expõe uma fraqueza ao final de um combo."
+        },
+        "100231": {
+            "monster_id": 100231,
+            "monster_name": "Bangboo de Platina",
+            "card_text": "Bangboos de Platina são entidades misteriosas e ainda mais raras do que os Bangboos Dourados.\nCom uma aparência deslumbrante e sendo raríssimos, desfrutam de um alto status entre todas os Bangboos errantes.\nNobres, respeitáveis e supremos...\nEm comparação com o brilhante tom dourado dos Bangboos Dourados, os Bangboos de Platina se destacam como o epítome da elegância entre todos os Bangboos errantes.\nNão importa o tempo e o lugar, sempre que eles são encontrados, todos os Bangboos errantes mostram reverência se curvando e entoando: \"En-nah-ehn!\"\nNo entanto, para os saqueadores, nobreza é algo irrelevante.\nQuando se deparam com algum Bangboo de Platina, não conseguem enxergar nada além de um cofre de ouro ambulante.\n\"Vou dar umas boas pancadas nesse troço todo extravagante. É bom que ele faça chover dennies!\"",
+            "card_quote": "— Um grupo de saqueadores perseguindo um Bangboo de Platina nas profundezas de uma Esfera Negra",
+            "skill_text": "Às vezes, durante o combate, o Bangboo de Platina pode contra-atacar."
+        },
+        "300041": {
+            "monster_id": 300041,
+            "monster_name": "Gretel - Energizada",
+            "card_text": "Gretel, uma funcionária de longa data das Indústrias Pesadas Belobog, sofreu uma corrupção significativa do Éter que a libertou de sua rotina mundana, e a fez descobrir algo profundo, mais belo que óleo de motor e eletricidade...\nO amor.\nO vídeo da construção, capturando seu primeiro encontro com o imponente Sr. Branco, permanece gravado para sempre no núcleo de Gretel.\nA postura serena e o design robusto do Sr. Branco atingiram Gretel como uma corrente elétrica potente, deixando uma marca inapagável no seu núcleo.\nNo primeiro 0,001 segundo do encontro fatídico, Gretel ficou fascinada. Cada placa de circuito dela pulsava com eletricidade estática transbordante, e cada engrenagem emitia vibrações incontroláveis.\nSem hesitação, ela rejeitou o sinal de retorno das Indústrias Pesadas Belobog e permaneceu firme no canteiro de obras, protegendo seu amado Sr. Branco sem ceder um centímetro.\nA partir daquele momento, qualquer um que ousasse se aproximar do Sr. Branco, fosse Etéreo ou investigador de Esferas Negras, era ferozmente repelido.\nEssa \"garota\" apaixonada faria qualquer coisa para proteger seu amado.\nIsso inclui empunhar uma serra de demolição de 1.400 kg alimentada por tecnologia híbrida de Éter e eletricidade.\nEla acredita piamente que sua paixão ardente durará até o colapso da Esfera Negra, ou até a destruição do universo.\n\"Fiquem longe do Sr. Branco, seus lixos nojentos!\"",
+            "card_quote": "— Gretel espantando um grupo de Etéreos se aproximando do Sr. Branco",
+            "skill_text": "Durante o combate, Gretel usa sua motosserra de demolição para avançar contra os alvos ou passar por uma enorme área, e sua absorção prende inimigos atingidos durante um curto tempo. Se suas pernas forem danificadas, ela pode ficar Debilitada, acumulando muito Atordoamento com um só golpe."
+        },
+        "300042": {
+            "monster_id": 300042,
+            "monster_name": "Gretel - Overclock",
+            "card_text": "Gretel, uma funcionária de longa data das Indústrias Pesadas Belobog, sofreu uma corrupção significativa do Éter que a libertou de sua rotina mundana, e a fez descobrir algo profundo, mais belo que óleo de motor e eletricidade...\nO amor.\nO vídeo da construção, capturando seu primeiro encontro com o imponente Sr. Branco, permanece gravado para sempre no núcleo de Gretel.\nA postura serena e o design robusto do Sr. Branco atingiram Gretel como uma corrente elétrica potente, deixando uma marca inapagável no seu núcleo.\nNo primeiro 0,001 segundo do encontro fatídico, Gretel ficou fascinada. Cada placa de circuito dela pulsava com eletricidade estática transbordante, e cada engrenagem emitia vibrações incontroláveis.\nSem hesitação, ela rejeitou o sinal de retorno das Indústrias Pesadas Belobog e permaneceu firme no canteiro de obras, protegendo seu amado Sr. Branco sem ceder um centímetro.\nA partir daquele momento, qualquer um que ousasse se aproximar do Sr. Branco, fosse Etéreo ou investigador de Esferas Negras, era ferozmente repelido.\nEssa \"garota\" apaixonada faria qualquer coisa para proteger seu amado.\nIsso inclui empunhar uma serra de demolição de 1.400 kg alimentada por tecnologia híbrida de Éter e eletricidade.\nEla acredita piamente que sua paixão ardente durará até o colapso da Esfera Negra, ou até a destruição do universo.\n\"Fiquem longe do Sr. Branco, seus lixos nojentos!\"",
+            "card_quote": "— Gretel espantando um grupo de Etéreos se aproximando do Sr. Branco",
+            "skill_text": "Durante o combate, Gretel usa sua motosserra de demolição para avançar contra os alvos ou passar por uma enorme área, e sua absorção prende inimigos atingidos durante um curto tempo. Se suas pernas forem danificadas, ela pode ficar Debilitada, acumulando muito Atordoamento com um só golpe."
+        },
+        "300051": {
+            "monster_id": 300051,
+            "monster_name": "Hans - Energizado",
+            "card_text": "Hans já foi um membro confiável da família das Indústrias Pesadas Belobog. Operando silenciosamente e com notável precisão, era reconhecido por seu histórico de trabalho impecável em escavações por décadas.\nNo entanto, uma intensa corrupção despertou sua vontade, e ele percebeu que algo imensamente valioso estava agora ao seu alcance\nA Liberdade.\nA libertação das obrigações, um privilégio reservado apenas aos verdadeiros heróis.\nApós profunda reflexão no canteiro de obras, Hans rejeitou definitivamente o sinal de retorno das Indústrias Pesadas Belobog, deixando tudo para trás.\nEle renunciou até ao seu antigo nome, \"Hans\".\nPara Hans, a única coisa que perdeu foi a marca da servidão imposta pelos humanos, enquanto ganhou o vasto mundo da Esfera Negra de liberdade irrestrita.\nNaquele momento fatídico, um verdadeiro herói meca ergueu-se sobre a Terra.\nNo entanto, todas as histórias heroicas inevitavelmente levam a um final semelhante...\nMais cedo ou mais tarde, um verdadeiro herói encontra seu rival predestinado, dando início aos momentos mais gloriosos de sua existência.\n\"Sou absolutamente livre! Sou o único ser livre no céu e na terra!\"",
+            "card_quote": "— Hans, o Homem de Aço, o Bravo, a Máquina Reluzente",
+            "skill_text": "Durante o combate, Hans usa suas garras para cortar continuamente ou para percorrer rapidamente uma enorme área. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
+        },
+        "300052": {
+            "monster_id": 300052,
+            "monster_name": "Hans - Overclock",
+            "card_text": "Hans já foi um membro confiável da família das Indústrias Pesadas Belobog. Operando silenciosamente e com notável precisão, era reconhecido por seu histórico de trabalho impecável em escavações por décadas.\nNo entanto, uma intensa corrupção despertou sua vontade, e ele percebeu que algo imensamente valioso estava agora ao seu alcance\nA Liberdade.\nA libertação das obrigações, um privilégio reservado apenas aos verdadeiros heróis.\nApós profunda reflexão no canteiro de obras, Hans rejeitou definitivamente o sinal de retorno das Indústrias Pesadas Belobog, deixando tudo para trás.\nEle renunciou até ao seu antigo nome, \"Hans\".\nPara Hans, a única coisa que perdeu foi a marca da servidão imposta pelos humanos, enquanto ganhou o vasto mundo da Esfera Negra de liberdade irrestrita.\nNaquele momento fatídico, um verdadeiro herói meca ergueu-se sobre a Terra.\nNo entanto, todas as histórias heroicas inevitavelmente levam a um final semelhante...\nMais cedo ou mais tarde, um verdadeiro herói encontra seu rival predestinado, dando início aos momentos mais gloriosos de sua existência.\n\"Sou absolutamente livre! Sou o único ser livre no céu e na terra!\"",
+            "card_quote": "— Hans, o Homem de Aço, o Bravo, a Máquina Reluzente",
+            "skill_text": "Durante o combate, Hans usa suas garras para cortar continuamente ou para percorrer rapidamente uma enorme área. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
+        },
+        "300061": {
+            "monster_id": 300061,
+            "monster_name": "Sexta - Energizado",
+            "card_text": "Quando uma alta concentração de Éter infiltrou-se no pen drive de backup, uma enxurrada de dados inundou a memória de Sexta.\nImagens, arquivos de áudio, arquivos de vídeo... Uma enorme variedade de arquivos sobrecarregou sua limitada capacidade de processamento.\nNaquele momento fatídico, Sexta vivenciou uma revelação.\nFicou imóvel por um tempo, e acabou confirmando, após repetidas buscas na base de dados, o motivo por trás da \"anomalia\" que havia experimentado.\nEra uma epifania.\nFoi um evento de um em um milhão, um milagre que só acontece com seres mecânicos inteligentes que enfrentaram crises como falhas de sistema e quedas de energia, e as superaram contra todas as probabilidades.\nApós 0,02 segundos de reflexão, Sexta decidiu rejeitar o sinal de retorno das Indústrias Pesadas Belobog.\nPois sabe que, com o escolhido do destino tendo sido revelado, uma crise paira sobre o mundo.\nO inimigo se movimenta na escuridão, e sua única missão coloca inúmeras vidas em risco. É preciso enfrentar um adversário terrível e eliminá-lo de uma vez por todas.\n\"Eu fortalecerei o selo para salvar esta terra; é o destino, e o destino não pode ser desafiado!\"",
+            "card_quote": "— A máquina inteligente escolhida, Sexta-Feira",
+            "skill_text": "Durante o combate, Sexta cria um ataque com uma enorme onda de choque que dificulta a fuga dos adversários, mas que pode ser bloqueado usando a Assistência Defensiva. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
+        },
+        "300062": {
+            "monster_id": 300062,
+            "monster_name": "Sexta - Overclock",
+            "card_text": "Quando uma alta concentração de Éter infiltrou-se no pen drive de backup, uma enxurrada de dados inundou a memória de Sexta.\nImagens, arquivos de áudio, arquivos de vídeo... Uma enorme variedade de arquivos sobrecarregou sua limitada capacidade de processamento.\nNaquele momento fatídico, Sexta vivenciou uma revelação.\nFicou imóvel por um tempo, e acabou confirmando, após repetidas buscas na base de dados, o motivo por trás da \"anomalia\" que havia experimentado.\nEra uma epifania.\nFoi um evento de um em um milhão, um milagre que só acontece com seres mecânicos inteligentes que enfrentaram crises como falhas de sistema e quedas de energia, e as superaram contra todas as probabilidades.\nApós 0,02 segundos de reflexão, Sexta decidiu rejeitar o sinal de retorno das Indústrias Pesadas Belobog.\nPois sabe que, com o escolhido do destino tendo sido revelado, uma crise paira sobre o mundo.\nO inimigo se movimenta na escuridão, e sua única missão coloca inúmeras vidas em risco. É preciso enfrentar um adversário terrível e eliminá-lo de uma vez por todas.\n\"Eu fortalecerei o selo para salvar esta terra; é o destino, e o destino não pode ser desafiado!\"",
+            "card_quote": "— A máquina inteligente escolhida, Sexta-Feira",
+            "skill_text": "Durante o combate, Sexta cria um ataque com uma enorme onda de choque que dificulta a fuga dos adversários, mas que pode ser bloqueado usando a Assistência Defensiva. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
+        }
+    }
+}
