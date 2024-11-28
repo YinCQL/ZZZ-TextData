@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "Anby",
+        "full_name": "Anby Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "Rapid Charge Mode",
+                "Anbi_Talent_01_Desc_01_Realign": "เมื่อ Slash ของการ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 4 ถูกศัตรู\nประสิทธิภาพการรับพลังงาน ของ Anby จะเพิ่มขึ้น 12% ต่อเนื่อง 30 วินาที",
+                "Anbi_Talent_01_Desc_02": "\"ชาร์จด่วนหนึ่งนาที ลุยได้ครึ่งชั่วโมง!\"\nผู้เชี่ยวชาญด้านการพัฒนาฟังก์ชันโมดูลให้อาวุธ รับประกันไว้ว่าอย่างนี้...\nแล้วผลการใช้งานก็เป็นจริงอย่างที่เขาพูด",
+                "Anbi_Talent_01_Desc_01": "เมื่อ Slash ของการ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 4 ถูกศัตรู\nประสิทธิภาพการรับพลังงาน ของ Anby จะเพิ่มขึ้น 12% ต่อเนื่อง 30 วินาที",
+                "Anbi_Talent_01_Title_Realign": "Rapid Charge Mode"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "Precision Discharge",
+                "Anbi_Talent_02_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[โจมตีปกติ: Thunderbolt]</color> ถูกศัตรูที่อยู่ในสภาวะสตั๊น\nการโจมตีจะสร้างความเสียหายเพิ่มขึ้น 30%;\nเมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรูที่ไม่ได้อยู่ในสภาวะสตั๊น\nการโจมตีจะสร้าง Daze เพิ่มขึ้น 10%",
+                "Anbi_Talent_02_Desc_02": "\"ถ้าโดนไฟช็อต จะสลบเอานะ\"\nหญิงสาวมองศัตรูที่สลบอยู่ตรงหน้าด้วยสีหน้าเฉยชา และพูดขึ้นมาอีกประโยคหนึ่งว่า:\n\"ในหนังก็แสดงกันแบบนี้แหละ\"",
+                "Anbi_Talent_02_Desc_01": "เมื่อ <color=#FFFFFF>[โจมตีปกติ: Thunderbolt]</color> ถูกศัตรูที่อยู่ในสภาวะสตั๊น\nการโจมตีจะสร้างความเสียหายเพิ่มขึ้น 30%;\nเมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรูที่ไม่ได้อยู่ในสภาวะสตั๊น\nการโจมตีจะสร้าง Daze เพิ่มขึ้น 10%",
+                "Anbi_Talent_02_Title_Realign": "Precision Discharge"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "Well-Disciplined",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Anbi_Talent_03_Desc_02": "วิ่ง ควงอาวุธ เคลื่อนไหวราวกับฟ้าผ่า เด็กสาวไม่ใช่นักสำรวจ Hollow มือใหม่ แต่เป็นผู้เชี่ยวชาญในเรื่องนี้",
+                "Anbi_Talent_03_Title_Realign": "Well-Disciplined"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "Conducting Charge",
+                "Anbi_Talent_04_Desc_01_Realign": "เมื่อปล่อย <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color>\nจะฟื้นฟูพลังงานให้ตัวละครธาตุไฟฟ้าที่อยู่นอกสนาม 3 แต้ม;\nทุก 12% ของประสิทธิภาพการรับพลังงานของ Anby จะทำให้ปริมาณการฟื้นฟูเพิ่มขึ้นอีก 2 แต้ม (เพิ่มขึ้นอีกได้มากสุด 6 แต้ม)",
+                "Anbi_Talent_04_Desc_02": "การต่อสู้เพียงลำพังไม่ใช่วิธีแก้ปัญหาระยะยาว Hollow Raider ที่มีประสบการณ์จะสร้างโอกาส ให้เพื่อนร่วมทีมในเวลาที่เหมาะสมระหว่างการต่อสู้",
+                "Anbi_Talent_04_Desc_01": "เมื่อปล่อย <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color>\nจะฟื้นฟูพลังงานให้ตัวละครธาตุไฟฟ้าที่อยู่นอกสนาม 3 แต้ม;\nทุก 12% ของประสิทธิภาพการรับพลังงานของ Anby จะทำให้ปริมาณการฟื้นฟูเพิ่มขึ้นอีก 2 แต้ม (เพิ่มขึ้นได้มากสุด 6 แต้ม)",
+                "Anbi_Talent_04_Title_Realign": "Conducting Charge"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "Street Experience",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Anbi_Talent_05_Desc_02": "งานของ Cunning Hares นั้นไม่เพียงแต่ช่วยยกระดับคุณภาพจิตใจ แต่ยัง (ถูกบังคับ) ให้เพิ่มสมรรถภาพทางกายด้วย",
+                "Anbi_Talent_05_Title_Realign": "Street Experience"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "Charging Field",
+                "Anbi_Talent_06_Desc_01_Realign": "เมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color> Anby จะได้รับ Charge 8 ชั้น\n(สูงสุด 8 ชั้น);\nเมื่อการ <color=#FFFFFF>[โจมตีปกติ]</color> หรือ <color=#FFFFFF>[พุ่งโจมตี]</color> ถูกศัตรู\nจะใช้ Charge 1 ชั้น เพื่อทำให้ความเสียหายที่เกิดจาก\nท่าในขณะนั้นเพิ่มขึ้น 45% แต้ม",
+                "Anbi_Talent_06_Desc_02": "ประกายสายฟ้าระยิบระยับที่ปลายนิ้วมือของหญิงสาว\nหญิงสาวเงยหน้าขึ้น ในแววตาเต็มไปด้วยความมุ่งมั่นที่เกินอายุของตัวเอง\nสักวันหนึ่ง เธออาจจะได้เป็นคนที่ ควบคุมประกายสายฟ้าเหล่านี้อย่างถ่องแท้ก็ได้",
+                "Anbi_Talent_06_Desc_01": "เมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color> Anby จะได้รับ Charge 8 ชั้น\n(สูงสุด 8 ชั้น);\nเมื่อการ <color=#FFFFFF>[โจมตีปกติ]</color> หรือ <color=#FFFFFF>[พุ่งโจมตี]</color> ถูกศัตรู\nจะใช้ Charge 1 ชั้น เพื่อทำให้ความเสียหายที่เกิดจาก\nท่าในขณะนั้นเพิ่มขึ้น 45% แต้ม",
+                "Anbi_Talent_06_Title_Realign": "Charging Field"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "Nekomata",
+        "full_name": "Nekomiya Mana",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "Bird Hunter",
+                "Tsubaki_Talent_01_Desc_01_Realign": "เมื่อโจมตีโดนศัตรูจากทางด้านหลัง Nekomata จะมองข้าม 16% ของ<color=#F0D12B>ความต้านทานความเสียหายกายภาพ</color>ของเป้าหมาย;\nเมื่อฝ่ายศัตรูอยู่ในสภาวะสตั๊น การโจมตีที่ Nekomata ใช้กับศัตรูดังกล่าว จะถือเป็นการโจมตีจากข้างหลังทั้งหมด",
+                "Tsubaki_Talent_01_Desc_02": "Nekomata ที่มีรูปร่างบอบบางไม่ได้มีพละกำลังที่แข็งแกร่ง แต่มีวิสัยทัศน์ในการจับจุดอ่อนของคู่ต่อสู้ และความรวดเร็วในการโจมตีจุดอ่อนอย่างแม่นยำ",
+                "Tsubaki_Talent_01_Desc_01": "เมื่อโจมตีโดนศัตรูจากทางด้านหลัง Nekomata จะมองข้าม 16% ของ<color=#F0D12B>ความต้านทานความเสียหายกายภาพ</color>ของเป้าหมาย;\nเมื่อฝ่ายศัตรูอยู่ในสภาวะสตั๊น การโจมตีที่ Nekomata ใช้กับศัตรูดังกล่าว จะถือเป็นการโจมตีจากข้างหลังทั้งหมด",
+                "Tsubaki_Talent_01_Title_Realign": "Bird Hunter"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "Cat & Mouse",
+                "Tsubaki_Talent_02_Desc_01_Realign": "เมื่อในการต่อสู้มีศัตรูเพียง 1 ตัว และตัวของเธอเองอยู่ในสนาม ประสิทธิภาพการรับพลังงานของ Nekomata จะเพิ่มขึ้น 25%",
+                "Tsubaki_Talent_02_Desc_02": "เหล่าแมวเหมียวมักชอบกลั่นแกล้งเหยื่อ\nเมื่อในการต่อสู้เหลือ \"หนู\" เพียงแค่ตัวเดียว มันก็คือช่วงเวลาแห่งความสุขของเธอนั่นเอง",
+                "Tsubaki_Talent_02_Desc_01": "เมื่อในการต่อสู้มีศัตรูเพียง 1 ตัว และตัวของเธอเองอยู่ในสนาม ประสิทธิภาพการรับพลังงานของ Nekomata จะเพิ่มขึ้น 25%",
+                "Tsubaki_Talent_02_Title_Realign": "Cat & Mouse"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "Curious Left Tail",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Tsubaki_Talent_03_Desc_02": "ในตำนานของอารยธรรมเก่า หางหนึ่งเส้นแสดงถึงชีวิตหนึ่งชีวิตของแมว ซึ่งมีภูมิปัญญาในการเอาชีวิตรอดตลอดหลายปีอยู่ภายในนั้น...\nคำพูดนี้ไม่เป็นความจริง แต่ประสบการณ์การเอาชีวิตรอดตามท้องถนนที่ Nekomata สั่งสมมานั้นเป็นเรื่องจริง",
+                "Tsubaki_Talent_03_Title_Realign": "Curious Left Tail"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "Sharpen Claws",
+                "Tsubaki_Talent_04_Desc_01_Realign": "เมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color> CRIT Rate ของ Nekomata จะเพิ่มขึ้น 7%\nโดยจะซ้อนทับได้สูงสุด 2 ชั้น ต่อเนื่อง 15 วินาที และเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Tsubaki_Talent_04_Desc_02": "\"เอาอีกเยอะๆ ! ฉันจัดการได้ทั้งหมดนั่นแหละ~!\"\nมนุษย์สัตว์วงศ์แมวเลียอุ้งเท้าของตัวเอง ด้วยแววตาที่เป็นประกายวิบวับ",
+                "Tsubaki_Talent_04_Desc_01": "เมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color> CRIT Rate ของ Nekomata จะเพิ่มขึ้น 7% โดยจะซ้อนทับได้สูงสุด 2 ชั้น ต่อเนื่อง 15 วินาที และเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Tsubaki_Talent_04_Title_Realign": "Sharpen Claws"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "Lucky Right Tail",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Tsubaki_Talent_05_Desc_02": "ในตำนานของอารยธรรมเก่า หางหนึ่งเส้นแสดงถึงชีวิตหนึ่งชีวิตของแมว ซึ่งมีภูมิปัญญาในการเอาชีวิตรอดตลอดหลายปีอยู่ภายในนั้น...\nในบางเวลา Nekomata ก็นึกสงสัย ว่าถ้าตัวของเธอเองโชคดี และมีชีวิตรอดต่อไปเรื่อยๆ จะมีหางเส้นใหม่งอกออกมาอีกมั้ยนะ?",
+                "Tsubaki_Talent_05_Title_Realign": "Lucky Right Tail"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "Predator Lineage",
+                "Tsubaki_Talent_06_Desc_01_Realign": "เมื่อปล่อย <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> CRIT DMG ของ Nekomata จะเพิ่มขึ้น 18% โดยจะซ้อนทับได้สูงสุด 3 ชั้น และเอฟเฟกต์บัฟจะสิ้นสุดลง เมื่อออกจากสถานะการต่อสู้;\nเมื่อ Nekomata เอาชนะศัตรูได้ เอฟเฟกต์บัฟนี้ จะซ้อนทับถึงจำนวนชั้นสูงสุดโดยทันที",
+                "Tsubaki_Talent_06_Desc_02": "\"สำหรับมนุษย์สัตว์วงศ์แมวแล้ว การได้รับการตอบสนองในเชิงบวก จากพฤติกรรมที่ก้าวร้าว\nมีโอกาสสูงมาก ที่จะกระตุ้นอารมณ์รุนแรงที่ซ่อนอยู่ของพวกเขา\nแต่สิ่งที่โชคดีก็คือ แนวโน้มเหล่านี้ไม่ได้มีผลถาวร...\"\n— ข้อความจาก [คู่มือการศึกษาวิจัยที่ไม่สมบูรณ์เกี่ยวกับมนุษย์สัตว์วงศ์แมว] ที่ดูเก่าเล่มหนึ่ง",
+                "Tsubaki_Talent_06_Desc_01": "เมื่อปล่อย <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> CRIT DMG ของ Nekomata จะเพิ่มขึ้น 18% โดยจะซ้อนทับได้สูงสุด 3 ชั้น และเอฟเฟกต์บัฟจะสิ้นสุดลง เมื่อออกจากสถานะการต่อสู้;\nเมื่อ Nekomata เอาชนะศัตรูได้ เอฟเฟกต์บัฟนี้ จะซ้อนทับถึงจำนวนชั้นสูงสุดโดยทันที",
+                "Tsubaki_Talent_06_Title_Realign": "Predator Lineage"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "Nicole",
+        "full_name": "Nicole Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "Supercharged Bomb",
+                "Nostradamus_Talent_01_Desc_01_Realign": "ความเสียหาย และค่าการสะสม Anomaly ที่เกิดจาก <color=#FFFFFF>[สกิลพิเศษ-EX]</color> จะเพิ่มขึ้น 16%;\nเมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ทุก 0.1 วินาที ที่เพิ่มขึ้นของการชาร์จพลัง จะทำให้ช่วงเวลาต่อเนื่องของ Energy Field ที่เกิดตรงตำแหน่งเป้าหมาย ยาวนานขึ้น 0.15 วินาที",
+                "Nostradamus_Talent_01_Desc_02": "\"ฉันเสริมพลังให้หมดแล้ว ไปลุยกันเลย!\"\n\"อะไร ฉะ ฉันไม่ได้คิดจะชิ่งหนีนะ แค่ต้องการพักผ่อนเท่านั้น!\"",
+                "Nostradamus_Talent_01_Desc_01": "ความเสียหาย และค่าการสะสม Anomaly ที่เกิดจาก <color=#FFFFFF>[สกิลพิเศษ-EX]</color> จะเพิ่มขึ้น 16%;\nเมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ทุก 0.1 วินาที ที่เพิ่มขึ้นของการชาร์จพลัง จะทำให้ช่วงเวลาต่อเนื่องของ Energy Field ที่เกิดตรงตำแหน่งเป้าหมาย ยาวนานขึ้น 0.15 วินาที",
+                "Nostradamus_Talent_01_Title_Realign": "Supercharged Bomb"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "Charging Device",
+                "Nostradamus_Talent_02_Desc_01_Realign": "เมื่อเกิดเอฟเฟกต์ดีบัฟ <color=#FFFFFF>[พาสซีฟหลัก: Mechanical Case]</color> Nicole จะฟื้นฟูพลังงาน 5 แต้ม ซึ่งใน 15 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Nostradamus_Talent_02_Desc_02": "\"อย่าได้ดูถูกหนึ่งวินาทีนี้เชียวนะ!\"\n\"รู้มั้ยว่าเวลาแค่วิเดียวนี้ ฉันสามารถสร้างมูลค่าได้มากแค่ไหน? นับไม่ถ้วนเลยล่ะ!\"\n\"ดังนั้น ฉันขอโบนัสเพิ่ม 10% คงไม่เกินไปใช่มั้ย?\"",
+                "Nostradamus_Talent_02_Desc_01": "เมื่อเกิดเอฟเฟกต์ดีบัฟ <color=#FFFFFF>[พาสซีฟหลัก: Mechanical Case]</color> Nicole จะฟื้นฟูพลังงาน 5 แต้ม ซึ่งใน 15 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Nostradamus_Talent_02_Title_Realign": "Charging Device"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "A Hare's Cunning",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Nostradamus_Talent_03_Desc_02": "ไม่มีทั้งกำลังรบที่โดดเด่น และไม่มีทั้งทรัพยากรที่ล้นเหลือ บางทีการที่ Nicole สามารถทำให้ Cunning Hares อยู่รอดมาจนถึงทุกวันนี้ได้ อาจเป็นเพราะมันสมองที่ยืดหยุ่นของเธอ",
+                "Nostradamus_Talent_03_Title_Realign": "A Hare's Cunning"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "Field Expansion",
+                "Nostradamus_Talent_04_Desc_01_Realign": "เมื่อ Nicole ปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color>, <color=#FFFFFF>[สกิลอัลติเมท]</color>\nขอบเขตการโจมตีของ Energy Field ที่สร้างตรงตำแหน่งเป้าหมายจะเพิ่มขึ้น โดยมีเส้นผ่านศูนย์กลางเพิ่มขึ้น 3 เมตร",
+                "Nostradamus_Talent_04_Desc_02": "\"ตรงนี้ แล้วก็ตรงนี้ด้วย อีกหน่อยจะต้องกลายเป็นเขตแดนของ Cunning Hares ทั้งหมด เข้าใจมั้ย!\"\n\"อะไร ถามว่าอีกนานแค่ไหนงั้นเหรอ?\"\n\"เอ่อ... ถ้าดูจากรายได้ของพวกเราในตอนนี้ ก็น่าจะอีกประมาณ 10,000 ปี ล่ะนะ!\"",
+                "Nostradamus_Talent_04_Desc_01": "เมื่อ Nicole ปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color>, <color=#FFFFFF>[สกิลอัลติเมท]</color>\nขอบเขตการโจมตีของ Energy Field ที่สร้างตรงตำแหน่งเป้าหมายจะเพิ่มขึ้น โดยมีเส้นผ่านศูนย์กลางเพิ่มขึ้น 3 เมตร",
+                "Nostradamus_Talent_04_Title_Realign": "Field Expansion"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "Industry Star",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Nostradamus_Talent_05_Desc_02": "แม้ว่าจะมีศัตรูในวงการมากมาย แต่ Nicole ก็สามารถพาลูกน้องของเธอ ให้รอดพ้นจากช่วงเวลาเป็นตายได้ซ้ำแล้วซ้ำเล่า และชื่อเสียงกับประสบการณ์ของ Cunning Hares ก็ดีขึ้นอย่างต่อเนื่องเช่นกัน",
+                "Nostradamus_Talent_05_Title_Realign": "Industry Star"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "Corrupting Energy Field",
+                "Nostradamus_Talent_06_Desc_01_Realign": "เมื่อ Energy Field สร้างความเสียหายแก่ศัตรู CRIT Rate ของทั้งทีมที่มีต่อเป้าหมายดังกล่าว จะเพิ่มขึ้น 1.5%\nโดยจะซ้อนทับได้มากสุด 10 ชั้น ต่อเนื่อง 12 วินาที ซึ่งเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Nostradamus_Talent_06_Desc_02": "ใช้กระสุนกลไกขั้นสูง โดยมีปริมาณ และความเข้มข้นของอีเทอร์เพิ่มมากขึ้น ซึ่งจะทำให้ความเสียหายรุนแรงขึ้น ช่วงเวลาต่อเนื่องยาวนานขึ้น... ราคาแพงยิ่งขึ้น",
+                "Nostradamus_Talent_06_Desc_01": "เมื่อ Energy Field สร้างความเสียหายแก่ศัตรู CRIT Rate ของทั้งทีมที่มีต่อเป้าหมายดังกล่าว จะเพิ่มขึ้น 1.5% โดยจะซ้อนทับได้มากสุด 10 ชั้น ต่อเนื่อง 12 วินาที ซึ่งเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Nostradamus_Talent_06_Title_Realign": "Corrupting Energy Field"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "Billy",
+        "full_name": "Billy Kid",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "Dazzling Entrance",
+                "Billy_Talent_01_Desc_01_Realign": "เมื่อการ <color=#FFFFFF>[พุ่งโจมตี]</color> หรือ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> ถูกศัตรู\nBilly จะฟื้นฟูพลังงานเพิ่มเติม 2.7 แต้ม โดยที่ใน 5 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Billy_Talent_01_Desc_02": "\"ในฐานะวายร้าย พวกคุณจะซื่อตรงเกินไปหน่อยแล้ว!\"\n\"ก็เหมือนเป้านิ่งที่ตั้งใจเตรียมเอาไว้ เพื่อให้เข้ากันกับการปรากฏตัวของตัวละครหลัก!\"",
+                "Billy_Talent_01_Desc_01": "เมื่อการ <color=#FFFFFF>[พุ่งโจมตี]</color> หรือ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> ถูกศัตรู\nBilly จะฟื้นฟูพลังงานเพิ่มเติม 2.7 แต้ม โดยที่ภายใน 5 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Billy_Talent_01_Title_Realign": "Dazzling Entrance"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "Roaming Gunslinger",
+                "Billy_Talent_02_Desc_01_Realign": "การ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> จะสร้างความเสียหายเพิ่มขึ้น 25%;\nการกลิ้งยิงจาก <color=#FFFFFF>[โจมตีปกติ]</color> จะถือเป็นท่าหลบหลีก\nโดยขณะที่ใช้ท่านี้ จะได้รับเอฟเฟกต์ Invulnerable\nและสามารถทำให้เกิดการ <color=#FFFFFF>[หลบหลีกสมบูรณ์]</color>\nเมื่อกลิ้งยิง และทำให้เกิดการ <color=#FFFFFF>[หลบหลีกสมบูรณ์]</color>\nจะทำการ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> ต่อเนื่องโดยอัตโนมัติ",
+                "Billy_Talent_02_Desc_02": "\"Starlight Knight ไม่เคยหลบหนีภัยอันตราย นั่นมันคือสกิลช็อตต่างหากล่ะ!\"\n- ข้อความจาก สมาชิก \"โอ้แม่ Monica ในฝัน\" ในกระดานข้อความประกายดาวเจิดจรัส",
+                "Billy_Talent_02_Desc_01": "การ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> จะสร้างความเสียหายเพิ่มขึ้น 25%;\nการกลิ้งยิงจาก <color=#FFFFFF>[โจมตีปกติ]</color> จะถือเป็นท่าหลบหลีก\nโดยขณะที่ใช้ท่านี้ จะได้รับเอฟเฟกต์ Invulnerable\nและสามารถทำให้เกิดการ <color=#FFFFFF>[หลบหลีกสมบูรณ์]</color>\nเมื่อกลิ้งยิง และทำให้เกิดการ <color=#FFFFFF>[หลบหลีกสมบูรณ์]</color>\nจะทำการ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> ต่อเนื่องโดยอัตโนมัติ",
+                "Billy_Talent_02_Title_Realign": "Roaming Gunslinger"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "Teachings of the Starlight Knights",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Billy_Talent_03_Desc_02": "\"อย่าหย่อนยานในการฝึกฝน และอย่าหยุดพัฒนาโดยเด็ดขาด!\" นี่คือจิตวิญญาณที่สนับสนุน Starlight Knight ซึ่ง Billy ก็เชื่อจริงๆ แถมยังทำตามจริงๆ ซะด้วย",
+                "Billy_Talent_03_Title_Realign": "Teachings of the Starlight Knights"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "Starlight Ballistics",
+                "Billy_Talent_04_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู\nCRIT Rate ของท่าจะเพิ่มขึ้นตามระยะห่างระหว่างตัวเอง และเป้าหมาย;\nยิ่ง Billy อยู่ใกล้เป้าหมาย เอฟเฟกต์ที่เพิ่มก็จะยิ่งเด่นชัด (เพิ่มได้สูงสุด 32%)",
+                "Billy_Talent_04_Desc_02": "กระสุนระเบิดที่คิดค้น และทำขึ้นโดย Billy\nขณะต่อสู้แบบประชิดตัว จะมีพลังทำลายล้างที่น่ากลัวมาก\nแต่เจตนาดั้งเดิมในการปรับปรุงกระสุนของ Billy คือต้องการให้มันดูเท่ยิ่งขึ้นในตอนยิงเท่านั้น",
+                "Billy_Talent_04_Desc_01": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู\nCRIT Rate ของท่าจะเพิ่มขึ้นตามระยะห่างระหว่างตัวเอง และเป้าหมาย;\nยิ่ง Billy อยู่ใกล้เป้าหมาย เอฟเฟกต์ที่เพิ่มก็จะยิ่งเด่นชัด (เพิ่มได้สูงสุด 32%)",
+                "Billy_Talent_04_Title_Realign": "Starlight Ballistics"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "Lost Technological Construct",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Billy_Talent_05_Desc_02": "ส่วนประกอบปริศนาที่มีความแม่นยำ และการออกแบบโครงสร้างที่ไม่เหมือนใคร นำมาซึ่งสมรรถนะที่เหนือกว่าพวกเดียวกันแก่ Billy ...รวมถึงค่าบำรุงรักษาด้วย",
+                "Billy_Talent_05_Title_Realign": "Lost Technological Construct"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "Starlight Hero",
+                "Billy_Talent_06_Desc_01_Realign": "เมื่อโจมตีโดนศัตรูสะสมถึง 10 ครั้ง หรือทำให้เกิดการ <color=#FFFFFF>[หลบหลีกสมบูรณ์]</color>\nBilly จะสร้างความเสียหายเพิ่มขึ้น 6%\nโดยจะซ้อนทับได้สูงสุด 5 ชั้น และหลังจากถูกศัตรูโจมตีจนถอยหลัง หรือถูกโจมตีกระเด็น เอฟเฟกต์บัฟจะรีเซ็ต",
+                "Billy_Talent_06_Desc_02": "\"วู้วว~ ฟิลลิ่งมาแล้ว! Anby เธอช่วยถอยไปหน่อย ได้เวลาฉันออกโรงแล้ว!\"\n\"เอ่อ Anby ช่วยเปิดเพลงเปิดตัวของ Starlight Knight ให้ทีได้มะ?\"\n- การคัดเลือก \"10 คำต้องห้าม\" ใน Cunning Hares เสนอโดย Anby",
+                "Billy_Talent_06_Desc_01": "เมื่อโจมตีโดนศัตรูสะสมถึง 10 ครั้ง หรือทำให้เกิดการ <color=#FFFFFF>[หลบหลีกสมบูรณ์]</color>\nBilly จะสร้างความเสียหายเพิ่มขึ้น 6% โดยจะซ้อนทับได้สูงสุด 5 ชั้น และหลังจากถูกศัตรูโจมตีจนถอยหลัง หรือถูกโจมตีกระเด็น เอฟเฟกต์บัฟจะรีเซ็ต",
+                "Billy_Talent_06_Title_Realign": "Starlight Hero"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "Koleda",
+        "full_name": "Koleda Belobog",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "Beat of the Hammer",
+                "OokumaMari_Talent_01_Desc_01_Realign": "เมื่อเชื่อมต่อกับการ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 2, ขั้นที่ 4 หรือหลังจากการ <color=#FFFFFF>[โจมตีปกติ]</color> ที่ได้รับการเสริมพลัง\nเมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> อย่างรวดเร็ว การโจมตีจะสร้าง Daze เพิ่มขึ้น 15%",
+                "OokumaMari_Talent_01_Desc_02": "อารมณ์ที่หุนหันพลันแล่นเป็นเพียงแค่การแสดงออก ในความเป็นจริงแล้ว Koleda นั้นละเอียดอ่อนมาก ตัวอย่างเช่น เธอรู้ดีว่าเมื่อไหร่ที่ควรเหวี่ยงค้อน เพื่อทำให้เจ็บมากยิ่งขึ้น",
+                "OokumaMari_Talent_01_Desc_01": "เมื่อเชื่อมต่อกับการ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 2, ขั้นที่ 4 หรือหลังจากการ <color=#FFFFFF>[โจมตีปกติ]</color> ที่ได้รับการเสริมพลัง\nเมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> อย่างรวดเร็ว การโจมตีจะสร้าง Daze เพิ่มขึ้น 15%",
+                "OokumaMari_Talent_01_Title_Realign": "Beat of the Hammer"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "Kinetic Recovery",
+                "OokumaMari_Talent_02_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู Koleda จะฟื้นฟูพลังงาน 60 แต้ม โดยที่ภายใน 45 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "OokumaMari_Talent_02_Desc_02": "สำหรับ Koleda แล้ว การโจมตีด้วยค้อนที่สมบูรณ์แบบนั้น มีจังหวะที่เป็นเอกลักษณ์\nเหมือนการเร่งสปีดในการตีกลอง ที่การตีแต่ละครั้ง คือการรวมพลังเพื่อจังหวะการตีที่แกร่งขึ้นในครั้งถัดไป\nแน่นอนว่าการจะบอกว่า \"ของเล่น\" ที่อยู่ตรงหน้าจะทนได้สักกี่ครั้งนั้น ก็เป็นเรื่องที่พูดได้ยาก",
+                "OokumaMari_Talent_02_Desc_01": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู Koleda จะฟื้นฟูพลังงาน 60 แต้ม โดยที่ภายใน 45 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "OokumaMari_Talent_02_Title_Realign": "Kinetic Recovery"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "\"Mind Your Own!\"",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "OokumaMari_Talent_03_Desc_02": "ในฐานะ \"ของเล่น\" ที่ได้มาตรฐาน ขณะที่ Koleda เริ่มคุ้นมือกับการใช้ค้อน\nอย่าทำให้ตัวเองต้องเดือดร้อนจะดีกว่า แค่อยู่นิ่งๆ ให้ค้อนทุบซะก็พอ\n...ยังไงซะ ต่อต้านไปจะมีประโยชน์อะไรล่ะ?",
+                "OokumaMari_Talent_03_Title_Realign": "\"Mind Your Own!\""
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "Furnace's Glow",
+                "OokumaMari_Talent_04_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[Furnace Fire]</color> เพื่อปล่อยการ <color=#FFFFFF>[โจมตีปกติ]</color> ที่ได้รับการเสริมพลัง\nKoleda จะได้รับ Charge 1 ชั้น (สูงสุด 2 ชั้น);\nเมื่อ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู\nจะใช้ Charge ทั้งหมดที่มี โดยที่ Charge แต่ละชั้น\nจะทำให้ความเสียหายที่เกิดจากท่าปัจจุบันเพิ่มขึ้น 18%",
+                "OokumaMari_Talent_04_Desc_02": "เมื่อค้อนที่ร้อนระอุทำให้อุณหภูมิรอบๆ สูงขึ้น Koleda ก็จะเข้าสู่สถานะต่อสู้\nในตอนนี้ เธอพร้อมจะระเบิดยิ่งกว่าอีเทอร์เสียอีก",
+                "OokumaMari_Talent_04_Desc_01": "เมื่อใช้ <color=#FFFFFF>[Furnace Fire]</color> เพื่อปล่อยการ <color=#FFFFFF>[โจมตีปกติ]</color> ที่ได้รับการเสริมพลัง\nKoleda จะได้รับ Charge 1 ชั้น (สูงสุด 2 ชั้น);\nเมื่อ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู\nจะใช้ Charge ทั้งหมดที่มี โดยที่ Charge แต่ละชั้น\nจะทำให้ความเสียหายที่เกิดจากท่าปัจจุบันเพิ่มขึ้น 18%",
+                "OokumaMari_Talent_04_Title_Realign": "Furnace's Glow"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "\"You Dare Underestimate Me?\"",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "OokumaMari_Talent_05_Desc_02": "Koleda กังวลอย่างมากว่าผู้นำที่อายุน้อยอย่างเธอ จะทำให้คนนอกดูถูก Belobog Industries เพื่อชดเชยสิ่งนี้ เธอจึงมักจะแอบฝึกฝนอย่างหนักอยู่เสมอ",
+                "OokumaMari_Talent_05_Title_Realign": "\"You Dare Underestimate Me?\""
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "Saturated Blast",
+                "OokumaMari_Talent_06_Desc_01_Realign": "ในระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> เมื่อทำให้เกิดการระเบิดและถูกศัตรู จะสร้างความเสียหายเพิ่มเติม 360% ของ ATK ของ Koleda",
+                "OokumaMari_Talent_06_Desc_02": "ในสายตาของ Koleda คนที่เธอเกลียดแบ่งออกเป็นสองประเภท:\nคนโง่ และคนโง่ที่หมดทางรักษา\nที่โชคดีก็คือ Belobog Industries ไม่เคยขาดแคลนระเบิดอีเทอร์ชนิดรุนแรง\nจึงสามารถเอาส่วนที่เหลือใช้ มาจัดการเจ้าพวกงี่เง่าพวกนี้ได้",
+                "OokumaMari_Talent_06_Desc_01": "ในระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> เมื่อทำให้เกิดการระเบิดและถูกศัตรู จะสร้างความเสียหายเพิ่มเติม 360% ของ ATK ของ Koleda",
+                "OokumaMari_Talent_06_Title_Realign": "Saturated Blast"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "Anton",
+        "full_name": "Anton Ivanov",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "Warm-Up Exercises",
+                "Anton_Talent_01_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[Drill Attack]</color> ถูกศัตรู จะสามารถฟื้นฟูพลังงานเพิ่มเติมได้;\nในการใช้หนึ่งครั้ง เอฟเฟกต์ดังกล่าว จะฟื้นฟูพลังงานให้ Anton ได้สูงสุด 5 แต้ม",
+                "Anton_Talent_01_Desc_02": "\"ตื่นแล้วเหรอ? มาเถอะเพื่อน!\"\n\"โยกตามจังหวะ ได้เวลากายบริหารตอนเช้าแล้ว!\"",
+                "Anton_Talent_01_Desc_01": "เมื่อ <color=#FFFFFF>[Drill Attack]</color> ถูกศัตรู จะสามารถฟื้นฟูพลังงานเพิ่มเติมได้;\nในการใช้หนึ่งครั้ง เอฟเฟกต์ดังกล่าว จะฟื้นฟูพลังงานให้ Anton ได้สูงสุด 5 แต้ม",
+                "Anton_Talent_01_Title_Realign": "Warm-Up Exercises"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "State of Flow",
+                "Anton_Talent_02_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> และเข้าสู่ <color=#FFFFFF>[Burst Mode]</color>\nจะได้รับโล่ที่มีค่าเท่ากับ 7.5% ของ Max HP ของ Anton;\nใน <color=#FFFFFF>[Burst Mode]</color> เมื่อเข้าสู่สถานะต่อสู้ หรือเปลี่ยนเข้าในสนาม\nจะรีเฟรชเอฟเฟกต์ของโล่ ซึ่งใน 15 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nเมื่อออกจาก <color=#FFFFFF>[Burst Mode]</color> เอฟเฟกต์โล่นี้จะสิ้นสุดลง",
+                "Anton_Talent_02_Desc_02": "หลังจากการฝึกฝนอย่างหนักหน่วง มีผู้โชคดีส่วนน้อย\nที่จะระเบิดพลังอันยอดเยี่ยมออกมาได้ ในขณะออกกำลังกาย\nอย่างหนัก ซึ่งจะสามารถแสดงความสามารถของตนเองออกมา\nได้เหนือกว่ามาตรฐาน สิ่งนี้ถูกเรียกว่า \"zone\"\nเอาล่ะ พร้อมที่จะขยับตัวแล้วเข้าสู่ \"zone\" กันรึยัง?\n- รายการพิเศษของ Nitro-Fuel\n\"อรุณสวัสดิ์ เหล่ามนุษย์เงินเดือนผู้เร่าร้อนทั้งหลาย!\"",
+                "Anton_Talent_02_Desc_01": "เมื่อใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> และเข้าสู่ <color=#FFFFFF>[Burst Mode]</color>\nจะได้รับโล่ที่มีค่าเท่ากับ 7.5% ของ Max HP ของ Anton;\nใน <color=#FFFFFF>[Burst Mode]</color> เมื่อเข้าสู่สถานะต่อสู้ หรือเปลี่ยนเข้าในสนาม\nจะรีเฟรชเอฟเฟกต์ของโล่ ซึ่งใน 15 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nเมื่อออกจาก <color=#FFFFFF>[Burst Mode]</color> เอฟเฟกต์โล่นี้จะสิ้นสุดลง",
+                "Anton_Talent_02_Title_Realign": "State of Flow"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "Rotational Training",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Anton_Talent_03_Desc_02": "การที่ไม่ว่าอะไรก็ทำได้แค่นิดหน่อยน่ะ มันก็แค่ความธรรมดา\nสามัญเท่านั้น แต่การทำงานใน Hollow ที่เต็มไปด้วยสถานการณ์\nที่มีความซับซ้อนสูง บางครั้งการมีทักษะเพิ่มอีกหนึ่งอย่าง\nก็หมายถึงความเป็นไปได้อีกหนึ่งอย่าง ที่จะฝ่าฟันสถานการณ์\nยากลำบากไปได้",
+                "Anton_Talent_03_Title_Realign": "Rotational Training"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "Everyone Get Fired Up!",
+                "Anton_Talent_04_Desc_01_Realign": "เมื่อปล่อย <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color>\nCRIT Rate ของทั้งทีมจะเพิ่มขึ้น 10% ต่อเนื่อง 12 วินาที",
+                "Anton_Talent_04_Desc_02": "\"คิดถึงความรู้สึกในตอนฝึก แล้วมาขยับตัวกันเถอะ!\"\nเมื่อ Anton เริ่มตั้งใจ ท่าทางของทุกคนก็เปลี่ยนเป็นคล่องแคล่วขึ้น\nเพราะหากตามจังหวะของเขาไม่ทัน จะต้องถูกแยกฝึกพิเศษคนเดียว ในตอนกายบริหารของพรุ่งนี้เช้า",
+                "Anton_Talent_04_Desc_01": "เมื่อปล่อย <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color>\nCRIT Rate ของทั้งทีมจะเพิ่มขึ้น 10% ต่อเนื่อง 12 วินาที",
+                "Anton_Talent_04_Title_Realign": "Everyone Get Fired Up!"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "Jack of All Trades",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Anton_Talent_05_Desc_02": "การที่ไม่ว่าอะไรก็ทำได้แค่นิดหน่อยน่ะ มันก็แค่ความธรรมดา\nสามัญเท่านั้น แต่หากคุณมุ่งมั่นมากพอ จากคำว่า \"ได้นิดหน่อย\"\nก็จะกลายเป็น \"เชี่ยวชาญ\" ได้ แล้วคุณก็จะไร้เทียมทาน!",
+                "Anton_Talent_05_Title_Realign": "Jack of All Trades"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "Break the Limit",
+                "Anton_Talent_06_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[Piledriver Attack]</color> ติดคริติคอล\n<color=#FFFFFF>[โจมตีปกติ: Enthusiastic Drills (Burst Mode)]</color> และ <color=#FFFFFF>[หลบหลีกสวนกลับ: Overload Drill (Burst Mode)]</color> จะสร้างความเสียหายเพิ่มขึ้น 4% โดยจะซ้อนทับได้สูงสุด 6 ชั้น ต่อเนื่อง 30 วินาที และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง",
+                "Anton_Talent_06_Desc_02": "\"เฮ้ เพื่อน! อยากเบิร์นไขมันเหมือนกันเหรอ!\"\nทุกครั้งที่ Anton อยากจะทะลวงขีดจำกัด\n\"เพื่อน\" ของเขาจะระเบิดความเร็วเพิ่มขึ้นจนน่ากลัว เพื่อตอบสนองต่อปณิธานของเขา",
+                "Anton_Talent_06_Desc_01": "เมื่อ <color=#FFFFFF>[Piledriver Attack]</color> ติดคริติคอล\n<color=#FFFFFF>[โจมตีปกติ: Enthusiastic Drills (Burst Mode)]</color> และ <color=#FFFFFF>[หลบหลีกสวนกลับ: Overload Drill (Burst Mode)]</color> จะสร้างความเสียหายเพิ่มขึ้น 4% โดยจะซ้อนทับได้สูงสุด 6 ชั้น ต่อเนื่อง 30 วินาที และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง",
+                "Anton_Talent_06_Title_Realign": "Break the Limit"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "Ben",
+        "full_name": "Ben Bigger",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "Reacting Force",
+                "Ben_Talent_01_Desc_01_Realign": "การปล่อย <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> เมื่อปัดป้องการโจมตีของศัตรูสำเร็จ\nผู้โจมตีจะสร้างความเสียหายลดลง 30% ต่อเนื่อง 15 วินาที",
+                "Ben_Talent_01_Desc_02": "\"แรงที่ปะทะย่อมส่งผลกระทบซึ่งกันและกัน แล้วทำไมยังต้องเข้าชนซึ่งๆ หน้าอีก?\"\n\"ดูเหมือนคุณจะยังคำนวณมาไม่ดีนะ\"",
+                "Ben_Talent_01_Desc_01": "การปล่อย <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> เมื่อปัดป้องการโจมตีของศัตรูสำเร็จ ผู้โจมตีจะสร้างความเสียหายลดลง 30% ต่อเนื่อง 15 วินาที",
+                "Ben_Talent_01_Title_Realign": "Reacting Force"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "Offense Through Defense",
+                "Ben_Talent_02_Desc_01_Realign": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> เมื่อปล่อยการปัดป้องสวนกลับสำเร็จ จะสร้างความเสียหายเพิ่มเติมเป็น 300% ของ DEF ของ Ben",
+                "Ben_Talent_02_Desc_02": "Ben มีความอดทนสูงมากในการต่อสู้ ซึ่งแตกต่างจากมนุษย์สัตว์วงศ์หมีคนอื่นๆ\nเพราะเขาเชื่อว่า ตราบใดที่เขาป้องกันตัวเองอย่างดี ช่วงเวลาที่ศัตรูจะเผยจุดอ่อนออกมา จะต้องมาถึงอย่างแน่นอน",
+                "Ben_Talent_02_Desc_01": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> เมื่อปล่อยการปัดป้องสวนกลับสำเร็จ จะสร้างความเสียหายเพิ่มเติมเป็น 300% ของ DEF ของ Ben",
+                "Ben_Talent_02_Title_Realign": "Offense Through Defense"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "Careful Accounting",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Ben_Talent_03_Desc_02": "การจะรับผิดชอบด้านการเงิน ต้องเรียนรู้ที่จะวางแผนอย่างรอบคอบ และใช้ทรัพยากรที่มีอยู่ทั้งหมด เพื่อเสริมความแข็งแกร่งให้กับทุกคน รวมถึงตัวเอง",
+                "Ben_Talent_03_Title_Realign": "Careful Accounting"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "Agile Adaptation",
+                "Ben_Talent_04_Desc_01_Realign": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> เมื่อใช้เอฟเฟกต์ Invulnerable ปัดป้องการโจมตีสำเร็จ การโจมตีสวนกลับหลังจากนั้น จะสร้างความเสียหายเพิ่มขึ้น 30%",
+                "Ben_Talent_04_Desc_02": "เพราะมีอาชีพเป็นนักบัญชี\nBen จึงมักจะปรับเปลี่ยนกลยุทธ์ของตัวเอง ตามรูปแบบ และสภาพการณ์\nไม่ว่าจะเป็นรายการบัญชี หรือศัตรู ต้องได้ผลลัพธ์ที่ดีที่สุด ด้วยต้นทุนที่ต่ำที่สุดให้ได้",
+                "Ben_Talent_04_Desc_01": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> เมื่อใช้เอฟเฟกต์ Invulnerable ปัดป้องการโจมตีสำเร็จ การโจมตีสวนกลับหลังจากนั้น จะสร้างความเสียหายเพิ่มขึ้น 30%",
+                "Ben_Talent_04_Title_Realign": "Agile Adaptation"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "Meticulous Detail",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Ben_Talent_05_Desc_02": "สายตาที่เฉียบแหลมของ Ben จะไม่ละทิ้งความผิดพลาดใดๆ ในรายงาน ไม่ละทิ้งความผิดพลาดในรูปแบบการต่อสู้ของตนเอง และจะค่อยๆ แข็งแกร่งขึ้น ในกระบวนการแก้ไขข้อผิดพลาด",
+                "Ben_Talent_05_Title_Realign": "Meticulous Detail"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "Wild Spirit",
+                "Ben_Talent_06_Desc_01_Realign": "ในระหว่างการใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> หลังจากปล่อยการโจมตี หรือต่อเนื่องด้วย Strike ที่ได้รับการเสริมพลัง\nการ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[พุ่งโจมตี]</color> และ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> จะสร้าง Daze เพิ่มขึ้น 20% ต่อเนื่อง 12 วินาที",
+                "Ben_Talent_06_Desc_02": "มนุษย์สัตว์วงศ์หมี กับวงศ์สุนัขนั้นแตกต่างกัน\nไม่สามารถใช้อาหารปลอบขวัญ ให้อารมณ์ของพวกเขาสงบลงได้\nเมื่อไหร่ที่พวกเขาโกรธ สิ่งเดียวที่คุณทำได้ ก็คือวิ่งให้เร็วขึ้น และไกลยิ่งขึ้น...\n— หนังสือที่ยกเลิกการขาย \"มาเป็นเพื่อนบ้านที่แสนดีกัน! 100 เคล็บลับสานสัมพันธ์กับมนุษย์สัตว์\"",
+                "Ben_Talent_06_Desc_01": "ในระหว่างการใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> หลังจากปล่อยการโจมตี หรือต่อเนื่องด้วย Strike ที่ได้รับการเสริมพลัง การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[พุ่งโจมตี]</color> และ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> จะสร้าง Daze เพิ่มขึ้น 20% ต่อเนื่อง 12 วินาที",
+                "Ben_Talent_06_Title_Realign": "Wild Spirit"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "Grace",
+        "full_name": "Grace Howard",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "Recharge Chamber",
+                "Lisa_Talent_01_Desc_01_Realign": "ในแต่ละครั้งที่การ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 4 ถูกศัตรู ทั้งทีมจะฟื้นฟูพลังงาน 0.25 แต้ม;\nในการใช้หนึ่งครั้ง เอฟเฟกต์นี้จะฟื้นฟูพลังงานให้ทั้งทีมมากสุด 2 แต้ม",
+                "Lisa_Talent_01_Desc_02": "ประสิทธิภาพคือชีวิตของวิศวกรรม ภายในปากกระบอกปืนของ Grace มีเสียงหัวใจของวิศวกรรมก้องกังวานอยู่",
+                "Lisa_Talent_01_Desc_01": "ในแต่ละครั้งที่การ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 4 ถูกศัตรู ทั้งทีมจะฟื้นฟูพลังงาน 0.25 แต้ม;\nในการใช้หนึ่งครั้ง เอฟเฟกต์นี้จะฟื้นฟูพลังงานให้ทั้งทีมมากสุด 2 แต้ม",
+                "Lisa_Talent_01_Title_Realign": "Recharge Chamber"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "Lightning Piercer",
+                "Lisa_Talent_02_Desc_01_Realign": "ในระหว่างการใช้ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลพิเศษ-EX]</color> และอื่นๆ เมื่อโยนระเบิดมือโดนศัตรู <color=#2EB6FF>ความต้านทานความเสียหายไฟฟ้า</color>ของเป้าหมาย จะลดลง 8.5% และ<color=#2EB6FF>ความต้านทานการสะสม Electric Anomaly</color> จะลดลง 8.5% ต่อเนื่อง 8 วินาที",
+                "Lisa_Talent_02_Desc_02": "\"การชำแหละ\" โครงสร้างเครื่องจักรที่ซับซ้อน เป็นงานอดิเรกที่ Grace ชื่นชอบที่สุด แม้แต่ในการต่อสู้ก็ตาม\nผู้ที่ถูกกระทำจะรู้สึกยังไงกันนะ? ในเวลาที่ข้อเสียทุกตารางนิ้วของพวกมัน ถูกเปิดโปงออกมาอย่างนี้",
+                "Lisa_Talent_02_Desc_01": "ในระหว่างการใช้ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลพิเศษ-EX]</color> และอื่นๆ เมื่อโยนระเบิดมือโดนศัตรู <color=#2EB6FF>ความต้านทานความเสียหายไฟฟ้า</color>ของเป้าหมาย จะลดลง 8.5% และ<color=#2EB6FF>ความต้านทานการสะสม Electric Anomaly</color> จะลดลง 8.5% ต่อเนื่อง 8 วินาที",
+                "Lisa_Talent_02_Title_Realign": "Lightning Piercer"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "Chief Mechanic",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Lisa_Talent_03_Desc_02": "Grace เข้าร่วมการเรียบเรียง \"คู่มือความปลอดภัยในการก่อสร้างของ Belobog Industries\" ด้วยตัวเอง\nและก็กลายเป็นพนักงานที่ฝ่าฝืนกฎ \"ห้ามพกพาวัตถุระเบิดอันตรายในสถานที่ก่อสร้าง\" มากที่สุดด้วย",
+                "Lisa_Talent_03_Title_Realign": "Chief Mechanic"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "Burst Capacitor",
+                "Lisa_Talent_04_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> Grace จะได้รับ Charge 6 ชั้น (มากสุด 6 ชั้น);\nเมื่อการ <color=#FFFFFF>[โจมตีปกติ]</color> หรือการ <color=#FFFFFF>[พุ่งโจมตี]</color> ถูกศัตรู จะใช้ Charge 1 ชั้น เพื่อทำให้ประสิทธิภาพการรับพลังงาน ของท่าในขณะนั้นเพิ่มขึ้น 20%",
+                "Lisa_Talent_04_Desc_02": "Anton สงสัยว่าภายในส่วนประกอบที่ Grace เรียกว่า \"โมดูลรีไซเคิลไฟฟ้า\" ที่จริงแล้วมีหนูแฮมสเตอร์อีเทอร์ วิ่งทำงานอยู่ทั้งวันทั้งคืนเพื่อผลิตกระแสไฟฟ้ารึเปล่า\n\"ช่วยเอาไปใส่ในพวกเพื่อนฉันด้วยได้มั้ย?\"",
+                "Lisa_Talent_04_Desc_01": "เมื่อใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> Grace จะได้รับ Charge 6 ชั้น (มากสุด 6 ชั้น);\nเมื่อการ <color=#FFFFFF>[โจมตีปกติ]</color> หรือการ <color=#FFFFFF>[พุ่งโจมตี]</color> ถูกศัตรู จะใช้ Charge 1 ชั้น เพื่อทำให้ประสิทธิภาพการรับพลังงาน ของท่าในขณะนั้นเพิ่มขึ้น 20%",
+                "Lisa_Talent_04_Title_Realign": "Burst Capacitor"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "\"Frosty Cold Iron Witch\"",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Lisa_Talent_05_Desc_02": "\"แม่มดเหล็กเยือกแข็ง\" สามารถทำให้เครื่องจักรทั้งหมด ที่ถูกสร้างขึ้นมาเชื่องได้ อย่างน้อยแฟนนิรนามที่ตั้งชื่อนี้ขึ้นมา ก็คิดอย่างนั้น",
+                "Lisa_Talent_05_Title_Realign": "\"Frosty Cold Iron Witch\""
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "Detonation Trigger",
+                "Lisa_Talent_06_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[Zap]</color> ทั้งหมดเพื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> จะสามารถเสริมพลังเอฟเฟกต์ของท่าได้\nโดยจะโยนระเบิดมือเพิ่มเติมหนึ่งลูก และทำให้ระเบิดมือแต่ละลูก สร้างความเสียหายเพิ่มขึ้น 200% จากของเดิม",
+                "Lisa_Talent_06_Desc_02": "อุณหภูมิเลือดเฉลี่ยของพนักงาน Belobog Heavy Industries คือ 98 องศาเซลเซียส และ Grace จะถูกมองว่าเป็นวาล์วระบายความร้อนก่อนเดือดเสมอ\nเมื่อ Grace ละทิ้งความยับยั้งชั่งใจ ทุกคนก็รู้ว่า ถึงเวลาต้องปิดหูแล้วล่ะ",
+                "Lisa_Talent_06_Desc_01": "เมื่อใช้ <color=#FFFFFF>[Zap]</color> ทั้งหมดเพื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> จะสามารถเสริมพลังเอฟเฟกต์ของท่าได้ โดยจะโยนระเบิดมือเพิ่มเติมหนึ่งลูก และทำให้ระเบิดมือแต่ละลูก สร้างความเสียหายเพิ่มขึ้น 200% จากของเดิม",
+                "Lisa_Talent_06_Title_Realign": "Detonation Trigger"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "Corin",
+        "full_name": "Corin Wickes",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "Open Trauma",
+                "Corin_Talent_01_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู\nความเสียหายที่ Corin สร้างใส่เป้าหมาย จะเพิ่มขึ้น 12% ต่อเนื่อง 15 วินาที",
+                "Corin_Talent_01_Desc_02": "\"คุณหนูใหญ่บอกว่า ไม่ว่าทำอะไรต้องตั้งใจจดจ่อ อย่าปล่อยให้สิ่งรอบตัวส่งผลกระทบเด็ดขาด\"\n\"Corin ฝึกฝนอยู่นานมาก ในที่สุดก็ทำได้แล้ว!\"\n\"แต่ว่า... คุณเห็นแล้วใช่มั้ย คุณหนูใหญ่...\"",
+                "Corin_Talent_01_Desc_01": "เมื่อ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู\nความเสียหายที่ Corin สร้างใส่เป้าหมาย จะเพิ่มขึ้น 12% ต่อเนื่อง 15 วินาที",
+                "Corin_Talent_01_Title_Realign": "Open Trauma"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "Atomic Smash",
+                "Corin_Talent_02_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู <color=#F0D12B>ความต้านทานความเสียหายกายภาพ</color>ของเป้าหมาย จะลดลง 0.5%\nโดยจะซ้อนทับได้สูงสุด 20 ชั้น ต่อเนื่อง 5 วินาที และเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Corin_Talent_02_Desc_02": "\"ขอโทษนะ มิสเตอร์ Ethereal หรือจะเป็นมิส Ethereal!\"\n\"แต่ Corin ต้องทำภารกิจของตัวเองให้สำเร็จ... ต้องขอโทษด้วยจริงๆ !\"\nหญิงสาวขอโทษมอนสเตอร์ที่อยู่ตรงหน้า ด้วยความจริงใจ และรู้สึกผิด\nพลางกวัดแกว่งเลื่อยไฟฟ้าในมือ และกำจัดเหล่าศัตรู ที่อยู่เบื้องหน้าจนหมดสิ้น",
+                "Corin_Talent_02_Desc_01": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู <color=#F0D12B>ความต้านทานความเสียหายกายภาพ</color>ของเป้าหมาย จะลดลง 0.5%\nโดยจะซ้อนทับได้สูงสุด 20 ชั้น ต่อเนื่อง 5 วินาที และเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Corin_Talent_02_Title_Realign": "Atomic Smash"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "Amateur Maid",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Corin_Talent_03_Desc_02": "\"พะ เพื่อกลายเป็นสาวใช้ ที่สามารถจัดการทุกอย่างได้ด้วยตัวเอง Corin จะพยายามนะ!\"\n- Corin พูดขึ้นมา พลางเดินตรงเข้าไปหา Ethereal พร้อมกับเลื่อยในมือ",
+                "Corin_Talent_03_Title_Realign": "Amateur Maid"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "Battlefield Retainer",
+                "Corin_Talent_04_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>, <color=#FFFFFF>[ซัปพอร์ตตั้งรับ]</color> หรือ <color=#FFFFFF>[สกิลต่อเนื่อง]</color>\nCorin จะฟื้นฟูพลังงาน 7.2 แต้ม โดยที่ใน 16 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Corin_Talent_04_Desc_02": "สาวใช้ที่มีความตั้งใจ และขยันหมั่นเพียร ไม่ว่าทำสิ่งใดก็ทำอย่างสุดใจ\nแน่นอนว่ารวมถึงในเวลาที่ ต้องเผชิญหน้ากับศัตรูในการต่อสู้ด้วย",
+                "Corin_Talent_04_Desc_01": "เมื่อใช้ <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>, <color=#FFFFFF>[ซัปพอร์ตตั้งรับ]</color> หรือ <color=#FFFFFF>[สกิลต่อเนื่อง]</color>\nCorin จะฟื้นฟูพลังงาน 7.2 แต้ม โดยที่ภายใน 16 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Corin_Talent_04_Title_Realign": "Battlefield Retainer"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "Special Ops Maid",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Corin_Talent_05_Desc_02": "\"อ๊ะ... ขะ ขอโทษ Corin ซุ่มซ่ามเอง ดันตัดไม่เรียบซะได้...\"\n- Corin พูดขึ้นมาอย่างเศร้าหมอง พลางมองดูเศษซาก Ethereal ที่ปลายเท้า",
+                "Corin_Talent_05_Title_Realign": "Special Ops Maid"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "Accumulated Release",
+                "Corin_Talent_06_Desc_01_Realign": "เมื่อใช้ Slash ถูกศัตรูอย่างต่อเนื่อง Corin จะได้รับ Charge 1 ชั้น (สูงสุด 40 ชั้น);\nในระหว่างที่ใช้การ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>,\n<color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>,\n<color=#FFFFFF>[ซัปพอร์ตจู่โจม]</color> เมื่อเลื่อยไฟฟ้าระเบิดถูกศัตรู\nจะใช้ Charge ทั้งหมดที่มี โดยที่ Charge แต่ละชั้น\nจะทำให้การโจมตีครั้งนี้ สร้างความเสียหายเพิ่มเติม 3% \nของ ATK ของตัว Corin เอง",
+                "Corin_Talent_06_Desc_02": "Corin รู้ดีว่าตัวเองไม่ใช่สาวใช้ที่เก่ง และฉลาดที่สุด\nแต่เธอหวังจะเป็นสาวใช้ที่ขยันที่สุด\nความพยายามที่เธอเคยสั่งสมมา ล้วนมีความหมายแฝงอยู่ทั้งสิ้น",
+                "Corin_Talent_06_Desc_01": "เมื่อใช้ Slash ถูกศัตรูอย่างต่อเนื่อง Corin จะได้รับ Charge 1 ชั้น (สูงสุด 40 ชั้น);\nในระหว่างที่ใช้การ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>,\n<color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>,\n<color=#FFFFFF>[ซัปพอร์ตจู่โจม]</color> เมื่อเลื่อยไฟฟ้าระเบิดถูกศัตรู\nจะใช้ Charge ทั้งหมดที่มี โดยที่ Charge แต่ละชั้น\nจะทำให้การโจมตีครั้งนี้ สร้างความเสียหายเพิ่มเติม 3% \nของ ATK ของตัว Corin เอง",
+                "Corin_Talent_06_Title_Realign": "Accumulated Release"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "Lycaon",
+        "full_name": "Von Lycaon",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "Full Moon Momentum",
+                "Lycaon_Talent_01_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู ท่าจะสร้าง Daze เพิ่มขึ้น 12% โดยที่ใน 8 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nในระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> เมื่อชาร์จพลังเสร็จ เอฟเฟกต์บัฟนี้จะเพิ่มขึ้นอีก 10%",
+                "Lycaon_Talent_01_Desc_02": "ในบันทึกกล่าวไว้ว่า เมื่อมนุษย์หมาป่ายืนอยู่ใต้แสงจันทร์ ความดุร้ายของพวกเขา จะเพิ่มขึ้นอย่างเห็นได้ชัด\n\"อย่าเพ่งมองพระจันทร์\"",
+                "Lycaon_Talent_01_Desc_01": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู ท่าจะสร้าง Daze เพิ่มขึ้น 12% โดยที่ใน 8 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nในระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> เมื่อชาร์จพลังเสร็จ เอฟเฟกต์บัฟนี้จะเพิ่มขึ้นอีก 10%",
+                "Lycaon_Talent_01_Title_Realign": "Full Moon Momentum"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "Energy Feedback",
+                "Lycaon_Talent_02_Desc_01_Realign": "เมื่อทำให้ศัตรูสตั๊น หรือทำให้เกิด <color=#FFFFFF>[สกิลต่อเนื่อง]</color> ของเพื่อนร่วมทีม\nLycaon จะฟื้นฟูพลังงาน 5 แต้ม โดยที่ใน 1 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Lycaon_Talent_02_Desc_02": "\"สำหรับสัตว์วงศ์สุนัขแล้ว หลังจากที่พวกเขาทำตามคำสั่งที่ค่อนข้างยากได้สำเร็จ ความตื่นเต้นที่เกิดขึ้นในสมอง จะเพิ่มความกระตือรือร้นของพวกเขาในช่วงสั้นๆ\"\n\"ซึ่งเวลานี้ หากคุณในฐานะเจ้าของสามารถลูบหัวพวกเขา เพื่อให้กำลังใจ พวกเขาจะดีใจเป็นอย่างมาก...\"\n- ข้อความจาก [บันทึกวิจัยสัตว์วงศ์สุนัขที่ไม่น่าเชื่อถือ]",
+                "Lycaon_Talent_02_Desc_01": "เมื่อทำให้ศัตรูสตั๊น หรือทำให้เกิด <color=#FFFFFF>[สกิลต่อเนื่อง]</color> ของเพื่อนร่วมทีม\nLycaon จะฟื้นฟูพลังงาน 5 แต้ม โดยที่ใน 1 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Lycaon_Talent_02_Title_Realign": "Energy Feedback"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "Attendant Training",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Lycaon_Talent_03_Desc_02": "กิริยาท่าทางของเขาเต็มไปด้วยความสงบอยู่เสมอ คำพูดของเขาทำให้ผู้คนรู้สึกเหมือนยืนอาบสายลมในฤดูใบไม้ผลิ ความสามารถของหัวหน้าพ่อบ้าน คือการทำให้ทุกอย่างอยู่ภายใต้การควบคุม",
+                "Lycaon_Talent_03_Title_Realign": "Attendant Training"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "Graceful Demeanor",
+                "Lycaon_Talent_04_Desc_01_Realign": "ระหว่างที่ใช้การ <color=#FFFFFF>[โจมตีปกติ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ]</color> เมื่อถูกฝ่ายศัตรูโจมตี\nLycaon จะได้รับโล่ที่มีค่าเท่ากับ 7.5% ของ Max HP ของเขาเอง ต่อเนื่อง 15 วินาที โดยทันที\nซึ่งระหว่างช่วงเวลาของโล่ เลเวล Anti-Interrupt จะเพิ่มขึ้น โดยที่ภายใน 15 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Lycaon_Talent_04_Desc_02": "\"หัวหน้าพ่อบ้านที่ดีเยี่ยม จะสามารถรักษาท่าทีได้เป็นอย่างดีในทุกสถานการณ์\"",
+                "Lycaon_Talent_04_Desc_01": "ระหว่างที่ใช้การ <color=#FFFFFF>[โจมตีปกติ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ]</color> เมื่อถูกฝ่ายศัตรูโจมตี\nLycaon จะได้รับโล่ที่มีค่าเท่ากับ 7.5% ของ Max HP ของเขาเอง ต่อเนื่อง 15 วินาที โดยทันที\nซึ่งระหว่างช่วงเวลาของโล่ เลเวล Anti-Interrupt จะเพิ่มขึ้น โดยที่ภายใน 15 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Lycaon_Talent_04_Title_Realign": "Graceful Demeanor"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "Alpha Nature",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Lycaon_Talent_05_Desc_02": "แววตาของเขาแฝงไปด้วยความดิบเถื่อน ภายในลำคอของเขาสั่นเครือด้วยเสียงคำราม ไม่ว่าช่วงเวลานี้เขาจะดูสง่างามเพียงใด ภายใต้เสื้อผ้าที่ดูทางการ เขาก็ยังคงดุร้ายอยู่ดี",
+                "Lycaon_Talent_05_Title_Realign": "Alpha Nature"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "Ruthless Hunter",
+                "Lycaon_Talent_06_Desc_01_Realign": "เมื่อชาร์จโจมตีถูกศัตรู Lycaon จะสร้างความเสียหายต่อเป้าหมายเพิ่มขึ้น 10%\nโดยจะซ้อนทับได้สูงสุด 5 ชั้น ต่อเนื่อง 12 วินาที;\nในการใช้สกิลหนึ่งครั้ง เอฟเฟกต์จะซ้อนทับได้มากสุด 1 ชั้น และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง",
+                "Lycaon_Talent_06_Desc_02": "\"ขอโทษนะ ถึงจะเป็นแบบนี้ แต่ฉันไม่ปรานีหรอกนะ\"\n\"เพราะสุดท้ายแล้ว Hollow ก็ไม่ใช่ที่ที่จะมาต่อสู้อย่างยุติธรรมอยู่ดี\"",
+                "Lycaon_Talent_06_Desc_01": "เมื่อชาร์จโจมตีถูกศัตรู Lycaon จะสร้างความเสียหายต่อเป้าหมายเพิ่มขึ้น 10%\nโดยจะซ้อนทับได้สูงสุด 5 ชั้น ต่อเนื่อง 12 วินาที;\nในการใช้สกิลหนึ่งครั้ง เอฟเฟกต์จะซ้อนทับได้มากสุด 1 ชั้น และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง",
+                "Lycaon_Talent_06_Title_Realign": "Ruthless Hunter"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "Ellen",
+        "full_name": "Ellen Joe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "Glacial Omen",
+                "Ellen_Talent_01_Desc_01_Realign": "ในขณะปล่อย <color=#FFFFFF>[พุ่งโจมตี: Arctic Ambush]</color>\nเมื่อใช้การตัดโจมตีอย่างรวดเร็วถูกศัตรู <color=#FFFFFF>[Flash Freeze Charge]</color> ที่ได้รับจะเพิ่มเป็น 3 แต้ม;\nในขณะปล่อย <color=#FFFFFF>[พุ่งโจมตี: Arctic Ambush]</color>\nเมื่อใช้การตัดโจมตีที่ชาร์จพลังถูกศัตรู <color=#FFFFFF>[Flash Freeze Charge]</color> ที่ได้รับจะเพิ่มเป็น 6 แต้ม;\nทุกการใช้ <color=#FFFFFF>[Flash Freeze Charge]</color> 1 แต้ม\nจะทำให้ CRIT Rate ของ Ellen เพิ่มขึ้น 2% ต่อเนื่อง 15 วินาที\nโดยจะซ้อนทับได้มากสุด 6 ชั้น และเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Ellen_Talent_01_Desc_02": "ลมหนาวเป็นสัญญาณเริ่มต้นของช่วงเวลาอันหนาวเหน็บ และก็เป็นสัญญาณของการลายาวเพื่อไปจำศีลของ Ellen ด้วย\nจะว่าไปแล้ว ปลาฉลามต้องจำศีลด้วยเหรอเนี่ย?",
+                "Ellen_Talent_01_Desc_01": "ในขณะปล่อย <color=#FFFFFF>[พุ่งโจมตี: Arctic Ambush]</color> เมื่อใช้การตัดโจมตีอย่างรวดเร็วถูกศัตรู <color=#FFFFFF>[Flash Freeze Charge]</color> ที่ได้รับจะเพิ่มเป็น 3 แต้ม;\nในขณะปล่อย <color=#FFFFFF>[พุ่งโจมตี: Arctic Ambush]</color> เมื่อใช้การตัดโจมตีที่ชาร์จพลังถูกศัตรู <color=#FFFFFF>[Flash Freeze Charge]</color> ที่ได้รับจะเพิ่มเป็น 6 แต้ม;\nทุกการใช้ <color=#FFFFFF>[Flash Freeze Charge]</color> 1 แต้ม จะทำให้ CRIT Rate ของ Ellen เพิ่มขึ้น 2% ต่อเนื่อง 15 วินาที โดยจะซ้อนทับได้มากสุด 6 ชั้น และเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Ellen_Talent_01_Title_Realign": "Glacial Omen"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "Arctic Ocean Predator",
+                "Ellen_Talent_02_Desc_01_Realign": "หลังจากใช้ <color=#FFFFFF>[โจมตีปกติ: Flash Freeze Trimming]</color> ขั้นที่ 3 จะสามารถเชื่อมต่อกับ <color=#FFFFFF>[สกิลพิเศษ-EX: Sharknami]</color> ได้โดยทันที;\nเมื่อใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ทุก 1 แต้มของ <color=#FFFFFF>[Flash Freeze Charge]</color> ที่มี\nจะทำให้ CRIT DMG ที่เกิดจากท่าในขณะนั้นเพิ่มขึ้น 20% (เพิ่มได้มากสุด 60%)",
+                "Ellen_Talent_02_Desc_02": "แม้ว่ามันจะถูกย้อมด้วยสีแดงสด แต่กรรไกรขนาดยักษ์ที่ Ellen ถืออยู่ กลับไม่เคยอุ่นเลยแม้แต่น้อย\nความเย็นยะเยือก ที่เสียดแทงเข้ากระดูก มาจากอาวุธสังหารที่ทำด้วยเหล็ก และก็มาจากความตื่นตระหนกในการเผชิญหน้ากับผู้ล่า",
+                "Ellen_Talent_02_Desc_01": "หลังจากใช้ <color=#FFFFFF>[โจมตีปกติ: Flash Freeze Trimming]</color> ขั้นที่ 3 จะสามารถเชื่อมต่อกับ <color=#FFFFFF>[สกิลพิเศษ-EX: Sharknami]</color> ได้โดยทันที;\nเมื่อใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ทุก <color=#FFFFFF>[Flash Freeze Charge]</color> 1 แต้ม จะทำให้ CRIT DMG ที่เกิดจากท่าในขณะนั้นเพิ่มขึ้น 20% (เพิ่มได้มากสุด 60%)",
+                "Ellen_Talent_02_Title_Realign": "Arctic Ocean Predator"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "Overtime-Intolerant",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Ellen_Talent_03_Desc_02": "ความหมายของ \"ประสิทธิภาพ\" ก็คือวันนี้สามารถกลับบ้านไปนอนได้เร็วยิ่งขึ้น\nเพราะงั้นก็ต้องรีบฟันให้เร็วยิ่งขึ้น และออกแรงเหวี่ยงดาบให้มากยิ่งขึ้น",
+                "Ellen_Talent_03_Title_Realign": "Overtime-Intolerant"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "Endless Hoarfrost",
+                "Ellen_Talent_04_Desc_01_Realign": "เมื่อตัวละครใดๆ ในทีมทำให้ศัตรูติดเอฟเฟกต์ <color=#98EFF0>[แช่แข็ง]</color> หรือทำให้ศัตรูสตั๊น\nตัวเธอเองจะได้รับ <color=#FFFFFF>[Flash Freeze Charge]</color> 6 แต้ม และเอฟเฟกต์ <color=#FFFFFF>[Quick Charge]</color> และจะฟื้นฟูพลังงาน 4 แต้ม โดยที่ภายใน 10 วินาที เอฟเฟกต์ฟื้นฟูพลังงาน จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Ellen_Talent_04_Desc_02": "การโจมตีอันหนาวเย็นไม่เคยหยุดพัก\nสิ่งมีชีวิตที่น่ากลัวต่างต้องสัมผัสกับความสวยงาม และความโหดร้ายของฤดูหนาวภายใต้คมดาบของ Ellen\nแต่เมื่อเทียบกันแล้ว การทำงานเป็นสาวใช้ในช่วงวันหยุดกลับโหดร้ายยิ่งกว่า...",
+                "Ellen_Talent_04_Desc_01": "เมื่อตัวละครใดๆ ในทีมทำให้ศัตรูติดเอฟเฟกต์ <color=#98EFF0>[แช่แข็ง]</color> หรือทำให้ศัตรูสตั๊น ตัวเธอเองจะได้รับ <color=#FFFFFF>[Flash Freeze Charge]</color> 6 แต้ม และเอฟเฟกต์ <color=#FFFFFF>[Quick Charge]</color> และจะฟื้นฟูพลังงาน 4 แต้ม โดยที่ภายใน 10 วินาที เอฟเฟกต์ฟื้นฟูพลังงาน จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Ellen_Talent_04_Title_Realign": "Endless Hoarfrost"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "Adequate Sleep",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Ellen_Talent_05_Desc_02": "นอกเหนือจากช่วงเวลาของการต่อสู้ที่ยากลำบาก Ellen มักจะมีท่าทางประมาณว่า \"ถ้าไม่มีงานละก็ ฉันจะหลับให้ตายไปข้างซะเดี๋ยวนี้เลย\"\nด้วยเหตุนี้ ศัตรูที่ต้องพบกับจุดจบ เพราะประมาทในเรื่องนี้ จึงมีจำนวนไม่น้อยเลย",
+                "Ellen_Talent_05_Title_Realign": "Adequate Sleep"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "The Feast Begins",
+                "Ellen_Talent_06_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือได้รับ <color=#FFFFFF>[Quick Charge]</color>\nPEN Ratio ของ Ellen จะเพิ่มขึ้น 20% ต่อเนื่อง 6 วินาที และในขณะเดียวกัน จะได้รับ <color=#FFFFFF>[The Feast Begins]</color> 1 ชั้น โดยที่ <color=#FFFFFF>[The Feast Begins]</color> จะซ้อนทับได้มากสุด 3 ชั้น;\nหลังจากมี <color=#FFFFFF>[The Feast Begins]</color> 3 ชั้น ในระหว่างที่ใช้ <color=#FFFFFF>[พุ่งโจมตี: Arctic Ambush]</color> เมื่อใช้การตัดโจมตีที่ชาร์จพลังถูกศัตรู\nจะใช้ <color=#FFFFFF>[The Feast Begins]</color> ทั้งหมด เพื่อทำให้การโจมตีในขณะนั้น สร้างความเสียหายเพิ่มขึ้น 250%",
+                "Ellen_Talent_06_Desc_02": "บาดแผลหนึ่งแห่ง, เลือดหนึ่งหยด, การล่าหนึ่งครั้ง, อาหารมื้อใหญ่หนึ่งมื้อ, ชีวิตอันเปราะบางหนึ่งชีวิต, ช่วงเวลาหนึ่งของความพึงพอใจ",
+                "Ellen_Talent_06_Desc_01": "เมื่อใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือได้รับ <color=#FFFFFF>[Quick Charge]</color>\nPEN Ratio ของ Ellen จะเพิ่มขึ้น 20% ต่อเนื่อง 6 วินาที และในขณะเดียวกัน จะได้รับ <color=#FFFFFF>[The Feast Begins]</color> 1 ชั้น โดยที่ <color=#FFFFFF>[The Feast Begins]</color> จะซ้อนทับได้มากสุด 3 ชั้น;\nหลังจากมี <color=#FFFFFF>[The Feast Begins]</color> 3 ชั้น ในระหว่างที่ใช้ <color=#FFFFFF>[พุ่งโจมตี: Arctic Ambush]</color> เมื่อใช้การตัดโจมตีที่ชาร์จพลังถูกศัตรู\nจะใช้ <color=#FFFFFF>[The Feast Begins]</color> ทั้งหมด เพื่อทำให้การโจมตีในขณะนั้น สร้างความเสียหายเพิ่มขึ้น 250%",
+                "Ellen_Talent_06_Title_Realign": "The Feast Begins"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "Rina",
+        "full_name": "Alexandrina Sebastiane",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "Dance Duet",
+                "Rina_Talent_01_Desc_01_Realign": "หลังจากถูกสั่งและทำการโจมตี ก่อนที่จะกลับมาหา Rina ทั้ง Drusilla และ Anastella จะหยุดอยู่ที่ตำแหน่งเดิมเพิ่มเติม 5.5 วินาที;\nตัวละครที่อยู่ภายในพื้นที่ระยะ 10 เมตร ใกล้กับ Drusilla หรือ Anastella จะได้รับเอฟเฟกต์บัฟจาก <color=#FFFFFF>[พาสซีฟหลัก: Mini Destruction Partner]</color> เพิ่มขึ้นถึง 130% จากของเดิม",
+                "Rina_Talent_01_Desc_02": "\"ถ้าทำงานไม่เสร็จละก็ โดนแน่!\" Drusilla มักจะให้กำลังใจทุกคนอย่างนี้เสมอ\n\"โดนแน่ โดนแน่!\" Anastella มักจะเสริมอย่างนี้เสมอ",
+                "Rina_Talent_01_Desc_01": "หลังจากถูกสั่งและทำการโจมตี ก่อนที่จะกลับมาหา Rina ทั้ง Drusilla และ Anastella จะหยุดอยู่ที่ตำแหน่งเดิมเพิ่มเติม 5.5 วินาที;\nตัวละครที่อยู่ภายในพื้นที่ระยะ 10 เมตร ใกล้กับ Drusilla หรือ Anastella จะได้รับเอฟเฟกต์บัฟจาก <color=#FFFFFF>[พาสซีฟหลัก: Mini Destruction Partner]</color> เพิ่มขึ้นถึง 130% จากของเดิม",
+                "Rina_Talent_01_Title_Realign": "Dance Duet"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "Master's Paragon",
+                "Rina_Talent_02_Desc_01_Realign": "เมื่อเข้าสู่สถานะการต่อสู้ หรือถูกเปลี่ยนเข้าในสนาม Rina จะสร้างความเสียหายเพิ่มขึ้น 15% ต่อเนื่อง 12 วินาที โดยที่ใน 18 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Rina_Talent_02_Desc_02": "\"มีเพียงหัวหน้าสาวใช้ ที่ยอดเยี่ยมเท่านั้น ที่จะสามารถเป็นผู้นำสาวใช้ ที่ยอดเยี่ยมได้\nมีเพียงเจ้าของที่เป็นแบบอย่างเท่านั้น ที่สามารถสั่งสอน Bangboo ที่เป็นแบบอย่างขึ้นมาได้\"\n- Rina กล่าวสุนทรพจน์ใน \"งานสัมมนาการจัดการทรัพยากรบุคคล และการฝึกอบรม Bangboo ของ Victoria Housekeeping\"",
+                "Rina_Talent_02_Desc_01": "เมื่อเข้าสู่สถานะการต่อสู้ หรือถูกเปลี่ยนเข้าในสนาม Rina จะสร้างความเสียหายเพิ่มขึ้น 15% ต่อเนื่อง 12 วินาที โดยที่ใน 18 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Rina_Talent_02_Title_Realign": "Master's Paragon"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "Head Maid's Specialty",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Rina_Talent_03_Desc_02": "Rina มักจะมีความมั่นใจในการทำสิ่งต่างๆ ได้ดี และมีความสามารถในการทำลายล้างทุกสิ่งอยู่เสมอ\nอย่างไรก็ตาม ในเรื่องของการทำลายอารมณ์ที่ดีของศัตรู ความมั่นใจ และความสามารถของเธอ ก็เป็นอันหนึ่งอันเดียวกัน",
+                "Rina_Talent_03_Title_Realign": "Head Maid's Specialty"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "Needle and Hammer",
+                "Rina_Talent_04_Desc_01_Realign": "เมื่อทั้ง Drusilla และ Anastella ถูกสั่งให้ออกไป \nความเร็วในการฟื้นฟูพลังงานของ Rina จะเพิ่มขึ้น 0.5 แต้ม/วินาที;\nและเมื่อ Drusilla หรือ Anastella กลับมาอยู่ข้างตัว Rina เอฟเฟกต์บัฟที่เกี่ยวข้องจะสิ้นสุดลง",
+                "Rina_Talent_04_Desc_02": "ทั้ง Drusilla และ Anastella ต่างก็ไม่เคยมีความเห็น ที่ตรงกันเลยสักครั้ง\n\"กระทืบไอ้โง่ข้างหน้านั่น\" เป็นข้อยกเว้น",
+                "Rina_Talent_04_Desc_01": "เมื่อทั้ง Drusilla และ Anastella ถูกสั่งให้ออกไป ความเร็วในการฟื้นฟูพลังงานของ Rina จะเพิ่มขึ้น 0.5 แต้ม/วินาที;\nและเมื่อ Drusilla หรือ Anastella กลับมาอยู่ข้างตัว Rina เอฟเฟกต์บัฟที่เกี่ยวข้องจะสิ้นสุดลง",
+                "Rina_Talent_04_Title_Realign": "Needle and Hammer"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "Head Maid Perfectionist",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Rina_Talent_05_Desc_02": "\"ในภาษา Bangboo 'Rina' แปลว่าสมบูรณ์แบบ\"\n\"ความสมบูรณ์แบบ เป็นกฎข้อแรก ในคู่มือพนักงานของ Victoria Housekeeping\"\nและสำหรับการตัดสิน \"ความสมบูรณ์แบบ\" Rina มีเกณฑ์ของเธอเอง",
+                "Rina_Talent_05_Title_Realign": "Head Maid Perfectionist"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "Stormy Night's Fright",
+                "Rina_Talent_06_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู ทั้งทีมจะสร้าง<color=#2EB6FF>ความเสียหายธาตุไฟฟ้า</color>เพิ่มขึ้น 15% ต่อเนื่อง 8 วินาที",
+                "Rina_Talent_06_Desc_02": "ภายในปราสาทในคืนที่ฝนตก เสียงฟ้าร้องดังกึกก้อง ในส่วนลึกของทางเดิน เต็มไปด้วยเงาที่น่าขนลุก\nวงจรความกลัวเกินพิกัด ภาพยนตร์สยองขวัญกำลังเริ่มถ่ายทำ",
+                "Rina_Talent_06_Desc_01": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู ทั้งทีมจะสร้าง<color=#2EB6FF>ความเสียหายธาตุไฟฟ้า</color>เพิ่มขึ้น 15% ต่อเนื่อง 8 วินาที",
+                "Rina_Talent_06_Title_Realign": "Stormy Night's Fright"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "\"Soldier 11\"",
+        "full_name": "\"Soldier 11\"",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "Rapid Heat",
+                "Longinus_Talent_01_Desc_01_Realign": "เมื่อเข้าสู่การต่อสู้ หรือถูกเปลี่ยนเข้าในสนาม หากพลังงานของ \"Soldier 11\" ไม่ถึง 40 แต้ม\nจะฟื้นฟูถึง 80 แต้ม โดยทันที ซึ่งภายใน 50 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Longinus_Talent_01_Desc_02": "การฝึกฝนต่อสู้ขั้นสูงอย่างยาวนาน ทำให้ \"Soldier 11\" สามารถควบคุมสถานะของตัวเองได้อย่างเชี่ยวชาญ\nเธอจะพยายามอย่างเต็มที่ เพื่อให้ตัวเองอยู่ในสถานะที่ดีที่สุดในทุกสมรภูมิ",
+                "Longinus_Talent_01_Desc_01": "เมื่อเข้าสู่การต่อสู้ หรือถูกเปลี่ยนเข้าในสนาม หากพลังงานของ \"Soldier 11\" ไม่ถึง 40 แต้ม จะฟื้นฟูถึง 80 แต้ม โดยทันที ซึ่งภายใน 50 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Longinus_Talent_01_Title_Realign": "Rapid Heat"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "Scorching Convergence",
+                "Longinus_Talent_02_Desc_01_Realign": "เมื่อทำให้เกิด <color=#FFFFFF>[Fire Suppression]</color>\nการ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[พุ่งโจมตี]</color>, <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> จะสร้างความเสียหายเพิ่มขึ้น 3%\nโดยจะซ้อนทับได้สูงสุด 12 ชั้น ต่อเนื่อง 15 วินาที และเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Longinus_Talent_02_Desc_02": "\"ถึงแม้เธอจะดูเย็นชา และแข็งกระด้างราวกับน้ำแข็งก้อนโต...\"\n\"แต่แท้จริงแล้วภายในใจเร่าร้อนดุจเปลวไฟที่แผดเผาเชียวล่ะ\"\n- จากทหารที่ไม่ระบุชื่อแห่ง Obsidian Division",
+                "Longinus_Talent_02_Desc_01": "เมื่อทำให้เกิด <color=#FFFFFF>[Fire Suppression]</color>\nการ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[พุ่งโจมตี]</color>, <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> จะสร้างความเสียหายเพิ่มขึ้น 3%\nโดยจะซ้อนทับได้สูงสุด 12 ชั้น ต่อเนื่อง 15 วินาที และเอฟเฟกต์ในแต่ละชั้น จะคำนวณช่วงเวลาต่อเนื่องแยกกัน",
+                "Longinus_Talent_02_Title_Realign": "Scorching Convergence"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "Elite Soldier",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Longinus_Talent_03_Desc_02": "ไม่ว่าจะเป็นการฝึก หรือการต่อสู้จริง \"Soldier 11\" ก็มักจะเรียกร้องตัวเองด้วยมาตรฐานสูงสุดอยู่ตลอด ดังนั้นเธอจึงมีมาตรฐานการต่อสู้ที่สูงอยู่เสมอ",
+                "Longinus_Talent_03_Title_Realign": "Elite Soldier"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "Indulgent Blaze",
+                "Longinus_Talent_04_Desc_01_Realign": "เมื่อใช้การ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 1, 2, 3 หรือใช้การ <color=#FFFFFF>[พุ่งโจมตี]</color> หากทำให้เกิด <color=#FFFFFF>[Fire Suppression]</color> จะทำให้ในระหว่างช่วงเวลาที่ใช้ท่า มีเลเวล Anti-Interrupt เพิ่มขึ้น และได้รับความเสียหายลดลง 18%;\nเมื่อใช้การ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 4 หากทำให้เกิด <color=#FFFFFF>[Fire Suppression]</color> จะทำให้ในระหว่างช่วงเวลาที่ใช้ท่า ได้รับเอฟเฟกต์ Invulnerable",
+                "Longinus_Talent_04_Desc_02": "เธออิจฉาเปลวไฟมาก\nแต่เปลวไฟที่กำลังลุกไหม้เหล่านี้ ก็มักจะช่วยเหลือเธอเสมอ",
+                "Longinus_Talent_04_Desc_01": "เมื่อใช้การ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 1, 2, 3 หรือใช้การ <color=#FFFFFF>[พุ่งโจมตี]</color> หากทำให้เกิด <color=#FFFFFF>[Fire Suppression]</color> จะทำให้ในระหว่างช่วงเวลาที่ใช้ท่า มีเลเวล Anti-Interrupt เพิ่มขึ้น และได้รับความเสียหายลดลง 18%;\nเมื่อใช้การ <color=#FFFFFF>[โจมตีปกติ]</color> ขั้นที่ 4 หากทำให้เกิด <color=#FFFFFF>[Fire Suppression]</color> จะทำให้ในระหว่างช่วงเวลาที่ใช้ท่า ได้รับเอฟเฟกต์ Invulnerable",
+                "Longinus_Talent_04_Title_Realign": "Indulgent Blaze"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "Perfect Soldier",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Longinus_Talent_05_Desc_02": "จากทหารชั้นยอด สู่การเป็นแบบอย่างคือการเดินทางที่ยาวนาน แต่ \"Soldier 11\" ก็ยังคงกัดฟัน และยืนหยัดต่อไป ดูเหมือนว่ามีเหตุผลบางอย่าง ที่กระตุ้นให้เธอพยายามอย่างหนัก เพื่อไปสู่เป้าหมายของการเป็นทหารที่สมบูรณ์แบบ...",
+                "Longinus_Talent_05_Title_Realign": "Perfect Soldier"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "Scorching Flow",
+                "Longinus_Talent_06_Desc_01_Realign": "เมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> \"Soldier 11\" จะได้รับ Charge 8 ชั้น (สูงสุด 8 ชั้น);\nเมื่อทำให้เกิด <color=#FFFFFF>[Fire Suppression]</color> จะใช้ Charge 1 ชั้น เพื่อทำให้การโจมตีในขณะนั้น มองข้าม 25% ของ<color=#FF5521>ความต้านทานความเสียหายไฟ</color>ของเป้าหมาย",
+                "Longinus_Talent_06_Desc_02": "เปลวไฟของคมดาบทำให้เกิดคลื่นความร้อน และการต่อสู้ของหญิงสาวผมเงิน ก็ร้อนแรงขึ้นเรื่อยๆ ซึ่งระดับความร้อนนั้น ดูราวกับจะซึมซับเข้าไปในจิตวิญญาณพร้อมกับลมหายใจของเธอ แม้แต่ความคิดของเธอเอง ก็ยังเปลี่ยนเป็นร้อนแรงยิ่งขึ้น",
+                "Longinus_Talent_06_Desc_01": "เมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color>\nหรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> \"Soldier 11\" จะได้รับ Charge 8 ชั้น (สูงสุด 8 ชั้น);\nเมื่อทำให้เกิด <color=#FFFFFF>[Fire Suppression]</color> จะใช้ Charge 1 ชั้น เพื่อทำให้การโจมตีในขณะนั้น มองข้าม 25% ของ<color=#FF5521>ความต้านทานความเสียหายไฟ</color>ของเป้าหมาย",
+                "Longinus_Talent_06_Title_Realign": "Scorching Flow"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "Zhu Yuan",
+        "full_name": "Zhu Yuan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "Quick Reload",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "เมื่อ Zhu Yuan ใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color>/<color=#FFFFFF>[สกิลอัลติเมท]</color> จะได้รับเอฟเฟกต์ <color=#FFFFFF>[Quick Reload]</color>;\nในขณะที่ Zhu Yuan มีเอฟเฟกต์ <color=#FFFFFF>[Quick Reload]</color> หลังจากที่ใช้ <color=#FFFFFF>[Enhanced Shotshells]</color> จนหมด\nจะใช้เอฟเฟกต์ <color=#FFFFFF>[Quick Reload]</color> และได้รับ <color=#FFFFFF>[Enhanced Shotshells]</color> 6/9 ลูก โดยทันที",
+                "ZhuYuan_Talent_01_Desc_02": "Zhu Yuan เคยเข้าร่วมการแข่งขันความสามารถของเจ้าหน้าที่ความมั่นคงใน Janus Quarter และใช้เทคนิคการรีโหลดที่ราวกับเวทมนตร์ คว้าชัยชนะมาได้\nเพื่อนร่วมงานได้ประเมินเรื่องนี้ว่า: ไม่มีอย่างอื่น นอกจากความชำนาญ",
+                "ZhuYuan_Talent_01_Desc_01": "เมื่อ Zhu Yuan ใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color>/<color=#FFFFFF>[สกิลอัลติเมท]</color> จะได้รับเอฟเฟกต์ <color=#FFFFFF>[Quick Reload]</color>;\nในขณะที่ Zhu Yuan มีเอฟเฟกต์ <color=#FFFFFF>[Quick Reload]</color> หลังจากที่ใช้ <color=#FFFFFF>[Enhanced Shotshells]</color> จนหมด จะใช้เอฟเฟกต์ <color=#FFFFFF>[Quick Reload]</color> และได้รับ <color=#FFFFFF>[Enhanced Shotshells]</color> 6/9 ลูก โดยทันที",
+                "ZhuYuan_Talent_01_Title_Realign": "Quick Reload"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "Ether Ember",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "ใน <color=#FFFFFF>[Suppressive Mode]</color> เลเวล Anti-Interrupt ของ Zhu Yuan จะเพิ่มขึ้น และความเสียหายที่ได้รับจะลดลง 10%; \nเมื่อใช้ <color=#FFFFFF>[Enhanced Shotshells]</color> โจมตีถูกศัตรู <color=#FFFFFF>[โจมตีปกติ: Please Do Not Resist]</color> \nและ <color=#FFFFFF>[พุ่งโจมตี: Overwhelming Firepower]</color> จะสร้าง<color=#FE437E>ความเสียหายอีเทอร์</color>เพิ่มขึ้น 10% \n(ซ้อนทับสูงสุด 5 ชั้น) ต่อเนื่อง 5 วินาที\nโดยในแต่ละครั้งที่ยิงโจมตี จะได้รับเอฟเฟกต์มากสุดหนึ่งชั้น และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง",
+                "ZhuYuan_Talent_02_Desc_02": "Zhu Yuan ใช้กระสุนอีเทอร์ ที่ทำขึ้นพิเศษโดยกองรักษาความมั่นคง ซึ่งทันทีที่โจมตีโดนศัตรู จะสร้างความเสียหายการกัดกร่อน ที่ไม่อาจย้อนกลับได้\nดังนั้นก่อนที่ Zhu Yuan จะยิงออกไป จะตะโกนให้ศัตรูอย่าขัดขืน และยอมจำนนแต่โดยดี ช่างคิดถึงความปลอดภัยของอีกฝ่ายเสียจริงๆ ...",
+                "ZhuYuan_Talent_02_Desc_01": "ใน <color=#FFFFFF>[Suppressive Mode]</color> เลเวล Anti-Interrupt ของ Zhu Yuan จะเพิ่มขึ้น และความเสียหายที่ได้รับจะลดลง 10%; \nเมื่อใช้ <color=#FFFFFF>[Enhanced Shotshells]</color> โจมตีถูกศัตรู <color=#FFFFFF>[โจมตีปกติ: Please Do Not Resist]</color> และ <color=#FFFFFF>[พุ่งโจมตี: Overwhelming Firepower]</color> จะสร้าง<color=#FE437E>ความเสียหายอีเทอร์</color>เพิ่มขึ้น 10% (ซ้อนทับสูงสุด 5 ชั้น) ต่อเนื่อง 5 วินาที โดยในแต่ละครั้งที่ยิงโจมตี จะได้รับเอฟเฟกต์มากสุดหนึ่งชั้น และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง",
+                "ZhuYuan_Talent_02_Title_Realign": "Ether Ember"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "Public Security Special Training",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "ZhuYuan_Talent_03_Desc_02": "ในฐานะเจ้าหน้าที่ความมั่นคงระดับหัวกะทิ การฝึกฝนที่ Zhu Yuan ได้รับ มีเพียงจุดประสงค์เดียว: เพิ่มความสามารถการต่อสู้ทุกรูปแบบใน Hollow เพื่อกำจัดพวกนอกกฎหมายทั้งหมดให้สิ้นซาก",
+                "ZhuYuan_Talent_03_Title_Realign": "Public Security Special Training"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "Ether Perforation",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "เมื่อ Zhu Yuan ใช้ <color=#FFFFFF>[Enhanced Shotshells]</color> โจมตีถูกศัตรู\n<color=#FFFFFF>[โจมตีปกติ: Please Do Not Resist]</color> และ <color=#FFFFFF>[พุ่งโจมตี: Overwhelming Firepower]</color> จะมองข้าม 25% ของ<color=#FE437E>ความต้านทานความเสียหายอีเทอร์</color>ของเป้าหมาย",
+                "ZhuYuan_Talent_04_Desc_02": "ในระหว่างการต่อสู้ พวกแก๊งใน Hollow มักจะแอบนับว่า อีกฝ่ายเหลือกระสุนอีกกี่นัด;\nแต่พวกเขานึกไม่ถึงแน่นอนว่า แมกกาซีนพิเศษที่ Zhu Yuan ใช้ สามารถใช้อีเทอร์ที่อยู่รอบๆ มาจ่ายพลังงานให้ตัวเองได้อย่างต่อเนื่อง...",
+                "ZhuYuan_Talent_04_Desc_01": "เมื่อ Zhu Yuan ใช้ <color=#FFFFFF>[Enhanced Shotshells]</color> โจมตีถูกศัตรู <color=#FFFFFF>[โจมตีปกติ: Please Do Not Resist]</color> และ <color=#FFFFFF>[พุ่งโจมตี: Overwhelming Firepower]</color> จะมองข้าม 25% ของ<color=#FE437E>ความต้านทานความเสียหายอีเทอร์</color>ของเป้าหมาย",
+                "ZhuYuan_Talent_04_Title_Realign": "Ether Perforation"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "Special Ops Experience",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "ZhuYuan_Talent_05_Desc_02": "เจ้าหน้าที่ความมั่นคงทีมปฏิบัติการพิเศษที่มากประสบการณ์ สามารถประเมินสถานการณ์ และใช้ความสามารถในการต่อสู้ได้อย่างมีประสิทธิภาพ\nในบางครั้ง เพียงแค่แววตาอันน่าเกรงขาม ก็สามารถทำให้ศัตรูหมดความคิดที่จะต่อต้านได้แล้ว",
+                "ZhuYuan_Talent_05_Title_Realign": "Special Ops Experience"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "Expanded Energy Pack III",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "เมื่อ Zhu Yuan สะสมการใช้ <color=#FFFFFF>[Enhanced Shotshells]</color> ครบ 12 ลูก จะได้รับเอฟเฟกต์ <color=#FFFFFF>[Ether Afterglow]</color> และทำให้การใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ครั้งต่อไป ลดการใช้พลังงานลง 30 หน่วย; \nเมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color> จะใช้เอฟเฟกต์ <color=#FFFFFF>[Ether Afterglow]</color> และยิงกระสุนอีเทอร์เพิ่มเติมรวม 4 ลูก ซึ่งกระสุนอีเทอร์เพิ่มเติมทุกลูกที่ยิงออกไปนั้น จะสร้างความเสียหายเป็น 220% ของ ATK ของ Zhu Yuan",
+                "ZhuYuan_Talent_06_Desc_02": "Zhu Yuan มักจะคอยสังเกตแบตเตอรี่ ที่เหลืออยู่ของอุปกรณ์เป็นประจำ โดยจะรู้สึกประหม่า เมื่อแบตเตอรี่ลดลงจนถึงพื้นที่สีแดง และตั้งใจประหยัดพลังงาน\nจนกระทั่งกองรักษาความมั่นคงติดตั้งแพ็คพลังงาน ที่มีความจุมหาศาล และใช้ได้อย่างยาวนาน จึงสามารถแก้ไขเรื่องกลุ้มใจนี้ได้อย่างหมดจด",
+                "ZhuYuan_Talent_06_Desc_01": "เมื่อ Zhu Yuan สะสมการใช้ <color=#FFFFFF>[Enhanced Shotshells]</color> ครบ 12 ลูก จะได้รับเอฟเฟกต์ <color=#FFFFFF>[Ether Afterglow]</color> และทำให้การใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ครั้งต่อไป ลดการใช้พลังงานลง 30 หน่วย; \nเมื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX]</color> จะใช้เอฟเฟกต์ <color=#FFFFFF>[Ether Afterglow]</color> และยิงกระสุนอีเทอร์เพิ่มเติมรวม 4 ลูก ซึ่งกระสุนอีเทอร์เพิ่มเติมทุกลูกที่ยิงออกไปนั้น จะสร้างความเสียหายเป็น 220% ของ ATK ของ Zhu Yuan",
+                "ZhuYuan_Talent_06_Title_Realign": "Expanded Energy Pack III"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "Qingyi",
+        "full_name": "Qingyi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "Insulation Breakdown",
+                "QingYi_Talent_01_Desc_01_Realign": "เมื่อ Qingyi เข้าสู่การต่อสู้ จะทำให้ <color=#FFFFFF>[Flash Connect Voltage]</color> ฟื้นฟูถึงขีดจำกัดโดยทันที และทำให้ประสิทธิภาพการสะสมของมัน เพิ่มขึ้น 30% หลังจากนั้น;\nเมื่อใช้ <color=#FFFFFF>[โจมตีปกติ: Enchanted Moonlit Blossoms]</color> หาก <color=#FFFFFF>[Flash Connect Voltage]</color> สะสมถึงขีดสุดแล้ว \nจะทำให้ศัตรูที่ถูกโจมตีในครั้งนี้ มี DEF ลดลง 15% และตัวของเธอเองจะมี CRIT Rate ต่อศัตรูดังกล่าวเพิ่มขึ้น 20% ต่อเนื่อง 15 วินาที",
+                "QingYi_Talent_01_Desc_02": "\"แม้จะไม่อันตรายถึงชีวิต... แต่ได้โปรดอย่าขัดขืนเลย...\"\nทั้งทิศทาง และความแรงของกระแสไฟฟ้า ต่างถูกคำนวณมาอย่างแม่นยำ เพื่อให้แน่ใจว่า ผู้ต้องสงสัยทุกคนจะได้รับ ประสบการณ์การถูกช็อตไฟฟ้าอย่างปลอดภัย",
+                "QingYi_Talent_01_Desc_01": "เมื่อ Qingyi เข้าสู่การต่อสู้ จะทำให้ <color=#FFFFFF>[Flash Connect Voltage]</color> ฟื้นฟูถึงขีดจำกัดโดยทันที และทำให้ประสิทธิภาพการสะสมของมัน เพิ่มขึ้น 30% หลังจากนั้น;\nเมื่อใช้ <color=#FFFFFF>[โจมตีปกติ: Enchanted Moonlit Blossoms]</color> หาก <color=#FFFFFF>[Flash Connect Voltage]</color> สะสมถึงขีดสุดแล้ว จะทำให้ศัตรูที่ถูกโจมตีในครั้งนี้ มี DEF ลดลง 15% และตัวของเธอเองจะมี CRIT Rate ต่อศัตรูดังกล่าวเพิ่มขึ้น 20% ต่อเนื่อง 15 วินาที",
+                "QingYi_Talent_01_Title_Realign": "Insulation Breakdown"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "Minimal Effort, Maximum Impact",
+                "QingYi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[Subjugation]</color> แต่ละชั้นของ <color=#FFFFFF>[พาสซีฟหลัก: Eternal Seasons]</color> มอบเอฟเฟกต์เพิ่มตัวคูณ Stun DMG เพิ่มขึ้นถึง 135% จากของเดิม;\nเมื่อ Qingyi โจมตีถูกศัตรู หากจำนวนชั้นการซ้อนทับของ <color=#FFFFFF>[Subjugation]</color> ที่มอบให้ศัตรูดังกล่าวถึงขีดสูงสุดแล้ว ตัวของเธอเองจะสร้าง Daze ต่อศัตรูดังกล่าวเพิ่มขึ้น 15%",
+                "QingYi_Talent_02_Desc_02": "วิชาการต่อสู้รูปแบบหนึ่ง ที่ถูกบันทึกไว้ในตำราของอารยธรรมเก่า ดูเหมือนว่าเดิมที จะไม่ใช่วิชากระบอง แต่เป็นวิชาหมัดมวยอย่างหนึ่ง\n\"อย่ายึดติดเลย อันที่จริงแขนก็เป็นกระบองสามท่อนเหมือนกัน อืม\"",
+                "QingYi_Talent_02_Desc_01": "<color=#FFFFFF>[Subjugation]</color> แต่ละชั้นของ <color=#FFFFFF>[พาสซีฟหลัก: Eternal Seasons]</color> มอบเอฟเฟกต์เพิ่มตัวคูณ Stun DMG เพิ่มขึ้นถึง 135% จากของเดิม;\nเมื่อ Qingyi โจมตีถูกศัตรู หากจำนวนชั้นการซ้อนทับของ <color=#FFFFFF>[Subjugation]</color> ที่มอบให้ศัตรูดังกล่าวถึงขีดสูงสุดแล้ว ตัวของเธอเองจะสร้าง Daze ต่อศัตรูดังกล่าวเพิ่มขึ้น 15%",
+                "QingYi_Talent_02_Title_Realign": "Minimal Effort, Maximum Impact"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "Drink Hot Water",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "QingYi_Talent_03_Desc_02": "\"คนหนุ่มสาวต้องใส่ใจสุขภาพ ยังไงก็พยายามดื่มน้ำร้อนเข้าไว้ดีกว่า\"\nทุกครั้งที่ Qingyi จิบน้ำร้อนจากแก้วเก็บอุณหภูมิที่ถือในมือ จะให้ความรู้สึกที่อบอุ่นเป็นอย่างมาก แต่เวลาที่เธอส่งน้ำร้อนมาให้ จะต้องระวังให้ดี...\n\"ต่อให้เป็นน้ำต้ม 100 องศา รุ่นพี่ก็ยังสามารถดื่มได้อย่างไม่สะทกสะท้าน...\" เจ้าหน้าที่ความมั่นคงผู้โชคดีท่านหนึ่ง ได้เขียนบันทึกไว้แบบนี้",
+                "QingYi_Talent_03_Title_Realign": "Drink Hot Water"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "Stable Arc Barrier",
+                "QingYi_Talent_04_Desc_01_Realign": "เมื่อเข้า หรือออกจากสถานะ <color=#FFFFFF>[Flash Connect]</color> จะได้รับโล่ที่มีค่าเท่ากับ 10% ของ Max HP ของ Qingyi;\nเมื่อเอฟเฟกต์โล่รีเฟรช หากโล่ที่ได้รับจากครั้งก่อนยังคงอยู่ จะฟื้นฟูพลังงานให้ Qingyi 5 แต้ม\nโดยใน 10 วินาที เอฟเฟกต์ฟื้นฟูพลังงาน จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "QingYi_Talent_04_Desc_02": "สถาบัน White Star ได้พัฒนา Arc Barrier ขึ้นมา เพื่อการวิจัยหุ่นยนต์จากอารยธรรมเก่า ซึ่งเป็นเทคโนโลยีที่รวมการป้องกัน โจมตี และแปลงพลังงานไฟฟ้าเข้าด้วยกัน\n\"สุภาษิตกล่าวไว้ว่า: น้ำสามารถทำให้เรือลอยขึ้น และจมลงได้ ในขณะที่ทางฟิสิกส์กล่าวว่า: กระแสไฟฟ้าก็เหมือนกระแสน้ำ ซึ่งเมื่อนำมารวมกัน ก็จะเป็น: กระแสไฟฟ้าสามารถใช้ได้ทั้งการโจมตี และป้องกัน ถือเป็นการผสมผสานที่ยอดเยี่ยมจริงๆ\"",
+                "QingYi_Talent_04_Desc_01": "เมื่อเข้า หรือออกจากสถานะ <color=#FFFFFF>[Flash Connect]</color> จะได้รับโล่ที่มีค่าเท่ากับ 10% ของ Max HP ของ Qingyi;\nเมื่อเอฟเฟกต์โล่รีเฟรช หากโล่ที่ได้รับจากครั้งก่อนยังคงอยู่ จะฟื้นฟูพลังงานให้ Qingyi 5 แต้ม โดยใน 10 วินาที เอฟเฟกต์ฟื้นฟูพลังงาน จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "QingYi_Talent_04_Title_Realign": "Stable Arc Barrier"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "Youthful Spirit",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "QingYi_Talent_05_Desc_02": "\"ดีๆ คนหนุ่มสาวต้องกล้าที่จะลองสิ่งใหม่ๆ เข้าไว้ สู้ๆ นะ!\"\nแม้บางครั้งการให้กำลังใจของ Qingyi จะให้ความรู้สึกถึงความเกียจคร้าน และหยอกล้อ แต่ถ้าโชคไม่ดี ไปเจอเข้ากับปัญหาจริงๆ ละก็ ขอแค่เชื่อใจเธอก็พอ\nยังไงซะก็อยู่มาตั้งหลายร้อยปีแล้ว อะไรก็จัดการได้ทั้งนั้นแหละ",
+                "QingYi_Talent_05_Title_Realign": "Youthful Spirit"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "Eight Meridians",
+                "QingYi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[โจมตีปกติ: Enchanted Moonlit Blossoms]</color> มีเลเวล Interrupt เพิ่มขึ้นอย่างมาก และท่าจะมี CRIT DMG เพิ่มขึ้นอีก 100%;\nเมื่อ Qingyi ใช้ <color=#FFFFFF>[โจมตีปกติ: Enchanted Moonlit Blossoms]</color> ถูกศัตรู เป้าหมายจะมีความต้านทานความเสียหายธาตุทั้งหมดลดลง 20% ต่อเนื่อง 15 วินาที",
+                "QingYi_Talent_06_Desc_02": "หนึ่งในทฤษฎีเกี่ยวกับ ระบบการหมุนเวียนของร่างกายมนุษย์ ที่บันทึกไว้ในตำราของอารยธรรมเก่า ว่ากันว่าหลังจากที่เข้าใจทฤษฎีนี้อย่างถ่องแท้แล้ว จะสามารถทำให้คู่ต่อสู้สูญเสียความสามารถ ในการเคลื่อนไหวได้ในชั่วพริบตา\n\"คราวหน้าลองจุดที่ทําให้รู้สึกจั๊กจี้ละกัน หาใครมาทดลองดีนะ? ผู้จัดการ? หรือว่า Zhu Yuan?\"",
+                "QingYi_Talent_06_Desc_01": "<color=#FFFFFF>[โจมตีปกติ: Enchanted Moonlit Blossoms]</color> มีเลเวล Interrupt เพิ่มขึ้นอย่างมาก และท่าจะมี CRIT DMG เพิ่มขึ้นอีก 100%;\nเมื่อ Qingyi ใช้ <color=#FFFFFF>[โจมตีปกติ: Enchanted Moonlit Blossoms]</color> ถูกศัตรู เป้าหมายจะมีความต้านทานความเสียหายธาตุทั้งหมดลดลง 20% ต่อเนื่อง 15 วินาที",
+                "QingYi_Talent_06_Title_Realign": "Eight Meridians"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "Jane",
+        "full_name": "Jane Doe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "Crime Counsel",
+                "JaneDoe_Talent_01_Desc_01_Realign": "ขีดจำกัดจำนวนครั้งสูงสุด ที่สามารถใช้ <color=#FFFFFF>[โจมตีปกติ: Salchow Jump]</color> ได้เพิ่มขึ้นหนึ่งครั้ง \nซึ่งในสถานะ <color=#FFFFFF>[Passion]</color> Jane จะมี<color=#F0D12B>ประสิทธิภาพการสะสม Physical Anomaly</color> เพิ่มขึ้นอีก 15% และในขณะเดียวกัน ความชำนาญ Anomaly แต่ละแต้ม จะทำให้ตัวของเธอเองสร้างความเสียหายเพิ่มขึ้น 0.1% (เพิ่มขึ้นมากสุด 30%)",
+                "JaneDoe_Talent_01_Desc_02": "\"ที่ปรึกษาด้านอาชญากรรม หมายถึงที่ปรึกษาที่วิจัยด้านพฤติกรรมทางอาชญากรรม ไม่ใช่ที่ปรึกษา ที่เชี่ยวชาญด้านการก่ออาชญากรรม\"\nจู่ๆ Jane ก็เข้ามาใกล้ และขยิบตา\n\"แน่นอนว่าถ้า{M#นาย}{F#เธอ}เข้าใจเป็นอย่างหลัง... ฉันก็ไม่ได้ว่าอะไรหรอกนะ\"",
+                "JaneDoe_Talent_01_Desc_01": "ขีดจำกัดจำนวนครั้งสูงสุด ที่สามารถใช้ <color=#FFFFFF>[โจมตีปกติ: Salchow Jump]</color> ได้เพิ่มขึ้นหนึ่งครั้ง ซึ่งในสถานะ <color=#FFFFFF>[Passion]</color> Jane จะมี<color=#F0D12B>ประสิทธิภาพการสะสม Physical Anomaly</color> เพิ่มขึ้นอีก 15% และในขณะเดียวกัน ความชำนาญ Anomaly แต่ละแต้ม จะทำให้ตัวของเธอเองสร้างความเสียหายเพิ่มขึ้น 0.1% (เพิ่มขึ้นมากสุด 30%)",
+                "JaneDoe_Talent_01_Title_Realign": "Crime Counsel"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "Adapt to the Environment",
+                "JaneDoe_Talent_02_Desc_01_Realign": "เมื่อ Jane โจมตีถูกศัตรูที่อยู่ในสถานะ <color=#FFFFFF>[Gnawed]</color> หรือตัวละครใดๆ ในทีมทำให้เกิด <color=#F0D12B>[จู่โจม]</color> กับศัตรูที่อยู่ในสถานะ <color=#FFFFFF>[Gnawed]</color> จะมองข้าม 15% ของ DEF ของศัตรูดังกล่าว และเมื่อความเสียหายของ <color=#F0D12B>[จู่โจม]</color> เกิดเป็นคริติคอล CRIT DMG ของมันจะเพิ่มขึ้นอีก 50%",
+                "JaneDoe_Talent_02_Desc_02": "เมื่อจ้องมองห้วงลึก ก็จะถูกห้วงลึกจ้องมองกลับมา นี่เป็นเพียงก้าวแรก\n\"จากนั้นต้องเข้าใกล้มัน เข้าไปข้างในมัน ทำความเข้าใจมัน นี่คือก้าวที่สอง\"\n\"และก้าวสุดท้าย... จงอย่าได้กลายเป็นมัน\"",
+                "JaneDoe_Talent_02_Desc_01": "เมื่อ Jane โจมตีถูกศัตรูที่อยู่ในสถานะ <color=#FFFFFF>[Gnawed]</color> หรือตัวละครใดๆ ในทีมทำให้เกิด <color=#F0D12B>[จู่โจม]</color> กับศัตรูที่อยู่ในสถานะ <color=#FFFFFF>[Gnawed]</color> จะมองข้าม 15% ของ DEF ของศัตรูดังกล่าว และเมื่อความเสียหายของ <color=#F0D12B>[จู่โจม]</color> เกิดเป็นคริติคอล CRIT DMG ของมันจะเพิ่มขึ้นอีก 50%",
+                "JaneDoe_Talent_02_Title_Realign": "Adapt to the Environment"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "Anonymity",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "JaneDoe_Talent_03_Desc_02": "\"ไร้ชื่อ... นั่นหมายถึงฉันสามารถเป็นใครก็ได้ อย่างเช่น คนที่{M#นาย}{F#เธอ}ชอบมากที่สุด~\"\n\"หรือไม่ก็... คนที่{M#นาย}{F#เธอ}หวาดกลัวมากที่สุด\"",
+                "JaneDoe_Talent_03_Title_Realign": "Anonymity"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "Adapt and Thrive",
+                "JaneDoe_Talent_04_Desc_01_Realign": "เมื่อตัวละครใดๆ ในทีมทำให้เกิดเอฟเฟกต์ <color=#F0D12B>[จู่โจม]</color> หรือ <color=#FFFFFF>[โกลาหล]</color> \nทั้งทีมจะสร้างความเสียหาย Attribute Anomaly เพิ่มขึ้น 18% ต่อเนื่อง 15 วินาที",
+                "JaneDoe_Talent_04_Desc_02": "\"จะเป็นผู้ล่า หรือผู้ถูกล่า มักจะขึ้นอยู่กับมุมมองที่{M#นาย}{F#เธอ}เลือกเสมอ แต่ว่า... ฉันชอบวิธีตัดสินง่ายๆ อีกวิธีหนึ่งมากกว่า...\"\n\"คนที่แพ้ ก็คือผู้ถูกล่า\"",
+                "JaneDoe_Talent_04_Desc_01": "เมื่อตัวละครใดๆ ในทีมทำให้เกิดเอฟเฟกต์ <color=#F0D12B>[จู่โจม]</color> หรือ <color=#FFFFFF>[โกลาหล]</color> ทั้งทีมจะสร้างความเสียหาย Attribute Anomaly เพิ่มขึ้น 18% ต่อเนื่อง 15 วินาที",
+                "JaneDoe_Talent_04_Title_Realign": "Adapt and Thrive"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "Compulsive Hoarder",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "JaneDoe_Talent_05_Desc_02": "ในห้องของ Jane มักจะเต็มไปด้วยสิ่งของต่างๆ มากมายอยู่เสมอ\n\"ที่นี่ไม่เลวเลยใช่มั้ยล่ะ? ตรงไหนก็มีของให้กินทั้งนั้นเลย~\"",
+                "JaneDoe_Talent_05_Title_Realign": "Compulsive Hoarder"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "\"Shady\" Technique",
+                "JaneDoe_Talent_06_Desc_01_Realign": "ในสถานะ <color=#FFFFFF>[Passion]</color> Jane จะมี CRIT Rate เพิ่มขึ้น 20% และมี CRIT DMG เพิ่มขึ้น 40%;\nเมื่อตัวละครใดก็ตามในทีม ทำให้เกิดเอฟเฟกต์ <color=#F0D12B>[จู่โจม]</color> กับศัตรู Jane จะเข้าสู่สถานะ <color=#FFFFFF>[Passion]</color> โดยทันที และทำให้ <color=#FFFFFF>[Passion Stream]</color> ฟื้นฟูถึงขีดสูงสุด โดยเมื่อความเสียหายของ <color=#F0D12B>[จู่โจม]</color> เกิดเป็นคริติคอล จะโจมตีใส่เป้าหมายเพิ่มเติมหนึ่งครั้ง เพื่อสร้าง<color=#F0D12B>ความเสียหายกายภาพ</color>เท่ากับ 1,600% ของความชำนาญ Anomaly ของ Jane",
+                "JaneDoe_Talent_06_Desc_02": "บนท้องถนนไม่ได้สนใจหรอกว่า มันจะเป็นวิธีที่สกปรกรึเปล่า สนใจแค่สุดท้ายแล้ว จะชนะหรือไม่เท่านั้น\n\"มองความปรารถนาที่มืดมนที่สุดให้ชัดเจน จึงจะสามารถคาดเดาจุดอ่อน ที่เจ็บปวดที่สุดออกมาได้\"",
+                "JaneDoe_Talent_06_Desc_01": "ในสถานะ <color=#FFFFFF>[Passion]</color> Jane จะมี CRIT Rate เพิ่มขึ้น 20% และมี CRIT DMG เพิ่มขึ้น 40%;\nเมื่อตัวละครใดก็ตามในทีม ทำให้เกิดเอฟเฟกต์ <color=#F0D12B>[จู่โจม]</color> กับศัตรู Jane จะเข้าสู่สถานะ <color=#FFFFFF>[Passion]</color> โดยทันที และทำให้ <color=#FFFFFF>[Passion Stream]</color> ฟื้นฟูถึงขีดสูงสุด โดยเมื่อความเสียหายของ <color=#F0D12B>[จู่โจม]</color> เกิดเป็นคริติคอล จะโจมตีใส่เป้าหมายเพิ่มเติมหนึ่งครั้ง เพื่อสร้าง<color=#F0D12B>ความเสียหายกายภาพ</color>เท่ากับ 1,600% ของความชำนาญ Anomaly ของ Jane",
+                "JaneDoe_Talent_06_Title_Realign": "\"Shady\" Technique"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "Seth",
+        "full_name": "Seth Lowell",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "Heroism",
+                "Seth_Talent_01_Desc_01_Realign": "ปริมาณโล่ที่ <color=#FFFFFF>[Shield of Firm Resolve]</color> มอบให้ รวมไปถึงขีดจำกัดของโล่เพิ่มขึ้น 30%;\nเมื่อเอฟเฟกต์ของ <color=#FFFFFF>[Shield of Firm Resolve]</color> สิ้นสุดลง เอฟเฟกต์เพิ่มความชำนาญ Anomaly ของ <color=#FFFFFF>[พาสซีฟหลัก: Protector]</color> จะคงอยู่ต่อเนื่องอีก 10 วินาที",
+                "Seth_Talent_01_Desc_02": "ในเวลาที่ทีมออกปฏิบัติภารกิจ Seth มักจะพุ่งไปอยู่หน้าสุดเสมอ\n\"เรื่องจับกุมปล่อยเป็นหน้าที่ฉันเอง! การจับกุมระยะประชิดของฉันได้ 99 คะแนน ส่วนหนึ่งคะแนนที่ถูกหักนั่น เป็นเพราะดันเผลอบิดข้อมือของครูฝึกซะได้\"",
+                "Seth_Talent_01_Desc_01": "ปริมาณโล่ที่ <color=#FFFFFF>[Shield of Firm Resolve]</color> มอบให้ รวมไปถึงขีดจำกัดของโล่เพิ่มขึ้น 30% และเมื่อเอฟเฟกต์ของ <color=#FFFFFF>[Shield of Firm Resolve]</color> สิ้นสุดลง เอฟเฟกต์เพิ่มความชำนาญ Anomaly ของ <color=#FFFFFF>[พาสซีฟหลัก: Protector]</color> จะคงอยู่ต่อเนื่องอีก 10 วินาที",
+                "Seth_Talent_01_Title_Realign": "Heroism"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "Recklessness of Youth",
+                "Seth_Talent_02_Desc_01_Realign": "เมื่อเข้าสู่การต่อสู้ Seth จะสะสม <color=#FFFFFF>[Resolve]</color> ให้ตัวเอง 75% โดยทันที;\nเมื่อใช้ <color=#FFFFFF>[โจมตีปกติ: Lightning Strike - Electrified]</color> ถูกศัตรู การโจมตีจะสะสม<color=#2EB6FF>ค่าการสะสม Electric Anomaly</color> เพิ่มขึ้น 35%",
+                "Seth_Talent_02_Desc_02": "Seth มักจะถูกพวกอาชญากรดูถูกอยู่เสมอ\nบางทีอาจเป็นเพราะแววตาของเขา ที่ดูใสซื่อจนเกินไป หรือไม่ก็เพราะหูกับหางนุ่มนิ่ม ที่ดูไร้พิษภัยพวกนั้น...\nไม่ว่ายังไง ท้ายที่สุดแล้วทุกคนที่ดูถูกเขา ก็ต้องจ่ายด้วยราคาที่สอดคล้องอยู่เสมอ",
+                "Seth_Talent_02_Desc_01": "เมื่อเข้าสู่การต่อสู้ Seth จะสะสม <color=#FFFFFF>[Resolve]</color> ให้ตัวเอง 75% โดยทันที;\nเมื่อใช้ <color=#FFFFFF>[โจมตีปกติ: Lightning Strike - Electrified]</color> ถูกศัตรู การโจมตีจะสะสม<color=#2EB6FF>ค่าการสะสม Electric Anomaly</color> เพิ่มขึ้น 35%",
+                "Seth_Talent_02_Title_Realign": "Recklessness of Youth"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "Slow Reflexes",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Seth_Talent_03_Desc_02": "\"เจ้าหน้าที่ความมั่นคงที่เก่งกาจอย่างนายเนี่ย ไม่ว่าทำอะไรก็ต้องพึ่งพาแต่ตัวเองสินะ ไม่พึ่งคนอื่นแน่นอนแหละเนอะ?\"\nแม้จะถูกพูดอย่างนี้ แต่ Seth ก็ยังคงนิ่งเฉย จนกระทั่งกลางดึก จู่ๆ เขาก็ระลึกได้ว่า:\n\"คำพูดของเจ้านั่นเมื่อตอนกลางวัน... หรือมันกำลังเยาะเย้ยฉันอยู่?\"",
+                "Seth_Talent_03_Title_Realign": "Slow Reflexes"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "Core Aspiration",
+                "Seth_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[ซัปพอร์ตตั้งรับ: Thundershield]</color> สร้าง Daze เพิ่มขึ้น 25%",
+                "Seth_Talent_04_Desc_02": "\"วางแนวคิดดีชั่วงี่เง่านั่นของนายลงซะ ไม่มีวิธีไหนบนโลกนี้ ที่จะปกป้องทุกคนได้ บางครั้งนายก็ต้องเลือก\"\n\"นี่แหละคือสิ่งที่ฉันเลือก และก็เป็นหน้าที่พื้นฐานที่สุดของเจ้าหน้าที่ความมั่นคงด้วย พี่ต่างหากที่เปลี่ยนไป...\"",
+                "Seth_Talent_04_Desc_01": "<color=#FFFFFF>[ซัปพอร์ตตั้งรับ: Thundershield]</color> สร้าง Daze เพิ่มขึ้น 25%",
+                "Seth_Talent_04_Title_Realign": "Core Aspiration"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "Distant Admiration",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Seth_Talent_05_Desc_02": "Seth เคยชื่นชม และเคารพพี่ชายของเขาอย่างสุดขีด\nแต่ก็อย่างที่คุณรู้... \"ความชื่นชม\" คือระยะทางที่ห่างไกลจาก \"ความเข้าใจ\" มากที่สุด\n\"ซักวันนึง ฉันจะกลายเป็นเจ้าหน้าที่ความมั่นคงที่เก่งที่สุด... และทำให้เจ้านั่นถอนคำพูดก่อนหน้านี้ให้ได้!\"",
+                "Seth_Talent_05_Title_Realign": "Distant Admiration"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "Idealist",
+                "Seth_Talent_06_Desc_01_Realign": "ในระหว่าง <color=#FFFFFF>[โจมตีปกติ: Lightning Strike - Electrified]</color> เมื่อ Seth ใช้การโจมตีปิดฉากถูกศัตรู\nจะสร้างความเสียหายเพิ่มเติมอีก 500% ของ ATK ของตัวเอง โดยที่การโจมตีในครั้งนี้ จะติดคริติคอลอย่างแน่นอน และ CRIT DMG จะเพิ่มขึ้น 60%",
+                "Seth_Talent_06_Desc_02": "ในสายตาของเด็กหนุ่ม ทุกสิ่งอย่างนั้นชัดเจน ทั้งขาวและดำ ทั้งความดีและความชั่ว\nคงมีคนอยากบอกเขาอย่างแน่นอนว่า โลกนี้เป็นสีเทาที่ผสมปนเปอย่างวุ่นวาย แต่โลกที่สีขาวและสีดำ ความดีและความชั่วแตกต่างกันอย่างชัดเจน... มันไม่คุ้มที่จะไล่ตามหาอย่างนั้นเหรอ?",
+                "Seth_Talent_06_Desc_01": "ในระหว่าง <color=#FFFFFF>[โจมตีปกติ: Lightning Strike - Electrified]</color> เมื่อ Seth ใช้การโจมตีปิดฉากถูกศัตรู จะสร้างความเสียหายเพิ่มเติมอีก 500% ของ ATK ของตัวเอง โดยที่การโจมตีในครั้งนี้ จะติดคริติคอลอย่างแน่นอน และ CRIT DMG จะเพิ่มขึ้น 60%",
+                "Seth_Talent_06_Title_Realign": "Idealist"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "Caesar",
+        "full_name": "Caesar King",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "Spearhead Advance",
+                "Caesar_Talent_01_Desc_01_Realign": "เมื่อเข้าสู่สถานะต่อสู้ หรือเปลี่ยนเข้าในสนาม Caesar จะมอบ <color=#FFFFFF>[Radiant Aegis]</color> ให้กับทั้งทีมโดยทันที ซึ่งใน 300 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nระหว่างช่วงเวลาคงอยู่ของ <color=#FFFFFF>[Radiant Aegis]</color> ศัตรูที่อยู่ใกล้ตัวผู้ครอบครอง ภายในขอบเขตระยะ 5 เมตร จะมีความต้านทานความเสียหายธาตุทั้งหมดลดลง 15%",
+                "Caesar_Talent_01_Desc_02": "\"ป๋าสอนฉันว่า ในเวลาแบบนี้ควรใช้กำลังทหารที่แข็งแกร่ง มาสร้างเป็นกองกำลัง ที่โจมตีจุดอ่อนของศัตรูเหมือนกับลิ่ม...\"\n\"แน่นอนว่าฉันจะเป็นคนนำเอง!\"",
+                "Caesar_Talent_01_Desc_01": "เมื่อเข้าสู่สถานะต่อสู้ หรือเปลี่ยนเข้าในสนาม Caesar จะมอบ <color=#FFFFFF>[Radiant Aegis]</color> ให้กับทั้งทีมโดยทันที ซึ่งใน 300 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nระหว่างช่วงเวลาคงอยู่ของ <color=#FFFFFF>[Radiant Aegis]</color> ศัตรูที่อยู่ใกล้ตัวผู้ครอบครอง ภายในขอบเขตระยะ 5 เมตร จะมีความต้านทานความเสียหายธาตุทั้งหมดลดลง 15%",
+                "Caesar_Talent_01_Title_Realign": "Spearhead Advance"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "Legacy of the Far Lands",
+                "Caesar_Talent_02_Desc_01_Realign": "ใน <color=#FFFFFF>[พาสซีฟหลัก: Barrier of Resilience]</color> ระหว่างช่วงเวลาคงอยู่ของ <color=#FFFFFF>[Radiant Aegis]</color> Caesar จะมีประสิทธิภาพการฟื้นฟูพลังงานเพิ่มขึ้น 10% และเอฟเฟกต์เพิ่ม ATK ที่ผู้ครอบครองได้รับ จะเพิ่มขึ้นเป็น 150% ของค่าเดิม",
+                "Caesar_Talent_02_Desc_02": "วิธีการต่อสู้ของ Caesar แตกต่างจากทั้งสไตล์ของ New Eridu หรือ Outer Ring อยู่เล็กน้อย โดยสืบทอดมาจากเหล่านักรบ ที่เก่งกาจที่สุดของกลุ่มผู้พเนจร\nจงระงับความเฉียบแหลมในเวลาที่พอเหมาะ และโจมตีอย่างเด็ดขาดในเวลาที่เหมาะสม... นี่คือวิถีชีวิตของเหล่าผู้พเนจรมาโดยตลอด\nซึ่ง Caesar ก็เป็นนักเรียนที่ดีอยู่เสมอมา",
+                "Caesar_Talent_02_Desc_01": "ใน <color=#FFFFFF>[พาสซีฟหลัก: Barrier of Resilience]</color> ระหว่างช่วงเวลาคงอยู่ของ <color=#FFFFFF>[Radiant Aegis]</color> Caesar จะมีประสิทธิภาพการฟื้นฟูพลังงานเพิ่มขึ้น 10% และเอฟเฟกต์เพิ่ม ATK ที่ผู้ครอบครองได้รับ จะเพิ่มขึ้นเป็น 150% ของค่าเดิม",
+                "Caesar_Talent_02_Title_Realign": "Legacy of the Far Lands"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "Absolute Trust",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Caesar_Talent_03_Desc_02": "หลังจากยอมรับใครบางคนแล้ว Caesar ก็จะถือว่าอีกฝ่ายเป็นคนของตัวเอง และมอบความไว้วางใจของตนอย่างเต็มที่ และไร้ซึ่งการป้องกันใดๆ ...\nเช่นเดียวกับที่เธอปฏิบัติต่อคุณในตอนนี้",
+                "Caesar_Talent_03_Title_Realign": "Absolute Trust"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "Aries the Battering-Ram",
+                "Caesar_Talent_04_Desc_01_Realign": "เมื่อ Caesar ใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> จะฟื้นฟู <color=#FFFFFF>[แต้มซัปพอร์ต]</color> เพิ่มเติม 3 แต้ม;\nเมื่อค่าพลังงานของ Caesar ไม่ถึง 20 แต้ม จะสามารถใช้ <color=#FFFFFF>[แต้มซัปพอร์ต]</color> 1 แต้ม ทดแทนได้ เพื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX: Overpowered Shield Bash]</color> ซึ่งใน 5 วินาที เอฟเฟกต์การทดแทนจะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Caesar_Talent_04_Desc_02": "หนึ่งในกลยุทธ์ที่ Caesar เรียนรู้มา ภายใต้การอบรมสั่งสอนจากอาจารย์ในกลุ่มผู้พเนจร\n\"ไม่ว่ายังไง ฉันก็จะสู้จนถึงวินาทีสุดท้าย!\"",
+                "Caesar_Talent_04_Desc_01": "เมื่อ Caesar ใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> จะฟื้นฟู <color=#FFFFFF>[แต้มซัปพอร์ต]</color> เพิ่มเติม 3 แต้ม;\nเมื่อค่าพลังงานของ Caesar ไม่ถึง 20 แต้ม จะสามารถใช้ <color=#FFFFFF>[แต้มซัปพอร์ต]</color> 1 แต้ม ทดแทนได้ เพื่อปล่อย <color=#FFFFFF>[สกิลพิเศษ-EX: Overpowered Shield Bash]</color> ซึ่งใน 5 วินาที เอฟเฟกต์การทดแทนจะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Caesar_Talent_04_Title_Realign": "Aries the Battering-Ram"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "Romantic Conquest",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Caesar_Talent_05_Desc_02": "Caesar มีความโรแมนติกเป็นพิเศษ แตกต่างจากท่าทีที่แสดงออกภายนอก\nยกตัวอย่างเช่น เธอมักจะเต็มไปด้วยความสนใจ ต่อเรื่องราวที่เกี่ยวกับความรักอยู่เสมอ\nแต่ถ้าคุณได้พูดคุยกับเธอ \"ลึกเข้าไป\" เกี่ยวกับเรื่องนี้... Caesar จะหน้าแดงเอาได้",
+                "Caesar_Talent_05_Title_Realign": "Romantic Conquest"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "Overlord's Will",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[สกิลพิเศษ-EX: Overpowered Shield Bash]</color> และ <color=#FFFFFF>[ซัปพอร์ตจู่โจม]</color> จะเกิดคริติคอลอย่างแน่นอน โดยท่าจะสร้างความเสียหายเพิ่มขึ้น 50% และสร้างความเสียหายแก่เป้าหมายหลักเพิ่มเติมอีก 50%;\nเมื่อ Caesar ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX: Overpowered Shield Bash]</color> หรือ <color=#FFFFFF>[ซัปพอร์ตจู่โจม]</color> ตัวของเธอเองจะมี CRIT Rate เพิ่มขึ้น 30%, CRIT DMG เพิ่มขึ้น 60% ต่อเนื่อง 15 วินาที",
+                "Caesar_Talent_06_Desc_02": "\"ฉันเคยเอาแต่มองไปข้างหน้า เข้าใจว่าขอแค่ตัวเองแข็งแกร่งพอ ไม่ว่าเรื่องไหนก็สามารถทำได้ทั้งนั้น\"\n\"แต่การจะเป็น Overlord ที่ยอดเยี่ยม แค่นี้ยังไม่พอแน่นอน\"\n\"ฉันต้องปกป้องพรรคพวกที่อยู่ข้างหลังให้ดีด้วย... พวกเขานี่แหละ คือพลังที่แท้จริงของฉัน\"",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>[สกิลพิเศษ-EX: Overpowered Shield Bash]</color> และ <color=#FFFFFF>[ซัปพอร์ตจู่โจม]</color> จะเกิดคริติคอลอย่างแน่นอน โดยท่าจะสร้างความเสียหายเพิ่มขึ้น 50% และสร้างความเสียหายแก่เป้าหมายหลักเพิ่มเติมอีก 50%;\nเมื่อ Caesar ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX: Overpowered Shield Bash]</color> หรือ <color=#FFFFFF>[ซัปพอร์ตจู่โจม]</color> ตัวของเธอเองจะมี CRIT Rate เพิ่มขึ้น 30%, CRIT DMG เพิ่มขึ้น 60% ต่อเนื่อง 15 วินาที",
+                "Caesar_Talent_06_Title_Realign": "Overlord's Will"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "Lucy",
+        "full_name": "Luciana de Montefio",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "Drill Formations",
+                "Lucy_Talent_01_Desc_01_Realign": "เมื่อ Guard Boar ใช้ <color=#FFFFFF>[Guard Boar: Spinning Swing!]</color> จะฟื้นฟูพลังงานให้ Lucy 2 แต้ม โดยที่ใน 15 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และ Guard Boar แต่ละตัว จะคิดช่วงเวลาคูลดาวน์แยกกัน",
+                "Lucy_Talent_01_Desc_02": "\"Grassy ทางขวา! ...นั่นมันทางซ้าย เจ้าโง่เอ๊ย!!!\"\n—หนึ่งคำสั่ง สองทิศทาง สามเสียงกรีดร้อง พร้อมด้วยคำโอดครวญรอบตัว",
+                "Lucy_Talent_01_Desc_01": "เมื่อ Guard Boar ใช้ <color=#FFFFFF>[Guard Boar: Spinning Swing!]</color> จะฟื้นฟูพลังงานให้ Lucy 2 แต้ม โดยที่ใน 15 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และ Guard Boar แต่ละตัว จะคิดช่วงเวลาคูลดาวน์แยกกัน",
+                "Lucy_Talent_01_Title_Realign": "Drill Formations"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "Little Boar Captain",
+                "Lucy_Talent_02_Desc_01_Realign": "เมื่อ Lucy ใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> จะมอบสถานะ <color=#FFFFFF>[Cheer On!]</color> ให้แก่ตัวละคร, Bangboo และ Guard Boar ฝ่ายเดียวกัน ต่อเนื่อง 10 วินาที",
+                "Lucy_Talent_02_Desc_02": "\"ไม่ต้องสงสัยเลย กัปตัน Lucy คือผู้นำที่ยอดเยี่ยมที่สุดของมนุษย์สัตว์วงศ์หมูป่า Calydon!\"\nนี่คือบทสรุปใน \"รายงานประจำปีของ Sons of Calydon\" ของ Woody",
+                "Lucy_Talent_02_Desc_01": "เมื่อ Lucy ใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> จะมอบสถานะ <color=#FFFFFF>[Cheer On!]</color> ให้แก่ตัวละคร, Bangboo และ Guard Boar ฝ่ายเดียวกัน ต่อเนื่อง 10 วินาที",
+                "Lucy_Talent_02_Title_Realign": "Little Boar Captain"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "Ironfist Overseer",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Lucy_Talent_03_Desc_02": "\"ถ้ากัปตัน Lucy ช่วยเบามือซักหน่อย ในตอนที่ไล่อัดพวกเราจนปลิวก็ดีสิ\"\nนี่คือความในใจที่เหลือที่ Woody ไม่กล้าพูดออกมา",
+                "Lucy_Talent_03_Title_Realign": "Ironfist Overseer"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "Chaos Ball Game",
+                "Lucy_Talent_04_Desc_01_Realign": "ฝ่ายที่เป็นมิตรที่อยู่ในสถานะ <color=#FFFFFF>[Cheer On!]</color> CRIT DMG จะเพิ่มขึ้นอีก 10%",
+                "Lucy_Talent_04_Desc_02": "ทั้งกฎและกระดูกซี่โครงของผู้ตัดสิน ต่างก็ถูกทำมาให้ทำลายเหมือนกัน",
+                "Lucy_Talent_04_Desc_01": "ฝ่ายที่เป็นมิตรที่อยู่ในสถานะ <color=#FFFFFF>[Cheer On!]</color> CRIT DMG จะเพิ่มขึ้นอีก 10%",
+                "Lucy_Talent_04_Title_Realign": "Chaos Ball Game"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "Wildland Princess",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Lucy_Talent_05_Desc_02": "พูดจาไพเราะ ต่อคู่ต่อสู้ที่หวีดร้องอยู่ใต้ไม้เบสบอล\nกล่าวคำขอโทษ ต่อศัตรูที่คลานอยู่แทบเท้า\nนี่แหละคือ มารยาทอันสมบูรณ์แบบของหญิงสาว",
+                "Lucy_Talent_05_Title_Realign": "Wildland Princess"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "Fierce Fangs of Fire",
+                "Lucy_Talent_06_Desc_01_Realign": "เมื่อเพื่อนร่วมทีมที่อยู่ในสถานะ <color=#FFFFFF>[Cheer On!]</color> ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู Guard Boar หนึ่งตัวจะกระโจนจากกลางอากาศลงมายังพื้นดิน และทำให้เกิดการระเบิด โดยจะสร้าง<color=#FF5521>ความเสียหายธาตุไฟ</color>เป็น 300% ของ ATK ของ Guard Boar และทำให้สถานะ <color=#FFFFFF>[Cheer On!]</color> ของทั้งทีม มีช่วงเวลาต่อเนื่องเพิ่มขึ้น 5 วินาที;\nช่วงเวลาต่อเนื่องจะเพิ่มได้มากสุด 3 ครั้ง นานสุด 30 วินาที และเมื่อได้รับสถานะ <color=#FFFFFF>[Cheer On!]</color> ใหม่อีกครั้ง จะรีเฟรชจำนวนครั้งที่สามารถเพิ่มได้;\nหลังจาก Guard Boar ลงถึงพื้น และทำให้เกิดการระเบิด จะใช้ <color=#FFFFFF>[Guard Boar: Spinning Swing!]</color> หนึ่งครั้ง",
+                "Lucy_Talent_06_Desc_02": "เหล่ามนุษย์สัตว์วงศ์หมูป่าที่ถูกเรียกว่า \"Crimson Mane Guard\" มักจะพุ่งตัวไปอยู่ที่แนวหน้าในการต่อสู้เสมอ!\nถึงจะบอกไม่ถูกว่า ชั่ววินาทีที่พุ่งทยานออกไปจากไม้เบสบอลนั้น จิตใจเต็มไปด้วยความท้อแท้สิ้นหวัง หรือว่ายินยอมพร้อมใจกันแน่ก็ตาม\nเจ้าหมูน้อยที่กล้าหาญ หัวหมู่ทะลวงฟัน!",
+                "Lucy_Talent_06_Desc_01": "เมื่อเพื่อนร่วมทีมที่อยู่ในสถานะ <color=#FFFFFF>[Cheer On!]</color> ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู Guard Boar หนึ่งตัวจะกระโจนจากกลางอากาศลงมายังพื้นดิน และทำให้เกิดการระเบิด โดยจะสร้าง<color=#FF5521>ความเสียหายธาตุไฟ</color>เป็น 300% ของ ATK ของ Guard Boar และทำให้สถานะ <color=#FFFFFF>[Cheer On!]</color> ของทั้งทีม มีช่วงเวลาต่อเนื่องเพิ่มขึ้น 5 วินาที;\nช่วงเวลาต่อเนื่องจะเพิ่มได้มากสุด 3 ครั้ง นานสุด 30 วินาที และเมื่อได้รับสถานะ <color=#FFFFFF>[Cheer On!]</color> ใหม่อีกครั้ง จะรีเฟรชจำนวนครั้งที่สามารถเพิ่มได้;\nหลังจาก Guard Boar ลงถึงพื้น และทำให้เกิดการระเบิด จะใช้ <color=#FFFFFF>[Guard Boar: Spinning Swing!]</color> หนึ่งครั้ง",
+                "Lucy_Talent_06_Title_Realign": "Fierce Fangs of Fire"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "Lighter",
+        "full_name": "Lighter",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "The Champion",
+                "Lighter_Talent_01_Desc_01_Realign": "เมื่ออยู่ในเอฟเฟกต์ดีบัฟของ <color=#FFFFFF>[พาสซีฟหลัก: Accelerant]</color> เอฟเฟกต์ <color=#FFFFFF>[Collapse]</color> จะทำให้ช่วงเวลาต่อเนื่องของการสตั๊นเพิ่มขึ้น 5 วินาที โดย<color=#98EFF0>ความต้านทานความเสียหายน้ำแข็ง</color> และ<color=#FF5521>ความต้านทานความเสียหายไฟ</color>จะลดลงเพิ่มเติมอีก 10%;\nหากใช้ <color=#FFFFFF>[Morale]</color> หมดในระหว่างที่ใช้การเริ่มต่อยโจมตีขั้นเบา หรือการปล่อยหมัดแย็บต่อเนื่อง เมื่อเชื่อมต่อโดยอัตโนมัติด้วยการโจมตีปิดฉากที่รุนแรง การโจมตีปิดฉากที่รุนแรงจะสร้างความเสียหายเพิ่มขึ้น 30%",
+                "Lighter_Talent_01_Desc_02": "ชัยชนะของแชมป์ไร้พ่ายนั้นสำคัญที่สุด การต่อสู้กับนักรบที่แข็งแกร่งที่สุดของฝ่ายตรงข้าม จัดการภัยคุกคามให้แก่หัวหน้า... และสร้างขวัญกำลังใจให้กับทีมอย่างมากในขณะเดียวกัน\nสำหรับเขาแล้ว มีเพียงชัยชนะเท่านั้นที่ควรค่าแก่การสรรเสริญ\n\"แชมป์ไร้พ่ายจะแพ้ไม่ได้เด็ดขาด\"",
+                "Lighter_Talent_01_Desc_01": "เมื่ออยู่ในเอฟเฟกต์ดีบัฟของ <color=#FFFFFF>[พาสซีฟหลัก: Accelerant]</color> เอฟเฟกต์ <color=#FFFFFF>[Collapse]</color> จะทำให้ช่วงเวลาต่อเนื่องของการสตั๊นเพิ่มขึ้น 5 วินาที โดย<color=#98EFF0>ความต้านทานความเสียหายน้ำแข็ง</color> และ<color=#FF5521>ความต้านทานความเสียหายไฟ</color>จะลดลงเพิ่มเติมอีก 10%;\nหากใช้ <color=#FFFFFF>[Morale]</color> หมดในระหว่างที่ใช้การเริ่มต่อยโจมตีขั้นเบา หรือการปล่อยหมัดแย็บต่อเนื่อง เมื่อเชื่อมต่อโดยอัตโนมัติด้วยการโจมตีปิดฉากที่รุนแรง การโจมตีปิดฉากที่รุนแรงจะสร้างความเสียหายเพิ่มขึ้น 30%",
+                "Lighter_Talent_01_Title_Realign": "The Champion"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "Red Scarf",
+                "Lighter_Talent_02_Desc_01_Realign": "เมื่อทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Collapse]</color> กับศัตรูผ่านการใช้ <color=#FFFFFF>[พาสซีฟหลัก: Accelerant]</color> เป้าหมายจะมีตัวคูณ Stun DMG เพิ่มขึ้น 25%;\nระหว่างที่ใช้ <color=#FFFFFF>[ความสามารถเพิ่มเติม: Fighting Spirit]</color> เอฟเฟกต์บัฟ<color=#98EFF0>ความเสียหายธาตุน้ำแข็ง</color> และ<color=#FF5521>ความเสียหายธาตุไฟ</color>ที่ได้จาก <color=#FFFFFF>[Elation]</color> จะเพิ่มขึ้นเป็น 120% จากของเดิม",
+                "Lighter_Talent_02_Desc_02": "ในฐานะ \"ผ้าพันคอสีแดง\" แห่ง Sons of Calydon แล้ว Lighter มีชื่อเสียงใน Outer Ring เป็นอย่างมาก\nไม่ใช่แค่เพราะกำปั้นของเขาเท่านั้น แต่ยังเป็นเพราะ... สไตล์การพูดบางอย่างด้วย\n\"ถึงฉันจะมีความสุขกับเวลาว่าง... แต่ถ้าไม่มีฉันละก็ ก็คงจัดการกันไม่ได้ใช่มั้ย?\"",
+                "Lighter_Talent_02_Desc_01": "เมื่อทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Collapse]</color> กับศัตรูผ่านการใช้ <color=#FFFFFF>[พาสซีฟหลัก: Accelerant]</color> เป้าหมายจะมีตัวคูณ Stun DMG เพิ่มขึ้น 25%;\nระหว่างที่ใช้ <color=#FFFFFF>[ความสามารถเพิ่มเติม: Fighting Spirit]</color> เอฟเฟกต์บัฟ<color=#98EFF0>ความเสียหายธาตุน้ำแข็ง</color> และ<color=#FF5521>ความเสียหายธาตุไฟ</color>ที่ได้จาก <color=#FFFFFF>[Elation]</color> จะเพิ่มขึ้นเป็น 120% จากของเดิม",
+                "Lighter_Talent_02_Title_Realign": "Red Scarf"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "Mercenary Leader",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Lighter_Talent_03_Desc_02": "\"ฉันน่าจะเป็นคนที่ไม่เหมาะจะเป็นหัวหน้าที่สุดในโลกนี้แล้วล่ะ\"",
+                "Lighter_Talent_03_Title_Realign": "Mercenary Leader"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "Sunglasses",
+                "Lighter_Talent_04_Desc_01_Realign": "เมื่อ Lighter อยู่นอกสนาม ตัวละครในสนามจะมีประสิทธิภาพการฟื้นฟูพลังงานเพิ่มขึ้น 10%;\nเมื่อ Lighter เข้าสู่สถานะ <color=#FFFFFF>[Morale Burst]</color> จะฟื้นฟูพลังงานให้ตัวละครนอกสนาม 4 แต้ม โดยที่ใน 18 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Lighter_Talent_04_Desc_02": "\"ทำไมฉันต้องใส่แว่นกันแดดด้วยงั้นเหรอ? อืม... เพราะฉันกลัวเลือดน่ะ ประมาณนั้นล่ะมั้ง\"",
+                "Lighter_Talent_04_Desc_01": "เมื่อ Lighter อยู่นอกสนาม ตัวละครในสนามจะมีประสิทธิภาพการฟื้นฟูพลังงานเพิ่มขึ้น 10%;\nเมื่อ Lighter เข้าสู่สถานะ <color=#FFFFFF>[Morale Burst]</color> จะฟื้นฟูพลังงานให้ตัวละครนอกสนาม 4 แต้ม โดยที่ใน 18 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Lighter_Talent_04_Title_Realign": "Sunglasses"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "Decision Maker",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Lighter_Talent_05_Desc_02": "\"สั่งฉันมา แล้วฉันจะทำตามนั้น ง่ายๆ แค่นั้นแหละ\"\nLighter ใช้มือดันแว่นกันแดดของตัวเอง พลางหัวเราะอย่างไม่ใส่ใจ\n\"แค่อย่าให้ฉันเป็นคนตัดสินใจอีกก็พอ\"",
+                "Lighter_Talent_05_Title_Realign": "Decision Maker"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "Survivor",
+                "Lighter_Talent_06_Desc_01_Realign": "Lighter มีประสิทธิภาพการฟื้นฟู <color=#FFFFFF>[Morale]</color> เพิ่มขึ้นเป็น 200% จากของเดิม;\nในระหว่างที่ใช้ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีกสวนกลับ]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>, <color=#FFFFFF>[ซัปพอร์ตจู่โจม]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color>, <color=#FFFFFF>[สกิลอัลติเมท]</color> เมื่อ Lighter ใช้การโจมตีหนักถูกศัตรู จะทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Blazing Impact]</color> โดยจะสร้าง<color=#FF5521>ความเสียหายธาตุไฟ</color>เท่ากับ 250% ของ ATK โดยที่ทุก 8 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้งกับศัตรูแต่ละตัว;\nหาก Lighter มี Impact มากกว่า 170 แต้ม Impact ทุก 1 แต้มที่เกินมา จะทำให้ <color=#FFFFFF>[Blazing Impact]</color> มีตัวคูณเพิ่มขึ้นอีก 5% (เพิ่มขึ้นมากสุด 500%);\nหากใช้ <color=#FFFFFF>[Morale]</color> หมดในระหว่างที่ใช้การเริ่มต่อยโจมตีขั้นเบา หรือการปล่อยหมัดแย็บต่อเนื่อง เมื่อการเชื่อมต่อโดยอัตโนมัติด้วยการโจมตีปิดฉากที่รุนแรงถูกศัตรู จะสามารถมองข้ามช่วงเวลาคูลดาวน์ และทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Blazing Impact]</color> เพิ่มเติมได้หนึ่งครั้ง",
+                "Lighter_Talent_06_Desc_02": "หากเริ่มต้นใหม่ได้ เขาไม่มีทางเลือกที่จะเป็นผู้อยู่รอดเพียงหนึ่งเดียวอย่างแน่นอน\nน่าเสียดายที่โชคชะตาเป็นสิ่งที่ไม่สามารถเลือกได้",
+                "Lighter_Talent_06_Desc_01": "Lighter มีประสิทธิภาพการฟื้นฟู <color=#FFFFFF>[Morale]</color> เพิ่มขึ้นเป็น 200% จากของเดิม;\nในระหว่างที่ใช้ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีกสวนกลับ]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลพิเศษ-EX]</color>, <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>, <color=#FFFFFF>[ซัปพอร์ตจู่โจม]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color>, <color=#FFFFFF>[สกิลอัลติเมท]</color> เมื่อ Lighter ใช้การโจมตีหนักถูกศัตรู จะทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Blazing Impact]</color> โดยจะสร้าง<color=#FF5521>ความเสียหายธาตุไฟ</color>เท่ากับ 250% ของ ATK โดยที่ทุก 8 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้งกับศัตรูแต่ละตัว;\nหาก Lighter มี Impact มากกว่า 170 แต้ม Impact ทุก 1 แต้มที่เกินมา จะทำให้ <color=#FFFFFF>[Blazing Impact]</color> มีตัวคูณเพิ่มขึ้นอีก 5% (เพิ่มขึ้นมากสุด 500%);\nหากใช้ <color=#FFFFFF>[Morale]</color> หมดในระหว่างที่ใช้การเริ่มต่อยโจมตีขั้นเบา หรือการปล่อยหมัดแย็บต่อเนื่อง เมื่อการเชื่อมต่อโดยอัตโนมัติด้วยการโจมตีปิดฉากที่รุนแรงถูกศัตรู จะสามารถมองข้ามช่วงเวลาคูลดาวน์ และทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Blazing Impact]</color> เพิ่มเติมได้หนึ่งครั้ง",
+                "Lighter_Talent_06_Title_Realign": "Survivor"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "Burnice",
+        "full_name": "Burnice White",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "Kindred Flames",
+                "Burnice_Talent_01_Desc_01_Realign": "ขีดจำกัดสูงสุดของ <color=#FFFFFF>[Heat]</color> เพิ่มขึ้นจาก 100 แต้ม เป็น 140 แต้ม และเมื่อเข้าสู่การต่อสู้ Burnice จะสะสม <color=#FFFFFF>[Heat]</color> เพิ่มเติม 40 แต้ม;\nเอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> มีตัวคูณ DMG เพิ่มขึ้น โดยเอฟเฟกต์ที่เพิ่มจะเป็น 100% ของ ATK ของ Burnice;\nเอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> สะสม<color=#FF5521>ค่าการสะสม Fire Anomaly</color> เพิ่มขึ้น 25%",
+                "Burnice_Talent_01_Desc_02": "\"ทุกคนต่างก็มีช่วงเวลาที่ไม่ราบรื่นกันทั้งนั้น เป็นเรื่องปกติอยู่แล้วน่า!\"\n\"อย่าเศร้าไปเลยนะ Caesar มาดื่ม Nitro-Fuel สูตรพิเศษซักแก้วมั้ย? ฉันเติมน้ำตาลเข้าไปเพียบเลยล่ะ!\"",
+                "Burnice_Talent_01_Desc_01": "ขีดจำกัดสูงสุดของ <color=#FFFFFF>[Heat]</color> เพิ่มขึ้นจาก 100 แต้ม เป็น 140 แต้ม และเมื่อเข้าสู่การต่อสู้ Burnice จะสะสม <color=#FFFFFF>[Heat]</color> เพิ่มเติม 40 แต้ม;\nเอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> มีตัวคูณ DMG เพิ่มขึ้น โดยเอฟเฟกต์ที่เพิ่มจะเป็น 100% ของ ATK ของ Burnice;\nเอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> สะสม<color=#FF5521>ค่าการสะสม Fire Anomaly</color> เพิ่มขึ้น 25%",
+                "Burnice_Talent_01_Title_Realign": "Kindred Flames"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "Extra at No Additional Charge",
+                "Burnice_Talent_02_Desc_01_Realign": "เมื่อเกิดเอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> จะใช้ <color=#FFFFFF>[Thermal Penetration]</color> กับศัตรู โดยจะซ้อนทับได้มากสุด 5 ชั้น ต่อเนื่อง 6 วินาที และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง;\nเมื่อถูกฝ่ายเราโจมตี ทุกหนึ่งชั้นของ <color=#FFFFFF>[Thermal Penetration]</color> ที่เป้าหมายมี จะทำให้การโจมตีในครั้งนี้มี PEN Ratio เพิ่มขึ้น 4% ซึ่งจะเพิ่มได้มากสุด 20%",
+                "Burnice_Talent_02_Desc_02": "ในฐานะมิกโซโลจิสต์ของ Sons of Calydon แล้ว Burnice ยินดีที่จะชง Nitro-Fuel ที่อร่อยที่สุดใน New Eridu ให้กับเพื่อนๆ ทุกคน\nแน่นอนว่าหากคุณเป็น \"ศัตรู\" ของเธอ... ก็จะมีโอกาสได้ลองดื่มเครื่องดื่ม ที่มีรสชาติแปลกใหม่ไม่ซ้ำใครด้วยเช่นกัน\n\"มันเป็นรสชาติสุดมหัศจรรย์ ที่ชีวิตนี้จะมีโอกาสดื่มได้แค่ครั้งเดียวเท่านั้นเลยล่ะ!\"",
+                "Burnice_Talent_02_Desc_01": "เมื่อเกิดเอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> จะใช้ <color=#FFFFFF>[Thermal Penetration]</color> กับศัตรู โดยจะซ้อนทับได้มากสุด 5 ชั้น ต่อเนื่อง 6 วินาที และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง;\nเมื่อถูกฝ่ายเราโจมตี ทุกหนึ่งชั้นของ <color=#FFFFFF>[Thermal Penetration]</color> ที่เป้าหมายมี จะทำให้การโจมตีในครั้งนี้มี PEN Ratio เพิ่มขึ้น 4% ซึ่งจะเพิ่มได้มากสุด 20%",
+                "Burnice_Talent_02_Title_Realign": "Extra at No Additional Charge"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "Optimistic by Nature",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Burnice_Talent_03_Desc_02": "\"ยัย Burnice นั่น ไม่ว่าเวลาไหนก็ดูมีชีวิตชีวาอยู่ตลอดเลย! แม้แต่ตอนเพิ่งตื่นนอนก็ไม่เว้น! ไม่รู้จริงๆ ว่าไปเอาพลังงานมากมายขนาดนั้นมาจากไหน...\"\n\"แต่ที่น่ากลัวยิ่งกว่านั้น ก็คือยัยนั่นยังสามารถกระตุ้นคนรอบข้าง ให้กระตือรือร้นขึ้นมาได้ด้วย! แบบนี้มันแทบจะเรียกว่าเป็นปีศาจได้แล้วไม่ใช่เหรอ!\"\n\"แต่ว่า... ฉันก็ไม่ได้รังเกียจอะไรหรอกนะ...\"\n— จากผู้ดูแลหมูป่าท่านหนึ่งที่ไม่ประสงค์ออกนาม",
+                "Burnice_Talent_03_Title_Realign": "Optimistic by Nature"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "Ultimate Fuel Supply",
+                "Burnice_Talent_04_Desc_01_Realign": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> หรือ <color=#FFFFFF>[การโจมตีซัปพอร์ต]</color> ถูกศัตรู ท่าจะมี CRIT Rate เพิ่มขึ้น 30%;\nใน <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color> ขีดจำกัดของช่วงเวลาต่อเนื่อง ของการพ่นไฟจะเพิ่มขึ้น 1 วินาที",
+                "Burnice_Talent_04_Desc_02": "\"ชอบเครื่องดื่มที่ฉันชงงั้นเหรอ? ขอบใจนะ เขี้ยวเหล็กมันก็ชอบเหมือนกัน~ มื้อนึงเจ้านั่นสามารถกินได้ตั้ง 200 ลิตรเลยนะ!\"\n\"โอ้ เขี้ยวเหล็กก็คือเจ้ารถบรรทุกของพวกเรานั่นไง!\"\n\"อยากลองชิมเชื้อเพลิงพิเศษของมันดูมั้ยล่ะ? ร้อนแรงมากเลยล่ะ~\"",
+                "Burnice_Talent_04_Desc_01": "เมื่อ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> หรือ <color=#FFFFFF>[การโจมตีซัปพอร์ต]</color> ถูกศัตรู ท่าจะมี CRIT Rate เพิ่มขึ้น 30%;\nใน <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color> ขีดจำกัดของช่วงเวลาต่อเนื่อง ของการพ่นไฟจะเพิ่มขึ้น 1 วินาที",
+                "Burnice_Talent_04_Title_Realign": "Ultimate Fuel Supply"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "Dance of Fire and Ice",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Burnice_Talent_05_Desc_02": "ในตอนที่ชงเครื่องดื่ม น้ำแข็งก็สำคัญมากเหมือนกัน\nเพราะไม่ว่ายังไง ถ้าไม่มีความเย็นสุดขั้ว มันก็ยากที่จะแสดงความร้อนสุดขีดออกมาได้\n\"ความรู้สึกที่ผสมผสานกันระหว่างไฟ และน้ำแข็งแบบนี้~ มันน่าหลงใหลสุดๆ ไปเลยล่ะ!\"",
+                "Burnice_Talent_05_Title_Realign": "Dance of Fire and Ice"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "Burning Invitation",
+                "Burnice_Talent_06_Desc_01_Realign": "เมื่อ Burnice ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color> ถูกศัตรู จะทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> พิเศษเพิ่มเติม โดยจะสร้าง<color=#FF5521>ความเสียหายธาตุไฟ</color>ต่อเป้าหมายเท่ากับ 60% ของ ATK ของ Burnice ซึ่งใน 0.5 วินาที จะเกิดขึ้นได้มากสุด 1 ครั้ง และไม่จำเป็นต้องใช้ <color=#FFFFFF>[Heat]</color>;\nหลังจากใช้ <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color> ถูกศัตรู ระหว่างช่วงเวลาที่ใช้ท่า <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color>, เอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> พิเศษ, เอฟเฟกต์ <color=#FF5521>[ไหม้เกรียม]</color> จะมองข้าม 25% ของ<color=#FF5521>ความต้านทานความเสียหายไฟ</color>ของเป้าหมาย;\nในระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color> เมื่อยิงเปลวไฟถูกศัตรูที่อยู่ในสถานะ <color=#FF5521>[ไหม้เกรียม]</color> จะสามารถทำให้เกิดความเสียหายของ <color=#FF5521>[ไหม้เกรียม]</color> เพิ่มเติมอีกหนึ่งครั้ง โดยที่เอฟเฟกต์ความเสียหาย จะเท่ากับ 1,800% ของค่าเดิม และใน 20 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้งกับเป้าหมายเดียวกัน",
+                "Burnice_Talent_06_Desc_02": "ดูเหมือนจะไม่มีใครเคยเห็น Burnice โกรธจริงๆ จังๆ มาก่อนเลย\n\"เชื่อฉันเถอะ ไม่มีใครอยากเห็นหรอก~\"\n— จากคนขับรถท่านหนึ่งที่กำลังเตรียมตัวเข้านอนบนเขี้ยวเหล็ก",
+                "Burnice_Talent_06_Desc_01": "เมื่อ Burnice ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color> ถูกศัตรู จะทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> พิเศษเพิ่มเติม โดยจะสร้าง<color=#FF5521>ความเสียหายธาตุไฟ</color>ต่อเป้าหมายเท่ากับ 60% ของ ATK ของ Burnice ซึ่งใน 0.5 วินาที จะเกิดขึ้นได้มากสุด 1 ครั้ง และไม่จำเป็นต้องใช้ <color=#FFFFFF>[Heat]</color>;\nหลังจากใช้ <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color> ถูกศัตรู ระหว่างช่วงเวลาที่ใช้ท่า <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color>, เอฟเฟกต์ <color=#FFFFFF>[Afterburn]</color> พิเศษ, เอฟเฟกต์ <color=#FF5521>[ไหม้เกรียม]</color> จะมองข้าม 25% ของ<color=#FF5521>ความต้านทานความเสียหายไฟ</color>ของเป้าหมาย;\nในระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX: Intense Heat Stirring Method - Double Shot]</color> เมื่อยิงเปลวไฟถูกศัตรูที่อยู่ในสถานะ <color=#FF5521>[ไหม้เกรียม]</color> จะสามารถทำให้เกิดความเสียหายของ <color=#FF5521>[ไหม้เกรียม]</color> เพิ่มเติมอีกหนึ่งครั้ง โดยที่เอฟเฟกต์ความเสียหาย จะเท่ากับ 1,800% ของค่าเดิม และใน 20 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้งกับเป้าหมายเดียวกัน",
+                "Burnice_Talent_06_Title_Realign": "Burning Invitation"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "Piper",
+        "full_name": "Piper Wheel",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "Leisure Moment",
+                "Clara_Talent_01_Desc_01_Realign": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ: Tire Spin]</color>, <color=#FFFFFF>[สกิลพิเศษ-EX: Engine Spin]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> เมื่อ Piper ปล่อย Spinning Slash ถูกศัตรู \nจะมีโอกาส 50% ที่จะได้รับ <color=#FFFFFF>[Power]</color> เพิ่มเติม 1 ชั้น โดยที่จำนวนชั้นการซ้อนทับสูงสุดของ <color=#FFFFFF>[Power]</color> จะเพิ่มขึ้นเป็น 30 ชั้น",
+                "Clara_Talent_01_Desc_02": "เช้าวันหนึ่งที่แสนธรรมดาของ Sons of Calydon... Piper หาวอย่างเชื่องช้าเอื่อยเฉื่อย\n\"อรุณสวัสดิ์——\"\n\"วันนี้ก็ทำตัวตามสบายได้ใช่ป่าว? การรักษาสุขภาพเป็นสิ่งที่สำคัญมากนะ ไม่งั้นคนคนนี้คงต้องเหนื่อยตายแน่ๆ เลย...\"",
+                "Clara_Talent_01_Desc_01": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ: Tire Spin]</color>, <color=#FFFFFF>[สกิลพิเศษ-EX: Engine Spin]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> เมื่อ Piper ปล่อย Spinning Slash ถูกศัตรู จะมีโอกาส 50% ที่จะได้รับ <color=#FFFFFF>[Power]</color> เพิ่มเติม 1 ชั้น โดยที่จำนวนชั้นการซ้อนทับสูงสุดของ <color=#FFFFFF>[Power]</color> จะเพิ่มขึ้นเป็น 30 ชั้น",
+                "Clara_Talent_01_Title_Realign": "Leisure Moment"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "Motivation",
+                "Clara_Talent_02_Desc_01_Realign": "ระหว่างช่วงเวลาที่ใช้ <color=#FFFFFF>[สกิลพิเศษ: Tire Spin]</color> และ <color=#FFFFFF>[สกิลพิเศษ-EX: Engine Spin]</color> ความเร็วในการเคลื่อนที่ของ Piper จะเพิ่มขึ้น;\nระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ: One Trillion Tons]</color>, <color=#FFFFFF>[สกิลพิเศษ-EX: Really Heavy]</color> และ <color=#FFFFFF>[สกิลอัลติเมท]</color> เมื่อใช้การทุบโจมตีถูกศัตรู\nการโจมตีจะสร้าง<color=#F0D12B>ความเสียหายกายภาพ</color>เพิ่มขึ้น 10% ซึ่ง <color=#FFFFFF>[Power]</color> ทุก 1 ชั้นที่มี จะทำให้เอฟเฟกต์บัฟนี้เพิ่มขึ้นอีก 1%",
+                "Clara_Talent_02_Desc_02": "ความพยายามชั่วคราว ก็เพื่อการพักผ่อนที่ยาวนานยิ่งขึ้น\nแน่นอนว่า ถ้าไม่ต้องพยายามตลอดไปก็จะดีกว่า... Piper บิดขี้เกียจ ตบเตียงนุ่มๆ ในรถบรรทุก จากนั้นก็นอนลง",
+                "Clara_Talent_02_Desc_01": "ระหว่างช่วงเวลาที่ใช้ <color=#FFFFFF>[สกิลพิเศษ: Tire Spin]</color> และ <color=#FFFFFF>[สกิลพิเศษ-EX: Engine Spin]</color> ความเร็วในการเคลื่อนที่ของ Piper จะเพิ่มขึ้น;\nระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ: One Trillion Tons]</color>, <color=#FFFFFF>[สกิลพิเศษ-EX: Really Heavy]</color> และ <color=#FFFFFF>[สกิลอัลติเมท]</color> เมื่อใช้การทุบโจมตีถูกศัตรู การโจมตีจะสร้าง<color=#F0D12B>ความเสียหายกายภาพ</color>เพิ่มขึ้น 10% ซึ่ง <color=#FFFFFF>[Power]</color> ทุก 1 ชั้นที่มี จะทำให้เอฟเฟกต์บัฟนี้เพิ่มขึ้นอีก 1%",
+                "Clara_Talent_02_Title_Realign": "Motivation"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "Truck Expert",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Clara_Talent_03_Desc_02": "Piper มักจะสนใจทุกสิ่งทุกอย่างที่เกี่ยวกับรถบรรทุกอยู่เสมอ\nแม้จะอยู่ในสภาพที่หลับสนิท ทันทีที่เครื่องยนต์ดังขึ้น หญิงสาวก็จะตื่นขึ้นในพริบตา:\n\"100 แรงม้า น้ำหนัก 5 ตัน นี่คือ... รถบรรทุกรุ่นเล็กที่ทาง Three Gates เพิ่งเปิดตัว!\"",
+                "Clara_Talent_03_Title_Realign": "Truck Expert"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "Refined Techniques",
+                "Clara_Talent_04_Desc_01_Realign": "เมื่อตัวละครใดก็ตามในทีม ทำให้ศัตรูติดเอฟเฟกต์ Attribute Anomaly จะทำให้ Piper ฟื้นฟูพลังงาน 20 แต้ม โดยที่ภายใน 30 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Clara_Talent_04_Desc_02": "การเป็นผู้โดยสารให้กับ Piper นั้นเป็นประสบการณ์ที่ชวนอกสั่นขวัญแขวน\nโดยปกติแล้ว ในตอนที่เธอค่อยๆ เตือนอย่างเชื่องช้าว่า \"นั่ง~ ดีๆ น้า~~\" ก่อนที่จะทันพูดคำว่า \"ดีๆ\" จบ รถบรรทุกก็วิ่งไปข้างหน้า ด้วยระยะทางที่ไกลอย่างน่าประหลาดใจแล้ว\nแน่นอนว่าเธอสามารถพาคุณ ไปยังจุดหมายปลายทางได้อย่างปลอดภัย ในเวลาที่สั้นที่สุดเท่าที่จะเป็นไปได้... ไม่รวมความเสียหายทางจิตใจนะ",
+                "Clara_Talent_04_Desc_01": "เมื่อตัวละครใดก็ตามในทีม ทำให้ศัตรูติดเอฟเฟกต์ Attribute Anomaly จะทำให้ Piper ฟื้นฟูพลังงาน 20 แต้ม โดยที่ภายใน 30 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Clara_Talent_04_Title_Realign": "Refined Techniques"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "Personal Hobbies",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Clara_Talent_05_Desc_02": "ดูเหมือน Piper จะมีงานอดิเรกส่วนตัวบางอย่าง ที่ไม่เข้ากับรูปลักษณ์ภายนอกเท่าไหร่\n\"ม้าตัวนี้ ดูท่าจะวิ่งเก่งมากเลยนะเนี่ย... อืมมมม... แต่คนซื้อน้อยจังแฮะ อัตราการชนะของตัวนั้นสูงกว่าจริงๆ นั่นแหละ...\"\n\"*เอิ๊ก*... Nitro-Fuel... ฉันไม่ได้ดื่มเยอะซะหน่อย ...เอามาอีกแก้ว!\"",
+                "Clara_Talent_05_Title_Realign": "Personal Hobbies"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "Mild Excitement",
+                "Clara_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[สกิลพิเศษ-EX: Engine Spin]</color> มีช่วงเวลาต่อเนื่องสูงสุดเพิ่มขึ้น 2 วินาที และ <color=#FFFFFF>[Power]</color> มีช่วงเวลาต่อเนื่องเพิ่มขึ้น 4 วินาที",
+                "Clara_Talent_06_Desc_02": "อย่างที่คุณรู้ ความปรารถนาสูงสุดของ Piper คือการได้ใช้ชีวิตอย่างสบายใจตลอดไป\nแต่ในตอนนี้ ดวงตาที่มักจะกึ่งหลับกึ่งลืมของหญิงสาว กลับดูมีชีวิตชีวาขึ้นมา\n\"ถ้าทำเพื่อคุณละก็... ฉันคนนี้พยายามขึ้นซักอีกหน่อยก็ได้~\"",
+                "Clara_Talent_06_Desc_01": "<color=#FFFFFF>[สกิลพิเศษ-EX: Engine Spin]</color> มีช่วงเวลาต่อเนื่องสูงสุดเพิ่มขึ้น 2 วินาที และ <color=#FFFFFF>[Power]</color> มีช่วงเวลาต่อเนื่องเพิ่มขึ้น 4 วินาที",
+                "Clara_Talent_06_Title_Realign": "Mild Excitement"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "Yanagi",
+        "full_name": "Tsukishiro Yanagi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "Know Thy Self, Know Thy Enemy",
+                "Yanagi_Talent_01_Desc_01_Realign": "เมื่อตัวละครใดก็ตามในทีม ทำให้ศัตรูติดเอฟเฟกต์ Attribute Anomaly จะทำให้ Tsukishiro Yanagi ได้รับ <color=#FFFFFF>[Clarity]</color> 1 ชั้น ต่อเนื่อง 15 วินาที โดยจะซ้อนทับได้มากสุด 3 ชั้น และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง;\nเมื่อถูกฝ่ายศัตรูโจมตี Tsukishiro Yanagi จะใช้ <color=#FFFFFF>[Clarity]</color> 1 ชั้น และได้รับเอฟเฟกต์ Invulnerable ต่อเนื่อง 1 วินาที;\nเมื่อมี <color=#FFFFFF>[Clarity]</color> 1 ชั้นขึ้นไป Tsukishiro Yanagi จะมีความชำนาญ Anomaly เพิ่มขึ้น 80 แต้ม",
+                "Yanagi_Talent_01_Desc_02": "\"การเข้าใจจุดอ่อนของศัตรูอย่างถ่องแท้ หมายถึงการรับประกันความปลอดภัย... รวมถึงเพิ่มโอกาสในการเอาชนะให้ตนเอง\"\nYanagi ดันแว่นขึ้นด้วยท่าทีที่นิ่งเฉยเช่นเคย แม้ว่าชัยชนะจะอยู่ในกำมือแล้วก็ตาม",
+                "Yanagi_Talent_01_Desc_01": "เมื่อตัวละครใดก็ตามในทีม ทำให้ศัตรูติดเอฟเฟกต์ Attribute Anomaly จะทำให้ Tsukishiro Yanagi ได้รับ <color=#FFFFFF>[Clarity]</color> 1 ชั้น ต่อเนื่อง 15 วินาที โดยจะซ้อนทับได้มากสุด 3 ชั้น และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง;\nเมื่อถูกฝ่ายศัตรูโจมตี Tsukishiro Yanagi จะใช้ <color=#FFFFFF>[Clarity]</color> 1 ชั้น และได้รับเอฟเฟกต์ Invulnerable ต่อเนื่อง 1 วินาที;\nเมื่อมี <color=#FFFFFF>[Clarity]</color> 1 ชั้นขึ้นไป Tsukishiro Yanagi จะมีความชำนาญ Anomaly เพิ่มขึ้น 80 แต้ม",
+                "Yanagi_Talent_01_Title_Realign": "Know Thy Self, Know Thy Enemy"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "Outstanding Adaptability",
+                "Yanagi_Talent_02_Desc_01_Realign": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> การพุ่งทะลวงอย่างรวดเร็วจะทำให้<color=#2EB6FF>ค่าการสะสม Electric Anomaly</color> เพิ่มขึ้น 20%;\nเมื่อการพุ่งทะลวงอย่างรวดเร็วถูกศัตรู การกดค้างปุ่ม \"โจมตีพิเศษ\" ไว้จะสามารถใช้พลังงานเพิ่มเติม 10 แต้ม เพื่อใช้การโจมตีพุ่งทะลวงอีกครั้งได้ ซึ่งหากมีพลังงานไม่เพียงพอ หรือหยุดการกดค้าง จะเชื่อมต่อด้วยการโจมตีพุ่งลงโดยอัตโนมัติ;\nเมื่อการโจมตีพุ่งลงถูกศัตรูที่อยู่ในสถานะ Attribute Anomaly และทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Polarity Disorder]</color> ตัวคูณ DMG ที่สร้างแก่เป้าหมาย จะเพิ่มขึ้นเป็น 20% ของเอฟเฟกต์ <color=#FFFFFF>[โกลาหล]</color> เดิม โดยแต่ละครั้งที่ใช้การโจมตีพุ่งทะลวงเพิ่มเติม ตัวคูณ DMG นี้จะเพิ่มขึ้นอีก 15% ซึ่งเอฟเฟกต์การเพิ่มตัวคูณ DMG เพิ่มเติมจะเกิดขึ้นได้มากสุด 2 ครั้ง",
+                "Yanagi_Talent_02_Desc_02": "\"ถ้าเป็น Yanagi ละก็... ไม่ว่าจะถูกทิ้งไว้ในสภาพแวดล้อมที่ผิดปกติแค่ไหน ก็ต้องจัดการได้อย่างแน่นอน\"\n\"ฉันเชื่อ Yanagi มากกว่าที่ฉันเชื่อตัวเองซะอีก\"\n— จากนักสู้คนหนึ่งที่กำลังฝึก \"ตัดใบไม้ร่วงทั้งหมดที่อยู่ตรงหน้าให้ขาด\"",
+                "Yanagi_Talent_02_Desc_01": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> การพุ่งทะลวงอย่างรวดเร็วจะทำให้<color=#2EB6FF>ค่าการสะสม Electric Anomaly</color> เพิ่มขึ้น 20%;\nเมื่อการพุ่งทะลวงอย่างรวดเร็วถูกศัตรู การกดค้างปุ่ม \"โจมตีพิเศษ\" ไว้จะสามารถใช้พลังงานเพิ่มเติม 10 แต้ม เพื่อใช้การโจมตีพุ่งทะลวงอีกครั้งได้ ซึ่งหากมีพลังงานไม่เพียงพอ หรือหยุดการกดค้าง จะเชื่อมต่อด้วยการโจมตีพุ่งลงโดยอัตโนมัติ;\nเมื่อการโจมตีพุ่งลงถูกศัตรูที่อยู่ในสถานะ Attribute Anomaly และทำให้เกิดเอฟเฟกต์ <color=#FFFFFF>[Polarity Disorder]</color> ตัวคูณ DMG ที่สร้างแก่เป้าหมาย จะเพิ่มขึ้นเป็น 20% ของเอฟเฟกต์ <color=#FFFFFF>[โกลาหล]</color> เดิม โดยแต่ละครั้งที่ใช้การโจมตีพุ่งทะลวงเพิ่มเติม ตัวคูณ DMG นี้จะเพิ่มขึ้นอีก 15% ซึ่งเอฟเฟกต์การเพิ่มตัวคูณ DMG เพิ่มเติมจะเกิดขึ้นได้มากสุด 2 ครั้ง",
+                "Yanagi_Talent_02_Title_Realign": "Outstanding Adaptability"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "Tsukishiro Style Management",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Yanagi_Talent_03_Desc_02": "ใครๆ ต่างก็บอกว่า Section 6 เป็นที่รวมตัวกันของกลุ่มคนประหลาดและอัจฉริยะ ซึ่ง Tsukishiro Yanagi น่าจะเป็น \"คนปกติ\" เพียงหนึ่งเดียวในนั้น\nแต่ก็เป็นเพราะการมีอยู่ของเธอ ที่ทำให้คนประหลาด และอัจฉริยะ \"หลอมรวม\" เข้าด้วยกัน",
+                "Yanagi_Talent_03_Title_Realign": "Tsukishiro Style Management"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "Chessmaster",
+                "Yanagi_Talent_04_Desc_01_Realign": "เมื่อ Tsukishiro Yanagi สร้างความเสียหาย Attribute Anomaly แก่ศัตรู จะมอบเอฟเฟกต์ <color=#FFFFFF>[Expose]</color> แก่ศัตรูดังกล่าว ต่อเนื่อง 15 วินาที;\nเมื่อศัตรูที่อยู่ในสถานะ <color=#FFFFFF>[Expose]</color> ถูกโจมตี การโจมตีในครั้งดังกล่าวจะมี PEN Ratio เพิ่มขึ้น 16%",
+                "Yanagi_Talent_04_Desc_02": "ไม่ว่าสถานการณ์จะเป็นอย่างไร Tsukishiro Yanagi ก็สามารถรวบรวมข้อมูลทั้งหมดได้อย่างรวดเร็ว และตัดสินใจได้อย่างเหมาะสมที่สุด",
+                "Yanagi_Talent_04_Desc_01": "เมื่อ Tsukishiro Yanagi สร้างความเสียหาย Attribute Anomaly แก่ศัตรู จะมอบเอฟเฟกต์ <color=#FFFFFF>[Expose]</color> แก่ศัตรูดังกล่าว ต่อเนื่อง 15 วินาที;\nเมื่อศัตรูที่อยู่ในสถานะ <color=#FFFFFF>[Expose]</color> ถูกโจมตี การโจมตีในครั้งดังกล่าวจะมี PEN Ratio เพิ่มขึ้น 16%",
+                "Yanagi_Talent_04_Title_Realign": "Chessmaster"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "\"Other Mother\"",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Yanagi_Talent_05_Desc_02": "ในปัจจุบัน Tsukishiro Yanagi คือผู้ปกครองที่ได้รับมอบหมายเพียงหนึ่งเดียวของ Soukaku\n\"Soukaku นี่มันข้าวปั้นของหัวหน้านะ อย่าเอาไปกินตามใจชอบสิ... ช่างเหอะ มานี่มา เดี๋ยวฉันอุ่นให้\"\n\"ไว้ค่อยซื้อแบบที่เหมือนกันคืนให้หัวหน้าก็ได้...\"",
+                "Yanagi_Talent_05_Title_Realign": "\"Other Mother\""
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "Inhuman Blood",
+                "Yanagi_Talent_06_Desc_01_Realign": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> หลังจากที่ใช้การโจมตีพุ่งทะลวง สถานะ <color=#FFFFFF>[Shinrabanshou]</color> จะมีช่วงเวลาต่อเนื่องเพิ่มขึ้นเป็น 30 วินาที โดยในระหว่างช่วงเวลาของสถานะ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> จะสร้างความเสียหายเพิ่มขึ้น 20%;\nระหว่างช่วงเวลาของ <color=#FFFFFF>[Outstanding Adaptability]</color> เอฟเฟกต์เพิ่มตัวคูณ DMG เพิ่มเติมของ <color=#FFFFFF>[Polarity Disorder]</color> จะมีขีดจำกัดจำนวนการเกิดเพิ่มขึ้นเป็น 4 ครั้ง และการโจมตีพุ่งทะลวงเพิ่มเติม 4 ครั้งก่อนหน้า จะใช้พลังงานลดลงครึ่งหนึ่ง",
+                "Yanagi_Talent_06_Desc_02": "ในร่างกายของ Tsukishiro Yanagi มีเลือดบางส่วนที่ไม่ได้เป็นของเธอไหลเวียนอยู่\nครั้งหนึ่งเลือดเหล่านี้ เคยทำให้เธอได้รับชีวิตใหม่ท่ามกลางความสิ้นหวัง และก็ด้วยเหตุนี้ จึงทำให้เธอได้รับพลังพิเศษบางอย่างมาด้วย\n\"แต่ก็อย่างที่คุณรู้นั่นแหละ ทุกสิ่งที่ไม่ใช่ของฉัน... ต่างก็มีราคาที่ต้องจ่ายเสมอ\"",
+                "Yanagi_Talent_06_Desc_01": "ระหว่างที่ใช้ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> หลังจากที่ใช้การโจมตีพุ่งทะลวง สถานะ <color=#FFFFFF>[Shinrabanshou]</color> จะมีช่วงเวลาต่อเนื่องเพิ่มขึ้นเป็น 30 วินาที โดยในระหว่างช่วงเวลาของสถานะ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> จะสร้างความเสียหายเพิ่มขึ้น 20%;\nระหว่างช่วงเวลาของ <color=#FFFFFF>[Outstanding Adaptability]</color> เอฟเฟกต์เพิ่มตัวคูณ DMG เพิ่มเติมของ <color=#FFFFFF>[Polarity Disorder]</color> จะมีขีดจำกัดจำนวนการเกิดเพิ่มขึ้นเป็น 4 ครั้ง และการโจมตีพุ่งทะลวงเพิ่มเติม 4 ครั้งก่อนหน้า จะใช้พลังงานลดลงครึ่งหนึ่ง",
+                "Yanagi_Talent_06_Title_Realign": "Inhuman Blood"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

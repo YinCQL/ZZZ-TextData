@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "安比",
+        "full_name": "安比·德瑪拉",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "快速充電",
+                "Anbi_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[普通攻擊]</color>第四段斬擊命中敵人時，安比的能量獲得效率提升12%，持續30秒。",
+                "Anbi_Talent_01_Desc_02": "「充電一分鐘，戰鬥半小時！」\n為武器加裝拓展功能模組的專家是這麼保證的——\n使用效果也確實符合他的宣言。",
+                "Anbi_Talent_01_Desc_01": "<color=#FFFFFF>[普通攻擊]</color>第四段斬擊命中敵人時，安比的能量獲得效率提升12%，持續30秒。",
+                "Anbi_Talent_01_Title_Realign": "快速充電"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "精準放電",
+                "Anbi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[普通攻擊：落雷]</color>命中處於失衡狀態下的敵人時，招式造成的傷害提升30%。\n<color=#FFFFFF>[強化特殊技]</color>命中未處於失衡狀態下的敵人時，招式造成的失衡值提升10%。",
+                "Anbi_Talent_02_Desc_02": "「觸電了，就會暈倒。」\n少女淡淡地望著面前轟然昏倒的敵人，補了一句：\n「電影裡都是這樣演的。」",
+                "Anbi_Talent_02_Desc_01": "<color=#FFFFFF>[普通攻擊：落雷]</color>命中處於失衡狀態下的敵人時，招式造成的傷害提升30%。<color=#FFFFFF>[強化特殊技]</color>命中未處於失衡狀態下的敵人時，招式造成的失衡值提升10%。",
+                "Anbi_Talent_02_Title_Realign": "精準放電"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "訓練有素",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Anbi_Talent_03_Desc_02": "奔跑、揮刀、動若雷霆。少女不是探索空洞的生手，而是精於此道的專家。",
+                "Anbi_Talent_03_Title_Realign": "訓練有素"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "電荷傳導",
+                "Anbi_Talent_04_Desc_01_Realign": "發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，為後場電屬性角色回復3點能量。\n安比每擁有12%能量獲得效率，回復量額外提升2點，最多額外提升6點。",
+                "Anbi_Talent_04_Desc_02": "單打獨鬥不是長久之計，老練的盜洞客還會在戰鬥中適時為隊友創造機會。",
+                "Anbi_Talent_04_Desc_01": "發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，為後場電屬性角色回復3點能量。安比每擁有12%能量獲得效率，回復量額外提升2點，最多額外提升6點。",
+                "Anbi_Talent_04_Title_Realign": "電荷傳導"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "街頭經驗",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Anbi_Talent_05_Desc_02": "狡兔屋的工作不僅能提升心理素質，還能（被迫）提升身體素質。",
+                "Anbi_Talent_05_Title_Realign": "街頭經驗"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "充能電場",
+                "Anbi_Talent_06_Desc_01_Realign": "發動<color=#FFFFFF>[強化特殊技]</color>時，安比獲得8層充能（上限8層）。\n<color=#FFFFFF>[普通攻擊]</color>或<color=#FFFFFF>[衝刺攻擊]</color>命中敵人時，消耗1層充能，使目前招式造成的傷害提升45%。",
+                "Anbi_Talent_06_Desc_02": "閃爍的電光在少女的指尖跳躍。\n少女抬起頭，眼裡有著超出外貌年齡的堅毅。\n或許終有一日，她將成為掌控這須臾電光的人。",
+                "Anbi_Talent_06_Desc_01": "發動<color=#FFFFFF>[強化特殊技]</color>時，安比獲得8層充能（上限8層）。<color=#FFFFFF>[普通攻擊]</color>或<color=#FFFFFF>[衝刺攻擊]</color>命中敵人時，消耗1層充能，使目前招式造成的傷害提升45%。",
+                "Anbi_Talent_06_Title_Realign": "充能電場"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "貓又",
+        "full_name": "貓宮 又奈",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "獵鳥技巧",
+                "Tsubaki_Talent_01_Desc_01_Realign": "從背後攻擊命中敵人時，貓又無視目標16%<color=#F0D12B>物理傷害抗性</color>。\n敵方處於失衡狀態時，貓又對其發動的所有攻擊均被視為背後攻擊。",
+                "Tsubaki_Talent_01_Desc_02": "嬌小的貓又並沒有強大的膂力，取而代之的是捕捉對手弱點的眼光，和準確攻擊弱點的迅敏。",
+                "Tsubaki_Talent_01_Desc_01": "從背後攻擊命中敵人時，貓又無視目標16%<color=#F0D12B>物理傷害抗性</color>。敵方處於失衡狀態時，貓又對其發動的所有攻擊均被視為背後攻擊。",
+                "Tsubaki_Talent_01_Title_Realign": "獵鳥技巧"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "貓鼠遊戲",
+                "Tsubaki_Talent_02_Desc_01_Realign": "當場上只有一名敵人且自身位於前場時，貓又的能量獲得效率提升25%。",
+                "Tsubaki_Talent_02_Desc_02": "貓咪們總是更喜歡玩弄獵物。\n當場上的「老鼠」只剩一隻時，就是獨屬於她的玩樂時光了。",
+                "Tsubaki_Talent_02_Desc_01": "當場上只有一名敵人且自身位於前場時，貓又的能量獲得效率提升25%。",
+                "Tsubaki_Talent_02_Title_Realign": "貓鼠遊戲"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "好奇的左尾",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Tsubaki_Talent_03_Desc_02": "在舊文明的傳說裡，一根尾巴代表貓的一條命，裡面寄宿著多年的生存智慧……\n這話是假的，但貓又累積的街頭生存經驗確實是真的。",
+                "Tsubaki_Talent_03_Title_Realign": "好奇的左尾"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "磨爪",
+                "Tsubaki_Talent_04_Desc_01_Realign": "發動<color=#FFFFFF>[強化特殊技]</color>時，貓又的暴擊率提升7%，\n最多疊加2層，持續15秒，每層效果持續時間單獨計算。",
+                "Tsubaki_Talent_04_Desc_02": "「再來點再來點！我全~部都能解決掉喔！」\n貓系希人舔了舔爪子，眼睛亮晶晶的。",
+                "Tsubaki_Talent_04_Desc_01": "發動<color=#FFFFFF>[強化特殊技]</color>時，貓又的暴擊率提升7%，最多疊加2層，持續15秒，每層效果持續時間單獨計算。",
+                "Tsubaki_Talent_04_Title_Realign": "磨爪"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "幸運的右尾",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Tsubaki_Talent_05_Desc_02": "在舊文明的傳說裡，一根尾巴代表貓的一條命，裡面寄宿著多年的生存智慧……\n有時候貓又也會好奇，如果自己能繼續幸運地活下去，是不是還會長出新尾巴？",
+                "Tsubaki_Talent_05_Title_Realign": "幸運的右尾"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "捕食者血統",
+                "Tsubaki_Talent_06_Desc_01_Realign": "發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，貓又的暴擊傷害提升18%，最多疊加3層，退出接戰狀態時增益效果結束。貓又擊敗敵人時，該增益效果直接疊加至層數上限。",
+                "Tsubaki_Talent_06_Desc_02": "「對貓系希人來說，因攻擊行為而獲得的正向回饋，\n極有可能觸發他們性格中所潛藏的暴力傾向。\n幸運的是，這種傾向似乎並不具有永久性的效果……」\n——摘自一本破舊的《貓系希人不完全研究手冊》",
+                "Tsubaki_Talent_06_Desc_01": "發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，貓又的暴擊傷害提升18%，最多疊加3層，退出接戰狀態時增益效果結束。貓又擊敗敵人時，該增益效果直接疊加至層數上限。",
+                "Tsubaki_Talent_06_Title_Realign": "捕食者血統"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "妮可",
+        "full_name": "妮可·德瑪拉",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "增壓強化彈",
+                "Nostradamus_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>造成的傷害和累積的屬性異常積蓄值提升16%。\n發動<color=#FFFFFF>[強化特殊技]</color>時，每多蓄力0.1秒，在目標處生成的能量場持續時間提升0.15秒。",
+                "Nostradamus_Talent_01_Desc_02": "「你們都被我強化了，快上！」\n「什麼，我、我才沒有想要趁機逃跑，只是需要休息一下而已！」",
+                "Nostradamus_Talent_01_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>造成的傷害和累積的屬性異常積蓄值提升16%。發動<color=#FFFFFF>[強化特殊技]</color>時，每多蓄力0.1秒，在目標處生成的能量場持續時間提升0.15秒。",
+                "Nostradamus_Talent_01_Title_Realign": "增壓強化彈"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "聚能裝置",
+                "Nostradamus_Talent_02_Desc_01_Realign": "觸發<color=#FFFFFF>[核心被動：機關箱]</color>的減益效果時，妮可回復5點能量，15秒內最多觸發一次。",
+                "Nostradamus_Talent_02_Desc_02": "「不要小看增加的這一秒鐘！」\n「你知道這一秒內，我能產生多少價值嗎？那可是數都數不清！」\n「所以，我再多要10％的補貼，不過分吧？」",
+                "Nostradamus_Talent_02_Desc_01": "觸發<color=#FFFFFF>[核心被動：機關箱]</color>的減益效果時，妮可回復5點能量，15秒內最多觸發一次。",
+                "Nostradamus_Talent_02_Title_Realign": "聚能裝置"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "狡兔智慧",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Nostradamus_Talent_03_Desc_02": "既沒有卓絕的武力，也沒有豐厚的資源，妮可能把狡兔屋經營至今靠的是靈活的頭腦。",
+                "Nostradamus_Talent_03_Title_Realign": "狡兔智慧"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "領域擴增",
+                "Nostradamus_Talent_04_Desc_01_Realign": "妮可發動<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>、<color=#FFFFFF>[終結技]</color>時，\n在目標處產生的能量場攻擊範圍提升，直徑增加3公尺。",
+                "Nostradamus_Talent_04_Desc_02": "「這裡，還有這裡，以後都會成為狡兔屋的領域，你聽懂了嗎！？」\n「什麼，你問多久之後？」\n「呃……按照我們現在的收入，也就10000年左右吧！」\n",
+                "Nostradamus_Talent_04_Desc_01": "妮可發動<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>、<color=#FFFFFF>[終結技]</color>時，在目標處產生的能量場攻擊範圍提升，直徑增加3公尺。",
+                "Nostradamus_Talent_04_Title_Realign": "領域擴增"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "業界紅人",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Nostradamus_Talent_05_Desc_02": "雖然在業界仇人眾多，但妮可還是屢次率領部下們從九死一生的險境裡生還，狡兔屋的名氣和經驗也因此穩步提升。",
+                "Nostradamus_Talent_05_Title_Realign": "業界紅人"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "侵蝕能量場",
+                "Nostradamus_Talent_06_Desc_01_Realign": "能量場對敵人造成傷害時，全隊對該目標的暴擊率提升1.5%，\n最多疊加10層，持續12秒，每層效果單獨計算持續時間。",
+                "Nostradamus_Talent_06_Desc_02": "選用更高級的機關彈藥，裝藥量和濃縮以太物質含量均有所提高，更強的傷害、更長的持續時間……更貴的價格。",
+                "Nostradamus_Talent_06_Desc_01": "能量場對敵人造成傷害時，全隊對該目標的暴擊率提升1.5%，最多疊加10層，持續12秒，每層效果單獨計算持續時間。",
+                "Nostradamus_Talent_06_Title_Realign": "侵蝕能量場"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "比利",
+        "full_name": "比利·奇德",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "閃亮登場",
+                "Billy_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[衝刺攻擊]</color>或<color=#FFFFFF>[閃避反擊]</color>命中敵人時，比利額外回復2.7點能量，5秒內最多觸發一次。",
+                "Billy_Talent_01_Desc_02": "「身為反派，你們也太老實了！」\n「就像為了配合主角的登場，故意安排的固定標靶一樣！」",
+                "Billy_Talent_01_Desc_01": "<color=#FFFFFF>[衝刺攻擊]</color>或<color=#FFFFFF>[閃避反擊]</color>命中敵人時，比利額外回復2.7點能量，5秒內最多觸發一次。",
+                "Billy_Talent_01_Title_Realign": "閃亮登場"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "遊鬥射術",
+                "Billy_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[閃避反擊]</color>造成的傷害提升25%。\n<color=#FFFFFF>[普通攻擊]</color>中的翻滾射擊將被視為閃避動作，在招式發動期間獲得無敵效果，並且能夠觸發<color=#FFFFFF>[極限閃避]</color>。\n翻滾射擊觸發<color=#FFFFFF>[極限閃避]</color>時，將自動銜接<color=#FFFFFF>[閃避反擊]</color>。",
+                "Billy_Talent_02_Desc_02": "「星徽騎士從來不會逃避危險，那叫做戰術遊走射擊！」\n——星徽閃耀-交流區，會員「哦夢中的莫妮卡」留言。",
+                "Billy_Talent_02_Desc_01": "<color=#FFFFFF>[閃避反擊]</color>造成的傷害提升25%。<color=#FFFFFF>[普通攻擊]</color>中的翻滾射擊將被視為閃避動作，在招式發動期間獲得無敵效果，並且能夠觸發<color=#FFFFFF>[極限閃避]</color>。翻滾射擊觸發<color=#FFFFFF>[極限閃避]</color>時，將自動銜接<color=#FFFFFF>[閃避反擊]</color>。",
+                "Billy_Talent_02_Title_Realign": "遊鬥射術"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "星徽騎士的教導",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Billy_Talent_03_Desc_02": "絕不懈怠訓練，絕不停止進步！這是星徽騎士宣導的精神。比利真的相信，而且真的在遵守。",
+                "Billy_Talent_03_Title_Realign": "星徽騎士的教導"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "星徽-懲戒彈藥",
+                "Billy_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>命中敵人時，招式的暴擊率隨自身與目標之間的距離而提升。\n比利與目標距離越近，提升效果越顯著，最高提升32%。",
+                "Billy_Talent_04_Desc_02": "比利獨創的爆破型子彈，\n在近身戰時有著驚人的威力。\n不過比利改造子彈的本意，是讓開槍時的效果表現更加帥氣。",
+                "Billy_Talent_04_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>命中敵人時，招式的暴擊率隨自身與目標之間的距離而提升。比利與目標距離越近，提升效果越顯著，最高提升32%。",
+                "Billy_Talent_04_Title_Realign": "星徽-懲戒彈藥"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "失落技術構造體",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Billy_Talent_05_Desc_02": "未知的精密元件和獨特的構造設計帶給了比利遠超同儕的性能……和維修保養費用。",
+                "Billy_Talent_05_Title_Realign": "失落技術構造體"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "星徽-英雄時刻",
+                "Billy_Talent_06_Desc_01_Realign": "累計命中敵人10次或觸發<color=#FFFFFF>[極限閃避]</color>時，比利造成的傷害提升6%，\n最多疊加5層，被敵方擊退或擊飛後增益效果重置。",
+                "Billy_Talent_06_Desc_02": "「呼~感覺來了！安比你讓開，現在是我的主場！」\n「呃，安比，能幫忙放一下星徽騎士的片頭曲嗎？」\n——狡兔屋內部「十大禁句」評選，安比的提案。",
+                "Billy_Talent_06_Desc_01": "累計命中敵人10次或觸發<color=#FFFFFF>[極限閃避]</color>時，比利造成的傷害提升6%，最多疊加5層，被敵方擊退或擊飛後增益效果重置。",
+                "Billy_Talent_06_Title_Realign": "星徽-英雄時刻"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "珂蕾妲",
+        "full_name": "珂蕾妲·貝洛伯格",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "錘擊節奏",
+                "OokumaMari_Talent_01_Desc_01_Realign": "當銜接在<color=#FFFFFF>[普通攻擊]</color>第二段、第四段或強化<color=#FFFFFF>[普通攻擊]</color>後，\n快速發動<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>時，招式造成的失衡值提升15%。",
+                "OokumaMari_Talent_01_Desc_02": "火爆的脾氣只是表象，其實珂蕾妲心思相當細膩。比如她知道什麼時候揮錘能打得更痛。",
+                "OokumaMari_Talent_01_Desc_01": "當銜接在<color=#FFFFFF>[普通攻擊]</color>第二段、第四段或強化<color=#FFFFFF>[普通攻擊]</color>後，快速發動<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>時，招式造成的失衡值提升15%。",
+                "OokumaMari_Talent_01_Title_Realign": "錘擊節奏"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "動能回收",
+                "OokumaMari_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>命中敵人時，珂蕾妲回復60點能量，45秒內最多觸發一次。",
+                "OokumaMari_Talent_02_Desc_02": "對珂蕾妲來說，完美的錘擊自有獨特的節奏。\n像是加速敲擊手鼓，每一擊都在為下一次更強的節拍蓄力。\n當然，面前的「玩具」能夠撐住幾下，就不好說了。",
+                "OokumaMari_Talent_02_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>命中敵人時，珂蕾妲回復60點能量，45秒內最多觸發一次。",
+                "OokumaMari_Talent_02_Title_Realign": "動能回收"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "「別惹我！」",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "OokumaMari_Talent_03_Desc_02": "作為合格的「玩具」，當珂蕾妲逐漸找到揮錘的手感時，\n最好不要亂動，只要老老實實挨錘就好。\n——畢竟，反抗又有什麼用呢？",
+                "OokumaMari_Talent_03_Title_Realign": "「別惹我！」"
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "熔爐餘溫",
+                "OokumaMari_Talent_04_Desc_01_Realign": "消耗<color=#FFFFFF>[熔爐升溫]</color>發動強化<color=#FFFFFF>[普通攻擊]</color>時，珂蕾妲獲得1層充能（上限2層）。\n<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，消耗所有充能，每層充能使目前招式造成的傷害提升18%。",
+                "OokumaMari_Talent_04_Desc_02": "當熾熱的揮錘讓周圍溫度上升後，珂蕾妲便進入了作戰狀態。\n現在，她比以太炸藥更易燃易爆。",
+                "OokumaMari_Talent_04_Desc_01": "消耗<color=#FFFFFF>[熔爐升溫]</color>發動強化<color=#FFFFFF>[普通攻擊]</color>時，珂蕾妲獲得1層充能（上限2層）。<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，消耗所有充能，每層充能使目前招式造成的傷害提升18%。",
+                "OokumaMari_Talent_04_Title_Realign": "熔爐餘溫"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "「敢小看我？」",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "OokumaMari_Talent_05_Desc_02": "珂蕾妲非常在意自己這個年輕的首領會讓外人小看白祇重工。為了彌補這一點，她總是悄悄努力訓練。",
+                "OokumaMari_Talent_05_Title_Realign": "「敢小看我？」"
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "飽和爆破",
+                "OokumaMari_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>中，引發爆炸命中敵人時，\n額外造成珂蕾妲360%攻擊力的傷害。",
+                "OokumaMari_Talent_06_Desc_02": "在珂蕾妲眼裡，討厭的人分為兩種：\n笨蛋，和無可救藥的笨蛋。\n萬幸的是，白祇重工向來不缺烈性以太炸藥。\n多餘的份正好可以用在這些笨蛋頭上。",
+                "OokumaMari_Talent_06_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>中，引發爆炸命中敵人時，額外造成珂蕾妲360%攻擊力的傷害。",
+                "OokumaMari_Talent_06_Title_Realign": "飽和爆破"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "安東",
+        "full_name": "安東·伊萬諾夫",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "暖身運動",
+                "Anton_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[電鑽攻擊]</color>命中敵人時，能夠額外回復能量。同一招式內，該效果最多為安東回復5點能量。",
+                "Anton_Talent_01_Desc_02": "「醒了嗎？轉起來，兄弟！」\n「跟上節奏，現在是早操時間！」",
+                "Anton_Talent_01_Desc_01": "<color=#FFFFFF>[電鑽攻擊]</color>命中敵人時，能夠額外回復能量。同一招式內，該效果最多為安東回復5點能量。",
+                "Anton_Talent_01_Title_Realign": "暖身運動"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "氣勢如虹",
+                "Anton_Talent_02_Desc_01_Realign": "發動<color=#FFFFFF>[強化特殊技]</color>進入<color=#FFFFFF>[爆發狀態]</color>時：獲得等同於安東7.5%生命值上限的護盾。\n在<color=#FFFFFF>[爆發狀態]</color>下，進入接戰狀態或換入前場時：重置護盾效果，15秒內最多觸發一次。\n退出<color=#FFFFFF>[爆發狀態]</color>時：護盾效果結束。",
+                "Anton_Talent_02_Desc_02": "經過長期的艱苦訓練，有少部分幸運兒在進行高強度運動時，會爆發強大的氣勢，以超乎平常的水準發揮自身的能力，俗稱「領域」。\n現在，你準備好一起動起來，進入「領域」了嗎？\n——燃油飲獨家冠名節目，「早安，熱血上班族！」",
+                "Anton_Talent_02_Desc_01": "發動<color=#FFFFFF>[強化特殊技]</color>進入<color=#FFFFFF>[爆發狀態]</color>時：獲得等同於安東7.5%生命值上限的護盾。在<color=#FFFFFF>[爆發狀態]</color>下，進入接戰狀態或換入前場時：重置護盾效果，15秒內最多觸發一次。退出<color=#FFFFFF>[爆發狀態]</color>時：該護盾效果結束。",
+                "Anton_Talent_02_Title_Realign": "氣勢如虹"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "輪調培訓",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Anton_Talent_03_Desc_02": "什麼都會一點只能叫作平庸，但在情況複雜多變的空洞作業現場，多一個技能有時就意味著多一個突破困境的可能。",
+                "Anton_Talent_03_Title_Realign": "輪調培訓"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "一起燃燒！",
+                "Anton_Talent_04_Desc_01_Realign": "發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，全隊暴擊率提升10%，持續12秒。",
+                "Anton_Talent_04_Desc_02": "「想想平常訓練的感覺，一起動起來！」\n當安東開始認真時，所有人的動作都會跟著變得俐落起來。\n畢竟，如果跟不上他的節拍，明天的早操是要單獨加練的。",
+                "Anton_Talent_04_Desc_01": "發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，全隊暴擊率提升10%，持續12秒。",
+                "Anton_Talent_04_Title_Realign": "一起燃燒！"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "全端專家",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Anton_Talent_05_Desc_02": "什麼都會一點只能叫作平庸，但如果你足夠堅定，從「會一點」變成「很擅長」，那你就是全能！",
+                "Anton_Talent_05_Title_Realign": "全端專家"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "突破極限",
+                "Anton_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[打樁攻擊]</color>造成暴擊時，<color=#FFFFFF>[普通攻擊：熱血開工操（爆發狀態）]</color>和<color=#FFFFFF>[閃避反擊：超載鑽擊（爆發狀態）]</color>造成的傷害提升4%，最多疊加6層，持續30秒，重複觸發時重置持續時間。",
+                "Anton_Talent_06_Desc_02": "「哦，兄弟！你也想燃燒嗎！」\n每當安東想要突破極限時，\n「兄弟」便會爆發出驚人的轉速，以嗡鳴聲應和著他的意志。",
+                "Anton_Talent_06_Desc_01": "<color=#FFFFFF>[打樁攻擊]</color>造成暴擊時，<color=#FFFFFF>[普通攻擊：熱血開工操（爆發狀態）]</color>和<color=#FFFFFF>[閃避反擊：超載鑽擊（爆發狀態）]</color>造成的傷害提升4%，最多疊加6層，持續30秒，重複觸發時重置持續時間。",
+                "Anton_Talent_06_Title_Realign": "突破極限"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "本",
+        "full_name": "本·比格",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "反作用力",
+                "Ben_Talent_01_Desc_01_Realign": "發動<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>，成功格擋敵人的攻擊時，\n攻擊者造成的傷害降低30%，持續15秒。",
+                "Ben_Talent_01_Desc_02": "「力的作用是相互的，為什麼還要正面撞過來？」\n「看來你沒有好好計算過。」",
+                "Ben_Talent_01_Desc_01": "發動<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>，成功格擋敵人的攻擊時，攻擊者造成的傷害降低30%，持續15秒。",
+                "Ben_Talent_01_Title_Realign": "反作用力"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "以守為攻",
+                "Ben_Talent_02_Desc_01_Realign": "在<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>中，成功觸發格擋反擊時，額外造成本300%防禦力的傷害。",
+                "Ben_Talent_02_Desc_02": "不像其他熊希人，戰鬥時的本非常有耐心。因為他相信，只要做好防護，一定能等到敵人露出破綻的時刻。",
+                "Ben_Talent_02_Desc_01": "在<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>中，成功觸發格擋反擊時，額外造成本300%防禦力的傷害。",
+                "Ben_Talent_02_Title_Realign": "以守為攻"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "精打細算",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Ben_Talent_03_Desc_02": "擔當財務負責人必須學會精打細算，用一切可用的資源強化大家和自己。",
+                "Ben_Talent_03_Title_Realign": "精打細算"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "靈活應變",
+                "Ben_Talent_04_Desc_01_Realign": "在<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>中，透過無敵效果成功格擋攻擊時，後繼反擊造成的傷害提升30%。",
+                "Ben_Talent_04_Desc_02": "出於會計的職業本能，\n本總是會根據形式，動態調整自己的對策。\n無論是帳目還是對敵，務必以最小成本達到最佳效果。",
+                "Ben_Talent_04_Desc_01": "在<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>中，透過無敵效果成功格擋攻擊時，後繼反擊造成的傷害提升30%。",
+                "Ben_Talent_04_Title_Realign": "靈活應變"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "巨細靡遺",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Ben_Talent_05_Desc_02": "本敏銳的眼光不會放棄任何報表上的錯誤，同樣也不會放過自己戰鬥方式上的失誤，在糾正錯誤中逐漸變強。",
+                "Ben_Talent_05_Title_Realign": "巨細靡遺"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "野性鬥志",
+                "Ben_Talent_06_Desc_01_Realign": "在<color=#FFFFFF>[強化特殊技]</color>中發動攻擊或追加強力打擊後，\n<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[衝刺攻擊]</color>、<color=#FFFFFF>[閃避反擊]</color>造成的失衡值提升20%，持續12秒。",
+                "Ben_Talent_06_Desc_02": "熊希人與犬希人不同，\n食物不能安撫他們躁動的情緒。\n當他們發脾氣時，你唯一能做的就是跑快一點，跑遠一點……\n——已下架書籍《做個好鄰居！與希人相處的100個小訣竅》",
+                "Ben_Talent_06_Desc_01": "在<color=#FFFFFF>[強化特殊技]</color>中發動攻擊或追加強力打擊後，<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[衝刺攻擊]</color>、<color=#FFFFFF>[閃避反擊]</color>造成的失衡值提升20%，持續12秒。",
+                "Ben_Talent_06_Title_Realign": "野性鬥志"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "格莉絲",
+        "full_name": "格莉絲·霍華德",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "再充能彈膛",
+                "Lisa_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[普通攻擊]</color>第四段每次命中敵人時，全隊回復0.25點能量。\n同一招式內，該效果最多為全隊回復2點能量。",
+                "Lisa_Talent_01_Desc_02": "效率是工程學的生命。在格莉絲的槍膛裡，迴響著工程學的心跳聲。",
+                "Lisa_Talent_01_Desc_01": "<color=#FFFFFF>[普通攻擊]</color>第四段每次命中敵人時，全隊回復0.25點能量。\n同一招式內，該效果最多為全隊回復2點能量。",
+                "Lisa_Talent_01_Title_Realign": "再充能彈膛"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "電致擊穿",
+                "Lisa_Talent_02_Desc_01_Realign": "在<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[強化特殊技]</color>等招式中投擲手榴彈命中敵人時，\n目標的<color=#2EB6FF>電屬性傷害抗性</color>降低8.5%，<color=#2EB6FF>電屬性異常積蓄抗性</color>降低8.5%，持續8秒。",
+                "Lisa_Talent_02_Desc_02": "「解剖」複雜的機械結構是格莉絲最大的愛好，即使在是在戰鬥之中。\n被解剖者會作何感想呢？當它們每一方寸的破綻都如此赤裸。",
+                "Lisa_Talent_02_Desc_01": "在<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[強化特殊技]</color>等招式中投擲手榴彈命中敵人時，目標的<color=#2EB6FF>電屬性傷害抗性</color>降低8.5%，<color=#2EB6FF>電屬性異常積蓄抗性</color>降低8.5%，持續8秒。",
+                "Lisa_Talent_02_Title_Realign": "電致擊穿"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "首席機械師",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Lisa_Talent_03_Desc_02": "格莉絲親自參與編寫了《白祇重工安全施工指南》，\n並且成為了違反「禁止在施工場地攜帶危險爆炸物」條例次數最多的員工。",
+                "Lisa_Talent_03_Title_Realign": "首席機械師"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "爆破電容",
+                "Lisa_Talent_04_Desc_01_Realign": "發動<color=#FFFFFF>[強化特殊技]</color>時，格莉絲獲得6層充能（上限6層）。\n<color=#FFFFFF>[普通攻擊]</color>或<color=#FFFFFF>[衝刺攻擊]</color>命中敵人時，消耗1層充能，使目前招式的能量獲得效率提升20%。",
+                "Lisa_Talent_04_Desc_02": "安東懷疑，在被格莉絲稱為「電脈衝回收模組」的元件裡，其實有一隻以太倉鼠在不分晝夜地鼠力發電。\n「能在我兄弟上也弄一個嗎？」",
+                "Lisa_Talent_04_Desc_01": "發動<color=#FFFFFF>[強化特殊技]</color>時，格莉絲獲得6層充能（上限6層）。<color=#FFFFFF>[普通攻擊]</color>或<color=#FFFFFF>[衝刺攻擊]</color>命中敵人時，消耗1層充能，使目前招式的能量獲得效率提升20%。",
+                "Lisa_Talent_04_Title_Realign": "爆破電容"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "「冰冷鐵魔女」",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Lisa_Talent_05_Desc_02": "「冰冷鐵魔女」能夠馴服任何機械造物，至少取這個名字的匿名粉絲是這麼認為的。",
+                "Lisa_Talent_05_Title_Realign": "「冰冷鐵魔女」"
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "起爆扳機",
+                "Lisa_Talent_06_Desc_01_Realign": "消耗所有<color=#FFFFFF>[電能]</color>發動<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>時，能夠強化招式效果，\n額外投擲一顆手榴彈，並使每顆手榴彈造成的傷害提升至原本的200%。",
+                "Lisa_Talent_06_Desc_02": "白祇重工旗下員工的平均血液溫度是九十八攝氏度，格莉絲總是被當作沸騰前的降溫閥。\n當格莉絲放棄了克制，大家就知道，是時候把耳朵捂上了。",
+                "Lisa_Talent_06_Desc_01": "消耗所有<color=#FFFFFF>[電能]</color>發動<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[強化特殊技]</color>時，能夠強化招式效果，額外投擲一顆手榴彈，並使每顆手榴彈造成的傷害提升至原本的200%。",
+                "Lisa_Talent_06_Title_Realign": "起爆扳機"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "可琳",
+        "full_name": "可琳·威克斯",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "開放性創傷",
+                "Corin_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，可琳對目標造成的傷害提升12%，持續15秒。",
+                "Corin_Talent_01_Desc_02": "「大小姐說，做事情的時候一定要專注，不能被周圍影響。」\n「可琳練習了很久，終於可以做到了！」\n「可是……你看到了嗎，大小姐……」",
+                "Corin_Talent_01_Desc_01": "<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，可琳對目標造成的傷害提升12%，持續15秒。",
+                "Corin_Talent_01_Title_Realign": "開放性創傷"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "裂解效應",
+                "Corin_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，目標的<color=#F0D12B>物理傷害抗性</color>下降0.5%，\n最多疊加20層，持續5秒，每層效果持續時間單獨計算。",
+                "Corin_Talent_02_Desc_02": "「對不起，以骸先生或者以骸女士！」\n「但是可琳需要完成自己的任務……真的很抱歉！」\n少女真誠而愧疚地對著面前的怪物道歉——\n一邊揮動著手上的電鋸，將面前的敵人們盡數消滅。",
+                "Corin_Talent_02_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，目標的<color=#F0D12B>物理傷害抗性</color>下降0.5%，最多疊加20層，持續5秒，每層效果持續時間單獨計算。",
+                "Corin_Talent_02_Title_Realign": "裂解效應"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "初級女僕",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Corin_Talent_03_Desc_02": "「為、為了成為能獨當一面的女僕，可琳會加油努力的！」\n——可琳手持電鋸，一邊走向以骸一邊說道",
+                "Corin_Talent_03_Title_Realign": "初級女僕"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "戰場隨侍",
+                "Corin_Talent_04_Desc_01_Realign": "發動<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[連攜技]</color>時，可琳回復7.2點能量，16秒內最多觸發一次。",
+                "Corin_Talent_04_Desc_02": "勤懇認真的女僕小姐，對待任何事情都是一心一意的。\n當然，也包括在戰場上面對敵人的時候。",
+                "Corin_Talent_04_Desc_01": "發動<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[連攜技]</color>時，可琳回復7.2點能量，16秒內最多觸發一次。",
+                "Corin_Talent_04_Title_Realign": "戰場隨侍"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "特勤女僕",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Corin_Talent_05_Desc_02": "「唔……對、對不起，可琳笨手笨腳的，沒辦法把東西切得很均勻……」\n——看著腳下遍布的以骸殘塊，可琳沮喪地說道",
+                "Corin_Talent_05_Title_Realign": "特勤女僕"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "厚積薄發",
+                "Corin_Talent_06_Desc_01_Realign": "持續斬擊命中敵人時，可琳獲得1層充能（最多40層）。\n在<color=#FFFFFF>[閃避反擊]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[支援突擊]</color>中，引爆電鋸命中敵人時，\n消耗所有充能，每層充能使本次攻擊額外造成可琳3%攻擊力的傷害。",
+                "Corin_Talent_06_Desc_02": "可琳知道，自己並不是最厲害的女僕，也不是最聰明的女僕。\n但她希望能成為最努力的女僕。\n過去累積的每一份努力，都有存在的意義。",
+                "Corin_Talent_06_Desc_01": "持續斬擊命中敵人時，可琳獲得1層充能（最多40層）。在<color=#FFFFFF>[閃避反擊]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[支援突擊]</color>中，引爆電鋸命中敵人時，消耗所有充能，每層充能使本次攻擊額外造成可琳3%攻擊力的傷害。",
+                "Corin_Talent_06_Title_Realign": "厚積薄發"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "萊卡恩",
+        "full_name": "馮·萊卡恩",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "滿月蓄勢",
+                "Lycaon_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>命中敵人時，招式造成的失衡值提升12%，8秒內最多觸發一次。\n在<color=#FFFFFF>[強化特殊技]</color>中完成蓄力時，該增益效果額外提升10%。",
+                "Lycaon_Talent_01_Desc_02": "據記載，當狼人身處月夜的時候，其攻擊性將有顯著提升。\n「不要直視月亮。」",
+                "Lycaon_Talent_01_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>命中敵人時，招式造成的失衡值提升12%，8秒內最多觸發一次。在<color=#FFFFFF>[強化特殊技]</color>中完成蓄力時，該增益效果額外提升10%。",
+                "Lycaon_Talent_01_Title_Realign": "滿月蓄勢"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "能量回饋",
+                "Lycaon_Talent_02_Desc_01_Realign": "使敵人失衡或觸發隊友的<color=#FFFFFF>[連攜技]</color>時，萊卡恩回復5點能量，1秒內最多觸發一次。",
+                "Lycaon_Talent_02_Desc_02": "「對於犬科動物來說，當他們完成某些較難的任務後，大腦所產生的興奮感會短暫地提升他們的精神能量。」\n「這時作為主人的你若是可以摸摸他們的頭以示鼓勵，他們將為此感到非常開心……」\n——摘自《犬科動物不可靠研究手冊》",
+                "Lycaon_Talent_02_Desc_01": "使敵人失衡或觸發隊友的<color=#FFFFFF>[連攜技]</color>時，萊卡恩回復5點能量，1秒內最多觸發一次。",
+                "Lycaon_Talent_02_Title_Realign": "能量回饋"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "執事教養",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Lycaon_Talent_03_Desc_02": "他的舉手投足總是充滿從容，他的言談舉止讓人如沐春風。執事的教養就是讓一切都在掌握中。",
+                "Lycaon_Talent_03_Title_Realign": "執事教養"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "保持風度",
+                "Lycaon_Talent_04_Desc_01_Realign": "在<color=#FFFFFF>[普通攻擊]</color>或<color=#FFFFFF>[特殊技]</color>的發動期間受到敵方攻擊時，萊卡恩立刻獲得等同於自身7.5%生命值上限的護盾，持續15秒，護盾持續期間抗打斷等級提升，15秒內最多觸發一次。",
+                "Lycaon_Talent_04_Desc_02": "「優秀的執事，在任何情況下都能保持風度。」",
+                "Lycaon_Talent_04_Desc_01": "在<color=#FFFFFF>[普通攻擊]</color>或<color=#FFFFFF>[特殊技]</color>的發動期間受到敵方攻擊時，\n萊卡恩立刻獲得等同於自身7.5%生命值上限的護盾，持續15秒，\n護盾持續期間抗打斷等級提升，15秒內最多觸發一次。",
+                "Lycaon_Talent_04_Title_Realign": "保持風度"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "頭狼本色",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Lycaon_Talent_05_Desc_02": "他的眼神暗藏野性，他的喉間滾動嚎音。不論現在的他如何優雅，禮服下的他依然兇猛。",
+                "Lycaon_Talent_05_Title_Realign": "頭狼本色"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "冷酷獵手",
+                "Lycaon_Talent_06_Desc_01_Realign": "蓄力攻擊命中敵人時，萊卡恩對目標造成的傷害提升10%，最多疊加5層，持續12秒。\n同一招式內最多疊加1層效果，重複觸發時重置持續時間。",
+                "Lycaon_Talent_06_Desc_02": "「抱歉，即使如此，我也是不會手下留情的。」\n「畢竟，空洞可不是什麼需要公平對決的地方。」",
+                "Lycaon_Talent_06_Desc_01": "蓄力攻擊命中敵人時，萊卡恩對目標造成的傷害提升10%，最多疊加5層，持續12秒。同一招式內最多疊加1層效果，重複觸發時重置持續時間。",
+                "Lycaon_Talent_06_Title_Realign": "冷酷獵手"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "艾蓮",
+        "full_name": "艾蓮·喬",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "凜冬前兆",
+                "Ellen_Talent_01_Desc_01_Realign": "在<color=#FFFFFF>[衝刺攻擊：冰淵潛襲]</color>中發動快速剪擊命中敵人時，獲得的<color=#FFFFFF>[急凍充能]</color>提升至3點。\n在<color=#FFFFFF>[衝刺攻擊：冰淵潛襲]</color>中發動蓄力剪擊命中敵人時，獲得的<color=#FFFFFF>[急凍充能]</color>提升至6點。\n每消耗1點<color=#FFFFFF>[急凍充能]</color>，艾蓮的暴擊率提升2%，持續15秒，最多疊加6層，每層效果單獨結算持續時間。",
+                "Ellen_Talent_01_Desc_02": "寒風是凜冬的前兆，也是艾蓮請長假冬眠的訊號。\n話說回來，鯊魚真的需要冬眠嗎？",
+                "Ellen_Talent_01_Desc_01": "在<color=#FFFFFF>[衝刺攻擊：冰淵潛襲]</color>中發動快速剪擊命中敵人時，獲得的<color=#FFFFFF>[急凍充能]</color>提升至3點。在<color=#FFFFFF>[衝刺攻擊：冰淵潛襲]</color>中發動蓄力剪擊命中敵人時，獲得的<color=#FFFFFF>[急凍充能]</color>提升至6點。每消耗1點<color=#FFFFFF>[急凍充能]</color>，艾蓮的暴擊率提升2%，持續15秒，最多疊加6層，每層效果單獨結算持續時間。",
+                "Ellen_Talent_01_Title_Realign": "凜冬前兆"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "冰洋掠食者",
+                "Ellen_Talent_02_Desc_01_Realign": "發動第三段<color=#FFFFFF>[普通攻擊：急凍修剪法]</color>後，可以直接銜接發動<color=#FFFFFF>[強化特殊技：鯊捲風]</color>。\n發動<color=#FFFFFF>[強化特殊技]</color>時，每擁有1點<color=#FFFFFF>[急凍充能]</color>，\n目前招式造成的暴擊傷害提升20%，最多提升60%。",
+                "Ellen_Talent_02_Desc_02": "雖然沾染鮮紅，艾蓮所持的巨剪卻並無半分溫熱。\n徹骨的寒意來自鐵鑄的兇器，也來自面對捕食者的恐慌。",
+                "Ellen_Talent_02_Desc_01": "發動第三段<color=#FFFFFF>[普通攻擊：急凍修剪法]</color>後，可以直接銜接發動<color=#FFFFFF>[強化特殊技：鯊捲風]</color>。發動<color=#FFFFFF>[強化特殊技]</color>時，每擁有1點<color=#FFFFFF>[急凍充能]</color>，目前招式造成的暴擊傷害提升20%，最多提升60%。",
+                "Ellen_Talent_02_Title_Realign": "冰洋掠食者"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "永不加班",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Ellen_Talent_03_Desc_02": "「效率」的意義就是今天可以早點回家睡覺。\n所以要更快地斬擊，更用力地出刀。",
+                "Ellen_Talent_03_Title_Realign": "永不加班"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "無休寒潮",
+                "Ellen_Talent_04_Desc_01_Realign": "隊伍中任意角色對敵人施加<color=#98EFF0>[凍結]</color>效果或使敵人失衡時，\n自身獲得6點<color=#FFFFFF>[急凍充能]</color>和<color=#FFFFFF>[快蓄]</color>效果，並回復4點能量，能量回復效果10秒內最多觸發一次。",
+                "Ellen_Talent_04_Desc_02": "凌冽的攻勢不曾止休，\n可怖的造物們得以在艾蓮的刀下領受冬的美與殘酷。\n不過相比起來，還是作為女僕節假日無休的工作更加殘酷……",
+                "Ellen_Talent_04_Desc_01": "隊伍中任意角色對敵人施加<color=#98EFF0>[凍結]</color>效果或使敵人失衡時，自身獲得6點<color=#FFFFFF>[急凍充能]</color>和<color=#FFFFFF>[快蓄]</color>效果，並回復4點能量，能量回復效果10秒內最多觸發一次。",
+                "Ellen_Talent_04_Title_Realign": "無休寒潮"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "睡眠充足",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Ellen_Talent_05_Desc_02": "除非是最艱難的戰鬥中，艾蓮永遠都是一副「如果不是在工作我立刻深度睡眠」的樣子。\n因此掉以輕心而完蛋的敵人不在少數。",
+                "Ellen_Talent_05_Title_Realign": "睡眠充足"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "盛宴時分",
+                "Ellen_Talent_06_Desc_01_Realign": "發動<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或獲得<color=#FFFFFF>[快蓄]</color>時，\n艾蓮的穿透率提升20%，持續6秒，同時獲得1層<color=#FFFFFF>[盛宴]</color>，<color=#FFFFFF>[盛宴]</color>最多疊加3層。\n擁有3層<color=#FFFFFF>[盛宴]</color>後，在<color=#FFFFFF>[衝刺攻擊：冰淵潛襲]</color>中發動蓄力剪擊命中敵人時，消耗所有<color=#FFFFFF>[盛宴]</color>，使目前招式造成的傷害提升250%。",
+                "Ellen_Talent_06_Desc_02": "一道傷口，一滴血。一次狩獵，一場盛宴。一紙薄命，一刻滿足。",
+                "Ellen_Talent_06_Desc_01": "發動<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或獲得<color=#FFFFFF>[快蓄]</color>時，艾蓮的穿透率提升20%，持續6秒，同時獲得1層<color=#FFFFFF>[盛宴]</color>，<color=#FFFFFF>[盛宴]</color>最多疊加3層；擁有3層<color=#FFFFFF>[盛宴]</color>後，在<color=#FFFFFF>[衝刺攻擊：冰淵潛襲]</color>中發動蓄力剪擊命中敵人時，消耗所有<color=#FFFFFF>[盛宴]</color>，使目前招式造成的傷害提升250%。",
+                "Ellen_Talent_06_Title_Realign": "盛宴時分"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "麗娜",
+        "full_name": "亞歷山德麗娜·莎芭絲緹安",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "雙人領舞",
+                "Rina_Talent_01_Desc_01_Realign": "被指派並發動攻擊後，返回麗娜身邊前，杜蘇拉和安娜塔莎會在原處額外逗留5.5秒。\n在杜蘇拉或安娜塔莎附近10公尺範圍內的角色，從<color=#FFFFFF>[核心被動：迷你毀滅拍檔]</color>中獲得的增益效果提升至原本的130%。",
+                "Rina_Talent_01_Desc_02": "「做不完工作就要挨揍！」杜蘇拉總是這樣鼓勵大家。\n「挨揍挨揍！」安娜塔莎總是如此附和。",
+                "Rina_Talent_01_Desc_01": "被指派並發動攻擊後，返回麗娜身邊前，杜蘇拉和安娜塔莎會在原處額外逗留5.5秒。在杜蘇拉或安娜塔莎附近10公尺範圍內的角色，從<color=#FFFFFF>[核心被動：迷你毀滅拍檔]</color>中獲得的增益效果提升至原本的130%。",
+                "Rina_Talent_01_Title_Realign": "雙人領舞"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "主人的典範",
+                "Rina_Talent_02_Desc_01_Realign": "進入接戰狀態或換入前場時，麗娜造成的傷害提升15%，持續12秒，18秒內最多觸發一次。",
+                "Rina_Talent_02_Desc_02": "「只有卓越的女僕長能夠帶領卓越的女僕，\n只有模範的主人能夠培養模範的邦布。」\n——麗娜在「維多利亞居家服務人力資源管理暨邦布培養心得分享講座」上的發言",
+                "Rina_Talent_02_Desc_01": "進入接戰狀態或換入前場時，麗娜造成的傷害提升15%，持續12秒，18秒內最多觸發一次。",
+                "Rina_Talent_02_Title_Realign": "主人的典範"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "女僕長的專長",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Rina_Talent_03_Desc_02": "麗娜總是有做好任何事的自信和毀滅任何事的本領。\n不過，在毀滅敵人的好心情這件事上，她的信心和能力得到了統一。",
+                "Rina_Talent_03_Title_Realign": "女僕長的專長"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "針與錘",
+                "Rina_Talent_04_Desc_01_Realign": "杜蘇拉和安娜塔莎均被指派在外時，麗娜的能量自動回復速度提升0.5點/秒。\n杜蘇拉或安娜塔莎返回麗娜身邊時，對應增益效果結束。",
+                "Rina_Talent_04_Desc_02": "杜蘇拉和安娜塔莎從未達成任何一致的意見，\n「毆打前面那個傻瓜」是一個例外。",
+                "Rina_Talent_04_Desc_01": "杜蘇拉和安娜塔莎均被指派在外時，麗娜的能量自動回復速度提升0.5點/秒。杜蘇拉或安娜塔莎返回麗娜身邊時，對應增益效果結束。",
+                "Rina_Talent_04_Title_Realign": "針與錘"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "完美主義女僕長",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Rina_Talent_05_Desc_02": "「『麗娜』在邦布的語言裡是完美的意思。」\n完美主義是維多利亞居家服務員工手冊的第一準則。\n而對於「完美」的判斷，麗娜自有標準。",
+                "Rina_Talent_05_Title_Realign": "完美主義女僕長"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "雷雨夜驚魂",
+                "Rina_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，全隊造成的<color=#2EB6FF>電屬性傷害</color>提升15%，持續8秒。",
+                "Rina_Talent_06_Desc_02": "雨夜的古堡，雷聲隆隆。長廊的深處，詭影憧憧。\n恐懼電路超載，驚悚電影開拍。",
+                "Rina_Talent_06_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，全隊造成的<color=#2EB6FF>電屬性傷害</color>提升15%，持續8秒。",
+                "Rina_Talent_06_Title_Realign": "雷雨夜驚魂"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "「11號」",
+        "full_name": "「11號」",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "快速升溫",
+                "Longinus_Talent_01_Desc_01_Realign": "進入接戰狀態或換入前場時，若「11號」的能量不足40點，\n則立即回復至80點，50秒內最多觸發一次。",
+                "Longinus_Talent_01_Desc_02": "長期的高強度實戰訓練讓「11號」掌握了控制調整自身狀態的技術。\n她會竭盡全力，保證以最好的狀態迎接每一場戰鬥。",
+                "Longinus_Talent_01_Desc_01": "進入接戰狀態或換入前場時，若「11號」的能量不足40點，則立即回復至80點，50秒內最多觸發一次。",
+                "Longinus_Talent_01_Title_Realign": "快速升溫"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "高溫匯聚",
+                "Longinus_Talent_02_Desc_01_Realign": "觸發<color=#FFFFFF>[火力鎮壓]</color>時，<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[衝刺攻擊]</color>、<color=#FFFFFF>[閃避反擊]</color>造成的傷害提升3%，\n最多疊加12層，持續15秒，每層效果單獨結算持續時間。",
+                "Longinus_Talent_02_Desc_02": "「雖然她看起來又冷又硬，像是一塊大冰塊……」\n「實際上內心卻是滾燙不已，就像有火在燃燒。」\n——來自黑曜石營內一位匿名的軍人",
+                "Longinus_Talent_02_Desc_01": "觸發<color=#FFFFFF>[火力鎮壓]</color>時，<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[衝刺攻擊]</color>、<color=#FFFFFF>[閃避反擊]</color>造成的傷害提升3%，最多疊加12層，持續15秒，每層效果單獨結算持續時間。",
+                "Longinus_Talent_02_Title_Realign": "高溫匯聚"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "精銳士兵",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Longinus_Talent_03_Desc_02": "不論是訓練還是實戰，「11號」從來都是以最高標準要求自己，故而能一直擁有高標準的戰鬥力。",
+                "Longinus_Talent_03_Title_Realign": "精銳士兵"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "縱情燃燒",
+                "Longinus_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[普通攻擊]</color>第一、二、三段或<color=#FFFFFF>[衝刺攻擊]</color>發動時，若觸發<color=#FFFFFF>[火力鎮壓]</color>，\n則在招式發動期間抗打斷等級提升，受到的傷害降低18%。\n<color=#FFFFFF>[普通攻擊]</color>第四段發動時，若觸發<color=#FFFFFF>[火力鎮壓]</color>，\n則在招式發動期間獲得無敵效果。",
+                "Longinus_Talent_04_Desc_02": "她很羡慕火焰。\n而這些盡情燃燒著的火焰，也總會幫助她。",
+                "Longinus_Talent_04_Desc_01": "<color=#FFFFFF>[普通攻擊]</color>第一、二、三段或<color=#FFFFFF>[衝刺攻擊]</color>發動時，若觸發<color=#FFFFFF>[火力鎮壓]</color>，則在招式發動期間抗打斷等級提升，受到的傷害降低18%。<color=#FFFFFF>[普通攻擊]</color>第四段發動時，若觸發<color=#FFFFFF>[火力鎮壓]</color>，則在招式發動期間獲得無敵效果。",
+                "Longinus_Talent_04_Title_Realign": "縱情燃燒"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "完美士兵",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Longinus_Talent_05_Desc_02": "從精銳到楷模是一次漫長的跨越，但「11號」依然咬牙堅持著，似乎暗中有些什麼理由一直鞭策她向完美士兵這一目標努力……",
+                "Longinus_Talent_05_Title_Realign": "完美士兵"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "熾熱心流",
+                "Longinus_Talent_06_Desc_01_Realign": "發動<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，「11號」獲得8層充能（上限8層）。\n觸發<color=#FFFFFF>[火力鎮壓]</color>時，消耗1層充能，使目前招式無視目標25%<color=#FF5521>火屬性傷害抗性</color>。",
+                "Longinus_Talent_06_Desc_02": "劍刃的火焰撩起熱浪，銀髮少女的戰鬥越來越熱烈，那份熱度彷佛順著呼吸滲入了精神，連思考也變得熾熱起來。",
+                "Longinus_Talent_06_Desc_01": "發動<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，「11號」獲得8層充能（上限8層）。觸發<color=#FFFFFF>[火力鎮壓]</color>時，消耗1層充能，使目前招式無視目標25%<color=#FF5521>火屬性傷害抗性</color>。",
+                "Longinus_Talent_06_Title_Realign": "熾熱心流"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "朱鳶",
+        "full_name": "朱鳶",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "快速裝填",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "朱鳶發動<color=#FFFFFF>[連攜技]</color>/<color=#FFFFFF>[終結技]</color>時，將獲得<color=#FFFFFF>[快速裝填]</color>效果。\n當朱鳶擁有<color=#FFFFFF>[快速裝填]</color>效果時，耗盡所有<color=#FFFFFF>[強化霰彈]</color>後，\n將消耗<color=#FFFFFF>[快速裝填]</color>效果，立刻獲得6/9枚<color=#FFFFFF>[強化霰彈]</color>。",
+                "ZhuYuan_Talent_01_Desc_02": "朱鳶曾經參加過雅努斯區治安官能力比拼大賽，並憑藉著魔術般的裝填技巧拔得頭籌。\n同事對此評價道：無他，惟手熟爾。",
+                "ZhuYuan_Talent_01_Desc_01": "朱鳶發動<color=#FFFFFF>[連攜技]</color>/<color=#FFFFFF>[終結技]</color>時，將獲得<color=#FFFFFF>[快速裝填]</color>效果。當朱鳶擁有<color=#FFFFFF>[快速裝填]</color>效果時，耗盡所有<color=#FFFFFF>[強化霰彈]</color>後，將消耗<color=#FFFFFF>[快速裝填]</color>效果，立刻獲得6/9枚<color=#FFFFFF>[強化霰彈]</color>。",
+                "ZhuYuan_Talent_01_Title_Realign": "快速裝填"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "以太餘燼",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[壓制模式]</color>下，朱鳶的抗打斷等級提升，受傷害降低10%。\n消耗<color=#FFFFFF>[強化霰彈]</color>攻擊命中敵人時，<color=#FFFFFF>[普通攻擊：請勿抵抗]</color>與<color=#FFFFFF>[衝刺攻擊：火力壓制]</color>造成的<color=#FE437E>以太傷害</color>提升10%，最多疊加5層，持續5秒。\n每次開火最多獲得一層效果，重複觸發時重置持續時間。",
+                "ZhuYuan_Talent_02_Desc_02": "朱鳶裝配有治安局特製的以太子彈，一旦擊中敵人，則會對其造成不可逆的侵蝕傷害。\n所以，朱鳶在開槍前會喊話讓敵方乖乖投降、放棄抵抗，真的是為了對方的安全著想……",
+                "ZhuYuan_Talent_02_Desc_01": "<color=#FFFFFF>[壓制模式]</color>下，朱鳶的抗打斷等級提升，受傷害降低10%。消耗<color=#FFFFFF>[強化霰彈]</color>攻擊命中敵人時，<color=#FFFFFF>[普通攻擊：請勿抵抗]</color>與<color=#FFFFFF>[衝刺攻擊：火力壓制]</color>造成的<color=#FE437E>以太傷害</color>提升10%，最多疊加5層，持續5秒，每次開火最多獲得一層效果，重複觸發時重置持續時間。",
+                "ZhuYuan_Talent_02_Title_Realign": "以太餘燼"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "治安官特訓",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "ZhuYuan_Talent_03_Desc_02": "作為菁英治安官，朱鳶接受的訓練只有一個目的：全面提升空洞內各項作戰能力，碾壓一切不法之徒。",
+                "ZhuYuan_Talent_03_Title_Realign": "治安官特訓"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "以太侵徹",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "朱鳶消耗<color=#FFFFFF>[強化霰彈]</color>攻擊命中敵人時，\n<color=#FFFFFF>[普通攻擊：請勿抵抗]</color>與<color=#FFFFFF>[衝刺攻擊：火力壓制]</color>無視目標25%<color=#FE437E>以太傷害抗性</color>。",
+                "ZhuYuan_Talent_04_Desc_02": "在交戰的時候，空洞的匪幫們喜歡暗中計算對方還剩多少子彈。\n但他們絕對想不到，朱鳶配備的特製彈匣，能夠利用周圍的以太為自己持續供電……",
+                "ZhuYuan_Talent_04_Desc_01": "朱鳶消耗<color=#FFFFFF>[強化霰彈]</color>攻擊命中敵人時，<color=#FFFFFF>[普通攻擊：請勿抵抗]</color>與<color=#FFFFFF>[衝刺攻擊：火力壓制]</color>無視目標25%<color=#FE437E>以太傷害抗性</color>。",
+                "ZhuYuan_Talent_04_Title_Realign": "以太侵徹"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "特勤經驗",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "ZhuYuan_Talent_05_Desc_02": "老練的特勤組治安官，更能懂得審時度勢，高效發揮作戰能力。\n有時候甚至只需要一個充滿震懾力的眼神，就能讓敵人打消抵抗的念頭。",
+                "ZhuYuan_Talent_05_Title_Realign": "特勤經驗"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "擴容能源包-叄型",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "朱鳶累計消耗12枚<color=#FFFFFF>[強化霰彈]</color>時，將獲得<color=#FFFFFF>[以太餘溫]</color>效果，下次發動的<color=#FFFFFF>[強化特殊技]</color>能量消耗降低30點。\n發動<color=#FFFFFF>[強化特殊技]</color>時，將消耗<color=#FFFFFF>[以太餘溫]</color>效果，額外發射總計4枚以太鹿彈，每枚額外發射的以太鹿彈造成朱鳶攻擊力220%的傷害。",
+                "ZhuYuan_Talent_06_Desc_02": "朱鳶會經常在意自身裝備的剩餘電量，在電量下降至紅色區域時感到緊張，並刻意節省電量。直到治安局為其配備了超大容量持續續航的能源包，才徹底解決了這個煩惱。",
+                "ZhuYuan_Talent_06_Desc_01": "朱鳶累計消耗12枚<color=#FFFFFF>[強化霰彈]</color>時，將獲得<color=#FFFFFF>[以太餘溫]</color>效果，並使下次發動的<color=#FFFFFF>[強化特殊技]</color>能量消耗降低30點。發動<color=#FFFFFF>[強化特殊技]</color>時，將消耗<color=#FFFFFF>[以太餘溫]</color>效果，額外發射總計4枚以太鹿彈，每枚額外發射的以太鹿彈將造成朱鳶220%攻擊力的傷害。",
+                "ZhuYuan_Talent_06_Title_Realign": "擴容能源包-叄型"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "青衣",
+        "full_name": "青衣",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "介電擊穿",
+                "QingYi_Talent_01_Desc_01_Realign": "青衣進入戰場時，立即使<color=#FFFFFF>[閃絡電壓]</color>回復至上限，並使其後繼累積效率提升30%。\n發動<color=#FFFFFF>[普通攻擊：醉花月雲轉]</color>時，若<color=#FFFFFF>[閃絡電壓]</color>已累積至上限，\n則使本次招式命中的敵人防禦力降低15%，且自身對該目標的暴擊率提升20%，持續15秒。",
+                "QingYi_Talent_01_Desc_02": "「雖然不會有生命危險，不過還請不要拒捕……」\n電流的方向和強度都經過精密的計算，保證每位嫌疑犯都能獲得安全的電擊體驗。",
+                "QingYi_Talent_01_Desc_01": "青衣進入戰場時，立即使<color=#FFFFFF>[閃絡電壓]</color>回復至上限，並使其後繼累積效率提升30%。發動<color=#FFFFFF>[普通攻擊：醉花月雲轉]</color>時，若<color=#FFFFFF>[閃絡電壓]</color>已累積至上限，則使本次招式命中的敵人防禦力降低15%，且自身對該目標的暴擊率提升20%，持續15秒。",
+                "QingYi_Talent_01_Title_Realign": "介電擊穿"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "四兩撥千斤",
+                "QingYi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[核心被動：千秋歲]</color>中每層<color=#FFFFFF>[羈服]</color>提供的失衡易傷倍率提升效果提升至原本的135%。\n青衣攻擊命中敵人時，若對其施加的<color=#FFFFFF>[羈服]</color>已疊加至層數上限，\n則自身對其造成的失衡值提升15%。",
+                "QingYi_Talent_02_Desc_02": "舊文明典籍中記載的一種搏擊技術，起初似乎是一種拳術而非棍術的技巧。\n「不必拘泥，其實手臂也是一種三節棍，嗯。」",
+                "QingYi_Talent_02_Desc_01": "<color=#FFFFFF>[核心被動：千秋歲]</color>中每層<color=#FFFFFF>[羈服]</color>提供的失衡易傷倍率提升效果提升至原本的135%；青衣攻擊命中敵人時，若對其施加的<color=#FFFFFF>[羈服]</color>已疊加至層數上限，則自身對其造成的失衡值提升15%。",
+                "QingYi_Talent_02_Title_Realign": "四兩撥千斤"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "多喝熱水",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "QingYi_Talent_03_Desc_02": "「年輕人要注意養生，還是多喝熱水吧。」\n每次青衣捧著保溫杯啜飲的時候，都給人以非常溫暖的感受。但接過她遞上的熱水時一定要小心——\n「就算是100度的開水前輩也能不動聲色地喝下……」某位中過招的治安官留下了這樣的紀錄。",
+                "QingYi_Talent_03_Title_Realign": "多喝熱水"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "穩態電弧屏障",
+                "QingYi_Talent_04_Desc_01_Realign": "進入或退出<color=#FFFFFF>[閃絡]</color>狀態時，獲得等同於青衣10%生命值上限的護盾。\n護盾效果更新時，如果上一次獲得的護盾仍然存在，則為青衣回復5點能量，\n能量回復效果10秒內最多觸發一次。",
+                "QingYi_Talent_04_Desc_02": "懷斯塔學會逆向研究舊文明的鈺偶而開發出的電弧屏障，是集防禦、攻擊、電能轉換於一體的技術。\n「俗話說：水能載舟，亦能覆舟。物理學俗話又說：電流如水流。並聯得到：電流進可攻退可守。真是相當好的結合。」",
+                "QingYi_Talent_04_Desc_01": "進入或退出<color=#FFFFFF>[閃絡]</color>狀態時，獲得等同於青衣10%生命值上限的護盾。護盾效果更新時，如果上一次獲得的護盾仍然存在，則為青衣回復5點能量，能量回復效果10秒內最多觸發一次。",
+                "QingYi_Talent_04_Title_Realign": "穩態電弧屏障"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "童心未泯",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "QingYi_Talent_05_Desc_02": "「善，年輕人就要勇於嘗試新的事物，加油！」\n雖然有時候會覺得青衣的鼓勵裡帶著幾分摸魚、幾分捉弄。但如果真的不幸捅了婁子，只要信賴她就可以了。\n畢竟是活了幾百上千年的老傢伙了，什麼都能擺平。",
+                "QingYi_Talent_05_Title_Realign": "童心未泯"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "奇經八脈",
+                "QingYi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[普通攻擊：醉花月雲轉]</color>的打斷等級大幅提升，招式的暴擊傷害額外提升100%。\n青衣發動<color=#FFFFFF>[普通攻擊：醉花月雲轉]</color>命中敵人時，目標的全屬性傷害抗性降低20%，持續15秒。",
+                "QingYi_Talent_06_Desc_02": "舊文明典籍中記載的對人體循環系統的一種學說，據說完整掌握這一理論後，可以在搏擊中瞬間讓對手失去行動能力。\n「下次試試讓人發癢的穴位吧，找誰來試驗呢？店長？還是朱鳶？」",
+                "QingYi_Talent_06_Desc_01": "<color=#FFFFFF>[普通攻擊：醉花月雲轉]</color>的打斷等級大幅提升，招式的暴擊傷害額外提升100%。青衣發動<color=#FFFFFF>[普通攻擊：醉花月雲轉]</color>命中敵人時，目標的全屬性傷害抗性降低20%，持續15秒。",
+                "QingYi_Talent_06_Title_Realign": "奇經八脈"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "簡",
+        "full_name": "簡·杜",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "犯罪顧問",
+                "JaneDoe_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[普通攻擊：沙克跳]</color>的可使用次數上限增加一次。\n在<color=#FFFFFF>[狂熱]</color>狀態下，簡的<color=#F0D12B>物理異常積蓄效率</color>額外提升15%，同時每點異常精通將會使自身造成的傷害提升0.1%，最多提升30%。",
+                "JaneDoe_Talent_01_Desc_02": "「犯罪顧問，是指研究犯罪行為學的顧問，不是精通如何犯罪的顧問。」\n簡忽然湊近，眨了眨眼睛。\n「當然，你要理解成後者的話……我也不反對喔。」",
+                "JaneDoe_Talent_01_Desc_01": "<color=#FFFFFF>[普通攻擊：沙克跳]</color>的可使用次數上限增加一次。在<color=#FFFFFF>[狂熱]</color>狀態下，簡的<color=#F0D12B>物理異常積蓄效率</color>額外提升15%，同時每點異常精通將會使自身造成的傷害提升0.1%，最多提升30%。",
+                "JaneDoe_Talent_01_Title_Realign": "犯罪顧問"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "近朱者赤",
+                "JaneDoe_Talent_02_Desc_01_Realign": "簡攻擊命中處於<color=#FFFFFF>[齧咬]</color>狀態下的敵人，或隊伍中任意角色對處於<color=#FFFFFF>[齧咬]</color>狀態下的敵人觸發<color=#F0D12B>[強擊]</color>時，將會無視其15%防禦力，且當<color=#F0D12B>[強擊]</color>傷害觸發暴擊時，其暴擊傷害額外提升50%。",
+                "JaneDoe_Talent_02_Desc_02": "凝視深淵時會被深淵回以凝視，這只是第一步。\n「然後要靠近它、進入它、理解它，這是第二步。」\n「最後一步……不要成為它。」",
+                "JaneDoe_Talent_02_Desc_01": "簡攻擊命中處於<color=#FFFFFF>[齧咬]</color>狀態下的敵人，或隊伍中任意角色對處於<color=#FFFFFF>[齧咬]</color>狀態下的敵人觸發<color=#F0D12B>[強擊]</color>時，將會無視其15%防禦力，且當<color=#F0D12B>[強擊]</color>傷害觸發暴擊時，其暴擊傷害額外提升50%。",
+                "JaneDoe_Talent_02_Title_Realign": "近朱者赤"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "無名氏",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "JaneDoe_Talent_03_Desc_02": "「無名氏，意味著我可以成為任何人。比如你最喜歡的人~」\n「或者，你最恐懼的人？」",
+                "JaneDoe_Talent_03_Title_Realign": "無名氏"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "因勢利導",
+                "JaneDoe_Talent_04_Desc_01_Realign": "隊伍中任意角色觸發<color=#F0D12B>[強擊]</color>或<color=#FFFFFF>[紊亂]</color>效果時，\n全隊造成的屬性異常傷害提升18%，持續15秒。",
+                "JaneDoe_Talent_04_Desc_02": "「是獵人還是獵物，往往取決於你選擇的視角。不過，我更喜歡另一個簡單的判斷方式——」\n「輸的人，就是獵物。」",
+                "JaneDoe_Talent_04_Desc_01": "隊伍中任意角色觸發<color=#F0D12B>[強擊]</color>或<color=#FFFFFF>[紊亂]</color>效果時，全隊造成的屬性異常傷害提升18%，持續15秒。",
+                "JaneDoe_Talent_04_Title_Realign": "因勢利導"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "囤積癖好",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "JaneDoe_Talent_05_Desc_02": "簡的房間裡永遠塞滿了各式各樣的東西，其中最多的是速食食品。\n「這裡很不錯吧？到處都是觸手可及的食物哦~」",
+                "JaneDoe_Talent_05_Title_Realign": "囤積癖好"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "「骯髒」技巧",
+                "JaneDoe_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[狂熱]</color>狀態下，簡的暴擊率提升20%，暴擊傷害提升40%。隊伍中任意角色對敵人施加<color=#F0D12B>[強擊]</color>效果時，簡將直接進入<color=#FFFFFF>[狂熱]</color>狀態，並使<color=#FFFFFF>[狂熱心流]</color>回復至上限。<color=#F0D12B>[強擊]</color>傷害觸發暴擊時，將會對目標發動一次額外攻擊，造成等同於簡1,600%異常精通的<color=#F0D12B>物理傷害</color>。",
+                "JaneDoe_Talent_06_Desc_02": "街頭可不在乎手段髒不髒，只在乎結果贏沒贏。\n「看清最黑暗的欲望，才能推演出最痛切的弱點。」",
+                "JaneDoe_Talent_06_Desc_01": "<color=#FFFFFF>[狂熱]</color>狀態下，簡的暴擊率提升20%，暴擊傷害提升40%。隊伍中任意角色對敵人施加<color=#F0D12B>[強擊]</color>效果時，簡將直接進入<color=#FFFFFF>[狂熱]</color>狀態，並使<color=#FFFFFF>[狂熱心流]</color>回復至上限。<color=#F0D12B>[強擊]</color>傷害觸發暴擊時，將會對目標發動一次額外攻擊，造成等同於簡1,600%異常精通的<color=#F0D12B>物理傷害</color>。",
+                "JaneDoe_Talent_06_Title_Realign": "「骯髒」技巧"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "賽斯",
+        "full_name": "賽斯·洛威爾",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "英雄主義",
+                "Seth_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[匪石之盾]</color>提供的護盾及其上限提升30%。\n<color=#FFFFFF>[匪石之盾]</color>失效時，<color=#FFFFFF>[核心被動：守望者]</color>提供的異常精通提升效果額外維持10秒。",
+                "Seth_Talent_01_Desc_02": "團隊行動的時候，賽斯永遠是衝在最前面的人。\n「逮捕犯人就交給我吧！我的近身擒拿成績是99分，扣掉的那一分是因為不小心扭傷了教官的手腕。」",
+                "Seth_Talent_01_Desc_01": "<color=#FFFFFF>[匪石之盾]</color>提供的護盾及其上限提升30%。<color=#FFFFFF>[匪石之盾]</color>失效時，<color=#FFFFFF>[核心被動：守望者]</color>提供的異常精通提升效果額外維持10秒。",
+                "Seth_Talent_01_Title_Realign": "英雄主義"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "年少輕狂",
+                "Seth_Talent_02_Desc_01_Realign": "進入戰場時，賽斯立刻為自身累積75%<color=#FFFFFF>[意氣]</color>。\n發動<color=#FFFFFF>[普通攻擊：雷霆擊-感電]</color>命中敵人時，招式累積的<color=#2EB6FF>電屬性異常積蓄值</color>提升35%。",
+                "Seth_Talent_02_Desc_02": "賽斯很容易被各種犯罪者小看。\n或許是因為他的眼神太過清澈，又或許是因為那無害的毛茸茸耳朵和尾巴——\n無論如何，所有看低他的人，最終都會付出相應的代價。",
+                "Seth_Talent_02_Desc_01": "進入戰場時，賽斯立刻為自身累積75%<color=#FFFFFF>[意氣]</color>。發動<color=#FFFFFF>[普通攻擊：雷霆擊-感電]</color>命中敵人時，招式累積的<color=#2EB6FF>電屬性異常積蓄值</color>提升35%。",
+                "Seth_Talent_02_Title_Realign": "年少輕狂"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "鈍感力",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Seth_Talent_03_Desc_02": "「像你這麼厲害的治安官，肯定做什麼都是靠自己吧？絕對沒依賴其他人吧？」\n即使被這麼說了，賽斯依然不動聲色。\n直到半夜，他才忽然驚醒：\n「那傢伙白天的話……莫非是在諷刺我？」",
+                "Seth_Talent_03_Title_Realign": "鈍感力"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "初心",
+                "Seth_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[招架支援：迅雷盾]</color>造成的失衡值提升25%。",
+                "Seth_Talent_04_Desc_02": "「放下你那愚蠢的善惡觀。世上沒有一種方式可以守護所有人。有時候，你必須做出選擇。」\n「這就是我的選擇，也是治安官最基本的職責——是你變了，哥哥。」",
+                "Seth_Talent_04_Desc_01": "<color=#FFFFFF>[招架支援：迅雷盾]</color>造成的失衡值提升25%。",
+                "Seth_Talent_04_Title_Realign": "初心"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "憧憬的距離",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Seth_Talent_05_Desc_02": "對於自己的兄長，賽斯曾抱有極度的憧憬和尊敬。\n但就像你知道的那樣——「憧憬」是距離「理解」最遙遠的距離。\n「總有一天，我會成為最厲害的治安官……讓那傢伙收回之前的話！」",
+                "Seth_Talent_05_Title_Realign": "憧憬的距離"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "理想主義",
+                "Seth_Talent_06_Desc_01_Realign": "賽斯在<color=#FFFFFF>[普通攻擊：雷霆擊-感電]</color>中發動終結一擊命中敵人時，\n額外造成自身500%攻擊力的傷害，本次攻擊必定觸發暴擊，且暴擊傷害提升60%。",
+                "Seth_Talent_06_Desc_02": "少年人眼裡的一切都很清晰，黑白分明，善惡有別。\n一定會有人想告訴他世界的顏色是混沌的灰。但黑白分明善惡有別的世界……不值得追求嗎？",
+                "Seth_Talent_06_Desc_01": "賽斯在<color=#FFFFFF>[普通攻擊：雷霆擊-感電]</color>中發動終結一擊命中敵人時，額外造成自身500%攻擊力的傷害，本次攻擊必定觸發暴擊，且暴擊傷害提升60%。",
+                "Seth_Talent_06_Title_Realign": "理想主義"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "凱撒",
+        "full_name": "凱撒·金",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "楔式進軍",
+                "Caesar_Talent_01_Desc_01_Realign": "進入接戰狀態或者換入前場時，凱撒立即為全隊提供<color=#FFFFFF>[榮光之盾]</color>，300秒內最多觸發一次。\n<color=#FFFFFF>[榮光之盾]</color>存在期間，持有者附近5公尺範圍內敵人的全屬性傷害抗性降低15%。",
+                "Caesar_Talent_01_Desc_02": "「大老爹教過我，這時候就該以強大的兵力構成楔子般的隊形，向敵方最薄弱之處進行攻擊——」\n「當然，是由我來打頭陣！」",
+                "Caesar_Talent_01_Desc_01": "進入接戰狀態或者換入前場時，凱撒立即為全隊提供<color=#FFFFFF>[榮光之盾]</color>，300秒內最多觸發一次。<color=#FFFFFF>[榮光之盾]</color>存在期間，持有者附近5公尺範圍內敵人的全屬性傷害抗性降低15%。",
+                "Caesar_Talent_01_Title_Realign": "楔式進軍"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "異域傳承",
+                "Caesar_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[核心被動：堅韌之壁]</color>中，<color=#FFFFFF>[榮光之盾]</color>存在期間，\n凱撒的能量回復效率提升10%，持有者的攻擊力提升效果提升至原本的150%。",
+                "Caesar_Talent_02_Desc_02": "凱撒的戰鬥方式與新艾利都或是外環的風格都略有不同，繼承成自流浪者集團最厲害的武者們。\n在恰當的時候收斂鋒芒，在恰當的時候一擊斃命——這向來是流浪者們的生存之道。\n而凱撒一直是個好學生。",
+                "Caesar_Talent_02_Desc_01": "<color=#FFFFFF>[核心被動：堅韌之壁]</color>中，<color=#FFFFFF>[榮光之盾]</color>存在期間，凱撒的能量回復效率提升10%，持有者的攻擊力提升效果提升至原本的150%。",
+                "Caesar_Talent_02_Title_Realign": "異域傳承"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "絕對信任",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Caesar_Talent_03_Desc_02": "一旦認可某個人之後，凱撒就會把對方劃到自己的麾下，並予以其絕對的信任，毫不設防……\n一如她現在對待你那樣。",
+                "Caesar_Talent_03_Title_Realign": "絕對信任"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "阿瑞斯攻城錘",
+                "Caesar_Talent_04_Desc_01_Realign": "凱撒發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，額外回復3點<color=#FFFFFF>[支援點數]</color>。\n凱撒的能量值不足20點時，可以消耗1點<color=#FFFFFF>[支援點數]</color>作為代替，\n發動<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>，代替效果5秒內最多觸發一次。",
+                "Caesar_Talent_04_Desc_02": "凱撒在流浪者集團導師教育下學會的戰術之一。\n「無論如何，我會戰到最後一刻！」",
+                "Caesar_Talent_04_Desc_01": "凱撒發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，額外回復3點<color=#FFFFFF>[支援點數]</color>。凱撒的能量值不足20點時，可以消耗1點<color=#FFFFFF>[支援點數]</color>作為代替，發動<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>，代替效果5秒內最多觸發一次。",
+                "Caesar_Talent_04_Title_Realign": "阿瑞斯攻城錘"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "浪漫征伐",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Caesar_Talent_05_Desc_02": "與外表不同，凱撒擁有特別的浪漫情懷。\n例如她總是對一些戀愛戲碼充滿了好奇心。\n但如果你和她更「深入」地聊這個話題……凱撒則會難得的臉紅。",
+                "Caesar_Talent_05_Title_Realign": "浪漫征伐"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "霸主之志",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>和<color=#FFFFFF>[支援突擊]</color>必定觸發暴擊，\n招式造成的傷害提升50%，對主要目標造成的傷害額外提升50%。\n凱撒發動<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>或<color=#FFFFFF>[支援突擊]</color>時，\n自身暴擊率提升30%，暴擊傷害提升60%，持續15秒。",
+                "Caesar_Talent_06_Desc_02": "「我曾只看向前方。我以為只要自己夠強，就沒有辦不到的事。」\n「但要成為優秀的霸主，這還遠遠不夠。」\n「我還需要守護好後方的同伴——他們才是我最大的底氣。」",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>和<color=#FFFFFF>[支援突擊]</color>必定觸發暴擊，招式造成的傷害提升50%，對主要目標造成的傷害額外提升50%；凱撒發動<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>或<color=#FFFFFF>[支援突擊]</color>時，自身暴擊率提升30%，暴擊傷害提升60%，持續15秒。",
+                "Caesar_Talent_06_Title_Realign": "霸主之志"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "露西",
+        "full_name": "露西亞娜·德·蒙特夫",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "隊形操練中",
+                "Lucy_Talent_01_Desc_01_Realign": "親衛隊小豬發動<color=#FFFFFF>[親衛隊小豬：迴旋揮擊！]</color>時，為露西回復2點能量，15秒內最多觸發一次，每隻親衛隊小豬單獨結算冷卻時間。",
+                "Lucy_Talent_01_Desc_02": "「阿草，向右看齊！……那是左邊，笨蛋！！！」\n一聲令下，兩種方向，三陣慘呼，四面哀嚎。",
+                "Lucy_Talent_01_Desc_01": "親衛隊小豬發動<color=#FFFFFF>[親衛隊小豬：迴旋揮擊！]</color>時，為露西回復2點能量，15秒內最多觸發一次，每隻親衛隊小豬單獨結算冷卻時間。",
+                "Lucy_Talent_01_Title_Realign": "隊形操練中"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "小豬大隊長",
+                "Lucy_Talent_02_Desc_01_Realign": "露西發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，\n將為所有友方角色、邦布和親衛隊小豬施加<color=#FFFFFF>[加油！]</color>狀態，持續10秒。",
+                "Lucy_Talent_02_Desc_02": "「毋庸置疑，露西隊長是卡呂冬野豬希人最棒的領導者！」\n這是阿木在「卡呂冬之子年度工作報告」中的結語。",
+                "Lucy_Talent_02_Desc_01": "露西發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，將為所有友方角色、邦布和親衛隊小豬施加<color=#FFFFFF>[加油！]</color>狀態，持續10秒。",
+                "Lucy_Talent_02_Title_Realign": "小豬大隊長"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "鐵腕監護人",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Lucy_Talent_03_Desc_02": "「要是露西隊長在打飛我們的時候下手輕點就更好了。」\n這是阿木沒敢說出來的後半句心裡話。",
+                "Lucy_Talent_03_Title_Realign": "鐵腕監護人"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "無規則球賽",
+                "Lucy_Talent_04_Desc_01_Realign": "處於<color=#FFFFFF>[加油！]</color>狀態下的友方單位，暴擊傷害額外提升10%。",
+                "Lucy_Talent_04_Desc_02": "規則和裁判的肋骨，總有一樣要被打破。",
+                "Lucy_Talent_04_Desc_01": "處於<color=#FFFFFF>[加油！]</color>狀態下的友方單位，暴擊傷害額外提升10%。",
+                "Lucy_Talent_04_Title_Realign": "無規則球賽"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "荒原貴公主",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Lucy_Talent_05_Desc_02": "對球棍下慘叫的對手用敬語，\n向匍匐在腳邊的敵人說抱歉，\n這就是千金的完美禮儀。",
+                "Lucy_Talent_05_Title_Realign": "荒原貴公主"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "獠牙堪烈火",
+                "Lucy_Talent_06_Desc_01_Realign": "處於<color=#FFFFFF>[加油！]</color>狀態下的隊友發動<color=#FFFFFF>[強化特殊技]</color>命中敵人時，\n一隻親衛隊小豬會從空中落地引發爆炸，造成等同於親衛隊小豬300%攻擊力的<color=#FF5521>火屬性傷害</color>，\n並使全隊<color=#FFFFFF>[加油！]</color>狀態的持續時間提升5秒。\n持續時間最多提升3次，上限30秒，重新獲得<color=#FFFFFF>[加油！]</color>狀態時重置可提升次數。\n親衛隊小豬落地引發爆炸後，將會發動一次<color=#FFFFFF>[親衛隊小豬：迴旋揮擊！]</color>。",
+                "Lucy_Talent_06_Desc_02": "被稱為「赤鬣親衛隊」的小豬希人們總是衝鋒在戰鬥的最前線！\n雖然說不清從球棒起飛的那一剎那，心緒是萬念俱灰還是心甘情願。\n勇敢小豬，身先士卒！",
+                "Lucy_Talent_06_Desc_01": "處於<color=#FFFFFF>[加油！]</color>狀態下的隊友發動<color=#FFFFFF>[強化特殊技]</color>命中敵人時，一隻親衛隊小豬會從空中落地引發爆炸，造成等同於親衛隊小豬300%攻擊力的<color=#FF5521>火屬性傷害</color>，並使全隊<color=#FFFFFF>[加油！]</color>狀態的持續時間提升5秒。持續時間最多提升3次，上限30秒，重新獲得<color=#FFFFFF>[加油！]</color>狀態時重置可提升次數。親衛隊小豬落地引發爆炸後，將會發動一次<color=#FFFFFF>[親衛隊小豬：迴旋揮擊！]</color>。",
+                "Lucy_Talent_06_Title_Realign": "獠牙堪烈火"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "萊特",
+        "full_name": "萊特",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "常勝冠軍",
+                "Lighter_Talent_01_Desc_01_Realign": "在<color=#FFFFFF>[核心被動：助燃劑]</color>所施加的減益效果中，\n<color=#FFFFFF>[潰敗]</color>效果將使失衡持續時間提升5秒，<color=#98EFF0>冰屬性傷害抗性</color>和<color=#FF5521>火屬性傷害抗性</color>將額外降低10%。\n在輕拳起攻或刺拳連擊期間耗盡<color=#FFFFFF>[士氣]</color>，自動銜接發動強力終結一擊時，\n強力終結一擊造成的傷害提升30%。",
+                "Lighter_Talent_01_Desc_02": "常勝冠軍的勝利至關重要。與對面最強的戰士決鬥，為團長解決威脅——同時為團隊帶來巨大的士氣鼓舞。\n對他來說，唯有勝利值得讚頌。\n「常勝冠軍不能倒下。」",
+                "Lighter_Talent_01_Desc_01": "在<color=#FFFFFF>[核心被動：助燃劑]</color>所施加的減益效果中，<color=#FFFFFF>[潰敗]</color>效果將使失衡持續時間提升5秒，<color=#98EFF0>冰屬性傷害抗性</color>和<color=#FF5521>火屬性傷害抗性</color>將額外降低10%。在輕拳起攻或刺拳連擊期間耗盡<color=#FFFFFF>[士氣]</color>，自動銜接發動強力終結一擊時，強力終結一擊造成的傷害提升30%。",
+                "Lighter_Talent_01_Title_Realign": "常勝冠軍"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "紅圍巾",
+                "Lighter_Talent_02_Desc_01_Realign": "透過<color=#FFFFFF>[核心被動：助燃劑]</color>對敵人施加<color=#FFFFFF>[潰敗]</color>效果時，目標的失衡易傷倍率提升25%。\n<color=#FFFFFF>[額外能力：鬥志昂揚]</color>中由<color=#FFFFFF>[昂揚]</color>提供的<color=#98EFF0>冰屬性傷害</color>和<color=#FF5521>火屬性傷害</color>增益效果提升至原本的120%。",
+                "Lighter_Talent_02_Desc_02": "作為卡呂冬之子的「紅圍巾」，萊特在外環非常有名。\n不只是因為他的拳頭，也因為……某些說話風格。\n「雖然我樂得清閒……不過沒有我的話，你們也搞不定吧？」",
+                "Lighter_Talent_02_Desc_01": "透過<color=#FFFFFF>[核心被動：助燃劑]</color>對敵人施加<color=#FFFFFF>[潰敗]</color>效果時，目標的失衡易傷倍率提升25%。<color=#FFFFFF>[額外能力：鬥志昂揚]</color>中由<color=#FFFFFF>[昂揚]</color>提供的<color=#98EFF0>冰屬性傷害</color>和<color=#FF5521>火屬性傷害</color>增益效果提升至原本的120%。",
+                "Lighter_Talent_02_Title_Realign": "紅圍巾"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "傭兵團長",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Lighter_Talent_03_Desc_02": "「我大概是全世界最不適合當團長的人吧。」",
+                "Lighter_Talent_03_Title_Realign": "傭兵團長"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "墨鏡",
+                "Lighter_Talent_04_Desc_01_Realign": "萊特位於後場時，前場角色的能量自動回復效率提升10%。\n萊特進入<color=#FFFFFF>[士氣噴發]</color>狀態時，為後場角色回復4點能量，18秒內最多觸發一次。",
+                "Lighter_Talent_04_Desc_02": "「問我為什麼要帶墨鏡？嗯……因為我暈血啊，大概吧。」",
+                "Lighter_Talent_04_Desc_01": "萊特位於後場時，前場角色的能量自動回復效率提升10%。萊特進入<color=#FFFFFF>[士氣噴發]</color>狀態時，為後場角色回復4點能量，18秒內最多觸發一次。",
+                "Lighter_Talent_04_Title_Realign": "墨鏡"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "決策者",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Lighter_Talent_05_Desc_02": "「給我命令，我來照做。就這麼簡單。」\n萊特推了推自己的墨鏡，笑得漫不經心。\n「別再讓我來做決定就好。」",
+                "Lighter_Talent_05_Title_Realign": "決策者"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "倖存者",
+                "Lighter_Talent_06_Desc_01_Realign": "萊特的<color=#FFFFFF>[士氣]</color>回復效率提升至原本的200%。萊特在<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避反擊]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[支援突擊]</color>、<color=#FFFFFF>[連攜技]</color>、<color=#FFFFFF>[終結技]</color>中發動重擊命中敵人時，將會觸發<color=#FFFFFF>[火焰衝擊]</color>效果，造成250%攻擊力的<color=#FF5521>火屬性傷害</color>，每個敵人8秒內最多觸發一次。若萊特的衝擊力高於170點，每超過1點衝擊力會使<color=#FFFFFF>[火焰衝擊]</color>的倍率額外提升5%，最多提升500%。在輕拳起攻或刺拳連擊期間耗盡<color=#FFFFFF>[士氣]</color>，自動銜接發動強力終結一擊命中敵人時，可以忽略冷卻時間，額外觸發一次<color=#FFFFFF>[火焰衝擊]</color>效果。",
+                "Lighter_Talent_06_Desc_02": "重來一次，他絕不會選擇成為唯一的倖存者。\n可惜命運向來無法選擇。",
+                "Lighter_Talent_06_Desc_01": "萊特的<color=#FFFFFF>[士氣]</color>回復效率提升至原本的200%。萊特在<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避反擊]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[強化特殊技]</color>、<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[支援突擊]</color>、<color=#FFFFFF>[連攜技]</color>、<color=#FFFFFF>[終結技]</color>中發動重擊命中敵人時，將會觸發<color=#FFFFFF>[火焰衝擊]</color>效果，造成250%攻擊力的<color=#FF5521>火屬性傷害</color>，每個敵人8秒內最多觸發一次。若萊特的衝擊力高於170點，每超過1點衝擊力會使<color=#FFFFFF>[火焰衝擊]</color>的倍率額外提升5%，最多提升500%。在輕拳起攻或刺拳連擊期間耗盡<color=#FFFFFF>[士氣]</color>，自動銜接發動強力終結一擊命中敵人時，可以忽略冷卻時間，額外觸發一次<color=#FFFFFF>[火焰衝擊]</color>效果。",
+                "Lighter_Talent_06_Title_Realign": "倖存者"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "柏妮思",
+        "full_name": "柏妮思．懷特",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "熱絡同心",
+                "Burnice_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[燃點]</color>的上限從100點提升至140點，進入戰場時，柏妮思額外累積40點<color=#FFFFFF>[燃點]</color>。\n<color=#FFFFFF>[餘燼]</color>效果的傷害倍率提升，提升效果等同於柏妮思攻擊力的100%。\n<color=#FFFFFF>[餘燼]</color>效果累積的<color=#FF5521>火屬性異常積蓄值</color>提升25%。",
+                "Burnice_Talent_01_Desc_02": "「誰都有不夠順利的時候，很正常啦！」\n「別難過，凱撒，來一杯燃油飲特調怎麼樣？我加了很多很多糖喔！」",
+                "Burnice_Talent_01_Desc_01": "<color=#FFFFFF>[燃點]</color>的上限從100點提升至140點，進入戰場時，柏妮思額外累積40點<color=#FFFFFF>[燃點]</color>。<color=#FFFFFF>[餘燼]</color>效果的傷害倍率提升，提升效果等同於柏妮思攻擊力的100%。<color=#FFFFFF>[餘燼]</color>效果累積的<color=#FF5521>火屬性異常積蓄值</color>提升25%。",
+                "Burnice_Talent_01_Title_Realign": "熱絡同心"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "加量不加價",
+                "Burnice_Talent_02_Desc_01_Realign": "觸發<color=#FFFFFF>[餘燼]</color>效果時，將對敵人施加<color=#FFFFFF>[熱意洞穿]</color>，最多疊加5層，持續6秒，重複觸發時重置持續時間。受到我方攻擊時，目標每擁有一層<color=#FFFFFF>[熱意洞穿]</color>，本次攻擊的穿透率提升4%，最多提升20%。",
+                "Burnice_Talent_02_Desc_02": "作為卡呂冬之子的調飲師，柏妮思樂於為所有朋友調製新艾利都最美味的燃油飲。\n當然，如果你是她的「敵人」……則會有機會喝到前所未有的新口味飲品。\n「是一生只能喝一次的超絕美味喔！」",
+                "Burnice_Talent_02_Desc_01": "觸發<color=#FFFFFF>[餘燼]</color>效果時，將對敵人施加<color=#FFFFFF>[熱意洞穿]</color>，最多疊加5層，持續6秒，重複觸發時重置持續時間。受到我方攻擊時，目標每擁有一層<color=#FFFFFF>[熱意洞穿]</color>，本次攻擊的穿透率提升4%，最多提升20%。",
+                "Burnice_Talent_02_Title_Realign": "加量不加價"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "天性樂觀",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Burnice_Talent_03_Desc_02": "「柏妮思那傢伙，不管什麼時候都是一副元氣滿滿的樣子啊！就連剛起床都是！真不知道她從哪來這麼多能量……」\n「更可怕的是，她還能把身邊人都帶動著積極起來！這簡直快稱得上是妖怪了吧！」\n「不過……我倒是不討厭就是啦……」\n——來自一位不願意透露姓名的豬豬管理者",
+                "Burnice_Talent_03_Title_Realign": "天性樂觀"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "超絕燃油補給",
+                "Burnice_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援攻擊]</color>命中敵人時，招式的暴擊率提升30%。\n<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>中，火焰噴射的持續時間上限提升1秒。",
+                "Burnice_Talent_04_Desc_02": "「喜歡我調的飲料？謝謝你，大鋼牙也很喜歡～那傢伙一頓能吃兩百升呢！」\n「哦，大鋼牙就是我們的那輛大卡車啦！」\n「想嚐嚐它的特供燃油嗎？很火熱的喔～」",
+                "Burnice_Talent_04_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援攻擊]</color>命中敵人時，招式的暴擊率提升30%。<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>中，火焰噴射的持續時間上限提升1秒。",
+                "Burnice_Talent_04_Title_Realign": "超絕燃油補給"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "火與冰之舞",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Burnice_Talent_05_Desc_02": "在調製飲品的時候，冰塊也是非常重要的一環。\n畢竟沒有極致的冰冷，就難以襯托出極致的火熱。\n「這種火與冰交融的感覺～真令人沉迷呢！」",
+                "Burnice_Talent_05_Title_Realign": "火與冰之舞"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "盛焰邀約",
+                "Burnice_Talent_06_Desc_01_Realign": "柏妮思發動<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>命中敵人時，將額外觸發特殊的<color=#FFFFFF>[餘燼]</color>效果，\n對目標造成等同於柏妮思60%攻擊力的<color=#FF5521>火屬性傷害</color>，0.5秒內最多觸發1次，無需消耗<color=#FFFFFF>[燃點]</color>。\n發動<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>命中敵人後，招式發動期間，<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>、特殊的<color=#FFFFFF>[餘燼]</color>效果、<color=#FF5521>[灼燒]</color>效果將無視目標25%<color=#FF5521>火屬性傷害抗性</color>。\n在<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>中發動火焰衝擊命中處於<color=#FF5521>[灼燒]</color>狀態下的敵人時，能夠額外結算一次<color=#FF5521>[灼燒]</color>傷害，傷害效果等同於原本的1,800%，同一目標20秒內最多觸發一次。",
+                "Burnice_Talent_06_Desc_02": "好像從來沒有誰見過柏妮思真正生氣的樣子。\n「相信我，你們不會想要看到的～」\n——來自一位正在大鋼牙上準備入睡的司機",
+                "Burnice_Talent_06_Desc_01": "柏妮思發動<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>命中敵人時，將額外觸發特殊的<color=#FFFFFF>[餘燼]</color>效果，對目標造成等同於柏妮思60%攻擊力的<color=#FF5521>火屬性傷害</color>，0.5秒內最多觸發1次，無需消耗<color=#FFFFFF>[燃點]</color>。發動<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>命中敵人後，招式發動期間，<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>、特殊的<color=#FFFFFF>[餘燼]</color>效果、<color=#FF5521>[灼燒]</color>效果將無視目標25%<color=#FF5521>火屬性傷害抗性</color>。在<color=#FFFFFF>[強化特殊技：灼熱搖盪法·雙份]</color>中發動火焰衝擊命中處於<color=#FF5521>[灼燒]</color>狀態下的敵人時，能夠額外結算一次<color=#FF5521>[灼燒]</color>傷害，傷害效果等同於原本的1,800%，同一目標20秒內最多觸發一次。",
+                "Burnice_Talent_06_Title_Realign": "盛焰邀約"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "派派",
+        "full_name": "派派·韋爾",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "悠閒一刻",
+                "Clara_Talent_01_Desc_01_Realign": "派派在<color=#FFFFFF>[特殊技：輪胎轉]</color>、<color=#FFFFFF>[強化特殊技：引擎轉]</color>或<color=#FFFFFF>[終結技]</color>中發動旋轉斬擊命中敵人時，\n有50%機率額外獲得1層<color=#FFFFFF>[動力]</color>，<color=#FFFFFF>[動力]</color>的疊加層數上限提升至30層。",
+                "Clara_Talent_01_Desc_02": "卡呂冬之子某個平常的上午，派派慢悠悠地打了個哈欠。\n「早上好——」\n「今天也能悠閒地度過吧？養生可是很重要的，不然這個人會過勞死哦——」",
+                "Clara_Talent_01_Desc_01": "派派在<color=#FFFFFF>[特殊技：輪胎轉]</color>、<color=#FFFFFF>[強化特殊技：引擎轉]</color>或<color=#FFFFFF>[終結技]</color>中發動旋轉斬擊命中敵人時，有50%機率額外獲得1層<color=#FFFFFF>[動力]</color>，<color=#FFFFFF>[動力]</color>的疊加層數上限提升至30層。",
+                "Clara_Talent_01_Title_Realign": "悠閒一刻"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "上進心",
+                "Clara_Talent_02_Desc_01_Realign": "在<color=#FFFFFF>[特殊技：輪胎轉]</color>和<color=#FFFFFF>[強化特殊技：引擎轉]</color>發動期間，派派的移動速度有所提升。\n在<color=#FFFFFF>[特殊技：有億點重]</color>、<color=#FFFFFF>[強化特殊技：非常重]</color>和<color=#FFFFFF>[終結技]</color>中發動下砸攻擊命中敵人時，招式造成的<color=#F0D12B>物理傷害</color>提升10%，每擁有1層<color=#FFFFFF>[動力]</color>，該增益效果額外提升1%。",
+                "Clara_Talent_02_Desc_02": "暫時的努力，是為了更加長久的休憩。\n當然，如果能一直都不努力就更好了——派派伸了個懶腰，拍了拍卡車裡的柔軟床鋪，躺了下來。",
+                "Clara_Talent_02_Desc_01": "在<color=#FFFFFF>[特殊技：輪胎轉]</color>和<color=#FFFFFF>[強化特殊技：引擎轉]</color>發動期間，派派的移動速度提升。在<color=#FFFFFF>[特殊技：有億點重]</color>、<color=#FFFFFF>[強化特殊技：非常重]</color>和<color=#FFFFFF>[終結技]</color>中發動下砸攻擊命中敵人時，招式造成的<color=#F0D12B>物理傷害</color>提升10%，每擁有1層<color=#FFFFFF>[動力]</color>，該增益效果額外提升1%。",
+                "Clara_Talent_02_Title_Realign": "上進心"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "卡車專家",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Clara_Talent_03_Desc_02": "派派總是對卡車的一切充滿興趣。\n即使是在熟睡的狀態下，只要引擎聲響起，少女就能瞬間清醒：\n「100馬力，載重5噸，這是……三門重工新發售的輕型卡車！」",
+                "Clara_Talent_03_Title_Realign": "卡車專家"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "技巧嫻熟",
+                "Clara_Talent_04_Desc_01_Realign": "隊伍中任意角色對敵人施加屬性異常效果時，派派回復20點能量，30秒內最多觸發一次。",
+                "Clara_Talent_04_Desc_02": "成為派派的乘客是一件讓人心驚膽戰的事。\n通常在她慢悠悠地提醒「坐~穩~囉~」的時候，「穩」字發音還沒結束，卡車就已經向前行駛了驚人的距離。\n當然，她總能在最短的時間內把你安全送到目的地——精神損失不算在內。",
+                "Clara_Talent_04_Desc_01": "隊伍中任意角色對敵人施加屬性異常效果時，派派回復20點能量，30秒內最多觸發一次。",
+                "Clara_Talent_04_Title_Realign": "技巧嫻熟"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "私人愛好",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Clara_Talent_05_Desc_02": "派派似乎擁有一些不太符合外表的私人愛好。\n「這匹馬好像很能跑的樣子……唔，但是買的人好少，果然還是那匹勝率更高嗎……」\n「嗝——燃油飲……我才沒喝多……再來一杯！」",
+                "Clara_Talent_05_Title_Realign": "私人愛好"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "輕度興奮",
+                "Clara_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技：引擎轉]</color>的持續時間上限提升2秒，<color=#FFFFFF>[動力]</color>的持續時間提升4秒。",
+                "Clara_Talent_06_Desc_02": "如你所知，派派最大的願望是永遠都能悠閒度日。\n但此刻，少女總是半睜著的雙眸竟少有的精神奕奕。\n「如果是為了你……這個人稍微努力一下下，也可以哦~」",
+                "Clara_Talent_06_Desc_01": "<color=#FFFFFF>[強化特殊技：引擎轉]</color>的持續時間上限提升2秒，<color=#FFFFFF>[動力]</color>的持續時間提升4秒。",
+                "Clara_Talent_06_Title_Realign": "輕度興奮"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "柳",
+        "full_name": "月城 柳",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "知己知彼",
+                "Yanagi_Talent_01_Desc_01_Realign": "隊伍中任意角色對敵人施加屬性異常效果時，月城柳會獲得1層<color=#FFFFFF>[洞悉]</color>，持續15秒，最多疊加3層，重複觸發時重置持續時間。\n受到敵方攻擊時，月城柳將消耗1層<color=#FFFFFF>[洞悉]</color>並獲得無敵效果，持續1秒。\n擁有1層或以上<color=#FFFFFF>[洞悉]</color>時，月城柳的異常精通提升80點。",
+                "Yanagi_Talent_01_Desc_02": "「洞悉敵人的弱點，等同於為自己贏得更多的保障……和勝算。」\n柳推了推眼鏡，即使已然勝券在握，她依然如像往常一般不動聲色。",
+                "Yanagi_Talent_01_Desc_01": "隊伍中任意角色對敵人施加屬性異常效果時，月城柳會獲得1層<color=#FFFFFF>[洞悉]</color>，持續15秒，最多疊加3層，重複觸發時重置持續時間；受到敵方攻擊時，月城柳將消耗1層<color=#FFFFFF>[洞悉]</color>並獲得無敵效果，持續1秒；擁有1層或以上<color=#FFFFFF>[洞悉]</color>時，月城柳的異常精通提升80點。",
+                "Yanagi_Talent_01_Title_Realign": "知己知彼"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "卓越適應性",
+                "Yanagi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[強化特殊技]</color>中，快速突刺累積的<color=#2EB6FF>電屬性異常積蓄值</color>提升20%。\n快速突刺命中敵人時，保持長按「特殊攻擊」按鍵，可以額外消耗10點能量，再次發動突刺攻擊，\n能量不足或停止長按後將自動銜接下落攻擊。\n下落攻擊命中處於屬性異常狀態下的敵人並觸發<color=#FFFFFF>[極性紊亂]</color>效果時，\n對目標造成的傷害倍率提升至原本<color=#FFFFFF>[紊亂]</color>效果的20%，\n每額外發動一次突刺攻擊，該傷害倍率額外提升15%，傷害倍率額外提升效果最多觸發2次。",
+                "Yanagi_Talent_02_Desc_02": "「柳的話……無論被丟到怎樣異常的環境，一定都能處理好的。」\n「我比相信自己更加相信她。」\n——來自一位正在進行「斬斷面前所有落葉」修行的武者",
+                "Yanagi_Talent_02_Desc_01": "<color=#FFFFFF>[強化特殊技]</color>中，快速突刺累積的<color=#2EB6FF>電屬性異常積蓄值</color>提升20%。快速突刺命中敵人時，保持長按「特殊攻擊」按鍵，可以額外消耗10點能量，再次發動突刺攻擊，能量不足或停止長按後將自動銜接下落攻擊。下落攻擊命中處於屬性異常狀態下的敵人並觸發<color=#FFFFFF>[極性紊亂]</color>效果時，對目標造成的傷害倍率提升至原本<color=#FFFFFF>[紊亂]</color>效果的20%，每額外發動一次突刺攻擊，該傷害倍率額外提升15%，傷害倍率額外提升效果最多觸發2次。",
+                "Yanagi_Talent_02_Title_Realign": "卓越適應性"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "月城氏管理學",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Yanagi_Talent_03_Desc_02": "人人都說對空六課聚集了一幫怪人和天才，其中唯一的「正常人」便是月城柳了。\n但也正是她的存在，把怪人和天才們「黏合」了起來。",
+                "Yanagi_Talent_03_Title_Realign": "月城氏管理學"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "掌棋者",
+                "Yanagi_Talent_04_Desc_01_Realign": "月城柳對敵人造成屬性異常傷害時，會為其施加<color=#FFFFFF>[識破]</color>效果，持續15秒。\n處於<color=#FFFFFF>[識破]</color>效果下的敵人受到攻擊時，本次攻擊的穿透率提升16%。",
+                "Yanagi_Talent_04_Desc_02": "無論在何種情況下，月城柳都能以最快的速度掌握當下所有情報，並據此做出最佳的判斷。",
+                "Yanagi_Talent_04_Desc_01": "月城柳對敵人造成屬性異常傷害時，會為其施加<color=#FFFFFF>[識破]</color>效果，持續15秒。處於<color=#FFFFFF>[識破]</color>效果下的敵人受到攻擊時，本次攻擊的穿透率提升16%。",
+                "Yanagi_Talent_04_Title_Realign": "掌棋者"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "鬼「媽媽」",
+                "Common_Talent_Desc": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
+                "Yanagi_Talent_05_Desc_02": "目前，月城柳是蒼角的唯一指定監護人。\n「蒼角，這是課長的飯糰，不可以隨便吃——算了，過來，我給你加熱一下。」\n「之後再買個一樣的還給課長吧……」",
+                "Yanagi_Talent_05_Title_Realign": "鬼「媽媽」"
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "非人之血",
+                "Yanagi_Talent_06_Desc_01_Realign": "在<color=#FFFFFF>[強化特殊技]</color>中發動突刺攻擊後，<color=#FFFFFF>[森羅萬象]</color>狀態的持續時間提升至30秒，\n狀態持續期間<color=#FFFFFF>[強化特殊技]</color>造成的傷害提升20%。\n<color=#FFFFFF>[卓越適應性]</color>中，<color=#FFFFFF>[極性紊亂]</color>傷害倍率額外提升效果的觸發次數上限提升至4次，\n前4次發動額外突刺攻擊時所需的能量消耗減半。",
+                "Yanagi_Talent_06_Desc_02": "月城柳的身體中流淌著一部分不屬於她的血液。\n這些血曾讓她在絕境中獲得了新生，也因此擁有了一些特殊的力量。\n「但如你所知，一切本不屬於我的東西……終有代價。」",
+                "Yanagi_Talent_06_Desc_01": "在<color=#FFFFFF>[強化特殊技]</color>中發動突刺攻擊後，<color=#FFFFFF>[森羅萬象]</color>狀態的持續時間提升至30秒，狀態持續期間，<color=#FFFFFF>[強化特殊技]</color>造成的傷害提升20%。<color=#FFFFFF>[卓越適應性]</color>中，<color=#FFFFFF>[極性紊亂]</color>傷害倍率額外提升效果的觸發次數上限提升至4次，前4次額外發動突刺攻擊時所需的能量消耗減半。",
+                "Yanagi_Talent_06_Title_Realign": "非人之血"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

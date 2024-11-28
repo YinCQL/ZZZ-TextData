@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "Anby",
+        "full_name": "Anby Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "Rapid Charge Mode",
+                "Anbi_Talent_01_Desc_01_Realign": "When the 4th hit of Anby's <color=#FFFFFF>Basic Attack</color> hits an enemy, her Energy Generation Rate is increased by 12% for 30s.",
+                "Anbi_Talent_01_Desc_02": "\"Charge up for just a minute, and you're set to fight for an hour!\" That's the sales pitch for these weapon expansion modules.\nAnd they deliver exactly that.",
+                "Anbi_Talent_01_Desc_01": "When the 4th-hit of Anby's <color=#FFFFFF>Basic Attack</color> hits an enemy, her Energy Generation Rate is increased by 12% for 30s.",
+                "Anbi_Talent_01_Title_Realign": "Rapid Charge Mode"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "Precision Discharge",
+                "Anbi_Talent_02_Desc_01_Realign": "When <color=#FFFFFF>Basic Attack: Thunderbolt</color> hits a Stunned enemy, its DMG is increased by 30%. When Anby's <color=#FFFFFF>EX Special Attack</color> hits an enemy that is not Stunned, the Daze inflicted is increased by 10%.",
+                "Anbi_Talent_02_Desc_02": "\"Electric shocks will knock you out cold.\"\nLooking at the enemy out cold at her feet, she added:\n\"At least, that's what happens in the movies.\"",
+                "Anbi_Talent_02_Desc_01": "When <color=#FFFFFF>Basic Attack: Thunderbolt</color> hits a Stunned enemy, its DMG is increased by 30%. When Anby's <color=#FFFFFF>EX Special Attack</color> hits an enemy that is not Stunned, the Daze inflicted is increased by 10%.",
+                "Anbi_Talent_02_Title_Realign": "Precision Discharge"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "Well-Disciplined",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Anbi_Talent_03_Desc_02": "Run, slash, move like lightning. She is no amateur when it comes to Hollows—she's an expert.",
+                "Anbi_Talent_03_Title_Realign": "Well-Disciplined"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "Conducting Charge",
+                "Anbi_Talent_04_Desc_01_Realign": "When Anby launches a <color=#FFFFFF>Chain Attack</color> or uses her <color=#FFFFFF>Ultimate</color>, off-field Electric Agents recover 3 Energy.\nFor every 12% Energy Generation Rate Anby has, recover an additional 2 Energy, up to a maximum of 6.",
+                "Anbi_Talent_04_Desc_02": "You won't last long fighting solo. An experienced Hollow Raider knows how to create opportunities for their teammates.",
+                "Anbi_Talent_04_Desc_01": "When Anby launches a <color=#FFFFFF>Chain Attack</color> or uses her <color=#FFFFFF>Ultimate</color>, off-field Electric Agents recover 3 Energy.\nFor every 12% Energy Generation Rate Anby has, recover an additional 2 Energy, up to a maximum of 6.",
+                "Anbi_Talent_04_Title_Realign": "Conducting Charge"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "Street Experience",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Anbi_Talent_05_Desc_02": "Working for the Cunning Hares not only builds your mental toughness but also helps (or rather, forces) you to get in shape.",
+                "Anbi_Talent_05_Title_Realign": "Street Experience"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "Charging Field",
+                "Anbi_Talent_06_Desc_01_Realign": "When Anby uses her <color=#FFFFFF>EX Special Attack</color>, she gains 8 stacks of Charge (max 8 stacks). When she hits an enemy with her <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, 1 stack of Charge is consumed, increasing that attack's DMG by 45%.",
+                "Anbi_Talent_06_Desc_02": "Coils of electricity flickered over her fingertips.\nAnby raised her head, eyes brimming with determination beyond her years.\nPerhaps, one day, she will be the one with total mastery over electricity.",
+                "Anbi_Talent_06_Desc_01": "When Anby uses her <color=#FFFFFF>EX Special Attack</color>, she gains 8 stacks of Charge (max 8 stacks). When she hits an enemy with her <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, 1 stack of Charge is consumed, increasing that attack's DMG by 45%.",
+                "Anbi_Talent_06_Title_Realign": "Charging Field"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "Nekomata",
+        "full_name": "Nekomiya Mana",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "Bird Hunter",
+                "Tsubaki_Talent_01_Desc_01_Realign": "When Nekomata hits an enemy from behind, she ignores 16% of her target's <color=#F0D12B>Physical RES</color>.\nIf the enemy is Stunned, all Nekomata's attacks are considered back attacks.",
+                "Tsubaki_Talent_01_Desc_02": "While Nekomata lacks strength due to her small size, she has the perceptiveness and agility required to locate her enemies' weaknesses and strike right where it hurts most.",
+                "Tsubaki_Talent_01_Desc_01": "When Nekomata hits an enemy from behind, she ignores 16% of her target's <color=#F0D12B>Physical RES</color>. If the enemy is Stunned, all Nekomata's attacks are considered back attacks.",
+                "Tsubaki_Talent_01_Title_Realign": "Bird Hunter"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "Cat & Mouse",
+                "Tsubaki_Talent_02_Desc_01_Realign": "When there's only one enemy on the field and Nekomata is in combat, her Energy Generation Rate is increased by 25%.",
+                "Tsubaki_Talent_02_Desc_02": "Cats always prefer to toy with their prey.\nIf there's only one mouse left in combat — that's Nekomata's play time.",
+                "Tsubaki_Talent_02_Desc_01": "When there's only one enemy on the field and Nekomata is in combat, her Energy Generation Rate is increased by 25%.",
+                "Tsubaki_Talent_02_Title_Realign": "Cat & Mouse"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "Curious Left Tail",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Tsubaki_Talent_03_Desc_02": "According to the legends of the old civilization, each tail represents one of a cat's many lives, with years of wisdom and experience stored within...\nEven if that's not true, the experience Nekomata has gained on the streets certainly is.",
+                "Tsubaki_Talent_03_Title_Realign": "Curious Left Tail"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "Sharpen Claws",
+                "Tsubaki_Talent_04_Desc_01_Realign": "When Nekomata uses her <color=#FFFFFF>EX Special Attack</color>, her CRIT Rate increases by 7% for 15s, stacking up to 2 times, with each stack's duration being calculated separately.",
+                "Tsubaki_Talent_04_Desc_02": "\"Gimme more, gimme MORE! I can eat 'em all~\"\nHer eyes sparkle as she licks the back of her paws.",
+                "Tsubaki_Talent_04_Desc_01": "When Nekomata uses her <color=#FFFFFF>EX Special Attack</color>, her CRIT Rate increases by 7% for 15s, stacking up to 2 times, with each stack's duration being calculated separately.",
+                "Tsubaki_Talent_04_Title_Realign": "Sharpen Claws"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "Lucky Right Tail",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Tsubaki_Talent_05_Desc_02": "According to the legends of the old civilization, each tail represents one of a cat's many lives, with years of wisdom and experience stored within... Sometimes Nekomata wonders to herself: If she is lucky enough to keep surviving, will she eventually grow another tail?",
+                "Tsubaki_Talent_05_Title_Realign": "Lucky Right Tail"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "Predator Lineage",
+                "Tsubaki_Talent_06_Desc_01_Realign": "When Nekomata launches a <color=#FFFFFF>Chain Attack</color> or uses her <color=#FFFFFF>Ultimate</color>, her CRIT DMG increases by 18%, stacking up to 3 times. The effect expires when she's no longer in-combat. This effect gains maximum stacks immediately on defeating an enemy.",
+                "Tsubaki_Talent_06_Desc_02": "\"When a feline Thiren gets positive reinforcement from aggressive behavior,\ntheir latent animalistic tendencies emerge.\nFortunately, these tendencies aren't permanent...\"\n—Excerpt from the Handbook of Incomplete Research on Feline Thirens",
+                "Tsubaki_Talent_06_Desc_01": "When Nekomata launches a <color=#FFFFFF>Chain Attack</color> or uses her <color=#FFFFFF>Ultimate</color>, her CRIT DMG increases by 18%, stacking up to 3 times. The effect expires when she's no longer in-combat. This effect gains maximum stacks immediately on defeating an enemy.",
+                "Tsubaki_Talent_06_Title_Realign": "Predator Lineage"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "Nicole",
+        "full_name": "Nicole Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "Supercharged Bomb",
+                "Nostradamus_Talent_01_Desc_01_Realign": "The DMG and the Anomaly Buildup inflicted by Nicole's <color=#FFFFFF>EX Special Attack</color> increases by 16%. For each additional 0.1s of charging when Nicole activates her <color=#FFFFFF>EX Special Attack</color>, the duration of the energy field created at the target location increases by 0.15s ",
+                "Nostradamus_Talent_01_Desc_02": "\"I've juiced you all up! Go get 'em!\"\n\"Huh? I-I wasn't slacking off, I swear — I just needed a break!\"",
+                "Nostradamus_Talent_01_Desc_01": "The DMG and the Anomaly Buildup inflicted by Nicole's <color=#FFFFFF>EX Special Attack</color> increases by 16%. For each additional 0.1s of charging when Nicole activates her <color=#FFFFFF>EX Special Attack</color>, the duration of the energy field created at the target location increases by 0.15s ",
+                "Nostradamus_Talent_01_Title_Realign": "Supercharged Bomb"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "Charging Device",
+                "Nostradamus_Talent_02_Desc_01_Realign": "Nicole recovers 5 Energy when <color=#FFFFFF>Core Passive: Mechanical Case's</color> debuff is triggered. This effect can trigger once every 15s.",
+                "Nostradamus_Talent_02_Desc_02": "\"Never underestimate the value of a single second!\"\n\"Do you have any idea how much extra I can squeeze out of just one second? It's unfathomable!\"\n\"So, can I get a productivity bonus? How about 10%, huh?\"",
+                "Nostradamus_Talent_02_Desc_01": "Nicole recovers 5 Energy when <color=#FFFFFF>Core Passive: Mechanical Case's</color> debuff is triggered. This effect can trigger once every 15s.",
+                "Nostradamus_Talent_02_Title_Realign": "Charging Device"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "A Hare's Cunning",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Nostradamus_Talent_03_Desc_02": "Without overpowering might or abundant resources, Nicole depended on her own sharp mind to bring the Cunning Hares to where they are today.",
+                "Nostradamus_Talent_03_Title_Realign": "A Hare's Cunning"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "Field Expansion",
+                "Nostradamus_Talent_04_Desc_01_Realign": "When Nicole uses her <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, the diameter of the energy field generated at the target location is increased by 3m.",
+                "Nostradamus_Talent_04_Desc_02": "\"This, and this too — all of this will soon become the Cunning Hares' territory. Do you hear me!\"\n\"W—What? How soon?\"\n\"Uh... in about ten thousand years, based on current revenue projections.\"",
+                "Nostradamus_Talent_04_Desc_01": "When Nicole uses her <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, the diameter of the energy field generated at the target location is increased by 3m.",
+                "Nostradamus_Talent_04_Title_Realign": "Field Expansion"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "Industry Star",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Nostradamus_Talent_05_Desc_02": "Though they have plenty of enemies in the industry, Nicole has led her team out of many impossible situations, and so their reputation and experience steadily grew.",
+                "Nostradamus_Talent_05_Title_Realign": "Industry Star"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "Corrupting Energy Field",
+                "Nostradamus_Talent_06_Desc_01_Realign": "When Nicole's energy fields deal DMG to an enemy, all squad member's CRIT Rate against that enemy increases by 1.5%, stacking up to 10 times, and lasting 12s. The duration of each stack is calculated separately.",
+                "Nostradamus_Talent_06_Desc_02": "A switch to higher quality ammo with better firepower and increased compressed Etheric Matter leads to higher damage, longer use duration... and higher costs.",
+                "Nostradamus_Talent_06_Desc_01": "When Nicole's energy fields deal DMG to an enemy, all squad member's CRIT Rate against that enemy increases by 1.5%, stacking up to 10 times, and lasting 12s. The duration of each stack is calculated separately.",
+                "Nostradamus_Talent_06_Title_Realign": "Corrupting Energy Field"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "Billy",
+        "full_name": "Billy Kid",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "Dazzling Entrance",
+                "Billy_Talent_01_Desc_01_Realign": "When Billy hits an enemy with a <color=#FFFFFF>Dash Attack</color> or <color=#FFFFFF>Dodge Counter</color>, he gains an additional 2.7 Energy. Can trigger once every 5s.",
+                "Billy_Talent_01_Desc_02": "\"You guys are way too honest to be bad guys!\"\n\"All lined up, like NPCs at the shooting range!\"",
+                "Billy_Talent_01_Desc_01": "When Billy hits an enemy with a <color=#FFFFFF>Dash Attack</color> or <color=#FFFFFF>Dodge Counter</color>, he gains an additional 2.7 Energy. Can trigger once every 5s.",
+                "Billy_Talent_01_Title_Realign": "Dazzling Entrance"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "Roaming Gunslinger",
+                "Billy_Talent_02_Desc_01_Realign": "Billy's <color=#FFFFFF>Dodge Counter</color> DMG increases by 25%. Rolling Shots during his <color=#FFFFFF>Basic Attacks</color> count as dodges, making Billy Invulnerable during skill activation and able to trigger <color=#FFFFFF>Perfect Dodges</color>. When a Rolling Shot triggers a <color=#FFFFFF>Perfect Dodge</color>, it will automatically follow up with a <color=#FFFFFF>Dodge Counter</color>.",
+                "Billy_Talent_02_Desc_02": "\"The Starlight Knights never run from danger. That's what we call tactical repositioning for better aim!\"\n— User \"Dreamgirl Monica\" from the Starlight Radiance messageboards.",
+                "Billy_Talent_02_Desc_01": "Billy's <color=#FFFFFF>Dodge Counter</color> DMG increases by 25%. Rolling Shots during his <color=#FFFFFF>Basic Attacks</color> count as dodges, making Billy Invulnerable during skill activation and able to trigger <color=#FFFFFF>Perfect Dodges</color>. When a Rolling Shot triggers a <color=#FFFFFF>Perfect Dodge</color>, it will automatically follow up with a <color=#FFFFFF>Dodge Counter</color>.",
+                "Billy_Talent_02_Title_Realign": "Roaming Gunslinger"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "Teachings of the Starlight Knights",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Billy_Talent_03_Desc_02": "Never neglect your training, and never stop improving! This is the philosophy of the Starlight Knights. Billy believes in it wholeheartedly, and practices it sincerely.",
+                "Billy_Talent_03_Title_Realign": "Teachings of the Starlight Knights"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "Starlight Ballistics",
+                "Billy_Talent_04_Desc_01_Realign": "When Billy hits an enemy with his <color=#FFFFFF>EX Special Attack</color>, the skill's CRIT Rate increases based on the distance from the enemy. The closer he is to the target, the greater the effect, up to a maximum increase of 32%.",
+                "Billy_Talent_04_Desc_02": "These explosive bullets of Billy's own invention are incredibly lethal at close range.\nTheir performance far outstrips Billy's original intention of simply making them cooler.",
+                "Billy_Talent_04_Desc_01": "When Billy hits an enemy with his <color=#FFFFFF>EX Special Attack</color>, the skill's CRIT Rate increases based on the distance from the enemy. The closer he is to the target, the greater the effect, up to a maximum increase of 32%.",
+                "Billy_Talent_04_Title_Realign": "Starlight Ballistics"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "Lost Technological Construct",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Billy_Talent_05_Desc_02": "Unknown precision components and unique structural design have given Billy performance far beyond his peers... And maintenance costs far beyond his means.",
+                "Billy_Talent_05_Title_Realign": "Lost Technological Construct"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "Starlight Hero",
+                "Billy_Talent_06_Desc_01_Realign": "When Billy accumulates 10 hits on enemies or triggers a <color=#FFFFFF>Perfect Dodge</color>, his DMG increases by 6%, stacking up to 5 times. The effect resets if he is knocked back or launched by an enemy.",
+                "Billy_Talent_06_Desc_02": "\"Hooboy~ Feelin' great! Move aside, Anby, it's my time to shine!\"\n\"Yo, Anby — can you play the Starlight Knight theme?\"\n—excerpt from Cunning Hares' \"Top 10 Forbidden Sentences,\" selected by Anby",
+                "Billy_Talent_06_Desc_01": "When Billy accumulates 10 hits on enemies or triggers a <color=#FFFFFF>Perfect Dodge</color>, his DMG increases by 6%, stacking up to 5 times and lasting until he's knocked back or launched by an attack.",
+                "Billy_Talent_06_Title_Realign": "Starlight Hero"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "Koleda",
+        "full_name": "Koleda Belobog",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "Beat of the Hammer",
+                "OokumaMari_Talent_01_Desc_01_Realign": "After the 2nd or 4th hit of Koleda's <color=#FFFFFF>Basic Attack</color> or her enhanced <color=#FFFFFF>Basic Attack</color>, quickly use a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> to increase the Daze dealt by 15%.",
+                "OokumaMari_Talent_01_Desc_02": "Her fiery temper is just a facade. In reality, Koleda's thoughts are quite intricate. For example, she knows when to swing her hammer for a more painful strike.",
+                "OokumaMari_Talent_01_Desc_01": "After the 2nd or 4th hit of Koleda's <color=#FFFFFF>Basic Attack</color> or her enhanced <color=#FFFFFF>Basic Attack</color>, quickly use a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> to increase the Daze dealt by 15%.",
+                "OokumaMari_Talent_01_Title_Realign": "Beat of the Hammer"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "Kinetic Recovery",
+                "OokumaMari_Talent_02_Desc_01_Realign": "When Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, she recovers 60 Energy. Can trigger once every 45s.",
+                "OokumaMari_Talent_02_Desc_02": "Koleda believes perfect hammering has its own natural rhythm.\nIt's like tapping a tambourine, with each hit building up the tempo of the next beat.\nOf course, it's hard to say how many taps her \"toys\" can endure.",
+                "OokumaMari_Talent_02_Desc_01": "When Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, she recovers 60 Energy. Can trigger once every 45s.",
+                "OokumaMari_Talent_02_Title_Realign": "Kinetic Recovery"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "\"Mind Your Own!\"",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "OokumaMari_Talent_03_Desc_02": "As a qualified \"toy,\" you better not cause trouble when Koleda starts to get a feel for swinging her hammer. Just take the beating.\n—After all, what's the point of resisting?",
+                "OokumaMari_Talent_03_Title_Realign": "\"Mind Your Own!\""
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "Furnace's Glow",
+                "OokumaMari_Talent_04_Desc_01_Realign": "Koleda gains one stack of Charge (max 2 stacks) when consuming <color=#FFFFFF>Furnace Fire</color> to use her Enhanced <color=#FFFFFF>Basic Attack</color>.\nWhen her <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she consumes all stacks of Charge to increase the attack's DMG by 18% per stack.",
+                "OokumaMari_Talent_04_Desc_02": "Koleda feels the flames of war as her hammer swings raise the surrounding temperature.\nShe's now even more flammable and explosive than Ether.",
+                "OokumaMari_Talent_04_Desc_01": "Koleda gains one stack of Charge (max 2 stacks) when consuming <color=#FFFFFF>Furnace Fire</color> to use her Enhanced <color=#FFFFFF>Basic Attack</color>. When her <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she consumes all stacks of Charge to increase the attack's DMG by 18% per stack.",
+                "OokumaMari_Talent_04_Title_Realign": "Furnace's Glow"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "\"You Dare Underestimate Me?\"",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "OokumaMari_Talent_05_Desc_02": "Koleda cares deeply about her role as a young leader potentially causing others to underestimate Belobog Heavy Industries. To compensate, she consistently trains diligently in secret.",
+                "OokumaMari_Talent_05_Title_Realign": "\"You Dare Underestimate Me?\""
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "Saturated Blast",
+                "OokumaMari_Talent_06_Desc_01_Realign": "When <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> triggers an explosion that hits an enemy, it deals additional DMG equal to 360% of Koleda's ATK.",
+                "OokumaMari_Talent_06_Desc_02": "There are two types of people that Koleda really hates:\nStupid people, and hopelessly stupid people.\nLuckily for her, Belobog always has a good supply of strong Ether explosives — plenty to use on the stupid.",
+                "OokumaMari_Talent_06_Desc_01": "When <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> triggers an explosion that hits an enemy, it deals additional DMG equal to 360% of Koleda's ATK.",
+                "OokumaMari_Talent_06_Title_Realign": "Saturated Blast"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "Anton",
+        "full_name": "Anton Ivanov",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "Warm-Up Exercises",
+                "Anton_Talent_01_Desc_01_Realign": "When <color=#FFFFFF>Drill Attack</color> hits an enemy, Anton gains additional Energy, up to a maximum of 5 Energy per skill use.",
+                "Anton_Talent_01_Desc_02": "\"Are you awake? Get spinning, bro!\"\n\"Try and keep up. It's time to do our stretches!\"",
+                "Anton_Talent_01_Desc_01": "When <color=#FFFFFF>Drill Attack</color> hits an enemy, Anton gains additional Energy, up to a maximum of 5 Energy per skill use.",
+                "Anton_Talent_01_Title_Realign": "Warm-Up Exercises"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "State of Flow",
+                "Anton_Talent_02_Desc_01_Realign": "When Anton uses his <color=#FFFFFF>EX Special Attack</color> and enters <color=#FFFFFF>Burst Mode</color>, he gains a Shield that equals to 7.5% of his Max HP.\nWhile in <color=#FFFFFF>Burst Mode</color>, entering combat or switching in reapplies the Shield effect. This effect can trigger once every 15s.\nThe Shield dissipates when <color=#FFFFFF>Burst Mode</color> ends.",
+                "Anton_Talent_02_Desc_02": "After arduous training, a few lucky individuals will display exceptional vigor and perform above their usual level during high-intensity activities, entering a state of flow commonly known as \"being in the zone.\"\nAre you ready to get moving and enter the zone?\n— Nitro-Fuel's exclusive program \"Good Morning, Zealous Office Workers!\"",
+                "Anton_Talent_02_Desc_01": "When Anton uses his <color=#FFFFFF>EX Special Attack</color> and enters <color=#FFFFFF>Burst Mode</color>, he gains a Shield that equals to 7.5% of his Max HP. While in <color=#FFFFFF>Burst Mode</color>, entering combat or switching in reapplies the Shield effect. This effect can trigger once every 15s. The Shield dissipates when <color=#FFFFFF>Burst Mode</color> ends.",
+                "Anton_Talent_02_Title_Realign": "State of Flow"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "Rotational Training",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Anton_Talent_03_Desc_02": "Knowing a bit of everything may seem underwhelming, but in a complex and ever-changing Hollow worksite, having a wide skillset can present an opportunity to overcome difficulties.",
+                "Anton_Talent_03_Title_Realign": "Rotational Training"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "Everyone Get Fired Up!",
+                "Anton_Talent_04_Desc_01_Realign": "When Anton uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, all squad members' CRIT Rate increases by 10% for 12s.",
+                "Anton_Talent_04_Desc_02": "\"Find your rhythm, and let's get moving!\"\nWhen Anton starts to get serious, everyone becomes more nimble.\nThey have to keep up or else they will be training alone the next day.",
+                "Anton_Talent_04_Desc_01": "When Anton uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, all squad members' CRIT Rate increases by 10% for 12s.",
+                "Anton_Talent_04_Title_Realign": "Everyone Get Fired Up!"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "Jack of All Trades",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Anton_Talent_05_Desc_02": "Knowing a bit of everything may seem underwhelming, but if you are resolute enough to change from \"knowing a bit\" to \"being excellent,\" then you become omnipotent!",
+                "Anton_Talent_05_Title_Realign": "Jack of All Trades"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "Break the Limit",
+                "Anton_Talent_06_Desc_01_Realign": "When Anton's <color=#FFFFFF>Piledriver Attack</color> triggers a critical hit, his <color=#FFFFFF>Basic Attack: Enthusiastic Drills (Burst Mode)</color> and <color=#FFFFFF>Dodge Counter: Overload Drill (Burst Mode)</color> deal 4% more DMG for 30s, stacking up to 6 times. Repeated triggers reset the duration.",
+                "Anton_Talent_06_Desc_02": "\"Yeah bro, can you feel the burn?\"\nWhenever Anton wants to exceed his limits,\nhis \"bro\" starts spinning at an astonishing pace, its buzzing echoing Anton's resolution.",
+                "Anton_Talent_06_Desc_01": "When Anton's <color=#FFFFFF>Piledriver Attack</color> triggers a critical hit, his <color=#FFFFFF>Basic Attack: Enthusiastic Drills (Burst Mode)</color> and <color=#FFFFFF>Dodge Counter: Overload Drill (Burst Mode)</color> deal 4% more DMG for 30s, stacking up to 6 times. Repeated triggers reset the duration.",
+                "Anton_Talent_06_Title_Realign": "Break the Limit"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "Ben",
+        "full_name": "Ben Bigger",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "Reacting Force",
+                "Ben_Talent_01_Desc_01_Realign": "When successfully Blocking an enemy with Ben's <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, the DMG dealt by the blocked enemy is reduced by 30% for 15s.",
+                "Ben_Talent_01_Desc_02": "\"Every action has an equal and opposite reaction. So why do you have to bash things head-on?\"\n\"Looks like your calculations are off.\"",
+                "Ben_Talent_01_Desc_01": "When successfully Blocking an enemy with Ben's <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, the DMG dealt by the blocked enemy is reduced by 30% for 15s.",
+                "Ben_Talent_01_Title_Realign": "Reacting Force"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "Offense Through Defense",
+                "Ben_Talent_02_Desc_01_Realign": "When successfully triggering a Block Counter during Ben's <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, inflict an additional 300% of Ben's DEF as DMG.",
+                "Ben_Talent_02_Desc_02": "Unlike other bear Thirens, Ben remains patient when fighting.\nHe believes if he keeps his defenses up, he can wait until the enemy reveals their weakness.",
+                "Ben_Talent_02_Desc_01": "When successfully triggering a Block Counter during Ben's <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, inflict an additional 300% of Ben's DEF as DMG.",
+                "Ben_Talent_02_Title_Realign": "Offense Through Defense"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "Careful Accounting",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Ben_Talent_03_Desc_02": "Financial responsibility demands mastering cost-efficiency and utilizing every available resource to enhance both the team and oneself.",
+                "Ben_Talent_03_Title_Realign": "Careful Accounting"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "Agile Adaptation",
+                "Ben_Talent_04_Desc_01_Realign": "When successfully blocking enemy DMG with Ben's invulnerable effect during his <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, the following counter deals 30% more DMG.",
+                "Ben_Talent_04_Desc_02": "Ben's professional accounting instincts let him adapt dynamically based on the situation.\nWhether dealing with accounts or enemies, it's important to achieve the best results at the lowest cost.",
+                "Ben_Talent_04_Desc_01": "When successfully blocking enemy DMG with Ben's invulnerable effect during his <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, the following counter deals 30% more DMG.",
+                "Ben_Talent_04_Title_Realign": "Agile Adaptation"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "Meticulous Detail",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Ben_Talent_05_Desc_02": "Ben's keen eye doesn't miss a single error in statements. The same goes for combat, where he gets progressively stronger as he corrects mistakes.",
+                "Ben_Talent_05_Title_Realign": "Meticulous Detail"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "Wild Spirit",
+                "Ben_Talent_06_Desc_01_Realign": "After launching an attack or follow-up attack during Ben's <color=#FFFFFF>EX Special Attack</color>, Daze inflicted by <color=#FFFFFF>Basic Attacks</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> is increased by 20%, lasting 12s.",
+                "Ben_Talent_06_Desc_02": "Bear Thirens are different from canine Thirens.\nThey can't be appeased with food alone.\nWhen they lose their temper, the only thing you can do is run for your life...\n—The discontinued \"Be a Good Neighbor! 100 Tips for Getting Along With Thirens\"",
+                "Ben_Talent_06_Desc_01": "After launching an attack or follow-up attack during Ben's <color=#FFFFFF>EX Special Attack</color>, Daze inflicted by <color=#FFFFFF>Basic Attacks</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> is increased by 20%, lasting 12s.",
+                "Ben_Talent_06_Title_Realign": "Wild Spirit"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "Grace",
+        "full_name": "Grace Howard",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "Recharge Chamber",
+                "Lisa_Talent_01_Desc_01_Realign": "When the 4th hit of Grace's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain 0.25 Energy.\nWithin the same move, this effect can grant a max of 2 Energy to all squad members.",
+                "Lisa_Talent_01_Desc_02": "Efficiency is the lifeblood of engineering, and within Grace's gun barrel resonates its heartbeat.",
+                "Lisa_Talent_01_Desc_01": "When the 4th hit of Grace's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain 0.25 Energy.\nWithin the same move, this effect can grant a max of 2 Energy to all squad members.",
+                "Lisa_Talent_01_Title_Realign": "Recharge Chamber"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "Lightning Piercer",
+                "Lisa_Talent_02_Desc_01_Realign": "When Grace's grenade hits an enemy during a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color>, the target's <color=#2EB6FF>Electric RES</color> is reduced by 8.5%, and <color=#2EB6FF>Electric Anomaly Buildup RES</color> is reduced by 8.5%, lasting for 8s.",
+                "Lisa_Talent_02_Desc_02": "\"Dissecting\" complex mechanical structures is Grace's greatest hobby, even in the midst of battle.\nHow does it feel to get taken apart, with every vulnerability laid bare?",
+                "Lisa_Talent_02_Desc_01": "When Grace's thrown grenade hits an enemy during a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color>, the target's <color=#2EB6FF>Electric RES</color> is reduced by 8.5%, and <color=#2EB6FF>Electric Anomaly Buildup RES</color> is reduced by 8.5%, lasting for 8s.",
+                "Lisa_Talent_02_Title_Realign": "Lightning Piercer"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "Chief Mechanic",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Lisa_Talent_03_Desc_02": "Grace was personally involved in writing the \"Belobog Industries' Construction Safety Guidelines.\"\nShe's also the employee who violated the \"no dangerous explosives at construction sites\" policy the most times.",
+                "Lisa_Talent_03_Title_Realign": "Chief Mechanic"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "Burst Capacitor",
+                "Lisa_Talent_04_Desc_01_Realign": "When Grace uses her <color=#FFFFFF>EX Special Attack</color>, she gains 6 stacks of Charge (max 6 stacks).\nWhen her <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy, 1 stack of Charge is consumed, increasing her Energy Generation Rate of the attack by 20%.",
+                "Lisa_Talent_04_Desc_02": "Anton suspected within the component Grace referred to as the \"Electropulse Recycling Module,\" there was, in fact, an Ether hamster tirelessly generating energy around the clock.\n\"Can you equip my bro with one too?\"",
+                "Lisa_Talent_04_Desc_01": "When Grace uses her <color=#FFFFFF>EX Special Attack</color>, she gains 6 stacks of Charge (max 6 stacks). When her <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy, 1 stack of Charge is consumed, increasing her Energy Generation Rate of the attack by 20%.",
+                "Lisa_Talent_04_Title_Realign": "Burst Capacitor"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "\"Frosty Cold Iron Witch\"",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Lisa_Talent_05_Desc_02": "The \"Frosty Cold Iron Witch\" is capable of taming any mechanical beast, or at least that's what the anonymous fan who came up with the name thinks.",
+                "Lisa_Talent_05_Title_Realign": "\"Frosty Cold Iron Witch\""
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "Detonation Trigger",
+                "Lisa_Talent_06_Desc_01_Realign": "When all <color=#FFFFFF>Zap</color> stacks are consumed to activate a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Grace's skill is enhanced, tossing an extra grenade and increasing each grenade's DMG to 200%.",
+                "Lisa_Talent_06_Desc_02": "The average blood temperature of Belobog Heavy Industries' employees is ninety-eight degrees Celsius. Grace is often viewed as the safety valve keeping them all from boiling.\nWhen even Grace gives up control, it's a sign for everyone to cover their ears.",
+                "Lisa_Talent_06_Desc_01": "When all <color=#FFFFFF>Zap</color> stacks are consumed to activate a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Grace's skill is enhanced, tossing an extra grenade and increasing each grenade's DMG to 200%.",
+                "Lisa_Talent_06_Title_Realign": "Detonation Trigger"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "Corin",
+        "full_name": "Corin Wickes",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "Open Trauma",
+                "Corin_Talent_01_Desc_01_Realign": "When Corin's <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, her DMG against the target increases by 12% for 15s.",
+                "Corin_Talent_01_Desc_02": "\"The young mistress always said, if something's worth doing, it's worth focusing on.\"\n\"I've been practicing, and I can do it now!\"\n\"But... are you watching me...?\"",
+                "Corin_Talent_01_Desc_01": "When Corin's <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, her DMG against the target increases by 12% for 15s.",
+                "Corin_Talent_01_Title_Realign": "Open Trauma"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "Atomic Smash",
+                "Corin_Talent_02_Desc_01_Realign": "When Corin's <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, the target's <color=#F0D12B>Physical RES</color> is reduced by 0.5%, stacking up to 20 times and lasting 5s. The duration of each stack is calculated separately.",
+                "Corin_Talent_02_Desc_02": "\"Sorry, Mr. or Ms. Ethereal!\"\n\"But I've got work to do... I really am sorry!\"\nFeeling guilty, Corin sincerely apologizes to the monster — as she wields her savage chainsaw, slicing through the enemies in her way.",
+                "Corin_Talent_02_Desc_01": "When Corin's <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, the target's <color=#F0D12B>Physical RES</color> is reduced by 0.5%, stacking up to 20 times and lasting 5s. The duration of each stack is calculated separately.",
+                "Corin_Talent_02_Title_Realign": "Atomic Smash"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "Amateur Maid",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Corin_Talent_03_Desc_02": "\"I—I'll do my best to become a good maid!\" Corin said, walking towards the Ethereals, chainsaw in hand.",
+                "Corin_Talent_03_Title_Realign": "Amateur Maid"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "Battlefield Retainer",
+                "Corin_Talent_04_Desc_01_Realign": "When Corin uses a <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Chain Attack</color>, she recovers 7.2 Energy. This effect can trigger once every 16s.",
+                "Corin_Talent_04_Desc_02": "A diligent and serious young maid, Corin always puts her heart and soul into everything she does.\nOf course, that includes taking out enemies in combat.",
+                "Corin_Talent_04_Desc_01": "When Corin uses a <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Chain Attack</color>, she recovers 7.2 Energy. This effect can trigger once every 16s.",
+                "Corin_Talent_04_Title_Realign": "Battlefield Retainer"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "Special Ops Maid",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Corin_Talent_05_Desc_02": "\"Uh... sorry, I'm so clumsy. I don't know how to make sure my cuts are even...\"\n—Said Corin as she looked down at the bits of Ethereal scattered across the ground.",
+                "Corin_Talent_05_Title_Realign": "Special Ops Maid"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "Accumulated Release",
+                "Corin_Talent_06_Desc_01_Realign": "When Corin's extended slash hits an enemy, she obtains a stack of Charge (max 40 stacks).\nDuring a <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, or <color=#FFFFFF>Assist Follow-Up</color>, when her chainsaw detonation hits an enemy, consumes all stacks of Charge. Each stack consumed causes the attack to deal an additional 3% of ATK as DMG.",
+                "Corin_Talent_06_Desc_02": "Corin knows that she isn't the most powerful of maids, nor the smartest. But she hopes to become the hardest working.\nShe puts to good use everything she's ever learned.",
+                "Corin_Talent_06_Desc_01": "When Corin's extended slash hits an enemy, she obtains a stack of Charge (max 40 stacks).\nDuring a <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, or <color=#FFFFFF>Assist Follow-Up</color>, when her chainsaw detonation hits an enemy, consumes all stacks of Charge. Each stack consumed causes the attack to deal an additional 3% of ATK as DMG.",
+                "Corin_Talent_06_Title_Realign": "Accumulated Release"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "Lycaon",
+        "full_name": "Von Lycaon",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "Full Moon Momentum",
+                "Lycaon_Talent_01_Desc_01_Realign": "When Lycaon's <color=#FFFFFF>EX Special Attack</color> hits an enemy, the attack's Daze increases by 12%. This effect can trigger once every 8s. When he charges his <color=#FFFFFF>EX Special Attack</color> to completion, this buff will increase by an additional 10%.",
+                "Lycaon_Talent_01_Desc_02": "Records suggest that werewolves exposed to moonlight become significantly more aggressive.\n\"Don't stare directly at the moon.\"",
+                "Lycaon_Talent_01_Desc_01": "When Lycaon's <color=#FFFFFF>EX Special Attack</color> hits an enemy, the attack's Daze increases by 12%. This effect can trigger once every 8s. When he charges his <color=#FFFFFF>EX Special Attack</color> to completion, this buff will increase by an additional 10%.",
+                "Lycaon_Talent_01_Title_Realign": "Full Moon Momentum"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "Energy Feedback",
+                "Lycaon_Talent_02_Desc_01_Realign": "When Stunning an enemy or triggering a squad member's <color=#FFFFFF>Chain Attack</color>, Lycaon gains 5 Energy. Can trigger once every 1s.",
+                "Lycaon_Talent_02_Desc_02": "\"Canines receive a brief dopamine boost in their brains after completing semi-complex tasks. At that moment, if their owner pets them to show encouragement, they will be extremely happy...\"\n—Excerpt from the \"Handbook of Unreliable Canine Research\"",
+                "Lycaon_Talent_02_Desc_01": "When Stunning an enemy or triggering a squad member's <color=#FFFFFF>Chain Attack</color>, Lycaon gains 5 Energy. Can trigger once every 1s.",
+                "Lycaon_Talent_02_Title_Realign": "Energy Feedback"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "Attendant Training",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Lycaon_Talent_03_Desc_02": "His every gesture exudes poise, and his words and actions are as refreshing as a spring breeze. An attendant's training is about maintaining control over everything.",
+                "Lycaon_Talent_03_Title_Realign": "Attendant Training"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "Graceful Demeanor",
+                "Lycaon_Talent_04_Desc_01_Realign": "If Lycaon is attacked while using a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Special Attack</color>, he will immediately gain a Shield equal to 7.5% of his Max HP, lasting for 15s. During the Shield's duration, his Anti-Interrupt level is increased. This effect can trigger once every 15s.",
+                "Lycaon_Talent_04_Desc_02": "\"An outstanding attendant maintains a graceful demeanor at any and all times.\"",
+                "Lycaon_Talent_04_Desc_01": "If Lycaon is attacked while using a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Special Attack</color>, he will immediately gain a Shield equal to 7.5% of his Max HP, lasting for 15s.\nDuring the Shield's duration, his Anti-Interrupt level is increased. This effect can trigger once every 15s.",
+                "Lycaon_Talent_04_Title_Realign": "Graceful Demeanor"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "Alpha Nature",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Lycaon_Talent_05_Desc_02": "His glance harbors a primal ferocity, and the echoes of his howls rumble within his throat. Regardless of his current gracefulness, underneath the formal wear, he's still untamed.",
+                "Lycaon_Talent_05_Title_Realign": "Alpha Nature"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "Ruthless Hunter",
+                "Lycaon_Talent_06_Desc_01_Realign": "When a charged attack hits an enemy, the target suffers 10% increased DMG from Lycaon, stacking up to 5 times and lasting 12s.\nOnly one stack can be gained per skill use, and repeated triggers reset the duration.",
+                "Lycaon_Talent_06_Desc_02": "\"Apologies, but given the circumstances, I will not show any mercy.\"\n\"After all, if a fair fight is what you are after, a Hollow is not the place to look for it.\"",
+                "Lycaon_Talent_06_Desc_01": "When a charged attack hits an enemy, the target suffers 10% increased DMG from Lycaon, stacking up to 5 times and lasting 12s. Only one stack can be gained per skill use, and repeated triggers reset the duration.",
+                "Lycaon_Talent_06_Title_Realign": "Ruthless Hunter"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "Ellen",
+        "full_name": "Ellen Joe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "Glacial Omen",
+                "Ellen_Talent_01_Desc_01_Realign": "Upon hitting an enemy with a Swift Scissors strike during <color=#FFFFFF>Dash Attack: Arctic Ambush</color>, the obtained <color=#FFFFFF>Flash Freeze Charges</color> are increased to 3.\nUpon hitting an enemy with a Charged Scissors strike during <color=#FFFFFF>Dash Attack: Arctic Ambush</color>, the obtained <color=#FFFFFF>Flash Freeze Charges</color> are increased to 6.\nFor each <color=#FFFFFF>Flash Freeze Charge</color> consumed, Ellen's CRIT Rate is increased by 2% for 15s, stacking up to 6 times. The duration of each stack is calculated separately.",
+                "Ellen_Talent_01_Desc_02": "Chilling winds are an omen of winter, and a signal that Ellen is about to apply for extended leave to hibernate.\nSpeaking of which, do sharks actually need to hibernate?",
+                "Ellen_Talent_01_Desc_01": "Upon hitting an enemy with a Swift Scissors strike during <color=#FFFFFF>Dash Attack: Arctic Ambush</color>, the obtained <color=#FFFFFF>Flash Freeze Charges</color> are increased to 3. Upon hitting an enemy with a Charged Scissors strike during <color=#FFFFFF>Dash Attack: Arctic Ambush</color>, the obtained <color=#FFFFFF>Flash Freeze Charges</color> are increased to 6. For each <color=#FFFFFF>Flash Freeze Charge</color> consumed, Ellen's CRIT Rate is increased by 2% for 15s, stacking up to 6 times. The duration of each stack is calculated separately.",
+                "Ellen_Talent_01_Title_Realign": "Glacial Omen"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "Arctic Ocean Predator",
+                "Ellen_Talent_02_Desc_01_Realign": "The 3rd hit of <color=#FFFFFF>Basic Attack: Flash Freeze Trimming</color> can be directly followed up with <color=#FFFFFF>EX Special Attack: Sharknami</color>.\nWhen using an <color=#FFFFFF>EX Special Attack</color>, each <color=#FFFFFF>Flash Freeze Charge</color> increases the current attack's CRIT DMG by 20%, up to a maximum of 60%.",
+                "Ellen_Talent_02_Desc_02": "Despite being freshly stained with red, the massive shears held by Ellen lacked any trace of warmth.\nThe icy cold stems from her iron-forged instrument, as well as the fear of facing a predator such as herself.",
+                "Ellen_Talent_02_Desc_01": "The 3rd hit of <color=#FFFFFF>Basic Attack: Flash Freeze Trimming</color> can be directly followed up with <color=#FFFFFF>EX Special Attack: Sharknami</color>. For each point of <color=#FFFFFF>Flash Freeze Charge</color> when using an <color=#FFFFFF>EX Special Attack</color>, the current attack's CRIT DMG is increased by 20%, up to a max of 60%.",
+                "Ellen_Talent_02_Title_Realign": "Arctic Ocean Predator"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "Overtime-Intolerant",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Ellen_Talent_03_Desc_02": "The whole point of \"efficiency\" is being able to go home early and sleep.\nSo strike harder and strike faster.",
+                "Ellen_Talent_03_Title_Realign": "Overtime-Intolerant"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "Endless Hoarfrost",
+                "Ellen_Talent_04_Desc_01_Realign": "Whenever a squad member <color=#98EFF0>Freezes</color> or Stuns an enemy, Ellen gains 6 <color=#FFFFFF>Flash Freeze Charges</color> and the <color=#FFFFFF>Quick Charge</color> effect. She also recovers 4 Energy. The Energy recovery effect can trigger once per 10s.",
+                "Ellen_Talent_04_Desc_02": "A relentless assault of piercing cold. Terrifying monstrosities will learn the beauty and cruelty of winter under Ellen's blade.\nBut, actually, the endless work that maids have during holidays is far more cruel... ",
+                "Ellen_Talent_04_Desc_01": "Whenever a squad member <color=#98EFF0>Freezes</color> or Stuns an enemy, Ellen gains 6 <color=#FFFFFF>Flash Freeze Charges</color> and the <color=#FFFFFF>Quick Charge</color> effect. She also recovers 4 Energy. The Energy recovery effect can trigger once per 10s.",
+                "Ellen_Talent_04_Title_Realign": "Endless Hoarfrost"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "Adequate Sleep",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Ellen_Talent_05_Desc_02": "Except for when in the toughest of battles, Ellen always seems to have that \"I can fall asleep at any moment\" look.\nMany an enemy has met their demise after underestimating Ellen because of it.",
+                "Ellen_Talent_05_Title_Realign": "Adequate Sleep"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "The Feast Begins",
+                "Ellen_Talent_06_Desc_01_Realign": "When Ellen uses an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or gains <color=#FFFFFF>Quick Charge</color>, her PEN Ratio increases by 20% for 6s. She also gains 1 stack of <color=#FFFFFF>The Feast Begins</color>, up to a maximum of 3 stacks. With 3 stacks of <color=#FFFFFF>The Feast Begins</color>, using a Charged Scissors strike during <color=#FFFFFF>Dash Attack: Arctic Ambush</color> consumes all stacks, increasing the DMG of the current attack by 250%.",
+                "Ellen_Talent_06_Desc_02": "An open wound, a drop of blood. A thrilling hunt, a grand feast. A fragile life, a moment of satisfaction.",
+                "Ellen_Talent_06_Desc_01": "When Ellen uses an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or gains <color=#FFFFFF>Quick Charge</color>, her PEN Ratio increases by 20% for 6s. She also gains 1 stack of <color=#FFFFFF>The Feast Begins</color>, up to a maximum of 3 stacks. With 3 stacks of <color=#FFFFFF>The Feast Begins</color>, using a Charged Scissors strike during <color=#FFFFFF>Dash Attack: Arctic Ambush</color> consumes all stacks, increasing the DMG of the current attack by 250%.",
+                "Ellen_Talent_06_Title_Realign": "The Feast Begins"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "Rina",
+        "full_name": "Alexandrina Sebastiane",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "Dance Duet",
+                "Rina_Talent_01_Desc_01_Realign": "After being sent out to launch an attack, Drusilla and Anastella stay in place for an additional 5.5s before returning to Rina.\nThe buff gained from <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> by characters within 10m is increased to 130%.",
+                "Rina_Talent_01_Desc_02": "\"Get your work done, or you're in for a beating!\" is how Drusilla tries to encourage everyone.\n\"Yeah, a beating!\" Anastella always chimes in.",
+                "Rina_Talent_01_Desc_01": "After being sent out to launch an attack, Drusilla and Anastella stay in place for an additional 5.5s before returning to Rina.\nThe effect gained from <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> by characters within 10m is increased to 130% of the original value.",
+                "Rina_Talent_01_Title_Realign": "Dance Duet"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "Master's Paragon",
+                "Rina_Talent_02_Desc_01_Realign": "Upon entering combat or switching in, Rina's DMG increases by 15% for 12s. This effect can trigger once every 18s.",
+                "Rina_Talent_02_Desc_02": "\"It takes an excellent head maid to lead excellent maids, and an exemplary master to raise exemplary Bangboo.\" — Excerpt from Rina's speech at the \"Victoria Housekeeping Human Resource Management and Bangboo Training Insight Seminar.\"",
+                "Rina_Talent_02_Desc_01": "Upon entering combat or switching in, Rina's DMG increases by 15% for 12s. This effect can trigger once every 18s.",
+                "Rina_Talent_02_Title_Realign": "Master's Paragon"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "Head Maid's Specialty",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Rina_Talent_03_Desc_02": "Rina always has the confidence to excel at anything and the ability to annihilate everything.\nHowever, when it comes to being in the mood to annihilate enemies, both her confidence and capability align.",
+                "Rina_Talent_03_Title_Realign": "Head Maid's Specialty"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "Needle and Hammer",
+                "Rina_Talent_04_Desc_01_Realign": "Rina's Energy Regen increases by 0.5/s when both Drusilla and Anastella are deployed.\nThe effect ends when Drusilla or Anastella returns to Rina.",
+                "Rina_Talent_04_Desc_02": "Drusilla and Anastella can never agree on anything.\n\"Beating up the dummy in front\" is an exception.",
+                "Rina_Talent_04_Desc_01": "Rina's Energy Regen increases by 0.5/s when both Drusilla and Anastella are deployed. The effect ends when Drusilla or Anastella returns to Rina.",
+                "Rina_Talent_04_Title_Realign": "Needle and Hammer"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "Head Maid Perfectionist",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Rina_Talent_05_Desc_02": "\"Rina\" means perfection in the Bangboo language.\nPerfectionism is the number one rule in the Victoria Housekeeping handbook.\nAnd Rina has her own criteria for judging \"perfection.\"",
+                "Rina_Talent_05_Title_Realign": "Head Maid Perfectionist"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "Stormy Night's Fright",
+                "Rina_Talent_06_Desc_01_Realign": "When an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, the entire squad's <color=#2EB6FF>Electric DMG</color> is increased by 15% for 8s.",
+                "Rina_Talent_06_Desc_02": "Thunder rumbles in the old castle on a rainy night. The depths of the long corridors are filled with eerie shadows.\nFear circuits overloaded, the filming of a thriller commences.",
+                "Rina_Talent_06_Desc_01": "When an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, the entire squad's <color=#2EB6FF>Electric DMG</color> is increased by 15% for 8s.",
+                "Rina_Talent_06_Title_Realign": "Stormy Night's Fright"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "Soldier 11",
+        "full_name": "Soldier 11",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "Rapid Heat",
+                "Longinus_Talent_01_Desc_01_Realign": "When Soldier 11 enters combat or switches in, if her Energy is less than 40, her Energy is recovered to 80. This effect can trigger once every 50s.",
+                "Longinus_Talent_01_Desc_02": "Long-term high-intensity combat training allows Soldier 11 to complete mastery of her regulatory systems.\nShe will always strive to ensure that she's in the best shape for each and every battle.",
+                "Longinus_Talent_01_Desc_01": "When Soldier 11 enters combat or switches in, if her Energy is less than 40, her Energy is recovered to 80. This effect can trigger once every 50s.",
+                "Longinus_Talent_01_Title_Realign": "Rapid Heat"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "Scorching Convergence",
+                "Longinus_Talent_02_Desc_01_Realign": "When triggering <color=#FFFFFF>Fire Suppression</color>, <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> DMG increases by 3%, up to 12 stacks, lasting 15s, with the duration of each stack calculated separately.",
+                "Longinus_Talent_02_Desc_02": "\"She may look cold and hard, like a big ice cube... But actually, she's scalding hot inside, like a blazing fire.\"\n— From an anonymous soldier of the Obsidian Division",
+                "Longinus_Talent_02_Desc_01": "When triggering <color=#FFFFFF>Fire Suppression</color>, <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> DMG increases by 3%, up to 12 stacks, lasting 15s, with the duration of each stack calculated separately.",
+                "Longinus_Talent_02_Title_Realign": "Scorching Convergence"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "Elite Soldier",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Longinus_Talent_03_Desc_02": "Soldier 11 always expects the most from herself, no matter if it's in training or physical combat. That is how she maintains her combat prowess.",
+                "Longinus_Talent_03_Title_Realign": "Elite Soldier"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "Indulgent Blaze",
+                "Longinus_Talent_04_Desc_01_Realign": "If <color=#FFFFFF>Fire Suppression</color> is triggered during the 1st, 2nd, or 3rd hit of Soldier 11's <color=#FFFFFF>Basic Attack</color> or a <color=#FFFFFF>Dash Attack</color>, Anti-Interrupt Level increases and DMG received is reduced by 18% during skill activation.\nIf <color=#FFFFFF>Fire Suppression</color> is triggered during the 4th hit of her <color=#FFFFFF>Basic Attack</color>, she becomes invulnerable during skill activation.",
+                "Longinus_Talent_04_Desc_02": "She envies fire. And these smoldering flames will always help her.",
+                "Longinus_Talent_04_Desc_01": "If <color=#FFFFFF>Fire Suppression</color> is triggered during the 1st, 2nd, or 3rd hit of Soldier 11's <color=#FFFFFF>Basic Attack</color> or a <color=#FFFFFF>Dash Attack</color>, Anti-Interrupt Level increases and DMG received is reduced by 18% during skill activation.\nIf <color=#FFFFFF>Fire Suppression</color> is triggered during the 4th hit of her <color=#FFFFFF>Basic Attack</color>, she becomes invulnerable during skill activation.",
+                "Longinus_Talent_04_Title_Realign": "Indulgent Blaze"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "Perfect Soldier",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Longinus_Talent_05_Desc_02": "The road from elite to exemplar is long and difficult, but Soldier 11 grits her teeth and perseveres, as if there's something pushing her towards the goal of becoming a perfect soldier...",
+                "Longinus_Talent_05_Title_Realign": "Perfect Soldier"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "Scorching Flow",
+                "Longinus_Talent_06_Desc_01_Realign": "When Soldier 11 uses her <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she gains 8 stacks of Charge (max 8 stacks).\nWhen <color=#FFFFFF>Fire Suppression</color> is triggered, 1 stack of Charge is consumed, causing the current move to ignore 25% of the target's <color=#FF5521>Fire RES</color>.",
+                "Longinus_Talent_06_Desc_02": "The flames of the sword distorted the air with their heat. Her movements grew ever more impassioned, as if that heat seeped into her spirit with every breath, igniting her thoughts.",
+                "Longinus_Talent_06_Desc_01": "When Soldier 11 uses her <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she gains 8 stacks of Charge (max 8 stacks).\nWhen <color=#FFFFFF>Fire Suppression</color> is triggered, 1 stack of Charge is consumed, causing the current move to ignore 25% of the target's <color=#FF5521>Fire RES</color>.",
+                "Longinus_Talent_06_Title_Realign": "Scorching Flow"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "Zhu Yuan",
+        "full_name": "Zhu Yuan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "Quick Reload",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "When Zhu Yuan activates a <color=#FFFFFF>Chain Attack</color>/<color=#FFFFFF>Ultimate</color>, she gains the <color=#FFFFFF>Quick Reload</color> effect.\nWhen Zhu Yuan has the <color=#FFFFFF>Quick Reload</color> effect and uses up all <color=#FFFFFF>Enhanced Shotshells</color>, the <color=#FFFFFF>Quick Reload</color> effect will be consumed to instantly gain 6/9 <color=#FFFFFF>Enhanced Shotshells</color>.",
+                "ZhuYuan_Talent_01_Desc_02": "Zhu Yuan once competed in the Janus Quarter's Public Security Officer Contest, clinching first place with her extraordinary reloading techniques. Her colleague commented: \"It's nothing but sheer practice.\"",
+                "ZhuYuan_Talent_01_Desc_01": "When Zhu Yuan activates <color=#FFFFFF>Chain Attacks</color>/<color=#FFFFFF>Ultimates</color>, gain the <color=#FFFFFF>Quick Reload</color> effect. When Zhu Yuan has the <color=#FFFFFF>Quick Reload</color> effect and uses up all <color=#FFFFFF>Enhanced Shotshells</color>, the <color=#FFFFFF>Quick Reload</color> effect will be consumed to instantly gain 6/9 <color=#FFFFFF>Enhanced Shotshells</color>.",
+                "ZhuYuan_Talent_01_Title_Realign": "Quick Reload"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "Ether Ember",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "In <color=#FFFFFF>Suppressive Mode</color>, Zhu Yuan's Anti-Interrupt level is increased and DMG taken reduced by 10%.\nWhen Zhu Yuan hits an enemy with <color=#FFFFFF>Enhanced Shotshells</color>, the target takes 10% more <color=#FE437E>Ether DMG</color> from <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> and <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color>, stacking up to 5 times and lasting for 5s.\nEach shot adds one stack of this effect, and repeated triggers reset the duration.",
+                "ZhuYuan_Talent_02_Desc_02": "Zhu Yuan is equipped with Ether bullets specially designed by Public Security, which cause irreversible corruption upon hitting the enemy.\nThis is why Zhu Yuan always warns her enemies to surrender and stop resisting before she fires. It really is for their own health and safety...",
+                "ZhuYuan_Talent_02_Desc_01": "In <color=#FFFFFF>Suppressive Mode</color>, Zhu Yuan's Anti-Interrupt level is increased and DMG taken reduced by 10%. When Zhu Yuan hits an enemy with <color=#FFFFFF>Enhanced Shotshells</color>, deal 10% more <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> and <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> <color=#FE437E>Ether DMG</color>, stacking up to 5 times and lasting for 5s. Each shot adds one stack of this effect, and repeated triggers reset the duration.",
+                "ZhuYuan_Talent_02_Title_Realign": "Ether Ember"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "Public Security Special Training",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "ZhuYuan_Talent_03_Desc_02": "As an elite Public Security Officer, Zhu Yuan's training focused on a single objective: to enhance all aspects of her combat abilities within the Hollow, ensuring she could outmatch any criminal.",
+                "ZhuYuan_Talent_03_Title_Realign": "Public Security Special Training"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "Ether Perforation",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "When Zhu Yuan hits an enemy with <color=#FFFFFF>Enhanced Shotshells</color>, her <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> and <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> ignore 25% of the target's <color=#FE437E>Ether RES</color>.",
+                "ZhuYuan_Talent_04_Desc_02": "When in battle, the gangs in the Hollows often try to quietly calculate how many bullets their enemies have left. What they don't know is that Zhu Yuan's custom magazine can recharge itself with the Ether in the air...",
+                "ZhuYuan_Talent_04_Desc_01": "When Zhu Yuan hits an enemy with <color=#FFFFFF>Enhanced Shotshells</color>, her <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> and <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> ignore 25% of the target's <color=#FE437E>Ether RES</color>.",
+                "ZhuYuan_Talent_04_Title_Realign": "Ether Perforation"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "Special Ops Experience",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "ZhuYuan_Talent_05_Desc_02": "A seasoned Public Security Officer excels at reading the battlefield, striking precisely and maximizing combat efficiency. Sometimes, one stern look is enough to make her enemies think twice about putting up a fight.",
+                "ZhuYuan_Talent_05_Title_Realign": "Special Ops Experience"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "Expanded Energy Pack III",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "When Zhu Yuan consumes a total of 12 <color=#FFFFFF>Enhanced Shotshells</color>, she receives the <color=#FFFFFF>Ether Afterglow</color> effect, and the Energy cost of the next <color=#FFFFFF>EX Special Attack</color> is reduced by 30.\nLaunching an <color=#FFFFFF>EX Special Attack</color> will consume <color=#FFFFFF>Ether Afterglow</color> and shoot an additional 4-bullet Ether Buckshot.\nEach extra bullet deals DMG equal to 220% of Zhu Yuan's ATK.",
+                "ZhuYuan_Talent_06_Desc_02": "Zhu Yuan often worries about her gear's remaining battery, getting nervous when the power dips into the red zone and consciously saving power. Public Security finally equipped her with an energy pack that offered both high capacity and long-lasting endurance.",
+                "ZhuYuan_Talent_06_Desc_01": "When Zhu Yuan consumes a total of 12 <color=#FFFFFF>Enhanced Shotshells</color>, she receives the <color=#FFFFFF>Ether Afterglow</color> effect, and the Energy cost of the next <color=#FFFFFF>EX Special Attack</color> is reduced by 30. Launching an <color=#FFFFFF>EX Special Attack</color> will consume <color=#FFFFFF>Ether Afterglow</color> and shoot an additional 4-bullet Ether Buckshot. Each extra bullet deals DMG equal to 220% of Zhu Yuan's ATK.",
+                "ZhuYuan_Talent_06_Title_Realign": "Expanded Energy Pack III"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "Qingyi",
+        "full_name": "Qingyi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "Insulation Breakdown",
+                "QingYi_Talent_01_Desc_01_Realign": "When Qingyi enters combat, <color=#FFFFFF>Flash Connect Voltage</color> is instantly restored to its maximum, and the accumulation rate is increased by 30%.\nWhen using her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, if <color=#FFFFFF>Flash Connect Voltage</color> is at its maximum, the attack will reduce the DEF of the enemy it hits by 15%, and Qingyi's CRIT Rate against that enemy will increase by 20% for 15s.",
+                "QingYi_Talent_01_Desc_02": "\"While there will be no threat to your life, we kindly request you do not resist arrest...\"\nThe direction and intensity of the current have been precisely calculated to ensure that every suspect receives a safe electric shock experience.",
+                "QingYi_Talent_01_Desc_01": "When Qingyi enters combat, <color=#FFFFFF>Flash Connect Voltage</color> is instantly restored to its maximum, and the accumulation rate is increased by 30%. When using her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, if <color=#FFFFFF>Flash Connect Voltage</color> is at its maximum, the attack will reduce the DEF of the enemy it hits by 15%, and Qingyi's CRIT Rate against that enemy will increase by 20% for 15s.",
+                "QingYi_Talent_01_Title_Realign": "Insulation Breakdown"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "Minimal Effort, Maximum Impact",
+                "QingYi_Talent_02_Desc_01_Realign": "The Stun DMG Multiplier increase provided by each stack of <color=#FFFFFF>Subjugation</color> in <color=#FFFFFF>Core Passive: Eternal Seasons</color> increases to 135% of its original value.\nWhen Qingyi's attack hits an enemy and the stacks of <color=#FFFFFF>Subjugation</color> she applies reaches its maximum stacks, her Daze dealt to the target increases by 15%.",
+                "QingYi_Talent_02_Desc_02": "An ancient combat technique mentioned in old civillization texts. It seems to have started as a martial arts technique, rather than a staff technique.\n\"Don't be so constrained, the arm itself can be used like a three-section staff, mhm.\"",
+                "QingYi_Talent_02_Desc_01": "The Stun DMG Multiplier increase provided by each stack of <color=#FFFFFF>Subjugation</color> in <color=#FFFFFF>Core Passive: Eternal Seasons</color> increases to 135% of its original value. When Qingyi's attack hits an enemy and the stacks of <color=#FFFFFF>Subjugation</color> she applies reaches its maximum stacks, her Daze dealt to the target increases by 15%.",
+                "QingYi_Talent_02_Title_Realign": "Minimal Effort, Maximum Impact"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "Drink Hot Water",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "QingYi_Talent_03_Desc_02": "\"Young people should be mindful their health, and drinking more hot water is a good start.\"\nQingyi always appears comforted when she drinks from her flask. But be careful if she offers you a drink—\n\"Even 100-degree Celsius boiling water doesn't faze her...\" One Public Security Officer who encountered this left such a note.",
+                "QingYi_Talent_03_Title_Realign": "Drink Hot Water"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "Stable Arc Barrier",
+                "QingYi_Talent_04_Desc_01_Realign": "Upon entering or exiting <color=#FFFFFF>Flash Connect</color> state, gain a shield equal to 10% of Qingyi's Max HP.\nIf a previous shield is still active when the shield effect refreshes, Qingyi generates 5 Energy. This Energy Generation effect can be triggered once every 10s.",
+                "QingYi_Talent_04_Desc_02": "By reverse-engineering Automatons from the old civilization, the White Star Institute developed the Arc Barrier, a technology that combines defense, attack, and electrical energy conversion.\n\"As the saying goes: Water can float a boat or sink it. Physics has a saying: Electric current flows like water. Therefore: Electric current can be used both offensively and defensively. It's a fantastic combination.\"",
+                "QingYi_Talent_04_Desc_01": "Upon entering or exiting <color=#FFFFFF>Flash Connect</color> state, gain a shield equal to 10% of Qingyi's Max HP. If a previous shield is still active when the shield effect refreshes, Qingyi generates 5 Energy. This Energy Generation effect can be triggered once every 10s.",
+                "QingYi_Talent_04_Title_Realign": "Stable Arc Barrier"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "Youthful Spirit",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "QingYi_Talent_05_Desc_02": "\"Great, young people should be courageous and try new things. Keep it up!\"\nIt sometimes feels like Qingyi's encouragement is lazy and teasing, but if you really get into trouble, just rely on her.\nAfter all, she's been around for centuries and can handle anything.",
+                "QingYi_Talent_05_Title_Realign": "Youthful Spirit"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "Eight Meridians",
+                "QingYi_Talent_06_Desc_01_Realign": "The Interrupt Level of <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color> is greatly increased, and the CRIT DMG is increased by an additional 100%.\nWhen Qingyi hits an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the target's Attribute DMG RES is reduced by 20% for 15s.",
+                "QingYi_Talent_06_Desc_02": "A theory about the human circulatory system documented in ancient texts from the old civilization. It's said those who fully master this theory can instantly disable an opponent in a fight.\n\"How about trying the pressure points that cause itching next time? Who should be the guinea pig? Manager? Or Zhu Yuan?\"",
+                "QingYi_Talent_06_Desc_01": "The Interrupt Level of <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color> is greatly increased, and the CRIT DMG is increased by an additional 100%. When Qingyi hits an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the target's Attribute DMG RES is reduced by 20% for 15s.",
+                "QingYi_Talent_06_Title_Realign": "Eight Meridians"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "Jane",
+        "full_name": "Jane Doe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "Crime Counsel",
+                "JaneDoe_Talent_01_Desc_01_Realign": "The maximum uses of <color=#FFFFFF>Basic Attack: Salchow Jump</color> are increased by one.\nWhile in the <color=#FFFFFF>Passion</color> state, Jane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by an extra 15% and each point of Jane's Anomaly Proficiency increases her DMG by 0.1%, up to a maximum increase of 30%.",
+                "JaneDoe_Talent_01_Desc_02": "\"A criminal consultant advises on criminology, not on how to actually commit crimes.\"\nJane suddenly leaned closer and blinked.\n\"Of course, if you see it as the latter... I won't mind.\"",
+                "JaneDoe_Talent_01_Desc_01": "The maximum uses of <color=#FFFFFF>Basic Attack: Salchow Jump</color> are increased by one. While in the <color=#FFFFFF>Passion</color> state, Jane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by an extra 15% and each point of Jane's Anomaly Proficiency increases her DMG by 0.1%, up to a maximum increase of 30%.",
+                "JaneDoe_Talent_01_Title_Realign": "Crime Counsel"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "Adapt to the Environment",
+                "JaneDoe_Talent_02_Desc_01_Realign": "When Jane's attack hits an enemy in the <color=#FFFFFF>Gnawed</color> state, or when any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state, 15% of the enemy's DEF is ignored. Additionally, when <color=#F0D12B>Assault</color> DMG triggers a critical hit, the CRIT DMG dealt is increased by an additional 50%.",
+                "JaneDoe_Talent_02_Desc_02": "Gaze into the abyss, and it gazes back. That's only the first step.\n\"Then you must approach, enter, and understand it. This is the second step.\"\n\"The final step... is to resist becoming it.\"",
+                "JaneDoe_Talent_02_Desc_01": "When Jane's attack hits an enemy in the <color=#FFFFFF>Gnawed</color> state, or when any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state, 15% of the enemy's DEF is ignored. Additionally, when <color=#F0D12B>Assault</color> DMG triggers a critical hit, the CRIT DMG dealt is increased by an additional 50%.",
+                "JaneDoe_Talent_02_Title_Realign": "Adapt to the Environment"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "Anonymity",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "JaneDoe_Talent_03_Desc_02": "\"Anonymity — that means to become anyone. Your favorite person, perhaps~\"\n\"Or maybe, your worst fear?\"",
+                "JaneDoe_Talent_03_Title_Realign": "Anonymity"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "Adapt and Thrive",
+                "JaneDoe_Talent_04_Desc_01_Realign": "When any squad member triggers the <color=#F0D12B>Assault</color> or <color=#FFFFFF>Disorder</color> effects, all squad members' Attribute Anomaly DMG is increased by 18%, lasting 15s.",
+                "JaneDoe_Talent_04_Desc_02": "\"Whether you're a hunter or the hunted usually depends on your perspective. However, I favor a more straightforward assessment—\"\n\"The Loser is the prey.\"",
+                "JaneDoe_Talent_04_Desc_01": "When any squad member triggers the <color=#F0D12B>Assault</color> or <color=#FFFFFF>Disorder</color> effects, all squad members' Attribute Anomaly DMG is increased by 18%, lasting 15s.",
+                "JaneDoe_Talent_04_Title_Realign": "Adapt and Thrive"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "Compulsive Hoarder",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "JaneDoe_Talent_05_Desc_02": "Jane's room is filled with all sorts of things, especially fast food.\n\"Isn't it nice here? There's food within reach everywhere~\"",
+                "JaneDoe_Talent_05_Title_Realign": "Compulsive Hoarder"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "\"Shady\" Technique",
+                "JaneDoe_Talent_06_Desc_01_Realign": "While in the <color=#FFFFFF>Passion</color> state, Jane's CRIT Rate increases by 20%, and CRIT DMG by 40%. After any squad member inflicts <color=#F0D12B>Assault</color>, Jane instantly enters the <color=#FFFFFF>Passion</color> state, and gains max <color=#FFFFFF>Passion Stream</color>. When <color=#F0D12B>Assault</color> triggers a critical hit, Jane performs an additional attack on the target, dealing <color=#F0D12B>Physical DMG</color> equal to 1,600% of her Anomaly Proficiency.",
+                "JaneDoe_Talent_06_Desc_02": "On the streets, the means don't matter, only the outcome.\n\"Seeing the darkest desires reveals the most crucial weaknesses.\"",
+                "JaneDoe_Talent_06_Desc_01": "While in the <color=#FFFFFF>Passion</color> state, Jane's CRIT Rate increases by 20%, and CRIT DMG by 40%. After any squad member inflicts <color=#F0D12B>Assault</color>, Jane instantly enters the <color=#FFFFFF>Passion</color> state, and gains max <color=#FFFFFF>Passion Stream</color>. When <color=#F0D12B>Assault</color> triggers a critical hit, Jane performs an additional attack on the target, dealing <color=#F0D12B>Physical DMG</color> equal to 1,600% of her Anomaly Proficiency.",
+                "JaneDoe_Talent_06_Title_Realign": "\"Shady\" Technique"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "Seth",
+        "full_name": "Seth Lowell",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "Heroism",
+                "Seth_Talent_01_Desc_01_Realign": "The shield value provided by <color=#FFFFFF>Shield of Firm Resolve</color> and its maximum limit is increased by 30%.\nWhen <color=#FFFFFF>Shield of Firm Resolve</color> ends, the Anomaly Proficiency increase provided by <color=#FFFFFF>Core Passive: Protector</color> lasts an additional 10s.",
+                "Seth_Talent_01_Desc_02": "When it comes to team missions, Seth is always leading the charge.\n\"Let me handle the arrests! I scored a 99 in close-quarters arrests, and the only point deducted was because I accidentally sprained the instructor's wrist.\"",
+                "Seth_Talent_01_Desc_01": "The shield value provided by <color=#FFFFFF>Shield of Firm Resolve</color> and its maximum limit is increased by 30%. When <color=#FFFFFF>Shield of Firm Resolve</color> ends, the Anomaly Proficiency increase provided by <color=#FFFFFF>Core Passive: Protector</color> lasts an additional 10s.",
+                "Seth_Talent_01_Title_Realign": "Heroism"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "Recklessness of Youth",
+                "Seth_Talent_02_Desc_01_Realign": "Upon entering battle, Seth immediately gains 75% <color=#FFFFFF>Resolve</color>.\nHitting an enemy with <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> increases the move's accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by 35%.",
+                "Seth_Talent_02_Desc_02": "Many criminals make the mistake of underestimating Seth.\nIt might be his pure, clear eyes or those innocent-looking furry ears and tail. Whatever the reason, everyone who underestimates him eventually pays the price.",
+                "Seth_Talent_02_Desc_01": "Upon entering battle, Seth immediately gains 75% <color=#FFFFFF>Resolve</color>. Hitting an enemy with <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> increases the move's accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by 35%.",
+                "Seth_Talent_02_Title_Realign": "Recklessness of Youth"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "Slow Reflexes",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Seth_Talent_03_Desc_02": "\"A skilled officer like you must handle everything on your own, right? No help from others, surely?\"\nEven after hearing this, Seth remained composed and didn't say a word.\nIt wasn't until midnight that he suddenly woke up: \"Could that guy's comment earlier... have been a dig at me?\"",
+                "Seth_Talent_03_Title_Realign": "Slow Reflexes"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "Core Aspiration",
+                "Seth_Talent_04_Desc_01_Realign": "The Daze caused by <color=#FFFFFF>Defensive Assist: Thundershield</color> is increased by 25%.",
+                "Seth_Talent_04_Desc_02": "\"Put aside your foolish notions of good and evil. You can't protect everyone. Sometimes, you have to make a choice.\"\n\"This is my choice, and it's the core responsibility of an officer — you're the one who has changed, Brother.\"",
+                "Seth_Talent_04_Desc_01": "The Daze caused by <color=#FFFFFF>Defensive Assist: Thundershield</color> is increased by 25%.",
+                "Seth_Talent_04_Title_Realign": "Core Aspiration"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "Distant Admiration",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Seth_Talent_05_Desc_02": "Seth used to deeply admire and respect his older brother. But as you know, \"admiration\" is the furthest thing from \"understanding.\"\n\"Someday, I'll become the finest officer... and make him eat his words!\"",
+                "Seth_Talent_05_Title_Realign": "Distant Admiration"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "Idealist",
+                "Seth_Talent_06_Desc_01_Realign": "When Seth lands a Finishing Move on an enemy with <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color>, it deals additional damage equal to 500% of his ATK. The attack is guaranteed to trigger a critical hit, and CRIT DMG is increased by 60%.",
+                "Seth_Talent_06_Desc_02": "To a young person, everything is clear-cut, with a stark contrast between black and white, right and wrong.\nThere will always be someone who tries to tell him that the world is a murky gray. But is a world where everything is clear-cut and distinct really not worth striving for?",
+                "Seth_Talent_06_Desc_01": "When Seth lands a Finishing Move on an enemy with <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color>, it deals additional damage equal to 500% of his ATK. The attack is guaranteed to trigger a critical hit, and CRIT DMG is increased by 60%.",
+                "Seth_Talent_06_Title_Realign": "Idealist"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "Caesar",
+        "full_name": "Caesar King",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "Spearhead Advance",
+                "Caesar_Talent_01_Desc_01_Realign": "When Caesar enters combat or switches in, she instantly buffs the entire team with a <color=#FFFFFF>Radiant Aegis</color> shield. This effect can trigger once every 300s.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, enemies within a 5m radius of the shield bearer suffer a 15% All-Attribute RES reduction.",
+                "Caesar_Talent_01_Desc_02": "\"Big Daddy taught me that this is when you form a spearheaded formation with overwhelming force and strike at the enemy's weakest point—\"\n\"And I'll be leading the charge, of course!\"",
+                "Caesar_Talent_01_Desc_01": "When Caesar enters combat or switches in, she instantly buffs all squad members with a <color=#FFFFFF>Radiant Aegis</color> shield. This effect can trigger once every 300s. While <color=#FFFFFF>Radiant Aegis</color> is active, enemies within a 5m radius of the shield bearer suffer a 15% All-Attribute RES reduction.",
+                "Caesar_Talent_01_Title_Realign": "Spearhead Advance"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "Legacy of the Far Lands",
+                "Caesar_Talent_02_Desc_01_Realign": "While <color=#FFFFFF>Radiant Aegis</color> from <color=#FFFFFF>Core Passive: Barrier of Resilience</color> is active, Caesar's Energy Generation Rate increases by 10%, and the shield bearer's ATK boost is increased to 150% of its original value.",
+                "Caesar_Talent_02_Desc_02": "Caesar's combat style stands out from those of New Eridu or the Outer Ring, drawing from the techniques of the most skilled warriors among the wanderers.\nKnowing when to hold back and when to strike decisively — that has always been the wanderer's way of survival. And Caesar has always been a good student of this philosophy.",
+                "Caesar_Talent_02_Desc_01": "While <color=#FFFFFF>Radiant Aegis</color> from <color=#FFFFFF>Core Passive: Barrier of Resilience</color> is active, Caesar's Energy Generation Rate increases by 10%, and the shield bearer's ATK boost is increased to 150% of its original value.",
+                "Caesar_Talent_02_Title_Realign": "Legacy of the Far Lands"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "Absolute Trust",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Caesar_Talent_03_Desc_02": "Once Caesar recognizes someone as one of her own, she fully accepts them as part of her inner circle. She gives them absolute trust, letting her guard down completely...\nJust like she does with you now.",
+                "Caesar_Talent_03_Title_Realign": "Absolute Trust"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "Aries the Battering-Ram",
+                "Caesar_Talent_04_Desc_01_Realign": "When Caesar uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, she gains 3 additional <color=#FFFFFF>Assist Points</color>.\nIf her Energy is below 20, she can activate <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> with 1 <color=#FFFFFF>Assist Point</color> instead. This substitution can trigger once every 5s.",
+                "Caesar_Talent_04_Desc_02": "One of the tactics Caesar mastered under the guidance of the wanderers.\n\"No matter what, I'll fight till the last moment!\"",
+                "Caesar_Talent_04_Desc_01": "When Caesar uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, she gains 3 additional <color=#FFFFFF>Assist Points</color>. If her Energy is below 20, she can activate <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> with 1 <color=#FFFFFF>Assist Point</color> instead. This substitution can trigger once every 5s.",
+                "Caesar_Talent_04_Title_Realign": "Aries the Battering-Ram"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "Romantic Conquest",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Caesar_Talent_05_Desc_02": "Behind Caesar's carefree and unpolished appearance lies a romantic at heart.\nShe's always curious about love stories.\nBut if you dig a little deeper into the subject... you might just catch her blushing.",
+                "Caesar_Talent_05_Title_Realign": "Romantic Conquest"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "Overlord's Will",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> and <color=#FFFFFF>Assist Follow-Up</color> are guaranteed to trigger a critical hit. The skill's DMG is increased by 50% and deals additional 50% DMG to the primary target.\nWhen Caesar uses <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> or <color=#FFFFFF>Assist Follow-Up</color>, her CRIT Rate is increased by 30% and her CRIT DMG is increased by 60% for 15s.",
+                "Caesar_Talent_06_Desc_02": "\"I used to keep my eyes straight ahead, thinking that as long as I was strong enough, I could do anything.\"\n\"But being a great leader takes more than just power.\"\n\"I need to protect my friends behind me — they are the reason I can keep going.\"",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> and <color=#FFFFFF>Assist Follow-Up</color> are guaranteed to trigger a critical hit. The skill's DMG is increased by 50% and deals additional 50% DMG to the primary target. When Caesar uses <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> or <color=#FFFFFF>Assist Follow-Up</color>, her CRIT Rate is increased by 30% and her CRIT DMG is increased by 60% for 15s.",
+                "Caesar_Talent_06_Title_Realign": "Overlord's Will"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "Lucy",
+        "full_name": "Luciana de Montefio",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "Drill Formations",
+                "Lucy_Talent_01_Desc_01_Realign": "When the guard boars launch <color=#FFFFFF>Guard Boars: Spinning Swing!</color>, Lucy recovers 2 Energy. This effect can trigger once every 15s, with each guard boar having its own separate cooldown.",
+                "Lucy_Talent_01_Desc_02": "\"Grassy, eyes right! ...That's left, you idiot!!!\"\nOne command, two directions, three cries of pain, and wails all around.",
+                "Lucy_Talent_01_Desc_01": "When the guard boars launch <color=#FFFFFF>Guard Boars: Spinning Swing!</color>, Lucy recovers 2 Energy. This effect can trigger once every 15s, with each guard boar having its own separate cooldown.",
+                "Lucy_Talent_01_Title_Realign": "Drill Formations"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "Little Boar Captain",
+                "Lucy_Talent_02_Desc_01_Realign": "When Lucy uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, it grants all squad members, Bangboo, and the guard boars the <color=#FFFFFF>Cheer On!</color> status for 10s.",
+                "Lucy_Talent_02_Desc_02": "\"Without a doubt, Captain Lucy is the best leader of the Calydon Boar Thirens!\"\nThis was Woody's conclusion in the \"Sons of Calydon Annual Report.\"",
+                "Lucy_Talent_02_Desc_01": "When Lucy uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, it grants all squad members, Bangboo, and the guard boars the <color=#FFFFFF>Cheer On!</color> status for 10s.",
+                "Lucy_Talent_02_Title_Realign": "Little Boar Captain"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "Ironfist Overseer",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Lucy_Talent_03_Desc_02": "\"I just wish Captain Lucy would be more gentle when she's smacking us around.\"\nWoody thought, but didn't dare say it out loud.",
+                "Lucy_Talent_03_Title_Realign": "Ironfist Overseer"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "Chaos Ball Game",
+                "Lucy_Talent_04_Desc_01_Realign": "While in the <color=#FFFFFF>Cheer On!</color> state, allies' CRIT DMG is increased by an additional 10%.",
+                "Lucy_Talent_04_Desc_02": "Rules and ribs are made to be broken.",
+                "Lucy_Talent_04_Desc_01": "While in the <color=#FFFFFF>Cheer On!</color> state, allies' CRIT DMG is increased by an additional 10%.",
+                "Lucy_Talent_04_Title_Realign": "Chaos Ball Game"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "Wildland Princess",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Lucy_Talent_05_Desc_02": "She speaks politely to opponents screaming under her bat.\nShe apologizes to enemies groveling at her feet.\nThis is the perfect etiquette of a noble lady.",
+                "Lucy_Talent_05_Title_Realign": "Wildland Princess"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "Fierce Fangs of Fire",
+                "Lucy_Talent_06_Desc_01_Realign": "When an ally in the <color=#FFFFFF>Cheer On!</color> state hits an enemy with an <color=#FFFFFF>EX Special Attack</color>, a guard boar will drop from the sky and cause an explosion, dealing <color=#FF5521>Fire DMG</color> equal to 300% of the guard boar's ATK. This will extend the duration of the <color=#FFFFFF>Cheer On!</color> buff for all squad members by 5s. The duration can increase up to 3 times, with a maximum duration of 30s. Refreshing the <color=#FFFFFF>Cheer On!</color> state resets the stack count. After the guard boar's explosion, it will launch <color=#FFFFFF>Guard Boars: Spinning Swing!</color>.",
+                "Lucy_Talent_06_Desc_02": "The little boar Thirens known as the Crimson Mane Guard are always at the forefront of battle!\nThough it's hard to tell if, at the moment they're launched by the bat, they feel total despair or just accept their fate.\nBrave little boars, leading the charge!",
+                "Lucy_Talent_06_Desc_01": "When an ally in the <color=#FFFFFF>Cheer On!</color> state hits an enemy with an <color=#FFFFFF>EX Special Attack</color>, a guard boar will drop from the sky and cause an explosion, dealing <color=#FF5521>Fire DMG</color> equal to 300% of the guard boar's ATK. This will extend the duration of the <color=#FFFFFF>Cheer On!</color> buff for all squad members by 5s. The duration can increase up to 3 times, with a maximum duration of 30s. Refreshing the <color=#FFFFFF>Cheer On!</color> state resets the stack count. After the guard boar's explosion, it will launch <color=#FFFFFF>Guard Boars: Spinning Swing!</color>.",
+                "Lucy_Talent_06_Title_Realign": "Fierce Fangs of Fire"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "Lighter",
+        "full_name": "Lighter",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "The Champion",
+                "Lighter_Talent_01_Desc_01_Realign": "Among the debuffs imposed by <color=#FFFFFF>Core Passive: Accelerant</color>, the <color=#FFFFFF>Collapse</color> effect increases Stun duration by 5s, while further reducing <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> by 10%. The more powerful Finishing Move that follows when Lighter's <color=#FFFFFF>Morale</color> is completely exhausted during a startup light punch or jab combo deals 30% increased DMG.",
+                "Lighter_Talent_01_Desc_02": "Victory for the champion is crucial. By facing off against the strongest fighter from the opposing side, he eliminates the threat to his leader — bringing an immense morale uplift to the team.\nFor him, only victory deserves recognition.\n\"The Champion cannot be defeated.\"",
+                "Lighter_Talent_01_Desc_01": "Among the debuffs imposed by <color=#FFFFFF>Core Passive: Accelerant</color>, the <color=#FFFFFF>Collapse</color> effect increases Stun duration by 5s, while further reducing <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> by 10%. The more powerful Finishing Move that follows when Lighter's <color=#FFFFFF>Morale</color> is completely exhausted during a startup light punch or jab combo deals 30% increased DMG.",
+                "Lighter_Talent_01_Title_Realign": "The Champion"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "Red Scarf",
+                "Lighter_Talent_02_Desc_01_Realign": "When applying <color=#FFFFFF>Collapse</color> via <color=#FFFFFF>Core Passive: Accelerant</color> to enemies, the target's Stun DMG Multiplier increases by 25%. The increase to <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> provided by <color=#FFFFFF>Elation</color> from <color=#FFFFFF>Additional Ability: Fighting Spirit</color> increases to 120% of the original.",
+                "Lighter_Talent_02_Desc_02": "As the \"Red Scarf\" of the Sons of Calydon, Lighter is quite famous in the Outer Ring, and not just because of his fists, but also due to... his unique way of speaking.\n\"I enjoy taking it easy... but you wouldn't manage without me, would you?\"",
+                "Lighter_Talent_02_Desc_01": "When applying <color=#FFFFFF>Collapse</color> via <color=#FFFFFF>Core Passive: Accelerant</color> to enemies, the target's Stun DMG Multiplier increases by 25%. The increase to <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> provided by <color=#FFFFFF>Elation</color> from <color=#FFFFFF>Additional Ability: Fighting Spirit</color> increases to 120% of the original.",
+                "Lighter_Talent_02_Title_Realign": "Red Scarf"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "Mercenary Leader",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Lighter_Talent_03_Desc_02": "\"I'm probably the last person anyone should pick as their leader.\"",
+                "Lighter_Talent_03_Title_Realign": "Mercenary Leader"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "Sunglasses",
+                "Lighter_Talent_04_Desc_01_Realign": "When Lighter is off-field, the Energy Regen for the on-field character is increased by 10%. Upon entering the <color=#FFFFFF>Morale Burst</color> state, Lighter restores 4 Energy for off-field characters. This effect can trigger once every 18s.",
+                "Lighter_Talent_04_Desc_02": "\"You're asking why I wear sunglasses? Uh... it's because I get queasy at the sight of blood, I guess.\"",
+                "Lighter_Talent_04_Desc_01": "When Lighter is off-field, the Energy Regen for the on-field character is increased by 10%. Upon entering the <color=#FFFFFF>Morale Burst</color> state, Lighter restores 4 Energy for off-field characters. This effect can trigger once every 18s.",
+                "Lighter_Talent_04_Title_Realign": "Sunglasses"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "Decision Maker",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Lighter_Talent_05_Desc_02": "\"Give me an order, and I'll carry it out. It's that simple.\"\nLighter adjusted his sunglasses with a carefree smile.\n\"Just don't put me in charge of making decisions.\"",
+                "Lighter_Talent_05_Title_Realign": "Decision Maker"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "Survivor",
+                "Lighter_Talent_06_Desc_01_Realign": "Lighter's <color=#FFFFFF>Morale</color> recovery efficiency is increased to 200% of its original value. When Lighter lands a heavy strike on enemies during a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it will trigger the <color=#FFFFFF>Blazing Impact</color> effect, dealing 250% of ATK as <color=#FF5521>Fire DMG</color>. This effect can trigger once every 8s on each enemy. If Lighter's Impact exceeds 170 points, each additional point will further increase the multiplier of <color=#FFFFFF>Blazing Impact</color> by 5%, up to a maximum increase of 500%. The more powerful Finishing Move that follows when Lighter's <color=#FFFFFF>Morale</color> is completely exhausted during a light punch or jab combo will trigger an additional activation of <color=#FFFFFF>Blazing Impact</color> when hitting an enemy, ignoring the effect's cooldown.",
+                "Lighter_Talent_06_Desc_02": "If given the chance to do it all over again, he would never opt to be the only survivor.\nUnfortunately, fate is rarely a choice.",
+                "Lighter_Talent_06_Desc_01": "Lighter's <color=#FFFFFF>Morale</color> recovery efficiency is increased to 200% of its original value. When Lighter lands a heavy strike on enemies during a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it will trigger the <color=#FFFFFF>Blazing Impact</color> effect, dealing 250% of ATK as <color=#FF5521>Fire DMG</color>. This effect can trigger once every 8s on each enemy. If Lighter's Impact exceeds 170 points, each additional point will further increase the multiplier of <color=#FFFFFF>Blazing Impact</color> by 5%, up to a maximum increase of 500%. The more powerful Finishing Move that follows when Lighter's <color=#FFFFFF>Morale</color> is completely exhausted during a light punch or jab combo will trigger an additional activation of <color=#FFFFFF>Blazing Impact</color> when hitting an enemy, ignoring the effect's cooldown.",
+                "Lighter_Talent_06_Title_Realign": "Survivor"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "Burnice",
+        "full_name": "Burnice White",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "Kindred Flames",
+                "Burnice_Talent_01_Desc_01_Realign": "Increases the limit of <color=#FFFFFF>Heat</color> from 100 to 140. Upon entering the battlefield, Burnice accumulates an additional 40 <color=#FFFFFF>Heat</color>.\nIncreases the DMG Multiplier of the <color=#FFFFFF>Afterburn</color> effect by 100% of Burnice's ATK.\nAdditionally, the accumulated <color=#FF5521>Fire Anomaly Buildup</color> from the <color=#FFFFFF>Afterburn</color> effect is increased by 25%.",
+                "Burnice_Talent_01_Desc_02": "\"Everyone has rough times; it's perfectly normal!\"\n\"Cheer up, Caesar! How about a Nitro-Fuel special? I added a ton of sugar!\"",
+                "Burnice_Talent_01_Desc_01": "Increases the limit of <color=#FFFFFF>Heat</color> from 100 to 140. Upon entering the battlefield, Burnice accumulates an additional 40 <color=#FFFFFF>Heat</color>. Increases the DMG Multiplier of the <color=#FFFFFF>Afterburn</color> effect by 100% of Burnice's ATK. Additionally, the accumulated <color=#FF5521>Fire Anomaly Buildup</color> from the <color=#FFFFFF>Afterburn</color> effect is increased by 25%.",
+                "Burnice_Talent_01_Title_Realign": "Kindred Flames"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "Extra at No Additional Charge",
+                "Burnice_Talent_02_Desc_01_Realign": "When triggering the <color=#FFFFFF>Afterburn</color> effect, <color=#FFFFFF>Thermal Penetration</color> is applied to the enemy, stacking up to 5 times and lasting 6s. Repeated triggers reset the duration. When any allied unit in the squad hits the enemy, the attack's PEN Ratio is increased by 4% for each stack of <color=#FFFFFF>Thermal Penetration</color>, up to a max of 20%.",
+                "Burnice_Talent_02_Desc_02": "As the mixologist for the Sons of Calydon, Burnice takes great pleasure in crafting the best Nitro-Fuel drinks in New Eridu for her friends.\nOf course, if you happen to be her enemy... you might have the opportunity to try a new and unique flavor too.\n\"It's a once-in-a-lifetime, absolutely exquisite taste!\"",
+                "Burnice_Talent_02_Desc_01": "When triggering the <color=#FFFFFF>Afterburn</color> effect, <color=#FFFFFF>Thermal Penetration</color> is applied to the enemy, stacking up to 5 times and lasting 6s. Repeated triggers reset the duration. When any allied unit in the squad hits the enemy, the attack's PEN Ratio is increased by 4% for each stack of <color=#FFFFFF>Thermal Penetration</color>, up to a max of 20%.",
+                "Burnice_Talent_02_Title_Realign": "Extra at No Additional Charge"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "Optimistic by Nature",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Burnice_Talent_03_Desc_02": "\"That Burnice, she's always so full of energy! Even right after waking up! I have no idea where she gets all that energy...\"\n\"What's even scarier is that she can get everyone around her to be just as enthusiastic! It's almost like she's some kind of monster!\"\n\"But... I don't really dislike it, to be honest...\"\n— From a boar manager who wishes to remain unnamed",
+                "Burnice_Talent_03_Title_Realign": "Optimistic by Nature"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "Ultimate Fuel Supply",
+                "Burnice_Talent_04_Desc_01_Realign": "When an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Assist Attack</color> hits an enemy, the move's CRIT Rate increases by 30%.\nThe max flame spray duration of <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> is increased by 1s.",
+                "Burnice_Talent_04_Desc_02": "\"You like the drink I mixed? Thanks! Steeltusk likes them too~ That guy can drink 200 liters in one go!\"\n\"Oh, Steeltusk is our big truck!\"\n\"Wanna try some of its special fuel? It's pretty fiery~\"",
+                "Burnice_Talent_04_Desc_01": "When an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Assist Attack</color> hits an enemy, the move's CRIT Rate increases by 30%. The max flame spray duration of <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> is increased by 1s.",
+                "Burnice_Talent_04_Title_Realign": "Ultimate Fuel Supply"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "Dance of Fire and Ice",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Burnice_Talent_05_Desc_02": "When mixing drinks, ice is a crucial element.\nWithout an intense chill, the intense heat just doesn't stand out.\n\"That fusion of fire and ice~ It's truly captivating!\"",
+                "Burnice_Talent_05_Title_Realign": "Dance of Fire and Ice"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "Burning Invitation",
+                "Burnice_Talent_06_Desc_01_Realign": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect, dealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>.\nAfter hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active, <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> effects will ignore 25% of the target's <color=#FF5521>Fire RES</color>.\nWhen <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>, trigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
+                "Burnice_Talent_06_Desc_02": "It seems like no one has ever seen Burnice truly angry.\n\"Trust me, you don't want to see it.\"\n— From a driver getting ready to sleep atop Steeltusk",
+                "Burnice_Talent_06_Desc_01": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect, dealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>. After hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active, <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> effects will ignore 25% of the target's <color=#FF5521>Fire RES</color>. When <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>, trigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
+                "Burnice_Talent_06_Title_Realign": "Burning Invitation"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "Piper",
+        "full_name": "Piper Wheel",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "Leisure Moment",
+                "Clara_Talent_01_Desc_01_Realign": "When Piper's <color=#FFFFFF>Special Attack: Tire Spin</color>, <color=#FFFFFF>EX Special Attack: Engine Spin</color>, or <color=#FFFFFF>Ultimate</color> hits an enemy with a spinning slash, there is a 50% chance to gain an additional stack of <color=#FFFFFF>Power</color>. The maximum stack limit of <color=#FFFFFF>Power</color> is increased to 30.",
+                "Clara_Talent_01_Desc_02": "One ordinary morning at Sons of Calydon, Piper lets out a lazy yawn.\n\"Good morning—\"\n\"Can we have another relaxing day today? It's important to take it easy, or else lil ol' me might end up working meself to death—\"",
+                "Clara_Talent_01_Desc_01": "When Piper's <color=#FFFFFF>Special Attack: Tire Spin</color>, <color=#FFFFFF>EX Special Attack: Engine Spin</color>, or <color=#FFFFFF>Ultimate</color> hits an enemy with a spinning slash, there is a 50% chance to gain an additional stack of <color=#FFFFFF>Power</color>. The maximum stack limit of <color=#FFFFFF>Power</color> is increased to 30.",
+                "Clara_Talent_01_Title_Realign": "Leisure Moment"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "Motivation",
+                "Clara_Talent_02_Desc_01_Realign": "During <color=#FFFFFF>Special Attack: Tire Spin</color> and <color=#FFFFFF>EX Special Attack: Engine Spin</color>, Piper's movement speed increases. When using <color=#FFFFFF>Special Attack: One Trillion Tons</color>, <color=#FFFFFF>EX Special Attack: Really Heavy</color>, or <color=#FFFFFF>Ultimate</color> to launch a downward smash that hits an enemy, the <color=#F0D12B>Physical DMG</color> dealt by the move is increased by 10%. For each stack of <color=#FFFFFF>Power</color>, this buff is further increased by 1%.",
+                "Clara_Talent_02_Desc_02": "A bit of effort now means more rest later.\nThough, it'd be even better if I didn't have to put in any effort at all — Piper stretches, pats the soft bed in her truck, and lies down.",
+                "Clara_Talent_02_Desc_01": "During <color=#FFFFFF>Special Attack: Tire Spin</color> and <color=#FFFFFF>EX Special Attack: Engine Spin</color>, Piper's movement speed increases. When using <color=#FFFFFF>Special Attack: One Trillion Tons</color>, <color=#FFFFFF>EX Special Attack: Really Heavy</color>, or <color=#FFFFFF>Ultimate</color> to launch a downward smash that hits an enemy, the <color=#F0D12B>Physical DMG</color> dealt by the move is increased by 10%. For each stack of <color=#FFFFFF>Power</color>, this buff is further increased by 1%.",
+                "Clara_Talent_02_Title_Realign": "Motivation"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "Truck Expert",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Clara_Talent_03_Desc_02": "Piper is always all about trucks.\nEven when she's fast asleep, the rumble of an engine snaps her awake in an instant:\n\"100 horsepower, 5-ton capacity... must be the new light truck from Three Gates Industries!\"",
+                "Clara_Talent_03_Title_Realign": "Truck Expert"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "Refined Techniques",
+                "Clara_Talent_04_Desc_01_Realign": "Whenever a squad member inflicts an Attribute Anomaly on an enemy, Piper recovers 20 Energy. This effect can trigger once every 30s.",
+                "Clara_Talent_04_Desc_02": "Riding with Piper is a heart-pounding experience.\nBy the time she drawls out, \"Hold~ on~ tight~,\" the truck is already barreling down the road.\nShe always gets you to your destination fast—though your nerves might take a hit.",
+                "Clara_Talent_04_Desc_01": "Whenever a squad member inflicts an Attribute Anomaly on an enemy, Piper recovers 20 Energy. This effect can trigger once every 30s.",
+                "Clara_Talent_04_Title_Realign": "Refined Techniques"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "Personal Hobbies",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Clara_Talent_05_Desc_02": "Piper seems to have some hobbies that are not what you'd expect from her.\n\"This horse looks like a real runner... Hmm, but not many people are betting on it. Guess the one with the higher win rate is the safer bet...\"\n\"Burp— Nitro-Fuel... I can drink more... Gimme another one!\"",
+                "Clara_Talent_05_Title_Realign": "Personal Hobbies"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "Mild Excitement",
+                "Clara_Talent_06_Desc_01_Realign": "Increases the duration limit of <color=#FFFFFF>EX Special Attack: Engine Spin</color> by 2s and extends the duration of <color=#FFFFFF>Power</color> by 4s.",
+                "Clara_Talent_06_Desc_02": "As you may already know, Piper's biggest dream is to live a life of perpetual relaxation.\nBut right now, her usually half-closed eyes are surprisingly bright and alert.\n\"If it's for you... I suppose lil ol' me can try a little harder~\"",
+                "Clara_Talent_06_Desc_01": "Increases the duration limit of <color=#FFFFFF>EX Special Attack: Engine Spin</color> by 2s and extends the duration of <color=#FFFFFF>Power</color> by 4s.",
+                "Clara_Talent_06_Title_Realign": "Mild Excitement"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "Yanagi",
+        "full_name": "Tsukishiro Yanagi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "Know Thy Self, Know Thy Enemy",
+                "Yanagi_Talent_01_Desc_01_Realign": "When any squad member inflicts an Anomaly on an enemy, Yanagi gains 1 stack of <color=#FFFFFF>Clarity</color>, lasting 15s, stacking up to 3 times. Repeated triggers reset the duration. Upon being hit by an enemy attack, Yanagi consumes 1 stack of <color=#FFFFFF>Clarity</color> to gain invulnerability for 1s. When Yanagi has 1 or more stacks of <color=#FFFFFF>Clarity</color>, her Anomaly Proficiency increases by 80.",
+                "Yanagi_Talent_01_Desc_02": "\"Having the clarity to see your enemy's weakness is like an extra safety net... and it increasing your chances at victory.\"\nYanagi adjusts her glasses, remaining as composed as ever, even when victory is already assured.",
+                "Yanagi_Talent_01_Desc_01": "When any squad member inflicts an Anomaly on an enemy, Yanagi gains 1 stack of <color=#FFFFFF>Clarity</color>, lasting 15s, stacking up to 3 times. Repeated triggers reset the duration. Upon being hit by an enemy attack, Yanagi consumes 1 stack of <color=#FFFFFF>Clarity</color> to gain invulnerability for 1s. When Yanagi has 1 or more stacks of <color=#FFFFFF>Clarity</color>, her Anomaly Proficiency increases by 80.",
+                "Yanagi_Talent_01_Title_Realign": "Know Thy Self, Know Thy Enemy"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "Outstanding Adaptability",
+                "Yanagi_Talent_02_Desc_01_Realign": "During her <color=#FFFFFF>EX Special Attack</color>, the rapid thrust's <color=#2EB6FF>Electric Anomaly Buildup</color> increases by 20%. Holding down the Special Attack button after a rapid thrust hits an enemy will consume 10 additional Energy to launch another thrust. If Energy is insufficient or the button is released, the attack automatically follows up with the downward attack. When the downward attack hits an enemy suffering an Anomaly and triggers <color=#FFFFFF>Polarity Disorder</color>, the DMG multiplier increases to 20% of the original <color=#FFFFFF>Disorder</color> effect. Each additional thrust increases this multiplier by 15%, up to a maximum of 2 extra thrusts.",
+                "Yanagi_Talent_02_Desc_02": "\"Yanagi can handle any unfamiliar environment thrown her way.\"\n\"I believe in her more than I believe in myself.\"\n— From a martial artist practicing \"the cutting of fallen leaves.\"",
+                "Yanagi_Talent_02_Desc_01": "During her <color=#FFFFFF>EX Special Attack</color>, the rapid thrust's <color=#2EB6FF>Electric Anomaly Buildup</color> increases by 20%. Holding down the Special Attack button after a rapid thrust hits an enemy will consume 10 additional Energy to launch another thrust. If Energy is insufficient or the button is released, the attack automatically follows up with the downward attack. When the downward attack hits an enemy suffering an Anomaly and triggers <color=#FFFFFF>Polarity Disorder</color>, the DMG multiplier increases to 20% of the original <color=#FFFFFF>Disorder</color> effect. Each additional thrust increases this multiplier by 15%, up to a maximum of 2 extra thrusts.",
+                "Yanagi_Talent_02_Title_Realign": "Outstanding Adaptability"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "Tsukishiro Style Management",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Yanagi_Talent_03_Desc_02": "Everyone says Section 6 is gathering oddballs and geniuses, with Tsukishiro Yanagi being the only \"normal\" one. But it’s precisely her presence that holds the oddballs and geniuses together.",
+                "Yanagi_Talent_03_Title_Realign": "Tsukishiro Style Management"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "Chessmaster",
+                "Yanagi_Talent_04_Desc_01_Realign": "When Yanagi inflicts Attribute Anomaly DMG on an enemy, they suffer the <color=#FFFFFF>Exposed</color> effect, lasting 15s. Attacks on enemies under the <color=#FFFFFF>Expose</color> effect will have 16% increased PEN Ratio.",
+                "Yanagi_Talent_04_Desc_02": "No matter the situation, Tsukishiro Yanagi can rapidly grasp all the information at hand and make the most appropriate decision.",
+                "Yanagi_Talent_04_Desc_01": "When Yanagi inflicts Attribute Anomaly DMG on an enemy, they suffer the <color=#FFFFFF>Exposed</color> effect, lasting 15s. Attacks on enemies under the <color=#FFFFFF>Expose</color> effect will have 16% increased PEN Ratio.",
+                "Yanagi_Talent_04_Title_Realign": "Chessmaster"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "\"Other Mother\"",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Yanagi_Talent_05_Desc_02": "At present, Tsukishiro Yanagi is the sole designated guardian of Soukaku.\n\"Soukaku, this is the Chief's riceball, you mustn't eat it... forget it, come here, I'll heat it up for you.\"\n\"We'll just buy a similar one for the Chief later.\"",
+                "Yanagi_Talent_05_Title_Realign": "\"Other Mother\""
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "Inhuman Blood",
+                "Yanagi_Talent_06_Desc_01_Realign": "After a thrust attack during her <color=#FFFFFF>EX Special Attack</color>, the duration of the <color=#FFFFFF>Shinrabanshou</color> state increases to 30s. While the state is active, <color=#FFFFFF>EX Special Attack</color> DMG increases by 20%. The maximum number of times the additional DMG multiplier increase effect for <color=#FFFFFF>Polarity Disorder</color> in <color=#FFFFFF>Outstanding Adaptability</color> can be triggered increases to 4, and the Energy cost for the first 4 additional thrust attacks is halved.",
+                "Yanagi_Talent_06_Desc_02": "Flowing through Tsukishiro Yanagi's veins is blood that isn’t entirely her own. This blood once granted her new life in the face of despair, and with it, she gained certain special powers.\n\"But as you know, something that isn't mine... comes with a price.\"",
+                "Yanagi_Talent_06_Desc_01": "After a thrust attack during her <color=#FFFFFF>EX Special Attack</color>, the duration of the <color=#FFFFFF>Shinrabanshou</color> state increases to 30s. While the state is active, <color=#FFFFFF>EX Special Attack</color> DMG increases by 20%. The maximum number of times the additional DMG multiplier increase effect for <color=#FFFFFF>Polarity Disorder</color> in <color=#FFFFFF>Outstanding Adaptability</color> can be triggered increases to 4, and the Energy cost for the first 4 additional thrust attacks is halved.",
+                "Yanagi_Talent_06_Title_Realign": "Inhuman Blood"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

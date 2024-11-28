@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "Anby",
+        "full_name": "Anby Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "Schnelllademodus",
+                "Anbi_Talent_01_Desc_01_Realign": "Erhöht beim Treffen von Gegnern mit dem 4. Hieb von Anbys <color=#FFFFFF>Basisangriff</color> ihre Energie-Generationsrate um 12 %, hält 30 s.",
+                "Anbi_Talent_01_Desc_02": "„Eine Minute aufladen und eine Stunde kämpfen!“\nDas ist das Verkaufsargument für diese Waffenerweiterungsmodule ...\nUnd genau das leisten sie.",
+                "Anbi_Talent_01_Desc_01": "Erhöht beim Treffen von Gegnern mit dem 4. Hieb von Anbys <color=#FFFFFF>Basisangriff</color> ihre Energie-Generationsrate um 12 %, hält 30 s.",
+                "Anbi_Talent_01_Title_Realign": "Schnelllademodus"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "Präzise Entladung",
+                "Anbi_Talent_02_Desc_01_Realign": "Erhöht, wenn <color=#FFFFFF>Basisangriff: Donnerschlag</color> einen benommenen Gegner trifft, den verursachten Schaden um 30 %.\nErhöht, wenn Anbys <color=#FFFFFF>verstärkter Spezialangriff</color> einen Gegner trifft, der nicht benommen ist, die verursachte Benommenheit um 10 %.",
+                "Anbi_Talent_02_Desc_02": "„Elektroschocks werden dich umhauen.“\nSie blickte den Gegner kühl an, der ihr zu Füßen lag, und fügte hinzu:\n„Genau wie in den Filmen.“",
+                "Anbi_Talent_02_Desc_01": "Erhöht, wenn <color=#FFFFFF>Basisangriff: Donnerschlag</color> einen benommenen Gegner trifft, den verursachten Schaden um 30 %. Erhöht, wenn Anbys <color=#FFFFFF>verstärkter Spezialangriff</color> einen Gegner trifft, der nicht benommen ist, die verursachte Benommenheit um 10 %.",
+                "Anbi_Talent_02_Title_Realign": "Präzise Entladung"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "Diszipliniert",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Anbi_Talent_03_Desc_02": "Laufen, schlagen, sich wie Donner bewegen. In Höhlen ist sie keine Amateurin, sondern eine Expertin.",
+                "Anbi_Talent_03_Title_Realign": "Diszipliniert"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "Leitfähige Ladung",
+                "Anbi_Talent_04_Desc_01_Realign": "Stellt den inaktiven Elektro-Figuren, wenn Anby einen <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet, 3 Pkt. Energie wieder her.\nStellt ihnen für je 12 % Energie-Generationsrate, die Anby besitzt, zusätzlich 2 Pkt. Energie wieder her, max. 6 Pkt. zusätzlich.",
+                "Anbi_Talent_04_Desc_02": "Du wirst nicht lange durchhalten, wenn du allein kämpfst. Erfahrene Höhlenräuber wissen, wie sie Chancen für ihre Truppenmitglieder schaffen.",
+                "Anbi_Talent_04_Desc_01": "Stellt den inaktiven Elektro-Figuren, wenn Anby einen <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet, 3 Pkt. Energie wieder her.\nStellt ihnen für je 12 % Energie-Generationsrate, die Anby besitzt, zusätzlich 2 Pkt. Energie wieder her, max. 6 Pkt. zusätzlich.",
+                "Anbi_Talent_04_Title_Realign": "Leitfähige Ladung"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "Straßenerfahrung",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Anbi_Talent_05_Desc_02": "Die Arbeit bei Cunning Hares kann nicht nur deine geistige Stärke verbessern, sondern auch dabei helfen (anders gesagt: dich zwingen), deine Konstitution zu verbessern.",
+                "Anbi_Talent_05_Title_Realign": "Straßenerfahrung"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "Ladefeld",
+                "Anbi_Talent_06_Desc_01_Realign": "Verleiht Anby beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> 8 Stapelungen „Aufladung“ (max. 8 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Basisangriff</color> oder <color=#FFFFFF>Sprintangriff</color> 1 Stapelung „Aufladung“ und erhöht dadurch den durch diese Fähigkeit verursachten Schaden um 45 %.",
+                "Anbi_Talent_06_Desc_02": "Über ihren Fingerspitzen flackerte das Blitzlicht.\nAnby hob den Kopf, ihre Augen strahlten vor Entschlossenheit, die über ihr Alter hinausging.\nVielleicht wird sie eines Tages diejenige sein, die das Blitzlicht völlig beherrscht.",
+                "Anbi_Talent_06_Desc_01": "Verleiht Anby beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> 8 Stapelungen „Aufladung“ (max. 8 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Basisangriff</color> oder <color=#FFFFFF>Sprintangriff</color> 1 Stapelung „Aufladung“ und erhöht dadurch den durch diese Fähigkeit verursachten Schaden um 45 %.",
+                "Anbi_Talent_06_Title_Realign": "Ladefeld"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "Nekomata",
+        "full_name": "Nekomiya Mana",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "Vogeljägerin",
+                "Tsubaki_Talent_01_Desc_01_Realign": "Ignoriert, wenn Nekomata einen Gegner mit einem Angriff von hinten trifft, 16 % des <color=#F0D12B>phys. WDS</color> des Ziels.\nAlle Angriffe durch Nekomata am Gegner, der sich im Zustand Benommenheit befindet, gelten als Angriffe von hinten.",
+                "Tsubaki_Talent_01_Desc_02": "Aufgrund ihrer geringen Größe mangelt es Nekomata zwar an Kraft, aber sie besitzt das Wahrnehmungsvermögen und die Beweglichkeit, um die Schwächen ihrer Gegner aufzuspüren und sie da zu treffen, wo es am meisten wehtut.",
+                "Tsubaki_Talent_01_Desc_01": "Ignoriert, wenn Nekomata einen Gegner mit einem Angriff von hinten trifft, 16 % des <color=#F0D12B>phys. WDS</color> des Ziels.\nAlle Angriffe durch Nekomata am Gegner, der sich im Zustand Benommenheit befindet, gelten als Angriffe von hinten.",
+                "Tsubaki_Talent_01_Title_Realign": "Vogeljägerin"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "Katz und Maus",
+                "Tsubaki_Talent_02_Desc_01_Realign": "Erhöht, wenn sich nur ein Gegner auf dem Feld befindet und Nekomata aktiv im Kampf ist, Nekomatas Energie-Generationsrate um 25 %.",
+                "Tsubaki_Talent_02_Desc_02": "Katzen spielen immer gerne mit ihrer Beute.\nWenn nur noch ein Mäuslein im Kampf ist ... dann fängt Nekomatas Spielzeit an.",
+                "Tsubaki_Talent_02_Desc_01": "Erhöht, wenn sich nur ein Gegner auf dem Feld befindet und Nekomata aktiv im Kampf ist, Nekomatas Energie-Generationsrate um 25 %.",
+                "Tsubaki_Talent_02_Title_Realign": "Katz und Maus"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "Neugieriger linker Schwanz",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Tsubaki_Talent_03_Desc_02": "Den Legenden der alten Zivilisation zufolge repräsentiert jeder Schwanz eines der vielen Leben einer Katze, und birgt jahrelange Weisheit und Erfahrung in seinem Inneren ... Das ist zwar nicht real, aber die Erfahrungen, die Nekomata während ihrer Zeit in den Straßen gesammelt hat, schon.",
+                "Tsubaki_Talent_03_Title_Realign": "Neugieriger linker Schwanz"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "Krallen wetzen",
+                "Tsubaki_Talent_04_Desc_01_Realign": "Erhöht Nekomatas KRIT-Rate beim Anwenden ihres <color=#FFFFFF>verstärkten Spezialangriffs</color> um 7 %, max. 2-fach stapelbar, hält 15 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Tsubaki_Talent_04_Desc_02": "„Gebt mir mehr, gebt mir MEHR! Ich fresse sie alle!“\nIhre Augen funkelten, während sie ihre Pfoten ableckte.",
+                "Tsubaki_Talent_04_Desc_01": "Erhöht Nekomatas KRIT-Rate beim Anwenden ihres <color=#FFFFFF>verstärkten Spezialangriffs</color> um 7 %, max. 2-fach stapelbar, hält 15 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Tsubaki_Talent_04_Title_Realign": "Krallen wetzen"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "Glückbringender rechter Schwanz",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Tsubaki_Talent_05_Desc_02": "Den Legenden der alten Zivilisation zufolge repräsentiert jeder Schwanz eines der vielen Leben einer Katze, und birgt jahrelange Weisheit und Erfahrung in seinem Inneren ... Manchmal fragt sich Nekomata: Wenn sie das Glück hat, weiter zu überleben, wächst ihr dann irgendwann ein weiterer Schwanz?",
+                "Tsubaki_Talent_05_Title_Realign": "Glückbringender rechter Schwanz"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "Raubtier-Abstammung",
+                "Tsubaki_Talent_06_Desc_01_Realign": "Erhöht Nekomatas KRIT-SCH beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder eines <color=#FFFFFF>Ultimates</color> um 18 %, max. 3-fach stapelbar. Dieser Effekt endet, wenn Nekomata den Kampf verlässt. Wenn Nekomata einen Gegner besiegt, erreicht dieser Effekt sofort die maximale Anzahl an Stapelungen.",
+                "Tsubaki_Talent_06_Desc_02": "„Wenn ein Katzenthiren positive Bestärkung durch aggressives Verhalten erfährt, kommen seine latenten tierischen Tendenzen zum Vorschein.\nZum Glück sind diese Tendenzen nicht permanent ...“\n... Auszug aus einem abgenutzten „Handbuch der unvollständigen Forschungen zu Katzenthirens“",
+                "Tsubaki_Talent_06_Desc_01": "Erhöht Nekomatas KRIT-SCH beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder eines <color=#FFFFFF>Ultimates</color> um 18 %, max. 3-fach stapelbar. Dieser Effekt endet, wenn Nekomata den Kampf verlässt. Wenn Nekomata einen Gegner besiegt, erreicht dieser Effekt sofort die maximale Anzahl an Stapelungen.",
+                "Tsubaki_Talent_06_Title_Realign": "Raubtier-Abstammung"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "Nicole",
+        "full_name": "Nicole Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "Superaufgeladene Bombe",
+                "Nostradamus_Talent_01_Desc_01_Realign": "Erhöht den SCH und die Anomalieansammlung durch den <color=#FFFFFF>verstärkten Spezialangriff</color> um 16 %.\nVerlängert beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> die Dauer des am Ziel erzeugten Energiefelds für je 0,1 s des zusätzlichen Aufladens um 0.15 s.",
+                "Nostradamus_Talent_01_Desc_02": "„Ich lade euch alle auf! Los geht’s!“\n„Häh? N... Natürlich habe ich nicht vorgehabt, wegzulaufen! I... Ich brauche nur eine Pause!“",
+                "Nostradamus_Talent_01_Desc_01": "Erhöht den SCH und die Anomalieansammlung durch den <color=#FFFFFF>verstärkten Spezialangriff</color> um 16 %.\nVerlängert beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> die Dauer des am Ziel erzeugten Energiefelds für je 0,1 s des zusätzlichen Aufladens um 0.15 s.",
+                "Nostradamus_Talent_01_Title_Realign": "Superaufgeladene Bombe"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "Ladegerät",
+                "Nostradamus_Talent_02_Desc_01_Realign": "Stellt Nicole beim Auslösen des Maluseffekts der <color=#FFFFFF>passiven Kernfähigkeit: Mechanische Mappe</color> 5 Pkt. Energie wieder her, 15 s Abklingzeit.",
+                "Nostradamus_Talent_02_Desc_02": "„Unterschätzt nie den Wert einer Sekunde!“\n„Habt ihr eine Ahnung, wie viel ich aus bloß einer Sekunde herauskitzeln kann? Es ist unglaublich!“ \n„Also, bekomme ich einen Bonus? Wie wär’s mit 10 %, hm?“",
+                "Nostradamus_Talent_02_Desc_01": "Stellt Nicole beim Auslösen des Maluseffekts der <color=#FFFFFF>passiven Kernfähigkeit: Mechanische Mappe</color> 5 Pkt. Energie wieder her, 15 s Abklingzeit.",
+                "Nostradamus_Talent_02_Title_Realign": "Ladegerät"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "Schlauheit der Häsin",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Nostradamus_Talent_03_Desc_02": "Ohne überwältigende Schlagkraft oder reichhaltige Ressourcen musste sich Nicole auf ihren messerscharfen Verstand verlassen, um die Cunning Hares dahin zu bringen, wo sie heute sind.",
+                "Nostradamus_Talent_03_Title_Realign": "Schlauheit der Häsin"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "Felderweiterung",
+                "Nostradamus_Talent_04_Desc_01_Realign": "Vergrößert, wenn Nicole ihren <color=#FFFFFF>verstärkten Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet, den Durchmesser des am Ziel erzeugten Energiefelds um 3 m.",
+                "Nostradamus_Talent_04_Desc_02": "„Das, und das ... all das wird bald zum Territorium der Cunning Hares gehören. Hört ihr mich!“ \n„W... Was? Wie bald?“\n„Ähm ... In etwa zehntausend Jahren, laut der aktuellen Ertragsprognosen!“",
+                "Nostradamus_Talent_04_Desc_01": "Vergrößert, wenn Nicole ihren <color=#FFFFFF>verstärkten Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet, den Durchmesser des am Ziel erzeugten Energiefelds um 3 m.",
+                "Nostradamus_Talent_04_Title_Realign": "Felderweiterung"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "Branchenstar",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Nostradamus_Talent_05_Desc_02": "Obwohl sie viele Feinde in der Branche haben, hat Nicole ihr Team aus vielen ausweglosen Situationen geführt, wodurch Cunning Hares’ Ansehen und Erfahrung stetig gewachsen sind.",
+                "Nostradamus_Talent_05_Title_Realign": "Branchenstar"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "Korrosions-Energiefeld",
+                "Nostradamus_Talent_06_Desc_01_Realign": "Erhöht, wenn das Energiefeld einem Ziel SCH zufügt, die KRIT-Rate aller Truppenmitglieder gegen dieses Ziel um 1.5 %, max. 10-fach stapelbar, hält 12 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Nostradamus_Talent_06_Desc_02": "Der Wechsel zu qualitativ hochwertigerer Munition mit größerer Feuerkraft und mehr komprimierter ätherischer Materie führt zu größerem Schaden, längerer Nutzungsdauer ... und höheren Kosten.",
+                "Nostradamus_Talent_06_Desc_01": "Erhöht, wenn das Energiefeld einem Ziel SCH zufügt, die KRIT-Rate aller Truppenmitglieder gegen dieses Ziel um 1.5 %, max. 10-fach stapelbar, hält 12 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Nostradamus_Talent_06_Title_Realign": "Korrosions-Energiefeld"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "Billy",
+        "full_name": "Billy Kid",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "Strahlender Auftritt",
+                "Billy_Talent_01_Desc_01_Realign": "Stellt Billy beim Treffen von Gegnern mit seinem <color=#FFFFFF>Sprintangriff</color> oder <color=#FFFFFF>Ausweichkonter</color> zusätzlich 2.7 Pkt. Energie wieder her, 5 s Abklingzeit.",
+                "Billy_Talent_01_Desc_02": "„Als Bösewichte seid ihr viel zu naiv!“\n„Genauso wie ein Haufen NPCs, die aufgereiht sind, um das Auftreten des Protagonisten zu begrüßen!“",
+                "Billy_Talent_01_Desc_01": "Stellt Billy beim Treffen von Gegnern mit seinem <color=#FFFFFF>Sprintangriff</color> oder <color=#FFFFFF>Ausweichkonter</color> zusätzlich 2.7 Pkt. Energie wieder her, 5 s Abklingzeit.",
+                "Billy_Talent_01_Title_Realign": "Strahlender Auftritt"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "Herumziehender Schütze",
+                "Billy_Talent_02_Desc_01_Realign": "Erhöht den durch <color=#FFFFFF>Ausweichkonter</color> verursachten SCH um 25 %.\nBillys Rollschuss während seines <color=#FFFFFF>Basisangriffs</color> gilt als Ausweichen, verleiht ihm beim Anwenden dieser Fähigkeit den Unverwundbarkeitseffekt und kann <color=#FFFFFF>perfektes Ausweichen</color> auslösen. Löst ein Rollschuss ein <color=#FFFFFF>perfektes Ausweichen</color> aus, folgt danach automatisch ein <color=#FFFFFF>Ausweichkonter</color>.",
+                "Billy_Talent_02_Desc_02": "„Die Sternenlichtritter rennen nie vor einer Gefahr davon. Das nennen wir herumziehende Schüsse!“\n... Schrieb der Nutzer „MonicaInTraum“ an der Sternenlicht-Pinnwand.",
+                "Billy_Talent_02_Desc_01": "Erhöht den durch <color=#FFFFFF>Ausweichkonter</color> verursachten SCH um 25 %.\nBillys Rollschuss während seines <color=#FFFFFF>Basisangriffs</color> gilt als Ausweichen, verleiht ihm beim Anwenden dieser Fähigkeit den Unverwundbarkeitseffekt und kann <color=#FFFFFF>perfektes Ausweichen</color> auslösen. Löst ein Rollschuss ein <color=#FFFFFF>perfektes Ausweichen</color> aus, folgt danach automatisch ein <color=#FFFFFF>Ausweichkonter</color>.",
+                "Billy_Talent_02_Title_Realign": "Herumziehender Schütze"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "Lehren der Sternenlichtritter",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Billy_Talent_03_Desc_02": "„Vernachlässige niemals dein Training und höre nie auf, dich zu verbessern!“ Das ist die Philosophie der Sternenlichtritter. Billy hält sich von ganzem Herzen daran.",
+                "Billy_Talent_03_Title_Realign": "Lehren der Sternenlichtritter"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "Sternenlicht-Strafschüsse",
+                "Billy_Talent_04_Desc_01_Realign": "Erhöht beim Treffen eines Gegners mit Billys <color=#FFFFFF>verstärktem Spezialangriff</color> die KRIT-Rate der Fähigkeit basierend auf der Entfernung zwischen Billy und dem Ziel. Je kleiner die Entfernung zum Ziel, desto größer die Erhöhung, bis zu 32 %.",
+                "Billy_Talent_04_Desc_02": "Diese Sprenggeschosse, die Billy selbst erfunden hat, sind im Nahkampf extrem tödlich.\nIhre Wirkung übertrifft bei Weitem Billys ursprüngliche Absicht, den Effekt etwas cooler zu machen.",
+                "Billy_Talent_04_Desc_01": "Erhöht beim Treffen eines Gegners mit Billys <color=#FFFFFF>verstärktem Spezialangriff</color> die KRIT-Rate der Fähigkeit basierend auf der Entfernung zwischen Billy und dem Ziel. Je kleiner die Entfernung zum Ziel, desto größer die Erhöhung, bis zu 32 %.",
+                "Billy_Talent_04_Title_Realign": "Sternenlicht-Strafschüsse"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "Konstrukt verlorener Technologie",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Billy_Talent_05_Desc_02": "Die bisher unbekannten Präzisionskomponenten und die einzigartige Struktur verleihen Billy eine Leistung, die weit über der seiner Konkurrenten liegt ... Das gilt auch für seine Wartungskosten.",
+                "Billy_Talent_05_Title_Realign": "Konstrukt verlorener Technologie"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "Sternenlicht-Held",
+                "Billy_Talent_06_Desc_01_Realign": "Erhöht, wenn Billy Gegner insgesamt 10-mal trifft oder ein <color=#FFFFFF>perfektes Ausweichen</color> auslöst, den von ihm verursachten Schaden um 6 %, max. 5-fach stapelbar. Der Bonuseffekt wird zurückgesetzt, sobald er zurückgedrängt oder weggeschleudert wird.",
+                "Billy_Talent_06_Desc_02": "„Puh! Das geht richtig ab! Geh beiseite, Anby, jetzt bin ich dran!“\n„Yo, Anby, kannst du das Titellied der Sternenlichtritter abspielen?“\n... Aus den Top 10 der verbotenen Sätze der Cunning Hares, zusammengestellt von Anby.",
+                "Billy_Talent_06_Desc_01": "Erhöht, wenn Billy Gegner insgesamt 10-mal trifft oder ein <color=#FFFFFF>perfektes Ausweichen</color> auslöst, den von ihm verursachten Schaden um 6 %, max. 5-fach stapelbar. Der Bonuseffekt wird zurückgesetzt, sobald er zurückgedrängt oder weggeschleudert wird.",
+                "Billy_Talent_06_Title_Realign": "Sternenlicht-Held"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "Koleda",
+        "full_name": "Koleda Belobog",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "Takt des Hammers",
+                "OokumaMari_Talent_01_Desc_01_Realign": "Erhöht, wenn Koleda nach dem 2. oder 4. Schlag des <color=#FFFFFF>Basisangriffs</color> oder nach einem verstärkten <color=#FFFFFF>Basisangriff</color> sofort einen <color=#FFFFFF>Spezialangriff</color> oder <color=#FFFFFF>verstärkten Spezialangriff</color> anwendet, die verursachte Benommenheit um 15 %.",
+                "OokumaMari_Talent_01_Desc_02": "Ihr feuriges Temperament ist nur eine Fassade. In Wirklichkeit sind Koledas Gedankengänge recht komplexer Natur. Sie weiß zum Beispiel, wann sie ihren Hammer schwingen muss, um den schmerzhaftesten Schlag auszuführen.",
+                "OokumaMari_Talent_01_Desc_01": "Erhöht, wenn Koleda nach dem 2. oder 4. Schlag des <color=#FFFFFF>Basisangriffs</color> oder nach einem verstärkten <color=#FFFFFF>Basisangriff</color> sofort einen <color=#FFFFFF>Spezialangriff</color> oder <color=#FFFFFF>verstärkten Spezialangriff</color> anwendet, die verursachte Benommenheit um 15 %.",
+                "OokumaMari_Talent_01_Title_Realign": "Takt des Hammers"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "Kinetische Wiederherstellung",
+                "OokumaMari_Talent_02_Desc_01_Realign": "Stellt Koleda beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> 60 Pkt. Energie wieder her, 45 s Abklingzeit.",
+                "OokumaMari_Talent_02_Desc_02": "Koleda ist überzeugt, dass perfektes Hämmern seinen eigenen natürlichen Rhythmus hat. Es ist wie das Anschlagen eines Tamburins, bei dem jeder Schlag das Tempo des nächsten Schlags steigert.\nNatürlich ist es schwer zu sagen, wie viele Schläge das „Spielzeuge“ vor ihr aushalten kann.",
+                "OokumaMari_Talent_02_Desc_01": "Stellt Koleda beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> 60 Pkt. Energie wieder her, 45 s Abklingzeit.",
+                "OokumaMari_Talent_02_Title_Realign": "Kinetische Wiederherstellung"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "„Leg dich nicht mit mir an!“",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "OokumaMari_Talent_03_Desc_02": "Wenn man ein geeignetes „Spielzeug“ sein will, sollte man besser keinen Ärger machen, wenn Koleda anfängt, ihren Hammer zu schwingen.\nSei einfach ein gutes Spielzeug und nimm die Schläge hin.\nDenn was bringt es, sich zu wehren?",
+                "OokumaMari_Talent_03_Title_Realign": "„Leg dich nicht mit mir an!“"
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "Ofenglühen",
+                "OokumaMari_Talent_04_Desc_01_Realign": "Verleiht Koleda, wenn sie beim Anwenden des verstärkten <color=#FFFFFF>Basisangriffs</color> <color=#FFFFFF>Ofenfeuer</color> verbraucht hat, 1 Stapelung „Aufladung“ (max. 2 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> alle Aufladungen und erhöht für jede Stapelung den verursachten SCH der entsprechenden Fähigkeit um 18 %.",
+                "OokumaMari_Talent_04_Desc_02": "Koleda verspürt die Flammen des Krieges, wenn ihre Hammerschläge die Umgebungstemperatur erhöhen.\nSie ist jetzt noch entflammbarer und explosiver als Äther-Sprengstoff.",
+                "OokumaMari_Talent_04_Desc_01": "Verleiht Koleda, wenn sie beim Anwenden des verstärkten <color=#FFFFFF>Basisangriffs</color> <color=#FFFFFF>Ofenfeuer</color> verbraucht hat, 1 Stapelung „Aufladung“ (max. 2 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> alle Aufladungen und erhöht für jede Stapelung den verursachten SCH der entsprechenden Fähigkeit um 18 %.",
+                "OokumaMari_Talent_04_Title_Realign": "Ofenglühen"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "„Unterschätz mich nicht!“",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "OokumaMari_Talent_05_Desc_02": "Koleda nimmt ihre Rolle als Anführerin sehr ernst und sie fürchte, dass andere Belobog Heavy Industries wegen ihres jungen Alters unterschätzen würden. Um das wettzumachen, trainiert sie exzessiv im Verborgenen.",
+                "OokumaMari_Talent_05_Title_Realign": "„Unterschätz mich nicht!“"
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "Gesättigte Sprengung",
+                "OokumaMari_Talent_06_Desc_01_Realign": "Verursacht, wenn Koleda mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> eine Explosion auslöst und Gegner trifft, zusätzlichen Schaden in Höhe von 360 % von Koledas ANG.",
+                "OokumaMari_Talent_06_Desc_02": "Zwei Typen von Menschen kann Koleda wirklich nicht ausstehen:\nDumme Menschen und hoffnungslose dumme Menschen.\nZum Glück hat Belobog immer einen guten Vorrat an starkem Äther-Sprengstoff parat, den sie für solche Menschen verwenden kann.",
+                "OokumaMari_Talent_06_Desc_01": "Verursacht, wenn Koleda mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> eine Explosion auslöst und Gegner trifft, zusätzlichen Schaden in Höhe von 360 % von Koledas ANG.",
+                "OokumaMari_Talent_06_Title_Realign": "Gesättigte Sprengung"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "Anton",
+        "full_name": "Anton Ivanov",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "Aufwärmübung",
+                "Anton_Talent_01_Desc_01_Realign": "Stellt Anton beim Treffen von Gegnern mit dem <color=#FFFFFF>Bohrangriff</color> zusätzlich Energie wieder her. Während einer einzelnen Verwendung dieser Fähigkeit kann max. 5Pkt. Energie für Anton wiederhergestellt werden.",
+                "Anton_Talent_01_Desc_02": "„Bist du schon wach? Zeit zum Drehen, Bruder!“\n„Versuch, mitzuhalten. Es ist Zeit für unseren Dehnübungen!“",
+                "Anton_Talent_01_Desc_01": "Stellt Anton beim Treffen von Gegnern mit dem <color=#FFFFFF>Bohrangriff</color> zusätzlich Energie wieder her. Während einer einzelnen Verwendung dieser Fähigkeit kann max. 5Pkt. Energie für Anton wiederhergestellt werden.",
+                "Anton_Talent_01_Title_Realign": "Aufwärmübung"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "Voller Wucht",
+                "Anton_Talent_02_Desc_01_Realign": "Verleiht Anton, wenn er durch den <color=#FFFFFF>verstärkten Spezialangriff</color> in den <color=#FFFFFF>Explosivmodus</color> eintritt, einen Schild in Höhe von 7.5 % seiner max. LP.\nWenn Anton sich im <color=#FFFFFF>Explosivmodus</color> befindet, wird dieser Schild beim Eintritt in den Kampf oder beim Einwechsel aufs Feld aktualisiert, 15 s Abklingzeit. Der Schild verschwindet, wenn er den <color=#FFFFFF>Explosivmodus</color> verlässt.",
+                "Anton_Talent_02_Desc_02": "Nach einem anstrengenden Training kommen einige Glückspilze so in Schwung, dass sie einen energiegeladenen Zustand betreten, der gemeinhin als „im Element“ bezeichnet wird.\nBist du bereit, dich zu bewegen und in deinem Element zu sein?\n... Aus Nitro-Fuels exklusivem Programm „Guten Morgen, eifrige Angestellte!“",
+                "Anton_Talent_02_Desc_01": "Verleiht Anton, wenn er durch den <color=#FFFFFF>verstärkten Spezialangriff</color> in den <color=#FFFFFF>Explosivmodus</color> eintritt, einen Schild in Höhe von 7.5 % seiner max. LP. Wenn Anton sich im <color=#FFFFFF>Explosivmodus</color> befindet, wird dieser Schild beim Eintritt in den Kampf oder beim Einwechsel aufs Feld aktualisiert, 15 s Abklingzeit. Der Schild verschwindet, wenn er den <color=#FFFFFF>Explosivmodus</color> verlässt.",
+                "Anton_Talent_02_Title_Realign": "Voller Wucht"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "Rotationstraining",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Anton_Talent_03_Desc_02": "In allem nur mittelmäßig zu sein, mag unzureichend erscheinen, doch in einer komplexen und sich ständig ändernden Arbeitsstelle in der Höhle kann eine zusätzliche Fähigkeit manchmal eine Gelegenheit bieten, Schwierigkeiten zu überwinden.",
+                "Anton_Talent_03_Title_Realign": "Rotationstraining"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "Wir brennen zusammen!",
+                "Anton_Talent_04_Desc_01_Realign": "Erhöht beim Anwenden des <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> durch Anton die KRIT-Rate aller Truppenmitglieder 10 s lang um 12 %.",
+                "Anton_Talent_04_Desc_02": "„Stell dir vor, wie sich das Training gewöhnlich anfühlt, und kommen wir gemeinsam ins Schwitzen!“\nWenn Anton ernst wird, werden alle beweglicher. Wenn du nicht mit ihm mithalten kannst, musst du schließlich morgen allein zusätzlich trainieren.",
+                "Anton_Talent_04_Desc_01": "Erhöht beim Anwenden des <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> durch Anton die KRIT-Rate aller Truppenmitglieder 10 s lang um 12 %.",
+                "Anton_Talent_04_Title_Realign": "Wir brennen zusammen!"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "Alleskönner",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Anton_Talent_05_Desc_02": "Sich mit allem ein bisschen auszukennen ist ganz nicht ungewöhnlich, aber wenn man entschlossen genug ist, sich in allen Bereichen vom Anfänger zum Experten zu entwickeln, wird man allmächtig!",
+                "Anton_Talent_05_Title_Realign": "Alleskönner"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "Die Grenze überschreiten",
+                "Anton_Talent_06_Desc_01_Realign": "Erhöht, wenn Antons <color=#FFFFFF>Pfahlrammangriff</color> einen KT auslöst, den SCH durch seinen <color=#FFFFFF>Basisangriff: Begeisterter Bohrer (Explosivmodus)</color> und <color=#FFFFFF>Ausweichkonter: Überladener Bohrer (Explosivmodus)</color> um 4 %, max. 6-fach stapelbar, hält 30 s. Beim wiederholten Auslösen wird die Dauer aktualisiert.",
+                "Anton_Talent_06_Desc_02": "„Genau so, Bruder, spürst du, wie das brennt?“\nWann immer Anton seine Grenzen überschreiten will, legt sein „Bruder“ ein rasantes Tempo vor und reagiert mit einem Summen auf seinen Wunsch.",
+                "Anton_Talent_06_Desc_01": "Erhöht, wenn Antons <color=#FFFFFF>Pfahlrammangriff</color> einen KT auslöst, den SCH durch seinen <color=#FFFFFF>Basisangriff: Begeisterter Bohrer (Explosivmodus)</color> und <color=#FFFFFF>Ausweichkonter: Überladener Bohrer (Explosivmodus)</color> um 4 %, max. 6-fach stapelbar, hält 30 s. Beim wiederholten Auslösen wird die Dauer aktualisiert.",
+                "Anton_Talent_06_Title_Realign": "Die Grenze überschreiten"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "Ben",
+        "full_name": "Ben Bigger",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "Gegenkraft",
+                "Ben_Talent_01_Desc_01_Realign": "Verringert, wenn Ben beim Anwenden der <color=#FFFFFF>Spezialangriffe</color> oder <color=#FFFFFF>verstärkter Spezialangriffe</color> den Angriff des Gegners richtig pariert, den von diesem Gegner zugefügten Schaden 30 s lang um 15 %.",
+                "Ben_Talent_01_Desc_02": "„Jede Aktion erzeugt eine gleich starke Gegenreaktion. Warum musst du immer mit dem Kopf durch die Wand?“\n„Deine Berechnungen sind wohl falsch.“",
+                "Ben_Talent_01_Desc_01": "Verringert, wenn Ben beim Anwenden der <color=#FFFFFF>Spezialangriffe</color> oder <color=#FFFFFF>verstärkter Spezialangriffe</color> den Angriff des Gegners richtig pariert, den von diesem Gegner zugefügten Schaden 30 s lang um 15 %.",
+                "Ben_Talent_01_Title_Realign": "Gegenkraft"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "Verteidigung ist der beste Angriff",
+                "Ben_Talent_02_Desc_01_Realign": "Verursacht, wenn Ben beim Anwenden der <color=#FFFFFF>Spezialangriffe</color> oder <color=#FFFFFF>verstärkter Spezialangriffe</color> einen erfolgreichen Paradekonter ausführt, zusätzlich SCH in Höhe von 300 % Bens VTD.",
+                "Ben_Talent_02_Desc_02": "Im Gegensatz zu anderen Bärenthirens ist Ben im Kampf sehr geduldig. Er ist der Meinung, dass sein Gegner, wenn er seine Verteidigung aufrechterhält, sicherlich irgendwann seine Schwäche offenbaren wird.",
+                "Ben_Talent_02_Desc_01": "Verursacht, wenn Ben beim Anwenden der <color=#FFFFFF>Spezialangriffe</color> oder <color=#FFFFFF>verstärkter Spezialangriffe</color> einen erfolgreichen Paradekonter ausführt, zusätzlich SCH in Höhe von 300 % Bens VTD.",
+                "Ben_Talent_02_Title_Realign": "Verteidigung ist der beste Angriff"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "Umsichtiges Wirtschaften",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Ben_Talent_03_Desc_02": "Finanzielle Verantwortung bedeutet, dass man kosteneffizient arbeitet und alle verfügbaren Ressourcen nutzt, um das Team und sich selbst zu verbessern.",
+                "Ben_Talent_03_Title_Realign": "Umsichtiges Wirtschaften"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "Agile Anpassung",
+                "Ben_Talent_04_Desc_01_Realign": "Erhöht, wenn Ben beim Anwenden der <color=#FFFFFF>Spezialangriffe</color> oder <color=#FFFFFF>verstärkten Spezialangriffe</color> erfolgreich Angriffe durch den Unverwundbarkeitseffekt pariert, den SCH des folgenden Konters um 30 %.",
+                "Ben_Talent_04_Desc_02": "Bens professionelles Gespür für Buchhaltung sorgt dafür, dass er sich flexibel an die aktuelle Situation anpassen kann.\nOb es um Konten oder Gegner geht, es ist wichtig, die besten Ergebnisse bei möglichst niedrigen Kosten zu erzielen.",
+                "Ben_Talent_04_Desc_01": "Erhöht, wenn Ben beim Anwenden der <color=#FFFFFF>Spezialangriffe</color> oder <color=#FFFFFF>verstärkten Spezialangriffe</color> erfolgreich Angriffe durch den Unverwundbarkeitseffekt pariert, den SCH des folgenden Konters um 30 %.",
+                "Ben_Talent_04_Title_Realign": "Agile Anpassung"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "Sorgfältige Details",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Ben_Talent_05_Desc_02": "Bens scharfem Blick entgeht kein noch so kleiner Fehler in der Abrechnung. Das gilt auch im Kampf, denn je mehr Fehler er korrigiert, desto stärker wird er.",
+                "Ben_Talent_05_Title_Realign": "Sorgfältige Details"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "Wilder Kampfgeist",
+                "Ben_Talent_06_Desc_01_Realign": "Erhöht, wenn Ben während eines <color=#FFFFFF>verstärkten Spezialangriffs</color> einen Angriff oder einen kraftvollen Folgeangriff ausführt, die verursachte Benommenheit durch <color=#FFFFFF>Basisangriffe</color>, <color=#FFFFFF>Sprintangriffe</color> und <color=#FFFFFF>Ausweichkonter</color> um 20 %, hält 12 s.",
+                "Ben_Talent_06_Desc_02": "Bärenthirens sind anders als Hundthirens. Man kann sie nicht allein mit Futter zähmen.\nWenn sie die Beherrschung verlieren, kannst du nur noch wegrennen, und zwar um dein Leben ...\n... Aus dem (inzwischen eingestellten) Handbuch „Sei ein guter Nachbar! 100 Tipps für den Umgang mit Thirens“",
+                "Ben_Talent_06_Desc_01": "Erhöht, wenn Ben während eines <color=#FFFFFF>verstärkten Spezialangriffs</color> einen Angriff oder einen kraftvollen Folgeangriff ausführt, die verursachte Benommenheit durch <color=#FFFFFF>Basisangriffe</color>, <color=#FFFFFF>Sprintangriffe</color> und <color=#FFFFFF>Ausweichkonter</color> um 20 %, hält 12 s.",
+                "Ben_Talent_06_Title_Realign": "Wilder Kampfgeist"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "Grace",
+        "full_name": "Grace Howard",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "Aufladungskammer",
+                "Lisa_Talent_01_Desc_01_Realign": "Stellt bei jedem Treffen von Gegnern mit dem 4. Angriff des <color=#FFFFFF>Basisangriffs</color> allen Truppenmitgliedern 0.25Pkt. Energie wieder her.\nWährend einer einzelnen Verwendung dieser Fähigkeit kann max. 2Pkt. Energie für die gesamte Truppe wiederhergestellt werden.",
+                "Lisa_Talent_01_Desc_02": "Effizienz ist das Leben der Technik und in Grace’ Patronenkammer schlägt das Herz der Technik.",
+                "Lisa_Talent_01_Desc_01": "Stellt bei jedem Treffen von Gegnern mit dem 4. Angriff des <color=#FFFFFF>Basisangriffs</color> allen Truppenmitgliedern 0.25Pkt. Energie wieder her.\nWährend einer einzelnen Verwendung dieser Fähigkeit kann max. 2Pkt. Energie für die gesamte Truppe wiederhergestellt werden.",
+                "Lisa_Talent_01_Title_Realign": "Aufladungskammer"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "Blitzstich",
+                "Lisa_Talent_02_Desc_01_Realign": "Verringert beim Treffen von Gegnern mit Granaten, die Grace durch <color=#FFFFFF>Basisangriffe</color>, <color=#FFFFFF>Spezialangriffe</color>, <color=#FFFFFF>verstärkte Spezialangriffe</color> u. a. geworfen hat, den <color=#2EB6FF>Elektro-WDS</color> des Ziels um 8.5 % und verringert den <color=#2EB6FF>WDS gegen Elektro-Anomalieansammlung</color> des Ziels um 8.5 %, hält 8 s.",
+                "Lisa_Talent_02_Desc_02": "Das „Sezieren“ von komplexen mechanischen Strukturen ist Grace’ größtes Hobby, selbst in der Mitte des Gefechts.\nWie fühlt es sich an, auseinandergenommen zu werden und jede Schwäche offenzulegen?",
+                "Lisa_Talent_02_Desc_01": "Verringert beim Treffen von Gegnern mit Granaten, die Grace durch <color=#FFFFFF>Basisangriffe</color>, <color=#FFFFFF>Spezialangriffe</color>, <color=#FFFFFF>verstärkte Spezialangriffe</color> u. a. geworfen hat, den <color=#2EB6FF>Elektro-WDS</color> des Ziels um 8.5 % und verringert den <color=#2EB6FF>WDS gegen Elektro-Anomalieansammlung</color> des Ziels um 8.5 %, hält 8 s.",
+                "Lisa_Talent_02_Title_Realign": "Blitzstich"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "Chefmechanikerin",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Lisa_Talent_03_Desc_02": "Grace war persönlich an der Erstellung der „Sicherheitsrichtlinien für das Bauwesen von Belobog Heavy Industries“ beteiligt.\nSie ist außerdem die Angestellte, die das „Verbot von gefährlichen Sprengkörpern auf Baustellen“ am häufigsten missachtet hat.",
+                "Lisa_Talent_03_Title_Realign": "Chefmechanikerin"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "Sprengkondensator",
+                "Lisa_Talent_04_Desc_01_Realign": "Verleiht Grace beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> 6 Stapelungen „Aufladung“ (max. 6 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Basisangriff</color> oder <color=#FFFFFF>Sprintangriff</color> 1 Stapelung „Aufladung“ und erhöht dadurch die Energie-Generationsrate der aktuellen Fähigkeit um 20 %.",
+                "Lisa_Talent_04_Desc_02": "Anton hatte den leisen Verdacht, dass innerhalb der Komponente, die Grace als „Elektropuls-Wiederverwertungsmodul“ bezeichnete, tatsächlich ein kleiner Ätherhamster saß, der rund um die Uhr pausenlos Energie erzeugte.\n„Kannst du meinem Bruder auch so eins geben?“",
+                "Lisa_Talent_04_Desc_01": "Verleiht Grace beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> 6 Stapelungen „Aufladung“ (max. 6 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Basisangriff</color> oder <color=#FFFFFF>Sprintangriff</color> 1 Stapelung „Aufladung“ und erhöht dadurch die Energie-Generationsrate der aktuellen Fähigkeit um 20 %.",
+                "Lisa_Talent_04_Title_Realign": "Sprengkondensator"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "„Eiskalte Eisenhexe“",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Lisa_Talent_05_Desc_02": "Die „Eiskalte Eisenhexe“ ist in der Lage, jede mechanische Bestie zu zähmen, oder zumindest dachte das der anonyme Fan, der sich den Namen ausgedacht hat.",
+                "Lisa_Talent_05_Title_Realign": "„Eiskalte Eisenhexe“"
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "Zündungsabzug",
+                "Lisa_Talent_06_Desc_01_Realign": "Verstärkt, wenn beim Anwenden eines <color=#FFFFFF>Spezialangriff</color> oder eines <color=#FFFFFF>verstärkten Spezialangriffs</color> alle Stapelungen von <color=#FFFFFF>Stromenergie</color> verbraucht werden, die Wirkung der entsprechenden Fähigkeit, wirft zusätzlich eine Granate und erhöht dabei den SCH jeder Granate auf 200 % ihres ursprünglichen SCH.",
+                "Lisa_Talent_06_Desc_02": "Die durchschnittliche Bluttemperatur von Angestellten der Belobog Heavy Industries liegt bei 98 Grad Celsius, während Grace stets als Kühlventil vor dem Siedepunkt angesehen wird.\nWenn Grace erst einmal loslegt, sollte sich jeder die Ohren zuhalten.",
+                "Lisa_Talent_06_Desc_01": "Verstärkt, wenn beim Anwenden eines <color=#FFFFFF>Spezialangriff</color> oder eines <color=#FFFFFF>verstärkten Spezialangriffs</color> alle Stapelungen von <color=#FFFFFF>Stromenergie</color> verbraucht werden, die Wirkung der entsprechenden Fähigkeit, wirft zusätzlich eine Granate und erhöht dabei den SCH jeder Granate auf 200 % ihres ursprünglichen SCH.",
+                "Lisa_Talent_06_Title_Realign": "Zündungsabzug"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "Corin",
+        "full_name": "Corin Wickes",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "Ungelöstes Trauma",
+                "Corin_Talent_01_Desc_01_Realign": "Erhöht beim Treffen von Gegnern mit Corins <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> den von ihr verursachten SCH am Ziel um 12 %, hält 15 s.",
+                "Corin_Talent_01_Desc_02": "„Das Fräulein sagte immer: ,Wenn es sich lohnt, etwas zu tun, lohnt es sich auch, sich darauf zu konzentrieren.‘“\n„Ich habe schon lange geübt, und jetzt kann ich es!“\n„Aber ... hast du das gesehen ...?“",
+                "Corin_Talent_01_Desc_01": "Erhöht beim Treffen von Gegnern mit Corins <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> den von ihr verursachten SCH am Ziel um 12 %, hält 15 s.",
+                "Corin_Talent_01_Title_Realign": "Ungelöstes Trauma"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "Atomares Zertrümmern",
+                "Corin_Talent_02_Desc_01_Realign": "Verringert beim Treffen von Gegnern mit Corins <color=#FFFFFF>verstärktem Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> den <color=#F0D12B>phys. WDS</color> des Ziels um 0.5 %, 20-fach stapelbar, hält 5 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Corin_Talent_02_Desc_02": "„Verzeihung, Herr oder Frau Äthereal!“\n„Aber ich muss meine Aufgabe erledigen ... Es tut mir wirklich leid!“\nAls Corin sich mit einem schlechten Gewissen aufrichtig bei den Monstern entschuldigte, schwang sie wild ihre Kettensäge und vernichtete alle Feinde.",
+                "Corin_Talent_02_Desc_01": "Verringert beim Treffen von Gegnern mit Corins <color=#FFFFFF>verstärktem Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> den <color=#F0D12B>phys. WDS</color> des Ziels um 0.5 %, 20-fach stapelbar, hält 5 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Corin_Talent_02_Title_Realign": "Atomares Zertrümmern"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "Amateur-Dienstmädchen",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Corin_Talent_03_Desc_02": "„I... Ich werde mein Bestes geben, damit ich ein gutes Dienstmädchen werde!“\nAls Corin das sagte, ging sie mit der Kettensäge auf die Äthereale zu.",
+                "Corin_Talent_03_Title_Realign": "Amateur-Dienstmädchen"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "Dauergästin auf dem Schlachtfeld",
+                "Corin_Talent_04_Desc_01_Realign": "Stellt, wenn Corin eine <color=#FFFFFF>schnelle Hilfe</color>, eine <color=#FFFFFF>Defensivhilfe</color> oder einen <color=#FFFFFF>Kettenangriff</color> anwendet, ihr selbst 7.2 Pkt. Energie wieder her, 16 s Abklingzeit.",
+                "Corin_Talent_04_Desc_02": "Corin ist eine fleißige und ernsthafte junge Reinigungskraft, die bei allem immer ihr ganzes Herzblut einbringt.\nDazu gehört natürlich auch, Feinde im Kampf zu beseitigen.",
+                "Corin_Talent_04_Desc_01": "Stellt, wenn Corin eine <color=#FFFFFF>schnelle Hilfe</color>, eine <color=#FFFFFF>Defensivhilfe</color> oder einen <color=#FFFFFF>Kettenangriff</color> anwendet, ihr selbst 7.2 Pkt. Energie wieder her, 16 s Abklingzeit.",
+                "Corin_Talent_04_Title_Realign": "Dauergästin auf dem Schlachtfeld"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "Spezial-Dienstmädchen",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Corin_Talent_05_Desc_02": "„Ähm ... Tut mir leid, ich bin so ungeschickt. Ich weiß nicht, wie ich die Schnitte gleichmäßig machen kann ...“\nAls Corin das sagte, blickte sie auf die auf dem Boden verstreuten Äthereal-Stücke hinunter.",
+                "Corin_Talent_05_Title_Realign": "Spezial-Dienstmädchen"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "Angesammelte Freigabe",
+                "Corin_Talent_06_Desc_01_Realign": "Verleiht Corin beim Treffen von Gegnern mit ihren fortlaufenden Hieben 1 Stapelung „Aufladung“ (max. 40 Stapelungen).\nVerbraucht, wenn Corins Kettensäge während eines <color=#FFFFFF>Ausweichkonters</color>, eines <color=#FFFFFF>Spezialangriffs</color>, eines <color=#FFFFFF>verstärkten Spezialangriffs</color>, einer <color=#FFFFFF>schnellen Hilfe</color> oder einer <color=#FFFFFF>sukzessiven Hilfe</color> explodiert und einen Gegner trifft, alle Aufladungen und erhöht dabei für jede Stapelung den mit diesem Angriff verursachten SCH zusätzlich um 3 % ANG von Corin.",
+                "Corin_Talent_06_Desc_02": "Corin weiß, dass sie weder das stärkste noch das klügste Dienstmädchen ist.\nAber sie hofft, das am härtesten arbeitende zu werden.\nSie setzt alles, was sie je gelernt hat, in die Tat um.",
+                "Corin_Talent_06_Desc_01": "Verleiht Corin beim Treffen von Gegnern mit ihren fortlaufenden Hieben 1 Stapelung „Aufladung“ (max. 40 Stapelungen).\nVerbraucht, wenn Corins Kettensäge während eines <color=#FFFFFF>Ausweichkonters</color>, eines <color=#FFFFFF>Spezialangriffs</color>, eines <color=#FFFFFF>verstärkten Spezialangriffs</color>, einer <color=#FFFFFF>schnellen Hilfe</color> oder einer <color=#FFFFFF>sukzessiven Hilfe</color> explodiert und einen Gegner trifft, alle Aufladungen und erhöht dabei für jede Stapelung den mit diesem Angriff verursachten SCH zusätzlich um 3 % ANG von Corin.",
+                "Corin_Talent_06_Title_Realign": "Angesammelte Freigabe"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "Lycaon",
+        "full_name": "Von Lycaon",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "Vollmond-Momentum",
+                "Lycaon_Talent_01_Desc_01_Realign": "Erhöht beim Treffen von Gegnern mit <color=#FFFFFF>verstärkten Spezialangriffen</color> die verursachte Benommenheit um 12 %, 8 s Abklingzeit.\nErhöht, wenn der <color=#FFFFFF>verstärkte Spezialangriff</color> voll aufgeladen ist, diesen Bonus zusätzlich um10 %.",
+                "Lycaon_Talent_01_Desc_02": "Aufzeichnungen deuten an, dass Werwölfe erheblich aggressiver werden, wenn sie dem Mondlicht ausgesetzt sind.\n„Schau nicht direkt in den Mond.“",
+                "Lycaon_Talent_01_Desc_01": "Erhöht beim Treffen von Gegnern mit <color=#FFFFFF>verstärkten Spezialangriffen</color> die verursachte Benommenheit um 12 %, 8 s Abklingzeit. Erhöht, wenn der <color=#FFFFFF>verstärkte Spezialangriff</color> voll aufgeladen ist, diesen Bonus zusätzlich um10 %.",
+                "Lycaon_Talent_01_Title_Realign": "Vollmond-Momentum"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "Energierückgabe",
+                "Lycaon_Talent_02_Desc_01_Realign": "Stellt, wenn Lycaon Gegner in den Zustand Benommenheit versetzt oder <color=#FFFFFF>Kettenangriffe</color> seiner Truppenmitglieder auslöst, ihm selbst 5 Pkt. Energie wieder her, 1 s Abklingzeit.",
+                "Lycaon_Talent_02_Desc_02": "„Hundeartige Tiere erhalten nach dem Abschluss komplexer Aufgaben einen kurzen Dopaminschub in ihrem Gehirn. Wenn du als Besitzer sie in diesem Moment streichelst, um sie zu ermutigen, freuen sie sich ...“\n... Auszug aus dem „Handbuch der unzuverlässigen Hundeforschung“",
+                "Lycaon_Talent_02_Desc_01": "Stellt, wenn Lycaon Gegner in den Zustand Benommenheit versetzt oder <color=#FFFFFF>Kettenangriffe</color> seiner Truppenmitglieder auslöst, ihm selbst 5 Pkt. Energie wieder her, 1 s Abklingzeit.",
+                "Lycaon_Talent_02_Title_Realign": "Energierückgabe"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "Ausbildung des Bediensteten",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Lycaon_Talent_03_Desc_02": "Jede seiner Gesten strahlt Gelassenheit aus und seine Worte und Taten sind so angenehm wie eine Frühlingsbrise. In der Ausbildung des Bediensteten geht es darum, die Kontrolle über alles zu behalten.",
+                "Lycaon_Talent_03_Title_Realign": "Ausbildung des Bediensteten"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "Würdevolles Auftreten",
+                "Lycaon_Talent_04_Desc_01_Realign": "Erhält, wenn Lycaon beim Anwenden eines <color=#FFFFFF>Basisangriffs</color> oder <color=#FFFFFF>Spezialangriffs</color> von Gegnern angegriffen wird, einen Schild in Höhe von 7.5 % seiner max. LP, hält 15 s. Während der Schilddauer erhöht sich die Stufe des Unterbrechungs-WDS, 15 s Abklingzeit.",
+                "Lycaon_Talent_04_Desc_02": "„Ein herausragender Bediensteter bewahrt zu jeder Zeit ein würdevolles Auftreten.“",
+                "Lycaon_Talent_04_Desc_01": "Erhält, wenn Lycaon beim Anwenden eines <color=#FFFFFF>Basisangriffs</color> oder <color=#FFFFFF>Spezialangriffs</color> von Gegnern angegriffen wird, einen Schild in Höhe von 7.5 % seiner max. LP, hält 15 s. Während der Schilddauer erhöht sich die Stufe des Unterbrechungs-WDS, 15 s Abklingzeit.",
+                "Lycaon_Talent_04_Title_Realign": "Würdevolles Auftreten"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "Alpha-Natur",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Lycaon_Talent_05_Desc_02": "Sein Blick birgt eine primitive Wildheit und die Echos seines Heulens grollen in seiner Kehle. Ganz gleich, wie anmutig er im Moment erscheint, unter der formellen Kleidung ist er immer noch ungezähmt.",
+                "Lycaon_Talent_05_Title_Realign": "Alpha-Natur"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "Gnadenloser Jäger",
+                "Lycaon_Talent_06_Desc_01_Realign": "Erhöht beim Treffen von Gegnern mit aufgeladenen Angriffen den durch Lycaon verursachten SCH am Ziel um 10 %, max. 5-fach stapelbar, hält 12 s.\nWährend einer einzelnen Verwendung dieser Fähigkeit kann max. 1 Stapelung des Effekts gesammelt werden und beim wiederholten Auslösen wird die Dauer aktualisiert.",
+                "Lycaon_Talent_06_Desc_02": "„Verzeih mir, aber ich bin keiner, der Gnade walten lässt.“\n„Wenn du in einer Höhle nach einem fairen Kampf suchst, bist du am falschen Ort.“",
+                "Lycaon_Talent_06_Desc_01": "Erhöht beim Treffen von Gegnern mit aufgeladenen Angriffen den durch Lycaon verursachten SCH am Ziel um 10 %, max. 5-fach stapelbar, hält 12 s.\nWährend einer einzelnen Verwendung dieser Fähigkeit kann max. 1 Stapelung des Effekts gesammelt werden und beim wiederholten Auslösen wird die Dauer aktualisiert.",
+                "Lycaon_Talent_06_Title_Realign": "Gnadenloser Jäger"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "Ellen",
+        "full_name": "Ellen Joe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "Ein winterliches Omen",
+                "Ellen_Talent_01_Desc_01_Realign": "Erhöht, wenn Ellen während eines <color=#FFFFFF>Sprintangriffs: Arktischer Überfall</color> einen schnellen Schnittangriff ausführt und Gegner trifft, die erhaltene <color=#FFFFFF>Blitzeis-Ladung</color> auf 3 Pkt. Erhöht, wenn Ellen während eines <color=#FFFFFF>Sprintangriffs: Arktischer Überfall</color> einen aufgeladenen Schnittangriff ausführt und Gegner trifft, die erhaltene <color=#FFFFFF>Blitzeis-Ladung</color> auf 6 Pkt. Erhöht für jeden verbrauchten Pkt. <color=#FFFFFF>Blitzeis-Ladung</color> Ellens KRIT-Rate um 2 %, hält 15 s, max. 6-fach stapelbar. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Ellen_Talent_01_Desc_02": "Ein kalter Wind ist ein Omen des Winters und ein Zeichen, dass Ellen bald einen längeren Urlaub beantragen wird, um Winterschlaf zu halten.\nWo wir gerade dabei sind, müssen Haie überhaupt Winterschlaf halten?",
+                "Ellen_Talent_01_Desc_01": "Erhöht, wenn Ellen während eines <color=#FFFFFF>Sprintangriffs: Arktischer Überfall</color> einen schnellen Schnittangriff ausführt und Gegner trifft, die erhaltene <color=#FFFFFF>Blitzeis-Ladung</color> auf 3 Pkt. Erhöht, wenn Ellen während eines <color=#FFFFFF>Sprintangriffs: Arktischer Überfall</color> einen aufgeladenen Schnittangriff ausführt und Gegner trifft, die erhaltene <color=#FFFFFF>Blitzeis-Ladung</color> auf 6 Pkt. Erhöht für jeden verbrauchten Pkt. <color=#FFFFFF>Blitzeis-Ladung</color> Ellens KRIT-Rate um 2 %, hält 15 s, max. 6-fach stapelbar. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Ellen_Talent_01_Title_Realign": "Ein winterliches Omen"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "Jägerin des arktischen Ozeans",
+                "Ellen_Talent_02_Desc_01_Realign": "Nach Anwenden des 3. Angriffs des <color=#FFFFFF>Basisangriffs: Blitzeis-Schliff</color> kann der <color=#FFFFFF>verstärkte Spezialangriff: Hainami</color> direkt eingesetzt werden. Erhöht beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> für je 1 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color> im Besitz den KRIT-SCH dieser Fähigkeit um 20 %, bis max. um 60 %.",
+                "Ellen_Talent_02_Desc_02": "Obgleich sie frische rote Flecken aufweisen, wohnt den gewaltigen Scherenblättern, die Ellen führt, keine Wärme inne.\nDie eisige Kälte rührt von ihrem eisernen Instrument her, aber auch von der Angst, einem Gegner wie ihr gegenüberzustehen.",
+                "Ellen_Talent_02_Desc_01": "Nach Anwenden des 3. Angriffs des <color=#FFFFFF>Basisangriffs: Blitzeis-Schliff</color> kann der <color=#FFFFFF>verstärkte Spezialangriff: Hainami</color> direkt eingesetzt werden. Erhöht beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> für je 1 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color> im Besitz den KRIT-SCH dieser Fähigkeit um 20 %, bis max. um 60 %.",
+                "Ellen_Talent_02_Title_Realign": "Jägerin des arktischen Ozeans"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "Überstunden-Intoleranz",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Ellen_Talent_03_Desc_02": "Der Sinn und Zweck von „Effizienz“ besteht darin, früh Feierabend zu machen und schlafen gehen zu können.\nSchlag also härter und schneller zu.",
+                "Ellen_Talent_03_Title_Realign": "Überstunden-Intoleranz"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "Endloser Raureif",
+                "Ellen_Talent_04_Desc_01_Realign": "Erhält selbst, wenn ein Truppenmitglied einen Gegner in den Zustand <color=#98EFF0>Gefroren</color> oder Benommenheit versetzt, 6 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color> und den Effekt <color=#FFFFFF>Schnellladung</color>. Stellt dabei 4 Pkt. Energie wieder her, 10 s Abklingzeit.",
+                "Ellen_Talent_04_Desc_02": "Ein durchdringender Hauch von extremer Kälte.\nSelbst die furchterregendsten Kreaturen werden von Ellen lernen, wie grausam, aber zugleich schön die Kälte sein kann.\nAber, zweifellos sind die endlosen Schichten der Dienstmädchen während der Ferien noch grausamer ...",
+                "Ellen_Talent_04_Desc_01": "Erhält selbst, wenn ein Truppenmitglied einen Gegner in den Zustand <color=#98EFF0>Gefroren</color> oder Benommenheit versetzt, 6 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color> und den Effekt <color=#FFFFFF>Schnellladung</color>. Stellt dabei 4 Pkt. Energie wieder her, 10 s Abklingzeit.",
+                "Ellen_Talent_04_Title_Realign": "Endloser Raureif"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "Genügend Schlaf",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Ellen_Talent_05_Desc_02": "Mit Ausnahme der härtesten Kämpfe scheint Ellen stets diesen „Ich könnte jeden Moment einschlafen“-Ausdruck zu tragen.\nSchon so mancher Gegner hat sein Ende gefunden, weil er diesen Blick falsch verstanden hat.",
+                "Ellen_Talent_05_Title_Realign": "Genügend Schlaf"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "Das Festmahl beginnt",
+                "Ellen_Talent_06_Desc_01_Realign": "Erhöht, wenn Ellen einen <color=#FFFFFF>verstärkten Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> ausführt oder <color=#FFFFFF>Schnellladung</color> erhält, ihre Durchschlagsrate um 20 %, hält 6 s. Verleiht ihr parallel dazu 1 Stapelung <color=#FFFFFF>Festmahl</color>. <color=#FFFFFF>Festmahl</color> ist max. 3-fach stapelbar. Verbraucht, wenn 3 Stapelungen <color=#FFFFFF>Festmahl</color> vorhanden sind, beim Treffen von Gegnern mit ihrem aufgeladenen Schnittangriff während eines <color=#FFFFFF>Sprintangriffs: Arktischer Überfall</color>, alle Stapelungen <color=#FFFFFF>Festmahl</color> und erhöht den SCH durch diese Fähigkeit um 250 %.",
+                "Ellen_Talent_06_Desc_02": "Eine offene Wunde, ein Tropfen Blut.\nEine rasante Jagd, ein großes Festmahl.\nEin fragiles Leben, ein Moment der Zufriedenheit.",
+                "Ellen_Talent_06_Desc_01": "Erhöht, wenn Ellen einen <color=#FFFFFF>verstärkten Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> ausführt oder <color=#FFFFFF>Schnellladung</color> erhält, ihre Durchschlagsrate um 20 %, hält 6 s. Verleiht ihr parallel dazu 1 Stapelung <color=#FFFFFF>Festmahl</color>. <color=#FFFFFF>Festmahl</color> ist max. 3-fach stapelbar. Verbraucht, wenn 3 Stapelungen <color=#FFFFFF>Festmahl</color> vorhanden sind, beim Treffen von Gegnern mit ihrem aufgeladenen Schnittangriff während eines <color=#FFFFFF>Sprintangriffs: Arktischer Überfall</color>, alle Stapelungen <color=#FFFFFF>Festmahl</color> und erhöht den SCH durch diese Fähigkeit um 250 %.",
+                "Ellen_Talent_06_Title_Realign": "Das Festmahl beginnt"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "Rina",
+        "full_name": "Alexandrina Sebastiane",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "Tanzduett",
+                "Rina_Talent_01_Desc_01_Realign": "Bevor Drusilla und Anastella nach Abschließen des beauftragten Angriffs an Rinas Seite zurückkehren, bleiben sie 5,5 s lang an Ort und Stelle.\nErhöht den Bonuseffekt der <color=#FFFFFF>passiven Kernfähigkeit: Kleine Zerstörungspartner</color> für Figuren im Umkreis von 10 m von Drusilla oder Anastella auf 130 % des ursprünglichen Effekts.",
+                "Rina_Talent_01_Desc_02": "„Erledigt eure Arbeit, sonst geht’s euch an den Kragen!“ ist Drusillas Lieblingsspruch, um alle zu motivieren.\n„Genau, an den Kragen!“, pflichtet Anastella ihr immer bei.",
+                "Rina_Talent_01_Desc_01": "Bevor Drusilla und Anastella nach Abschließen des beauftragten Angriffs an Rinas Seite zurückkehren, bleiben sie 5,5 s lang an Ort und Stelle.\nErhöht den Bonuseffekt der <color=#FFFFFF>passiven Kernfähigkeit: Kleine Zerstörungspartner</color> für Figuren im Umkreis von 10 m von Drusilla oder Anastella auf 130 % des ursprünglichen Effekts.",
+                "Rina_Talent_01_Title_Realign": "Tanzduett"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "Paradebeispiel der Meisterin",
+                "Rina_Talent_02_Desc_01_Realign": "Erhöht beim Eintritt in den Kampf oder beim Einwechsel aufs Feld den von Rina verursachten SCH um 15 %, hält 12 s, 18 s Abklingzeit.",
+                "Rina_Talent_02_Desc_02": "„Es bedarf eines ausgezeichneten Hauptdienstmädchens, um ausgezeichnete Dienstmädchen anzuleiten, und einer beispiellosen Meisterin, um beispiellose Bangboos auszubilden.“\n... Auszug aus Rinas Rede auf dem „Seminar zum Personalmanagement und zur Einsicht in die Bangboo-Ausbildung von Victoria Housekeeping Co.“.",
+                "Rina_Talent_02_Desc_01": "Erhöht beim Eintritt in den Kampf oder beim Einwechsel aufs Feld den von Rina verursachten SCH um 15 %, hält 12 s, 18 s Abklingzeit.",
+                "Rina_Talent_02_Title_Realign": "Paradebeispiel der Meisterin"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "Spezialität des Hauptdienstmädchens",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Rina_Talent_03_Desc_02": "Rina hat stets das Selbstvertrauen, sich in allem hervorzutun und die Fähigkeit, alles zu vernichten.\nWenn es darum geht, die gute Laune des Gegners zu vernichten ... decken sich da ihr Selbstvertrauen und ihre Fähigkeiten.",
+                "Rina_Talent_03_Title_Realign": "Spezialität des Hauptdienstmädchens"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "Nadel und Hammer",
+                "Rina_Talent_04_Desc_01_Realign": "Erhöht, wenn Drusilla und Anastella beide für den beauftragten Angriff unterwegs sind, Rinas Energie-Regenerations-GSW um 0.5 Pkt./s. Der entsprechende Bonuseffekt endet, sobald Drusilla oder Anastella zurück an Rinas Seite ist.",
+                "Rina_Talent_04_Desc_02": "Drusilla und Anastella können sich nie einigen.\nAußer natürlich, wenn es darum geht, diesen Deppen da vorne zu verprügeln.",
+                "Rina_Talent_04_Desc_01": "Erhöht, wenn Drusilla und Anastella beide für den beauftragten Angriff unterwegs sind, Rinas Energie-Regenerations-GSW um 0.5 Pkt./s. Der entsprechende Bonuseffekt endet, sobald Drusilla oder Anastella zurück an Rinas Seite ist.",
+                "Rina_Talent_04_Title_Realign": "Nadel und Hammer"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "Perfektionistisches Hauptdienstmädchen",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Rina_Talent_05_Desc_02": "„‚Rina‘ bedeutet ‚Perfektion‘ in der Sprache der Bangboos.“\nPerfektionismus ist die oberste Regel im Handbuch von Victoria Housekeeping Co.\nUnd Rina hat ihre eigenen Kriterien für die Bewertung von „Perfektion“.",
+                "Rina_Talent_05_Title_Realign": "Perfektionistisches Hauptdienstmädchen"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "Schrecken der Gewitternacht",
+                "Rina_Talent_06_Desc_01_Realign": "Erhöht beim Treffen von Gegnern mit Rinas <color=#FFFFFF>verstärkten Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> den verursachten <color=#2EB6FF>Elektro-SCH</color> aller Truppenmitglieder um 15 %, hält 8 s.",
+                "Rina_Talent_06_Desc_02": "In einer regnerischen Nacht hallt der Donner im alten Schloss wider. Die Tiefen der langen Gänge sind mit unheimlichen Schatten gefüllt.\nAngst-Schaltkreise überladen, das Drehen des Gruselfilms kann beginnen.",
+                "Rina_Talent_06_Desc_01": "Erhöht beim Treffen von Gegnern mit Rinas <color=#FFFFFF>verstärkten Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> den verursachten <color=#2EB6FF>Elektro-SCH</color> aller Truppenmitglieder um 15 %, hält 8 s.",
+                "Rina_Talent_06_Title_Realign": "Schrecken der Gewitternacht"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "Soldatin Nr. 11",
+        "full_name": "Soldatin Nr. 11",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "Schnelle Hitze",
+                "Longinus_Talent_01_Desc_01_Realign": "Stellt, wenn Soldatin Nr. 11 beim Eintritt in den Kampf oder beim Einwechsel aufs Feld weniger als 40 Pkt. Energie hat, ihre Energie sofort auf 80 Pkt., 50 s Abklingzeit.",
+                "Longinus_Talent_01_Desc_02": "Das langfristige, hochintensive Kampftraining hat Soldatin Nr. 11 die komplette Kontrolle über ihre Regulationssysteme verliehen.\nSie will stets sicherstellen, dass sie in der besten Verfassung für jeden einzelnen Kampf ist.",
+                "Longinus_Talent_01_Desc_01": "Stellt, wenn Soldatin Nr. 11 beim Eintritt in den Kampf oder beim Einwechsel aufs Feld weniger als 40 Pkt. Energie hat, ihre Energie sofort auf 80 Pkt., 50 s Abklingzeit.",
+                "Longinus_Talent_01_Title_Realign": "Schnelle Hitze"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "Brennende Konvergenz",
+                "Longinus_Talent_02_Desc_01_Realign": "Erhöht beim Auslösen der <color=#FFFFFF>Unterdrückung mit Feuer</color> den SCH von <color=#FFFFFF>Basisangriffen</color>, <color=#FFFFFF>Sprintangriffen</color> und <color=#FFFFFF>Ausweichkontern</color> um 3 %, max. 12-fach stapelbar, hält 15 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Longinus_Talent_02_Desc_02": "„Sie mag kalt und hart aussehen, wie ein großer Eiswürfel ... Aber im Inneren ist sie brennend heiß, wie ein loderndes Feuer.“\n... Kommentar eines anonymen Soldaten der Obsidian-Division.",
+                "Longinus_Talent_02_Desc_01": "Erhöht beim Auslösen der <color=#FFFFFF>Unterdrückung mit Feuer</color> den SCH von <color=#FFFFFF>Basisangriffen</color>, <color=#FFFFFF>Sprintangriffen</color> und <color=#FFFFFF>Ausweichkontern</color> um 3 %, max. 12-fach stapelbar, hält 15 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+                "Longinus_Talent_02_Title_Realign": "Brennende Konvergenz"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "Elite-Soldatin",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Longinus_Talent_03_Desc_02": "Soldatin Nr. 11 erwartet stets das Äußerste von sich selbst, ob im Training oder im Kampf. So hält sie ihre Kampfkraft aufrecht.",
+                "Longinus_Talent_03_Title_Realign": "Elite-Soldatin"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "Nach Herzenslust brennen",
+                "Longinus_Talent_04_Desc_01_Realign": "Erhöht, wenn beim Ausführen des 1., 2. oder 3. Hiebs des <color=#FFFFFF>Basisangriffs</color> oder beim Ausführen des <color=#FFFFFF>Sprintangriffs</color> die <color=#FFFFFF>Unterdrückung mit Feuer</color> ausgelöst wird, beim Anwenden dieser Fähigkeit die Stufe des Unterbrechungs-WDS und verringert den erlittenen SCH um 18 %.\nVerleiht Soldatin Nr. 11, wenn beim Ausführen des 4. Hiebs des <color=#FFFFFF>Basisangriffs</color> die <color=#FFFFFF>Unterdrückung mit Feuer</color> ausgelöst wird, beim Anwenden dieser Fähigkeit den Unverwundbarkeitseffekt.",
+                "Longinus_Talent_04_Desc_02": "Sie beneidet das Feuer. \nUnd diese schwelenden Flammen werden ihr immer helfen.",
+                "Longinus_Talent_04_Desc_01": "Erhöht, wenn beim Ausführen des 1., 2. oder 3. Hiebs des <color=#FFFFFF>Basisangriffs</color> oder beim Ausführen des <color=#FFFFFF>Sprintangriffs</color> die <color=#FFFFFF>Unterdrückung mit Feuer</color> ausgelöst wird, beim Anwenden dieser Fähigkeit die Stufe des Unterbrechungs-WDS und verringert den erlittenen SCH um 18 %.\nVerleiht Soldatin Nr. 11, wenn beim Ausführen des 4. Hiebs des <color=#FFFFFF>Basisangriffs</color> die <color=#FFFFFF>Unterdrückung mit Feuer</color> ausgelöst wird, beim Anwenden dieser Fähigkeit den Unverwundbarkeitseffekt.",
+                "Longinus_Talent_04_Title_Realign": "Nach Herzenslust brennen"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "Perfekte Soldatin",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Longinus_Talent_05_Desc_02": "Der Weg von der Elite- zur Mustersoldatin ist lang und schwer, doch Soldatin Nr. 11 beißt immer die Zähne zusammen und macht beharrlich weiter, als ob irgendetwas sie antreibt, eine perfekte Soldatin zu werden ...",
+                "Longinus_Talent_05_Title_Realign": "Perfekte Soldatin"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "Brennendes Gemüt",
+                "Longinus_Talent_06_Desc_01_Realign": "Verleiht Soldatin Nr. 11 beim Anwenden von <color=#FFFFFF>verstärktem Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> 8 Stapelungen „Aufladung“ (max. 8 Stapelungen).\nVerbraucht beim Auslösen von <color=#FFFFFF>Unterdrückung mit Feuer</color> 1 Stapelung „Aufladung“ und ignoriert beim Anwenden der aktuellen Fähigkeit 25 % des <color=#FF5521>Feuer-WDS</color> des Ziels.",
+                "Longinus_Talent_06_Desc_02": "Die Flammen des Schwerts verzerrten die Luft mit ihrer Hitze. Ihre Bewegungen wurden immer leidenschaftlicher, als ob diese Hitze mit jedem Atemzug in ihre Seele sickerte und ihre Gedanken entfachte.",
+                "Longinus_Talent_06_Desc_01": "Verleiht Soldatin Nr. 11 beim Anwenden von <color=#FFFFFF>verstärktem Spezialangriff</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> 8 Stapelungen „Aufladung“ (max. 8 Stapelungen).\nVerbraucht beim Auslösen von <color=#FFFFFF>Unterdrückung mit Feuer</color> 1 Stapelung „Aufladung“ und ignoriert beim Anwenden der aktuellen Fähigkeit 25 % des <color=#FF5521>Feuer-WDS</color> des Ziels.",
+                "Longinus_Talent_06_Title_Realign": "Brennendes Gemüt"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "Zhu Yuan",
+        "full_name": "Zhu Yuan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "Schnelles Nachladen",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "Erhält beim Anwenden ihres <color=#FFFFFF>Kettenangriffs</color>/<color=#FFFFFF>Ultimates</color> den Effekt <color=#FFFFFF>Schnelles Nachladen</color>. Verbraucht, wenn Zhu Yuan den Effekt <color=#FFFFFF>Schnelles Nachladen</color> besitzt und alle <color=#FFFFFF>verstärkte Schrotpatronen</color> aufgebraucht sind, den Effekt <color=#FFFFFF>Schnelles Nachladen</color> und erhält sofort 6/9 <color=#FFFFFF>verstärkte Schrotpatronen</color>.",
+                "ZhuYuan_Talent_01_Desc_02": "Zhu Yuan nahm einmal an einem Talentwettbewerb des Janus-Reviers der Sicherheitsbehörde teil. Mit ihrer hervorragenden Nachladefähigkeit sicherte sie sich schließlich den ersten Platz. Dazu meinte ein Kollege: „Übung macht den Meister.“",
+                "ZhuYuan_Talent_01_Desc_01": "Erhält beim Anwenden ihres <color=#FFFFFF>Kettenangriffs</color>/<color=#FFFFFF>Ultimates</color> den Effekt <color=#FFFFFF>Schnelles Nachladen</color>. Verbraucht, wenn Zhu Yuan den Effekt <color=#FFFFFF>Schnelles Nachladen</color> besitzt und alle <color=#FFFFFF>verstärkte Schrotpatronen</color> aufgebraucht sind, den Effekt <color=#FFFFFF>Schnelles Nachladen</color> und erhält sofort 6/9 <color=#FFFFFF>verstärkte Schrotpatronen</color>.",
+                "ZhuYuan_Talent_01_Title_Realign": "Schnelles Nachladen"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "Ätherglut",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "Erhöht im <color=#FFFFFF>Unterdrückungsmodus</color> die Stufe des Unterbrechungs-WDS von Zhu Yuan und verringert den von ihr erlittenen SCH um 10 %. Erhöht, wenn Zhu Yuan <color=#FFFFFF>verstärkte Schrotpatronen</color> verbraucht und Gegner trifft, den durch ihren <color=#FFFFFF>Basisangriff: Kein Widerstand!</color> und <color=#FFFFFF>Sprintangriff: Unterdrückungsfeuer</color> verursachten <color=#FE437E>Äther-SCH</color> um 10 %, max. 5-fach stapelbar, hält 5 s. Erhält jedes Mal, wenn Zhu Yuan feuert, höchstens 1 Stapelung dieses Effekts, und beim wiederholten Auslösen wird die Dauer aktualisiert.",
+                "ZhuYuan_Talent_02_Desc_02": "Zhu Yuan ist mit speziellen Ätherkugeln der Sicherheitsbehörde ausgestattet. Wird ein Feind getroffen, ist der dadurch verursachte Korrosionsschaden irreversibel.\nDeshalb ruft Zhu Yuan dem Feind vor dem Schießen normalerweise zu, dass es das Beste sei, keinen Widerstand zu leisten und sich zu ergeben. Nun ja, das dient eigentlich der Sicherheit des Feindes ...",
+                "ZhuYuan_Talent_02_Desc_01": "Erhöht im <color=#FFFFFF>Unterdrückungsmodus</color> die Stufe des Unterbrechungs-WDS von Zhu Yuan und verringert den von ihr erlittenen SCH um 10 %. Erhöht, wenn Zhu Yuan <color=#FFFFFF>verstärkte Schrotpatronen</color> verbraucht und Gegner trifft, den durch ihren <color=#FFFFFF>Basisangriff: Kein Widerstand!</color> und <color=#FFFFFF>Sprintangriff: Unterdrückungsfeuer</color> verursachten <color=#FE437E>Äther-SCH</color> um 10 %, max. 5-fach stapelbar, hält 5 s. Erhält jedes Mal, wenn Zhu Yuan feuert, höchstens 1 Stapelung dieses Effekts, und beim wiederholten Auslösen wird die Dauer aktualisiert.",
+                "ZhuYuan_Talent_02_Title_Realign": "Ätherglut"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "Sondertraining für Offiziere",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "ZhuYuan_Talent_03_Desc_02": "Als Elite-Sicherheitsoffizierin besteht das einzige Ziel der Ausbildung von Zhu Yuan darin, ihre Kampffähigkeiten in Höhlen zu verbessern und stark genug zu werden, um mit allen Arten von Gesetzlosen fertig werden zu können.",
+                "ZhuYuan_Talent_03_Title_Realign": "Sondertraining für Offiziere"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "Äther-Perforation",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "Wenn Zhu Yuan einen Gegner mit <color=#FFFFFF>verstärkten Schrotpatronen</color> trifft, ignorieren ihr <color=#FFFFFF>Basisangriff: Kein Widerstand!</color> und <color=#FFFFFF>Sprintangriff: Unterdrückungsfeuer</color> 25 % des <color=#FE437E>Äther-WDS</color> des Ziels.",
+                "ZhuYuan_Talent_04_Desc_02": "Während des Kampfes zählen die Banditen in Höhlen im Geiste gern die verbleibenden Kugeln ihres Feindes. Aber sie rechnen nicht damit, dass Zhu Yuans Magazin in der Lage sein würde, den umgebenden Äther zu nutzen, um einen stetigen Nachschub aufrechtzuerhalten ...",
+                "ZhuYuan_Talent_04_Desc_01": "Wenn Zhu Yuan einen Gegner mit <color=#FFFFFF>verstärkten Schrotpatronen</color> trifft, ignorieren ihr <color=#FFFFFF>Basisangriff: Kein Widerstand!</color> und <color=#FFFFFF>Sprintangriff: Unterdrückungsfeuer</color> 25 % des <color=#FE437E>Äther-WDS</color> des Ziels.",
+                "ZhuYuan_Talent_04_Title_Realign": "Äther-Perforation"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "Erfahrung für Spezialeinsätze",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "ZhuYuan_Talent_05_Desc_02": "Als erfahrene Offizierin der Spezialeinheit weiß Zhu Yuan, wie man die Situation einschätzt und Kampffähigkeiten effizient einsetzt. Manchmal reicht ein einschüchternder Blick aus, um den Feind zur Kapitulation zu zwingen.",
+                "ZhuYuan_Talent_05_Title_Realign": "Erfahrung für Spezialeinsätze"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "Erweitertes Energiepaket Typ III",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "Verbraucht Zhu Yuan insgesamt 12 <color=#FFFFFF>verstärkte Schrotpatronen</color>, erhält sie den Effekt <color=#FFFFFF>Äther-Nachglut</color>, wodurch die Energiekosten des nächsten <color=#FFFFFF>verstärkten Spezialangriffs</color> um 30 Pkt. reduziert werden. Beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> verbraucht sie den Effekt <color=#FFFFFF>Äther-Nachglut</color> und feuert insgesamt 4 zusätzliche Äther-Schrotschüsse ab, wobei jeder Äther-Schrotschuss SCH in Höhe von 220 % des ANG von Zhu Yuan verursacht.",
+                "ZhuYuan_Talent_06_Desc_02": "Zhu Yuan macht sich oft Sorgen um die verbleibende Batterie ihrer Waffe. Wenn der Energiebalken in den roten Bereich fällt, wird sie nervös und konzentriert sich darauf, Energie zu sparen.\nErst nachdem die Sicherheitsbehörde ihr ein erweitertes Energiepaket mit Hochleistung zur Verfügung gestellt hatte, konnten diese Bedenken vollständig ausgeräumt werden.",
+                "ZhuYuan_Talent_06_Desc_01": "Verbraucht Zhu Yuan insgesamt 12 <color=#FFFFFF>verstärkte Schrotpatronen</color>, erhält sie den Effekt <color=#FFFFFF>Äther-Nachglut</color>, wodurch die Energiekosten des nächsten <color=#FFFFFF>verstärkten Spezialangriffs</color> um 30 Pkt. reduziert werden. Beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> verbraucht sie den Effekt <color=#FFFFFF>Äther-Nachglut</color> und feuert insgesamt 4 zusätzliche Äther-Schrotschüsse ab, wobei jeder Äther-Schrotschuss SCH in Höhe von 220 % des ANG von Zhu Yuan verursacht.",
+                "ZhuYuan_Talent_06_Title_Realign": "Erweitertes Energiepaket Typ III"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "Qingyi",
+        "full_name": "Qingyi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "Dämmungsdurchbruch",
+                "QingYi_Talent_01_Desc_01_Realign": "Beim Betreten des Kampffelds wird Qingyis <color=#FFFFFF>Überschlagsspannung</color> sofort auf den maximalen Wert wiederhergestellt und deren Ansammlungsrate wird um 30 % erhöht. Wenn <color=#FFFFFF>Überschlagsspannung</color> beim Anwenden des <color=#FFFFFF>Basisangriffs: Entzückende Mondscheinblüten</color> auf dem maximalen Wert liegt, verringert sich die VTD des durch diesen Angriff getroffenen Gegners um 15 % und Qingyis KRIT-Rate gegen diesen Gegner erhöht sich um 20 %, hält 15 s.",
+                "QingYi_Talent_01_Desc_02": "„Auch wenn dein Leben nicht in Gefahr sein wird, bitten wir dich freundlich, dich nicht der Festnahme zu widersetzen ...“\nDie Richtung und Intensität des Stroms wurden präzise berechnet, um sicherzustellen, dass jeder Verdächtige ein gefahrloses Erlebnis mit Stromschlägen hat.",
+                "QingYi_Talent_01_Desc_01": "Beim Betreten des Kampffelds wird Qingyis <color=#FFFFFF>Überschlagsspannung</color> sofort auf den maximalen Wert wiederhergestellt und deren Ansammlungsrate wird um 30 % erhöht. Wenn <color=#FFFFFF>Überschlagsspannung</color> beim Anwenden des <color=#FFFFFF>Basisangriffs: Entzückende Mondscheinblüten</color> auf dem maximalen Wert liegt, verringert sich die VTD des durch diesen Angriff getroffenen Gegners um 15 % und Qingyis KRIT-Rate gegen diesen Gegner erhöht sich um 20 %, hält 15 s.",
+                "QingYi_Talent_01_Title_Realign": "Dämmungsdurchbruch"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "Minimale Anstrengung, maximale Wirkung",
+                "QingYi_Talent_02_Desc_01_Realign": "Erhöht den Benommenheit-SCH-Multiplikator-Bonus jeder einzelnen Stapelung <color=#FFFFFF>Bezwingung</color> der <color=#FFFFFF>passiven Kernfähigkeit: Ewige Jahreszeiten</color> auf 135 % ihres ursprünglichen Werts. Wenn Qingyis Angriff ein Ziel trifft und die ihm verliehenen Stapelungen von <color=#FFFFFF>Bezwingung</color> bereits die maximale Anzahl erreicht haben, wird die von ihr bei diesem Ziel verursachte Benommenheit um 15 % erhöht.",
+                "QingYi_Talent_02_Desc_02": "Eine uralte Kampftechnik, die in antiken Schriften aus der alten Zivilisation erwähnt wird. Am Anfang war es vermutlich eher eine Technik für den Faustkampf als für die Stabswaffe.\n„Sei nicht so verkrampft, auch der Arm kann wie ein Dreistock verwendet werden, mhm.“",
+                "QingYi_Talent_02_Desc_01": "Erhöht den Benommenheit-SCH-Multiplikator-Bonus jeder einzelnen Stapelung <color=#FFFFFF>Bezwingung</color> der <color=#FFFFFF>passiven Kernfähigkeit: Ewige Jahreszeiten</color> auf 135 % ihres ursprünglichen Werts. Wenn Qingyis Angriff ein Ziel trifft und die ihm verliehenen Stapelungen von <color=#FFFFFF>Bezwingung</color> bereits die maximale Anzahl erreicht haben, wird die von ihr bei diesem Ziel verursachte Benommenheit um 15 % erhöht.",
+                "QingYi_Talent_02_Title_Realign": "Minimale Anstrengung, maximale Wirkung"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "Trink viel heißes Wasser",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "QingYi_Talent_03_Desc_02": "„Junge Leute sollten auf ihre Gesundheit achten und mehr heißes Wasser zu trinken ist ein guter Anfang.“\nQingyi scheint sich immer wohlzufühlen, wenn sie aus ihrer Thermoskanne trinkt. Aber sei vorsichtig, wenn sie dir einen Schluck anbietet. „Selbst 100 Grad Celsius kochendes Wasser macht ihr nichts aus ...“\nEine solche Notiz wurde von einer Offizierin hinterlassen, die die Erfahrung machte.",
+                "QingYi_Talent_03_Title_Realign": "Trink viel heißes Wasser"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "Stabile Lichtbogenbarriere",
+                "QingYi_Talent_04_Desc_01_Realign": "Wenn Qingyi den Zustand <color=#FFFFFF>Überschlag</color> betritt oder verlässt, erhält sie einen Schild, dessen Wert 10 % ihrer max. LP entspricht. Wenn der vorherige Schild beim Aktualisieren des Schildeffekts noch aktiv ist, regeneriert Qingyi 5 Pkt. Energie. Dieser Energie-Regenerationseffekt hat eine Abklingzeit von 10 s.",
+                "QingYi_Talent_04_Desc_02": "Indem sie Automaten der alten Zivilisation rückentwickelten, entwickelte das White-Star-Institut die Lichtbogenbarriere. Diese Technologie vereint die Funktionen Verteidigung, Angriff und Umwandlung elektrischer Energie.\n„Wie man so schön sagt: Wasser kann ein Boot tragen, kann es aber auch versenken. In der Physik gibt es auch das Sprichwort: Der Strom der Elektrizität ist dem Strom des Wassers gleich. Daher kann Stromenergie sowohl offensiv als auch defensiv verwendet werden. Es ist eine tolle Kombination.“",
+                "QingYi_Talent_04_Desc_01": "Wenn Qingyi den Zustand <color=#FFFFFF>Überschlag</color> betritt oder verlässt, erhält sie einen Schild, dessen Wert 10 % ihrer max. LP entspricht. Wenn der vorherige Schild beim Aktualisieren des Schildeffekts noch aktiv ist, regeneriert Qingyi 5 Pkt. Energie. Dieser Energie-Regenerationseffekt hat eine Abklingzeit von 10 s.",
+                "QingYi_Talent_04_Title_Realign": "Stabile Lichtbogenbarriere"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "Jugendliches Gemüt",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "QingYi_Talent_05_Desc_02": "„Sehr gut, junge Leute sollte mutig sein und neue Dinge ausprobieren. Weiter so!“\nManchmal fühlt sich Qingyis Ermutigung etwas faul und stichelnd an, aber wenn man wirklich in Schwierigkeiten steckt, kann man sich auf sie verlassen.\nImmerhin lebt sie bereits seit vielen Jahrhunderten und kann mit allem klarkommen.",
+                "QingYi_Talent_05_Title_Realign": "Jugendliches Gemüt"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "Acht Meridiane",
+                "QingYi_Talent_06_Desc_01_Realign": "Die Unterbrechungsstufe des <color=#FFFFFF>Basisangriffs: Entzückende Mondscheinblüten</color> wird erheblich erhöht und dessen KRIT-SCH wird zusätzlich um 100 % erhöht. Wenn Qingyi einen Gegner mit dem <color=#FFFFFF>Basisangriff: Entzückende Mondscheinblüten</color> trifft, verringert sich der WDS des Ziels gegen allen Attribut-SCH um 20 %, hält 15 s.",
+                "QingYi_Talent_06_Desc_02": "In den antiken Schriften der alten Zivilisation gibt es eine Theorie über das menschliche Kreislaufsystem. Dort steht geschrieben, dass jene, die diese Theorie meistern, einen Gegner im Kampf unverzüglich ausschalten können.\n„Sollte ich beim nächsten Mal die Akupunkte ausprobieren, die Juckreiz verursachen? Hm, wer soll das Versuchskaninchen sein ... {M#der Chef}{F#die Chefin} oder Zhu Yuan?“",
+                "QingYi_Talent_06_Desc_01": "Die Unterbrechungsstufe des <color=#FFFFFF>Basisangriffs: Entzückende Mondscheinblüten</color> wird erheblich erhöht und dessen KRIT-SCH wird zusätzlich um 100 % erhöht. Wenn Qingyi einen Gegner mit dem <color=#FFFFFF>Basisangriff: Entzückende Mondscheinblüten</color> trifft, verringert sich der WDS des Ziels gegen allen Attribut-SCH um 20 %, hält 15 s.",
+                "QingYi_Talent_06_Title_Realign": "Acht Meridiane"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "Jane",
+        "full_name": "Jane Doe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "Kriminalberaterin",
+                "JaneDoe_Talent_01_Desc_01_Realign": "Die Obergrenze der Einsatzmöglichkeiten von <color=#FFFFFF>Basisangriff: Salchow-Sprung</color> erhöht sich um eins. Im Zustand <color=#FFFFFF>Inbrunst</color> erhöht sich Janes <color=#F0D12B>phys. Anomalieansammlungsrate</color> zusätzlich um 15 % und jeder Punkt ihrer Anomaliekunde erhöht den von Jane verursachten SCH um 0.1 %, bis zu max. 30 %.",
+                "JaneDoe_Talent_01_Desc_02": "„Eine Kriminalberaterin gibt Beratung über kriminalistische Angelegenheiten, nicht darüber, wie man sich kriminell verhält.“\nJane kommt plötzlich näher und zwinkert.\n„Wenn du es aber selbstverständlich als Letzteres missverstehst ... habe ich auch nichts dagegen.“",
+                "JaneDoe_Talent_01_Desc_01": "Die Obergrenze der Einsatzmöglichkeiten von <color=#FFFFFF>Basisangriff: Salchow-Sprung</color> erhöht sich um eins. Im Zustand <color=#FFFFFF>Inbrunst</color> erhöht sich Janes <color=#F0D12B>phys. Anomalieansammlungsrate</color> zusätzlich um 15 % und jeder Punkt ihrer Anomaliekunde erhöht den von Jane verursachten SCH um 0.1 %, bis zu max. 30 %.",
+                "JaneDoe_Talent_01_Title_Realign": "Kriminalberaterin"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "Akklimatisation",
+                "JaneDoe_Talent_02_Desc_01_Realign": "Wenn Janes Angriff einen Gegner im Zustand <color=#FFFFFF>Angenagt</color> trifft oder ein Truppenmitglied einem Gegner im Zustand <color=#FFFFFF>Angenagt</color> den Effekt <color=#F0D12B>Wuchtschlag</color> verleiht, wird 15 % der VTD des Ziels ignoriert. Wenn <color=#F0D12B>Wuchtschlag</color> einen KT auslöst, wird dieser KRIT-SCH zusätzlich um 50 % erhöht.",
+                "JaneDoe_Talent_02_Desc_02": "Wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein. Das ist jedoch nur der erste Schritt.\n„Dann musst du dich ihm nähern, ihn betreten und ihn verstehen. Das ist der zweite Schritt.“\n„Der letzte Schritt besteht darin ... zu widerstehen, eins mit ihm zu werden.“",
+                "JaneDoe_Talent_02_Desc_01": "Wenn Janes Angriff einen Gegner im Zustand <color=#FFFFFF>Angenagt</color> trifft oder ein Truppenmitglied einem Gegner im Zustand <color=#FFFFFF>Angenagt</color> den Effekt <color=#F0D12B>Wuchtschlag</color> verleiht, wird 15 % der VTD des Ziels ignoriert. Wenn <color=#F0D12B>Wuchtschlag</color> einen KT auslöst, wird dieser KRIT-SCH zusätzlich um 50 % erhöht.",
+                "JaneDoe_Talent_02_Title_Realign": "Akklimatisation"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "Anonymität",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "JaneDoe_Talent_03_Desc_02": "„Anonymität ... Die Möglichkeit, eine beliebige Person zu werden. Vielleicht die Person, die du am liebsten hast!“\n„... Oder vielleicht dein schlimmster Albtraum?“",
+                "JaneDoe_Talent_03_Title_Realign": "Anonymität"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "Anpassen und Gedeihen",
+                "JaneDoe_Talent_04_Desc_01_Realign": "Wenn ein Truppenmitglied den Effekt <color=#F0D12B>Wuchtschlag</color> oder <color=#FFFFFF>Unordnung</color> auslöst, wird der Attributanomalie-SCH durch alle Truppenmitglieder um 18 % erhöht, hält 15 s.",
+                "JaneDoe_Talent_04_Desc_02": "„Ob man der Jäger oder Gejagte ist, kommt auf den Blickwinkel an. Mir ist jedoch eine direktere Beurteilung lieber ...“\n„Der Verlierer ist der Gejagte.“",
+                "JaneDoe_Talent_04_Desc_01": "Wenn ein Truppenmitglied den Effekt <color=#F0D12B>Wuchtschlag</color> oder <color=#FFFFFF>Unordnung</color> auslöst, wird der Attributanomalie-SCH durch alle Truppenmitglieder um 18 % erhöht, hält 15 s.",
+                "JaneDoe_Talent_04_Title_Realign": "Anpassen und Gedeihen"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "Triebhafte Hamsterin",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "JaneDoe_Talent_05_Desc_02": "Janes Raum ist mit allerlei Dingen gefüllt, vor allem mit Fertiggerichten.\n„Schön hier drinnen, oder? Essen ist überall in Reichweite!“",
+                "JaneDoe_Talent_05_Title_Realign": "Triebhafte Hamsterin"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "„Zwielichtige“ Technik",
+                "JaneDoe_Talent_06_Desc_01_Realign": "Wenn sie sich im Zustand <color=#FFFFFF>Inbrunst</color> befindet, wird Janes KRIT-Rate um 20 % und KRIT-SCH um 40 % erhöht. Nachdem ein Truppenmitglied einem Gegner den Effekt <color=#F0D12B>Wuchtschlag</color> verliehen hat, versetzt sich Jane sofort in den Zustand <color=#FFFFFF>Inbrunst</color> und stellt <color=#FFFFFF>Inbrunststrom</color> auf die Obergrenze wieder her. Wenn <color=#F0D12B>Wuchtschlag</color> einen KT auslöst, führt Jane einen zusätzlichen Angriff gegen das Ziel aus, der <color=#F0D12B>phys. SCH</color> in Höhe von 1600 % ihrer Anomaliekunde verursacht.",
+                "JaneDoe_Talent_06_Desc_02": "Auf der Straße sind die Methoden egal. Es zählt nur das Ergebnis.\n„Die dunkelsten Begierden einer Person sind gleichzeitig ihr kritischster Schwachpunkt.“",
+                "JaneDoe_Talent_06_Desc_01": "Wenn sie sich im Zustand <color=#FFFFFF>Inbrunst</color> befindet, wird Janes KRIT-Rate um 20 % und KRIT-SCH um 40 % erhöht. Nachdem ein Truppenmitglied einem Gegner den Effekt <color=#F0D12B>Wuchtschlag</color> verliehen hat, versetzt sich Jane sofort in den Zustand <color=#FFFFFF>Inbrunst</color> und stellt <color=#FFFFFF>Inbrunststrom</color> auf die Obergrenze wieder her. Wenn <color=#F0D12B>Wuchtschlag</color> einen KT auslöst, führt Jane einen zusätzlichen Angriff gegen das Ziel aus, der <color=#F0D12B>phys. SCH</color> in Höhe von 1600 % ihrer Anomaliekunde verursacht.",
+                "JaneDoe_Talent_06_Title_Realign": "„Zwielichtige“ Technik"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "Seth",
+        "full_name": "Seth Lowell",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "Heldentum",
+                "Seth_Talent_01_Desc_01_Realign": "Erhöht den von <color=#FFFFFF>Schild der felsenfesten Entschlossenheit</color> gewährten Schild und dessen Obergrenze um 30 %.\nWenn der <color=#FFFFFF>Schild der felsenfesten Entschlossenheit</color> endet, hält der durch <color=#FFFFFF>passive Kernfähigkeit: Beschützer</color> gewährte Anomaliekunde-Bonus zusätzlich für 10 s an.",
+                "Seth_Talent_01_Desc_02": "Bei Gruppenoperationen ist Seth immer ganz vorne mit dabei.\n„Überlass die Festnahmen mir! Ich habe bei Festnahmen im Nahkampf eine Punktzahl von 99 erzielt! Und der eine Punkt wurde nur abgezogen, weil ich versehentlich das Handgelenk des Ausbilders verrenkt habe.“",
+                "Seth_Talent_01_Desc_01": "Erhöht den von <color=#FFFFFF>Schild der felsenfesten Entschlossenheit</color> gewährten Schild und dessen Obergrenze um 30 %. Wenn der <color=#FFFFFF>Schild der felsenfesten Entschlossenheit</color> endet, hält der durch <color=#FFFFFF>passive Kernfähigkeit: Beschützer</color> gewährte Anomaliekunde-Bonus zusätzlich für 10 s an.",
+                "Seth_Talent_01_Title_Realign": "Heldentum"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "Tollkühnheit der Jugend",
+                "Seth_Talent_02_Desc_01_Realign": "Beim Betreten des Kampffelds erhält Seth sofort 75 % <color=#FFFFFF>Entschlossenheit</color>.\nBeim Treffen von Gegnern mit <color=#FFFFFF>Basisangriff: Blitzschlag – Elektroschock</color> erhöht sich die durch die Fähigkeit angesammelte <color=#2EB6FF>Elektro-Anomalieansammlung</color> um 35 %.",
+                "Seth_Talent_02_Desc_02": "Viele Verbrecher machen den Fehler, Seth zu unterschätzen.\nVielleicht liegt es an seinen klaren Augen oder seinen unschuldig aussehenden, flauschigen Ohren und wuscheligen Schwanz ...\nWas auch immer der Grund sein mag, jeder, der ihn unterschätzt, wird früher oder später dafür bezahlen.",
+                "Seth_Talent_02_Desc_01": "Beim Betreten des Kampffelds erhält Seth sofort 75 % <color=#FFFFFF>Entschlossenheit</color>. Beim Treffen von Gegnern mit <color=#FFFFFF>Basisangriff: Blitzschlag – Elektroschock</color> erhöht sich die durch die Fähigkeit angesammelte <color=#2EB6FF>Elektro-Anomalieansammlung</color> um 35 %.",
+                "Seth_Talent_02_Title_Realign": "Tollkühnheit der Jugend"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "Langsame Reflexe",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Seth_Talent_03_Desc_02": "„Ein fähiger Offizier wie du kann bestimmt mit allem alleine klarkommen, was? Du bist bestimmt nie auf andere angewiesen, oder?“\nSelbst nachdem er solche Worte hört, bleibt Seth ruhig.\nErst um Mitternacht fährt er plötzlich aus dem Schlaf:\n„Wollte mich der Kerl mit seinem Kommentar vorhin ... verspotten?“",
+                "Seth_Talent_03_Title_Realign": "Langsame Reflexe"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "Unverändertes Bestreben",
+                "Seth_Talent_04_Desc_01_Realign": "Die durch <color=#FFFFFF>Defensivhilfe: Donnerschild</color> verursachte Benommenheit erhöht sich um 25 %.",
+                "Seth_Talent_04_Desc_02": "„Leg deine törichte Vorstellung von Gut und Böse beiseite. Du kannst nicht alle retten. Manchmal musst du eine Entscheidung treffen.“\n„Das ist meine Entscheidung und die grundlegendste Pflicht eines Offiziers. Du bist derjenige, der sich verändert hat, Bruder.“",
+                "Seth_Talent_04_Desc_01": "Die durch <color=#FFFFFF>Defensivhilfe: Donnerschild</color> verursachte Benommenheit erhöht sich um 25 %.",
+                "Seth_Talent_04_Title_Realign": "Unverändertes Bestreben"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "Distanzierte Bewunderung",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Seth_Talent_05_Desc_02": "Seth bewunderte und respektierte seinen älteren Bruder einst zutiefst.\nDoch „Bewunderung“ führt manchmal dazu, dass man sich vom „Verständnis“ entfernt.\n„Eines Tages werde ich der fähigste Offizier sein ... dann wird er alles zurücknehmen müssen!“",
+                "Seth_Talent_05_Title_Realign": "Distanzierte Bewunderung"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "Idealismus",
+                "Seth_Talent_06_Desc_01_Realign": "Wenn Seth einen Gegner während des <color=#FFFFFF>Basisangriffs: Blitzschlag – Elektroschock</color> mit dem Gnadenstoß trifft, wird zusätzlicher Schaden in Höhe von 500 % seines ANG verursacht. Dieser Angriff wird garantiert einen KT auslösen und der KRIT-SCH wird um 60 % erhöht.",
+                "Seth_Talent_06_Desc_02": "Für junge Leute ist alles eindeutig, selbst der Kontrast zwischen schwarz und weiß, Gut und Böse.\nEs wird immer jemanden geben, der ihnen klarmachen will, dass die Welt eher ein verwaschenes Grau ist.\nDoch ist eine Welt, in der alles klar und eindeutig ist, nicht ein erstrebenswertes Ziel?",
+                "Seth_Talent_06_Desc_01": "Wenn Seth einen Gegner während des <color=#FFFFFF>Basisangriffs: Blitzschlag – Elektroschock</color> mit dem Gnadenstoß trifft, wird zusätzlicher Schaden in Höhe von 500 % seines ANG verursacht. Dieser Angriff wird garantiert einen KT auslösen und der KRIT-SCH wird um 60 % erhöht.",
+                "Seth_Talent_06_Title_Realign": "Idealismus"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "Caesar",
+        "full_name": "Caesar King",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "Verkeilter Vorstoß",
+                "Caesar_Talent_01_Desc_01_Realign": "Wenn Caesar dem Kampf beitritt oder aufs Feld eingewechselt wird, erhalten alle Truppenmitglieder sofort <color=#FFFFFF>Ägis des Ruhms</color>, 300 s Abklingzeit. \nSolange <color=#FFFFFF>Ägis des Ruhms</color> aktiv ist, erleiden Gegner innerhalb eines Radius von 5 m eine Verringerung des Attribut-SCH-WDS von 15 %.",
+                "Caesar_Talent_01_Desc_02": "„Big Daddy hat mir beigebracht, dass man in solchen Situationen eine keilartige Formation mit mächtigen Kämpfern bilden und die Schwachstelle des Gegners angreifen muss ...“\n„Ich führe die Formation natürlich von ganz vorn an!“",
+                "Caesar_Talent_01_Desc_01": "Wenn Caesar dem Kampf beitritt oder aufs Feld eingewechselt wird, erhalten alle Truppenmitglieder sofort <color=#FFFFFF>Ägis des Ruhms</color>, 300 s Abklingzeit. Solange <color=#FFFFFF>Ägis des Ruhms</color> aktiv ist, erleiden Gegner innerhalb eines Radius von 5 m eine Verringerung des Attribut-SCH-WDS von 15 %.",
+                "Caesar_Talent_01_Title_Realign": "Verkeilter Vorstoß"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "Vermächtnis der Ferne",
+                "Caesar_Talent_02_Desc_01_Realign": "Während der Dauer von <color=#FFFFFF>Ägis des Ruhms</color> durch <color=#FFFFFF>passive Kernfähigkeit: Belastbare Barriere</color>, \nerhöht sich Caesars Energie-Regenerationsrate um 10 % und der ANG-Bonus des Trägers erhöht sich auf 150 % des ursprünglichen Werts.",
+                "Caesar_Talent_02_Desc_02": "Caesars Kampfstil sticht im Vergleich zu anderen Leuten aus New Eridu oder der Außenzone heraus und basiert auf Techniken der talentiertesten Krieger unter den Wanderern.\nZu wissen, wann man sich zurückhalten sollte und wann man entschlossen angreifen muss ... das war schon immer die Überlebensweise der Wanderer. Und Caesar war schon immer eine gute Schülerin dieser Philosophie.",
+                "Caesar_Talent_02_Desc_01": "Während der Dauer von <color=#FFFFFF>Ägis des Ruhms</color> durch <color=#FFFFFF>passive Kernfähigkeit: Belastbare Barriere</color>, erhöht sich Caesars Energie-Regenerationsrate um 10 % und der ANG-Bonus des Trägers erhöht sich auf 150 % des ursprünglichen Werts.",
+                "Caesar_Talent_02_Title_Realign": "Vermächtnis der Ferne"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "Absolutes Vertrauen",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Caesar_Talent_03_Desc_02": "Sobald Caesar jemanden als Verbündeten ansieht, akzeptiert sie diese Person vollständig als Teil ihres engsten Freundeskreises. Sie vertraut ihr bedingungslos und hütet sich in keinster Weise ...\nGenau wie sie es bei dir getan hat.",
+                "Caesar_Talent_03_Title_Realign": "Absolutes Vertrauen"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "Ares’ Rammbock",
+                "Caesar_Talent_04_Desc_01_Realign": "Verwendet Caesar einen <color=#FFFFFF>Kettenangriff</color> oder ihr <color=#FFFFFF>Ultimate</color>, erhält sie 3 zusätzliche <color=#FFFFFF>Hilfspunkte</color>. \nHat sie weniger als 20 Pkt. Energie, kann sie <color=#FFFFFF>verstärkter Spezialangriff: Überwältigender Schildhieb</color> mit 1 <color=#FFFFFF>Hilfspunkt</color> aktivieren. Dieser Ersatzeffekt hat eine 5 s Abklingzeit.",
+                "Caesar_Talent_04_Desc_02": "Eine der Techniken, die Caesar unter der Leitung der Wanderer gemeistert hat.\n„Egal, was kommt, ich kämpfe weiter bis zum letzten Moment!“",
+                "Caesar_Talent_04_Desc_01": "Verwendet Caesar einen <color=#FFFFFF>Kettenangriff</color> oder ihr <color=#FFFFFF>Ultimate</color>, erhält sie 3 zusätzliche <color=#FFFFFF>Hilfspunkte</color>. Hat sie weniger als 20 Pkt. Energie, kann sie <color=#FFFFFF>verstärkter Spezialangriff: Überwältigender Schildhieb</color> mit 1 <color=#FFFFFF>Hilfspunkt</color> aktivieren. Dieser Ersatzeffekt hat eine 5 s Abklingzeit.",
+                "Caesar_Talent_04_Title_Realign": "Ares’ Rammbock"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "Romantische Eroberung",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Caesar_Talent_05_Desc_02": "Hinter Caesars gelassenem und ungeschliffenem Äußeren versteckt sich eine hoffnungslose Romantikerin.\nSie ist immer neugierig über Liebesgeschichten.\nWenn man sie etwas mehr über das Thema ausfragt ... sieht man sie vielleicht erröten.",
+                "Caesar_Talent_05_Title_Realign": "Romantische Eroberung"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "Wille der Oberherrin",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>Verstärkter Spezialangriff: Überwältigender Schildhieb</color> und <color=#FFFFFF>sukzessive Hilfe</color> lösen garantiert KT aus. \nDer durch diese Fähigkeiten verursachte SCH wird um 50 % erhöht und es werden zusätzlich 50 % SCH beim Hauptziel verursacht. Verwendet Caesar <color=#FFFFFF>verstärkter Spezialangriff: Überwältigender Schildhieb</color> oder <color=#FFFFFF>sukzessive Hilfe</color>, erhöht sich ihre KRIT-Rate um 30 % und ihr KRIT-SCH um 60 %, hält 15 s.",
+                "Caesar_Talent_06_Desc_02": "„Früher habe ich immer nur direkt nach vorn geblickt und dachte, ich sei stark genug, um es mit allem aufzunehmen.“\n„Aber eine gute Oberherrin braucht mehr als nur rohe Kraft.“\n„Ich muss meine Freunde, die hinter mir stehen, beschützen. Sie sind der Grund, warum ich immer weitermachen kann.“",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>Verstärkter Spezialangriff: Überwältigender Schildhieb</color> und <color=#FFFFFF>sukzessive Hilfe</color> lösen garantiert KT aus. Der durch diese Fähigkeiten verursachte SCH wird um 50 % erhöht und es werden zusätzlich 50 % SCH beim Hauptziel verursacht. Verwendet Caesar <color=#FFFFFF>verstärkter Spezialangriff: Überwältigender Schildhieb</color> oder <color=#FFFFFF>sukzessive Hilfe</color>, erhöht sich ihre KRIT-Rate um 30 % und ihr KRIT-SCH um 60 %, hält 15 s.",
+                "Caesar_Talent_06_Title_Realign": "Wille der Oberherrin"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "Lucy",
+        "full_name": "Luciana de Montefio",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "Schweinchen in der Ausbildung",
+                "Lucy_Talent_01_Desc_01_Realign": "Stellt Lucy 2 Pkt. Energie wieder her, wenn ein Wächterschweinchen <color=#FFFFFF>„Wächterschweinchen: Wirbelnde Wirbelhiebe!“</color> ausführt, 15 s Abklingzeit. Die Abklingzeit für jedes Schweinchen wird einzeln berechnet.",
+                "Lucy_Talent_01_Desc_02": "„Grasi, schau nach rechts! ... Das ist links, du Dummkopf!!!“\nEin Befehl, zwei Richtungen, drei Schreie, viel zu viel Leid.",
+                "Lucy_Talent_01_Desc_01": "Stellt Lucy 2 Pkt. Energie wieder her, wenn ein Wächterschweinchen <color=#FFFFFF>„Wächterschweinchen: Wirbelnde Wirbelhiebe!“</color> ausführt, 15 s Abklingzeit. Die Abklingzeit für jedes Schweinchen wird einzeln berechnet.",
+                "Lucy_Talent_01_Title_Realign": "Schweinchen in der Ausbildung"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "Käpt’n Schweinchen",
+                "Lucy_Talent_02_Desc_01_Realign": "Verleiht allen verbündeten Figuren, Bangboos und Wächterschweinchen 10 s lang den Zustand <color=#FFFFFF>„Gib Gas!“</color>, wenn Lucy einen <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet.",
+                "Lucy_Talent_02_Desc_02": "„Es steht deshalb außer Frage, dass Kapitänin Lucy die beste Anführerin unter allen Eberthirens von ,Söhnen von Calydon‘ ist!“\nSchlusswort des „Jahresberichts der Söhne von Calydon“, Autor: Baumi.",
+                "Lucy_Talent_02_Desc_01": "Verleiht allen verbündeten Figuren, Bangboos und Wächterschweinchen 10 s lang den Zustand <color=#FFFFFF>„Gib Gas!“</color>, wenn Lucy einen <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet.",
+                "Lucy_Talent_02_Title_Realign": "Käpt’n Schweinchen"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "Eisenfaust-Aufpasserin",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Lucy_Talent_03_Desc_02": "„... Nur wenn sie etwas mehr Gnade walten lassen könnte, wenn sie uns in der Luft schlägt.“\nEinige geheime Worte in Baumis Kopf, die er weder in den Bericht zu schreiben noch jemandem zu erzählen wagte.",
+                "Lucy_Talent_03_Title_Realign": "Eisenfaust-Aufpasserin"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "Regelfreier Baseball",
+                "Lucy_Talent_04_Desc_01_Realign": "Erhöht den KRIT-SCH verbündeter Einheiten im Zustand <color=#FFFFFF>„Gib Gas!“</color> zusätzlich um 10 %.",
+                "Lucy_Talent_04_Desc_02": "Das eine oder andere muss gebrochen werden, entweder die Regeln oder die Rippen des Schiedsrichters.",
+                "Lucy_Talent_04_Desc_01": "Erhöht den KRIT-SCH verbündeter Einheiten im Zustand <color=#FFFFFF>„Gib Gas!“</color> zusätzlich um 10 %.",
+                "Lucy_Talent_04_Title_Realign": "Regelfreier Baseball"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "Prinzessin der Heide",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Lucy_Talent_05_Desc_02": "Während du deinen Gegner mit einem Schläger schlägst, denk daran, immer zu siezen;\nWenn dein Gegner weinend und bettelnd am Boden liegt, vergiss nicht, dich zu entschuldigen;\nDas ist die perfekte Etikette einer edlen Dame.",
+                "Lucy_Talent_05_Title_Realign": "Prinzessin der Heide"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "Flammende Stoßzähne",
+                "Lucy_Talent_06_Desc_01_Realign": "Wenn ein Truppenmitglied im Zustand <color=#FFFFFF>„Gib Gas!“</color> einen Gegner mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> trifft, fällt ein Wächterschweinchen vom Himmel, löst eine Explosion aus, wenn es auf dem Boden aufschlägt, und verursacht dabei <color=#FF5521>Feuer-SCH</color> in Höhe von 300 % des ANG des Wächterschweinchens. Dadurch wird auch die Dauer des Zustands <color=#FFFFFF>„Gib Gas!“</color> von allen Truppenmitgliedern um 5 s verlängert. Die Dauer des Zustands kann max. 3-mal und höchstens bis zu 30 s verlängert werden. Durch erneutes Erhalten des Zustands <color=#FFFFFF>„Gib Gas!“</color> werden die Möglichkeiten zur Verlängerung der Dauer zurückgesetzt. Nachdem das Wächterschweinchen auf dem Boden aufgeschlagen und eine Explosion ausgelöst hat, führt es einmal <color=#FFFFFF>„Wächterschweinchen: Wirbelnde Wirbelhiebe!“</color> aus.",
+                "Lucy_Talent_06_Desc_02": "Wächter von roten Borsten sind Schweinchenthirens, die immer als erste auf die Gegner stürmen! \nObwohl es schwer zu sagen ist, ob sie bereitwillig sind oder nicht, wenn der Baseballschläger schwingt. \nDoch egal, was die Wahrheit ist, diese furchtlosen Schweinchen stehen immer vor allen anderen!",
+                "Lucy_Talent_06_Desc_01": "Wenn ein Truppenmitglied im Zustand <color=#FFFFFF>„Gib Gas!“</color> einen Gegner mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> trifft, fällt ein Wächterschweinchen vom Himmel, löst eine Explosion aus, wenn es auf dem Boden aufschlägt, und verursacht dabei <color=#FF5521>Feuer-SCH</color> in Höhe von 300 % des ANG des Wächterschweinchens. Dadurch wird auch die Dauer des Zustands <color=#FFFFFF>„Gib Gas!“</color> von allen Truppenmitgliedern um 5 s verlängert. Die Dauer des Zustands kann max. 3-mal und höchstens bis zu 30 s verlängert werden. Durch erneutes Erhalten des Zustands <color=#FFFFFF>„Gib Gas!“</color> werden die Möglichkeiten zur Verlängerung der Dauer zurückgesetzt. Nachdem das Wächterschweinchen auf dem Boden aufgeschlagen und eine Explosion ausgelöst hat, führt es einmal <color=#FFFFFF>„Wächterschweinchen: Wirbelnde Wirbelhiebe!“</color> aus.",
+                "Lucy_Talent_06_Title_Realign": "Flammende Stoßzähne"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "Lighter",
+        "full_name": "Lighter",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "Oberchampion",
+                "Lighter_Talent_01_Desc_01_Realign": "Unter den durch die <color=#FFFFFF>passive Kernfähigkeit: Brandbeschleuniger</color> ausgelösten Maluseffekten erhöht der Effekt <color=#FFFFFF>Zusammenbruch</color> die Benommenheit-Dauer um 5 s. Der <color=#98EFF0>Eis-WDS</color> und der <color=#FF5521>Feuer-WDS</color> werden zusätzlich um 10 % reduziert. Wird <color=#FFFFFF>Moral</color> während des leichten Startschlags oder der Jab-Kombo aufgebraucht, wird automatisch im Anschluss ein kraftvoller Gnadenstoß ausgeführt und der durch den kraftvollen Gnadenstoß verursachte SCH wird um 30 % erhöht.",
+                "Lighter_Talent_01_Desc_02": "Der Sieg des Oberchampions ist entscheidend. Das Duell mit dem stärksten Krieger der anderen Seite beseitigt die Bedrohung für den Anführer und gibt der Truppe gleichzeitig einen enormen moralischen Schub.\nFür ihn ist der Sieg das Einzige, was zählt.\n„Der Oberchampion kann nicht besiegt werden.“",
+                "Lighter_Talent_01_Desc_01": "Unter den durch die <color=#FFFFFF>passive Kernfähigkeit: Brandbeschleuniger</color> ausgelösten Maluseffekten erhöht der Effekt <color=#FFFFFF>Zusammenbruch</color> die Benommenheit-Dauer um 5 s. Der <color=#98EFF0>Eis-WDS</color> und der <color=#FF5521>Feuer-WDS</color> werden zusätzlich um 10 % reduziert. Wird <color=#FFFFFF>Moral</color> während des leichten Startschlags oder der Jab-Kombo aufgebraucht, wird automatisch im Anschluss ein kraftvoller Gnadenstoß ausgeführt und der durch den kraftvollen Gnadenstoß verursachte SCH wird um 30 % erhöht.",
+                "Lighter_Talent_01_Title_Realign": "Oberchampion"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "Roter Schal",
+                "Lighter_Talent_02_Desc_01_Realign": "Wenn durch die <color=#FFFFFF>passive Kernfähigkeit: Brandbeschleuniger</color> der Effekt <color=#FFFFFF>Zusammenbruch</color> bei einem Gegner verursacht wird, erhöht sich der Benommenheit-SCH-Multiplikator des Ziels um 25 %. Der durch <color=#FFFFFF>Euphorie</color> von <color=#FFFFFF>Zusatzfähigkeit: Hoher Kampfgeist</color> gewährte <color=#98EFF0>Eis-SCH</color>- und <color=#FF5521>Feuer-SCH</color>-Bonus erhöht sich auf 120 % des ursprünglichen Werts.",
+                "Lighter_Talent_02_Desc_02": "Als „Roter Schal“ der Söhne von Calydon ist Lighter in der Außenzone sehr berühmt.\nNicht nur wegen seiner Fäuste, auch wegen ... seiner einzigartigen Sprechweise.\n„Ich genieße es zwar, es ruhig angehen zu lassen ... aber ohne mich würdet ihr nicht auskommen, oder?“",
+                "Lighter_Talent_02_Desc_01": "Wenn durch die <color=#FFFFFF>passive Kernfähigkeit: Brandbeschleuniger</color> der Effekt <color=#FFFFFF>Zusammenbruch</color> bei einem Gegner verursacht wird, erhöht sich der Benommenheit-SCH-Multiplikator des Ziels um 25 %. Der durch <color=#FFFFFF>Euphorie</color> von <color=#FFFFFF>Zusatzfähigkeit: Hoher Kampfgeist</color> gewährte <color=#98EFF0>Eis-SCH</color>- und <color=#FF5521>Feuer-SCH</color>-Bonus erhöht sich auf 120 % des ursprünglichen Werts.",
+                "Lighter_Talent_02_Title_Realign": "Roter Schal"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "Söldneranführer",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Lighter_Talent_03_Desc_02": "„Ich bin vermutlich die als Anführer ungeeignetste Person der Welt.“",
+                "Lighter_Talent_03_Title_Realign": "Söldneranführer"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "Sonnenbrille",
+                "Lighter_Talent_04_Desc_01_Realign": "Wenn Lighter inaktiv in der Truppe ist, erhöht sich die Energie-Regeneration der Figur auf dem Feld um 10 %. Wenn Lighter in den Zustand <color=#FFFFFF>Moralausbruch</color> eintritt, stellt er für inaktive Figuren 4 Pkt. Energie wieder her, 18 s Abklingzeit.",
+                "Lighter_Talent_04_Desc_02": "„Du willst wissen, warum ich eine Sonnenbrille trage? Äh ... Weil mir beim Anblick von Blut übel wird, schätze ich.“",
+                "Lighter_Talent_04_Desc_01": "Wenn Lighter inaktiv in der Truppe ist, erhöht sich die Energie-Regeneration der Figur auf dem Feld um 10 %. Wenn Lighter in den Zustand <color=#FFFFFF>Moralausbruch</color> eintritt, stellt er für inaktive Figuren 4 Pkt. Energie wieder her, 18 s Abklingzeit.",
+                "Lighter_Talent_04_Title_Realign": "Sonnenbrille"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "Entscheidungsträger",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Lighter_Talent_05_Desc_02": "„Gib mir einen Befehl und ich führe ihn aus. So einfach ist das.“\nLighter richtet seine Sonnenbrille mit einem blassen Lächeln.\n„Verlang nur nicht von mir, wieder Entscheidungen zu treffen.“",
+                "Lighter_Talent_05_Title_Realign": "Entscheidungsträger"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "Überlebender",
+                "Lighter_Talent_06_Desc_01_Realign": "Lighters Wiederherstellungs-Effizienz von <color=#FFFFFF>Moral</color> erhöht sich auf 200 % des ursprünglichen Werts. Trifft Lighter einen Gegner mit einem heftigen Schlag während eines <color=#FFFFFF>Basisangriffs</color>, eines <color=#FFFFFF>Ausweichkonters</color>, eines <color=#FFFFFF>Spezialangriffs</color>, eines <color=#FFFFFF>verstärkten Spezialangriffs</color>, einer <color=#FFFFFF>schnellen Hilfe</color>, einer <color=#FFFFFF>sukzessiven Hilfe</color>, eines <color=#FFFFFF>Kettenangriffs</color> oder eines <color=#FFFFFF>Ultimates</color>, wird der Effekt <color=#FFFFFF>Flammender Stoß</color> ausgelöst, der <color=#FF5521>Feuer-SCH</color> in Höhe von 250 % des ANG verursacht. Dieser Effekt kann einmal alle 8 s bei jedem Gegner ausgelöst werden. Wenn Lighters Stoßkraft mehr als 170 Pkt. beträgt, erhöht sich für jeden Pkt. Stoßkraft über diesen Wert der Multiplikator von <color=#FFFFFF>Flammender Stoß</color> um 5 %, max. um 500 %. Wenn <color=#FFFFFF>Moral</color> während des leichten Startschlags oder der Jab-Kombo aufgebraucht wird und automatisch im Anschluss ein kraftvoller Gnadenstoß ausgeführt wird und dieser einen Gegner trifft, kann die Abklingzeit ignoriert werden und der Effekt <color=#FFFFFF>Flammender Stoß</color> kann zusätzlich einmal ausgelöst werden.",
+                "Lighter_Talent_06_Desc_02": "Hätte er die Wahl, alles noch einmal zu machen, würde er sich nicht dafür entscheiden, der einzige Überlebende zu sein.\nLeider ist das Schicksal selten eine Wahl.",
+                "Lighter_Talent_06_Desc_01": "Lighters Wiederherstellungs-Effizienz von <color=#FFFFFF>Moral</color> erhöht sich auf 200 % des ursprünglichen Werts. Trifft Lighter einen Gegner mit einem heftigen Schlag während eines <color=#FFFFFF>Basisangriffs</color>, eines <color=#FFFFFF>Ausweichkonters</color>, eines <color=#FFFFFF>Spezialangriffs</color>, eines <color=#FFFFFF>verstärkten Spezialangriffs</color>, einer <color=#FFFFFF>schnellen Hilfe</color>, einer <color=#FFFFFF>sukzessiven Hilfe</color>, eines <color=#FFFFFF>Kettenangriffs</color> oder eines <color=#FFFFFF>Ultimates</color>, wird der Effekt <color=#FFFFFF>Flammender Stoß</color> ausgelöst, der <color=#FF5521>Feuer-SCH</color> in Höhe von 250 % des ANG verursacht. Dieser Effekt kann einmal alle 8 s bei jedem Gegner ausgelöst werden. Wenn Lighters Stoßkraft mehr als 170 Pkt. beträgt, erhöht sich für jeden Pkt. Stoßkraft über diesen Wert der Multiplikator von <color=#FFFFFF>Flammender Stoß</color> um 5 %, max. um 500 %. Wenn <color=#FFFFFF>Moral</color> während des leichten Startschlags oder der Jab-Kombo aufgebraucht wird und automatisch im Anschluss ein kraftvoller Gnadenstoß ausgeführt wird und dieser einen Gegner trifft, kann die Abklingzeit ignoriert werden und der Effekt <color=#FFFFFF>Flammender Stoß</color> kann zusätzlich einmal ausgelöst werden.",
+                "Lighter_Talent_06_Title_Realign": "Überlebender"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "Burnice",
+        "full_name": "Burnice White",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "Seelenverwandte Flammen",
+                "Burnice_Talent_01_Desc_01_Realign": "Der Maximalwert von <color=#FFFFFF>Hitze</color> wird von 100 Pkt. auf 140 Pkt. erhöht. Beim Betreten des Kampffelds sammelt Burnice zusätzlich 40 Pkt. <color=#FFFFFF>Hitze</color>. \nErhöht den SCH-Multiplikator des Effekts <color=#FFFFFF>Nachbrand</color> um 100 % von Burnice’ ANG. \nErhöht die durch den Effekt <color=#FFFFFF>Nachbrand</color> angehäufte <color=#FF5521>Feuer-Anomalieansammlung</color> um 25 %.",
+                "Burnice_Talent_01_Desc_02": "„Jeder hat es mal schwer. Das ist ganz normal!“\n„Kopf hoch, Caesar! Wie wär’s mit etwas besonderem Nitro-Fuel? Ich habe jede Menge Zucker hinzugefügt!“",
+                "Burnice_Talent_01_Desc_01": "Der Maximalwert von <color=#FFFFFF>Hitze</color> wird von 100 Pkt. auf 140 Pkt. erhöht. Beim Betreten des Kampffelds sammelt Burnice zusätzlich 40 Pkt. <color=#FFFFFF>Hitze</color>. Erhöht den SCH-Multiplikator des Effekts <color=#FFFFFF>Nachbrand</color> um 100 % von Burnice’ ANG. Erhöht die durch den Effekt <color=#FFFFFF>Nachbrand</color> angehäufte <color=#FF5521>Feuer-Anomalieansammlung</color> um 25 %.",
+                "Burnice_Talent_01_Title_Realign": "Seelenverwandte Flammen"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "Mehr für den gleichen Preis",
+                "Burnice_Talent_02_Desc_01_Realign": "Beim Auslösen des Effekts <color=#FFFFFF>Nachbrand</color> wird beim Gegner <color=#FFFFFF>Wärmedurchdringung</color> verursacht, max. 5-fach stapelbar, hält 6 s. Beim wiederholten Auslösen wird die Dauer aktualisiert. Greift ein Truppenmitglied den Gegner an, wird die Durchschlagsrate von diesem Angriff für jede Stapelung <color=#FFFFFF>Wärmedurchdringung</color> um 4 % erhöht, bis zu max. 20 %.",
+                "Burnice_Talent_02_Desc_02": "Als Getränkemeisterin der Söhne von Calydon macht es Burnice viel Spaß, die besten Nitro-Fuel-Getränke von New Eridu für ihre Freunde herzustellen.\nWenn man aber ihr Feind ist ... hat man natürlich unter Umständen auch die Chance, eine ihrer neuen unbekannten und einzigartigen Geschmacksrichtungen zu probieren.\n„Dieser Geschmack ist einmalig und absolut exquisit!“",
+                "Burnice_Talent_02_Desc_01": "Beim Auslösen des Effekts <color=#FFFFFF>Nachbrand</color> wird beim Gegner <color=#FFFFFF>Wärmedurchdringung</color> verursacht, max. 5-fach stapelbar, hält 6 s. Beim wiederholten Auslösen wird die Dauer aktualisiert. Greift ein Truppenmitglied den Gegner an, wird die Durchschlagsrate von diesem Angriff für jede Stapelung <color=#FFFFFF>Wärmedurchdringung</color> um 4 % erhöht, bis zu max. 20 %.",
+                "Burnice_Talent_02_Title_Realign": "Mehr für den gleichen Preis"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "Natürlich optimistisch",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Burnice_Talent_03_Desc_02": "„Diese Burnice ist immer so voller Energie! Selbst gleich nach dem Aufwachen! Ich habe keine Ahnung, wo sie diese ganze Energie herbekommt ...“\n„Und noch gruseliger: Sie es schafft, alle um sie herum genauso motiviert zu machen! Sie muss eine Art Monster sein!“\n„Aber ... eigentlich missfällt es mir nicht, um ehrlich zu sein ...“\n– Eine Wildschweinverwalterin, die anonym bleiben will.",
+                "Burnice_Talent_03_Title_Realign": "Natürlich optimistisch"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "Ultimativer Treibstoffvorrat",
+                "Burnice_Talent_04_Desc_01_Realign": "Beim Treffen von Gegnern mit <color=#FFFFFF>verstärkten Spezialangriffen</color> oder <color=#FFFFFF>Hilfsangriffen</color> erhöht sich die KRIT-Rate der Fähigkeit um 30 %. \nDie maximale Dauer des Flammenversprühens vom <color=#FFFFFF>verstärkten Spezialangriff: Intensive Wärmerührung – Doppelschuss</color> wird um 1 s verlängert.",
+                "Burnice_Talent_04_Desc_02": "„Dir hat das Getränk, das ich gemischt habe, geschmeckt? Stahlhauer mag es auch! Der Kerl kann 200 Liter auf einen Schlag trinken!“\n„Oh, Stahlhauer ist unser großer Laster!“\n„Willst du mal seinen besonderen Treibstoff probieren? Schmeckt echt feurig!“",
+                "Burnice_Talent_04_Desc_01": "Beim Treffen von Gegnern mit <color=#FFFFFF>verstärkten Spezialangriffen</color> oder <color=#FFFFFF>Hilfsangriffen</color> erhöht sich die KRIT-Rate der Fähigkeit um 30 %. Die maximale Dauer des Flammenversprühens vom <color=#FFFFFF>verstärkten Spezialangriff: Intensive Wärmerührung – Doppelschuss</color> wird um 1 s verlängert.",
+                "Burnice_Talent_04_Title_Realign": "Ultimativer Treibstoffvorrat"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "Tanz von Feuer und Eis",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Burnice_Talent_05_Desc_02": "Beim Anmischen von Getränken ist Eis ein kritischer Faktor.\nOhne die intensive Kälte verliert auch die intensive Hitze an Wirkung.\n„Das Zusammenspiel von Feuer und Eis! Einfach atemberaubend!“",
+                "Burnice_Talent_05_Title_Realign": "Tanz von Feuer und Eis"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "Lodernde Einladung",
+                "Burnice_Talent_06_Desc_01_Realign": "Trifft Burnice einen Gegner mit dem <color=#FFFFFF>verstärkten Spezialangriff: Intensive Wärmerührung – Doppelschuss</color>, wird der besondere <color=#FFFFFF>Nachbrand</color>-Effekt ausgelöst, welcher <color=#FF5521>Feuer-SCH</color> in Höhe von 60 % von Burnice’ ANG verursacht. Dieser besondere Effekt kann alle 0,5 s 1-mal ausgelöst werden und verbraucht keine <color=#FFFFFF>Hitze</color>.\nNach dem Treffen von Gegnern mit dem <color=#FFFFFF>verstärkten Spezialangriff: Intensive Wärmerührung – Doppelschuss</color> und während die Fähigkeit angewendet wird, ignorieren der besondere <color=#FFFFFF>Nachbrand</color>-Effekt, der <color=#FFFFFF>verstärkte Spezialangriff: Intensive Wärmerührung – Doppelschuss</color> und der Effekt <color=#FF5521>Verbrennung</color> 25 % des <color=#FF5521>Feuer-WDS</color> des Ziels.\nBeim Treffen von Gegnern, die an <color=#FF5521>Verbrennung</color> leiden, mit dem feurigen Stoß des <color=#FFFFFF>verstärkten Spezialangriffs: Intensive Wärmerührung – Doppelschuss</color>, wird zusätzlich durch <color=#FF5521>Verbrennung</color> SCH in Höhe von 1800 % des ursprünglichen SCH verursacht. Dieser Effekt hat bei demselben Ziel eine Abklingzeit von 20 s.",
+                "Burnice_Talent_06_Desc_02": "Es scheint, dass noch nie jemand Burnice wirklich wütend gesehen hat.\n„Vertrau mir. Das willst du nicht sehen.“\n– Einer Fahrerin zufolge, die sich bereitmacht, oben auf dem Stahlhauer zu schlafen.",
+                "Burnice_Talent_06_Desc_01": "Trifft Burnice einen Gegner mit dem <color=#FFFFFF>verstärkten Spezialangriff: Intensive Wärmerührung – Doppelschuss</color>, wird der besondere <color=#FFFFFF>Nachbrand</color>-Effekt ausgelöst, welcher <color=#FF5521>Feuer-SCH</color> in Höhe von 60 % von Burnice’ ANG verursacht. Dieser besondere Effekt kann alle 0,5 s 1-mal ausgelöst werden und verbraucht keine <color=#FFFFFF>Hitze</color>. Nach dem Treffen von Gegnern mit dem <color=#FFFFFF>verstärkten Spezialangriff: Intensive Wärmerührung – Doppelschuss</color> und während die Fähigkeit angewendet wird, ignorieren der besondere <color=#FFFFFF>Nachbrand</color>-Effekt, der <color=#FFFFFF>verstärkte Spezialangriff: Intensive Wärmerührung – Doppelschuss</color> und der Effekt <color=#FF5521>Verbrennung</color> 25 % des <color=#FF5521>Feuer-WDS</color> des Ziels.\nBeim Treffen von Gegnern, die an <color=#FF5521>Verbrennung</color> leiden, mit dem feurigen Stoß des <color=#FFFFFF>verstärkten Spezialangriffs: Intensive Wärmerührung – Doppelschuss</color>, wird zusätzlich durch <color=#FF5521>Verbrennung</color> SCH in Höhe von 1800 % des ursprünglichen SCH verursacht. Dieser Effekt hat bei demselben Ziel eine Abklingzeit von 20 s.",
+                "Burnice_Talent_06_Title_Realign": "Lodernde Einladung"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "Piper",
+        "full_name": "Piper Wheel",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "Moment der Muße",
+                "Clara_Talent_01_Desc_01_Realign": "Verleiht Piper mit einer Wahrscheinlichkeit von 50 % zusätzlich 1 Stapelung <color=#FFFFFF>„Antrieb“</color>, wenn sie während eines <color=#FFFFFF>„Spezialangriffs: Wirbelnder Reifen“</color>, <color=#FFFFFF>„verstärkten Spezialangriffs: Dröhnender Motor“</color> oder <color=#FFFFFF>Ultimates</color> einen Gegner mit dem Wirbelhieb trifft. Dabei wird die Obergrenze an Stapelungen von <color=#FFFFFF>„Antrieb“</color> auf 30 erhöht.",
+                "Clara_Talent_01_Desc_02": "Es war ein ganz gewöhnlicher Morgen an einem ganz gewöhnlichen Tag.\n„Morgen ... *gähn*“\nPiper gab ein langes und gemächliches Gähnen von sich.\n„Hoffentlich wird es wieder ein leichter Tag. Man muss auf die eigene Gesundheit achten, denn wenn man rund um die Uhr arbeitet, besteht die Gefahr, dass man den nächsten Sonnenaufgang nicht mehr erleben kann!“",
+                "Clara_Talent_01_Desc_01": "Verleiht Piper mit einer Wahrscheinlichkeit von 50 % zusätzlich 1 Stapelung <color=#FFFFFF>„Antrieb“</color>, wenn sie während eines <color=#FFFFFF>„Spezialangriffs: Wirbelnder Reifen“</color>, <color=#FFFFFF>„verstärkten Spezialangriffs: Dröhnender Motor“</color> oder <color=#FFFFFF>Ultimates</color> einen Gegner mit dem Wirbelhieb trifft. Dabei wird die Obergrenze an Stapelungen von <color=#FFFFFF>„Antrieb“</color> auf 30 erhöht.",
+                "Clara_Talent_01_Title_Realign": "Moment der Muße"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "Ehrgeiz",
+                "Clara_Talent_02_Desc_01_Realign": "Erhöht Pipers Bewegungs-GSW während des Ausführens des <color=#FFFFFF>„Spezialangriffs: Wirbelnder Reifen“</color> und des <color=#FFFFFF>„verstärkten Spezialangriffs: Dröhnender Motor“</color>. Erhöht beim Treffen von Gegnern mit Pipers Sturzangriff während des <color=#FFFFFF>„Spezialangriffs: Eine Trilliarde Tonnen“</color>, <color=#FFFFFF>„verstärkten Spezialangriffs: Unerträglich schwer“</color> und <color=#FFFFFF>Ultimates</color> den durch die Fähigkeit verursachten <color=#F0D12B>phys. SCH</color> um 10 %; erhöht diesen Bonuseffekt für jede vorhandene Stapelung <color=#FFFFFF>„Antrieb“</color> zusätzlich um 1 %.",
+                "Clara_Talent_02_Desc_02": "Kurze Anstrengungen sind für lange Urlaube gedacht.\nNoch besser wäre es, wenn man den Teil der Anstrengung einfach weglassen könnte ...\nPiper streckte sich, schüttelte ihre Kissen auf und legte sich auf ihr Bett im Lastwagen.",
+                "Clara_Talent_02_Desc_01": "Erhöht Pipers Bewegungs-GSW während des Ausführens des <color=#FFFFFF>„Spezialangriffs: Wirbelnder Reifen“</color> und des <color=#FFFFFF>„verstärkten Spezialangriffs: Dröhnender Motor“</color>. Erhöht beim Treffen von Gegnern mit Pipers Sturzangriff während des <color=#FFFFFF>„Spezialangriffs: Eine Trilliarde Tonnen“</color>, <color=#FFFFFF>„verstärkten Spezialangriffs: Unerträglich schwer“</color> und <color=#FFFFFF>Ultimates</color> den durch die Fähigkeit verursachten <color=#F0D12B>phys. SCH</color> um 10 %; erhöht diesen Bonuseffekt für jede vorhandene Stapelung <color=#FFFFFF>„Antrieb“</color> zusätzlich um 1 %.",
+                "Clara_Talent_02_Title_Realign": "Ehrgeiz"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "LKW-Spezialistin",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Clara_Talent_03_Desc_02": "Piper ist immer an allem interessiert, was mit Lastwagen zu tun hat.\nSobald der Motor anspringt, wacht das Mädchen selbst aus den tiefsten Träumen sofort auf.\n„100 Pferdestärken, 5 Tonnen Fracht ... Das muss der neueste Kleinlaster von Three Gates sein!“",
+                "Clara_Talent_03_Title_Realign": "LKW-Spezialistin"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "Vertrauenswürdige Fahrtechniken",
+                "Clara_Talent_04_Desc_01_Realign": "Stellt Piper, wenn ein Truppenmitglied einem Gegner Attributanomalie verleiht, 20 Pkt. Energie wieder her, 30 s Abklingzeit.",
+                "Clara_Talent_04_Desc_02": "Auf Pipers Beifahrersitz ist es oft eine beängstigende Fahrt.\nSicher, sie erinnert dich immer daran, „Sitz lieber fest“, bevor sie den Motor anlässt, aber bevor das Wort „fest“ an dein Ohr gelangen kann, hat der LKW bereits einen langen Sprint hingelegt.\nAber keine Sorge, du kannst sicher sein, dass sie dich heil und gesund an dein Ziel bringen wird ... Deine psychische Gesundheit ist allerdings nichts, was sie in Betracht ziehen würde.",
+                "Clara_Talent_04_Desc_01": "Stellt Piper, wenn ein Truppenmitglied einem Gegner Attributanomalie verleiht, 20 Pkt. Energie wieder her, 30 s Abklingzeit.",
+                "Clara_Talent_04_Title_Realign": "Vertrauenswürdige Fahrtechniken"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "Privates Hobby",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Clara_Talent_05_Desc_02": "Piper scheint einige private Hobbys zu haben, von denen die meisten Leute nicht vermuten würden, dass sie sie hat.\n„Dieses Pferd sieht nach einem guten Läufer aus, aber ... warum wettet niemand auf ihn? Ist der andere Bursche also ... der potenzielle Sieger?“\n„*rülps* Nitro-Fuel ... Pah, ich habe nicht zu viel getrunken ... Hol mir noch ein Nitro-Fuel!“",
+                "Clara_Talent_05_Title_Realign": "Privates Hobby"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "Ein bisschen Spannung",
+                "Clara_Talent_06_Desc_01_Realign": "Erhöht das Limit der Dauer des <color=#FFFFFF>„verstärkten Spezialangriffs: Dröhnender Motor“</color> um 2 s und die Dauer von <color=#FFFFFF>„Antrieb“</color> um 4 s.",
+                "Clara_Talent_06_Desc_02": "Wie du vielleicht schon weißt, ist es das ultimative Ziel von Piper, für immer ein Leben in Muße führen zu können.\nAber jetzt, genau in diesem Moment, bemerkst du plötzlich, dass die immer halb geschlossenen Augen des Mädchens weit geöffnet sind und voller Tatendrang glänzen.\n„Nun, wenn es für dich ist ... werde ich mich dieses Mal vielleicht ein bisschen mehr anstrengen!“",
+                "Clara_Talent_06_Desc_01": "Erhöht das Limit der Dauer des <color=#FFFFFF>„verstärkten Spezialangriffs: Dröhnender Motor“</color> um 2 s und die Dauer von <color=#FFFFFF>„Antrieb“</color> um 4 s.",
+                "Clara_Talent_06_Title_Realign": "Ein bisschen Spannung"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "Yanagi",
+        "full_name": "Tsukishiro Yanagi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "Kenn deinen Feind und kenn dich selbst",
+                "Yanagi_Talent_01_Desc_01_Realign": "Wenn ein Truppenmitglied einem Gegner Attributanomalie verleiht, erhält Yanagi 1 Stapelung <color=#FFFFFF>Klarheit</color>, hält 15 s, max. 3-fach stapelbar. Beim wiederholten Auslösen wird die Dauer aktualisiert. Wird Yanagi von einem Gegner getroffen, verbraucht sie 1 Stapelung <color=#FFFFFF>Klarheit</color> und wird 1 s lang unverwundbar. Wenn Yanagi 1 oder mehr Stapelungen <color=#FFFFFF>Klarheit</color> hat, erhöht sich ihre Anomaliekunde um 80 Pkt.",
+                "Yanagi_Talent_01_Desc_02": "„Die Schwächen des Gegners klar zu erkennen, bedeutet, mehr Sicherheit zu erlangen ... und die Siegeschancen zu verbessern.“\nYanagi richtet ihre Brille und ist ruhig wie eh und je, obwohl der Sieg bereits garantiert ist.",
+                "Yanagi_Talent_01_Desc_01": "Wenn ein Truppenmitglied einem Gegner Attributanomalie verleiht, erhält Yanagi 1 Stapelung <color=#FFFFFF>Klarheit</color>, hält 15 s, max. 3-fach stapelbar. Beim wiederholten Auslösen wird die Dauer aktualisiert. Wird Yanagi von einem Gegner getroffen, verbraucht sie 1 Stapelung <color=#FFFFFF>Klarheit</color> und wird 1 s lang unverwundbar. Wenn Yanagi 1 oder mehr Stapelungen <color=#FFFFFF>Klarheit</color> hat, erhöht sich ihre Anomaliekunde um 80 Pkt.",
+                "Yanagi_Talent_01_Title_Realign": "Kenn deinen Feind und kenn dich selbst"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "Erstklassige Anpassungsfähigkeit",
+                "Yanagi_Talent_02_Desc_01_Realign": "Die durch Yanagis schnellen Stoß des <color=#FFFFFF>verstärkten Spezialangriffs</color> angehäufte <color=#2EB6FF>Elektro-Anomalieansammlung</color> erhöht sich um 20 %. Halte die Spezialangriffs-Taste gedrückt, nachdem ein Gegner vom schnellen Stoß getroffen wurde, um zusätzlich 10 Pkt. Energie zu verbrauchen und einen weiteren Stoßangriff auszuführen. Wenn die Energie unzureichend ist oder du mit dem Gedrückthalten der Taste aufhörst, wird automatisch im Anschluss ein Abwärtsangriff ausgeführt. Wenn der Abwärtsangriff einen Gegner trifft, der an einer Anomalie leidet, und den Effekt <color=#FFFFFF>Polaritätsunordnung</color> auslöst, erhöht sich der SCH-Multiplikator auf 20 % des ursprünglichen <color=#FFFFFF>Unordnungseffekts</color>. Für jeden zusätzlich ausgeführten Stoßangriff erhöht sich dieser Multiplikator zusätzlich um 15 %. Dieser zusätzliche Erhöhungseffekt des SCH-Multiplikators kann max. 2-mal ausgelöst werden.",
+                "Yanagi_Talent_02_Desc_02": "„Yanagi kann es mit jeglichen seltsamen Umständen aufnehmen, mit denen sie es zu tun bekommt.“\n„Ich glaube mehr an sie als an mich selbst.“\n– Eine Kämpferin, die gerade das „Schneiden fallender Blätter“ übt.",
+                "Yanagi_Talent_02_Desc_01": "Die durch Yanagis schnellen Stoß des <color=#FFFFFF>verstärkten Spezialangriffs</color> angehäufte <color=#2EB6FF>Elektro-Anomalieansammlung</color> erhöht sich um 20 %. Halte die Spezialangriffs-Taste gedrückt, nachdem ein Gegner vom schnellen Stoß getroffen wurde, um zusätzlich 10 Pkt. Energie zu verbrauchen und einen weiteren Stoßangriff auszuführen. Wenn die Energie unzureichend ist oder du mit dem Gedrückthalten der Taste aufhörst, wird automatisch im Anschluss ein Abwärtsangriff ausgeführt. Wenn der Abwärtsangriff einen Gegner trifft, der an einer Anomalie leidet, und den Effekt <color=#FFFFFF>Polaritätsunordnung</color> auslöst, erhöht sich der SCH-Multiplikator auf 20 % des ursprünglichen <color=#FFFFFF>Unordnungseffekts</color>. Für jeden zusätzlich ausgeführten Stoßangriff erhöht sich dieser Multiplikator zusätzlich um 15 %. Dieser zusätzliche Erhöhungseffekt des SCH-Multiplikators kann max. 2-mal ausgelöst werden.",
+                "Yanagi_Talent_02_Title_Realign": "Erstklassige Anpassungsfähigkeit"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "Management nach Tsukishiro-Art",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Yanagi_Talent_03_Desc_02": "Alle sagen, dass Sektion 6 ein Haufen Spinner und Genies ist und dass Tsukishiro Yanagi die einzige „normalen Person“ sei.\nDoch es ist gerade ihre Anwesenheit, die die Spinner und Genies zusammenhält.",
+                "Yanagi_Talent_03_Title_Realign": "Management nach Tsukishiro-Art"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "Schachmeisterin",
+                "Yanagi_Talent_04_Desc_01_Realign": "Wenn Tsukishiro Yanagi einem Gegner Attributanomalie-SCH zufügt, erleidet dieser den Effekt <color=#FFFFFF>Durchschaut</color>, hält 15 s.\nDie Durchschlagsrate von Angriffen auf Gegner, die an dem Effekt <color=#FFFFFF>Durchschaut</color> leiden, erhöht sich um 16 %.",
+                "Yanagi_Talent_04_Desc_02": "Unabhängig von der Situation kann Tsukishiro Yanagi immer alle vorhandenen Informationen schnell auffassen und dementsprechend die angemessenste Entscheidung fällen.",
+                "Yanagi_Talent_04_Desc_01": "Wenn Tsukishiro Yanagi einem Gegner Attributanomalie-SCH zufügt, erleidet dieser den Effekt <color=#FFFFFF>Durchschaut</color>, hält 15 s. Die Durchschlagsrate von Angriffen auf Gegner, die an dem Effekt <color=#FFFFFF>Durchschaut</color> leiden, erhöht sich um 16 %.",
+                "Yanagi_Talent_04_Title_Realign": "Schachmeisterin"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "Oni-„Mutter“",
+                "Common_Talent_Desc": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+                "Yanagi_Talent_05_Desc_02": "Im Moment ist Tsukishiro Yanagi der einzige Vormund für Soukaku.\n„Soukaku, das ist das Reisbällchen der Leiterin, das darfst du nicht essen ... Vergiss es, komm, ich mache es für dich warm.“\n„Wir können der Leiterin später einfach ein neues kaufen ...“",
+                "Yanagi_Talent_05_Title_Realign": "Oni-„Mutter“"
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "Nichtmenschliches Blut",
+                "Yanagi_Talent_06_Desc_01_Realign": "Nachdem Yanagi den Stoßangriff ihres <color=#FFFFFF>verstärkten Spezialangriffs</color> ausgeführt hat, verlängert sich die Dauer des Zustands <color=#FFFFFF>Shinrabanshou</color> auf 30 s. Während der Dauer dieses Zustands wird der SCH ihres <color=#FFFFFF>verstärkten Spezialangriffs</color> um 20 % erhöht. Die max. Anzahl, wie oft der zusätzliche Erhöhungseffekt des SCH-Multiplikators von <color=#FFFFFF>Polaritätsunordnung</color> aus dem Sinnbild <color=#FFFFFF>Erstklassige Anpassungsfähigkeit</color> ausgelöst werden kann, wird auf 4 erhöht, und die Energiekosten der ersten 4 zusätzlich ausgeführten Stoßangriffe werden halbiert.",
+                "Yanagi_Talent_06_Desc_02": "Ein Teil des Blutes, das durch Tsukishiro Yanagis Körper fließt, ist nicht ihr eigenes.\nDieses Blut hat ihr einst nach einem Unfall neues Leben gegeben und auch bestimmte besondere Kräfte.\n„Aber wie du weißt, hat alles, was nicht wirklich mir gehört ... seinen Preis.“",
+                "Yanagi_Talent_06_Desc_01": "Nachdem Yanagi den Stoßangriff ihres <color=#FFFFFF>verstärkten Spezialangriffs</color> ausgeführt hat, verlängert sich die Dauer des Zustands <color=#FFFFFF>Shinrabanshou</color> auf 30 s. Während der Dauer dieses Zustands wird der SCH ihres <color=#FFFFFF>verstärkten Spezialangriffs</color> um 20 % erhöht. Die max. Anzahl, wie oft der zusätzliche Erhöhungseffekt des SCH-Multiplikators von <color=#FFFFFF>Polaritätsunordnung</color> aus dem Sinnbild <color=#FFFFFF>Erstklassige Anpassungsfähigkeit</color> ausgelöst werden kann, wird auf 4 erhöht, und die Energiekosten der ersten 4 zusätzlich ausgeführten Stoßangriffe werden halbiert.",
+                "Yanagi_Talent_06_Title_Realign": "Nichtmenschliches Blut"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

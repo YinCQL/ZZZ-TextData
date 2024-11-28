@@ -13,6 +13,7 @@
 * MessageConfig-Message(所有对话？)文本--(自行整理使用)
 * PartnerConfig-代理人相关文本
 * TrustLVConfig-代理人好感等级相关文本(四个阶段所触发的对话)
+* AvatarTalentConfig-代理人天赋相关文本
 * InterKnotConfig-绳网内所有帖子文本
 * MonsterCardConfig-法厄同图鉴(怪物图鉴描述文本)
 * NewsConfig-都市快报文本

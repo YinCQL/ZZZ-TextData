@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "Anby",
+        "full_name": "Anby Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "Rapid Charge Mode",
+                "Anbi_Talent_01_Desc_01_Realign": "Saat Slash dari <color=#FFFFFF>Basic Attack</color> tahap keempat Anby mengenai musuh, Energy Generation Rate Anby akan meningkat 12% selama 30 detik.",
+                "Anbi_Talent_01_Desc_02": "\"Isi daya 1 menit, lanjut tebas 30 menit!\"\nItulah yang ditulis di promosi modul ekstensi senjata ini, dan efek nyatanya benar-benar sesuai dengan yang dipromosikan...!",
+                "Anbi_Talent_01_Desc_01": "Saat Slash dari <color=#FFFFFF>Basic Attack</color> tahap keempat Anby mengenai musuh, Energy Generation Rate Anby akan meningkat 12% selama 30 detik.",
+                "Anbi_Talent_01_Title_Realign": "Rapid Charge Mode"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "Precision Discharge",
+                "Anbi_Talent_02_Desc_01_Realign": "Saat <color=#FFFFFF>Basic Attack: Thunderbolt</color> mengenai musuh yang berada dalam status Stun, DMG yang diakibatkan Skill ini akan meningkat 30%.\nSaat <color=#FFFFFF>EX Special Attack</color> mengenai musuh yang tidak berada dalam status Stun, Daze yang diakibatkan Skill ini akan meningkat 10%.",
+                "Anbi_Talent_02_Desc_02": "\"Kalau musuh disetrum listrik, mereka akan pingsan.\"\nGadis itu menatap musuh yang di lantai dengan ekspresi yang datar, lalu menambahkan:\n\"Setidaknya, itu yang biasanya terjadi di film.\"",
+                "Anbi_Talent_02_Desc_01": "Saat <color=#FFFFFF>Basic Attack: Thunderbolt</color> mengenai musuh yang berada dalam status Stun, DMG yang diakibatkan Skill ini akan meningkat 30%.\nSaat <color=#FFFFFF>EX Special Attack</color> mengenai musuh yang tidak berada dalam status Stun, Daze yang diakibatkan Skill ini akan meningkat 10%.",
+                "Anbi_Talent_02_Title_Realign": "Precision Discharge"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "Well-Disciplined",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Anbi_Talent_03_Desc_02": "Mengayunkan pedangnya sambil berlari, dan bergerak secepat kilat.\nGadis muda ini bukanlah pemula dalam menjelajahi Hollow, melainkan seorang ahli di bidangnya.",
+                "Anbi_Talent_03_Title_Realign": "Well-Disciplined"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "Conducting Charge",
+                "Anbi_Talent_04_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, akan memulihkan 3 poin Energy karakter Electric yang tidak aktif.\nUntuk setiap 12% Energy Generation Rate yang dimiliki Anby, akan memulihkan 2 poin tambahan, maks. dapat bertambah 6 poin.",
+                "Anbi_Talent_04_Desc_02": "Bertarung sendirian bukanlah solusi jangka panjang. Seorang Hollow Raider berpengalaman harus mampu menciptakan peluang bagi rekan timnya saat bertarung.",
+                "Anbi_Talent_04_Desc_01": "Saat melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, akan memulihkan 3 poin Energy karakter Electric yang tidak aktif.\nUntuk setiap 12% Energy Generation Rate yang dimiliki Anby, akan memulihkan 2 poin tambahan, maks. dapat bertambah 6 poin.",
+                "Anbi_Talent_04_Title_Realign": "Conducting Charge"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "Street Experience",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Anbi_Talent_05_Desc_02": "Pekerjaan di Cunning Hares tidak hanya melatih mental, tapi juga membantu (atau lebih tepatnya memaksa) melatih fisik.",
+                "Anbi_Talent_05_Title_Realign": "Street Experience"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "Charging Field",
+                "Anbi_Talent_06_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Anby akan mendapatkan 8 lapis Charge (maks. 8 lapis).\nSaat <color=#FFFFFF>Basic Attack</color> atau <color=#FFFFFF>Dash Attack</color> mengenai musuh, 1 lapis Charge akan dikonsumsi, dan DMG yang diakibatkan Skill tersebut meningkat 45%.",
+                "Anbi_Talent_06_Desc_02": "Cahaya listrik menyala-nyala di ujung jari gadis itu.\nAnby mengangkat kepalanya, dan matanya mencerminkan ambisinya yang besar.\nMungkin suatu hari nanti, dia akan menguasai cara menggunakan kekuatan listrik sepenuhnya.",
+                "Anbi_Talent_06_Desc_01": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Anby akan mendapatkan 8 lapis Charge (maks. 8 lapis).\nSaat <color=#FFFFFF>Basic Attack</color> atau <color=#FFFFFF>Dash Attack</color> mengenai musuh, 1 lapis Charge akan dikonsumsi, dan DMG yang diakibatkan Skill tersebut meningkat 45%.",
+                "Anbi_Talent_06_Title_Realign": "Charging Field"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "Nekomata",
+        "full_name": "Nekomiya Mana",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "Bird Hunter",
+                "Tsubaki_Talent_01_Desc_01_Realign": "Saat Back Attack mengenai musuh, Nekomata akan mengabaikan 16% <color=#F0D12B>ketahanan Physical DMG</color> target.\nSaat musuh dalam status Stun, semua serangan yang dilancarkan Nekomata akan dianggap sebagai Back Attack.",
+                "Tsubaki_Talent_01_Desc_02": "Meski Nekomata tidak memiliki kekuatan yang besar karena tubuhnya yang mungil, tapi dia memiliki mata yang tajam untuk menangkap kelemahan lawan, serta serangan yang cepat dan akurat untuk menyerang tepat di bagian yang paling menyakitkan!",
+                "Tsubaki_Talent_01_Desc_01": "Saat Back Attack mengenai musuh, Nekomata akan mengabaikan 16% <color=#F0D12B>ketahanan Physical DMG</color> target.\nSaat musuh dalam status Stun, semua serangan yang dilancarkan Nekomata akan dianggap sebagai Back Attack.",
+                "Tsubaki_Talent_01_Title_Realign": "Bird Hunter"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "Cat & Mouse",
+                "Tsubaki_Talent_02_Desc_01_Realign": "Saat hanya ada Nekomata dan satu musuh di medan pertarungan, Energy Generation Rate Nekomata akan meningkat 25%.",
+                "Tsubaki_Talent_02_Desc_02": "Kucing memang suka main-main dengan makanannya.\nJadi kalau \"tikusnya\" sisa satu ekor, itulah waktu bermain Nekomata!",
+                "Tsubaki_Talent_02_Desc_01": "Saat hanya ada Nekomata dan satu musuh di medan pertarungan, Energy Generation Rate Nekomata akan meningkat 25%.",
+                "Tsubaki_Talent_02_Title_Realign": "Cat & Mouse"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "Curious Left Tail",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Tsubaki_Talent_03_Desc_02": "Dalam legenda peradaban kuno, ekor melambangkan nyawa kucing, dan menyimpan kebijaksanaan hidup selama bertahun-tahun... Semua ini sebenarnya hanya omong kosong, namun pengalaman bertahan hidup di jalanan yang telah dikumpulkan oleh Nekomata memang benar.",
+                "Tsubaki_Talent_03_Title_Realign": "Curious Left Tail"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "Sharpen Claws",
+                "Tsubaki_Talent_04_Desc_01_Realign": "Saat Nekomata melancarkan <color=#FFFFFF>EX Special Attack</color>, CRIT Rate akan meningkat 7% untuk 15 detik. Dapat ditumpuk maks. 2 lapis. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Tsubaki_Talent_04_Desc_02": "\"Sini sini! Aku habiskan kalian semua~!\"\nDia mengatakannya sambil menjilat cakarnya dengan mata yang berbinar-binar.",
+                "Tsubaki_Talent_04_Desc_01": "Saat Nekomata melancarkan <color=#FFFFFF>EX Special Attack</color>, CRIT Rate akan meningkat 7% untuk 15 detik. Dapat ditumpuk maks. 2 lapis. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Tsubaki_Talent_04_Title_Realign": "Sharpen Claws"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "Lucky Right Tail",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Tsubaki_Talent_05_Desc_02": "Dalam legenda peradaban kuno, ekor melambangkan nyawa kucing, yang menyimpan kebijaksanaan hidup selama bertahun-tahun... Terkadang Nekomata juga bertanya-tanya, jika dia dapat terus hidup bahagia, apakah masih bisa menumbuhkan ekor baru?",
+                "Tsubaki_Talent_05_Title_Realign": "Lucky Right Tail"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "Predator Lineage",
+                "Tsubaki_Talent_06_Desc_01_Realign": "Saat Nekomata melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, CRIT DMG Nekomata akan meningkat 18%. Efek ini dapat ditumpuk hingga 3 lapis dan akan hilang saat keluar dari pertarungan.\nSaat Nekomata mengalahkan musuh, efek ini akan langsung mendapatkan lapisan maks.",
+                "Tsubaki_Talent_06_Desc_02": "\"Ketika seorang manusia separuh kucing menerima reaksi positif dari perilaku agresif, insting binatang yang terpendam dalam dirinya pun akan muncul.\nUntungnya, hal ini tidak bersifat permanen...\" \n—Kutipan dari Buku \"Panduan Penelitian Tidak Lengkap Tentang Makhluk Paruh Kucing\"",
+                "Tsubaki_Talent_06_Desc_01": "Saat Nekomata melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, CRIT DMG Nekomata akan meningkat 18%. Efek ini dapat ditumpuk hingga 3 lapis dan akan hilang saat keluar dari pertarungan.\nSaat Nekomata mengalahkan musuh, efek ini akan langsung mendapatkan lapisan maks.",
+                "Tsubaki_Talent_06_Title_Realign": "Predator Lineage"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "Nicole",
+        "full_name": "Nicole Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "Supercharged Bomb",
+                "Nostradamus_Talent_01_Desc_01_Realign": "DMG dan Anomaly Buildup yang diakibatkan dari <color=#FFFFFF>EX Special Attack</color> meningkat 16%.\nSaat Nicole melancarkan <color=#FFFFFF>EX Special Attack</color>, setiap 0,1 detik waktu charge yang melebihi waktu yang diperlukan akan memperpanjang durasi Energy Field di lokasi target selama 0.15 detik.",
+                "Nostradamus_Talent_01_Desc_02": "\"Aku sudah memperkuat kalian, ayo serang!\"\n\"A-apa? Ini namanya bukan malas-malasan, aku cuma perlu istirahat sebentar!\"",
+                "Nostradamus_Talent_01_Desc_01": "DMG dan Anomaly Buildup yang diakibatkan dari <color=#FFFFFF>EX Special Attack</color> meningkat 16%.\nSaat Nicole melancarkan <color=#FFFFFF>EX Special Attack</color>, setiap 0,1 detik waktu charge yang melebihi waktu yang diperlukan akan memperpanjang durasi Energy Field di lokasi target selama 0.15 detik.",
+                "Nostradamus_Talent_01_Title_Realign": "Supercharged Bomb"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "Charging Device",
+                "Nostradamus_Talent_02_Desc_01_Realign": "Saat memicu efek Debuff dari <color=#FFFFFF>Core Passive: Mechanical Case</color>, akan memulihkan 5 poin Energy Nicole. Efek ini dapat dipicu sekali setiap 15 detik.",
+                "Nostradamus_Talent_02_Desc_02": "\"1 detik pun berharga, tahu!\"\n\"Apa kamu tahu berapa banyak uang yang aku bisa hasilkan dalam 1 detik? Enggak terhitung jumlahnya loh!\"\n\"Makanya kalau aku mau minta bonus 10%, boleh-boleh aja, kan?\"",
+                "Nostradamus_Talent_02_Desc_01": "Saat memicu efek Debuff dari <color=#FFFFFF>Core Passive: Mechanical Case</color>, akan memulihkan 5 poin Energy Nicole. Efek ini dapat dipicu sekali setiap 15 detik.",
+                "Nostradamus_Talent_02_Title_Realign": "Charging Device"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "A Hare's Cunning",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Nostradamus_Talent_03_Desc_02": "Nicole tidak memiliki kekuatan luar biasa maupun sumber daya yang melimpah, jadi bagaimana dia bisa memimpin Cunning Hares sampai sekarang? Itu semua berkat kecerdasannya.",
+                "Nostradamus_Talent_03_Title_Realign": "A Hare's Cunning"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "Field Expansion",
+                "Nostradamus_Talent_04_Desc_01_Realign": "Saat Nicole melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color>,\ndiameter jangkauan Energy Field yang diciptakan di lokasi target bertambah 3 meter.",
+                "Nostradamus_Talent_04_Desc_02": "\"Tempat ini, tempat itu, semuanya akan jadi milik Cunning Hares! Paham?\"\n\"Eh, kamu nanya kapan?\"\n\"Hmm... berdasarkan penghasilan kita sekarang, mungkin sekitar 10.000 tahun lagi!\"",
+                "Nostradamus_Talent_04_Desc_01": "Saat Nicole melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color>, diameter jangkauan Energy Field yang diciptakan di lokasi target bertambah 3 meter.",
+                "Nostradamus_Talent_04_Title_Realign": "Field Expansion"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "Industry Star",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Nostradamus_Talent_05_Desc_02": "Meski Nicole memiliki banyak musuh dalam industri ini, tapi dia selalu berhasil memimpin timnya untuk selamat dari situasi-situasi berbahaya. Reputasi mereka pun terus meningkat secara stabil, begitu juga dengan pengalamannya dalam mengelola Cunning Hares.",
+                "Nostradamus_Talent_05_Title_Realign": "Industry Star"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "Corrupting Energy Field",
+                "Nostradamus_Talent_06_Desc_01_Realign": "Saat Energy Field mengakibatkan DMG terhadap musuh, CRIT Rate semua anggota tim kepada target ini meningkat 1.5% (maks. 10 lapis) selama 12 detik. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Nostradamus_Talent_06_Desc_02": "Senjatanya dilengkapi dengan amunisi yang lebih canggih dan juga bahan peledak dengan konsentrasi Ether yang telah ditingkatkan, sehingga Nicole dapat mengakibatkan DMG yang lebih besar untuk lebih lama... dan juga dengan harga yang lebih mahal.",
+                "Nostradamus_Talent_06_Desc_01": "Saat Energy Field mengakibatkan DMG terhadap musuh, CRIT Rate semua anggota tim kepada target ini meningkat 1.5% (maks. 10 lapis) selama 12 detik. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Nostradamus_Talent_06_Title_Realign": "Corrupting Energy Field"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "Billy",
+        "full_name": "Billy Kid",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "Dazzling Entrance",
+                "Billy_Talent_01_Desc_01_Realign": "Saat <color=#FFFFFF>Dash Attack</color> atau <color=#FFFFFF>Dodge Counter</color> Billy mengenai musuh, dia akan memulihkan 2.7 poin Energy tambahan. Efek ini dapat dipicu sekali setiap 5 detik.",
+                "Billy_Talent_01_Desc_02": "\"Kalian terlalu polos untuk jadi orang jahat!\"\n\"Berbaris rapi, kayak karakter NPC di tempat latihan menembak saja!\"",
+                "Billy_Talent_01_Desc_01": "Saat <color=#FFFFFF>Dash Attack</color> atau <color=#FFFFFF>Dodge Counter</color> Billy mengenai musuh, dia akan memulihkan 2.7 poin Energy tambahan. Efek ini dapat dipicu sekali setiap 5 detik.",
+                "Billy_Talent_01_Title_Realign": "Dazzling Entrance"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "Roaming Gunslinger",
+                "Billy_Talent_02_Desc_01_Realign": "DMG yang diakibatkan <color=#FFFFFF>Dodge Counter</color> meningkat 25%. \nRolling Shot selama melancarkan <color=#FFFFFF>Basic Attack</color> akan dianggap sebagai Dodge, membuat Billy menjadi kebal selama Skill dilancarkan, serta dapat memicu <color=#FFFFFF>Perfect Dodge</color>.\nSaat Rolling Shot memicu <color=#FFFFFF>Perfect Dodge</color>, akan otomatis melancarkan <color=#FFFFFF>Dodge Counter</color>.",
+                "Billy_Talent_02_Desc_02": "\"Starlight Knight tidak akan pernah lari dari bahaya, ini namanya tembakan jitu!\"\n— User bernama \"Kak Monica Wangi\" dalam forum Starlight Radiance.",
+                "Billy_Talent_02_Desc_01": "DMG yang diakibatkan <color=#FFFFFF>Dodge Counter</color> meningkat 25%. \nRolling Shot selama melancarkan <color=#FFFFFF>Basic Attack</color> akan dianggap sebagai Dodge, membuat Billy menjadi kebal selama Skill dilancarkan, serta dapat memicu <color=#FFFFFF>Perfect Dodge</color>.\nSaat Rolling Shot memicu <color=#FFFFFF>Perfect Dodge</color>, akan otomatis melancarkan <color=#FFFFFF>Dodge Counter</color>.",
+                "Billy_Talent_02_Title_Realign": "Roaming Gunslinger"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "Teachings of the Starlight Knights",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Billy_Talent_03_Desc_02": "Tidak akan malas latihan dan tidak akan berhenti untuk berkembang! Ini adalah prinsip yang dianut oleh Starlight Knight. Billy benar-benar percaya dan dia benar-benar menjalankannya.",
+                "Billy_Talent_03_Title_Realign": "Teachings of the Starlight Knights"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "Starlight Ballistics",
+                "Billy_Talent_04_Desc_01_Realign": "Saat <color=#FFFFFF>EX Special Attack</color> Billy mengenai musuh, CRIT Rate dari Skill ini akan meningkat berdasarkan jarak antara diri sendiri dari target. Semakin dekat jarak Billy dengan target, semakin tinggi efek peningkatan. Maks. peningkatan hingga 32%.",
+                "Billy_Talent_04_Desc_02": "Peluru eksplosif ciptaan Billy.\nSangat kuat ketika digunakan dalam jarak dekat, dan bahkan melampaui ekspektasi Billy yang awalnya hanya memodifikasinya agar terlihat lebih keren.",
+                "Billy_Talent_04_Desc_01": "Saat <color=#FFFFFF>EX Special Attack</color> Billy mengenai musuh, CRIT Rate dari Skill ini akan meningkat berdasarkan jarak antara diri sendiri dari target. Semakin dekat jarak Billy dengan target, semakin tinggi efek peningkatan. Maks. peningkatan hingga 32%.",
+                "Billy_Talent_04_Title_Realign": "Starlight Ballistics"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "Lost Technological Construct",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Billy_Talent_05_Desc_02": "Komponen presisi yang tidak diketahui dan desain yang unik memberikan performa yang luar biasa kepada Billy... Tapi, biaya perawatannya juga tinggi.",
+                "Billy_Talent_05_Title_Realign": "Lost Technological Construct"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "Starlight Hero",
+                "Billy_Talent_06_Desc_01_Realign": "Saat serangan Billy mengenai musuh sebanyak 10 kali atau memicu <color=#FFFFFF>Perfect Dodge</color>, DMG yang diakibatkan akan meningkat 6%. Dapat ditumpuk maks. 5 lapis. Efek buff akan direset jika Billy bergerak, kembali ke posisi standby, dipukul mundur, atau terhempas.",
+                "Billy_Talent_06_Desc_02": "\"Hooo~ Mantap! Anby, minggir dulu, sekarang giliranku!\"\n\"Yo, Anby, bantu putar lagu OST Starlight Knight dong.\"\n— Salah satu kalimat dari \"10 Kalimat Terlarang di Cunning Hares\" yang ditulis Anby",
+                "Billy_Talent_06_Desc_01": "Saat serangan Billy mengenai musuh sebanyak 10 kali atau memicu <color=#FFFFFF>Perfect Dodge</color>, DMG yang diakibatkan akan meningkat 6%. Dapat ditumpuk maks. 5 lapis. Efek buff akan direset jika Billy bergerak, kembali ke posisi standby, dipukul mundur, atau terhempas.",
+                "Billy_Talent_06_Title_Realign": "Starlight Hero"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "Koleda",
+        "full_name": "Koleda Belobog",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "Beat of the Hammer",
+                "OokumaMari_Talent_01_Desc_01_Realign": "Setelah <color=#FFFFFF>Basic Attack</color> tahap kedua, tahap keempat, atau <color=#FFFFFF>Basic Attack</color> yang ditingkatkan, lancarkan <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color> untuk meningkatkan jumlah Daze yang diakibatkannya sebanyak 15%.",
+                "OokumaMari_Talent_01_Desc_02": "Dari luar, dia terlihat sangat impulsif, tetapi sebenarnya dia sangat strategis. \nMisalnya, dia tahu kapan waktu yang tepat untuk memberikan pukulan yang lebih menyakitkan.",
+                "OokumaMari_Talent_01_Desc_01": "Setelah <color=#FFFFFF>Basic Attack</color> tahap kedua, tahap keempat, atau <color=#FFFFFF>Basic Attack</color> yang ditingkatkan, lancarkan <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color> untuk meningkatkan jumlah Daze yang diakibatkannya sebanyak 15%.",
+                "OokumaMari_Talent_01_Title_Realign": "Beat of the Hammer"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "Kinetic Recovery",
+                "OokumaMari_Talent_02_Desc_01_Realign": "Saat <color=#FFFFFF>EX Special Attack</color> Koleda mengenai musuh, dia akan memulihkan 60 poin Energy. Efek ini dapat dipicu sekali setiap 45 detik.",
+                "OokumaMari_Talent_02_Desc_02": "Bagi Koleda, ayunan palu pun memiliki ritme yang khas.\nIbaratnya seperti ketukan tamborin yang semakin cepat, setiap pukulannya juga akan membangun kekuatan untuk pukulan berikutnya.\nTentu saja, sulit untuk mengatakan berapa banyak pukulan yang bisa ditahan para \"mainannya\".",
+                "OokumaMari_Talent_02_Desc_01": "Saat <color=#FFFFFF>EX Special Attack</color> Koleda mengenai musuh, dia akan memulihkan 60 poin Energy. Efek ini dapat dipicu sekali setiap 45 detik.",
+                "OokumaMari_Talent_02_Title_Realign": "Kinetic Recovery"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "\"Mind Your Own!\"",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "OokumaMari_Talent_03_Desc_02": "Kalau kamu sudah terpilih menjadi \"mainan\" Koleda, terima saja nasib burukmu...\nJangan mengganggu ritmenya, dan terima semua pukulannya dengan ikhlas.\nKarena sekarang... tidak ada gunanya untuk melawan.",
+                "OokumaMari_Talent_03_Title_Realign": "\"Mind Your Own!\""
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "Furnace's Glow",
+                "OokumaMari_Talent_04_Desc_01_Realign": "Saat mengonsumsi <color=#FFFFFF>Furnace Fire</color> untuk melancarkan <color=#FFFFFF>Basic Attack</color> yang ditingkatkan, Koleda akan mendapatkan 1 lapis Charge (maks. 2 lapis).\nSaat <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color> mengenai musuh, dia akan mengonsumsi semua Charge, dan setiap lapis Charge akan meningkatkan DMG yang diakibatkan sebesar 18%.",
+                "OokumaMari_Talent_04_Desc_02": "Ketika semangat api Koleda membara, setiap ayunan palu miliknya akan menaikkan suhu sekeliling.\nDia yang sekarang bahkan lebih rentan terbakar dan meledak daripada Ether.",
+                "OokumaMari_Talent_04_Desc_01": "Saat mengonsumsi <color=#FFFFFF>Furnace Fire</color> untuk melancarkan <color=#FFFFFF>Basic Attack</color> yang ditingkatkan, Koleda akan mendapatkan 1 lapis Charge (maks. 2 lapis).\nSaat <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color> mengenai musuh, dia akan mengonsumsi semua Charge, dan setiap lapis Charge akan meningkatkan DMG yang diakibatkan sebesar 18%.",
+                "OokumaMari_Talent_04_Title_Realign": "Furnace's Glow"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "\"You Dare Underestimate Me?\"",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "OokumaMari_Talent_05_Desc_02": "Koleda khawatir orang lain akan meremehkan perusahaannya karena dia masih sangat muda. Karena itu, dia selalu diam-diam melatih dirinya agar dapat menjadi pemimpin yang lebih baik.",
+                "OokumaMari_Talent_05_Title_Realign": "\"You Dare Underestimate Me?\""
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "Saturated Blast",
+                "OokumaMari_Talent_06_Desc_01_Realign": "Saat ledakan dari <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color> Koleda mengenai musuh, akan mengakibatkan DMG tambahan sebesar 360% ATK Koleda.",
+                "OokumaMari_Talent_06_Desc_02": "Ada 2 tipe orang yang dibenci Koleda:\nOrang bodoh dan juga orang bodoh yang bodohnya minta ampun.\nUntungnya, Belobog Industries selalu ada stok peledak berbasis Ether yang kuat, jadi sisa stoknya bisa digunakan pada orang-orang bodoh itu.",
+                "OokumaMari_Talent_06_Desc_01": "Saat ledakan dari <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color> Koleda mengenai musuh, akan mengakibatkan DMG tambahan sebesar 360% ATK Koleda.",
+                "OokumaMari_Talent_06_Title_Realign": "Saturated Blast"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "Anton",
+        "full_name": "Anton Ivanov",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "Warm-Up Exercises",
+                "Anton_Talent_01_Desc_01_Realign": "Saat <color=#FFFFFF>Drill Attack</color> mengenai musuh, Anton akan memulihkan Energy tambahan.\nDalam satu Skill yang sama, dapat memulihkan maks. 5 poin Energy Anton.",
+                "Anton_Talent_01_Desc_02": "\"Hei! Sudah bangun, bro?\"\n\"Ayo ayo! Sekarang sudah waktunya senam pagi!\"",
+                "Anton_Talent_01_Desc_01": "Saat <color=#FFFFFF>Drill Attack</color> mengenai musuh, Anton akan memulihkan Energy tambahan.\nDalam satu Skill yang sama, dapat memulihkan maks. 5 poin Energy Anton.",
+                "Anton_Talent_01_Title_Realign": "Warm-Up Exercises"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "State of Flow",
+                "Anton_Talent_02_Desc_01_Realign": "Saat Anton melancarkan <color=#FFFFFF>EX Special Attack</color> dan memasuki <color=#FFFFFF>Burst Mode</color>, dia akan mendapatkan Shield sebesar 7.5% dari Max HP Anton. Dalam status <color=#FFFFFF>Burst Mode</color>, efek akan direset saat memasuki pertarungan atau bertukar karakter. Efek ini dapat dipicu sekali setiap 15 detik. Efek Shield akan berakhir ketika keluar dari <color=#FFFFFF>Burst Mode</color>.",
+                "Anton_Talent_02_Desc_02": "Setelah menjalani latihan yang menguras tenaga, hanya segelintir orang yang bisa terus berada dalam kondisi yang optimal, yang dikenal sebagai \"Zona Flow\".\nSekarang, apa kamu sudah siap untuk sama-sama memasuki zona ini?\n— Program eksklusif Nitro-Fuel \"Selamat Pagi, para Pekerja Kantor!\"",
+                "Anton_Talent_02_Desc_01": "Saat Anton melancarkan <color=#FFFFFF>EX Special Attack</color> dan memasuki <color=#FFFFFF>Burst Mode</color>, dia akan mendapatkan Shield sebesar 7.5% dari Max HP Anton. Dalam status <color=#FFFFFF>Burst Mode</color>, efek akan direset saat memasuki pertarungan atau bertukar karakter. Efek ini dapat dipicu sekali setiap 15 detik. Efek Shield akan berakhir ketika keluar dari <color=#FFFFFF>Burst Mode</color>.",
+                "Anton_Talent_02_Title_Realign": "State of Flow"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "Rotational Training",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Anton_Talent_03_Desc_02": "Seseorang yang memiliki kemampuan dasar dalam banyak hal mungkin akan dianggap biasa saja.\nNamun, di dalam lingkungan yang kompleks dan selalu berubah seperti Hollow, setiap keterampilan akan meningkatkan peluang kamu untuk bertahan hidup!",
+                "Anton_Talent_03_Title_Realign": "Rotational Training"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "Everyone Get Fired Up!",
+                "Anton_Talent_04_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, CRIT Rate semua anggota tim meningkat 10% selama 12 detik.",
+                "Anton_Talent_04_Desc_02": "\"Ayo bayangkan latihan-latihan yang sudah kita lakukan, dan gerakkan tubuhmuuu!\"\nKetika Anton mulai serius, gerakan semua orang akan menjadi lebih lincah.\nKarena kalau kamu tidak bisa mengikuti ritmenya, kamu harus melakukan latihan sendirian besok pagi...",
+                "Anton_Talent_04_Desc_01": "Saat melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, CRIT Rate semua anggota tim meningkat 10% selama 12 detik.",
+                "Anton_Talent_04_Title_Realign": "Everyone Get Fired Up!"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "Jack of All Trades",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Anton_Talent_05_Desc_02": "Seseorang yang memiliki kemampuan dasar dalam banyak hal mungkin akan dianggap biasa saja.\nTapi kalau kamu cukup bertekad untuk berubah dari \"tahu sedikit\" menjadi \"tahu banyak\", kamu akan menjadi jagoan yang serbabisa!",
+                "Anton_Talent_05_Title_Realign": "Jack of All Trades"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "Break the Limit",
+                "Anton_Talent_06_Desc_01_Realign": "Saat <color=#FFFFFF>Piledriver Attack</color> mengakibatkan CRIT, DMG yang diakibatkan <color=#FFFFFF>Basic Attack: Enthusiastic Drills (Burst Mode)</color> dan <color=#FFFFFF>Dodge Counter: Overload Drill (Burst Mode)</color> meningkat 4% selama 30 detik. Dapat ditumpuk hingga 6 lapis. Memicu ulang akan memperbarui durasi.",
+                "Anton_Talent_06_Desc_02": "\"Bro, bisa rasain nyala api ini enggak?\" \nSetiap kali Anton ingin melampaui batasnya,\nSenjata yang dia panggil \"Bro\" itu berputar dengan kecepatan yang luar biasa, mengikuti kehendaknya dengan suara berdengung.",
+                "Anton_Talent_06_Desc_01": "Saat <color=#FFFFFF>Piledriver Attack</color> mengakibatkan CRIT, DMG yang diakibatkan <color=#FFFFFF>Basic Attack: Enthusiastic Drills (Burst Mode)</color> dan <color=#FFFFFF>Dodge Counter: Overload Drill (Burst Mode)</color> meningkat 4% selama 30 detik. Dapat ditumpuk hingga 6 lapis. Memicu ulang akan memperbarui durasi.",
+                "Anton_Talent_06_Title_Realign": "Break the Limit"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "Ben",
+        "full_name": "Ben Bigger",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "Reacting Force",
+                "Ben_Talent_01_Desc_01_Realign": "Setelah berhasil menangkis serangan musuh dengan <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color>, DMG yang diakibatkan musuh tersebut akan berkurang 30% selama 15 detik.",
+                "Ben_Talent_01_Desc_02": "\"Untuk setiap aksi selalu ada reaksi yang sama besar dan berlawanan arah, jadi kenapa harus tabrak dari depan?\"\n\"Sepertinya perhitunganmu kurang akurat.\"",
+                "Ben_Talent_01_Desc_01": "Setelah berhasil menangkis serangan musuh dengan <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color>, DMG yang diakibatkan musuh tersebut akan berkurang 30% selama 15 detik.",
+                "Ben_Talent_01_Title_Realign": "Reacting Force"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "Offense Through Defense",
+                "Ben_Talent_02_Desc_01_Realign": "Saat berhasil memicu Block Counter selama <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color>, Ben akan mengakibatkan DMG tambahan sebesar 300% DEF miliknya.",
+                "Ben_Talent_02_Desc_02": "Tidak seperti para manusia separuh beruang lainnya, Ben memiliki kesabaran yang luar biasa saat bertarung. Karena dia yakin bahwa selama dia menjaga pertahanan dengan baik, pasti akan tiba momen di mana musuh menunjukkan kelemahan.",
+                "Ben_Talent_02_Desc_01": "Saat berhasil memicu Block Counter selama <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color>, Ben akan mengakibatkan DMG tambahan sebesar 300% DEF miliknya.",
+                "Ben_Talent_02_Title_Realign": "Offense Through Defense"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "Careful Accounting",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Ben_Talent_03_Desc_02": "Sebagai yang bertanggung jawab atas keuangan, Ben harus belajar untuk berpikir secara analitis dan memanfaatkan semua sumber daya yang tersedia untuk memperkuat tim dan diri sendiri.",
+                "Ben_Talent_03_Title_Realign": "Careful Accounting"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "Agile Adaptation",
+                "Ben_Talent_04_Desc_01_Realign": "Saat Ben berhasil menangkis serangan melalui efek kebal selama <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color>, DMG yang diakibatkan Block Counter berikutnya meningkat 30%.",
+                "Ben_Talent_04_Desc_02": "Berkat naluri akuntansi profesionalnya yang tajam, Ben mampu beradaptasi menghadapi segala situasi.\nDia selalu mencapai hasil terbaik dengan cara yang paling efisien, baik dalam akuntansi maupun menghadapi musuh.",
+                "Ben_Talent_04_Desc_01": "Saat Ben berhasil menangkis serangan melalui efek kebal selama <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color>, DMG yang diakibatkan Block Counter berikutnya meningkat 30%.",
+                "Ben_Talent_04_Title_Realign": "Agile Adaptation"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "Meticulous Detail",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Ben_Talent_05_Desc_02": "Dengan penglihatan Ben yang tajam, tidak ada kesalahan dalam laporan yang lepas darinya.\nBegitu juga saat dia bertarung. Dengan setiap koreksi yang dia lakukan, dia pun tumbuh semakin kuat.",
+                "Ben_Talent_05_Title_Realign": "Meticulous Detail"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "Wild Spirit",
+                "Ben_Talent_06_Desc_01_Realign": "Setelah melancarkan serangan atau Strike lanjutan saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Daze yang diakibatkan <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, dan <color=#FFFFFF>Dodge Counter</color> meningkat 20% selama 12 detik.",
+                "Ben_Talent_06_Desc_02": "Manusia separuh beruang berbeda dengan manusia separuh anjing.\nMakanan tidak akan bisa meredakan amarah mereka.\nJadi kalau mereka sudah marah, satu-satunya yang bisa kamu lakukan adalah lari secepat mungkin!\n—Buku \"Menjadi Tetangga yang Baik! 100 Tips untuk Bersahabat dengan Manusia Separuh Binatang\" (sudah tidak diterbitkan)",
+                "Ben_Talent_06_Desc_01": "Setelah melancarkan serangan atau Strike lanjutan saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Daze yang diakibatkan <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, dan <color=#FFFFFF>Dodge Counter</color> meningkat 20% selama 12 detik.",
+                "Ben_Talent_06_Title_Realign": "Wild Spirit"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "Grace",
+        "full_name": "Grace Howard",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "Recharge Chamber",
+                "Lisa_Talent_01_Desc_01_Realign": "Saat <color=#FFFFFF>Basic Attack</color> tahap keempat Grace mengenai musuh, semua anggota tim akan memulihkan 0.25 poin Energy. Dalam satu serangan, efek ini hanya dapat memulihkan maks. 2 poin Energy untuk semua anggota tim.",
+                "Lisa_Talent_01_Desc_02": "Efisiensi - Itulah pintu rahasia ilmu teknis, dan di dalam hati Grace, terdapat kuncinya.",
+                "Lisa_Talent_01_Desc_01": "Saat <color=#FFFFFF>Basic Attack</color> tahap keempat Grace mengenai musuh, semua anggota tim akan memulihkan 0.25 poin Energy. Dalam satu serangan, efek ini hanya dapat memulihkan maks. 2 poin Energy untuk semua anggota tim.",
+                "Lisa_Talent_01_Title_Realign": "Recharge Chamber"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "Lightning Piercer",
+                "Lisa_Talent_02_Desc_01_Realign": "Saat granat hasil lemparan dari <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Special Attack</color>, atau <color=#FFFFFF>EX Special Attack</color> Grace mengenai musuh, akan mengurangi 8.5% <color=#2EB6FF>ketahanan Electric DMG</color> dan 8.5% <color=#2EB6FF>ketahanan Electric Anomaly Buildup</color> selama 8 detik.",
+                "Lisa_Talent_02_Desc_02": "\"Membedah\" struktur mekanik yang kompleks adalah hobi terbesar Grace, bahkan di tengah-tengah pertempuran.\nKira-kira... bagaimana perasaan para mesin-mesin itu saat dibedah, dan semua titik lemahnya ditelanjangi...?",
+                "Lisa_Talent_02_Desc_01": "Saat granat hasil lemparan dari <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Special Attack</color>, atau <color=#FFFFFF>EX Special Attack</color> Grace mengenai musuh, akan mengurangi 8.5% <color=#2EB6FF>ketahanan Electric DMG</color> dan 8.5% <color=#2EB6FF>ketahanan Electric Anomaly Buildup</color> selama 8 detik.",
+                "Lisa_Talent_02_Title_Realign": "Lightning Piercer"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "Chief Mechanic",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Lisa_Talent_03_Desc_02": "Meski Grace sendiri juga ikut serta dalam menulis \"Panduan Keamanan Konstruksi Belobog Industries\"...\nDia juga merupakan orang yang paling sering melanggar aturan yang menyatakan bahwa \"Bahan peledak berbahaya tidak diperbolehkan di area konstruksi.\"",
+                "Lisa_Talent_03_Title_Realign": "Chief Mechanic"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "Burst Capacitor",
+                "Lisa_Talent_04_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Grace akan mendapatkan 6 lapis Charge (maks. 6 lapis).\nSaat <color=#FFFFFF>Basic Attack</color> atau <color=#FFFFFF>Dash Attack</color> Grace mengenai musuh, dia akan mengonsumsi 1 lapis Charge untuk meningkatkan Energy Generation Rate untuk Skill ini sebesar 20%.",
+                "Lisa_Talent_04_Desc_02": "Anton curiga bahwa di dalam komponen yang Grace sebut sebagai \"Modul Daur Ulang Listrik\", sebenarnya ada seekor hamster Ether yang terus berlari untuk menghasilkan energi...\n\"Boleh minta satu untuk Mas Bro enggak?\" tanya Anton.",
+                "Lisa_Talent_04_Desc_01": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Grace akan mendapatkan 6 lapis Charge (maks. 6 lapis).\nSaat <color=#FFFFFF>Basic Attack</color> atau <color=#FFFFFF>Dash Attack</color> Grace mengenai musuh, dia akan mengonsumsi 1 lapis Charge untuk meningkatkan Energy Generation Rate untuk Skill ini sebesar 20%.",
+                "Lisa_Talent_04_Title_Realign": "Burst Capacitor"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "\"Frosty Cold Iron Witch\"",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Lisa_Talent_05_Desc_02": "Sang \"Penyihir Berhati Baja\" mampu menjinakkan semua ciptaan mekanisnya. Setidaknya itulah yang dikatakan oleh orang yang membuat nama panggilan tersebut.",
+                "Lisa_Talent_05_Title_Realign": "\"Frosty Cold Iron Witch\""
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "Detonation Trigger",
+                "Lisa_Talent_06_Desc_01_Realign": "Saat Grace melancarkan <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color> dan mengonsumsi semua lapisan <color=#FFFFFF>Zap</color>, efek Skill ini akan diperkuat, lalu Grace akan melemparkan sebuah granat tambahan, sekaligus meningkatkan DMG yang diakibatkan setiap granat hingga 200% dari nilai awalnya.",
+                "Lisa_Talent_06_Desc_02": "Rata-rata suhu darah yang mengalir dalam tubuh para staf Belobog Heavy Industries adalah 98 derajat Celsius.\nBagi mereka, Grace bagaikan katup pendingin sebelum mencapai titik didih.\nKetika Grace sudah hilang kesabaran, itu adalah tanda bagi semua orang untuk menutup telinga...",
+                "Lisa_Talent_06_Desc_01": "Saat Grace melancarkan <color=#FFFFFF>Special Attack</color> atau <color=#FFFFFF>EX Special Attack</color> dan mengonsumsi semua lapisan <color=#FFFFFF>Zap</color>, efek Skill ini akan diperkuat, lalu Grace akan melemparkan sebuah granat tambahan, sekaligus meningkatkan DMG yang diakibatkan setiap granat hingga 200% dari nilai awalnya.",
+                "Lisa_Talent_06_Title_Realign": "Detonation Trigger"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "Corin",
+        "full_name": "Corin Wickes",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "Open Trauma",
+                "Corin_Talent_01_Desc_01_Realign": "Saat <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color> Corin mengenai musuh, DMG yang diakibatkan pada target meningkat 12% selama 15 detik.",
+                "Corin_Talent_01_Desc_02": "\"Nona selalu mengatakan bahwa kita harus fokus, dan tidak boleh setengah-setengah saat melakukan sesuatu.\"\n\"Corin sudah terus berlatih, dan akhirnya sudah bisa melakukannya!\"\n\"Tapi... Nona, apa Anda sudah lihat...?\"",
+                "Corin_Talent_01_Desc_01": "Saat <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color> Corin mengenai musuh, DMG yang diakibatkan pada target meningkat 12% selama 15 detik.",
+                "Corin_Talent_01_Title_Realign": "Open Trauma"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "Atomic Smash",
+                "Corin_Talent_02_Desc_01_Realign": "Saat <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color> Corin mengenai musuh, <color=#F0D12B>ketahanan Physical DMG</color> target akan berkurang 0.5%, maks. 20 lapis, dan berlangsung selama 5 detik. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Corin_Talent_02_Desc_02": "\"Maaf, Tuan dan Puan Ethereal! \"\n\"Tapi Corin perlu menyelesaikan misi... Sekali lagi, maaf!\"\nGadis yang polos itu meminta maaf pada monster yang ada di depannya dengan tulus...\n...sambil mengayunkan gergaji listrik yang tajam dan menghancurkan musuh-musuh yang menghadang jalannya dengan brutal.",
+                "Corin_Talent_02_Desc_01": "Saat <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color> Corin mengenai musuh, <color=#F0D12B>ketahanan Physical DMG</color> target akan berkurang 0.5%, maks. 20 lapis, dan berlangsung selama 5 detik. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Corin_Talent_02_Title_Realign": "Atomic Smash"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "Amateur Maid",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Corin_Talent_03_Desc_02": "\"U-untuk menjadi pelayan yang mandiri, Corin akan berusaha keras!\", ucap Corin sambil berjalan menuju Ethereal dan memegang gergaji.",
+                "Corin_Talent_03_Title_Realign": "Amateur Maid"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "Battlefield Retainer",
+                "Corin_Talent_04_Desc_01_Realign": "Saat Corin melancarkan <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Defensive Assist</color>, atau <color=#FFFFFF>Chain Attack</color>, Corin akan memulihkan 7.2 poin Energy. Efek ini dapat dipicu sekali setiap 16 detik.",
+                "Corin_Talent_04_Desc_02": "Seorang pelayan yang rajin dan serius yang selalu melakukan sesuatu dengan sepenuh hati.\nTentu saja, ini juga termasuk saat dia menghancurkan musuh di medan perang.",
+                "Corin_Talent_04_Desc_01": "Saat Corin melancarkan <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Defensive Assist</color>, atau <color=#FFFFFF>Chain Attack</color>, Corin akan memulihkan 7.2 poin Energy. Efek ini dapat dipicu sekali setiap 16 detik.",
+                "Corin_Talent_04_Title_Realign": "Battlefield Retainer"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "Special Ops Maid",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Corin_Talent_05_Desc_02": "\"Aduh... Maaf... Corin agak ceroboh, potongnya kurang rata deh...\" ucap Corin dengan sedih sambil melihat sisa-sisa Ethereal yang berserakan di bawah kakinya.",
+                "Corin_Talent_05_Title_Realign": "Special Ops Maid"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "Accumulated Release",
+                "Corin_Talent_06_Desc_01_Realign": "Saat Slash beruntun Corin mengenai musuh, dia akan mendapatkan 1 lapis Charge (maks. 40 lapis). \nSaat Corin melancarkan <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, atau <color=#FFFFFF>Assist Follow-Up</color>, dan gergaji mesin miliknya meledak serta mengenai musuh, semua Charge akan dikonsumsi. Setiap lapis Charge memberikan DMG tambahan sebesar 3% dari ATK untuk serangan tersebut.",
+                "Corin_Talent_06_Desc_02": "Corin sadar bahwa dia bukan pelayan yang paling hebat atau paling cerdas.\nNamun, dia berharap menjadi pelayan yang paling gigih.\nSetiap jerih payahnya memiliki makna yang berarti.",
+                "Corin_Talent_06_Desc_01": "Saat Slash beruntun Corin mengenai musuh, dia akan mendapatkan 1 lapis Charge (maks. 40 lapis). \nSaat Corin melancarkan <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, atau <color=#FFFFFF>Assist Follow-Up</color>, dan gergaji mesin miliknya meledak serta mengenai musuh, semua Charge akan dikonsumsi. Setiap lapis Charge memberikan DMG tambahan sebesar 3% dari ATK untuk serangan tersebut.",
+                "Corin_Talent_06_Title_Realign": "Accumulated Release"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "Lycaon",
+        "full_name": "Von Lycaon",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "Full Moon Momentum",
+                "Lycaon_Talent_01_Desc_01_Realign": "Saat <color=#FFFFFF>EX Special Attack</color> mengenai musuh, Daze yang diakibatkan skill ini meningkat 12%. Efek ini dapat dipicu sekali setiap 8 detik. Saat Lycaon menyelesaikan Charge untuk <color=#FFFFFF>EX Special Attack</color>, efek buff ini akan meningkat 10%.",
+                "Lycaon_Talent_01_Desc_02": "Konon, ketika manusia serigala berada di bawah cahaya bulan, kekuatannya akan berlipat ganda.\n\"Jangan tatap bulan secara langsung.\"",
+                "Lycaon_Talent_01_Desc_01": "Saat <color=#FFFFFF>EX Special Attack</color> mengenai musuh, Daze yang diakibatkan skill ini meningkat 12%. Efek ini dapat dipicu sekali setiap 8 detik. Saat Lycaon menyelesaikan Charge untuk <color=#FFFFFF>EX Special Attack</color>, efek buff ini akan meningkat 10%.",
+                "Lycaon_Talent_01_Title_Realign": "Full Moon Momentum"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "Energy Feedback",
+                "Lycaon_Talent_02_Desc_01_Realign": "Saat mengakibatkan status Stun pada musuh atau memicu <color=#FFFFFF>Chain Attack</color> rekan, Lycaon akan memulihkan 5 poin Energy. Efek ini dapat dipicu sekali setiap 1 detik.",
+                "Lycaon_Talent_02_Desc_02": "\"Makhluk famili Canidae akan mengalami peningkatan dopamin dalam otak mereka setelah menyelesaikan tugas rumit. Sebagai majikannya, jika kamu mengelus mereka, mereka akan merasa sangat senang...\"\n-Kutipan dari \"Buku Penelitian Anjing yang 100% Tepercaya\"",
+                "Lycaon_Talent_02_Desc_01": "Saat mengakibatkan status Stun pada musuh atau memicu <color=#FFFFFF>Chain Attack</color> rekan, Lycaon akan memulihkan 5 poin Energy. Efek ini dapat dipicu sekali setiap 1 detik.",
+                "Lycaon_Talent_02_Title_Realign": "Energy Feedback"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "Attendant Training",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Lycaon_Talent_03_Desc_02": "Dia selalu bersikap santai. Ucapan dan tindak tanduknya membuat orang merasa seolah dikipas-kipas hembusan angin semilir musim semi~ Prinsip dirinya sebagai eksekutor adalah: Menjaga agar semua tetap terkendali.",
+                "Lycaon_Talent_03_Title_Realign": "Attendant Training"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "Graceful Demeanor",
+                "Lycaon_Talent_04_Desc_01_Realign": "Jika diserang musuh selama melancarkan <color=#FFFFFF>Basic Attack</color> atau <color=#FFFFFF>Special Attack</color>, Lycaon akan langsung mendapatkan Shield yang setara 7.5% Max HP-nya selama 15 detik. Selama durasi Shield, Level Anti-Interrupt akan meningkat. Efek ini dapat dipicu sekali setiap 15 detik.",
+                "Lycaon_Talent_04_Desc_02": "\"Seorang pelayan yang hebat akan selalu menjaga sikap yang elegan dalam kondisi apa pun.\"",
+                "Lycaon_Talent_04_Desc_01": "Jika diserang musuh selama melancarkan <color=#FFFFFF>Basic Attack</color> atau <color=#FFFFFF>Special Attack</color>, Lycaon akan langsung mendapatkan Shield yang setara 7.5% Max HP-nya selama 15 detik. Selama durasi Shield, Level Anti-Interrupt akan meningkat. Efek ini dapat dipicu sekali setiap 15 detik.",
+                "Lycaon_Talent_04_Title_Realign": "Graceful Demeanor"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "Alpha Nature",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Lycaon_Talent_05_Desc_02": "Tersembunyi dalam dirinya adalah sosok yang liar dengan raungan yang buas. Tak peduli seberapa elegan penampilannya sekarang, di bawah busananya yang formal, sisi liarnya akan selalu ada dalam dirinya.",
+                "Lycaon_Talent_05_Title_Realign": "Alpha Nature"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "Ruthless Hunter",
+                "Lycaon_Talent_06_Desc_01_Realign": "Saat Charged ATK mengenai musuh, DMG yang diakibatkan Lycaon pada target meningkat 10%. Dapat ditumpuk hingga 5 lapis dan berlangsung selama 12 detik.\nHanya satu lapis yang dapat diperoleh setiap kali melancarkan Skill. Memicu ulang akan memperbarui durasi.",
+                "Lycaon_Talent_06_Desc_02": "\"Maaf, tapi saya tidak akan menunjukkan belas kasihan.\"\n\"Karena di dalam Hollow, tidak ada yang namanya pertarungan adil.\"",
+                "Lycaon_Talent_06_Desc_01": "Saat Charged ATK mengenai musuh, DMG yang diakibatkan Lycaon pada target meningkat 10%. Dapat ditumpuk hingga 5 lapis dan berlangsung selama 12 detik.\nHanya satu lapis yang dapat diperoleh setiap kali melancarkan Skill. Memicu ulang akan memperbarui durasi.",
+                "Lycaon_Talent_06_Title_Realign": "Ruthless Hunter"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "Ellen",
+        "full_name": "Ellen Joe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "Glacial Omen",
+                "Ellen_Talent_01_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>Dash Attack: Arctic Ambush</color> dan mengenai musuh dengan Swift Scissors, maka <color=#FFFFFF>Flash Freeze Charge</color> yang didapatkan akan meningkat menjadi 3. Saat Charged Scissor Strike yang dilancarkan <color=#FFFFFF>Dash Attack: Arctic Ambush</color> mengenai musuh, <color=#FFFFFF>Flash Freeze Charge</color> yang didapatkan akan meningkat menjadi 6.\nSetiap mengonsumsi 1 poin <color=#FFFFFF>Flash Freeze Charge</color> akan meningkatkan CRIT Rate Ellen sebanyak 2% selama 15 detik, maks. 6 lapis. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Ellen_Talent_01_Desc_02": "Angin dingin adalah pertanda musim dingin tiba, dan juga sinyal bagi Ellen untuk meminta cuti tambahan untuk hibernasi.\nNgomong-ngomong, memangnya hiu benar-benar perlu hibernasi?",
+                "Ellen_Talent_01_Desc_01": "Saat melancarkan <color=#FFFFFF>Dash Attack: Arctic Ambush</color> dan mengenai musuh dengan Swift Scissors, maka <color=#FFFFFF>Flash Freeze Charge</color> yang didapatkan akan meningkat menjadi 3. Saat Charged Scissor Strike yang dilancarkan <color=#FFFFFF>Dash Attack: Arctic Ambush</color> mengenai musuh, <color=#FFFFFF>Flash Freeze Charge</color> yang didapatkan akan meningkat menjadi 6.\nSetiap mengonsumsi 1 poin <color=#FFFFFF>Flash Freeze Charge</color> akan meningkatkan CRIT Rate Ellen sebanyak 2% selama 15 detik, maks. 6 lapis. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Ellen_Talent_01_Title_Realign": "Glacial Omen"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "Arctic Ocean Predator",
+                "Ellen_Talent_02_Desc_01_Realign": "<color=#FFFFFF>Basic Attack: Flash Freeze Trimming</color> tahap ketiga dapat langsung dilanjutkan dengan <color=#FFFFFF>EX Special Attack: Sharknami</color>. Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, setiap poin <color=#FFFFFF>Flash Freeze Charge</color> yang dimiliki akan meningkatkan CRIT DMG dari Skill ini sebanyak 20%, maks. 60%.",
+                "Ellen_Talent_02_Desc_02": "Warna merah masih mengalir di gunting besar yang dipegang Ellen, namun tidak ada rasa kehangatan sedikit pun. \nDingin beku itu berasal dari logam tempaannya, dan juga dari rasa takut akan makhluk predator seperti Ellen.",
+                "Ellen_Talent_02_Desc_01": "<color=#FFFFFF>Basic Attack: Flash Freeze Trimming</color> tahap ketiga dapat langsung dilanjutkan dengan <color=#FFFFFF>EX Special Attack: Sharknami</color>. Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, setiap poin <color=#FFFFFF>Flash Freeze Charge</color> yang dimiliki akan meningkatkan CRIT DMG dari Skill ini sebanyak 20%, maks. 60%.",
+                "Ellen_Talent_02_Title_Realign": "Arctic Ocean Predator"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "Overtime-Intolerant",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Ellen_Talent_03_Desc_02": "Dalam kamus Ellen, arti kata efisiensi adalah: Bisa pulang lebih awal dan tidur nyenyak.\nItulah yang mendorong Ellen untuk menghabisi musuh-musuhnya lebih cepat.",
+                "Ellen_Talent_03_Title_Realign": "Overtime-Intolerant"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "Endless Hoarfrost",
+                "Ellen_Talent_04_Desc_01_Realign": "Saat anggota tim mana pun membuat musuh terkena efek <color=#98EFF0>Freeze</color> atau Stun, Ellen akan memulihkan 6 <color=#FFFFFF>Flash Freeze Charge</color>, mendapatkan efek <color=#FFFFFF>Quick Charge</color>, serta memulihkan 4 poin Energy. Efek Energy Generation ini hanya bisa dipicu sekali setiap 10 detik.",
+                "Ellen_Talent_04_Desc_02": "Menghadapi serangan dingin yang tak pernah berhenti,\nBahkan makhluk yang paling menakutkan pun takut akan kekejaman dan keindahan dari hawa dingin pedang Ellen.\nTapi sebenarnya, bekerja tanpa henti sebagai pelayan selama liburan jauh lebih kejam...",
+                "Ellen_Talent_04_Desc_01": "Saat anggota tim mana pun membuat musuh terkena efek <color=#98EFF0>Freeze</color> atau Stun, Ellen akan memulihkan 6 <color=#FFFFFF>Flash Freeze Charge</color>, mendapatkan efek <color=#FFFFFF>Quick Charge</color>, serta memulihkan 4 poin Energy. Efek Energy Generation ini hanya bisa dipicu sekali setiap 10 detik.",
+                "Ellen_Talent_04_Title_Realign": "Endless Hoarfrost"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "Adequate Sleep",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Ellen_Talent_05_Desc_02": "Ellen selalu tampak seolah dia akan ketiduran kapan saja dan di mana pun, kecuali untuk pertarungan yang sangat sulit.\nAlhasil, banyak musuh sudah bernasib buruk karena meremehkannya...",
+                "Ellen_Talent_05_Title_Realign": "Adequate Sleep"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "The Feast Begins",
+                "Ellen_Talent_06_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau mendapatkan <color=#FFFFFF>Quick Charge</color>, PEN Ratio Ellen meningkat sebanyak 20% selama 6 detik, serta mendapatkan 1 lapis <color=#FFFFFF>The Feast Begins</color>. <color=#FFFFFF>The Feast Begins</color> dapat ditumpuk hingga maks. 3 lapis.\n\nSetelah memiliki 3 lapis <color=#FFFFFF>The Feast Begins</color> dan saat Charged Scissor Strike yang dilancarkan <color=#FFFFFF>Dash Attack: Arctic Ambush</color> mengenai musuh, mengonsumsi semua <color=#FFFFFF>The Feast Begins</color> dan DMG yang diakibatkan skill ini meningkat sebanyak 250%.",
+                "Ellen_Talent_06_Desc_02": "Sebuah luka, setetes darah. \nSebuah perburuan, sebuah pesta.\nSebuah kehidupan yang rapuh, sebuah momen kepuasan.",
+                "Ellen_Talent_06_Desc_01": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau mendapatkan <color=#FFFFFF>Quick Charge</color>, PEN Ratio Ellen meningkat sebanyak 20% selama 6 detik, serta mendapatkan 1 lapis <color=#FFFFFF>The Feast Begins</color>. <color=#FFFFFF>The Feast Begins</color> dapat ditumpuk hingga maks. 3 lapis.\n\nSetelah memiliki 3 lapis <color=#FFFFFF>The Feast Begins</color> dan saat Charged Scissor Strike yang dilancarkan <color=#FFFFFF>Dash Attack: Arctic Ambush</color> mengenai musuh, mengonsumsi semua <color=#FFFFFF>The Feast Begins</color> dan DMG yang diakibatkan skill ini meningkat sebanyak 250%.",
+                "Ellen_Talent_06_Title_Realign": "The Feast Begins"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "Rina",
+        "full_name": "Alexandrina Sebastiane",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "Dance Duet",
+                "Rina_Talent_01_Desc_01_Realign": "Setelah dipanggil untuk melancarkan serangan, Drusilla & Anastella akan tetap tinggal di medan pertarungan untuk 5,5 detik tambahan sebelum kembali ke sebelah Rina.\nEfek dari <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> yang didapatkan ketika berada dalam jarak 10 meter dari Drusilla atau Anastella akan ditingkatkan menjadi 130% dari efek awal.",
+                "Rina_Talent_01_Desc_02": "\"Kerja yang bener! Atau enggak aku tabok!\" Itulah cara Drusilla memotivasi orang-orang di sekitar.\n\"Hayo loh! Ditabok loh!\" Anastella ikut berseru.",
+                "Rina_Talent_01_Desc_01": "Setelah dipanggil untuk melancarkan serangan, Drusilla & Anastella akan tetap tinggal di medan pertarungan untuk 5,5 detik tambahan sebelum kembali ke sebelah Rina.\nEfek dari <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> yang didapatkan ketika berada dalam jarak 10 meter dari Drusilla atau Anastella akan ditingkatkan menjadi 130% dari efek awal.",
+                "Rina_Talent_01_Title_Realign": "Dance Duet"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "Master's Paragon",
+                "Rina_Talent_02_Desc_01_Realign": "Saat memasuki pertarungan atau beralih menjadi Agen aktif, DMG yang diakibatkan Rina akan meningkat 15% selama 12 detik. Efek ini dapat dipicu sekali setiap 18 detik.",
+                "Rina_Talent_02_Desc_02": "\"Butuh seorang pemimpin hebat untuk bisa membimbing pelayan yang hebat, dan seorang Master yang teladan untuk membesarkan Bangboo yang teladan.\"\n— Cuplikan Rina dari Seminar \"Manajemen Sumber Daya Manusia Victoria Housekeeping Co. dan Pelatihan Bangboo\".",
+                "Rina_Talent_02_Desc_01": "Saat memasuki pertarungan atau beralih menjadi Agen aktif, DMG yang diakibatkan Rina akan meningkat 15% selama 12 detik. Efek ini dapat dipicu sekali setiap 18 detik.",
+                "Rina_Talent_02_Title_Realign": "Master's Paragon"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "Head Maid's Specialty",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Rina_Talent_03_Desc_02": "Rina selalu percaya diri bahwa dia bisa melakukan apa pun, dan di saat yang sama juga selalu menghancurkan segalanya.\nNamun setidaknya, dalam kasus menghancurkan musuh, kepercayaan dirinya dan kemampuannya tidak bertentangan.",
+                "Rina_Talent_03_Title_Realign": "Head Maid's Specialty"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "Needle and Hammer",
+                "Rina_Talent_04_Desc_01_Realign": "Saat Drusilla & Anastella sedang dikirim untuk menyerang, kecepatan Energy Regen Rina akan meningkat 0.5 poin/detik. Efek ini berakhir saat Drusilla atau Anastella kembali ke sisi Rina.",
+                "Rina_Talent_04_Desc_02": "Drusilla & Anastella tidak pernah sepakat dalam apa pun.\nKecuali untuk \"menghajar si bodoh di depan\"!",
+                "Rina_Talent_04_Desc_01": "Saat Drusilla & Anastella sedang dikirim untuk menyerang, kecepatan Energy Regen Rina akan meningkat 0.5 poin/detik. Efek ini berakhir saat Drusilla atau Anastella kembali ke sisi Rina.",
+                "Rina_Talent_04_Title_Realign": "Needle and Hammer"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "Head Maid Perfectionist",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Rina_Talent_05_Desc_02": "Arti \"Rina\" dalam bahasa Bangboo adalah \"sempurna\", dan perfeksionisme adalah standar untuk para staf Victoria Housekeeping Co.\nTapi Rina memiliki definisi sendiri untuk apa yang dianggap sebagai \"sempurna\"...",
+                "Rina_Talent_05_Title_Realign": "Head Maid Perfectionist"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "Stormy Night's Fright",
+                "Rina_Talent_06_Desc_01_Realign": "Saat <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color> Rina mengenai musuh, <color=#2EB6FF>Electric DMG</color> yang diakibatkan semua anggota tim akan meningkat 15% selama 8 detik.",
+                "Rina_Talent_06_Desc_02": "Pada malam yang berbadai, di sebuah kastil tua... terdengar suara langit bergemuruh, dan terlihat bayangan-bayangan misterius di koridor.\nRasa ketakutan meluap-luap. Film horor pun dimulai.",
+                "Rina_Talent_06_Desc_01": "Saat <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color> Rina mengenai musuh, <color=#2EB6FF>Electric DMG</color> yang diakibatkan semua anggota tim akan meningkat 15% selama 8 detik.",
+                "Rina_Talent_06_Title_Realign": "Stormy Night's Fright"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "Soldier 11",
+        "full_name": "Soldier 11",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "Rapid Heat",
+                "Longinus_Talent_01_Desc_01_Realign": "Jika Energy Soldier 11 kurang dari 40 poin saat memasuki pertarungan atau menggantikan karakter lain, Energy-nya akan segera pulih hingga 80 poin. Efek ini dapat dipicu sekali setiap 50 detik.",
+                "Longinus_Talent_01_Desc_02": "Soldier 11 telah menguasai cara mengendalikan sistem regulasi dirinya sendiri setelah melewati latihan intensif jangka panjang.\nDia akan selalu berusaha untuk memasuki medan pertarungan dalam kondisi fisik terbaik.",
+                "Longinus_Talent_01_Desc_01": "Jika Energy Soldier 11 kurang dari 40 poin saat memasuki pertarungan atau menggantikan karakter lain, Energy-nya akan segera pulih hingga 80 poin. Efek ini dapat dipicu sekali setiap 50 detik.",
+                "Longinus_Talent_01_Title_Realign": "Rapid Heat"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "Scorching Convergence",
+                "Longinus_Talent_02_Desc_01_Realign": "Saat Soldier 11 memicu <color=#FFFFFF>Fire Suppression</color>, DMG yang diakibatkan <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, dan <color=#FFFFFF>Dodge Counter</color> meningkat 3%. Dapat ditumpuk hingga 12 lapis dan berlangsung selama 15 detik. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Longinus_Talent_02_Desc_02": "\"Meski luarnya dingin seperti balok es... Tapi sebenarnya hatinya hangat seperti api yang membara.\" — Dikutip dari seorang prajurit tak bernama dari Obsidian Division.",
+                "Longinus_Talent_02_Desc_01": "Saat Soldier 11 memicu <color=#FFFFFF>Fire Suppression</color>, DMG yang diakibatkan <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, dan <color=#FFFFFF>Dodge Counter</color> meningkat 3%. Dapat ditumpuk hingga 12 lapis dan berlangsung selama 15 detik. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Longinus_Talent_02_Title_Realign": "Scorching Convergence"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "Elite Soldier",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Longinus_Talent_03_Desc_02": "Baik dalam latihan maupun pertempuran nyata, Soldier 11 selalu menuntut dirinya dengan standar tertinggi. Oleh karena itu, dia selalu memiliki kemampuan pertarungan yang tinggi sesuai dengan standar tersebut.",
+                "Longinus_Talent_03_Title_Realign": "Elite Soldier"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "Indulgent Blaze",
+                "Longinus_Talent_04_Desc_01_Realign": "Jika Soldier 11 memicu <color=#FFFFFF>Fire Suppression</color> saat melancarkan <color=#FFFFFF>Basic Attack</color> tahap ke-1/2/3 atau <color=#FFFFFF>Dash Attack</color>, level Anti-Interrupt akan meningkat selama melancarkan Skill ini dan DMG yang diterima akan berkurang 18%.\nJika Soldier 11 memicu <color=#FFFFFF>Fire Suppression</color>saat melancarkan <color=#FFFFFF>Basic Attack</color> tahap ke-4, dia akan menjadi kebal selama skill dilancarkan.",
+                "Longinus_Talent_04_Desc_02": "Dia merasakan iri terhadap api.\nDan nyala api yang membara ini akan selalu membantunya.",
+                "Longinus_Talent_04_Desc_01": "Jika Soldier 11 memicu <color=#FFFFFF>Fire Suppression</color> saat melancarkan <color=#FFFFFF>Basic Attack</color> tahap ke-1/2/3 atau <color=#FFFFFF>Dash Attack</color>, level Anti-Interrupt akan meningkat selama melancarkan Skill ini dan DMG yang diterima akan berkurang 18%.\nJika Soldier 11 memicu <color=#FFFFFF>Fire Suppression</color>saat melancarkan <color=#FFFFFF>Basic Attack</color> tahap ke-4, dia akan menjadi kebal selama skill dilancarkan.",
+                "Longinus_Talent_04_Title_Realign": "Indulgent Blaze"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "Perfect Soldier",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Longinus_Talent_05_Desc_02": "Dari seorang prajurit elit hingga menjadi seorang panutan adalah perjalanan panjang yang melelahkan. Namun Soldier 11 tetap bertahan dengan tekad yang kuat, seolah-olah ada alasan tertentu yang mendorongnya untuk terus berusaha menjadi prajurit sempurna...",
+                "Longinus_Talent_05_Title_Realign": "Perfect Soldier"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "Scorching Flow",
+                "Longinus_Talent_06_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, Soldier 11 akan mendapatkan 8 lapis Charge (maks. 8 lapis).\nSaat memicu <color=#FFFFFF>Fire Suppression</color>, dia akan mengonsumsi 1 lapis Charge dan membuat Skill ini mengabaikan 25% <color=#FF5521>ketahanan Fire DMG</color> target.",
+                "Longinus_Talent_06_Desc_02": "Api di ujung pedang menggeliat dan memunculkan gelombang panas. Pertarungan gadis berambut perak semakin membara, intensitasnya seolah-olah mengalir masuk ke dalam pikiran melalui napasnya, hingga membuat pikirannya pun membara.",
+                "Longinus_Talent_06_Desc_01": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, Soldier 11 akan mendapatkan 8 lapis Charge (maks. 8 lapis).\nSaat memicu <color=#FFFFFF>Fire Suppression</color>, dia akan mengonsumsi 1 lapis Charge dan membuat Skill ini mengabaikan 25% <color=#FF5521>ketahanan Fire DMG</color> target.",
+                "Longinus_Talent_06_Title_Realign": "Scorching Flow"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "Zhu Yuan",
+        "full_name": "Zhu Yuan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "Quick Reload",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, Zhu Yuan akan mendapatkan efek <color=#FFFFFF>Quick Reload</color>. Saat Zhu Yuan memiliki efek <color=#FFFFFF>Quick Reload</color> dan telah menghabiskan semua <color=#FFFFFF>Enhanced Shotshell</color>, Zhu Yuan akan mengonsumsi efek <color=#FFFFFF>Quick Reload</color> dan mendapatkan 6 atau 9 <color=#FFFFFF>Enhanced Shotshell</color>.",
+                "ZhuYuan_Talent_01_Desc_02": "Zhu Yuan pernah mengikuti kompetisi keterampilan sebagai petugas Public Security di Janus Quarter, dan menggunakan teknik mengisi amunisi yang seperti sulap untuk memenangkannya.\nRekannya pun berkomentar: \"Ya, latihan memang membuat sempurna\".",
+                "ZhuYuan_Talent_01_Desc_01": "Saat melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, Zhu Yuan akan mendapatkan efek <color=#FFFFFF>Quick Reload</color>. Saat Zhu Yuan memiliki efek <color=#FFFFFF>Quick Reload</color> dan telah menghabiskan semua <color=#FFFFFF>Enhanced Shotshell</color>, Zhu Yuan akan mengonsumsi efek <color=#FFFFFF>Quick Reload</color> dan mendapatkan 6 atau 9 <color=#FFFFFF>Enhanced Shotshell</color>.",
+                "ZhuYuan_Talent_01_Title_Realign": "Quick Reload"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "Ether Ember",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "Dalam <color=#FFFFFF>Suppressive Mode</color>, Level Anti-Interrupt Zhu Yuan akan meningkat dan DMG yang diterima akan berkurang 10%.\nSaat Zhu Yuan menggunakan <color=#FFFFFF>Enhanced Shotshell</color> dan serangannya mengenai musuh, <color=#FE437E>Ether DMG</color> yang diakibatkan <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> dan <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> akan meningkat 10% selama 5 detik. Efek ini dapat ditumpuk maks. 5 lapis. Setiap tembakan hanya dapat memberikan 1 lapis efek. Memicu ulang akan memperbarui durasi.",
+                "ZhuYuan_Talent_02_Desc_02": "Senjata Zhu Yuan dilengkapi dengan peluru Ether khusus yang dibuat oleh Public Security. Ketika peluru ini mengenai musuh, dampaknya tidak hanya pada kerusakan fisik tetapi juga menyebabkan kontaminasi yang tidak dapat dipulihkan.\nNamun, sebelum mengambil langkah ekstrem untuk menembakkan senjatanya, Zhu Yuan selalu memilih untuk memberi peringatan kepada musuhnya, dan akan menyarankan mereka untuk menyerahkan diri. Bahkan kepada musuhnya, dia pun sangat perhatian.",
+                "ZhuYuan_Talent_02_Desc_01": "Dalam <color=#FFFFFF>Suppressive Mode</color>, Level Anti-Interrupt Zhu Yuan akan meningkat dan DMG yang diterima akan berkurang 10%. Saat Zhu Yuan menggunakan <color=#FFFFFF>Enhanced Shotshell</color> dan serangannya mengenai musuh, <color=#FE437E>Ether DMG</color> yang diakibatkan <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> dan <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> akan meningkat 10% selama 5 detik. Efek ini dapat ditumpuk maks. 5 lapis. Setiap tembakan hanya dapat memberikan 1 lapis efek. Memicu ulang akan memperbarui durasi.",
+                "ZhuYuan_Talent_02_Title_Realign": "Ether Ember"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "Public Security Special Training",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "ZhuYuan_Talent_03_Desc_02": "Sebagai petugas Public Security yang elite, pelatihan Zhu Yuan hanya memiliki satu tujuan, yaitu untuk meningkatkan kemampuan tempur dalam Hollow secara keseluruhan, dan membasmi segala yang menghalangi keadilan.",
+                "ZhuYuan_Talent_03_Title_Realign": "Public Security Special Training"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "Ether Perforation",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "Saat Zhu Yuan menggunakan <color=#FFFFFF>Enhanced Shotshell</color> dan serangannya mengenai musuh, <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> dan <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> akan mengabaikan 25% <color=#FE437E>ketahanan Ether DMG</color> target.",
+                "ZhuYuan_Talent_04_Desc_02": "Dalam pertempuran, para bandit Hollow biasanya akan diam-diam menghitung sisa peluru yang dimiliki musuh dengan cerdik, tetapi yang mereka tidak tahu adalah... perlengkapan amunisi Zhu Yuan bisa menyerap Ether di sekitar untuk menjadikannya sebagai sumber energi.",
+                "ZhuYuan_Talent_04_Desc_01": "Saat Zhu Yuan menggunakan <color=#FFFFFF>Enhanced Shotshell</color> dan serangannya mengenai musuh, <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> dan <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> akan mengabaikan 25% <color=#FE437E>ketahanan Ether DMG</color> target.",
+                "ZhuYuan_Talent_04_Title_Realign": "Ether Perforation"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "Special Ops Experience",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "ZhuYuan_Talent_05_Desc_02": "Petugas Public Security yang sudah berpengalaman pastinya akan lebih pandai dalam mengamati situasi dan menyelesaikan pertarungan secara efisien. Bahkan terkadang, sebuah tatapan yang menakutkan saja sudah cukup untuk membuat musuh berhenti melawan.",
+                "ZhuYuan_Talent_05_Title_Realign": "Special Ops Experience"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "Expanded Energy Pack III",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "Setelah menggunakan 12 <color=#FFFFFF>Enhanced Shotshell</color>, Zhu Yuan akan mendapatkan efek <color=#FFFFFF>Ether Afterglow</color>.\nSaat melancarkan <color=#FFFFFF>EX Special Attack</color> berikutnya akan mengonsumsi 30 poin Energy lebih sedikit.\nSaat melancarkan <color=#FFFFFF>EX Special Attack</color>, efek <color=#FFFFFF>Ether Afterglow</color> akan terkonsumsi dan menembakkan 4 peluru Ether tambahan. Setiap peluru Ether tambahan yang ditembakkan akan mengakibatkan DMG sebesar 220% dari ATK Zhu Yuan.",
+                "ZhuYuan_Talent_06_Desc_02": "Zhu Yuan sering kali akan memperhatikan sisa baterai perlengkapannya. Saat sisa baterai sudah jatuh hingga area merah, dia akan menggunakan senjatanya seirit mungkin. Masalah ini pun terus berlangsung hingga Public Security memasang perlengkapan dengan kapasitas energi yang ekstra besar.",
+                "ZhuYuan_Talent_06_Desc_01": "Setelah menggunakan 12 <color=#FFFFFF>Enhanced Shotshell</color>, Zhu Yuan akan mendapatkan efek <color=#FFFFFF>Ether Afterglow</color>.\nSaat melancarkan <color=#FFFFFF>EX Special Attack</color> berikutnya akan mengonsumsi 30 poin Energy lebih sedikit.\nSaat melancarkan <color=#FFFFFF>EX Special Attack</color>, efek <color=#FFFFFF>Ether Afterglow</color> akan terkonsumsi dan menembakkan 4 peluru Ether tambahan. Setiap peluru Ether tambahan yang ditembakkan akan mengakibatkan DMG sebesar 220% dari ATK Zhu Yuan.",
+                "ZhuYuan_Talent_06_Title_Realign": "Expanded Energy Pack III"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "Qingyi",
+        "full_name": "Qingyi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "Insulation Breakdown",
+                "QingYi_Talent_01_Desc_01_Realign": "Saat Qingyi memasuki pertarungan, <color=#FFFFFF>Flash Connect Voltage</color> akan langsung pulih ke nilai maksimum, dan efisiensi akumulasinya meningkat 30%.\nSaat melancarkan <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, jika <color=#FFFFFF>Flash Connect Voltage</color> sudah diakumulasi hingga nilai maksimum, serangannya akan menurunkan 15% DEF milik musuh yang terkena. Selain itu, CRIT Rate Qingyi terhadap target tersebut juga akan meningkat 20% selama 15 detik.",
+                "QingYi_Talent_01_Desc_02": "\"Walaupun nyawamu tidak dalam bahaya, namun lebih bijak jika kamu tidak melawan...\"\nArah dan intensitas arus listrik telah dihitung secara presisi agar setiap tersangka dijamin akan menerima sengatan listrik yang masih tergolong aman.",
+                "QingYi_Talent_01_Desc_01": "Saat Qingyi memasuki pertarungan, <color=#FFFFFF>Flash Connect Voltage</color> akan langsung pulih ke nilai maksimum, dan efisiensi akumulasinya meningkat 30%. Saat melancarkan <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, jika <color=#FFFFFF>Flash Connect Voltage</color> sudah diakumulasi hingga nilai maksimum, serangannya akan menurunkan 15% DEF milik musuh yang terkena. Selain itu, CRIT Rate Qingyi terhadap target tersebut juga akan meningkat 20% selama 15 detik.",
+                "QingYi_Talent_01_Title_Realign": "Insulation Breakdown"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "Minimal Effort, Maximum Impact",
+                "QingYi_Talent_02_Desc_01_Realign": "Efek peningkatan Kelipatan Stun DMG yang diberikan setiap lapis <color=#FFFFFF>Subjugation</color> dari <color=#FFFFFF>Core Passive: Eternal Seasons</color> akan ditingkatkan hingga 135% dari nilai awal.\nSaat serangan Qingyi mengenai musuh, jika jumlah lapisan <color=#FFFFFF>Subjugation</color> musuh tersebut sudah mencapai jumlah maksimum, maka Daze yang diakibatkan Qingyi terhadap musuh tersebut meningkat 15%.",
+                "QingYi_Talent_02_Desc_02": "Sebuah teknik bertarung kuno yang tercatat dalam teks peradaban kuno. Awalnya terlihat seperti teknik bela diri tangan kosong dan bukan teknik menggunakan senjata tongkat.\n\"Jangan terlalu menahan diri, sebenarnya lengan juga bisa dianggap seperti semacam tongkat dengan tiga bagian, ya kan?\"",
+                "QingYi_Talent_02_Desc_01": "Efek peningkatan Kelipatan Stun DMG yang diberikan setiap lapis <color=#FFFFFF>Subjugation</color> dari <color=#FFFFFF>Core Passive: Eternal Seasons</color> akan ditingkatkan hingga 135% dari nilai awal. Saat serangan Qingyi mengenai musuh, jika jumlah lapisan <color=#FFFFFF>Subjugation</color> musuh tersebut sudah mencapai jumlah maksimum, maka Daze yang diakibatkan Qingyi terhadap musuh tersebut meningkat 15%.",
+                "QingYi_Talent_02_Title_Realign": "Minimal Effort, Maximum Impact"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "Drink Hot Water",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "QingYi_Talent_03_Desc_02": "\"Anak muda harus menjaga kesehatannya. Harus banyak minum air hangat.\"\nSetiap kali Qingyi minum dari termosnya, orang lain yang melihatnya pun juga merasa hangat dan nyaman. Tapi hati-hati kalau ingin menerima air \"hangat\" darinya—\n\"Air mendidih dengan temperatur 100 derajat celsius sekalipun bisa dia minum seolah tidak ada apa-apa...\" —Catatan seorang petugas PubSec yang pernah menjadi korban.",
+                "QingYi_Talent_03_Title_Realign": "Drink Hot Water"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "Stable Arc Barrier",
+                "QingYi_Talent_04_Desc_01_Realign": "Saat memasuki atau mengakhiri status <color=#FFFFFF>Flash Connect</color>, akan mendapatkan Shield senilai 10% Max HP Qingyi. \nSaat efek Shield diperbarui dan jika Shield yang diperoleh sebelumnya masih aktif, Qingyi akan memperoleh 5 poin Energy. \nEfek Energy Generation ini dapat dipicu sekali setiap 10 detik.",
+                "QingYi_Talent_04_Desc_02": "Dengan melakukan rekayasa balik Automaton dari peradaban kuno, White Star Institute berhasil mengembangkan Penghalang Melengkung, sebuah teknologi yang menggabungkan pertahanan, serangan, dan konversi energi listrik.\n\"Pepatah mengatakan: Air bisa membawa kapal mengapung atau tenggelam. Ilmu fisika mengatakan: Arus listrik mengalir seperti air. Oleh sebab itu: Arus listrik dapat digunakan untuk menyerang dan bertahan. Sungguh kombinasi yang luar biasa.\"",
+                "QingYi_Talent_04_Desc_01": "Saat memasuki atau mengakhiri status <color=#FFFFFF>Flash Connect</color>, akan mendapatkan Shield senilai 10% Max HP Qingyi. Saat efek Shield diperbarui dan jika Shield yang diperoleh sebelumnya masih aktif, Qingyi akan memperoleh 5 poin Energy. Efek Energy Generation ini dapat dipicu sekali setiap 10 detik.",
+                "QingYi_Talent_04_Title_Realign": "Stable Arc Barrier"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "Youthful Spirit",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "QingYi_Talent_05_Desc_02": "\"Bagus, anak muda memang harus berani mencoba hal-hal baru. Semangat ya!\"\nMeskipun terkadang ucapan motivasi Qingyi terasa sedikit malas dan mengejek, tapi kalau kamu benar-benar ada masalah, kamu selalu bisa bergantung padanya.\nBagaimanapun juga, dia sudah hidup ratusan tahun dan bisa menangani apa pun.",
+                "QingYi_Talent_05_Title_Realign": "Youthful Spirit"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "Eight Meridians",
+                "QingYi_Talent_06_Desc_01_Realign": "Level Interrupt <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color> meningkat drastis, dan CRIT DMG yang diakibatkan Skill ini meningkat 100%.\nSaat <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color> mengenai musuh, ketahanan target untuk semua DMG Atribut berkurang 20% selama 15 detik.",
+                "QingYi_Talent_06_Desc_02": "Sebuah teori tentang sistem sirkulasi tubuh manusia yang tercatat di buku peradaban kuno menyatakan: Siapa pun yang bisa menguasai teori ini, mereka akan memiliki kemampuan untuk langsung melumpuhkan lawannya.\n\"Lain kali kita coba di titik saraf geli ya? Siapa yang mau jadi kelinci percobaan? Manajer? Atau Zhu Yuan?\"",
+                "QingYi_Talent_06_Desc_01": "Level Interrupt <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color> meningkat drastis. CRIT DMG yang diakibatkan Skill meningkat 100%. Saat <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color> mengenai musuh, ketahanan target untuk semua DMG Atribut berkurang 20% selama 15 detik.",
+                "QingYi_Talent_06_Title_Realign": "Eight Meridians"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "Jane",
+        "full_name": "Jane Doe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "Crime Counsel",
+                "JaneDoe_Talent_01_Desc_01_Realign": "Batas maksimum jumlah penggunaan <color=#FFFFFF>Basic Attack: Salchow Jump</color> bertambah satu kali.\nSaat berada dalam status <color=#FFFFFF>Passion</color>, <color=#F0D12B>Physical Anomaly Buildup Rate</color> Jane meningkat 15% dan setiap poin Anomaly Proficiency Jane akan meningkatkan DMG yang diakibatkannya sebesar 0.1%, maks. meningkat hingga 30%.",
+                "JaneDoe_Talent_01_Desc_02": "\"Seorang konsultan kriminal tugasnya untuk memberi konsultasi tentang perilaku kriminal, bukannya memberikan konsultasi tentang bagaimana cara melakukan tindakan kriminal.\"\nJane tiba-tiba mendekat, dan mengedipkan matanya.\n\"Tapi tentu saja, kalau kamu menganggapnya sebagai cara melakukan tindakan kriminal... aku sih tidak keberatan.\"",
+                "JaneDoe_Talent_01_Desc_01": "Batas maksimum jumlah penggunaan <color=#FFFFFF>Basic Attack: Salchow Jump</color> bertambah satu kali. Saat berada dalam status <color=#FFFFFF>Passion</color>, <color=#F0D12B>Physical Anomaly Buildup Rate</color> Jane meningkat 15% dan setiap poin Anomaly Proficiency Jane akan meningkatkan DMG yang diakibatkannya sebesar 0.1%, maks. meningkat hingga 30%.",
+                "JaneDoe_Talent_01_Title_Realign": "Crime Counsel"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "Adapt to the Environment",
+                "JaneDoe_Talent_02_Desc_01_Realign": "Saat serangan Jane mengenai musuh yang berada dalam status <color=#FFFFFF>Gnawed</color> atau saat salah satu Agen di dalam tim memicu <color=#F0D12B>Assault</color> terhadap musuh yang berada dalam status <color=#FFFFFF>Gnawed</color>, maka 15% DEF musuh tersebut akan diabaikan. Saat <color=#F0D12B>Assault</color> memicu CRIT, maka CRIT DMG akan meningkat sebesar 50%.",
+                "JaneDoe_Talent_02_Desc_02": "Tatap Abyss, dan dia akan menatapmu kembali... Tapi ini baru langkah pertama.\n\"Selanjutnya, kamu harus mendekatinya, memasukinya, dan memahaminya. Ini langkah kedua.\"\n\"Langkah terakhir... jangan sampai menjadi dia.\"",
+                "JaneDoe_Talent_02_Desc_01": "Saat serangan Jane mengenai musuh yang berada dalam status <color=#FFFFFF>Gnawed</color> atau saat salah satu Agen di dalam tim memicu <color=#F0D12B>Assault</color> terhadap musuh yang berada dalam status <color=#FFFFFF>Gnawed</color>, maka 15% DEF musuh tersebut akan diabaikan. Saat <color=#F0D12B>Assault</color> memicu CRIT, maka CRIT DMG akan meningkat sebesar 50%.",
+                "JaneDoe_Talent_02_Title_Realign": "Adapt to the Environment"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "Anonymity",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "JaneDoe_Talent_03_Desc_02": "\"Anonimitas — yang berarti aku bisa menjadi siapa pun. Salah satunya, orang yang paling kamu sukai~\"\n\"Atau juga, orang yang paling kamu takuti?\"",
+                "JaneDoe_Talent_03_Title_Realign": "Anonymity"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "Adapt and Thrive",
+                "JaneDoe_Talent_04_Desc_01_Realign": "Saat salah satu Agen di dalam tim memicu efek <color=#F0D12B>Assault</color> atau <color=#FFFFFF>Disorder</color>,\nAttribute Anomaly DMG yang diakibatkan semua anggota tim akan meningkat 18% selama 15 detik.",
+                "JaneDoe_Talent_04_Desc_02": "\"Soal jadi pemburu atau mangsa, itu semua tergantung pada sudut pandangmu. Tetapi, aku lebih suka dengan cara yang lebih simpel—\"\n\"Yang kalah ya... jadi mangsanya~\"",
+                "JaneDoe_Talent_04_Desc_01": "Saat salah satu Agen di dalam tim memicu efek <color=#F0D12B>Assault</color> atau <color=#FFFFFF>Disorder</color>, Attribute Anomaly DMG yang diakibatkan semua anggota tim akan meningkat 18% selama 15 detik.",
+                "JaneDoe_Talent_04_Title_Realign": "Adapt and Thrive"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "Compulsive Hoarder",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "JaneDoe_Talent_05_Desc_02": "Kamar Jane selalu dipenuhi dengan berbagai macam barang, terutama makanan-makanan cepat saji.\n\"Di sini nyaman, kan? Sepanjang lengan memanjang, di situ ada makanan~\"",
+                "JaneDoe_Talent_05_Title_Realign": "Compulsive Hoarder"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "\"Shady\" Technique",
+                "JaneDoe_Talent_06_Desc_01_Realign": "Saat Jane berada dalam status <color=#FFFFFF>Passion</color>, CRIT Rate akan meningkat 20%, dan CRIT DMG akan meningkat 40%. Saat salah satu Agen di dalam tim memicu <color=#F0D12B>Assault</color>, Jane akan langsung memasuki status <color=#FFFFFF>Passion</color> dan memulihkan <color=#FFFFFF>Passion Stream</color> ke nilai maksimum. Jika <color=#F0D12B>Assault</color> memicu CRIT, maka Jane akan melancarkan satu kali serangan tambahan terhadap target tersebut, dan mengakibatkan <color=#F0D12B>Physical DMG</color> senilai 1600% Anomaly Proficiency yang dimilikinya.",
+                "JaneDoe_Talent_06_Desc_02": "Kalau hidup di jalanan, mau caramu bersih atau kotor, yang terpenting tetaplah hasilnya.\n\"Hanya dengan mengenali hasrat terdalam seseorang, kamu baru bisa mengungkapkan titik lemah mereka yang paling menyakitkan.\"",
+                "JaneDoe_Talent_06_Desc_01": "Saat Jane berada dalam status <color=#FFFFFF>Passion</color>, CRIT Rate akan meningkat 20%, dan CRIT DMG akan meningkat 40%. Saat salah satu Agen di dalam tim memicu <color=#F0D12B>Assault</color>, Jane akan langsung memasuki status <color=#FFFFFF>Passion</color> dan memulihkan <color=#FFFFFF>Passion Stream</color> ke nilai maksimum. Jika <color=#F0D12B>Assault</color> memicu CRIT, maka Jane akan melancarkan satu kali serangan tambahan terhadap target tersebut, dan mengakibatkan <color=#F0D12B>Physical DMG</color> senilai 1600% Anomaly Proficiency yang dimilikinya.",
+                "JaneDoe_Talent_06_Title_Realign": "\"Shady\" Technique"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "Seth",
+        "full_name": "Seth Lowell",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "Heroism",
+                "Seth_Talent_01_Desc_01_Realign": "Nilai Shield yang diberikan dari <color=#FFFFFF>Shield of Firm Resolve</color> dan nilai maksimumnya meningkat 30%.\nSaat efek <color=#FFFFFF>Shield of Firm Resolve</color> berakhir, durasi efek peningkatan Anomaly Proficiency dari <color=#FFFFFF>Core Passive: Protector</color> diperpanjang 10 detik.",
+                "Seth_Talent_01_Desc_02": "Dalam hal operasi tim, Seth selalu memimpin di garis depan.\n\"Biar aku saja yang menangkap penjahatnya! Untuk penangkapan jarak dekat, nilaiku 99 poin! Kenapa tidak 100? Ah, itu karena aku tidak sengaja membuat tangan instrukturku terkilir.\"",
+                "Seth_Talent_01_Desc_01": "Nilai Shield yang diberikan dari <color=#FFFFFF>Shield of Firm Resolve</color> dan nilai maksimumnya meningkat 30%. Saat efek <color=#FFFFFF>Shield of Firm Resolve</color> berakhir, durasi efek peningkatan Anomaly Proficiency dari <color=#FFFFFF>Core Passive: Protector</color> diperpanjang 10 detik.",
+                "Seth_Talent_01_Title_Realign": "Heroism"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "Recklessness of Youth",
+                "Seth_Talent_02_Desc_01_Realign": "Saat memasuki pertarungan, Seth akan langsung memulihkan 75% <color=#FFFFFF>Resolve</color>.\nSaat <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> mengenai musuh, <color=#2EB6FF>Electric Anomaly Buildup</color> yang diakumulasi dari Skill tersebut meningkat 35%.",
+                "Seth_Talent_02_Desc_02": "Seth memang sering diremehkan oleh para penjahat. \nMungkin karena tatapan matanya yang polos, atau mungkin karena telinga dan ekornya yang berbulu lembut, sehingga tampak tidak berbahaya. Tetapi, siapa pun yang menganggap remeh dirinya pasti akan menyesal pada akhirnya.",
+                "Seth_Talent_02_Desc_01": "Saat memasuki pertarungan, Seth akan langsung memulihkan 75% <color=#FFFFFF>Resolve</color>. Saat <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> mengenai musuh, <color=#2EB6FF>Electric Anomaly Buildup</color> yang diakumulasi dari Skill tersebut meningkat 35%.",
+                "Seth_Talent_02_Title_Realign": "Recklessness of Youth"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "Slow Reflexes",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Seth_Talent_03_Desc_02": "\"Petugas PubSec hebat sepertimu pasti selalu mengandalkan diri sendiri, kan? Pasti tidak bergantung pada orang lain, kan?\"\nSetelah mendengar hal ini, Seth tetap bergeming dan tidak mengatakan sepatah kata pun.\nSampai di tengah malam, dia tiba-tiba terbangun:\n\"Tadi siang, orang itu... maksudnya lagi mengejekku ya?!\"",
+                "Seth_Talent_03_Title_Realign": "Slow Reflexes"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "Core Aspiration",
+                "Seth_Talent_04_Desc_01_Realign": "Daze yang diakibatkan <color=#FFFFFF>Defensive Assist: Thundershield</color> meningkat 25%.",
+                "Seth_Talent_04_Desc_02": "\"Lupakan pandangan naifmu tentang benar dan salah. Kamu memang tidak bisa melindungi semua orang di dunia ini. Terkadang, kamu harus membuat pilihan.\"\n\"Ini pilihanku, dan juga tanggung jawab terdasar bagi seorang petugas PubSec — kamu yang sudah berubah, Kak.\"",
+                "Seth_Talent_04_Desc_01": "Daze yang diakibatkan <color=#FFFFFF>Defensive Assist: Thundershield</color> meningkat 25%.",
+                "Seth_Talent_04_Title_Realign": "Core Aspiration"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "Distant Admiration",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Seth_Talent_05_Desc_02": "Dulu, Seth sangat mengagumi dan menghormati kakaknya.\nTapi, \"mengagumi\" sama sekali tidak berarti \"memahami.\"\n\"Suatu hari nanti, aku akan jadi petugas PubSec terhebat... biar dia bisa makan omongannya sendiri!\"",
+                "Seth_Talent_05_Title_Realign": "Distant Admiration"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "Idealist",
+                "Seth_Talent_06_Desc_01_Realign": "Saat Serangan Terakhir dari <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> yang dilancarkan Seth mengenai musuh,\nakan mengakibatkan DMG tambahan sebesar 500% dari ATK Seth. Serangan tersebut pasti akan memicu CRIT dan CRIT DMG yang diakibatkannya meningkat 60%.",
+                "Seth_Talent_06_Desc_02": "Di mata seorang pemuda, segalanya terlihat jelas, hitam dan putih, benar dan salah. \nSelalu ada orang yang ingin memberitahunya bahwa dunia ini penuh dengan nuansa abu-abu. Namun, apakah dunia di mana segala sesuatu jelas dan tegas tidak layak untuk diperjuangkan?",
+                "Seth_Talent_06_Desc_01": "Saat Serangan Terakhir dari <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> yang dilancarkan Seth mengenai musuh, akan mengakibatkan DMG tambahan sebesar 500% dari ATK Seth. Serangan tersebut pasti akan memicu CRIT dan CRIT DMG yang diakibatkannya meningkat 60%.",
+                "Seth_Talent_06_Title_Realign": "Idealist"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "Caesar",
+        "full_name": "Caesar King",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "Spearhead Advance",
+                "Caesar_Talent_01_Desc_01_Realign": "Saat memasuki pertarungan atau beralih menjadi Agen aktif, Caesar akan langsung memberikan <color=#FFFFFF>Radiant Aegis</color> kepada semua anggota tim. Efek ini dapat dipicu sekali setiap 300 detik.\nSelama <color=#FFFFFF>Radiant Aegis</color> berlangsung, musuh yang berada dalam radius 5m dari Agen yang memiliki Shield akan menerima pengurangan ketahanan untuk semua DMG Atribut sebesar 15%.",
+                "Caesar_Talent_01_Desc_02": "\"Big Daddy yang ngajarin aku untuk bikin formasi berbentuk V untuk serang titik paling lemah musuh.\"\n\"Tentu saja, aku yang bakal pimpin formasi V itu!!\"",
+                "Caesar_Talent_01_Desc_01": "Saat memasuki pertarungan atau beralih menjadi Agen aktif, Caesar akan langsung memberikan <color=#FFFFFF>Radiant Aegis</color> kepada semua anggota tim. Efek ini dapat dipicu sekali setiap 300 detik. Selama <color=#FFFFFF>Radiant Aegis</color> berlangsung, musuh yang berada dalam radius 5m dari Agen yang memiliki Shield akan menerima pengurangan ketahanan untuk semua DMG Atribut sebesar 15%.",
+                "Caesar_Talent_01_Title_Realign": "Spearhead Advance"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "Legacy of the Far Lands",
+                "Caesar_Talent_02_Desc_01_Realign": "Selama <color=#FFFFFF>Radiant Aegis</color> yang didapatkan setelah melancarkan <color=#FFFFFF>Core Passive: Barrier of Resilience</color> masih aktif, Energy Generation Caesar akan meningkat 10%, dan efek peningkatan ATK pengguna Shield akan meningkat hingga 150% dari nilai awal.",
+                "Caesar_Talent_02_Desc_02": "Gaya bertarung Caesar sedikit berbeda dengan orang-orang di New Eridu maupun di Outer Ring, karena dia mewarisi teknik bertarung para pengembara yang paling terampil. \nTahu kapan harus menahan diri dan kapan harus menyerang dengan pasti, itulah yang selalu menjadi cara bertahan hidup para pengembara, dan Caesar merupakan seorang murid yang baik dalam filosofi ini.",
+                "Caesar_Talent_02_Desc_01": "Selama <color=#FFFFFF>Radiant Aegis</color> yang didapatkan setelah melancarkan <color=#FFFFFF>Core Passive: Barrier of Resilience</color> masih aktif, Energy Generation Caesar akan meningkat 10%, dan efek peningkatan ATK pengguna Shield akan meningkat hingga 150% dari nilai awal.",
+                "Caesar_Talent_02_Title_Realign": "Legacy of the Far Lands"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "Absolute Trust",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Caesar_Talent_03_Desc_02": "Setelah Caesar mengakui seseorang, maka dia akan sepenuhnya menerima mereka sebagai bagian dari lingkaran dalamnya. Dia akan memberikan mereka kepercayaan mutlak, dan kewaspadaan terhadap mereka akan hilang begitu saja...\nDan kamulah salah satu dari orang yang dia akui.",
+                "Caesar_Talent_03_Title_Realign": "Absolute Trust"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "Aries the Battering-Ram",
+                "Caesar_Talent_04_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, Caesar akan memulihkan 3 poin <color=#FFFFFF>Assist Point</color> tambahan.\nSaat Energy Caesar tidak melebihi 20 poin, dia dapat mengonsumsi 1 poin <color=#FFFFFF>Assist Point</color> sebagai pengganti untuk melancarkan <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>. Efek pengganti ini dapat dipicu sekali setiap 5 detik.",
+                "Caesar_Talent_04_Desc_02": "Ini adalah salah satu taktik yang dipelajari Caesar di bawah bimbingan para pengembara.\n\"Gimanapun caranya, aku bakal berjuang sampai detik terakhir!\"",
+                "Caesar_Talent_04_Desc_01": "Saat melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, Caesar akan memulihkan 3 poin <color=#FFFFFF>Assist Point</color> tambahan. Saat Energy Caesar tidak melebihi 20 poin, dia dapat mengonsumsi 1 poin <color=#FFFFFF>Assist Point</color> sebagai pengganti untuk melancarkan <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>. Efek pengganti ini dapat dipicu sekali setiap 5 detik.",
+                "Caesar_Talent_04_Title_Realign": "Aries the Battering-Ram"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "Romantic Conquest",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Caesar_Talent_05_Desc_02": "Berbeda dengan penampilannya, Caesar sebenarnya adalah seseorang yang romantis.\nDia selalu penasaran dengan kisah-kisah cinta.\nDan jika kamu membahas topik ini dengan mendalam dengannya... kamu mungkin akan melihat sosok Caesar yang tersipu malu.",
+                "Caesar_Talent_05_Title_Realign": "Romantic Conquest"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "Overlord's Will",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> dan <color=#FFFFFF>Assist Follow-Up</color> pasti akan memicu CRIT. DMG yang diakibatkan Skill akan meningkat 50%, dan DMG yang diakibatkan terhadap target utama mendapat peningkatan tambahan sebesar 50%.\nSaat melancarkan <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> atau <color=#FFFFFF>Assist Follow-Up</color>, CRIT Rate Caesar meningkat 30% dan CRIT DMG meningkat 60% selama 15 detik.",
+                "Caesar_Talent_06_Desc_02": "\"Aku dari dulu selalu fokus ke apa yang di depan, kirain... asalkan aku cukup kuat, yang lain beres.\"\n\"Tapi jadi pemimpin hebat itu enggak cuma butuh kekuatan.\"\n\"Aku juga harus lindungi rekan-rekan di belakangku, karena mereka adalah alasan aku tetap maju.\"",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> dan <color=#FFFFFF>Assist Follow-Up</color> pasti akan memicu CRIT, dan DMG yang diakibatkan Skill akan meningkat 50% (DMG yang diakibatkan terhadap target utama mendapat peningkatan tambahan sebesar 50%). Saat melancarkan <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> atau <color=#FFFFFF>Assist Follow-Up</color>, CRIT Rate Caesar meningkat 30% dan CRIT DMG meningkat 60% selama 15 detik.",
+                "Caesar_Talent_06_Title_Realign": "Overlord's Will"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "Lucy",
+        "full_name": "Luciana de Montefio",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "Drill Formations",
+                "Lucy_Talent_01_Desc_01_Realign": "Saat Guard Boar melancarkan <color=#FFFFFF>Guard Boars: Spinning Swing!</color>, akan memulihkan 2 poin Energy untuk Lucy. Efek ini dapat dipicu sekali setiap 15 detik. CD setiap ekor Guard Boar dihitung secara terpisah.",
+                "Lucy_Talent_01_Desc_02": "\"Grassy! Hadap ke kanan grak! ...Itu kiri, bodoh!!!\"\nSatu perintah, dua arah, tiga jeritan pilu, dan tangisan dari empat penjuru.",
+                "Lucy_Talent_01_Desc_01": "Saat Guard Boar melancarkan <color=#FFFFFF>Guard Boars: Spinning Swing!</color>, akan memulihkan 2 poin Energy untuk Lucy. Efek ini dapat dipicu sekali setiap 15 detik. CD setiap ekor Guard Boar dihitung secara terpisah.",
+                "Lucy_Talent_01_Title_Realign": "Drill Formations"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "Little Boar Captain",
+                "Lucy_Talent_02_Desc_01_Realign": "Saat Lucy melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, akan mendapatkan status <color=#FFFFFF>\"Cheer On!\"</color> kepada rekan Agen, Bangboo, serta Guard Boar yang berlangsung selama 10 detik.",
+                "Lucy_Talent_02_Desc_02": "\"Tidak perlu ragu lagi, Kapten Lucy adalah pemimpin manusia separuh Boar terbaik di Calydon\"\nIni adalah kata penutup dari Woody dalam \"Laporan Kerja Tahunan Sons of Calydon\".",
+                "Lucy_Talent_02_Desc_01": "Saat Lucy melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, akan mendapatkan status <color=#FFFFFF>\"Cheer On!\"</color> kepada rekan Agen, Bangboo, serta Guard Boar yang berlangsung selama 10 detik.",
+                "Lucy_Talent_02_Title_Realign": "Little Boar Captain"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "Ironfist Overseer",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Lucy_Talent_03_Desc_02": "\"Kalau saja Kapten Lucy pukul kita lebih pelan, pasti tidak akan sakit.\"\nIni adalah kalimat dalam hati yang tak berani diucapkan Woody.",
+                "Lucy_Talent_03_Title_Realign": "Ironfist Overseer"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "Chaos Ball Game",
+                "Lucy_Talent_04_Desc_01_Realign": "CRIT DMG unit sekutu yang berada dalam status <color=#FFFFFF>\"Cheer On!\" </color> akan meningkat ekstra 10%.",
+                "Lucy_Talent_04_Desc_02": "Pokoknya salah satu harus ada yang patah, baik itu aturan atau tulang rusuk si wasit.",
+                "Lucy_Talent_04_Desc_01": "CRIT DMG unit sekutu yang berada dalam status <color=#FFFFFF>\"Cheer On!\" </color> akan meningkat ekstra 10%.",
+                "Lucy_Talent_04_Title_Realign": "Chaos Ball Game"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "Wildland Princess",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Lucy_Talent_05_Desc_02": "Gunakan bahasa sopan pada lawan yang menjerit kesakitan akibat pukulan tongkat bisbol,\nucapkan maaf pada musuh yang tergeletak di sebelah kaki,\nini adalah sikap sopan santun sempurna dari seorang tuan putri.",
+                "Lucy_Talent_05_Title_Realign": "Wildland Princess"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "Fierce Fangs of Fire",
+                "Lucy_Talent_06_Desc_01_Realign": "Saat rekan tim yang berada dalam status <color=#FFFFFF>\"Cheer On!\"</color> melancarkan <color=#FFFFFF>EX Special Attack</color> dan mengenai musuh, seekor Guard Boar akan jatuh dari udara dan memicu ledakan yang mengakibatkan <color=#FF5521>Fire DMG</color> setara dengan 300% ATK Guard Boar. Selain itu, durasi status <color=#FFFFFF>\"Cheer On!\"</color> semua anggota tim diperpanjang selama 5 detik.\nDurasi dapat diperpanjang maks. 3 kali (maks. 30 detik). Saat mendapatkan kembali status <color=#FFFFFF>\"Cheer On!\"</color>, kesempatan peningkatan juga akan direset.\nSetelah Guard Boar jatuh ke tanah dan memicu ledakan, akan memicu <color=#FFFFFF>\"Guard Boars: Spinning Swing!\"</color> satu kali.",
+                "Lucy_Talent_06_Desc_02": "Para manusia separuh Boar yang dikenal sebagai \"Crimson Mane Guard\" selalu berada di garis depan pertarungan!\nSulit untuk mengungkapkan apa yang kurasakan saat terbang dari tongkat bisbol itu, apa itu rasa kecewa atau rasa pasrah.\nBoar pemberani, maju ke depan!",
+                "Lucy_Talent_06_Desc_01": "Saat rekan tim yang berada dalam status <color=#FFFFFF>\"Cheer On!\"</color> melancarkan <color=#FFFFFF>EX Special Attack</color> dan mengenai musuh, seekor Guard Boar akan jatuh dari udara dan memicu ledakan yang mengakibatkan <color=#FF5521>Fire DMG</color> setara dengan 300% ATK Guard Boar. Selain itu, durasi status <color=#FFFFFF>\"Cheer On!\"</color> semua anggota tim diperpanjang selama 5 detik.\nDurasi dapat diperpanjang maks. 3 kali (maks. 30 detik). Saat mendapatkan kembali status <color=#FFFFFF>\"Cheer On!\"</color>, kesempatan peningkatan juga akan direset.\nSetelah Guard Boar jatuh ke tanah dan memicu ledakan, akan memicu <color=#FFFFFF>\"Guard Boars: Spinning Swing!\"</color> satu kali.",
+                "Lucy_Talent_06_Title_Realign": "Fierce Fangs of Fire"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "Lighter",
+        "full_name": "Lighter",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "The Champion",
+                "Lighter_Talent_01_Desc_01_Realign": "Debuff musuh yang diberikan dari <color=#FFFFFF>Core Passive: Accelerant</color> mendapatkan peningkatan sebagai berikut: \nDurasi efek <color=#FFFFFF>Collapse</color> akan membuat status Stun diperpanjang 5 detik. <color=#98EFF0>Ketahanan Ice DMG</color> dan <color=#FF5521>Ketahanan Fire DMG</color> akan mendapatkan pengurangan tambahan sebesar 10%.\nSaat Lighter lanjut melancarkan serangan terakhir yang kuat (setelah mengonsumsi <color=#FFFFFF>Morale</color> hingga habis saat melancarkan serangan tinju ringan atau kombo tinju jab) secara otomatis, DMG yang diakibatkan serangan terakhir meningkat 30%.",
+                "Lighter_Talent_01_Desc_02": "Kemenangan itu sangat krusial bagi sang juara yang tak terkalahkan. Tidak hanya karena dia harus berduel melawan petarung terkuat dari tim oposisi dan mengeliminasi ancaman untuk ketua timnya, tetapi kemenangannya juga akan memberikan anggota tim lainnya dukungan moral yang luar biasa.\nBaginya, hanya kemenangan yang pantas dipuji.\n\"Juara tak terkalahkan tidak boleh gugur.\"",
+                "Lighter_Talent_01_Desc_01": "Debuff musuh yang diberikan dari <color=#FFFFFF>Core Passive: Accelerant</color> mendapatkan peningkatan sebagai berikut: Durasi efek <color=#FFFFFF>Collapse</color> akan membuat status Stun diperpanjang 5 detik. <color=#98EFF0>Ketahanan Ice DMG</color> dan <color=#FF5521>Ketahanan Fire DMG</color> akan mendapatkan pengurangan tambahan sebesar 10%. Saat Lighter lanjut melancarkan serangan terakhir yang kuat (setelah mengonsumsi <color=#FFFFFF>Morale</color> hingga habis saat melancarkan serangan tinju ringan atau kombo tinju jab) secara otomatis, DMG yang diakibatkan serangan terakhir meningkat 30%.",
+                "Lighter_Talent_01_Title_Realign": "The Champion"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "Red Scarf",
+                "Lighter_Talent_02_Desc_01_Realign": "Saat mengakibatkan efek <color=#FFFFFF>Collapse</color> melalui <color=#FFFFFF>Core Passive: Accelerant</color> terhadap musuh, Kelipatan Stun DMG target tersebut akan meningkat sebesar 25%.\nSelain itu, efek buff untuk <color=#98EFF0>Ice DMG</color> dan <color=#FF5521>Fire DMG</color> yang diberikan <color=#FFFFFF>Elation</color> dari <color=#FFFFFF>Additional Ability: Fighting Spirit</color> akan meningkat sebesar 120% dari nilai awalnya.",
+                "Lighter_Talent_02_Desc_02": "Sebagai sang \"Syal Merah\" dari Sons of Calydon, Lighter adalah sosok yang amat terkenal di Outer Ring.\nDia terkenal bukan hanya karena tinjunya, tetapi juga karena... cara bicaranya yang unik.\n\"Meski aku memang suka bersantai-santai, tapi kalian juga tidak sanggup kalau tidak ada aku, kan?\"",
+                "Lighter_Talent_02_Desc_01": "Saat mengakibatkan efek <color=#FFFFFF>Collapse</color> melalui <color=#FFFFFF>Core Passive: Accelerant</color> terhadap musuh, Kelipatan Stun DMG target tersebut akan meningkat sebesar 25%. Selain itu, efek buff untuk <color=#98EFF0>Ice DMG</color> dan <color=#FF5521>Fire DMG</color> yang diberikan <color=#FFFFFF>Elation</color> dari <color=#FFFFFF>Additional Ability: Fighting Spirit</color> akan meningkat sebesar 120% dari nilai awalnya.",
+                "Lighter_Talent_02_Title_Realign": "Red Scarf"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "Mercenary Leader",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Lighter_Talent_03_Desc_02": "\"Aku mungkin orang yang paling tidak cocok untuk jadi seorang pemimpin.\"",
+                "Lighter_Talent_03_Title_Realign": "Mercenary Leader"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "Sunglasses",
+                "Lighter_Talent_04_Desc_01_Realign": "Saat Lighter sedang tidak aktif, Energy Regen untuk karakter aktif akan meningkat sebesar 10%.\nSaat Lighter memasuki status <color=#FFFFFF>Morale Burst</color>, akan memulihkan 4 poin Energy untuk anggota tim yang tidak aktif. Efek ini dapat dipicu sekali setiap 18 detik.",
+                "Lighter_Talent_04_Desc_02": "\"Mau tahu kenapa aku selalu pakai kacamata hitam? Ehm... karena aku pusing kalau lihat darah. Kira-kira begitu deh.\"",
+                "Lighter_Talent_04_Desc_01": "Saat Lighter sedang tidak aktif, Energy Regen untuk karakter aktif akan meningkat sebesar 10%. Saat Lighter memasuki status <color=#FFFFFF>Morale Burst</color>, akan memulihkan 4 poin Energy untuk anggota tim yang tidak aktif. Efek ini dapat dipicu sekali setiap 18 detik.",
+                "Lighter_Talent_04_Title_Realign": "Sunglasses"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "Decision Maker",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Lighter_Talent_05_Desc_02": "\"Beri aku perintah, dan aku akan laksanakan. Simpel, kan?\"\nLighter membetulkan kacamata hitamnya dengan senyuman yang acuh tak acuh.\n\"Tapi intinya, jangan suruh aku yang kasih perintah.\"",
+                "Lighter_Talent_05_Title_Realign": "Decision Maker"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "Survivor",
+                "Lighter_Talent_06_Desc_01_Realign": "Efek pemulihan dari <color=#FFFFFF>Morale</color> Lighter meningkat hingga 200% nilai awalnya. Jika Lighter mengenai musuh dengan serangan kuat saat melancarkan <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color>, maka efek <color=#FFFFFF>Blazing Impact</color> akan terpicu, mengakibatkan 250% ATK sebagai <color=#FF5521>Fire DMG</color>. Efek ini dapat dipicu sekali setiap 8 detik terhadap setiap musuh.\nUntuk setiap 1 poin Impact Lighter yang lebih dari 170 poin, kelipatan dari <color=#FFFFFF>Blazing Impact</color> akan meningkat sebanyak 5% (maks. meningkat 500%). Saat mengonsumsi habis <color=#FFFFFF>Morale</color> ketika melancarkan tinju ringan atau kombo tinju jab, Lighter akan langsung melanjutkan serangannya dengan serangan terakhir yang kuat. Jika serangan terakhir ini mengenai musuh, maka CD efek akan terabaikan, dan <color=#FFFFFF>Blazing Impact</color> bisa dipicu sekali lagi.",
+                "Lighter_Talent_06_Desc_02": "Jika diberi kesempatan sekali lagi, dia pasti tidak akan memilih untuk menjadi satu-satunya yang selamat.\nNamun sayangnya, takdir adalah hal yang tidak bisa dipilih.",
+                "Lighter_Talent_06_Desc_01": "Efek pemulihan dari <color=#FFFFFF>Morale</color> Lighter meningkat hingga 200% nilai awalnya. Jika Lighter mengenai musuh dengan serangan kuat saat melancarkan <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge Counter</color>, <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color>, maka efek <color=#FFFFFF>Blazing Impact</color> akan terpicu, mengakibatkan 250% ATK sebagai <color=#FF5521>Fire DMG</color>. Efek ini dapat dipicu sekali setiap 8 detik terhadap setiap musuh.\nUntuk setiap 1 poin Impact Lighter yang lebih dari 170 poin, kelipatan dari <color=#FFFFFF>Blazing Impact</color> akan meningkat sebanyak 5% (maks. meningkat 500%). Saat mengonsumsi habis <color=#FFFFFF>Morale</color> ketika melancarkan tinju ringan atau kombo tinju jab, Lighter akan langsung melanjutkan serangannya dengan serangan terakhir yang kuat. Jika serangan terakhir ini mengenai musuh, maka CD efek akan terabaikan, dan <color=#FFFFFF>Blazing Impact</color> bisa dipicu sekali lagi.",
+                "Lighter_Talent_06_Title_Realign": "Survivor"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "Burnice",
+        "full_name": "Burnice White",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "Kindred Flames",
+                "Burnice_Talent_01_Desc_01_Realign": "Meningkatkan batas maksimum <color=#FFFFFF>Heat</color> dari 100 poin menjadi 140 poin. Saat memasuki pertempuran, Burnice akan mengakumulasi 40 poin <color=#FFFFFF>Heat</color> tambahan. Kelipatan DMG dari efek <color=#FFFFFF>Afterburn</color> meningkat senilai dengan 100% ATK Burnice.\n<color=#FF5521>Fire Anomaly Buildup</color> yang diakumulasi dari efek <color=#FFFFFF>Afterburn</color> meningkat 25%.",
+                "Burnice_Talent_01_Desc_02": "\"Semua orang juga punya masa sulit, wajar saja kok!\"\n\"Jangan sedih dong, Caesar! Gimana kalau minum segelas Nitro-Fuel? Aku sudah tambah banyak gula nih!\"",
+                "Burnice_Talent_01_Desc_01": "Meningkatkan batas maksimum <color=#FFFFFF>Heat</color> dari 100 poin menjadi 140 poin. Saat memasuki pertempuran, Burnice akan mengakumulasi 40 poin <color=#FFFFFF>Heat</color> tambahan. Kelipatan DMG dari efek <color=#FFFFFF>Afterburn</color> meningkat senilai dengan 100% ATK Burnice. <color=#FF5521>Fire Anomaly Buildup</color> yang diakumulasi dari efek <color=#FFFFFF>Afterburn</color> meningkat 25%.",
+                "Burnice_Talent_01_Title_Realign": "Kindred Flames"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "Extra at No Additional Charge",
+                "Burnice_Talent_02_Desc_01_Realign": "Saat memicu efek <color=#FFFFFF>Afterburn</color>, efek <color=#FFFFFF>Thermal Penetration</color> akan diberikan kepada musuh (maks. 5 lapis) selama 6 detik. Memicu ulang akan memperbarui durasi. Saat unit sekutu menyerang dan mengenai musuh, PEN Ratio dari serangan tersebut akan meningkat 4% untuk setiap lapis <color=#FFFFFF>Thermal Penetration</color> yang dimiliki target (maks. meningkat 20%).",
+                "Burnice_Talent_02_Desc_02": "Sebagai bartender di Sons of Calydon, Burnice selalu senang membantu semua temannya meracik Nitro-Fuel, minuman ternama di New Eridu.\nTentu saja, kalau kamu \"musuh\"-nya... kamu juga ada kesempatan untuk mencicipi rasa-rasa minuman yang baru.\n\"Ini minuman enak yang cuma bisa diminum sekali seumur hidup loh!\"",
+                "Burnice_Talent_02_Desc_01": "Saat memicu efek <color=#FFFFFF>Afterburn</color>, efek <color=#FFFFFF>Thermal Penetration</color> akan diberikan kepada musuh (maks. 5 lapis) selama 6 detik. Memicu ulang akan memperbarui durasi. Saat unit sekutu menyerang dan mengenai musuh, PEN Ratio dari serangan tersebut akan meningkat 4% untuk setiap lapis <color=#FFFFFF>Thermal Penetration</color> yang dimiliki target (maks. meningkat 20%).",
+                "Burnice_Talent_02_Title_Realign": "Extra at No Additional Charge"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "Optimistic by Nature",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Burnice_Talent_03_Desc_02": "\"Si Burnice itu, selalu saja penuh semangat! Baru bangun tidur saja bisa langsung jungkir balik! Entah dari mana dia dapat energi sebanyak itu...\"\n\"Yang lebih parahnya lagi, dia juga bisa tularkan semangatnya ke orang lain, jadi mereka ikutan semangat deh! Sudah kayak monster saja!\"\n\"Tapi... aku bukannya tidak suka juga sih...\"\n—Kutipan dari manajer Boar yang tidak ingin disebut namanya",
+                "Burnice_Talent_03_Title_Realign": "Optimistic by Nature"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "Ultimate Fuel Supply",
+                "Burnice_Talent_04_Desc_01_Realign": "Saat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Attack</color> mengenai musuh, CRIT Rate dari Skill tersebut akan meningkat 30%.\nDurasi maksimum semburan api dari <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> juga akan meningkat 1 detik.",
+                "Burnice_Talent_04_Desc_02": "\"Suka minuman yang aku racik? Makasih ya! Si Steeltusk juga suka loh~ Dia bahkan bisa minum 200 liter sekaligus!\"\n\"Oh, Steeltusk itu truk besar milik kami!\"\n\"Mau coba bahan bakar khususnya? Panasnya luar biasa loh~\"",
+                "Burnice_Talent_04_Desc_01": "Saat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Attack</color> mengenai musuh, CRIT Rate dari Skill tersebut akan meningkat 30%. Durasi maksimum semburan api dari <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> juga akan meningkat 1 detik.",
+                "Burnice_Talent_04_Title_Realign": "Ultimate Fuel Supply"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "Dance of Fire and Ice",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Burnice_Talent_05_Desc_02": "Saat meracik minuman, es juga salah satu elemen yang sangat penting.\nKarena kalau tidak ada rasa dingin yang nyelekit, rasa panas yang nyelekit juga tidak bisa terasa.\n\"Sensasi gabungan antara api dan es seperti ini~ benar-benar buat orang terbuai!\"",
+                "Burnice_Talent_05_Title_Realign": "Dance of Fire and Ice"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "Burning Invitation",
+                "Burnice_Talent_06_Desc_01_Realign": "Saat <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> mengenai musuh, Burnice akan memicu efek <color=#FFFFFF>Afterburn</color> khusus yang mengakibatkan <color=#FF5521>Fire DMG</color> senilai 60% ATK Burnice. Efek ini dapat dipicu sekali setiap 0,5 detik, dan tidak akan mengonsumsi <color=#FFFFFF>Heat</color>.\n\nSetelah melancarkan <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> dan mengenai musuh, efek <color=#FF5521>Burn</color> dan efek <color=#FFFFFF>Afterburn</color> khusus yang terpicu selama melancarkan <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> akan mengabaikan 25% <color=#FF5521>Ketahanan Fire DMG</color>.\n\nSaat ledakan api dari <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> mengenai musuh yang berada dalam status <color=#FF5521>Burn</color>, musuh akan menerima DMG <color=#FF5521>Burn</color> tambahan yang senilai dengan 1800% DMG awal. Efek ini dapat dipicu sekali setiap 20 detik untuk target yang sama.",
+                "Burnice_Talent_06_Desc_02": "Sepertinya tidak ada orang yang pernah melihat Burnice benar-benar marah.\n\"Percaya deh, kamu TIDAK mau melihatnya marah.\"\n—Kutipan dari seorang sopir Steeltusk yang sedang bersiap untuk tidur di atapnya",
+                "Burnice_Talent_06_Desc_01": "Saat <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> mengenai musuh, Burnice akan memicu efek <color=#FFFFFF>Afterburn</color> khusus yang mengakibatkan <color=#FF5521>Fire DMG</color> senilai 60% ATK Burnice. Efek ini dapat dipicu sekali setiap 0,5 detik, dan tidak akan mengonsumsi <color=#FFFFFF>Heat</color>. Setelah melancarkan <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> dan mengenai musuh, efek <color=#FF5521>Burn</color> dan efek <color=#FFFFFF>Afterburn</color> khusus yang terpicu selama melancarkan <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> akan mengabaikan 25% <color=#FF5521>Ketahanan Fire DMG</color>. Saat ledakan api dari <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color> mengenai musuh yang berada dalam status <color=#FF5521>Burn</color>, musuh akan menerima DMG <color=#FF5521>Burn</color> tambahan yang senilai dengan 1800% DMG awal. Efek ini dapat dipicu sekali setiap 20 detik untuk target yang sama.",
+                "Burnice_Talent_06_Title_Realign": "Burning Invitation"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "Piper",
+        "full_name": "Piper Wheel",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "Leisure Moment",
+                "Clara_Talent_01_Desc_01_Realign": "Saat putaran Slash dari <color=#FFFFFF>Special Attack: Tire Spin</color>, <color=#FFFFFF>EX Special Attack: Engine Spin</color>, atau <color=#FFFFFF>Ultimate</color> mengenai musuh, ada 50% peluang tambahan untuk mendapatkan 1 lapis <color=#FFFFFF>Power</color>. <color=#FFFFFF>Power</color> dapat ditumpuk hingga 30 lapis.",
+                "Clara_Talent_01_Desc_02": "Pada suatu pagi yang biasa di Sons of Calydon, Piper menguap dengan malas.\n\"Selamat pagi—\"\n\"Hari ini juga bisa santai, kan? Jaga kesehatan itu penting loh... Kalau tidak, bisa-bisa mati karena kelelahan.\"",
+                "Clara_Talent_01_Desc_01": "Saat putaran Slash dari <color=#FFFFFF>Special Attack: Tire Spin</color>, <color=#FFFFFF>EX Special Attack: Engine Spin</color>, atau <color=#FFFFFF>Ultimate</color> mengenai musuh, ada 50% peluang tambahan untuk mendapatkan 1 lapis <color=#FFFFFF>Power</color>. <color=#FFFFFF>Power</color> dapat ditumpuk hingga 30 lapis.",
+                "Clara_Talent_01_Title_Realign": "Leisure Moment"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "Motivation",
+                "Clara_Talent_02_Desc_01_Realign": "Selama melancarkan <color=#FFFFFF>Special Attack: Tire Spin</color> dan <color=#FFFFFF>EX Special Attack: Engine Spin</color>, kecepatan gerak Piper akan meningkat. Saat serangan ke bawah yang dilancarkan dari <color=#FFFFFF>Special Attack: One Trillion Tons</color>, <color=#FFFFFF>EX Special Attack: Really Heavy</color>, atau <color=#FFFFFF>Ultimate</color> mengenai musuh, <color=#F0D12B>Physical DMG</color> yang diakibatkan Skill ini meningkat 10%. Untuk setiap 1 lapis <color=#FFFFFF>Power</color> yang dimiliki, efek buff ini meningkat 1%.",
+                "Clara_Talent_02_Desc_02": "Tujuan kerja keras sesaat adalah untuk istirahat yang lebih lama.\nTentu saja, kalau tidak perlu kerja keras, ya lebih bagus sih— Piper meregangkan tubuhnya, menepuk-nepuk kasur empuk di dalam truk, dan berbaring.",
+                "Clara_Talent_02_Desc_01": "Selama melancarkan <color=#FFFFFF>Special Attack: Tire Spin</color> dan <color=#FFFFFF>EX Special Attack: Engine Spin</color>, kecepatan gerak Piper akan meningkat. Saat serangan ke bawah yang dilancarkan dari <color=#FFFFFF>Special Attack: One Trillion Tons</color>, <color=#FFFFFF>EX Special Attack: Really Heavy</color>, atau <color=#FFFFFF>Ultimate</color> mengenai musuh, <color=#F0D12B>Physical DMG</color> yang diakibatkan Skill ini meningkat 10%. Untuk setiap 1 lapis <color=#FFFFFF>Power</color> yang dimiliki, efek buff ini meningkat 1%.",
+                "Clara_Talent_02_Title_Realign": "Motivation"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "Truck Expert",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Clara_Talent_03_Desc_02": "Piper selalu tertarik dengan segala sesuatu yang berhubungan dengan truk.\nBahkan bila sedang tertidur lelap, gadis ini akan langsung bangun saat mendengar suara mesin menderu:\n\"100 daya kuda, muatan 5 ton, ini pasti... truk ringan model baru yang diluncurkan Three Gates!\"",
+                "Clara_Talent_03_Title_Realign": "Truck Expert"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "Refined Techniques",
+                "Clara_Talent_04_Desc_01_Realign": "Saat salah satu anggota tim mengakibatkan Attribute Anomaly terhadap musuh, Piper akan memulihkan 20 poin Energy. Efek ini dapat dipicu sekali setiap 30 detik.",
+                "Clara_Talent_04_Desc_02": "Menjadi penumpang dalam kendaraan yang dikendarai Piper adalah hal yang sangat memicu adrenalin.\nDia akan perlahan-lahan mengingatkan, \"Peegaaang eraaat-eraaa...\", namun sebelum kata \"erat\" selesai diucapkan, truknya pasti sudah melaju dengan kecepatan yang luar biasa.\nTentu saja, dia selalu bisa mengantarkanmu ke tujuan dengan selamat dalam waktu singkat. Hanya saja, mentalmu... tidak tentu selamat.",
+                "Clara_Talent_04_Desc_01": "Saat salah satu anggota tim mengakibatkan Attribute Anomaly terhadap musuh, Piper akan memulihkan 20 poin Energy. Efek ini dapat dipicu sekali setiap 30 detik.",
+                "Clara_Talent_04_Title_Realign": "Refined Techniques"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "Personal Hobbies",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Clara_Talent_05_Desc_02": "Piper tampaknya punya beberapa hobi pribadi yang tidak sesuai dengan penampilannya.\n\"Kuda ini kayaknya jago berlari... Hmm, tapi yang beli sedikit juga. Mungkin kuda yang lain lebih bagus ya...\"\n\"Hik... Nitro-Fuel... Aku tidak mabuk kok... Sini, satu gelas lagi!\"",
+                "Clara_Talent_05_Title_Realign": "Personal Hobbies"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "Mild Excitement",
+                "Clara_Talent_06_Desc_01_Realign": "Meningkatkan maksimum durasi <color=#FFFFFF>EX Special Attack: Engine Spin</color> selama 2 detik dan durasi <color=#FFFFFF>Power</color> selama 4 detik.",
+                "Clara_Talent_06_Desc_02": "Seperti yang kamu tahu, mimpi Piper adalah untuk hidup santai selamanya.\nTapi sekarang, mata gadis yang selalu terbuka setengah itu terlihat sangat bersemangat.\n\"Kalau untukmu... si satu ini juga akan lebih kerja keras deh~\"",
+                "Clara_Talent_06_Desc_01": "Meningkatkan maksimum durasi <color=#FFFFFF>EX Special Attack: Engine Spin</color> selama 2 detik dan durasi <color=#FFFFFF>Power</color> selama 4 detik.",
+                "Clara_Talent_06_Title_Realign": "Mild Excitement"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "Yanagi",
+        "full_name": "Tsukishiro Yanagi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "Know Thy Self, Know Thy Enemy",
+                "Yanagi_Talent_01_Desc_01_Realign": "Saat anggota tim mana pun mengakibatkan Attribute Anomaly terhadap musuh, Yanagi akan mendapatkan 1 lapis <color=#FFFFFF>Clarity</color> yang berlangsung selama 15 detik (maks. 3 lapis). Memicu ulang akan memperbarui durasi.\nSaat menerima serangan musuh, Yanagi akan mengonsumsi 1 lapis <color=#FFFFFF>Clarity</color> dan mendapatkan efek kebal selama 1 detik.\nSaat memiliki 1 lapis <color=#FFFFFF>Clarity</color> atau lebih, Anomaly Proficiency Yanagi akan meningkat 80 poin.",
+                "Yanagi_Talent_01_Desc_02": "\"Melihat jelas kelemahan musuh sama saja dengan mendapatkan keamanan tambahan... dan juga meningkatkan peluangmu untuk menang.\"\nYanagi membetulkan kacamatanya, dan tetap tenang seperti biasa, dengan kemenangan yang sudah pasti di tangannya.",
+                "Yanagi_Talent_01_Desc_01": "Saat anggota tim mana pun mengakibatkan Attribute Anomaly terhadap musuh, Yanagi akan mendapatkan 1 lapis <color=#FFFFFF>Clarity</color> yang berlangsung selama 15 detik (maks. 3 lapis). Memicu ulang akan memperbarui durasi. Saat menerima serangan musuh, Yanagi akan mengonsumsi 1 lapis <color=#FFFFFF>Clarity</color> dan mendapatkan efek kebal selama 1 detik. Saat memiliki 1 lapis <color=#FFFFFF>Clarity</color> atau lebih, Anomaly Proficiency Yanagi akan meningkat 80 poin.",
+                "Yanagi_Talent_01_Title_Realign": "Know Thy Self, Know Thy Enemy"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "Outstanding Adaptability",
+                "Yanagi_Talent_02_Desc_01_Realign": "Selama melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#2EB6FF>Electric Anomaly Buildup</color> yang diakibatkan dari serangan menusuk cepat akan meningkat 20%.\nSaat serangan menusuk cepat mengenai musuh, menahan tombol Special Attack akan mengonsumsi 10 Energy tambahan, dan membuat Yanagi melancarkan serangan menusuk sekali lagi. Jika Energy tidak cukup atau tombol dilepas, Yanagi akan langsung melancarkan ke bawah secara otomatis.\nJika serangan ke bawah ini mengenai musuh yang sedang berada dalam Attribute Anomaly dan memicu <color=#FFFFFF>Polarity Disorder</color>, kelipatan DMG yang diakibatkan terhadap target akan meningkat menjadi 20% dari DMG awal <color=#FFFFFF>Disorder</color>.\nUntuk setiap serangan menusuk tambahan, peningkatan kelipatan DMG ini akan meningkat sebesar 15% (maks. meningkat 2 kali).",
+                "Yanagi_Talent_02_Desc_02": "\"Yanagi mampu mengatasi situasi seaneh apa pun.\"\n\"Aku lebih percaya dia daripada diriku sendiri.\"\n— Dikutip dari seorang petarung yang sedang berlatih \"menebas semua dedaunan di depannya\"",
+                "Yanagi_Talent_02_Desc_01": "Selama melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#2EB6FF> Electric Anomaly Buildup</color> yang diakibatkan dari serangan menusuk cepat akan meningkat 20%.\nSaat serangan menusuk cepat mengenai musuh, menahan tombol Special Attack akan mengonsumsi 10 Energy tambahan, dan membuat Yanagi melancarkan serangan menusuk sekali lagi. Jika Energy tidak cukup atau tombol dilepas, Yanagi akan langsung melancarkan ke bawah secara otomatis. Jika serangan ke bawah ini mengenai musuh yang sedang berada dalam Attribute Anomaly dan memicu <color=#FFFFFF>Polarity Disorder</color>, kelipatan DMG yang diakibatkan terhadap target akan meningkat menjadi 20% dari DMG awal <color=#FFFFFF>Disorder</color>. Untuk setiap serangan menusuk tambahan, peningkatan kelipatan DMG ini akan meningkat sebesar 15% (maks. meningkat 2 kali).",
+                "Yanagi_Talent_02_Title_Realign": "Outstanding Adaptability"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "Tsukishiro Style Management",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Yanagi_Talent_03_Desc_02": "Banyak orang bilang bahwa Section 6 adalah kumpulan orang eksentrik dan genius, sedangkan satu-satunya orang \"normal\" di antara mereka adalah Tsukishiro Yanagi.\nTapi justru keberadaannya yang mempererat kumpulan para orang aneh dan genius.",
+                "Yanagi_Talent_03_Title_Realign": "Tsukishiro Style Management"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "Chessmaster",
+                "Yanagi_Talent_04_Desc_01_Realign": "Saat Yanagi mengakibatkan Attribute Anomaly DMG kepada musuh, musuh akan mendapatkan efek <color=#FFFFFF>Exposed</color> selama 15 detik. \nSaat melancarkan serangan dan mengenai musuh yang terkena efek <color=#FFFFFF>Exposed</color>, PEN Ratio dari serangan tersebut akan meningkat 16%.",
+                "Yanagi_Talent_04_Desc_02": "Tak peduli dalam situasi apa pun, Tsukishiro Yanagi dapat menyerap semua informasi yang tersedia dan membuat keputusan yang paling tepat.",
+                "Yanagi_Talent_04_Desc_01": "Saat Yanagi mengakibatkan Attribute Anomaly DMG kepada musuh, musuh akan mendapatkan efek <color=#FFFFFF>Exposed</color> selama 15 detik. Saat melancarkan serangan dan mengenai musuh yang terkena efek <color=#FFFFFF>Exposed</color>, PEN Ratio dari serangan tersebut akan meningkat 16%.",
+                "Yanagi_Talent_04_Title_Realign": "Chessmaster"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "\"Other Mother\"",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Yanagi_Talent_05_Desc_02": "Saat ini, Tsukishiro Yanagi adalah wali satu-satunya Soukaku.\n\"Soukaku, ini nasi kepal milik Ketua, tidak boleh dimakan ya... Sudahlah, sini, aku panaskan untukmu.\"\n\"Nanti kita beli lagi saja nasi kepalnya untuk Ketua.\"",
+                "Yanagi_Talent_05_Title_Realign": "\"Other Mother\""
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "Inhuman Blood",
+                "Yanagi_Talent_06_Desc_01_Realign": "Setelah melancarkan serangan menusuk dari <color=#FFFFFF>EX Special Attack</color>, durasi status <color=#FFFFFF>Shinrabanshou</color> akan diperpanjang menjadi 30 detik. Selama status ini berlangsung, DMG yang diakibatkan dari <color=#FFFFFF>EX Special Attack</color> akan meningkat 20%. \n\nUntuk Mindscape <color=#FFFFFF>Outstanding Adaptability</color>, batas maksimum peningkatan kelipatan DMG tambahan <color=#FFFFFF>Polarity Disorder</color> akan meningkat menjadi 4 kali, dan pengonsumsian Energy yang dibutuhkan untuk 4 serangan menusuk tambahan pertama akan berkurang setengah.",
+                "Yanagi_Talent_06_Desc_02": "Sebagian darah yang mengalir di nadi Tsukishiro Yanagi bukan miliknya.\nDarah ini memberinya kehidupan baru di tengah keputusasaannya, dan karena itu, dia sekarang memiliki kekuatan yang spesial.\n\"Tapi seperti yang kamu tahu, semua yang bukan milikmu... pasti ada harganya.\"",
+                "Yanagi_Talent_06_Desc_01": "Setelah melancarkan serangan menusuk dari <color=#FFFFFF>EX Special Attack</color>, durasi status <color=#FFFFFF>Shinrabanshou</color> akan diperpanjang menjadi 30 detik. Selama status ini berlangsung, DMG yang diakibatkan dari <color=#FFFFFF>EX Special Attack</color> akan meningkat 20%. Untuk Mindscape <color=#FFFFFF>Outstanding Adaptability</color>, batas maksimum peningkatan kelipatan DMG tambahan <color=#FFFFFF>Polarity Disorder</color> akan meningkat menjadi 4 kali, dan pengonsumsian Energy yang dibutuhkan untuk 4 serangan menusuk tambahan pertama akan berkurang setengah.",
+                "Yanagi_Talent_06_Title_Realign": "Inhuman Blood"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

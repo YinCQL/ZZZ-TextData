@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "Anby",
+        "full_name": "Anby Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "Chế Độ Nạp Nhanh",
+                "Anbi_Talent_01_Desc_01_Realign": "Khi đòn 4 <color=#FFFFFF>Tấn Công Thường</color> chém trúng kẻ địch, Hiệu Quả Nhận Năng Lượng của Anby tăng 12%, duy trì 30s.",
+                "Anbi_Talent_01_Desc_02": "\"Nạp nhanh một phút, chiến đấu nửa giờ!\"\nChuyên gia cài đặt mô đun tính năng mở rộng cho vũ khí đã đảm bảo như vậy...\nHiệu quả sử dụng cũng đúng như những lời quảng cáo của anh ấy.",
+                "Anbi_Talent_01_Desc_01": "Khi đòn 4 <color=#FFFFFF>Tấn Công Thường</color> chém trúng kẻ địch, Hiệu Quả Nhận Năng Lượng của Anby tăng 12%, duy trì 30s.",
+                "Anbi_Talent_01_Title_Realign": "Chế Độ Nạp Nhanh"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "Phóng Điện Chính Xác",
+                "Anbi_Talent_02_Desc_01_Realign": "Khi <color=#FFFFFF>Tấn Công Thường: Sét Đánh</color> đánh trúng kẻ địch ở trạng thái Choáng, sát thương do chiêu thức gây ra tăng 30%.\nKhi <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch chưa ở trạng thái Choáng, Điểm Choáng do chiêu thức gây ra tăng 10%.",
+                "Anbi_Talent_02_Desc_02": "\"Điện giật sẽ ngất xỉu.\"\nCô gái lạnh lùng nhìn kẻ địch đang ngất đi rồi nói thêm: \n\"Trong phim thường là vậy.\"",
+                "Anbi_Talent_02_Desc_01": "Khi <color=#FFFFFF>Tấn Công Thường: Sét Đánh</color> đánh trúng kẻ địch ở trạng thái Choáng, sát thương do chiêu thức gây ra tăng 30%.\nKhi <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch chưa ở trạng thái Choáng, Điểm Choáng do chiêu thức gây ra tăng 10%.",
+                "Anbi_Talent_02_Title_Realign": "Phóng Điện Chính Xác"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "Huấn Luyện Nghiêm Khắc",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Anbi_Talent_03_Desc_02": "Chạy, vung đao, di chuyển nhanh như chớp. Thiếu nữ không phải dân nghiệp dư thám hiểm Lỗ Hổng, mà là chuyên gia về lĩnh vực này.",
+                "Anbi_Talent_03_Title_Realign": "Huấn Luyện Nghiêm Khắc"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "Truyền Dẫn Điện Năng",
+                "Anbi_Talent_04_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> sẽ hồi 3 điểm Năng Lượng cho nhân vật dự bị thuộc tính Điện.\nMỗi khi Anby có 12% Hiệu Quả Nhận Năng Lượng, lượng hồi phục sẽ tăng thêm 2 điểm, tối đa tăng 6 điểm.",
+                "Anbi_Talent_04_Desc_02": "Đơn thân độc chiến không phải kế sách lâu dài, một Đạo Tặc Lỗ Hổng lão luyện còn phải biết tạo cơ hội cho đồng đội trong chiến đấu.",
+                "Anbi_Talent_04_Desc_01": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> sẽ hồi 3 điểm Năng Lượng cho nhân vật dự bị thuộc tính Điện. Mỗi khi Anby có 12% Hiệu Quả Nhận Năng Lượng, lượng hồi phục sẽ tăng thêm 2 điểm, tối đa tăng 6 điểm.",
+                "Anbi_Talent_04_Title_Realign": "Truyền Dẫn Điện Năng"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "Kinh Nghiệm Đường Phố",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Anbi_Talent_05_Desc_02": "Làm việc cho Nhà Thỏ Xảo Quyệt không chỉ cải thiện sức mạnh tinh thần mà còn (bị ép) cải thiện cả thể lực.",
+                "Anbi_Talent_05_Title_Realign": "Kinh Nghiệm Đường Phố"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "Điện Trường Năng Lượng",
+                "Anbi_Talent_06_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, Anby sẽ nhận 8 tầng Nạp Năng Lượng (giới hạn 8 tầng).\nKhi <color=#FFFFFF>Tấn Công Thường</color> hoặc <color=#FFFFFF>Tấn Công Lướt</color> đánh trúng kẻ địch, sẽ tiêu hao 1 tầng Nạp Năng Lượng, khiến sát thương chiêu thức hiện tại tăng 45%.",
+                "Anbi_Talent_06_Desc_02": "Ánh điện nhấp nháy trên ngón tay của cô gái.\nNgười thiếu nữ ngẩng đầu lên, đôi mắt ánh lên sự vững vàng vượt xa ngoại hình và độ tuổi của cô.\nCó lẽ một ngày nào đó cô ấy sẽ trở thành người thao túng tia chớp này.",
+                "Anbi_Talent_06_Desc_01": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, Anby sẽ nhận 8 tầng Nạp Năng Lượng (giới hạn 8 tầng).\nKhi <color=#FFFFFF>Tấn Công Thường</color> hoặc <color=#FFFFFF>Tấn Công Lướt</color> đánh trúng kẻ địch, sẽ tiêu hao 1 tầng Nạp Năng Lượng, khiến sát thương chiêu thức hiện tại tăng 45%.",
+                "Anbi_Talent_06_Title_Realign": "Điện Trường Năng Lượng"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "Nekomata",
+        "full_name": "Nekomiya Mana",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "Mẹo Bắt Chim",
+                "Tsubaki_Talent_01_Desc_01_Realign": "Khi tấn công sau lưng trúng kẻ địch, Nekomata sẽ bỏ qua 16% <color=#F0D12B>Kháng DMG Vật Lý</color> của mục tiêu.\nKhi kẻ địch ở trạng thái Choáng, tất cả tấn công Nekomata gây cho kẻ địch đều được xem là tấn công sau lưng.",
+                "Tsubaki_Talent_01_Desc_02": "Nekomata bé nhỏ không có ưu thế về sức vóc, thay vào đó là đôi mắt tinh anh bắt được điểm yếu của kẻ địch và khả năng tấn công nhanh chuẩn xác vào điểm yếu đó.",
+                "Tsubaki_Talent_01_Desc_01": "Khi tấn công sau lưng trúng kẻ địch, Nekomata sẽ bỏ qua 16% <color=#F0D12B>Kháng DMG Vật Lý</color> của mục tiêu. Khi kẻ địch ở trạng thái Choáng, tất cả tấn công Nekomata gây cho kẻ địch đều được xem là tấn công sau lưng.",
+                "Tsubaki_Talent_01_Title_Realign": "Mẹo Bắt Chim"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "Mèo Bắt Chuột",
+                "Tsubaki_Talent_02_Desc_01_Realign": "Khi trong trận chỉ có 1 kẻ địch và Nekomata đang trong sân, Hiệu Quả Nhận Năng Lượng của cô sẽ tăng 25%.",
+                "Tsubaki_Talent_02_Desc_02": "Loài mèo có vẻ rất thích vờn con mồi.\nKhi trong trận chỉ còn một con \"chuột\", đó chính là thời gian vui chơi của riêng cô ấy.",
+                "Tsubaki_Talent_02_Desc_01": "Khi trong trận chỉ có 1 kẻ địch và Nekomata đang trong sân, Hiệu Quả Nhận Năng Lượng của cô sẽ tăng 25%.",
+                "Tsubaki_Talent_02_Title_Realign": "Mèo Bắt Chuột"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "Đuôi Trái Tò Mò",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Tsubaki_Talent_03_Desc_02": "Trong truyền thuyết của nền văn minh cũ, một chiếc đuôi đại diện cho một mạng của mèo, trong đó chứa đựng trí tuệ tích trữ sau nhiều năm...\nĐây chỉ là lời đồn đại, nhưng kinh nghiệm sinh tồn đường phố của Nekomata là thật 100%.",
+                "Tsubaki_Talent_03_Title_Realign": "Đuôi Trái Tò Mò"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "Mài Móng",
+                "Tsubaki_Talent_04_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, Tỷ Lệ Bạo Kích của Nekomata tăng 7%.\nTối đa cộng dồn 2 tầng, duy trì 15s, mỗi tầng hiệu quả sẽ tính giờ riêng.",
+                "Tsubaki_Talent_04_Desc_02": "\"Thêm nữa, thêm nữa đi! Tôi tiêu hóa được hết mà!\"\nCô liếm liếm bàn chân, đôi mắt sáng quắc.",
+                "Tsubaki_Talent_04_Desc_01": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, Tỷ Lệ Bạo Kích của Nekomata tăng 7%, tối đa cộng dồn 2 tầng, duy trì 15s, mỗi tầng hiệu quả sẽ tính giờ riêng.",
+                "Tsubaki_Talent_04_Title_Realign": "Mài Móng"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "Đuôi Phải May Mắn",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Tsubaki_Talent_05_Desc_02": "Trong truyền thuyết của nền văn minh cũ, một chiếc đuôi đại diện cho một mạng của mèo, trong đó chứa đựng trí tuệ tích trữ sau nhiều năm...\nCó lúc Nekomata cũng tò mò, nếu mình tiếp tục may mắn sống sót, có phải sẽ mọc thêm đuôi không?",
+                "Tsubaki_Talent_05_Title_Realign": "Đuôi Phải May Mắn"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "Dòng Máu Thợ Săn",
+                "Tsubaki_Talent_06_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, DMG Bạo Kích của Nekomata tăng 18%, tối đa cộng dồn 3 tầng, khi thoát trạng thái tiếp chiến sẽ kết thúc hiệu quả buff. Khi Nekomata đánh bại kẻ địch, hiệu quả buff này sẽ trực tiếp cộng dồn đến số tầng tối đa.",
+                "Tsubaki_Talent_06_Desc_02": "\"Khi Người Mèo được củng cố về hành vi hung hăng, sẽ có thể kích hoạt khuynh hướng bạo lực tiềm ẩn trong tính cách của họ.\nMay là khuynh hướng này không có hiệu lực vĩnh viễn...\"\n— Trích từ \"Sổ Tay Nghiên Cứu Chưa Hoàn Chỉnh Về Người Mèo\"",
+                "Tsubaki_Talent_06_Desc_01": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, DMG Bạo Kích của Nekomata tăng 18%, tối đa cộng dồn 3 tầng, khi thoát trạng thái tiếp chiến sẽ kết thúc hiệu quả buff. Khi Nekomata đánh bại kẻ địch, hiệu quả buff này sẽ trực tiếp cộng dồn đến số tầng tối đa.",
+                "Tsubaki_Talent_06_Title_Realign": "Dòng Máu Thợ Săn"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "Nicole",
+        "full_name": "Nicole Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "Đạn Cường Hóa Tăng Áp",
+                "Nostradamus_Talent_01_Desc_01_Realign": "Sát thương của <color=#FFFFFF>Siêu Chiến Kỹ</color> và Chỉ Số Tích Lũy Dị Thường tăng 16%.\nKhi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, mỗi khi tụ lực thêm 0.1 giây, thời gian duy trì trường năng lượng sinh ra ở chỗ mục tiêu sẽ tăng 0.15s.",
+                "Nostradamus_Talent_01_Desc_02": "\"Mọi người đã được cường hóa rồi, mau xông lên!\"\n\"Cái gì, làm, làm gì nhân cơ hội chạy trốn chứ, tôi chỉ muốn nghỉ một chút thôi!\"",
+                "Nostradamus_Talent_01_Desc_01": "Sát thương của <color=#FFFFFF>Siêu Chiến Kỹ</color> và Chỉ Số Tích Lũy Dị Thường tăng 16%. Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, mỗi khi tụ lực thêm 0.1 giây, thời gian duy trì trường năng lượng sinh ra ở chỗ mục tiêu sẽ tăng 0.15s.",
+                "Nostradamus_Talent_01_Title_Realign": "Đạn Cường Hóa Tăng Áp"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "Thiết Bị Tụ Năng",
+                "Nostradamus_Talent_02_Desc_01_Realign": "Khi kích hoạt hiệu quả debuff của <color=#FFFFFF>Bị Động Cốt Lõi: Rương Cơ Quan</color>, Nicole hồi phục 5 điểm Năng Lượng, trong 15s tối đa kích hoạt một lần.",
+                "Nostradamus_Talent_02_Desc_02": "\"Đừng coi thường một giây tăng cường này!\"\n\"Có biết trong một giây, tôi có thể tạo ra bao nhiêu giá trị không? Đếm không hết luôn đấy!\"\n\"Cho nên tôi muốn thêm 10% trợ cấp, không quá đáng phải không?\"",
+                "Nostradamus_Talent_02_Desc_01": "Khi kích hoạt hiệu quả debuff của <color=#FFFFFF>Bị Động Cốt Lõi: Rương Cơ Quan</color>, Nicole hồi phục 5 điểm Năng Lượng, trong 15s tối đa kích hoạt một lần.",
+                "Nostradamus_Talent_02_Title_Realign": "Thiết Bị Tụ Năng"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "Trí Tuệ Thỏ Xảo Quyệt",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Nostradamus_Talent_03_Desc_02": "Vừa không có võ, lại không có tài nguyên hậu thuẫn, Nicole có thể vận hành Nhà Thỏ Xảo Quyệt đến hôm nay đều dựa vào đầu óc lanh lợi của cô.",
+                "Nostradamus_Talent_03_Title_Realign": "Trí Tuệ Thỏ Xảo Quyệt"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "Mở Rộng Địa Bàn",
+                "Nostradamus_Talent_04_Desc_01_Realign": "Khi Nicole phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color>, <color=#FFFFFF>Tuyệt Kỹ</color>, sẽ tăng phạm vi tấn công của trường năng lượng sinh ra ở chỗ mục tiêu, đường kính tăng 3m.",
+                "Nostradamus_Talent_04_Desc_02": "\"Nơi này, và cả nơi này nữa, sau này đều sẽ là địa bàn của Nhà Thỏ Xảo Quyệt, nghe rõ chưa!\"\n\"Hả, muốn hỏi sau bao lâu hả?\"\n\"Ừm... theo tình hình doanh thu của chúng ta, thì khoảng 10.000 năm nữa!\"",
+                "Nostradamus_Talent_04_Desc_01": "Khi Nicole phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color>, <color=#FFFFFF>Tuyệt Kỹ</color>, sẽ tăng phạm vi tấn công của trường năng lượng sinh ra ở chỗ mục tiêu, đường kính tăng 3m.",
+                "Nostradamus_Talent_04_Title_Realign": "Mở Rộng Địa Bàn"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "Ngôi Sao Ngành Nghề",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Nostradamus_Talent_05_Desc_02": "Mặc dù có nhiều kẻ thù trong ngành, nhưng Nicole đã nhiều lần dẫn dắt cấp dưới của mình sống sót trong những tình huống thập tử nhất sinh, từ đó danh tiếng và kinh nghiệm của Nhà Thỏ Xảo Quyệt ngày một tăng lên.",
+                "Nostradamus_Talent_05_Title_Realign": "Ngôi Sao Ngành Nghề"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "Trường Năng Lượng Ăn Mòn",
+                "Nostradamus_Talent_06_Desc_01_Realign": "Khi trường năng lượng gây sát thương cho kẻ địch, Tỷ Lệ Bạo Kích mà toàn đội gây ra cho mục tiêu này tăng 1.5%.\nTối đa dồn 10 tầng, duy trì 12s, mỗi tầng hiệu quả sẽ tính giờ riêng.",
+                "Nostradamus_Talent_06_Desc_02": "Lựa chọn đạn dược cao cấp hơn, thì lượng thuốc và hàm lượng vật chất Ether cô đặc cũng cao hơn, lợi hại hơn, thời gian duy trì dài hơn... giá cũng mắc hơn.",
+                "Nostradamus_Talent_06_Desc_01": "Khi trường năng lượng gây sát thương cho kẻ địch, Tỷ Lệ Bạo Kích mà toàn đội gây ra cho mục tiêu này tăng 1.5%, tối đa dồn 10 tầng, duy trì 12s, mỗi tầng hiệu quả sẽ tính giờ riêng.",
+                "Nostradamus_Talent_06_Title_Realign": "Trường Năng Lượng Ăn Mòn"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "Billy",
+        "full_name": "Billy Kid",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "Xuất Hiện Hoành Tráng",
+                "Billy_Talent_01_Desc_01_Realign": "Khi <color=#FFFFFF>Tấn Công Lướt</color> hoặc <color=#FFFFFF>Phản Kích Khi Né</color> trúng kẻ địch, Billy sẽ hồi phục thêm 2.7 điểm Năng Lượng, trong 5s tối đa kích hoạt một lần.",
+                "Billy_Talent_01_Desc_02": "\"Thân là phản diện, mà các người thật thà quá!\"\n\"Như là tấm bia cố định để làm nền cho nhân vật chính vậy!\"",
+                "Billy_Talent_01_Desc_01": "Khi <color=#FFFFFF>Tấn Công Lướt</color> hoặc <color=#FFFFFF>Phản Kích Khi Né</color> trúng kẻ địch, Billy sẽ hồi phục thêm 2.7 điểm Năng Lượng, trong 5s tối đa kích hoạt một lần.",
+                "Billy_Talent_01_Title_Realign": "Xuất Hiện Hoành Tráng"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "Xạ Thuật Rong Ruổi",
+                "Billy_Talent_02_Desc_01_Realign": "Sát thương gây ra từ <color=#FFFFFF>Phản Kích Khi Né</color> tăng 25%.\nLăn Bắn trong <color=#FFFFFF>Tấn Công Thường</color> sẽ được xem là động tác né, khi phát động chiêu thức sẽ nhận được hiệu quả Vô Địch, đồng thời có thể kích hoạt <color=#FFFFFF>Né Hoàn Hảo</color>.\nKhi Lăn Bắn kích hoạt <color=#FFFFFF>Né Hoàn Hảo</color>, sẽ tự động thực hiện ngay <color=#FFFFFF>Phản Kích Khi Né</color>.",
+                "Billy_Talent_02_Desc_02": "\"Kỵ Sĩ Ánh Sao sẽ không chạy trốn, mà là đánh du kích!\"\n— \"Monica Mơ Mộng\" để lại lời nhắn trong khu vực giao lưu của Ánh Sao Lấp Lánh.",
+                "Billy_Talent_02_Desc_01": "Sát thương gây ra từ <color=#FFFFFF>Phản Kích Khi Né</color> tăng 25%. Lăn Bắn trong <color=#FFFFFF>Tấn Công Thường</color> sẽ được xem là động tác né. Khi phát động chiêu thức sẽ nhận được hiệu quả Vô Địch, đồng thời có thể kích hoạt <color=#FFFFFF>Né Hoàn Hảo</color>. Khi Lăn Bắn kích hoạt <color=#FFFFFF>Né Hoàn Hảo</color>, sẽ tự động thực hiện ngay <color=#FFFFFF>Phản Kích Khi Né</color>.",
+                "Billy_Talent_02_Title_Realign": "Xạ Thuật Rong Ruổi"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "Hướng Dẫn Của Kỵ Sĩ Ánh Sao",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Billy_Talent_03_Desc_02": "Không bao giờ bỏ bê luyện tập, đây là triết lý của Kỵ Sĩ Ánh Sao. Billy tin tưởng và tuân thủ nó.",
+                "Billy_Talent_03_Title_Realign": "Hướng Dẫn Của Kỵ Sĩ Ánh Sao"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "Đạn Đạo Ánh Sao",
+                "Billy_Talent_04_Desc_01_Realign": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, Tỷ Lệ Bạo Kích của chiêu thức sẽ tăng theo khoảng cách giữa bản thân và mục tiêu.\nBilly và mục tiêu càng gần nhau thì hiệu quả tăng lên càng rõ rệt, tối đa tăng 32%.",
+                "Billy_Talent_04_Desc_02": "Viên đạn xuyên phá do Billy đặc chế, có uy lực cực mạnh khi cận chiến.\nNhưng ý định của Billy là khi bắn sẽ trông ngầu hơn.",
+                "Billy_Talent_04_Desc_01": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, Tỷ Lệ Bạo Kích của chiêu thức sẽ tăng theo khoảng cách giữa bản thân và mục tiêu, Billy và mục tiêu càng gần nhau thì hiệu quả tăng lên càng rõ rệt, tối đa tăng 32%.",
+                "Billy_Talent_04_Title_Realign": "Đạn Đạo Ánh Sao"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "Cấu Trúc Công Nghệ Bị Mất",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Billy_Talent_05_Desc_02": "Các linh kiện thần bí và kết cấu độc đáo đã khiến Billy vượt xa khỏi đồng loại... và chi phí bảo dưỡng cũng vậy.",
+                "Billy_Talent_05_Title_Realign": "Cấu Trúc Công Nghệ Bị Mất"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "Anh Hùng Ánh Sao",
+                "Billy_Talent_06_Desc_01_Realign": "Khi tích lũy đánh trúng kẻ địch 10 lần hoặc kích hoạt <color=#FFFFFF>Né Hoàn Hảo</color>, sát thương Billy gây ra tăng 6%.\nTối đa cộng dồn 5 tầng, khi bị kẻ địch đánh lui hoặc đánh bay sẽ tái lập hiệu quả.",
+                "Billy_Talent_06_Desc_02": "\"Phù... Tốt lắm! Anby tránh ra, đây là sân khấu của tôi!\"\n\"Yo, Anby, phát bản nhạc đầu phim Kỵ Sĩ Ánh Sao cho tôi được không?\"\n— \"Mười Câu Cấm Kỵ\" của Nhà Thỏ Xảo Quyệt, đề án của Anby.",
+                "Billy_Talent_06_Desc_01": "Khi tích lũy đánh trúng kẻ địch 10 lần hoặc kích hoạt <color=#FFFFFF>Né Hoàn Hảo</color>, sát thương Billy gây ra tăng 6%, tối đa cộng dồn 5 tầng, khi bị kẻ địch đánh lui hoặc đánh bay sẽ tái lập hiệu quả.",
+                "Billy_Talent_06_Title_Realign": "Anh Hùng Ánh Sao"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "Koleda",
+        "full_name": "Koleda Belobog",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "Tiết Tấu Cú Đập",
+                "OokumaMari_Talent_01_Desc_01_Realign": "Ngay sau <color=#FFFFFF>Tấn Công Thường</color> đòn 2 hay 4, hoặc <color=#FFFFFF>Tấn Công Thường</color> cường hóa, nhanh chóng phát động <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, Điểm Choáng do chiêu thức gây ra tăng 15%.",
+                "OokumaMari_Talent_01_Desc_02": "Tính tình nóng nảy chỉ là biểu hiện bên ngoài, thực ra Koleda là một người rất tinh tế. Chẳng hạn như cô ấy biết lúc nào vung búa sẽ có thể đánh đau hơn.",
+                "OokumaMari_Talent_01_Desc_01": "Ngay sau <color=#FFFFFF>Tấn Công Thường</color> đòn 2 hay 4, hoặc <color=#FFFFFF>Tấn Công Thường</color> cường hóa, nhanh chóng phát động <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, Điểm Choáng do chiêu thức gây ra tăng 15%.",
+                "OokumaMari_Talent_01_Title_Realign": "Tiết Tấu Cú Đập"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "Thu Hồi Động Năng",
+                "OokumaMari_Talent_02_Desc_01_Realign": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, Koleda hồi 60 điểm Năng Lượng, trong 45s tối đa kích hoạt một lần.",
+                "OokumaMari_Talent_02_Desc_02": "Đối với Koleda, cú đập hoàn hảo sẽ có tiết tấu riêng.\nGiống như tăng tốc đánh trống, mỗi một cú đánh đều tụ lực cho nhịp tiếp theo sẽ mạnh mẽ hơn.\nĐương nhiên, món \"đồ chơi\" trước mặt có thể chịu nổi mấy cú thì khó nói đây.",
+                "OokumaMari_Talent_02_Desc_01": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, Koleda hồi 60 điểm Năng Lượng, trong 45s tối đa kích hoạt một lần.",
+                "OokumaMari_Talent_02_Title_Realign": "Thu Hồi Động Năng"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "\"Đừng Đụng Tôi!\"",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "OokumaMari_Talent_03_Desc_02": "Là một món \"đồ chơi\" đủ chuẩn, khi Koleda dần tìm được cảm giác quen tay khi vung búa...\nTốt nhất đừng nên sinh sự làm chi cho thêm phiền phức, chỉ cần ngoan ngoãn chịu đánh là được.\n— Dù sao thì phản kháng cũng có tác dụng gì đâu?",
+                "OokumaMari_Talent_03_Title_Realign": "\"Đừng Đụng Tôi!\""
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "Dư Nhiệt Lò Nung",
+                "OokumaMari_Talent_04_Desc_01_Realign": "Khi tiêu hao <color=#FFFFFF>Lò Nung Thiêu Đốt</color> phát động <color=#FFFFFF>Tấn Công Thường</color> cường hóa, Koleda sẽ nhận 1 tầng Nạp Năng Lượng (giới hạn 2 tầng).\nKhi <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, sẽ tiêu hao tất cả tầng Nạp Năng Lượng, mỗi tầng sẽ tăng 18% sát thương do chiêu thức hiện tại gây ra.",
+                "OokumaMari_Talent_04_Desc_02": "Sau khi vung búa làm nóng nhiệt độ xung quanh, Koleda sẽ vào trạng thái tác chiến.\nGiờ đây, cô ấy càng dễ cháy dễ nổ hơn cả thuốc nổ Ether.",
+                "OokumaMari_Talent_04_Desc_01": "Khi tiêu hao <color=#FFFFFF>Lò Nung Thiêu Đốt</color> phát động <color=#FFFFFF>Tấn Công Thường</color> cường hóa, Koleda sẽ nhận 1 tầng Nạp Năng Lượng (giới hạn 2 tầng). Khi <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, sẽ tiêu hao tất cả tầng Nạp Năng Lượng, mỗi tầng sẽ tăng 18% sát thương do chiêu thức hiện tại gây ra.",
+                "OokumaMari_Talent_04_Title_Realign": "Dư Nhiệt Lò Nung"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "\"Dám Coi Thường Ta?\"",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "OokumaMari_Talent_05_Desc_02": "Koleda cực kỳ để tâm về chuyện một thủ lĩnh trẻ tuổi như mình sẽ khiến người ngoài coi thường Công Nghiệp Nặng Belobog. Để bù đắp chuyện này, cô ấy đã âm thầm cố gắng rèn luyện.",
+                "OokumaMari_Talent_05_Title_Realign": "\"Dám Coi Thường Ta?\""
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "Vụ Nổ Bão Hòa",
+                "OokumaMari_Talent_06_Desc_01_Realign": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> gây nổ trúng kẻ địch, sẽ gây thêm sát thương bằng với 360% tấn công của Koleda.",
+                "OokumaMari_Talent_06_Desc_02": "Trong mắt Koleda, người đáng ghét chia làm hai dạng:\nNgu ngốc và ngu ngốc hết thuốc chữa.\nMay mắn là, Công Nghiệp Nặng Belobog xưa nay không thiếu thuốc nổ Ether mạnh mẽ. Phần nào dư sẽ được dùng cho lũ ngốc này.",
+                "OokumaMari_Talent_06_Desc_01": "Trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, gây nổ trúng kẻ địch, sẽ gây thêm sát thương bằng với 360% tấn công của Koleda.",
+                "OokumaMari_Talent_06_Title_Realign": "Vụ Nổ Bão Hòa"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "Anton",
+        "full_name": "Anton Ivanov",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "Khởi Động Tập Luyện",
+                "Anton_Talent_01_Desc_01_Realign": "Khi <color=#FFFFFF>Mũi Khoan Điện</color> đánh trúng kẻ địch, sẽ hồi thêm Năng Lượng. Trong cùng một chiêu thức, hiệu quả này tối đa hồi 5 điểm Năng Lượng cho Anton.",
+                "Anton_Talent_01_Desc_02": "\"Dậy chưa? Xoay lên nào, người anh em!\"\n\"Theo kịp nhịp điệu, giờ là lúc tập thể dục buổi sáng!\"",
+                "Anton_Talent_01_Desc_01": "Khi <color=#FFFFFF>Mũi Khoan Điện</color> đánh trúng kẻ địch, sẽ hồi thêm Năng Lượng. Trong cùng một chiêu thức, hiệu quả này tối đa hồi 5 điểm Năng Lượng cho Anton.",
+                "Anton_Talent_01_Title_Realign": "Khởi Động Tập Luyện"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "Khí Thế Hùng Hồn",
+                "Anton_Talent_02_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> vào <color=#FFFFFF>Trạng Thái Nộ</color>, nhận được Khiên bằng với 7.5% giới hạn HP của Anton. Trong <color=#FFFFFF>Trạng Thái Nộ</color>, khi vào trạng thái tiếp chiến hoặc đổi vào sân, sẽ tạo mới hiệu quả Khiên, trong 15s tối đa kích hoạt một lần.\nKhi thoát <color=#FFFFFF>Trạng Thái Nộ</color> sẽ kết thúc hiệu quả Khiên.",
+                "Anton_Talent_02_Desc_02": "Qua thời gian dài tập luyện gian khổ, có một số ít người may mắn sẽ bùng nổ ra tư thế tuyệt vời trong lúc vận động cường độ cao, phát huy năng lực siêu hạn của bản thân, thường được gọi là \"Lĩnh Vực\".\nBây giờ, bạn đã chuẩn bị sẵn sàng cùng bước vào \"Lĩnh Vực\" chưa?\n— Tiết mục độc quyền của Nitro-Fuel, \"Chào Buổi Sáng, Các Nhân Viên Nhiệt Huyết!\"",
+                "Anton_Talent_02_Desc_01": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> vào <color=#FFFFFF>Trạng Thái Nộ</color>, nhận được Khiên bằng với 7.5% giới hạn HP của Anton. Trong <color=#FFFFFF>Trạng Thái Nộ</color>, khi vào trạng thái tiếp chiến hoặc đổi vào sân, sẽ tạo mới hiệu quả Khiên, trong 15s tối đa kích hoạt một lần, khi thoát <color=#FFFFFF>Trạng Thái Nộ</color> sẽ kết thúc hiệu quả Khiên.",
+                "Anton_Talent_02_Title_Realign": "Khí Thế Hùng Hồn"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "Huấn Luyện Luân Chuyển",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Anton_Talent_03_Desc_02": "Chuyện gì cũng chỉ biết một chút chỉ có thể gọi là tầm thường, nhưng trong Lỗ Hổng tình hình phức tạp thì có thêm một kỹ năng sẽ có thêm cơ hội đột phá hiểm cảnh.",
+                "Anton_Talent_03_Title_Realign": "Huấn Luyện Luân Chuyển"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "Cùng cháy lên nào!",
+                "Anton_Talent_04_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, Tỷ Lệ Bạo Kích của toàn đội tăng 10%, duy trì 12s.",
+                "Anton_Talent_04_Desc_02": "\"Hãy nhớ đến cảm giác khi tập luyện hàng ngày, cùng chuyển động nào!\"\nKhi Anton bắt đầu nghiêm túc, thì động tác của mọi người cùng sẽ nhanh nhẹn theo.\nDù sao thì, nếu không theo kịp nhịp điệu của anh, thì buổi tập sáng mai sẽ phải một mình tăng cường tập luyện thêm đấy.",
+                "Anton_Talent_04_Desc_01": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, Tỷ Lệ Bạo Kích của toàn đội tăng 10%, duy trì 12s.",
+                "Anton_Talent_04_Title_Realign": "Cùng Cháy Lên Nào!"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "Chuyên Gia Toàn Năng",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Anton_Talent_05_Desc_02": "Chuyện gì cũng chỉ biết một chút chỉ có thể gọi là tầm thường, nhưng nếu bạn đủ kiên định, thì sẽ từ \"biết một chút\" thành \"rất giỏi\", vậy là bạn sẽ toàn năng!",
+                "Anton_Talent_05_Title_Realign": "Chuyên Gia Toàn Năng"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "Đột Phá Cực Hạn",
+                "Anton_Talent_06_Desc_01_Realign": "Khi <color=#FFFFFF>Tấn Công Gia Cố</color> gây bạo kích, sát thương do <color=#FFFFFF>Tấn Công Thường: Nhiệt Huyết Dâng Trào (Trạng Thái Nộ)</color> và <color=#FFFFFF>Phản Kích Khi Né: Quá Tải Xuyên Kích (Trạng Thái Nộ)</color> gây ra sẽ tăng 4%, tối đa dồn 6 tầng, duy trì 30s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì.",
+                "Anton_Talent_06_Desc_02": "\"Ồ, người anh em! Cũng muốn cháy lên sao!\"\nMỗi khi Anton muốn đột phá cực hạn, \"Người anh em\" cũng sẽ bùng nổ tốc độ xoay chuyển cực nhanh để có thể hưởng ứng ý chí của anh ấy.",
+                "Anton_Talent_06_Desc_01": "Khi <color=#FFFFFF>Tấn Công Gia Cố</color> gây bạo kích, sát thương do <color=#FFFFFF>Tấn Công Thường: Nhiệt Huyết Dâng Trào (Trạng Thái Nộ)</color> và <color=#FFFFFF>Phản Kích Khi Né: Quá Tải Xuyên Kích (Trạng Thái Nộ)</color> gây ra sẽ tăng 4%, tối đa dồn 6 tầng, duy trì 30s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì.",
+                "Anton_Talent_06_Title_Realign": "Đột Phá Cực Hạn"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "Ben",
+        "full_name": "Ben Bigger",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "Lực Phản Tác Dụng",
+                "Ben_Talent_01_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, thành công chống đỡ tấn công của kẻ địch, sát thương do kẻ tấn công gây ra giảm 30%, duy trì 15s.",
+                "Ben_Talent_01_Desc_02": "\"Tác dụng của lực là tác động qua lại, tại sao còn phải xông thẳng trực diện?\"\n\"Xem ra ngươi chưa tính toán kỹ rồi\"",
+                "Ben_Talent_01_Desc_01": "Khi phát động <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, thành công chống đỡ tấn công của kẻ địch, sát thương do kẻ tấn công gây ra giảm 30%, duy trì 15s.",
+                "Ben_Talent_01_Title_Realign": "Lực Phản Tác Dụng"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "Lấy Thủ Làm Công",
+                "Ben_Talent_02_Desc_01_Realign": "Trong <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, khi thành công kích hoạt Chống Đỡ Phản Kích, sẽ tạo thêm sát thương bằng 300% Phòng Thủ của Ben.",
+                "Ben_Talent_02_Desc_02": "Không như những người thú khác, Ben trong lúc chiến đấu cực kỳ kiên nhẫn. Vì anh ấy tin rằng, chỉ cần phòng thủ tốt, nhất định sẽ chờ được đến lúc kẻ địch lộ sơ hở.",
+                "Ben_Talent_02_Desc_01": "Trong <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, khi thành công kích hoạt Chống Đỡ Phản Kích, sẽ tạo thêm sát thương bằng 300% Phòng Thủ của Ben.",
+                "Ben_Talent_02_Title_Realign": "Lấy Thủ Làm Công"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "Tính Toán Kỹ Lưỡng",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Ben_Talent_03_Desc_02": "Làm người phụ trách tài vụ thì bắt buộc phải học được cách tính toán kỹ lưỡng, dùng mọi tài nguyên có thể dùng để cường hóa mọi người và bản thân.",
+                "Ben_Talent_03_Title_Realign": "Tính Toán Kỹ Lưỡng"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "Linh Hoạt Ứng Biến",
+                "Ben_Talent_04_Desc_01_Realign": "Trong <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, khi thành công chống đỡ tấn công bằng hiệu quả Vô Địch, sát thương do phản kích sau đó gây ra sẽ tăng 30%.",
+                "Ben_Talent_04_Desc_02": "Với bản năng nghề nghiệp của một kế toán,\nBen sẽ luôn dựa theo tình hình và động thái để điều chỉnh đối sách của mình.\nBất luận là sổ sách hay là kẻ địch, thì đều phải dùng số vốn nhỏ nhất để đạt được hiệu quả tốt nhất.",
+                "Ben_Talent_04_Desc_01": "Trong <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, khi thành công chống đỡ tấn công bằng hiệu quả Vô Địch, sát thương do phản kích sau đó gây ra sẽ tăng 30%.",
+                "Ben_Talent_04_Title_Realign": "Linh Hoạt Ứng Biến"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "Chi Li Tỉ Mỉ",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Ben_Talent_05_Desc_02": "Ánh mắt nhạy bén của Ben sẽ không bỏ qua bất cứ lỗi sai nào trong báo cáo, đồng thời cũng không bỏ qua bất cứ lỗi sai nào của bản thân trong chiến đấu, dần mạnh mẽ hơn trong quá trình sửa sai.",
+                "Ben_Talent_05_Title_Realign": "Chi Li Tỉ Mỉ"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "Ý Chí Hoang Dã",
+                "Ben_Talent_06_Desc_01_Realign": "Trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, sau khi phát động tấn công hoặc thêm đòn đánh mạnh, Điểm Choáng do <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Tấn Công Lướt</color>, <color=#FFFFFF>Phản Kích Khi Né</color> gây ra tăng 20%, duy trì 12s.",
+                "Ben_Talent_06_Desc_02": "Người Gấu khác với Người Khuyển. Không thể nào dùng thức ăn để xoa dịu tâm trạng kích động của họ.\nKhi họ nổi giận, điều duy nhất bạn có thể làm chính là chạy nhanh chút, xa chút...\n— Sách ngừng bán \"Làm Một Hàng Xóm Tốt! 100 Mẹo Sinh Sống Với Người Thú\"",
+                "Ben_Talent_06_Desc_01": "Trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, sau khi phát động tấn công hoặc thêm đòn đánh mạnh, Điểm Choáng do <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Tấn Công Lướt</color>, <color=#FFFFFF>Phản Kích Khi Né</color> gây ra tăng 20%, duy trì 12s.",
+                "Ben_Talent_06_Title_Realign": "Ý Chí Hoang Dã"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "Grace",
+        "full_name": "Grace Howard",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "Buồng Đạn Nạp Tiếp",
+                "Lisa_Talent_01_Desc_01_Realign": "Mỗi khi <color=#FFFFFF>Tấn Công Thường</color> đòn thứ 4 đánh trúng kẻ địch, toàn đội hồi phục 0.25 điểm Năng Lượng.\nCùng một chiêu thức, hiệu quả này tối đa hồi phục cho toàn đội 2 điểm Năng Lượng.",
+                "Lisa_Talent_01_Desc_02": "Hiệu suất là sinh mệnh của khoa học công trình. Và nhịp đập của nó đang vang vọng trong họng súng của Grace.",
+                "Lisa_Talent_01_Desc_01": "Mỗi khi <color=#FFFFFF>Tấn Công Thường</color> đòn thứ 4 đánh trúng kẻ địch, toàn đội hồi phục 0.25 điểm Năng Lượng.\nCùng một chiêu thức, hiệu quả này tối đa hồi phục cho toàn đội 2 điểm Năng Lượng.",
+                "Lisa_Talent_01_Title_Realign": "Buồng Đạn Nạp Tiếp"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "Điện Năng Xuyên Phá",
+                "Lisa_Talent_02_Desc_01_Realign": "Khi ném lựu đạn trong các chiêu thức như <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Siêu Chiến Kỹ</color> trúng kẻ địch, <color=#2EB6FF>Kháng DMG Điện</color> của mục tiêu giảm 8.5%, <color=#2EB6FF>Kháng Tích Lũy Dị Thường Điện</color> giảm 8.5%, duy trì 8s.",
+                "Lisa_Talent_02_Desc_02": "\"Mổ xẻ\" các cấu trúc cơ khí phức tạp là sở thích lớn nhất của Grace, ngay cả khi đang trong trận chiến.\nĐối tượng bị mổ xẻ sẽ có cảm giác thế nào? Khi mọi sơ hở của chúng đều bị phơi bày?",
+                "Lisa_Talent_02_Desc_01": "Khi ném lựu đạn trong các chiêu thức như <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Siêu Chiến Kỹ</color> trúng kẻ địch, <color=#2EB6FF>Kháng DMG Điện</color> của mục tiêu giảm 8.5%, <color=#2EB6FF>Kháng Tích Lũy Dị Thường Điện</color> giảm 8.5%, duy trì 8s.",
+                "Lisa_Talent_02_Title_Realign": "Điện Năng Xuyên Phá"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "Kỹ Sư Trưởng",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Lisa_Talent_03_Desc_02": "Grace đã đích thân biên tập \"Chỉ Dẫn An Toàn Công Nghiệp Nặng Belobog\", nhưng đồng thời cũng là người vi phạm quy định \"Cấm mang theo vật liệu nổ nguy hiểm đến công trường\" nhiều lần nhất.",
+                "Lisa_Talent_03_Title_Realign": "Kỹ Sư Trưởng"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "Điện Dung Phát Nổ",
+                "Lisa_Talent_04_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, Grace nhận được 6 tầng Nạp Năng Lượng (tối đa 6 tầng).\nKhi <color=#FFFFFF>Tấn Công Thường</color> hoặc <color=#FFFFFF>Tấn Công Lướt</color> đánh trúng kẻ địch sẽ tiêu hao 1 tầng Nạp Năng Lượng, tăng 20% Hiệu Quả Nhận Năng Lượng của chiêu thức hiện tại.",
+                "Lisa_Talent_04_Desc_02": "Anton nghi ngờ rằng, trong những phụ tùng được Grace gọi là \"mô đun tái chế xung điện\", thực chất có một chú hamster Ether liên tục phát điện bất kể ngày đêm.\n\"Có thể lắp cho người anh em của tôi một bộ không?\"",
+                "Lisa_Talent_04_Desc_01": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, Grace nhận được 6 tầng Nạp Năng Lượng (tối đa 6 tầng).\nKhi <color=#FFFFFF>Tấn Công Thường</color> hoặc <color=#FFFFFF>Tấn Công Lướt</color> đánh trúng kẻ địch sẽ tiêu hao 1 tầng Nạp Năng Lượng, tăng 20% Hiệu Quả Nhận Năng Lượng của chiêu thức hiện tại.",
+                "Lisa_Talent_04_Title_Realign": "Điện Dung Phát Nổ"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "\"Phù Thủy Sắt Lạnh Lùng\"",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Lisa_Talent_05_Desc_02": "\"Phù Thủy Sắt Lạnh Lùng\" có thể thuần phục bất kỳ tạo vật cơ khí nào, ít nhất những người hâm mộ nặc danh của cái tên này nghĩ vậy.",
+                "Lisa_Talent_05_Title_Realign": "\"Phù Thủy Sắt Lạnh Lùng\""
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "Kíp Kích Nổ",
+                "Lisa_Talent_06_Desc_01_Realign": "Khi tiêu hao tất cả <color=#FFFFFF>Điện Năng</color> phát động <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, có thể cường hóa hiệu quả chiêu thức, ném thêm một quả lựu đạn, và khiến sát thương của mỗi quả lựu đạn gây ra tăng đến 200% so với ban đầu.",
+                "Lisa_Talent_06_Desc_02": "Nhiệt độ máu trung bình của nhân viên Công Nghiệp Nặng Belobog là 98 độ C, trong khi Grace luôn được coi là van làm mát trước khi sôi. Một khi Grace từ bỏ kiểm soát, mọi người đều rõ, đó là lúc cần phải bịt tai lại.",
+                "Lisa_Talent_06_Desc_01": "Khi tiêu hao tất cả <color=#FFFFFF>Điện Năng</color> phát động <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color>, có thể cường hóa hiệu quả chiêu thức, ném thêm một quả lựu đạn, và khiến sát thương của mỗi quả lựu đạn gây ra tăng đến 200% so với ban đầu.",
+                "Lisa_Talent_06_Title_Realign": "Kíp Kích Nổ"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "Corin",
+        "full_name": "Corin Wickes",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "Vết Thương Hở",
+                "Corin_Talent_01_Desc_01_Realign": "Khi <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, sát thương do Corin gây ra cho mục tiêu tăng 12%, duy trì 15s.",
+                "Corin_Talent_01_Desc_02": "\"Đại tiểu thư nói, khi làm việc phải tập trung, không được để bị xung quanh làm ảnh hưởng.\"\n\"Corin đã tập luyện rất lâu, cuối cùng cũng làm được rồi!\"\n\"Nhưng mà... đại tiểu thư, cô có nhìn thấy không...\"",
+                "Corin_Talent_01_Desc_01": "Khi <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, sát thương do Corin gây ra cho mục tiêu tăng 12%, duy trì 15s.",
+                "Corin_Talent_01_Title_Realign": "Vết Thương Hở"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "Hiệu Ứng Phân Giải",
+                "Corin_Talent_02_Desc_01_Realign": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, <color=#F0D12B>Kháng DMG Vật Lý</color> của mục tiêu giảm 0.5%.\nTối đa cộng dồn 20 tầng, duy trì 5s, hiệu quả mỗi tầng tính giờ riêng.",
+                "Corin_Talent_02_Desc_02": "\"Xin lỗi quý ngài hoặc quý cô Ethereal nhé!\"\n\"Nhưng Corin cần phải hoàn thành nhiệm vụ... Thật sự xin lỗi!\"\nThiếu nữ vừa chân thành vừa hối hận mà xin lỗi quái vật... trong khi vung cưa điện để tiêu diệt chúng.",
+                "Corin_Talent_02_Desc_01": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, <color=#F0D12B>Kháng DMG Vật Lý</color> của mục tiêu giảm 0.5%, tối đa cộng dồn 20 tầng, duy trì 5s, hiệu quả mỗi tầng tính giờ riêng.",
+                "Corin_Talent_02_Title_Realign": "Hiệu Ứng Phân Giải"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "Nữ Hầu Sơ Cấp",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Corin_Talent_03_Desc_02": "\"Để trở thành một nữ hầu giỏi, Corin sẽ cố gắng!\"\n— Corin vừa cầm cưa vừa nói với Ethereal",
+                "Corin_Talent_03_Title_Realign": "Nữ Hầu Sơ Cấp"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "Phục Vụ Chiến Trường",
+                "Corin_Talent_04_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Hỗ Trợ Nhanh</color>, <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color> hoặc <color=#FFFFFF>Liên Kích</color>, Corin hồi 7.2 điểm Năng Lượng, trong 16s tối đa kích hoạt một lần.",
+                "Corin_Talent_04_Desc_02": "Là một cô hầu gái trẻ siêng năng và nghiêm túc, Corin luôn đặt cả trái tim và tâm hồn vào mọi việc mình làm.\nĐương nhiên là bao gồm cả việc tiêu diệt kẻ địch.",
+                "Corin_Talent_04_Desc_01": "Khi phát động <color=#FFFFFF>Hỗ Trợ Nhanh</color>, <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color> hoặc <color=#FFFFFF>Liên Kích</color>, Corin hồi 7.2 điểm Năng Lượng, trong 16s tối đa kích hoạt một lần.",
+                "Corin_Talent_04_Title_Realign": "Phục Vụ Chiến Trường"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "Nữ Hầu Siêng Năng",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Corin_Talent_05_Desc_02": "\"Xin lỗi... Corin vụng về, không thể cắt đều được mọi thứ...\"\n— Đó là những gì Corin nói khi nhìn xuống những mảnh Ethereal rải rác trên mặt đất.",
+                "Corin_Talent_05_Title_Realign": "Nữ Hầu Siêng Năng"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "Phát Huy Tích Lũy",
+                "Corin_Talent_06_Desc_01_Realign": "Khi liên tục chém trúng kẻ địch, Corin nhận được 1 tầng Nạp Năng Lượng (tối đa 40 tầng).\nTrong <color=#FFFFFF>Phản Kích Khi Né</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Hỗ Trợ Nhanh</color>, <color=#FFFFFF>Đột Kích Chi Viện</color>, khi dẫn nổ Cưa Điện trúng kẻ địch sẽ tiêu hao tất cả tầng Nạp Năng Lượng, mỗi tầng sẽ khiến lần tấn công này gây thêm sát thương bằng 3% tấn công của Corin.",
+                "Corin_Talent_06_Desc_02": "Corin biết bản thân không phải là nữ hầu lợi hại nhất, cũng không phải là nữ hầu thông minh nhất.\nNhưng cô ấy hy vọng có thể trở thành nữ hầu nỗ lực nhất.\nMỗi một phần nỗ lực trong quá khứ đều sẽ có ý nghĩa.",
+                "Corin_Talent_06_Desc_01": "Khi liên tục chém trúng kẻ địch, Corin nhận được 1 tầng Nạp Năng Lượng (tối đa 40 tầng). Trong <color=#FFFFFF>Phản Kích Khi Né</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Hỗ Trợ Nhanh</color>, <color=#FFFFFF>Đột Kích Chi Viện</color>, khi dẫn nổ Cưa Điện trúng kẻ địch sẽ tiêu hao tất cả tầng Nạp Năng Lượng, mỗi tầng sẽ khiến lần tấn công này gây thêm sát thương bằng 3% tấn công của Corin.",
+                "Corin_Talent_06_Title_Realign": "Phát Huy Tích Lũy"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "Lycaon",
+        "full_name": "Von Lycaon",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "Xung Kích Trăng Tròn",
+                "Lycaon_Talent_01_Desc_01_Realign": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, Điểm Choáng do chiêu thức gây ra tăng 12%, trong 8s tối đa kích hoạt một lần.\nKhi hoàn thành tụ lực trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, hiệu quả buff này tăng thêm 10%.",
+                "Lycaon_Talent_01_Desc_02": "Theo ghi chép, bản tính hung hăng của người sói trong đêm trăng sáng sẽ tăng lên đáng kể.\n\"Đừng nhìn thẳng vào mặt trăng.\"",
+                "Lycaon_Talent_01_Desc_01": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, Điểm Choáng do chiêu thức gây ra tăng 12%, trong 8s tối đa kích hoạt một lần. Khi hoàn thành tụ lực trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, hiệu quả buff này tăng thêm 10%.",
+                "Lycaon_Talent_01_Title_Realign": "Xung Kích Trăng Tròn"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "Hoàn Trả Năng Lượng",
+                "Lycaon_Talent_02_Desc_01_Realign": "Khi làm Choáng kẻ địch hoặc kích hoạt <color=#FFFFFF>Liên Kích</color> của đồng đội, Lycaon hồi phục 5 điểm Năng Lượng, trong 1s tối đa kích hoạt một lần.",
+                "Lycaon_Talent_02_Desc_02": "\"Đối với động vật họ chó, khi hoàn thành một nhiệm vụ khó khăn nào đó, não bộ sẽ sản sinh cảm giác hưng phấn, nhanh chóng gia tăng sức mạnh tinh thần.\"\n\"Với tư cách là chủ nhân, lúc này bạn có thể xoa đầu, tỏ vẻ khích lệ, đối phương sẽ cảm thấy rất vui...\"\n— Trích từ \"Sổ Tay Nghiên Cứu Động Vật Họ Chó Không Đáng Tin Cậy\"",
+                "Lycaon_Talent_02_Desc_01": "Khi làm Choáng kẻ địch hoặc kích hoạt <color=#FFFFFF>Liên Kích</color> của đồng đội, Lycaon hồi phục 5 điểm Năng Lượng, trong 1s tối đa kích hoạt một lần.",
+                "Lycaon_Talent_02_Title_Realign": "Hoàn Trả Năng Lượng"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "Đào Tạo Quản Sự",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Lycaon_Talent_03_Desc_02": "Mọi cử chỉ của anh luôn đầy vẻ điềm tĩnh, lời nói và hành động khiến người khác cảm giác như làn gió xuân. Việc đào tạo quản sự sẽ khiến mọi thứ đều trong tầm kiểm soát.",
+                "Lycaon_Talent_03_Title_Realign": "Đào Tạo Quản Sự"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "Giữ Vững Phong Độ",
+                "Lycaon_Talent_04_Desc_01_Realign": "Khi bị kẻ địch tấn công trong thời gian phát động <color=#FFFFFF>Tấn Công Thường</color> hoặc <color=#FFFFFF>Chiến Kỹ</color>, Lycaon lập tức nhận được Khiên tương đương 7.5% giới hạn HP của bản thân, duy trì 15s, trong thời gian Khiên duy trì sẽ tăng cấp Kháng Gián Đoạn, trong 15s tối đa kích hoạt một lần.",
+                "Lycaon_Talent_04_Desc_02": "\"Quản sự xuất sắc, có thể duy trì phong độ trong bất kỳ hoàn cảnh nào.\"",
+                "Lycaon_Talent_04_Desc_01": "Khi bị kẻ địch tấn công trong thời gian phát động <color=#FFFFFF>Tấn Công Thường</color> hoặc <color=#FFFFFF>Chiến Kỹ</color>, Lycaon lập tức nhận được Khiên tương đương 7.5% giới hạn HP của bản thân, duy trì 15s.\nTrong thời gian Khiên duy trì sẽ tăng cấp Kháng Gián Đoạn, trong 15s tối đa kích hoạt một lần.",
+                "Lycaon_Talent_04_Title_Realign": "Giữ Vững Phong Độ"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "Bản Sắc Đầu Đàn",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Lycaon_Talent_05_Desc_02": "Trong mắt anh ẩn chứa sự hoang dã, trong cổ họng vang vọng tiếng hú. Dù hiện tại có tao nhã đến đâu, thì bên dưới lớp trang phục lịch lãm, trông anh vẫn rất hung hãn.",
+                "Lycaon_Talent_05_Title_Realign": "Bản Sắc Đầu Đàn"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "Thợ Săn Lạnh Lùng",
+                "Lycaon_Talent_06_Desc_01_Realign": "Khi tụ lực tấn công đánh trúng kẻ địch, sát thương Lycaon gây ra cho mục tiêu sẽ tăng 10%, tối đa dồn 5 tầng, duy trì 12s. Cùng một chiêu thức tối đa chỉ cộng dồn 1 tầng hiệu quả, khi kích hoạt trùng lặp sẽ làm mới thời gian duy trì.",
+                "Lycaon_Talent_06_Desc_02": "\"Xin lỗi, dù vậy, tôi cũng sẽ không nương tay đâu.\"\n\"Xét cho cùng, Lỗ Hổng cũng không phải nơi cần chiến đấu công bằng.\"",
+                "Lycaon_Talent_06_Desc_01": "Khi tụ lực tấn công đánh trúng kẻ địch, sát thương Lycaon gây ra cho mục tiêu sẽ tăng 10%, tối đa dồn 5 tầng, duy trì 12s. Cùng một chiêu thức tối đa chỉ cộng dồn 1 tầng hiệu quả, khi kích hoạt trùng lặp sẽ làm mới thời gian duy trì.",
+                "Lycaon_Talent_06_Title_Realign": "Thợ Săn Lạnh Lùng"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "Ellen",
+        "full_name": "Ellen Joe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "Dấu Hiệu Mùa Đông",
+                "Ellen_Talent_01_Desc_01_Realign": "Khi phát động Kéo Cắt Nhanh trong <color=#FFFFFF>Tấn Công Lướt: Tập Kích Vực Băng</color> đánh trúng kẻ địch, <color=#FFFFFF>Sạc Cấp Đông</color> nhận được sẽ tăng đến 3 điểm.\nKhi phát động Tụ Lực Kéo Cắt trong <color=#FFFFFF>Tấn Công Lướt: Tập Kích Vực Băng</color> đánh trúng kẻ địch, <color=#FFFFFF>Sạc Cấp Đông</color> nhận được tăng đến 6 điểm.\nCứ tiêu hao 1 điểm <color=#FFFFFF>Sạc Cấp Đông</color>, Tỷ Lệ Bạo Kích của Ellen tăng 2%, duy trì 15s.\nTối đa dồn 6 tầng, mỗi tầng hiệu quả sẽ tính riêng thời gian duy trì.",
+                "Ellen_Talent_01_Desc_02": "Gió lạnh là sự báo hiệu mùa đông đã đến, cũng là tín hiệu Ellen xin nghỉ đông.\nMà nói chứ, cá mập cần ngủ đông thật hả?",
+                "Ellen_Talent_01_Desc_01": "Khi phát động Kéo Cắt Nhanh trong <color=#FFFFFF>Tấn Công Lướt: Tập Kích Vực Băng</color> đánh trúng kẻ địch, <color=#FFFFFF>Sạc Cấp Đông</color> nhận được sẽ tăng đến 3 điểm. Khi phát động Tụ Lực Kéo Cắt trong <color=#FFFFFF>Tấn Công Lướt: Tập Kích Vực Băng</color> đánh trúng kẻ địch, <color=#FFFFFF>Sạc Cấp Đông</color> nhận được tăng đến 6 điểm. Cứ tiêu hao 1 điểm <color=#FFFFFF>Sạc Cấp Đông</color>, Tỷ Lệ Bạo Kích của Ellen tăng 2%, duy trì 15s, tối đa dồn 6 tầng, mỗi tầng hiệu quả sẽ tính riêng thời gian duy trì.",
+                "Ellen_Talent_01_Title_Realign": "Dấu Hiệu Mùa Đông"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "Kẻ Săn Mồi Biển Băng",
+                "Ellen_Talent_02_Desc_01_Realign": "Sau khi phát động <color=#FFFFFF>Tấn Công Thường: Nhát Cắt Cấp Đông</color> đòn thứ 3, có thể trực tiếp phát động ngay <color=#FFFFFF>Siêu Chiến Kỹ: Lốc Cá Mập</color>.\nKhi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, cứ có 1 điểm <color=#FFFFFF>Sạc Cấp Đông</color>, DMG Bạo Kích do chiêu thức hiện tại gây ra tăng 20%, tối đa tăng 60%.",
+                "Ellen_Talent_02_Desc_02": "Tuy bị nhuộm màu đỏ tươi, nhưng chiếc kéo khổng lồ của Ellen không hề có chút hơi ấm. Cái lạnh thấu xương đó đến từ vũ khí sắt thép, và cũng đến từ nỗi khiếp sợ khi đối mặt với kẻ săn mồi.",
+                "Ellen_Talent_02_Desc_01": "Sau khi phát động <color=#FFFFFF>Tấn Công Thường: Nhát Cắt Cấp Đông</color> đòn thứ 3, có thể trực tiếp phát động ngay <color=#FFFFFF>Siêu Chiến Kỹ: Lốc Cá Mập</color>. Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, cứ có 1 điểm <color=#FFFFFF>Sạc Cấp Đông</color>, DMG Bạo Kích do chiêu thức hiện tại gây ra tăng 20%, tối đa tăng 60%.",
+                "Ellen_Talent_02_Title_Realign": "Kẻ Săn Mồi Biển Băng"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "Quyết Không Tăng Ca",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Ellen_Talent_03_Desc_02": "Ý nghĩa của \"hiệu suất\" chính là hôm nay có thể về nhà ngủ sớm.\nVì vậy phải chém nhanh hơn, xuất chiêu mạnh hơn.",
+                "Ellen_Talent_03_Title_Realign": "Quyết Không Tăng Ca"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "Sóng Băng Bất Tận",
+                "Ellen_Talent_04_Desc_01_Realign": "Khi nhân vật bất kỳ trong đội thi triển hiệu quả <color=#98EFF0>Đóng Băng</color> lên kẻ địch hoặc làm Choáng kẻ địch, bản thân sẽ nhận được 6 điểm <color=#FFFFFF>Sạc Cấp Đông</color> và hiệu quả <color=#FFFFFF>Tụ Nhanh</color>, đồng thời hồi phục 4 điểm Năng Lượng. Hiệu quả hồi Năng Lượng trong 10s tối đa kích hoạt một lần.",
+                "Ellen_Talent_04_Desc_02": "Thế đánh lạnh lùng không hồi kết,\nNhững tạo vật đáng sợ được lĩnh hội vẻ đẹp và sự tàn khốc của mùa đông dưới lưỡi kéo của Ellen.\nNhưng mà để mà so thì, công việc bất tận không ngày nghỉ lễ của nữ hầu kể ra còn tàn khốc hơn nhiều...",
+                "Ellen_Talent_04_Desc_01": "Khi nhân vật bất kỳ trong đội thi triển hiệu quả <color=#98EFF0>Đóng Băng</color> lên kẻ địch hoặc làm Choáng kẻ địch, bản thân sẽ nhận được 6 điểm <color=#FFFFFF>Sạc Cấp Đông</color> và hiệu quả <color=#FFFFFF>Tụ Nhanh</color>, đồng thời hồi phục 4 điểm Năng Lượng. Hiệu quả hồi Năng Lượng trong 10s tối đa kích hoạt một lần.",
+                "Ellen_Talent_04_Title_Realign": "Sóng Băng Bất Tận"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "Ngủ Đủ Giấc",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Ellen_Talent_05_Desc_02": "Ngoại trừ những lúc chiến đấu cực kỳ gian nan, thì Ellen lúc nào cũng với bộ dạng như thể \"nếu không phải đang làm việc là tôi đã lăn ra ngủ say ngay lập tức rồi\".\nBiết bao kẻ địch đã phải toi đời vì tưởng bở mà lơ là cảnh giác.",
+                "Ellen_Talent_05_Title_Realign": "Ngủ Đủ Giấc"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "Thời Khắc Yến Tiệc",
+                "Ellen_Talent_06_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc nhận được <color=#FFFFFF>Tụ Nhanh</color>, Tỷ Lệ Xuyên Giáp của Ellen tăng 20%, duy trì 6s, đồng thời nhận được 1 tầng <color=#FFFFFF>Yến Tiệc</color>, <color=#FFFFFF>Yến Tiệc</color> tối đa dồn 3 tầng.\nSau khi có 3 tầng <color=#FFFFFF>Yến Tiệc</color>, khi phát động Tụ Lực Kéo Cắt trong <color=#FFFFFF>Tấn Công Lướt: Tập Kích Vực Băng</color> đánh trúng kẻ địch, sẽ tiêu hao tất cả <color=#FFFFFF>Yến Tiệc</color>, khiến sát thương do chiêu thức hiện tại gây ra tăng 250%.",
+                "Ellen_Talent_06_Desc_02": "Một vết thương, một giọt máu, một chuyến đi săn, một bữa tiệc. Một cuộc đời mong manh, một thời khắc mãn nguyện.",
+                "Ellen_Talent_06_Desc_01": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc nhận được <color=#FFFFFF>Tụ Nhanh</color>, Tỷ Lệ Xuyên Giáp của Ellen tăng 20%, duy trì 6s, đồng thời nhận được 1 tầng <color=#FFFFFF>Yến Tiệc</color>, <color=#FFFFFF>Yến Tiệc</color> tối đa dồn 3 tầng. Sau khi có 3 tầng <color=#FFFFFF>Yến Tiệc</color>, khi phát động Tụ Lực Kéo Cắt trong <color=#FFFFFF>Tấn Công Lướt: Tập Kích Vực Băng</color> đánh trúng kẻ địch, sẽ tiêu hao tất cả <color=#FFFFFF>Yến Tiệc</color>, khiến sát thương do chiêu thức hiện tại gây ra tăng 250%.",
+                "Ellen_Talent_06_Title_Realign": "Thời Khắc Yến Tiệc"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "Rina",
+        "full_name": "Alexandrina Sebastiane",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "Cặp Đôi Khiêu Vũ",
+                "Rina_Talent_01_Desc_01_Realign": "Sau khi được phái đi và phát động tấn công, trước khi trở về với Rina thì Drusilla và Anastella sẽ ở lại vị trí ban đầu thêm 5.5s.\nNhân vật trong phạm vi 10m gần Drusilla hoặc Anastella thì hiệu quả buff nhận từ <color=#FFFFFF>Bị Động Cốt Lõi: Đồng Đội Hủy Diệt Mini</color> sẽ tăng đến 130% của giá trị ban đầu.",
+                "Rina_Talent_01_Desc_02": "\"Làm không xong là phải ăn đấm!\" Drusilla luôn khích lệ mọi người như thế.\n\"Ăn đấm ăn đấm!\" Anastella thì cứ hùa theo như vậy.",
+                "Rina_Talent_01_Desc_01": "Sau khi được phái đi và phát động tấn công, trước khi trở về với Rina thì Drusilla và Anastella sẽ ở lại vị trí ban đầu thêm 5.5s. Nhân vật trong phạm vi 10m gần Drusilla hoặc Anastella thì hiệu quả buff nhận từ <color=#FFFFFF>Bị Động Cốt Lõi: Đồng Đội Hủy Diệt Mini</color> sẽ tăng đến 130% của giá trị ban đầu.",
+                "Rina_Talent_01_Title_Realign": "Cặp Đôi Khiêu Vũ"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "Chủ Nhân Gương Mẫu",
+                "Rina_Talent_02_Desc_01_Realign": "Khi vào trạng thái tiếp chiến hoặc đổi vào sân, sát thương do Rina gây ra tăng 15%, duy trì 12s, trong 18s tối đa kích hoạt một lần.",
+                "Rina_Talent_02_Desc_02": "\"Chỉ có nữ hầu trưởng tài giỏi mới có thể dẫn dắt nữ hầu tài giỏi, \nChỉ có chủ nhân gương mẫu mới có thể nuôi dưỡng Bangboo điển hình.\"\n— Rina đã nói như vậy trên \"Diễn Đàn Chia Sẻ Bí Quyết Quản Lý Nhân Lực Và Nuôi Dưỡng Bangboo Của Nội Trợ Victoria\"",
+                "Rina_Talent_02_Desc_01": "Khi vào trạng thái tiếp chiến hoặc đổi vào sân, sát thương do Rina gây ra tăng 15%, duy trì 12s, trong 18s tối đa kích hoạt một lần.",
+                "Rina_Talent_02_Title_Realign": "Chủ Nhân Gương Mẫu"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "Sở Trường Của Nữ Hầu Trưởng",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Rina_Talent_03_Desc_02": "Rina luôn tự tin sẽ làm tốt mọi việc và có bản lĩnh hủy diệt tất cả mọi thứ.\nCòn về chuyện hủy diệt tâm trạng tốt của kẻ địch, thì lòng tin và năng lực của cô ấy là như nhau.",
+                "Rina_Talent_03_Title_Realign": "Sở Trường Của Nữ Hầu Trưởng"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "Kim Và Búa",
+                "Rina_Talent_04_Desc_01_Realign": "Khi Drusilla và Anastella đều được phái đi, tốc độ Tự Hồi Năng Lượng của Rina tăng 0.5 điểm/s.\nKhi Drusilla hoặc Anastella trở về cạnh Rina, hiệu quả buff tương ứng sẽ kết thúc.",
+                "Rina_Talent_04_Desc_02": "Drusilla và Anastella chưa từng thống nhất bất kỳ ý kiến nào. \nTrừ việc \"Đánh cái tên ngốc trước mặt\".",
+                "Rina_Talent_04_Desc_01": "Khi Drusilla và Anastella đều được phái đi, tốc độ Tự Hồi Năng Lượng của Rina tăng 0.5 điểm/s. Khi Drusilla hoặc Anastella trở về cạnh Rina, hiệu quả buff tương ứng sẽ kết thúc.",
+                "Rina_Talent_04_Title_Realign": "Kim Và Búa"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "Nữ Hầu Trưởng Chủ Nghĩa Hoàn Mỹ",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Rina_Talent_05_Desc_02": "\"Trong ngôn ngữ của Bangboo, \"Rina\" mang ý nghĩa hoàn mỹ.\"\nChủ nghĩa hoàn mỹ là nguyên tắc hàng đầu trong sổ tay nhân viên của Nội Trợ Victoria.\nVà đối với đánh giá \"hoàn mỹ\", Rina có chuẩn mực riêng của mình.",
+                "Rina_Talent_05_Title_Realign": "Nữ Hầu Trưởng Chủ Nghĩa Hoàn Mỹ"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "Đêm Mưa Bão Kinh Hồn",
+                "Rina_Talent_06_Desc_01_Realign": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, <color=#2EB6FF>DMG Điện</color> do toàn đội gây ra tăng 15%, duy trì 8s.",
+                "Rina_Talent_06_Desc_02": "Lâu đài cổ trong đêm mưa, tiếng sấm vang dội. Hành lang thăm thẳm, bóng dáng ghê rợn.\nTia lửa điện quá tải, bộ phim kinh dị bắt đầu.",
+                "Rina_Talent_06_Desc_01": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, <color=#2EB6FF>DMG Điện</color> do toàn đội gây ra tăng 15%, duy trì 8s.",
+                "Rina_Talent_06_Title_Realign": "Đêm Mưa Bão Kinh Hồn"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "Chiến Binh 11",
+        "full_name": "Chiến Binh 11",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "Tăng Nhiệt Nhanh",
+                "Longinus_Talent_01_Desc_01_Realign": "Khi vào trạng thái tiếp chiến hoặc được đổi vào sân, nếu Năng Lượng của Chiến Binh 11 không đủ 40 điểm, sẽ hồi ngay đến 80 điểm, trong 50s tối đa kích hoạt một lần.",
+                "Longinus_Talent_01_Desc_02": "Huấn luyện thực chiến cường độ cao trong thời gian dài giúp Chiến Binh 11 nắm được việc điều hòa trạng thái của bản thân.\nCô ấy sẽ dốc hết sức, bảo đảm mình giữ được trạng thái tốt nhất để ứng phó với mỗi trận đấu.",
+                "Longinus_Talent_01_Desc_01": "Khi vào trạng thái tiếp chiến hoặc được đổi vào sân, nếu Năng Lượng của Chiến Binh 11 không đủ 40 điểm, sẽ hồi ngay đến 80 điểm, trong 50s tối đa kích hoạt một lần.",
+                "Longinus_Talent_01_Title_Realign": "Tăng Nhiệt Nhanh"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "Hội Tụ Thiêu Đốt",
+                "Longinus_Talent_02_Desc_01_Realign": "Khi kích hoạt <color=#FFFFFF>Trấn Áp Hỏa Lực</color>, sát thương do <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Tấn Công Lướt</color>, <color=#FFFFFF>Phản Kích Khi Né</color> gây ra tăng 3%.\nTối đa cộng dồn 12 tầng, duy trì 15s, mỗi tầng hiệu quả sẽ tính riêng thời gian duy trì.",
+                "Longinus_Talent_02_Desc_02": "\"Tuy cô ấy trông vừa lạnh lùng vừa cứng nhắc như một khối băng...\"\n\"Nhưng thực tế bên trong lại bùng cháy nóng rực như ngọn lửa.\"\n —Từ một quân nhân nặc danh của Doanh Trại Obsidian",
+                "Longinus_Talent_02_Desc_01": "Khi kích hoạt <color=#FFFFFF>Trấn Áp Hỏa Lực</color>, sát thương do <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Tấn Công Lướt</color>, <color=#FFFFFF>Phản Kích Khi Né</color> gây ra tăng 3%, tối đa cộng dồn 12 tầng, duy trì 15s, mỗi tầng hiệu quả sẽ tính riêng thời gian duy trì.",
+                "Longinus_Talent_02_Title_Realign": "Hội Tụ Thiêu Đốt"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "Người Lính Tinh Nhuệ",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Longinus_Talent_03_Desc_02": "Cho dù là huấn luyện hay thực chiến, Chiến Binh 11 đều áp đặt tiêu chuẩn cao nhất lên bản thân, đó là cách cô ấy duy trì sức chiến đấu cao nhất của mình.",
+                "Longinus_Talent_03_Title_Realign": "Người Lính Tinh Nhuệ"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "Mặc Sức Thiêu Đốt",
+                "Longinus_Talent_04_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Tấn Công Thường</color> đòn 1, 2, 3 hoặc <color=#FFFFFF>Tấn Công Lướt</color>, nếu kích hoạt <color=#FFFFFF>Trấn Áp Hỏa Lực</color>, thì trong thời gian phát động chiêu thức sẽ tăng cấp Kháng Gián Đoạn, giảm 18% sát thương phải chịu.\nKhi phát động <color=#FFFFFF>Tấn Công Thường</color> đòn 4, nếu kích hoạt <color=#FFFFFF>Trấn Áp Hỏa Lực</color>, sẽ nhận được hiệu quả Vô Địch trong thời gian phát động chiêu thức.",
+                "Longinus_Talent_04_Desc_02": "Cô ấy rất hâm mộ lửa.\nVà ngọn lửa rực cháy này cũng luôn giúp đỡ cô ấy.",
+                "Longinus_Talent_04_Desc_01": "Khi phát động <color=#FFFFFF>Tấn Công Thường</color> đòn 1, 2, 3 hoặc <color=#FFFFFF>Tấn Công Lướt</color>, nếu kích hoạt <color=#FFFFFF>Trấn Áp Hỏa Lực</color>, thì trong thời gian phát động chiêu thức sẽ tăng cấp Kháng Gián Đoạn, giảm 18% sát thương phải chịu.\nKhi phát động <color=#FFFFFF>Tấn Công Thường</color> đòn 4, nếu kích hoạt <color=#FFFFFF>Trấn Áp Hỏa Lực</color>, sẽ nhận được hiệu quả Vô Địch trong thời gian phát động chiêu thức.",
+                "Longinus_Talent_04_Title_Realign": "Mặc Sức Thiêu Đốt"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "Người Lính Hoàn Hảo",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Longinus_Talent_05_Desc_02": "Con đường từ ưu tú trở thành gương mẫu còn dài và khó khăn nhưng Chiến Binh 11 vẫn nghiến răng kiên trì, như thể có điều gì đó thúc đẩy cô hướng tới mục tiêu trở thành một người lính hoàn hảo.",
+                "Longinus_Talent_05_Title_Realign": "Người Lính Hoàn Hảo"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "Dòng Chảy Thiêu Đốt",
+                "Longinus_Talent_06_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, Chiến Binh 11 nhận 8 tầng Nạp Năng Lượng (giới hạn 8 tầng).\nNếu kích hoạt <color=#FFFFFF>Trấn Áp Hỏa Lực</color>, sẽ tiêu hao 1 tầng Nạp Năng Lượng, khiến chiêu thức hiện tại bỏ qua 25% <color=#FF5521>Kháng DMG Hỏa</color> của mục tiêu.",
+                "Longinus_Talent_06_Desc_02": "Ngọn lửa của thanh kiếm lan tỏa nhiệt lượng. Động tác của cô ngày càng cuồng nhiệt, như thể hơi nóng đó thấm vào tâm hồn cô theo từng hơi thở, đốt cháy suy nghĩ của cô.",
+                "Longinus_Talent_06_Desc_01": "Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, Chiến Binh 11 nhận 8 tầng Nạp Năng Lượng (giới hạn 8 tầng). Nếu kích hoạt <color=#FFFFFF>Trấn Áp Hỏa Lực</color>, sẽ tiêu hao 1 tầng Nạp Năng Lượng, khiến chiêu thức hiện tại bỏ qua 25% <color=#FF5521>Kháng DMG Hỏa</color> của mục tiêu.",
+                "Longinus_Talent_06_Title_Realign": "Dòng Chảy Thiêu Đốt"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "Zhu Yuan",
+        "full_name": "Zhu Yuan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "Nhanh Chóng Nạp Đạn",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "Khi Zhu Yuan phát động <color=#FFFFFF>Liên Kích</color>/<color=#FFFFFF>Tuyệt Kỹ</color>, sẽ nhận được hiệu quả <color=#FFFFFF>Nhanh Chóng Nạp Đạn</color>.\nKhi Zhu Yuan có hiệu quả <color=#FFFFFF>Nhanh Chóng Nạp Đạn</color>, sau khi tiêu hao hết <color=#FFFFFF>Đạn Cường Hóa</color>, sẽ tiêu hao hiệu quả <color=#FFFFFF>Nhanh Chóng Nạp Đạn</color>, lập tức nhận được 6/9 viên <color=#FFFFFF>Đạn Cường Hóa</color>.",
+                "ZhuYuan_Talent_01_Desc_02": "Zhu Yuan từng tham gia cuộc so tài năng lực giữa các nhân viên trị an của Khu Janus, và dựa vào kỹ thuật lắp đạn nhanh như ảo thuật mà giành được giải nhất.\nĐồng nghiệp đã đưa ra đánh giá về điều này: Chẳng có lý do gì khác, trăm hay không bằng tay quen thôi.",
+                "ZhuYuan_Talent_01_Desc_01": "Khi Zhu Yuan phát động <color=#FFFFFF>Liên Kích</color>/<color=#FFFFFF>Tuyệt Kỹ</color>, sẽ nhận được hiệu quả <color=#FFFFFF>Nhanh Chóng Nạp Đạn</color>. Khi Zhu Yuan có hiệu quả <color=#FFFFFF>Nhanh Chóng Nạp Đạn</color>, sau khi tiêu hao hết <color=#FFFFFF>Đạn Cường Hóa</color>, sẽ tiêu hao hiệu quả <color=#FFFFFF>Nhanh Chóng Nạp Đạn</color>, lập tức nhận được 6/9 viên <color=#FFFFFF>Đạn Cường Hóa</color>.",
+                "ZhuYuan_Talent_01_Title_Realign": "Nhanh Chóng Nạp Đạn"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "Tro Tàn Ether",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "Trong <color=#FFFFFF>Chế Độ Áp Chế</color>, Zhu Yuan sẽ tăng cấp Kháng Gián Đoạn, sát thương phải chịu giảm 10%. Khi tiêu hao <color=#FFFFFF>Đạn Cường Hóa</color> tấn công trúng kẻ địch, <color=#FE437E>DMG Ether</color> do <color=#FFFFFF>Tấn Công Thường: Xin Đừng Kháng Cự</color> và <color=#FFFFFF>Tấn Công Lướt: Hỏa Lực Áp Chế</color> gây ra tăng 10%, tối đa dồn 5 tầng, duy trì 5s.\nMỗi lần bắn tối đa nhận được một tầng hiệu quả, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì.",
+                "ZhuYuan_Talent_02_Desc_02": "Đạn Ether mà Zhu Yuan trang bị là do Cục Trị An chế tạo đặc biệt, một khi bắn trúng kẻ địch, sẽ gây ra sát thương Ăn Mòn không thể nào kháng cự.\nBởi vậy trước lúc bắn, Zhu Yuan thường kêu gọi đối phương hãy ngoan ngoãn đầu hàng, đừng chống cự, thật sự là vì lo nghĩ cho an nguy của đối phương mà thôi...",
+                "ZhuYuan_Talent_02_Desc_01": "Trong <color=#FFFFFF>Chế Độ Áp Chế</color>, Zhu Yuan sẽ tăng cấp Kháng Gián Đoạn, sát thương phải chịu giảm 10%. Khi tiêu hao <color=#FFFFFF>Đạn Cường Hóa</color> tấn công trúng kẻ địch, <color=#FE437E>DMG Ether</color> do <color=#FFFFFF>Tấn Công Thường: Xin Đừng Kháng Cự</color> và <color=#FFFFFF>Tấn Công Lướt: Hỏa Lực Áp Chế</color> gây ra tăng 10%, tối đa dồn 5 tầng, duy trì 5s. Mỗi lần bắn tối đa nhận được một tầng hiệu quả, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì.",
+                "ZhuYuan_Talent_02_Title_Realign": "Tro Tàn Ether"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "Đặc Huấn Nhân Viên Trị An",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "ZhuYuan_Talent_03_Desc_02": "Là một nhân viên trị an tinh anh, các bài huấn luyện mà Zhu Yuan tham gia chỉ nhằm một mục đích: Nâng cao khả năng tác chiến toàn diện trong Lỗ Hổng, trấn áp mọi kẻ thủ ác coi thường pháp luật.",
+                "ZhuYuan_Talent_03_Title_Realign": "Đặc Huấn Nhân Viên Trị An"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "Ether Xuyên Thấu",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "Khi Zhu Yuan tiêu hao <color=#FFFFFF>Đạn Cường Hóa</color> tấn công trúng kẻ địch, <color=#FFFFFF>Tấn Công Thường: Xin Đừng Kháng Cự</color> và <color=#FFFFFF>Tấn Công Lướt: Hỏa Lực Áp Chế</color> sẽ bỏ qua 25% <color=#FE437E>Kháng DMG Ether</color> của mục tiêu.",
+                "ZhuYuan_Talent_04_Desc_02": "Trong lúc giao chiến, lũ cướp trong Lỗ Hổng thường thích âm thầm tính toán xem đối phương còn lại bao nhiêu viên đạn.\nNhưng chúng tuyệt đối không ngờ được rằng, hộp đạn đặc biệt của Zhu Yuan, có thể tự động nạp thêm nhờ vào Ether trong môi trường xung quanh...",
+                "ZhuYuan_Talent_04_Desc_01": "Khi Zhu Yuan tiêu hao <color=#FFFFFF>Đạn Cường Hóa</color> tấn công trúng kẻ địch, <color=#FFFFFF>Tấn Công Thường: Xin Đừng Kháng Cự</color> và <color=#FFFFFF>Tấn Công Lướt: Hỏa Lực Áp Chế</color> sẽ bỏ qua 25% <color=#FE437E>Kháng DMG Ether</color> của mục tiêu.",
+                "ZhuYuan_Talent_04_Title_Realign": "Ether Xuyên Thấu"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "Kinh Nghiệm Đặc Vụ",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "ZhuYuan_Talent_05_Desc_02": "Một nhân viên trị an lão luyện của tổ đặc vụ sẽ càng am hiểu cách phân tích thời thế, phát huy năng lực tác chiến với hiệu quả cao.\nCó lúc, chỉ cần một ánh mắt đầy uy hiếp, là đủ để kẻ địch từ bỏ ý định phản kháng.",
+                "ZhuYuan_Talent_05_Title_Realign": "Kinh Nghiệm Đặc Vụ"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "Túi Năng Lượng Mở Rộng III",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "Khi Zhu Yuan tích lũy tiêu hao 12 viên <color=#FFFFFF>Đạn Cường Hóa</color>, sẽ nhận được hiệu quả <color=#FFFFFF>Dư Nhiệt Ether</color>, và khiến lần sau phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> sẽ giảm tiêu hao 30 điểm Năng Lượng. Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, sẽ tiêu hao hiệu quả <color=#FFFFFF>Dư Nhiệt Ether</color>, bắn thêm tổng cộng 4 viên Đạn Chì Ether.\nMỗi viên Đạn Chì Ether bắn thêm sẽ gây ra sát thương bằng 220% tấn công của Zhu Yuan.",
+                "ZhuYuan_Talent_06_Desc_02": "Zhu Yuan thường hay để ý điện lượng còn lại của mình, khi điện lượng giảm đến mức đỏ sẽ cảm thấy rất căng thẳng, và cố gắng tiết kiệm điện lượng.\nMãi cho đến khi Cục Trị An trang bị cho cô túi năng lượng mở rộng có thể liên tục hoạt động, mới có thể giải quyết triệt để phiền não này.",
+                "ZhuYuan_Talent_06_Desc_01": "Khi Zhu Yuan tích lũy tiêu hao 12 viên <color=#FFFFFF>Đạn Cường Hóa</color>, sẽ nhận được hiệu quả <color=#FFFFFF>Dư Nhiệt Ether</color>, và khiến lần sau phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> sẽ giảm tiêu hao 30 điểm Năng Lượng. Khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, sẽ tiêu hao hiệu quả <color=#FFFFFF>Dư Nhiệt Ether</color>, bắn thêm tổng cộng 4 viên Đạn Chì Ether, mỗi viên Đạn Chì Ether bắn thêm sẽ gây ra sát thương bằng 220% tấn công của Zhu Yuan.",
+                "ZhuYuan_Talent_06_Title_Realign": "Túi Năng Lượng Mở Rộng III"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "Qingyi",
+        "full_name": "Qingyi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "Xuyên Kích Cách Điện",
+                "QingYi_Talent_01_Desc_01_Realign": "Khi Qingyi vào sân, lập tức hồi <color=#FFFFFF>Điện Áp Chớp Nháy</color> đến tối đa, đồng thời tăng 30% hiệu suất tích lũy sau đó.\nKhi phát động <color=#FFFFFF>Tấn Công Thường: Túy Hoa Nguyệt Vân</color>, nếu <color=#FFFFFF>Điện Áp Chớp Nháy</color> đã tích lũy tối đa, sẽ khiến kẻ địch bị trúng đòn lần này giảm 15% Phòng Thủ, đồng thời tăng 20% Tỷ Lệ Bạo Kích của bản thân đối với mục tiêu này, duy trì 15s.",
+                "QingYi_Talent_01_Desc_02": "\"Tuy sẽ không nguy hiểm đến tính mạng, nhưng xin đừng kháng cự khi bị truy bắt...\"\nPhương hướng và cường độ của dòng điện đã được tính toán tỉ mỉ, đảm bảo mỗi một nghi phạm đều sẽ được trải nghiệm cảm giác điện giật ở một mức độ an toàn.",
+                "QingYi_Talent_01_Desc_01": "Khi Qingyi vào sân, lập tức hồi <color=#FFFFFF>Điện Áp Chớp Nháy</color> đến tối đa, đồng thời tăng 30% hiệu suất tích lũy sau đó. Khi phát động <color=#FFFFFF>Tấn Công Thường: Túy Hoa Nguyệt Vân</color>, nếu <color=#FFFFFF>Điện Áp Chớp Nháy</color> đã tích lũy tối đa, sẽ khiến kẻ địch bị trúng đòn lần này giảm 15% Phòng Thủ, đồng thời tăng 20% Tỷ Lệ Bạo Kích của bản thân đối với mục tiêu này, duy trì 15s.",
+                "QingYi_Talent_01_Title_Realign": "Xuyên Kích Cách Điện"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "Tứ Lạng Đấu Ngàn Cân",
+                "QingYi_Talent_02_Desc_01_Realign": "Hiệu quả tăng Bội Số DMG Choáng do mỗi tầng <color=#FFFFFF>Khiếp Phục</color> trong <color=#FFFFFF>Bị Động Cốt Lõi: Thiên Thu Tuế</color> cung cấp sẽ tăng đến 135% so với ban đầu.\nKhi Qingyi tấn công trúng kẻ địch, nếu số tầng <color=#FFFFFF>Khiếp Phục</color> gán lên kẻ địch này đã đạt giới hạn, thì Điểm Choáng mà bản thân gây cho mục tiêu tăng 15%.",
+                "QingYi_Talent_02_Desc_02": "Là một kỹ thuật chiến đấu được ghi chép trong sách cổ của nền văn minh cũ, ban đầu là một dạng quyền thuật chứ không phải côn thuật.\n\"Không cần câu nệ, thật ra cánh tay cũng là một dạng côn tam khúc, ừm.\"",
+                "QingYi_Talent_02_Desc_01": "Hiệu quả tăng Bội Số DMG Choáng do mỗi tầng <color=#FFFFFF>Khiếp Phục</color> trong <color=#FFFFFF>Bị Động Cốt Lõi: Thiên Thu Tuế</color> cung cấp sẽ tăng đến 135% so với ban đầu. Khi Qingyi tấn công trúng kẻ địch, nếu số tầng <color=#FFFFFF>Khiếp Phục</color> gán lên kẻ địch này đã đạt giới hạn, thì Điểm Choáng mà bản thân gây cho mục tiêu tăng 15%.",
+                "QingYi_Talent_02_Title_Realign": "Tứ Lạng Đấu Ngàn Cân"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "Nhớ Uống Nước Ấm",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "QingYi_Talent_03_Desc_02": "\"Người trẻ tuổi cần chú ý dưỡng sinh, nhớ uống nhiều nước ấm vào.\"\nMỗi lần Qingyi cầm chiếc cốc giữ nhiệt nhấp từng ngụm nước, luôn mang lại cho người ta cảm giác cực kỳ ấm áp. Nhưng khi nhận lấy nước ấm do cô ấy đưa qua nhất định phải cẩn thận...\n\"Cho dù là nước sôi 100 độ thì tiền bối vẫn có thể uống mà mặt không đổi sắc...\" Một nhân viên trị an nào đó từng dính chưởng đã ghi chú lại như thế.",
+                "QingYi_Talent_03_Title_Realign": "Nhớ Uống Nước Ấm"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "Lá Chắn Điện Ổn Định",
+                "QingYi_Talent_04_Desc_01_Realign": "Khi vào hoặc thoát trạng thái <color=#FFFFFF>Chớp Điện</color>, sẽ nhận được Khiên bằng với 10% giới hạn HP của Qingyi.\nKhi làm mới hiệu quả Khiên, nếu Khiên nhận được lần trước vẫn tồn tại, thì sẽ hồi phục 5 điểm Năng Lượng cho Qingyi.\nHiệu quả hồi Năng Lượng trong 10s tối đa kích hoạt một lần.",
+                "QingYi_Talent_04_Desc_02": "Lá chắn điện được Học Viện White Star phát minh ra khi nghiên cứu đảo ngược về người máy của nền văn minh cũ, là một công nghệ kiêm nhiệm chức năng phòng thủ, tấn công và chuyển hóa điện năng.\n\"Tục ngữ có câu: Nước có thể chở thuyền, cũng có thể lật thuyền. Còn tục ngữ của vật lý học lại nói: Dòng điện như dòng nước. Kết hợp lại sẽ có được: Dòng điện có thể tấn công cũng có thể phòng thủ. Đúng là một sự kết hợp khá tốt.\"",
+                "QingYi_Talent_04_Desc_01": "Khi vào hoặc thoát trạng thái <color=#FFFFFF>Chớp Điện</color>, sẽ nhận được Khiên bằng với 10% giới hạn HP của Qingyi. Khi làm mới hiệu quả Khiên, nếu Khiên nhận được lần trước vẫn tồn tại, thì sẽ hồi phục 5 điểm Năng Lượng cho Qingyi, hiệu quả hồi Năng Lượng trong 10s tối đa kích hoạt một lần.",
+                "QingYi_Talent_04_Title_Realign": "Lá Chắn Điện Ổn Định"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "Tâm Hồn Trẻ Thơ",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "QingYi_Talent_05_Desc_02": "\"Tốt, người trẻ tuổi cần phải mạnh dạn thử những thứ mới mẻ, cố lên!\"\nTuy rằng có lúc cảm thấy lời động viên của Qingyi có hơi hướng lười biếng và trêu chọc. Nhưng nếu thật sự đã không may gặp rắc rối rồi, thì chỉ cần tin tưởng cô ấy là được.\nDù sao cũng là người đã sống mấy trăm năm mấy ngàn năm rồi mà, chuyện gì cũng giải quyết được hết.",
+                "QingYi_Talent_05_Title_Realign": "Tâm Hồn Trẻ Thơ"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "Kỳ Kinh Bát Mạch",
+                "QingYi_Talent_06_Desc_01_Realign": "Tăng mạnh cấp Gián Đoạn của <color=#FFFFFF>Tấn Công Thường: Túy Hoa Nguyệt Vân</color>, tăng thêm 100% DMG Bạo Kích của chiêu thức.\nKhi Qingyi phát động <color=#FFFFFF>Tấn Công Thường: Túy Hoa Nguyệt Vân</color> đánh trúng kẻ địch, Kháng DMG toàn bộ thuộc tính của mục tiêu giảm 20%, duy trì 15s.",
+                "QingYi_Talent_06_Desc_02": "Một dạng học thuyết về hệ thống tuần hoàn của cơ thể con người, được ghi chép trong sách cổ của nền văn minh cũ. Nghe nói nếu nắm vững được kiến thức này, sẽ có thể khiến đối phương nhanh chóng mất đi khả năng hành động trong khi chiến đấu.\n\"Lần sau thử huyệt vị gây nhột xem, ai làm vật thí nghiệm đây? Chủ tiệm? Hay là Zhu Yuan?\"",
+                "QingYi_Talent_06_Desc_01": "Tăng mạnh cấp Gián Đoạn của <color=#FFFFFF>Tấn Công Thường: Túy Hoa Nguyệt Vân</color>, tăng thêm 100% DMG Bạo Kích của chiêu thức. Khi Qingyi phát động <color=#FFFFFF>Tấn Công Thường: Túy Hoa Nguyệt Vân</color> đánh trúng kẻ địch, Kháng DMG toàn bộ thuộc tính của mục tiêu giảm 20%, duy trì 15s.",
+                "QingYi_Talent_06_Title_Realign": "Kỳ Kinh Bát Mạch"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "Jane",
+        "full_name": "Jane Doe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "Cố Vấn Tội Phạm",
+                "JaneDoe_Talent_01_Desc_01_Realign": "Giới hạn số lần sử dụng <color=#FFFFFF>Tấn Công Thường: Cú Nhảy Salchow</color> tăng thêm 1 lần.\nTrong trạng thái <color=#FFFFFF>Cuồng Nhiệt</color>, <color=#F0D12B>Hiệu Suất Tích Lũy Dị Thường Vật Lý</color> của Jane tăng thêm 15%, đồng thời mỗi một điểm Tinh Thông Dị Thường của Jane sẽ giúp tăng thêm 0.1% sát thương bản thân gây ra, tối đa tăng 30%.",
+                "JaneDoe_Talent_01_Desc_02": "\"Cố vấn tội phạm, có nghĩa là cố vấn nghiên cứu hành vi tội phạm, chứ không phải cố vấn tinh thông cách làm thế nào để phạm tội.\"\nJane đột nhiên áp sát, chớp chớp mắt.\n\"Đương nhiên, nếu muốn hiểu theo cách sau... thì tôi cũng không phản đối.\"",
+                "JaneDoe_Talent_01_Desc_01": "Giới hạn số lần sử dụng <color=#FFFFFF>Tấn Công Thường: Cú Nhảy Salchow</color> tăng thêm 1 lần. Trong trạng thái <color=#FFFFFF>Cuồng Nhiệt</color>, <color=#F0D12B>Hiệu Suất Tích Lũy Dị Thường Vật Lý</color> của Jane tăng thêm 15%, đồng thời mỗi một điểm Tinh Thông Dị Thường của Jane sẽ giúp tăng thêm 0.1% sát thương bản thân gây ra, tối đa tăng 30%.",
+                "JaneDoe_Talent_01_Title_Realign": "Cố Vấn Tội Phạm"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "Gần Đèn Thì Sáng",
+                "JaneDoe_Talent_02_Desc_01_Realign": "Jane tấn công trúng kẻ địch đang trong trạng thái <color=#FFFFFF>Gặm Nhấm</color>, hoặc nhân vật bất kỳ trong đội kích hoạt <color=#F0D12B>Cường Kích</color> lên kẻ địch trong trạng thái <color=#FFFFFF>Gặm Nhấm</color>, sẽ bỏ qua 15% Phòng Thủ của mục tiêu, khi sát thương <color=#F0D12B>Cường Kích</color> kích hoạt bạo kích, DMG Bạo Kích tăng thêm 50%.",
+                "JaneDoe_Talent_02_Desc_02": "Khi ta nhìn chăm chú vào vực sâu sẽ bị vực sâu nhìn lại, đây là bước đầu tiên.\n\"Sau đó đến gần nó, đi vào nó, thấu hiểu nó, đây là bước thứ hai.\"\n\"Bước cuối cùng... đừng trở thành nó.\"",
+                "JaneDoe_Talent_02_Desc_01": "Jane tấn công trúng kẻ địch đang trong trạng thái <color=#FFFFFF>Gặm Nhấm</color>, hoặc nhân vật bất kỳ trong đội kích hoạt <color=#F0D12B>Cường Kích</color> lên kẻ địch trong trạng thái <color=#FFFFFF>Gặm Nhấm</color>, sẽ bỏ qua 15% Phòng Thủ của mục tiêu, khi sát thương <color=#F0D12B>Cường Kích</color> kích hoạt bạo kích, DMG Bạo Kích tăng thêm 50%.",
+                "JaneDoe_Talent_02_Title_Realign": "Gần Đèn Thì Sáng"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "Vô Danh Tính",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "JaneDoe_Talent_03_Desc_02": "\"Vô danh tính, cũng có nghĩa là tôi có thể trở thành bất cứ ai. Chẳng hạn như người bạn thích nhất~\"\n\"Hoặc có thể là... người bạn sợ nhất?\"",
+                "JaneDoe_Talent_03_Title_Realign": "Vô Danh Tính"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "Tùy Cơ Ứng Biến",
+                "JaneDoe_Talent_04_Desc_01_Realign": "Khi nhân vật bất kỳ trong đội kích hoạt hiệu quả <color=#F0D12B>Cường Kích</color> hoặc <color=#FFFFFF>Hỗn Loạn</color>, sát thương Thuộc Tính Dị Thường do toàn đội gây ra tăng 18%, duy trì 15s.",
+                "JaneDoe_Talent_04_Desc_02": "\"Là thợ săn hay con mồi, điều này phụ thuộc vào góc nhìn mà bạn chọn. Nhưng, tôi thì thích một cách phán đoán đơn giản hơn.\"\n\"Người thua cuộc, chính là con mồi.\"",
+                "JaneDoe_Talent_04_Desc_01": "Khi nhân vật bất kỳ trong đội kích hoạt hiệu quả <color=#F0D12B>Cường Kích</color> hoặc <color=#FFFFFF>Hỗn Loạn</color>, sát thương Thuộc Tính Dị Thường do toàn đội gây ra tăng 18%, duy trì 15s.",
+                "JaneDoe_Talent_04_Title_Realign": "Tùy Cơ Ứng Biến"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "Sở Thích Tích Trữ",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "JaneDoe_Talent_05_Desc_02": "Trong phòng của Jane luôn nhét đầy các thứ, trong đó nhiều nhất là thức ăn nhanh.\n\"Ở đây tuyệt lắm phải không? Khắp nơi đều là đồ ăn, chỉ cần giơ tay là có ngay~\"",
+                "JaneDoe_Talent_05_Title_Realign": "Sở Thích Tích Trữ"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "Thủ Thuật \"Bẩn Thỉu\"",
+                "JaneDoe_Talent_06_Desc_01_Realign": "Trong trạng thái <color=#FFFFFF>Cuồng Nhiệt</color>, Tỷ Lệ Bạo Kích của Jane tăng 20%, DMG Bạo Kích tăng 40%. Khi nhân vật bất kỳ trong đội thi triển hiệu quả <color=#F0D12B>Cường Kích</color> lên kẻ địch, Jane sẽ trực tiếp vào trạng thái <color=#FFFFFF>Cuồng Nhiệt</color>, và hồi phục <color=#FFFFFF>Dòng Chảy Cuồng Nhiệt</color> đến tối đa. Khi sát thương <color=#F0D12B>Cường Kích</color> kích hoạt bạo kích, sẽ phát động thêm một lần tấn công lên mục tiêu, gây <color=#F0D12B>DMG Vật Lý</color> bằng với 1,600% Tinh Thông Dị Thường của Jane.",
+                "JaneDoe_Talent_06_Desc_02": "Nơi đường phố sẽ không quan tâm thủ đoạn có dơ bẩn hay không, chỉ quan tâm kết quả thắng hay thua.\n\"Nhìn ra được ham muốn đen tối nhất, mới có thể suy luận ra điểm yếu đau đớn nhất.\"",
+                "JaneDoe_Talent_06_Desc_01": "Trong trạng thái <color=#FFFFFF>Cuồng Nhiệt</color>, Tỷ Lệ Bạo Kích của Jane tăng 20%, DMG Bạo Kích tăng 40%. Khi nhân vật bất kỳ trong đội thi triển hiệu quả <color=#F0D12B>Cường Kích</color> lên kẻ địch, Jane sẽ trực tiếp vào trạng thái <color=#FFFFFF>Cuồng Nhiệt</color>, và hồi phục <color=#FFFFFF>Dòng Chảy Cuồng Nhiệt</color> đến tối đa. Khi sát thương <color=#F0D12B>Cường Kích</color> kích hoạt bạo kích, sẽ phát động thêm một lần tấn công lên mục tiêu, gây <color=#F0D12B>DMG Vật Lý</color> bằng với 1,600% Tinh Thông Dị Thường của Jane.",
+                "JaneDoe_Talent_06_Title_Realign": "Thủ Thuật \"Bẩn Thỉu\""
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "Seth",
+        "full_name": "Seth Lowell",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "Chủ Nghĩa Anh Hùng",
+                "Seth_Talent_01_Desc_01_Realign": "Giá trị khiên do <color=#FFFFFF>Tấm Khiên Kiên Định</color> cung cấp và giới hạn của nó tăng 30%.\nKhi <color=#FFFFFF>Tấm Khiên Kiên Định</color> mất hiệu lực, hiệu quả tăng Tinh Thông Dị Thường do <color=#FFFFFF>Bị Động Cốt Lõi: Người Canh Giữ</color> mang lại sẽ duy trì thêm 10s.",
+                "Seth_Talent_01_Desc_02": "Khi hành động theo nhóm, Seth luôn là người xung phong phía trước.\n\"Việc bắt giữ tội phạm cứ giao cho tôi! Thành tích bắt người ở cự li gần của tôi đạt 99 điểm lận, bị trừ mất một điểm là do bất cẩn làm trật tay của sĩ quan huấn luyện.\"",
+                "Seth_Talent_01_Desc_01": "Giá trị khiên do <color=#FFFFFF>Tấm Khiên Kiên Định</color> cung cấp và giới hạn của nó tăng 30%. Khi <color=#FFFFFF>Tấm Khiên Kiên Định</color> mất hiệu lực, hiệu quả tăng Tinh Thông Dị Thường do <color=#FFFFFF>Bị Động Cốt Lõi: Người Canh Giữ</color> mang lại sẽ duy trì thêm 10s.",
+                "Seth_Talent_01_Title_Realign": "Chủ Nghĩa Anh Hùng"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "Tuổi Trẻ Xốc Nổi",
+                "Seth_Talent_02_Desc_01_Realign": "Khi vào chiến trường, Seth lập tức tích lũy 75% <color=#FFFFFF>Ý Chí</color> cho bản thân.\nKhi phát động <color=#FFFFFF>Tấn Công Thường: Cú Đấm Lôi Đình - Sốc Điện</color> đánh trúng kẻ địch, <color=#2EB6FF>Chỉ Số Tích Lũy Dị Thường Điện</color> do chiêu thức tích lũy tăng 35%.",
+                "Seth_Talent_02_Desc_02": "Seth thường hay bị các tội phạm xem thường.\nCó lẽ là do ánh mắt của anh quá ư trong trẻo, hoặc cũng có thể là vì đôi tai và chiếc đuôi lông lá trông vô hại kia.\nCho dù thế nào đi nữa, thì những kẻ xem thường anh cuối cùng đều phải trả một cái giá tương xứng.",
+                "Seth_Talent_02_Desc_01": "Khi vào chiến trường, Seth lập tức tích lũy 75% <color=#FFFFFF>Ý Chí</color> cho bản thân. Khi phát động <color=#FFFFFF>Tấn Công Thường: Cú Đấm Lôi Đình - Sốc Điện</color> đánh trúng kẻ địch, <color=#2EB6FF>Chỉ Số Tích Lũy Dị Thường Điện</color> do chiêu thức tích lũy tăng 35%.",
+                "Seth_Talent_02_Title_Realign": "Tuổi Trẻ Xốc Nổi"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "Phản Xạ Chậm",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Seth_Talent_03_Desc_02": "\"Một nhân viên trị an lợi hại như anh chắc làm việc gì cũng dựa vào mình hết nhỉ? Tuyệt đối không ỷ lại vào người khác đâu ha?\"\nDù bị nói như vậy, nhưng Seth vẫn im lặng không nói gì.\nMãi đến nửa khuya, anh ấy mới đột nhiên ngộ ra:\n\"Lời mà cái tên đó nói hồi sáng... chẳng lẽ là đang nói móc mình?\"",
+                "Seth_Talent_03_Title_Realign": "Phản Xạ Chậm"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "Tấm Lòng Son Sắt",
+                "Seth_Talent_04_Desc_01_Realign": "Điểm Choáng do <color=#FFFFFF>Hỗ Trợ Chống Đỡ: Khiên Sấm Sét</color> gây ra tăng 25%.",
+                "Seth_Talent_04_Desc_02": "\"Hãy vứt bỏ cái quan niệm thiện ác ngu ngốc đó của cậu đi. Trên đời này không có cách nào có thể bảo vệ tất cả mọi người, có lúc, cậu phải đưa ra lựa chọn.\"\n\"Đây chính là lựa chọn của em, cũng chính là chức trách cơ bản của một nhân viên trị an - Là anh đã thay đổi rồi, anh trai.\"",
+                "Seth_Talent_04_Desc_01": "Điểm Choáng do <color=#FFFFFF>Hỗ Trợ Chống Đỡ: Khiên Sấm Sét</color> gây ra tăng 25%.",
+                "Seth_Talent_04_Title_Realign": "Tấm Lòng Son Sắt"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "Khoảng Cách Của Kỳ Vọng",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Seth_Talent_05_Desc_02": "Đối với anh trai của mình, Seth từng vô cùng kỳ vọng và kính trọng.\nNhưng như bạn biết đấy - Giữa \"kỳ vọng\" và \"lý tưởng\" luôn có một khoảng cách xa vời vợi.\n\"Rồi có một ngày, mình sẽ trở thành nhân viên trị an cừ khôi nhất... để cho cái tên đó phải thu lại lời nói lúc trước!\"",
+                "Seth_Talent_05_Title_Realign": "Khoảng Cách Của Kỳ Vọng"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "Chủ Nghĩa Lý Tưởng",
+                "Seth_Talent_06_Desc_01_Realign": "Khi Seth phát động đòn kết thúc trong <color=#FFFFFF>Tấn Công Thường: Cú Đấm Lôi Đình - Sốc Điện</color> đánh trúng kẻ địch, sẽ gây thêm sát thương bằng 500% tấn công của bản thân, lần tấn công này chắc chắn kích hoạt bạo kích, và DMG Bạo Kích tăng 60%.",
+                "Seth_Talent_06_Desc_02": "Trong mắt người trẻ tuổi, mọi thứ đều rất rõ ràng, trắng đen rạch ròi, thiện ác phân minh.\nNhất định sẽ có người nói với cậu ấy, màu sắc của thế giới này là sắc xám lẫn lộn. Nhưng một thế giới trắng đen rạch ròi, thiện ác phân minh... không đáng để theo đuổi sao?",
+                "Seth_Talent_06_Desc_01": "Khi Seth phát động đòn kết thúc trong <color=#FFFFFF>Tấn Công Thường: Cú Đấm Lôi Đình - Sốc Điện</color> đánh trúng kẻ địch, sẽ gây thêm sát thương bằng 500% tấn công của bản thân, lần tấn công này chắc chắn kích hoạt bạo kích, và DMG Bạo Kích tăng 60%.",
+                "Seth_Talent_06_Title_Realign": "Chủ Nghĩa Lý Tưởng"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "Caesar",
+        "full_name": "Caesar King",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "Mũi Nhọn Tiến Công",
+                "Caesar_Talent_01_Desc_01_Realign": "Khi vào trạng thái tiếp chiến hoặc được đổi vào sân, Caesar lập tức cung cấp <color=#FFFFFF>Khiên Vinh Quang</color> cho toàn đội, trong 300s tối đa kích hoạt một lần.\nTrong thời gian <color=#FFFFFF>Khiên Vinh Quang</color> tồn tại, kẻ địch trong phạm vi 5m gần người sở hữu sẽ giảm 15% Kháng DMG toàn bộ thuộc tính.",
+                "Caesar_Talent_01_Desc_02": "\"Big Daddy đã từng dạy tôi, lúc này nên dùng binh lực hùng mạnh tạo thành đội hình mũi nhọn, tấn công vào điểm yếu nhất của kẻ địch.\"\n\"Đương nhiên, sẽ do tôi dẫn đầu!\"",
+                "Caesar_Talent_01_Desc_01": "Khi vào trạng thái tiếp chiến hoặc được đổi vào sân, Caesar lập tức cung cấp <color=#FFFFFF>Khiên Vinh Quang</color> cho toàn đội, trong 300s tối đa kích hoạt một lần. Trong thời gian <color=#FFFFFF>Khiên Vinh Quang</color> tồn tại, kẻ địch trong phạm vi 5m gần người sở hữu sẽ giảm 15% Kháng DMG toàn bộ thuộc tính.",
+                "Caesar_Talent_01_Title_Realign": "Mũi Nhọn Tiến Công"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "Kế Thừa Từ Nơi Khác",
+                "Caesar_Talent_02_Desc_01_Realign": "Trong <color=#FFFFFF>Bị Động Cốt Lõi: Bức Tường Kiên Cố</color>, khi <color=#FFFFFF>Khiên Vinh Quang</color> tồn tại, Hiệu Quả Hồi Năng Lượng của Caesar tăng 10%, hiệu quả tăng tấn công của người sở hữu sẽ tăng đến 150% so với hiệu quả ban đầu.",
+                "Caesar_Talent_02_Desc_02": "Cách thức chiến đấu của Caesar có phần khác biệt với phong cách của New Eridu hoặc vành đai ngoài, được kế thừa từ những võ sĩ lợi hại nhất trong nhóm người lang thang.\nBiết thu vũ khí vào lúc thích hợp, và ra đòn vào đúng lúc để một chiêu lấy mạng — Đây luôn là đạo sinh tồn của những kẻ lang thang.\nVà Caesar, xưa nay luôn là một học trò giỏi.",
+                "Caesar_Talent_02_Desc_01": "Trong <color=#FFFFFF>Bị Động Cốt Lõi: Bức Tường Kiên Cố</color>, khi <color=#FFFFFF>Khiên Vinh Quang</color> tồn tại, Hiệu Quả Hồi Năng Lượng của Caesar tăng 10%, hiệu quả tăng tấn công của người sở hữu sẽ tăng đến 150% so với hiệu quả ban đầu.",
+                "Caesar_Talent_02_Title_Realign": "Kế Thừa Từ Nơi Khác"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "Tin Tưởng Tuyệt Đối",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Caesar_Talent_03_Desc_02": "Một khi đã công nhận ai đó, thì Caesar sẽ xem đối phương là người của mình và tin tưởng tuyệt đối, không chút phòng bị...\nGiống như cái cách mà cô ấy đối đãi với bạn vậy.",
+                "Caesar_Talent_03_Title_Realign": "Tin Tưởng Tuyệt Đối"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "Búa Công Thành Aries",
+                "Caesar_Talent_04_Desc_01_Realign": "Khi Caesar phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, sẽ hồi thêm 3 <color=#FFFFFF>Điểm Chi Viện</color>.\nKhi Caesar không đủ 20 điểm Năng Lượng, có thể tiêu hao 1 <color=#FFFFFF>Điểm Chi Viện</color> để thay thế, phát động <color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color>, hiệu quả thay thế tối đa kích hoạt một lần trong 5s.",
+                "Caesar_Talent_04_Desc_02": "Một trong các chiến thuật mà Caesar học được từ người thầy trong nhóm người lang thang.\n\"Bất luận thế nào, tôi cũng sẽ chiến đấu đến giây phút cuối cùng!\"",
+                "Caesar_Talent_04_Desc_01": "Khi Caesar phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, sẽ hồi thêm 3 <color=#FFFFFF>Điểm Chi Viện</color>. Khi Caesar không đủ 20 điểm Năng Lượng, có thể tiêu hao 1 <color=#FFFFFF>Điểm Chi Viện</color> để thay thế, phát động <color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color>, hiệu quả thay thế tối đa kích hoạt một lần trong 5s.",
+                "Caesar_Talent_04_Title_Realign": "Búa Công Thành Aries"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "Cuộc Chinh Phạt Lãng Mạn",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Caesar_Talent_05_Desc_02": "Khác với vẻ bề ngoài, Caesar có một trái tim vô cùng lãng mạn.\nVí dụ như cô luôn rất hiếu kỳ với những câu chuyện tình yêu.\nNhưng nếu bạn trò chuyện sâu hơn với cô về đề tài này... bạn sẽ bắt gặp cảnh Caesar đỏ mặt - một biểu cảm rất hiếm thấy ở cô.",
+                "Caesar_Talent_05_Title_Realign": "Cuộc Chinh Phạt Lãng Mạn"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "Chí Khí Bá Chủ",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color> và <color=#FFFFFF>Đột Kích Chi Viện</color> chắc chắn kích hoạt bạo kích.\nSát thương do chiêu thức gây ra tăng 50%, sát thương gây ra cho mục tiêu chính tăng thêm 50%.\nKhi Caesar phát động <color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color> hoặc <color=#FFFFFF>Đột Kích Chi Viện</color>, Tỷ Lệ Bạo Kích của bản thân tăng 30%, DMG Bạo Kích tăng 60%, duy trì 15s.",
+                "Caesar_Talent_06_Desc_02": "\"Tôi đã từng chỉ lo nhìn về phía trước. Tôi tưởng rằng chỉ cần bản thân đủ mạnh, thì không có việc gì không thể làm.\"\n\"Nhưng muốn trở thành Bá Chủ ưu tú, chỉ thế thôi là hoàn toàn không đủ.\"\n\"Tôi còn phải bảo vệ thật tốt những đồng đội ở hậu phương — Họ mới là lý do để tôi kiên trì tiến bước.\"",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color> và <color=#FFFFFF>Đột Kích Chi Viện</color> chắc chắn kích hoạt bạo kích. Sát thương do chiêu thức gây ra tăng 50%, sát thương gây ra cho mục tiêu chính tăng thêm 50%. Khi Caesar phát động <color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color> hoặc <color=#FFFFFF>Đột Kích Chi Viện</color>, Tỷ Lệ Bạo Kích của bản thân tăng 30%, DMG Bạo Kích tăng 60%, duy trì 15s.",
+                "Caesar_Talent_06_Title_Realign": "Chí Khí Bá Chủ"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "Lucy",
+        "full_name": "Luciana de Montefio",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "Tập Huấn Đội Hình",
+                "Lucy_Talent_01_Desc_01_Realign": "Khi Heo Con Cận Vệ phát động <color=#FFFFFF>Heo Con Cận Vệ: Cú Đánh Xoay Vòng!</color>, sẽ giúp Lucy hồi phục 2 điểm Năng Lượng, trong 15s tối đa kích hoạt một lần, mỗi con Heo Con Cận Vệ sẽ tính riêng thời gian chờ.",
+                "Lucy_Talent_01_Desc_02": "\"Grassy, nhìn về bên phải!... Đó là bên trái, ngốc quá đi!!!\"\nMột câu khẩu lệnh, chia hai hướng nhìn, ba lời than trách, bốn bề oán than.",
+                "Lucy_Talent_01_Desc_01": "Khi Heo Con Cận Vệ phát động <color=#FFFFFF>Heo Con Cận Vệ: Cú Đánh Xoay Vòng!</color>, sẽ giúp Lucy hồi phục 2 điểm Năng Lượng, trong 15s tối đa kích hoạt một lần, mỗi con Heo Con Cận Vệ sẽ tính riêng thời gian chờ.",
+                "Lucy_Talent_01_Title_Realign": "Tập Huấn Đội Hình"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "Đại Đội Trưởng Heo Con",
+                "Lucy_Talent_02_Desc_01_Realign": "Khi Lucy phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, sẽ tạo trạng thái <color=#FFFFFF>Cố Lên!</color> cho tất cả nhân vật, Bangboo, Heo Con Cận Vệ của phe ta, duy trì 10s.",
+                "Lucy_Talent_02_Desc_02": "\"Không có gì phải nghi ngờ, Lucy chính là nhà lãnh đạo Người Heo Rừng giỏi nhất của Calydon!\"\nĐây là câu kết luận của Woody trong \"Báo Cáo Công Việc Hàng Năm Tại \"Những Đứa Con Của Calydon\"\"",
+                "Lucy_Talent_02_Desc_01": "Khi Lucy phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, sẽ tạo trạng thái <color=#FFFFFF>Cố Lên!</color> cho tất cả nhân vật, Bangboo, Heo Con Cận Vệ của phe ta, duy trì 10s.",
+                "Lucy_Talent_02_Title_Realign": "Đại Đội Trưởng Heo Con"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "Người Giám Hộ Nghiêm Khắc",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Lucy_Talent_03_Desc_02": "\"Nếu như lúc đánh bay chúng tôi, mà đội trưởng Lucy có thể ra tay nhẹ chút thì càng tốt hơn.\"\nĐây là nửa sau mà Woody giấu kín trong lòng không dám nói ra.",
+                "Lucy_Talent_03_Title_Realign": "Người Giám Hộ Nghiêm Khắc"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "Trận Bóng Bất Quy Tắc",
+                "Lucy_Talent_04_Desc_01_Realign": "Đơn vị phe ta đang trong trạng thái <color=#FFFFFF>Cố Lên!</color> sẽ tăng thêm 10% DMG Bạo Kích.",
+                "Lucy_Talent_04_Desc_02": "Quy tắc và xương sườn của trọng tài, kiểu gì cũng có một cái bị bẻ gãy.",
+                "Lucy_Talent_04_Desc_01": "Đơn vị phe ta đang trong trạng thái <color=#FFFFFF>Cố Lên!</color> sẽ tăng thêm 10% DMG Bạo Kích.",
+                "Lucy_Talent_04_Title_Realign": "Trận Bóng Bất Quy Tắc"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "Công Chúa Rừng Hoang",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Lucy_Talent_05_Desc_02": "Dùng kính ngữ với đối thủ kêu gào thảm thiết dưới cây gậy bóng chày,\nNói lời xin lỗi với kẻ địch nằm rạp dưới chân,\nĐây chính là lễ nghi hoàn mỹ của một thiên kim công chúa.",
+                "Lucy_Talent_05_Title_Realign": "Công Chúa Rừng Hoang"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "Nanh Nhọn Rực Lửa",
+                "Lucy_Talent_06_Desc_01_Realign": "Khi đồng đội đang trong trạng thái <color=#FFFFFF>Cố Lên!</color> phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, một Heo Con Cận Vệ sẽ rơi từ trên không xuống đất và kích nổ, gây ra <color=#FF5521>DMG Hỏa</color> bằng với 300% tấn công của Heo Con Cận Vệ, đồng thời tăng 5s thời gian duy trì trạng thái <color=#FFFFFF>Cố Lên!</color> của toàn đội.\nThời gian duy trì tối đa tăng 3 lần, giới hạn 30s, khi nhận lại trạng thái <color=#FFFFFF>Cố Lên!</color> sẽ tạo mới số lần có thể tăng.\nSau khi Heo Con Cận Vệ rơi xuống đất và kích nổ, sẽ phát động một lần <color=#FFFFFF>Heo Con Cận Vệ: Cú Đánh Xoay Vòng!</color>",
+                "Lucy_Talent_06_Desc_02": "Những bé Người Heo của \"Đội Cận Vệ Bờm Đỏ\" luôn tiên phong dẫn đầu ở hàng tiền tuyến trong những trận chiến!\nTuy cũng khó biết được rằng vào khoảnh khắc bay vụt ra từ đầu gậy bóng chày, thì chúng cảm thấy cam tâm tình nguyện hay là ưu tư phiền muộn nữa.\nHeo con mạnh mẽ, dũng cảm đi đầu!",
+                "Lucy_Talent_06_Desc_01": "Khi đồng đội đang trong trạng thái <color=#FFFFFF>Cố Lên!</color> phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, một Heo Con Cận Vệ sẽ rơi từ trên không xuống đất và kích nổ, gây ra <color=#FF5521>DMG Hỏa</color> bằng với 300% tấn công của Heo Con Cận Vệ, đồng thời tăng 5s thời gian duy trì trạng thái <color=#FFFFFF>Cố Lên!</color> của toàn đội, thời gian duy trì tối đa tăng 3 lần, giới hạn 30s, khi nhận lại trạng thái <color=#FFFFFF>Cố Lên!</color> sẽ tạo mới số lần có thể tăng. Sau khi Heo Con Cận Vệ rơi xuống đất và kích nổ, sẽ phát động một lần <color=#FFFFFF>Heo Con Cận Vệ: Cú Đánh Xoay Vòng!</color>",
+                "Lucy_Talent_06_Title_Realign": "Nanh Nhọn Rực Lửa"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "Lighter",
+        "full_name": "Lighter",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "Quán Quân Thường Thắng",
+                "Lighter_Talent_01_Desc_01_Realign": "Trong hiệu quả debuff từ <color=#FFFFFF>Bị Động Cốt Lõi: Chất Trợ Cháy</color>, hiệu quả <color=#FFFFFF>Bại Trận</color> sẽ làm thời gian duy trì Choáng tăng 5s, <color=#98EFF0>Kháng DMG Băng</color> và <color=#FF5521>Kháng DMG Hỏa</color> sẽ giảm thêm 10%.\nKhi tiêu hao hết <color=#FFFFFF>Sĩ Khí</color> trong thời gian khởi đầu đánh nhẹ hoặc cú đấm liên hoàn, và tự động phát động đòn kết thúc mạnh mẽ, sát thương của đòn này sẽ tăng 30%.",
+                "Lighter_Talent_01_Desc_02": "Chiến thắng của Quán Quân Thường Thắng là điều cực kỳ quan trọng. Quyết đấu với chiến sĩ mạnh nhất của phe đối diện, dẹp tan nguy hiểm cho đội trưởng - đồng thời cổ vũ sĩ khí cho đội mình.\nĐối với anh, chỉ có chiến thắng mới đáng được ca tụng.\n\"Quán Quân Thường Thắng không thể ngã xuống.\"",
+                "Lighter_Talent_01_Desc_01": "Trong hiệu quả debuff từ <color=#FFFFFF>Bị Động Cốt Lõi: Chất Trợ Cháy</color>, hiệu quả <color=#FFFFFF>Bại Trận</color> sẽ làm thời gian duy trì Choáng tăng 5s, <color=#98EFF0>Kháng DMG Băng</color> và <color=#FF5521>Kháng DMG Hỏa</color> sẽ giảm thêm 10%. Khi tiêu hao hết <color=#FFFFFF>Sĩ Khí</color> trong thời gian khởi đầu đánh nhẹ hoặc cú đấm liên hoàn, và tự động phát động đòn kết thúc mạnh mẽ, sát thương của đòn này sẽ tăng 30%.",
+                "Lighter_Talent_01_Title_Realign": "Quán Quân Thường Thắng"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "Khăn Choàng Đỏ",
+                "Lighter_Talent_02_Desc_01_Realign": "Khi thông qua <color=#FFFFFF>Bị Động Cốt Lõi: Chất Trợ Cháy</color> để gán hiệu quả <color=#FFFFFF>Bại Trận</color> lên kẻ địch, Bội Số DMG Choáng của mục tiêu tăng 25%.\nHiệu quả buff <color=#98EFF0>DMG Băng</color> và <color=#FF5521>DMG Hỏa</color> do <color=#FFFFFF>Ngút Ngàn</color> trong <color=#FFFFFF>Năng Lực Thêm: Đấu Chí Ngút Ngàn</color> cung cấp sẽ tăng đến 120% so với ban đầu.",
+                "Lighter_Talent_02_Desc_02": "Là \"Khăn Choàng Đỏ\" của Những Đứa Con Của Calydon, Lighter rất nổi tiếng tại vành đai ngoài.\nKhông chỉ vì nắm đấm của anh, mà còn vì... phong cách nói chuyện của anh.\n\"Mặc dù có tôi thì nhẹ nhàng dễ dàng quá... Nhưng nếu không có tôi thì mọi người làm không nổi đâu nhỉ?\"",
+                "Lighter_Talent_02_Desc_01": "Khi thông qua <color=#FFFFFF>Bị Động Cốt Lõi: Chất Trợ Cháy</color> để gán hiệu quả <color=#FFFFFF>Bại Trận</color> lên kẻ địch, Bội Số DMG Choáng của mục tiêu tăng 25%. Hiệu quả buff <color=#98EFF0>DMG Băng</color> và <color=#FF5521>DMG Hỏa</color> do <color=#FFFFFF>Ngút Ngàn</color> trong <color=#FFFFFF>Năng Lực Thêm: Đấu Chí Ngút Ngàn</color> cung cấp sẽ tăng đến 120% so với ban đầu.",
+                "Lighter_Talent_02_Title_Realign": "Khăn Choàng Đỏ"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "Đội Trưởng Lính Đánh Thuê",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Lighter_Talent_03_Desc_02": "\"Chắc tôi là người không thích hợp làm đội trưởng nhất trên đời.\"",
+                "Lighter_Talent_03_Title_Realign": "Đội Trưởng Lính Đánh Thuê"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "Kính Râm",
+                "Lighter_Talent_04_Desc_01_Realign": "Khi Lighter ở hàng dự bị, hiệu quả Tự Hồi Năng Lượng của nhân vật trong sân tăng 10%.\nKhi Lighter vào trạng thái <color=#FFFFFF>Sĩ Khí Phun Trào</color>, sẽ hồi 4 điểm Năng Lượng cho nhân vật dự bị, trong 18s tối đa kích hoạt một lần.",
+                "Lighter_Talent_04_Desc_02": "\"Hỏi tôi tại sao đeo kính râm? Ừm... vì tôi sợ máu, chắc vậy.\"",
+                "Lighter_Talent_04_Desc_01": "Khi Lighter ở hàng dự bị, hiệu quả Tự Hồi Năng Lượng của nhân vật trong sân tăng 10%. Khi Lighter vào trạng thái <color=#FFFFFF>Sĩ Khí Phun Trào</color>, sẽ hồi 4 điểm Năng Lượng cho nhân vật dự bị, trong 18s tối đa kích hoạt một lần.",
+                "Lighter_Talent_04_Title_Realign": "Kính Râm"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "Kẻ Quyết Sách",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Lighter_Talent_05_Desc_02": "\"Cứ ra lệnh, tôi làm theo. Đơn giản vậy thôi.\"\nLighter đẩy đẩy chiếc kính râm của mình, cười một cách hời hợt.\n\"Đừng bắt tôi phải ra quyết định là được.\"",
+                "Lighter_Talent_05_Title_Realign": "Kẻ Quyết Sách"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "Người Sống Sót",
+                "Lighter_Talent_06_Desc_01_Realign": "Hiệu suất hồi <color=#FFFFFF>Sĩ Khí</color> của Lighter tăng đến 200% so với ban đầu. Khi Lighter phát động trọng kích trong <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Phản Kích Khi Né</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Hỗ Trợ Nhanh</color>, <color=#FFFFFF>Đột Kích Chi Viện</color>, <color=#FFFFFF>Liên Kích</color>, <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, sẽ kích hoạt hiệu quả <color=#FFFFFF>Xung Kích Lửa Thiêu</color>, gây <color=#FF5521>DMG Hỏa</color> bằng 250% tấn công, mỗi kẻ địch trong 8s tối đa kích hoạt một lần. Nếu Lực Xung Kích của Lighter cao hơn 170 điểm, mỗi 1 điểm Lực Xung Kích vượt mức sẽ khiến bội số của <color=#FFFFFF>Xung Kích Lửa Thiêu</color> tăng thêm 5%, tối đa tăng 500%. Khi tiêu hao hết <color=#FFFFFF>Sĩ Khí</color> trong khởi đầu đánh nhẹ hoặc cú đấm liên hoàn và tự động phát động đòn kết thúc mạnh mẽ đánh trúng kẻ địch, sẽ bỏ qua thời gian chờ, kích hoạt thêm một lần hiệu quả <color=#FFFFFF>Xung Kích Lửa Thiêu</color>.",
+                "Lighter_Talent_06_Desc_02": "Nếu có thể quay lại, anh ấy tuyệt đối không lựa chọn trở thành người sống sót duy nhất.\nNhưng đáng tiếc, không thể nào lựa chọn vận mệnh.",
+                "Lighter_Talent_06_Desc_01": "Hiệu suất hồi <color=#FFFFFF>Sĩ Khí</color> của Lighter tăng đến 200% so với ban đầu. Khi Lighter phát động trọng kích trong <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Phản Kích Khi Né</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Hỗ Trợ Nhanh</color>, <color=#FFFFFF>Đột Kích Chi Viện</color>, <color=#FFFFFF>Liên Kích</color>, <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, sẽ kích hoạt hiệu quả <color=#FFFFFF>Xung Kích Lửa Thiêu</color>, gây <color=#FF5521>DMG Hỏa</color> bằng 250% tấn công, mỗi kẻ địch trong 8s tối đa kích hoạt một lần. Nếu Lực Xung Kích của Lighter cao hơn 170 điểm, mỗi 1 điểm Lực Xung Kích vượt mức sẽ khiến bội số của <color=#FFFFFF>Xung Kích Lửa Thiêu</color> tăng thêm 5%, tối đa tăng 500%. Khi tiêu hao hết <color=#FFFFFF>Sĩ Khí</color> trong khởi đầu đánh nhẹ hoặc cú đấm liên hoàn và tự động phát động đòn kết thúc mạnh mẽ đánh trúng kẻ địch, sẽ bỏ qua thời gian chờ, kích hoạt thêm một lần hiệu quả <color=#FFFFFF>Xung Kích Lửa Thiêu</color>.",
+                "Lighter_Talent_06_Title_Realign": "Người Sống Sót"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "Burnice",
+        "full_name": "Burnice White",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "Trái Tim Nồng Nhiệt",
+                "Burnice_Talent_01_Desc_01_Realign": "Giới hạn của <color=#FFFFFF>Điểm Cháy</color> từ 100 điểm tăng đến 140 điểm. Khi vào chiến trường, Burnice tích lũy thêm 40 <color=#FFFFFF>Điểm Cháy</color>.\nTăng bội số DMG của hiệu quả <color=#FFFFFF>Tro Tàn</color>, hiệu quả tăng bằng với 100% tấn công của Burnice.\n<color=#FF5521>Chỉ Số Tích Lũy Dị Thường Hỏa</color> tích lũy từ hiệu quả <color=#FFFFFF>Tro Tàn</color> tăng 25%.",
+                "Burnice_Talent_01_Desc_02": "\"Ai cũng có lúc không được thuận lợi, chuyện này bình thường thôi!\"\n\"Đừng buồn, Caesar, làm một ly Nitro-Fuel đặc biệt nha? Tôi đã cho rất nhiều rất nhiều đường đó!\"",
+                "Burnice_Talent_01_Desc_01": "Giới hạn của <color=#FFFFFF>Điểm Cháy</color> từ 100 điểm tăng đến 140 điểm. Khi vào chiến trường, Burnice tích lũy thêm 40 <color=#FFFFFF>Điểm Cháy</color>. Tăng bội số DMG của hiệu quả <color=#FFFFFF>Tro Tàn</color>, hiệu quả tăng bằng với 100% tấn công của Burnice. <color=#FF5521>Chỉ Số Tích Lũy Dị Thường Hỏa</color> tích lũy từ hiệu quả <color=#FFFFFF>Tro Tàn</color> tăng 25%.",
+                "Burnice_Talent_01_Title_Realign": "Trái Tim Nồng Nhiệt"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "Tăng Lượng Không Tăng Giá",
+                "Burnice_Talent_02_Desc_01_Realign": "Khi kích hoạt hiệu quả <color=#FFFFFF>Tro Tàn</color>, sẽ thi triển <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> lên kẻ địch, tối đa dồn 5 tầng, duy trì 6s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì. Khi bị phe ta tấn công, mỗi tầng <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> mà mục tiêu có sẽ khiến Tỷ Lệ Xuyên Giáp của tấn công lần này tăng 4%, tối đa tăng 20%.",
+                "Burnice_Talent_02_Desc_02": "Là một thợ pha chế của Những Đứa Con Của Calydon, Burnice rất vui vẻ khi pha chế món Nitro-Fuel ngon nhất New Eridu cho tất cả bạn bè của mình.\nĐương nhiên, nếu như bạn là \"kẻ địch\" của cô ấy... thì sẽ có cơ hội được thưởng thức món đồ uống với hương vị độc đáo chưa từng có.\n\"Là hương vị tuyệt hảo mà cả đời chỉ được uống một lần thôi đó!\"",
+                "Burnice_Talent_02_Desc_01": "Khi kích hoạt hiệu quả <color=#FFFFFF>Tro Tàn</color>, sẽ thi triển <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> lên kẻ địch, tối đa dồn 5 tầng, duy trì 6s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì. Khi bị phe ta tấn công, mỗi tầng <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> mà mục tiêu có sẽ khiến Tỷ Lệ Xuyên Giáp của tấn công lần này tăng 4%, tối đa tăng 20%.",
+                "Burnice_Talent_02_Title_Realign": "Tăng Lượng Không Tăng Giá"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "Bản Tính Lạc Quan",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Burnice_Talent_03_Desc_02": "\"Cái tên Burnice đó, bất cứ lúc nào nhìn cũng tràn trề sức sống! Ngay cả lúc mới vừa thức giấc cũng vậy luôn! Thật không biết từ đâu mà cô ta có nhiều năng lượng như thế...\"\n\"Càng đáng sợ hơn nữa là, cô ta còn có thể kéo theo cả những người xung quanh cũng trở nên tích cực theo! Thế này có khác gì yêu quái không chứ!\"\n\"Có điều... tôi cũng không ghét chuyện này...\"\n— Từ một người quản lý heo con không muốn tiết lộ tên",
+                "Burnice_Talent_03_Title_Realign": "Bản Tính Lạc Quan"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "Tiếp Tế Nhiên Liệu Siêu Cấp",
+                "Burnice_Talent_04_Desc_01_Realign": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color> hoặc <color=#FFFFFF>Tấn Công Chi Viện</color> đánh trúng kẻ địch, Tỷ Lệ Bạo Kích của chiêu thức tăng 30%.\nTrong <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color>, giới hạn thời gian duy trì phun lửa tăng 1s.",
+                "Burnice_Talent_04_Desc_02": "\"Thích thức uống mà tôi pha chế hả? Cảm ơn nha, Nanh Thép cũng rất thích~ Cái tên đó một bữa có thể uống cả 200 lít luôn đó!\"\n\"À, Nanh Thép chính là chiếc xe tải đó của chúng tôi!\"\n\"Muốn nếm thử món nhiên liệu đặc biệt của nó không? Hot lắm luôn đó~\"",
+                "Burnice_Talent_04_Desc_01": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color> hoặc <color=#FFFFFF>Tấn Công Chi Viện</color> đánh trúng kẻ địch, Tỷ Lệ Bạo Kích của chiêu thức tăng 30%. Trong <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color>, giới hạn thời gian duy trì phun lửa tăng 1s.",
+                "Burnice_Talent_04_Title_Realign": "Tiếp Tế Nhiên Liệu Siêu Cấp"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "Vũ Điệu Lửa Và Băng",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Burnice_Talent_05_Desc_02": "Khi pha chế thức uống, nước đá cũng là một khâu cực kỳ quan trọng.\nDù sao thì nếu không có cái lạnh buốt giá, sẽ khó mà tôn lên được sự nóng rực tột cùng.\n\"Cảm giác lửa và băng giao hòa này~ thật khiến người ta mê đắm!\"",
+                "Burnice_Talent_05_Title_Realign": "Vũ Điệu Lửa Và Băng"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "Lời Mời Bừng Lửa",
+                "Burnice_Talent_06_Desc_01_Realign": "Khi Burnice phát động <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color> đánh trúng kẻ địch, sẽ kích hoạt thêm hiệu quả <color=#FFFFFF>Tro Tàn</color> đặc biệt, gây <color=#FF5521>DMG Hỏa</color> cho mục tiêu bằng với 60% tấn công của Burnice, trong 0.5s tối đa kích hoạt 1 lần, không cần tiêu hao <color=#FFFFFF>Điểm Cháy</color>.\nSau khi phát động <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color> đánh trúng kẻ địch, trong thời gian phát động chiêu thức, <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color>, hiệu quả <color=#FFFFFF>Tro Tàn</color> đặc biệt, hiệu quả <color=#FF5521>Thiêu Đốt</color> sẽ bỏ qua 25% <color=#FF5521>Kháng DMG Hỏa</color> của mục tiêu.\nKhi phát động xung kích lửa thiêu trong <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color> đánh trúng kẻ địch trong trạng thái <color=#FF5521>Thiêu Đốt</color>, sẽ tổng kết thêm một lần sát thương <color=#FF5521>Thiêu Đốt</color>, hiệu quả sát thương bằng với 1,800% hiệu quả ban đầu, cùng một mục tiêu trong 20s tối đa kích hoạt một lần.",
+                "Burnice_Talent_06_Desc_02": "Hình như đó giờ chưa ai từng thấy dáng vẻ thật sự tức giận của Burnice.\n\"Tin tôi đi, các bạn không muốn thấy đâu~\"\n— Từ một tài xế chuẩn bị vào giấc ngủ trên Nanh Thép",
+                "Burnice_Talent_06_Desc_01": "Khi Burnice phát động <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color> đánh trúng kẻ địch, sẽ kích hoạt thêm hiệu quả <color=#FFFFFF>Tro Tàn</color> đặc biệt, gây <color=#FF5521>DMG Hỏa</color> cho mục tiêu bằng với 60% tấn công của Burnice, trong 0.5s tối đa kích hoạt 1 lần, không cần tiêu hao <color=#FFFFFF>Điểm Cháy</color>. Sau khi phát động <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color> đánh trúng kẻ địch, trong thời gian phát động chiêu thức, <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color>, hiệu quả <color=#FFFFFF>Tro Tàn</color> đặc biệt, hiệu quả <color=#FF5521>Thiêu Đốt</color> sẽ bỏ qua 25% <color=#FF5521>Kháng DMG Hỏa</color> của mục tiêu. Khi phát động xung kích lửa thiêu trong <color=#FFFFFF>Siêu Chiến Kỹ: Cách Lắc Đều Nóng Rực - Hai Shot</color> đánh trúng kẻ địch trong trạng thái <color=#FF5521>Thiêu Đốt</color>, sẽ tổng kết thêm một lần sát thương <color=#FF5521>Thiêu Đốt</color>, hiệu quả sát thương bằng với 1,800% hiệu quả ban đầu, cùng một mục tiêu trong 20s tối đa kích hoạt một lần.",
+                "Burnice_Talent_06_Title_Realign": "Lời Mời Bừng Lửa"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "Piper",
+        "full_name": "Piper Wheel",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "Khoảnh Khắc Nhàn Hạ",
+                "Clara_Talent_01_Desc_01_Realign": "Khi Piper phát động chém xoáy trong <color=#FFFFFF>Chiến Kỹ: Bánh Xe Xoay Chuyển</color>, <color=#FFFFFF>Siêu Chiến Kỹ: Xoay Chuyển Động Cơ</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> và đánh trúng kẻ địch, sẽ có tỷ lệ 50% nhận thêm 1 tầng <color=#FFFFFF>Động Lực</color>, giới hạn số tầng cộng dồn <color=#FFFFFF>Động Lực</color> tăng đến 30 tầng.",
+                "Clara_Talent_01_Desc_02": "Một buổi sáng thường ngày nào đó của \"Những Đứa Con Của Calydon\", Piper đang nhàn nhã ngáp dài một cái.\n\"Chào buổi sáng...\"\n\"Hôm nay cũng có thể là một ngày nhàn hạ chứ? Dưỡng sinh quan trọng lắm đấy, nếu không cái người này sẽ lăn ra chết vì lao lực đó...\"",
+                "Clara_Talent_01_Desc_01": "Khi Piper phát động chém xoáy trong <color=#FFFFFF>Chiến Kỹ: Bánh Xe Xoay Chuyển</color>, <color=#FFFFFF>Siêu Chiến Kỹ: Xoay Chuyển Động Cơ</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> và đánh trúng kẻ địch, sẽ có tỷ lệ 50% nhận thêm 1 tầng <color=#FFFFFF>Động Lực</color>, giới hạn số tầng cộng dồn <color=#FFFFFF>Động Lực</color> tăng đến 30 tầng.",
+                "Clara_Talent_01_Title_Realign": "Khoảnh Khắc Nhàn Hạ"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "Tinh Thần Cầu Tiến",
+                "Clara_Talent_02_Desc_01_Realign": "Trong thời gian phát động <color=#FFFFFF>Chiến Kỹ: Bánh Xe Xoay Chuyển</color> và <color=#FFFFFF>Siêu Chiến Kỹ: Xoay Chuyển Động Cơ</color>, sẽ tăng tốc độ di chuyển của Piper.\nKhi đòn tấn công đập xuống được phát động trong <color=#FFFFFF>Chiến Kỹ: Có \"Hơi\" Nặng Đấy</color>, <color=#FFFFFF>Siêu Chiến Kỹ: Cực Kỳ Nặng</color> và <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, <color=#F0D12B>DMG Vật Lý</color> do chiêu thức gây ra tăng 10%, cứ có 1 tầng <color=#FFFFFF>Động Lực</color>, hiệu quả buff này sẽ tăng thêm 1%.",
+                "Clara_Talent_02_Desc_02": "Những nỗ lực tạm thời là nhằm để nghỉ ngơi lâu dài hơn.\nMà đương nhiên, nếu có thể không cần phải nỗ lực thì sẽ càng tốt hơn... Piper vươn vai, vỗ vỗ lên chiếc giường êm ái trên xe rồi nằm xuống.",
+                "Clara_Talent_02_Desc_01": "Trong thời gian phát động <color=#FFFFFF>Chiến Kỹ: Bánh Xe Xoay Chuyển</color> và <color=#FFFFFF>Siêu Chiến Kỹ: Xoay Chuyển Động Cơ</color>, sẽ tăng tốc độ di chuyển của Piper. Khi đòn tấn công đập xuống được phát động trong <color=#FFFFFF>Chiến Kỹ: Có \"Hơi\" Nặng Đấy</color>, <color=#FFFFFF>Siêu Chiến Kỹ: Cực Kỳ Nặng</color> và <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, <color=#F0D12B>DMG Vật Lý</color> do chiêu thức gây ra tăng 10%, cứ có 1 tầng <color=#FFFFFF>Động Lực</color>, hiệu quả buff này sẽ tăng thêm 1%.",
+                "Clara_Talent_02_Title_Realign": "Tinh Thần Cầu Tiến"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "Chuyên Gia Xe Tải",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Clara_Talent_03_Desc_02": "Piper luôn tràn trề hứng thú với mọi thứ về xe tải.\nCho dù đang ngủ say, chỉ cần nghe thấy tiếng động cơ vang lên là thiếu nữ có thể lập tức tỉnh táo ngay.\n\"100 mã lực, tải trọng 5 tấn, đây là... mẫu xe tải nhẹ mà Three Gates mới mở bán!\"",
+                "Clara_Talent_03_Title_Realign": "Chuyên Gia Xe Tải"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "Tay Lái Điêu Luyện",
+                "Clara_Talent_04_Desc_01_Realign": "Khi nhân vật bất kỳ trong đội gán hiệu quả Thuộc Tính Dị Thường lên kẻ địch, Piper sẽ hồi phục 20 điểm Năng Lượng, trong 30s tối đa kích hoạt một lần.",
+                "Clara_Talent_04_Desc_02": "Trở thành hành khách trên xe của Piper là một trải nghiệm khiến người ta phải \"tim đập chân run\".\nThông thường, lúc cô nhẹ nhàng nhắc nhở \"ngồi~ vững~ nha~\", thì khi chữ \"vững\" chưa kịp nói hết là chiếc xe đã phóng đi với một tốc độ đáng kinh ngạc.\nĐương nhiên, cô ấy vẫn luôn có thể đưa bạn đến nơi an toàn trong thời gian ngắn nhất... Ừm thì, đây là chưa tính về mặt tổn thất tinh thần.",
+                "Clara_Talent_04_Desc_01": "Khi nhân vật bất kỳ trong đội gán hiệu quả Thuộc Tính Dị Thường lên kẻ địch, Piper sẽ hồi phục 20 điểm Năng Lượng, trong 30s tối đa kích hoạt một lần.",
+                "Clara_Talent_04_Title_Realign": "Tay Lái Điêu Luyện"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "Sở Thích Cá Nhân",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Clara_Talent_05_Desc_02": "Dường như Piper có một vài sở thích cá nhân không khớp lắm với ngoại hình của cô.\n\"Con ngựa này trông có vẻ chạy nhanh lắm... Ưm, mà sao ít người mua quá, quả nhiên tỷ lệ thắng của con kia vẫn cao hơn sao...\"\n\"Ực... Nitro-Fuel... tôi mới uống có nhiêu đâu... Thêm ly nữa!\"",
+                "Clara_Talent_05_Title_Realign": "Sở Thích Cá Nhân"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "Hưng Phấn Độ Nhẹ",
+                "Clara_Talent_06_Desc_01_Realign": "Giới hạn thời gian duy trì <color=#FFFFFF>Siêu Chiến Kỹ: Xoay Chuyển Động Cơ</color> tăng 2s, thời gian duy trì <color=#FFFFFF>Động Lực</color> tăng 4s.",
+                "Clara_Talent_06_Desc_02": "Như bạn biết, nguyện vọng lớn nhất của Piper chính là mãi mãi được sống những ngày nhàn rỗi.\nNhưng vào lúc này đây, thiếu nữ với đôi mắt đang nhướng không lên nhưng tinh thần lại phấn chấn lạ thường.\n\"Nếu là vì {F#cô}{M#cậu}... thì cái người này cố gắng một chút chút, cũng được nha~\"",
+                "Clara_Talent_06_Desc_01": "Giới hạn thời gian duy trì <color=#FFFFFF>Siêu Chiến Kỹ: Xoay Chuyển Động Cơ</color> tăng 2s, thời gian duy trì <color=#FFFFFF>Động Lực</color> tăng 4s.",
+                "Clara_Talent_06_Title_Realign": "Hưng Phấn Độ Nhẹ"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "Yanagi",
+        "full_name": "Tsukishiro Yanagi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "Biết Người Biết Ta",
+                "Yanagi_Talent_01_Desc_01_Realign": "Khi nhân vật bất kỳ trong đội gán hiệu quả Thuộc Tính Dị Thường lên kẻ địch, Yanagi sẽ nhận được 1 tầng <color=#FFFFFF>Am Hiểu</color>, duy trì 15s, tối đa dồn 3 tầng, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì.\nKhi bị kẻ địch tấn công, Yanagi sẽ tiêu hao 1 tầng <color=#FFFFFF>Am Hiểu</color> và nhận được hiệu quả Vô Địch, duy trì 1s.\nKhi có 1 tầng <color=#FFFFFF>Am Hiểu</color> trở lên, Yanagi tăng 80 điểm Tinh Thông Dị Thường.",
+                "Yanagi_Talent_01_Desc_02": "\"Am hiểu nhược điểm của kẻ địch, cũng đồng nghĩa với việc bản thân sẽ có nhiều sự đảm bảo... và nhiều cơ hội thắng hơn.\"\nYanagi đẩy cặp kính, dù cho phần thắng đã nằm trong tay, nhưng cô vẫn không chút biểu hiện gì.",
+                "Yanagi_Talent_01_Desc_01": "Khi nhân vật bất kỳ trong đội gán hiệu quả Thuộc Tính Dị Thường lên kẻ địch, Yanagi sẽ nhận được 1 tầng <color=#FFFFFF>Am Hiểu</color>, duy trì 15s, tối đa dồn 3 tầng, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì. Khi bị kẻ địch tấn công, Yanagi sẽ tiêu hao 1 tầng <color=#FFFFFF>Am Hiểu</color> và nhận được hiệu quả Vô Địch, duy trì 1s. Khi có 1 tầng <color=#FFFFFF>Am Hiểu</color> trở lên, Yanagi tăng 80 điểm Tinh Thông Dị Thường.",
+                "Yanagi_Talent_01_Title_Realign": "Biết Người Biết Ta"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "Khả Năng Thích Ứng Siêu Việt",
+                "Yanagi_Talent_02_Desc_01_Realign": "Trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, lượng <color=#2EB6FF>Chỉ Số Tích Lũy Dị Thường Điện</color> tích lũy từ đòn đâm nhanh tăng 20%.\nKhi tấn công đâm nhanh trúng kẻ địch, duy trì nhấn giữ nút Tấn Công Đặc Biệt, có thể tiêu hao thêm 10 điểm Năng Lượng, phát động tấn công đâm nhanh lần nữa.\nKhi không đủ Năng Lượng hoặc ngừng nhấn giữ sẽ tự động thực hiện ngay đòn tấn công đáp đất.\nKhi tấn công đáp đất đánh trúng kẻ địch trong trạng thái Thuộc Tính Dị Thường và kích hoạt hiệu quả <color=#FFFFFF>Hỗn Loạn Phân Cực</color>, bội số sát thương gây ra cho mục tiêu tăng đến 20% so với hiệu quả <color=#FFFFFF>Hỗn Loạn</color> ban đầu.\nCứ phát động thêm một lần đâm nhanh, bội số sát thương này tăng thêm 15%, hiệu quả tăng thêm bội số sát thương tối đa kích hoạt 2 lần.",
+                "Yanagi_Talent_02_Desc_02": "\"Nếu là Yanagi... bất luận là đặt vào hoàn cảnh thế nào đi nữa, thì cũng nhất định sẽ xử lý tốt.\"\n\"Tôi tin tưởng cô ấy hơn chính bản thân mình.\"\n— Một võ sĩ đang thực tập \"chém tất cả lá rơi trước mặt\" đã nói",
+                "Yanagi_Talent_02_Desc_01": "Trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, lượng <color=#2EB6FF>Chỉ Số Tích Lũy Dị Thường Điện</color> tích lũy từ đòn đâm nhanh tăng 20%. Khi tấn công đâm nhanh trúng kẻ địch, duy trì nhấn giữ nút Tấn Công Đặc Biệt, có thể tiêu hao thêm 10 điểm Năng Lượng, phát động tấn công đâm nhanh lần nữa. Khi không đủ Năng Lượng hoặc ngừng nhấn giữ sẽ tự động thực hiện ngay đòn tấn công đáp đất. Khi tấn công đáp đất đánh trúng kẻ địch trong trạng thái Thuộc Tính Dị Thường và kích hoạt hiệu quả <color=#FFFFFF>Hỗn Loạn Phân Cực</color>, bội số sát thương gây ra cho mục tiêu tăng đến 20% so với hiệu quả <color=#FFFFFF>Hỗn Loạn</color> ban đầu. Cứ phát động thêm một lần đâm nhanh, bội số sát thương này tăng thêm 15%, hiệu quả tăng thêm bội số sát thương tối đa kích hoạt 2 lần.",
+                "Yanagi_Talent_02_Title_Realign": "Khả Năng Thích Ứng Siêu Việt"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "Quản Lý Học Của Nhà Tsukishiro",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Yanagi_Talent_03_Desc_02": "Mọi người đều nói trong Biệt Đội 6 toàn là quái nhân và thiên tài, trong đó \"người bình thường\" duy nhất chính là Tsukishiro Yanagi.\nNhưng cũng nhờ có cô ấy mà quái nhân và thiên tài mới có thể kết nối với nhau.",
+                "Yanagi_Talent_03_Title_Realign": "Quản Lý Học Của Nhà Tsukishiro"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "Kẻ Nắm Cờ",
+                "Yanagi_Talent_04_Desc_01_Realign": "Khi Yanagi gây sát thương Thuộc Tính Dị Thường cho kẻ địch, sẽ gán hiệu quả <color=#FFFFFF>Nhìn Thấu</color> lên mục tiêu, duy trì 15s.\nKhi kẻ địch trong hiệu quả <color=#FFFFFF>Nhìn Thấu</color> bị tấn công, thì Tỷ Lệ Xuyên Giáp của tấn công lần này tăng 16%.",
+                "Yanagi_Talent_04_Desc_02": "Bất luận trong tình huống nào, Yanagi đều có thể nắm bắt thông tin một cách nhanh chóng nhất, đồng thời dựa vào đó đưa ra phán đoán phù hợp nhất.",
+                "Yanagi_Talent_04_Desc_01": "Khi Yanagi gây sát thương Thuộc Tính Dị Thường cho kẻ địch, sẽ gán hiệu quả <color=#FFFFFF>Nhìn Thấu</color> lên mục tiêu, duy trì 15s. Khi kẻ địch trong hiệu quả <color=#FFFFFF>Nhìn Thấu</color> bị tấn công, thì Tỷ Lệ Xuyên Giáp của tấn công lần này tăng 16%.",
+                "Yanagi_Talent_04_Title_Realign": "Kẻ Nắm Cờ"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "\"Mẹ\" Của Oni",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Yanagi_Talent_05_Desc_02": "Hiện tại, Tsukishiro Yanagi là người giám hộ chỉ định duy nhất của Soukaku.\n\"Soukaku, đó là cơm nắm của đội trưởng, không được tùy tiện ăn... Thôi bỏ đi, qua đây, chị hâm nóng cho.\"\n\"Lát nữa mua lại món khác cho đội trưởng vậy...\"",
+                "Yanagi_Talent_05_Title_Realign": "\"Mẹ\" Của Oni"
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "Dòng Máu Phi Nhân Loại",
+                "Yanagi_Talent_06_Desc_01_Realign": "Sau khi phát động đòn đâm nhanh trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, thời gian duy trì của trạng thái <color=#FFFFFF>Shinrabanshou</color> tăng đến 30s. Trong thời gian duy trì trạng thái, sát thương do <color=#FFFFFF>Siêu Chiến Kỹ</color> gây ra tăng 20%.\nTrong <color=#FFFFFF>Khả Năng Thích Ứng Siêu Việt</color>, giới hạn số lần kích hoạt hiệu quả tăng thêm bội số sát thương của <color=#FFFFFF>Hỗn Loạn Phân Cực</color> tăng đến 4 lần, trong 4 lần đầu phát động thêm tấn công đâm nhanh sẽ giảm một nửa tiêu hao Năng Lượng.",
+                "Yanagi_Talent_06_Desc_02": "Trong cơ thể của Tsukishiro Yanagi có một phần dòng máu không thuộc về cô ấy.\nDòng máu này đã từng giúp cô có lại cuộc đời trong hoàn cảnh tuyệt vọng, và cũng nhờ đó mà có một số sức mạnh đặc biệt.\n\"Nhưng bạn biết đấy, những thứ không thuộc về mình... rồi sẽ phải trả giá.\"",
+                "Yanagi_Talent_06_Desc_01": "Sau khi phát động đòn đâm nhanh trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, thời gian duy trì của trạng thái <color=#FFFFFF>Shinrabanshou</color> tăng đến 30s. Trong thời gian duy trì trạng thái, sát thương do <color=#FFFFFF>Siêu Chiến Kỹ</color> gây ra tăng 20%. Trong <color=#FFFFFF>Khả Năng Thích Ứng Siêu Việt</color>, giới hạn số lần kích hoạt hiệu quả tăng thêm bội số sát thương của <color=#FFFFFF>Hỗn Loạn Phân Cực</color> tăng đến 4 lần, trong 4 lần đầu phát động thêm tấn công đâm nhanh sẽ giảm một nửa tiêu hao Năng Lượng.",
+                "Yanagi_Talent_06_Title_Realign": "Dòng Máu Phi Nhân Loại"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

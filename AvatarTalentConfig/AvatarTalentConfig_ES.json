@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "Anby",
+        "full_name": "Anby Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "Modo supercargado",
+                "Anbi_Talent_01_Desc_01_Realign": "Al golpear a un enemigo con el cuarto corte del <color=#FFFFFF>ataque normal</color>, aumenta la Tasa de Energía de Anby en un 12 % durante 30 s.",
+                "Anbi_Talent_01_Desc_02": "«¡Con un minuto de recarga, puedes pelear hasta media hora!», eso le aseguró el vendedor de estos módulos expansivos de arma. Y ella lo comprobó al utilizarlos.",
+                "Anbi_Talent_01_Desc_01": "Al golpear a un enemigo con el cuarto corte del <color=#FFFFFF>ataque normal</color>, aumenta la Tasa de Energía de Anby en un 12 % durante 30 s.",
+                "Anbi_Talent_01_Title_Realign": "Modo supercargado"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "Descarga precisa",
+                "Anbi_Talent_02_Desc_01_Realign": "Al golpear a un enemigo afectado por Aturdimiento con <color=#FFFFFF>ataque normal: Rayo descendente</color>, aumenta el daño infligido en un 30 %. Al golpear a un enemigo que no esté afectado por Aturdimiento con la <color=#FFFFFF>técnica especial EX</color>, aumenta el Aturdimiento provocado en un 10 %.",
+                "Anbi_Talent_02_Desc_02": "«Unos cuantos toques te mandarán al país de los sueños». Mientras veía al enemigo caer ante ella, añadió: «Al menos, eso es lo que pasa en las películas».",
+                "Anbi_Talent_02_Desc_01": "Al golpear a un enemigo afectado por Aturdimiento con <color=#FFFFFF>ataque normal: Rayo descendente</color>, aumenta el daño infligido en un 30 %. Al golpear a un enemigo que no esté afectado por Aturdimiento con la <color=#FFFFFF>técnica especial EX</color>, aumenta el Aturdimiento provocado en un 10 %.",
+                "Anbi_Talent_02_Title_Realign": "Descarga precisa"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "Buena disciplina",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Anbi_Talent_03_Desc_02": "Corre y ataca como el rayo. Cuando de Cavidades se trata, es toda una experta.",
+                "Anbi_Talent_03_Title_Realign": "Buena disciplina"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "Carga conductiva",
+                "Anbi_Talent_04_Desc_01_Realign": "Al usar la <color=#FFFFFF>técnica en cadena</color> o la <color=#FFFFFF>técnica definitiva</color>, los agentes inactivos eléctricos recuperan 3 ptos. de energía. Por cada 12 % de Tasa de Energía que tenga Anby, recuperarán 2 ptos. de energía adicionales. Pueden recuperar hasta 6 ptos. de esta forma.",
+                "Anbi_Talent_04_Desc_02": "Si prefieres pelear sol{M#o}{F#a}, no durarás mucho tiempo. Un saqueador de Cavidades experimentado sabe crear una ventana de oportunidad para sus compañeros.",
+                "Anbi_Talent_04_Desc_01": "Al usar la <color=#FFFFFF>técnica en cadena</color> o la <color=#FFFFFF>técnica definitiva</color>, los agentes inactivos eléctricos recuperan 3 ptos. de energía. Por cada 12 % de Tasa de Energía que tenga Anby, recuperarán 2 ptos. de energía adicionales. Pueden recuperar hasta 6 ptos. de esta forma.",
+                "Anbi_Talent_04_Title_Realign": "Carga conductiva"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "Escuela de la vida",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Anbi_Talent_05_Desc_02": "Trabajar para las Liebres Astutas no solo ayuda a fortalecer el espíritu, también ayuda (o más bien, te obliga) a mejorar tu condición física.",
+                "Anbi_Talent_05_Title_Realign": "Escuela de la vida"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "Campo de recarga",
+                "Anbi_Talent_06_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, Anby obtiene 8 cargas energéticas (pueden acumularse hasta 8 cargas). Al golpear al enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color>, consume 1 carga energética y aumenta el daño infligido en un 45 %.",
+                "Anbi_Talent_06_Desc_02": "Destellos eléctricos saltaban entre sus dedos. Al alzar la mirada, sus ojos rebosaban una ambición que iba más allá de su corta edad. Tal vez algún día se convierta en el ama de la electricidad.",
+                "Anbi_Talent_06_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, Anby obtiene 8 cargas energéticas (pueden acumularse hasta 8 cargas). Al golpear al enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color>, consume 1 carga energética y aumenta el daño infligido en un 45 %.",
+                "Anbi_Talent_06_Title_Realign": "Campo de recarga"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "Nekomata",
+        "full_name": "Nekomiya Mana",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "Cazadora de aves",
+                "Tsubaki_Talent_01_Desc_01_Realign": "Al golpear a un enemigo por la espalda, Nekomata ignora un 16 % de la <color=#F0D12B>resistencia física</color> del objetivo. Cuando el enemigo está afectado por Aturdimiento, todos los ataques de Nekomata se consideran ataques por la espalda.",
+                "Tsubaki_Talent_01_Desc_02": "Dado su tamaño pequeño, Nekomata carece de fuerza, pero lo compensa con su vista aguda para encontrar puntos débiles y golpear donde más le duele al enemigo.",
+                "Tsubaki_Talent_01_Desc_01": "Al golpear a un enemigo por la espalda, Nekomata ignora un 16 % de la <color=#F0D12B>resistencia física</color> del objetivo. Cuando el enemigo está afectado por Aturdimiento, todos los ataques de Nekomata se consideran ataques por la espalda.",
+                "Tsubaki_Talent_01_Title_Realign": "Cazadora de aves"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "El gato y el ratón",
+                "Tsubaki_Talent_02_Desc_01_Realign": "Cuando Nekomata es la agente activa y solo hay un enemigo en el campo, aumenta la Tasa de Energía de Nekomata en un 25 %.",
+                "Tsubaki_Talent_02_Desc_02": "Los gatos disfrutan de jugar con sus presas.\nCuando solo queda un ratón, ha llegado la hora de que Nekomata se divierta.",
+                "Tsubaki_Talent_02_Desc_01": "Cuando Nekomata es la agente activa y solo hay un enemigo en el campo, aumenta la Tasa de Energía de Nekomata en un 25 %.",
+                "Tsubaki_Talent_02_Title_Realign": "El gato y el ratón"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "Cola izquierda curiosa",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Tsubaki_Talent_03_Desc_02": "Cuentan las leyendas de las civilizaciones antiguas que las colas representan las tantas vidas de los gatos, cada una un signo de la sabiduría y experiencia que han acumulado. A saber si son verdad, pero la experiencia que Nekomata ha adquirido en las calles es real.",
+                "Tsubaki_Talent_03_Title_Realign": "Cola izquierda curiosa"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "Garras afiladas",
+                "Tsubaki_Talent_04_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, aumenta la Probabilidad de Crítico de Nekomata en un 7 % durante 15 s. Pueden acumularse hasta 2 cargas. La duración de cada carga es independiente.",
+                "Tsubaki_Talent_04_Desc_02": "«¡Más! ¡Dame más! ¡Lameré el plato hasta dejarlo limpio!».\nSus ojos felinos destellaban mientras relamía sus zarpas.",
+                "Tsubaki_Talent_04_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, aumenta la Probabilidad de Crítico de Nekomata en un 7 % durante 15 s. Pueden acumularse hasta 2 cargas. La duración de cada carga es independiente.",
+                "Tsubaki_Talent_04_Title_Realign": "Garras afiladas"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "Cola derecha de la suerte",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Tsubaki_Talent_05_Desc_02": "Cuentan las leyendas de las civilizaciones antiguas que las colas representan las tantas vidas de los gatos, cada una un signo de la sabiduría y experiencia que han acumulado. A veces, Nekomata se pregunta: si tiene la suerte de vivir lo suficiente, ¿le crecerá otra cola?",
+                "Tsubaki_Talent_05_Title_Realign": "Cola derecha de la suerte"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "Linaje depredador",
+                "Tsubaki_Talent_06_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el Daño Crítico de Nekomata en un 18 %. Pueden acumularse hasta 3 cargas. Este efecto desaparece al dejar el combate. Cuando Nekomata derrota a un enemigo, acumula el número máximo de cargas de este efecto.",
+                "Tsubaki_Talent_06_Desc_02": "«Cuando un semihumano felino obtiene un refuerzo positivo por su conducta agresiva, es muy probable que su inclinación salvaje emerja de las profundidades de su ser.\nPor suerte, dicha inclinación no dura para siempre...».\n—Extracto del título obsoleto, «Investigación inconclusa sobre los semihumanos felinos»",
+                "Tsubaki_Talent_06_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el Daño Crítico de Nekomata en un 18 %. Pueden acumularse hasta 3 cargas. Este efecto desaparece al dejar el combate. Cuando Nekomata derrota a un enemigo, acumula el número máximo de cargas de este efecto.",
+                "Tsubaki_Talent_06_Title_Realign": "Linaje depredador"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "Nicole",
+        "full_name": "Nicole Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "Bomba supercargada",
+                "Nostradamus_Talent_01_Desc_01_Realign": "El daño infligido por la <color=#FFFFFF>técnica especial EX</color> y la acumulación de Anomalía de Atributo aumentan en un 16 %. Al usar una <color=#FFFFFF>técnica especial EX</color>, por cada 0.1 s de carga acumulada, la duración del campo de energía en el lugar objetivo aumenta en 0.15 s.",
+                "Nostradamus_Talent_01_Desc_02": "«¡Yo les daré fuerzas! ¡Apresúrense! ¿Eh? N-no estaba holgazaneando, ¡necesito un descanso, es todo!»",
+                "Nostradamus_Talent_01_Desc_01": "El daño infligido por la <color=#FFFFFF>técnica especial EX</color> y la acumulación de Anomalía de Atributo aumentan en un 16 %. Al usar una <color=#FFFFFF>técnica especial EX</color>, por cada 0.1 s de carga acumulada, la duración del campo de energía en el lugar objetivo aumenta en 0.15 s.",
+                "Nostradamus_Talent_01_Title_Realign": "Bomba supercargada"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "Concentrador de energía",
+                "Nostradamus_Talent_02_Desc_01_Realign": "Al provocar el efecto negativo de <color=#FFFFFF>técnica pasiva: Maletín mecánico</color>, Nicole recupera 5 ptos. de energía. Puede activarse una vez cada 15 s.",
+                "Nostradamus_Talent_02_Desc_02": "«¡Nunca subestimes el valor de un segundo más! ¿Tienes idea de lo que puedo hacer en un solo segundo? ¡No puedes ni imaginarlo! Así que, ¿puedes darme un bono del 10 %?»",
+                "Nostradamus_Talent_02_Desc_01": "Al provocar el efecto negativo de <color=#FFFFFF>técnica pasiva: Maletín mecánico</color>, Nicole recupera 5 ptos. de energía. Puede activarse una vez cada 15 s.",
+                "Nostradamus_Talent_02_Title_Realign": "Concentrador de energía"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "Astucia de liebre",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Nostradamus_Talent_03_Desc_02": "Con poca fuerza y recursos, Nicole tuvo que valerse de su astucia para sacar a flote a las Liebres Astutas.",
+                "Nostradamus_Talent_03_Title_Realign": "Astucia de liebre"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "Expansión de área",
+                "Nostradamus_Talent_04_Desc_01_Realign": "Cuando Nicole ejecuta una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, el área de ataque del campo de energía que genera en la ubicación del objetivo aumenta en 3 m.",
+                "Nostradamus_Talent_04_Desc_02": "«Aquí, y aquí también. ¡Todo esto se convertirá en territorio de las Liebres Astutas! ¿Oyeron?... ¿Qué? ¿Que en cuánto tiempo? Eh... A juzgar por los ingresos actuales, en unos diez mil años...»",
+                "Nostradamus_Talent_04_Desc_01": "Cuando Nicole ejecuta una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, el área de ataque del campo de energía que genera en la ubicación del objetivo aumenta en 3 m.",
+                "Nostradamus_Talent_04_Title_Realign": "Expansión de área"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "Estrella en el sector",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Nostradamus_Talent_05_Desc_02": "A pesar de que las Liebres Astutas cuentan con muchos enemigos en el sector, han logrado sortear los peligros una y otra vez bajo el mando de Nicole, lo que las ha ayudado a hacerse con fama y experiencia.",
+                "Nostradamus_Talent_05_Title_Realign": "Estrella en el sector"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "Campo de energía corruptivo",
+                "Nostradamus_Talent_06_Desc_01_Realign": "Al infligir daño a un enemigo por medio del campo de energía, la Probabilidad de Crítico de todos los miembros del equipo contra dicho objetivo aumenta en un 1.5 % durante 12 s. Pueden acumularse hasta 10 cargas. La duración de cada carga es independiente.",
+                "Nostradamus_Talent_06_Desc_02": "Mejores municiones, más potencia y más materia etérea comprimida se traducen en más daño, mayor duración y... mayores costos...",
+                "Nostradamus_Talent_06_Desc_01": "Al infligir daño a un enemigo por medio del campo de energía, la Probabilidad de Crítico de todos los miembros del equipo contra dicho objetivo aumenta en un 1.5 % durante 12 s. Pueden acumularse hasta 10 cargas. La duración de cada carga es independiente.",
+                "Nostradamus_Talent_06_Title_Realign": "Campo de energía corruptivo"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "Billy",
+        "full_name": "Billy Kid",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "Entrada espectacular",
+                "Billy_Talent_01_Desc_01_Realign": "Al golpear a un enemigo con un <color=#FFFFFF>ataque rápido</color> o un <color=#FFFFFF>contraataque</color>, Billy recupera 2.7 ptos. adicionales de energía. Puede activarse una vez cada 5 s.",
+                "Billy_Talent_01_Desc_02": "«¡Para ser maleantes, se portan muy bien! ¡Son como los agentes secundarios que acompañan al protagonista y que saltan para detener la bala!»",
+                "Billy_Talent_01_Desc_01": "Al golpear a un enemigo con un <color=#FFFFFF>ataque rápido</color> o un <color=#FFFFFF>contraataque</color>, Billy recupera 2.7 ptos. adicionales de energía. Puede activarse una vez cada 5 s.",
+                "Billy_Talent_01_Title_Realign": "Entrada espectacular"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "Pistolero errante",
+                "Billy_Talent_02_Desc_01_Realign": "Al ejecutar un <color=#FFFFFF>contraataque</color>, aumenta el daño infligido en un 25 %.\nLos disparos al rodar durante un <color=#FFFFFF>ataque normal</color> se consideran evasiones. Durante su ejecución, el agente se vuelve invulnerable y puede activar <color=#FFFFFF>evasiones perfectas</color>.\nAl activar una <color=#FFFFFF>evasión perfecta</color> por medio de un disparo al rodar, provoca de inmediato un <color=#FFFFFF>contraataque</color>.",
+                "Billy_Talent_02_Desc_02": "«Los Caballeros Estelares nunca huyen del peligro. ¡Son lo que yo llamo \"pistoleros errantes\"!»\n—Usuario «MónicaDeMisSueños», en un foro de los Caballeros Estelares",
+                "Billy_Talent_02_Desc_01": "Al ejecutar un <color=#FFFFFF>contraataque</color>, aumenta el daño infligido en un 25 %.\nLos disparos al rodar durante un <color=#FFFFFF>ataque normal</color> se consideran evasiones. Durante su ejecución, el agente se vuelve invulnerable y puede activar <color=#FFFFFF>evasiones perfectas</color>. Al activar una <color=#FFFFFF>evasión perfecta</color> por medio de un disparo al rodar, provoca de inmediato un <color=#FFFFFF>contraataque</color>.",
+                "Billy_Talent_02_Title_Realign": "Pistolero errante"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "Enseñanzas del Caballero Estelar",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Billy_Talent_03_Desc_02": "No reniegues de tu entrenamiento, ¡y no dejes de mejorar! Ese es el espíritu de los Caballeros Estelares, y Billy lo sigue al pie de la letra.",
+                "Billy_Talent_03_Title_Realign": "Enseñanzas del Caballero Estelar"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "Bala justiciera estelar",
+                "Billy_Talent_04_Desc_01_Realign": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, aumenta la Probabilidad de Crítico en función de la distancia entre el agente y el objetivo. Cuanto más cerca esté Billy del objetivo, mayor es el efecto. Puede aumentar hasta en un 32 %.",
+                "Billy_Talent_04_Desc_02": "Estas balas explosivas creadas por el propio Billy son extremadamente letales de cerca...\n... Aunque la intención original de Billy era simplemente inspirar asombro.",
+                "Billy_Talent_04_Desc_01": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, aumenta la Probabilidad de Crítico en función de la distancia entre el agente y el objetivo. Cuanto más cerca esté Billy del objetivo, mayor es el efecto. Puede aumentar hasta en un 32 %.",
+                "Billy_Talent_04_Title_Realign": "Bala justiciera estelar"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "Tecnología perdida",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Billy_Talent_05_Desc_02": "Unos componentes de precisión desconocidos y un diseño estructural único le conceden a Billy un rendimiento muy superior al de sus compañeros... Aunque también una factura elevada por mantenimiento.",
+                "Billy_Talent_05_Title_Realign": "Tecnología perdida"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "Héroe estelar",
+                "Billy_Talent_06_Desc_01_Realign": "Al golpear al enemigo 10 veces o al activar una <color=#FFFFFF>evasión perfecta</color>, aumenta el daño infligido de Billy en un 6 %. Pueden acumularse hasta 5 cargas. Este efecto se reinicia al recibir un golpe o ser arrojado por los aires.",
+                "Billy_Talent_06_Desc_02": "«Uff, ¡me siento estupendo! A un lado, Anby, ¡es mi hora de brillar!»\n«Oye, Anby, ¿puedes poner el tema de los Caballeros Estelares?»\n—«10 frases estrictamente prohibidas en las Liebres Astutas», por Anby Demara",
+                "Billy_Talent_06_Desc_01": "Al golpear al enemigo 10 veces o al activar una <color=#FFFFFF>evasión perfecta</color>, aumenta el daño infligido de Billy en un 6 %. Pueden acumularse hasta 5 cargas. Este efecto se reinicia al recibir un golpe o ser arrojado por los aires.",
+                "Billy_Talent_06_Title_Realign": "Héroe estelar"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "Koleda",
+        "full_name": "Koleda Belobog",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "A golpe de martillo",
+                "OokumaMari_Talent_01_Desc_01_Realign": "Al usar rápidamente una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color> al enlazarlo con el segundo o cuarto golpe de un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque normal</color> fortalecido, aumenta el Aturdimiento provocado en un 15 %.",
+                "OokumaMari_Talent_01_Desc_02": "Su temperamento explosivo es solo una fachada. En realidad, los pensamientos de Koleda son un poco más complejos que eso. Por ejemplo, sabe cuándo blandir el martillo para provocar el mayor dolor posible.",
+                "OokumaMari_Talent_01_Desc_01": "Al usar rápidamente una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color> al enlazarlo con el segundo o cuarto golpe de un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque normal</color> fortalecido, aumenta el Aturdimiento provocado en un 15 %.",
+                "OokumaMari_Talent_01_Title_Realign": "A golpe de martillo"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "Recuperación cinética",
+                "OokumaMari_Talent_02_Desc_01_Realign": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, Koleda recupera 60 ptos. de energía. Puede activarse una vez cada 45 s.",
+                "OokumaMari_Talent_02_Desc_02": "Para Koleda, un buen golpe de martillo obedece a un buen ritmo. Como si fuera un golpe de tambor, un nuevo martillazo refuerza el ritmo del anterior. Por supuesto, no se sabe cuánto tiempo pueden durar estos juguetitos en sus manos.",
+                "OokumaMari_Talent_02_Desc_01": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, Koleda recupera 60 ptos. de energía. Puede activarse una vez cada 45 s.",
+                "OokumaMari_Talent_02_Title_Realign": "Recuperación cinética"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "¡No te metas conmigo!",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "OokumaMari_Talent_03_Desc_02": "Como el juguete aprobado de Koleda, es mejor que no la molestes cuando comienza a blandir su martillo. Sé un buen juguete y aguanta el golpe. Después de todo, ¿de qué te sirve oponer resistencia?",
+                "OokumaMari_Talent_03_Title_Realign": "¡No te metas conmigo!"
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "Calor fundente",
+                "OokumaMari_Talent_04_Desc_01_Realign": "Al consumir el efecto de <color=#FFFFFF>fragua incandescente</color> y ejecutar un <color=#FFFFFF>ataque normal</color> fortalecido, Koleda obtiene 1 carga energizante (pueden acumularse hasta 2 cargas). Al golpear a un enemigo con una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, consume todas las cargas energizantes. Por cada carga energizante consumida, aumenta el daño infligido en un 18 %.",
+                "OokumaMari_Talent_04_Desc_02": "El espíritu combatiente se introduce en Koleda conforme las llamas de su martillo aumentan la temperatura. Ahora ella es más volátil que el éter.",
+                "OokumaMari_Talent_04_Desc_01": "Al consumir el efecto de <color=#FFFFFF>fragua incandescente</color> y ejecutar un <color=#FFFFFF>ataque normal</color> fortalecido, Koleda obtiene 1 carga energizante (pueden acumularse hasta 2 cargas). Al golpear a un enemigo con una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, consume todas las cargas energizantes. Por cada carga energizante consumida, aumenta el daño infligido en un 18 %.",
+                "OokumaMari_Talent_04_Title_Realign": "Calor fundente"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "¡¿Te atreves a subestimarme?!",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "OokumaMari_Talent_05_Desc_02": "A Koleda le preocupa que, como una presidenta joven, el público tome a Construcciones Belobog a la ligera. Para compensarlo, suele entrenar arduamente a escondidas.",
+                "OokumaMari_Talent_05_Title_Realign": "¡¿Te atreves a subestimarme?!"
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "Detonación saturada",
+                "OokumaMari_Talent_06_Desc_01_Realign": "Al golpear al enemigo con una explosión provocada por una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, inflige daño adicional que equivale al 360 % del Ataque de Koleda.",
+                "OokumaMari_Talent_06_Desc_02": "Hay dos clases de persona que Koleda detesta: los tontos y los tontos sin remedio. Por suerte, Construcciones Belobog cuenta con una amplia dotación de explosivos; el mejor remedio para los tontos.",
+                "OokumaMari_Talent_06_Desc_01": "Al golpear al enemigo con una explosión provocada por una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, inflige daño adicional que equivale al 360 % del Ataque de Koleda.",
+                "OokumaMari_Talent_06_Title_Realign": "Detonación saturada"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "Antón",
+        "full_name": "Antón Ivanov",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "Ejercicios de calentamiento",
+                "Anton_Talent_01_Desc_01_Realign": "Al golpear a un enemigo con un <color=#FFFFFF>ataque de electrotaladro</color>, Antón puede recuperar hasta 5 ptos. de energía por técnica.",
+                "Anton_Talent_01_Desc_02": "«¿Estás despierto, <i>bro</i>? ¡Date la vuelta! No te quedes atrás. ¡Hora de los estiramientos matutinos!»",
+                "Anton_Talent_01_Desc_01": "Al golpear a un enemigo con un <color=#FFFFFF>ataque de electrotaladro</color>, Antón puede recuperar hasta 5 ptos. de energía por técnica.",
+                "Anton_Talent_01_Title_Realign": "Ejercicios de calentamiento"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "Estado de trance",
+                "Anton_Talent_02_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color> y entrar en el <color=#FFFFFF>estado explosivo</color>, Antón obtendrá un escudo equivalente al 7.5 % de sus PV máx. Al entrar en combate o sustituir a un agente activo encontrándose en <color=#FFFFFF>estado explosivo</color>, se reiniciará el escudo. Puede activarse una vez cada 15 s. El efecto del escudo terminará al salir de <color=#FFFFFF>estado explosivo</color>.",
+                "Anton_Talent_02_Desc_02": "Muy pocos pueden seguir un entrenamiento tan riguroso después de entrenar arduamente por tanto tiempo. Los que lo logran, entran en un estado de trance en el que superan sus propias capacidades. A esto se le llama «la zona».\n¿Y tú? ¿Estás listo para entrar en ella?\n—Del programa exclusivo de Nitrocombustible, «¡Buenos días, adictos al trabajo!»",
+                "Anton_Talent_02_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color> y entrar en el <color=#FFFFFF>estado explosivo</color>, Antón obtendrá un escudo equivalente al 7.5 % de sus PV máx. Al entrar en combate o sustituir a un agente activo encontrándose en <color=#FFFFFF>estado explosivo</color>, se reiniciará el escudo. Puede activarse una vez cada 15 s. El efecto del escudo terminará al salir de <color=#FFFFFF>estado explosivo</color>.",
+                "Anton_Talent_02_Title_Realign": "Estado de trance"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "Entrenamiento rotativo",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Anton_Talent_03_Desc_02": "Tener un conocimiento superficial de todas las cosas puede ser una desventaja, pero en un ambiente con cambios constantes como en las Cavidades, saber un poco de todo puede ayudarte a zafarte de un problema.",
+                "Anton_Talent_03_Title_Realign": "Entrenamiento rotativo"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "¡A toda mecha!",
+                "Anton_Talent_04_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta la Probabilidad de Crítico de todos los miembros del equipo en un 10 % durante 12 s.",
+                "Anton_Talent_04_Desc_02": "«Piensa en la sensación de un entrenamiento normal, ¡y comienza a moverte!». Cuando Antón se pone serio, todos se mueven con mayor agilidad. Después de todo, si no puedes seguirle el ritmo, al siguiente día tendrás que entrenar a solas.",
+                "Anton_Talent_04_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta la Probabilidad de Crítico de todos los miembros del equipo en un 10 % durante 12 s.",
+                "Anton_Talent_04_Title_Realign": "¡A toda mecha!"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "De todo un poco",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Anton_Talent_05_Desc_02": "Tener un conocimiento superficial de todas las cosas puede ser una desventaja, pero con suficiente determinación, ese conocimiento superficial se convertirá en excelencia. ¡Serás imparable!",
+                "Anton_Talent_05_Title_Realign": "De todo un poco"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "Rompiendo el límite",
+                "Anton_Talent_06_Desc_01_Realign": "Al provocar un golpe crítico por medio de un <color=#FFFFFF>ataque de martinete</color>, aumenta el daño infligido por <color=#FFFFFF>ataque normal: Calistenia energizante (estado explosivo)</color> y <color=#FFFFFF>contraataque: Taladro sobrecargado (estado explosivo)</color> en un 4 % durante 30 s. Pueden acumularse hasta 6 cargas. La duración se reinicia con cada activación.",
+                "Anton_Talent_06_Desc_02": "«¡Eso es, <i>bro</i>! ¿Sientes cómo arde?». Cuando Antón quiere romper el límite, su ritmo se acelera de manera sorprendente, y el zumbido que genera responde a su voluntad.",
+                "Anton_Talent_06_Desc_01": "Al provocar un golpe crítico por medio de un <color=#FFFFFF>ataque de martinete</color>, aumenta el daño infligido por <color=#FFFFFF>ataque normal: Calistenia energizante (estado explosivo)</color> y <color=#FFFFFF>contraataque: Taladro sobrecargado (estado explosivo)</color> en un 4 % durante 30 s. Pueden acumularse hasta 6 cargas. La duración se reinicia con cada activación.",
+                "Anton_Talent_06_Title_Realign": "Rompiendo el límite"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "Ben",
+        "full_name": "Ben Bigger",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "Reacción opuesta",
+                "Ben_Talent_01_Desc_01_Realign": "Al bloquear un ataque enemigo con una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, reduce el daño recibido en un 30 % durante 15 s.",
+                "Ben_Talent_01_Desc_02": "«A cada acción corresponde una reacción, así que ¿por qué tienes que ir por ahí rompiendo cosas? Parece que las cuentas no están bien.»",
+                "Ben_Talent_01_Desc_01": "Al bloquear un ataque enemigo con una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, reduce el daño recibido en un 30 % durante 15 s.",
+                "Ben_Talent_01_Title_Realign": "Reacción opuesta"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "No hay mejor defensa que un buen ataque",
+                "Ben_Talent_02_Desc_01_Realign": "Al ejecutar un contragolpe después de un bloqueo por medio de una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, Ben inflige daño adicional equivalente al 300 % de su Defensa.",
+                "Ben_Talent_02_Desc_02": "A diferencia de otros semihumanos úrsidos, Ben conserva la paciencia al momento de pelear. Él está convencido de que, siempre y cuando mantenga una buena defensa, puede esperar hasta que el enemigo exponga su punto débil.",
+                "Ben_Talent_02_Desc_01": "Al ejecutar un contragolpe después de un bloqueo por medio de una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, Ben inflige daño adicional equivalente al 300 % de su Defensa.",
+                "Ben_Talent_02_Title_Realign": "No hay mejor defensa que un buen ataque"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "Contabilidad meticulosa",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Ben_Talent_03_Desc_02": "La responsabilidad financiera implica un estudio cuidadoso de las cuentas y la maximización de los recursos para fortalecer al equipo y a uno mismo.",
+                "Ben_Talent_03_Title_Realign": "Contabilidad meticulosa"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "Adaptabilidad",
+                "Ben_Talent_04_Desc_01_Realign": "Al bloquear un golpe por medio del efecto de invulnerabilidad de Ben durante una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, el daño que inflige el contragolpe de Ben aumenta en un 30 %.",
+                "Ben_Talent_04_Desc_02": "Los instintos naturales contables de Ben le permiten adaptarse rápidamente a la situación.\nYa sea un ajuste de cuentas literal o figurado, lo importante es maximizar las ganancias al menor costo.",
+                "Ben_Talent_04_Desc_01": "Al bloquear un golpe por medio del efecto de invulnerabilidad de Ben durante una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, el daño que inflige el contragolpe de Ben aumenta en un 30 %.",
+                "Ben_Talent_04_Title_Realign": "Adaptabilidad"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "Atención al detalle",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Ben_Talent_05_Desc_02": "Ningún error contable se escapa de la mirada aguda de Ben. Lo mismo ocurre en combate, donde se vuelve más fuerte a medida que corrige los errores.",
+                "Ben_Talent_05_Title_Realign": "Atención al detalle"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "Espíritu salvaje",
+                "Ben_Talent_06_Desc_01_Realign": "Al ejecutar un ataque o un golpe subsiguiente durante una <color=#FFFFFF>técnica especial EX</color>, aumenta el Aturdimiento provocado por <color=#FFFFFF>ataques normales</color>, <color=#FFFFFF>ataques rápidos</color> y <color=#FFFFFF>contraataques</color> en un 20 % durante 12 s.",
+                "Ben_Talent_06_Desc_02": "Los semihumanos úrsidos son distintos a los semihumanos caninos.\nNo se pueden calmar sus ánimos solo con comida.\nSi tienen mal carácter, lo único que puedes hacer es salir corriendo. Salir corriendo lo más lejos que puedas...\n—Extracto del libro discontinuado, «¡Sé un buen vecino! 100 trucos para llevarse bien con los semihumanos»",
+                "Ben_Talent_06_Desc_01": "Al ejecutar un ataque o un golpe subsiguiente durante una <color=#FFFFFF>técnica especial EX</color>, aumenta el Aturdimiento provocado por <color=#FFFFFF>ataques normales</color>, <color=#FFFFFF>ataques rápidos</color> y <color=#FFFFFF>contraataques</color> en un 20 % durante 12 s.",
+                "Ben_Talent_06_Title_Realign": "Espíritu salvaje"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "Grace",
+        "full_name": "Grace Howard",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "Cámara de recarga",
+                "Lisa_Talent_01_Desc_01_Realign": "Al golpear a un enemigo con el cuarto golpe del <color=#FFFFFF>ataque normal</color>, todos los miembros del equipo recuperan 0.25 ptos. de energía.\nTodos los miembros del equipo pueden recuperar hasta 2 ptos. de energía por activación.",
+                "Lisa_Talent_01_Desc_02": "La eficiencia es la vida de la ingeniería, y en la cámara de su pistola está el pulso de la misma.",
+                "Lisa_Talent_01_Desc_01": "Al golpear a un enemigo con el cuarto golpe del <color=#FFFFFF>ataque normal</color>, todos los miembros del equipo recuperan 0.25 ptos. de energía.\nTodos los miembros del equipo pueden recuperar hasta 2 ptos. de energía por activación.",
+                "Lisa_Talent_01_Title_Realign": "Cámara de recarga"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "Perforación relámpago",
+                "Lisa_Talent_02_Desc_01_Realign": "Al golpear a un enemigo con una granada producto de un <color=#FFFFFF>ataque normal</color>, una <color=#FFFFFF>técnica especial</color>, una <color=#FFFFFF>técnica especial EX</color>, o cualquier otra técnica, reduce la <color=#2EB6FF>resistencia eléctrica</color> del objetivo en un 8.5 % y la <color=#2EB6FF>resistencia a acumulación de Anomalía eléctrica</color> en un 8.5 % durante 8 s.",
+                "Lisa_Talent_02_Desc_02": "El pasatiempo favorito de Grace es «diseccionar» componentes mecánicos complejos, incluso en medio de un combate.\n¿Cómo se siente dejar tu vulnerabilidad expuesta parte por parte?",
+                "Lisa_Talent_02_Desc_01": "Al golpear a un enemigo con una granada producto de un <color=#FFFFFF>ataque normal</color>, una <color=#FFFFFF>técnica especial</color>, una <color=#FFFFFF>técnica especial EX</color>, o cualquier otra técnica, reduce la <color=#2EB6FF>resistencia eléctrica</color> del objetivo en un 8.5 % y la <color=#2EB6FF>resistencia a acumulación de Anomalía eléctrica</color> en un 8.5 % durante 8 s.",
+                "Lisa_Talent_02_Title_Realign": "Perforación relámpago"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "Mecánica jefa",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Lisa_Talent_03_Desc_02": "La misma Grace participó en la redacción de los «Lineamientos de seguridad de Construcciones Belobog».\nTambién es la empleada que más veces ha violado la regla que menciona que «está prohibido llevar consigo explosivos peligrosos en la obra».",
+                "Lisa_Talent_03_Title_Realign": "Mecánica jefa"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "Condensador electrónico de detonación",
+                "Lisa_Talent_04_Desc_01_Realign": "Al usar una <color=#FFFFFF>técnica especial EX</color>, Grace obtiene 6 cargas energizantes (pueden acumularse hasta 6 cargas). Al golpear a un enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color>, consume 1 carga energizante y aumenta su Tasa de Energía en un 20 %.",
+                "Lisa_Talent_04_Desc_02": "Antón sospechaba que ese componente al que Grace se refería como «módulo de reciclaje de pulso eléctrico» era en realidad un hámster etéreo corriendo sin cesar día y noche para producir electricidad.\n«¿Puedes ponerle uno a mi <i>bro</i>?»",
+                "Lisa_Talent_04_Desc_01": "Al usar una <color=#FFFFFF>técnica especial EX</color>, Grace obtiene 6 cargas energizantes (pueden acumularse hasta 6 cargas). Al golpear a un enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color>, consume 1 carga energizante y aumenta su Tasa de Energía en un 20 %.",
+                "Lisa_Talent_04_Title_Realign": "Condensador electrónico de detonación"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "Bruja de acero",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Lisa_Talent_05_Desc_02": "La «bruja de acero» es capaz de amansar a cualquier creación mecánica, o eso asegura la usuaria anónima a la que se le ocurrió este sobrenombre.",
+                "Lisa_Talent_05_Title_Realign": "Bruja de acero"
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "Gatillo detonador",
+                "Lisa_Talent_06_Desc_01_Realign": "Al consumir todas las cargas de <color=#FFFFFF>calambre</color> y ejecutar una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, dicha técnica se fortalecerá, arrojará 1 granada adicional y el daño infligido por las granadas aumentará a un 200 %.",
+                "Lisa_Talent_06_Desc_02": "La temperatura promedio de un empleado de Construcciones Belobog es de 98 °C, por lo que Grace siempre ha sido considerada la compuerta de presión.\nUna vez que Grace pierde la paciencia, todo el mundo sabe que debe taparse los oídos.",
+                "Lisa_Talent_06_Desc_01": "Al consumir todas las cargas de <color=#FFFFFF>calambre</color> y ejecutar una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, dicha técnica se fortalecerá, arrojará 1 granada adicional y el daño infligido por las granadas aumentará a un 200 %.",
+                "Lisa_Talent_06_Title_Realign": "Gatillo detonador"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "Corin",
+        "full_name": "Corin Wickes",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "Herida abierta",
+                "Corin_Talent_01_Desc_01_Realign": "Al golpear al enemigo con una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el daño infligido al objetivo en un 12 % durante 15 s.",
+                "Corin_Talent_01_Desc_02": "«¡Ella siempre dice que debemos concentrarnos en lo que hacemos y no dejar que lo de afuera nos distraiga! ¡Lo logré! ¡Después de practicar durante tanto tiempo! ¿Lo viste?»",
+                "Corin_Talent_01_Desc_01": "Al golpear al enemigo con una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el daño infligido al objetivo en un 12 % durante 15 s.",
+                "Corin_Talent_01_Title_Realign": "Herida abierta"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "Efecto pirolítico",
+                "Corin_Talent_02_Desc_01_Realign": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, reduce la <color=#F0D12B>resistencia física</color> del objetivo en un 0.5 % durante 5 s.\nPueden acumularse hasta 20 cargas. La duración de cada carga es independiente.",
+                "Corin_Talent_02_Desc_02": "«Perdone, señor o señora etérea, ¡pero tengo trabajo que hacer! ¡Le ruego que me disculpe!».\nUn sentimiento de culpa genuino embarga a Corin, quien se disculpa sinceramente con los monstruos mientras sostiene la motosierra y extermina a los enemigos.",
+                "Corin_Talent_02_Desc_01": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, reduce la <color=#F0D12B>resistencia física</color> del objetivo en un 0.5 % durante 5 s. Pueden acumularse hasta 20 cargas. La duración de cada carga es independiente.",
+                "Corin_Talent_02_Title_Realign": "Efecto pirolítico"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "Empleada doméstica principiante",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Corin_Talent_03_Desc_02": "«¡M-me esforzaré por convertirme en una buena empleada doméstica!», exclamó Corin mientras avanzaba hacia el ser etéreo, con sierra en mano.",
+                "Corin_Talent_03_Title_Realign": "Empleada doméstica principiante"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "Empleada de batalla",
+                "Corin_Talent_04_Desc_01_Realign": "Al usar un <color=#FFFFFF>apoyo rápido</color>, un <color=#FFFFFF>apoyo defensivo</color> o una <color=#FFFFFF>técnica en cadena</color>, Corin recupera 7.2 ptos. de energía. Puede activarse una vez cada 16 s.",
+                "Corin_Talent_04_Desc_02": "Una empleada doméstica diligente que se esfuerza en todo lo que hace.\nPor supuesto, eso incluye deshacerse de los enemigos en combate.",
+                "Corin_Talent_04_Desc_01": "Al usar un <color=#FFFFFF>apoyo rápido</color>, un <color=#FFFFFF>apoyo defensivo</color> o una <color=#FFFFFF>técnica en cadena</color>, Corin recupera 7.2 ptos. de energía. Puede activarse una vez cada 16 s.",
+                "Corin_Talent_04_Title_Realign": "Empleada de batalla"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "Empleada doméstica de operaciones encubiertas",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Corin_Talent_05_Desc_02": "«Oh, l-lo siento. Soy demasiado torpe y me tiembla un poco la mano al cortar...», exclamaba Corin desanimada mientras contemplaba los pedazos de ser etéreo en el suelo.",
+                "Corin_Talent_05_Title_Realign": "Empleada doméstica de operaciones encubiertas"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "Preparada para todo",
+                "Corin_Talent_06_Desc_01_Realign": "Al golpear a un enemigo con un corte continuo, Corin obtiene 1 carga energizante (pueden acumularse hasta 40 cargas).\nAl ejecutar un <color=#FFFFFF>contraataque</color>, una <color=#FFFFFF>técnica especial</color>, una <color=#FFFFFF>técnica especial EX</color>, un <color=#FFFFFF>apoyo rápido</color> o un <color=#FFFFFF>ataque sucesivo</color> y golpear a un enemigo con el estallido de su motosierra, consume todas sus cargas energizantes. Por cada una de ellas aumenta el daño de Ataque en un 3 %.",
+                "Corin_Talent_06_Desc_02": "Corin sabe que tal vez no es la empleada doméstica más hábil ni la más inteligente, pero ella aspira a ser la más diligente de todas. Y para ello, pone toda su experiencia en práctica.",
+                "Corin_Talent_06_Desc_01": "Al golpear a un enemigo con un corte continuo, Corin obtiene 1 carga energizante (pueden acumularse hasta 40 cargas). Al ejecutar un <color=#FFFFFF>contraataque</color>, una <color=#FFFFFF>técnica especial</color>, una <color=#FFFFFF>técnica especial EX</color>, un <color=#FFFFFF>apoyo rápido</color> o un <color=#FFFFFF>ataque sucesivo</color> y golpear a un enemigo con el estallido de su motosierra, consume todas sus cargas energizantes. Por cada una de ellas aumenta el daño en un 3 % de su Ataque.",
+                "Corin_Talent_06_Title_Realign": "Preparada para todo"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "Lycaon",
+        "full_name": "Von Lycaon",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "Carga de la luna llena",
+                "Lycaon_Talent_01_Desc_01_Realign": "Cuando Lycaon golpea a un enemigo por medio de una <color=#FFFFFF>técnica especial EX</color>, aumenta el Aturdimiento provocado en un 12 %. Puede activarse una vez cada 8 s. Al terminar de cargar la fuerza de su <color=#FFFFFF>técnica especial EX</color>, este efecto aumenta en un 10 % adicional.",
+                "Lycaon_Talent_01_Desc_02": "Según los registros, al estar expuestos a la luna, los hombres lobo se vuelven considerablemente más agresivos.\n«No mires directamente a la luna.»",
+                "Lycaon_Talent_01_Desc_01": "Cuando Lycaon golpea a un enemigo por medio de una <color=#FFFFFF>técnica especial EX</color>, aumenta el Aturdimiento provocado en un 12 %. Puede activarse una vez cada 8 s. Al terminar de cargar la fuerza de su <color=#FFFFFF>técnica especial EX</color>, este efecto aumenta en un 10 % adicional.",
+                "Lycaon_Talent_01_Title_Realign": "Carga de la luna llena"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "Retroalimentación de energía",
+                "Lycaon_Talent_02_Desc_01_Realign": "Al aturdir al enemigo o activar una <color=#FFFFFF>técnica en cadena</color>, Lycaon recupera 5 ptos. de energía. Puede activarse una vez cada 1 s.",
+                "Lycaon_Talent_02_Desc_02": "«Los cerebros de los cánidos secretan una pequeña dosis de dopamina después de completar tareas con cierto grado de complejidad. Si, como su dueño, acaricias sus cabezas en ese momento como muestra de aprobación, se sentirán muy felices...»\n—Extracto de «Manual de investigaciones de dudosa veracidad sobre cánidos»",
+                "Lycaon_Talent_02_Desc_01": "Al aturdir al enemigo o activar una <color=#FFFFFF>técnica en cadena</color>, Lycaon recupera 5 ptos. de energía. Puede activarse una vez cada 1 s.",
+                "Lycaon_Talent_02_Title_Realign": "Retroalimentación de energía"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "Formación rigurosa",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Lycaon_Talent_03_Desc_02": "Cada uno de sus movimientos rebosa elegancia, y cada una de las frases que pronuncia transmite la frescura de la brisa primaveral. La formación de un sirviente consiste en tener todo bajo control.",
+                "Lycaon_Talent_03_Title_Realign": "Formación rigurosa"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "Decoro ante todo",
+                "Lycaon_Talent_04_Desc_01_Realign": "Al recibir un golpe mientras ejecuta un <color=#FFFFFF>ataque normal</color> o una <color=#FFFFFF>técnica especial</color>, Lycaon obtiene inmediatamente un escudo equivalente al 7.5 % de sus PV máx. durante 15 s.\nMientras dure del escudo, su nivel de resistencia a interrupción aumenta. Puede activarse una vez cada 15 s.",
+                "Lycaon_Talent_04_Desc_02": "«Un mayordomo sobresaliente siempre mantiene el decoro, sea cual sea la circunstancia.»",
+                "Lycaon_Talent_04_Desc_01": "Al recibir un golpe mientras ejecuta un <color=#FFFFFF>ataque normal</color> o una <color=#FFFFFF>técnica especial</color>, Lycaon obtiene inmediatamente un escudo equivalente al 7.5 % de sus PV máx. durante 15 s.\nMientras dure del escudo, su nivel de resistencia a interrupción aumenta. Puede activarse una vez cada 15 s.",
+                "Lycaon_Talent_04_Title_Realign": "Decoro ante todo"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "Naturaleza de lobo alfa",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Lycaon_Talent_05_Desc_02": "En su mirada se refleja un destello de ferocidad, y su garganta alberga aullidos primitivos. Por más elegante que vista, bajo la ropa sigue siendo indomable.",
+                "Lycaon_Talent_05_Title_Realign": "Naturaleza de lobo alfa"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "Cazador implacable",
+                "Lycaon_Talent_06_Desc_01_Realign": "Cuando Lycaon golpea al enemigo con un ataque cargado, aumenta el daño infligido al objetivo en un 10 % durante 12 s. Pueden acumularse hasta 5 cargas. Solo puede acumularse una carga por ejecución. La duración se reinicia con cada activación.",
+                "Lycaon_Talent_06_Desc_02": "«Lo siento, pero mostrar piedad no es lo mío. Después de todo, si lo que busca es una pelea justa, no debió venir a la Cavidad en primer lugar.»",
+                "Lycaon_Talent_06_Desc_01": "Cuando Lycaon golpea al enemigo con un ataque cargado, aumenta el daño infligido al objetivo en un 10 % durante 12 s. Pueden acumularse hasta 5 cargas. Solo puede acumularse una carga por ejecución. La duración se reinicia con cada activación.",
+                "Lycaon_Talent_06_Title_Realign": "Cazador implacable"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "Ellen",
+        "full_name": "Ellen Joe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "Presagio gélido",
+                "Ellen_Talent_01_Desc_01_Realign": "Al golpear a un enemigo con un tijeretazo rápido al ejecutar <color=#FFFFFF>ataque rápido: Asalto ártico</color>, las cargas de <color=#FFFFFF>congelación instantánea</color> aumentan a 3. Al golpear a un enemigo con un tijeretazo cargado por medio de <color=#FFFFFF>ataque rápido: Asalto ártico</color>, las cargas de <color=#FFFFFF>congelación instantánea</color> aumentan a 6. Por cada carga de <color=#FFFFFF>congelación instantánea</color> consumida, aumenta la Probabilidad de Crítico de Ellen en un 2 % durante 15 s. Pueden acumularse hasta 6 cargas. La duración de cada carga es independiente.",
+                "Ellen_Talent_01_Desc_02": "Los vientos helados son el presagio más certero de que el invierno se acerca y también una señal inequívoca de que Ellen acaba de presentar una baja de largo tiempo para hibernar.\nAunque la pregunta es: ¿los tiburones necesitan hibernar?",
+                "Ellen_Talent_01_Desc_01": "Al golpear a un enemigo con un tijeretazo rápido al ejecutar <color=#FFFFFF>ataque rápido: Asalto ártico</color>, las cargas de <color=#FFFFFF>congelación instantánea</color> aumentan a 3. Al golpear a un enemigo con un tijeretazo cargado por medio de <color=#FFFFFF>ataque rápido: Asalto ártico</color>, las cargas de <color=#FFFFFF>congelación instantánea</color> aumentan a 6. Por cada carga de <color=#FFFFFF>congelación instantánea</color> consumida, aumenta la Probabilidad de Crítico de Ellen en un 2 % durante 15 s. Pueden acumularse hasta 6 cargas. La duración de cada carga es independiente.",
+                "Ellen_Talent_01_Title_Realign": "Presagio gélido"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "Depredadora ártica",
+                "Ellen_Talent_02_Desc_01_Realign": "Después de ejecutar el tercer golpe de <color=#FFFFFF>ataque normal: Tijeretazo helado</color>, puede enlazarlo con <color=#FFFFFF>técnica especial EX: Tiburonado</color>.\nAl ejecutar una <color=#FFFFFF>técnica especial EX</color>, por cada carga de <color=#FFFFFF>congelación instantánea</color> que posea, aumenta el Daño Crítico de la técnica actual en un 20 %. Puede aumentar hasta un 60 %.",
+                "Ellen_Talent_02_Desc_02": "A pesar de estar manchadas de rojo, las gigantescas tijeras de Ellen carecen de calidez.\nLas frías hojas metálicas inspiran temor de convertirse en la próxima víctima.",
+                "Ellen_Talent_02_Desc_01": "Después de ejecutar el tercer golpe de <color=#FFFFFF>ataque normal: Tijeretazo helado</color>, puede enlazarlo con <color=#FFFFFF>técnica especial EX: Tiburonado</color>.\nAl ejecutar una <color=#FFFFFF>técnica especial EX</color>, por cada carga de <color=#FFFFFF>congelación instantánea</color> que posea, aumenta el Daño Crítico de la técnica actual en un 20 %. Puede aumentar hasta un 60 %.",
+                "Ellen_Talent_02_Title_Realign": "Depredadora ártica"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "Antihoras extra",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Ellen_Talent_03_Desc_02": "Esencialmente, «ser eficiente» significa volver a casa temprano. Así que hay que golpear más rápido y con más fuerza.",
+                "Ellen_Talent_03_Title_Realign": "Antihoras extra"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "Relente sempiterno",
+                "Ellen_Talent_04_Desc_01_Realign": "Cuando cualquier miembro del equipo <color=#98EFF0>congele</color> o aturda a un enemigo, Ellen obtiene 6 ptos. de <color=#FFFFFF>carga de congelación instantánea</color>, obtiene el efecto de <color=#FFFFFF>carga rápida</color> y produce 4 ptos. de energía. El efecto de Producción de Energía puede activarse una vez cada 10 s.",
+                "Ellen_Talent_04_Desc_02": "Un sobrecogedor soplo de frío extremo. Hasta las más aterradoras criaturas aprenderán lo cruel y hermoso que puede resultar el frío de la mano de Ellen.\nAunque, sin duda, los interminables turnos de trabajo que las empleadas domésticas tienen durante las vacaciones son aún más crueles...",
+                "Ellen_Talent_04_Desc_01": "Cuando cualquier miembro del equipo <color=#98EFF0>congele</color> o aturda a un enemigo, Ellen obtiene 6 ptos. de <color=#FFFFFF>carga de congelación instantánea</color>, obtiene el efecto de <color=#FFFFFF>carga rápida</color> y produce 4 ptos. de energía. El efecto de Producción de Energía puede activarse una vez cada 10 s.",
+                "Ellen_Talent_04_Title_Realign": "Relente sempiterno"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "Sueño reparador",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Ellen_Talent_05_Desc_02": "Salvo en los combates más encarnizados, siempre parece que Ellen está a punto de caer dormida.\nMuchos son los enemigos que han encarado su muerte al subestimarla por ello.",
+                "Ellen_Talent_05_Title_Realign": "Sueño reparador"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "Hora del ágape",
+                "Ellen_Talent_06_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> u obtener una <color=#FFFFFF>carga rápida</color>, aumenta la Tasa de Perforación de Ellen en un 20 % durante 6 s. Además, obtiene 1 carga de <color=#FFFFFF>festín</color>. Pueden acumularse hasta 3 cargas.\nAl tener 3 cargas de <color=#FFFFFF>festín</color>, al ejecutar un tijeretazo cargado por medio de <color=#FFFFFF>ataque rápido: Asalto ártico</color>, consumirá todas las cargas de <color=#FFFFFF>festín</color> y aumentará el daño de dicha técnica en un 250 %.",
+                "Ellen_Talent_06_Desc_02": "Una herida abierta, una gota de sangre. Una escalofriante caza, un copioso banquete. Un precario destino, un instante de satisfacción.",
+                "Ellen_Talent_06_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> u obtener una <color=#FFFFFF>carga rápida</color>, aumenta la Tasa de Perforación de Ellen en un 20 % durante 6 s. Además, obtiene 1 carga de <color=#FFFFFF>festín</color>. Pueden acumularse hasta 3 cargas. Al tener 3 cargas de <color=#FFFFFF>festín</color>, al ejecutar un tijeretazo cargado por medio de <color=#FFFFFF>ataque rápido: Asalto ártico</color>, consumirá todas las cargas de <color=#FFFFFF>festín</color> y aumentará el daño de dicha técnica en un 250 %.",
+                "Ellen_Talent_06_Title_Realign": "Hora del ágape"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "Rina",
+        "full_name": "Alexandrina Sebastiane",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "Dúo",
+                "Rina_Talent_01_Desc_01_Realign": "Después de ser enviadas a atacar, Drusila y Estela se detienen durante 5.5 s antes de volver al lado de Rina.\nLa bonificación de aumento que los agentes en un radio de 10 m de Drusila y Estela obtienen de la <color=#FFFFFF>técnica pasiva: Miniacompañante destructivo</color> aumenta a un 130 % de su valor original.",
+                "Rina_Talent_01_Desc_02": "«Haz tu trabajo como se debe, ¡o prepárate para una buena tunda!», es la forma en la que Drusila motiva a los demás. «¡Eso es, una tunda!», repite a continuación Estela.",
+                "Rina_Talent_01_Desc_01": "Después de ser enviadas a atacar, Drusila y Estela se detienen durante 5.5 s antes de volver al lado de Rina.\nLa bonificación de aumento que los agentes en un radio de 10 m de Drusila y Estela obtienen de la <color=#FFFFFF>técnica pasiva: Miniacompañante destructivo</color> aumenta a un 130 % de su valor original.",
+                "Rina_Talent_01_Title_Realign": "Dúo"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "Ama modelo",
+                "Rina_Talent_02_Desc_01_Realign": "Al entrar en combate o sustituir al agente activo, aumenta el daño infligido por Rina en un 15 % durante 12 s. Puede activarse una vez cada 18 s.",
+                "Rina_Talent_02_Desc_02": "«Se necesita una jefa de empleadas domésticas sobresaliente para tener empleadas domésticas sobresalientes, y una ama ejemplar para un bangbú ejemplar».\n—Palabras de Rina durante el «Seminario de Recursos Humanos y entrenamiento de bangbús impartido por Servicios Domésticos Victoria».",
+                "Rina_Talent_02_Desc_01": "Al entrar en combate o sustituir al agente activo, aumenta el daño infligido por Rina en un 15 % durante 12 s. Puede activarse una vez cada 18 s.",
+                "Rina_Talent_02_Title_Realign": "Ama modelo"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "Especialidad de la jefa de empleadas domésticas",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Rina_Talent_03_Desc_02": "Rina confía en su capacidad de hacer bien su trabajo y en su habilidad de deshacerse de lo que sea.\nSin embargo, cuando se trata de exterminar enemigos, su confianza y su capacidad convergen en un mismo sitio.",
+                "Rina_Talent_03_Title_Realign": "Especialidad de la jefa de empleadas domésticas"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "Aguja y martillo",
+                "Rina_Talent_04_Desc_01_Realign": "Cuando Drusila y Estela sean enviadas a atacar, aumenta la Recuperación de Energía de Rina en 0.5 ptos./s. Este efecto termina cuando Drusila o Estela regresen al lado de Rina.",
+                "Rina_Talent_04_Desc_02": "Drusila y Estela nunca se ponen de acuerdo, excepto cuando se trata de hacer papilla al pobre diablo frente a ellas.",
+                "Rina_Talent_04_Desc_01": "Cuando Drusila y Estela sean enviadas a atacar, aumenta la Recuperación de Energía de Rina en 0.5 ptos./s. Este efecto termina cuando Drusila o Estela regresen al lado de Rina.",
+                "Rina_Talent_04_Title_Realign": "Aguja y martillo"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "Jefa de empleadas domésticas perfeccionista",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Rina_Talent_05_Desc_02": "«En bangbuñol, \"Rina\" significa \"perfección\"». Aspirar a la perfección es la regla n.º 1 de Servicios Domésticos Victoria, pero Rina tiene su propio criterio de «perfección».",
+                "Rina_Talent_05_Title_Realign": "Jefa de empleadas domésticas perfeccionista"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "Terror en una noche de tormenta",
+                "Rina_Talent_06_Desc_01_Realign": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el <color=#2EB6FF>daño eléctrico</color> de todos los miembros del equipo en un 15 % durante 8 s.",
+                "Rina_Talent_06_Desc_02": "Los relámpagos rugían aquella noche de lluvia en el castillo y los largos pasillos estaban repletos de sombras macabras.\nCon los circuitos de pánico sobrecargados, comenzaba la función de terror...",
+                "Rina_Talent_06_Desc_01": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el <color=#2EB6FF>daño eléctrico</color> de todos los miembros del equipo en un 15 % durante 8 s.",
+                "Rina_Talent_06_Title_Realign": "Terror en una noche de tormenta"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "N.º 11",
+        "full_name": "N.º 11",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "Calentamiento acelerado",
+                "Longinus_Talent_01_Desc_01_Realign": "Al entrar en combate o sustituir a un agente activo, si N.º 11 no cuenta con 40 ptos. de energía, recuperará energía hasta tener 80 ptos. de inmediato. Puede activarse una vez cada 50 s.",
+                "Longinus_Talent_01_Desc_02": "Después del extenso entrenamiento de combate intensivo que recibió, N.º 11 es capaz de autorregular sus funciones; siempre procura estar en la mejor condición para la siguiente pelea.",
+                "Longinus_Talent_01_Desc_01": "Al entrar en combate o sustituir a un agente activo, si N.º 11 no cuenta con 40 ptos. de energía, recuperará energía hasta tener 80 ptos. de inmediato. Puede activarse una vez cada 50 s.",
+                "Longinus_Talent_01_Title_Realign": "Calentamiento acelerado"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "Concentración ardiente",
+                "Longinus_Talent_02_Desc_01_Realign": "Al activar <color=#FFFFFF>Supresión ardiente</color>, el daño infligido por <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>ataque rápido</color> o <color=#FFFFFF>contraataque</color> aumenta en un 3 % durante 15 s.\nPueden acumularse hasta 12 cargas. La duración de cada carga es independiente.",
+                "Longinus_Talent_02_Desc_02": "«Por fuera parece fría y dura como un témpano de hielo... pero por dentro arde como una llama resplandeciente.»\n—Soldado anónimo de la Brigada de la Obsidiana",
+                "Longinus_Talent_02_Desc_01": "Al activar <color=#FFFFFF>Supresión ardiente</color>, el daño infligido por <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>ataque rápido</color> o <color=#FFFFFF>contraataque</color> aumenta en un 3 % durante 15 s. Pueden acumularse hasta 12 cargas. La duración de cada carga es independiente.",
+                "Longinus_Talent_02_Title_Realign": "Concentración ardiente"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "Soldado de élite",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Longinus_Talent_03_Desc_02": "En entrenamiento o en combate, N.º 11 siempre es muy exigente consigo misma. Así es como mantiene su maestría en combate.",
+                "Longinus_Talent_03_Title_Realign": "Soldado de élite"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "Incendio indulgente",
+                "Longinus_Talent_04_Desc_01_Realign": "Al activar <color=#FFFFFF>Supresión ardiente</color> mediante el primer, segundo y tercer corte del <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color>, aumenta el nivel de resistencia a interrupción durante su ejecución y reduce el daño recibido en un 18 %. Al activar <color=#FFFFFF>Supresión ardiente</color> mediante el cuarto corte del <color=#FFFFFF>ataque normal</color>, durante su ejecución, la agente se vuelve invulnerable.",
+                "Longinus_Talent_04_Desc_02": "Ella envidia al fuego. Y a la vez, el fuego siempre estará ahí para ella.",
+                "Longinus_Talent_04_Desc_01": "Al activar <color=#FFFFFF>Supresión ardiente</color> mediante el primer, segundo y tercer corte del <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color>, aumenta el nivel de resistencia a interrupción durante su ejecución y reduce el daño recibido en un 18 %. Al activar <color=#FFFFFF>Supresión ardiente</color> mediante el cuarto corte del <color=#FFFFFF>ataque normal</color>, durante su ejecución, la agente se vuelve invulnerable.",
+                "Longinus_Talent_04_Title_Realign": "Incendio indulgente"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "La soldado perfecta",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Longinus_Talent_05_Desc_02": "El camino de soldado de élite a soldado ejemplar es largo y arduo, pero N.º 11 aprieta los dientes y sigue adelante, como si algo la impulsara a convertirse en una soldado perfecta.",
+                "Longinus_Talent_05_Title_Realign": "La soldado perfecta"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "Flujo calcinante",
+                "Longinus_Talent_06_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, N.º 11 obtiene 8 cargas energizantes (pueden acumularse hasta 8 cargas). Al ejecutar <color=#FFFFFF>Supresión ardiente</color>, consume 1 carga energizante e ignora un 25 % de la <color=#FF5521>resistencia ígnea</color> del objetivo.",
+                "Longinus_Talent_06_Desc_02": "Las llamas de la espada provocaban ondas de calor. La chica de cabello plateado peleaba cada vez con más vehemencia, como si a cada bocanada aspirara un poco de ese calor, prendiendo fuego a sus pensamientos.",
+                "Longinus_Talent_06_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, N.º 11 obtiene 8 cargas energizantes (pueden acumularse hasta 8 cargas). Al ejecutar <color=#FFFFFF>Supresión ardiente</color>, consume 1 carga energizante e ignora un 25 % de la <color=#FF5521>resistencia ígnea</color> del objetivo.",
+                "Longinus_Talent_06_Title_Realign": "Flujo calcinante"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "Zhu Yuan",
+        "full_name": "Zhu Yuan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "Recarga rápida",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "Cuando Zhu Yuan ejecuta una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, obtiene el efecto de <color=#FFFFFF>recarga rápida</color>.\nEste efecto finaliza cuando consume todos los <color=#FFFFFF>cartuchos reforzados</color> que tiene, tras lo cual obtiene de 6 a 9 <color=#FFFFFF>cartuchos reforzados</color>.",
+                "ZhuYuan_Talent_01_Desc_02": "Zhu Yuan participó en una competición de talentos del Departamento de Seguridad Pública del distrito de Jano. Después de que ella obtuviese el primer lugar gracias a su habilidad de recarga, su compañera dijo para sí misma: «es solo práctica».",
+                "ZhuYuan_Talent_01_Desc_01": "Cuando Zhu Yuan ejecuta una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, obtiene el efecto de <color=#FFFFFF>recarga rápida</color>. Este efecto finaliza cuando consume todos los <color=#FFFFFF>cartuchos reforzados</color> que tiene, tras lo cual obtiene de 6 a 9 <color=#FFFFFF>cartuchos reforzados</color>.",
+                "ZhuYuan_Talent_01_Title_Realign": "Recarga rápida"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "Ascuas etéreas",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "Cuando Zhu Yuan se encuentra en <color=#FFFFFF>modo supresor</color>, aumenta su nivel de resistencia a interrupción y disminuye el daño recibido en un 10 %. Cuando Zhu Yuan golpea a un enemigo con un <color=#FFFFFF>cartucho reforzado</color>, aumenta el <color=#FE437E>daño etéreo</color> infligido al objetivo por medio de <color=#FFFFFF>ataque normal: ¡No opongas resistencia!</color> y <color=#FFFFFF>ataque rápido: Fuego de supresión</color> en un 10 % durante 5 s.\nPueden acumularse hasta 5 cargas. Solo puede acumularse 1 carga cada vez que abra fuego. La duración se reinicia con cada activación.",
+                "ZhuYuan_Talent_02_Desc_02": "Zhu Yuan está equipada con balas etéreas especiales del Ministerio de Seguridad Pública. El daño corruptivo que infligen es irreversible. Es por eso que, antes de disparar, Zhu Yuan intenta convencer al enemigo de que se rinda sin oponer resistencia. Todo sea por su seguridad...",
+                "ZhuYuan_Talent_02_Desc_01": "Cuando Zhu Yuan se encuentra en <color=#FFFFFF>modo supresor</color>, aumenta su nivel de resistencia a interrupción y disminuye el daño recibido en un 10 %. Cuando Zhu Yuan golpea a un enemigo con un <color=#FFFFFF>cartucho reforzado</color>, aumenta el <color=#FE437E>daño etéreo</color> infligido al objetivo por medio de <color=#FFFFFF>ataque normal: ¡No opongas resistencia!</color> y <color=#FFFFFF>ataque rápido: Fuego de supresión</color> en un 10 % durante 5 s. Pueden acumularse hasta 5 cargas. Solo puede acumularse 1 carga cada vez que abra fuego. La duración se reinicia con cada activación.",
+                "ZhuYuan_Talent_02_Title_Realign": "Ascuas etéreas"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "Entrenamiento para oficial de seguridad",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "ZhuYuan_Talent_03_Desc_02": "Como oficial de seguridad de élite, el único objetivo del entrenamiento de Zhu Yuan es mejorar su habilidad de combate en las Cavidades y aplastar a los criminales.",
+                "ZhuYuan_Talent_03_Title_Realign": "Entrenamiento para oficial de seguridad"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "Perforación etérea",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "Cuando Zhu Yuan golpea a un enemigo con un <color=#FFFFFF>cartucho reforzado</color>, su <color=#FFFFFF>ataque normal: ¡No opongas resistencia!</color> y su <color=#FFFFFF>ataque rápido: Fuego de supresión</color> ignoran un 25 % de la <color=#FE437E>resistencia etérea</color> del objetivo.",
+                "ZhuYuan_Talent_04_Desc_02": "Al entrar en combate, los bandidos de las Cavidades cuentan mentalmente las balas que le quedan al enemigo. Pero ellos no cuentan con que el cartucho de Zhu Yuan puede usar el éter del entorno como suministro continuo.",
+                "ZhuYuan_Talent_04_Desc_01": "Cuando Zhu Yuan golpea a un enemigo con un <color=#FFFFFF>cartucho reforzado</color>, su <color=#FFFFFF>ataque normal: ¡No opongas resistencia!</color> y su <color=#FFFFFF>ataque rápido: Fuego de supresión</color> ignoran un 25 % de la <color=#FE437E>resistencia etérea</color> del objetivo.",
+                "ZhuYuan_Talent_04_Title_Realign": "Perforación etérea"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "Entrenamiento especial",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "ZhuYuan_Talent_05_Desc_02": "Los oficiales veteranos del equipo táctico saben evaluar la situación y aprovechar sus habilidades de combate del mejor modo. A veces, una mirada intimidante es suficiente para hacer que el enemigo se rinda.",
+                "ZhuYuan_Talent_05_Title_Realign": "Entrenamiento especial"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "Batería de energía expansiva (III)",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "Cuando Zhu Yuan consume 12 <color=#FFFFFF>cartuchos reforzados</color>, obtiene el efecto de <color=#FFFFFF>éter residual</color>: la próxima vez que ejecuta una <color=#FFFFFF>técnica especial EX</color>, se reduce el consumo de energía en 30 ptos.\nAl ejecutar una <color=#FFFFFF>técnica especial EX</color>, se consume el efecto de <color=#FFFFFF>éter residual</color> y dispara 4 escopetazos etéreos adicionales.\nCada disparo inflige daño equivalente a un 220 % del Ataque de Zhu Yuan.",
+                "ZhuYuan_Talent_06_Desc_02": "Zhu Yuan siempre se preocupa por la batería restante de su arma. Cuando llega al indicador rojo, entra en pánico y comienza a concentrarse en ahorrar energía. Es por eso que el Ministerio de Seguridad Pública la ha equipado con una batería de energía de gran capacidad para mayor tranquilidad.",
+                "ZhuYuan_Talent_06_Desc_01": "Cuando Zhu Yuan consume 12 <color=#FFFFFF>cartuchos reforzados</color>, obtiene el efecto de <color=#FFFFFF>éter residual</color>: la próxima vez que ejecuta una <color=#FFFFFF>técnica especial EX</color>, se reduce el consumo de energía en 30 ptos. Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, se consume el efecto de <color=#FFFFFF>éter residual</color> y dispara 4 escopetazos etéreos adicionales. Cada disparo inflige daño equivalente a un 220 % del Ataque de Zhu Yuan.",
+                "ZhuYuan_Talent_06_Title_Realign": "Batería de energía expansiva (III)"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "Qingyi",
+        "full_name": "Qingyi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "Perforación dieléctrica",
+                "QingYi_Talent_01_Desc_01_Realign": "Al entrar en combate, se recupera el máximo de <color=#FFFFFF>voltaje de conexión súbita</color> y su acumulación aumenta en un 30 %. Al ejecutar el <color=#FFFFFF>ataque normal: Nimbo floreciente lunar</color>, si el <color=#FFFFFF>voltaje de conexión súbita</color> ha llegado al máximo, la Defensa del objetivo disminuye en un 15 % y la Probabilidad de Crítico de Qingyi contra dicho objetivo aumenta en un 20 % durante 15 s.",
+                "QingYi_Talent_01_Desc_02": "«Aunque no corra peligro de muerte, le rogamos que no se resista a la detención...»\nLa dirección y la intensidad de la corriente eléctrica se calculan con precisión para garantizar que todos los sospechosos reciban una descarga segura.",
+                "QingYi_Talent_01_Desc_01": "Al entrar en combate, se recupera el máximo de <color=#FFFFFF>voltaje de conexión súbita</color> y su acumulación aumenta en un 30 %. Al ejecutar el <color=#FFFFFF>ataque normal: Nimbo floreciente lunar</color>, si el <color=#FFFFFF>voltaje de conexión súbita</color> ha llegado al máximo, la Defensa del objetivo disminuye en un 15 % y la Probabilidad de Crítico de Qingyi contra dicho objetivo aumenta en un 20 % durante 15 s.",
+                "QingYi_Talent_01_Title_Realign": "Perforación dieléctrica"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "Mínimo esfuerzo, máximo rendimiento",
+                "QingYi_Talent_02_Desc_01_Realign": "El efecto de aumento de la tasa de vulnerabilidad otorgado por cada carga de <color=#FFFFFF>sometimiento</color> de la <color=#FFFFFF>técnica pasiva: Estaciones sempiternas</color> aumenta a un 135 % de su valor original. Cuando Qingyi golpea al enemigo, si el objetivo acumula el número máximo de cargas de <color=#FFFFFF>sometimiento</color>, el Aturdimiento provocado por Qingyi sobre el objetivo aumenta en un 15 %.",
+                "QingYi_Talent_02_Desc_02": "Una técnica de combate mencionada en los textos de una antigua civilización. Al parecer, originalmente se usaba en las artes marciales y no requería vara alguna.\n«No te limites. Los brazos son como varas trisecada».",
+                "QingYi_Talent_02_Desc_01": "El efecto de aumento de la tasa de vulnerabilidad otorgado por cada carga de <color=#FFFFFF>sometimiento</color> de la <color=#FFFFFF>técnica pasiva: Estaciones sempiternas</color> aumenta a un 135 % de su valor original. Cuando Qingyi golpea al enemigo, si el objetivo acumula el número máximo de cargas de <color=#FFFFFF>sometimiento</color>, el Aturdimiento provocado por Qingyi sobre el objetivo aumenta en un 15 %.",
+                "QingYi_Talent_02_Title_Realign": "Mínimo esfuerzo, máximo rendimiento"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "Los beneficios del agua caliente",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "QingYi_Talent_03_Desc_02": "«Los jóvenes deben cuidar su salud y beber más agua caliente».\nCada vez que Qingyi bebe de su termo, transmite una sensación reconfortante. Pero ten cuidado con el agua caliente que te ofrece...\n«Aunque sea agua a 100 °C, la bebe sin inmutarse...»\n—Mensaje de un oficial de seguridad.",
+                "QingYi_Talent_03_Title_Realign": "Los beneficios del agua caliente"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "Barrera de arco eléctrico",
+                "QingYi_Talent_04_Desc_01_Realign": "Al entrar o salir del estado de <color=#FFFFFF>conexión súbita</color>, Qingyi obtiene un escudo equivalente al 10 % de sus PV máx. Al reiniciarse el escudo, si el escudo anterior aún está activo, Qingyi produce 5 ptos. de energía. Este efecto de Producción de Energía solo puede activarse una vez cada 10 s.",
+                "QingYi_Talent_04_Desc_02": "Una barrera de arco eléctrico desarrollada por el Instituto Estrella Blanca aplicando ingeniería inversa a los autómatas de las civilizaciones antiguas. Es una tecnología que combina la defensa, el ataque y la conversión de energía eléctrica.\n«Como dice el refrán, el agua que hace que el barco flote es la misma que lo hunde. En física, también se dice que la corriente eléctrica es como el agua. Si unimos ambos conceptos, la corriente eléctrica puede ser tanto ofensiva como defensiva. ¡Una combinación fantástica!».",
+                "QingYi_Talent_04_Desc_01": "Al entrar o salir del estado de <color=#FFFFFF>conexión súbita</color>, Qingyi obtiene un escudo equivalente al 10 % de sus PV máx. Al reiniciarse el escudo, si el escudo anterior aún está activo, Qingyi produce 5 ptos. de energía. Este efecto de Producción de Energía solo puede activarse una vez cada 10 s.",
+                "QingYi_Talent_04_Title_Realign": "Barrera de arco eléctrico"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "Eterna inocencia",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "QingYi_Talent_05_Desc_02": "«¡Genial, los jóvenes tienen que tener el valor de probar cosas nuevas!».\nAunque a veces parece que las palabras de ánimo de Qingyi son indolentes y provocadoras, siempre puedes contar con ella si te metes en líos.\nDespués de todo, ha vivido cientos de años. Es capaz de solucionar cualquier problema.",
+                "QingYi_Talent_05_Title_Realign": "Eterna inocencia"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "Ocho meridianos",
+                "QingYi_Talent_06_Desc_01_Realign": "El nivel de interrupción del <color=#FFFFFF>ataque normal: Nimbo floreciente lunar</color> aumenta considerablemente y el Daño Crítico aumenta en un 100 %. Cuando Qingyi golpea a un enemigo con el <color=#FFFFFF>ataque normal: Nimbo floreciente lunar</color>, la resistencia a todos los tipos de daño del objetivo disminuye en un 20 % durante 15 s.",
+                "QingYi_Talent_06_Desc_02": "Hay una teoría sobre el sistema circulatorio del cuerpo humano mencionada en los textos de la antigua civilización. Se dice que, una vez que se domine por completo, puede provocar que un oponente pierda inmediatamente la capacidad de moverse durante el combate.\n«La próxima vez, intentaré oprimir los puntos de presión que provocan cosquillas. ¿Quién podría ser mi conejillo de indias? ¿{M#Wise}{F#Belle}? ¿O Zhu Yuan?».",
+                "QingYi_Talent_06_Desc_01": "El nivel de interrupción del <color=#FFFFFF>ataque normal: Nimbo floreciente lunar</color> aumenta considerablemente y el Daño Crítico aumenta en un 100 %. Cuando Qingyi golpea a un enemigo con el <color=#FFFFFF>ataque normal: Nimbo floreciente lunar</color>, la resistencia a todos los tipos de daño del objetivo disminuye en un 20 % durante 15 s.",
+                "QingYi_Talent_06_Title_Realign": "Ocho meridianos"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "Jane",
+        "full_name": "Jane Doe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "Asesora criminal",
+                "JaneDoe_Talent_01_Desc_01_Realign": "Aumenta en uno el número de veces que Jane puede ejecutar el <color=#FFFFFF>ataque normal: Salto Salchow</color>. Al encontrarse en el estado de <color=#FFFFFF>pasión</color>, la <color=#F0D12B>acumulación de Anomalía física </color> de Jane aumenta en un 15 % adicional. Por cada punto de Maestría de Anomalía, el daño infligido por Jane aumenta en un 0.1 %, hasta un máximo de un 30 %.",
+                "JaneDoe_Talent_01_Desc_02": "«Una asesora criminal es alguien que aconseja sobre criminología, no sobre cómo cometer crímenes.»\nDe repente, Jane se acerca y guiña un ojo.\n«Aunque, claramente, si lo interpretas como lo último... tampoco te voy a decir que no.»",
+                "JaneDoe_Talent_01_Desc_01": "Aumenta en uno el número de veces que Jane puede ejecutar el <color=#FFFFFF>ataque normal: Salto Salchow</color>. Al encontrarse en el estado de <color=#FFFFFF>pasión</color>, la <color=#F0D12B>acumulación de Anomalía física </color> de Jane aumenta en un 15 % adicional. Por cada punto de Maestría de Anomalía, el daño infligido por Jane aumenta en un 0.1 %, hasta un máximo de un 30 %.",
+                "JaneDoe_Talent_01_Title_Realign": "Asesora criminal"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "Quien con lobos anda, a aullar se enseña",
+                "JaneDoe_Talent_02_Desc_01_Realign": "Cuando Jane golpea a un enemigo en el estado de <color=#FFFFFF>roído</color>, o cuando cualquier miembro del equipo provoca <color=#F0D12B>embestida</color> sobre un enemigo en el estado de <color=#FFFFFF>roído</color>, se ignora un 15 % de su Defensa. Además, cuando el daño de <color=#F0D12B>embestida</color> activa un golpe crítico, el Daño Crítico aumenta en un 50 % adicional.",
+                "JaneDoe_Talent_02_Desc_02": "Cuando miras el abismo, este te devuelve la mirada. Este es tan solo el primer paso.\n«Luego debes acercarte al abismo, entrar y comprenderlo. Este es el segundo paso. El último paso es... no convertirte en el abismo.»",
+                "JaneDoe_Talent_02_Desc_01": "Cuando Jane golpea a un enemigo en el estado de <color=#FFFFFF>roído</color>, o cuando cualquier miembro del equipo provoca <color=#F0D12B>embestida</color> sobre un enemigo en el estado de <color=#FFFFFF>roído</color>, se ignora un 15 % de su Defensa. Además, cuando el daño de <color=#F0D12B>embestida</color> activa un golpe crítico, el Daño Crítico aumenta en un 50 % adicional.",
+                "JaneDoe_Talent_02_Title_Realign": "Quien con lobos anda, a aullar se enseña"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "Anonimidad",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "JaneDoe_Talent_03_Desc_02": "«La anonimidad implica que puedo convertirme en cualquiera. ¡Tal vez en tu persona favorita! O quizá en tu peor pesadilla.»",
+                "JaneDoe_Talent_03_Title_Realign": "Anonimidad"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "Adaptarse o morir",
+                "JaneDoe_Talent_04_Desc_01_Realign": "Cuando cualquier miembro del equipo provoca <color=#F0D12B>embestida</color> o <color=#FFFFFF>disfunción</color>, el daño infligido por Anomalía de Atributo de todos los miembros del equipo aumenta en un 18 % durante 15 s.",
+                "JaneDoe_Talent_04_Desc_02": "«Cazador o cazado. Suele depender de cómo lo mires. Aunque yo prefiero verlo de una manera más intuitiva: aquel que pierde es la presa.»",
+                "JaneDoe_Talent_04_Desc_01": "Cuando cualquier miembro del equipo provoca <color=#F0D12B>embestida</color> o <color=#FFFFFF>disfunción</color>, el daño infligido por Anomalía de Atributo de todos los miembros del equipo aumenta en un 18 % durante 15 s.",
+                "JaneDoe_Talent_04_Title_Realign": "Adaptarse o morir"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "Acumulación compulsiva",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "JaneDoe_Talent_05_Desc_02": "La habitación de Jane está permanentemente plagada de todo tipo de cosas, sobre todo, de comida rápida.\n«Se está genial aquí, ¿eh? ¡Hay comida a tu alcance en cualquier rincón!»",
+                "JaneDoe_Talent_05_Title_Realign": "Acumulación compulsiva"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "Trucos «sucios»",
+                "JaneDoe_Talent_06_Desc_01_Realign": "Cuando Jane se encuentra en el estado de <color=#FFFFFF>pasión</color>, su Probabilidad de Crítico aumenta en un 20 % y su Daño Crítico aumenta en un 40 %. Cuando cualquier miembro del equipo provoca <color=#F0D12B>embestida</color>, Jane entra en el estado de <color=#FFFFFF>pasión</color> y obtiene la máxima cantidad de <color=#FFFFFF>flujo de pasión</color>. Cuando el daño de <color=#F0D12B>embestida</color> es un golpe crítico, ejecuta un ataque adicional sobre el objetivo, infligiendo <color=#F0D12B>daño físico</color> equivalente al 1600 % de la Maestría de Anomalía de Jane.",
+                "JaneDoe_Talent_06_Desc_02": "En la calle, lo que importa no es el juego limpio, sino el resultado.\n«Al ver las ambiciones más oscuras de la gente, se revelan sus puntos más vulnerables.»",
+                "JaneDoe_Talent_06_Desc_01": "Cuando Jane se encuentra en el estado de <color=#FFFFFF>pasión</color>, su Probabilidad de Crítico aumenta en un 20 % y su Daño Crítico aumenta en un 40 %. Cuando cualquier miembro del equipo provoca <color=#F0D12B>embestida</color>, Jane entra en el estado de <color=#FFFFFF>pasión</color> y obtiene la máxima cantidad de <color=#FFFFFF>flujo de pasión</color>. Cuando el daño de <color=#F0D12B>embestida</color> es un golpe crítico, ejecuta un ataque adicional sobre el objetivo, infligiendo <color=#F0D12B>daño físico</color> equivalente al 1600 % de la Maestría de Anomalía de Jane.",
+                "JaneDoe_Talent_06_Title_Realign": "Trucos «sucios»"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "Seth",
+        "full_name": "Seth Lowell",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "Heroísmo",
+                "Seth_Talent_01_Desc_01_Realign": "El <color=#FFFFFF>escudo resoluto</color> y su límite máximo aumentan en un 30 %. Al desaparecer el <color=#FFFFFF>escudo resoluto</color>, la duración del aumento de la Maestría de Anomalía otorgado por la <color=#FFFFFF>técnica pasiva: Protector</color> aumenta en 10 s.",
+                "Seth_Talent_01_Desc_02": "Seth siempre está al frente cuando se trata de una misión en equipo.\n«¡Yo me encargo de capturar a los criminales! Tengo una nota de 99 en combate cuerpo a cuerpo. El punto que me falta es por haber torcido el brazo de mi instructor por accidente.»",
+                "Seth_Talent_01_Desc_01": "El <color=#FFFFFF>escudo resoluto</color> y su límite máximo aumentan en un 30 %. Al desaparecer el <color=#FFFFFF>escudo resoluto</color>, la duración del aumento de la Maestría de Anomalía otorgado por la <color=#FFFFFF>técnica pasiva: Protector</color> aumenta en 10 s.",
+                "Seth_Talent_01_Title_Realign": "Heroísmo"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "Imprudencia juvenil",
+                "Seth_Talent_02_Desc_01_Realign": "Al entrar en combate, Seth obtiene un 75 % de <color=#FFFFFF>determinación</color>. Al golpear a un enemigo con un <color=#FFFFFF>ataque normal: Porrazo relampagueante galvánico</color>, la <color=#2EB6FF>acumulación de Anomalía eléctrica</color> de dicha habilidad aumenta en un 35 %.",
+                "Seth_Talent_02_Desc_02": "Muchos criminales subestiman a Seth, ya sea por su mirada demasiado pura, o por las orejas y cola que evocan ternura.\nSin embargo, todos aquellos que lo subestiman terminan por pagarlo caro.",
+                "Seth_Talent_02_Desc_01": "Al entrar en combate, Seth obtiene un 75 % de <color=#FFFFFF>determinación</color>. Al golpear a un enemigo con un <color=#FFFFFF>ataque normal: Porrazo relampagueante galvánico</color>, la <color=#2EB6FF>acumulación de Anomalía eléctrica</color> de dicha habilidad aumenta en un 35 %.",
+                "Seth_Talent_02_Title_Realign": "Imprudencia juvenil"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "Lento de reflejos",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Seth_Talent_03_Desc_02": "«Un oficial de seguridad tan hábil como tú debe ser capaz de valerse por sí mismo, ¿no? Entonces, no necesitas ayuda de nadie». A pesar de tales palabras, Seth permanece sereno. No es hasta la medianoche que de pronto se despierta y dice: «Oye, ¿ese tipo se estaba burlando de mí?».",
+                "Seth_Talent_03_Title_Realign": "Lento de reflejos"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "Aspiración intrínseca",
+                "Seth_Talent_04_Desc_01_Realign": "El Aturdimiento provocado por el <color=#FFFFFF>apoyo defensivo: Escudo del refucilo</color> aumenta en un 25 %.",
+                "Seth_Talent_04_Desc_02": "«Deja de ser tan ingenuo. No hay forma de protegerlos a todos. A veces, debes tomar una decisión.»\n«Esa es mi decisión, y el deber más básico de un oficial de seguridad. Has cambiado, hermano.»",
+                "Seth_Talent_04_Desc_01": "El Aturdimiento provocado por el <color=#FFFFFF>apoyo defensivo: Escudo del refucilo</color> aumenta en un 25 %.",
+                "Seth_Talent_04_Title_Realign": "Aspiración intrínseca"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "Admiración distante",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Seth_Talent_05_Desc_02": "Antes, Seth sentía gran admiración por su hermano mayor. Pero, como se sabe, la admiración se encuentra en el punto más alejado de la razón.\n«Algún día, me convertiré en el mejor oficial. ¡Y haré que se trague sus palabras!»",
+                "Seth_Talent_05_Title_Realign": "Admiración distante"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "Idealismo",
+                "Seth_Talent_06_Desc_01_Realign": "Cuando Seth golpea a un enemigo con el ataque final del <color=#FFFFFF>ataque normal: Porrazo relampagueante galvánico</color>, inflige daño adicional equivalente al 500 % de su Ataque. Además, este ataque siempre será un golpe crítico y el Daño Crítico aumenta en un 60 %.",
+                "Seth_Talent_06_Desc_02": "Para los jóvenes, el mundo es muy claro: todo es blanco o negro, bueno o malo.\nSiempre habrá quien intente decirles que hay un abanico de grises, ¿pero no merece la pena luchar por un mundo donde la distinción sea clara?",
+                "Seth_Talent_06_Desc_01": "Cuando Seth golpea a un enemigo con el ataque final del <color=#FFFFFF>ataque normal: Porrazo relampagueante galvánico</color>, inflige daño adicional equivalente al 500 % de su Ataque. Además, este ataque siempre será un golpe crítico y el Daño Crítico aumenta en un 60 %.",
+                "Seth_Talent_06_Title_Realign": "Idealismo"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "César",
+        "full_name": "César King",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "Avance en cuña",
+                "Caesar_Talent_01_Desc_01_Realign": "Al entrar en combate o sustituir a un agente activo, César otorga inmediatamente a todos los miembros del equipo un escudo <color=#FFFFFF>égida gloriosa</color>. Puede activarse una vez cada 300 s. Mientras dure <color=#FFFFFF>égida gloriosa</color>, la resistencia a todos los tipos de daño de los enemigos que se encuentren dentro de un radio de 5 m del portador disminuye en un 15 %.",
+                "Caesar_Talent_01_Desc_02": "«Papichulo me enseñó que este es justo el momento en el que hay que iniciar la increíblemente poderosa formación en cuña. De esta manera, ejecutamos un avance ofensivo para atacar el punto débil del enemigo. Y, por supuesto, ¡yo seré quien lidere la carga!»",
+                "Caesar_Talent_01_Desc_01": "Al entrar en combate o sustituir a un agente activo, César otorga inmediatamente a todos los miembros del equipo un escudo <color=#FFFFFF>égida gloriosa</color>. Puede activarse una vez cada 300 s. Mientras dure <color=#FFFFFF>égida gloriosa</color>, la resistencia a todos los tipos de daño de los enemigos que se encuentren dentro de un radio de 5 m del portador disminuye en un 15 %.",
+                "Caesar_Talent_01_Title_Realign": "Avance en cuña"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "Legado foráneo",
+                "Caesar_Talent_02_Desc_01_Realign": "Mientras dure el escudo <color=#FFFFFF>égida gloriosa</color> de la <color=#FFFFFF>técnica pasiva: Barrera inquebrantable</color>, la tasa de Producción de Energía de César aumenta en un 10 % y el efecto de aumento de Ataque del portador aumenta a un 150 % del valor original.",
+                "Caesar_Talent_02_Desc_02": "El estilo de combate de César se diferencia tanto del estilo de Nueva Eridu como del de la Periferia, pues adoptó las técnicas de los guerreros más poderosos que existen entre los nómadas.\nHay que saber cuándo es el momento perfecto, tanto para mantenerse al margen como para atacar sin piedad. Esa es la filosofía de supervivencia de los trotamundos. Y César siempre ha sido una buena estudiante de esa filosofía.",
+                "Caesar_Talent_02_Desc_01": "Mientras dure el escudo <color=#FFFFFF>égida gloriosa</color> de la <color=#FFFFFF>técnica pasiva: Barrera inquebrantable</color>, la tasa de Producción de Energía de César aumenta en un 10 % y el efecto de aumento de Ataque del portador aumenta a un 150 % del valor original.",
+                "Caesar_Talent_02_Title_Realign": "Legado foráneo"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "Confianza plena",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Caesar_Talent_03_Desc_02": "Una vez que César reconoce a alguien como su igual, le concede el privilegio de entrar en su círculo íntimo, otorgándole confianza plena y bajando la guardia por completo... Justo como está haciendo ahora mismo contigo.",
+                "Caesar_Talent_03_Title_Realign": "Confianza plena"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "Ariete de Aries",
+                "Caesar_Talent_04_Desc_01_Realign": "Cuando César ejecuta una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, recupera 3 <color=#FFFFFF>puntos de apoyo</color> adicionales. Si cuenta con menos de 20 ptos. de energía, puede consumir 1 <color=#FFFFFF>punto de apoyo</color> para ejecutar la <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color>. Este efecto puede activarse una vez cada 5 s.",
+                "Caesar_Talent_04_Desc_02": "Se trata de una de las técnicas que aprendió a dominar bajo la tutela de los nómadas.\n«¡Pase lo que pase, lucharé hasta el último momento!»",
+                "Caesar_Talent_04_Desc_01": "Cuando César ejecuta una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, recupera 3 <color=#FFFFFF>puntos de apoyo</color> adicionales. Si cuenta con menos de 20 ptos. de energía, puede consumir 1 <color=#FFFFFF>punto de apoyo</color> para ejecutar la <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color>. Este efecto puede activarse una vez cada 5 s.",
+                "Caesar_Talent_04_Title_Realign": "Ariete de Aries"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "Conquista romántica",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Caesar_Talent_05_Desc_02": "Aunque no lo muestre, César es toda una romántica en el fondo. Por ejemplo, siempre ha mostrado interés por las historias de amor. Sin embargo, si intentas abordar el tema en profundidad... tal vez consigas que César se ponga colorada.",
+                "Caesar_Talent_05_Title_Realign": "Conquista romántica"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "Voluntad de la jefa suprema",
+                "Caesar_Talent_06_Desc_01_Realign": "La <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color> y el <color=#FFFFFF>ataque sucesivo</color> activan un golpe crítico de forma garantizada. El daño que inflige la habilidad aumenta en un 50 % y el daño infligido al objetivo principal aumenta en un 50 % adicional. Cuando César ejecuta la <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color> o un <color=#FFFFFF>ataque sucesivo</color>, su Probabilidad de Crítico y su Daño Crítico aumentan en un 30 % y 60 % respectivamente durante 15 s.",
+                "Caesar_Talent_06_Desc_02": "«Siempre solía mirar hacia delante. Pensaba que, mientras fuera lo suficientemente fuerte, nada sería imposible. Pero, para ser una jefa suprema de los pies a la cabeza, la fuerza está lejos de ser suficiente. Debo proteger a los amigos que me acompañan. Son la única razón por la que he llegado hasta aquí.»",
+                "Caesar_Talent_06_Desc_01": "La <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color> y el <color=#FFFFFF>ataque sucesivo</color> activan un golpe crítico de forma garantizada. El daño que inflige la habilidad aumenta en un 50 % y el daño infligido al objetivo principal aumenta en un 50 % adicional. Cuando César ejecuta la <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color> o un <color=#FFFFFF>ataque sucesivo</color>, su Probabilidad de Crítico y su Daño Crítico aumentan en un 30 % y 60 % respectivamente durante 15 s.",
+                "Caesar_Talent_06_Title_Realign": "Voluntad de la jefa suprema"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "Lucy",
+        "full_name": "Luciana de Montefío",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "Entrenamiento de formación",
+                "Lucy_Talent_01_Desc_01_Realign": "Cuando un puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>, Lucy recupera 2 ptos. de energía. Puede activarse una vez cada 15 s. El TdE para cada puerco armado es individual.",
+                "Lucy_Talent_01_Desc_02": "«¡Heno, flanco derecho! ¡Idiota, esa es la izquierda! ¡Uno, dos! ¡Uno, dos!»",
+                "Lucy_Talent_01_Desc_01": "Cuando un puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>, Lucy recupera 2 ptos. de energía. Puede activarse una vez cada 15 s. El TdE para cada puerco armado es individual.",
+                "Lucy_Talent_01_Title_Realign": "Entrenamiento de formación"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "Capitana porcina",
+                "Lucy_Talent_02_Desc_01_Realign": "Cuando Lucy ejecuta una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, todos los agentes, bangbús y puercos armados aliados adquieren el efecto de <color=#FFFFFF>¡Ánimo!</color> durante 10 s.",
+                "Lucy_Talent_02_Desc_02": "«Sin duda, ¡la capitana Lucy es la mejor líder de los semihumanos suidos de los Hijos de Calidón!»\nConclusión del «Informe de trabajo anual de los Hijos de Calidón», escrito por Leño.",
+                "Lucy_Talent_02_Desc_01": "Cuando Lucy ejecuta una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, todos los agentes, bangbús y puercos armados aliados adquieren el efecto de <color=#FFFFFF>¡Ánimo!</color> durante 10 s.",
+                "Lucy_Talent_02_Title_Realign": "Capitana porcina"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "Puños de hierro",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Lucy_Talent_03_Desc_02": "«Si la capitana Lucy fuera más amable cuando nos arroja por los aires...»\nLeño completó el resto de la oración para sus adentros.",
+                "Lucy_Talent_03_Title_Realign": "Puños de hierro"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "Torneo sin reglas",
+                "Lucy_Talent_04_Desc_01_Realign": "Al encontrarse bajo el efecto de <color=#FFFFFF>¡Ánimo!</color>, aumenta el Daño Crítico de las unidades aliadas en un 10 %.",
+                "Lucy_Talent_04_Desc_02": "Las reglas, como las costillas del árbitro, están para romperse.",
+                "Lucy_Talent_04_Desc_01": "Al encontrarse bajo el efecto de <color=#FFFFFF>¡Ánimo!</color>, aumenta el Daño Crítico de las unidades aliadas en un 10 %.",
+                "Lucy_Talent_04_Title_Realign": "Torneo sin reglas"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "Princesa del páramo",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Lucy_Talent_05_Desc_02": "Respeto hacia el bateador rival que te abuchea.\nDisculpas hacia los enemigos que se arrastran a tus pies.\nEstas son las reglas de oro del buen comportamiento.",
+                "Lucy_Talent_05_Title_Realign": "Princesa del páramo"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "Colmillos llameantes",
+                "Lucy_Talent_06_Desc_01_Realign": "Cuando un aliado golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color> al encontrarse bajo el estado de <color=#FFFFFF>¡Ánimo!</color>, un puerco armado caerá del cielo y provocará una explosión que inflige <color=#FF5521>daño ígneo</color> equivalente al 300 % del Ataque del puerco armado y extiende la duración del estado de <color=#FFFFFF>¡Ánimo!</color> de todos los miembros del equipo en 5 s. Puede extenderse hasta 3 veces y hasta 30 s. La duración del efecto de <color=#FFFFFF>¡Ánimo!</color> se reinicia con cada activación. Después de provocar la explosión, un puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>.",
+                "Lucy_Talent_06_Desc_02": "¡Los semihumanos suidos denominados «puercos melenarroja» siempre están en la primera línea de combate!\nAunque, el momento en el que son mandados a volar de un batazo, no se sabe si lo que sienten es arrepentimiento inmediato o total entrega.\n¡Vamos, cerdito, tú puedes!",
+                "Lucy_Talent_06_Desc_01": "Cuando un aliado golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color> al encontrarse bajo el estado de <color=#FFFFFF>¡Ánimo!</color>, un puerco armado caerá del cielo y provocará una explosión que inflige <color=#FF5521>daño ígneo</color> equivalente al 300 % del Ataque del puerco armado y extiende la duración del estado de <color=#FFFFFF>¡Ánimo!</color> de todos los miembros del equipo en 5 s. Puede extenderse hasta 3 veces y hasta 30 s. La duración del efecto de <color=#FFFFFF>¡Ánimo!</color> se reinicia con cada activación. Después de provocar la explosión, el puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>.",
+                "Lucy_Talent_06_Title_Realign": "Colmillos llameantes"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "Lighter",
+        "full_name": "Lighter",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "El campeón invicto",
+                "Lighter_Talent_01_Desc_01_Realign": "Entre los efectos negativos provocados por la <color=#FFFFFF>técnica pasiva: Acelerador</color>, la duración del Aturdimiento provocado por el efecto de <color=#FFFFFF>derrota</color> aumenta a 5 s. Además, la <color=#98EFF0>resistencia glacial</color> y la <color=#FF5521>resistencia ígnea</color> se reducen en un 10 % adicional. Si durante la ejecución del puñetazo suave o el combo de puñetazos directos, Lighter agota su <color=#FFFFFF>confianza</color>, enlaza automáticamente con la ejecución de un poderoso ataque final que inflige un 30 % de daño adicional.",
+                "Lighter_Talent_01_Desc_02": "Para el campeón, ganar es de suma importancia. Enfrentarse al más fuerte de los adversarios y derrotarlo le permite eliminar esta amenaza para la líder, además de inspirar una tremenda confianza en todos los miembros de la banda.\nPara él, solo la victoria es digna de elogio.\n«Un campeón no puede caer derrotado.»",
+                "Lighter_Talent_01_Desc_01": "Entre los efectos negativos provocados por la <color=#FFFFFF>técnica pasiva: Acelerador</color>, la duración del Aturdimiento provocado por el efecto de <color=#FFFFFF>derrota</color> aumenta a 5 s. Además, la <color=#98EFF0>resistencia glacial</color> y la <color=#FF5521>resistencia ígnea</color> se reducen en un 10 % adicional. Si durante la ejecución del puñetazo suave o el combo de puñetazos directos, Lighter agota su <color=#FFFFFF>confianza</color>, enlaza automáticamente con la ejecución de un poderoso ataque final que inflige un 30 % de daño adicional.",
+                "Lighter_Talent_01_Title_Realign": "El campeón invicto"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "Pañuelo Encarnado",
+                "Lighter_Talent_02_Desc_01_Realign": "Al aplicar el efecto de <color=#FFFFFF>derrota</color> sobre los enemigos mediante la <color=#FFFFFF>técnica pasiva: Acelerador</color>, la tasa de vulnerabilidad del objetivo aumenta en un 25 %. El efecto de aumento del <color=#98EFF0>daño glacial</color> y el <color=#FF5521>daño ígneo</color> otorgado por el efecto de <color=#FFFFFF>euforia</color> de la <color=#FFFFFF>técnica adicional: Espíritu combativo</color> aumenta a un 120 % de su valor original.",
+                "Lighter_Talent_02_Desc_02": "Lighter, conocido como el Pañuelo Encarnado de los Hijos de Calidón, es muy conocido en la Periferia. No solo por sus puños, sino también por su... singular forma de hablar.\n«Me gusta tomarme las cosas con calma... Pero ¿qué harían sin mí?»",
+                "Lighter_Talent_02_Desc_01": "Al aplicar el efecto de <color=#FFFFFF>derrota</color> sobre los enemigos mediante la <color=#FFFFFF>técnica pasiva: Acelerador</color>, la tasa de vulnerabilidad del objetivo aumenta en un 25 %. El efecto de aumento del <color=#98EFF0>daño glacial</color> y el <color=#FF5521>daño ígneo</color> otorgado por el efecto de <color=#FFFFFF>euforia</color> de la <color=#FFFFFF>técnica adicional: Espíritu combativo</color> aumenta a un 120 % de su valor original.",
+                "Lighter_Talent_02_Title_Realign": "Pañuelo Encarnado"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "Cabecilla mercenario",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Lighter_Talent_03_Desc_02": "«Supongo que no soy la persona más adecuada para ser cabecilla de nada.»",
+                "Lighter_Talent_03_Title_Realign": "Cabecilla mercenario"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "Gafas de sol",
+                "Lighter_Talent_04_Desc_01_Realign": "Cuando Lighter está inactivo, la Recuperación de Energía del agente activo aumenta en un 10 %. Cuando Lighter entra en el estado de <color=#FFFFFF>subidón de confianza</color>, todos los agentes inactivos recuperan 4 ptos. de energía. Este efecto puede activarse una vez cada 18 s.",
+                "Lighter_Talent_04_Desc_02": "«¿Que por qué llevo gafas de sol? Humm... Supongo que es porque me mareo al ver sangre.»",
+                "Lighter_Talent_04_Desc_01": "Cuando Lighter está inactivo, la Recuperación de Energía del agente activo aumenta en un 10 %. Cuando Lighter entra en el estado de <color=#FFFFFF>subidón de confianza</color>, todos los agentes inactivos recuperan 4 ptos. de energía. Este efecto puede activarse una vez cada 18 s.",
+                "Lighter_Talent_04_Title_Realign": "Gafas de sol"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "Toma de decisiones",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Lighter_Talent_05_Desc_02": "«Dime qué hacer y lo haré. Así de fácil.»\nLighter se ajusta las gafas de sol con una sonrisa despreocupada.\n«Eso sí, no hagas que yo tome las decisiones.»",
+                "Lighter_Talent_05_Title_Realign": "Toma de decisiones"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "Superviviente",
+                "Lighter_Talent_06_Desc_01_Realign": "El efecto de recuperación de <color=#FFFFFF>confianza</color> de Lighter aumenta a un 200 % de su valor original. Cuando Lighter golpea a un enemigo con un ataque pesado del <color=#FFFFFF>ataque normal</color>, el <color=#FFFFFF>contraataque</color>, la <color=#FFFFFF>técnica especial</color>, la <color=#FFFFFF>técnica especial EX</color>, el <color=#FFFFFF>apoyo rápido</color>, el <color=#FFFFFF>ataque sucesivo</color>, la <color=#FFFFFF>técnica en cadena</color> o la <color=#FFFFFF>técnica definitiva</color>, Lighter activa el efecto de <color=#FFFFFF>estallido de fuego</color>, infligiendo <color=#FF5521>daño ígneo</color> equivalente al 250 % del Ataque. Este efecto puede activarse una vez cada 8 s contra cada enemigo. Si el Impacto de Lighter supera los 170 ptos., por cada punto adicional, el multiplicador de <color=#FFFFFF>estallido de fuego</color> aumenta en un 5 % adicional hasta un máximo de un 500 %. Si durante la ejecución del puñetazo suave o el combo de puñetazos directos, Lighter agota sus puntos de <color=#FFFFFF>confianza</color>, enlaza automáticamente con la ejecución de un poderoso ataque final. Al golpear a un enemigo con este ataque final, Lighter puede ignorar el TdE y activar el efecto de <color=#FFFFFF>estallido de fuego</color> de forma adicional una vez más.",
+                "Lighter_Talent_06_Desc_02": "Si pudiera volver atrás en el tiempo, Lighter no volvería a escoger convertirse en el único superviviente.\nDesafortunadamente, el destino rara vez atiende a decisiones.",
+                "Lighter_Talent_06_Desc_01": "El efecto de recuperación de <color=#FFFFFF>confianza</color> de Lighter aumenta a un 200 % de su valor original. Cuando Lighter golpea a un enemigo con un ataque pesado del <color=#FFFFFF>ataque normal</color>, el <color=#FFFFFF>contraataque</color>, la <color=#FFFFFF>técnica especial</color>, la <color=#FFFFFF>técnica especial EX</color>, el <color=#FFFFFF>apoyo rápido</color>, el <color=#FFFFFF>ataque sucesivo</color>, la <color=#FFFFFF>técnica en cadena</color> o la <color=#FFFFFF>técnica definitiva</color>, Lighter activa el efecto de <color=#FFFFFF>estallido de fuego</color>, infligiendo <color=#FF5521>daño ígneo</color> equivalente al 250 % del Ataque. Este efecto puede activarse una vez cada 8 s contra cada enemigo. Si el Impacto de Lighter supera los 170 ptos., por cada punto adicional, el multiplicador de <color=#FFFFFF>estallido de fuego</color> aumenta en un 5 % adicional hasta un máximo de un 500 %. Si durante la ejecución del puñetazo suave o el combo de puñetazos directos, Lighter agota sus puntos de <color=#FFFFFF>confianza</color>, enlaza automáticamente con la ejecución de un poderoso ataque final. Al golpear a un enemigo con este ataque final, Lighter puede ignorar el TdE y activar el efecto de <color=#FFFFFF>estallido de fuego</color> de forma adicional una vez más.",
+                "Lighter_Talent_06_Title_Realign": "Superviviente"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "Burnice",
+        "full_name": "Burnice White",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "Unidad ferviente",
+                "Burnice_Talent_01_Desc_01_Realign": "El límite de puntos de <color=#FFFFFF>calor</color> aumenta de 100 ptos. a 140 ptos. Al entrar en combate, Burnice acumula 40 ptos. de <color=#FFFFFF>calor</color> adicionales. El multiplicador de daño del efecto de <color=#FFFFFF>rescoldo</color> aumenta en una cantidad equivalente al 100 % del Ataque de Burnice. Además, la <color=#FF5521>acumulación de Anomalía ígnea</color> del efecto de <color=#FFFFFF>rescoldo</color> aumenta en un 25 %.",
+                "Burnice_Talent_01_Desc_02": "«¡Todos pasamos por malos momentos! ¡Es lo más normal del mundo! ¡Alegra esa cara, César! ¿Te apetece un especial de Nitrocombustible? ¡Le he puesto un montón de azúcar!»",
+                "Burnice_Talent_01_Desc_01": "El límite de puntos de <color=#FFFFFF>calor</color> aumenta de 100 ptos. a 140 ptos. Al entrar en combate, Burnice acumula 40 ptos. de <color=#FFFFFF>calor</color> adicionales. El multiplicador de daño del efecto de <color=#FFFFFF>rescoldo</color> aumenta en una cantidad equivalente al 100 % del Ataque de Burnice. Además, la <color=#FF5521>acumulación de Anomalía ígnea</color> del efecto de <color=#FFFFFF>rescoldo</color> aumenta en un 25 %.",
+                "Burnice_Talent_01_Title_Realign": "Unidad ferviente"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "¡Invita la casa!",
+                "Burnice_Talent_02_Desc_01_Realign": "Al provocar el efecto de <color=#FFFFFF>rescoldo</color>, se aplica <color=#FFFFFF>perforación térmica</color> al enemigo durante 6 s. Pueden acumularse hasta 5 cargas de este efecto. La duración se reinicia con cada activación. Cuando cualquier unidad aliada golpea al enemigo con un ataque, por cada carga de <color=#FFFFFF>perforación térmica</color> que tenga el objetivo, la Tasa de Perforación del ataque aumenta en un 4 %, hasta un máximo de un 20 %.",
+                "Burnice_Talent_02_Desc_02": "Como experta en cócteles de los Hijos de Calidón, Burnice está orgullosa de elaborar el Nitrocombustible más delicioso de Nueva Eridu para todos sus amigos. Ahora bien, si no estás de su parte... tendrás el honor de catar en primicia todos sus nuevos brebajes.\n«¡Esta es una delicia que solo podrás probar una sola vez en la vida!»",
+                "Burnice_Talent_02_Desc_01": "Al provocar el efecto de <color=#FFFFFF>rescoldo</color>, se aplica <color=#FFFFFF>perforación térmica</color> al enemigo durante 6 s. Pueden acumularse hasta 5 cargas de este efecto. La duración se reinicia con cada activación. Cuando cualquier unidad aliada golpea al enemigo con un ataque, por cada carga de <color=#FFFFFF>perforación térmica</color> que tenga el objetivo, la Tasa de Perforación del ataque aumenta en un 4 %, hasta un máximo de un 20 %.",
+                "Burnice_Talent_02_Title_Realign": "¡Invita la casa!"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "Optimismo innato",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Burnice_Talent_03_Desc_02": "«Esa tal Burnice, ¡no importa cuándo la veas, siempre irradia vitalidad! ¡Incluso cuando se acaba de levantar! De verdad, no sé de dónde saca toda esa energía. ¡Y lo peor es que también es capaz de transmitir todo ese ímpetu a la gente que la rodea! ¡Es como si fuera un monstruo o algo parecido! Aunque... Tampoco puedo decir que me disguste...»\n—Un jabalí gerente que desea permanecer en el anonimato.",
+                "Burnice_Talent_03_Title_Realign": "Optimismo innato"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "Reserva de combustible suprema",
+                "Burnice_Talent_04_Desc_01_Realign": "Al golpear a un enemigo con una <color=#FFFFFF>técnica especial EX</color> o un <color=#FFFFFF>ataque de apoyo</color>, la Probabilidad de Crítico de la habilidad aumenta en un 30 %.\nLa duración del torrente de llamas de la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color> aumenta en 1 s.",
+                "Burnice_Talent_04_Desc_02": "«¿Te gusta esta mezcla que he hecho? ¡Muchas gracias! A Colmillo de Acero también le encanta. ¡El tipo puede engullir hasta 200 litros de un trago! ¡Ah, Colmillo de Acero es nuestro increíble camión! ¿Te apetece probar su combustible especial? ¡Arde a más no poder!»",
+                "Burnice_Talent_04_Desc_01": "Al golpear a un enemigo con una <color=#FFFFFF>técnica especial EX</color> o un <color=#FFFFFF>ataque de apoyo</color>, la Probabilidad de Crítico de la habilidad aumenta en un 30 %. La duración del torrente de llamas de la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color> aumenta en 1 s.",
+                "Burnice_Talent_04_Title_Realign": "Reserva de combustible suprema"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "Danza de fuego y hielo",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Burnice_Talent_05_Desc_02": "El hielo es un elemento crucial al mezclar las bebidas. Al fin y al cabo, sin esa sensación de frío, es difícil que destaque el ardor.\n«Esa fusión de fuego y hielo... ¡Eso sí que es adictivo!»",
+                "Burnice_Talent_05_Title_Realign": "Danza de fuego y hielo"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "Invitación eruptiva",
+                "Burnice_Talent_06_Desc_01_Realign": "Cuando Burnice golpea a un enemigo con la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color>, provoca adicionalmente un efecto de <color=#FFFFFF>rescoldo</color> especial, infligiendo al objetivo <color=#FF5521>daño ígneo</color> equivalente al 60 % del Ataque de Burnice sin necesidad de consumir <color=#FFFFFF>calor</color>. Puede activarse una vez cada 0.5 s. Tras golpear a un enemigo con la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color>, durante su ejecución, la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color>, el efecto especial de <color=#FFFFFF>rescoldo</color> y el efecto de <color=#FF5521>calcinación</color> ignoran un 25 % de la <color=#FF5521>resistencia ígnea</color> del objetivo. Al golpear con el estallido de fuego de la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color> a un enemigo afectado por <color=#FF5521>calcinación</color>, inflige daño de <color=#FF5521>calcinación</color> adicional equivalente a un 1800 % del daño original. Puede activarse una vez cada 20 s contra un mismo objetivo.",
+                "Burnice_Talent_06_Desc_02": "Al parecer, nadie ha visto nunca a Burnice enfadarse de verdad.\n«Créeme, dudo que nadie quiera verlo.»\n—Un conductor, preparándose para irse a dormir sobre Colmillo de Acero.",
+                "Burnice_Talent_06_Desc_01": "Cuando Burnice golpea a un enemigo con la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color>, provoca adicionalmente un efecto de <color=#FFFFFF>rescoldo</color> especial, infligiendo al objetivo <color=#FF5521>daño ígneo</color> equivalente al 60 % del Ataque de Burnice sin necesidad de consumir <color=#FFFFFF>calor</color>. Puede activarse una vez cada 0.5 s. Tras golpear a un enemigo con la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color>, durante su ejecución, la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color>, el efecto especial de <color=#FFFFFF>rescoldo</color> y el efecto de <color=#FF5521>calcinación</color> ignoran un 25 % de la <color=#FF5521>resistencia ígnea</color> del objetivo. Al golpear con el estallido de fuego de la <color=#FFFFFF>técnica especial EX: Agitado comburente doble</color> a un enemigo afectado por <color=#FF5521>calcinación</color>, inflige daño de <color=#FF5521>calcinación</color> adicional equivalente a un 1800 % del daño original. Puede activarse una vez cada 20 s contra un mismo objetivo.",
+                "Burnice_Talent_06_Title_Realign": "Invitación eruptiva"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "Piper",
+        "full_name": "Piper Wheel",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "Momento de relajación",
+                "Clara_Talent_01_Desc_01_Realign": "Cuando Piper golpea a un enemigo con un corte ciclónico de <color=#FFFFFF>técnica especial: Revolución de neumático</color>, <color=#FFFFFF>técnica especial EX: Revolución de motor</color> o una <color=#FFFFFF>técnica definitiva</color>, tiene un 50 % de probabilidad de obtener 1 carga adicional de <color=#FFFFFF>fuerza motriz</color> y el límite de cargas de <color=#FFFFFF>fuerza motriz</color> aumenta a 30.",
+                "Clara_Talent_01_Desc_02": "Una mañana tranquila en los Hijos de Calidón, Piper dejó escapar un largo bostezo.\n«Buenas. Hoy es un buen día para descansar, ¿no crees? Nadie ha muerto por exceso de descanso, pero sí por exceso de trabajo.»",
+                "Clara_Talent_01_Desc_01": "Cuando Piper golpea a un enemigo con un corte ciclónico de <color=#FFFFFF>técnica especial: Revolución de neumático</color>, <color=#FFFFFF>técnica especial EX: Revolución de motor</color> o una <color=#FFFFFF>técnica definitiva</color>, tiene un 50 % de probabilidad de obtener 1 carga adicional de <color=#FFFFFF>fuerza motriz</color> y el límite de cargas de <color=#FFFFFF>fuerza motriz</color> aumenta a 30.",
+                "Clara_Talent_01_Title_Realign": "Momento de relajación"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "Ambición",
+                "Clara_Talent_02_Desc_01_Realign": "Al ejecutar la <color=#FFFFFF>técnica especial: Revolución de neumático</color> o la <color=#FFFFFF>técnica especial EX: Revolución de motor</color>, aumenta la velocidad de movimiento de Piper.\nAl golpear a un enemigo con el ataque descendente destructivo de la <color=#FFFFFF>técnica especial: Carga pesada</color>, la <color=#FFFFFF>técnica especial EX: Carga superpesada</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el <color=#F0D12B>daño físico</color> infligido en un 10 %.\nPor cada carga de <color=#FFFFFF>fuerza motriz</color>, dicho efecto aumenta en un 1 % adicional.",
+                "Clara_Talent_02_Desc_02": "«Trajo duro, descanso seguro. Aunque lo mejor sería no tener que esforzarse para nada.»\nPiper se estira, da unas palmaditas en la tumbona del camión y se recuesta.",
+                "Clara_Talent_02_Desc_01": "Al ejecutar la <color=#FFFFFF>técnica especial: Revolución de neumático</color> o la <color=#FFFFFF>técnica especial EX: Revolución de motor</color>, aumenta la velocidad de movimiento de Piper. Al golpear a un enemigo con el ataque descendente destructivo de la <color=#FFFFFF>técnica especial: Carga pesada</color>, la <color=#FFFFFF>técnica especial EX: Carga superpesada</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el <color=#F0D12B>daño físico</color> infligido en un 10 %. Por cada carga de <color=#FFFFFF>fuerza motriz</color>, dicho efecto aumenta en un 1 % adicional.",
+                "Clara_Talent_02_Title_Realign": "Ambición"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "Camionera con experiencia",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Clara_Talent_03_Desc_02": "A Piper le interesa todo lo relacionado con camiones.\nIncluso cuando duerme profundamente, basta con escuchar el sonido de un motor para que se levante al instante:\n«100 caballos de fuerza, 5 toneladas de carga. Es... ¡el nuevo modelo de Tres Puertas!»",
+                "Clara_Talent_03_Title_Realign": "Camionera con experiencia"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "Chófer hábil",
+                "Clara_Talent_04_Desc_01_Realign": "Cuando cualquier miembro del equipo provoque una Anomalía de Atributo sobre el enemigo, Piper recupera 20 ptos. de energía. Puede activarse una vez cada 30 s.",
+                "Clara_Talent_04_Desc_02": "Con Piper al volante, ser un pasajero es una experiencia aterradora.\nAntes de terminar de decir «¡sujétense bien!», el camión de remolque ha acelerado de cero a cien.\nSi los nervios destrozados no son un inconveniente, Piper te llevará a tu destino a salvo y en el menor tiempo posible.",
+                "Clara_Talent_04_Desc_01": "Cuando cualquier miembro del equipo provoque una Anomalía de Atributo sobre el enemigo, Piper recupera 20 ptos. de energía. Puede activarse una vez cada 30 s.",
+                "Clara_Talent_04_Title_Realign": "Chófer hábil"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "Afición personal",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Clara_Talent_05_Desc_02": "Piper disfruta de algunos pasatiempos que no encajan con su apariencia.\n«Se ve que este es un buen caballo corredor. Humm... Pero pocas personas pagan por él. Tal vez ese otro caballo tiene más posibilidades de ganar... ¡Eh, no he bebido suficiente Nitrocombustible! ¡Otra copa!»",
+                "Clara_Talent_05_Title_Realign": "Afición personal"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "Momentos emocionantes",
+                "Clara_Talent_06_Desc_01_Realign": "Extiende la duración de <color=#FFFFFF>técnica especial EX: Revolución de motor</color> en 2 s, y la duración de <color=#FFFFFF>fuerza motriz</color> en 4 s.",
+                "Clara_Talent_06_Desc_02": "Como sabrás, el mayor deseo de Piper es que todos los días fueran de descanso.\nSin embargo, la chica con los párpados pesados en este momento emite un destello en sus ojos.\n«Si es por ti, la menda puede esforzarse un poco más.»",
+                "Clara_Talent_06_Desc_01": "Extiende la duración de <color=#FFFFFF>técnica especial EX: Revolución de motor</color> en 2 s, y la duración de <color=#FFFFFF>fuerza motriz</color> en 4 s.",
+                "Clara_Talent_06_Title_Realign": "Momentos emocionantes"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "Yanagi",
+        "full_name": "Tsukishiro Yanagi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "Conoce a tu enemigo y conócete a ti mismo",
+                "Yanagi_Talent_01_Desc_01_Realign": "Cuando cualquier miembro del equipo provoca Anomalía de Atributo sobre un enemigo, Yanagi obtiene 1 carga de <color=#FFFFFF>lucidez</color> durante 15 s. Pueden acumularse hasta 3 cargas. La duración se reinicia con cada activación. Al recibir un ataque, Yanagi consume 1 carga de <color=#FFFFFF>lucidez</color> y se vuelve invulnerable durante 1 s. Al tener al menos 1 carga de <color=#FFFFFF>lucidez</color>, la Maestría de Anomalía de Yanagi aumenta en 80 ptos.",
+                "Yanagi_Talent_01_Desc_02": "«Poseer la lucidez suficiente para detectar los puntos débiles del enemigo es como ganar una mayor seguridad... y aumentar las probabilidades de ganar.»\nYanagi se ajusta las gafas. Aunque la victoria está garantizada, sigue tan tranquila como siempre.",
+                "Yanagi_Talent_01_Desc_01": "Cuando cualquier miembro del equipo provoca Anomalía de Atributo sobre un enemigo, Yanagi obtiene 1 carga de <color=#FFFFFF>lucidez</color> durante 15 s. Pueden acumularse hasta 3 cargas. La duración se reinicia con cada activación. Al recibir un ataque, Yanagi consume 1 carga de <color=#FFFFFF>lucidez</color> y se vuelve invulnerable durante 1 s. Al tener al menos 1 carga de <color=#FFFFFF>lucidez</color>, la Maestría de Anomalía de Yanagi aumenta en 80 ptos.",
+                "Yanagi_Talent_01_Title_Realign": "Conoce a tu enemigo y conócete a ti mismo"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "Adaptabilidad sobresaliente",
+                "Yanagi_Talent_02_Desc_01_Realign": "La <color=#2EB6FF>acumulación de Anomalía eléctrica</color> provocada por el embate rápido de la <color=#FFFFFF>técnica especial EX</color> aumenta en un 20 %. Al golpear a un enemigo con el embate rápido, mantén pulsado el botón del ataque especial para consumir 10 ptos. de energía adicionales y ejecutar otro embate. Si no cuentas con energía suficiente o dejas de mantener pulsado el botón, enlaza automáticamente un ataque en picado. Al golpear a un enemigo afectado por Anomalía de Atributo con el ataque en picado y activar el efecto de <color=#FFFFFF>disfunción polarizada</color>, el multiplicador de daño infligido al objetivo aumenta a un 20 % del daño de <color=#FFFFFF>disfunción</color> original. Por cada embate adicional ejecutado, el multiplicador de daño aumenta en un 15 %. Esta bonificación de aumento adicional del multiplicador de daño puede activarse hasta un máximo de 2 veces.",
+                "Yanagi_Talent_02_Desc_02": "«Yanagi... puede adaptarse a cualquier ambiente extraño en el que se encuentre.\nConfío más en ella que en mí mismo.»\n— Artista marcial practicando «el corte de las hojas caídas».",
+                "Yanagi_Talent_02_Desc_01": "La <color=#2EB6FF>acumulación de Anomalía eléctrica</color> provocada por el embate rápido de la <color=#FFFFFF>técnica especial EX</color> aumenta en un 20 %. Al golpear a un enemigo con el embate rápido, mantén pulsado el botón del ataque especial para consumir 10 ptos. de energía adicionales y ejecutar otro embate. Si no cuentas con energía suficiente o dejas de mantener pulsado el botón, enlaza automáticamente un ataque en picado. Al golpear a un enemigo afectado por Anomalía de Atributo con el ataque en picado y activar el efecto de <color=#FFFFFF>disfunción polarizada</color>, el multiplicador de daño infligido al objetivo aumenta a un 20 % del daño de <color=#FFFFFF>disfunción</color> original. Por cada embate adicional ejecutado, el multiplicador de daño aumenta en un 15 %. Esta bonificación de aumento adicional del multiplicador de daño puede activarse hasta un máximo de 2 veces.",
+                "Yanagi_Talent_02_Title_Realign": "Adaptabilidad sobresaliente"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "Gestión al estilo Tsukishiro",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Yanagi_Talent_03_Desc_02": "Todo el mundo dice que la División N.º 6 está compuesta por un grupo de genios y raritos, y que la única persona «normal» entre ellos es Tsukishiro Yanagi.\nPero es precisamente su presencia la que mantiene unidos a esos genios y raritos.",
+                "Yanagi_Talent_03_Title_Realign": "Gestión al estilo Tsukishiro"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "Maestra estratega",
+                "Yanagi_Talent_04_Desc_01_Realign": "Cuando Yanagi inflige daño de Anomalía de Atributo a un enemigo, provoca el efecto de <color=#FFFFFF>desprotección</color> sobre el objetivo durante 15 s. Cuando un enemigo afectado por <color=#FFFFFF>desprotección</color> recibe un ataque, la Tasa de Perforación del ataque actual aumenta en un 16 %.",
+                "Yanagi_Talent_04_Desc_02": "Da igual la situación, Yanagi siempre es capaz de recopilar cada detalle de información disponible y tomar la decisión más adecuada y apropiada.",
+                "Yanagi_Talent_04_Desc_01": "Cuando Yanagi inflige daño de Anomalía de Atributo a un enemigo, provoca el efecto de <color=#FFFFFF>desprotección</color> sobre el objetivo durante 15 s. Cuando un enemigo afectado por <color=#FFFFFF>desprotección</color> recibe un ataque, la Tasa de Perforación del ataque actual aumenta en un 16 %.",
+                "Yanagi_Talent_04_Title_Realign": "Maestra estratega"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "«Madre» demoniaca",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Yanagi_Talent_05_Desc_02": "Actualmente, Yanagi es la única protectriz designada de Soukaku.\n«Soukaku, esta es la bola de arroz de Miyabi, no puedes comértela así porque sí... Bueno, ven aquí, te la calentaré.»\n«Luego le compraré otra igual a Miyabi...»",
+                "Yanagi_Talent_05_Title_Realign": "«Madre» demoniaca"
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "Sangre inhumana",
+                "Yanagi_Talent_06_Desc_01_Realign": "Después de ejecutar el embate de la <color=#FFFFFF>técnica especial EX</color>, la duración del estado de <color=#FFFFFF>versatilidad</color> aumenta a 30 s.\nCuando Yanagi se encuentra en este estado, el daño infligido por la <color=#FFFFFF>técnica especial EX</color> aumenta en un 20 %.\nMientras el efecto de <color=#FFFFFF>Adaptabilidad sobresaliente</color> esté activo, el número máximo de veces que puede activarse el multiplicador de daño adicional del efecto de <color=#FFFFFF>disfunción polarizada</color> aumenta a 4, y el coste de energía de los 4 primeros embates adicionales se reduce a la mitad.",
+                "Yanagi_Talent_06_Desc_02": "La sangre que corre por las venas de Tsukishiro Yanagi no es suya.\nEsta sangre le ha permitido sobrevivir en situaciones desesperadas y le ha otorgado ciertos poderes especiales.\n«Pero, como sabrás, todo lo que no me pertenece... tiene un precio.»",
+                "Yanagi_Talent_06_Desc_01": "Después de ejecutar el embate de la <color=#FFFFFF>técnica especial EX</color>, la duración del estado de <color=#FFFFFF>versatilidad</color> aumenta a 30 s. Cuando Yanagi se encuentra en este estado, el daño infligido por la <color=#FFFFFF>técnica especial EX</color> aumenta en un 20 %. Mientras el efecto de <color=#FFFFFF>Adaptabilidad sobresaliente</color> esté activo, el número máximo de veces que puede activarse el multiplicador de daño adicional del efecto de <color=#FFFFFF>disfunción polarizada</color> aumenta a 4, y el coste de energía de los 4 primeros embates adicionales se reduce a la mitad.",
+                "Yanagi_Talent_06_Title_Realign": "Sangre inhumana"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

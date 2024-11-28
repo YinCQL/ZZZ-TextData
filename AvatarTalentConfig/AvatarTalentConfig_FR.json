@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "Anby",
+        "full_name": "Anby Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "Mode de charge rapide",
+                "Anbi_Talent_01_Desc_01_Realign": "Lorsque le 4e coup de l'<color=#FFFFFF>attaque normale</color> d'Anby touche un ennemi, son taux de production d'énergie augmente de 12 % pendant 30 s.",
+                "Anbi_Talent_01_Desc_02": "« Chargez une minute, combattez pendant une heure ! »\nVoilà l'argument de vente de ces modules d'extension d'armes...\nEt ce n'est pas de la publicité mensongère.",
+                "Anbi_Talent_01_Desc_01": "Lorsque le 4e coup de l'<color=#FFFFFF>attaque normale</color> d'Anby touche un ennemi, son taux de production d'énergie augmente de 12 % pendant 30 s.",
+                "Anbi_Talent_01_Title_Realign": "Mode de charge rapide"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "Décharge de précision",
+                "Anbi_Talent_02_Desc_01_Realign": "Lorsque <color=#FFFFFF>Attaque normale : Éclair</color> touche un ennemi étourdi, les DGT augmentent de 30 %.\nLorsque l'<color=#FFFFFF>attaque spéciale EX</color> d'Anby touche un ennemi qui n'est pas étourdi, la confusion provoquée augmente de 10 %.",
+                "Anbi_Talent_02_Desc_02": "« Les électrochocs vous mettent à terre en un rien de temps. »\nEn observant l'ennemi inconscient à ses pieds, elle ajouta :\n« Du moins, c'est comme ça que ça se passe dans les films. »",
+                "Anbi_Talent_02_Desc_01": "Lorsque <color=#FFFFFF>Attaque normale : Éclair</color> touche un ennemi étourdi, les DGT augmentent de 30 %.\nLorsque l'<color=#FFFFFF>attaque spéciale EX</color> d'Anby touche un ennemi qui n'est pas étourdi, la confusion provoquée augmente de 10 %.",
+                "Anbi_Talent_02_Title_Realign": "Décharge de précision"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "Bien disciplinée",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Anbi_Talent_03_Desc_02": "Courir, entailler, s'abattre comme la foudre. En ce qui concerne les Néantres, elle n'est pas du tout une amatrice, au contraire, c'est une experte.",
+                "Anbi_Talent_03_Title_Realign": "Bien disciplinée"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "Charge conductrice",
+                "Anbi_Talent_04_Desc_01_Realign": "Lorsque Anby lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, les agents électriques en réserve récupèrent 3 pts d'énergie.\nPour chaque tranche de 12 % du taux de production d'énergie d'Anby, récupère 2 pts d'énergie supplémentaires, jusqu'à un maximum de 6 pts.",
+                "Anbi_Talent_04_Desc_02": "Vous ne ferez pas long feu en combattant en solo. Un écumeur de Néantres confirmé sait créer des opportunités pour ses coéquipiers.",
+                "Anbi_Talent_04_Desc_01": "Lorsque Anby lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, les agents électriques en réserve récupèrent 3 pts d'énergie.\nPour chaque tranche de 12 % du taux de production d'énergie d'Anby, récupère 2 pts d'énergie supplémentaires, jusqu'à un maximum de 6 pts.",
+                "Anbi_Talent_04_Title_Realign": "Charge conductrice"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "L'école de la rue",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Anbi_Talent_05_Desc_02": "Travailler pour les Lièvres rusés forge non seulement le mental, mais aide également (ou plutôt « force ») à rester en forme.",
+                "Anbi_Talent_05_Title_Realign": "L'école de la rue"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "Champ de charge",
+                "Anbi_Talent_06_Desc_01_Realign": "Lorsque Anby utilise son <color=#FFFFFF>attaque spéciale EX</color>, elle obtient 8 cumuls de charge, jusqu'à un maximum de 8 cumuls. Lorsqu'elle touche un ennemi avec son <color=#FFFFFF>attaque normale</color> ou son <color=#FFFFFF>attaque de bond</color>, 1 cumul de charge est consommé pour augmenter les DGT de l'attaque de 45 %.",
+                "Anbi_Talent_06_Desc_02": "Des spirales électriques vacillent au bout de ses doigts.\nAnby redresse la tête, les yeux débordant d'une détermination éclatante pour son âge.\nPeut-être qu'un jour, elle deviendra celle qui aura maîtrisé l'électricité à la perfection.",
+                "Anbi_Talent_06_Desc_01": "Lorsque Anby utilise son <color=#FFFFFF>attaque spéciale EX</color>, elle obtient 8 cumuls de charge, jusqu'à un maximum de 8 cumuls. Lorsqu'elle touche un ennemi avec son <color=#FFFFFF>attaque normale</color> ou son <color=#FFFFFF>attaque de bond</color>, 1 cumul de charge est consommé pour augmenter les DGT de l'attaque de 45 %.",
+                "Anbi_Talent_06_Title_Realign": "Champ de charge"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "Nekomata",
+        "full_name": "Nekomiya Mana",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "Chasse avienne",
+                "Tsubaki_Talent_01_Desc_01_Realign": "Lorsque Nekomata touche un ennemi en l'attaquant par derrière, elle ignore 16 % de la <color=#F0D12B>RÉS physique</color> de sa cible.\nSi l'ennemi est étourdi, toutes les attaques de Nekomata sont considérées comme des attaques par derrière.",
+                "Tsubaki_Talent_01_Desc_02": "Bien que Nekomata puisse manquer de force en raison de sa petite taille, elle dispose de suffisamment de perspicacité et d'agilité pour repérer les points faibles de ses ennemis et s'en servir à son avantage.",
+                "Tsubaki_Talent_01_Desc_01": "Lorsque Nekomata touche un ennemi en l'attaquant par derrière, elle ignore 16 % de la <color=#F0D12B>RÉS physique</color> de sa cible. Si l'ennemi est étourdi, toutes les attaques de Nekomata sont considérées comme des attaques par derrière.",
+                "Tsubaki_Talent_01_Title_Realign": "Chasse avienne"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "Le chat et la souris",
+                "Tsubaki_Talent_02_Desc_01_Realign": "Lorsqu'il n'y a qu'un ennemi sur le terrain et que Nekomata est en combat, son taux de production d'énergie augmente de 25 %.",
+                "Tsubaki_Talent_02_Desc_02": "Les chats préfèrent toujours s'amuser avec leur proie.\nS'il reste une souris en combat, le champ de bataille se transformera en véritable terrain de jeu pour Nekomata.",
+                "Tsubaki_Talent_02_Desc_01": "Lorsqu'il n'y a qu'un ennemi sur le terrain et que Nekomata est en combat, son taux de production d'énergie augmente de 25 %.",
+                "Tsubaki_Talent_02_Title_Realign": "Le chat et la souris"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "Queue gauche curieuse",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Tsubaki_Talent_03_Desc_02": "Selon les légendes de l'ancienne civilisation, chaque queue représente une des nombreuses vies du chat et renferme des années de sagesse et d'expérience... Bien que cette légende ne soit pas réelle, les expériences que Nekomata a accumulées dans la rue au cours de sa vie, elles, le sont.",
+                "Tsubaki_Talent_03_Title_Realign": "Queue gauche curieuse"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "Griffes acérées",
+                "Tsubaki_Talent_04_Desc_01_Realign": "Quand Nekomata utilise son <color=#FFFFFF>attaque spéciale EX</color>, son taux CRIT augmente de 7 % pendant 15 s. Cumulable 2 fois maximum. La durée de chaque cumul est calculée séparément.",
+                "Tsubaki_Talent_04_Desc_02": "« PLUS, donnez-m'en plus ! Je peux tout manger ! »\nSes yeux étincellent tandis qu'elle se lèche le dos des pattes.",
+                "Tsubaki_Talent_04_Desc_01": "Quand Nekomata utilise son <color=#FFFFFF>attaque spéciale EX</color>, son taux CRIT augmente de 7 % pendant 15 s. Cumulable 2 fois maximum. La durée de chaque cumul est calculée séparément.",
+                "Tsubaki_Talent_04_Title_Realign": "Griffes acérées"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "Queue droite chanceuse",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Tsubaki_Talent_05_Desc_02": "Selon les légendes de l'ancienne civilisation, chaque queue représente une des nombreuses vies d'un chat et renferme des années de sagesse et d'expérience... Parfois, Nekomata se demande si une autre queue finira par lui pousser si elle continue de survivre.",
+                "Tsubaki_Talent_05_Title_Realign": "Queue droite chanceuse"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "Prédatrice née",
+                "Tsubaki_Talent_06_Desc_01_Realign": "Lorsque Nekomata lance un <color=#FFFFFF>enchaînement</color> ou utilise son <color=#FFFFFF>ultime</color>, ses DGT CRIT augmentent de 18 %. Cumulable 3 fois maximum. Cet effet expire lorsqu'elle n'est plus au combat. Les cumuls atteignent leur maximum lorsque Nekomata élimine un ennemi.",
+                "Tsubaki_Talent_06_Desc_02": "« Lorsqu'un thirien félin obtient un avantage grâce à son comportement agressif, son animalité innée a tendance à ressortir.\nFort heureusement, cette tendance n'est pas permanente... »\n-Extrait du <i>Manuel de recherche incomplète sur les thiriens félins</i>",
+                "Tsubaki_Talent_06_Desc_01": "Lorsque Nekomata lance un <color=#FFFFFF>enchaînement</color> ou utilise son <color=#FFFFFF>ultime</color>, ses DGT CRIT augmentent de 18 %. Cumulable 3 fois maximum. Cet effet expire lorsqu'elle n'est plus au combat. Les cumuls atteignent leur maximum lorsque Nekomata élimine un ennemi.",
+                "Tsubaki_Talent_06_Title_Realign": "Prédatrice née"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "Nicole",
+        "full_name": "Nicole Demara",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "Charge superexplosive",
+                "Nostradamus_Talent_01_Desc_01_Realign": "Les DGT et l'accumulation d'anomalie d'attribut infligés par l'<color=#FFFFFF>attaque spéciale EX</color> de Nicole augmentent de 16 %. Lorsqu'elle active son <color=#FFFFFF>attaque spéciale EX</color>, la durée du champ énergétique généré à l'emplacement de la cible est prolongée de 0.15 s pour chaque 0,1 s de charge supplémentaire.",
+                "Nostradamus_Talent_01_Desc_02": "« Et un plein d'énergie, un ! Allez, on se dépêche !\n– Hein ? Je n'étais pas en train de me tourner les pouces, je le jure, j'avais juste besoin d'une pause ! »",
+                "Nostradamus_Talent_01_Desc_01": "Les DGT et l'accumulation d'anomalie d'attribut infligés par l'<color=#FFFFFF>attaque spéciale EX</color> de Nicole augmentent de 16 %. Lorsqu'elle active son <color=#FFFFFF>attaque spéciale EX</color>, la durée du champ énergétique généré à l'emplacement de la cible est prolongée de 0.15 s pour chaque 0,1 s de charge supplémentaire.",
+                "Nostradamus_Talent_01_Title_Realign": "Charge superexplosive"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "Chargeur",
+                "Nostradamus_Talent_02_Desc_01_Realign": "Lorsque le malus du <color=#FFFFFF>Passif principal : Malette mécanique</color> se déclenche, Nicole récupère 5 pts d'énergie. Cet effet peut être déclenché une fois toutes les 15 s.",
+                "Nostradamus_Talent_02_Desc_02": "« Ne sous-estime jamais l'importance d'une seconde !\nAs-tu la moindre idée de toute la valeur que je peux générer en une seconde ? C'est inimaginable !\nAlors, je peux bien avoir une petite prime de productivité ? Pourquoi pas 10 %, qu'est-ce que t'en dis ? »",
+                "Nostradamus_Talent_02_Desc_01": "Lorsque le malus du <color=#FFFFFF>Passif principal : Malette mécanique</color> se déclenche, Nicole récupère 5 pts d'énergie. Cet effet peut être déclenché une fois toutes les 15 s.",
+                "Nostradamus_Talent_02_Title_Realign": "Chargeur"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "La ruse du lièvre",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Nostradamus_Talent_03_Desc_02": "Faute d'une puissance écrasante ou de ressources abondantes, Nicole s'est appuyée sur son esprit vif pour faire des Lièvres rusés ce qu'ils sont aujourd'hui.",
+                "Nostradamus_Talent_03_Title_Realign": "La ruse du lièvre"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "Extension du domaine",
+                "Nostradamus_Talent_04_Desc_01_Realign": "Lorsque Nicole utilise son <color=#FFFFFF>attaque spéciale EX</color>, son <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, le diamètre du champ énergétique généré à l'emplacement de la cible augmente de 3 m.",
+                "Nostradamus_Talent_04_Desc_02": "« Ça, et ça aussi. Tout ça deviendra bientôt le territoire des Lièvres rusés. Vous m'entendez ?!\n– Q—Quoi ? Quand ça ?\n– Euh... D'ici environ dix mille ans si on se base sur les prévisions annuelles de revenu. »",
+                "Nostradamus_Talent_04_Desc_01": "Lorsque Nicole utilise son <color=#FFFFFF>attaque spéciale EX</color>, son <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, le diamètre du champ énergétique généré à l'emplacement de la cible augmente de 3 m.",
+                "Nostradamus_Talent_04_Title_Realign": "Extension du domaine"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "Grand ponte",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Nostradamus_Talent_05_Desc_02": "Bien qu'ils aient de nombreux ennemis dans le secteur, Nicole a sorti son équipe de nombreuses situations dangereuses. Ainsi, leur réputation et leur expérience n'ont cessé de croître.",
+                "Nostradamus_Talent_05_Title_Realign": "Grand ponte"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "Champ énergétique de corruption",
+                "Nostradamus_Talent_06_Desc_01_Realign": "Lorsque le champ énergétique de Nicole inflige des DGT à un ennemi, le taux CRIT de tous les membres de l'escouade augmente de 1.5 % contre cet ennemi pendant 12 s. Cumulable jusqu'à un maximum de 10 fois. La durée de chaque cumul est calculée séparément.",
+                "Nostradamus_Talent_06_Desc_02": "Le passage à des munitions de meilleure qualité, dotées d'une meilleure puissance de feu et d'une plus grande quantité de matière éthérique comprimée, se traduit par des dégâts plus importants, une durée d'utilisation plus longue... et des coûts plus élevés.",
+                "Nostradamus_Talent_06_Desc_01": "Lorsque le champ énergétique de Nicole inflige des DGT à un ennemi, le taux CRIT de tous les membres de l'escouade augmente de 1.5 % contre cet ennemi pendant 12 s. Cumulable jusqu'à un maximum de 10 fois. La durée de chaque cumul est calculée séparément.",
+                "Nostradamus_Talent_06_Title_Realign": "Champ énergétique de corruption"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "Billy",
+        "full_name": "Billy Kid",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "Entrée fracassante",
+                "Billy_Talent_01_Desc_01_Realign": "Lorsque Billy touche un ennemi avec une <color=#FFFFFF>attaque de bond</color> ou un <color=#FFFFFF>contre d'esquive</color>, il gagne 2.7 pts d'énergie supplémentaires. Peut être déclenché une fois toutes les 5 s.",
+                "Billy_Talent_01_Desc_02": "« Vous êtes bien trop honnêtes pour être des méchants ! »\n« Tous alignés, comme des PNJ au stand de tir ! »",
+                "Billy_Talent_01_Desc_01": "Lorsque Billy touche un ennemi avec une <color=#FFFFFF>attaque de bond</color> ou un <color=#FFFFFF>contre d'esquive</color>, il gagne 2.7 pts d'énergie supplémentaires. Peut être déclenché une fois toutes les 5 s.",
+                "Billy_Talent_01_Title_Realign": "Entrée fracassante"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "Pistolero errant",
+                "Billy_Talent_02_Desc_01_Realign": "Les DGT infligés par le <color=#FFFFFF>contre d'esquive</color> de Billy augmentent de 25 %.\nLes Tirs en roulade effectués au cours de ses <color=#FFFFFF>attaques normales</color> sont considérés comme des esquives, pendant lesquelles Billy est invulnérable et peut déclencher des <color=#FFFFFF>esquives parfaites</color>.\nLorsqu'un Tir en roulade déclenche une <color=#FFFFFF>esquive parfaite</color>, celle-ci sera automatiquement suivie d'un <color=#FFFFFF>contre d'esquive</color>.",
+                "Billy_Talent_02_Desc_02": "« Un Chevalier stellaire ne fuit jamais le danger. Ça, c'est ce qui s'appelle savoir tirer ! »\n– Utilisateur « Dreamgirl Monica », depuis la messagerie d'Éclat stellaire.",
+                "Billy_Talent_02_Desc_01": "Les DGT infligés par le <color=#FFFFFF>contre d'esquive</color> de Billy augmentent de 25 %.\nLes Tirs en roulade effectués au cours de ses <color=#FFFFFF>attaques normales</color> sont considérés comme des esquives, pendant lesquelles Billy est invulnérable et peut déclencher des <color=#FFFFFF>esquives parfaites</color>.\nLorsqu'un Tir en roulade déclenche une <color=#FFFFFF>esquive parfaite</color>, celle-ci sera automatiquement suivie d'un <color=#FFFFFF>contre d'esquive</color>.",
+                "Billy_Talent_02_Title_Realign": "Pistolero errant"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "Enseignements des Chevaliers stellaires",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Billy_Talent_03_Desc_02": "Ne jamais négliger son entraînement et toujours chercher à s'améliorer, telle est la philosophie des Chevaliers stellaires. Billy y adhère de tout cœur, et la pratique passionnément.",
+                "Billy_Talent_03_Title_Realign": "Enseignements des Chevaliers stellaires"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "Balistique stellaire",
+                "Billy_Talent_04_Desc_01_Realign": "Lorsque Billy touche un ennemi avec son <color=#FFFFFF>attaque spéciale EX</color>, le taux CRIT de la compétence augmente selon la distance entre Billy et l'ennemi. Plus il est proche de la cible, plus l'effet est important, jusqu'à une augmentation maximale de 32 %.",
+                "Billy_Talent_04_Desc_02": "Ces balles explosives inventées par Billy sont incroyablement efficaces à courte portée.\nPourtant, l'intention initiale de Billy était simplement de rendre ses tirs plus cools.",
+                "Billy_Talent_04_Desc_01": "Lorsque Billy touche un ennemi avec son <color=#FFFFFF>attaque spéciale EX</color>, le taux CRIT de la compétence augmente selon la distance entre Billy et l'ennemi. Plus il est proche de la cible, plus l'effet est important, jusqu'à une augmentation maximale de 32 %.",
+                "Billy_Talent_04_Title_Realign": "Balistique stellaire"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "Technologie perdue",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Billy_Talent_05_Desc_02": "Des composants de précision inconnus et une conception de structure unique ont permis à Billy d'obtenir des performances bien supérieures à celles de ses homologues... Tout comme ses coûts d'entretien.",
+                "Billy_Talent_05_Title_Realign": "Technologie perdue"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "Héros stellaire",
+                "Billy_Talent_06_Desc_01_Realign": "Lorsque Billy touche les ennemis 10 fois ou déclenche une <color=#FFFFFF>esquive parfaite</color>, ses DGT augmentent de 6 %. Effet cumulable 5 fois. L'effet est réinitialisé lorsque Billy est repoussé ou projeté par une attaque ennemie.",
+                "Billy_Talent_06_Desc_02": "« Ouah ! J'ai la patate ! Écarte-toi, Anby, c'est à moi de briller ! »\n« Hé, Anby, tu peux lancer le thème du Chevalier stellaire ? »\n– Lièvres rusés, les 10 phrases interdites sélectionnées par Anby",
+                "Billy_Talent_06_Desc_01": "Lorsque Billy touche les ennemis 10 fois ou déclenche une <color=#FFFFFF>esquive parfaite</color>, ses DGT augmentent de 6 %. Cet effet est cumulable jusqu'à 5 fois et est réinitialisé après que Billy est repoussé ou projeté par une attaque ennemie.",
+                "Billy_Talent_06_Title_Realign": "Héros stellaire"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "Koleda",
+        "full_name": "Koleda Belobog",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "Au rythme du marteau",
+                "OokumaMari_Talent_01_Desc_01_Realign": "Après le 2e ou 4e coup de l'<color=#FFFFFF>attaque normale</color> de Koleda ou son <color=#FFFFFF>attaque normale</color> renforcée, lancez rapidement une <color=#FFFFFF>attaque spéciale</color> ou une <color=#FFFFFF>attaque spéciale EX</color> pour augmenter la confusion infligée de 15 %.",
+                "OokumaMari_Talent_01_Desc_02": "Son tempérament fougueux n'est qu'une façade, car Koleda est en vérité une personne assez complexe. Par exemple, elle sait exactement à quel moment asséner un coup de marteau pour provoquer un maximum de dégâts.",
+                "OokumaMari_Talent_01_Desc_01": "Après le 2e ou 4e coup de l'<color=#FFFFFF>attaque normale</color> de Koleda ou son <color=#FFFFFF>attaque normale</color> renforcée, lancez rapidement une <color=#FFFFFF>attaque spéciale</color> ou une <color=#FFFFFF>attaque spéciale EX</color> pour augmenter la confusion provoquée de 15 %.",
+                "OokumaMari_Talent_01_Title_Realign": "Au rythme du marteau"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "Récupération cinétique",
+                "OokumaMari_Talent_02_Desc_01_Realign": "Quand l'<color=#FFFFFF>attaque spéciale EX</color> de Koleda touche un ennemi, elle récupère 60 pts d'énergie. Peut être déclenché une fois toutes les 45 s.",
+                "OokumaMari_Talent_02_Desc_02": "D'après Koleda, c'est le marteau qui guide la main du maître. À l'instar des tambours, chaque coup donne le tempo pour le prochain.\nBien sûr, difficile de dire combien de coups ses « jouets » peuvent supporter.",
+                "OokumaMari_Talent_02_Desc_01": "Quand l'<color=#FFFFFF>attaque spéciale EX</color> de Koleda touche un ennemi, elle récupère 60 pts d'énergie. Peut être déclenché une fois toutes les 45 s.",
+                "OokumaMari_Talent_02_Title_Realign": "Récupération cinétique"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "« T'occupe ! »",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "OokumaMari_Talent_03_Desc_02": "En tant que « jouet », vous ne devriez pas rester sur le chemin de Koleda quand elle décide de manier son marteau.\nContentez-vous de rester immobile, et de prendre le coup sans broncher.\n– À quoi bon résister, après tout ?",
+                "OokumaMari_Talent_03_Title_Realign": "« T'occupe ! »"
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "Lueur de la forge",
+                "OokumaMari_Talent_04_Desc_01_Realign": "Koleda obtient un cumul de charge, jusqu'à un maximum de 2 cumuls, lorsqu'elle consomme <color=#FFFFFF>Feu de forge</color> pour utiliser son <color=#FFFFFF>attaque normale</color> renforcée. Lorsque son <color=#FFFFFF>enchaînement</color> ou <color=#FFFFFF>ultime</color> touche un ennemi, elle consomme tous ses cumuls de charge. Chaque cumul consommé augmente les DGT infligés par la compétence de 18 %.",
+                "OokumaMari_Talent_04_Desc_02": "Koleda sent les flammes de la guerre l'entourer tandis que ses coups de marteau font monter la température ambiante.\nÀ ces moments-là, elle est plus inflammable et explosive que l'éther.",
+                "OokumaMari_Talent_04_Desc_01": "Koleda obtient un cumul de charge, jusqu'à un maximum de 2 cumuls, lorsqu'elle consomme <color=#FFFFFF>Feu de forge</color> pour utiliser son <color=#FFFFFF>attaque normale</color> renforcée. Lorsque son <color=#FFFFFF>enchaînement</color> ou <color=#FFFFFF>ultime</color> touche un ennemi, elle consomme tous ses cumuls de charge. Chaque cumul consommé augmente les DGT infligés par la compétence de 18 %.",
+                "OokumaMari_Talent_04_Title_Realign": "Lueur de la forge"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "« Tu me sous-estimes ? »",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "OokumaMari_Talent_05_Desc_02": "Koleda est très attachée à son rôle de jeune cheffe, ce qui peut pousser les autres à sous-estimer les capacités des usines Belobog. Pour compenser, elle s'entraîne en secret de manière très disciplinée.",
+                "OokumaMari_Talent_05_Title_Realign": "« Tu me sous-estimes ? »"
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "Explosion saturée",
+                "OokumaMari_Talent_06_Desc_01_Realign": "Lorsqu'une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color> déclenche une explosion qui touche des ennemis, celle-ci inflige des DGT supplémentaires équivalents à 360 % de l'ATQ de Koleda.",
+                "OokumaMari_Talent_06_Desc_02": "Koleda a en horreur deux types de personnes :\nLes imbéciles et les causes perdues.\nHeureusement pour elle, Belobog stocke en permanence une importante réserve d'explosifs éthériques... parfait pour éliminer les imbéciles.",
+                "OokumaMari_Talent_06_Desc_01": "Lorsqu'une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color> déclenche une explosion qui touche des ennemis, celle-ci inflige des DGT supplémentaires équivalents à 360 % de l'ATQ de Koleda.",
+                "OokumaMari_Talent_06_Title_Realign": "Explosion saturée"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "Anton",
+        "full_name": "Anton Ivanov",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "Exercices d'échauffement",
+                "Anton_Talent_01_Desc_01_Realign": "Lorsque l'<color=#FFFFFF>attaque de foreuse</color> touche un ennemi, Anton récupère de l'énergie supplémentaire, jusqu'à un maximum de 5 pts d'énergie par activation de la compétence.",
+                "Anton_Talent_01_Desc_02": "« Finie la sieste, frérot, viens t'entraîner !\nEssaie de me suivre, on va faire quelques étirements ! »",
+                "Anton_Talent_01_Desc_01": "Lorsque l'<color=#FFFFFF>attaque de foreuse</color> touche un ennemi, Anton récupère de l'énergie supplémentaire, jusqu'à un maximum de 5 pts d'énergie par activation de la compétence.",
+                "Anton_Talent_01_Title_Realign": "Exercices d'échauffement"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "Concentration maximale",
+                "Anton_Talent_02_Desc_01_Realign": "Lorsque Anton lance son <color=#FFFFFF>attaque spéciale EX</color> et entre en <color=#FFFFFF>mode explosif</color>, il obtient un bouclier équivalent à 7.5 % de ses PV max.\nEntrer en combat ou prendre le relai en <color=#FFFFFF>mode explosif</color> applique à nouveau l'effet de bouclier. Cet effet peut être déclenché une fois toutes les 15 s.\nLe bouclier se dissipe lorsque le <color=#FFFFFF>mode explosif</color> prend fin.",
+                "Anton_Talent_02_Desc_02": "Après un entraînement particulièrement éprouvant, rares sont ceux capables de se réjouir quand ils doivent suivre une séance intense. Ils entrent alors dans un état de concentration maximale communément appelé « la zone ».\nAvez-vous ce qu'il faut pour pénétrer dans cette fameuse zone ?\n– Programme exclusif de Nitro « Bonjour, fervente main-d'œuvre ! »",
+                "Anton_Talent_02_Desc_01": "Lorsque Anton lance son <color=#FFFFFF>attaque spéciale EX</color> et entre en <color=#FFFFFF>mode explosif</color>, il obtient un bouclier équivalent à 7.5 % de ses PV max. Entrer en combat ou prendre le relai en <color=#FFFFFF>mode explosif</color> applique à nouveau l'effet de bouclier. Cet effet peut être déclenché une fois toutes les 15 s. Le bouclier se dissipe lorsque le <color=#FFFFFF>mode explosif</color> prend fin.",
+                "Anton_Talent_02_Title_Realign": "Concentration maximale"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "Rotation d'entraînement",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Anton_Talent_03_Desc_02": "Connaître un peu de tout peut sembler être un désavantage, mais dans un environnement complexe et évolutif comme la Néantre, posséder des compétences supplémentaires peut augmenter vos chances de surmonter les difficultés.",
+                "Anton_Talent_03_Title_Realign": "Rotation d'entraînement"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "Est-ce que vous êtes chauds ?!",
+                "Anton_Talent_04_Desc_01_Realign": "Lorsque Anton lance son <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, le taux CRIT de tous les membres de l'escouade augmente de 10 % pendant 12 s.",
+                "Anton_Talent_04_Desc_02": "« Remémorez-vous les sensations de vos entraînements et suivez-moi ! »\nQuand Anton travaille sérieusement, tout le monde s'améliore.\nAprès tout, vous devrez vous entraîner en solo demain si vous ne tenez pas la cadence.",
+                "Anton_Talent_04_Desc_01": "Lorsque Anton lance son <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, le taux CRIT de tous les membres de l'escouade augmente de 10 % pendant 12 s.",
+                "Anton_Talent_04_Title_Realign": "Est-ce que vous êtes chauds ?!"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "Touche-à-tout",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Anton_Talent_05_Desc_02": "Connaître un peu de tout peut être assez banal, mais si vous avez suffisamment de motivation pour passer de « avoir quelques connaissances » à « être expert dans votre domaine », vous pourrez tout faire !",
+                "Anton_Talent_05_Title_Realign": "Touche-à-tout"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "Briseur de limites",
+                "Anton_Talent_06_Desc_01_Realign": "Lorsque l'<color=#FFFFFF>attaque marteau-pilon</color> d'Anton inflige un coup critique, les DGT d'<color=#FFFFFF>Attaque normale : Exercices enjoués (Mode explosif)</color> et de <color=#FFFFFF>Contre d'esquive : Foreuse surchargée (Mode explosif)</color> augmentent de 4 % pendant 30 s. Effet cumulable 6 fois. Les déclenchements répétés réinitialisent la durée de l'effet.",
+                "Anton_Talent_06_Desc_02": "« Oh mon frérot, tu sens que ça chauffe ? »\nQuand Anton cherche à dépasser ses limites, tout ce que son « frérot » qui suit son rythme effréné pourra lui répondre, c'est une sorte de bourdonnement.",
+                "Anton_Talent_06_Desc_01": "Lorsque l'<color=#FFFFFF>attaque marteau-pilon</color> d'Anton inflige un coup critique, les DGT d'<color=#FFFFFF>Attaque normale : Exercices enjoués (Mode explosif)</color> et de <color=#FFFFFF>Contre d'esquive : Foreuse surchargée (Mode explosif)</color> augmentent de 4 % pendant 30 s. Effet cumulable 6 fois. Les déclenchements répétés réinitialisent la durée de l'effet.",
+                "Anton_Talent_06_Title_Realign": "Briseur de limites"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "Ben",
+        "full_name": "Ben Bigger",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "Force de réaction",
+                "Ben_Talent_01_Desc_01_Realign": "Lorsque l'<color=#FFFFFF>attaque spéciale</color> ou l'<color=#FFFFFF>attaque spéciale EX</color> de Ben pare une attaque ennemie, les DGT infligés par l'ennemi paré diminuent de 30 % pendant 15 s.",
+                "Ben_Talent_01_Desc_02": "« Pour chaque action, il y a une réaction égale et opposée. Dans ce cas, pourquoi il faut toujours que vous fonciez tête baissée ? »\n« On dirait que vos calculs ne sont pas bons. »",
+                "Ben_Talent_01_Desc_01": "Lorsque l'<color=#FFFFFF>attaque spéciale</color> ou l'<color=#FFFFFF>attaque spéciale EX</color> de Ben pare une attaque ennemie, les DGT infligés par l'ennemi paré diminuent de 30 % pendant 15 s.",
+                "Ben_Talent_01_Title_Realign": "Force de réaction"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "Attaque par la défense",
+                "Ben_Talent_02_Desc_01_Realign": "Lorsque l'<color=#FFFFFF>attaque spéciale</color> ou l'<color=#FFFFFF>attaque spéciale EX</color> de Ben déclenche une riposte, celle-ci inflige des DGT supplémentaires équivalents à 300 % de sa DÉF.",
+                "Ben_Talent_02_Desc_02": "Contrairement aux autres thiriens ursins, Ben conserve son sang-froid au combat.\nD'après lui, s'il garde ses défenses au maximum, il peut tenir jusqu'à ce que son ennemi dévoile ses faiblesses.",
+                "Ben_Talent_02_Desc_01": "Lorsque l'<color=#FFFFFF>attaque spéciale</color> ou l'<color=#FFFFFF>attaque spéciale EX</color> de Ben déclenche une riposte, celle-ci inflige des DGT supplémentaires équivalents à 300 % de sa DÉF.",
+                "Ben_Talent_02_Title_Realign": "Attaque par la défense"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "Comptabilité minutieuse",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Ben_Talent_03_Desc_02": "Être financièrement responsable implique de prendre en compte la rentabilité et d'utiliser toutes les ressources disponibles pour renforcer l'équipe et soi-même.",
+                "Ben_Talent_03_Title_Realign": "Comptabilité minutieuse"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "Flexibilité",
+                "Ben_Talent_04_Desc_01_Realign": "Après une parade réussie grâce à l'effet d'invulnérabilité de Ben pendant son <color=#FFFFFF>attaque spéciale</color> ou son <color=#FFFFFF>attaque spéciale EX</color>, les DGT infligés par la prochaine riposte augmentent de 30 %.",
+                "Ben_Talent_04_Desc_02": "L'instinct de comptable de Ben lui permet de s'adapter plus facilement à n'importe quelle situation.\nQu'il plie ses comptes ou ses ennemis, l'objectif est d'obtenir un maximum de résultats avec un minimum de coûts.",
+                "Ben_Talent_04_Desc_01": "Après une parade réussie grâce à l'effet d'invulnérabilité de Ben pendant son <color=#FFFFFF>attaque spéciale</color> ou son <color=#FFFFFF>attaque spéciale EX</color>, les DGT infligés par la prochaine riposte augmentent de 30 %.",
+                "Ben_Talent_04_Title_Realign": "Flexibilité"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "Méticuleux",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Ben_Talent_05_Desc_02": "Ben est très attentif et ne laisse passer aucune erreur quand il fait ses comptes. Il en va de même au combat : il devient de plus en plus fort à chaque erreur qu'il corrige.",
+                "Ben_Talent_05_Title_Realign": "Méticuleux"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "Esprit sauvage",
+                "Ben_Talent_06_Desc_01_Realign": "Après avoir lancé une attaque ou une attaque de suivi pendant l'<color=#FFFFFF>attaque spéciale EX</color> de Ben, la confusion infligée par son <color=#FFFFFF>attaque normale</color>, son <color=#FFFFFF>attaque de bond</color> et son <color=#FFFFFF>contre d'esquive</color> augmente de 20 % pendant 12 s.",
+                "Ben_Talent_06_Desc_02": "Les thiriens ursins sont différents des thiriens canins. Il est impossible de les apprivoiser uniquement avec de la nourriture.\nQuand ils s'énervent, tout ce que vous pouvez faire, c'est fuir... fuir pour survivre...\n– Série de livres abandonnée <i>Soyez un bon voisin ! Cent conseils pour vous entendre avec les thiriens</i>.",
+                "Ben_Talent_06_Desc_01": "Après avoir lancé une attaque ou une attaque de suivi pendant l'<color=#FFFFFF>attaque spéciale EX</color> de Ben, la confusion provoquée par son <color=#FFFFFF>attaque normale</color>, son <color=#FFFFFF>attaque de bond</color> et son <color=#FFFFFF>contre d'esquive</color> augmente de 20 % pendant 12 s.",
+                "Ben_Talent_06_Title_Realign": "Esprit sauvage"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "Grace",
+        "full_name": "Grace Howard",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "Chambre de recharge",
+                "Lisa_Talent_01_Desc_01_Realign": "À chaque fois que le 4e coup de l'<color=#FFFFFF>attaque normale</color> de Grace touche un ennemi, tous les membres de l'escouade récupèrent 0.25 pt d'énergie.\nEn une utilisation, cet effet peut octroyer un maximum de 2 pts d'énergie à tous les membres de l'escouade.",
+                "Lisa_Talent_01_Desc_02": "L'efficacité est essentielle dans l'ingénierie, et c'est dans la chambre de l'arme de Grace que bat le cœur de cette dernière.",
+                "Lisa_Talent_01_Desc_01": "À chaque fois que le 4e coup de l'<color=#FFFFFF>attaque normale</color> de Grace touche un ennemi, tous les membres de l'escouade récupèrent 0.25 pt d'énergie.\nEn une utilisation, cet effet peut octroyer un maximum de 2 pts d'énergie à tous les membres de l'escouade.",
+                "Lisa_Talent_01_Title_Realign": "Chambre de recharge"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "Perforatrice de foudre",
+                "Lisa_Talent_02_Desc_01_Realign": "Lorsqu'une grenade de l'<color=#FFFFFF>attaque normale</color>, l'<color=#FFFFFF>attaque spéciale</color> ou l'<color=#FFFFFF>attaque spéciale EX</color> de Grace touche un ennemi, la <color=#2EB6FF>RÉS électrique</color> de la cible diminue de 8.5 %, et la <color=#2EB6FF>RÉS à l'accumulation d'anomalie électrique</color> diminue de 8.5 %, pendant 8 s.",
+                "Lisa_Talent_02_Desc_02": "« Disséquer » des structures mécaniques complexes est le passe-temps préféré de Grace, même au beau milieu d'un combat.\nQuel effet ça fait d'être démonté, mis à nu dans toute sa vulnérabilité ?",
+                "Lisa_Talent_02_Desc_01": "Lorsqu'une grenade lancée par Grace au cours d'une <color=#FFFFFF>attaque normale</color>, <color=#FFFFFF>attaque spéciale</color> ou <color=#FFFFFF>attaque spéciale EX</color> touche un ennemi, la <color=#2EB6FF>RÉS électrique</color> de la cible diminue de 8.5 %, et la <color=#2EB6FF>RÉS à l'accumulation d'anomalie électrique</color> diminue de 8.5 %, pendant 8 s.",
+                "Lisa_Talent_02_Title_Realign": "Perforatrice de foudre"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "Mécanicienne en chef",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Lisa_Talent_03_Desc_02": "Grace a personnellement participé à la rédaction des « Directives de sécurité sur les chantiers des usines Belobog ».\nC'est également l'employée qui a le plus enfreint la politique du « Pas d'explosifs dangereux sur le chantier ».",
+                "Lisa_Talent_03_Title_Realign": "Mécanicienne en chef"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "Condensateur d'explosion",
+                "Lisa_Talent_04_Desc_01_Realign": "Lorsqu'elle lance son <color=#FFFFFF>attaque spéciale EX</color>, Grace gagne 6 cumuls de charge (la limite est de 6 cumuls).\nLorsque son <color=#FFFFFF>attaque normale</color> ou <color=#FFFFFF>attaque de bond</color> touche un ennemi, elle consomme 1 cumul de charge pour augmenter le taux de production d'énergie de la compétence en cours de 20 %.",
+                "Lisa_Talent_04_Desc_02": "Anton était persuadé qu'à l'intérieur du composant que Grace appelait le « Module de recyclage à électropulsions », il devait y avoir un hamster éthérique qui courait sans relâche pour produire de l'énergie 24 heures sur 24.\n« Tu pourrais en mettre un sur mon frérot ? »",
+                "Lisa_Talent_04_Desc_01": "Lorsqu'elle lance son <color=#FFFFFF>attaque spéciale EX</color>, Grace gagne 6 cumuls de charge (la limite est de 6 cumuls). Lorsque son <color=#FFFFFF>attaque normale</color> ou <color=#FFFFFF>attaque de bond</color> touche un ennemi, elle consomme 1 cumul de charge pour augmenter le taux de production d'énergie de la compétence en cours de 20 %.",
+                "Lisa_Talent_04_Title_Realign": "Condensateur d'explosion"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "« Glaciale sorcière de fer »",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Lisa_Talent_05_Desc_02": "La « glaciale sorcière de fer » est capable de dompter n'importe quelle créature mécanique. C'est du moins ce que pense l'admiratrice anonyme qui lui a donné ce nom.",
+                "Lisa_Talent_05_Title_Realign": "« Glaciale sorcière de fer »"
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "Détonateur",
+                "Lisa_Talent_06_Desc_01_Realign": "Lorsque tous les cumuls de <color=#FFFFFF>Coup de jus</color> sont consommés pour activer une <color=#FFFFFF>attaque spéciale</color> ou une <color=#FFFFFF>attaque spéciale EX</color>, la compétence est renforcée : Lance une grenade supplémentaire et monte les DGT de chaque grenade à 200 % des DGT initiaux.",
+                "Lisa_Talent_06_Desc_02": "La température moyenne du sang des employés des usines Belobog est de quatre-vingt-dix-huit degrés Celsius. Grace, quant à elle, est considérée comme la soupape de sécurité avant l'ébullition.\nLorsque Grace se déchaîne, c'est le signe que tout le monde doit se boucher les oreilles.",
+                "Lisa_Talent_06_Desc_01": "Lorsque tous les cumuls de <color=#FFFFFF>Coup de jus</color> sont consommés pour activer une <color=#FFFFFF>attaque spéciale</color> ou une <color=#FFFFFF>attaque spéciale EX</color>, la compétence est renforcée : Lance une grenade supplémentaire et monte les DGT de chaque grenade à 200 % des DGT initiaux.",
+                "Lisa_Talent_06_Title_Realign": "Détonateur"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "Corin",
+        "full_name": "Corin Wickes",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "Plaie ouverte",
+                "Corin_Talent_01_Desc_01_Realign": "Lorsque Corin touche un ennemi avec un <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, les DGT qu'elle inflige à la cible augmentent de 12 % pendant 15 s.",
+                "Corin_Talent_01_Desc_02": "« La jeune maîtresse disait toujours que si quelque chose valait la peine d'être fait, cela valait la peine de se concentrer dessus.\nJe me suis entraînée, et maintenant j'y arrive !\nMais... tu me regardes ? »",
+                "Corin_Talent_01_Desc_01": "Lorsque Corin touche un ennemi avec un <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, les DGT qu'elle inflige à la cible augmentent de 12 % pendant 15 s.",
+                "Corin_Talent_01_Title_Realign": "Plaie ouverte"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "Entaille atomique",
+                "Corin_Talent_02_Desc_01_Realign": "Lorsque Corin touche un ennemi avec une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, la <color=#F0D12B>RÉS physique</color> de la cible est réduite de 0.5 %. Cumulable jusqu'à 20 fois et dure 5 s. La durée de chaque cumul est calculée séparément.",
+                "Corin_Talent_02_Desc_02": "« Désolée, M. ou Mme l'Éthéréen !\nMais j'ai du travail à faire... Je suis vraiment désolée ! »\nPrise de culpabilité soudaine, Corin s'excuse sincèrement auprès du monstre, alors qu'elle brandit sa tronçonneuse cruelle, sa frayant un passage en tranchant ses ennemis sur son chemin.",
+                "Corin_Talent_02_Desc_01": "Lorsque Corin touche un ennemi avec une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, la <color=#F0D12B>RÉS physique</color> de la cible est réduite de 0.5 %. Cumulable jusqu'à 20 fois et dure 5 s. La durée de chaque cumul est calculée séparément.",
+                "Corin_Talent_02_Title_Realign": "Entaille atomique"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "Domestique amatrice",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Corin_Talent_03_Desc_02": "« J–Je ferai de mon mieux pour devenir une bonne domestique ! » s'exclame Corin tout en avançant vers les Éthéréens, tronçonneuse à la main.",
+                "Corin_Talent_03_Title_Realign": "Domestique amatrice"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "Aide de camp",
+                "Corin_Talent_04_Desc_01_Realign": "Lorsque Corin lance un <color=#FFFFFF>soutien rapide</color>, un <color=#FFFFFF>soutien défensif</color> ou un <color=#FFFFFF>enchaînement</color>, elle récupère 7.2 pts d'énergie. Cet effet peut être déclenché une fois toutes les 16 s.",
+                "Corin_Talent_04_Desc_02": "Corin, jeune domestique diligente et sérieuse, s'investit toujours corps et âme dans tout ce qu'elle entreprend.\nBien sûr, cela inclut l'élimination d'ennemis au combat.",
+                "Corin_Talent_04_Desc_01": "Lorsque Corin lance un <color=#FFFFFF>soutien rapide</color>, un <color=#FFFFFF>soutien défensif</color> ou un <color=#FFFFFF>enchaînement</color>, elle récupère 7.2 pts d'énergie. Cet effet peut être déclenché une fois toutes les 16 s.",
+                "Corin_Talent_04_Title_Realign": "Aide de camp"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "Domestique en opérations spéciales",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Corin_Talent_05_Desc_02": "« Ah... Désolée, je suis tellement maladroite. Je ne sais pas comment m'assurer que mes coupes soient régulières... », s'excuse Corin à la vue des morceaux d'Éthéréen éparpillés sur le sol.",
+                "Corin_Talent_05_Title_Realign": "Domestique en opérations spéciales"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "Enseignements cumulés",
+                "Corin_Talent_06_Desc_01_Realign": "Lorsque l'entaille prolongée de Corin touche un ennemi, elle obtient un cumul de charge, jusqu'à un maximum de 40 cumuls.\nPendant un <color=#FFFFFF>contre d'esquive</color>, une <color=#FFFFFF>attaque spéciale</color>, une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>soutien rapide</color> ou un <color=#FFFFFF>soutien de suivi</color>, lorsque l'explosion de sa tronçonneuse touche un ennemi, tous les cumuls d'énergie sont consommés. Chaque cumul consommé permet à l'attaque d'infliger des DGT supplémentaires équivalents à 3 % de l'ATQ de Corin.",
+                "Corin_Talent_06_Desc_02": "Corin sait qu'elle n'est ni la plus puissante des domestiques ni la plus intelligente. Mais elle espère devenir la plus travailleuse.\nElle met en pratique tout ce qu'elle a appris.",
+                "Corin_Talent_06_Desc_01": "Lorsque l'entaille prolongée de Corin touche un ennemi, elle obtient un cumul de charge, jusqu'à un maximum de 40 cumuls.\nPendant un <color=#FFFFFF>contre d'esquive</color>, une <color=#FFFFFF>attaque spéciale</color>, une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>soutien rapide</color> ou un <color=#FFFFFF>soutien de suivi</color>, lorsque l'explosion de sa tronçonneuse touche un ennemi, tous les cumuls d'énergie sont consommés. Chaque cumul consommé permet à l'attaque d'infliger des DGT supplémentaires équivalents à 3 % de l'ATQ de Corin.",
+                "Corin_Talent_06_Title_Realign": "Enseignements cumulés"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "Lycaon",
+        "full_name": "Von Lycaon",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "Élan de la pleine lune",
+                "Lycaon_Talent_01_Desc_01_Realign": "Lorsque l'<color=#FFFFFF>attaque spéciale EX</color> de Lycaon touche un ennemi, la confusion infligée augmente de 12 %. Cet effet peut être déclenché une fois toutes les 8 s. Lorsqu'il charge entièrement son <color=#FFFFFF>attaque spéciale EX</color>, cet effet augmente de 10 % supplémentaires.",
+                "Lycaon_Talent_01_Desc_02": "D'après les archives, les loups-garous exposés à la lumière de la lune deviennent nettement plus agressifs.\n« Ne regardez pas directement la lune. »",
+                "Lycaon_Talent_01_Desc_01": "Lorsque l'<color=#FFFFFF>attaque spéciale EX</color> de Lycaon touche un ennemi, la confusion infligée augmente de 12 %. Cet effet peut être déclenché une fois toutes les 8 s. Lorsqu'il charge entièrement son <color=#FFFFFF>attaque spéciale EX</color>, cet effet augmente de 10 % supplémentaires.",
+                "Lycaon_Talent_01_Title_Realign": "Élan de la pleine lune"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "Retour énergétique",
+                "Lycaon_Talent_02_Desc_01_Realign": "En étourdissant un ennemi ou en déclenchant l'<color=#FFFFFF>enchaînement</color> d'un autre membre de l'escouade, Lycaon récupère 5 pts d'énergie. Cet effet peut être déclenché une fois toutes les 1 s.",
+                "Lycaon_Talent_02_Desc_02": "« On observe chez les canidés un bref pic de dopamine dans leur cerveau après l'accomplissement de tâches semi-complexes. Si en tant que propriétaire, vous les caressez à ce moment-là pour les encourager, ils en seront d'autant plus heureux... »\n– Extrait du <i>Manuel de recherches canines peu fiables</i>",
+                "Lycaon_Talent_02_Desc_01": "En étourdissant un ennemi ou en déclenchant l'<color=#FFFFFF>enchaînement</color> d'un autre membre de l'escouade, Lycaon récupère 5 pts d'énergie. Cet effet peut être déclenché une fois toutes les 1 s.",
+                "Lycaon_Talent_02_Title_Realign": "Retour énergétique"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "Formation de majordome",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Lycaon_Talent_03_Desc_02": "Le moindre de ses gestes inspire la sérénité. Ses paroles et ses actes sont aussi rafraîchissants qu'une brise printanière. La formation d'un majordome consiste à apprendre à garder le contrôle sur toute chose.",
+                "Lycaon_Talent_03_Title_Realign": "Formation de majordome"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "Grâce immuable",
+                "Lycaon_Talent_04_Desc_01_Realign": "Lorsque Lycaon est attaqué lors de son <color=#FFFFFF>attaque normale</color> ou son <color=#FFFFFF>attaque spéciale</color>, il obtient immédiatement un bouclier équivalent à 7.5 % de ses PV max, qui dure 15 s. Pendant que le bouclier est actif, son niveau de RÉS à l'interruption augmente. Cet effet peut être déclenché une fois toutes les 15 s.",
+                "Lycaon_Talent_04_Desc_02": "« Un majordome exceptionnel se doit de maintenir une allure gracieuse en toute circonstance. »",
+                "Lycaon_Talent_04_Desc_01": "Lorsque Lycaon est attaqué lors de son <color=#FFFFFF>attaque normale</color> ou son <color=#FFFFFF>attaque spéciale</color>, il obtient immédiatement un bouclier équivalent à 7.5 % de ses PV max, qui dure 15 s.\nPendant que le bouclier est actif, son niveau de RÉS à l'interruption augmente. Cet effet peut être déclenché une fois toutes les 15 s.",
+                "Lycaon_Talent_04_Title_Realign": "Grâce immuable"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "Nature d'alpha",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Lycaon_Talent_05_Desc_02": "Son regard est empreint d'une férocité primitive et les échos de ses hurlements grondent dans sa gorge. Quelle que soit la grâce dont il fait preuve, sous ses beaux atours, il demeure indompté.",
+                "Lycaon_Talent_05_Title_Realign": "Nature d'alpha"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "Chasseur impitoyable",
+                "Lycaon_Talent_06_Desc_01_Realign": "Lorsqu'une attaque chargée touche un ennemi, les DGT infligés par Lycaon à la cible augmentent de 10 % pendant 12 s.\nCumulable 5 fois maximum. Seul un cumul peut être obtenu par utilisation de la compétence, et les déclenchements répétés réinitialisent la durée de l'effet.",
+                "Lycaon_Talent_06_Desc_02": "« Je suis navré, mais je ne suis pas enclin à la pitié.\nAprès tout, si vous recherchez un combat équitable dans une Néantre, c'est que vous vous êtes trompé d'endroit. »",
+                "Lycaon_Talent_06_Desc_01": "Lorsqu'une attaque chargée touche un ennemi, les DGT infligés par Lycaon à la cible augmentent de 10 % pendant 12 s. Cumulable 5 fois maximum. Seul un cumul peut être obtenu par utilisation de la compétence, et les déclenchements répétés réinitialisent la durée de l'effet.",
+                "Lycaon_Talent_06_Title_Realign": "Chasseur impitoyable"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "Ellen",
+        "full_name": "Ellen Joe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "Présage glacial",
+                "Ellen_Talent_01_Desc_01_Realign": "Lorsque vous touchez un ennemi avec l'attaque de cisailles rapides de l'<color=#FFFFFF>Attaque de bond : Embuscade arctique</color>, le nombre de <color=#FFFFFF>charges de Surgélation</color> obtenues passe à 3, et à 6 lorsque vous touchez un ennemi avec le coup de cisailles chargé.\nPour chaque <color=#FFFFFF>charge de Surgélation</color> consommée, le taux CRIT d'Ellen augmente de 2 % pendant 15 s. Effet cumulable 6 fois. La durée de chaque cumul est calculée séparément.",
+                "Ellen_Talent_01_Desc_02": "Les vents froids sont annonciateurs de l'hiver et signalent qu'Ellen est sur le point de demander un congé prolongé pour hiberner.\nÀ ce propos, les requins ont-ils vraiment besoin d'hiberner ?",
+                "Ellen_Talent_01_Desc_01": "Lorsque vous touchez un ennemi avec une attaque de cisailles rapides de l'<color=#FFFFFF>Attaque de bond : Embuscade arctique</color>, le nombre de <color=#FFFFFF>charges de Surgélation</color> obtenues passe à 3, et à 6 lorsque vous touchez un ennemi avec le coup de cisailles chargé. Pour chaque <color=#FFFFFF>charge de Surgélation</color> consommée, le taux CRIT d'Ellen augmente de 2 % pendant 15 s. Effet cumulable 6 fois. La durée de chaque cumul est calculée séparément.",
+                "Ellen_Talent_01_Title_Realign": "Présage glacial"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "Prédatrice polaire",
+                "Ellen_Talent_02_Desc_01_Realign": "Le 3e coup d'<color=#FFFFFF>Attaque normale : Élagage de surgélation</color> peut être suivi directement d'<color=#FFFFFF>Attaque spéciale EX : Raz de squales</color>.\nPour chaque <color=#FFFFFF>charge de Surgélation</color> possédée lors de l'<color=#FFFFFF>attaque spéciale EX</color>, les DGT CRIT de l'attaque augmentent de 20 %, jusqu'à une augmentation de 60 %.",
+                "Ellen_Talent_02_Desc_02": "Bien que fraîchement tachées de rouge, les larges cisailles tenues par Ellen ne présentent pas la moindre trace de chaleur.\nCe froid glacial provient de son instrument en fer forgé, ainsi que de la peur d'avoir un jour à affronter un prédateur de sa trempe.",
+                "Ellen_Talent_02_Desc_01": "Le 3e coup d'<color=#FFFFFF>Attaque normale : Élagage de surgélation</color> peut être suivi directement d'<color=#FFFFFF>Attaque spéciale EX : Raz de squales</color>. Pour chaque <color=#FFFFFF>charge de Surgélation</color> possédée lors de l'<color=#FFFFFF>attaque spéciale EX</color>, les DGT CRIT de l'attaque augmentent de 20 %, jusqu'à une augmentation de 60 %.",
+                "Ellen_Talent_02_Title_Realign": "Prédatrice polaire"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "Allergie aux heures supp'",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Ellen_Talent_03_Desc_02": "Le but premier d'être efficace au travail, c'est de pouvoir rentrer chez soi plus tôt pour dormir.\nAlors, frappez plus fort et frappez plus vite.",
+                "Ellen_Talent_03_Title_Realign": "Allergie aux heures supp'"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "Givre infini",
+                "Ellen_Talent_04_Desc_01_Realign": "Lorsqu'un membre de l'escouade inflige <color=#98EFF0>Gel</color> ou un étourdissement à un ennemi, Ellen obtient 6 <color=#FFFFFF>charges de Surgélation</color> ainsi que l'effet <color=#FFFFFF>Charge rapide</color>, et récupère 4 pts d'énergie. L'effet de récupération d'énergie peut se déclencher une fois toutes les 10 s.",
+                "Ellen_Talent_04_Desc_02": "L'assaut incessant d'un froid mordant,\nles terrifiantes créations apprendront la beauté et la cruauté de l'hiver sous la lame d'Ellen.\nMais, en réalité, c'est l'interminable besogne des domestiques lors des congés qui est cruelle...",
+                "Ellen_Talent_04_Desc_01": "Lorsqu'un membre de l'escouade inflige <color=#98EFF0>Gel</color> ou un étourdissement à un ennemi, Ellen obtient 6 <color=#FFFFFF>charges de Surgélation</color> ainsi que l'effet <color=#FFFFFF>Charge rapide</color>, et récupère 4 pts d'énergie. L'effet de récupération d'énergie peut se déclencher une fois toutes les 10 s.",
+                "Ellen_Talent_04_Title_Realign": "Givre infini"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "Sommeil adéquat",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Ellen_Talent_05_Desc_02": "Hormis lors des combats les plus rudes, Ellen semble toujours avoir ce regard qui dit « Je pourrais m'endormir debout à tout moment ».\nNombreux sont ses ennemis qui ont trouvé la mort après s'être laissés berner par ce regard.",
+                "Ellen_Talent_05_Title_Realign": "Sommeil adéquat"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "Le festin commence",
+                "Ellen_Talent_06_Desc_01_Realign": "Lorsque Ellen lance une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou qu'elle obtient <color=#FFFFFF>Charge rapide</color>, son taux de PÉN augmente de 20 % pendant 6 s. Elle gagné également 1 cumul de <color=#FFFFFF>Le festin commence</color>, jusqu'à un maximum de 3 cumuls. Lorsque Ellen possède 3 cumuls de <color=#FFFFFF>Le festin commence</color> et qu'elle lance un coup de cisailles chargé lors de son <color=#FFFFFF>Attaque de bond : Embuscade arctique</color>, elle consomme tous ses cumuls pour augmenter les DGT de l'attaque de 250 %.",
+                "Ellen_Talent_06_Desc_02": "Une plaie ouverte, une goutte de sang. Une chasse palpitante, un festin grandiose. Une vie fragile, un moment de satisfaction.",
+                "Ellen_Talent_06_Desc_01": "Lorsque Ellen lance une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou qu'elle obtient <color=#FFFFFF>Charge rapide</color>, son taux de PÉN augmente de 20 % pendant 6 s. Elle gagné également 1 cumul de <color=#FFFFFF>Le festin commence</color>, jusqu'à un maximum de 3 cumuls. Lorsque Ellen possède 3 cumuls de <color=#FFFFFF>Le festin commence</color> et qu'elle lance un coup de cisailles chargé lors de son <color=#FFFFFF>Attaque de bond : Embuscade arctique</color>, elle consomme tous ses cumuls pour augmenter les DGT de l'attaque de 250 %.",
+                "Ellen_Talent_06_Title_Realign": "Le festin commence"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "Rina",
+        "full_name": "Alexandrina Sebastiane",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "Couple de danseurs",
+                "Rina_Talent_01_Desc_01_Realign": "Après avoir été envoyées pour lancer une attaque, Drusilla et Anastella restent sur place pendant 5,5 s supplémentaires avant de revenir auprès de Rina.\nLe bonus qu'obtiennent les personnages dans un rayon de 10 m autour de Drusilla ou d'Anastella grâce à <color=#FFFFFF>Passif principal : Mini partenaire en destruction</color> monte à 130 % de l'effet initial.",
+                "Rina_Talent_01_Desc_02": "Drusilla essaie d'encourager tout le monde en disant : « Faites votre travail, ou vous allez vous prendre une bonne correction !\n– Ouais, une correction ! », renchérit toujours Anastella.",
+                "Rina_Talent_01_Desc_01": "Après avoir été envoyées pour lancer une attaque, Drusilla et Anastella restent sur place pendant 5,5 s supplémentaires avant de revenir auprès de Rina.\nLe bonus qu'obtiennent les personnages dans un rayon de 10 m autour de Drusilla ou d'Anastella grâce à <color=#FFFFFF>Passif principal : Mini partenaire en destruction</color> augmente à 130 % de l'effet d'origine.",
+                "Rina_Talent_01_Title_Realign": "Couple de danseurs"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "L'exemple de la maîtresse",
+                "Rina_Talent_02_Desc_01_Realign": "En entrant en combat ou en prenant le relai, les DGT de Rina augmentent de 15 % pendant 12 s. Cet effet peut être déclenché une fois toutes les 18 s.",
+                "Rina_Talent_02_Desc_02": "« Pour mener d'excellentes domestiques, il faut une excellente gouvernante, de même qu'il faut un maître exemplaire pour élever des Bangbou exemplaires. »\n– Extrait du discours de Rina lors du « Séminaire sur la formation des Bangbou et la gestion des ressources humaines de la société d'entretien Victoria ».",
+                "Rina_Talent_02_Desc_01": "En entrant en combat ou en prenant le relai, les DGT de Rina augmentent de 15 % pendant 12 s. Cet effet peut être déclenché une fois toutes les 18 s.",
+                "Rina_Talent_02_Title_Realign": "L'exemple de la maîtresse"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "Spécialité de la gouvernante",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Rina_Talent_03_Desc_02": "Rina a toujours la confiance nécessaire pour exceller dans n'importe quel domaine ainsi que la capacité de tout anéantir.\nCependant, lorsqu'il s'agit d'être d'humeur à anéantir des ennemis, sa confiance et sa capacité semblent s'aligner.",
+                "Rina_Talent_03_Title_Realign": "Spécialité de la gouvernante"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "L'aiguille et le marteau",
+                "Rina_Talent_04_Desc_01_Realign": "La récupération d'énergie de Rina augmente de 0.5 pt/s lorsque Drusilla et Anastella sont toutes deux envoyées.\nCet effet prend fin lorsque Drusilla ou Anastella revient auprès de Rina.",
+                "Rina_Talent_04_Desc_02": "Drusilla et Anastella ne sont jamais d'accord sur rien.\n« Filer une raclée au premier idiot qui se met en travers de leur chemin » est une exception.",
+                "Rina_Talent_04_Desc_01": "La récupération d'énergie de Rina augmente de 0.5 pt/s lorsque Drusilla et Anastella sont toutes deux envoyées. Cet effet prend fin lorsque Drusilla ou Anastella revient auprès de Rina.",
+                "Rina_Talent_04_Title_Realign": "L'aiguille et le marteau"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "Gouvernante perfectionniste",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Rina_Talent_05_Desc_02": "« Rina » signifie perfection en langue Bangbou.\nLe perfectionnisme est la règle numéro un du manuel de la société d'entretien Victoria.\nMais Rina a ses propres critères pour juger de la « perfection ».",
+                "Rina_Talent_05_Title_Realign": "Gouvernante perfectionniste"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "Frayeur d'une nuit d'orage",
+                "Rina_Talent_06_Desc_01_Realign": "Lorsqu'une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color> touche un ennemi, les <color=#2EB6FF>DGT électriques</color> de tous les membres de l'escouade augmentent de 15 % pendant 8 s.",
+                "Rina_Talent_06_Desc_02": "Le tonnerre gronde dans le vieux château par une nuit pluvieuse. Les profondeurs des longs couloirs sont remplies d'ombres inquiétantes. \nCircuits de la peur surchargés, le tournage du film d'horreur peut commencer.",
+                "Rina_Talent_06_Desc_01": "Lorsqu'une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color> touche un ennemi, les <color=#2EB6FF>DGT électriques</color> de tous les membres de l'escouade augmentent de 15 % pendant 8 s.",
+                "Rina_Talent_06_Title_Realign": "Frayeur d'une nuit d'orage"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "Soldat 11",
+        "full_name": "Soldat 11",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "Réchauffement brusque",
+                "Longinus_Talent_01_Desc_01_Realign": "Lorsque Soldat 11 entre ou prend le relai en combat avec moins de 40 pts d'énergie, son énergie remonte immédiatement à 80 pts. Cet effet peut être déclenché une fois toutes les 50 s.",
+                "Longinus_Talent_01_Desc_02": "Le long et intense entraînement au combat que suit Soldat 11 lui permet de maîtriser complètement ses systèmes de régulation.\nElle s'efforce toujours de s'assurer qu'elle est dans la meilleure forme possible avant chaque combat.",
+                "Longinus_Talent_01_Desc_01": "Lorsque Soldat 11 entre ou prend le relai en combat avec moins de 40 pts d'énergie, son énergie remonte immédiatement à 80 pts. Cet effet peut être déclenché une fois toutes les 50 s.",
+                "Longinus_Talent_01_Title_Realign": "Réchauffement brusque"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "Convergence ardente",
+                "Longinus_Talent_02_Desc_01_Realign": "Lors du déclenchement de <color=#FFFFFF>Répression ardente</color>, les DGT des <color=#FFFFFF>attaques normales</color>, des <color=#FFFFFF>attaques de bond</color> et des <color=#FFFFFF>contres d'esquive</color> augmentent de 3 % pendant 15 s. Cumulable jusqu'à 12 fois. La durée de chaque cumul est calculée séparément.",
+                "Longinus_Talent_02_Desc_02": "« Elle peut sembler froide et dure, comme la glace... Mais en réalité, elle brûle à l'intérieur, comme un feu ardent. »\n– Soldat anonyme de la Division obsidienne",
+                "Longinus_Talent_02_Desc_01": "Lors du déclenchement de <color=#FFFFFF>Répression ardente</color>, les DGT des <color=#FFFFFF>attaques normales</color>, des <color=#FFFFFF>attaques de bond</color> et des <color=#FFFFFF>contres d'esquive</color> augmentent de 3 % pendant 15 s. Cumulable jusqu'à 12 fois. La durée de chaque cumul est calculée séparément.",
+                "Longinus_Talent_02_Title_Realign": "Convergence ardente"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "Soldat d'élite",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Longinus_Talent_03_Desc_02": "Soldat 11 se donne toujours au maximum, que ce soit à l'entraînement ou au combat. C'est ainsi qu'elle maintient ses prouesses au combat.",
+                "Longinus_Talent_03_Title_Realign": "Soldat d'élite"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "Feu nourri",
+                "Longinus_Talent_04_Desc_01_Realign": "Lorsque <color=#FFFFFF>Répression ardente</color> est déclenchée lors du 1er, 2e ou 3e coup de l'<color=#FFFFFF>attaque normale</color> de Soldat 11 ou encore lors de son <color=#FFFFFF>attaque de bond</color>, la RÉS à l'interruption augmente et les DGT subis diminuent de 18 % pendant le déclenchement de la compétence.\nSi <color=#FFFFFF>Répression ardente</color> est déclenchée lors du 4e coup de son <color=#FFFFFF>attaque normale</color>, Soldat 11 est invulnérable lors du déclenchement de la compétence.",
+                "Longinus_Talent_04_Desc_02": "Elle envie le feu. Et ces flammes ardentes l'aideront toujours.",
+                "Longinus_Talent_04_Desc_01": "Lorsque <color=#FFFFFF>Répression ardente</color> est déclenchée lors du 1er, 2e ou 3e coup de l'<color=#FFFFFF>attaque normale</color> de Soldat 11 ou encore lors de son <color=#FFFFFF>attaque de bond</color>, la RÉS à l'interruption augmente et les DGT subis diminuent de 18 % pendant le déclenchement de la compétence.\nSi <color=#FFFFFF>Répression ardente</color> est déclenchée lors du 4e coup de son <color=#FFFFFF>attaque normale</color>, Soldat 11 est invulnérable lors du déclenchement de la compétence.",
+                "Longinus_Talent_04_Title_Realign": "Feu nourri"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "Le soldat parfait",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Longinus_Talent_05_Desc_02": "Le chemin qui mène de l'élite à l'exemplaire est long et difficile, mais Soldat 11 serre les dents et persévère, comme si quelque chose la poussait vers l'objectif de devenir le soldat parfait...",
+                "Longinus_Talent_05_Title_Realign": "Le soldat parfait"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "Flux ardent",
+                "Longinus_Talent_06_Desc_01_Realign": "Lorsque Soldat 11 utilise son <color=#FFFFFF>attaque spéciale EX</color>, son <color=#FFFFFF>enchaînement</color>, ou son <color=#FFFFFF>ultime</color>, elle gagne 8 cumuls de charge (la limite est de 8 cumuls).\nLorsque <color=#FFFFFF>Répression ardente</color> est déclenchée, 1 cumul de charge est consommé pour permettre à la compétence en cours d'ignorer 25 % de la <color=#FF5521>RÉS au feu</color> de la cible.",
+                "Longinus_Talent_06_Desc_02": "Par leur chaleur, les flammes de l'épée déformaient l'air. Ses mouvements étaient de plus en plus passionnés, comme si cette chaleur s'infiltrait dans son esprit à chaque respiration, enflammant ses pensées.",
+                "Longinus_Talent_06_Desc_01": "Lorsque Soldat 11 utilise son <color=#FFFFFF>attaque spéciale EX</color>, son <color=#FFFFFF>enchaînement</color>, ou son <color=#FFFFFF>ultime</color>, elle gagne 8 cumuls de charge (la limite est de 8 cumuls).\nLorsque <color=#FFFFFF>Répression ardente</color> est déclenchée, 1 cumul de charge est consommé pour permettre à la compétence en cours d'ignorer 25 % de la <color=#FF5521>RÉS au feu</color> de la cible.",
+                "Longinus_Talent_06_Title_Realign": "Flux ardent"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "Zhu Yuan",
+        "full_name": "Zhu Yuan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "Rechargement rapide",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "Lorsque Zhu Yuan lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, elle obtient l'effet <color=#FFFFFF>Rechargement rapide</color>.\nLorsque Zhu Yuan possède l'effet <color=#FFFFFF>Rechargement rapide</color> et que toutes ses <color=#FFFFFF>cartouches renforcées</color> ont été utilisées, l'effet est consommé pour obtenir immédiatement 6 ou 9 <color=#FFFFFF>cartouches renforcées</color> respectivement.",
+                "ZhuYuan_Talent_01_Desc_02": "Lors du championnat des officiers de la Sécurité publique du quartier Janus, Zhu Yuan décrocha la première place grâce à son extraordinaire technique de rechargement. Sa collègue se contenta d'un sobre commentaire : « Ce n'est que de l'entraînement. »",
+                "ZhuYuan_Talent_01_Desc_01": "Lorsque Zhu Yuan lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, elle obtient l'effet <color=#FFFFFF>Rechargement rapide</color>. Lorsque Zhu Yuan possède l'effet <color=#FFFFFF>Rechargement rapide</color> et que toutes ses <color=#FFFFFF>cartouches renforcées</color> ont été utilisées, l'effet est consommé pour obtenir immédiatement 6 ou 9 <color=#FFFFFF>cartouches renforcées</color> respectivement.",
+                "ZhuYuan_Talent_01_Title_Realign": "Rechargement rapide"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "Braises éthériques",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "En <color=#FFFFFF>mode Répression</color>, le niveau de la RÉS à l'interruption de Zhu Yuan augmente, et les DGT qu'elle subit diminuent de 10 %.\nLorsque Zhu Yuan touche un ennemi avec des <color=#FFFFFF>cartouches renforcées</color>, les <color=#FE437E>DGT éthériques</color> d'<color=#FFFFFF>Attaque normale : N'opposez aucune résistance</color> et d'<color=#FFFFFF>Attaque de bond : Offensive implacable</color> contre la cible augmentent de 10 % pendant 5 s. Cumulable jusqu'à un maximum de 5 fois.\nChaque tir ajoute un cumul et chaque déclenchement réinitialise la durée de l'effet.",
+                "ZhuYuan_Talent_02_Desc_02": "Les armes de Zhu Yuan sont chargées avec des balles éthériques spécialement conçues par la Sécurité publique pour infliger une corruption irréversible aux ennemis.\nC'est pour cette raison que Zhu Yuan, sincèrement inquiète pour leur sécurité, ordonne à ses ennemis de se rendre et de n'opposer aucune résistance avant de tirer...",
+                "ZhuYuan_Talent_02_Desc_01": "En <color=#FFFFFF>mode Répression</color>, le niveau de la RÉS à l'interruption de Zhu Yuan augmente, et les DGT qu'elle subit diminuent de 10 %. Lorsque Zhu Yuan touche un ennemi avec des <color=#FFFFFF>cartouches renforcées</color>, les <color=#FE437E>DGT éthériques</color> d'<color=#FFFFFF>Attaque normale : N'opposez aucune résistance</color> et d'<color=#FFFFFF>Attaque de bond : Offensive implacable</color> contre la cible augmentent de 10 % pendant 5 s. Cumulable jusqu'à un maximum de 5 fois. Chaque tir ajoute un cumul et chaque déclenchement réinitialise la durée de l'effet.",
+                "ZhuYuan_Talent_02_Title_Realign": "Braises éthériques"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "Entraînement spécial de la Sécurité publique",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "ZhuYuan_Talent_03_Desc_02": "Lors de sa formation d'officière d'élite de la Sécurité publique, l'entraînement de Zhu Yuan n'avait qu'un objectif : affûter tous les aspects de ses capacités de combat en Néantre, et s'assurer qu'elle surpasse n'importe quel criminel.",
+                "ZhuYuan_Talent_03_Title_Realign": "Entraînement spécial de la Sécurité publique"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "Perforation éthérique",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "Lorsque Zhu Yuan touche un ennemi aves des <color=#FFFFFF>cartouches renforcées</color>, son <color=#FFFFFF>Attaque normale : N'opposez aucune résistance</color> et <color=#FFFFFF>Attaque de bond : Offensive implacable</color> ignorent 25 % de la <color=#FE437E>RÉS éthérique</color> de la cible.",
+                "ZhuYuan_Talent_04_Desc_02": "En combat, les bandits dans les Néantres comptent souvent le nombre de balles restantes dans le chargeur de leurs adversaires. Ce qu'ils ne savent pas, c'est que le chargeur de Zhu Yuan peut se recharger automatiquement grâce à l'éther ambiant...",
+                "ZhuYuan_Talent_04_Desc_01": "Lorsque Zhu Yuan touche un ennemi aves des <color=#FFFFFF>cartouches renforcées</color>, son <color=#FFFFFF>Attaque normale : N'opposez aucune résistance</color> et <color=#FFFFFF>Attaque de bond : Offensive implacable</color> ignorent 25 % de la <color=#FE437E>RÉS éthérique</color> de la cible.",
+                "ZhuYuan_Talent_04_Title_Realign": "Perforation éthérique"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "Expérience dans les opérations spéciales",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "ZhuYuan_Talent_05_Desc_02": "Une officière aguerrie de la Sécurité publique analyse le champ de bataille avec expertise, frappe avec une précision extrême et une efficacité déconcertante. Parfois, un simple regarde sévère suffit à faire réfléchir ses adversaires à deux fois avant d'engager le combat.",
+                "ZhuYuan_Talent_05_Title_Realign": "Expérience dans les opérations spéciales"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "Paquetage énergétique extensif III",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "Lorsque Zhu Yuan consomme un total de 12 <color=#FFFFFF>cartouches renforcées</color>, elle obtient l'effet <color=#FFFFFF>Rémanence éthérique</color> et le coût en énergie de la prochaine <color=#FFFFFF>attaque spéciale EX</color> est réduit de 30.\nLancer une <color=#FFFFFF>attaque spéciale EX</color> consomme l'effet <color=#FFFFFF>Rémanence éthérique</color>, qui permet de lancer un total de 4 balles de chevrotine éthérique supplémentaires.\nChaque balle supplémentaire inflige des DGT équivalents à 220 % de l'ATQ de Zhu Yuan.",
+                "ZhuYuan_Talent_06_Desc_02": "Zhu Yuan se soucie souvent de la batterie de son équipement, et devient particulièrement nerveuse lorsque l'indicateur bascule dans la zone rouge et en mode économie d'énergie. Finalement, la Sécurité publique a décidé de lui fournir un paquetage énergétique avec une grande capacité de stockage énergétique, ainsi qu'une endurance longue durée.",
+                "ZhuYuan_Talent_06_Desc_01": "Lorsque Zhu Yuan consomme un total de 12 <color=#FFFFFF>cartouches renforcées</color>, elle obtient l'effet <color=#FFFFFF>Rémanence éthérique</color> et le coût en énergie de la prochaine <color=#FFFFFF>attaque spéciale EX</color> est réduit de 30. Lancer une <color=#FFFFFF>attaque spéciale EX</color> consomme l'effet <color=#FFFFFF>Rémanence éthérique</color>, qui permet de lancer un total de 4 balles de chevrotine éthérique supplémentaires. Chaque balle supplémentaire inflige des DGT équivalents à 220 % de l'ATQ de Zhu Yuan.",
+                "ZhuYuan_Talent_06_Title_Realign": "Paquetage énergétique extensif III"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "Qingyi",
+        "full_name": "Qingyi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "Saccage d'isolation",
+                "QingYi_Talent_01_Desc_01_Realign": "Lorsque Qingyi entre en combat, la <color=#FFFFFF>Tension de Connexion éclair</color> monte instantanément à son maximum, et le taux d'accumulation de tension augmente de 30 %.\nLorsqu'elle lance <color=#FFFFFF>Attaque normale : Fleurs enivrées au clair de lune</color> lorsque sa <color=#FFFFFF>Tension de Connexion éclair</color> est au maximum, la DÉF de l'ennemi touché diminue de 15 % et le taux CRIT de Qingyi contre cet ennemi augmente de 20 % pendant 15 s.",
+                "QingYi_Talent_01_Desc_02": "« Bien que votre vie ne sera pas mise en danger, nous vous demandons de coopérer et de ne pas résister... »\nL'intensité et la direction du courant ont été calculées précisément pour que les électrochocs administrés aux forcenés soient sans danger.",
+                "QingYi_Talent_01_Desc_01": "Lorsque Qingyi entre en combat, la <color=#FFFFFF>Tension de Connexion éclair</color> monte instantanément à son maximum, et le taux d'accumulation de tension augmente de 30 %. Lorsqu'elle lance <color=#FFFFFF>Attaque normale : Fleurs enivrées au clair de lune</color> lorsque sa <color=#FFFFFF>Tension de Connexion éclair</color> est au maximum, la DÉF de l'ennemi touché diminue de 15 % et le taux CRIT de Qingyi contre cet ennemi augmente de 20 % pendant 15 s.",
+                "QingYi_Talent_01_Title_Realign": "Saccage d'isolation"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "Efforts au minimum, impact au maximum",
+                "QingYi_Talent_02_Desc_01_Realign": "Augmente l'amélioration d multiplicateur de DGT d'étourdissement de chaque cumul de <color=#FFFFFF>Subjugation</color> du <color=#FFFFFF>Passif principal : Saisons éternelles</color> à 135 % de sa valeur initiale.\nLorsque les cumuls de <color=#FFFFFF>Subjugation</color> de la cible sont au maximum, la confusion infligée à la cible par les attaques de Qingyi augmente de 15 %.",
+                "QingYi_Talent_02_Desc_02": "Un technique de combat antique mentionnée dans les manuscrits de l'ancienne civilisation. Il semblerait qu'à l'origine, il s'agissait d'une technique à mains nues, et pas d'une technique au bâton.\n« Ne soyez pas si étroit d'esprit, on peut très bien utiliser son bras comme un bâton à trois sections, non ? »",
+                "QingYi_Talent_02_Desc_01": "Augmente l'amélioration d multiplicateur de DGT d'étourdissement de chaque cumul de <color=#FFFFFF>Subjugation</color> du <color=#FFFFFF>Passif principal : Saisons éternelles</color> à 135 % de sa valeur initiale. Lorsque les cumuls de <color=#FFFFFF>Subjugation</color> de la cible sont au maximum, la confusion infligée à la cible par les attaques de Qingyi augmente de 15 %.",
+                "QingYi_Talent_02_Title_Realign": "Efforts au minimum, impact au maximum"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "Les bienfaits de l'eau chaude",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "QingYi_Talent_03_Desc_02": "« Les jeunes devraient se soucier davantage de leur santé, et boire de l'eau chaude est un bon début. »\nQingyi a toujours l'air réconfortée lorsqu'elle boit à sa bouteille isotherme. Cependant, faites bien attention quand elle vous propose de boire.\n« Elle peut avaler de l'eau en ébullition sans broncher... ». C'est ce qu'on peut lire sur une note d'avertissement laissée par un officier de la Sécurité publique échaudé.",
+                "QingYi_Talent_03_Title_Realign": "Les bienfaits de l'eau chaude"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "Arc défensif stable",
+                "QingYi_Talent_04_Desc_01_Realign": "Lorsque l'état <color=#FFFFFF>Connexion éclair</color> s'active ou se désactive, obtient un bouclier équivalent à 10 % des PV max de Qingyi.\nSi un bouclier est toujours actif lors de l'actualisation de l'effet de bouclier, Qingyi génère 5 pts d'énergie. Cet effet de production d'énergie peut être déclenché une fois toutes les 10 s.",
+                "QingYi_Talent_04_Desc_02": "En étudiant les androïdes de l'ancienne civilisation, l'Institut de l'Étoile blanche a développé l'Arc défensif, une technologie qui marie défense, attaque et conversion d'énergie électrique.\n« Comme le dit l'adage : l'eau peut aussi bien faire flotter un bateau que le faire sombrer. En physique, on dit qu'un courant électrique coule comme de l'eau. Ainsi, on peut utiliser un courant électrique aussi bien de manière offensive et défensive. C'est une combinaison fantastique. »",
+                "QingYi_Talent_04_Desc_01": "Lorsque l'état <color=#FFFFFF>Connexion éclair</color> s'active ou se désactive, obtient un bouclier équivalent à 10 % des PV max de Qingyi. Si un bouclier est toujours actif lors de l'actualisation de l'effet de bouclier, Qingyi génère 5 pts d'énergie. Cet effet de production d'énergie peut être déclenché une fois toutes les 10 s.",
+                "QingYi_Talent_04_Title_Realign": "Arc défensif stable"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "Esprit juvénile",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "QingYi_Talent_05_Desc_02": "« Parfait, les jeunes doivent faire preuve de courage et essayer de nouvelles choses. Continue comme ça ! »\nLes encouragements de Qingyi peuvent parfois sembler négligents et taquins, mais si vous avez un problème, vous pourrez toujours compter sur elle.\nAprès tout, elle a des siècles d'expérience, elle peut gérer n'importe quoi.",
+                "QingYi_Talent_05_Title_Realign": "Esprit juvénile"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "Huit méridiens",
+                "QingYi_Talent_06_Desc_01_Realign": "Le niveau d'interruption d'<color=#FFFFFF>Attaque normale : Fleurs enivrées au clair de lune</color> augmente considérablement, et les DGT CRIT augmentent de 100 % supplémentaires.\nLorsque Qingyi touche un ennemi à l'aide d'<color=#FFFFFF>Attaque normale : Fleurs enivrées au clair de lune</color>, la RÉS aux DGT d'attribut de la cible diminue de 20 % pendant 15 s.",
+                "QingYi_Talent_06_Desc_02": "Une théorie sur le système circulatoire humain décrite dans les manuscrits de l'ancienne civilisation. On raconte que les maîtres de cette théorie peuvent invalider leurs adversaire instantanément au combat.\n« Et si j'essayais le point de pression qui provoque des démangeaisons la prochaine fois ? Qui fera le rat de laboratoire ? {M#Wise}{F#Belle} ? Ou Zhu Yuan ? »",
+                "QingYi_Talent_06_Desc_01": "Le niveau d'interruption d'<color=#FFFFFF>Attaque normale : Fleurs enivrées au clair de lune</color> augmente considérablement, et les DGT CRIT augmentent de 100 % supplémentaires. Lorsque Qingyi touche un ennemi à l'aide d'<color=#FFFFFF>Attaque normale : Fleurs enivrées au clair de lune</color>, la RÉS aux DGT d'attribut de la cible diminue de 20 % pendant 15 s.",
+                "QingYi_Talent_06_Title_Realign": "Huit méridiens"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "Jane",
+        "full_name": "Jane Doe",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "Consultante en criminologie",
+                "JaneDoe_Talent_01_Desc_01_Realign": "Le nombre maximum d'utilisations d'<color=#FFFFFF>Attaque normale : Salchow</color> augmente de 1.\nDans l'état <color=#FFFFFF>Passion</color>, le <color=#F0D12B>taux d'accumulation d'anomalie physique</color> de Jane augmente de 15 % supplémentaires, et chaque point d'adresse d'anomalie de Jane augmente ses DGT de 0.1 %, jusqu'à un maximum de +30 %.",
+                "JaneDoe_Talent_01_Desc_02": "« Un consultant en criminologie donne des conseils pour résoudre les crimes, et non pour les commettre. »\nSoudain, Jane se penche et fait un clin d'œil.\n« Bien sûr, je saurais très bien m'y prendre... pour la deuxième option. »",
+                "JaneDoe_Talent_01_Desc_01": "Le nombre maximum d'utilisations d'<color=#FFFFFF>Attaque normale : Salchow</color> augmente de 1. Dans l'état <color=#FFFFFF>Passion</color>, le <color=#F0D12B>taux d'accumulation d'anomalie physique</color> de Jane augmente de 15 % supplémentaires, et chaque point d'adresse d'anomalie de Jane augmente ses DGT de 0.1 %, jusqu'à un maximum de +30 %.",
+                "JaneDoe_Talent_01_Title_Realign": "Consultante en criminologie"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "Adaptation à l'environnement",
+                "JaneDoe_Talent_02_Desc_01_Realign": "Lorsque l'attaque de Jane touche un ennemi avec l'état <color=#FFFFFF>Rongé</color>, ou lorsque n'importe quel membre de l'escouade inflige <color=#F0D12B>Assaut</color> à un ennemi <color=#FFFFFF>Rongé</color>, 15 % de la DÉF de ce dernier sont ignorés. De plus, lorsque les DGT d'<color=#F0D12B>Assaut</color> déclenchent un coup critique, les DGT CRIT infligés augmentent de 50 % supplémentaires.",
+                "JaneDoe_Talent_02_Desc_02": "À force de regarder dans l'abîme, l'abîme regarde en vous. Ce n'est que la première étape.\n« La deuxième, c'est de s'en approcher, d'y entrer et de le comprendre.\nEt la dernière... c'est d'éviter qu'il vous transforme. »",
+                "JaneDoe_Talent_02_Desc_01": "Lorsque l'attaque de Jane touche un ennemi avec l'état <color=#FFFFFF>Rongé</color>, ou lorsque n'importe quel membre de l'escouade inflige <color=#F0D12B>Assaut</color> à un ennemi <color=#FFFFFF>Rongé</color>, 15 % de la DÉF de ce dernier sont ignorés. De plus, lorsque les DGT d'<color=#F0D12B>Assaut</color> déclenchent un coup critique, les DGT CRIT infligés augmentent de 50 % supplémentaires.",
+                "JaneDoe_Talent_02_Title_Realign": "Adaptation à l'environnement"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "Anonymat",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "JaneDoe_Talent_03_Desc_02": "« L'anonymat, c'est la possibilité de devenir n'importe qui. Une meilleure amie, par exemple~ !\nOu peut-être, ta peur la plus atroce ? »",
+                "JaneDoe_Talent_03_Title_Realign": "Anonymat"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "S'adapter pour survivre",
+                "JaneDoe_Talent_04_Desc_01_Realign": "Lorsqu'un membre de l'escouade inflige <color=#F0D12B>Assaut</color> ou <color=#FFFFFF>Dysfonctionnement</color>, les DGT d'anomalies d'attribut de tous les membres de l'escouade augmentent de 18 % pendant 15 s.",
+                "JaneDoe_Talent_04_Desc_02": "« Distinguer le chasseur de la proie dépend parfois du point de vue. Toutefois, je préfère voir ça de manière plus directe :\nLa proie, c'est celui qui perd. »",
+                "JaneDoe_Talent_04_Desc_01": "Lorsqu'un membre de l'escouade inflige <color=#F0D12B>Assaut</color> ou <color=#FFFFFF>Dysfonctionnement</color>, les DGT d'anomalies d'attribut de tous les membres de l'escouade augmentent de 18 % pendant 15 s.",
+                "JaneDoe_Talent_04_Title_Realign": "S'adapter pour survivre"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "Accumulatrice compulsive",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "JaneDoe_Talent_05_Desc_02": "La chambre de Jane est remplie à craquer de toutes sortes de choses, en particulier de malbouffe.\n« On n'est pas bien là ? Il y a à manger partout à portée de main~ ! »",
+                "JaneDoe_Talent_05_Title_Realign": "Accumulatrice compulsive"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "Coup « bas »",
+                "JaneDoe_Talent_06_Desc_01_Realign": "Dans l'état <color=#FFFFFF>Passion</color>, le taux CRIT de Jane augmente de 20 %, et ses DGT CRIT de 40 %. Lorsqu'un membre de l'escouade inflige <color=#F0D12B>Assaut</color>, Jane entre immédiatement dans l'état <color=#FFFFFF>Passion</color>, et ses <color=#FFFFFF>Bouffées de Passion</color> montent au maximum. Lorsque les DGT d'<color=#F0D12B>Assaut</color> déclenchent un coup critique, Jane assène une attaque additionnelle à l'ennemi, qui inflige des <color=#F0D12B>DGT physiques</color> équivalents à 1600 % de son adresse d'anomalie.",
+                "JaneDoe_Talent_06_Desc_02": "Dans la rue, les moyens ne comptent pas, seule la fin est importante.\n« Nos désirs les plus sombres révèlent nos plus grandes faiblesses. »",
+                "JaneDoe_Talent_06_Desc_01": "Dans l'état <color=#FFFFFF>Passion</color>, le taux CRIT de Jane augmente de 20 %, et ses DGT CRIT de 40 %. Lorsqu'un membre de l'escouade inflige <color=#F0D12B>Assaut</color>, Jane entre immédiatement dans l'état <color=#FFFFFF>Passion</color>, et ses <color=#FFFFFF>Bouffées de Passion</color> montent au maximum. Lorsque les DGT d'<color=#F0D12B>Assaut</color> déclenchent un coup critique, Jane assène une attaque additionnelle à l'ennemi, qui inflige des <color=#F0D12B>DGT physiques</color> équivalents à 1600 % de son adresse d'anomalie.",
+                "JaneDoe_Talent_06_Title_Realign": "Coup « bas »"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "Seth",
+        "full_name": "Seth Lowell",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "Héroïsme",
+                "Seth_Talent_01_Desc_01_Realign": "La valeur du bouclier conféré par le <color=#FFFFFF>Bouclier de ferme résolution</color>, ainsi que sa valeur maximale sont améliorées de 30 %.\nLorsque le <color=#FFFFFF>Bouclier de ferme résolution</color> expire, l'augmentation de l'adresse d'anomalie conférée par <color=#FFFFFF>Passif principal : Protecteur</color> est prolongée de 10 s.",
+                "Seth_Talent_01_Desc_02": "Lors des missions en équipe, Seth mène toujours la charge.\n« Laissez-moi m'occuper des arrestations ! J'ai eu 19 à mon exam d'arrestation en combat rapproché. J'ai juste perdu un point parce que j'ai foulé le poignet de l'instructeur. »",
+                "Seth_Talent_01_Desc_01": "La valeur du bouclier conféré par le <color=#FFFFFF>Bouclier de ferme résolution</color>, ainsi que sa valeur maximale sont améliorées de 30 %. Lorsque le <color=#FFFFFF>Bouclier de ferme résolution</color> expire, l'augmentation de l'adresse d'anomalie conférée par <color=#FFFFFF>Passif principal : Protecteur</color> est prolongée de 10 s.",
+                "Seth_Talent_01_Title_Realign": "Héroïsme"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "Insouciance de la jeunesse",
+                "Seth_Talent_02_Desc_01_Realign": "En entrant au combat, Seth obtient immédiatement 75 % de <color=#FFFFFF>Résolution</color>.\nToucher un ennemi avec <color=#FFFFFF>Attaque normale : Frappe éclair – Électrifié</color> augmente l'<color=#2EB6FF>accumulation d'anomalie électrique</color> de l'attaque de 35 %.",
+                "Seth_Talent_02_Desc_02": "De nombreux criminels font l'erreur de sous-estimer Seth.\nC'est peut-être à cause de ses yeux clairs et innocents, ou de ses petites oreilles velues qui lui donnent un air inoffensif. Quoi qu'il en soit, quiconque sous-estime Seth finit par le regretter.",
+                "Seth_Talent_02_Desc_01": "En entrant au combat, Seth obtient immédiatement 75 % de <color=#FFFFFF>Résolution</color>. Toucher un ennemi avec <color=#FFFFFF>Attaque normale : Frappe éclair – Électrifié</color> augmente l'<color=#2EB6FF>accumulation d'anomalie électrique</color> de l'attaque de 35 %.",
+                "Seth_Talent_02_Title_Realign": "Insouciance de la jeunesse"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "Réaction à retardement",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Seth_Talent_03_Desc_02": "« Un officier aussi doué que vous doit s'occuper de tout tout seul, pas vrai ? Vous n'avez besoin de personne, vous, non ? »\nAprès avoir écouté cette réflexion, Seth reste calme sans dire un mot.\nEn pleine nuit, il se réveille en sursaut : « Ce que ce type a dit tout à l'heure... C'était un reproche ? »",
+                "Seth_Talent_03_Title_Realign": "Réaction à retardement"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "Aspiration profonde",
+                "Seth_Talent_04_Desc_01_Realign": "La confusion infligée par <color=#FFFFFF>Soutien défensif : Bouclier foudroyant</color> augmente de 25 %.",
+                "Seth_Talent_04_Desc_02": "« Oublie ces idioties sur le bien et le mal. Tu ne peux pas protéger tout le monde. Parfois, il faut faire un choix.\n– Justement, c'est mon choix, et ma responsabilité d'officier la plus importante. C'est toi qui as changé, grand frère. »",
+                "Seth_Talent_04_Desc_01": "La confusion infligée par <color=#FFFFFF>Soutien défensif : Bouclier foudroyant</color> augmente de 25 %.",
+                "Seth_Talent_04_Title_Realign": "Aspiration profonde"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "Admiration passée",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Seth_Talent_05_Desc_02": "Autrefois, Seth admirait profondément son grand frère. Cependant, « admiration » a beau rimer avec « compréhension », ces deux notions sont très éloignées.\n« Un jour, je deviendrai le meilleur officier de la Sécurité publique... et lui ferai fermer son clapet ! »",
+                "Seth_Talent_05_Title_Realign": "Admiration passée"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "Idéaliste",
+                "Seth_Talent_06_Desc_01_Realign": "Lorsque Seth assène un coup final à un ennemi avec <color=#FFFFFF>Attaque normale : Frappe éclair – Électrifié</color>, il inflige des DGT additionnels équivalents à 500 % de son ATQ. Cette attaque inflige un coup critique à coup sûr, et les DGT CRIT augmentent de 60 %.",
+                "Seth_Talent_06_Desc_02": "Quand on est jeune, tout est clair, avec une démarcation très nette entre le bien et le mal, le noir et le blanc.\nIl y aura toujours quelqu'un pour lui dire que le monde est bien plus complexe et gris. Mais ne devrait-on pas aspirer à vivre dans un monde où on distingue mieux le bien du mal ?",
+                "Seth_Talent_06_Desc_01": "Lorsque Seth assène un coup final à un ennemi avec <color=#FFFFFF>Attaque normale : Frappe éclair – Électrifié</color>, il inflige des DGT additionnels équivalents à 500 % de son ATQ. Cette attaque inflige un coup critique à coup sûr, et les DGT CRIT augmentent de 60 %.",
+                "Seth_Talent_06_Title_Realign": "Idéaliste"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "César",
+        "full_name": "César King",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "Formation en fer de lance",
+                "Caesar_Talent_01_Desc_01_Realign": "Lorsque César entre en combat ou prend le relai, elle confère immédiatement à toute l'escouade un bouclier <color=#FFFFFF>Égide rayonnante</color>. Cet effet peut être déclenché une fois toutes les 300 s.\nLorsque <color=#FFFFFF>Égide rayonnante</color> est active, les ennemis situés dans un rayon de 5 m autour du personnage protégé par le bouclier subissent une réduction de 15 % de toutes leurs RÉS d'attribut.",
+                "Caesar_Talent_01_Desc_02": "« Big Daddy m'a dit que c'était quand on formait une flèche avec les motos pour foncer avec une force incroyable directement sur le point faible de l'ennemi !\nEt c'est moi qui mène l'assaut bien sûr ! »",
+                "Caesar_Talent_01_Desc_01": "Lorsque César entre en combat ou prend le relai, elle confère immédiatement à toute l'escouade un bouclier <color=#FFFFFF>Égide rayonnante</color>. Cet effet peut être déclenché une fois toutes les 300 s. Lorsque <color=#FFFFFF>Égide rayonnante</color> est active, les ennemis situés dans un rayon de 5 m autour du personnage protégé par le bouclier subissent une réduction de 15 % de toutes leurs RÉS d'attribut.",
+                "Caesar_Talent_01_Title_Realign": "Formation en fer de lance"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "Héritage des terres lointaines",
+                "Caesar_Talent_02_Desc_01_Realign": "Lorsque l'<color=#FFFFFF>Égide rayonnante</color> de <color=#FFFFFF>Passif principal : Barrière de résilience</color> est active, le taux de production d'énergie de César augmente de 10 %, l'augmentation de l'ATQ du porteur du bouclier monte à 150 % de sa valeur initiale.",
+                "Caesar_Talent_02_Desc_02": "Le style de combat de César dénote de celui des résidents de la Nouvelle-Eridu, mais également de la couronne extérieure. Il se base sur les techniques des plus grands combattants errants.\nSavoir quand se retenir et quand porter le coup décisif a toujours été la technique de survie des vagabonds. César est une véritable adepte de cette philosophie.",
+                "Caesar_Talent_02_Desc_01": "Lorsque l'<color=#FFFFFF>Égide rayonnante</color> de <color=#FFFFFF>Passif principal : Barrière de résilience</color> est active, le taux de production d'énergie de César augmente de 10 %, l'augmentation de l'ATQ du porteur du bouclier monte à 150 % de sa valeur initiale.",
+                "Caesar_Talent_02_Title_Realign": "Héritage des terres lointaines"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "Confiance absolue",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Caesar_Talent_03_Desc_02": "Une fois que César a accepté quelqu'un, elle le considère comme faisant partie de son cercle intime et le traite avec une confiance absolue, et baisse entièrement sa garde...\nC'est exactement comme ça qu'elle vous perçoit.",
+                "Caesar_Talent_03_Title_Realign": "Confiance absolue"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "Bélier d'Arès",
+                "Caesar_Talent_04_Desc_01_Realign": "Lorsque César lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, elle obtient 3 <color=#FFFFFF>points de soutien</color> supplémentaires.\nSi son énergie est inférieure à 20, elle peut lancer <color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> en consommant 1 <color=#FFFFFF>point de soutien</color> à la place. Cette substitution peut être déclenchée une fois toutes les 5 s.",
+                "Caesar_Talent_04_Desc_02": "Une des techniques que César a maîtrisées grâce à l'enseignement des combattants errants.\n« Quoi qu'il arrive, je me battrai jusqu'au dernier instant ! »",
+                "Caesar_Talent_04_Desc_01": "Lorsque César lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, elle obtient 3 <color=#FFFFFF>points de soutien</color> supplémentaires. Si son énergie est inférieure à 20, elle peut lancer <color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> en consommant 1 <color=#FFFFFF>point de soutien</color> à la place. Cette substitution peut être déclenchée une fois toutes les 5 s.",
+                "Caesar_Talent_04_Title_Realign": "Bélier d'Arès"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "Conquête romantique",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Caesar_Talent_05_Desc_02": "Derrière l'attitude nonchalante et négligée de César se cache un cœur plein de romantisme.\nElle s'intéresse constamment aux histoires d'amour.\nMais si vous abordez le sujet un peu trop longtemps... vous risquez de la faire rougir.",
+                "Caesar_Talent_05_Title_Realign": "Conquête romantique"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "Volonté de la Suzeraine",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> et le <color=#FFFFFF>soutien de suivi</color> infligent à coup sûr un coup critique. Les DGT de la compétence augmentent de 50 %, et de 50 % supplémentaires contre la cible principale.\nLorsque César lance <color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> ou un <color=#FFFFFF>soutien de suivi</color>, son taux CRIT augmente de 30 %, et ses DGT CRIT de 60 % pendant 15 s.",
+                "Caesar_Talent_06_Desc_02": "« Avant, je ne faisais que regarder devant moi. Je pensais que tant que j'étais forte, je serais capable de tout faire.\nMais être un grand chef demande plus que de la force.\nIl faut que je puisse protéger les amis qui me soutiennent derrière moi. Ils sont la raison pour laquelle je continue d'avancer. »",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> et le <color=#FFFFFF>soutien de suivi</color> infligent à coup sûr un coup critique. Les DGT de la compétence augmentent de 50 %, et de 50 % supplémentaires contre la cible principale. Lorsque César lance <color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> ou un <color=#FFFFFF>soutien de suivi</color>, son taux CRIT augmente de 30 %, et ses DGT CRIT de 60 % pendant 15 s.",
+                "Caesar_Talent_06_Title_Realign": "Volonté de la Suzeraine"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "Lucy",
+        "full_name": "Luciana de Montefio",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "Entraînement porcin",
+                "Lucy_Talent_01_Desc_01_Realign": "Lorsque les porcelets gardiens lancent <color=#FFFFFF>Porcelets gardiens : Swing tornade !</color>, Lucy récupère 2 pts d'énergie. Cet effet peut être déclenché une fois toutes les 15 s. Le temps de recharge pour chaque porcelet est indépendant.",
+                "Lucy_Talent_01_Desc_02": "« Paillie, regarde à droite !... Ça c'est la gauche espèce de gros benêt !!! »\nUn ordre, deux directions, trois cris de douleur, quatre vents pour répandre les gémissements.",
+                "Lucy_Talent_01_Desc_01": "Lorsque les porcelets gardiens lancent <color=#FFFFFF>Porcelets gardiens : Swing tornade !</color>, Lucy récupère 2 pts d'énergie. Cet effet peut être déclenché une fois toutes les 15 s. Le temps de recharge pour chaque porcelet est indépendant.",
+                "Lucy_Talent_01_Title_Realign": "Entraînement porcin"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "Capitaine des troupes porcines",
+                "Lucy_Talent_02_Desc_01_Realign": "Lorsque Lucy lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, tous les membres de l'escouade, les Bangbous et les porcelets gardiens obtiennent l'effet <color=#FFFFFF>Du nerf !</color> pendant 10 s.",
+                "Lucy_Talent_02_Desc_02": "« Il ne fait aucun doute que capitaine Lucy est la meilleure cheffe des thiriens porcins de Calydon de tous les temps ! »\nConclusion écrite par Boisie dans le <i>Rapport annuel des Fils de Calydon</i>.",
+                "Lucy_Talent_02_Desc_01": "Lorsque Lucy lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, tous les membres de l'escouade, les Bangbous et les porcelets gardiens obtiennent l'effet <color=#FFFFFF>Du nerf !</color> pendant 10 s.",
+                "Lucy_Talent_02_Title_Realign": "Capitaine des troupes porcines"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "Meneuse à la poigne de fer",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Lucy_Talent_03_Desc_02": "« Je voudrais juste que capitaine Lucy soit un peu plus douce quand elle nous projette dans tous les sens... »\nCe que Boisie pense tout bas, mais n'ose pas dire tout haut.",
+                "Lucy_Talent_03_Title_Realign": "Meneuse à la poigne de fer"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "Jeu sans règle",
+                "Lucy_Talent_04_Desc_01_Realign": "Les DGT CRIT des unités alliées sous l'effet <color=#FFFFFF>Du nerf !</color> augmentent de 10 % supplémentaires.",
+                "Lucy_Talent_04_Desc_02": "Les règles, c'est comme les côtes, elles sont faites pour être brisées.",
+                "Lucy_Talent_04_Desc_01": "Les DGT CRIT des unités alliées sous l'effet <color=#FFFFFF>Du nerf !</color> augmentent de 10 % supplémentaires.",
+                "Lucy_Talent_04_Title_Realign": "Jeu sans règle"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "Princesse des contrées sauvages",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Lucy_Talent_05_Desc_02": "Elle s'adresse avec politesse à ceux qui pleurent sous le joug de sa batte.\nElle s'excuse sincèrement auprès de ceux qui rampent à ses pieds.\nVoilà les règles de bienséance d'une dame de son rang.",
+                "Lucy_Talent_05_Title_Realign": "Princesse des contrées sauvages"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "Crocs ardents féroces",
+                "Lucy_Talent_06_Desc_01_Realign": "Lorsqu'un allié avec l'effet <color=#FFFFFF>Du nerf !</color> frappe un ennemi avec une <color=#FFFFFF>attaque spéciale EX</color>, un porcelet gardien tombe du ciel et provoque une explosion que inflige des <color=#FF5521>DGT de feu</color> équivalents à 300 % de l'ATQ du porcelet gardien. Cette explosion prolonge également de 5 s la durée de l'effet <color=#FFFFFF>Du nerf !</color> pour tous les membres de l'escouade. La durée peut être prolongée jusqu'à 3 fois, la durée maximale étant de 30 s. Réactiver l'effet <color=#FFFFFF>Du nerf !</color> réinitialise le compte de cumuls. Après l'explosion, le porcelet gardien lance <color=#FFFFFF>Porcelets gardiens : Swing tornade !</color>.",
+                "Lucy_Talent_06_Desc_02": "Les petits thiriens porcins connus sous le nom de Garde de la Crinière vermeille sont toujours en première ligne !\nPourtant, au moment où ils sont propulsés par la batte, difficile à dire s'ils sont pris de désespoir, ou s'ils acceptent entièrement leur sort.\nBraves petits porcelets, guidez-nous jusqu'à la victoire !",
+                "Lucy_Talent_06_Desc_01": "Lorsqu'un allié avec l'effet <color=#FFFFFF>Du nerf !</color> frappe un ennemi avec une <color=#FFFFFF>attaque spéciale EX</color>, un porcelet gardien tombe du ciel et provoque une explosion qui inflige des <color=#FF5521>DGT de feu</color> équivalents à 300 % de l'ATQ du porcelet gardien. Cette explosion prolonge également de 5 s la durée de l'effet <color=#FFFFFF>Du nerf !</color> pour tous les membres de l'escouade. La durée peut être prolongée jusqu'à 3 fois, la durée maximale étant de 30 s. Réactiver l'effet <color=#FFFFFF>Du nerf !</color> réinitialise le compte de cumuls. Après l'explosion, le porcelet gardien lance <color=#FFFFFF>Porcelets gardiens : Swing tornade !</color>.",
+                "Lucy_Talent_06_Title_Realign": "Crocs ardents féroces"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "Lighter",
+        "full_name": "Lighter",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "Le Champion",
+                "Lighter_Talent_01_Desc_01_Realign": "Parmi les malus du <color=#FFFFFF>Passif principal : Accélérateur</color>, l'effet <color=#FFFFFF>Effondrement</color> prolonge la durée d'étourdissement de 5 s. De plus, la <color=#98EFF0>RÉS à la glace</color> et la <color=#FF5521>RÉS au feu</color> de la cible diminuent de 10 % supplémentaires. Les DGT du coup final renforcé asséné par Lighter lorsque son <color=#FFFFFF>Moral</color> est épuisé lors d'un coup de poing léger initial ou d'un combo de jabs augmentent de 30 %.",
+                "Lighter_Talent_01_Desc_02": "Pour un champion, la victoire est cruciale. En affrontant les guerriers les plus puissants du parti adverse, il élimine les menaces qui planent sur sa cheffe et est le garant du moral de ses coéquipiers.\nPour lui, seule la victoire est digne d'éloges.\n« Le Champion invaincu doit le rester. »",
+                "Lighter_Talent_01_Desc_01": "Parmi les malus du <color=#FFFFFF>Passif principal : Accélérateur</color>, l'effet <color=#FFFFFF>Effondrement</color> prolonge la durée d'étourdissement de 5 s. De plus, la <color=#98EFF0>RÉS à la glace</color> et la <color=#FF5521>RÉS au feu</color> de la cible diminuent de 10 % supplémentaires. Les DGT du coup final renforcé asséné par Lighter lorsque son <color=#FFFFFF>Moral</color> est épuisé lors d'un coup de poing léger initial ou d'un combo de jabs augmentent de 30 %.",
+                "Lighter_Talent_01_Title_Realign": "Le Champion"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "Écharpe rouge",
+                "Lighter_Talent_02_Desc_01_Realign": "Lorsque l'effet <color=#FFFFFF>Effondrement</color> du <color=#FFFFFF>Passif principal : Accélérateur</color> est infligé à un ennemi, le multiplicateur de DGT d'étourdissement de la cible augmente de 25 %. De plus, l'augmentation des <color=#98EFF0>DGT de glace</color> et des <color=#FF5521>DGT de feu</color> conférée par l'<color=#FFFFFF>Euphorie</color> de la <color=#FFFFFF>Capacité supplémentaire : Esprit combatif</color> augmente à 120 % de la valeur initiale.",
+                "Lighter_Talent_02_Desc_02": "Dans son rôle d'Écharpe rouge des Fils de Calydon, Lighter est plutôt célèbre à la couronne extérieure, pas seulement grâce à ses poings, mais aussi... à cause de sa manière de parler assez particulière.\n« Je voudrais bien me la couler douce... mais tu ne peux pas régler ça sans moi, pas vrai ? »",
+                "Lighter_Talent_02_Desc_01": "Lorsque l'effet <color=#FFFFFF>Effondrement</color> du <color=#FFFFFF>Passif principal : Accélérateur</color> est infligé à un ennemi, le multiplicateur de DGT d'étourdissement de la cible augmente de 25 %. De plus, l'augmentation des <color=#98EFF0>DGT de glace</color> et des <color=#FF5521>DGT de feu</color> conférée par l'<color=#FFFFFF>Euphorie</color> de la <color=#FFFFFF>Capacité supplémentaire : Esprit combatif</color> augmente à 120 % de la valeur initiale.",
+                "Lighter_Talent_02_Title_Realign": "Écharpe rouge"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "Chef de mercenaires",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Lighter_Talent_03_Desc_02": "« Je suis probablement la dernière personne qu'on devrait choisir comme chef. »",
+                "Lighter_Talent_03_Title_Realign": "Chef de mercenaires"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "Lunettes de soleil",
+                "Lighter_Talent_04_Desc_01_Realign": "Lorsque Lighter est en réserve, la récupération d'énergie du personnage sur le terrain augmente de 10 %. Lorsque Lighter entre dans l'état <color=#FFFFFF>Moral d'acier</color>, les personnages en réserve récupèrent 4 pts d'énergie. Cet effet peut être déclenché une fois toutes les 18 s.",
+                "Lighter_Talent_04_Desc_02": "« Tu veux savoir pourquoi je porte constamment des lunettes de soleil ? Euh... C'est sûrement parce que j'ai souvent la tête qui tourne à la vue du sang. »",
+                "Lighter_Talent_04_Desc_01": "Lorsque Lighter est en réserve, la récupération d'énergie du personnage sur le terrain augmente de 10 %. Lorsque Lighter entre dans l'état <color=#FFFFFF>Moral d'acier</color>, les personnages en réserve récupèrent 4 pts d'énergie. Cet effet peut être déclenché une fois toutes les 18 s.",
+                "Lighter_Talent_04_Title_Realign": "Lunettes de soleil"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "Vif stratège",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Lighter_Talent_05_Desc_02": "« Donne-moi un ordre, et je l'exécuterai. C'est aussi simple que ça. »\nLighter ajuste ses lunettes de soleil et lance un sourire insouciant : « Tant que tu ne me demandes pas de prendre une décision. »",
+                "Lighter_Talent_05_Title_Realign": "Vif stratège"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "Survivant",
+                "Lighter_Talent_06_Desc_01_Realign": "L'efficacité de la récupération de <color=#FFFFFF>Moral</color> de Lighter monte à 200 % de sa valeur originale. Lorsque Lighter assène une attaque lourde à un ennemi à l'aide de son <color=#FFFFFF>attaque normale</color>, <color=#FFFFFF>contre d'esquive</color>, <color=#FFFFFF>attaque spéciale</color>, <color=#FFFFFF>attaque spéciale EX</color>, <color=#FFFFFF>soutien rapide</color>, <color=#FFFFFF>soutien de suivi</color>, <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, il déclenche l'effet <color=#FFFFFF>Impact brûlant</color> qui inflige des <color=#FF5521>DGT de feu</color> équivalents à 250 % de son ATQ. Cet effet peut être déclenché une fois toutes les 8 s sur chaque ennemi. Si l'impact de Lighter dépasse 170, chaque point surpassant ce seuil augmente le multiplicateur d'<color=#FFFFFF>Impact brûlant</color> de 5 % supplémentaires, jusqu'à un maximum de +500 %. Le coup final renforcé asséné par Lighter lorsque son <color=#FFFFFF>Moral</color> est épuisé pendant un coup de poing léger ou un combo de jabs déclenche également l'activation d'<color=#FFFFFF>Impact brûlant</color> en touchant un ennemi en ignorant le temps de recharge de cet effet.",
+                "Lighter_Talent_06_Desc_02": "Si on lui donnait l'opportunité de tout recommencer, il ne choisirait jamais d'être le seul survivant.\nMalheureusement, on choisit rarement son destin.",
+                "Lighter_Talent_06_Desc_01": "L'efficacité de la récupération de <color=#FFFFFF>Moral</color> de Lighter monte à 200 % de sa valeur originale. Lorsque Lighter assène une attaque lourde à un ennemi à l'aide de son <color=#FFFFFF>attaque normale</color>, <color=#FFFFFF>contre d'esquive</color>, <color=#FFFFFF>attaque spéciale</color>, <color=#FFFFFF>attaque spéciale EX</color>, <color=#FFFFFF>soutien rapide</color>, <color=#FFFFFF>soutien de suivi</color>, <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, il déclenche l'effet <color=#FFFFFF>Impact brûlant</color> qui inflige des <color=#FF5521>DGT de feu</color> équivalents à 250 % de son ATQ. Cet effet peut être déclenché une fois toutes les 8 s sur chaque ennemi. Si l'impact de Lighter dépasse 170, chaque point surpassant ce seuil augmente le multiplicateur d'<color=#FFFFFF>Impact brûlant</color> de 5 % supplémentaires, jusqu'à un maximum de +500 %. Le coup final renforcé asséné par Lighter lorsque son <color=#FFFFFF>Moral</color> est épuisé pendant un coup de poing léger ou un combo de jabs déclenche également l'activation d'<color=#FFFFFF>Impact brûlant</color> en touchant un ennemi en ignorant le temps de recharge de cet effet.",
+                "Lighter_Talent_06_Title_Realign": "Survivant"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "Bernice",
+        "full_name": "Bernice White",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "Unisson enflammée",
+                "Burnice_Talent_01_Desc_01_Realign": "La limite de <color=#FFFFFF>Chaleur</color> passe de 100 à 140. En entrant en combat, Bernice gagne 40 pts de <color=#FFFFFF>Chaleur</color> supplémentaires.\nLe multiplicateur de DGT de <color=#FFFFFF>Postcombustion</color> augmente d'une valeur équivalente à 100 % de l'ATQ de Bernice.\nDe plus, l'<color=#FF5521>accumulation d'anomalie de feu</color> infligée par <color=#FFFFFF>Postcombustion</color> augmente de 25 %.",
+                "Burnice_Talent_01_Desc_02": "« Tout le monde a des hauts et des bas, c'est tout à fait normal !\nAllez, reprends du poil de la bête, César ! Que dis-tu d'un Nitro spécial ? J'ai ajouté une tonne de sucre ! »",
+                "Burnice_Talent_01_Desc_01": "La limite de <color=#FFFFFF>Chaleur</color> passe de 100 à 140. En entrant en combat, Bernice gagne 40 pts de <color=#FFFFFF>Chaleur</color> supplémentaires. Le multiplicateur de DGT de <color=#FFFFFF>Postcombustion</color> augmente d'une valeur équivalente à 100 % de l'ATQ de Bernice. De plus, l'<color=#FF5521>accumulation d'anomalie de feu</color> infligée par <color=#FFFFFF>Postcombustion</color> augmente de 25 %.",
+                "Burnice_Talent_01_Title_Realign": "Unisson enflammée"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "Suppléments gratis",
+                "Burnice_Talent_02_Desc_01_Realign": "Lorsque l'effet <color=#FFFFFF>Postcombustion</color> est déclenché, il applique <color=#FFFFFF>Pénétration thermique</color> à l'ennemi pendant 6 s. Effet cumulable 5 fois. Les déclenchements répétés réinitialisent la durée de l'effet. Lorsqu'un membre de l'escouade touche l'ennemi, le taux de PÉN de l'attaque augmente de 4 % pour chaque cumul de <color=#FFFFFF>Pénétration thermique</color>, jusqu'à un maximum de +20 %.",
+                "Burnice_Talent_02_Desc_02": "En tant que mixologue officielle des Fils de Calydon, Bernice prend un grand plaisir à préparer les meilleurs Nitros de la Nouvelle-Eridu pour ses amis.\nQuant à ses ennemis... ils ont droit de goûter à des boissons au goût innovant et unique.\n« Ça, c'est le genre de boissons qu'on ne boit qu'une fois dans une vie ! Son goût est unique et exceptionnel ! »",
+                "Burnice_Talent_02_Desc_01": "Lorsque l'effet <color=#FFFFFF>Postcombustion</color> est déclenché, il applique <color=#FFFFFF>Pénétration thermique</color> à l'ennemi pendant 6 s. Effet cumulable 5 fois. Les déclenchements répétés réinitialisent la durée de l'effet. Lorsqu'un membre de l'escouade touche l'ennemi, le taux de PÉN de l'attaque augmente de 4 % pour chaque cumul de <color=#FFFFFF>Pénétration thermique</color>, jusqu'à un maximum de +20 %.",
+                "Burnice_Talent_02_Title_Realign": "Suppléments gratis"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "Optimiste par nature",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Burnice_Talent_03_Desc_02": "« Cette Bernice, elle déborde d'énergie ! Même le matin au réveil ! Je n'ai pas la moindre idée d'où elle peut bien tirer tout ce peps...\nCe qui est encore plus effrayant, c'est que son enthousiasme est contagieux, et peut déteindre sur tous ceux qui la côtoient ! Un vrai monstre d'optimisme !\nMais... franchement, ça ne me déplaît pas le moins du monde... »\n— Une certaine responsable des porcelets préférant rester anonyme",
+                "Burnice_Talent_03_Title_Realign": "Optimiste par nature"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "Réserve de carburant ultime",
+                "Burnice_Talent_04_Desc_01_Realign": "Lorsqu'une <color=#FFFFFF>attaque spéciale EX</color> ou une <color=#FFFFFF>attaque de soutien</color> touche un ennemi, le taux CRIT de la compétence augmente de 30 %.\nLa durée maximale de la pulvérisation des flammes d'<color=#FFFFFF>Attaque spéciale EX : Brassage thermique – Double dose</color> est prolongée de 1 s.",
+                "Burnice_Talent_04_Desc_02": "« T'aimes bien le cocktail que je t'ai préparé ? Merci ! Défenses-d'acier en raffole aussi~ ! Il peut en ingurgiter deux cents litres d'un coup !\nOh, ouais. Défenses-d'acier, c'est notre gros camion.\nTu veux goûter son carburant ? Je peux t'assurer qu'il dépote~ ! »",
+                "Burnice_Talent_04_Desc_01": "Lorsqu'une <color=#FFFFFF>attaque spéciale EX</color> ou une <color=#FFFFFF>attaque de soutien</color> touche un ennemi, le taux CRIT de la compétence augmente de 30 %. La durée maximale de la pulvérisation des flammes d'<color=#FFFFFF>Attaque spéciale EX : Brassage thermique – Double dose</color> est prolongée de 1 s.",
+                "Burnice_Talent_04_Title_Realign": "Réserve de carburant ultime"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "Une danse de feu et de glace",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Burnice_Talent_05_Desc_02": "Dans les cocktails, la glace est un élément crucial.\nSans un froid intense, la chaleur extrême serait moins impressionnante.\n« La fusion du feu et de la glace~ ! Qu'est-ce que c'est envoûtant ! »",
+                "Burnice_Talent_05_Title_Realign": "Une danse de feu et de glace"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "Invitation brûlante",
+                "Burnice_Talent_06_Desc_01_Realign": "Lorsque Bernice touche un ennemi avec <color=#FFFFFF>Attaque spéciale EX : Brassage thermique – Double dose</color>, elle déclenche un effet de <color=#FFFFFF>Postcombustion</color> spécial supplémentaire, qui inflige des <color=#FF5521>DGT de feu</color> équivalents à 60 % de l'ATQ de Bernice. Cet effet peut être déclenché une fois toutes les 0,5 s, et ne consomme pas de <color=#FFFFFF>Chaleur</color>.\nAprès avoir touché un ennemi avec <color=#FFFFFF>Attaque spéciale EX : Brassage thermique – Double dose</color>, tant que la compétence est active, l'effet <color=#FFFFFF>Postcombustion</color> spécial de <color=#FFFFFF>Attaque spéciale EX – Brassage thermique – Double dose</color> et <color=#FF5521>Brûlure</color> ignorent 25 % de la <color=#FF5521>RÉS au feu</color> de la cible.\nLorsque la déflagration d'<color=#FFFFFF>Attaque spéciale EX – Brassage thermique – Double dose</color> touche un ennemi <color=#FF5521>brûlé</color>, la compétence inflige un effet de <color=#FF5521>Brûlure</color> supplémentaire aux DGT équivalents à 1800 % des DGT initiaux. Cet effet peut être déclenché une fois toutes les 20 s pour chaque cible.",
+                "Burnice_Talent_06_Desc_02": "Il semblerait que personne n'ait jamais vu Bernice se mettre véritablement en colère.\n« Fais-moi confiance, t'as pas envie de voir ça. »\n— Une certaine conductrice s'apprêtant à bivouaquer sur le toit de Défenses-d'acier",
+                "Burnice_Talent_06_Desc_01": "Lorsque Bernice touche un ennemi avec <color=#FFFFFF>Attaque spéciale EX : Brassage thermique – Double dose</color>, elle déclenche un effet de <color=#FFFFFF>Postcombustion</color> spécial supplémentaire, qui inflige à la cible des <color=#FF5521>DGT de feu</color> équivalents à 60 % de l'ATQ de Bernice. Cet effet peut être déclenché une fois toutes les 0,5 s, et ne consomme pas de <color=#FFFFFF>Chaleur</color>. Après avoir touché un ennemi avec <color=#FFFFFF>Attaque spéciale EX : Brassage thermique – Double dose</color>, tant que la compétence est active, <color=#FFFFFF>Attaque spéciale EX – Brassage thermique – Double dose</color>, l'effet spécial <color=#FFFFFF>Postcombustion</color> et <color=#FF5521>Brûlure</color> ignorent 25 % de la <color=#FF5521>RÉS au feu</color> de la cible. Lorsque la déflagration d'<color=#FFFFFF>Attaque spéciale EX – Brassage thermique – Double dose</color> touche un ennemi <color=#FF5521>Brûlé</color>, la compétence inflige un effet de <color=#FF5521>Brûlure</color> supplémentaire aux DGT équivalents à 1800 % des DGT initiaux. Cet effet peut être déclenché une fois toutes les 20 s pour chaque cible.",
+                "Burnice_Talent_06_Title_Realign": "Invitation brûlante"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "Piper",
+        "full_name": "Piper Wheel",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "Moment de détente",
+                "Clara_Talent_01_Desc_01_Realign": "Lorsque <color=#FFFFFF>Attaque spéciale : Burn drift</color>, <color=#FFFFFF>Attaque spéciale EX : Sur-régime</color> ou son <color=#FFFFFF>ultime</color> touche un ennemi avec une entaille tournoyante, Piper a 50 % de chances d'obtenir un cumul de <color=#FFFFFF>Puissance moteur</color> supplémentaire. La limite de cumuls de <color=#FFFFFF>Puissance moteur</color> monte à 30.",
+                "Clara_Talent_01_Desc_02": "Un matin comme les autres chez les Fils de Calydon, Piper laisse échapper un bâillement empli de paresse.\n« Bonjour tout le monde...\nOn pourrait avoir une autre journée de détente aujourd'hui ? C'est important de se relaxer de temps en temps, vous ne voudriez pas que ma petite personne se tue à la tâche, quand même ? »",
+                "Clara_Talent_01_Desc_01": "Lorsque <color=#FFFFFF>Attaque spéciale : Burn drift</color>, <color=#FFFFFF>Attaque spéciale EX : Sur-régime</color> ou son <color=#FFFFFF>ultime</color> touche un ennemi avec une entaille tournoyante, Piper a 50 % de chances d'obtenir un cumul de <color=#FFFFFF>Puissance moteur</color> supplémentaire. La limite de cumuls de <color=#FFFFFF>Puissance moteur</color> monte à 30.",
+                "Clara_Talent_01_Title_Realign": "Moment de détente"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "Motivation",
+                "Clara_Talent_02_Desc_01_Realign": "Pendant <color=#FFFFFF>Attaque spéciale : Burn drift</color> et <color=#FFFFFF>Attaque spéciale EX : Sur-régime</color>, Piper se déplace plus rapidement. Lorsque Piper touche un ennemi avec une attaque descendante pendant l'utilisation de l'<color=#FFFFFF>Attaque spéciale : Mille milliards de tonnes</color>, l'<color=#FFFFFF>Attaque spéciale EX : Ultra massif</color> ou l'<color=#FFFFFF>ultime</color>, les <color=#F0D12B>DGT physiques</color> infligés par la compétence augmentent de 10 %. Pour chaque cumul de <color=#FFFFFF>Puissance moteur</color>, cet effet est augmenté de 1 % supplémentaires.",
+                "Clara_Talent_02_Desc_02": "Plus d'efforts maintenant, c'est plus de repos plus tard.\nMais, pour moi, l'idéal, ce serait de n'avoir à faire aucun effort...\n– Piper s'étire, tapote sur le matelas moelleux installé dans son camion et s'allonge dessus.",
+                "Clara_Talent_02_Desc_01": "Pendant <color=#FFFFFF>Attaque spéciale : Burn drift</color> et <color=#FFFFFF>Attaque spéciale EX : Sur-régime</color>, Piper se déplace plus rapidement. Lorsque Piper touche un ennemi avec une attaque descendante pendant l'utilisation de l'<color=#FFFFFF>Attaque spéciale : Mille milliards de tonnes</color>, l'<color=#FFFFFF>Attaque spéciale EX : Ultra massif</color> ou l'<color=#FFFFFF>ultime</color>, les <color=#F0D12B>DGT physiques</color> infligés par la compétence augmentent de 10 %. Pour chaque cumul de <color=#FFFFFF>Puissance moteur</color>, cet effet est augmenté de 1 % supplémentaires.",
+                "Clara_Talent_02_Title_Realign": "Motivation"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "Fana de camions",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Clara_Talent_03_Desc_02": "Piper ne peut pas s'empêcher de parler de camions.\nMême quand elle dort à poings fermés, le moindre rugissement de moteur peut la réveiller en sursaut.\n« 100 chevaux sous le capot, capacité de charge de 5 tonnes... ce doit être la nouvelle camionnette de Trois Portails ! »",
+                "Clara_Talent_03_Title_Realign": "Fana de camions"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "Techniques raffinées",
+                "Clara_Talent_04_Desc_01_Realign": "Lorsqu'un membre de l'escouade inflige une anomalie d'attribut à un ennemi, Piper récupère 20 pts d'énergie. Cet effet peut être déclenché une fois toutes les 30 s.",
+                "Clara_Talent_04_Desc_02": "Un trajet avec Piper n'est pas un voyage de tout repos.\nÀ peine a-t-elle le temps de dire « Accroche-toi bien~ » que son camion file déjà sur le bitume.\nElle vous conduit toujours à destination en moins de deux, mais il faut avoir les nerfs bien accrochés.",
+                "Clara_Talent_04_Desc_01": "Lorsqu'un membre de l'escouade inflige une anomalie d'attribut à un ennemi, Piper récupère 20 pts d'énergie. Cet effet peut être déclenché une fois toutes les 30 s.",
+                "Clara_Talent_04_Title_Realign": "Techniques raffinées"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "Loisirs personnels",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Clara_Talent_05_Desc_02": "Piper semble avoir des loisirs plutôt inattendus.\n« Ce cheval a l'air d'être un battant... Hmm, mais il n'y a pas grand monde qui mise sur lui. Il vaut mieux miser sur le cheval avec la meilleure cote... »\n« Berf... Du Nitro... Je peux encore boire... Donnez-m'en un autre. »",
+                "Clara_Talent_05_Title_Realign": "Loisirs personnels"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "Enthousiasme modéré",
+                "Clara_Talent_06_Desc_01_Realign": "Prolonge la limite de durée d'<color=#FFFFFF>Attaque spéciale EX : Sur-régime</color> de 2 s, ainsi que la durée de <color=#FFFFFF>Puissance moteur</color> de 4 s.",
+                "Clara_Talent_06_Desc_02": "Comme vous devez déjà le savoir, le rêve le plus cher de Piper est d'avoir une vie de détente perpétuelle.\nToutefois, en ce moment, ses yeux habituellement à moitié clos sont étonnamment brillants et vifs.\n« Si c'est pour toi... J'imagine que ma petite personne peut passer la seconde ! »",
+                "Clara_Talent_06_Desc_01": "Prolonge la limite de durée d'<color=#FFFFFF>Attaque spéciale EX : Sur-régime</color> de 2 s, ainsi que la durée de <color=#FFFFFF>Puissance moteur</color> de 4 s.",
+                "Clara_Talent_06_Title_Realign": "Enthousiasme modéré"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "Yanagi",
+        "full_name": "Tsukishiro Yanagi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "Connais-toi toi-même, et connais ton ennemi",
+                "Yanagi_Talent_01_Desc_01_Realign": "Lorsque n'importe quel membre de l'escouade inflige une anomalie d'attribut à un ennemi, Yanagi gagne 1 cumul de <color=#FFFFFF>Clarté</color> pendant 15 s. Cumulable 3 fois. Les déclenchements répétés réinitialisent la durée. Lorsque Yanagi est attaquée, elle consomme 1 cumul de <color=#FFFFFF>Clarté</color> pour devenir invulnérable pendant 1 s. Lorsque Yanagi possède au moins 1 cumul de <color=#FFFFFF>Clarté</color>, son adresse d'anomalie augmente de 80.",
+                "Yanagi_Talent_01_Desc_02": "« Pouvoir clairement détecter les points faibles de l'ennemi, c'est comme obtenir un filet de sécurité supplémentaire... et améliorer ses chances de victoire. »\nYanagi réajuste ses lunettes, toujours aussi impassible, même lorsque la victoire est assurée.",
+                "Yanagi_Talent_01_Desc_01": "Lorsque n'importe quel membre de l'escouade inflige une anomalie d'attribut à un ennemi, Yanagi gagne 1 cumul de <color=#FFFFFF>Clarté</color> pendant 15 s. Cumulable 3 fois. Les déclenchements répétés réinitialisent la durée. Lorsque Yanagi est attaquée, elle consomme 1 cumul de <color=#FFFFFF>Clarté</color> pour devenir invulnérable pendant 1 s. Lorsque Yanagi possède au moins 1 cumul de <color=#FFFFFF>Clarté</color>, son adresse d'anomalie augmente de 80.",
+                "Yanagi_Talent_01_Title_Realign": "Connais-toi toi-même, et connais ton ennemi"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "Adaptabilité exceptionnelle",
+                "Yanagi_Talent_02_Desc_01_Realign": "Lors de l'impulsion rapide de l'<color=#FFFFFF>attaque spéciale EX</color> de Yanagi, l'<color=#2EB6FF>accumulation d'anomalie électrique</color> augmente de 20 %. Maintenez le bouton d'attaque spéciale enfoncé après que l'impulsion rapide touche un ennemi pour consommer 10 pts d'énergie et lancer une autre impulsion. Si l'énergie est insuffisante ou si vous relâchez le bouton, l'attaque enchaîne automatiquement sur une attaque descendante. Lorsque cette dernière touche un ennemi souffrant d'une anomalie et déclenche <color=#FFFFFF>Dysfonctionnement polarisé</color>, le multiplicateur de DGT monte à 20 % de la valeur initiale de l'effet <color=#FFFFFF>Dysfonctionnement</color>. Chaque impulsion supplémentaire augmente ce multiplicateur de 15 %, cet effet d'augmentation de multiplicateur de DGT pouvant être déclenché jusqu'à 2 fois.",
+                "Yanagi_Talent_02_Desc_02": "« Yanagi sait s'adapter à n'importe quel environnement, aussi inhabituel qu'il soit.\nJ'ai plus confiance en elle qu'en moi-même. »\n— Adepte des arts martiaux s'exerçant à la « coupe des feuilles mortes ».",
+                "Yanagi_Talent_02_Desc_01": "Lors de l'impulsion rapide de l'<color=#FFFFFF>attaque spéciale EX</color> de Yanagi, l'<color=#2EB6FF>accumulation d'anomalie électrique</color> augmente de 20 %. Maintenez le bouton d'attaque spéciale enfoncé après que l'impulsion rapide touche un ennemi pour consommer 10 pts d'énergie et lancer une autre impulsion. Si l'énergie est insuffisante ou si vous relâchez le bouton, l'attaque enchaîne automatiquement sur une attaque descendante. Lorsque cette dernière touche un ennemi souffrant d'une anomalie et déclenche <color=#FFFFFF>Dysfonctionnement polarisé</color>, le multiplicateur de DGT monte à 20 % de la valeur initiale de l'effet <color=#FFFFFF>Dysfonctionnement</color>. Chaque impulsion supplémentaire augmente ce multiplicateur de 15 %, cet effet d'augmentation de multiplicateur de DGT pouvant être déclenché jusqu'à 2 fois.",
+                "Yanagi_Talent_02_Title_Realign": "Adaptabilité exceptionnelle"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "Gestion à la Tsukishiro",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Yanagi_Talent_03_Desc_02": "Tout le monde dit que la Section 6 est remplie d'excentriques et de génies, et que Tsukishiro Yanagi est relativement normale par rapport à eux. Mais, c'est justement sa présence qui garantit la cohésion de ce groupe d'excentriques et de génies.",
+                "Yanagi_Talent_03_Title_Realign": "Gestion à la Tsukishiro"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "Stratège de génie",
+                "Yanagi_Talent_04_Desc_01_Realign": "Lorsque Yanagi inflige des DGT d'anomalie d'attribut à un ennemi, il subit également <color=#FFFFFF>Exposé</color> pendant 15 s. Contre les ennemis <color=#FFFFFF>Exposés</color>, le taux de PÉN des attaques augmente de 16 %.",
+                "Yanagi_Talent_04_Desc_02": "Quelle que soit la situation, Tsukishiro Yanagi est capable de compiler rapidement toutes les informations à sa disposition pour prendre la meilleure décision possible.",
+                "Yanagi_Talent_04_Desc_01": "Lorsque Yanagi inflige des DGT d'anomalie d'attribut à un ennemi, il subit également <color=#FFFFFF>Exposé</color> pendant 15 s. Contre les ennemis <color=#FFFFFF>Exposés</color>, le taux de PÉN des attaques augmente de 16 %.",
+                "Yanagi_Talent_04_Title_Realign": "Stratège de génie"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "« Mère de substitution »",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Yanagi_Talent_05_Desc_02": "À l'heure actuelle, Tsukishiro Yanagi est la seule et unique tutrice de Soukaku.\n« Soukaku, cette boule de riz appartient à la cheffe, tu ne peux pas la manger... Roh, et puis zut. Je vais te la réchauffer.\nEn en rachètera une autre pour la cheffe plus tard. »",
+                "Yanagi_Talent_05_Title_Realign": "« Mère de substitution »"
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "Sang inhumain",
+                "Yanagi_Talent_06_Desc_01_Realign": "Après l'impulsion de l'<color=#FFFFFF>attaque spéciale EX</color>, la durée de l'état <color=#FFFFFF>Shinrabanshou</color> est prolongée à 30 s. Lorsque cet état est actif, les DGT de son <color=#FFFFFF>attaque spéciale EX</color> augmentent de 20 %. Le nombre maximum de fois où l'effet de bonus du multiplicateur de DGT supplémentaires de <color=#FFFFFF>Dysfonctionnement polarisé</color> dans <color=#FFFFFF>Adaptabilité exceptionnelle</color> peut être déclenché augmente à 4, et le coût en énergie pour les 4 premières impulsions supplémentaires est divisé par deux.",
+                "Yanagi_Talent_06_Desc_02": "Dans les veines de Tsukishiro Yanagi, coule un sang qui n'est pas tout à fait le sien. Ce sang l'a un jour ramenée à la vie, alors qu'elle était dans le plus grand désespoir, et lui a accordé du même temps certains pouvoirs spéciaux.\n« Mais, comme tout le monde sait... Ce qui ne nous appartient pas... a toujours un prix. »",
+                "Yanagi_Talent_06_Desc_01": "Après l'impulsion de l'<color=#FFFFFF>attaque spéciale EX</color>, la durée de l'état <color=#FFFFFF>Shinrabanshou</color> est prolongée à 30 s. Lorsque cet état est actif, les DGT de son <color=#FFFFFF>attaque spéciale EX</color> augmentent de 20 %. Le nombre maximum de fois où l'effet de bonus du multiplicateur de DGT supplémentaires de <color=#FFFFFF>Dysfonctionnement polarisé</color> dans <color=#FFFFFF>Adaptabilité exceptionnelle</color> peut être déclenché augmente à 4, et le coût en énergie pour les 4 premières impulsions supplémentaires est divisé par deux.",
+                "Yanagi_Talent_06_Title_Realign": "Sang inhumain"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "アンビー",
+        "full_name": "アンビー・デマラ",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "急速充電モード",
+                "Anbi_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃』</color>の4段目の斬撃が敵に命中した時、\nアンビーのエネルギー獲得効率が12%アップする、継続時間30秒。",
+                "Anbi_Talent_01_Desc_02": "「1分間の急速充電で、30分戦えます！」\n——そう断言したのは、武器に拡張機能を追加した専門家だ。\nそして実際、彼の言ったことは正しかった。",
+                "Anbi_Talent_01_Desc_01": "<color=#FFFFFF>『通常攻撃』</color>の4段目の斬撃が敵に命中した時、アンビーのエネルギー獲得効率が12%アップする、継続時間30秒。",
+                "Anbi_Talent_01_Title_Realign": "急速充電モード"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "精密放電",
+                "Anbi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃：落雷』</color>がブレイク状態の敵に命中した時、スキルの与ダメージが30%アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>がブレイク状態ではない敵に命中した時、スキルの与えるブレイク値が10%アップする。",
+                "Anbi_Talent_02_Desc_02": "「感電すると、失神する」\n轟音を立てて倒れる敵を眺めながら、少女は淡々と言った——\n「映画で見た通りね」",
+                "Anbi_Talent_02_Desc_01": "<color=#FFFFFF>『通常攻撃：落雷』</color>がブレイク状態の敵に命中した時、スキルの与ダメージが30%アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>がブレイク状態ではない敵に命中した時、スキルの与えるブレイク値が10%アップする。",
+                "Anbi_Talent_02_Title_Realign": "精密放電"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "訓練の成果",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Anbi_Talent_03_Desc_02": "駆け、刀を振るう、雷閃の如く。\n少女はアマチュアではない。ホロウ探索のプロである。",
+                "Anbi_Talent_03_Title_Realign": "訓練の成果"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "電荷伝導",
+                "Anbi_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、\n控えの電気属性メンバーのエネルギーを3Pt回復する。\nアンビーのエネルギー獲得効率12%につき、回復量が追加で2Ptアップする、最大6Ptアップできる。",
+                "Anbi_Talent_04_Desc_02": "単独での戦闘は長期的な解決にならない。\n熟練したホロウレイダーは戦いの最中であっても、\nチームメイトにチャンスを作る。",
+                "Anbi_Talent_04_Desc_01": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、控えの電気属性メンバーのエネルギーを3Pt回復する。\nアンビーのエネルギー獲得効率12%につき、回復量が追加で2Ptアップする、最大6Ptアップできる。",
+                "Anbi_Talent_04_Title_Realign": "電荷伝導"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "ストリートの経験",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Anbi_Talent_05_Desc_02": "邪兎屋の仕事は、メンタルを鍛えるだけではない。\n身体能力も（否応なしに）向上する。",
+                "Anbi_Talent_05_Title_Realign": "ストリートの経験"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "フィールドチャージ",
+                "Anbi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、アンビーはパワーを8重獲得する（最大8重）。\n<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中した時、\nパワーを1重消費することで、その攻撃の与ダメージが45%アップする。",
+                "Anbi_Talent_06_Desc_02": "放電の火花が指先で弾ける。\n顔を上げた少女の瞳には、その若さに不釣り合いな強い意志が宿っていた。\nいつか彼女は、この刹那の雷光さえ支配するだろう。",
+                "Anbi_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、アンビーはパワーを8重獲得する（最大8重）。\n<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中した時、パワーを1重消費することで、その攻撃の与ダメージが45%アップする。",
+                "Anbi_Talent_06_Title_Realign": "フィールドチャージ"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "猫又",
+        "full_name": "猫宮 又奈",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "鳥絶技巧",
+                "Tsubaki_Talent_01_Desc_01_Realign": "敵を背後から攻撃し、なおかつ命中した時、\n猫又がターゲットの<color=#F0D12B>物理属性ダメージ耐性</color>を16%無視する。\n敵がブレイク状態にある時、猫又がその敵に行うすべての攻撃が背後からの攻撃とみなされる。",
+                "Tsubaki_Talent_01_Desc_02": "小柄な猫又に腕力はない。代わりに相手の弱点を見抜く目と、そこを精確に攻撃する敏捷性を持っている。",
+                "Tsubaki_Talent_01_Desc_01": "敵を背後から攻撃し、なおかつ命中した時、猫又がターゲットの<color=#F0D12B>物理属性ダメージ耐性</color>を16%無視する。\n敵がブレイク状態にある時、猫又がその敵に行うすべての攻撃が背後からの攻撃とみなされる。",
+                "Tsubaki_Talent_01_Title_Realign": "鳥絶技巧"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "ねことねずみ",
+                "Tsubaki_Talent_02_Desc_01_Realign": "フィールド上の敵が1体のみ、かつ自身が出場している場合、\n猫又のエネルギー獲得効率が25%アップする。",
+                "Tsubaki_Talent_02_Desc_02": "猫には獲物を弄ぶ習性がある。\nフィールド上の「ねずみ」が1匹だけになるとき、彼女の「遊び」が始まる。",
+                "Tsubaki_Talent_02_Desc_01": "フィールド上の敵が1体のみ、かつ自身が出場している場合、猫又のエネルギー獲得効率が25%アップする。",
+                "Tsubaki_Talent_02_Title_Realign": "ねことねずみ"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "好奇心は左のしっぽ",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Tsubaki_Talent_03_Desc_02": "旧文明の伝説によると、猫のしっぽは一本がそれぞれ一つの命を表しており、\n長きに渡る生存の知恵がそこに蓄えられているらしい。\n…それは嘘でも、猫又がストリートで培ってきたサバイバルの経験は本物だ。",
+                "Tsubaki_Talent_03_Title_Realign": "好奇心は左のしっぽ"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "爪研ぎ",
+                "Tsubaki_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、猫又の会心率が7%アップする。\n最大2重まで重ね掛け可能、継続時間15秒、継続時間は重ごとに独立してカウントされる。",
+                "Tsubaki_Talent_04_Desc_02": "「もっともっと！ぜ～んぶたいらげてみせるぞ！」\n彼女は目を輝かせながら、鋭い爪をペロリと舐めた。",
+                "Tsubaki_Talent_04_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、猫又の会心率が7%アップする。最大2重まで重ね掛け可能、継続時間15秒、継続時間は重ごとに独立してカウントされる。",
+                "Tsubaki_Talent_04_Title_Realign": "爪研ぎ"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "幸運は右のしっぽ",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Tsubaki_Talent_05_Desc_02": "旧文明の伝説によると、猫のしっぽは一本がそれぞれ一つの命を表しており、\n長きに渡る生存の知恵がそこに蓄えられているらしい。\n…時に、猫又も気になることがある\n——もし、幸運にも長生きすることができたら、新しいしっぽが生えてくるのだろうか？——",
+                "Tsubaki_Talent_05_Title_Realign": "幸運は右のしっぽ"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "捕食者の血",
+                "Tsubaki_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、猫又の会心ダメージが18%アップする、\n最大3重まで重ね掛け可能。接敵状態が解除されると効果が終了する。\n猫又が敵を倒した時、この効果が直接重数の上限まで重ね掛けされる。",
+                "Tsubaki_Talent_06_Desc_02": "「ネコのシリオンにとって、\n攻撃行為から得られるポジティブなフィードバックは、\n彼らの種に潜在する破壊衝動を呼び覚ましてしまう可能性が極めて高い。\nしかし幸いにも、このような衝動は永続するものではない…」\n——古びた『ネコのシリオンについての不完全な研究ノート』より",
+                "Tsubaki_Talent_06_Desc_01": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、猫又の会心ダメージが18%アップする、最大3重まで重ね掛け可能。接敵状態が解除されると効果が終了する。猫又が敵を倒した時、この効果が直接重数の上限まで重ね掛けされる。",
+                "Tsubaki_Talent_06_Title_Realign": "捕食者の血"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "ニコ",
+        "full_name": "ニコ・デマラ",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "加圧式強装弾",
+                "Nostradamus_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>による与ダメージおよび状態異常蓄積値が16%アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、0.1秒チャージするごとに、\nターゲット付近に生成する力場の継続時間が0.15秒増える。",
+                "Nostradamus_Talent_01_Desc_02": "「強化してあげたわよ！みんな、やっちゃいなさい！」\n「…あ、あたし？逃げるわけないでしょ！ちょっと休みたいの！」",
+                "Nostradamus_Talent_01_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>による与ダメージおよび状態異常蓄積値が16%アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、0.1秒チャージするごとに、ターゲット付近に生成する力場の継続時間が0.15秒増える。",
+                "Nostradamus_Talent_01_Title_Realign": "加圧式強装弾"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "エネルギー収集装置",
+                "Nostradamus_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『コアパッシブ：からくり箱』</color>のデバフ効果が発動した時、\nニコはエネルギーを5Pt回復する、15秒に1回のみ発動可能。",
+                "Nostradamus_Talent_02_Desc_02": "「プラス1秒を見くびらないことね。あたしがその1秒でどれだけのことができると思う？」\n「…ってワケで、10%の追加料金よ！文句ある？」",
+                "Nostradamus_Talent_02_Desc_01": "<color=#FFFFFF>『コアパッシブ：からくり箱』</color>のデバフ効果が発動した時、ニコはエネルギーを5Pt回復する、15秒に1回のみ発動可能。",
+                "Nostradamus_Talent_02_Title_Realign": "エネルギー収集装置"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "邪兎の知恵",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Nostradamus_Talent_03_Desc_02": "卓越した力にも、豊かな財にも恵まれなかったニコ。\nそのよく回る頭ひとつで、邪兎屋を今日まで切り盛りしてきた。",
+                "Nostradamus_Talent_03_Title_Realign": "邪兎の知恵"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "領域拡大",
+                "Nostradamus_Talent_04_Desc_01_Realign": "ニコが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>、または<color=#FFFFFF>『終結スキル』</color>を発動した時、\nターゲット付近に生成する力場の攻撃範囲が半径1.5メートル増える。",
+                "Nostradamus_Talent_04_Desc_02": "「いい？ここも、あそこも、ゆくゆくは全部邪兎屋の勢力下に置かれるんだから！」\n「…え、何年かかるかって？」\n「うーん…今の収入状況を基に計算すると、ざっと…10000年くらいかしら！」",
+                "Nostradamus_Talent_04_Desc_01": "ニコが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>、または<color=#FFFFFF>『終結スキル』</color>を発動した時、ターゲット付近に生成する力場の攻撃範囲が半径1.5メートル増える。",
+                "Nostradamus_Talent_04_Title_Realign": "領域拡大"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "業界の寵児",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Nostradamus_Talent_05_Desc_02": "依然として業界には敵も多いが、ニコは部下たちを率いて、九死に一生の窮地を何度も生き延びてきた。\n邪兎屋の名声と経験は、着実に高まってきている。",
+                "Nostradamus_Talent_05_Title_Realign": "業界の寵児"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "侵蝕力場",
+                "Nostradamus_Talent_06_Desc_01_Realign": "力場が敵にダメージを与えた時、該当ターゲットに対してチーム全体の会心率が\n1.5%アップする、最大10重まで重ね掛け可能、継続時間12秒。\n継続時間は重ごとに独立してカウントされる。",
+                "Nostradamus_Talent_06_Desc_02": "より高度な仕掛けの弾薬が使われ、\n装薬量も濃縮エーテル物質の含有量も増加している。\nより大ダメージ、より長時間継続…そして、より高価。",
+                "Nostradamus_Talent_06_Desc_01": "力場が敵にダメージを与えた時、該当ターゲットに対してチーム全体の会心率が1.5%アップする、最大10重まで重ね掛け可能、継続時間12秒。継続時間は重ごとに独立してカウントされる。",
+                "Nostradamus_Talent_06_Title_Realign": "侵蝕力場"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "ビリー",
+        "full_name": "ビリー・キッド",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "堂々登場",
+                "Billy_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『ダッシュ攻撃』</color>または<color=#FFFFFF>『回避反撃』</color>が敵に命中した時、\nビリーは追加でエネルギーを2.7Pt回復する、5秒に1回のみ発動可能。",
+                "Billy_Talent_01_Desc_02": "「お前ら、悪役にしては大人しすぎねぇか？」\n「主人公に倒されるためだけの的みてぇだぜ！」",
+                "Billy_Talent_01_Desc_01": "<color=#FFFFFF>『ダッシュ攻撃』</color>または<color=#FFFFFF>『回避反撃』</color>が敵に命中した時、ビリーは追加でエネルギーを2.7Pt回復する、5秒に1回のみ発動可能。",
+                "Billy_Talent_01_Title_Realign": "堂々登場"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "ローミング・ガンスリンガー",
+                "Billy_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『回避反撃』</color>の与ダメージが25%アップする。\n<color=#FFFFFF>『通常攻撃』</color>中、身躱し射撃が回避アクションと見なされ、スキル発動中に無敵効果を得る。また、<color=#FFFFFF>『極限回避』</color>を発動できる。\n身躱し射撃で<color=#FFFFFF>『極限回避』</color>を発動した後、<color=#FFFFFF>『回避反撃』</color>が自動で発動される。",
+                "Billy_Talent_02_Desc_02": "「撃ち逃げ？スターライトナイトはそんな卑怯なことはしない。あれは戦略的ゲリラ撃ちだ！」\n——輝けるスターライト・交流掲示板の会員「ラブ・愛しのモニカ様」による書き込み。",
+                "Billy_Talent_02_Desc_01": "<color=#FFFFFF>『回避反撃』</color>の与ダメージが25%アップする。\n<color=#FFFFFF>『通常攻撃』</color>中、身躱し射撃が回避アクションと見なされ、スキル発動中に無敵効果を得る。また、<color=#FFFFFF>『極限回避』</color>を発動できる。\n身躱し射撃が<color=#FFFFFF>『極限回避』</color>を発動した場合、<color=#FFFFFF>『回避反撃』</color>が自動で発動される。",
+                "Billy_Talent_02_Title_Realign": "ローミング・ガンスリンガー"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "スターライトナイトの教え",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Billy_Talent_03_Desc_02": "決して鍛錬を怠らないこと、決して歩みを止めないこと！\nこれはスターライトナイトの掲げる精神である。\nビリーは大真面目にこれを信じ、そして貫いている。",
+                "Billy_Talent_03_Title_Realign": "スターライトナイトの\n教え"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "スターライト・バリスティクス",
+                "Billy_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、スキルの会心率がターゲットとの\n距離に応じてアップする。ビリーとターゲットの距離が近いほど、\n会心率アップ効果が高くなる、最大32%アップできる。",
+                "Billy_Talent_04_Desc_02": "ビリー特製の炸裂実包。\nビリーとしては、単に発砲を派手に演出したかっただけなのだが、\nなぜか近距離戦において驚異的な威力を誇る。",
+                "Billy_Talent_04_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、スキルの会心率がターゲットとの距離に応じてアップする。ビリーとターゲットの距離が近いほど、会心率アップ効果が高くなる、最大32%アップできる。",
+                "Billy_Talent_04_Title_Realign": "スターライト・バリスティクス"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "失われた技術の構造体",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Billy_Talent_05_Desc_02": "未知の精密部品と類を見ない構造設計が、\nビリーに他の機械人を遙かに凌駕するパフォーマンスと…\nメンテナンスコストをもたらす。",
+                "Billy_Talent_05_Title_Realign": "失われた技術の構造体"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "スターライト・英雄的瞬間",
+                "Billy_Talent_06_Desc_01_Realign": "敵に累計10回攻撃を命中させた時、または<color=#FFFFFF>『極限回避』</color>を発動した時、\nビリーの与ダメージが6%アップする、最大5重まで重ね掛け可能。\n敵にノックバックされる、または吹き飛ばされた場合、バフ効果がリセットされる。",
+                "Billy_Talent_06_Desc_02": "「ヒュー、ノッてきたぜ！どいてくれアンビー、こっからは俺のステージだ！」\n「…っと、そうだ！アンビー、スターライトナイトのオープニングテーマを流してくれないか？なぁアンビー！？」\n——邪兎屋社内「禁句ベストテン」ノミネート候補、アンビーより提案。",
+                "Billy_Talent_06_Desc_01": "敵に累計10回攻撃を命中させた時、または<color=#FFFFFF>『極限回避』</color>を発動した時、ビリーの与ダメージが6%アップする、最大5重まで重ね掛け可能。敵にノックバックされる、または吹き飛ばされた場合、バフ効果がリセットされる。",
+                "Billy_Talent_06_Title_Realign": "スターライト・英雄的\n瞬間"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "クレタ",
+        "full_name": "クレタ・ベロボーグ",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "ハンマリングリズム",
+                "OokumaMari_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を、\n<color=#FFFFFF>『通常攻撃』</color>2段目、4段目、または強化された<color=#FFFFFF>『通常攻撃』</color>の後に繋げると、\nスキルの与えるブレイク値が15%アップする。",
+                "OokumaMari_Talent_01_Desc_02": "気性の荒さはただの表面に過ぎない。実は、クレタはとても繊細な心の持ち主だ。\n例えば、いつハンマーを振れば、相手を一番痛く叩けるか、彼女はよく知っている。",
+                "OokumaMari_Talent_01_Desc_01": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を、<color=#FFFFFF>『通常攻撃』</color>2段目、4段目、または強化された<color=#FFFFFF>『通常攻撃』</color>の後に繋げると、スキルの与えるブレイク値が15%アップする。",
+                "OokumaMari_Talent_01_Title_Realign": "ハンマリングリズム"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "運動エネルギー回生",
+                "OokumaMari_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、\nクレタはエネルギーを60Pt回復する、45秒に1回のみ発動可能。",
+                "OokumaMari_Talent_02_Desc_02": "クレタにとって、ハンマーの攻撃には独特のリズムがある。\nタンバリンを叩くのと同じように、一撃ごとに力を蓄え、加速しながらパワフルな次の一撃に繋げていく。\nそれを何回繰り返せるかは、目の前にある「おもちゃ」の耐久力次第である。",
+                "OokumaMari_Talent_02_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、クレタはエネルギーを60Pt回復する、45秒に1回のみ発動可能。",
+                "OokumaMari_Talent_02_Title_Realign": "運動エネルギー回生"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "「あたしを怒らせるな」",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "OokumaMari_Talent_03_Desc_02": "クレタの攻撃が勢いに乗ってきた時、彼女の「おもちゃ」となる者は、\n大人しくハンマーで殴られておくのが賢明である。\n——たとえ反抗したところで、徒労に終わるか、\nもっとひどい目に遭うだけだからだ。",
+                "OokumaMari_Talent_03_Title_Realign": "「あたしを怒らせるな」"
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "溶炉の余熱",
+                "OokumaMari_Talent_04_Desc_01_Realign": "<color=#FFFFFF>「溶炉昇温」</color>を消費して強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、\nクレタはパワーを1重獲得する（最大2重）。\n<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、すべてのパワーを消費し、\nパワー1重につき、その攻撃の与ダメージが18%アップする。",
+                "OokumaMari_Talent_04_Desc_02": "焼けつくようなハンマーの一振りで周囲の温度を爆上げし、\nクレタは戦闘状態に入った。\n今の彼女はエーテル爆薬よりも燃えやすく、そして爆ぜやすい。",
+                "OokumaMari_Talent_04_Desc_01": "<color=#FFFFFF>「溶炉昇温」</color>を消費して強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、クレタはパワーを1重獲得する（最大2重）。\n<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、すべてのパワーを消費し、パワー1重につき、その攻撃の与ダメージが18%アップする。",
+                "OokumaMari_Talent_04_Title_Realign": "溶炉の余熱"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "「あたしを見くびるな！」",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "OokumaMari_Talent_05_Desc_02": "リーダーである自分の若さのせいで、白祇重工が外の人間にナメられるのではないか…とクレタは非常に気にしている。故にその若さを補うべく、彼女は常に人知れず、懸命なトレーニングに励んでいる。",
+                "OokumaMari_Talent_05_Title_Realign": "「あたしを\n見くびるな！」"
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "飽和爆発",
+                "OokumaMari_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>による爆発が敵に命中した時、\nクレタの攻撃力360%分のダメージを追加で与える。",
+                "OokumaMari_Talent_06_Desc_02": "クレタの嫌いな人間は、2つのタイプに分けられる。\nバカと、救いようのないバカである。\n幸い、白祇重工には強烈なエーテル爆薬がいくらでもある。\n余った分は、これらのバカ共をわからせるのにもってこいだ。",
+                "OokumaMari_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>による爆発が敵に命中した時、クレタの攻撃力360%分のダメージを追加で与える。",
+                "OokumaMari_Talent_06_Title_Realign": "飽和爆発"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "アンドー",
+        "full_name": "アンドー・イワノフ",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "ウォーミングアップ",
+                "Anton_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『ドリル攻撃』</color>が敵に命中すると、追加でエネルギーを回復する。\n1回の攻撃で、この効果はアンドーのエネルギーを最大5Pt回復できる。",
+                "Anton_Talent_01_Desc_02": "「目が覚めたか？さぁ回るぞ、兄弟！」\n「オラてめぇら、朝の体操の時間だ！ついて来い！」",
+                "Anton_Talent_01_Desc_01": "<color=#FFFFFF>『ドリル攻撃』</color>が敵に命中すると、追加でエネルギーを回復する。\n1回の攻撃で、この効果はアンドーのエネルギーを最大5Pt回復できる。",
+                "Anton_Talent_01_Title_Realign": "ウォーミングアップ"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "気焔万丈",
+                "Anton_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>を発動して<color=#FFFFFF>『爆発状態』</color>に入った時、アンドーはHP上限7.5%分のシールドを生成する。<color=#FFFFFF>『爆発状態』</color>で接敵状態に入るか、キャラ切替で出場するとシールド効果はリセットされる、15秒に1回のみ発動可能。<color=#FFFFFF>『爆発状態』</color>が終わると、シールド効果が終了する。",
+                "Anton_Talent_02_Desc_02": "長期に渡り厳しい訓練を重ねた末、激しい運動の最中に、己の限界を超えたパフォーマンスを発揮できる者が現れる。\nその状態は俗に「ゾーン」と呼ばれている。\nさあ！体を動かし、「ゾーン」に入る準備はできたかな？\n——ニトロフューエル提供番組「おはよう、熱血サラリーマン！」より",
+                "Anton_Talent_02_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>を発動して<color=#FFFFFF>『爆発状態』</color>に入った時、アンドーはHP上限7.5%分のシールドを生成する。<color=#FFFFFF>『爆発状態』</color>で接敵状態に入るか、キャラ切替で出場するとシールド効果はリセットされる、15秒に1回のみ発動可能。<color=#FFFFFF>『爆発状態』</color>が終わると、シールド効果が終了する。",
+                "Anton_Talent_02_Title_Realign": "気焔万丈"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "ローテーション訓練",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Anton_Talent_03_Desc_02": "どんなことでも少しはできる、というのは平凡としか言いようがない。\nしかし複雑で変化しやすいホロウの現場において、スキルがひとつ増えることは、\n窮地を打開する可能性がひとつ増えることを意味する。",
+                "Anton_Talent_03_Title_Realign": "ローテーション訓練"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "共に燃えようか！",
+                "Anton_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、\nチーム全体の会心率が10%アップする、継続時間12秒。",
+                "Anton_Talent_04_Desc_02": "「いつもの訓練を思い出せオラ！行くぞ！」\nアンドーが本気を出すと、皆の動きにもキレが出る。\n彼のペースについて行けなければ、罰として朝の体操を居残りでやるハメになるからだ。",
+                "Anton_Talent_04_Desc_01": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、チーム全体の会心率が10%アップする、継続時間12秒。",
+                "Anton_Talent_04_Title_Realign": "共に燃えようか！"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "フルスタック・エキスパート",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Anton_Talent_05_Desc_02": "どんなことでも少しはできる、というのは平凡としか言いようがない。\nだが、もし「少しはできる」から「とても得意」になってやるという覚悟があるなら、\nそれはオールマイティになれるということだ！",
+                "Anton_Talent_05_Title_Realign": "フルスタック・エキスパート"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "極限突破",
+                "Anton_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『杭打ち攻撃』</color>が会心を出すと、<color=#FFFFFF>『通常攻撃：熱血準備体操（爆発状態）』</color>および<color=#FFFFFF>『回避反撃：オーバーロード・ドリルブレイク（爆発状態）』</color>の与ダメージが4%アップする、最大6重まで重ね掛け可能、継続時間30秒。重複して発動すると継続時間が更新される。",
+                "Anton_Talent_06_Desc_02": "「おう兄弟！お前も燃えたいか！」\nアンドーが限界を突破しようとするたび、\n彼の「兄弟」は驚異的な速さで回転し、そのモーター音で意志に応える。",
+                "Anton_Talent_06_Desc_01": "<color=#FFFFFF>『杭打ち攻撃』</color>が会心を出すと、<color=#FFFFFF>『通常攻撃：熱血準備体操（爆発状態）』</color>および<color=#FFFFFF>『回避反撃：オーバーロード・ドリルブレイク（爆発状態）』</color>の与ダメージが4%アップする、最大6重まで重ね掛け可能、継続時間30秒。重複して発動すると継続時間が更新される。",
+                "Anton_Talent_06_Title_Realign": "極限突破"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "ベン",
+        "full_name": "ベン・ビガー",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "反作用力",
+                "Ben_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動し、敵の攻撃をガードした場合、\n攻撃を仕掛けた敵の与ダメージが30%ダウンする、継続時間15秒。",
+                "Ben_Talent_01_Desc_02": "「力は相互に作用する。つまり、きみが俺にわざわざ正面からぶつかると…」\n「どうなると思う？計算してみるといい。」",
+                "Ben_Talent_01_Desc_01": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動し、敵の攻撃をガードした場合、攻撃を仕掛けた敵の与ダメージが30%ダウンする、継続時間15秒。",
+                "Ben_Talent_01_Title_Realign": "反作用力"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "守を以て攻と為す",
+                "Ben_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動し、ガード反撃を成功させた場合、\nベンの防御力300%分の追加ダメージを与える。",
+                "Ben_Talent_02_Desc_02": "他のクマのシリオンたちと異なり、ベンのファイトスタイルは非常に辛抱強い。\n防御を疎かにしなければ、敵はきっといつか隙を見せる…そう彼は信じているからだ。",
+                "Ben_Talent_02_Desc_01": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動し、ガード反撃を成功させた場合、ベンの防御力300%分の追加ダメージを与える。",
+                "Ben_Talent_02_Title_Realign": "守を以て攻と為す"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "緻密な予算計画",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Ben_Talent_03_Desc_02": "財務責任者たるもの、緻密な予算計画を立て、\n利用可能なあらゆるリソースを使い、みなと自分を強くすることを学ぶ必要がある。",
+                "Ben_Talent_03_Title_Realign": "緻密な予算計画"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "臨機応変",
+                "Ben_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>の最中に、無敵効果で敵の攻撃を防いだ場合、\nその後の反撃の与ダメージが30%アップする。",
+                "Ben_Talent_04_Desc_02": "職業柄、ベンはいかなる時も、状況に応じて臨機応変に対応策を調整する。\n帳尻合わせであれ戦闘であれ、最少の経費で最大の効果を挙げるよう心掛けている。",
+                "Ben_Talent_04_Desc_01": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>の最中に、無敵効果で敵の攻撃を防いだ場合、その後の反撃の与ダメージが30%アップする。",
+                "Ben_Talent_04_Title_Realign": "臨機応変"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "余すところなく",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Ben_Talent_05_Desc_02": "ベンの鋭い眼光は、財務諸表の些細な間違いも、\n彼自身の戦い方におけるミスも、何一つ見逃しはしない。\n間違いを正すごとに、彼はどんどん強くなる。",
+                "Ben_Talent_05_Title_Realign": "余すところなく"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "野性の闘志",
+                "Ben_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>の最中に攻撃または強力な追加打撃を行うと、<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>の与えるブレイク値が20%アップする、継続時間12秒。",
+                "Ben_Talent_06_Desc_02": "クマのシリオンはイヌの場合と異なり、食べ物を与えて宥める方法は通用しない。\n彼らの怒りが爆発した時、我々に出来るのはなるべく早く、できるだけ遠くへ逃げることのみだろう。\n——絶版本『近隣トラブル防止！シリオンと付き合う100の方法』より",
+                "Ben_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>の最中に攻撃または強力な追加打撃を行うと、<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>の与えるブレイク値が20%アップする、継続時間12秒。",
+                "Ben_Talent_06_Title_Realign": "野性の闘志"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "グレース",
+        "full_name": "グレース・ハワード",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "リチャージチャンバー",
+                "Lisa_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃』</color>の4段目が敵に命中するたびに、チーム全体がエネルギーを0.25Pt回復する。\n1回の攻撃で、この効果はチーム全体のエネルギーを最大2Pt回復できる。",
+                "Lisa_Talent_01_Desc_02": "効率はエンジニアリングの命である。\nそれはグレースのガンの「薬室」で、ドクンドクンと鼓動している。",
+                "Lisa_Talent_01_Desc_01": "<color=#FFFFFF>『通常攻撃』</color>の4段目が敵に命中するたびに、チーム全体がエネルギーを0.25Pt回復する。\n1回の攻撃で、この効果はチーム全体のエネルギーを最大2Pt回復できる。",
+                "Lisa_Talent_01_Title_Realign": "リチャージチャンバー"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "絶縁破壊",
+                "Lisa_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>などのスキルにおいて、\n投げた手榴弾が敵に命中した時、ターゲットの<color=#2EB6FF>電気属性ダメージ耐性</color>が8.5%ダウンし、\n<color=#2EB6FF>電気属性の状態異常蓄積耐性</color>が8.5%ダウンする、継続時間8秒。",
+                "Lisa_Talent_02_Desc_02": "グレースは複雑な機械構造を「解剖」することを何よりも愛している——たとえ戦闘の最中であっても。\nそのごくわずかな綻びさえ徹底的に暴き出されたとき、「解剖」された側は何を思うのだろう。",
+                "Lisa_Talent_02_Desc_01": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>などのスキルにおいて、投げた手榴弾が敵に命中した時、ターゲットの<color=#2EB6FF>電気属性ダメージ耐性</color>が8.5%ダウンし、<color=#2EB6FF>電気属性の状態異常蓄積耐性</color>が8.5%ダウンする、継続時間8秒。",
+                "Lisa_Talent_02_Title_Realign": "絶縁破壊"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "首席メカニック",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Lisa_Talent_03_Desc_02": "グレースは自ら『白祇重工安全施工マニュアル』の作成に関わった。\nそして、「工事現場に爆発性の危険物を持ち込まない」社内規定に違反した回数が最も多い従業員でもある。",
+                "Lisa_Talent_03_Title_Realign": "首席メカニック"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "電爆キャパシタ",
+                "Lisa_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、グレースはパワーを6重獲得する（最大6重）。\n<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中した時、パワーを1重消費することで、\nその攻撃のエネルギー獲得効率が20%アップする。",
+                "Lisa_Talent_04_Desc_02": "アンドーは疑っている——グレースが「電磁パルス回収モジュール」と呼ぶ部品の内部では、\n一匹のエーテルハムスターが日夜「回し車発電」に勤しんでいるのではないか、と。\n「なあ、オレの兄弟にもひとつ積んでくれねえか？」",
+                "Lisa_Talent_04_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、グレースはパワーを6重獲得する（最大6重）。<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中した時、パワーを1重消費することで、その攻撃のエネルギー獲得効率が20%アップする。",
+                "Lisa_Talent_04_Title_Realign": "電爆キャパシタ"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "「冷たい鉄の魔女」",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Lisa_Talent_05_Desc_02": "「冷たい鉄の魔女」は、機械で出来ているものなら何でも手懐けられる——\n少なくとも、彼女にこの異名を付けた匿名のファンはそう信じている。",
+                "Lisa_Talent_05_Title_Realign": "「冷たい鉄の魔女」"
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "起爆トリガー",
+                "Lisa_Talent_06_Desc_01_Realign": "全ての<color=#FFFFFF>「電力」</color>を消費して<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、\nスキルの効果を強化し、手榴弾を追加で1個投げる。\nまた、各手榴弾の与えるダメージが本来の200%になる。",
+                "Lisa_Talent_06_Desc_02": "白祇重工の従業員には、平均して摂氏98度の血液が流れている。\nグレースの役回りは、そんな彼らが沸点に達するのを阻止する冷却弁だ。\nグレースの堪忍袋の緒が切れた時、誰もがみな暗黙のうちに悟る。今が耳を塞ぐべき時なのだと。",
+                "Lisa_Talent_06_Desc_01": "全ての<color=#FFFFFF>「電力」</color>を消費して<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、スキルの効果を強化し、手榴弾を追加で1個投げる。また、各手榴弾の与えるダメージが本来の200%になる。",
+                "Lisa_Talent_06_Title_Realign": "起爆トリガー"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "カリン",
+        "full_name": "カリン・ウィクス",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "開放性損傷",
+                "Corin_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、\nカリンがターゲットに与えるダメージが12%アップする、継続時間15秒。",
+                "Corin_Talent_01_Desc_02": "「周囲の雑事は気にせず、今行っている仕事に心のすべてを集中しなさい…これが、お嬢様の教えです」\n「練習を重ね、カリンもようやく出来るようになりました！」\n「…お嬢様…見てくださっていますか…？」",
+                "Corin_Talent_01_Desc_01": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、カリンがターゲットに与えるダメージが12%アップする、継続時間15秒。",
+                "Corin_Talent_01_Title_Realign": "開放性損傷"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "裂傷反応",
+                "Corin_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、\nターゲットの<color=#F0D12B>物理属性ダメージ耐性</color>が0.5%ダウンする。\n最大20重まで重ね掛け可能、継続時間5秒。継続時間は重ごとに独立してカウントされる。",
+                "Corin_Talent_02_Desc_02": "「ごめんなさい、エーテリアス様！」\n「カリンは、自分の任務を果たさなければいけないのです…本当に申し訳ありません！」\n少女は精一杯の誠意を表情に浮かべ、目の前の化け物に心から謝罪した。\n——物騒なチェーンソーを振り回し、相手を切り刻みながら。",
+                "Corin_Talent_02_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、ターゲットの<color=#F0D12B>物理属性ダメージ耐性</color>が0.5%ダウンする、最大20重まで重ね掛け可能、継続時間5秒。継続時間は重ごとに独立してカウントされる。",
+                "Corin_Talent_02_Title_Realign": "裂傷反応"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "見習いメイド",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Corin_Talent_03_Desc_02": "「い、一人前のメイドになれるよう…カリン、頑張ります！」\n——チェーンソーを手にしたカリンはそう言うと、エーテリアスに向かって駆けて行った。",
+                "Corin_Talent_03_Title_Realign": "見習いメイド"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "戦場ではお傍に",
+                "Corin_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『連携スキル』</color>を発動した場合、\nカリンがエネルギーを7.2Pt回復する、16秒に1回のみ発動可能。",
+                "Corin_Talent_04_Desc_02": "真面目なメイドは、何事にも一意専心に取り組む。\nもちろん、戦場で敵に立ち向かう時も例外ではない。",
+                "Corin_Talent_04_Desc_01": "<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『連携スキル』</color>を発動した場合、カリンがエネルギーを7.2Pt回復する、16秒に1回のみ発動可能。",
+                "Corin_Talent_04_Title_Realign": "戦場ではお傍に"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "特殊勤務メイド",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Corin_Talent_05_Desc_02": "「うぅ…す、すみません…カリンは不器用で、ものを均等に切ることさえできません…」\n——足元に散らばるエーテリアスの残骸を見ながら、カリンはしょんぼりとした顔で言った。",
+                "Corin_Talent_05_Title_Realign": "特殊勤務メイド"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "塵も積もれば",
+                "Corin_Talent_06_Desc_01_Realign": "持続斬撃が敵に命中した時、カリンはパワーを1重獲得する（最大40重）。\n<color=#FFFFFF>『回避反撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『支援突撃』</color>において、\nチェーンソーを起爆させて敵に命中した時、すべてのパワーを消費して、\nパワー1重につき、カリンの攻撃力3%分のダメージを追加で与える。",
+                "Corin_Talent_06_Desc_02": "自分は一番強いメイドでもなく、一番賢いメイドでもない。\nそれを悟ったカリンは、メイドの中でも一番の努力家を目指すことにした。\n日々の小さな積み重ねは、どれも意義があるものだ。",
+                "Corin_Talent_06_Desc_01": "持続斬撃が敵に命中した時、カリンはパワーを1重獲得する（最大40重）。\n<color=#FFFFFF>『回避反撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『支援突撃』</color>において、チェーンソーを起爆させて敵に命中した時、すべてのパワーを消費して、パワー1重につき、カリンの攻撃力3%分のダメージを追加で与える。",
+                "Corin_Talent_06_Title_Realign": "塵も積もれば"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "ライカン",
+        "full_name": "フォン・ライカン",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "満月に備えよ",
+                "Lycaon_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中すると、\nスキルの与えるブレイク値が12%アップする、8秒に1回のみ発動可能。\nチャージした<color=#FFFFFF>『強化特殊スキル』</color>の場合、この効果が追加で10％アップする。",
+                "Lycaon_Talent_01_Desc_02": "記録によると、狼男の攻撃性は満月の夜に著しく高まる。\n「月を、直視してはならない」",
+                "Lycaon_Talent_01_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中すると、スキルの与えるブレイク値が12%アップする、8秒に1回のみ発動可能。チャージした<color=#FFFFFF>『強化特殊スキル』</color>の場合、この効果が追加で10%アップする。",
+                "Lycaon_Talent_01_Title_Realign": "満月に備えよ"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "エネルギー還元",
+                "Lycaon_Talent_02_Desc_01_Realign": "敵をブレイク状態にする、またはメンバーの<color=#FFFFFF>『連携スキル』</color>を発動した時に、\nライカンがエネルギーを5Pt回復する、1秒に1回のみ発動可能。",
+                "Lycaon_Talent_02_Desc_02": "「イヌ科動物が難しい課題をクリアすると、脳が刺激されて高揚感が生まれ、一時的な精神の充足を得る」\n「この時、主人が頭をなでて褒めてやれば、彼らはさらに喜ぶだろう…」\n——『イヌ科動物の不確かな研究ノート』より",
+                "Lycaon_Talent_02_Desc_01": "敵をブレイク状態にする、またはメンバーの<color=#FFFFFF>『連携スキル』</color>を発動した時に、ライカンがエネルギーを5Pt回復する、1秒に1回のみ発動可能。",
+                "Lycaon_Talent_02_Title_Realign": "エネルギー還元"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "執事の教養",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Lycaon_Talent_03_Desc_02": "穏やかな一挙手一投足、春風が吹き抜けるような話し方…\nそれらすべては、執事としての教養によってコントロールされたものである。",
+                "Lycaon_Talent_03_Title_Realign": "執事の教養"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "優雅たれ",
+                "Lycaon_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『特殊スキル』</color>中に敵からの攻撃を受けると、\nライカンは即座に自身のHP上限7.5%分のシールドを生成する、継続時間15秒。\nシールド継続中、中断耐性レベルがアップする、15秒に1回のみ発動可能。",
+                "Lycaon_Talent_04_Desc_02": "「優秀な執事とは、常に優雅に立ち振る舞うことを忘れないのです」",
+                "Lycaon_Talent_04_Desc_01": "<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『特殊スキル』</color>中に敵からの攻撃を受けると、ライカンは即座に自身のHP上限7.5%分のシールドを生成する、継続時間15秒。シールド継続中、中断耐性レベルがアップする、15秒に1回のみ発動可能。",
+                "Lycaon_Talent_04_Title_Realign": "優雅たれ"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "アルファの本性",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Lycaon_Talent_05_Desc_02": "瞳に秘めた野生、低く唸る喉…\n目の前でいかに優雅に振る舞おうとも、礼服の下の彼は依然として獰猛なままだ。",
+                "Lycaon_Talent_05_Title_Realign": "アルファの本性"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "冷酷な猟人",
+                "Lycaon_Talent_06_Desc_01_Realign": "チャージ攻撃が敵に命中した時、ライカンがターゲットに与えるダメージが10%アップする、\n最大5重まで重ね掛け可能、継続時間12秒。\n1回の攻撃で1回のみ重ね掛け可能。重複して発動すると継続時間が更新される。",
+                "Lycaon_Talent_06_Desc_02": "「申し訳ありませんが、手心を加えるようなことは致しません」\n「何しろここは、ホロウ——弱者を慮る場所では、ございませんので」",
+                "Lycaon_Talent_06_Desc_01": "チャージ攻撃が敵に命中した時、ライカンがターゲットに与えるダメージが10%アップする、最大5重まで重ね掛け可能、継続時間12秒。1回の攻撃で1回のみ重ね掛け可能。重複して発動すると継続時間が更新される。",
+                "Lycaon_Talent_06_Title_Realign": "冷酷な猟人"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "エレン",
+        "full_name": "エレン・ジョー",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "寒冬の先触れ",
+                "Ellen_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のクイック鋏撃を敵に命中させた時、獲得できる<color=#FFFFFF>「急凍パワー」</color>が3Ptに増える。<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ鋏撃を敵に命中させた時、獲得できる<color=#FFFFFF>「急凍パワー」</color>が6Ptに増える。\n<color=#FFFFFF>「急凍パワー」</color>を1Pt消費するたびに、エレンの会心率が2%アップする、継続時間15秒、\n最大6重まで重ね掛け可能。継続時間は重ごとに独立してカウントされる。",
+                "Ellen_Talent_01_Desc_02": "冷たい風は寒冬を知らせる予兆であり、エレンが長～い有給を取って冬眠する合図でもある。\n…ところで、本当にサメは冬眠が必要なのだろうか？",
+                "Ellen_Talent_01_Desc_01": "<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のクイック鋏撃を敵に命中させた時、獲得できる<color=#FFFFFF>「急凍パワー」</color>が3Ptに増える。<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ鋏撃を敵に命中させた時、獲得できる<color=#FFFFFF>「急凍パワー」</color>が6Ptに増える。<color=#FFFFFF>「急凍パワー」</color>を1Pt消費するたびに、エレンの会心率が2%アップする、継続時間15秒、最大6重まで重ね掛け可能。継続時間は重ごとに独立してカウントされる。",
+                "Ellen_Talent_01_Title_Realign": "寒冬の先触れ"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "極海の捕食者",
+                "Ellen_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>3段目発動後、\nそのまま<color=#FFFFFF>『強化特殊スキル：シャーク・トルネード』</color>に繋げることが可能。\n<color=#FFFFFF>『強化特殊スキル』</color>発動時、<color=#FFFFFF>「急凍パワー」</color>1Ptにつき、\nその攻撃の与える会心ダメージが20%アップする、最大60%アップできる。",
+                "Ellen_Talent_02_Desc_02": "たとえ鮮紅に染まっても、エレンの巨大なハサミが温もりを帯びることはない。\n骨の髄まで沁みるようなこの寒さは、鋳鉄の凶器、そして捕食される者の恐怖によってもたらされる。",
+                "Ellen_Talent_02_Desc_01": "<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>3段目発動後、そのまま<color=#FFFFFF>『強化特殊スキル：シャーク・トルネード』</color>に繋げることが可能。<color=#FFFFFF>『強化特殊スキル』</color>発動時、<color=#FFFFFF>「急凍パワー」</color>1Ptにつき、その攻撃の与える会心ダメージが20%アップする、最大60%アップできる。",
+                "Ellen_Talent_02_Title_Realign": "極海の捕食者"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "残業ゼロ",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Ellen_Talent_03_Desc_02": "「効率」とは、早く帰って早く寝るということだ。\n故に彼女は力強く武器を抜き、より素早く斬りつける。",
+                "Ellen_Talent_03_Title_Realign": "残業ゼロ"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "休みなき寒潮",
+                "Ellen_Talent_04_Desc_01_Realign": "任意のメンバーが敵に<color=#98EFF0>「凍結」</color>効果を付与する、または敵をブレイク状態にした時、\n自身が<color=#FFFFFF>「急凍パワー」</color>6Ptと<color=#FFFFFF>「クイックチャージ」</color>効果を獲得し、\n同時にエネルギーを4Pt回復する。エネルギー回復効果は10秒に1回のみ発動可能。",
+                "Ellen_Talent_04_Desc_02": "稜々たる攻勢は休みなく続く。\n恐ろしき被造物たちは、エレンの刃のもと、冬の美しさと残酷さを同時に味わうことになるだろう。\n残酷さという点では、年中無休のメイドのお仕事も負けてはいないが…",
+                "Ellen_Talent_04_Desc_01": "任意のメンバーが敵に<color=#98EFF0>「凍結」</color>効果を付与する、または敵をブレイク状態にした時、自身が<color=#FFFFFF>「急凍パワー」</color>6Ptと<color=#FFFFFF>「クイックチャージ」</color>効果を獲得し、同時にエネルギーを4Pt回復する。エネルギー回復効果は10秒に1回のみ発動可能。",
+                "Ellen_Talent_04_Title_Realign": "休みなき寒潮"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "十分な睡眠",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Ellen_Talent_05_Desc_02": "よほどの厳しい戦いでない限り、エレンは常に「仕事がなきゃぐっすり寝てたのに」という顔をしている。\nそれに油断して命を落とす敵は少なくない。",
+                "Ellen_Talent_05_Title_Realign": "十分な睡眠"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "盛宴の時",
+                "Ellen_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>を発動、または<color=#FFFFFF>「クイックチャージ」</color>を獲得した時、エレンの貫通率が20%アップする、継続時間6秒。それと同時に<color=#FFFFFF>「盛宴」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「盛宴」</color>を3重所持している状態で、<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ鋏撃を敵に命中させた時、すべての<color=#FFFFFF>「盛宴」</color>を消費することで、その攻撃の与ダメージが250%アップする。",
+                "Ellen_Talent_06_Desc_02": "一つの傷、一滴の血。一度の狩り、一場の宴。紙一重の命、一瞬の悦。",
+                "Ellen_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>を発動、または<color=#FFFFFF>「クイックチャージ」</color>を獲得した時、エレンの貫通率が20%アップする、継続時間6秒。それと同時に<color=#FFFFFF>「盛宴」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「盛宴」</color>を3重所持している状態で、<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ鋏撃を敵に命中させた時、すべての<color=#FFFFFF>「盛宴」</color>を消費することで、その攻撃の与ダメージが250%アップする。",
+                "Ellen_Talent_06_Title_Realign": "盛宴の時"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "リナ",
+        "full_name": "アレクサンドリナ・セバスチャン",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "リードダンサー×2",
+                "Rina_Talent_01_Desc_01_Realign": "ドリシラとアナステラは指示を受けて攻撃を行った後、\nリナの元に戻る前に、その場にさらに5.5秒留まる。\nドリシラまたはアナステラの付近10メートル範囲内のエージェントは、\n<color=#FFFFFF>『コアパッシブ：ちょっとした壊滅のオトモ』</color>から獲得するバフ効果が本来の130%になる。",
+                "Rina_Talent_01_Desc_02": "「仕事が終わらないヤツはぶたれるぞ！」\nドリシラはいつも、そうやってみんなを鼓舞する。\n「ぶたれるぶたれる！」\nアナステラも、いつもそうやって尻馬に乗る。",
+                "Rina_Talent_01_Desc_01": "ドリシラとアナステラは指示を受けて攻撃を行った後、リナの元に戻る前に、その場にさらに5.5秒留まる。\nドリシラまたはアナステラの付近10メートル範囲内のエージェントは、<color=#FFFFFF>『コアパッシブ：ちょっとした壊滅のオトモ』</color>から獲得するバフ効果が本来の130%になる。",
+                "Rina_Talent_01_Title_Realign": "リードダンサー×2"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "主人の模範",
+                "Rina_Talent_02_Desc_01_Realign": "接敵状態突入時、または出場した時、リナの与ダメージが15%アップする、継続時間12秒。\n18秒に1回のみ発動可能。",
+                "Rina_Talent_02_Desc_02": "「優れたメイドを導くことができるのが、優れたメイド長だけであるように…\n模範的なボンプを育てることができるのも、同様に模範的な主人だけなのですわ」\n——「ヴィクトリア家政 人事労務講座・ボンプ育成の心得」におけるリナの講話",
+                "Rina_Talent_02_Desc_01": "接敵状態突入時、または出場した時、リナの与ダメージが15%アップする、継続時間12秒。18秒に1回のみ発動可能。",
+                "Rina_Talent_02_Title_Realign": "主人の模範"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "メイド長の実力",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Rina_Talent_03_Desc_02": "リナには、何事もうまくやれる自信、そして何でも破壊できる能力がある。\n特に敵の機嫌を損ねるということに関して、彼女の自信と能力は一つになる。",
+                "Rina_Talent_03_Title_Realign": "メイド長の実力"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "紡錘と槌",
+                "Rina_Talent_04_Desc_01_Realign": "ドリシラとアナステラの両方が指示を受けて離れているとき、\nリナのエネルギー自動回復が0.5Pt/秒アップする。\nドリシラまたはアナステラがリナの元に戻った時、対応するバフ効果が終了する。",
+                "Rina_Talent_04_Desc_02": "ドリシラとアナステラが、何かについて合意できたことは一度もない。\nただひとつ、「目の前のマヌケを叩く」ことを除いて。",
+                "Rina_Talent_04_Desc_01": "ドリシラとアナステラの両方が指示を受けて離れているとき、リナのエネルギー自動回復が0.5Pt/秒アップする。ドリシラまたはアナステラがリナの元に戻った時、対応するバフ効果が終了する。",
+                "Rina_Talent_04_Title_Realign": "紡錘と槌"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "完璧主義のメイド長",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Rina_Talent_05_Desc_02": "「『リナ』とは、ボンプの言葉で完璧という意味ですわ」\n「完璧」であることは、ヴィクトリア家政従業員ハンドブックに記載された第一原則である。\nそして「完璧」を評価するうえで、リナには自分なりの基準があるようだ。",
+                "Rina_Talent_05_Title_Realign": "完璧主義のメイド長"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "ストーミーナイト・スケアリー",
+                "Rina_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、\nチーム全体の与える<color=#2EB6FF>電気属性ダメージ</color>が15%アップする、継続時間8秒。",
+                "Rina_Talent_06_Desc_02": "雨の夜の古城、雷鳴。長い廊下に揺れる影。\n恐怖の回路が過負荷を起こし、ホラー映画のはじまりはじまり。",
+                "Rina_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、チーム全体の与える<color=#2EB6FF>電気属性ダメージ</color>が15%アップする、継続時間8秒。",
+                "Rina_Talent_06_Title_Realign": "ストーミー\nナイト・スケアリー"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "「11号」",
+        "full_name": "「11号」",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "急速加熱",
+                "Longinus_Talent_01_Desc_01_Realign": "接敵状態突入時、または出場した時、「11号」のエネルギーが40Pt未満の場合、\n即座にエネルギーを80Ptまで回復する。50秒に1回のみ発動可能。",
+                "Longinus_Talent_01_Desc_02": "過酷な実戦訓練により、「11号」は自身のコンディションをコントロールする術を心得ている。\n彼女は全力を尽くし、最高のコンディションであらゆる戦いに臨む。",
+                "Longinus_Talent_01_Desc_01": "接敵状態突入時、または出場した時、「11号」のエネルギーが40Pt未満の場合、即座にエネルギーを80Ptまで回復する。50秒に1回のみ発動可能。",
+                "Longinus_Talent_01_Title_Realign": "急速加熱"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "高温凝縮",
+                "Longinus_Talent_02_Desc_01_Realign": "「11号」が<color=#FFFFFF>『火力鎮圧』</color>を発動した時、<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>の\n与ダメージが3%アップする、最大12重まで重ね掛け可能、継続時間15秒。\n継続時間は重ごとに独立してカウントされる。",
+                "Longinus_Talent_02_Desc_02": "「彼女は一見、氷のように冷たくてお堅く見えるが…」\n「その実、炎のように熱い心を内に秘めているんだ」\n——オブシディアン大隊の匿名の軍人より",
+                "Longinus_Talent_02_Desc_01": "「11号」が<color=#FFFFFF>『火力鎮圧』</color>を発動した時、<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>の与ダメージが3%アップする、最大12重まで重ね掛け可能、継続時間15秒。継続時間は重ごとに独立してカウントされる。",
+                "Longinus_Talent_02_Title_Realign": "高温凝縮"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "精鋭兵士",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Longinus_Talent_03_Desc_02": "訓練だろうと実戦だろうと、\n「11号」は常に最も厳しい基準で自分を律している。\n彼女が戦闘能力を高水準に保っていられるのはそのためだ。",
+                "Longinus_Talent_03_Title_Realign": "精鋭兵士"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "強まる火勢",
+                "Longinus_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃』</color>の1、2、3段目あるいは<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時、<color=#FFFFFF>『火力鎮圧』</color>が発動した場合、スキル発動中に中断耐性レベルがアップし、被ダメージが18%ダウンする。\n<color=#FFFFFF>『通常攻撃』</color>4段目を行った時、<color=#FFFFFF>『火力鎮圧』</color>が発動した場合、\nスキル発動中に無敵効果を得る。",
+                "Longinus_Talent_04_Desc_02": "彼女は炎に憧れた。\n手の付けられないような猛火さえ、彼女の力となる。",
+                "Longinus_Talent_04_Desc_01": "<color=#FFFFFF>『通常攻撃』</color>の1、2、3段目あるいは<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時、<color=#FFFFFF>『火力鎮圧』</color>が発動した場合、スキル発動中に中断耐性レベルがアップし、被ダメージが18%ダウンする。\n<color=#FFFFFF>『通常攻撃』</color>4段目を行った時、<color=#FFFFFF>『火力鎮圧』</color>が発動した場合、スキル発動中に無敵効果を得る。",
+                "Longinus_Talent_04_Title_Realign": "強まる火勢"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "完璧無欠な兵士",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Longinus_Talent_05_Desc_02": "精鋭から模範となるまでの道のりは長かったが、それでも「11号」は歯を食いしばってきた。\nまるで何か秘密の理由が、彼女に完全無欠な兵士たれと駆り立てているかのように…",
+                "Longinus_Talent_05_Title_Realign": "完璧無欠な兵士"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "灼熱のゾーン",
+                "Longinus_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、\n「11号」はパワーを8重獲得する（最大8重）。\n<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、パワーを1重消費することで、\nその攻撃がターゲットの<color=#FF5521>炎属性ダメージ耐性</color>を25%無視する。",
+                "Longinus_Talent_06_Desc_02": "刃の炎が熱波を起こし、銀髪の少女の戦いはますます熱を帯びる。\n呼吸と同時に、熱気が頭に染み込んでいくかのようで、その思考もまた熾烈なものとなってゆく。",
+                "Longinus_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、「11号」はパワーを8重獲得する（最大8重）。\n<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、パワーを1重消費することで、その攻撃がターゲットの<color=#FF5521>炎属性ダメージ耐性</color>を25%無視する。",
+                "Longinus_Talent_06_Title_Realign": "灼熱のゾーン"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "朱鳶",
+        "full_name": "朱鳶",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "クイックリロード",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "朱鳶が<color=#FFFFFF>『連携スキル』</color>/<color=#FFFFFF>『終結スキル』</color>を発動すると、<color=#FFFFFF>「クイックリロード」</color>効果を獲得する。\n効果中に<color=#FFFFFF>「強化散弾」</color>が尽きると、朱鳶は<color=#FFFFFF>「クイックリロード」</color>効果を消費して、\n即座に<color=#FFFFFF>「強化散弾」</color>を6/9発獲得する。",
+                "ZhuYuan_Talent_01_Desc_02": "朱鳶はかつて、マジシャンのように鮮やかなリロード技術で、\nヤヌス区治安官総合能力コンテストの1位に輝いたことがある。\nこれに対する同僚のコメントは「他無し、但だ手の熟せるのみ」であった。",
+                "ZhuYuan_Talent_01_Desc_01": "朱鳶が<color=#FFFFFF>『連携スキル』</color>/<color=#FFFFFF>『終結スキル』</color>を発動すると、<color=#FFFFFF>「クイックリロード」</color>効果を獲得する。効果中に<color=#FFFFFF>「強化散弾」</color>が尽きると、朱鳶は<color=#FFFFFF>「クイックリロード」</color>効果を消費して、即座に6/9発の<color=#FFFFFF>「強化散弾」</color>を獲得する。",
+                "ZhuYuan_Talent_01_Title_Realign": "クイックリロード"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "エーテルの余燼",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "<color=#FFFFFF>「制圧モード」</color>において、朱鳶の中断耐性レベルがアップし、被ダメージが10%ダウンする。\n<color=#FFFFFF>「強化散弾」</color>を消費した攻撃が敵に命中した時、朱鳶の<color=#FFFFFF>『通常攻撃：抵抗はやめなさい』</color>と<color=#FFFFFF>『ダッシュ攻撃：火力制圧』</color>による<color=#FE437E>エーテル属性ダメージ</color>が10%アップする、最大5重まで重ね掛け可能、継続時間5秒。\n発砲するたびに、最大で1重獲得可能。重複して発動すると継続時間が更新される。",
+                "ZhuYuan_Talent_02_Desc_02": "治安局が朱鳶のために配備した特製エーテル弾は、命中した者に不可逆的な侵蝕ダメージを与える。\n朱鳶は発砲前、決まって投降を呼びかけるが…それは本気で相手の身を案じているからだ。",
+                "ZhuYuan_Talent_02_Desc_01": "<color=#FFFFFF>「制圧モード」</color>において、朱鳶の中断耐性レベルがアップし、被ダメージが10%ダウンする。<color=#FFFFFF>「強化散弾」</color>を消費した攻撃が敵に命中した時、朱鳶の<color=#FFFFFF>『通常攻撃：抵抗はやめなさい』</color>と<color=#FFFFFF>『ダッシュ攻撃：火力制圧』</color>による<color=#FE437E>エーテル属性ダメージ</color>が10%アップする、最大5重まで重ね掛け可能、継続時間5秒。\n発砲するたびに、最大で1重獲得可能。重複して発動すると継続時間が更新される。",
+                "ZhuYuan_Talent_02_Title_Realign": "エーテルの余燼"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "治安官特別訓練",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "ZhuYuan_Talent_03_Desc_02": "精鋭治安官として、朱鳶が訓練を行う目的はたった一つに絞られる——\nホロウ内での総合的な作戦遂行能力を底上げし、すべての無法者を実力でひねり潰すのだ。",
+                "ZhuYuan_Talent_03_Title_Realign": "治安官特別訓練"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "エーテル浸透",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "<color=#FFFFFF>「強化散弾」</color>を消費した攻撃が敵に命中した時、朱鳶の<color=#FFFFFF>『通常攻撃：抵抗はやめなさい』</color>と\n<color=#FFFFFF>『ダッシュ攻撃：火力制圧』</color>はターゲットの<color=#FE437E>エーテル属性ダメージ耐性</color>を25%無視する。",
+                "ZhuYuan_Talent_04_Desc_02": "ホロウの悪党たちは、交戦中に相手の残弾を頭の中で数える。\n朱鳶の特製弾倉が周囲のエーテルを絶え間なく電力に変換できるなどとは、つゆ知らず…",
+                "ZhuYuan_Talent_04_Desc_01": "<color=#FFFFFF>「強化散弾」</color>を消費した攻撃が敵に命中した時、朱鳶の<color=#FFFFFF>『通常攻撃：抵抗はやめなさい』</color>と<color=#FFFFFF>『ダッシュ攻撃：火力制圧』</color>はターゲットの<color=#FE437E>エーテル属性ダメージ耐性</color>を25%無視する。",
+                "ZhuYuan_Talent_04_Title_Realign": "エーテル浸透"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "特務の経験",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "ZhuYuan_Talent_05_Desc_02": "特捜班のベテラン治安官は状況を見極める能力に人一倍優れ、その作戦遂行能力を遺憾なく発揮する。\n時には威圧的な眼差しひとつで、相手の抵抗心を挫くことができる。",
+                "ZhuYuan_Talent_05_Title_Realign": "特務の経験"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "拡張エネルギーパック-参型",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "朱鳶が<color=#FFFFFF>「強化散弾」</color>を12発消費すると、<color=#FFFFFF>「エーテルの余熱」</color>効果を獲得し、\n次に発動する<color=#FFFFFF>『強化特殊スキル』</color>で消費されるエネルギーが30Pt減少する。\n<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、<color=#FFFFFF>「エーテルの余熱」</color>効果を消費して、\n追加で合計4発のエーテルのバックショット弾を発射する。\n1発発射するごとに、朱鳶の攻撃力220%分のダメージを与える。",
+                "ZhuYuan_Talent_06_Desc_02": "朱鳶はよく装備のバッテリー残量を気にしていた。\n表示が赤になるとソワソワし始め、ついバッテリーの消費を抑えようとしてしまう。\nその悩みは、治安局から超大容量バッテリーを搭載した長時間対応\nエネルギーパックを支給された日に、綺麗さっぱり消え去った。",
+                "ZhuYuan_Talent_06_Desc_01": "朱鳶が<color=#FFFFFF>「強化散弾」</color>を12発消費すると、<color=#FFFFFF>「エーテルの余熱」</color>効果を獲得し、次に発動する<color=#FFFFFF>『強化特殊スキル』</color>で消費されるエネルギーが30Pt減少する。<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、<color=#FFFFFF>「エーテルの余熱」</color>効果を消費して、追加で合計4発のエーテルのバックショット弾を発射する。1発発射するごとに、朱鳶の攻撃力220%分のダメージを与える。",
+                "ZhuYuan_Talent_06_Title_Realign": "拡張エネルギー\nパック-参型"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "青衣",
+        "full_name": "青衣",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "誘電破壊",
+                "QingYi_Talent_01_Desc_01_Realign": "青衣のフィールド入場時、即座に<color=#FFFFFF>「閃絡電圧」</color>が最大まで溜まり、\nその後の蓄積効率が30%アップする。\n<color=#FFFFFF>『通常攻撃：酔花月雲転』</color>を発動した時、すでに<color=#FFFFFF>「閃絡電圧」</color>が最大まで溜まっている場合、今回のスキルが命中した敵の防御力が15%ダウンする、さらに自身の該当ターゲットに対する会心率が20%アップする、継続時間15秒。",
+                "QingYi_Talent_01_Desc_02": "「命の危険はあらねど…努々、抵抗しようなどと考えぬことだ…」\n向き・強度ともに精密に計算された電流で、\n容疑者全員に安心安全な電気ショック体験をご提供。",
+                "QingYi_Talent_01_Desc_01": "青衣のフィールド入場時、即座に<color=#FFFFFF>「閃絡電圧」</color>が最大まで溜まり、その後の蓄積効率が30%アップする。<color=#FFFFFF>『通常攻撃：酔花月雲転』</color>を発動した時、すでに<color=#FFFFFF>「閃絡電圧」</color>が最大まで溜まっている場合、今回のスキルが命中した敵の防御力が15%ダウンする、さらに自身の該当ターゲットに対する会心率が20%アップする、継続時間15秒。",
+                "QingYi_Talent_01_Title_Realign": "誘電破壊"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "四両で千斤をはじく",
+                "QingYi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『コアパッシブ：千秋万歳』</color>によって付与した<color=#FFFFFF>「征服」</color>1重につき、\nブレイク弱体倍率アップの効果が本来の135%になる。\n青衣の攻撃が敵に命中した時、敵の<color=#FFFFFF>「征服」</color>が重数の上限まで重ね掛けされている場合、\n自身が該当ターゲットに与えるブレイク値が15%アップする。",
+                "QingYi_Talent_02_Desc_02": "旧文明の書物に記載されている武術の技巧。それは当初棍術ではなく、拳法だったという。\n「末節に拘泥するでない。見方を変えれば、腕も三節の棍であろ」",
+                "QingYi_Talent_02_Desc_01": "<color=#FFFFFF>『コアパッシブ：千秋万歳』</color>によって付与した<color=#FFFFFF>「征服」</color>1重につき、ブレイク弱体倍率アップの効果が本来の135%になる。青衣の攻撃が敵に命中した時、敵の<color=#FFFFFF>「征服」</color>が重数の上限まで重ね掛けされている場合、自身が該当ターゲットに与えるブレイク値が15%アップする。",
+                "QingYi_Talent_02_Title_Realign": "四両で千斤をはじく"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "白湯は万病に効く",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "QingYi_Talent_03_Desc_02": "「若者よ、養生に努め、白湯をたんと飲むが良い」\n魔法瓶をあおる青衣がどれだけほんわかとして見えても、\n彼女から手渡された白湯には要注意だ——\n「先輩は、100度の熱湯でも眉一つ動かさずに飲みますからね…」\nかつて痛い目を見た治安官はこう語る。",
+                "QingYi_Talent_03_Title_Realign": "白湯は万病に効く"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "定常電弧の障壁",
+                "QingYi_Talent_04_Desc_01_Realign": "<color=#FFFFFF>「閃絡」</color>状態突入または終了時、青衣はHP上限10%分のシールドを生成する。\nシールド効果が更新された時、前回生成されたシールドがまだ存在している場合、\n青衣のエネルギーが5Pt回復する、エネルギー回復効果は10秒に1回のみ発動可能。",
+                "QingYi_Talent_04_Desc_02": "ホワイトスター学会が、旧文明の玉偶をリバースエンジニアリングして\n開発した電弧障壁。防御、攻撃、電気エネルギー転換の集大成と言える技術。\n「『水は船を載せ、また覆す』とは古人のことば。\n一方『電流とは水の流れの如し』とは物理学のことば。\nつまり『電流とは攻守一体』…見事な融合といえよう」",
+                "QingYi_Talent_04_Desc_01": "<color=#FFFFFF>「閃絡」</color>状態突入または終了時、青衣はHP上限10%分のシールドを生成する。シールド効果が更新された時、前回生成されたシールドがまだ存在している場合、青衣のエネルギーが5Pt回復する、エネルギー回復効果は10秒に1回のみ発動可能。",
+                "QingYi_Talent_04_Title_Realign": "定常電弧の障壁"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "童心不滅",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "QingYi_Talent_05_Desc_02": "「若人よ、新しきことには果敢に取り組むが吉。精進せい！」\n青衣の鼓舞は時に投げやりで、\n時にからかっているように感じられることもある。\nしかし実際に困難に直面した時、彼女ほど頼れる人物はいないだろう。\n伊達に何百、何千年と生きてはいないということだ。",
+                "QingYi_Talent_05_Title_Realign": "童心不滅"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "奇経八脈",
+                "QingYi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃：酔花月雲転』</color>の中断レベルが大幅にアップし、\nスキルの与える会心ダメージが100%アップする。\n青衣の<color=#FFFFFF>『通常攻撃：酔花月雲転』</color>が敵に命中すると、\nターゲットの全属性ダメージ耐性が20%ダウンする、継続時間15秒。",
+                "QingYi_Talent_06_Desc_02": "旧文明の書物に記されている、人体の循環器形に関する学説。\nこれを完全に習得すれば、一瞬にして敵を行動不能にすることが可能だという。\n「次回は、こそばゆくなるツボを押してみるとしよう。\nして、誰で試したものか…店長どのか、それとも朱鳶か…」",
+                "QingYi_Talent_06_Desc_01": "<color=#FFFFFF>『通常攻撃：酔花月雲転』</color>の中断レベルが大幅にアップし、スキルの与える会心ダメージが100%アップする。青衣の<color=#FFFFFF>『通常攻撃：酔花月雲転』</color>が敵に命中すると、ターゲットの全属性ダメージ耐性が20%ダウンする、継続時間15秒。",
+                "QingYi_Talent_06_Title_Realign": "奇経八脈"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "ジェーン",
+        "full_name": "ジェーン・ドゥ",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "犯罪のプロ",
+                "JaneDoe_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃：サルコウ・ジャンプ』</color>最大発動可能回数が1回増える。\n<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が追加で15%アップする、\nまた異常マスタリー1Ptにつき、自身の与ダメージが0.1%アップする、最大30%アップできる。",
+                "JaneDoe_Talent_01_Desc_02": "「あくまで犯罪行動学のプロだから、悪いことをするプロじゃないの」\nそう言うとふいにジェーンは顔を近づけ、息のかかる距離でまばたきをした。\n「もちろん、アンタが後者だって思いたいなら…アタイは別にいいけど」",
+                "JaneDoe_Talent_01_Desc_01": "ジェーンの<color=#FFFFFF>『通常攻撃：サルコウ・ジャンプ』</color>最大発動可能回数が1回増える。<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が追加で15%アップする、また異常マスタリー1Ptにつき、自身の与ダメージが0.1%アップする、最大30%アップできる。",
+                "JaneDoe_Talent_01_Title_Realign": "犯罪のプロ"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "朱に交われば赤くなる",
+                "JaneDoe_Talent_02_Desc_01_Realign": "ジェーンの攻撃が<color=#FFFFFF>「噛み傷」</color>状態の敵に命中、または任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に\n<color=#F0D12B>「強撃」</color>効果を発動した時、ターゲットの防御力を15%無視する。\n<color=#F0D12B>「強撃」</color>ダメージで会心が出た時、会心ダメージが追加で50%アップする。",
+                "JaneDoe_Talent_02_Desc_02": "深淵をのぞくとき、深淵と目が合うのは、ほんの第一歩にすぎない。\n「深淵に近づいて、浸かって、理解するの。これが第二歩」\n「最後の一歩は…深淵に『なって』しまわないこと」",
+                "JaneDoe_Talent_02_Desc_01": "ジェーンの攻撃が<color=#FFFFFF>「噛み傷」</color>状態の敵に命中、または任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動した時、ターゲットの防御力を15%無視する。<color=#F0D12B>「強撃」</color>ダメージで会心が出た時、会心ダメージが追加で50%アップする。",
+                "JaneDoe_Talent_02_Title_Realign": "朱に交われば赤くなる"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "名無し",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "JaneDoe_Talent_03_Desc_02": "「名前が無いから、誰にだってなれるの。\n例えば、アンタがいちばん好きな人とか…」\n「…いちばん怖い人、とか」",
+                "JaneDoe_Talent_03_Title_Realign": "名無し"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "秤の傾くほう",
+                "JaneDoe_Talent_04_Desc_01_Realign": "任意のメンバーが<color=#F0D12B>「強撃」</color>または<color=#FFFFFF>「混沌」</color>効果を発動した時、\nチーム全体の与える状態異常ダメージが18%アップする、継続時間15秒。",
+                "JaneDoe_Talent_04_Desc_02": "「どっちが獲物で狩人かなんて、そんなの見方によるわ。\nでもアタイは…もっとシンプルに決めたいの」\n「——負けた方が、獲物」",
+                "JaneDoe_Talent_04_Desc_01": "任意のメンバーが<color=#F0D12B>「強撃」</color>または<color=#FFFFFF>「混沌」</color>効果を発動した時、チーム全体の与える状態異常ダメージが18%アップする、継続時間15秒。",
+                "JaneDoe_Talent_04_Title_Realign": "秤の傾くほう"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "ためこみ癖",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "JaneDoe_Talent_05_Desc_02": "ジェーンの部屋には、ありとあらゆる物がため込まれている。\nその大半を占めるのはインスタント食品だ。\n「どう？手の届くところに食べ物があるって、すっごくいいわよね～」",
+                "JaneDoe_Talent_05_Title_Realign": "ためこみ癖"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "「汚い」やり方",
+                "JaneDoe_Talent_06_Desc_01_Realign": "<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの会心率が20%アップし、会心ダメージが40%アップする。任意のメンバーが敵に<color=#F0D12B>「強撃」</color>効果を発動した時、ジェーンはそのまま<color=#FFFFFF>「熱狂」</color>状態に入り、<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まる。<color=#F0D12B>『強撃』</color>ダメージで会心が出ると、さらにターゲットに対して追加攻撃を1回行い、ジェーンの異常マスタリー1600%分の<color=#F0D12B>物理属性ダメージ</color>を与える。",
+                "JaneDoe_Talent_06_Desc_02": "ストリートで勝利という結果を掴むためなら、あらゆる手段は肯定される。\n「いちばん暗いところの欲望を見透かしてあげるの…\nだって、そこがいちばん弱いんだから」",
+                "JaneDoe_Talent_06_Desc_01": "<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの会心率が20%アップし、会心ダメージが40%アップする。任意のメンバーが敵に<color=#F0D12B>「強撃」</color>効果を発動した時、ジェーンはそのまま<color=#FFFFFF>「熱狂」</color>状態に入り、<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まる。<color=#F0D12B>『強撃』</color>ダメージで会心が出ると、さらにターゲットに対して追加攻撃を1回行い、ジェーンの異常マスタリー1600%分の<color=#F0D12B>物理属性ダメージ</color>を与える。",
+                "JaneDoe_Talent_06_Title_Realign": "「汚い」やり方"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "セス",
+        "full_name": "セス・ローウェル",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "ヒロイズム",
+                "Seth_Talent_01_Desc_01_Realign": "<color=#FFFFFF>「断固たる盾」</color>が提供するシールド値およびその上限が30%アップする。\n<color=#FFFFFF>「断固たる盾」</color>の効果が切れた時、<color=#FFFFFF>『コアパッシブ：守護者』</color>による\n異常マスタリーのアップ効果が追加で10秒継続する。",
+                "Seth_Talent_01_Desc_02": "団体行動の際、いつも先頭を突っ走るのがセスだ。\n「犯人逮捕はオレに任してください！近接逮捕術の成績は99点でした。\n1点減点されてるのは…うっかり、教官の手首をグキっとやってしまったからです！」",
+                "Seth_Talent_01_Desc_01": "<color=#FFFFFF>「断固たる盾」</color>が提供するシールド値およびその上限が30%アップする。<color=#FFFFFF>「断固たる盾」</color>の効果が切れた時、<color=#FFFFFF>『コアパッシブ：守護者』</color>による異常マスタリーのアップ効果が追加で10秒継続する。",
+                "Seth_Talent_01_Title_Realign": "ヒロイズム"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "若気の至り",
+                "Seth_Talent_02_Desc_01_Realign": "フィールド入場時、即座に自身の<color=#FFFFFF>「意気」</color>が75%溜まる。\n<color=#FFFFFF>『通常攻撃：電撃ストライク・感電』</color>が敵に命中した時、\nスキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が35%アップする。",
+                "Seth_Talent_02_Desc_02": "セスは、あらゆる犯罪者にナメられやすい傾向にある。\n疑うことを知らなさそうな瞳か、はたまた無害そうなモフモフの耳やしっぽか、\nどちらがそうさせるのかは定かではないが…\n彼を甘く見た者は、決まって手痛い代償を払う羽目になる。",
+                "Seth_Talent_02_Desc_01": "フィールド入場時、即座に自身の<color=#FFFFFF>「意気」</color>が75%溜まる。<color=#FFFFFF>『通常攻撃：電撃ストライク・感電』</color>が敵に命中した時、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が35%アップする。",
+                "Seth_Talent_02_Title_Realign": "若気の至り"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "鈍感力",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Seth_Talent_03_Desc_02": "「あんたみたいなすごい治安官なら、\n何でも自分で解決しちゃうんでしょ？誰にも頼らず、ね！」\nこんなことを言われてもセスは顔色一つ変えないが、\nやがて夜中にがばっと起き上がる——\n「昼間のアレ…ひょっとして嫌味だったのか！？」",
+                "Seth_Talent_03_Title_Realign": "鈍感力"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "初心",
+                "Seth_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『パリィ支援：迅雷シールド』</color>の与えるブレイク値が25%アップする。",
+                "Seth_Talent_04_Desc_02": "「愚かな善悪観は捨てろ。全員を一人残らず守れる術などない。\nいつかお前も、決断を下すことになる」\n「治安官として当たり前の責務を果たす——それがオレの決断だ。\n変わったのはオマエの方だろ、兄貴」",
+                "Seth_Talent_04_Desc_01": "<color=#FFFFFF>『パリィ支援：迅雷シールド』</color>の与えるブレイク値が25%アップする。",
+                "Seth_Talent_04_Title_Realign": "初心"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "憧れの遠さ",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Seth_Talent_05_Desc_02": "セスはかつて自らの兄を心から尊敬し、そして憧れていた。\nだが知られているとおり、「憧れ」は人を「理解」から遠ざける。\n「いつか必ず立派な治安官になって…あいつを見返してやる！」",
+                "Seth_Talent_05_Title_Realign": "憧れの遠さ"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "理想主義",
+                "Seth_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『通常攻撃：電撃ストライク・感電』</color>のとどめの一撃が敵に命中した時、\n追加で自身の攻撃力500%分のダメージを与え、\n今回の攻撃が必ず会心になるほか、会心ダメージが60%アップする。",
+                "Seth_Talent_06_Desc_02": "青年の目に映るすべては明快で、善悪の境も例外ではない。\nこの世はないまぜの混沌だと、そう彼に吹き込む者もいるだろう。\nしかし是と非、正と誤がはっきりした世界を追い求めるのを\n誰が止められるだろうか？",
+                "Seth_Talent_06_Desc_01": "<color=#FFFFFF>『通常攻撃：電撃ストライク・感電』</color>のとどめの一撃が敵に命中した時、追加で自身の攻撃力500%分のダメージを与え、今回の攻撃が必ず会心になるほか、会心ダメージが60%アップする。",
+                "Seth_Talent_06_Title_Realign": "理想主義"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "シーザー",
+        "full_name": "キング・シーザー",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "楔形陣形",
+                "Caesar_Talent_01_Desc_01_Realign": "接敵状態突入時、または出場した時、シーザーは即座にチーム全体に<color=#FFFFFF>「栄光の盾」</color>を提供する、300秒に1回のみ発動可能。\n<color=#FFFFFF>「栄光の盾」</color>継続中、所持者の半径5m以内にいる敵の全属性ダメージ耐性が15%ダウンする。",
+                "Caesar_Talent_01_Desc_02": "「こういう時こそ楔形陣形だって、ビッグダディのオヤジから教わってんだ！\n手薄なトコを、圧倒的な戦力でガンガン攻めてやれってな！」\n「もちろん、先頭を突っ走んのはオレ様だ！」",
+                "Caesar_Talent_01_Desc_01": "接敵状態突入時、または出場した時、シーザーは即座にチーム全体に<color=#FFFFFF>「栄光の盾」</color>を提供する、300秒に1回のみ発動可能。<color=#FFFFFF>「栄光の盾」</color>継続中、所持者の半径5m以内にいる敵の全属性ダメージ耐性が15%ダウンする。",
+                "Caesar_Talent_01_Title_Realign": "楔形陣形"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "異境からの伝承",
+                "Caesar_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『コアパッシブ：堅固な壁』</color>のシールド<color=#FFFFFF>「栄光の盾」</color>継続中、シーザーのエネルギー回復効率が10%アップし、所持者の攻撃力アップ効果が本来の150%になる。",
+                "Caesar_Talent_02_Desc_02": "シーザーの戦闘スタイルは、新エリー都や郊外のそれとは若干異なる。\n攻めるべきでない時を知り、攻めるべき時は一撃で仕留める——\nこれは流れ者たちの武闘派が奉じる戦い方であり、彼らの生き方でもある。\nそれを立派に受け継いだシーザーは、「優秀な生徒」と言えよう。",
+                "Caesar_Talent_02_Desc_01": "<color=#FFFFFF>『コアパッシブ：堅固な壁』</color>のシールド<color=#FFFFFF>「栄光の盾」</color>継続中、シーザーのエネルギー回復効率が10%アップし、所持者の攻撃力アップ効果が本来の150%になる。",
+                "Caesar_Talent_02_Title_Realign": "異境からの伝承"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "絶対的な信頼",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Caesar_Talent_03_Desc_02": "ひとたび相手を信じ、自分の味方であると認めると、\nシーザーは無防備と言っていいレベルの絶対的な信頼を寄せる——\nまさに今、あなたに対してそうであるように。",
+                "Caesar_Talent_03_Title_Realign": "絶対的な信頼"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "アレスの破城槌",
+                "Caesar_Talent_04_Desc_01_Realign": "シーザーが<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、\n追加で<color=#FFFFFF>「支援ポイント」</color>を3Pt回復する。\nシーザーのエネルギー値が20Pt未満の時、エネルギー値の代わりに<color=#FFFFFF>「支援ポイント」</color>を1Pt消費して<color=#FFFFFF>『強化特殊スキル：圧倒的シールドバッシュ』</color>を発動できるようになる。この代替効果は5秒に1回のみ発動可能。",
+                "Caesar_Talent_04_Desc_02": "シーザーが流れ者たちの師から教わった戦術のひとつ。\n「何があっても、オレ様は最後の最後まで戦うぜ！」",
+                "Caesar_Talent_04_Desc_01": "シーザーが<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、追加で<color=#FFFFFF>「支援ポイント」</color>を3Pt回復する。シーザーのエネルギー値が20Pt未満の時、エネルギー値の代わりに<color=#FFFFFF>「支援ポイント」</color>を1Pt消費して<color=#FFFFFF>『強化特殊スキル：圧倒的シールドバッシュ』</color>を発動できるようになる。この代替効果は5秒に1回のみ発動可能。",
+                "Caesar_Talent_04_Title_Realign": "アレスの破城槌"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "征服のロマンス",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Caesar_Talent_05_Desc_02": "シーザーには、その見た目と裏腹にロマンチストな一面があり\n恋愛ものに興味津々なこともその証拠のひとつだ。\nこの手の話を掘り下げた暁には…滅多に見れない、赤面した彼女が拝めるだろう。",
+                "Caesar_Talent_05_Title_Realign": "征服のロマンス"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "覇者の志",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル：圧倒的シールドバッシュ』</color>および<color=#FFFFFF>『支援突撃』</color>で必ず会心が出るようになり、このスキルによる与ダメージが50%、メインターゲットに与えるダメージがさらに追加で50%アップする。シーザーが<color=#FFFFFF>『強化特殊スキル：圧倒的シールドバッシュ』</color>または<color=#FFFFFF>『支援突撃』</color>を発動した時、自身の会心率が30%、会心ダメージが60%アップする、継続時間15秒。",
+                "Caesar_Talent_06_Desc_02": "「オレ様は前しか見えてなかった。強くなれば、何でもできるんだって疑わなかった…」\n「けど、それだけじゃ優れた覇者にはなれっこねぇ」\n「オレ様は、後ろに続いてくれる仲間を守る。あいつらこそ、\nオレ様が前に進む原動力だから」",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル：圧倒的シールドバッシュ』</color>および<color=#FFFFFF>『支援突撃』</color>で必ず会心が出るようになり、このスキルによる与ダメージが50%、メインターゲットに与えるダメージがさらに追加で50%アップする。シーザーが<color=#FFFFFF>『強化特殊スキル：圧倒的シールドバッシュ』</color>または<color=#FFFFFF>『支援突撃』</color>を発動した時、自身の会心率が30%、会心ダメージが60%アップする、継続時間15秒。",
+                "Caesar_Talent_06_Title_Realign": "覇者の志"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "ルーシー",
+        "full_name": "ルシアーナ・デ・モンテフィーノ",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "フォーメーション練習中",
+                "Lucy_Talent_01_Desc_01_Realign": "親衛隊のイノシシが<color=#FFFFFF>『イノシシ親衛隊：回転打法！』</color>を発動した時、\nルーシーのエネルギーを2Pt回復する、15秒に1回のみ発動可能。\nクールタイムは親衛隊の各イノシシごとに計算される。",
+                "Lucy_Talent_01_Desc_02": "「ヘルバ、右向け右！…そっちは左ですわ！このトンコツ！！！」\n鶴の一声、左右は二択、悲鳴が三声、四方にこだます。",
+                "Lucy_Talent_01_Desc_01": "親衛隊のイノシシが<color=#FFFFFF>『イノシシ親衛隊：回転打法！』</color>を発動した時、ルーシーのエネルギーを2Pt回復する、15秒に1回のみ発動可能。クールタイムは親衛隊の各イノシシごとに計算される。",
+                "Lucy_Talent_01_Title_Realign": "フォーメーション\n練習中"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "イノシシ大隊長",
+                "Lucy_Talent_02_Desc_01_Realign": "ルーシーが<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、味方のエージェント、\nボンプおよび親衛隊のイノシシを<color=#FFFFFF>「かっとばせ！」</color>状態にする、継続時間10秒。",
+                "Lucy_Talent_02_Desc_02": "「ルーシー隊長は紛れもなく、カリュドーンのイノシシたちにとって最高の指導者でやんす！」\n—アルボルによる、「カリュドーンの子 年間業務報告」の締めくくり。",
+                "Lucy_Talent_02_Desc_01": "ルーシーが<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、味方のエージェント、ボンプおよび親衛隊のイノシシを<color=#FFFFFF>「かっとばせ！」</color>状態にする、継続時間10秒。",
+                "Lucy_Talent_02_Title_Realign": "イノシシ大隊長"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "鉄腕の世話係",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Lucy_Talent_03_Desc_02": "「おれらをかっとばす時はもっと手加減してくれると、なお最高でやんす！」\n—アルボルが言わずにそっと心にしまった、締めくくりの後半部分",
+                "Lucy_Talent_03_Title_Realign": "鉄腕の世話係"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "無法試合",
+                "Lucy_Talent_04_Desc_01_Realign": "<color=#FFFFFF>「かっとばせ！」</color>状態にある味方の会心ダメージが追加で10%アップする。",
+                "Lucy_Talent_04_Desc_02": "ルールか、審判の肋骨か——\nこの戦い、必ずどちらかが折れる。",
+                "Lucy_Talent_04_Desc_01": "<color=#FFFFFF>「かっとばせ！」</color>状態にある味方の会心ダメージが追加で10%アップする。",
+                "Lucy_Talent_04_Title_Realign": "無法試合"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "荒野のプリンセス",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Lucy_Talent_05_Desc_02": "バットの下敷きとなった者にも敬意を忘れず、\n這いつくばる敵にも詫びを入れよ。\nこれぞ、令嬢の完璧な作法なり。",
+                "Lucy_Talent_05_Title_Realign": "荒野のプリンセス"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "牙は烈火にも勝る",
+                "Lucy_Talent_06_Desc_01_Realign": "<color=#FFFFFF>「かっとばせ！」</color>状態の味方の<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中すると、親衛隊のイノシシが1匹空中から落下して爆発を起こし、親衛隊のイノシシの攻撃力300%分の<color=#FF5521>炎属性ダメージ</color>を与える。\nそれと同時に、チーム全体の<color=#FFFFFF>「かっとばせ！」</color>状態の継続時間が5秒延長される。延長可能回数は最大で3回、継続時間は最大30秒。<color=#FFFFFF>「かっとばせ！」</color>状態を重複して獲得すると、継続時間の延長可能回数がリセットされる。親衛隊のイノシシが着地して爆発を起こした後、さらに<color=#FFFFFF>『イノシシ親衛隊：回転打法！』</color>を一回発動する。",
+                "Lucy_Talent_06_Desc_02": "通称「赤鬣親衛隊」と呼ばれるイノシシたちは、常に最前線に立つ！\nバットでぶっ飛ばされる彼らの心境は、本望か無念か。\n知る由もないが——勇敢なイノシシたちよ、一番乗りは任せた！",
+                "Lucy_Talent_06_Desc_01": "<color=#FFFFFF>「かっとばせ！」</color>状態の味方の<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中すると、親衛隊のイノシシが1匹空中から落下して爆発を起こし、親衛隊のイノシシの攻撃力300%分の<color=#FF5521>炎属性ダメージ</color>を与える。それと同時に、チーム全体の<color=#FFFFFF>「かっとばせ！」</color>状態の継続時間が5秒延長される。延長可能回数は最大で3回、継続時間は最大30秒。<color=#FFFFFF>「かっとばせ！」</color>状態を重複して獲得すると、継続時間の延長可能回数がリセットされる。親衛隊のイノシシが着地して爆発を起こした後、さらに<color=#FFFFFF>『イノシシ親衛隊：回転打法！』</color>を一回発動する。",
+                "Lucy_Talent_06_Title_Realign": "牙は烈火にも勝る"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "ライト",
+        "full_name": "ライト",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "無敗のチャンピオン",
+                "Lighter_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『コアパッシブ：アクセレラント』</color>によって付与できるデバフ効果のうち：\n、<color=#FFFFFF>「壊滅」</color>効果によりブレイク継続時間が5秒延長されるようになる。\n<color=#98EFF0>氷属性ダメージ耐性</color>および<color=#FF5521>炎属性ダメージ耐性</color>が追加で10%ダウンする。\n開幕ジャブまたはストレートラッシュ中に<color=#FFFFFF>「士気」</color>が尽き、強力なとどめの一撃が自動で発動された時、その与ダメージが30%アップする。",
+                "Lighter_Talent_01_Desc_02": "無敗のチャンピオンにとって、勝つことが重要であることは説くまでもない。\nライバルチームの「最強」を下すことで、大将にとっての脅威を排除し、\nチーム全体の士気を最高潮まで高める…彼にとっては、勝利だけが称賛されるに値する。\n「チャンピオンは決して倒れない」",
+                "Lighter_Talent_01_Desc_01": "<color=#FFFFFF>『コアパッシブ：アクセレラント』</color>によって付与できるデバフ効果のうち：<color=#FFFFFF>「壊滅」</color>効果によりブレイク継続時間が5秒延長されるようになる。<color=#98EFF0>氷属性ダメージ耐性</color>および<color=#FF5521>炎属性ダメージ耐性</color>が追加で10%ダウンする。開幕ジャブまたはストレートラッシュ中に<color=#FFFFFF>「士気」</color>が尽き、強力なとどめの一撃が自動で発動された時、その与ダメージが30%アップする。",
+                "Lighter_Talent_01_Title_Realign": "無敗のチャンピオン"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "赤いマフラー",
+                "Lighter_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『コアパッシブ：アクセレラント』</color>によって敵に<color=#FFFFFF>「壊滅」</color>効果を付与した時、\nターゲットのブレイク弱体倍率が25%アップする。\n<color=#FFFFFF>『追加能力：燃える闘志』</color>で獲得できる<color=#FFFFFF>「高揚」</color>による\n<color=#98EFF0>氷属性ダメージ</color>および<color=#FF5521>炎属性ダメージ</color>のバフ効果が本来の120%になる。",
+                "Lighter_Talent_02_Desc_02": "カリュドーンの子の「赤いマフラー」は、郊外においてちょっとした有名人だ。\n彼の強烈なパンチは勿論、その独特な言い回しもまた印象に残るからだろう。\n「ヒマになるのは歓迎だが…あんたら、俺抜きでやれるか？」",
+                "Lighter_Talent_02_Desc_01": "<color=#FFFFFF>『コアパッシブ：アクセレラント』</color>によって敵に<color=#FFFFFF>「壊滅」</color>効果を付与した時、ターゲットのブレイク弱体倍率が25%アップする。<color=#FFFFFF>『追加能力：燃える闘志』</color>で獲得できる<color=#FFFFFF>「高揚」</color>による、<color=#98EFF0>氷属性ダメージ</color>および<color=#FF5521>炎属性ダメージ</color>のバフ効果が本来の120%になる。",
+                "Lighter_Talent_02_Title_Realign": "赤いマフラー"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "傭兵団の団長",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Lighter_Talent_03_Desc_02": "「俺ほど団長に相応しくない人間も、この世にいないだろうな」",
+                "Lighter_Talent_03_Title_Realign": "傭兵団の団長"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "グラサン",
+                "Lighter_Talent_04_Desc_01_Realign": "ライトが控えにいる時、出場中のメンバーのエネルギー自動回復効率が10%アップする。\nライトが<color=#FFFFFF>「士気奮発」</color>状態に突入した時、控えのメンバーのエネルギーを4Pt回復する、\n18秒に1回のみ発動可能。",
+                "Lighter_Talent_04_Desc_02": "「どうしてグラサンを引っかけてるのかって？血が苦手だからさ。多分な」",
+                "Lighter_Talent_04_Desc_01": "ライトが控えにいる時、出場中のメンバーのエネルギー自動回復効率が10%アップする。ライトが<color=#FFFFFF>「士気奮発」</color>状態に突入した時、控えのメンバーのエネルギーを4Pt回復する、18秒に1回のみ発動可能。",
+                "Lighter_Talent_04_Title_Realign": "グラサン"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "決断を下す者",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Lighter_Talent_05_Desc_02": "「シンプルな話だ。あんたが『やる』と決めたなら、俺はその通りにする——」\nライトはグラサンを押し上げ、なんでもなさそうに笑う。\n「悪いことは言わん。俺に決めさせようなんて思うな」",
+                "Lighter_Talent_05_Title_Realign": "決断を下す者"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "生き残り",
+                "Lighter_Talent_06_Desc_01_Realign": "ライトの<color=#FFFFFF>「士気」</color>の回復効率が本来の200%になる。ライトの<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『終結スキル』</color>の重撃が敵に命中した時、<color=#FFFFFF>「インパクトファイア」</color>効果が発動し、攻撃力250%分の<color=#FF5521>炎属性ダメージ</color>を与える、同じ敵に対して8秒に1回のみ発動可能。\nライトの衝撃力が170Ptを上回る場合、1Pt上回るごとに<color=#FFFFFF>「インパクトファイア」</color>のダメージ倍率が追加で5%アップする、最大500%アップできる。開幕ジャブまたはストレートラッシュ中に<color=#FFFFFF>「士気」</color>が尽き、強力なとどめの一撃が自動で発動された時、クールタイムを無視して追加で<color=#FFFFFF>「インパクトファイア」</color>効果を1回発動できる。",
+                "Lighter_Talent_06_Desc_02": "もう一度やり直すことができるのなら、彼はきっと\n「唯一の生き残り」となる選択を決して選ばないだろう…\n惜しいかな、運命を選ぶことなどできはしない。",
+                "Lighter_Talent_06_Desc_01": "ライトの<color=#FFFFFF>「士気」</color>の回復効率が本来の200%になる。ライトの<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『終結スキル』</color>の重撃が敵に命中した時、<color=#FFFFFF>「インパクトファイア」</color>効果が発動し、攻撃力250%分の<color=#FF5521>炎属性ダメージ</color>を与える、同じ敵に対して8秒に1回のみ発動可能。ライトの衝撃力が170Ptを上回る場合、1Pt上回るごとに<color=#FFFFFF>「インパクトファイア」</color>のダメージ倍率が追加で5%アップする、最大500%アップできる。開幕ジャブまたはストレートラッシュ中に<color=#FFFFFF>「士気」</color>が尽き、強力なとどめの一撃が自動で発動された時、クールタイムを無視して追加で<color=#FFFFFF>「インパクトファイア」</color>効果を1回発動できる。",
+                "Lighter_Talent_06_Title_Realign": "生き残り"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "バーニス",
+        "full_name": "バーニス・ホワイト",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "一心同火",
+                "Burnice_Talent_01_Desc_01_Realign": "<color=#FFFFFF>「着火点」</color>の上限が100Ptから140Ptに引き上げられる。\nフィールド入場時、バーニスが追加で<color=#FFFFFF>「着火点」</color>を40Pt溜める。\n<color=#FFFFFF>「エンバー」</color>効果のダメージ倍率がバーニスの攻撃力100%分アップする。\n<color=#FFFFFF>「エンバー」</color>効果による<color=#FF5521>炎属性の状態異常蓄積値</color>が25%アップする。",
+                "Burnice_Talent_01_Desc_02": "「誰にでもうまくいかない時はあるよ！」\n「だから元気だして、シーザーちゃん。ニトロフューエルいる？めいっぱい甘くしといたよ！」",
+                "Burnice_Talent_01_Desc_01": "<color=#FFFFFF>「着火点」</color>の上限が100Ptから140Ptに引き上げられる。フィールド入場時、バーニスが追加で<color=#FFFFFF>「着火点」</color>を40Pt溜める。\n<color=#FFFFFF>「エンバー」</color>効果のダメージ倍率がバーニスの攻撃力100%分アップする。<color=#FFFFFF>「エンバー」</color>効果による<color=#FF5521>炎属性の状態異常蓄積値</color>が25%アップする。",
+                "Burnice_Talent_01_Title_Realign": "一心同火"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "お値段そのまま増量フェア",
+                "Burnice_Talent_02_Desc_01_Realign": "<color=#FFFFFF>「エンバー」</color>効果発動時、敵に<color=#FFFFFF>「貫く熱意」</color>を付与する、最大5重まで重ね掛け可能、継続時間6秒、重複して発動すると継続時間が更新される。\n味方の攻撃を受けたターゲットの<color=#FFFFFF>「貫く熱意」</color>1重につき、今回の攻撃の貫通率が4%アップする、最大20%アップできる。",
+                "Burnice_Talent_02_Desc_02": "カリュドーンの子のバーテンダー・バーニスと友達になれば、新エリー都いちと謳われる\n彼女の特製ニトロフューエルを嬉々として振る舞ってもらえるだろう。\nもし、彼女の「敵」になったら…それはそれで\n前代未聞のドリンクが味わえるかもしれない。\n「一生に一度だけのぉ…スペシャル・フレーバー！」",
+                "Burnice_Talent_02_Desc_01": "<color=#FFFFFF>「エンバー」</color>効果発動時、敵に<color=#FFFFFF>「貫く熱意」</color>を付与する、最大5重まで重ね掛け可能、継続時間6秒、重複して発動すると継続時間が更新される。味方の攻撃を受けたターゲットの<color=#FFFFFF>「貫く熱意」</color>1重につき、今回の攻撃の貫通率が4%アップする、最大20%アップできる。",
+                "Burnice_Talent_02_Title_Realign": "お値段そのまま\n増量フェア"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "根っからのポジティブ",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Burnice_Talent_03_Desc_02": "「バーニスが元気じゃない日なんて存在しませんわ。\nもう朝起きた瞬間からあの調子でしてよ…どこからそんな気力が湧いてくるのやら」\n「しかもあの能天気っぷりは、周囲に伝染るんですの！もはやそういう怪異ですわ！」\n「え？…べ、別にそれが嫌だなんて、ひとことも言ってませんことよ！」\n——イノシシの管理人Rさん",
+                "Burnice_Talent_03_Title_Realign": "根っからのポジティブ"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "燃料マシマシ",
+                "Burnice_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援攻撃』</color>が敵に命中した時、スキルの会心率が30%アップする。<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>における火炎噴射の継続時間の上限が1秒引き上げられる。",
+                "Burnice_Talent_04_Desc_02": "「私の作ったドリンク、気に入ってくれた？サンキュ！アイアンタスクもこれが大好物なんだ～\n一気に200リットルも飲んじゃうんだから！」\n「あっ、アイアンタスクっていうのはね、私たちのトラックのこと！」\n「せっかくだし、あの子のスペシャル燃料も飲んでみる？ヤッバいくらいアツいよ！」",
+                "Burnice_Talent_04_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援攻撃』</color>が敵に命中した時、スキルの会心率が30%アップする。<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>における火炎噴射の継続時間の上限が1秒引き上げられる。",
+                "Burnice_Talent_04_Title_Realign": "燃料マシマシ"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "炎と氷の舞",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Burnice_Talent_05_Desc_02": "ドリンク作りに欠かせないのが、氷だ。\n究極の情熱を引き立たせるのが、まさしく究極の冷静であるように。\n「火と氷が混ざり合うこのカンジ…ウットリしちゃうねっ！」",
+                "Burnice_Talent_05_Title_Realign": "炎と氷の舞"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "火遊びのお誘い",
+                "Burnice_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>が敵に命中した時、特殊な<color=#FFFFFF>「エンバー」</color>効果が追加で発動し、ターゲットに対してバーニスの攻撃力60%分の<color=#FF5521>炎属性ダメージ</color>を与える。特殊な<color=#FFFFFF>「エンバー」</color>効果は<color=#FFFFFF>「着火点」</color>を消費せず、0.5秒に1回のみ発動可能。<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>が敵に命中すると、スキル発動中、<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>、特殊な<color=#FFFFFF>「エンバー」</color>効果、<color=#FF5521>「熱傷」</color>効果はターゲットの<color=#FF5521>炎属性ダメージ耐性</color>を25%無視する。<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>の炎の爆発が<color=#FF5521>「熱傷」</color>状態の敵に命中した時、本来の1800%分の<color=#FF5521>「熱傷」</color>ダメージをさらに1回追加で与える、追加ダメージの効果は同じターゲットに対して20秒に1回のみ発動可能。",
+                "Burnice_Talent_06_Desc_02": "本気で怒るバーニスを見たことがある人はほとんどいない。\n「まあ…見ないにこしたことはないぜい。あたしを信じとけ～」\n——アイアンタスクでひと眠りしようとしている運転手",
+                "Burnice_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>が敵に命中した時、特殊な<color=#FFFFFF>「エンバー」</color>効果が追加で発動し、ターゲットに対してバーニスの攻撃力60%分の<color=#FF5521>炎属性ダメージ</color>を与える。特殊な<color=#FFFFFF>「エンバー」</color>効果は<color=#FFFFFF>「着火点」</color>を消費せず、0.5秒に1回のみ発動可能。<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>が敵に命中すると、スキル発動中、<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>、特殊な<color=#FFFFFF>「エンバー」</color>効果、<color=#FF5521>「熱傷」</color>効果はターゲットの<color=#FF5521>炎属性ダメージ耐性</color>を25%無視する。<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>の炎の爆発が<color=#FF5521>「熱傷」</color>状態の敵に命中した時、本来の1800%分の<color=#FF5521>「熱傷」</color>ダメージをさらに1回追加で与える、追加ダメージの効果は同じターゲットに対して20秒に1回のみ発動可能。",
+                "Burnice_Talent_06_Title_Realign": "火遊びのお誘い"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "パイパー",
+        "full_name": "パイパー・ウィール",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "のんびりとしたひと時",
+                "Clara_Talent_01_Desc_01_Realign": "<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>、<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>、または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、50%の確率で<color=#FFFFFF>「動力」</color>を追加で1重獲得し、\n<color=#FFFFFF>「動力」</color>を最大30重まで重ね掛けできるようになる。",
+                "Clara_Talent_01_Desc_02": "カリュドーンの子、いつも通りの朝。パイパーはのんびりとあくびをしている。\n「ふわぁ…おあよ～す」\n「今日ものんびりしていい～？養生は健康に欠かせないんだぜい。こいつが過労死してもいいのか～」",
+                "Clara_Talent_01_Desc_01": "<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>、<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>、または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、50%の確率で<color=#FFFFFF>「動力」</color>を追加で1重獲得し、<color=#FFFFFF>「動力」</color>を最大30重まで重ね掛けできるようになる。",
+                "Clara_Talent_01_Title_Realign": "のんびりとしたひと時"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "向上心",
+                "Clara_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>と<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>発動中、パイパーの移動速度が早くなる。<color=#FFFFFF>『特殊スキル：億劫な重さ』</color>、<color=#FFFFFF>『強化特殊スキル：兆、重たい』</color>または<color=#FFFFFF>『終結スキル』</color>の落下攻撃が敵に命中した時、スキルの与える<color=#F0D12B>物理属性ダメージ</color>が10%アップする。<color=#FFFFFF>「動力」</color>1重につき、追加で効果が1%上昇する。",
+                "Clara_Talent_02_Desc_02": "一時の努力は、より長い時間休憩するため…\nとはいえ、努力しなくていいに越したことはない。\nパイパーは伸びをすると、トラック内に設えたふかふかのベッドをポンポンして横になった。",
+                "Clara_Talent_02_Desc_01": "<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>と<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>発動中、パイパーの移動速度が早くなる。<color=#FFFFFF>『特殊スキル：億劫な重さ』</color>、<color=#FFFFFF>『強化特殊スキル：兆、重たい』</color>または<color=#FFFFFF>『終結スキル』</color>の落下攻撃が敵に命中した時、スキルの与える<color=#F0D12B>物理属性ダメージ</color>が10%アップする。<color=#FFFFFF>「動力」</color>1重につき、追加で効果が1%上昇する。",
+                "Clara_Talent_02_Title_Realign": "向上心"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "トラックのプロ",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Clara_Talent_03_Desc_02": "パイパーはトラックの全てに興味津々だ。\nエンジン音が響けば、たとえ熟睡していても瞬時に跳ね起きる——\n「100馬力、積載量5トン…おぉ～っ、スリーゲートんとこの新しい軽トラだな～！」",
+                "Clara_Talent_03_Title_Realign": "トラックのプロ"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "熟練のドラテク",
+                "Clara_Talent_04_Desc_01_Realign": "任意のメンバーが敵を状態異常にした時、\nパイパーのエネルギーが20Pt回復する、30秒に1回のみ発動可能。",
+                "Clara_Talent_04_Desc_02": "パイパーの隣に座るには、とてつもない勇気が要る。\n「しっかり座っとくんだぜい～」の「座っ」あたりで、もうトラックはかなりの距離を進んでいるからだ。\nとはいえ彼女は必ず最短時間で、かつ安全に乗客を目的地まで送り届ける。\n安全にというのはあくまで肉体の話であって、精神はこれに含まれない。",
+                "Clara_Talent_04_Desc_01": "任意のメンバーが敵を状態異常にした時、パイパーのエネルギーが20Pt回復する、30秒に1回のみ発動可能。",
+                "Clara_Talent_04_Title_Realign": "熟練のドラテク"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "個人的な趣味",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Clara_Talent_05_Desc_02": "パイパーの趣味は、その見た目とはずいぶんギャップがある。\n「このお馬さん、いい足してそうだぁ…ん？\nでも、なんだかオッズが微妙だなぁ。\nあー…こっちのお馬さんのほうが勝ちそうだもんなあ…」\n「うっぷ——ニトロフューエルがこんなにたくさん…もう飲めない…\nいや…もう一杯！」",
+                "Clara_Talent_05_Title_Realign": "個人的な趣味"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "軽い興奮",
+                "Clara_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>の最大継続時間が2秒増え、\n<color=#FFFFFF>「動力」</color>の継続時間が4秒延長される。",
+                "Clara_Talent_06_Desc_02": "知っての通り、日々のんびり生きられることがパイパーの一番の願いである。\nそんな少女が、今は目をぱっちり開いている。いつもは気だるそうな瞳に、光を宿して——\n「あんたのためなら…ちょっとは本気を出してもいいぜい～」",
+                "Clara_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>の最大継続時間が2秒増え、<color=#FFFFFF>「動力」</color>の継続時間が4秒延長される。",
+                "Clara_Talent_06_Title_Realign": "軽い興奮"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "月城柳",
+        "full_name": "月城 柳",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "敵を知り、己を知る",
+                "Yanagi_Talent_01_Desc_01_Realign": "任意のメンバーが敵を状態異常にした時、月城柳は<color=#FFFFFF>「洞察力」</color>を1重獲得する、継続時間15秒、\n最大3重まで重ね掛け可能、重複して発動すると継続時間が更新される。\n敵の攻撃を受けた時、月城柳は<color=#FFFFFF>「洞察力」</color>を1重消費して無敵効果を得る、継続時間1秒。\n<color=#FFFFFF>「洞察力」</color>を1重以上所持している時、月城柳の異常マスタリーが80Ptアップする。",
+                "Yanagi_Talent_01_Desc_02": "「敵の弱点を知ることは自身への保険であり、勝率向上のためでもあります」\n柳は眼鏡をクイっと上げる。\nどれほど勝算があろうと、彼女の声音はいつもどおり冷静なままだ。",
+                "Yanagi_Talent_01_Desc_01": "任意のメンバーが敵を状態異常にした時、月城柳は<color=#FFFFFF>「洞察力」</color>を1重獲得する、継続時間15秒、最大3重まで重ね掛け可能、重複して発動すると継続時間が更新される。敵の攻撃を受けた時、月城柳は<color=#FFFFFF>「洞察力」</color>を1重消費して無敵効果を得る、継続時間1秒。<color=#FFFFFF>「洞察力」</color>を1重以上所持している時、月城柳の異常マスタリーが80Ptアップする。",
+                "Yanagi_Talent_01_Title_Realign": "敵を知り、己を知る"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "卓越した適性",
+                "Yanagi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>の高速突き刺しによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が20%アップする。高速突き刺しが敵に命中した時、「特殊攻撃」ボタンを長押しし続けると、追加でエネルギーを10Pt消費して再び突き刺し攻撃を放つ、エネルギーが尽きるか長押しをやめると、そのまま落下攻撃を発動する。落下攻撃が状態異常の敵に命中、かつ<color=#FFFFFF>「極性混沌」</color>効果が発動した時、ターゲットに対するダメージ倍率が本来の<color=#FFFFFF>「混沌」</color>効果の20%になる。突き刺し攻撃を追加で1回発動するたびに、該当ダメージ倍率が追加で15%アップする。ダメージ倍率追加アップ効果は最大2回まで発動可能。",
+                "Yanagi_Talent_02_Desc_02": "「いかに尋常ならざる環境へ放り込まれようと、柳ならば対処できるだろう」\n「私は己を信じる以上に、柳を信じている」\n——「目に映る落ち葉をすべて断ち切る」修行に励む武芸者",
+                "Yanagi_Talent_02_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>の高速突き刺しによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が20%アップする。高速突き刺しが敵に命中した時、「特殊攻撃」ボタンを長押しし続けると、追加でエネルギーを10Pt消費して再び突き刺し攻撃を放つ、エネルギーが尽きるか長押しをやめると、そのまま落下攻撃を発動する。落下攻撃が状態異常の敵に命中、かつ<color=#FFFFFF>「極性混沌」</color>効果が発動した時、ターゲットに対するダメージ倍率が本来の<color=#FFFFFF>「混沌」</color>効果の20%になる。突き刺し攻撃を追加で1回発動するたびに、該当ダメージ倍率が追加で15%アップする。ダメージ倍率追加アップ効果は最大2回まで発動可能。",
+                "Yanagi_Talent_02_Title_Realign": "卓越した適性"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "月城さんのマネジメント術",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Yanagi_Talent_03_Desc_02": "人は対ホロウ6課を、天才という名の変人の集まりだと口を揃えて言う。\nそんな中、唯一「まとも」と言えるのが月城柳だ。\n変人の集まりを天才の集団たらしめているのは、彼女の手腕である。",
+                "Yanagi_Talent_03_Title_Realign": "月城さんの\nマネジメント術"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "盤上の支配者",
+                "Yanagi_Talent_04_Desc_01_Realign": "月城柳が敵に状態異常ダメージを与えた時、\nターゲットに<color=#FFFFFF>「暴露」</color>効果を付与する、継続時間15秒。\n<color=#FFFFFF>「暴露」</color>効果を付与された敵が攻撃を受けた時、今回の攻撃の貫通率が16%アップする。",
+                "Yanagi_Talent_04_Desc_02": "いついかなる場合でも、月城柳はあらゆる情報を最速で把握し、最適な判断を下すことができる。",
+                "Yanagi_Talent_04_Desc_01": "月城柳が敵に状態異常ダメージを与えた時、ターゲットに<color=#FFFFFF>「暴露」</color>効果を付与する、継続時間15秒。<color=#FFFFFF>「暴露」</color>効果を付与された敵が攻撃を受けた時、今回の攻撃の貫通率が16%アップする。",
+                "Yanagi_Talent_04_Title_Realign": "盤上の支配者"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "鬼「ママ」",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Yanagi_Talent_05_Desc_02": "月城柳は現在、蒼角の唯一の指定後見人である。\n「蒼角、それは課長のおにぎりですよ。勝手に食べちゃ——\nはぁ…仕方がないですね。温めてあげますから、こちらへ来てください。」\n「後で同じものを買って、返しておきましょう…」",
+                "Yanagi_Talent_05_Title_Realign": "鬼「ママ」"
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "人ならざる血",
+                "Yanagi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『強化特殊スキル』</color>の突き刺し攻撃を発動した後、<color=#FFFFFF>「森羅万象」</color>状態の継続時間が30秒まで延長される。状態継続中、<color=#FFFFFF>『強化特殊スキル』</color>の与ダメージが20%アップする。\n<color=#FFFFFF>「卓越した適性」</color>による<color=#FFFFFF>「極性混沌」</color>ダメージ倍率追加アップ効果の最大発動可能回数が4回になる。最初の4回の突き刺し攻撃追加発動時に消費されるエネルギーが半減する。",
+                "Yanagi_Talent_06_Desc_02": "月城柳の体内には、彼女のものではない血が流れている。\nその血はかつて絶望に直面した彼女を救い、特別な力を授けた。\n「ですがご存知の通り…私のものではない以上、いつかは代償を払う時が来るでしょう」",
+                "Yanagi_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>の突き刺し攻撃を発動した後、<color=#FFFFFF>「森羅万象」</color>状態の継続時間が30秒まで延長される。状態継続中、<color=#FFFFFF>『強化特殊スキル』</color>の与ダメージが20%アップする。<color=#FFFFFF>「卓越した適性」</color>による<color=#FFFFFF>「極性混沌」</color>ダメージ倍率追加アップ効果の最大発動可能回数が4回になる。最初の4回の突き刺し攻撃追加発動時に消費されるエネルギーが半減する。",
+                "Yanagi_Talent_06_Title_Realign": "人ならざる血"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}

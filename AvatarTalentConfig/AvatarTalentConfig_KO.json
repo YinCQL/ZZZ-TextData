@@ -1,0 +1,1227 @@
+{
+    "1011": {
+        "role_id": 1011,
+        "name": "엔비",
+        "full_name": "엔비 데마라",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anbi_Talent_01_Title": "고속 충전 모드",
+                "Anbi_Talent_01_Desc_01_Realign": "네 번째 <color=#FFFFFF>[일반 공격]</color>이 적에게 명중 시 엔비의 에너지 획득 효율이 12% 증가한다. 지속 시간: 30초",
+                "Anbi_Talent_01_Desc_02": "「1분만 충전하면, 30분 동안 싸울 수 있어!」\n무기에 확장 기능 모듈을 장착한 전문가는 이렇게 장담했다——\n사용 효과는 확실히 그가 말한 대로다.",
+                "Anbi_Talent_01_Desc_01": "네 번째 <color=#FFFFFF>[일반 공격]</color>이 적에게 명중 시 엔비의 에너지 획득 효율이 12% 증가한다. 지속 시간: 30초",
+                "Anbi_Talent_01_Title_Realign": "고속 충전 모드"
+            },
+            {
+                "talent_id": "2",
+                "Anbi_Talent_02_Title": "정밀 방전",
+                "Anbi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[일반 공격: 낙뢰]</color>가 그로기 상태인 적에게 명중 시 스킬로 주는 피해가 30% 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color>이 그로기 상태가 아닌 적에게 명중 시 스킬로 주는 그로기 수치가 10% 증가한다.",
+                "Anbi_Talent_02_Desc_02": "「감전되면, 쓰러지지」\n눈앞에 쓰러지는 적들을 담담하게 바라보며 소녀가 한마디를 더 한다.\n「영화에선 다 그렇던데」",
+                "Anbi_Talent_02_Desc_01": "<color=#FFFFFF>[일반 공격: 낙뢰]</color>가 그로기 상태인 적에게 명중 시 스킬로 주는 피해가 30% 증가한다. <color=#FFFFFF>[강화 특수 스킬]</color>이 그로기 상태가 아닌 적에게 명중 시 스킬로 주는 그로기 수치가 10% 증가한다.",
+                "Anbi_Talent_02_Title_Realign": "정밀 방전"
+            },
+            {
+                "talent_id": "3",
+                "Anbi_Talent_03_Title": "훈련의 성과",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Anbi_Talent_03_Desc_02": "달리고, 칼을 휘두르고, 전광석화처럼 빠르게 움직인다. 소녀는 공동을 탐색하는 초보가 아니라 전문가이다.",
+                "Anbi_Talent_03_Title_Realign": "훈련의 성과"
+            },
+            {
+                "talent_id": "4",
+                "Anbi_Talent_04_Title": "전하 전도",
+                "Anbi_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 대기 중인 전기 속성 캐릭터가 에너지를 3pt 회복한다.\n엔비가 에너지 획득 효율을 12% 보유할 때마다 회복량이 추가로 2pt 증가한다.\n최대 추가 증가: 6pt",
+                "Anbi_Talent_04_Desc_02": "장기적으로 봤을 때 개인 전투는 좋은 방법이 아니다. 노련한 레이더라면 전투 중에 팀원에게 기회를 만들어 줄 수 있어야 한다.",
+                "Anbi_Talent_04_Desc_01": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 대기 중인 전기 속성 캐릭터가 에너지를 3pt 회복한다. 엔비가 에너지 획득 효율을 12% 보유할 때마다 회복량이 추가로 2pt 증가한다. 최대 추가 증가 6pt",
+                "Anbi_Talent_04_Title_Realign": "전하 전도"
+            },
+            {
+                "talent_id": "5",
+                "Anbi_Talent_05_Title": "길거리에서 쌓은 경험",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Anbi_Talent_05_Desc_02": "교활한 토끼굴의 업무는 심리적 소양을 고무할 뿐만 아니라 (강제로) 신체적 자질을 높이기도 한다.",
+                "Anbi_Talent_05_Title_Realign": "길거리에서 쌓은 경험"
+            },
+            {
+                "talent_id": "6",
+                "Anbi_Talent_06_Title": "충전 전기장",
+                "Anbi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 엔비가 충전을 8스택 획득한다. (최대치: 8스택)\n<color=#FFFFFF>[일반 공격]</color> 혹은 <color=#FFFFFF>[대시 공격]</color>이 적에게 명중 시 충전을 1스택 소모하고 현재 스킬로 주는 피해가 45% 증가한다.",
+                "Anbi_Talent_06_Desc_02": "번쩍이는 전광이 소녀의 손끝에서 움직인다.\n고개를 든 소녀의 눈 속엔 나이와 어울리지 않는 결연함으로 가득하다.\n언젠가는 저 소녀가 이 찰나의 불빛을 제어할 수 있을지도…",
+                "Anbi_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 엔비가 충전을 8스택 획득한다. (최대치: 8스택) <color=#FFFFFF>[일반 공격]</color> 혹은 <color=#FFFFFF>[대시 공격]</color>이 적에게 명중 시 충전을 1스택 소모하고 현재 스킬로 주는 피해가 45% 증가한다.",
+                "Anbi_Talent_06_Title_Realign": "충전 전기장"
+            }
+        ]
+    },
+    "1021": {
+        "role_id": 1021,
+        "name": "네코마타",
+        "full_name": "네코미야 마나",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Tsubaki_Talent_01_Title": "새 사냥 기술",
+                "Tsubaki_Talent_01_Desc_01_Realign": "후면 공격이 적에게 명중 시 네코마타가 타깃의 <color=#F0D12B>물리 피해 저항</color>을 16% 무시한다.\n적이 그로기 상태일 때, 네코마타가 해당 적에게 시전하는 모든 공격이 후면 공격으로 간주된다.",
+                "Tsubaki_Talent_01_Desc_02": "왜소한 네코마타는 강력한 힘 대신 상대방의 약점을 캐치하는 눈썰미와\n그 약점을 빠르고 정확하게 공격하는 능력을 가지고 있다.",
+                "Tsubaki_Talent_01_Desc_01": "후면 공격이 적에게 명중 시 네코마타가 타깃의 <color=#F0D12B>물리 피해 저항</color>을 16% 무시한다. 적이 그로기 상태일 때, 네코마타가 해당 적에게 시전하는 모든 공격이 후면 공격으로 간주된다.",
+                "Tsubaki_Talent_01_Title_Realign": "새 사냥 기술"
+            },
+            {
+                "talent_id": "2",
+                "Tsubaki_Talent_02_Title": "쥐와 고양이",
+                "Tsubaki_Talent_02_Desc_01_Realign": "전장에 적이 1기만 있고 자신이 출전 중일 경우, 네코마타의 에너지 획득 효율이 25% 증가한다.",
+                "Tsubaki_Talent_02_Desc_02": "고양이들은 사냥감을 가지고 노는 것을 더 좋아한다.\n「쥐」가 한 마리만 남았을 때가 바로 그녀가 즐길 시간이다.",
+                "Tsubaki_Talent_02_Desc_01": "전장에 적이 1기만 있고 자신이 출전 중일 경우, 네코마타의 에너지 획득 효율이 25% 증가한다.",
+                "Tsubaki_Talent_02_Title_Realign": "쥐와 고양이"
+            },
+            {
+                "talent_id": "3",
+                "Tsubaki_Talent_03_Title": "호기심 많은 왼쪽 꼬리",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Tsubaki_Talent_03_Desc_02": "옛 문명에서 전해져 내려오는 이야기에 따르면 꼬리 하나는 고양이 목숨 한 개를 뜻하며 그 속에는 다년간 축적된 생존의 지혜가 쌓여있다고 하지만…\n이는 거짓이다. 그러나 네코마타가 길거리를 전전하며 축적한 생존 경험은 모두 사실이다.",
+                "Tsubaki_Talent_03_Title_Realign": "호기심 많은 왼쪽 꼬리"
+            },
+            {
+                "talent_id": "4",
+                "Tsubaki_Talent_04_Title": "발톱 갈기",
+                "Tsubaki_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 네코마타의 치명타 확률이 7% 증가한다.\n최대 중첩: 2스택, 지속 시간: 15초, 각 스택의 지속 시간은 따로 계산된다.",
+                "Tsubaki_Talent_04_Desc_02": "「많이 줘, 많이! 다~ 소화시킬 수 있으니까!」 \n고양이 시렌이 눈을 반짝이며 발톱을 핥는다.",
+                "Tsubaki_Talent_04_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 네코마타의 치명타 확률이 7% 증가한다. 최대 중첩: 2스택, 지속 시간: 15초, 각 스택의 지속 시간은 따로 계산된다.",
+                "Tsubaki_Talent_04_Title_Realign": "발톱 갈기"
+            },
+            {
+                "talent_id": "5",
+                "Tsubaki_Talent_05_Title": "행운의 오른쪽 꼬리",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Tsubaki_Talent_05_Desc_02": "옛 문명에서 전해져 내려오는 이야기에 따르면 꼬리 하나는 고양이 목숨 한 개를 뜻하며 그 속에는 다년간 축적된 생존의 지혜가 쌓여있다고 하지만…\n네코마타는 종종 의구심이 든다. 만약 운이 좋아 계속 살아남을 수 있다면 언젠가 새로운 꼬리가 생겨나지 않을까?",
+                "Tsubaki_Talent_05_Title_Realign": "행운의 오른쪽 꼬리"
+            },
+            {
+                "talent_id": "6",
+                "Tsubaki_Talent_06_Title": "포식자의 혈통",
+                "Tsubaki_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 네코마타의 치명타 피해가 18% 증가한다. 최대 중첩: 3스택, 교전 상태 종료 시 버프 효과가 사라진다. 네코마타가 적을 처치할 경우 해당 버프 효과는 즉시 최대치까지 중첩된다.",
+                "Tsubaki_Talent_06_Desc_02": "「고양이 시렌에게 있어 공격 행위로 인한 긍정적 피드백은 그들의 잠재된 폭력적인 성향을 불러올 수 있다.\n다행히 이런 성향은 영구적이진 않은 것 같다…」\n——오래된 〈고양이 시렌 불완전 연구 수첩〉에서 발췌",
+                "Tsubaki_Talent_06_Desc_01": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 네코마타의 치명타 피해가 18% 증가한다. 최대 중첩: 3스택, 교전 상태 종료 시 버프 효과가 사라진다. 네코마타가 적을 처치할 경우 해당 버프 효과는 즉시 최대치까지 중첩된다.",
+                "Tsubaki_Talent_06_Title_Realign": "포식자의 혈통"
+            }
+        ]
+    },
+    "1031": {
+        "role_id": 1031,
+        "name": "니콜",
+        "full_name": "니콜 데마라",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Nostradamus_Talent_01_Title": "증압 강화탄",
+                "Nostradamus_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>로 주는 피해 및 누적하는 속성 이상 축적치가 16% 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 차지 시간이 0.1초 증가할 때마다 목표 지점에 생성되는 에너지장의 지속 시간이 0.15초 증가한다.",
+                "Nostradamus_Talent_01_Desc_02": "「너희는 강해졌어. 어서 돌격해!」\n「뭐? 나, 난 이 틈에 도망칠 생각 아니었거든. 그저 휴식이 필요했을 뿐이라고!」",
+                "Nostradamus_Talent_01_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>로 주는 피해 및 누적하는 속성 이상 축적치가 16% 증가한다. <color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 차지 시간이 0.1초 증가할 때마다 목표 지점에 생성되는 에너지장의 지속 시간이 0.15초 증가한다.",
+                "Nostradamus_Talent_01_Title_Realign": "증압 강화탄"
+            },
+            {
+                "talent_id": "2",
+                "Nostradamus_Talent_02_Title": "에너지 응집 장치",
+                "Nostradamus_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[핵심 패시브: 트릭 상자]</color>의 디버프 효과 발동 시 니콜이 에너지를 5pt 회복한다. 15초 동안 최대 1회 발동한다.",
+                "Nostradamus_Talent_02_Desc_02": "「1초 증가했다고 무시하지 마!」\n「1초 안에 얼마나 많은 가치를 만들어 낼 수 있는지 알아? 셀 수도 없다고!」\n「그러니까 보조금을 10% 더 달라는 건 지나친 요구가 아니지?」",
+                "Nostradamus_Talent_02_Desc_01": "<color=#FFFFFF>[핵심 패시브: 트릭 상자]</color>의 디버프 효과 발동 시 니콜이 에너지를 5pt 회복한다. 15초 동안 최대 1회 발동한다.",
+                "Nostradamus_Talent_02_Title_Realign": "에너지 응집 장치"
+            },
+            {
+                "talent_id": "3",
+                "Nostradamus_Talent_03_Title": "교활한 토끼의 지혜",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Nostradamus_Talent_03_Desc_02": "전투력이 세지도 않고 자원이 풍부한 것도 아닌데 니콜이 교활한 토끼굴을 지금껏 이끌어 올 수 있었던 것은\n그녀의 명석한 두뇌 때문이다.",
+                "Nostradamus_Talent_03_Title_Realign": "교활한 토끼의 지혜"
+            },
+            {
+                "talent_id": "4",
+                "Nostradamus_Talent_04_Title": "영역 확장",
+                "Nostradamus_Talent_04_Desc_01_Realign": "니콜이 <color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[궁극기]</color> 시전 시\n목표 지점에 생성되는 에너지장의 공격 범위가 증가한다. (직경+3m)",
+                "Nostradamus_Talent_04_Desc_02": "「여기, 그리고 여기, 앞으로 모두 교활한 토끼굴의 영역이 될 거야. 알아들었어?!」\n「뭐? 얼마 뒤냐고?」\n「음… 지금 우리 수익으로 계산하면 겨우 10,000년 정도야!」",
+                "Nostradamus_Talent_04_Desc_01": "니콜이 <color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[궁극기]</color> 시전 시 목표 지점에 생성되는 에너지장의 공격 범위가 증가한다. (직경+3m)",
+                "Nostradamus_Talent_04_Title_Realign": "영역 확장"
+            },
+            {
+                "talent_id": "5",
+                "Nostradamus_Talent_05_Title": "업계 유명 인사",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Nostradamus_Talent_05_Desc_02": "업계에 적이 많은 것은 사실이지만 니콜이 여러 차례 부하들을 이끌고 위험한 상황에서 구사일생으로 살아 돌아왔기에\n교활한 토끼굴의 유명세와 경험치도 꾸준히 향상되었다.",
+                "Nostradamus_Talent_05_Title_Realign": "업계 유명 인사"
+            },
+            {
+                "talent_id": "6",
+                "Nostradamus_Talent_06_Title": "침식 에너지장",
+                "Nostradamus_Talent_06_Desc_01_Realign": "에너지장이 적에게 피해를 줄 시 해당 타깃에 대한 모든 파티원의 치명타 확률이 1.5% 증가한다.\n최대 중첩: 10스택, 지속 시간: 12초, 각 스택의 지속 시간은 따로 계산된다.",
+                "Nostradamus_Talent_06_Desc_02": "더욱 높은 등급의 기계 탄약 사용, 더 강력한 화력과 농축된 에테르 물질의 함량 증가, 더 강한 피해, 더 길어진 지속 시간…\n물론 더 비싸진 가격",
+                "Nostradamus_Talent_06_Desc_01": "에너지장이 적에게 피해를 줄 시 해당 타깃에 대한 모든 파티원의 치명타 확률이 1.5% 증가한다. 최대 중첩: 10스택, 지속 시간: 12초, 각 스택의 지속 시간은 따로 계산된다.",
+                "Nostradamus_Talent_06_Title_Realign": "침식 에너지장"
+            }
+        ]
+    },
+    "1081": {
+        "role_id": 1081,
+        "name": "빌리",
+        "full_name": "빌리 키드",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Billy_Talent_01_Title": "깜짝 등장",
+                "Billy_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[대시 공격]</color> 혹은 <color=#FFFFFF>[회피 반격]</color>이 적에게 명중 시 빌리가 에너지를 추가로 2.7pt 회복한다. 5초 동안 최대 1회 발동한다.",
+                "Billy_Talent_01_Desc_02": "「악역 치고 너무 정직하잖아!」\n「주인공을 위해 설치한 움직이지 않는 과녁처럼!」",
+                "Billy_Talent_01_Desc_01": "<color=#FFFFFF>[대시 공격]</color> 혹은 <color=#FFFFFF>[회피 반격]</color>이 적에게 명중 시 빌리가 에너지를 추가로 2.7pt 회복한다. 5초 동안 최대 1회 발동한다.",
+                "Billy_Talent_01_Title_Realign": "깜짝 등장"
+            },
+            {
+                "talent_id": "2",
+                "Billy_Talent_02_Title": "무빙 사격술",
+                "Billy_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[회피 반격]</color>으로 주는 피해가 25% 증가한다.\n<color=#FFFFFF>[일반 공격]</color> 중 구르기 사격이 회피 동작으로 간주되며 스킬을 시전하는 동안 무적 효과를 획득하고 <color=#FFFFFF>[극한 회피]</color>를 발동할 수 있다. 구르기 사격으로 <color=#FFFFFF>[극한 회피]</color> 발동 시 <color=#FFFFFF>[회피 반격]</color>을 자동으로 이어서 시전한다.",
+                "Billy_Talent_02_Desc_02": "「별빛 기사는 위험을 피하지 않아. 그건 도망이 아니라 게릴라 작전이라고!」\n——스타라이트-커뮤니티, 회원 「꿈속의 모니카」의 댓글",
+                "Billy_Talent_02_Desc_01": "<color=#FFFFFF>[회피 반격]</color>으로 주는 피해가 25% 증가한다. <color=#FFFFFF>[일반 공격]</color> 중 구르기 사격이 회피 동작으로 간주되며 스킬을 시전하는 동안 무적 효과를 획득하고 <color=#FFFFFF>[극한 회피]</color>를 발동할 수 있다. 구르기 사격으로 <color=#FFFFFF>[극한 회피]</color> 발동 시 <color=#FFFFFF>[회피 반격]</color>을 자동으로 이어서 시전한다.",
+                "Billy_Talent_02_Title_Realign": "무빙 사격술"
+            },
+            {
+                "talent_id": "3",
+                "Billy_Talent_03_Title": "별빛 기사의 가르침",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Billy_Talent_03_Desc_02": "훈련을 게을리하지 말고, 발전을 멈추지 않는 것.\n이것이야말로 별빛 기사가 주장하는 정신이다. 빌리는 이 말을 곧이곧대로 믿고 그렇게 따르고 있다.",
+                "Billy_Talent_03_Title_Realign": "별빛 기사의 가르침"
+            },
+            {
+                "talent_id": "4",
+                "Billy_Talent_04_Title": "스타라이트-징벌의 탄약",
+                "Billy_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 스킬의 치명타 확률이 자신과 타깃의 거리에 따라 증가한다.\n빌리와 타깃의 거리가 가까울수록 증가 효과가 두드러진다. 최대 증가: 32%",
+                "Billy_Talent_04_Desc_02": "빌리의 특제 폭발형 총알은 근접전에서 놀라운 위력을 가진다.\n사실 빌리가 총알을 개조한 목적은 더 멋져 보이기 위해서이다.",
+                "Billy_Talent_04_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 스킬의 치명타 확률이 자신과 타깃의 거리에 따라 증가한다. 빌리와 타깃의 거리가 가까울수록 증가 효과가 두드러진다. 최대 증가: 32%",
+                "Billy_Talent_04_Title_Realign": "스타라이트-징벌의 탄약"
+            },
+            {
+                "talent_id": "5",
+                "Billy_Talent_05_Title": "사라진 기술 구조체",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Billy_Talent_05_Desc_02": "미지의 정밀한 부품과 독자적인 구조 설계로 인해 빌리는 동급의 로봇보다 훨씬 뛰어난 성능을 가지게 되었다.\n물론 수리 및 유지 보수 비용도 높아졌지만 말이다.",
+                "Billy_Talent_05_Title_Realign": "사라진 기술 구조체"
+            },
+            {
+                "talent_id": "6",
+                "Billy_Talent_06_Title": "스타라이트-영웅의 순간",
+                "Billy_Talent_06_Desc_01_Realign": "적에게 누적 10회 명중하거나 <color=#FFFFFF>[극한 회피]</color> 발동 시 빌리가 주는 피해가 6% 증가한다.\n최대 중첩: 5스택, 적에 의해 넉백 혹은 넉업되면 버프 효과가 초기화된다.",
+                "Billy_Talent_06_Desc_02": "「오~ 느낌이 와! 엔비, 비켜. 이제 여기는 내 홈그라운드니까!」\n「어, 엔비, 별빛 기사 오프닝곡 좀 틀어줄래?」\n——교활한 토끼굴 「10대 금기어」 선정, 엔비 상정",
+                "Billy_Talent_06_Desc_01": "적에게 누적 10회 명중하거나 <color=#FFFFFF>[극한 회피]</color> 발동 시 빌리가 주는 피해가 6% 증가한다. 최대 중첩: 5스택, 적에 의해 넉백 혹은 넉업되면 버프 효과가 초기화된다.",
+                "Billy_Talent_06_Title_Realign": "스타라이트-영웅의 순간"
+            }
+        ]
+    },
+    "1101": {
+        "role_id": 1101,
+        "name": "콜레다",
+        "full_name": "콜레다 벨로보그",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "OokumaMari_Talent_01_Title": "리드미컬한 망치질",
+                "OokumaMari_Talent_01_Desc_01_Realign": "두 번째, 네 번째 <color=#FFFFFF>[일반 공격]</color> 혹은 강화된 <color=#FFFFFF>[일반 공격]</color>에 이어서 <color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>을 빠르게 시전할 시 스킬로 주는 그로기 수치가 15% 증가한다.",
+                "OokumaMari_Talent_01_Desc_02": "불같은 성격은 겉으로 보이는 것뿐이고 사실 콜레다는 매우 섬세하다.\n예를 들어 그녀는 더 아프게 때리기 위해 언제 망치를 휘둘러야 하는지 알고 있다.",
+                "OokumaMari_Talent_01_Desc_01": "두 번째, 네 번째 <color=#FFFFFF>[일반 공격]</color> 혹은 강화된 <color=#FFFFFF>[일반 공격]</color>에 이어서 <color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>을 빠르게 시전할 시 스킬로 주는 그로기 수치가 15% 증가한다.",
+                "OokumaMari_Talent_01_Title_Realign": "리드미컬한 망치질"
+            },
+            {
+                "talent_id": "2",
+                "OokumaMari_Talent_02_Title": "운동 에너지 회수",
+                "OokumaMari_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 콜레다가 에너지를 60pt 회복한다. 45초 동안 최대 1회 발동한다.",
+                "OokumaMari_Talent_02_Desc_02": "콜레다는 완벽한 망치질에는 독특한 리듬이 필요하다고 생각한다.\n탬버린을 빠르게 치듯, 더 강한 다음 타격을 위해 힘을 모은다.\n눈앞의 「장난감」이 망치질을 몇 번이나 더 버텨낼 수 있을지는 모르지만 말이다.",
+                "OokumaMari_Talent_02_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 콜레다가 에너지를 60pt 회복한다. 45초 동안 최대 1회 발동한다.",
+                "OokumaMari_Talent_02_Title_Realign": "운동 에너지 회수"
+            },
+            {
+                "talent_id": "3",
+                "OokumaMari_Talent_03_Title": "「날 화나게 하지 마!」",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "OokumaMari_Talent_03_Desc_02": "망치질을 할 때 콜레다가 점차 감을 찾으면\n「장난감」으로서 되도록 반항하지 말고 얌전히 있자.\n——어차피 저항해 봤자 소용없으니까",
+                "OokumaMari_Talent_03_Title_Realign": "「날 화나게 하지 마!」"
+            },
+            {
+                "talent_id": "4",
+                "OokumaMari_Talent_04_Title": "용광로의 잔열",
+                "OokumaMari_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[용광로 열기]</color>를 소모하여 강화된 <color=#FFFFFF>[일반 공격]</color> 시전 시 콜레다가 충전을 1스택 획득한다. (최대치: 2스택)\n<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 모든 충전을 소모하고 충전 스택당 현재 스킬로 주는 피해가 18% 증가한다.",
+                "OokumaMari_Talent_04_Desc_02": "뜨거운 망치를 휘둘러 주위의 온도가 상승하면, 콜레다는 전투 상태에 돌입한다.\n그녀는 지금 에테르 폭약보다 더 쉽게 타고 폭발한다.",
+                "OokumaMari_Talent_04_Desc_01": "<color=#FFFFFF>[용광로 열기]</color>를 소모하여 강화된 <color=#FFFFFF>[일반 공격]</color> 시전 시 콜레다가 충전을 1스택 획득한다. (최대치: 2스택)\n<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 모든 충전을 소모하고 충전 스택당 현재 스킬로 주는 피해가 18% 증가한다.",
+                "OokumaMari_Talent_04_Title_Realign": "용광로의 잔열"
+            },
+            {
+                "talent_id": "5",
+                "OokumaMari_Talent_05_Title": "「감히 날 얕봐?」",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "OokumaMari_Talent_05_Desc_02": "콜레다는 젊은 보스인 그녀로 인해 다른 사람들이 벨로보그 중공업을 깔보지 않을까 매우 우려하고 있다.\n이 점을 보완하기 위해 그녀는 언제나 묵묵히 수련한다.",
+                "OokumaMari_Talent_05_Title_Realign": "「감히 날 얕봐?」"
+            },
+            {
+                "talent_id": "6",
+                "OokumaMari_Talent_06_Title": "포화 폭파",
+                "OokumaMari_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 중에 일으킨 폭발이 적에게 명중 시 콜레다 공격력의 360%에 해당하는 피해를 추가로 준다.",
+                "OokumaMari_Talent_06_Desc_02": "콜레다가 싫어하는 사람은 두 가지 부류로 나뉜다.\n바보와 구제 불능의 바보——\n다행히 벨로보그 중공업에는 극성 에테르 폭약이 항상 충분해서\n여유분은 이 바보들에게 쓸 수 있다.",
+                "OokumaMari_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 중에 일으킨 폭발이 적에게 명중 시 콜레다 공격력의 360%에 해당하는 피해를 추가로 준다.",
+                "OokumaMari_Talent_06_Title_Realign": "포화 폭파"
+            }
+        ]
+    },
+    "1111": {
+        "role_id": 1111,
+        "name": "앤톤",
+        "full_name": "앤톤 이바노프",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Anton_Talent_01_Title": "워밍업",
+                "Anton_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[드릴 공격]</color>이 적에게 명중 시 에너지를 추가로 회복할 수 있다.\n동일한 공격 한 번에 해당 효과로 앤톤이 에너지를 최대 5pt 회복한다.",
+                "Anton_Talent_01_Desc_02": "「깼어? 움직이자, 친구!」 \n「리듬에 몸을 맡겨. 지금은 아침 체조 시간이야!」",
+                "Anton_Talent_01_Desc_01": "<color=#FFFFFF>[드릴 공격]</color>이 적에게 명중 시 에너지를 추가로 회복할 수 있다. 동일한 공격 한 번에 해당 효과로 앤톤이 에너지를 최대 5pt 회복한다.",
+                "Anton_Talent_01_Title_Realign": "워밍업"
+            },
+            {
+                "talent_id": "2",
+                "Anton_Talent_02_Title": "기세등등",
+                "Anton_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color> 시전 후 <color=#FFFFFF>[폭발 상태]</color> 진입 시 앤톤 HP 최대치의 7.5%에 해당하는 실드를 획득한다.\n<color=#FFFFFF>[폭발 상태]</color>에서 교전 상태 진입 혹은 교체 출전 시 실드 효과가 갱신된다. 15초 동안 최대 1회 발동한다.\n<color=#FFFFFF>[폭발 상태]</color> 종료 시 해당 실드 효과가 사라진다.",
+                "Anton_Talent_02_Desc_02": "장기간의 고된 훈련을 거친 이들 중, 일부 행운아는 고강도 운동을 할 때 최고의 기세를 발휘해 자기 능력 이상의 수준을 보여주는데 이를 「존(ZONE)」이라고 한다.\n함께 「존(ZONE)」에 진입할 준비됐나?\n——니트로 퓨엘 독점 스폰서 프로그램, 「굿모닝, 열혈 직장인!」",
+                "Anton_Talent_02_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 시전 후 <color=#FFFFFF>[폭발 상태]</color> 진입 시 앤톤 HP 최대치의 7.5%에 해당하는 실드를 획득한다. <color=#FFFFFF>[폭발 상태]</color>에서 교전 상태 진입 혹은 교체 출전 시 실드 효과가 갱신된다. 15초 동안 최대 1회 발동한다. <color=#FFFFFF>[폭발 상태]</color> 종료 시 해당 실드 효과가 사라진다.",
+                "Anton_Talent_02_Title_Realign": "기세등등"
+            },
+            {
+                "talent_id": "3",
+                "Anton_Talent_03_Title": "교대 훈련",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Anton_Talent_03_Desc_02": "뭐든 조금씩 할 줄 안다는 건 평범하다고 할 수 있지만, 상황이 복잡하고 변화무쌍한 공동 작업 현장에서 스킬이 하나 더 있다는 것은 때때로 어려움을 극복할 가능성이 하나 더 있다는 것을 의미한다.",
+                "Anton_Talent_03_Title_Realign": "교대 훈련"
+            },
+            {
+                "talent_id": "4",
+                "Anton_Talent_04_Title": "함께 불태우자!",
+                "Anton_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 모든 파티원의 치명타 확률이 10% 증가한다. 지속 시간: 12초",
+                "Anton_Talent_04_Desc_02": "「평소에 훈련하는 느낌을 생각하며 움직여 봐!」\n앤톤이 진지해지기 시작하면, 모두의 동작이 깔끔해진다.\n그의 리듬을 따라가지 못하면, 내일 아침 체조는 따로 추가 연습해야 하니까.",
+                "Anton_Talent_04_Desc_01": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 모든 파티원의 치명타 확률이 10% 증가한다. 지속 시간: 12초",
+                "Anton_Talent_04_Title_Realign": "함께 불태우자!"
+            },
+            {
+                "talent_id": "5",
+                "Anton_Talent_05_Title": "만능형 전문가",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Anton_Talent_05_Desc_02": "뭐든 조금씩 할 줄 안다는 건 평범하다고 할 수 있지만, 의지가 충분히 굳건하고 「조금씩 할 줄 알기」에서 「아주 잘하기」로 바뀐다면, 너는 일당백이 될 수 있을 거야!",
+                "Anton_Talent_05_Title_Realign": "만능형 전문가"
+            },
+            {
+                "talent_id": "6",
+                "Anton_Talent_06_Title": "한계 돌파",
+                "Anton_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[스파이크 공격]</color>으로 치명타를 줄 시 <color=#FFFFFF>[일반 공격: 열정적인 근무 체조(폭발 상태)]</color> 및 <color=#FFFFFF>[회피 반격: 과부하 드릴(폭발 상태)]</color>로 주는 피해가 4% 증가한다. 최대 중첩: 6스택, 지속 시간: 30초, 중복 발동 시 지속 시간이 갱신된다.",
+                "Anton_Talent_06_Desc_02": "「어이! 친구! 너도 불태우고 싶어?」\n앤톤이 한계를 돌파하고 싶을 때마다,\n「친구」는 놀라운 회전 속도를 내며 윙윙거리는 소리와 함께 그의 의지를 보여준다.",
+                "Anton_Talent_06_Desc_01": "<color=#FFFFFF>[스파이크 공격]</color>으로 치명타를 줄 시 <color=#FFFFFF>[일반 공격: 열정적인 근무 체조(폭발 상태)]</color> 및 <color=#FFFFFF>[회피 반격: 과부하 드릴(폭발 상태)]</color>로 주는 피해가 4% 증가한다. 최대 중첩: 6스택, 지속 시간: 30초, 중복 발동 시 지속 시간이 갱신된다.",
+                "Anton_Talent_06_Title_Realign": "한계 돌파"
+            }
+        ]
+    },
+    "1121": {
+        "role_id": 1121,
+        "name": "벤",
+        "full_name": "벤 비거",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ben_Talent_01_Title": "반작용력",
+                "Ben_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>을 시전해 성공적으로 적의 공격을 가드하면 공격자가 주는 피해가 30% 감소한다. 지속 시간: 15초",
+                "Ben_Talent_01_Desc_02": "「힘은 서로 작용하는 건데, 왜 정면 돌파하려는 거야?」\n「아무래도 제대로 계산해 본 적이 없나 보군」",
+                "Ben_Talent_01_Desc_01": "<color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>을 시전해 성공적으로 적의 공격을 가드하면 공격자가 주는 피해가 30% 감소한다. 지속 시간: 15초",
+                "Ben_Talent_01_Title_Realign": "반작용력"
+            },
+            {
+                "talent_id": "2",
+                "Ben_Talent_02_Title": "수비가 곧 공격",
+                "Ben_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color> 중에 가드 반격 발동 성공 시, 벤 방어력의 300%에 해당하는 피해를 추가로 준다.",
+                "Ben_Talent_02_Desc_02": "다른 곰 시렌과 달리 전투 시의 벤은 인내심이 많다.\n왜냐하면 그는 수비만 잘하면 언젠가 적이 약점을 드러내는 순간을 포착할 수 있다고 믿기 때문이다.",
+                "Ben_Talent_02_Desc_01": "<color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color> 중에 가드 반격 발동 성공 시, 벤 방어력의 300%에 해당하는 피해를 추가로 준다.",
+                "Ben_Talent_02_Title_Realign": "수비가 곧 공격"
+            },
+            {
+                "talent_id": "3",
+                "Ben_Talent_03_Title": "면밀한 계산",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Ben_Talent_03_Desc_02": "재무 담당자로서 면밀한 예산 계획을 세우고,\n사용 가능한 모든 자원을 동원해 모두와 자신을 강하게 하는 법을 배울 필요가 있다.",
+                "Ben_Talent_03_Title_Realign": "면밀한 계산"
+            },
+            {
+                "talent_id": "4",
+                "Ben_Talent_04_Title": "임기응변",
+                "Ben_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color> 중에 무적 효과를 통해 공격을 성공적으로 가드하면 후속 반격으로 주는 피해가 30% 증가한다.",
+                "Ben_Talent_04_Desc_02": "회계사의 직업적 본능에 따라, 벤은 형식과 동향에 맞춰 자신의 대책을 조절한다.\n장부를 보든, 적을 대하든, 반드시 최저 코스트로 최고의 효과를 이뤄야 한다.",
+                "Ben_Talent_04_Desc_01": "<color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color> 중에 무적 효과를 통해 공격을 성공적으로 가드하면 후속 반격으로 주는 피해가 30% 증가한다.",
+                "Ben_Talent_04_Title_Realign": "임기응변"
+            },
+            {
+                "talent_id": "5",
+                "Ben_Talent_05_Title": "빠짐없는 디테일",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Ben_Talent_05_Desc_02": "벤의 예리한 눈빛은 보고서의 어떠한 실수도 놓치지 않는다.\n이는 전투할 때도 마찬가지이다. 실수를 고쳐나가며 벤은 점차 강해진다.",
+                "Ben_Talent_05_Title_Realign": "빠짐없는 디테일"
+            },
+            {
+                "talent_id": "6",
+                "Ben_Talent_06_Title": "야성의 투지",
+                "Ben_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color> 중에 공격 혹은 추가로 강력한 타격 시전 후\n<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[회피 반격]</color>으로 주는 그로기 수치가 20% 증가한다. 지속 시간: 12초",
+                "Ben_Talent_06_Desc_02": "곰과 시렌과 갯과 시렌은 다르다. 먹는 걸로는 그들의 불안함을 진정시킬 수 없다.\n그들이 화를 낸다면, 당신이 유일하게 할 수 있는 건 바로 빠르게 멀리 도망치는 것이다…\n——단종된 책 〈좋은 이웃이 되자! 시렌과 어울리는 100가지 팁〉",
+                "Ben_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 중에 공격 혹은 추가로 강력한 타격 시전 후 <color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[회피 반격]</color>으로 주는 그로기 수치가 20% 증가한다. 지속 시간: 12초",
+                "Ben_Talent_06_Title_Realign": "야성의 투지"
+            }
+        ]
+    },
+    "1181": {
+        "role_id": 1181,
+        "name": "그레이스",
+        "full_name": "그레이스 하워드",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lisa_Talent_01_Title": "약실 재충전",
+                "Lisa_Talent_01_Desc_01_Realign": "네 번째 <color=#FFFFFF>[일반 공격]</color>이 적에게 명중할 때마다 모든 파티원이 에너지를 0.25pt 회복한다.\n동일한 공격 한 번에 해당 효과로 모든 파티원이 에너지를 최대 2pt 회복한다.",
+                "Lisa_Talent_01_Desc_02": "효율성은 엔지니어링에서 생명과 같다.\n그레이스의 약실에는 엔지니어링의 심장 박동이 울려 퍼진다.",
+                "Lisa_Talent_01_Desc_01": "네 번째 <color=#FFFFFF>[일반 공격]</color>이 적에게 명중할 때마다 모든 파티원이 에너지를 0.25pt 회복한다.\n동일한 공격 한 번에 해당 효과로 모든 파티원이 에너지를 최대 2pt 회복한다.",
+                "Lisa_Talent_01_Title_Realign": "약실 재충전"
+            },
+            {
+                "talent_id": "2",
+                "Lisa_Talent_02_Title": "절연 파괴",
+                "Lisa_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[강화 특수 스킬]</color> 등 스킬 중에 투척한 수류탄이 적에게 명중 시\n타깃의 <color=#2EB6FF>전기 속성 피해 저항</color>이 8.5% 감소하고 <color=#2EB6FF>전기 속성 이상 축적 저항</color>이 8.5% 감소한다. 지속 시간: 8초",
+                "Lisa_Talent_02_Desc_02": "복잡한 기계 구조를 「해부」하는 것은 그레이스가 가장 좋아하는 일이다. 심지어는 전투 중에도 말이다.\n해부당하는 입장에선 어떻게 느껴질까? 녀석의 모든 크고 작은 부품이 적나라하게 노출되는 느낌 말이다.",
+                "Lisa_Talent_02_Desc_01": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[강화 특수 스킬]</color> 등 스킬 중에 투척한 수류탄이 적에게 명중 시 타깃의 <color=#2EB6FF>전기 속성 피해 저항</color>이 8.5% 감소하고 <color=#2EB6FF>전기 속성 이상 축적 저항</color>이 8.5% 감소한다. 지속 시간: 8초",
+                "Lisa_Talent_02_Title_Realign": "절연 파괴"
+            },
+            {
+                "talent_id": "3",
+                "Lisa_Talent_03_Title": "수석 엔지니어",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Lisa_Talent_03_Desc_02": "그레이스는 〈벨로보그 중공업 안전 시공 지침〉을 직접 작성했으며 「공사장 내 위험 폭발물 반입금지」 규정을 가장 많이 위반한 직원이 됐다.",
+                "Lisa_Talent_03_Title_Realign": "수석 엔지니어"
+            },
+            {
+                "talent_id": "4",
+                "Lisa_Talent_04_Title": "폭파 축전기",
+                "Lisa_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 그레이스가 충전을 6스택 획득한다. (최대치: 6스택)\n<color=#FFFFFF>[일반 공격]</color> 혹은 <color=#FFFFFF>[대시 공격]</color>이 적에게 명중 시 충전을 1스택 소모하고 현재 스킬의 에너지 획득 효율이 20% 증가한다.",
+                "Lisa_Talent_04_Desc_02": "앤톤은 그레이스가 「전자 펄스 회수 모듈」이라고 부르는 부품 안에 사실 밤낮을 가리지 않고 전기를 생성해 내는 에테르 햄스터가 있는 것이 아닌지 의심하고 있다.\n「내 친구에게도 하나 달아줄 수 있어?」",
+                "Lisa_Talent_04_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 그레이스가 충전을 6스택 획득한다. (최대치: 6스택) <color=#FFFFFF>[일반 공격]</color> 혹은 <color=#FFFFFF>[대시 공격]</color>이 적에게 명중 시 충전을 1스택 소모하고 현재 스킬의 에너지 획득 효율이 20% 증가한다.",
+                "Lisa_Talent_04_Title_Realign": "폭파 축전기"
+            },
+            {
+                "talent_id": "5",
+                "Lisa_Talent_05_Title": "「냉정한 철의 마녀」",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Lisa_Talent_05_Desc_02": "「냉정한 철의 마녀」는 어떠한 기계도 길들일 수 있다.\n적어도 그 이름을 지은 익명의 팬은 그렇게 생각한다.",
+                "Lisa_Talent_05_Title_Realign": "「냉정한 철의 마녀」"
+            },
+            {
+                "talent_id": "6",
+                "Lisa_Talent_06_Title": "기폭 방아쇠",
+                "Lisa_Talent_06_Desc_01_Realign": "모든 <color=#FFFFFF>[전력]</color>을 소모해 <color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>을 시전할 시 스킬 효과를 강화하고 수류탄을 1개 더 던진다. 또한, 각각의 수류탄이 주는 피해가 기존의 200%까지 증가한다.",
+                "Lisa_Talent_06_Desc_02": "벨로보그 중공업 직원들의 평균 혈액 온도는 섭씨 98도이다.\n그레이스는 언제나 그들이 들끓기 전 열기를 식혀주는 밸브 역할을 맡았다.\n그레이스가 억제하는 걸 포기하는 순간, 모두 귀를 막을 때가 왔다는 걸 알고 있다.",
+                "Lisa_Talent_06_Desc_01": "모든 <color=#FFFFFF>[전력]</color>을 소모해 <color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>을 시전할 시 스킬 효과를 강화하고 수류탄을 1개 더 던진다. 또한, 각각의 수류탄이 주는 피해가 기존의 200%까지 증가한다.",
+                "Lisa_Talent_06_Title_Realign": "기폭 방아쇠"
+            }
+        ]
+    },
+    "1061": {
+        "role_id": 1061,
+        "name": "코린",
+        "full_name": "코린 위크스",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Corin_Talent_01_Title": "개방성 외상",
+                "Corin_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 코린이 타깃에게 주는 피해가 12% 증가한다. 지속 시간: 15초",
+                "Corin_Talent_01_Desc_02": "「아가씨께서 일할 때는 주변의 영향을 받지 말고 집중하라고 하셨어요」\n「코린은 꽤 오랫동안 연습했는데, 드디어 할 수 있게 됐어요!」\n「그렇지만… 보이시나요, 아가씨…」",
+                "Corin_Talent_01_Desc_01": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 코린이 타깃에게 주는 피해가 12% 증가한다. 지속 시간: 15초",
+                "Corin_Talent_01_Title_Realign": "개방성 외상"
+            },
+            {
+                "talent_id": "2",
+                "Corin_Talent_02_Title": "열분해 효과",
+                "Corin_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 타깃의 <color=#F0D12B>물리 피해 저항</color>이 0.5% 감소한다. 최대 중첩: 20스택, 지속 시간: 5초, 각 스택의 지속 시간은 따로 계산된다.",
+                "Corin_Talent_02_Desc_02": "「에테리얼님, 죄송해요!」\n「하지만 코린은 임무를 완수해야 해요… 정말 죄송합니다!」\n소녀는 죄책감을 느끼는 듯 눈앞의 몬스터에게 진심 어린 사과를 했다——\n그리곤 손에 든 전기톱을 휘둘러 앞의 적들을 모조리 처치한다.",
+                "Corin_Talent_02_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 타깃의 <color=#F0D12B>물리 피해 저항</color>이 0.5% 감소한다. 최대 중첩: 20스택, 지속 시간: 5초, 각 스택의 지속 시간은 따로 계산된다.",
+                "Corin_Talent_02_Title_Realign": "열분해 효과"
+            },
+            {
+                "talent_id": "3",
+                "Corin_Talent_03_Title": "초보 메이드",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Corin_Talent_03_Desc_02": "「어, 어엿한 메이드가 될 수 있도록 코린이 파이팅 할게요!」\n——코린이 한 손에 톱을 들고 에테리얼에게 다가가며 말한다.",
+                "Corin_Talent_03_Title_Realign": "초보 메이드"
+            },
+            {
+                "talent_id": "4",
+                "Corin_Talent_04_Title": "전장의 시종",
+                "Corin_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[빠른 지원]</color>, <color=#FFFFFF>[패링 지원]</color> 혹은 <color=#FFFFFF>[콤보 스킬]</color> 시전 시 코린이 에너지를 7.2pt 회복한다. 16초 동안 최대 1회 발동한다.",
+                "Corin_Talent_04_Desc_02": "부지런하고 성실한 메이드 아가씨는 모든 일에 정성을 다한다.\n전장에서 적을 대할 때도 마찬가지다.",
+                "Corin_Talent_04_Desc_01": "<color=#FFFFFF>[빠른 지원]</color>, <color=#FFFFFF>[패링 지원]</color> 혹은 <color=#FFFFFF>[콤보 스킬]</color> 시전 시 코린이 에너지를 7.2pt 회복한다. 16초 동안 최대 1회 발동한다.",
+                "Corin_Talent_04_Title_Realign": "전장의 시종"
+            },
+            {
+                "talent_id": "5",
+                "Corin_Talent_05_Title": "특수요원 메이드",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Corin_Talent_05_Desc_02": "「아… 죄, 죄송해요. 코린이 많이 서툴러서 같은 모양으로 썰어내지 못했어요…」\n——발밑에 흩어진 에테리얼 잔해들을 보며 코린이 낙심한 듯 말한다.",
+                "Corin_Talent_05_Title_Realign": "특수요원 메이드"
+            },
+            {
+                "talent_id": "6",
+                "Corin_Talent_06_Title": "내실 다지기",
+                "Corin_Talent_06_Desc_01_Realign": "지속 베기가 적에게 명중 시 코린은 충전을 1스택 획득한다. (최대치: 40스택)\n<color=#FFFFFF>[회피 반격]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[빠른 지원]</color>, <color=#FFFFFF>[지원 돌격]</color> 중 기폭된 전기톱이 적에게 명중 시 모든 충전을 소모하고 충전 스택당 이번 공격에서 코린 공격력의 3%에 해당하는 피해를 추가로 준다.",
+                "Corin_Talent_06_Desc_02": "코린은 자신이 제일 훌륭한 메이드도 제일 똑똑한 메이드도 아니라는 걸 알고 있다.\n하지만 그녀는 제일 노력하는 메이드가 되길 바라고 있다.\n전부터 쌓아온 노력은 모두 존재의 의미가 있는 것이다.",
+                "Corin_Talent_06_Desc_01": "지속 베기가 적에게 명중 시 코린은 충전을 1스택 획득한다. (최대치: 40스택) <color=#FFFFFF>[회피 반격]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[빠른 지원]</color>, <color=#FFFFFF>[지원 돌격]</color> 중 기폭된 전기톱이 적에게 명중 시 모든 충전을 소모하고 충전 스택당 이번 공격에서 코린 공격력의 3%에 해당하는 피해를 추가로 준다.",
+                "Corin_Talent_06_Title_Realign": "내실 다지기"
+            }
+        ]
+    },
+    "1141": {
+        "role_id": 1141,
+        "name": "리카온",
+        "full_name": "본 리카온",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lycaon_Talent_01_Title": "보름달 대비",
+                "Lycaon_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 스킬로 주는 그로기 수치가 12% 증가한다. 8초 동안 최대 1회 발동한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 중에 차지 완료 시 해당 버프 효과가 추가로 10% 증가한다.",
+                "Lycaon_Talent_01_Desc_02": "기록에 따르면 늑대인간은 달이 뜨는 밤에 공격성이 더욱 증가한다고 한다.\n「달을 똑바로 쳐다보지 마세요」",
+                "Lycaon_Talent_01_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 스킬로 주는 그로기 수치가 12% 증가한다. 8초 동안 최대 1회 발동한다. <color=#FFFFFF>[강화 특수 스킬]</color> 중에 차지 완료 시 해당 버프 효과가 추가로 10% 증가한다.",
+                "Lycaon_Talent_01_Title_Realign": "보름달 대비"
+            },
+            {
+                "talent_id": "2",
+                "Lycaon_Talent_02_Title": "에너지 피드백",
+                "Lycaon_Talent_02_Desc_01_Realign": "적을 그로기 상태에 빠뜨리거나 파티원의 <color=#FFFFFF>[콤보 스킬]</color> 발동 시 리카온이 에너지를 5pt 회복한다. 1초 동안 최대 1회 발동한다.",
+                "Lycaon_Talent_02_Desc_02": "「갯과 동물은 힘든 임무를 완수했을 때, 뇌에서 도파민이 분비되어 잠깐 동안 정신적 에너지가 향상된다」\n「이때, 주인인 당신이 머리를 쓰다듬어 주며 칭찬하면 그들은 굉장히 기뻐할 것이다…」\n——〈갯과 동물에 관한 미덥지 않은 연구 수첩〉에서 발췌",
+                "Lycaon_Talent_02_Desc_01": "적을 그로기 상태에 빠뜨리거나 파티원의 <color=#FFFFFF>[콤보 스킬]</color> 발동 시 리카온이 에너지를 5pt 회복한다. 1초 동안 최대 1회 발동한다.",
+                "Lycaon_Talent_02_Title_Realign": "에너지 피드백"
+            },
+            {
+                "talent_id": "3",
+                "Lycaon_Talent_03_Title": "집사의 교양",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Lycaon_Talent_03_Desc_02": "리카온의 모든 행동과 동작은 차분하며, 그의 언행은 봄바람이 부는 듯한 느낌을 준다. 집사의 교양이란 모든 것을 통제하는 것이다.",
+                "Lycaon_Talent_03_Title_Realign": "집사의 교양"
+            },
+            {
+                "talent_id": "4",
+                "Lycaon_Talent_04_Title": "품격 유지",
+                "Lycaon_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[일반 공격]</color> 혹은 <color=#FFFFFF>[특수 스킬]</color>을 시전하는 동안 적의 공격을 받을 시 리카온은 즉시 자신 HP 최대치의 7.5%에 해당하는 실드를 획득한다. 지속 시간: 15초, 실드 지속 시간 동안 경직 저항 레벨이 증가한다. 15초 동안 최대 1회 발동한다.",
+                "Lycaon_Talent_04_Desc_02": "「훌륭한 집사는 어떤 상황에서도 품격을 유지해야 하는 법」",
+                "Lycaon_Talent_04_Desc_01": "<color=#FFFFFF>[일반 공격]</color> 혹은 <color=#FFFFFF>[특수 스킬]</color>을 시전하는 동안 적의 공격을 받을 시 리카온은 즉시 자신 HP 최대치의 7.5%에 해당하는 실드를 획득한다. 지속 시간: 15초, 실드 지속 시간 동안 경직 저항 레벨이 증가한다. 15초 동안 최대 1회 발동한다.",
+                "Lycaon_Talent_04_Title_Realign": "품격 유지"
+            },
+            {
+                "talent_id": "5",
+                "Lycaon_Talent_05_Title": "우두머리 늑대의 본색",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Lycaon_Talent_05_Desc_02": "리카온의 눈은 야성을 감추고 있으며 그의 목에선 그르렁대는 소리가 울린다. 그가 지금 아무리 우아하게 치장했다고 해도 정장 안의 그는 여전히 사납다.",
+                "Lycaon_Talent_05_Title_Realign": "우두머리 늑대의 본색"
+            },
+            {
+                "talent_id": "6",
+                "Lycaon_Talent_06_Title": "냉혹한 사냥꾼",
+                "Lycaon_Talent_06_Desc_01_Realign": "차지 공격이 적에게 명중 시 리카온이 타깃에게 주는 피해가 10% 증가한다. 최대 중첩: 5스택, 지속 시간: 12초\n동일한 공격 한 번에 최대 1스택 중첩할 수 있으며 중복 발동 시 지속 시간이 갱신된다.",
+                "Lycaon_Talent_06_Desc_02": "「죄송하지만, 아무리 그래도 봐드리진 않을 겁니다」\n「공동은 공평한 대결이 필요한 곳이 아니니까요」",
+                "Lycaon_Talent_06_Desc_01": "차지 공격이 적에게 명중 시 리카온이 타깃에게 주는 피해가 10% 증가한다. 최대 중첩: 5스택, 지속 시간: 12초, 동일한 공격 한 번에 최대 1스택 중첩할 수 있으며 중복 발동 시 지속 시간이 갱신된다.",
+                "Lycaon_Talent_06_Title_Realign": "냉혹한 사냥꾼"
+            }
+        ]
+    },
+    "1191": {
+        "role_id": 1191,
+        "name": "엘렌",
+        "full_name": "엘렌 조",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Ellen_Talent_01_Title": "혹독한 겨울의 징조",
+                "Ellen_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[대시 공격: 살얼음 잠습]</color> 중에 시전한 빠른 가위질이 적에게 명중 시 획득하는 <color=#FFFFFF>[급랭 충전]</color>이 3pt까지 증가한다.\n<color=#FFFFFF>[대시 공격: 살얼음 잠습]</color> 중에 시전한 차지 가위질이 적에게 명중 시 획득하는 <color=#FFFFFF>[급랭 충전]</color>이 6pt까지 증가한다.\n<color=#FFFFFF>[급랭 충전]</color>을 1pt 소모할 때마다 엘렌의 치명타 확률이 2% 증가한다. 지속 시간: 15초, 최대 중첩: 6스택, 각 스택의 지속 시간은 따로 계산된다.",
+                "Ellen_Talent_01_Desc_02": "서릿바람은 겨울이 오는 징조인 동시에 엘렌이 긴 휴가를 내고 겨울잠에 들어간다는 신호이기도 하다.\n그나저나 상어도 겨울잠을 자야 하나?",
+                "Ellen_Talent_01_Desc_01": "<color=#FFFFFF>[대시 공격: 살얼음 잠습]</color> 중에 시전한 빠른 가위질이 적에게 명중 시 획득하는 <color=#FFFFFF>[급랭 충전]</color>이 3pt까지 증가한다. <color=#FFFFFF>[대시 공격: 살얼음 잠습]</color> 중에 시전한 차지 가위질이 적에게 명중 시 획득하는 <color=#FFFFFF>[급랭 충전]</color>이 6pt까지 증가한다. <color=#FFFFFF>[급랭 충전]</color>을 1pt 소모할 때마다 엘렌의 치명타 확률이 2% 증가한다. 지속 시간: 15초, 최대 중첩: 6스택, 각 스택의 지속 시간은 따로 계산된다.",
+                "Ellen_Talent_01_Title_Realign": "혹독한 겨울의 징조"
+            },
+            {
+                "talent_id": "2",
+                "Ellen_Talent_02_Title": "극해의 포식자",
+                "Ellen_Talent_02_Desc_01_Realign": "세 번째 <color=#FFFFFF>[일반 공격: 급랭 전지법]</color> 시전 후 바로 <color=#FFFFFF>[강화 특수 스킬: 샤크나미]</color>를 이어서 사용할 수 있다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 보유한 <color=#FFFFFF>[급랭 충전]</color> 1pt당 현재 스킬로 주는 치명타 피해가 20% 증가한다. 최대 증가: 60%",
+                "Ellen_Talent_02_Desc_02": "새빨갛게 물들었음에도 엘렌의 거대한 가위에서 온기 따위는 느껴지지 않는다.\n뼛속까지 스며드는 냉기는 철로 만든 흉기에서 비롯된 것이며, 또한 포식자를 만났을 때의 공포감에서 비롯된 것이다.",
+                "Ellen_Talent_02_Desc_01": "세 번째 <color=#FFFFFF>[일반 공격: 급랭 전지법]</color> 시전 후 바로 <color=#FFFFFF>[강화 특수 스킬: 샤크나미]</color>를 이어서 사용할 수 있다. <color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 보유한 <color=#FFFFFF>[급랭 충전]</color> 1pt당 현재 스킬로 주는 치명타 피해가 20% 증가한다. 최대 증가: 60%",
+                "Ellen_Talent_02_Title_Realign": "극해의 포식자"
+            },
+            {
+                "talent_id": "3",
+                "Ellen_Talent_03_Title": "야근 사절",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Ellen_Talent_03_Desc_02": "「효율」이란 오늘 일찍 퇴근하고 집에 가서 잘 수 있음을 뜻한다.\n그러니 더욱 빠르게 베고, 더욱 힘껏 무기를 뽑아야 한다.",
+                "Ellen_Talent_03_Title_Realign": "야근 사절"
+            },
+            {
+                "talent_id": "4",
+                "Ellen_Talent_04_Title": "끝없는 한파",
+                "Ellen_Talent_04_Desc_01_Realign": "파티 내 임의의 캐릭터가 적에게 <color=#98EFF0>[빙결]</color> 효과를 부여하거나 적을 그로기 상태에 빠뜨릴 시\n엘렌이 <color=#FFFFFF>[급랭 충전]</color> 6pt 및 <color=#FFFFFF>[고속 차지]</color> 효과를 획득하고, 에너지를 4pt 회복한다. 에너지 회복 효과는 10초 동안 최대 1회 발동한다.",
+                "Ellen_Talent_04_Desc_02": "매서운 공세가 이어지고, 무시무시한 피조물들은 엘렌의 칼을 통해 겨울의 아름다움과 잔혹함을 맛보게 될 것이다.\n하지만 쉬는 날에도 메이드는 쉼 없이 일해야 한다는 사실이 더 잔혹하다…",
+                "Ellen_Talent_04_Desc_01": "파티 내 임의의 캐릭터가 적에게 <color=#98EFF0>[빙결]</color> 효과를 부여하거나 적을 그로기 상태에 빠뜨릴 시 엘렌이 <color=#FFFFFF>[급랭 충전]</color> 6pt 및 <color=#FFFFFF>[고속 차지]</color> 효과를 획득하고, 에너지를 4pt 회복한다. 에너지 회복 효과는 10초 동안 최대 1회 발동한다.",
+                "Ellen_Talent_04_Title_Realign": "끝없는 한파"
+            },
+            {
+                "talent_id": "5",
+                "Ellen_Talent_05_Title": "충분한 수면",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Ellen_Talent_05_Desc_02": "아주 어려운 전투 중이 아니라면 엘렌은 항상 「일하는 중만 아니면 바로 숙면할 텐데」란 태도를 보인다.\n다만 이에 방심하다 당한 적들이 한둘이 아니다.",
+                "Ellen_Talent_05_Title_Realign": "충분한 수면"
+            },
+            {
+                "talent_id": "6",
+                "Ellen_Talent_06_Title": "연회의 시간",
+                "Ellen_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 시전 혹은 <color=#FFFFFF>[고속 차지]</color> 획득 시 엘렌의 관통률이 20% 증가한다. 지속 시간: 6초, 동시에 <color=#FFFFFF>[성대한 연회]</color>를 1스택 획득한다. <color=#FFFFFF>[성대한 연회]</color> 최대 중첩: 3스택\n<color=#FFFFFF>[성대한 연회]</color>를 3스택 보유한 상태에서 <color=#FFFFFF>[대시 공격: 살얼음 잠습]</color> 중에 시전한 차지 가위질이 적에게 명중 시 모든 <color=#FFFFFF>[성대한 연회]</color>를 소모하여 현재 스킬로 주는 피해가 250% 증가한다.",
+                "Ellen_Talent_06_Desc_02": "한 줄의 상처, 한 방울의 선혈\n한 번의 사냥, 한 차례의 연회\n한 개의 목숨, 한 순간의 만족",
+                "Ellen_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 시전 혹은 <color=#FFFFFF>[고속 차지]</color> 획득 시 엘렌의 관통률이 20% 증가한다. 지속 시간: 6초, 동시에 <color=#FFFFFF>[성대한 연회]</color>를 1스택 획득한다. <color=#FFFFFF>[성대한 연회]</color> 최대 중첩: 3스택\n<color=#FFFFFF>[성대한 연회]</color>를 3스택 보유한 상태에서 <color=#FFFFFF>[대시 공격: 살얼음 잠습]</color> 중에 시전한 차지 가위질이 적에게 명중 시 모든 <color=#FFFFFF>[성대한 연회]</color>를 소모하여 현재 스킬로 주는 피해가 250% 증가한다.",
+                "Ellen_Talent_06_Title_Realign": "연회의 시간"
+            }
+        ]
+    },
+    "1211": {
+        "role_id": 1211,
+        "name": "리나",
+        "full_name": "알렉산드리나 세바스티안",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Rina_Talent_01_Title": "리드 댄서x2",
+                "Rina_Talent_01_Desc_01_Realign": "드루실라와 아나스타샤는 파견으로 공격 시전 후 리나 곁으로 돌아오기 전에 원래 위치에서 추가로 5.5초 머문다.\n드루실라 혹은 아나스타샤 근처 10m 범위 내의 캐릭터는 <color=#FFFFFF>[핵심 패시브: 미니 파괴 파트너]</color>로 획득하는 버프 효과가 기존의 130%까지 증가한다.",
+                "Rina_Talent_01_Desc_02": "「일을 못 끝내면 때찌해야 해!」 드루실라는 언제나 이렇게 모두를 격려한다.\n그럴 때면 아나스타샤는 「때찌, 때찌!」라고 호응하곤 한다.",
+                "Rina_Talent_01_Desc_01": "드루실라와 아나스타샤는 파견으로 공격 시전 후 리나 곁으로 돌아오기 전에 원래 위치에서 추가로 5.5초 머문다. 드루실라 혹은 아나스타샤 근처 10m 범위 내의 캐릭터는 <color=#FFFFFF>[핵심 패시브: 미니 파괴 파트너]</color>로 획득하는 버프 효과가 기존의 130%까지 증가한다.",
+                "Rina_Talent_01_Title_Realign": "리드 댄서x2"
+            },
+            {
+                "talent_id": "2",
+                "Rina_Talent_02_Title": "주인의 모범",
+                "Rina_Talent_02_Desc_01_Realign": "교전 상태 진입 혹은 교체 출전 시 리나가 주는 피해가 15% 증가한다. 지속 시간: 12초, 18초 동안 최대 1회 발동한다.",
+                "Rina_Talent_02_Desc_02": "「훌륭한 메이드장만이 훌륭한 메이드를 이끌 수 있고,\n모범적인 주인만이 모범적인 『Bangboo』를 육성할 수 있죠」\n——리나가 「빅토리아 하우스키핑 인적 자원 관리 및 『Bangboo』 육성 경험 공유 강좌」에서 한 말",
+                "Rina_Talent_02_Desc_01": "교전 상태 진입 혹은 교체 출전 시 리나가 주는 피해가 15% 증가한다. 지속 시간: 12초, 18초 동안 최대 1회 발동한다.",
+                "Rina_Talent_02_Title_Realign": "주인의 모범"
+            },
+            {
+                "talent_id": "3",
+                "Rina_Talent_03_Title": "메이드장의 특기",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Rina_Talent_03_Desc_02": "리나는 모든 일을 잘 해낼 자신감과 모든 일을 망칠 능력을 늘 동시에 가지고 있다.\n하지만 적을 물리칠 때만큼은 그녀의 자신감과 능력은 일치한다.",
+                "Rina_Talent_03_Title_Realign": "메이드장의 특기"
+            },
+            {
+                "talent_id": "4",
+                "Rina_Talent_04_Title": "바늘과 망치",
+                "Rina_Talent_04_Desc_01_Realign": "드루실라와 아나스타샤가 모두 파견되어 있는 경우, 리나의 에너지 자동 회복 속도가 초당 0.5pt 증가한다.\n드루실라 혹은 아나스타샤가 리나 곁으로 돌아오면 해당 버프 효과가 종료된다.",
+                "Rina_Talent_04_Desc_02": "드루실라와 아나스타샤의 의견은 일치하는 법이 없다.\n「눈앞의 바보를 때려주자」라고 할 때만 빼고.",
+                "Rina_Talent_04_Desc_01": "드루실라와 아나스타샤가 모두 파견되어 있는 경우, 리나의 에너지 자동 회복 속도가 초당 0.5pt 증가한다. 드루실라 혹은 아나스타샤가 리나 곁으로 돌아오면 해당 버프 효과가 종료된다.",
+                "Rina_Talent_04_Title_Realign": "바늘과 망치"
+            },
+            {
+                "talent_id": "5",
+                "Rina_Talent_05_Title": "완벽주의 메이드장",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Rina_Talent_05_Desc_02": "「『리나』는 『Bangboo』 언어로 완벽함을 의미한다」\n완벽주의는 빅토리아 하우스키핑의 첫 번째 직원 수칙이다.\n리나는 「완벽함」을 판단하는 데 있어 자신만의 기준을 가지고 있다.",
+                "Rina_Talent_05_Title_Realign": "완벽주의 메이드장"
+            },
+            {
+                "talent_id": "6",
+                "Rina_Talent_06_Title": "뇌우가 내리는 밤의 공포",
+                "Rina_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 모든 파티원이 주는 <color=#2EB6FF>전기 속성 피해</color>가 15% 증가한다. 지속 시간: 8초",
+                "Rina_Talent_06_Desc_02": "비 내리는 밤, 오래된 성에 천둥소리가 울려 퍼진다.\n긴 복도 끝에 유령 같은 그림자가 있다.\n공포 회로가 과부하되며 공포 영화가 시작된다.",
+                "Rina_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 모든 파티원이 주는 <color=#2EB6FF>전기 속성 피해</color>가 15% 증가한다. 지속 시간: 8초",
+                "Rina_Talent_06_Title_Realign": "뇌우가 내리는 밤의 공포"
+            }
+        ]
+    },
+    "1041": {
+        "role_id": 1041,
+        "name": "「11호」",
+        "full_name": "「11호」",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Longinus_Talent_01_Title": "급격한 온도 상승",
+                "Longinus_Talent_01_Desc_01_Realign": "교전 상태 진입 혹은 교체 출전했을 때 「11호」의 에너지가 40pt 미만이면 즉시 80pt까지 회복한다. 50초 동안 최대 1회 발동한다.",
+                "Longinus_Talent_01_Desc_02": "장기간의 강도 높은 실전 훈련으로 인해 「11호」는 본인의 컨디션을 조절할 수 있게 됐다.\n그녀는 전력을 다해 최고의 상태로 모든 전투에 임할 것이다.",
+                "Longinus_Talent_01_Desc_01": "교전 상태 진입 혹은 교체 출전 시, 「11호」의 에너지가 40pt 미만이면 즉시 80pt 까지 회복한다. 50초 동안 최대 1회 발동한다.",
+                "Longinus_Talent_01_Title_Realign": "급격한 온도 상승"
+            },
+            {
+                "talent_id": "2",
+                "Longinus_Talent_02_Title": "고온 응축",
+                "Longinus_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[화력 진압]</color> 발동 시 <color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[회피 반격]</color>으로 주는 피해가 3% 증가한다.\n최대 중첩: 12스택, 지속 시간: 15초, 각 스택의 지속 시간은 따로 계산된다.",
+                "Longinus_Talent_02_Desc_02": "「그녀는 꼭 얼음처럼 차갑고 딱딱해 보이지만…」\n「마음은 꼭 활활 타오르는 불꽃처럼 뜨겁기 그지없어」\n——흑요석 부대 내 익명의 군인",
+                "Longinus_Talent_02_Desc_01": "<color=#FFFFFF>[화력 진압]</color> 발동 시 <color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[회피 반격]</color>으로 주는 피해가 3% 증가한다. 최대 중첩: 12스택, 지속 시간: 15초, 각 스택의 지속 시간은 따로 계산된다.",
+                "Longinus_Talent_02_Title_Realign": "고온 응축"
+            },
+            {
+                "talent_id": "3",
+                "Longinus_Talent_03_Title": "정예 사병",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Longinus_Talent_03_Desc_02": "훈련에서든 실전에서든 「11호」는 언제나 자신에게 최고 수준을 요구하기 때문에 항상 높은 수준의 전투력을 갖게 되었다.",
+                "Longinus_Talent_03_Title_Realign": "정예 사병"
+            },
+            {
+                "talent_id": "4",
+                "Longinus_Talent_04_Title": "드세지는 불길",
+                "Longinus_Talent_04_Desc_01_Realign": "첫 번째, 두 번째, 세 번째 <color=#FFFFFF>[일반 공격]</color> 혹은 <color=#FFFFFF>[대시 공격]</color>을 시전했을 때 <color=#FFFFFF>[화력 진압]</color>이 발동되면 스킬을 시전하는 동안 경직 저항 레벨이 증가하고, 받는 피해가 18% 감소한다.\n네 번째 <color=#FFFFFF>[일반 공격]</color>을 시전했을 때 <color=#FFFFFF>[화력 진압]</color>이 발동되면 스킬을 시전하는 동안 무적 효과를 획득한다.",
+                "Longinus_Talent_04_Desc_02": "그녀는 화염을 선망한다.\n마음껏 타오르는 화염도 늘 그녀를 돕는다.",
+                "Longinus_Talent_04_Desc_01": "첫 번째, 두 번째, 세 번째 <color=#FFFFFF>[일반 공격]</color> 혹은 <color=#FFFFFF>[대시 공격]</color>을 시전했을 때 <color=#FFFFFF>[화력 진압]</color>이 발동되면 스킬을 시전하는 동안 경직 저항 레벨이 증가하고, 받는 피해가 18% 감소한다. 네 번째 <color=#FFFFFF>[일반 공격]</color>을 시전했을 때 <color=#FFFFFF>[화력 진압]</color>이 발동되면 스킬을 시전하는 동안 무적 효과를 획득한다.",
+                "Longinus_Talent_04_Title_Realign": "드세지는 불길"
+            },
+            {
+                "talent_id": "5",
+                "Longinus_Talent_05_Title": "완벽한 사병",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Longinus_Talent_05_Desc_02": "정예 단계에서 모범 단계까지 도약하는 데 오랜 시간이 걸리지만 「11호」는 언제나 이 악물고 버틴다.\n마치 완벽한 사병이라는 목표를 향해 계속해서 노력하라고 채찍질하는 어떤 숨은 이유가 있는 듯이…",
+                "Longinus_Talent_05_Title_Realign": "완벽한 사병"
+            },
+            {
+                "talent_id": "6",
+                "Longinus_Talent_06_Title": "작열하는 몰입",
+                "Longinus_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 「11호」가 충전을 8스택 획득한다. (최대치: 8스택)\n<color=#FFFFFF>[화력 진압]</color> 발동 시 충전을 1스택 소모하여 현재 스킬이 타깃의 <color=#FF5521>불 속성 피해 저항</color>을 25% 무시한다.",
+                "Longinus_Talent_06_Desc_02": "칼날의 화염이 뜨거운 파도를 일으키면 은발 소녀의 전투는 더욱 격렬해진다.\n그 열기는 들이쉬는 숨을 통해 정신으로 스며들어 생각마저 뜨거워진다.",
+                "Longinus_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 「11호」가 충전을 8스택 획득한다. (최대치: 8스택)\n<color=#FFFFFF>[화력 진압]</color> 발동 시 충전을 1스택 소모하여 현재 스킬이 타깃의 <color=#FF5521>불 속성 피해 저항</color>을 25% 무시한다.",
+                "Longinus_Talent_06_Title_Realign": "작열하는 몰입"
+            }
+        ]
+    },
+    "1241": {
+        "role_id": 1241,
+        "name": "주연",
+        "full_name": "주연",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "ZhuYuan_Talent_01_Title": "빠른 장전",
+                "ZhuYuan_Talent_01_Desc_01_Realign": "주연이 <color=#FFFFFF>[콤보 스킬]</color>/<color=#FFFFFF>[궁극기]</color>를 시전하면 <color=#FFFFFF>[빠른 장전]</color> 효과를 획득한다.\n주연이 <color=#FFFFFF>[빠른 장전]</color> 효과를 보유한 경우, 모든 <color=#FFFFFF>[강화 산탄]</color>을 소진하면 <color=#FFFFFF>[빠른 장전]</color> 효과를 소모해 즉시 <color=#FFFFFF>[강화 산탄]</color> 6/9발을 획득한다.",
+                "ZhuYuan_Talent_01_Desc_02": "주연은 과거 야누스 구역 치안관 능력 대회에 참가해 마술과도 같은 장전 스킬로 1등을 차지한 적이 있다.\n동료는 이에 대해 이렇게 평가했다. 「엄청난 연습의 산물인 거지」",
+                "ZhuYuan_Talent_01_Desc_01": "주연이 <color=#FFFFFF>[콤보 스킬]</color>/<color=#FFFFFF>[궁극기]</color>를 시전하면 <color=#FFFFFF>[빠른 장전]</color> 효과를 획득한다. 주연이 <color=#FFFFFF>[빠른 장전]</color> 효과를 보유한 경우, 모든 <color=#FFFFFF>[강화 산탄]</color>을 소진하면 <color=#FFFFFF>[빠른 장전]</color> 효과를 소모해 즉시 <color=#FFFFFF>[강화 산탄]</color> 6/9발을 획득한다.",
+                "ZhuYuan_Talent_01_Title_Realign": "빠른 장전"
+            },
+            {
+                "talent_id": "2",
+                "ZhuYuan_Talent_02_Title": "에테르 잔해",
+                "ZhuYuan_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[제압 모드]</color>에서 주연의 경직 저항 레벨이 증가하고, 받는 피해가 10% 감소한다.\n<color=#FFFFFF>[강화 산탄]</color>을 소모한 공격이 적에게 명중 시 <color=#FFFFFF>[일반 공격: 저항 금지]</color> 및 <color=#FFFFFF>[대시 공격: 화력 제압]</color>으로 주는 <color=#FE437E>에테르 피해</color>가 10% 증가한다. 최대 중첩: 5스택, 지속 시간: 5초\n발포할 때마다 최대 1스택의 효과를 획득하며 중복 발동 시 지속 시간이 갱신된다.",
+                "ZhuYuan_Talent_02_Desc_02": "주연이 사용하는 치안국 특제 에테르 총알이 적에게 명중하면 적은 되돌릴 수 없는 침식 피해를 받는다.\n그래서 주연이 총을 쏘기 전에 저항을 멈추고 얌전히 투항하라고 외치는 건 정말 상대방의 안전을 위해서다…",
+                "ZhuYuan_Talent_02_Desc_01": "<color=#FFFFFF>[제압 모드]</color>에서 주연의 경직 저항 레벨이 증가하고, 받는 피해가 10% 감소한다. <color=#FFFFFF>[강화 산탄]</color>을 소모한 공격이 적에게 명중 시 <color=#FFFFFF>[일반 공격: 저항 금지]</color> 및 <color=#FFFFFF>[대시 공격: 화력 제압]</color>으로 주는 <color=#FE437E>에테르 피해</color>가 10% 증가한다. 최대 중첩: 5스택, 지속 시간: 5초, 발포할 때마다 최대 1스택의 효과를 획득하며 중복 발동 시 지속 시간이 갱신된다.",
+                "ZhuYuan_Talent_02_Title_Realign": "에테르 잔해"
+            },
+            {
+                "talent_id": "3",
+                "ZhuYuan_Talent_03_Title": "치안관 특훈",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "ZhuYuan_Talent_03_Desc_02": "엘리트 치안관으로서 주연이 훈련을 받는 목적은 단 하나다.\n공동 내 각종 작전 능력을 전면적으로 향상시켜 모든 무법자들을 제압하는 것.",
+                "ZhuYuan_Talent_03_Title_Realign": "치안관 특훈"
+            },
+            {
+                "talent_id": "4",
+                "ZhuYuan_Talent_04_Title": "에테르 침투",
+                "ZhuYuan_Talent_04_Desc_01_Realign": "주연이 <color=#FFFFFF>[강화 산탄]</color>을 소모한 공격이 적에게 명중 시\n<color=#FFFFFF>[일반 공격: 저항 금지]</color> 및 <color=#FFFFFF>[대시 공격: 화력 제압]</color>이 타깃의 <color=#FE437E>에테르 피해 저항</color>을 25% 무시한다.",
+                "ZhuYuan_Talent_04_Desc_02": "공동의 갱단들은 교전 시 상대방의 총알이 얼마나 남았는지 은밀히 계산하는 것을 좋아한다.\n하지만 그들은 주연이 가진 특제 탄창이 주변의 에테르를 이용해 지속적으로 전력을 공급한다는 걸 꿈에도 모를 것이다.",
+                "ZhuYuan_Talent_04_Desc_01": "주연이 <color=#FFFFFF>[강화 산탄]</color>을 소모한 공격이 적에게 명중 시 <color=#FFFFFF>[일반 공격: 저항 금지]</color> 및 <color=#FFFFFF>[대시 공격: 화력 제압]</color>이 타깃의 <color=#FE437E>에테르 피해 저항</color>을 25% 무시한다.",
+                "ZhuYuan_Talent_04_Title_Realign": "에테르 침투"
+            },
+            {
+                "talent_id": "5",
+                "ZhuYuan_Talent_05_Title": "특근 경력",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "ZhuYuan_Talent_05_Desc_02": "노련한 특수팀 치안관으로서 상황을 파악하여 효율적으로 작전 능력을 발휘한다.\n때로는 위압감 넘치는 눈빛만으로도 적이 저항을 포기하게 만들 때도 있다.",
+                "ZhuYuan_Talent_05_Title_Realign": "특근 경력"
+            },
+            {
+                "talent_id": "6",
+                "ZhuYuan_Talent_06_Title": "확장 에너지팩-3형",
+                "ZhuYuan_Talent_06_Desc_01_Realign": "주연이 <color=#FFFFFF>[강화 산탄]</color>을 누적 12발 소모할 시 <color=#FFFFFF>[에테르 잔열]</color> 효과를 획득하고 다음번에 시전하는 <color=#FFFFFF>[강화 특수 스킬]</color>의 에너지 소모가 30pt 감소한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 <color=#FFFFFF>[에테르 잔열]</color> 효과를 소모해 총 4발의 에테르 벅샷을 추가로 발사한다.\n추가로 발사되는 에테르 벅샷은 각각 주연 공격력의 220%에 해당하는 피해를 준다.",
+                "ZhuYuan_Talent_06_Desc_02": "주연은 항상 자신이 장착한 장비의 남은 배터리를 신경 쓰는데, 장비의 배터리가 빨간색까지 떨어질 경우 긴장하며 일부러 배터리를 절약하기도 한다.\n치안국에서 그녀를 위해 초대용량 지속 에너지팩을 지급한 뒤에야 이러한 고민을 완전히 해결할 수 있었다.",
+                "ZhuYuan_Talent_06_Desc_01": "주연이 <color=#FFFFFF>[강화 산탄]</color>을 누적 12발 소모할 시 <color=#FFFFFF>[에테르 잔열]</color> 효과를 획득하고 다음번에 시전하는 <color=#FFFFFF>[강화 특수 스킬]</color>의 에너지 소모가 30pt 감소한다. <color=#FFFFFF>[강화 특수 스킬]</color> 시전 시 <color=#FFFFFF>[에테르 잔열]</color> 효과를 소모해 총 4발의 에테르 벅샷을 추가로 발사한다. 추가로 발사되는 에테르 벅샷은 각각 주연 공격력의 220%에 해당하는 피해를 준다.",
+                "ZhuYuan_Talent_06_Title_Realign": "확장 에너지팩-3형"
+            }
+        ]
+    },
+    "1251": {
+        "role_id": 1251,
+        "name": "청의",
+        "full_name": "청의",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "QingYi_Talent_01_Title": "유전체 파괴",
+                "QingYi_Talent_01_Desc_01_Realign": "청의가 전장 진입 시 즉시 <color=#FFFFFF>[섬락전압]</color>이 최대치까지 회복되며, [섬락전압]의 후속 누적 효율이 30% 증가한다. <color=#FFFFFF>[일반 공격: 취화월운전]</color> 시전 시 만약 <color=#FFFFFF>[섬락전압]</color>이 이미 최대치까지 누적된 경우, 이번 스킬에 명중한 적의 방어력이 15% 감소하고, 해당 타깃에 대한 자신의 치명타 확률이 20% 증가한다. 지속 시간: 15초",
+                "QingYi_Talent_01_Desc_02": "「생명에 위협이 되진 않겠지만, 체포에 저항하지는 마세요…」\n전류의 방향과 강도는 정밀한 계산을 통해 모든 용의자가 안전한 범위 내에서 전기 충격을 받을 수 있도록 보장되어 있다.",
+                "QingYi_Talent_01_Desc_01": "청의가 전장 진입 시 즉시 <color=#FFFFFF>[섬락전압]</color>이 최대치까지 회복되며, [섬락전압]의 후속 누적 효율이 30% 증가한다. <color=#FFFFFF>[일반 공격: 취화월운전]</color> 시전 시 만약 <color=#FFFFFF>[섬락전압]</color>이 이미 최대치까지 누적된 경우, 이번 스킬에 명중한 적의 방어력이 15% 감소하고, 해당 타깃에 대한 자신의 치명타 확률이 20% 증가한다. 지속 시간: 15초",
+                "QingYi_Talent_01_Title_Realign": "유전체 파괴"
+            },
+            {
+                "talent_id": "2",
+                "QingYi_Talent_02_Title": "사량발천근",
+                "QingYi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[핵심 패시브: 천추의 세월]</color> 중 <color=#FFFFFF>[정복]</color> 스택마다 제공하는 그로기 약체화 배율 증가 효과가 기존의 135%까지 증가한다. 청의의 공격이 적에게 명중했을 때 만약 해당 적에게 부여한 <color=#FFFFFF>[정복]</color>이 이미 스택 최대치까지 중첩된 경우, 자신이 해당 적에게 주는 그로기 수치가 15% 증가한다.",
+                "QingYi_Talent_02_Desc_02": "옛 문명 서적에 기록된 격투 기술. 원래는 봉술이 아닌 권법이었던 것 같다.\n「고정된 사고에 묶여있을 필요 없어요. 사실 팔도 일종의 삼절곤이거든요」",
+                "QingYi_Talent_02_Desc_01": "<color=#FFFFFF>[핵심 패시브: 천추의 세월]</color> 중 <color=#FFFFFF>[정복]</color> 스택마다 제공하는 그로기 약체화 배율 증가 효과가 기존의 135%까지 증가한다. 청의의 공격이 적에게 명중했을 때 만약 해당 적에게 부여한 <color=#FFFFFF>[정복]</color>이 이미 스택 최대치까지 중첩된 경우, 자신이 해당 적에게 주는 그로기 수치가 15% 증가한다.",
+                "QingYi_Talent_02_Title_Realign": "사량발천근"
+            },
+            {
+                "talent_id": "3",
+                "QingYi_Talent_03_Title": "따뜻한 물 많이 마셔요",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "QingYi_Talent_03_Desc_02": "「젊은 사람들은 건강을 잘 챙겨야 해요. 그러려면 따뜻한 물을 많이 마셔야 하죠」\n청의는 손에 든 보온병을 홀짝일 때마다 따뜻한 온기를 나눠준다. 단, 그녀가 뜨거운 물을 건넬 때는 반드시 조심해야 한다.\n「선배는 100도가 넘는 끓는 물도 표정 변화 없이 마셔요…」——뜨거운 맛을 본 적 있는 어느 치안관이 남긴 기록이다.",
+                "QingYi_Talent_03_Title_Realign": "따뜻한 물 많이 마셔요"
+            },
+            {
+                "talent_id": "4",
+                "QingYi_Talent_04_Title": "항상성 아크 장벽",
+                "QingYi_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[섬락]</color> 상태 진입 혹은 종료 시 청의 HP 최대치의 10%에 해당하는 실드를 획득한다. 실드 효과가 갱신될 때 이전에 획득한 실드가 여전히 존재하면 청의가 에너지를 5pt 회복한다. 에너지 회복 효과는 10초 동안 최대 1회 발동한다.",
+                "QingYi_Talent_04_Desc_02": "화이트스타 학회에서 옛 문명의 오토마톤을 연구하면서 개발한 아크 장벽은 방어, 공격, 전력을 하나로 전환하는 기술이다.\n「옛말 중에 이런 말이 있다. 물은 배를 띄우지만, 전복시킬 수도 있다. 물리학에는 또 이런 말이 있다. 전기의 흐름은 물이 흐르는 것과 유사하다. 이 두 가지를 합친 결론은 이렇다. 전기의 흐름은 공격도 방어도 가능한 훌륭한 결합이다」",
+                "QingYi_Talent_04_Desc_01": "<color=#FFFFFF>[섬락]</color> 상태 진입 혹은 종료 시 청의 HP 최대치의 10%에 해당하는 실드를 획득한다. 실드 효과가 갱신될 때 이전에 획득한 실드가 여전히 존재하면 청의가 에너지를 5pt 회복한다. 에너지 회복 효과는 10초 동안 최대 1회 발동한다.",
+                "QingYi_Talent_04_Title_Realign": "항상성 아크 장벽"
+            },
+            {
+                "talent_id": "5",
+                "QingYi_Talent_05_Title": "사라지지 않는 동심",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "QingYi_Talent_05_Desc_02": "「좋습니다, 젊은 사람은 용감하게 새로운 것에 도전할 줄 알아야죠. 힘내세요!」\n청의의 격려에서 종종 귀찮음과 장난이 느껴지지만, 혹시라도 문제가 생기면 그녀만 믿으면 될 것이다. 엄청나게 긴 시간을 살아왔으니까 뭐든 해결할 수 있겠지…",
+                "QingYi_Talent_05_Title_Realign": "사라지지 않는 동심"
+            },
+            {
+                "talent_id": "6",
+                "QingYi_Talent_06_Title": "기경팔맥",
+                "QingYi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[일반 공격: 취화월운전]</color>의 경직 레벨이 대폭 증가하고, 스킬의 치명타 피해가 추가로 100% 증가한다. 청의의 <color=#FFFFFF>[일반 공격: 취화월운전]</color>이 적에게 명중 시 타깃의 모든 속성 피해 저항이 20% 감소한다. 지속 시간: 15초",
+                "QingYi_Talent_06_Desc_02": "옛 문명의 서적에는 인체 순환 시스템에 관한 학설이 기록되어 있으며, 이 이론을 완벽하게 장악하면 격투 중 순간적으로 상대방의 행동 능력을 상실시킬 수 있다고 한다.\n「다음엔 사람을 간지럽히는 혈 자리를 시도해 보죠. 누가 체험해 보실래요? 점장님? 주연?」",
+                "QingYi_Talent_06_Desc_01": "<color=#FFFFFF>[일반 공격: 취화월운전]</color>의 경직 레벨이 대폭 증가하고, 스킬의 치명타 피해가 추가로 100% 증가한다. 청의의 <color=#FFFFFF>[일반 공격: 취화월운전]</color>이 적에게 명중 시 타깃의 모든 속성 피해 저항이 20% 감소한다. 지속 시간: 15초",
+                "QingYi_Talent_06_Title_Realign": "기경팔맥"
+            }
+        ]
+    },
+    "1261": {
+        "role_id": 1261,
+        "name": "제인",
+        "full_name": "제인 도",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "JaneDoe_Talent_01_Title": "범죄 고문",
+                "JaneDoe_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[일반 공격: 살코 점프]</color>의 사용 가능 횟수 최대치가 1회 증가한다. <color=#FFFFFF>[열광]</color> 상태에서 제인의 <color=#F0D12B>물리 이상 축적 효율</color>이 추가로 15% 증가하며, 동시에 이상 마스터리 1pt마다 자신이 주는 피해가 0.1% 증가한다. 최대 증가: 30%",
+                "JaneDoe_Talent_01_Desc_02": "「범죄 고문은 범죄행동학을 연구하는 거지, 범죄에 정통한 사람이 아니야」\n제인이 갑자기 다가와 눈을 찡긋한다.\n「물론, 알고 싶은 게 후자라면… 반대하지 않을게~」",
+                "JaneDoe_Talent_01_Desc_01": "<color=#FFFFFF>[일반 공격: 살코 점프]</color>의 사용 가능 횟수 최대치가 1회 증가한다. <color=#FFFFFF>[열광]</color> 상태에서 제인의 <color=#F0D12B>물리 이상 축적 효율</color>이 추가로 15% 증가하며, 동시에 이상 마스터리 1pt마다 자신이 주는 피해가 0.1% 증가한다. 최대 증가: 30%",
+                "JaneDoe_Talent_01_Title_Realign": "범죄 고문"
+            },
+            {
+                "talent_id": "2",
+                "JaneDoe_Talent_02_Title": "근주자적",
+                "JaneDoe_Talent_02_Desc_01_Realign": "제인의 공격이 <color=#FFFFFF>[갉힘]</color> 상태인 적에게 명중하거나 파티 내 임의의 캐릭터가 <color=#FFFFFF>[갉힘]</color> 상태인 적에게 <color=#F0D12B>[강타]</color> 발동 시, 해당 적의 방어력을 15% 무시하고 <color=#F0D12B>[강타]</color> 피해가 치명타를 발동하면 해당 치명타 피해가 추가로 50% 증가한다.",
+                "JaneDoe_Talent_02_Desc_02": "「심연을 바라보면 심연도 나를 바라본다. 이게 첫 번째 단계이다」\n「그것에 다가가, 안으로 들어가고, 이해하는 것, 이것은 두 번째 단계이다」\n「마지막은… 심연이 되지 않는 것이다」",
+                "JaneDoe_Talent_02_Desc_01": "제인의 공격이 <color=#FFFFFF>[갉힘]</color> 상태인 적에게 명중하거나 파티 내 임의의 캐릭터가 <color=#FFFFFF>[갉힘]</color> 상태인 적에게 <color=#F0D12B>[강타]</color> 발동 시, 해당 적의 방어력을 15% 무시하고 <color=#F0D12B>[강타]</color> 피해가 치명타를 발동하면 해당 치명타 피해가 추가로 50% 증가한다.",
+                "JaneDoe_Talent_02_Title_Realign": "근주자적"
+            },
+            {
+                "talent_id": "3",
+                "JaneDoe_Talent_03_Title": "무명인",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "JaneDoe_Talent_03_Desc_02": "「무명인이라는 건, 난 무엇이든 될 수 있다는 걸 의미해. 예를 들면 네가 제일 좋아하는 사람이랄까~」\n「아니면, 네가 제일 두려워하는 사람은 어때?」",
+                "JaneDoe_Talent_03_Title_Realign": "무명인"
+            },
+            {
+                "talent_id": "4",
+                "JaneDoe_Talent_04_Title": "유연한 리드",
+                "JaneDoe_Talent_04_Desc_01_Realign": "파티 내 임의의 캐릭터가 <color=#F0D12B>[강타]</color> 혹은 <color=#FFFFFF>[혼돈]</color> 효과 발동 시 모든 파티원이 주는 속성 이상 피해가 18% 증가한다. 지속 시간: 15초",
+                "JaneDoe_Talent_04_Desc_02": "「사냥꾼이 될 것인가, 사냥감이 될 것인가? 이런 문제는 네가 선택한 관점에 따라 결정되곤 하지. 근데 난 더 간단한 판단 방식을 좋아해——」\n「지는 사람이 사냥감이야」",
+                "JaneDoe_Talent_04_Desc_01": "파티 내 임의의 캐릭터가 <color=#F0D12B>[강타]</color> 혹은 <color=#FFFFFF>[혼돈]</color> 효과 발동 시 모든 파티원이 주는 속성 이상 피해가 18% 증가한다. 지속 시간: 15초",
+                "JaneDoe_Talent_04_Title_Realign": "유연한 리드"
+            },
+            {
+                "talent_id": "5",
+                "JaneDoe_Talent_05_Title": "비축하는 습관",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "JaneDoe_Talent_05_Desc_02": "제인의 방에는 항상 각종 물건이 쌓여 있는데 그중 가장 많은 건 인스턴트식품이다.\n「어때, 손만 뻗으면 음식이 닿으니까 너무 좋지~?」",
+                "JaneDoe_Talent_05_Title_Realign": "비축하는 습관"
+            },
+            {
+                "talent_id": "6",
+                "JaneDoe_Talent_06_Title": "「지저분한」 수단",
+                "JaneDoe_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[열광]</color> 상태에서 제인의 치명타 확률이 20% 증가하고, 치명타 피해가 40% 증가한다. 파티 내 임의의 캐릭터가 적에게 <color=#F0D12B>[강타]</color> 효과 부여 시 제인은 바로 <color=#FFFFFF>[열광]</color> 상태에 진입하고 <color=#FFFFFF>[열광적 몰입]</color>이 최대치까지 회복되며, <color=#F0D12B>[강타]</color> 피해가 치명타를 발동할 시 추가로 타깃을 한 번 더 공격해 제인 이상 마스터리의 1,600%에 해당하는 <color=#F0D12B>물리 피해</color>를 준다.",
+                "JaneDoe_Talent_06_Desc_02": "거리에서는 수단의 고결성보다 승패의 결과를 더 중요시한다.\n「가장 어두운 욕망을 똑똑히 들여다봐야만, 가장 고통스러운 약점을 알아낼 수 있어」",
+                "JaneDoe_Talent_06_Desc_01": "<color=#FFFFFF>[열광]</color> 상태에서 제인의 치명타 확률이 20% 증가하고, 치명타 피해가 40% 증가한다. 파티 내 임의의 캐릭터가 적에게 <color=#F0D12B>[강타]</color> 효과 부여 시 제인은 바로 <color=#FFFFFF>[열광]</color> 상태에 진입하고 <color=#FFFFFF>[열광적 몰입]</color>이 최대치까지 회복되며, <color=#F0D12B>[강타]</color> 피해가 치명타를 발동할 시 추가로 타깃을 한 번 더 공격해 제인 이상 마스터리의 1,600%에 해당하는 <color=#F0D12B>물리 피해</color>를 준다.",
+                "JaneDoe_Talent_06_Title_Realign": "「지저분한」 수단"
+            }
+        ]
+    },
+    "1271": {
+        "role_id": 1271,
+        "name": "세스",
+        "full_name": "세스 로웰",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seth_Talent_01_Title": "영웅주의",
+                "Seth_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[굳건한 방패]</color>가 제공하는 실드 및 실드 최대치가 30% 증가한다. <color=#FFFFFF>[굳건한 방패]</color> 효과가 사라질 시 <color=#FFFFFF>[핵심 패시브: 수호자]</color>가 제공하는 이상 마스터리 증가 효과가 추가로 10초 유지된다.",
+                "Seth_Talent_01_Desc_02": "단체 작전을 할 때마다 세스는 언제나 맨 앞에 선다.\n「범인을 붙잡는 건 제게 맡기세요! 제 근접 체포 점수는 99점이거든요. 나머지 1점은 실수로 교관님의 손목을 다치게 해서 깎인 거예요」",
+                "Seth_Talent_01_Desc_01": "<color=#FFFFFF>[굳건한 방패]</color>가 제공하는 실드 및 실드 최대치가 30% 증가한다. <color=#FFFFFF>[굳건한 방패]</color> 효과가 사라질 시 <color=#FFFFFF>[핵심 패시브: 수호자]</color>가 제공하는 이상 마스터리 증가 효과가 추가로 10초 유지된다.",
+                "Seth_Talent_01_Title_Realign": "영웅주의"
+            },
+            {
+                "talent_id": "2",
+                "Seth_Talent_02_Title": "무모한 젊음",
+                "Seth_Talent_02_Desc_01_Realign": "전장 진입 시 세스가 즉시 <color=#FFFFFF>[기합]</color>을 75% 누적한다. <color=#FFFFFF>[일반 공격: 뇌정 참격-감전]</color>이 적에게 명중 시 스킬로 누적하는 <color=#2EB6FF>전기 속성 이상 축적치</color>가 35% 증가한다.",
+                "Seth_Talent_02_Desc_02": "세스는 종종 범죄자들에게 얕보이곤 한다.\n맑은 그의 눈빛 때문일까, 아니면 복슬복슬 무해한 귀와 꼬리 때문일까——\n이유가 무엇이든, 그를 깔본 사람은 결국 그에 맞는 대가를 치르게 된다.",
+                "Seth_Talent_02_Desc_01": "전장 진입 시 세스가 즉시 <color=#FFFFFF>[기합]</color>을 75% 누적한다. <color=#FFFFFF>[일반 공격: 뇌정 참격-감전]</color>이 적에게 명중 시 스킬로 누적하는 <color=#2EB6FF>전기 속성 이상 축적치</color>가 35% 증가한다.",
+                "Seth_Talent_02_Title_Realign": "무모한 젊음"
+            },
+            {
+                "talent_id": "3",
+                "Seth_Talent_03_Title": "둔감력",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Seth_Talent_03_Desc_02": "「너처럼 대단한 치안관은 뭐든 스스로 해결하지? 절대 남의 도움 따위 받지 않고?」\n누군가 이런 말을 해도, 세스는 얼굴색 하나 바뀌지 않는다.\n그러다 어둑한 밤이 되면 홀연히 깨닫곤 한다.\n「아까 낮에 그 녀석이 한 그 말… 설마 날 비꼰 건가?」",
+                "Seth_Talent_03_Title_Realign": "둔감력"
+            },
+            {
+                "talent_id": "4",
+                "Seth_Talent_04_Title": "초심",
+                "Seth_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[패링 지원: 뇌음 방패]</color>로 주는 그로기 수치가 25% 증가한다.",
+                "Seth_Talent_04_Desc_02": "「선과 악에 관한 네 그 멍청한 신념은 버려. 세상에 모든 사람을 지킬 수 있는 방법은 없어. 가끔은 반드시 선택을 해야만 해」\n「이건 내 선택이자, 치안관으로서 수행해야 할 가장 기본적인 직무야. 변한 건 형이야」",
+                "Seth_Talent_04_Desc_01": "<color=#FFFFFF>[패링 지원: 뇌음 방패]</color>로 주는 그로기 수치가 25% 증가한다.",
+                "Seth_Talent_04_Title_Realign": "초심"
+            },
+            {
+                "talent_id": "5",
+                "Seth_Talent_05_Title": "동경의 거리",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Seth_Talent_05_Desc_02": "자신의 형에 대해, 세스는 엄청난 동경과 존경을 품고 있다.\n하지만 당신도 아는 것처럼——「동경」은 「이해」와 가장 먼 거리에 있다.\n「언젠간, 가장 훌륭한 치안관이 될 거야… 그때가 되면 형에게 전에 했던 말을 취소하라고 해야지!」",
+                "Seth_Talent_05_Title_Realign": "동경의 거리"
+            },
+            {
+                "talent_id": "6",
+                "Seth_Talent_06_Title": "이상주의",
+                "Seth_Talent_06_Desc_01_Realign": "세스가 <color=#FFFFFF>[일반 공격: 뇌정 참격-감전]</color> 중 시전한 종결의 일격이 적에게 명중 시, 자신 공격력의 500%에 해당하는 피해를 추가로 주고, 이번 공격은 반드시 치명타를 발동하며 치명타 피해는 60% 증가한다.",
+                "Seth_Talent_06_Desc_02": "소년의 눈에는 모든 것이 선명하고, 흑백이 분명하며, 선악에 차이가 있다.\n그에게 세상의 색은 탁한 회색이라고 말하려는 사람은 언제나 존재할 것이다. 하지만, 명확하고 뚜렷한 세상은… 좇을 가치가 없는 걸까?",
+                "Seth_Talent_06_Desc_01": "세스가 <color=#FFFFFF>[일반 공격: 뇌정 참격-감전]</color> 중 시전한 종결의 일격이 적에게 명중 시, 자신 공격력의 500%에 해당하는 피해를 추가로 주고, 이번 공격은 반드시 치명타를 발동하며 치명타 피해는 60% 증가한다.",
+                "Seth_Talent_06_Title_Realign": "이상주의"
+            }
+        ]
+    },
+    "1071": {
+        "role_id": 1071,
+        "name": "카이사르",
+        "full_name": "카이사르 킹",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Caesar_Talent_01_Title": "쐐기를 박는 진군",
+                "Caesar_Talent_01_Desc_01_Realign": "교전 상태 진입 혹은 교체 출전 시, 카이사르가 즉시 모든 파티원에게 <color=#FFFFFF>[영광의 방패]</color>를 제공한다. 300초 동안 최대 1회 발동한다. <color=#FFFFFF>[영광의 방패]</color>가 존재하는 동안, 보유자 근처 5m 범위 내의 적은 모든 속성 피해 저항이 15% 감소한다.",
+                "Caesar_Talent_01_Desc_02": "「빅대디가 가르쳐줬어. 이럴 땐 강력한 병력으로 쐐기 같은 진형을 구축해 적의 가장 취약한 곳에 공격을 가하라고——」\n「물론, 선봉에는 내가 설 거야!」",
+                "Caesar_Talent_01_Desc_01": "교전 상태 진입 혹은 교체 출전 시, 카이사르가 즉시 모든 파티원에게 <color=#FFFFFF>[영광의 방패]</color>를 제공한다. 300초 동안 최대 1회 발동한다. <color=#FFFFFF>[영광의 방패]</color>가 존재하는 동안, 보유자 근처 5m 범위 내의 적은 모든 속성 피해 저항이 15% 감소한다.",
+                "Caesar_Talent_01_Title_Realign": "쐐기를 박는 진군"
+            },
+            {
+                "talent_id": "2",
+                "Caesar_Talent_02_Title": "이역 전승",
+                "Caesar_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[핵심 패시브: 강인한 벽]</color> 중 <color=#FFFFFF>[영광의 방패]</color>가 존재하는 동안 카이사르의 에너지 회복 효율이 10% 증가하며, 보유자의 공격력 증가 효과가 기존의 150%까지 증가한다.",
+                "Caesar_Talent_02_Desc_02": "카이사르의 전투 방식은 뉴에리두 혹은 외환선의 스타일과 다소 다른데, 유랑자 집단의 가장 뛰어난 무력가들을 계승했기 때문이다.\n적당한 시기에 칼날을 숨기고, 적당한 시기에 일격으로 승리한다——이것이 유랑자들의 생존 방식이다.\n그리고 카이사르는 항상 우수한 학생이었다.",
+                "Caesar_Talent_02_Desc_01": "<color=#FFFFFF>[핵심 패시브: 강인한 벽]</color> 중 <color=#FFFFFF>[영광의 방패]</color>가 존재하는 동안 카이사르의 에너지 회복 효율이 10% 증가하며, 보유자의 공격력 증가 효과가 기존의 150%까지 증가한다.",
+                "Caesar_Talent_02_Title_Realign": "이역 전승"
+            },
+            {
+                "talent_id": "3",
+                "Caesar_Talent_03_Title": "절대적인 신뢰",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Caesar_Talent_03_Desc_02": "일단 누군가를 인정하면, 카이사르는 상대를 자신의 사람으로 여기고, 조금의 경계심도 없이 절대적인 신뢰를 준다…\n그녀가 지금 당신을 대하는 것처럼 말이다.",
+                "Caesar_Talent_03_Title_Realign": "절대적인 신뢰"
+            },
+            {
+                "talent_id": "4",
+                "Caesar_Talent_04_Title": "아레스의 공성 망치",
+                "Caesar_Talent_04_Desc_01_Realign": "카이사르가 <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시, 추가로 <color=#FFFFFF>[지원 포인트]</color>를 3pt 회복한다. 카이사르의 에너지가 20pt 미만일 시, <color=#FFFFFF>[지원 포인트]</color> 1pt를 대신 소모하여 <color=#FFFFFF>[강화 특수 스킬: 초강력 방패 공격]</color>을 시전할 수 있다. 대체 효과는 5초 동안 최대 1회 발동한다.",
+                "Caesar_Talent_04_Desc_02": "카이사르가 유랑자 집단의 지도자에게서 배운 전술 중 하나이다.\n「어떤 상황이든, 난 마지막 순간까지 싸울 거야!」",
+                "Caesar_Talent_04_Desc_01": "카이사르가 <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시, 추가로 <color=#FFFFFF>[지원 포인트]</color>를 3pt 회복한다. 카이사르의 에너지가 20pt 미만일 시, <color=#FFFFFF>[지원 포인트]</color> 1pt를 대신 소모하여 <color=#FFFFFF>[강화 특수 스킬: 초강력 방패 공격]</color>을 시전할 수 있다. 대체 효과는 5초 동안 최대 1회 발동한다.",
+                "Caesar_Talent_04_Title_Realign": "아레스의 공성 망치"
+            },
+            {
+                "talent_id": "5",
+                "Caesar_Talent_05_Title": "낭만적인 정벌",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Caesar_Talent_05_Desc_02": "보기와 다르게, 카이사르는 낭만적인 감수성을 지니고 있다.\n예를 들면, 그녀는 연애 스토리에 굉장한 호기심을 품고 있는데… 만약 그녀와 이 화제에 대해 더 「깊이」 이야기를 나눈다면… 카이사르는 드물게 얼굴을 붉힐 것이다.",
+                "Caesar_Talent_05_Title_Realign": "낭만적인 정벌"
+            },
+            {
+                "talent_id": "6",
+                "Caesar_Talent_06_Title": "오버로드의 의지",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬: 초강력 방패 공격]</color> 및 <color=#FFFFFF>[지원 돌격]</color>이 반드시 치명타를 발동하고, 스킬로 주는 피해가 50% 증가하며, 주요 타깃에게 주는 피해가 추가로 50% 증가한다.\n카이사르가 <color=#FFFFFF>[강화 특수 스킬: 초강력 방패 공격]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color> 시전 시, 자신의 치명타 확률이 30% 증가하고, 치명타 피해가 60% 증가한다. 지속 시간: 15초",
+                "Caesar_Talent_06_Desc_02": "「난 한때 앞만 바라봤어. 난 충분히 강해서, 뭐든 해낼 수 있다고 생각했지」\n「하지만 훌륭한 오버로드가 되기 위해선, 이 정도로는 부족해」\n「후방의 동료들도 지켜야 하거든. 그들이야말로 나를 지탱하는 가장 중요한 근간이니까」",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬: 초강력 방패 공격]</color> 및 <color=#FFFFFF>[지원 돌격]</color>이 반드시 치명타를 발동하고, 스킬로 주는 피해가 50% 증가하며, 주요 타깃에게 주는 피해가 추가로 50% 증가한다. 카이사르가 <color=#FFFFFF>[강화 특수 스킬: 초강력 방패 공격]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color> 시전 시, 자신의 치명타 확률이 30% 증가하고, 치명타 피해가 60% 증가한다. 지속 시간: 15초",
+                "Caesar_Talent_06_Title_Realign": "오버로드의 의지"
+            }
+        ]
+    },
+    "1151": {
+        "role_id": 1151,
+        "name": "루시",
+        "full_name": "루시아나 드 몬테피오",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucy_Talent_01_Title": "대형 연습",
+                "Lucy_Talent_01_Desc_01_Realign": "친위대 새끼 멧돼지가 <color=#FFFFFF>[친위대 새끼 멧돼지: 회전 타법!]</color> 시전 시 루시가 에너지를 2pt 회복한다.\n15초 동안 최대 1회 발동하며, 친위대 새끼 멧돼지마다 재사용 대기시간은 따로 계산된다.",
+                "Lucy_Talent_01_Desc_02": "「매도우, 우로 정렬! …그건 왼쪽이야, 바보야!!!」\n한 번의 명령, 두 개의 방향, 세 차례의 비명, 네 방향의 곡성",
+                "Lucy_Talent_01_Desc_01": "친위대 새끼 멧돼지가 <color=#FFFFFF>[친위대 새끼 멧돼지: 회전 타법!]</color> 시전 시 루시가 에너지를 2pt 회복한다. 15초 동안 최대 1회 발동하며, 친위대 새끼 멧돼지마다 재사용 대기시간은 따로 계산된다.",
+                "Lucy_Talent_01_Title_Realign": "대형 연습"
+            },
+            {
+                "talent_id": "2",
+                "Lucy_Talent_02_Title": "새끼 멧돼지 대장",
+                "Lucy_Talent_02_Desc_01_Realign": "루시가 <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시,\n모든 아군 캐릭터, 「Bangboo」, 친위대 새끼 멧돼지에게 <color=#FFFFFF>[파이팅!]</color> 상태를 부여한다. 지속 시간: 10초",
+                "Lucy_Talent_02_Desc_02": "「루시 대장은 의심할 여지도 없이 최고의 칼리돈 야생 돼지 시렌 지도자야!」\n이는 우디가 「칼리돈의 자손 연간 업무 보고」에서 사용한 맺음말이다.",
+                "Lucy_Talent_02_Desc_01": "루시가 <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>를 시전하면 모든 아군 캐릭터, 「Bangboo」, 친위대 새끼 멧돼지에게 <color=#FFFFFF>[파이팅!]</color> 상태를 부여한다. 지속 시간: 10초",
+                "Lucy_Talent_02_Title_Realign": "새끼 멧돼지 대장"
+            },
+            {
+                "talent_id": "3",
+                "Lucy_Talent_03_Title": "강경한 후견인",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Lucy_Talent_03_Desc_02": "「루시 대장이 우리를 날릴 때 조금만 살살해 줬으면 좋겠어」\n이건 우디가 입 밖으로 꺼내지 않고 삼킨 속마음이다.",
+                "Lucy_Talent_03_Title_Realign": "강경한 후견인"
+            },
+            {
+                "talent_id": "4",
+                "Lucy_Talent_04_Title": "규칙 없는 경기",
+                "Lucy_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[파이팅!]</color> 상태인 아군 유닛의 치명타 피해가 추가로 10% 증가한다.",
+                "Lucy_Talent_04_Desc_02": "규칙과 심판의 갈비뼈, 둘 중 하나는 반드시 깨져야 한다.",
+                "Lucy_Talent_04_Desc_01": "<color=#FFFFFF>[파이팅!]</color> 상태인 아군 유닛의 치명타 피해가 추가로 10% 증가한다.",
+                "Lucy_Talent_04_Title_Realign": "규칙 없는 경기"
+            },
+            {
+                "talent_id": "5",
+                "Lucy_Talent_05_Title": "황야의 귀공주",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Lucy_Talent_05_Desc_02": "방망이 아래 비명을 내지르는 상대에겐 경의를 표하고,\n발밑에 웅크린 적에게는 사과의 말을 뱉는다.\n이것이 바로 영애님의 완벽한 예절이다.",
+                "Lucy_Talent_05_Title_Realign": "황야의 귀공주"
+            },
+            {
+                "talent_id": "6",
+                "Lucy_Talent_06_Title": "열화를 뚫는 송곳니",
+                "Lucy_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[파이팅!]</color> 상태의 파티원이 시전한 <color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시, 친위대 새끼 멧돼지 한 마리가 공중에서 착지하여 폭발을 일으키고 친위대 새끼 멧돼지 공격력의 300%에 해당하는 <color=#FF5521>불 속성 피해</color>를 준다. 또한 모든 파티원의 <color=#FFFFFF>[파이팅!]</color> 상태 지속 시간이 5초 증가한다. 지속 시간은 최대 3회 증가할 수 있다. 최대: 30초\n<color=#FFFFFF>[파이팅!]</color> 상태를 다시 획득하면 증가 가능 횟수가 갱신된다.\n친위대 새끼 멧돼지가 착지하여 폭발을 일으킨 후 <color=#FFFFFF>[친위대 새끼 멧돼지: 회전 타법!]</color>을 1회 시전한다.",
+                "Lucy_Talent_06_Desc_02": "「붉은 갈기 친위대」라고 불리는 새끼 멧돼지 시렌들은 늘 전투의 최전선에서 돌진한다!\n방망이에 맞아 날아오르는 그 찰나의 심경은 절망일까 아니면 기쁨일까?\n용감한 새끼 멧돼지여, 앞장서라!",
+                "Lucy_Talent_06_Desc_01": "<color=#FFFFFF>[파이팅!]</color> 상태의 파티원이 시전한 <color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시, 친위대 새끼 멧돼지 한 마리가 공중에서 착지하여 폭발을 일으키고 친위대 새끼 멧돼지 공격력의 300%에 해당하는 <color=#FF5521>불 속성 피해</color>를 준다. 또한 모든 파티원의 <color=#FFFFFF>[파이팅!]</color> 상태 지속 시간이 5초 증가한다. 지속 시간은 최대 3회 증가할 수 있다. 최대: 30초\n<color=#FFFFFF>[파이팅!]</color> 상태를 다시 획득하면 증가 가능 횟수가 갱신된다. 친위대 새끼 멧돼지가 착지하여 폭발을 일으킨 후 <color=#FFFFFF>[친위대 새끼 멧돼지: 회전 타법!]</color>을 1회 시전한다.",
+                "Lucy_Talent_06_Title_Realign": "열화를 뚫는 송곳니"
+            }
+        ]
+    },
+    "1161": {
+        "role_id": 1161,
+        "name": "라이터",
+        "full_name": "라이터",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lighter_Talent_01_Title": "무패의 챔피언",
+                "Lighter_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[핵심 패시브: 조연제]</color>에서 부여한 디버프 효과 중 <color=#FFFFFF>[궤멸]</color> 효과가 그로기 상태 지속 시간을 5초 증가시키며, <color=#98EFF0>얼음 속성 피해 저항</color> 및 <color=#FF5521>불 속성 피해 저항</color>이 추가로 10% 감소한다. \n라이트 펀치 혹은 잽 러시 기간에 <color=#FFFFFF>[사기]</color>를 소진하고 자동으로 이어서 강력한 종결의 일격을 시전할 시, 강력한 종결의 일격으로 주는 피해가 30% 증가한다.",
+                "Lighter_Talent_01_Desc_02": "무패의 챔피언의 승리는 중요하다. 단장을 대신해 위협을 처리하기 위해——그리고 팀에 사기를 불어넣기 위해, \n가장 강력한 적과 결투를 벌인다.\n그에겐 오직 승리만이 칭송할 만한 가치를 가진다.\n「무패의 챔피언은 쓰러지지 않아」",
+                "Lighter_Talent_01_Desc_01": "<color=#FFFFFF>[핵심 패시브: 조연제]</color>에서 부여한 디버프 효과 중 <color=#FFFFFF>[궤멸]</color> 효과가 그로기 상태 지속 시간을 5초 증가시키며, <color=#98EFF0>얼음 속성 피해 저항</color> 및 <color=#FF5521>불 속성 피해 저항</color>이 추가로 10% 감소한다. 라이트 펀치 혹은 잽 러시 기간에 <color=#FFFFFF>[사기]</color>를 소진하고 자동으로 이어서 강력한 종결의 일격을 시전할 시, 강력한 종결의 일격으로 주는 피해가 30% 증가한다.",
+                "Lighter_Talent_01_Title_Realign": "무패의 챔피언"
+            },
+            {
+                "talent_id": "2",
+                "Lighter_Talent_02_Title": "빨간 스카프",
+                "Lighter_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[핵심 패시브: 조연제]</color>를 통해 타깃에게 <color=#FFFFFF>[궤멸]</color> 효과 부여 시, 타깃의 그로기 약체화 배율이 25% 증가한다.\n<color=#FFFFFF>[추가 능력: 드높은 투지]</color> 중 <color=#FFFFFF>[격앙]</color>이 제공하는 <color=#98EFF0>얼음 속성 피해</color> 및 <color=#FF5521>불 속성 피해</color> 버프 효과가 기존의 120%까지 증가한다.",
+                "Lighter_Talent_02_Desc_02": "칼리돈의 자손의 「빨간 스카프」, 라이터는 외환선에서 유명세를 떨치고 있다.\n이는 그의 주먹뿐만 아니라 특유의 말투 때문이기도 하다…\n「나도 한가한 게 좋긴 한데… 내가 없어도 괜찮겠어?」",
+                "Lighter_Talent_02_Desc_01": "<color=#FFFFFF>[핵심 패시브: 조연제]</color>를 통해 타깃에게 <color=#FFFFFF>[궤멸]</color> 효과 부여 시, 타깃의 그로기 약체화 배율이 25% 증가한다. <color=#FFFFFF>[추가 능력: 드높은 투지]</color> 중 <color=#FFFFFF>[격앙]</color>이 제공하는 <color=#98EFF0>얼음 속성 피해</color> 및 <color=#FF5521>불 속성 피해</color> 버프 효과가 기존의 120%까지 증가한다.",
+                "Lighter_Talent_02_Title_Realign": "빨간 스카프"
+            },
+            {
+                "talent_id": "3",
+                "Lighter_Talent_03_Title": "용병 단장",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Lighter_Talent_03_Desc_02": "「아마 세상에서 나만큼 단장 자리에 안 맞는 사람도 없을 거야」",
+                "Lighter_Talent_03_Title_Realign": "용병 단장"
+            },
+            {
+                "talent_id": "4",
+                "Lighter_Talent_04_Title": "선글라스",
+                "Lighter_Talent_04_Desc_01_Realign": "라이터가 대기 캐릭터일 때 출전 캐릭터의 에너지 자동 회복 효율이 10% 증가한다.\n라이터가 <color=#FFFFFF>[사기 분출]</color> 상태에 진입할 시 대기 캐릭터의 에너지를 4pt 회복한다. 18초 동안 최대 1회 발동한다.",
+                "Lighter_Talent_04_Desc_02": "「왜 선글라스를 쓰냐고? 음… 피를 보면 어지럽거든. 아마도?」",
+                "Lighter_Talent_04_Desc_01": "라이터가 대기 캐릭터일 때 출전 캐릭터의 에너지 자동 회복 효율이 10% 증가한다. 라이터가 <color=#FFFFFF>[사기 분출]</color> 상태에 진입할 시 대기 캐릭터의 에너지를 4pt 회복한다. 18초 동안 최대 1회 발동한다.",
+                "Lighter_Talent_04_Title_Realign": "선글라스"
+            },
+            {
+                "talent_id": "5",
+                "Lighter_Talent_05_Title": "결정권자",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Lighter_Talent_05_Desc_02": "「명령을 내리면 내가 수행할게. 간단하지?」\n라이터는 선글라스를 치켜올리곤 무심한 미소를 짓는다.\n「더 이상 내가 결정하게 하지만 마」",
+                "Lighter_Talent_05_Title_Realign": "결정권자"
+            },
+            {
+                "talent_id": "6",
+                "Lighter_Talent_06_Title": "생존자",
+                "Lighter_Talent_06_Desc_01_Realign": "라이터의 <color=#FFFFFF>[사기]</color> 회복 효율이 기존의 200%까지 증가한다. 라이터의 <color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피 반격]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[빠른 지원]</color>, <color=#FFFFFF>[지원 돌격]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[궁극기]</color> 중 시전한 강공격이 적에게 명중 시 <color=#FFFFFF>[화염 폭발]</color> 효과를 발동하여 공격력의 250%에 해당하는 <color=#FF5521>불 속성 피해</color>를 준다. 적마다 8초 동안 최대 1회 발동한다. 라이터의 충격력이 170pt보다 높을 시 초과한 충격력 1pt당 <color=#FFFFFF>[화염 폭발]</color>의 배율이 추가로 5% 증가한다. 최대 증가: 500%. 라이트 펀치 혹은 잽 러시 기간 동안 <color=#FFFFFF>[사기]</color>를 소진하고 자동으로 이어서 시전한 강력한 종결의 일격이 적에게 명중 시, 재사용 대기시간을 무시하고 추가로 <color=#FFFFFF>[화염 폭발]</color> 효과를 1회 발동할 수 있다.",
+                "Lighter_Talent_06_Desc_02": "다시 돌아간다면 그는 절대 유일한 생존자가 되는 것을 선택하지 않을 것이다.\n하지만 운명은 선택할 수 없다.",
+                "Lighter_Talent_06_Desc_01": "라이터의 <color=#FFFFFF>[사기]</color> 회복 효율이 기존의 200%까지 증가한다. 라이터의 <color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피 반격]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[빠른 지원]</color>, <color=#FFFFFF>[지원 돌격]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[궁극기]</color> 중 시전한 강공격이 적에게 명중 시 <color=#FFFFFF>[화염 폭발]</color> 효과를 발동하여 공격력의 250%에 해당하는 <color=#FF5521>불 속성 피해</color>를 준다. 적마다 8초 동안 최대 1회 발동한다. 라이터의 충격력이 170pt보다 높을 시 초과한 충격력 1pt당 <color=#FFFFFF>[화염 폭발]</color>의 배율이 추가로 5% 증가한다. 최대 증가: 500%. 라이트 펀치 혹은 잽 러시 기간 동안 <color=#FFFFFF>[사기]</color>를 소진하고 자동으로 이어서 시전한 강력한 종결의 일격이 적에게 명중 시, 재사용 대기시간을 무시하고 추가로 <color=#FFFFFF>[화염 폭발]</color> 효과를 1회 발동할 수 있다.",
+                "Lighter_Talent_06_Title_Realign": "생존자"
+            }
+        ]
+    },
+    "1171": {
+        "role_id": 1171,
+        "name": "버니스",
+        "full_name": "버니스 화이트",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Burnice_Talent_01_Title": "따뜻한 공감",
+                "Burnice_Talent_01_Desc_01_Realign": "<color=#FFFFFF>[발화점]</color>의 최대치가 100pt에서 140pt로 증가하며, 전장 진입 시 버니스가 추가로 <color=#FFFFFF>[발화점]</color>을 40pt 누적한다.\n<color=#FFFFFF>[잿불]</color> 효과의 피해 배율이 버니스 공격력의 100%만큼 증가한다.\n<color=#FFFFFF>[잿불]</color> 효과로 누적하는 <color=#FF5521>불 속성 이상 축적치</color>가 25% 증가한다.",
+                "Burnice_Talent_01_Desc_02": "「누구나 순조롭지 않은 순간이 있기 마련이야, 당연해!」\n「슬퍼하지 마, 카이사르. 특제 니트로 퓨엘 한 잔 어때? 시럽 잔뜩 넣었어!」",
+                "Burnice_Talent_01_Desc_01": "<color=#FFFFFF>[발화점]</color>의 최대치가 100pt에서 140pt로 증가하며, 전장 진입 시 버니스가 추가로 <color=#FFFFFF>[발화점]</color>을 40pt 누적한다. <color=#FFFFFF>[잿불]</color> 효과의 피해 배율이 버니스 공격력의 100%만큼 증가한다. <color=#FFFFFF>[잿불]</color> 효과로 누적하는 <color=#FF5521>불 속성 이상 축적치</color>가 25% 증가한다.",
+                "Burnice_Talent_01_Title_Realign": "따뜻한 공감"
+            },
+            {
+                "talent_id": "2",
+                "Burnice_Talent_02_Title": "무료 사이즈 업",
+                "Burnice_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[잿불]</color> 효과 발동 시 적에게 <color=#FFFFFF>[열기 관통]</color>을 부여한다. 최대 중첩: 5스택, 지속 시간: 6초, 중복 발동 시 지속 시간이 갱신된다. 아군의 공격을 받을 시, 타깃이 보유한 <color=#FFFFFF>[열기 관통]</color> 1스택당 이번 공격의 관통률이 4% 증가한다. 최대 증가: 20%",
+                "Burnice_Talent_02_Desc_02": "칼리돈의 자손의 바텐더로서, 버니스는 친구들에게 뉴에리두에서 가장 맛있는 니트로 퓨엘을 제조해 주곤 한다.\n물론, 당신이 그녀의 「적」이라면… 전례 없는 새로운 맛을 느낄 수 있을 테지만 말이다.\n「일생에 딱 한 번만 맛볼 수 있는 굉장한 맛이라구!」",
+                "Burnice_Talent_02_Desc_01": "<color=#FFFFFF>[잿불]</color> 효과 발동 시 적에게 <color=#FFFFFF>[열기 관통]</color>을 부여한다. 최대 중첩: 5스택, 지속 시간: 6초, 중복 발동 시 지속 시간이 갱신된다. 아군의 공격을 받을 시, 타깃이 보유한 <color=#FFFFFF>[열기 관통]</color> 1스택당 이번 공격의 관통률이 4% 증가한다. 최대 증가: 20%",
+                "Burnice_Talent_02_Title_Realign": "무료 사이즈 업"
+            },
+            {
+                "talent_id": "3",
+                "Burnice_Talent_03_Title": "낙천적인 천성",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Burnice_Talent_03_Desc_02": "「버니스는 항상 활기가 넘쳐나요! 심지어 아침에 막 일어났을 때조차요! 그런 에너지는 대체 어디서 나오는 걸까요…」\n「더 무서운 건, 주변 사람들의 기분까지 활기차게 만든다는 거예요! 이 정도면 요괴라고 불러도 되는 거 아니냐고요!」\n「그치만… 딱히 그게 싫진 않아요…」\n——이름을 밝히고 싶지 않아 하는 어느 멧돼지 관리자",
+                "Burnice_Talent_03_Title_Realign": "낙천적인 천성"
+            },
+            {
+                "talent_id": "4",
+                "Burnice_Talent_04_Title": "최상의 연료 보급",
+                "Burnice_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 공격]</color>이 적 명중 시, 스킬의 치명타 확률이 30% 증가한다. \n<color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color> 중, 화염 방사의 지속 시간 최대치가 1초 증가한다.",
+                "Burnice_Talent_04_Desc_02": "「내가 만든 음료를 좋아한다고? 고마워, 크라운 그 녀석도 한 끼에 200리터나 먹을 정도로 좋아해!」\n「아, 크라운은 우리가 타는 그 대형 트럭의 이름이야!」\n「크라운한테 특별 공급하는 연료 좀 맛볼래? 엄청 뜨거워~」",
+                "Burnice_Talent_04_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 공격]</color>이 적 명중 시, 스킬의 치명타 확률이 30% 증가한다. <color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color> 중, 화염 방사의 지속 시간 최대치가 1초 증가한다.",
+                "Burnice_Talent_04_Title_Realign": "최상의 연료 보급"
+            },
+            {
+                "talent_id": "5",
+                "Burnice_Talent_05_Title": "불과 얼음의 춤",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Burnice_Talent_05_Desc_02": "음료를 만들 때, 얼음은 매우 중요한 요소 중 하나이다.\n극한의 차가움이 없으면, 극한의 뜨거움이 도드라지기 어렵기 때문이다.\n「불과 얼음이 융합된 이 느낌~ 빠져들 수밖에 없지!」",
+                "Burnice_Talent_05_Title_Realign": "불과 얼음의 춤"
+            },
+            {
+                "talent_id": "6",
+                "Burnice_Talent_06_Title": "타오르는 불꽃의 초대",
+                "Burnice_Talent_06_Desc_01_Realign": "버니스가 시전한 <color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color>이 적에게 명중 시 추가로 특수 <color=#FFFFFF>[잿불]</color> 효과를 발동하여 타깃에게 버니스 공격력의 60%에 해당하는 <color=#FF5521>불 속성 피해</color>를 준다. 0.5초 동안 최대 1회 발동하며 <color=#FFFFFF>[발화점]</color>을 소모하지 않는다.\n시전한 <color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color>이 적에게 명중 후, 스킬 시전 기간 동안 <color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color>, 특수 <color=#FFFFFF>[잿불]</color> 효과, <color=#FF5521>[연소]</color> 효과가 타깃의 <color=#FF5521>불 속성 피해 저항</color>을 25% 무시한다.\n<color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color>의 화염 폭발이 <color=#FF5521>[연소]</color> 상태인 타깃에게 명중할 시\n기존의 1,800%에 해당하는 <color=#FF5521>[연소]</color> 피해를 추가로 1회 더 결산한다. 동일 타깃에게 20초 동안 최대 1회 발동한다.",
+                "Burnice_Talent_06_Desc_02": "버니스가 진짜로 화난 모습을 본 사람은 없는 것 같다.\n「장담하는데, 절대 보고 싶지 않을걸~」\n——크라운 위에서 잘 준비를 하는 어느 운전기사",
+                "Burnice_Talent_06_Desc_01": "버니스가 시전한 <color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color>이 적에게 명중 시 추가로 특수 <color=#FFFFFF>[잿불]</color> 효과를 발동하여 타깃에게 버니스 공격력의 60%에 해당하는 <color=#FF5521>불 속성 피해</color>를 준다. 0.5초 동안 최대 1회 발동하며 <color=#FFFFFF>[발화점]</color>을 소모하지 않는다. 시전한 <color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color>이 적에게 명중 후, 스킬 시전 기간 동안 <color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color>, 특수 <color=#FFFFFF>[잿불]</color> 효과, <color=#FF5521>[연소]</color> 효과가 타깃의 <color=#FF5521>불 속성 피해 저항</color>을 25% 무시한다. <color=#FFFFFF>[강화 특수 스킬: 이글이글 쉐이킹·더블]</color>의 화염 폭발이 <color=#FF5521>[연소]</color> 상태인 타깃에게 명중할 시, 기존의 1,800%에 해당하는 <color=#FF5521>[연소]</color> 피해를 추가로 1회 더 결산한다. 동일 타깃에게 20초 동안 최대 1회 발동한다.",
+                "Burnice_Talent_06_Title_Realign": "타오르는 불꽃의 초대"
+            }
+        ]
+    },
+    "1281": {
+        "role_id": 1281,
+        "name": "파이퍼",
+        "full_name": "파이퍼 휠",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Clara_Talent_01_Title": "여유 시간",
+                "Clara_Talent_01_Desc_01_Realign": "파이퍼가 <color=#FFFFFF>[특수 스킬: 타이어 스핀]</color>, <color=#FFFFFF>[강화 특수 스킬: 엔진 스핀]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 중 시전한 스핀 베기가 적에게 명중 시 50% 확률로 <color=#FFFFFF>[동력]</color>을 1스택 추가로 획득하고, <color=#FFFFFF>[동력]</color>의 중첩 스택 최대치가 30스택까지 증가한다.",
+                "Clara_Talent_01_Desc_02": "칼리돈의 자손의 어느 평범한 아침, 파이퍼가 느긋하게 하품을 한다.\n「좋은 아침——」\n「오늘도 여유롭게 보낼 수 있겠지? 건강을 잘 챙겨야지, 안 그러면 과로로 죽을지도 몰라——」",
+                "Clara_Talent_01_Desc_01": "파이퍼가 <color=#FFFFFF>[특수 스킬: 타이어 스핀]</color>, <color=#FFFFFF>[강화 특수 스킬: 엔진 스핀]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 중 시전한 스핀 베기가 적에게 명중 시 50% 확률로 <color=#FFFFFF>[동력]</color>을 1스택 추가로 획득하고, <color=#FFFFFF>[동력]</color>의 중첩 스택 최대치가 30스택까지 증가한다.",
+                "Clara_Talent_01_Title_Realign": "여유 시간"
+            },
+            {
+                "talent_id": "2",
+                "Clara_Talent_02_Title": "향상심",
+                "Clara_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[특수 스킬: 타이어 스핀]</color> 및 <color=#FFFFFF>[강화 특수 스킬: 엔진 스핀]</color>을 시전하는 동안 파이퍼의 이동 속도가 증가한다.\n<color=#FFFFFF>[특수 스킬: 아주 무거워]</color>, <color=#FFFFFF>[강화 특수 스킬: 아주아주 무거워]</color>, <color=#FFFFFF>[궁극기]</color> 중 시전한 내려찍기가 적에게 명중 시 스킬로 주는 <color=#F0D12B>물리 피해</color>가 10% 증가한다. 보유한 <color=#FFFFFF>[동력]</color> 스택당 해당 버프 효과가 추가로 1% 증가한다.",
+                "Clara_Talent_02_Desc_02": "잠깐의 노력은 더 긴 휴식을 위해서다.\n물론, 계속 노력하지 않아도 된다면 가장 좋겠지만——기지개를 켠 파이퍼가 트럭의 푹신한 침대를 톡톡 두드리더니 눕는다.",
+                "Clara_Talent_02_Desc_01": "<color=#FFFFFF>[특수 스킬: 타이어 스핀]</color> 및 <color=#FFFFFF>[강화 특수 스킬: 엔진 스핀]</color>을 시전하는 동안 파이퍼의 이동 속도가 증가한다. <color=#FFFFFF>[특수 스킬: 아주 무거워]</color>, <color=#FFFFFF>[강화 특수 스킬: 아주아주 무거워]</color>, <color=#FFFFFF>[궁극기]</color> 중 시전한 내려찍기가 적에게 명중 시 스킬로 주는 <color=#F0D12B>물리 피해</color>가 10% 증가한다. 보유한 <color=#FFFFFF>[동력]</color> 스택당 해당 버프 효과가 추가로 1% 증가한다.",
+                "Clara_Talent_02_Title_Realign": "향상심"
+            },
+            {
+                "talent_id": "3",
+                "Clara_Talent_03_Title": "트럭 전문가",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Clara_Talent_03_Desc_02": "파이퍼는 트럭과 관련된 모든 것에 흥미를 느낀다.\n깊게 잠이 든 상태에서도 엔진 소리가 들려오면 바로 깨어날 정도로…\n「100마력, 적재량 5톤, 이건… 쓰리게이트에서 새로 발매한 소형 트럭이네!」",
+                "Clara_Talent_03_Title_Realign": "트럭 전문가"
+            },
+            {
+                "talent_id": "4",
+                "Clara_Talent_04_Title": "숙련된 기교",
+                "Clara_Talent_04_Desc_01_Realign": "파티 내 임의의 캐릭터가 적에게 속성 이상 효과 부여 시 파이퍼가 에너지를 20pt 회복한다. 30초 동안 최대 1회 발동한다.",
+                "Clara_Talent_04_Desc_02": "파이퍼의 승객이 되는 건 두려운 일이다.\n그녀가 느긋하게 「꽉~ 잡아~」라고 말할 때면, 「꽉」이라는 단어가 끝나기도 전에 트럭은 이미 무서운 속도를 내고 있기 때문이다.\n물론, 그녀는 언제나 가장 빠른 시간 안에 당신을 안전하게 목적지까지 데려다줄 수 있다——그 안에 정신적인 피해는 포함되지 않지만 말이다.",
+                "Clara_Talent_04_Desc_01": "파티 내 임의의 캐릭터가 적에게 속성 이상 효과 부여 시 파이퍼가 에너지를 20pt 회복한다. 30초 동안 최대 1회 발동한다.",
+                "Clara_Talent_04_Title_Realign": "숙련된 기교"
+            },
+            {
+                "talent_id": "5",
+                "Clara_Talent_05_Title": "개인적인 취미",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Clara_Talent_05_Desc_02": "파이퍼는 외모와는 어울리지 않는 취미를 가진 듯하다.\n「이 말은 엄청 잘 달릴 것 같은데… 음, 근데 사는 사람이 별로 없어. 역시 저 말의 승률이 더 높은 거겠지…」\n「끄억——니트로 퓨엘… 별로 안 마셨거든… 한 잔 더!」",
+                "Clara_Talent_05_Title_Realign": "개인적인 취미"
+            },
+            {
+                "talent_id": "6",
+                "Clara_Talent_06_Title": "가벼운 설렘",
+                "Clara_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬: 엔진 스핀]</color>의 지속 시간 최대치가 2초 증가하고, <color=#FFFFFF>[동력]</color>의 지속 시간이 4초 증가한다.",
+                "Clara_Talent_06_Desc_02": "당신이 아는 것처럼, 파이퍼의 가장 큰 소원은 영원히 한가한 날들을 보내는 것이다.\n하지만 이 순간, 늘 반쯤 닫혀 있던 소녀의 두 눈이 놀랍게도 반짝반짝 빛난다.\n「너를 위해서라면… 조금 노력해 볼 수 있을지도~」",
+                "Clara_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬: 엔진 스핀]</color>의 지속 시간 최대치가 2초 증가하고, <color=#FFFFFF>[동력]</color>의 지속 시간이 4초 증가한다.",
+                "Clara_Talent_06_Title_Realign": "가벼운 설렘"
+            }
+        ]
+    },
+    "1221": {
+        "role_id": 1221,
+        "name": "야나기",
+        "full_name": "츠키시로 야나기",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yanagi_Talent_01_Title": "지피지기",
+                "Yanagi_Talent_01_Desc_01_Realign": "파티 내 임의의 캐릭터가 적에게 속성 이상 효과 부여 시 츠키시로 야나기가 <color=#FFFFFF>[통찰]</color>을 1스택 획득한다. 지속 시간: 15초, 최대 중첩: 3스택, 중복 발동 시 지속 시간이 갱신된다.\n적의 공격을 받을 시 츠키시로 야나기는 <color=#FFFFFF>[통찰]</color>을 1스택 소모하고 무적 효과를 획득한다. 지속 시간: 1초. <color=#FFFFFF>[통찰]</color>을 1스택 이상 보유할 시 츠키시로 야나기의 이상 마스터리가 80pt 증가한다.",
+                "Yanagi_Talent_01_Desc_02": "「적의 약점을 꿰뚫어 봄으로써, 승리를 보장하고 승산을 높일 수 있어요」\n이미 승기를 잡았지만, 안경을 치켜올리는 야나기는 평소처럼 침착했다.",
+                "Yanagi_Talent_01_Desc_01": "파티 내 임의의 캐릭터가 적에게 속성 이상 효과 부여 시 츠키시로 야나기가 <color=#FFFFFF>[통찰]</color>을 1스택 획득한다. 지속 시간: 15초, 최대 중첩: 3스택, 중복 발동 시 지속 시간이 갱신된다. 적의 공격을 받을 시 츠키시로 야나기는 <color=#FFFFFF>[통찰]</color>을 1스택 소모하고 무적 효과를 획득한다. 지속 시간: 1초. <color=#FFFFFF>[통찰]</color>을 1스택 이상 보유할 시 츠키시로 야나기의 이상 마스터리가 80pt 증가한다.",
+                "Yanagi_Talent_01_Title_Realign": "지피지기"
+            },
+            {
+                "talent_id": "2",
+                "Yanagi_Talent_02_Title": "뛰어난 적응력",
+                "Yanagi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color> 중 빠른 찌르기로 누적하는 <color=#2EB6FF>전기 속성 이상 축적치</color>가 20% 증가한다. \n빠른 찌르기가 적에게 명중했을 때 「특수 공격」 버튼 홀드를 유지하면 추가로 에너지를 10pt 소모해 다시 찌르기 공격을 시전할 수 있다. \n에너지가 부족하거나 홀드를 멈추면 자동으로 낙하 공격을 이어서 시전한다. \n낙하 공격이 속성 이상 상태인 적에게 명중하고 <color=#FFFFFF>[극성 혼돈]</color> 효과를 발동하면, 타깃에게 주는 피해 배율이 기존 <color=#FFFFFF>[혼돈]</color> 효과의 20%까지 증가한다. \n추가로 시전한 찌르기 공격 1회당 해당 피해 배율이 추가로 15% 증가한다. \n피해 배율 추가 증가 효과는 최대 2회 발동할 수 있다.",
+                "Yanagi_Talent_02_Desc_02": "「야나기는… 어떤 이상한 환경에 놓이더라도 문제없을 거예요」\n「전 저 자신보다 그녀를 더 믿어요」\n——「눈앞의 모든 낙엽 가르기」를 수행 중인 어떤 수행자의 말",
+                "Yanagi_Talent_02_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 중 빠른 찌르기로 누적하는 <color=#2EB6FF>전기 속성 이상 축적치</color>가 20% 증가한다. 빠른 찌르기가 적에게 명중했을 때 「특수 공격」 버튼 홀드를 유지하면 추가로 에너지를 10pt 소모해 다시 찌르기 공격을 시전할 수 있다. 에너지가 부족하거나 홀드를 멈추면 자동으로 낙하 공격을 이어서 시전한다. 낙하 공격이 속성 이상 상태인 적에게 명중하고 <color=#FFFFFF>[극성 혼돈]</color> 효과를 발동하면, 타깃에게 주는 피해 배율이 기존 <color=#FFFFFF>[혼돈]</color> 효과의 20%까지 증가한다. 추가로 시전한 찌르기 공격 1회당 해당 피해 배율이 추가로 15% 증가한다. 피해 배율 추가 증가 효과는 최대 2회 발동할 수 있다.",
+                "Yanagi_Talent_02_Title_Realign": "뛰어난 적응력"
+            },
+            {
+                "talent_id": "3",
+                "Yanagi_Talent_03_Title": "츠키시로식 관리학",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Yanagi_Talent_03_Desc_02": "사람들은 말한다. 대공동 6과에는 괴짜와 천재가 모여 있는데 그중 유일한 「정상인」은 츠키시로 야나기라고——\n하지만 바로 그녀의 존재 덕분에 괴짜와 천재들이 「끈끈해」진 것이다.",
+                "Yanagi_Talent_03_Title_Realign": "츠키시로식 관리학"
+            },
+            {
+                "talent_id": "4",
+                "Yanagi_Talent_04_Title": "장기판의 지배자",
+                "Yanagi_Talent_04_Desc_01_Realign": "츠키시로 야나기가 적에게 속성 이상 피해를 줄 시,\n해당 적에게 <color=#FFFFFF>[발각]</color> 효과를 부여한다. 지속 시간: 15초\n<color=#FFFFFF>[발각]</color> 효과가 부여된 적이 공격을 받을 시, 해당 공격의 관통률이 16% 증가한다.",
+                "Yanagi_Talent_04_Desc_02": "츠키시로 야나기는 어떤 상황에서도 가장 빠른 속도로 모든 최신 정보를 파악하고 이를 근거로 가장 좋은 판단을 내릴 수 있다.",
+                "Yanagi_Talent_04_Desc_01": "츠키시로 야나기가 적에게 속성 이상 피해를 줄 시, 해당 적에게 <color=#FFFFFF>[발각]</color> 효과를 부여한다. 지속 시간: 15초. <color=#FFFFFF>[발각]</color> 효과가 부여된 적이 공격을 받을 시, 해당 공격의 관통률이 16% 증가한다.",
+                "Yanagi_Talent_04_Title_Realign": "장기판의 지배자"
+            },
+            {
+                "talent_id": "5",
+                "Yanagi_Talent_05_Title": "오니 「엄마」",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Yanagi_Talent_05_Desc_02": "오늘날, 츠키시로 야나기는 소우카쿠의 유일한 보호자이다.\n「소우카쿠, 이건 과장님 주먹밥이니까 함부로 먹으면 안 돼—— 휴, 됐다, 이리 와. 내가 데워줄게」\n「과장님 건 이따 똑같은 걸로 다시 사둬야겠다…」",
+                "Yanagi_Talent_05_Title_Realign": "오니 「엄마」"
+            },
+            {
+                "talent_id": "6",
+                "Yanagi_Talent_06_Title": "인간의 것이 아닌 피",
+                "Yanagi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[강화 특수 스킬]</color> 중 찌르기 공격 시전 후, <color=#FFFFFF>[삼라만상]</color> 상태의 지속 시간이 30초까지 증가한다.\n상태가 지속되는 동안 <color=#FFFFFF>[강화 특수 스킬]</color>로 주는 피해가 20% 증가한다.\n<color=#FFFFFF>[뛰어난 적응력]</color> 중 <color=#FFFFFF>[극성 혼돈]</color> 피해 배율 추가 증가 효과의 발동 횟수 최대치가 4회까지 증가하고, 추가 찌르기 공격 4회까지는 시전에 필요한 에너지가 절반으로 감소한다.",
+                "Yanagi_Talent_06_Desc_02": "츠키시로 야나기의 몸에는 자신의 것이 아닌 혈액이 일부 흐르고 있다.\n이 피는 그녀가 막다른 길에 놓였을 때 새로운 삶을 불어넣어 줬으며 이로 인해 특별한 힘을 얻게 되었다.\n「하지만 당신도 아는 것처럼, 본디 내 것이 아니었던 것에는… 대가가 따르는 법이죠」",
+                "Yanagi_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 중 찌르기 공격 시전 후, <color=#FFFFFF>[삼라만상]</color> 상태의 지속 시간이 30초까지 증가한다. 상태가 지속되는 동안 <color=#FFFFFF>[강화 특수 스킬]</color>로 주는 피해가 20% 증가한다. <color=#FFFFFF>[뛰어난 적응력]</color> 중 <color=#FFFFFF>[극성 혼돈]</color> 피해 배율 추가 증가 효과의 발동 횟수 최대치가 4회까지 증가하고, 추가 찌르기 공격 4회까지는 시전에 필요한 에너지가 절반으로 감소한다.",
+                "Yanagi_Talent_06_Title_Realign": "인간의 것이 아닌 피"
+            }
+        ]
+    },
+    "0": {
+        "role_id": 0,
+        "name": null,
+        "full_name": null,
+        "talent_text": []
+    }
+}
