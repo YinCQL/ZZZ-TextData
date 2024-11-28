@@ -17,6 +17,7 @@
 * InterKnotConfig-绳网内所有帖子文本
 * MonsterCardConfig-法厄同图鉴(怪物图鉴描述文本)
 * NewsConfig-都市快报文本
+* SpecialEventConfig-空洞见闻-特殊区域记录
 
 ## 暂时不提供的内容
 

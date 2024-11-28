@@ -1,0 +1,290 @@
+{
+    "1": {
+        "event_id": 1,
+        "event_type": "Challenge",
+        "event_code": "D0001",
+        "event_name": "Type de scénario : D0001",
+        "event_text": "<color=#FFAF2C>Commission d'observation</color> reçue dans une zone proche. Type de scénario : <color=#FFAF2C>D0001</color>.\nObjectif : Atteindre l'emplacement indiqué. Tenir la position. Collecter des données.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "2": {
+        "event_id": 2,
+        "event_type": "Challenge",
+        "event_code": "UC-0002",
+        "event_name": "Type de scénario : UC-0002",
+        "event_text": "<color=#FFAF2C>Commission urgente</color> reçue dans une zone proche. Type de scénario : <color=#FFAF2C>UC-0002</color>.\nObjectif : Vaincre le Bangbou doré qui a volé les ressources de l'inspecteur.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "3": {
+        "event_id": 3,
+        "event_type": "Challenge",
+        "event_code": "UC-0003",
+        "event_name": "Type de scénario : UC-0003",
+        "event_text": "<color=#FFAF2C>Commission urgente</color> reçue dans une zone proche. Type de scénario : <color=#FFAF2C>UC-0003</color>.\nObjectif : Éliminer les ennemis avec des enchaînements.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "4": {
+        "event_id": 4,
+        "event_type": "Challenge",
+        "event_code": "UC-0006",
+        "event_name": "Type de scénario : UC-0006",
+        "event_text": "<color=#FFAF2C>Commission urgente</color> reçue dans une zone proche. Type de scénario : <color=#FFAF2C>UC-0006</color>.\nObjectif : Trouver les personnes disparues.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "5": {
+        "event_id": 5,
+        "event_type": "Challenge",
+        "event_code": "D0003",
+        "event_name": "Type de scénario : D0003",
+        "event_text": "Vous entrez dans une zone de recyclage de <color=#FFAF2C>pièces rouages</color>. Type de scénario : <color=#FFAF2C>D0003</color>.\nObjectif : Récolter toutes les pièces rouages de la zone.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "6": {
+        "event_id": 6,
+        "event_type": "Challenge",
+        "event_code": "UC-0009",
+        "event_name": "Type de scénario : UC-0009",
+        "event_text": "<color=#FFAF2C>Commission urgente</color> reçue dans une zone proche. Type de scénario : <color=#FFAF2C>UC-0009</color>.\nObjectif : Trouver les civils disparus.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "7": {
+        "event_id": 7,
+        "event_type": "Challenge",
+        "event_code": "UC-0011",
+        "event_name": "Type de scénario : UC-0011",
+        "event_text": "<color=#FFAF2C>Commission urgente</color> reçue dans une zone proche. Type de scénario : <color=#FFAF2C>UC-0011</color>.\nObjectif : Trouver l'objet cible dans la zone.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "8": {
+        "event_id": 8,
+        "event_type": "Challenge",
+        "event_code": "UC-0013",
+        "event_name": "Type de scénario : UC-0013",
+        "event_text": "<color=#FFAF2C>Commission urgente</color> reçue dans une zone proche. Type de scénario : <color=#FFAF2C>UC-0013</color>.\nObjectif : Reprendre la caisse de ravitaillement aux Éthéréens.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "9": {
+        "event_id": 9,
+        "event_type": "Challenge",
+        "event_code": "UC-0014",
+        "event_name": "Type de scénario : UC-0014",
+        "event_text": "<color=#FFAF2C>Commission urgente</color> reçue dans une zone proche. Type de scénario : <color=#FFAF2C>UC-0014</color>.\nObjectif : Escorter le soldat blessé jusqu'à l'emplacement indiqué.\nEntrez dans la zone de droite pour accepter la commission.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "10": {
+        "event_id": 10,
+        "event_type": "Challenge",
+        "event_code": "0005",
+        "event_name": "Code de la zone : 0005",
+        "event_text": "Attention ! Attention ! Il y a <color=#FFAF2C>une menace dans la partie droite</color> de cette zone. Choisissez judicieusement votre chemin.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "11": {
+        "event_id": 11,
+        "event_type": "Challenge",
+        "event_code": "0016",
+        "event_name": "Code de la zone : 0016",
+        "event_text": "Cette zone faisait office de <color=#FFAF2C>centre d'approvisionnement et de commerce</color>, mais elle a été abandonnée du fait de la corruption. Il reste du matériel utilisable, mais le récupérer risque d'être dangereux.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "12": {
+        "event_id": 12,
+        "event_type": "Challenge",
+        "event_code": "0044",
+        "event_name": "Code de la zone : 0044",
+        "event_text": "« Aidez-nous à réaliser la <color=#CF4029>vérification d'identité</color>. »\nGrâce à l'aide de Fairy, vous arrivez à passer incognito, cependant...\n« Vous ne semblez pas avoir la licence nécessaire pour explorer la Néantre Zéro. Veuillez contacter l'Association d'inspection des Néantres avant de revenir. »\n« Cette zone est <color=#FFAF2C>temporairement fermée à l'exploration</color>, à cause d'un récent incident. Je vous prie de faire demi-tour, le personnel sur site vous procurera de l'aide. »",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "13": {
+        "event_id": 13,
+        "event_type": "Challenge",
+        "event_code": "0011",
+        "event_name": "Code de la zone : 0011",
+        "event_text": "Gardez un œil sur votre environnement. Il y a des <color=#FFAF2C>Éthéréens</color> dans cette zone, mais ils constituent une menace relativement faible.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "14": {
+        "event_id": 14,
+        "event_type": "Challenge",
+        "event_code": "0012",
+        "event_name": "Code de la zone : 0012",
+        "event_text": "Préparez-vous à entrer en combat à tout moment. Il y a des <color=#FFAF2C>Éthéréens</color> dans cette zone et ils constituent une menace élevée.",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "15": {
+        "event_id": 15,
+        "event_type": "Reward",
+        "event_code": "7777",
+        "event_name": "Code de la zone : 7777",
+        "event_text": "« Cette zone était autrefois une <color=#FFAF2C>zone de divertissement</color>. Elle renferme toujours des installations fonctionnelles. Tirez ce levier et voyez ce qui se passe. Bonne chance ! »",
+        "event_funtext": "Il s'agit d'une zone sûre spéciale qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    },
+    "16": {
+        "event_id": 16,
+        "event_type": "Reward",
+        "event_code": "0006",
+        "event_name": "Code de la zone : 0006",
+        "event_text": "Cette zone renferme des <color=#FFAF2C>pièces rouages</color>. Rappel : les pièces rouages trouvées pendant l'exploration comptent comme des biens personnels et n'ont pas à être restituées.",
+        "event_funtext": "Il s'agit d'une zone spéciale sûre, qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    },
+    "17": {
+        "event_id": 17,
+        "event_type": "Reward",
+        "event_code": "0009",
+        "event_name": "Code de la zone : 0009",
+        "event_text": "Informations de la zone : <color=#FFAF2C>si vous voyez du fromage, il y a généralement un piège en dessous</color>. J'espère que vous ne vous perdrez pas quand vous fuirez dans la panique. Bonne chance.",
+        "event_funtext": "Il s'agit d'une zone spéciale sûre, qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    },
+    "18": {
+        "event_id": 18,
+        "event_type": "Reward",
+        "event_code": "0015",
+        "event_name": "Code de la zone : 0015",
+        "event_text": "Merci pour votre contribution à l'exploration des Néantres. Vous pouvez sélectionner gratuitement des objets ici, <color=#FFAF2C>autant que vous le souhaitez</color>. Toutefois, soyez informé{F#e} que cet appareil est en maintenance et est susceptible de subir des pannes.",
+        "event_funtext": "Il s'agit d'une zone spéciale sûre, qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    },
+    "19": {
+        "event_id": 19,
+        "event_type": "Reward",
+        "event_code": "0018",
+        "event_name": "Code de la zone : 0018",
+        "event_text": "Cette zone renferme une trappe expérimentale. <color=#FFAF2C>Marchez dessus pour fermer la trappe de l'autre côté</color>.",
+        "event_funtext": "Il s'agit d'une zone spéciale sûre, qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    },
+    "20": {
+        "event_id": 20,
+        "event_type": "Reward",
+        "event_code": "0026",
+        "event_name": "Code de la zone : 0026",
+        "event_text": "Certaines installations ici peuvent, entre autres, <color=#FFAF2C>soulager la fatigue</color>.",
+        "event_funtext": "Il s'agit d'une zone spéciale sûre, qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    },
+    "21": {
+        "event_id": 21,
+        "event_type": "Reward",
+        "event_code": "0003",
+        "event_name": "Code de la zone : 0003",
+        "event_text": "Cette zone <color=#FFAF2C>n'est pas grande, mais elle est sûre</color>. Vous pouvez l'explorer sans la moindre inquiétude.",
+        "event_funtext": "Il s'agit d'une zone spéciale sûre, qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    },
+    "22": {
+        "event_id": 22,
+        "event_type": "Reward",
+        "event_code": "0007",
+        "event_name": "Code de la zone : 0007",
+        "event_text": "Puissent <color=#FFAF2C>ces pièces rouages et ce matériel</color> vous aider à explorer la Néantre Zéro.",
+        "event_funtext": "Il s'agit d'une zone spéciale sûre, qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    },
+    "23": {
+        "event_id": 23,
+        "event_type": "Function",
+        "event_code": "BB-01",
+        "event_name": "Code de la zone : BB-01",
+        "event_text": "L'<color=#FFAF2C>équipe de soutien des Bangbous d'élite</color> est stationnée dans cette zone. Elle peut vous aider dans votre exploration.",
+        "event_funtext": "Cette zone spéciale présente diverses fonctions. Plus vous posséderez de ressources, plus les gains pourraient être intéressants."
+    },
+    "24": {
+        "event_id": 24,
+        "event_type": "Function",
+        "event_code": "0004",
+        "event_name": "Code de la zone : 0004",
+        "event_text": "Cette zone renferme une quantité inconnue de <color=#FFAF2C>marchands clandestins</color>. Faites preuve de prudence dans vos transactions ici.",
+        "event_funtext": "Cette zone spéciale présente diverses fonctions. Plus vous posséderez de ressources, plus les gains pourraient être intéressants."
+    },
+    "25": {
+        "event_id": 25,
+        "event_type": "Function",
+        "event_code": "0028",
+        "event_name": "Code de la zone : 0028",
+        "event_text": "Merci pour votre contribution à l'exploration des Néantres. Vous pouvez obtenir du <color=#FFAF2C>matériel aléatoire</color> ici.",
+        "event_funtext": "Cette zone spéciale présente diverses fonctions. Plus vous posséderez de ressources, plus les gains pourraient être intéressants."
+    },
+    "26": {
+        "event_id": 26,
+        "event_type": "Demon",
+        "event_code": "0030",
+        "event_name": "Code de la zone : 0030",
+        "event_text": "<color=#FFAF2C>Cette zone renferme du matériel, mais une créature inconnue s'en est emparée</color>. Bonne chance pour le récupérer.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "27": {
+        "event_id": 27,
+        "event_type": "Demon",
+        "event_code": "0041",
+        "event_name": "Code de la zone : 0041",
+        "event_text": "Cette zone est extrêmement sujette à la corruption. <color=#FFAF2C>Chaque espace que vous traversez sera corrompu</color>. Ne revenez pas sur vos pas.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "28": {
+        "event_id": 28,
+        "event_type": "Demon",
+        "event_code": "0049",
+        "event_name": "Code de la zone : 0049",
+        "event_text": "Cette zone est extrêmement sujette à la corruption. <color=#FFAF2C>Tous les endroits que vous traversez seront corrompus</color>. Ne revenez pas sur vos pas.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "29": {
+        "event_id": 29,
+        "event_type": "Demon",
+        "event_code": "0027",
+        "event_name": "Code de la zone : 0027",
+        "event_text": "Cette zone renferme du <color=#FFAF2C>matériel</color>, mais souvenez-vous de ne pas vous montrer trop cupide.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "30": {
+        "event_id": 30,
+        "event_type": "Demon",
+        "event_code": "0032",
+        "event_name": "Code de la zone : 0032",
+        "event_text": "Je peux seulement dire que c'est une zone où <color=#FFAF2C>des actions en apparence stupides peuvent en fait se révéler utiles</color>.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "31": {
+        "event_id": 31,
+        "event_type": "Demon",
+        "event_code": "0033",
+        "event_name": "Code de la zone : 0033",
+        "event_text": "Je peux seulement dire que c'est une zone où <color=#FFAF2C>briser les règles habituelles de l'exploration pourrait en valoir la peine</color>.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "32": {
+        "event_id": 32,
+        "event_type": "Demon",
+        "event_code": "BB-02",
+        "event_name": "Code de la zone : BB-02",
+        "event_text": "L'<color=#FFAF2C>équipe de soutien des Bangbous d'élite</color> est stationnée dans cette zone. Elle peut vous aider dans votre exploration.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "33": {
+        "event_id": 33,
+        "event_type": "Demon",
+        "event_code": "0066",
+        "event_name": "Code de la zone : 0066",
+        "event_text": "Cette zone renferme du <color=#FFAF2C>matériel de combat</color>, mais il n'est pas gratuit. N'ayez pas les yeux plus gros que le ventre.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "34": {
+        "event_id": 34,
+        "event_type": "Demon",
+        "event_code": "0020",
+        "event_name": "Code de la zone : 0020",
+        "event_text": "À l'instar de la zone 0019, la visibilité est très mauvaise ici et, jusqu'ici, <color=#FFAF2C>aucune donnée n'a été consignée sur cette zone</color>.",
+        "event_funtext": "Il s'agit d'une zone chaotique et périlleuse. Pesez bien chacune de vos décision en fonction de la situation."
+    },
+    "37": {
+        "event_id": 37,
+        "event_type": "Challenge",
+        "event_code": "UC-0015",
+        "event_name": "Code de la zone : UC-0015",
+        "event_text": "« Objectif : trouvez le Bangbou perdu.\nEntrer dans la zone sur la droite vaut acceptation de la commission. »",
+        "event_funtext": "Il s'agit d'une zone spéciale très dangereuse. Avancez prudemment, et pesez bien chacune de vos décisions en fonction de la situation."
+    },
+    "38": {
+        "event_id": 38,
+        "event_type": "Reward",
+        "event_code": "0043",
+        "event_name": "Code de la zone : 0043",
+        "event_text": "« Sachez que votre choix sera définitif. »",
+        "event_funtext": "Il s'agit d'une zone spéciale sûre, qui renferme des récompenses. Profitez-en pour vous reposer et vous réorganiser si nécessaire."
+    }
+}

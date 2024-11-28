@@ -1,0 +1,290 @@
+{
+    "1": {
+        "event_id": 1,
+        "event_type": "Challenge",
+        "event_code": "D0001",
+        "event_name": "Scenario Type: D0001",
+        "event_text": "<color=#FFAF2C>Observation commission</color> received from a nearby area. Scenario type: <color=#FFAF2C>D0001</color>.\nTarget: Reach the designated location, stay there, and collect data.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "2": {
+        "event_id": 2,
+        "event_type": "Challenge",
+        "event_code": "UC-0002",
+        "event_name": "Scenario Type: UC-0002",
+        "event_text": "<color=#FFAF2C>Urgent commission</color> received from a nearby area. Scenario type: <color=#FFAF2C>UC-0002</color>.\nTarget: Defeat the Golden Bangboo that stole all the Investigator's supplies.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "3": {
+        "event_id": 3,
+        "event_type": "Challenge",
+        "event_code": "UC-0003",
+        "event_name": "Scenario Type: UC-0003",
+        "event_text": "<color=#FFAF2C>Urgent commission</color> received from a nearby area. Scenario type: <color=#FFAF2C>UC-0003</color>.\nTarget: Eliminate enemies with Chain Attacks.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "4": {
+        "event_id": 4,
+        "event_type": "Challenge",
+        "event_code": "UC-0006",
+        "event_name": "Scenario Type: UC-0006",
+        "event_text": "<color=#FFAF2C>Urgent commission</color> received from a nearby area. Scenario type: <color=#FFAF2C>UC-0006</color>.\nTarget: Find the missing people.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "5": {
+        "event_id": 5,
+        "event_type": "Challenge",
+        "event_code": "D0003",
+        "event_name": "Scenario Type: D0003",
+        "event_text": "You are now in a <color=#FFAF2C>Gear Coin</color> recycling area. Scenario type: <color=#FFAF2C>D0003</color>.\nTarget: Gather up all the Gear Coins in this area.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "6": {
+        "event_id": 6,
+        "event_type": "Challenge",
+        "event_code": "UC-0009",
+        "event_name": "Scenario Type: UC-0009",
+        "event_text": "<color=#FFAF2C>Urgent commission</color> received from a nearby area. Scenario type: <color=#FFAF2C>UC-0009</color>.\nTarget: Find the missing civilians.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "7": {
+        "event_id": 7,
+        "event_type": "Challenge",
+        "event_code": "UC-0011",
+        "event_name": "Scenario Type: UC-0011",
+        "event_text": "<color=#FFAF2C>Urgent commission</color> received from a nearby area. Scenario type: <color=#FFAF2C>UC-0011</color>.\nTarget: Find the target item within this area.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "8": {
+        "event_id": 8,
+        "event_type": "Challenge",
+        "event_code": "UC-0013",
+        "event_name": "Scenario Type: UC-0013",
+        "event_text": "<color=#FFAF2C>Urgent commission</color> received from a nearby area. Scenario type: <color=#FFAF2C>UC-0013</color>.\nTarget: Retrieve the supply box from the Ethereals.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "9": {
+        "event_id": 9,
+        "event_type": "Challenge",
+        "event_code": "UC-0014",
+        "event_name": "Scenario Type: UC-0014",
+        "event_text": "<color=#FFAF2C>Urgent commission</color> received from a nearby area. Scenario type: <color=#FFAF2C>UC-0014</color>.\nTarget: Escort the wounded soldier to the designated location.\nEnter the area on the right to accept the commission.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "10": {
+        "event_id": 10,
+        "event_type": "Challenge",
+        "event_code": "0005",
+        "event_name": "Area Codename: 0005",
+        "event_text": "Attention! Attention! There is <color=#FFAF2C>a threat on the right side</color> of this area. Please choose your path carefully.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "11": {
+        "event_id": 11,
+        "event_type": "Challenge",
+        "event_code": "0016",
+        "event_name": "Area Codename: 0016",
+        "event_text": "This area used to be a <color=#FFAF2C>supplies and trading hub</color>, but it was abandoned due to corruption. Some usable supplies remain, but getting to them will be dangerous.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "12": {
+        "event_id": 12,
+        "event_type": "Challenge",
+        "event_code": "0044",
+        "event_name": "Area Codename: 0044",
+        "event_text": "\"Please assist us by completing the <color=#CF4029>identity verification</color>.\"\nWith Fairy's help, your identity remains incognito, but...\n\"You don't seem to have the special permit needed for exploring Hollow Zero. Please check in with the Hollow Investigative Association before you come back.\"\n\"This area is <color=#FFAF2C>temporarily closed off to exploring</color> due to a recent accident. Please head back the way you came, with the assistance of other on-site staff.\"",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "13": {
+        "event_id": 13,
+        "event_type": "Challenge",
+        "event_code": "0011",
+        "event_name": "Area Codename: 0011",
+        "event_text": "Please pay attention to your surroundings. There are <color=#FFAF2C>Ethereals</color> in this area, but their threat level is quite low.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "14": {
+        "event_id": 14,
+        "event_type": "Challenge",
+        "event_code": "0012",
+        "event_name": "Area Codename: 0012",
+        "event_text": "Please prepare to enter combat at any moment. There are <color=#FFAF2C>Ethereals</color> in this area, and their threat level is high.",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "15": {
+        "event_id": 15,
+        "event_type": "Reward",
+        "event_code": "7777",
+        "event_name": "Area Codename: 7777",
+        "event_text": "\"This area used to be an <color=#FFAF2C>entertainment zone</color> back in the day and still contains functional facilities. Pull that lucky lever and see what happens. Good luck!\"",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    },
+    "16": {
+        "event_id": 16,
+        "event_type": "Reward",
+        "event_code": "0006",
+        "event_name": "Area Codename: 0006",
+        "event_text": "There are <color=#FFAF2C>Gear Coins</color> in this area. Reminder: Gear Coins found during exploration count as personal property and are not required to be turned in.",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    },
+    "17": {
+        "event_id": 17,
+        "event_type": "Reward",
+        "event_code": "0009",
+        "event_name": "Area Codename: 0009",
+        "event_text": "Area Info: <color=#FFAF2C>If you see cheese, there's usually a trap below it</color>. Hope you don't get lost when you flee in a panic. Good luck.",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    },
+    "18": {
+        "event_id": 18,
+        "event_type": "Reward",
+        "event_code": "0015",
+        "event_name": "Area Codename: 0015",
+        "event_text": "Thank you for your contribution to Hollow exploration. You may select items from here for free, <color=#FFAF2C>to your heart's content</color>.\nBut be careful: The device is undergoing maintenance and may break down.",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    },
+    "19": {
+        "event_id": 19,
+        "event_type": "Reward",
+        "event_code": "0018",
+        "event_name": "Area Codename: 0018",
+        "event_text": "This area has an experimental trapdoor. <color=#FFAF2C>Step on it to close the trapdoor over on the other side</color>.",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    },
+    "20": {
+        "event_id": 20,
+        "event_type": "Reward",
+        "event_code": "0026",
+        "event_name": "Area Codename: 0026",
+        "event_text": "There are facilities here that can <color=#FFAF2C>reduce fatigue</color>, as well as some other things.",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    },
+    "21": {
+        "event_id": 21,
+        "event_type": "Reward",
+        "event_code": "0003",
+        "event_name": "Area Codename: 0003",
+        "event_text": "This area <color=#FFAF2C>isn't big, but it's safe</color>. You can explore with confidence.",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    },
+    "22": {
+        "event_id": 22,
+        "event_type": "Reward",
+        "event_code": "0007",
+        "event_name": "Area Codename: 0007",
+        "event_text": "May these <color=#FFAF2C>Gear Coins and supplies</color> help you explore Hollow Zero.",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    },
+    "23": {
+        "event_id": 23,
+        "event_type": "Function",
+        "event_code": "BB-01",
+        "event_name": "Area Codename: BB-01",
+        "event_text": "The <color=#FFAF2C>Ace Bangboo Support Team</color> is stationed in this area. They can help support your exploration.",
+        "event_funtext": "This special area offers a variety of functions. Owning more resources here may help you generate increased revenue."
+    },
+    "24": {
+        "event_id": 24,
+        "event_type": "Function",
+        "event_code": "0004",
+        "event_name": "Area Codename: 0004",
+        "event_text": "There is an unknown quantity of <color=#FFAF2C>illegal merchants</color> in this area. Please be careful trading around here.",
+        "event_funtext": "This special area offers a variety of functions. Owning more resources here may help you generate increased revenue."
+    },
+    "25": {
+        "event_id": 25,
+        "event_type": "Function",
+        "event_code": "0028",
+        "event_name": "Area Codename: 0028",
+        "event_text": "Thank you for your contribution to Hollow exploration. You can get <color=#FFAF2C>random supplies</color> here.",
+        "event_funtext": "This special area offers a variety of functions. Owning more resources here may help you generate increased revenue."
+    },
+    "26": {
+        "event_id": 26,
+        "event_type": "Demon",
+        "event_code": "0030",
+        "event_name": "Area Codename: 0030",
+        "event_text": "There are <color=#FFAF2C>supplies in this area, but an unknown creature has seized them</color>. Best of luck retrieving them.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "27": {
+        "event_id": 27,
+        "event_type": "Demon",
+        "event_code": "0041",
+        "event_name": "Area Codename: 0041",
+        "event_text": "This area is highly susceptible to corruption. <color=#FFAF2C>Every space you pass through will become corrupted</color>. Do not backtrack.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "28": {
+        "event_id": 28,
+        "event_type": "Demon",
+        "event_code": "0049",
+        "event_name": "Area Codename: 0049",
+        "event_text": "This area is highly susceptible to corruption. <color=#FFAF2C>Everywhere you pass will be corrupted</color>. Do not backtrack.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "29": {
+        "event_id": 29,
+        "event_type": "Demon",
+        "event_code": "0027",
+        "event_name": "Area Codename: 0027",
+        "event_text": "There are <color=#FFAF2C>supplies</color> in this area, but remember to not get greedy.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "30": {
+        "event_id": 30,
+        "event_type": "Demon",
+        "event_code": "0032",
+        "event_name": "Area Codename: 0032",
+        "event_text": "I can only offer you a hint that this is an area where <color=#FFAF2C>seemingly stupid actions may in fact be worthwhile</color>.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "31": {
+        "event_id": 31,
+        "event_type": "Demon",
+        "event_code": "0033",
+        "event_name": "Area Codename: 0033",
+        "event_text": "I can only offer you a hint that this is an area where <color=#FFAF2C>violating norms in exploration might lead to some valuable finds</color>.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "32": {
+        "event_id": 32,
+        "event_type": "Demon",
+        "event_code": "BB-02",
+        "event_name": "Area Codename: BB-02",
+        "event_text": "The <color=#FFAF2C>Ace Bangboo Support Team</color> is stationed in this area. They can help support your exploration.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "33": {
+        "event_id": 33,
+        "event_type": "Demon",
+        "event_code": "0066",
+        "event_name": "Area Codename: 0066",
+        "event_text": "There are <color=#FFAF2C>combat supplies</color> in this area, but they are not free to take. Please don't get greedy and act within your capabilities.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "34": {
+        "event_id": 34,
+        "event_type": "Demon",
+        "event_code": "0020",
+        "event_name": "Area Codename: 0020",
+        "event_text": "Just like area 0019, visibility is very poor in this area and so far <color=#FFAF2C>no data of this area has been recorded</color>.",
+        "event_funtext": "This area is chaotic and dangerous. Please make your decisions based on your current situation."
+    },
+    "37": {
+        "event_id": 37,
+        "event_type": "Challenge",
+        "event_code": "UC-0015",
+        "event_name": "Area Codename: UC-0015",
+        "event_text": "\"Target: Find the lost Bangboo.\nEntering the area on the right shall be deemed as accepting the commission.\"",
+        "event_funtext": "This is a challenging special area. Please proceed with caution and make your decisions based on your current situation."
+    },
+    "38": {
+        "event_id": 38,
+        "event_type": "Reward",
+        "event_code": "0043",
+        "event_name": "Area Codename: 0043",
+        "event_text": "\"Please note that your choice is final.\"",
+        "event_funtext": "This is a safe special area with rewards. Please plan your rest and reorganization accordingly."
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "1": {
+        "event_id": 1,
+        "event_type": "Challenge",
+        "event_code": "D0001",
+        "event_name": "Tipo de escenario: D0001",
+        "event_text": "Has recibido un <color=#FFAF2C>encargo de observación</color> procedente de un área cercana. Tipo de escenario: <color=#FFAF2C>D0001</color>.\nObjetivo: llegar al lugar indicado, detenerse y recopilar datos.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "2": {
+        "event_id": 2,
+        "event_type": "Challenge",
+        "event_code": "UC-0002",
+        "event_name": "Tipo de escenario: UC-0002",
+        "event_text": "Has recibido un <color=#FFAF2C>encargo urgente</color> procedente de un área cercana. Tipo de escenario: <color=#FFAF2C>UC-0002</color>.\nObjetivo: derrotar al bangbú dorado que ha estado robado suministros a los investigadores.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "3": {
+        "event_id": 3,
+        "event_type": "Challenge",
+        "event_code": "UC-0003",
+        "event_name": "Tipo de escenario: UC-0003",
+        "event_text": "Has recibido un <color=#FFAF2C>encargo urgente</color> procedente de un área cercana. Tipo de escenario: <color=#FFAF2C>UC-0003</color>.\nObjetivo: eliminar los objetivos por medio de técnicas en cadena.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "4": {
+        "event_id": 4,
+        "event_type": "Challenge",
+        "event_code": "UC-0006",
+        "event_name": "Tipo de escenario: UC-0006",
+        "event_text": "Has recibido un <color=#FFAF2C>encargo urgente</color> procedente de un área cercana. Tipo de escenario: <color=#FFAF2C>UC-0006</color>.\nObjetivo: encontrar a los empleados extraviados.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "5": {
+        "event_id": 5,
+        "event_type": "Challenge",
+        "event_code": "D0003",
+        "event_name": "Tipo de escenario: D0003",
+        "event_text": "Has entrado en el área de reciclaje de <color=#FFAF2C>mecamonedas</color>. Tipo de escenario: <color=#FFAF2C>D0003</color>.\nObjetivo: recoger las mecamonedas de la zona.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "6": {
+        "event_id": 6,
+        "event_type": "Challenge",
+        "event_code": "UC-0009",
+        "event_name": "Tipo de escenario: UC-0009",
+        "event_text": "Has recibido un <color=#FFAF2C>encargo urgente</color> procedente de un área cercana. Tipo de escenario: <color=#FFAF2C>UC-0009</color>.\nObjetivo: encontrar a los empleados extraviados.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "7": {
+        "event_id": 7,
+        "event_type": "Challenge",
+        "event_code": "UC-0011",
+        "event_name": "Tipo de escenario: UC-0011",
+        "event_text": "Has recibido un <color=#FFAF2C>encargo urgente</color> procedente de un área cercana. Tipo de escenario: <color=#FFAF2C>UC-0011</color>.\nObjetivo: encontrar el objeto designado en la zona.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "8": {
+        "event_id": 8,
+        "event_type": "Challenge",
+        "event_code": "UC-0013",
+        "event_name": "Tipo de escenario: UC-0013",
+        "event_text": "Has recibido un <color=#FFAF2C>encargo urgente</color> procedente de un área cercana. Tipo de escenario: <color=#FFAF2C>UC-0013</color>.\nObjetivo: recuperar la caja de suministros de los seres etéreos.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "9": {
+        "event_id": 9,
+        "event_type": "Challenge",
+        "event_code": "UC-0014",
+        "event_name": "Tipo de escenario: UC-0014",
+        "event_text": "Has recibido un <color=#FFAF2C>encargo urgente</color> procedente de un área cercana. Tipo de escenario: <color=#FFAF2C>UC-0014</color>.\nObjetivo: escoltar a las tropas heridas hasta la ubicación indicada.\nEntrar a la zona derecha se considerará como que has aceptado el encargo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "10": {
+        "event_id": 10,
+        "event_type": "Challenge",
+        "event_code": "0005",
+        "event_name": "Código de área: 0005",
+        "event_text": "¡Atención! <color=#FFAF2C>Peligro detectado en el lado derecho</color> de esta zona. Tenga cuidado al escoger la ruta de exploración.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "11": {
+        "event_id": 11,
+        "event_type": "Challenge",
+        "event_code": "0016",
+        "event_name": "Código de área: 0016",
+        "event_text": "Este solía ser un <color=#FFAF2C>centro de comercio y de abastecimiento de suministros</color>, pero fue abandonado debido a la corrupción. Aún quedan algunos suministros útiles, pero llegar a ellos es arriesgado.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "12": {
+        "event_id": 12,
+        "event_type": "Challenge",
+        "event_code": "0044",
+        "event_name": "Código de área: 0044",
+        "event_text": "«Acate las órdenes y <color=#CF4029>verifique su identidad</color>.»\nGracias a Hada, no han descubierto tu identidad, pero...\n«Parece que no tiene el permiso especial requerido para entrar en la Cavidad Cero. Por favor, diríjase a la HIA y vuelva cuando lo tenga.»\n«Hace unos días ocurrió un accidente en esta zona, por lo que <color=#FFAF2C>no se encuentra abierta para la exploración actualmente</color>. Pida ayuda al personal para volver por donde vino.»",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "13": {
+        "event_id": 13,
+        "event_type": "Challenge",
+        "event_code": "0011",
+        "event_name": "Código de área: 0011",
+        "event_text": "Preste atención a su alrededor. En esta zona hay <color=#FFAF2C>seres etéreos</color>, aunque su nivel de peligro es relativamente bajo.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "14": {
+        "event_id": 14,
+        "event_type": "Challenge",
+        "event_code": "0012",
+        "event_name": "Código de área: 0012",
+        "event_text": "Mantenga la guardia alta. En esta zona hay <color=#FFAF2C>seres etéreos</color> altamente peligrosos.",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "15": {
+        "event_id": 15,
+        "event_type": "Reward",
+        "event_code": "7777",
+        "event_name": "Código de área: 7777",
+        "event_text": "Esta fue una vez una <color=#FFAF2C>zona de entretenimiento</color>. Todavía hay instalaciones funcionales. ¡Tira de la palanca de la suerte a ver qué ocurre!",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    },
+    "16": {
+        "event_id": 16,
+        "event_type": "Reward",
+        "event_code": "0006",
+        "event_name": "Código de área: 0006",
+        "event_text": "En esta zona hay <color=#FFAF2C>mecamonedas</color>. Le recordamos que las mecamonedas que obtenga durante la exploración le pertenecen solamente a usted. No tiene por qué entregárselas a nadie.",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    },
+    "17": {
+        "event_id": 17,
+        "event_type": "Reward",
+        "event_code": "0009",
+        "event_name": "Código de área: 0009",
+        "event_text": "Información de la zona: <color=#FFAF2C>si ves un queso, es muy probable que debajo haya una trampa mortal</color>. Esperamos que no se extravíen si echan a correr despavoridos. Buena suerte.",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    },
+    "18": {
+        "event_id": 18,
+        "event_type": "Reward",
+        "event_code": "0015",
+        "event_name": "Código de área: 0015",
+        "event_text": "Gracias por sus contribuciones a la exploración de Cavidades. Puede escoger <color=#FFAF2C>todos los objetos que guste</color> sin ningún costo.",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    },
+    "19": {
+        "event_id": 19,
+        "event_type": "Reward",
+        "event_code": "0018",
+        "event_name": "Código de área: 0018",
+        "event_text": "En esta zona con trampillas experimentales. <color=#FFAF2C>Tras pisarla, la trampilla del otro lado se cerrará</color>.",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    },
+    "20": {
+        "event_id": 20,
+        "event_type": "Reward",
+        "event_code": "0026",
+        "event_name": "Código de área: 0026",
+        "event_text": "En esta zona hay dispositivos que pueden <color=#FFAF2C>aliviar el cansancio</color>, entre otras cosas.",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    },
+    "21": {
+        "event_id": 21,
+        "event_type": "Reward",
+        "event_code": "0003",
+        "event_name": "Código de área: 0003",
+        "event_text": "Esta zona <color=#FFAF2C>es pequeña, pero muy segura</color>. Puedes explorar con tranquilidad.",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    },
+    "22": {
+        "event_id": 22,
+        "event_type": "Reward",
+        "event_code": "0007",
+        "event_name": "Código de área: 0007",
+        "event_text": "Esperamos que <color=#FFAF2C>las mecamonedas y los suministros</color> de este sitio sirvan para tu exploración en la Cavidad Cero.",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    },
+    "23": {
+        "event_id": 23,
+        "event_type": "Function",
+        "event_code": "BB-01",
+        "event_name": "Código de área: BB-01",
+        "event_text": "<color=#FFAF2C>El grupo de ayuda de bangbús estrella</color> opera en esta zona y puede ofrecerte apoyo durante la exploración.",
+        "event_funtext": "Esta zona especial ofrece una serie de funciones. Disponer de más recursos podría ayudarte a generar mayores ganancias."
+    },
+    "24": {
+        "event_id": 24,
+        "event_type": "Function",
+        "event_code": "0004",
+        "event_name": "Código de área: 0004",
+        "event_text": "En esta zona <color=#FFAF2C>hay comerciantes ilegales</color>. No se sabe cuántos de ellos hay con exactitud, por lo que se recomienda proceder con cautela a la hora de negociar con ellos.",
+        "event_funtext": "Esta zona especial ofrece una serie de funciones. Disponer de más recursos podría ayudarte a generar mayores ganancias."
+    },
+    "25": {
+        "event_id": 25,
+        "event_type": "Function",
+        "event_code": "0028",
+        "event_name": "Código de área: 0028",
+        "event_text": "Gracias por tus contribuciones a la exploración de Cavidades. Aquí puedes obtener algunos <color=#FFAF2C>suministros aleatorios</color>.",
+        "event_funtext": "Esta zona especial ofrece una serie de funciones. Disponer de más recursos podría ayudarte a generar mayores ganancias."
+    },
+    "26": {
+        "event_id": 26,
+        "event_type": "Demon",
+        "event_code": "0030",
+        "event_name": "Código de área: 0030",
+        "event_text": "En esta zona hay <color=#FFAF2C>suministros, pero una criatura desconocida los ha acaparado</color>. Le deseamos suerte para arrebatárselos.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "27": {
+        "event_id": 27,
+        "event_type": "Demon",
+        "event_code": "0041",
+        "event_name": "Código de área: 0041",
+        "event_text": "Esta zona es susceptible a corrupción. <color=#FFAF2C>Todos los sitios por los que pase estarán corrompidos</color>, por lo que recomendamos no volver sobre sus pasos.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "28": {
+        "event_id": 28,
+        "event_type": "Demon",
+        "event_code": "0049",
+        "event_name": "Código de área: 0049",
+        "event_text": "Esta zona es susceptible a corrupción. <color=#FFAF2C>Todos los sitios por los que pase estarán corrompidos</color>, por lo que recomendamos no volver sobre sus pasos.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "29": {
+        "event_id": 29,
+        "event_type": "Demon",
+        "event_code": "0027",
+        "event_name": "Código de área: 0027",
+        "event_text": "En esta zona hay <color=#FFAF2C>suministros</color>, pero se ruega que moderes su uso.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "30": {
+        "event_id": 30,
+        "event_type": "Demon",
+        "event_code": "0032",
+        "event_name": "Código de área: 0032",
+        "event_text": "Lo único que podemos decir es que, en esta zona, <color=#FFAF2C>las acciones aparentemente más tontas pueden dar resultado</color>.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "31": {
+        "event_id": 31,
+        "event_type": "Demon",
+        "event_code": "0033",
+        "event_name": "Código de área: 0033",
+        "event_text": "Lo único que podemos decir es que, en esta zona, <color=#FFAF2C>violar las normas convencionales de exploración tiene su recompensa</color>.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "32": {
+        "event_id": 32,
+        "event_type": "Demon",
+        "event_code": "BB-02",
+        "event_name": "Código de área: BB-02",
+        "event_text": "<color=#FFAF2C>El grupo de ayuda de bangbús estrella</color> opera en esta zona y puede ofrecerte apoyo durante la exploración.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "33": {
+        "event_id": 33,
+        "event_type": "Demon",
+        "event_code": "0066",
+        "event_name": "Código de área: 0066",
+        "event_text": "En esta zona <color=#FFAF2C>hay suministros militares</color>, pero no son gratis. Rogamos que modere su uso.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "34": {
+        "event_id": 34,
+        "event_type": "Demon",
+        "event_code": "0020",
+        "event_name": "Código de área: 0020",
+        "event_text": "Al igual que en la zona 0019, la visibilidad es muy mala en esta zona. Hasta ahora <color=#FFAF2C>no hay ningún dato registrado</color>.",
+        "event_funtext": "Esta área es caótica y peligrosa. Toma las decisiones en función de tu situación actual."
+    },
+    "37": {
+        "event_id": 37,
+        "event_type": "Challenge",
+        "event_code": "UC-0015",
+        "event_name": "Código de área: UC-0015",
+        "event_text": "«Objetivo: encontrar al bangbú extraviado.\nEntrar a la zona derecha se considerará como que ha aceptado el encargo.»",
+        "event_funtext": "Esta zona especial es considerablemente más difícil. Procede con cuidado y toma las decisiones en función de tu situación actual."
+    },
+    "38": {
+        "event_id": 38,
+        "event_type": "Reward",
+        "event_code": "0043",
+        "event_name": "Código de área: 0043",
+        "event_text": "«Recuerde, la decisión es definitiva.»",
+        "event_funtext": "Esta zona especial es segura y ofrece recompensas. Aprovecha para descansar y organizarte."
+    }
+}

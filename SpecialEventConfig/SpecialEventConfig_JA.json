@@ -1,0 +1,290 @@
+{
+    "1": {
+        "event_id": 1,
+        "event_type": "Challenge",
+        "event_code": "D0001",
+        "event_name": "シナリオケース：D0001",
+        "event_text": "付近のエリアから<color=#FFAF2C>観測依頼</color>を受信。\nシナリオケース：<color=#FFAF2C>D0001</color>\n目標：指定地点で一定時間滞在してデータを収集。\n右のエリアに入ると依頼を受領したとみなされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "2": {
+        "event_id": 2,
+        "event_type": "Challenge",
+        "event_code": "UC-0002",
+        "event_name": "シナリオケース：UC-0002",
+        "event_text": "付近のエリアから<color=#FFAF2C>緊急依頼</color>を受信。\nシナリオケース：<color=#FFAF2C>UC-0002</color>\n目標：調査員の物資を盗んだゴールドボンプの撃破\n右のエリアに入ると依頼を受領したとみなされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "3": {
+        "event_id": 3,
+        "event_type": "Challenge",
+        "event_code": "UC-0003",
+        "event_name": "シナリオケース：UC-0003",
+        "event_text": "付近のエリアから<color=#FFAF2C>緊急依頼</color>を受信。\nシナリオケース：<color=#FFAF2C>UC-0003</color>\n目標：連携スキルでターゲットを殲滅。\n右のエリアに入ると依頼を受領したとみなされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "4": {
+        "event_id": 4,
+        "event_type": "Challenge",
+        "event_code": "UC-0006",
+        "event_name": "シナリオケース：UC-0006",
+        "event_text": "付近のエリアから<color=#FFAF2C>緊急依頼</color>を受信。\nシナリオケース：<color=#FFAF2C>UC-0006</color>\n目標：失踪者の捜索。\n右のエリアに入ると依頼を受領したとみなされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "5": {
+        "event_id": 5,
+        "event_type": "Challenge",
+        "event_code": "D0003",
+        "event_name": "シナリオケース：D0003",
+        "event_text": "<color=#FFAF2C>ギアコイン</color>回収エリアに入りました。\nシナリオケース：<color=#FFAF2C>D0003</color>\n目標：エリア内のギアコインの収集。\n右のエリアに入ると依頼を受けたと見なされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "6": {
+        "event_id": 6,
+        "event_type": "Challenge",
+        "event_code": "UC-0009",
+        "event_name": "シナリオケース：UC-0009",
+        "event_text": "付近のエリアから<color=#FFAF2C>緊急依頼</color>を受信。\nシナリオケース：<color=#FFAF2C>UC-0009</color>\n目標：迷子の住民の捜索。\n右のエリアに入ると依頼を受領したとみなされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "7": {
+        "event_id": 7,
+        "event_type": "Challenge",
+        "event_code": "UC-0011",
+        "event_name": "シナリオケース：UC-0011",
+        "event_text": "付近のエリアから<color=#FFAF2C>緊急依頼</color>を受信。\nシナリオケース：<color=#FFAF2C>UC-0011</color>\n目標：エリア内で指定された品物を見つける。\n右のエリアに入ると依頼を受領したとみなされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "8": {
+        "event_id": 8,
+        "event_type": "Challenge",
+        "event_code": "UC-0013",
+        "event_name": "シナリオケース：UC-0013",
+        "event_text": "付近のエリアから<color=#FFAF2C>緊急依頼</color>を受信。\nシナリオケース：<color=#FFAF2C>UC-0013</color>\n目標：エーテリアスから物資の箱を奪還。\n右のエリアに入ると依頼を受領したとみなされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "9": {
+        "event_id": 9,
+        "event_type": "Challenge",
+        "event_code": "UC-0014",
+        "event_name": "シナリオケース：UC-0014",
+        "event_text": "付近のエリアから<color=#FFAF2C>緊急依頼</color>を受信。\nシナリオケース：<color=#FFAF2C>UC-0014</color>\n目標：負傷した兵士を指定された場所まで護送。\n右のエリアに入ると依頼を受領したとみなされます",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "10": {
+        "event_id": 10,
+        "event_type": "Challenge",
+        "event_code": "0005",
+        "event_name": "エリアコード：0005",
+        "event_text": "警告、警告！\nこのエリアの<color=#FFAF2C>右側は危険性が高いため</color>、\n慎重に探索方向を決めてください。",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "11": {
+        "event_id": 11,
+        "event_type": "Challenge",
+        "event_code": "0016",
+        "event_name": "エリアコード：0016",
+        "event_text": "かつては<color=#FFAF2C>物資の補給・取引エリア</color>として\n利用されていましたが、後に侵蝕されて廃棄。\n利用価値のある物資が残っているものの、\n辿り着くには危険地帯を通り抜ける必要があります。",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "12": {
+        "event_id": 12,
+        "event_type": "Challenge",
+        "event_code": "0044",
+        "event_name": "エリアコード：0044",
+        "event_text": "「<color=#CF4029>身元確認</color>にご協力ください。」\nFairyのサポートのおかげで、\n身バレせずに済んだと思ったら——\n「零号ホロウに入る特別許可をお持ちでないようですね。ホロウ調査協会で手続きを済ませてからお越しください。」\n「数日前、このエリアで事故があったため、<color=#FFAF2C>一時的な探索禁止措置を講じています</color>。現場にいる調査員の協力のもと、元の道を引き返してください。」",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "13": {
+        "event_id": 13,
+        "event_type": "Challenge",
+        "event_code": "0011",
+        "event_name": "エリアコード：0011",
+        "event_text": "このエリアには危険度の低い\n<color=#FFAF2C>エーテリアスが存在します</color>。\n周囲にご注意ください。",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "14": {
+        "event_id": 14,
+        "event_type": "Challenge",
+        "event_code": "0012",
+        "event_name": "エリアコード：0012",
+        "event_text": "このエリアには危険度の高い\n<color=#FFAF2C>エーテリアスが存在します</color>。\n常に戦闘準備を整えておきましょう。",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "15": {
+        "event_id": 15,
+        "event_type": "Reward",
+        "event_code": "7777",
+        "event_name": "エリアコード：7777",
+        "event_text": "「かつては<color=#FFAF2C>娯楽エリア</color>として使われたらしく、\nまだ利用可能な施設が残っています。\nラッキーレバーを引くと体験できるでしょう。\n幸運を祈ります！」",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    },
+    "16": {
+        "event_id": 16,
+        "event_type": "Reward",
+        "event_code": "0006",
+        "event_name": "エリアコード：0006",
+        "event_text": "このエリアには<color=#FFAF2C>ギアコイン</color>が保管されています。\n補足、探索で得たギアコインは個人で所有することが\nでき、届け出る必要はありません。",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    },
+    "17": {
+        "event_id": 17,
+        "event_type": "Reward",
+        "event_code": "0009",
+        "event_name": "エリアコード：0009",
+        "event_text": "エリア情報：<color=#FFAF2C>チーズのそばには鼠捕りがあります</color>。\n逃げまどう際は、くれぐれも道に迷わないように。\nでは、幸運をお祈りしています。",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    },
+    "18": {
+        "event_id": 18,
+        "event_type": "Reward",
+        "event_code": "0015",
+        "event_name": "エリアコード：0015",
+        "event_text": "ホロウ探索にご協力い頂きありがとうございます。\nお好きなものを無料で差し上げますので、\n<color=#FFAF2C>満足いくまでお選びください</color>。\nただし、当設備はメンテナンス中のため、\n故障のリスクにご注意ください。",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    },
+    "19": {
+        "event_id": 19,
+        "event_type": "Reward",
+        "event_code": "0018",
+        "event_name": "エリアコード：0018",
+        "event_text": "このエリアには\n実験用のからくり扉が設置されています。\n<color=#FFAF2C>装置を踏むと、向こう側のからくり扉が閉まります</color>。",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    },
+    "20": {
+        "event_id": 20,
+        "event_type": "Reward",
+        "event_code": "0026",
+        "event_name": "エリアコード：0026",
+        "event_text": "このエリアには\n<color=#FFAF2C>疲労を回復できる</color>施設などがあります。",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    },
+    "21": {
+        "event_id": 21,
+        "event_type": "Reward",
+        "event_code": "0003",
+        "event_name": "エリアコード：0003",
+        "event_text": "<color=#FFAF2C>活動可能範囲は狭いですが、非常に安全です</color>。\n安心して探索できます。",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    },
+    "22": {
+        "event_id": 22,
+        "event_type": "Reward",
+        "event_code": "0007",
+        "event_name": "エリアコード：0007",
+        "event_text": "ここにある<color=#FFAF2C>ギアコインと物資</color>が、\n零号ホロウの探索に役立つことを願っております。",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    },
+    "23": {
+        "event_id": 23,
+        "event_type": "Function",
+        "event_code": "BB-01",
+        "event_name": "エリアコード：BB-01",
+        "event_text": "<color=#FFAF2C>ボンプの精鋭サポート班</color>が\nこのエリアに駐屯しています。\n協力を求めれば、支援を提供してくれるでしょう。",
+        "event_funtext": "このエリアには役に立つ機能があります。\n十分なリソースがあれば、\n更に多くの収穫があるかもしれません。"
+    },
+    "24": {
+        "event_id": 24,
+        "event_type": "Function",
+        "event_code": "0004",
+        "event_name": "エリアコード：0004",
+        "event_text": "このエリアには<color=#FFAF2C>闇商人が滞在しており</color>、\n人数は不明です。取引や買い物をする際は\n充分お気を付けください。",
+        "event_funtext": "このエリアには役に立つ機能があります。\n十分なリソースがあれば、\n更に多くの収穫があるかもしれません。"
+    },
+    "25": {
+        "event_id": 25,
+        "event_type": "Function",
+        "event_code": "0028",
+        "event_name": "エリアコード：0028",
+        "event_text": "ホロウ探索にご協力頂きありがとうございます。\nここでは<color=#FFAF2C>ランダムな物資</color>を\n獲得できます。",
+        "event_funtext": "このエリアには役に立つ機能があります。\n十分なリソースがあれば、\n更に多くの収穫があるかもしれません。"
+    },
+    "26": {
+        "event_id": 26,
+        "event_type": "Demon",
+        "event_code": "0030",
+        "event_name": "エリアコード：0030",
+        "event_text": "このエリアには\n<color=#FFAF2C>物資がありますが、現在は未知の生物に占拠されています</color>。\n無事に奪い取れることをお祈り申し上げます。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "27": {
+        "event_id": 27,
+        "event_type": "Demon",
+        "event_code": "0041",
+        "event_name": "エリアコード：0041",
+        "event_text": "このエリアでは侵蝕現象が起きやすくなっています。\n<color=#FFAF2C>一度通った場所はすべて侵蝕される</color>ため、\n来た道を戻らないことをお勧めします。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "28": {
+        "event_id": 28,
+        "event_type": "Demon",
+        "event_code": "0049",
+        "event_name": "エリアコード：0049",
+        "event_text": "このエリアでは侵蝕現象が起きやすくなっています。\n<color=#FFAF2C>一度通った場所はすべて侵蝕される</color>ため、\n来た道を戻らないことをお勧めします。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "29": {
+        "event_id": 29,
+        "event_type": "Demon",
+        "event_code": "0027",
+        "event_name": "エリアコード：0027",
+        "event_text": "このエリアには<color=#FFAF2C>物資</color>があります。\nあくまでも欲張りすぎないことをお勧めします。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "30": {
+        "event_id": 30,
+        "event_type": "Demon",
+        "event_code": "0032",
+        "event_name": "エリアコード：0032",
+        "event_text": "このエリアでは\n<color=#FFAF2C>一見愚かな行為でも、無価値ではないかもしれません</color>。\nお伝えできるのはそれだけです。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "31": {
+        "event_id": 31,
+        "event_type": "Demon",
+        "event_code": "0033",
+        "event_name": "エリアコード：0033",
+        "event_text": "このエリアでは\n<color=#FFAF2C>探索の常識に反した行動で、収穫がある可能性あり</color>\nお伝えできるのはそれだけです。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "32": {
+        "event_id": 32,
+        "event_type": "Demon",
+        "event_code": "BB-02",
+        "event_name": "エリアコード：BB-02",
+        "event_text": "<color=#FFAF2C>ボンプの精鋭サポート班</color>がこのエリアに駐屯しています。協力を求めれば、支援を提供してくれるでしょう。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "33": {
+        "event_id": 33,
+        "event_type": "Demon",
+        "event_code": "0066",
+        "event_name": "エリアコード：0066",
+        "event_text": "このエリアには<color=#FFAF2C>軍需品が保管されています</color>。\nですがタダというわけではありません。\n欲張らず、無理のないようお願いします。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "34": {
+        "event_id": 34,
+        "event_type": "Demon",
+        "event_code": "0020",
+        "event_name": "エリアコード：0020",
+        "event_text": "エリア0019同様見通しが非常に悪く、\n<color=#FFAF2C>データや記録もありません</color>。",
+        "event_funtext": "比較的混沌として危険なエリアです。\n状況に応じて、入るかどうかを決めてください。"
+    },
+    "37": {
+        "event_id": 37,
+        "event_type": "Challenge",
+        "event_code": "UC-0015",
+        "event_name": "エリアコード：UC-0015",
+        "event_text": "「任務目標：迷子のボンプの捜索。\n右のエリアに入ると依頼を受領したとみなされます」",
+        "event_funtext": "危険性の高い特殊エリアです。\n状況に応じて慎重に選択してください。"
+    },
+    "38": {
+        "event_id": 38,
+        "event_type": "Reward",
+        "event_code": "0043",
+        "event_name": "エリアコード：0043",
+        "event_text": "「一度決めたことを変えるのは不可能なため、\nここからは慎重に決断してください」",
+        "event_funtext": "安全かつ報酬のあるエリアです。\n休憩する時間をご自由にお決めください。"
+    }
+}
