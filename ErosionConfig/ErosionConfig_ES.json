@@ -1,0 +1,289 @@
+{
+    "1100001": {
+        "item_id": 1100001,
+        "item_name": "Degradación de resistencia",
+        "item_des": "Aumenta la penalización de las trampas.",
+        "item_story": "Como la fragilidad que conduce al desastre en las Cavidades, cuerpo y mente se degradan por igual.",
+        "item_type": "Curse"
+    },
+    "1100003": {
+        "item_id": 1100003,
+        "item_name": "Aversión al resonio",
+        "item_des": "Tendrás menos opciones de resonio a escoger.",
+        "item_story": "Siento náuseas... Esa cosa tiene un olor similar al de los seres etéreos. No es un embrión, ¿cierto?",
+        "item_type": "Curse"
+    },
+    "1100004": {
+        "item_id": 1100004,
+        "item_name": "Terror",
+        "item_des": "Al haber sobrecarga de presión, todos los agentes del equipo pierden PV.",
+        "item_story": "«¡Oh, no! Este es el fin. Acabo de estornudar, ¿eso significa que voy a morir?».",
+        "item_type": "Curse"
+    },
+    "1100006": {
+        "item_id": 1100006,
+        "item_name": "Efecto revitalizador",
+        "item_des": "El Aturdimiento de enemigos disminuye gradualmente. Aumenta la tasa de vulnerabilidad.",
+        "item_story": "Una fina y extraña neblina de éter envuelve a los miembros del equipo. Parece que tiene un efecto revitalizador sobre los etéreos.",
+        "item_type": "Curse"
+    },
+    "1100007": {
+        "item_id": 1100007,
+        "item_name": "Rechazo a la pelea",
+        "item_des": "Los agentes inactivos perderán energía gradualmente.",
+        "item_story": "Poco a poco comienzas a perder fuerzas. Ahora mismo solo lo consideras una medida de necesidad en situaciones de vida o muerte.",
+        "item_type": "Curse"
+    },
+    "1100010": {
+        "item_id": 1100010,
+        "item_name": "Resonancia siniestra",
+        "item_des": "Aumenta la probabilidad de recibir golpes críticos por ataques de jefes.",
+        "item_story": "Es demasiado pronto para relajarse.",
+        "item_type": "Curse"
+    },
+    "1100011": {
+        "item_id": 1100011,
+        "item_name": "Premonición",
+        "item_des": "Cuando la presión aumenta, existe la probabilidad de que no aumente tu presión o de que aumente considerablemente.",
+        "item_story": "El sentimiento constante de inquietud ha comenzado a pasarte factura.",
+        "item_type": "Curse"
+    },
+    "1100012": {
+        "item_id": 1100012,
+        "item_name": "Desenfreno",
+        "item_des": "El bangbú comerciante ofrecerá descuentos, pero tendrá menos artículos.",
+        "item_story": "Por alguna razón, todos se han vuelto más hostiles. Ni siquiera los bangbús comerciantes pueden lidiar con la situación.",
+        "item_type": "Curse"
+    },
+    "1100013": {
+        "item_id": 1100013,
+        "item_name": "Autoconsuelo",
+        "item_des": "Cuando aumenta la presión, obtendrás mecamonedas, pero solo podrás tener hasta 3333 mecamonedas.",
+        "item_story": "«Calma, calma. Siempre y cuando tenga mecamonedas, sobreviviré a esta Cavidad...»",
+        "item_type": "Curse"
+    },
+    "1100014": {
+        "item_id": 1100014,
+        "item_name": "Asimilación perceptiva",
+        "item_des": "El aumento de presión de los agentes es menor, pero recoger resonios reduce cierta cantidad de PV.",
+        "item_story": "Poco a poco te acostumbras al dolor abrasador del éter conforme te vuelves uno con la Cavidad. Así es el camino que conduce a la perdición.",
+        "item_type": "Curse"
+    },
+    "1100017": {
+        "item_id": 1100017,
+        "item_name": "Dependencia nociva",
+        "item_des": "Recuperas PV al terminar una batalla, pero la presión aumenta.",
+        "item_story": "Los enemigos derrotados explotan en un cúmulo de éter. Bañarte en él te transmite una sensación reconfortante. ¡Que vengan más enemigos! ¡Cueste lo que cueste!",
+        "item_type": "Curse"
+    },
+    "1100018": {
+        "item_id": 1100018,
+        "item_name": "Debilitamiento",
+        "item_des": "El TdE de <color=#FFFFFF>evasión</color> es mayor.",
+        "item_story": "Incluso recordar tus grandes peleas pasadas es agotador...",
+        "item_type": "Curse"
+    },
+    "1100019": {
+        "item_id": 1100019,
+        "item_name": "Fatiga",
+        "item_des": "Al explorar el panel perderás PV. En combate, el agente activo perderá PV gradualmente.",
+        "item_story": "Como el aire, la corrupción del éter se infiltra en humanos y máquinas por igual.",
+        "item_type": "Curse"
+    },
+    "1100020": {
+        "item_id": 1100020,
+        "item_name": "Sombra estremecedora",
+        "item_des": "El daño infligido por el Carnicero del Callejón <color=#CF4029>aumenta en un 20 %</color>. Al golpear a un agente, <color=#CF4029>su Aturdimiento se reduce y recupera una pequeña cantidad de PV</color>.",
+        "item_story": "El miedo acecha en un rincón de los recuerdos, y volverá a despertar en el siguiente sobresalto incontrolable.",
+        "item_type": "Curse"
+    },
+    "1100021": {
+        "item_id": 1100021,
+        "item_name": "Megalofobia",
+        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 30 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al romper sus componentes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
+        "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
+        "item_type": "Curse"
+    },
+    "1100022": {
+        "item_id": 1100022,
+        "item_name": "Valle inquietante",
+        "item_des": "El daño infligido por las marionetas mellizas <color=#CF4029>aumenta en un 50 %</color>. Además, son más hostiles y su velocidad de resurrección <color=#CF4029>aumenta considerablemente</color>.",
+        "item_story": "El parecido provoca duda, y las diferencias provocan la caída.",
+        "item_type": "Curse"
+    },
+    "1100023": {
+        "item_id": 1100023,
+        "item_name": "Rigor",
+        "item_des": "Los bangbús comerciantes solo pueden vender productos de grado S.",
+        "item_story": "Has borrado la palabra «indulgencia» de la mente. En su lugar, te has vuelto muy quisquilloso.",
+        "item_type": "Curse"
+    },
+    "1100024": {
+        "item_id": 1100024,
+        "item_name": "Avaricia insaciable",
+        "item_des": "Al encontrar un evento de mecamonedas, obtienes más mecamonedas, pero también aumentará la presión.",
+        "item_story": "Olvida las restricciones, libérate de las ataduras. Solo puedes aliviar la carga insoportable mediante el hurto y la riqueza.",
+        "item_type": "Curse"
+    },
+    "1100025": {
+        "item_id": 1100025,
+        "item_name": "Prudencia extrema",
+        "item_des": "Pierdes 300 mecamonedas al pasar al siguiente piso y antes de la batalla final, pero todos los miembros del equipo recuperan un 10 % de PV. En caso de no pagar, todos los miembros del equipo pierden un 15 % de sus PV.",
+        "item_story": "Sin darte cuenta, la cautela se ha convertido en un miedo que te impide avanzar. Buscas una solución infalible en medio de una Cavidad llena de maldad.",
+        "item_type": "Curse"
+    },
+    "1100026": {
+        "item_id": 1100026,
+        "item_name": "Sed de destrucción",
+        "item_des": "No puedes recuperar PV a través de zonas de descanso o suministros. Sin embargo, después de cada batalla, todos los miembros del equipo recuperan el 3 % de los PV máx. Al pasar al siguiente piso y antes de la batalla final, recuperan un 10 % de los PV máx.",
+        "item_story": "El impulso destructivo supera a la razón. Solo encuentras un instante de sosiego al satisfacer tu deseo.",
+        "item_type": "Curse"
+    },
+    "1100027": {
+        "item_id": 1100027,
+        "item_name": "Cleptomanía",
+        "item_des": "En lugar de pagar a los bangbús comerciantes con mecamonedas, pagas con PV.",
+        "item_story": "Lo quiero... Lo quiero todo. Cueste lo que cueste.\nTodo esto es mío.",
+        "item_type": "Curse"
+    },
+    "1100029": {
+        "item_id": 1100029,
+        "item_name": "Maldad primitiva",
+        "item_des": "El daño infligido por tifón golpeador <color=#CF4029>aumenta en un 30 %</color>. Además, <color=#CF4029>se vuelve inmune a todas las Anomalías de Atributo</color>.",
+        "item_story": "Actúa como un simio armado que se ha acostumbrado a tirar del gatillo. Evoca el recuerdo de la maldad primitiva de las tierras salvajes.",
+        "item_type": "Curse"
+    },
+    "1100030": {
+        "item_id": 1100030,
+        "item_name": "Germen parasitario",
+        "item_des": "Cuando los PV del agente son mayores al 50 %, la recuperación de PV se reduce en gran medida. Cuando los PV del agente son inferiores al 50 %, la recuperación de PV aumenta en gran medida.",
+        "item_story": "Codicioso cuando eres fuerte, misericordioso cuando te sientes débil...",
+        "item_type": "Curse"
+    },
+    "1102001": {
+        "item_id": 1102001,
+        "item_name": "Supervuelta a casa",
+        "item_des": "Es el final de la ruta. Solo se puede salir de la Cavidad.",
+        "item_story": "Quiero volver a casa... ¡Me rindo!",
+        "item_type": "Curse"
+    },
+    "11000201": {
+        "item_id": 11000201,
+        "item_name": "Sombra estremecedora I",
+        "item_des": "El daño crítico del Carnicero del Callejón <color=#CF4029>aumenta en un 20 %</color>.",
+        "item_story": "El miedo acecha en un rincón de los recuerdos, y volverá a despertar en el siguiente sobresalto incontrolable.",
+        "item_type": "Curse"
+    },
+    "11000202": {
+        "item_id": 11000202,
+        "item_name": "Sombra estremecedora II",
+        "item_des": "El daño crítico del Carnicero del Callejón <color=#CF4029>aumenta en un 30 %</color>.",
+        "item_story": "El miedo acecha en un rincón de los recuerdos, y volverá a despertar en el siguiente sobresalto incontrolable.",
+        "item_type": "Curse"
+    },
+    "11000203": {
+        "item_id": 11000203,
+        "item_name": "Sombra estremecedora III",
+        "item_des": "El daño infligido por el Carnicero del Callejón <color=#CF4029>aumenta en un 40 %</color>. Al golpear a un agente, el Carnicero del Callejón <color=#CF4029>recupera una pequeña cantidad de PV</color>.",
+        "item_story": "El miedo acecha en un rincón de los recuerdos, y volverá a despertar en el siguiente sobresalto incontrolable.",
+        "item_type": "Curse"
+    },
+    "11000204": {
+        "item_id": 11000204,
+        "item_name": "Sombra estremecedora IV",
+        "item_des": "El daño infligido por el Carnicero del Callejón <color=#CF4029>aumenta en un 50 %</color>. Al golpear a un agente, el Carnicero del Callejón <color=#CF4029>su Aturdimiento se reduce y recupera una pequeña cantidad de PV</color>.",
+        "item_story": "El miedo acecha en un rincón de los recuerdos, y volverá a despertar en el siguiente sobresalto incontrolable.",
+        "item_type": "Curse"
+    },
+    "11000205": {
+        "item_id": 11000205,
+        "item_name": "Sombra estremecedora V",
+        "item_des": "El daño infligido por el Carnicero del Callejón <color=#CF4029>aumenta en un 50 %</color>. Al golpear a un agente, el Carnicero del Callejón <color=#CF4029>su Aturdimiento se reduce y recupera una pequeña cantidad de PV</color>.",
+        "item_story": "El miedo acecha en un rincón de los recuerdos, y volverá a despertar en el siguiente sobresalto incontrolable.",
+        "item_type": "Curse"
+    },
+    "11000211": {
+        "item_id": 11000211,
+        "item_name": "Megalofobia I",
+        "item_des": "El daño infligido por la Amalgama Corrupta <color=#CF4029>aumenta en un 30 %</color>.",
+        "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
+        "item_type": "Curse"
+    },
+    "11000212": {
+        "item_id": 11000212,
+        "item_name": "Megalofobia II",
+        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 40 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al romper sus componentes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
+        "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
+        "item_type": "Curse"
+    },
+    "11000213": {
+        "item_id": 11000213,
+        "item_name": "Megalofobia III",
+        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 50 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al romper sus componentes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
+        "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
+        "item_type": "Curse"
+    },
+    "11000214": {
+        "item_id": 11000214,
+        "item_name": "Megalofobia IV",
+        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 50 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al romper sus componentes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
+        "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
+        "item_type": "Curse"
+    },
+    "11000221": {
+        "item_id": 11000221,
+        "item_name": "Valle inquietante I",
+        "item_des": "Aumenta el daño infligido por las marionetas mellizas <color=#CF4029>en un 40 %</color>.",
+        "item_story": "El parecido provoca duda, y las diferencias provocan la caída.",
+        "item_type": "Curse"
+    },
+    "11000222": {
+        "item_id": 11000222,
+        "item_name": "Valle inquietante II",
+        "item_des": "El daño infligido por las marionetas mellizas <color=#CF4029>aumenta en un 50 %</color>. Además, son más hostiles y su velocidad de resurrección <color=#CF4029>aumenta considerablemente</color>.",
+        "item_story": "El parecido provoca duda, y las diferencias provocan la caída.",
+        "item_type": "Curse"
+    },
+    "11000223": {
+        "item_id": 11000223,
+        "item_name": "Valle inquietante III",
+        "item_des": "El daño infligido por las marionetas mellizas <color=#CF4029>aumenta en un 50 %</color>. Además, son más hostiles y su velocidad de resurrección <color=#CF4029>aumenta considerablemente</color>.",
+        "item_story": "El parecido provoca duda, y las diferencias provocan la caída.",
+        "item_type": "Curse"
+    },
+    "11000281": {
+        "item_id": 11000281,
+        "item_name": "Rinitis alérgica I",
+        "item_des": "El daño que inflige Nínive <color=#CF4029>aumenta en un 40 %</color>. También <color=#CF4029>aumenta la frecuencia con la que invoca sus avispones</color>.\nAl explorar el panel perderás PV. En combate, el agente activo perderá PV gradualmente.",
+        "item_story": "Es una floración que no puede ser vista con los simples ojos. Es una estructura que escapa de la comprensión humana e infunde temor y admiración con sus pétalos. En un descuido te encontrarás danzando en medio de sus flores encantadoras y letales. ¿Quién es esa persona que yace atónita en el suelo?",
+        "item_type": "Curse"
+    },
+    "11000282": {
+        "item_id": 11000282,
+        "item_name": "Rinitis alérgica II",
+        "item_des": "El daño que inflige Nínive <color=#CF4029>aumenta en un 50 %</color>. También <color=#CF4029>aumenta la frecuencia con la que invoca sus avispones y con la que florece</color>.\nAl explorar el panel perderás PV. En combate, el agente activo perderá PV gradualmente.",
+        "item_story": "Es una floración que no puede ser vista con los simples ojos. Es una estructura que escapa de la comprensión humana e infunde temor y admiración con sus pétalos. En un descuido te encontrarás danzando en medio de sus flores encantadoras y letales. ¿Quién es esa persona que yace atónita en el suelo?",
+        "item_type": "Curse"
+    },
+    "11000291": {
+        "item_id": 11000291,
+        "item_name": "Maldad primitiva I",
+        "item_des": "El daño infligido por tifón golpeador <color=#CF4029>aumenta en un 30 %</color>.",
+        "item_story": "Actúa como un simio armado que se ha acostumbrado a tirar del gatillo. Evoca el recuerdo de la maldad primitiva de las tierras salvajes.",
+        "item_type": "Curse"
+    },
+    "11000292": {
+        "item_id": 11000292,
+        "item_name": "Maldad primitiva II",
+        "item_des": "El daño infligido por tifón golpeador <color=#CF4029>aumenta en un 40 %</color>. Además, <color=#CF4029>se vuelve inmune a todas las Anomalías de Atributo</color>.",
+        "item_story": "Actúa como un simio armado que se ha acostumbrado a tirar del gatillo. Evoca el recuerdo de la maldad primitiva de las tierras salvajes.",
+        "item_type": "Curse"
+    },
+    "11000293": {
+        "item_id": 11000293,
+        "item_name": "Maldad primitiva III",
+        "item_des": "El daño infligido por tifón golpeador <color=#CF4029>aumenta en un 50 %</color>. Además, <color=#CF4029>se vuelve inmune a todas las Anomalías de Atributo</color>.",
+        "item_story": "Actúa como un simio armado que se ha acostumbrado a tirar del gatillo. Evoca el recuerdo de la maldad primitiva de las tierras salvajes.",
+        "item_type": "Curse"
+    }
+}

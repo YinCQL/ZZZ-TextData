@@ -1,0 +1,289 @@
+{
+    "1100001": {
+        "item_id": 1100001,
+        "item_name": "Resistance Decline",
+        "item_des": "Jebakan menjadi lebih mematikan.",
+        "item_story": "Jiwa dan ragamu melemah, seolah serapuh reruntuhan di dalam Hollow.",
+        "item_type": "Curse"
+    },
+    "1100003": {
+        "item_id": 1100003,
+        "item_name": "Resonium Repulsion",
+        "item_des": "Pilihan Resonium berkurang.",
+        "item_story": "Benda ini membuatmu mual... Apa mungkin karena benda ini terlalu mirip dengan seekor Ethereal? Atau jangan-jangan memang embrio Ethereal...?",
+        "item_type": "Curse"
+    },
+    "1100004": {
+        "item_id": 1100004,
+        "item_name": "Frightened",
+        "item_des": "HP semua anggota tim akan berkurang saat Pressure Overload.",
+        "item_story": "\"Aduh gawat, gawat!\" \"Aku tadi bersin... apa itu tanda bahwa aku akan mati sebentar lagi?\"",
+        "item_type": "Curse"
+    },
+    "1100006": {
+        "item_id": 1100006,
+        "item_name": "Energizing Effect",
+        "item_des": "Daze musuh akan berkurang perlahan, tetapi kelipatan Stun DMG meningkat.",
+        "item_story": "Para anggota tim diselimuti kabut Ether yang khusus. Sepertinya ini membuat para Ethereal menjadi lebih aktif.",
+        "item_type": "Curse"
+    },
+    "1100007": {
+        "item_id": 1100007,
+        "item_name": "Demotivation",
+        "item_des": "Energy karakter yang tidak aktif akan berkurang secara perlahan.",
+        "item_story": "Tekad untuk bertarung telah berkurang. Kamu berjuang hanya untuk bertahan hidup.",
+        "item_type": "Curse"
+    },
+    "1100010": {
+        "item_id": 1100010,
+        "item_name": "Sinister Resonance",
+        "item_des": "Meningkatkan peluang CRIT serangan musuh Boss.",
+        "item_story": "Kamu merasa sesak saat bernapas.",
+        "item_type": "Curse"
+    },
+    "1100011": {
+        "item_id": 1100011,
+        "item_name": "Suspicion",
+        "item_des": "Saat Pressure meningkat: Antara Pressure tidak akan meningkat sama sekali atau akan meningkat drastis.",
+        "item_story": "Kegelisahan dalam hatimu bertambah besar dan membara.",
+        "item_type": "Curse"
+    },
+    "1100012": {
+        "item_id": 1100012,
+        "item_name": "Rampage",
+        "item_des": "Mengurangi harga item Pedagang Bangboo, tapi jumlah item yang dijual juga berkurang.",
+        "item_story": "Entah mengapa, kemarahan merajalela dalam jiwa semua orang. Bahkan para pedagang Bangboo pun tidak luput dari amarah ini.",
+        "item_type": "Curse"
+    },
+    "1100013": {
+        "item_id": 1100013,
+        "item_name": "Self Reassurance",
+        "item_des": "Saat Pressure meningkat, kamu akan mendapatkan Gear Coin, tapi hanya dapat memiliki maks. 3333 Gear Coin.",
+        "item_story": "\"Jangan panik...\" \"Asalkan aku masih ada Gear Coin, aku masih ada harapan...\"",
+        "item_type": "Curse"
+    },
+    "1100014": {
+        "item_id": 1100014,
+        "item_name": "Assimilation",
+        "item_des": "Jumlah Pressure yang meningkat akan berkurang, tapi Agen akan kehilangan HP dalam jumlah tertentu saat mendapatkan Resonium.",
+        "item_story": "Kamu mulai terbiasa dengan rasa terbakar yang disebabkan oleh Ether, dan secara perlahan tubuhmu menyatu dengan kehampaan... Ini pertanda kamu sedang melangkah menuju kehancuran total.",
+        "item_type": "Curse"
+    },
+    "1100017": {
+        "item_id": 1100017,
+        "item_name": "Toxic Dependency",
+        "item_des": "Setelah pertarungan, HP akan dipulihkan, tetapi Pressure akan meningkat.",
+        "item_story": "Musuh telah tumbang dan meledak dalam semburan Ether. Kamu seketika merasakan ketenangan yang belum pernah kamu rasakan sebelumnya. Lalu, kamu pun semakin haus untuk menghabisi musuh...",
+        "item_type": "Curse"
+    },
+    "1100018": {
+        "item_id": 1100018,
+        "item_name": "Weakened",
+        "item_des": "Waktu CD <color=#FFFFFF>Dodge</color> meningkat.",
+        "item_story": "Segala jurus dan gerakan pertempuran yang pernah kamu kuasai... hilang begitu saja. Sekarang, membayangkannya pun terasa sulit.",
+        "item_type": "Curse"
+    },
+    "1100019": {
+        "item_id": 1100019,
+        "item_name": "Exhausted",
+        "item_des": "Kamu akan kehilangan HP saat menjelajahi dengan monitor. Agen aktif akan kehilangan HP secara bertahap.",
+        "item_story": "Kontaminasi Ether bagaikan udara. Dia merasuk ke dalam tubuh setiap makhluk hidup, baik manusia maupun mesin.",
+        "item_type": "Curse"
+    },
+    "1100020": {
+        "item_id": 1100020,
+        "item_name": "Shadow of Horror",
+        "item_des": "DMG yang diakibatkan Dead End Butcher <color=#CF4029>meningkat 20%</color>. Dead End Butcher akan <color=#CF4029>memulihkan Daze dan memulihkan HP-nya dalam jumlah kecil</color> saat serangannya mengenai karakter.",
+        "item_story": "Ketakutan tertidur di dalam relung ingatan, terbangun bersama dengan detak jantung tak terkendali dan berdebar kencang.",
+        "item_type": "Curse"
+    },
+    "1100021": {
+        "item_id": 1100021,
+        "item_name": "Megalophobia",
+        "item_des": "DMG yang diakibatkan Corruption Complex <color=#CF4029>meningkat 30%</color>. Saat menerima serangan, <color=#CF4029>tidak lagi mengakumulasi Daze</color>, tetapi akan <color=#2BAD00>mengamulasi Daze dalam jumlah besar</color> saat titik rentannya dihancurkan.",
+        "item_story": "Saat menyadari betapa tidak pentingnya dirinya, upayanya untuk menghindar terhenti, dan upayanya untuk menyerang tampak sia-sia.",
+        "item_type": "Curse"
+    },
+    "1100022": {
+        "item_id": 1100022,
+        "item_name": "Uncanny Valley",
+        "item_des": "DMG yang diakibatkan Twin Marionettes <color=#CF4029>meningkat 50%</color>, kecepatan hidup kembali <color=#CF4029>meningkat drastis</color>.",
+        "item_story": "Keraguan muncul dari kemiripan dan hancur dalam perbedaan.",
+        "item_type": "Curse"
+    },
+    "1100023": {
+        "item_id": 1100023,
+        "item_name": "Harshness",
+        "item_des": "Pedagang Bangboo hanya menjual item Tier-S.",
+        "item_story": "Konsep \"toleransi\" telah dihilangkan dari pikiran, membuat pandanganku menjadi kritis terhadap segala hal.",
+        "item_type": "Curse"
+    },
+    "1100024": {
+        "item_id": 1100024,
+        "item_name": "Insatiable Greed",
+        "item_des": "Insiden Gear Coin menghasilkan lebih banyak Gear Coin tetapi meningkatkan Pressure lebih tinggi.",
+        "item_story": "Bebaskan dirimu dari segala belenggu dan kesederhanaan, lepaskan beban berat di pundakmu dengan melampiaskannya kepada semua hal yang menghalangi jalanmu.",
+        "item_type": "Curse"
+    },
+    "1100025": {
+        "item_id": 1100025,
+        "item_name": "Overcaution",
+        "item_des": "Saat memasuki lantai berikutnya dan saat memulai pertarungan, kamu akan kehilangan 300 Gear Coin dan memulihkan 10% HP terhadap semua anggota tim. Akan tetapi, HP semua anggota tim akan langsung berkurang 15% jika kamu menolak membayar.",
+        "item_story": "Sikap waspada menjadi titik lemah atas rasa takut untuk kemajuan. Mendorong orang dalam menempuh jalan aman yang semu di tengah kedengkian Hollow.",
+        "item_type": "Curse"
+    },
+    "1100026": {
+        "item_id": 1100026,
+        "item_name": "Destructive Urge",
+        "item_des": "Zona Istirahat dan Suplai Tepat Waktu tidak akan memulihkan HP. Tetapi HP semua anggota tim akan pulih sebesar 3% setiap kali menyelesaikan pertarungan. HP semua anggota tim akan pulih 10% sebelum memasuki lantai berikutnya dan sebelum menjalani pertarungan akhir.",
+        "item_story": "Keinginan untuk menghancurkan yang tak terpuaskan akan mengalahkan akal sehat, memuaskannya hanya akan memberikan kepuasan sesaat.",
+        "item_type": "Curse"
+    },
+    "1100027": {
+        "item_id": 1100027,
+        "item_name": "Grasping Fervor",
+        "item_des": "Membeli item dari Pedagang Bangboo akan mengonsumsi HP sebagai pengganti Gear Coin.",
+        "item_story": "Keinginan atas segala sesuatu yang dapat dilihat, berapa pun biayanya.\nTangkap mereka, dan bawa mereka pergi.",
+        "item_type": "Curse"
+    },
+    "1100029": {
+        "item_id": 1100029,
+        "item_name": "Primal Malice",
+        "item_des": "DMG yang diakibatkan Typhon Slugger <color=#CF4029>meningkat 30%</color> dan <color=#CF4029>kebal terhadap semua Attribute Anomaly</color>.",
+        "item_story": "Seperti gorila yang meniru manusia menggunakan senjata, binatang buas tanpa akal sehat itu dengan terampil menarik pelatuk. Hal ini mengingatkan kita pada kebencian primitif yang hanya ditemui di tanah barbar.",
+        "item_type": "Curse"
+    },
+    "1100030": {
+        "item_id": 1100030,
+        "item_name": "Parasitic Mycose",
+        "item_des": "Ketika HP Agen lebih dari 50%, efisiensi pemulihan HP akan berkurang drastis. Tetapi ketika HP Agen kurang dari 50%, efisiensi pemulihan HP akan meningkat drastis.",
+        "item_story": "Serakah ketika kamu kuat, berbelas kasihan ketika kamu lemah...",
+        "item_type": "Curse"
+    },
+    "1102001": {
+        "item_id": 1102001,
+        "item_name": "Super Homerun",
+        "item_des": "Di depan sudah buntu. Kamu hanya bisa meninggalkan Hollow.",
+        "item_story": "Pulang, aku mau pulang...! Aku tidak mau berjuang lagi!",
+        "item_type": "Curse"
+    },
+    "11000201": {
+        "item_id": 11000201,
+        "item_name": "Shadow of Horror I",
+        "item_des": "DMG yang diakibatkan Dead End Butcher <color=#CF4029>meningkat 20%</color>.",
+        "item_story": "Ketakutan tertidur di dalam relung ingatan, terbangun bersama dengan detak jantung tak terkendali dan berdebar kencang.",
+        "item_type": "Curse"
+    },
+    "11000202": {
+        "item_id": 11000202,
+        "item_name": "Shadow of Horror II",
+        "item_des": "DMG yang diakibatkan Dead End Butcher <color=#CF4029>meningkat 30%</color>.",
+        "item_story": "Ketakutan tertidur di dalam relung ingatan, terbangun bersama dengan detak jantung tak terkendali dan berdebar kencang.",
+        "item_type": "Curse"
+    },
+    "11000203": {
+        "item_id": 11000203,
+        "item_name": "Shadow of Horror III",
+        "item_des": "DMG yang diakibatkan Dead End Butcher <color=#CF4029>meningkat 40%</color>. Dead End Butcher akan <color=#CF4029>memulihkan HP-nya dalam jumlah kecil</color> saat serangannya mengenai karakter.",
+        "item_story": "Ketakutan tertidur di dalam relung ingatan, terbangun bersama dengan detak jantung tak terkendali dan berdebar kencang.",
+        "item_type": "Curse"
+    },
+    "11000204": {
+        "item_id": 11000204,
+        "item_name": "Shadow of Horror IV",
+        "item_des": "DMG yang diakibatkan Dead End Butcher <color=#CF4029>meningkat 50%</color>. Dead End Butcher akan <color=#CF4029>memulihkan Daze dan memulihkan HP-nya dalam jumlah kecil</color> saat serangannya mengenai karakter.",
+        "item_story": "Ketakutan tertidur di dalam relung ingatan, terbangun bersama dengan detak jantung tak terkendali dan berdebar kencang.",
+        "item_type": "Curse"
+    },
+    "11000205": {
+        "item_id": 11000205,
+        "item_name": "Shadow of Horror V",
+        "item_des": "DMG yang diakibatkan Dead End Butcher <color=#CF4029>meningkat 50%</color>. Dead End Butcher akan <color=#CF4029>memulihkan Daze dan memulihkan HP-nya dalam jumlah kecil</color> saat serangannya mengenai karakter.",
+        "item_story": "Ketakutan tertidur di dalam relung ingatan, terbangun bersama dengan detak jantung tak terkendali dan berdebar kencang.",
+        "item_type": "Curse"
+    },
+    "11000211": {
+        "item_id": 11000211,
+        "item_name": "Megalophobia I",
+        "item_des": "DMG yang diakibatkan Corruption Complex <color=#CF4029>meningkat 30%</color>.",
+        "item_story": "Saat menyadari betapa tidak pentingnya dirinya, upayanya untuk menghindar terhenti, dan upayanya untuk menyerang tampak sia-sia.",
+        "item_type": "Curse"
+    },
+    "11000212": {
+        "item_id": 11000212,
+        "item_name": "Megalophobia II",
+        "item_des": "DMG yang diakibatkan Corruption Complex <color=#CF4029>meningkat 40%</color>. Saat menerima serangan, <color=#CF4029>tidak lagi mengakumulasi Daze</color>, tetapi akan <color=#2BAD00>mengamulasi Daze dalam jumlah besar</color> saat titik rentannya dihancurkan.",
+        "item_story": "Saat menyadari betapa tidak pentingnya dirinya, upayanya untuk menghindar terhenti, dan upayanya untuk menyerang tampak sia-sia.",
+        "item_type": "Curse"
+    },
+    "11000213": {
+        "item_id": 11000213,
+        "item_name": "Megalophobia III",
+        "item_des": "DMG yang diakibatkan Corruption Complex <color=#CF4029>meningkat 50%</color>. Saat menerima serangan, <color=#CF4029>tidak lagi mengakumulasi Daze</color>, tetapi akan <color=#2BAD00>mengamulasi Daze dalam jumlah besar</color> saat titik rentannya dihancurkan.",
+        "item_story": "Saat menyadari betapa tidak pentingnya dirinya, upayanya untuk menghindar terhenti, dan upayanya untuk menyerang tampak sia-sia.",
+        "item_type": "Curse"
+    },
+    "11000214": {
+        "item_id": 11000214,
+        "item_name": "Megalophobia IV",
+        "item_des": "DMG yang diakibatkan Corruption Complex <color=#CF4029>meningkat 50%</color>. Saat menerima serangan, <color=#CF4029>tidak lagi mengakumulasi Daze</color>, tetapi akan <color=#2BAD00>mengamulasi Daze dalam jumlah besar</color> saat titik rentannya dihancurkan.",
+        "item_story": "Saat menyadari betapa tidak pentingnya dirinya, upayanya untuk menghindar terhenti, dan upayanya untuk menyerang tampak sia-sia.",
+        "item_type": "Curse"
+    },
+    "11000221": {
+        "item_id": 11000221,
+        "item_name": "Uncanny Valley I",
+        "item_des": "DMG yang diakibatkan Twin Marionettes <color=#CF4029>meningkat 40%</color>.",
+        "item_story": "Keraguan muncul dari kemiripan dan hancur dalam perbedaan.",
+        "item_type": "Curse"
+    },
+    "11000222": {
+        "item_id": 11000222,
+        "item_name": "Uncanny Valley II",
+        "item_des": "DMG yang diakibatkan Twin Marionettes <color=#CF4029>meningkat 50%</color>, kecepatan hidup kembali <color=#CF4029>meningkat drastis</color>.",
+        "item_story": "Keraguan muncul dari kemiripan dan hancur dalam perbedaan.",
+        "item_type": "Curse"
+    },
+    "11000223": {
+        "item_id": 11000223,
+        "item_name": "Uncanny Valley III",
+        "item_des": "DMG yang diakibatkan Twin Marionettes <color=#CF4029>meningkat 50%</color>, kecepatan hidup kembali <color=#CF4029>meningkat drastis</color>.",
+        "item_story": "Keraguan muncul dari kemiripan dan hancur dalam perbedaan.",
+        "item_type": "Curse"
+    },
+    "11000281": {
+        "item_id": 11000281,
+        "item_name": "Hay Fever I",
+        "item_des": "DMG yang diakibatkan Nineveh <color=#CF4029>meningkat 40%</color>, serta akan <color=#CF4029>lebih sering memanggil Hornet</color>.\nSaat menjelajahi melalui monitor, akan kehilangan HP. Dalam pertempuran, Agen aktif akan kehilangan HP secara bertahap.",
+        "item_story": "Ini adalah \"mekar\" yang tidak bisa terlihat dengan mata telanjang. Struktur aneh yang tidak bisa dipahami dengan akal sehat, bergetar dengan \"kelopak\" yang memesona. Di langit berkabut, kamu dan bunga indah nan mematikan itu berdansa bersama, dan siapakah orang yang terdiam di atas tanah itu?",
+        "item_type": "Curse"
+    },
+    "11000282": {
+        "item_id": 11000282,
+        "item_name": "Hay Fever II",
+        "item_des": "DMG yang diakibatkan Nineveh <color=#CF4029>meningkat 50%</color>, serta akan <color=#CF4029>lebih sering memanggil Hornet dan melancarkan \"Blooming\"</color>.\nSaat menjelajahi melalui monitor, akan kehilangan HP. Dalam pertempuran, Agen aktif akan kehilangan HP secara bertahap.",
+        "item_story": "Ini adalah \"mekar\" yang tidak bisa terlihat dengan mata telanjang. Struktur aneh yang tidak bisa dipahami dengan akal sehat, bergetar dengan \"kelopak\" yang memesona. Di langit berkabut, kamu dan bunga indah nan mematikan itu berdansa bersama, dan siapakah orang yang terdiam di atas tanah itu?",
+        "item_type": "Curse"
+    },
+    "11000291": {
+        "item_id": 11000291,
+        "item_name": "Primal Malice I",
+        "item_des": "DMG yang diakibatkan Typhon Slugger <color=#CF4029>meningkat 30%</color>.",
+        "item_story": "Seperti gorila yang meniru manusia menggunakan senjata, binatang buas tanpa akal sehat itu dengan terampil menarik pelatuk. Hal ini mengingatkan kita pada kebencian primitif yang hanya ditemui di tanah barbar.",
+        "item_type": "Curse"
+    },
+    "11000292": {
+        "item_id": 11000292,
+        "item_name": "Primal Malice II",
+        "item_des": "DMG yang diakibatkan Typhon Slugger <color=#CF4029>meningkat 40%</color> dan <color=#CF4029>kebal terhadap semua Attribute Anomaly</color>.",
+        "item_story": "Seperti gorila yang meniru manusia menggunakan senjata, binatang buas tanpa akal sehat itu dengan terampil menarik pelatuk. Hal ini mengingatkan kita pada kebencian primitif yang hanya ditemui di tanah barbar.",
+        "item_type": "Curse"
+    },
+    "11000293": {
+        "item_id": 11000293,
+        "item_name": "Primal Malice III",
+        "item_des": "DMG yang diakibatkan Typhon Slugger <color=#CF4029>meningkat 50%</color> dan <color=#CF4029>kebal terhadap semua Attribute Anomaly</color>.",
+        "item_story": "Seperti gorila yang meniru manusia menggunakan senjata, binatang buas tanpa akal sehat itu dengan terampil menarik pelatuk. Hal ini mengingatkan kita pada kebencian primitif yang hanya ditemui di tanah barbar.",
+        "item_type": "Curse"
+    }
+}

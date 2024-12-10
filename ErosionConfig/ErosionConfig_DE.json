@@ -1,0 +1,289 @@
+{
+    "1100001": {
+        "item_id": 1100001,
+        "item_name": "Widerstandsabnahme",
+        "item_des": "Fallen werden noch tödlicher.",
+        "item_story": "Dein Körper und Geist sind geschwächt und so zerbrechlich wie ein Wrack in der Höhle.",
+        "item_type": "Curse"
+    },
+    "1100003": {
+        "item_id": 1100003,
+        "item_name": "Resonia-Abstoßung",
+        "item_des": "Bei der Auswahl von Resonium wird die Anzahl der verfügbaren Optionen verringert.",
+        "item_story": "Dieses Ding macht mich irgendwie krank ... Es riecht nach Äthereal ... Das ist doch kein Embryo, oder?",
+        "item_type": "Curse"
+    },
+    "1100004": {
+        "item_id": 1100004,
+        "item_name": "Erschrocken",
+        "item_des": "Bei Drucküberladung verlieren alle Truppenmitglieder LP.",
+        "item_story": "„Oh nein ... Wir sind erledigt!“ „Ich habe gerade geniest. Werde ich gleich sterben?“",
+        "item_type": "Curse"
+    },
+    "1100006": {
+        "item_id": 1100006,
+        "item_name": "Aktivierungseffekt",
+        "item_des": "Die Benommenheit des Gegners nimmt mit der Zeit ab, aber der Benommenheit-SCH-Multiplikator erhöht sich.",
+        "item_story": "Die Truppenmitglieder sind von einem Nebel aus speziellem und feinem Äther umhüllt. Das scheint die Äthereale zu provozieren.",
+        "item_type": "Curse"
+    },
+    "1100007": {
+        "item_id": 1100007,
+        "item_name": "Demotivation",
+        "item_des": "Die inaktiven Mitglieder verlieren allmählich ihre Energie.",
+        "item_story": "Deine Kampfeslust ist versiegt. Es geht nur noch ums Überleben.",
+        "item_type": "Curse"
+    },
+    "1100010": {
+        "item_id": 1100010,
+        "item_name": "Finstere Resonanz",
+        "item_des": "Angriffe von Bossgegnern haben eine gewisse Chance, kritische Treffer zu verursachen.",
+        "item_story": "Noch kann man nicht einfach eine Atempause machen.",
+        "item_type": "Curse"
+    },
+    "1100011": {
+        "item_id": 1100011,
+        "item_name": "Verdacht",
+        "item_des": "Wenn der Druck zunimmt, besteht die Möglichkeit, dass er entweder nicht oder stark zunimmt.",
+        "item_story": "Das zunehmende Unbehagen in deiner Seele sitzt tiefer.",
+        "item_type": "Curse"
+    },
+    "1100012": {
+        "item_id": 1100012,
+        "item_name": "Rücksichtslosigkeit",
+        "item_des": "Beim Bangboo-Händler gibt es Rabatte, aber auch weniger Artikel.",
+        "item_story": "Aus irgendeinem Grund sind alle unerbittlich und aggressiv geworden. Nicht einmal der einfallsreiche Bangboo-Händler kann mit diesen schwierigen Kunden umgehen.",
+        "item_type": "Curse"
+    },
+    "1100013": {
+        "item_id": 1100013,
+        "item_name": "Selbsttröstung",
+        "item_des": "Wenn der Druck zunimmt, erhältst du Zahnrad-Münzen, kannst aber nur bis zu 3333 Zahnrad-Münzen besitzen.",
+        "item_story": "„Beruhige dich ... Ja ... Ich werde überleben, solange ich Zahnrad-Münzen habe ...“",
+        "item_type": "Curse"
+    },
+    "1100014": {
+        "item_id": 1100014,
+        "item_name": "Assimilation",
+        "item_des": "Figuren erhalten weniger Druck, verlieren aber LP, wenn sie Resonia erhalten.",
+        "item_story": "Du gewöhnst dich an den brennenden Schmerz des ruhelosen Äthers und wirst allmählich eins mit der Höhle ... Das ist der Anfang des totalen Zusammenbruchs.",
+        "item_type": "Curse"
+    },
+    "1100017": {
+        "item_id": 1100017,
+        "item_name": "Giftige Abhängigkeit",
+        "item_des": "Die LP werden am Ende eines Kampfes wiederhergestellt, aber der Druck wird zunehmen.",
+        "item_story": "Der Gegner explodiert und hinterlässt Äther. Wer darin badet, fühlt sich so wohl wie nie zuvor. Wen kümmert es schon, was danach kommt? Mehr! Mehr Gegner!",
+        "item_type": "Curse"
+    },
+    "1100018": {
+        "item_id": 1100018,
+        "item_name": "Geschwächt",
+        "item_des": "Für <color=#FFFFFF>Ausweichen</color> gibt es eine längere Abklingzeit.",
+        "item_story": "Die ganzen klassischen Kampfbewegungen und Kombo ... Es ist schwierig, sich daran zu erinnern.",
+        "item_type": "Curse"
+    },
+    "1100019": {
+        "item_id": 1100019,
+        "item_name": "Erschöpft",
+        "item_des": "Verringert LP bei Erkundung durch Monitore und reduziert allmählich LP der Figur auf dem Feld im Kampf.",
+        "item_story": "Wie Luft dringt die Ätherkorrosion in jedes Wesen, sowohl in Menschen als auch in Maschinen.",
+        "item_type": "Curse"
+    },
+    "1100020": {
+        "item_id": 1100020,
+        "item_name": "Schatten des Grauens",
+        "item_des": "Der vom Sackgassen-Schlächter verursachte SCH <color=#CF4029>erhöht sich um 20 %</color>. Trifft sein Angriff eine verbündete Figur, werden Sackgassen-Schlächters <color=#CF4029>Benommenheit und eine kleine Menge seiner LP wiederhergestellt</color>.",
+        "item_story": "Angst lauert tief schlummernd in den Schatten der Erinnerung, um beim nächsten unkontrollierten Herzschlag wiederzuerwachen.",
+        "item_type": "Curse"
+    },
+    "1100021": {
+        "item_id": 1100021,
+        "item_name": "Megalophobie",
+        "item_des": "Der vom Korrosionskomplex verursache SCH <color=#CF4029>erhöht sich um 30 %</color>. Angriffe durch Verbündete <color=#CF4029>verursachen keine Benommenheit mehr</color>. Werden aber die verletzlichen Teile durchbrochen, wird <color=#2BAD00>eine große Menge Benommenheit angehäuft</color>.",
+        "item_story": "Als sie ihre Bedeutungslosigkeit erkennen, scheitern ihre Ausweichversuche, und ihre Angriffsbemühungen erscheinen völlig aussichtslos.",
+        "item_type": "Curse"
+    },
+    "1100022": {
+        "item_id": 1100022,
+        "item_name": "Unheimliches Tal",
+        "item_des": "Der von „Marionette – Zwilling“ verursachte SCH <color=#CF4029>erhöht sich um 50 %</color>. Ihre Wiederbelebungs-GSW <color=#CF4029>erhöht sich erheblich</color>.",
+        "item_story": "Das Zögern entspringt dem Schein und zerbricht unter dem Gewicht der Ungleichheiten.",
+        "item_type": "Curse"
+    },
+    "1100023": {
+        "item_id": 1100023,
+        "item_name": "Erbarmungslos",
+        "item_des": "Bangboo-Händler verkaufen nur Artikel vom Rang S.",
+        "item_story": "Das Konzept der „Toleranz“ wurde aus dem Bewusstsein gestrichen, was zu einer kritischen Einstellung gegenüber allem führt.",
+        "item_type": "Curse"
+    },
+    "1100024": {
+        "item_id": 1100024,
+        "item_name": "Unersättliche Gier",
+        "item_des": "Bei Zahnrad-Münzen-Ereignissen erhältst du mehr Zahnrad-Münzen, allerdings nimmt der Druck zu.",
+        "item_story": "Löse dich von deinen Einschränkungen und Fesseln, befreie dich von der überwältigenden Last, indem du alles plünderst, was dir im Weg steht.",
+        "item_type": "Curse"
+    },
+    "1100025": {
+        "item_id": 1100025,
+        "item_name": "Übertriebene Vorsicht",
+        "item_des": "Bevor du die nächste Ebene betrittst und den finalen Kampf bestreitest, erhältst du 300 Zahnrad-Münzen und 10 % der LP aller Truppenmitglieder werden wiederhergestellt.\nBei Ablehnung der Zahlung werden die LP aller Truppenmitglieder sofort um 15 % reduziert.",
+        "item_story": "Die Vorsicht wird zu einem schwachen Vorwand für die Angst, sich vorwärtszubewegen, und drängt einen dazu, einen illusorischen Weg der Sicherheit inmitten der Boshaftigkeit der Höhle zu verfolgen.",
+        "item_type": "Curse"
+    },
+    "1100026": {
+        "item_id": 1100026,
+        "item_name": "Zerstörungswut",
+        "item_des": "Eine LP-Regeneration ist in Ruhezonen und durch Versorgung nicht mehr möglich. Im Gegenzug werden die LP aller Truppenmitglieder nach jedem Kampf um 3 % wiederhergestellt. Bevor du die nächste Ebene betrittst und den finalen Kampf bestreitest, werden die LP aller Truppenmitglieder um 10 % wiederhergestellt.",
+        "item_story": "Das unstillbare Verlangen nach Zerstörung setzt die Vernunft außer Kraft und verschafft nur dann eine kurze Atempause, wenn es vollständig gestillt ist.",
+        "item_type": "Curse"
+    },
+    "1100027": {
+        "item_id": 1100027,
+        "item_name": "Kleptomanie",
+        "item_des": "Der Kauf von Waren bei Bangboo-Händlern kostet LP anstelle von Zahnrad-Münzen.",
+        "item_story": "Ein Appetit auf alles, was in Sichtweite liegt, egal, was es kostet.\nErgreift sie und nehmt sie mit.",
+        "item_type": "Curse"
+    },
+    "1100029": {
+        "item_id": 1100029,
+        "item_name": "Urtümliche Bosheit",
+        "item_des": "Der von „Typhon – Demolierer“ verursachte SCH <color=#CF4029>erhöht sich um 30 %</color> und er ist <color=#CF4029>immun gegen alle Attributanomalien</color>.",
+        "item_story": "Wie ein Gorilla, der einen Menschen mit einer Waffe nachahmt, betätigt die Bestie ohne Vernunft gekonnt den Abzug. Das erinnert an die urtümliche Bosheit, die nur in barbarischen Ländern zu finden ist.",
+        "item_type": "Curse"
+    },
+    "1100030": {
+        "item_id": 1100030,
+        "item_name": "„Parasitbakterien“",
+        "item_des": "Wenn die LP eines Agenten über 50 % liegen, wird die LP-Erholungsgeschwindigkeit deutlich verringert. Wenn die LP eines Agenten unter 50 % liegen, wird die LP-Erholungsgeschwindigkeit deutlich erhöht.",
+        "item_story": "Gierig, wenn du stark bist. Barmherzig, wenn du schwach bist ...",
+        "item_type": "Curse"
+    },
+    "1102001": {
+        "item_id": 1102001,
+        "item_name": "Die große Heimkehr",
+        "item_des": "Der Weg ist zu Ende. Du musst die Höhle verlassen.",
+        "item_story": "Ich will ... Ich will nach Hause gehen ... Ich will es nicht mehr versuchen!",
+        "item_type": "Curse"
+    },
+    "11000201": {
+        "item_id": 11000201,
+        "item_name": "Schatten des Grauens I",
+        "item_des": "Der vom Sackgassen-Schlächter verursachte SCH <color=#CF4029>erhöht sich um 20 %</color>.",
+        "item_story": "Angst lauert tief schlummernd in den Schatten der Erinnerung, um beim nächsten unkontrollierten Herzschlag wiederzuerwachen.",
+        "item_type": "Curse"
+    },
+    "11000202": {
+        "item_id": 11000202,
+        "item_name": "Schatten des Grauens II",
+        "item_des": "Der vom Sackgassen-Schlächter verursachte SCH <color=#CF4029>erhöht sich um 30 %</color>.",
+        "item_story": "Angst lauert tief schlummernd in den Schatten der Erinnerung, um beim nächsten unkontrollierten Herzschlag wiederzuerwachen.",
+        "item_type": "Curse"
+    },
+    "11000203": {
+        "item_id": 11000203,
+        "item_name": "Schatten des Grauens III",
+        "item_des": "Der vom Sackgassen-Schlächter verursachte SCH <color=#CF4029>erhöht sich um 40 %</color>. Trifft sein Angriff eine verbündete Figur, wird <color=#CF4029>eine kleine Menge der LP vom Sackgassen-Schlächter wiederhergestellt</color>.",
+        "item_story": "Angst lauert tief schlummernd in den Schatten der Erinnerung, um beim nächsten unkontrollierten Herzschlag wiederzuerwachen.",
+        "item_type": "Curse"
+    },
+    "11000204": {
+        "item_id": 11000204,
+        "item_name": "Schatten des Grauens IV",
+        "item_des": "Der vom Sackgassen-Schlächter verursachte SCH <color=#CF4029>erhöht sich um 50 %</color>. Trifft sein Angriff eine verbündete Figur, werden Sackgassen-Schlächters <color=#CF4029>Benommenheit und eine kleine Menge seiner LP wiederhergestellt</color>.",
+        "item_story": "Angst lauert tief schlummernd in den Schatten der Erinnerung, um beim nächsten unkontrollierten Herzschlag wiederzuerwachen.",
+        "item_type": "Curse"
+    },
+    "11000205": {
+        "item_id": 11000205,
+        "item_name": "Schatten des Grauens V",
+        "item_des": "Der vom Sackgassen-Schlächter verursachte SCH <color=#CF4029>erhöht sich um 50 %</color>. Trifft sein Angriff eine verbündete Figur, werden Sackgassen-Schlächters <color=#CF4029>Benommenheit und eine kleine Menge seiner LP wiederhergestellt</color>.",
+        "item_story": "Angst lauert tief schlummernd in den Schatten der Erinnerung, um beim nächsten unkontrollierten Herzschlag wiederzuerwachen.",
+        "item_type": "Curse"
+    },
+    "11000211": {
+        "item_id": 11000211,
+        "item_name": "Megalophobie I",
+        "item_des": "Der vom Korrosionskomplex verursachte SCH <color=#CF4029>erhöht sich um 30 %</color>.",
+        "item_story": "Als sie ihre Bedeutungslosigkeit erkennen, scheitern ihre Ausweichversuche, und ihre Angriffsbemühungen erscheinen völlig aussichtslos.",
+        "item_type": "Curse"
+    },
+    "11000212": {
+        "item_id": 11000212,
+        "item_name": "Megalophobie II",
+        "item_des": "Der vom Korrosionskomplex verursache SCH <color=#CF4029>erhöht sich um 40 %</color>. Angriffe durch Verbündete <color=#CF4029>verursachen keine Benommenheit mehr</color>. Werden aber die verletzlichen Teile durchbrochen, wird <color=#2BAD00>eine große Menge Benommenheit angehäuft</color>.",
+        "item_story": "Als sie ihre Bedeutungslosigkeit erkennen, scheitern ihre Ausweichversuche, und ihre Angriffsbemühungen erscheinen völlig aussichtslos.",
+        "item_type": "Curse"
+    },
+    "11000213": {
+        "item_id": 11000213,
+        "item_name": "Megalophobie III",
+        "item_des": "Der vom Korrosionskomplex verursache SCH <color=#CF4029>erhöht sich um 50 %</color>. Angriffe durch Verbündete <color=#CF4029>verursachen keine Benommenheit mehr</color>. Werden aber die verletzlichen Teile durchbrochen, wird <color=#2BAD00>eine große Menge Benommenheit angehäuft</color>.",
+        "item_story": "Als sie ihre Bedeutungslosigkeit erkennen, scheitern ihre Ausweichversuche, und ihre Angriffsbemühungen erscheinen völlig aussichtslos.",
+        "item_type": "Curse"
+    },
+    "11000214": {
+        "item_id": 11000214,
+        "item_name": "Megalophobie IV",
+        "item_des": "Der vom Korrosionskomplex verursache SCH <color=#CF4029>erhöht sich um 50 %</color>. Angriffe durch Verbündete <color=#CF4029>verursachen keine Benommenheit mehr</color>. Werden aber die verletzlichen Teile durchbrochen, wird <color=#2BAD00>eine große Menge Benommenheit angehäuft</color>.",
+        "item_story": "Als sie ihre Bedeutungslosigkeit erkennen, scheitern ihre Ausweichversuche, und ihre Angriffsbemühungen erscheinen völlig aussichtslos.",
+        "item_type": "Curse"
+    },
+    "11000221": {
+        "item_id": 11000221,
+        "item_name": "Unheimliches Tal I",
+        "item_des": "Der von „Marionette – Zwilling“ verursachte SCH <color=#CF4029>erhöht sich 40 %</color>.",
+        "item_story": "Das Zögern entspringt dem Schein und zerbricht unter dem Gewicht der Ungleichheiten.",
+        "item_type": "Curse"
+    },
+    "11000222": {
+        "item_id": 11000222,
+        "item_name": "Unheimliches Tal II",
+        "item_des": "Der von „Marionette – Zwilling“ verursachte SCH <color=#CF4029>erhöht sich 50 %</color>. Ihre Wiederbelebungs-GSW <color=#CF4029>erhöht sich erheblich</color>.",
+        "item_story": "Das Zögern entspringt dem Schein und zerbricht unter dem Gewicht der Ungleichheiten.",
+        "item_type": "Curse"
+    },
+    "11000223": {
+        "item_id": 11000223,
+        "item_name": "Unheimliches Tal III",
+        "item_des": "Der von „Marionette – Zwilling“ verursachte SCH <color=#CF4029>erhöht sich 50 %</color>. Ihre Wiederbelebungs-GSW <color=#CF4029>erhöht sich erheblich</color>.",
+        "item_story": "Das Zögern entspringt dem Schein und zerbricht unter dem Gewicht der Ungleichheiten.",
+        "item_type": "Curse"
+    },
+    "11000281": {
+        "item_id": 11000281,
+        "item_name": "„Heuschnupfen I“",
+        "item_des": "Der von Nineveh verursachte SCH <color=#CF4029>erhöht sich um 40 %</color> und sie <color=#CF4029>ruft noch häufiger Hornissen herbei</color>.\nBei Erkundung durch Monitore gehen LP verloren und im Kampf verliert die Figur auf dem Feld allmählich LP.",
+        "item_story": "Ein schockierendes „Aufblühen“. Die merkwürdige Hypostase, die mit bisherigem Wissen nicht zu verstehen war, schüttelte ihre beeindruckenden „Blütenblätter“. Wie in einem Rausch tanzt du mit dieser schönen und tödlichen Blume in der Luft, aber wer ist diese Person, die vor Angst erstarrt auf dem Boden liegt?",
+        "item_type": "Curse"
+    },
+    "11000282": {
+        "item_id": 11000282,
+        "item_name": "„Heuschnupfen II“",
+        "item_des": "Der von Nineveh verursachte SCH <color=#CF4029>erhöht sich um 50 %</color> und sie <color=#CF4029>ruft noch häufiger Hornissen herbei und führt „Blühen“ aus</color>.\nBei Erkundung durch Monitore gehen LP verloren und im Kampf verliert die Figur auf dem Feld allmählich LP.",
+        "item_story": "Ein schockierendes „Aufblühen“. Die merkwürdige Hypostase, die mit bisherigem Wissen nicht zu verstehen war, schüttelte ihre beeindruckenden „Blütenblätter“. Wie in einem Rausch tanzt du mit dieser schönen und tödlichen Blume in der Luft, aber wer ist diese Person, die vor Angst erstarrt auf dem Boden liegt?",
+        "item_type": "Curse"
+    },
+    "11000291": {
+        "item_id": 11000291,
+        "item_name": "Urtümliche Bosheit I",
+        "item_des": "Der von „Typhon – Demolierer“ verursachte SCH <color=#CF4029>erhöht sich um 30 %</color>.",
+        "item_story": "Wie ein Gorilla, der einen Menschen mit einer Waffe nachahmt, betätigt die Bestie ohne Vernunft gekonnt den Abzug. Das erinnert an die urtümliche Bosheit, die nur in barbarischen Ländern zu finden ist.",
+        "item_type": "Curse"
+    },
+    "11000292": {
+        "item_id": 11000292,
+        "item_name": "Urtümliche Bosheit II",
+        "item_des": "Der von „Typhon – Demolierer“ verursachte SCH <color=#CF4029>erhöht sich um 40 %</color> und er ist <color=#CF4029>immun gegen alle Attributanomalien</color>.",
+        "item_story": "Wie ein Gorilla, der einen Menschen mit einer Waffe nachahmt, betätigt die Bestie ohne Vernunft gekonnt den Abzug. Das erinnert an die urtümliche Bosheit, die nur in barbarischen Ländern zu finden ist.",
+        "item_type": "Curse"
+    },
+    "11000293": {
+        "item_id": 11000293,
+        "item_name": "Urtümliche Bosheit III",
+        "item_des": "Der von „Typhon – Demolierer“ verursachte SCH <color=#CF4029>erhöht sich um 50 %</color> und er ist <color=#CF4029>immun gegen alle Attributanomalien</color>.",
+        "item_story": "Wie ein Gorilla, der einen Menschen mit einer Waffe nachahmt, betätigt die Bestie ohne Vernunft gekonnt den Abzug. Das erinnert an die urtümliche Bosheit, die nur in barbarischen Ländern zu finden ist.",
+        "item_type": "Curse"
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "1100001": {
+        "item_id": 1100001,
+        "item_name": "Résistance en déclin",
+        "item_des": "Les pièges deviennent plus dangereux.",
+        "item_story": "Votre corps et votre esprit s'affaiblissent et deviennent aussi fragiles que les décombres de la Néantre.",
+        "item_type": "Curse"
+    },
+    "1100003": {
+        "item_id": 1100003,
+        "item_name": "Aversion envers le résonium",
+        "item_des": "Lorsque vous sélectionnez un résonium, les choix sont réduits.",
+        "item_story": "Ce truc me rend malade... Ça sent comme un Éthéréen... c'en est quand même pas un embryon ?",
+        "item_type": "Curse"
+    },
+    "1100004": {
+        "item_id": 1100004,
+        "item_name": "Frayeur",
+        "item_des": "Lorsque vous subissez une surcharge de pression, tous les membres de l'escouade perdent des PV.",
+        "item_story": "« Oh nooon... On est fichus !\n– Je viens d'éternuer. Est-ce que je vais mourir ? »",
+        "item_type": "Curse"
+    },
+    "1100006": {
+        "item_id": 1100006,
+        "item_name": "Effet énergisant",
+        "item_des": "La confusion des ennemis diminue progressivement, mais le multiplicateur de DGT d'étourdissement augmente.",
+        "item_story": "Les membres de l'escouade sont enveloppés d'une brume d'éther spécial qui semble provoquer les Éthéréens.",
+        "item_type": "Curse"
+    },
+    "1100007": {
+        "item_id": 1100007,
+        "item_name": "Démotivation",
+        "item_des": "Les personnages en réserve perdent de l'énergie progressivement.",
+        "item_story": "Votre envie de combattre s'est éteinte. Vous vous battez uniquement pour votre survie.",
+        "item_type": "Curse"
+    },
+    "1100010": {
+        "item_id": 1100010,
+        "item_name": "Résonance sinistre",
+        "item_des": "Les attaques de boss ont une chance d'infliger des DGT CRIT.",
+        "item_story": "Il est trop tôt pour souffler.",
+        "item_type": "Curse"
+    },
+    "1100011": {
+        "item_id": 1100011,
+        "item_name": "Méfiance",
+        "item_des": "Lorsque la pression augmente, votre pression peut rester identique ou augmenter considérablement.",
+        "item_story": "Le malaise qui grandit dans votre âme se fait sentir.",
+        "item_type": "Curse"
+    },
+    "1100012": {
+        "item_id": 1100012,
+        "item_name": "Saccage",
+        "item_des": "Le marchand Bangbou propose des remises, mais moins d'objets.",
+        "item_story": "Étrangement, tout le monde est devenu dur en affaires et pas même l'ingénieux marchand Bangbou ne sait comment gérer les clients exigeants.",
+        "item_type": "Curse"
+    },
+    "1100013": {
+        "item_id": 1100013,
+        "item_name": "Auto-réconfort",
+        "item_des": "Lorsque la pression augmente, vous recevez des pièces rouages, mais vous ne pouvez en posséder que 3333 au maximum.",
+        "item_story": "« Calme-toi... C'est ça... Il ne peut plus rien nous arriver d'affreux maintenant... Tant qu'on a des pièces rouages... »",
+        "item_type": "Curse"
+    },
+    "1100014": {
+        "item_id": 1100014,
+        "item_name": "Assimilation",
+        "item_des": "Les agents gagnent moins de pression mais perdent des PV en obtenant des résonia.",
+        "item_story": "Vous vous habituez à la douleur incessante de la brûlure de l'éther alors que vous ne faites peu à peu plus qu'un avec la Néantre... Vous êtes sur la voie de l'effondrement total.",
+        "item_type": "Curse"
+    },
+    "1100017": {
+        "item_id": 1100017,
+        "item_name": "Dépendance toxique",
+        "item_des": "Les PV sont restaurés à la fin du combat, mais la pression augmente.",
+        "item_story": "L'ennemi explose dans un nuage d'éther qui vous enveloppe d'un bien-être comme vous n'en avez jamais connu auparavant. Peu importe le prix. Vous voulez plus d'ennemis !",
+        "item_type": "Curse"
+    },
+    "1100018": {
+        "item_id": 1100018,
+        "item_name": "Affaiblissement",
+        "item_des": "Le temps de recharge de l'<color=#FFFFFF>esquive</color> est plus long.",
+        "item_story": "Les anciens combos et techniques de combat qui vous étaient propres... Vous avez du mal à vous en souvenir.",
+        "item_type": "Curse"
+    },
+    "1100019": {
+        "item_id": 1100019,
+        "item_name": "Fatigue",
+        "item_des": "Vous perdez de PV lorsque vous explorez le damier. Au combat, les personnages sur le terrain perdent progressivement leurs PV.",
+        "item_story": "Tout comme l'air, la corruption éthérique s'insuffle dans le corps de chacun. Être vivant ou machine, personne n'y échappe.",
+        "item_type": "Curse"
+    },
+    "1100020": {
+        "item_id": 1100020,
+        "item_name": "Ombre terrifiante",
+        "item_des": "Les DGT du Boucher de l'Impasse augmentent de <color=#CF4029>20 %</color>. Lorsqu'il touche les membres de l'escouade, <color=#CF4029>sa confusion baisse et il récupère une petite quantité de PV</color>.",
+        "item_story": "La terreur se fraie un chemin à travers vos souvenirs enfouis, et devient de plus en plus effroyable à chaque battement assourdissant de votre cœur.",
+        "item_type": "Curse"
+    },
+    "1100021": {
+        "item_id": 1100021,
+        "item_name": "Mégalophobie",
+        "item_des": "Les DGT du Complexe de corruption augmentent de <color=#CF4029>30 %</color>. Les attaques des alliés <color=#CF4029>ne peuvent plus infliger de confusion</color> au Complexe de corruption, cependant, briser ses points faibles lui <color=#2BAD00>inflige une importante confusion</color>.",
+        "item_story": "Une fois qu'il prend conscience de son insignifiance, ni la fuite ni l'attaque ne semblent plus avoir le moindre sens.",
+        "item_type": "Curse"
+    },
+    "1100022": {
+        "item_id": 1100022,
+        "item_name": "Vallée de l'étrange",
+        "item_des": "Les DGT des Marionnettes jumelles augmentent de <color=#CF4029>50 %</color>, et leur temps de réanimation est <color=#CF4029>grandement réduit</color>.",
+        "item_story": "La ressemblance entraîne des doutes, qui sont vite balayés par le poids des différences.",
+        "item_type": "Curse"
+    },
+    "1100023": {
+        "item_id": 1100023,
+        "item_name": "Dur en affaires",
+        "item_des": "Les marchands Bangbous ne vendent plus que des objets de rang S.",
+        "item_story": "Vous n'avez plus aucune once de tolérance, vous critiquez tout ce qui vous passe sous les yeux, jusqu'à ce que vos exigences soient respectées.",
+        "item_type": "Curse"
+    },
+    "1100024": {
+        "item_id": 1100024,
+        "item_name": "Cupidité insatiable",
+        "item_des": "Les événements de pièces rouages confèrent davantage de pièces rouages, mais infligent également plus de pression.",
+        "item_story": "Libérez-vous des chaînes de la modération, émancipez-vous du poids insoutenable des conséquences et razziez tout sur votre chemin.",
+        "item_type": "Curse"
+    },
+    "1100025": {
+        "item_id": 1100025,
+        "item_name": "Précaution extrême",
+        "item_des": "Lorsque vous entrez dans le niveau suivant ou que vous engagez le combat final, vous devez payer 300 pièces rouages afin de restaurer 10 % des PV max de tous les membres de l'escouade. Cependant, si vous n'avez pas de quoi payer, tous les membres de l'escouade perdent 15 % de leurs PV max.",
+        "item_story": "Progressivement, la prudence ne devient qu'un prétexte pour conforter votre peur d'aller de l'avant, et vous force à suivre un chemin faussement sûr au sein des dangers de la Néantre.",
+        "item_type": "Curse"
+    },
+    "1100026": {
+        "item_id": 1100026,
+        "item_name": "Élan de destruction",
+        "item_des": "Les zones de repos et les réapprovisionnements rapides ne restaurent plus de PV. À la place, tous les membres de l'escouade récupèrent 3 % de leurs PV max après chaque combat. Avant de passer au niveau suivant ou d'engager le combat de boss, ils récupèrent 10 % de leurs PV max.",
+        "item_story": "Une soif de destruction intarissable remplace votre raison, et ne vous laisse un instant de répit que lorsqu'elle est momentanément satisfaite.",
+        "item_type": "Curse"
+    },
+    "1100027": {
+        "item_id": 1100027,
+        "item_name": "Fièvre acheteuse",
+        "item_des": "Vous dépensez des PV au lieu des pièces rouages lorsque vous achetez des objets auprès des marchands Bangbous.",
+        "item_story": "Un besoin irrépressible d'acquérir tout ce qui tombe sous vos yeux, quel qu'en soit le prix.\nPrenez tout, vous réfléchirez plus tard.",
+        "item_type": "Curse"
+    },
+    "1100029": {
+        "item_id": 1100029,
+        "item_name": "Mal primitif",
+        "item_des": "Les DGT du Typhon cogneur augmentent de <color=#CF4029>30 %</color>, et il est <color=#CF4029>immunisé contre toutes les anomalies d'attribut</color>.",
+        "item_story": "À l'instar d'un gorille qui imiterait un humain avec une arme, la bête, dépourvue de raison, appuie sur la détente avec adresse. Cela rappelle le mal primitif qu'on rencontrait dans les terres barbares.",
+        "item_type": "Curse"
+    },
+    "1100030": {
+        "item_id": 1100030,
+        "item_name": "Mycose parasitaire",
+        "item_des": "Lorsque les PV d'un agent sont supérieurs à 50 %, la vitesse de récupération des PV ralentit considérablement. Lorsque les PV d'un agent sont inférieurs à 50 %, la vitesse de récupération des PV augmente considérablement.",
+        "item_story": "Vorace contre les forts, compatissante avec les faibles...",
+        "item_type": "Curse"
+    },
+    "1102001": {
+        "item_id": 1102001,
+        "item_name": "Le grand retour",
+        "item_des": "Le chemin s'arrête là. Vous devez sortir de la Néantre.",
+        "item_story": "Je veux... Je veux rentrer chez moi... Je ne veux plus essayer !",
+        "item_type": "Curse"
+    },
+    "11000201": {
+        "item_id": 11000201,
+        "item_name": "Ombre terrifiante I",
+        "item_des": "Les DGT du Boucher de l'Impasse augmentent de <color=#CF4029>20 %</color>.",
+        "item_story": "La terreur se fraie un chemin à travers vos souvenirs enfouis, et devient de plus en plus effroyable à chaque battement assourdissant de votre cœur.",
+        "item_type": "Curse"
+    },
+    "11000202": {
+        "item_id": 11000202,
+        "item_name": "Ombre terrifiante II",
+        "item_des": "Les DGT du Boucher de l'Impasse augmentent de <color=#CF4029>30 %</color>.",
+        "item_story": "La terreur se fraie un chemin à travers vos souvenirs enfouis, et devient de plus en plus effroyable à chaque battement assourdissant de votre cœur.",
+        "item_type": "Curse"
+    },
+    "11000203": {
+        "item_id": 11000203,
+        "item_name": "Ombre terrifiante III",
+        "item_des": "Les DGT du Boucher de l'Impasse augmentent de <color=#CF4029>40 %</color>. Lorsqu'il touche les membres de l'escouade, il <color=#CF4029>récupère une petite quantité de PV</color>.",
+        "item_story": "La terreur se fraie un chemin à travers vos souvenirs enfouis, et devient de plus en plus effroyable à chaque battement assourdissant de votre cœur.",
+        "item_type": "Curse"
+    },
+    "11000204": {
+        "item_id": 11000204,
+        "item_name": "Ombre terrifiante IV",
+        "item_des": "Les DGT du Boucher de l'Impasse augmentent de <color=#CF4029>50 %</color>. Lorsqu'il touche les membres de l'escouade, <color=#CF4029>sa confusion baisse et il récupère une petite quantité de PV</color>.",
+        "item_story": "La terreur se fraie un chemin à travers vos souvenirs enfouis, et devient de plus en plus effroyable à chaque battement assourdissant de votre cœur.",
+        "item_type": "Curse"
+    },
+    "11000205": {
+        "item_id": 11000205,
+        "item_name": "Ombre terrifiante V",
+        "item_des": "Les DGT du Boucher de l'Impasse augmentent de <color=#CF4029>50 %</color>. Lorsqu'il touche les membres de l'escouade, <color=#CF4029>sa confusion baisse et il récupère une petite quantité de PV</color>.",
+        "item_story": "La terreur se fraie un chemin à travers vos souvenirs enfouis, et devient de plus en plus effroyable à chaque battement assourdissant de votre cœur.",
+        "item_type": "Curse"
+    },
+    "11000211": {
+        "item_id": 11000211,
+        "item_name": "Mégalophobie I",
+        "item_des": "Les DGT du Complexe de corruption augmentent de <color=#CF4029>30 %</color>.",
+        "item_story": "Une fois qu'il prend conscience de son insignifiance, ni la fuite ni l'attaque ne semblent plus avoir le moindre sens.",
+        "item_type": "Curse"
+    },
+    "11000212": {
+        "item_id": 11000212,
+        "item_name": "Mégalophobie II",
+        "item_des": "Les DGT du Complexe de corruption augmentent de <color=#CF4029>40 %</color>. Les attaques des alliés <color=#CF4029>ne peuvent plus infliger de confusion</color> au Complexe de corruption, cependant, briser ses points faibles lui <color=#2BAD00>inflige une importante confusion</color>.",
+        "item_story": "Une fois qu'il prend conscience de son insignifiance, ni la fuite ni l'attaque ne semblent plus avoir le moindre sens.",
+        "item_type": "Curse"
+    },
+    "11000213": {
+        "item_id": 11000213,
+        "item_name": "Mégalophobie III",
+        "item_des": "Les DGT du Complexe de corruption augmentent de <color=#CF4029>50 %</color>. Les attaques des alliés <color=#CF4029>ne peuvent plus infliger de confusion</color> au Complexe de corruption, cependant, briser ses points faibles lui <color=#2BAD00>inflige une importante confusion</color>.",
+        "item_story": "Une fois qu'il prend conscience de son insignifiance, ni la fuite ni l'attaque ne semblent plus avoir le moindre sens.",
+        "item_type": "Curse"
+    },
+    "11000214": {
+        "item_id": 11000214,
+        "item_name": "Mégalophobie IV",
+        "item_des": "Les DGT du Complexe de corruption augmentent de <color=#CF4029>50 %</color>. Les attaques des alliés <color=#CF4029>ne peuvent plus infliger de confusion</color> au Complexe de corruption, cependant, briser ses points faibles lui <color=#2BAD00>inflige une importante confusion</color>.",
+        "item_story": "Une fois qu'il prend conscience de son insignifiance, ni la fuite ni l'attaque ne semblent plus avoir le moindre sens.",
+        "item_type": "Curse"
+    },
+    "11000221": {
+        "item_id": 11000221,
+        "item_name": "Vallée de l'étrange I",
+        "item_des": "Les DGT des Marionnettes jumelles augmentent de <color=#CF4029>40 %</color>.",
+        "item_story": "La ressemblance entraîne des doutes, qui sont vite balayés par le poids des différences.",
+        "item_type": "Curse"
+    },
+    "11000222": {
+        "item_id": 11000222,
+        "item_name": "Vallée de l'étrange II",
+        "item_des": "Les DGT des Marionnettes jumelles augmentent de <color=#CF4029>50 %</color>, et leur temps de réanimation est <color=#CF4029>grandement réduit</color>.",
+        "item_story": "La ressemblance entraîne des doutes, qui sont vite balayés par le poids des différences.",
+        "item_type": "Curse"
+    },
+    "11000223": {
+        "item_id": 11000223,
+        "item_name": "Vallée de l'étrange III",
+        "item_des": "Les DGT des Marionnettes jumelles augmentent de <color=#CF4029>50 %</color>, et leur temps de réanimation est <color=#CF4029>grandement réduit</color>.",
+        "item_story": "La ressemblance entraîne des doutes, qui sont vite balayés par le poids des différences.",
+        "item_type": "Curse"
+    },
+    "11000281": {
+        "item_id": 11000281,
+        "item_name": "Rhume des foins I",
+        "item_des": "Les DGT Ninive augmentent de <color=#CF4029>40 %</color>, et elle <color=#CF4029>invoque des Frelons plus souvent</color>.\nVous perdez une certaine quantité de PV lorsque vous explorez de nouvelles zones. Au combat, les personnages sur le terrain perdront progressivement des PV.",
+        "item_story": "Il s'agit d'une fleur invisible à l'œil nu, d'une étrange structure qui fait vibrer ses pétales éblouissants. Déboussolé{F#e}, vous vous retrouvez dans les airs, à danser avec cette fleur envoûtante et mortelle, mais qui est cette personne au sol, qui semble figée d'effroi ?",
+        "item_type": "Curse"
+    },
+    "11000282": {
+        "item_id": 11000282,
+        "item_name": "Rhume des foins II",
+        "item_des": "Les DGT Ninive augmentent de <color=#CF4029>50 %</color>, et elle <color=#CF4029>invoque des Frelons plus souvent</color> et lance Floraison.\nVous perdez une certaine quantité de PV lorsque vous explorez de nouvelles zones. Au combat, les personnages sur le terrain perdront progressivement des PV.",
+        "item_story": "Il s'agit d'une fleur invisible à l'œil nu, d'une étrange structure qui fait vibrer ses pétales éblouissants. Déboussolé{F#e}, vous vous retrouvez dans les airs, à danser avec cette fleur envoûtante et mortelle, mais qui est cette personne au sol, qui semble figée d'effroi ?",
+        "item_type": "Curse"
+    },
+    "11000291": {
+        "item_id": 11000291,
+        "item_name": "Mal primitif I",
+        "item_des": "Les DGT du Typhon cogneur augmentent de <color=#CF4029>30 %</color>.",
+        "item_story": "À l'instar d'un gorille qui imiterait un humain avec une arme, la bête, dépourvue de raison, appuie sur la détente avec adresse. Cela rappelle le mal primitif qu'on rencontrait dans les terres barbares.",
+        "item_type": "Curse"
+    },
+    "11000292": {
+        "item_id": 11000292,
+        "item_name": "Mal primitif II",
+        "item_des": "Les DGT du Typhon cogneur augmentent de <color=#CF4029>40 %</color>, et il est <color=#CF4029>immunisé contre toutes les anomalies d'attribut</color>.",
+        "item_story": "À l'instar d'un gorille qui imiterait un humain avec une arme, la bête, dépourvue de raison, appuie sur la détente avec adresse. Cela rappelle le mal primitif qu'on rencontrait dans les terres barbares.",
+        "item_type": "Curse"
+    },
+    "11000293": {
+        "item_id": 11000293,
+        "item_name": "Mal primitif III",
+        "item_des": "Les DGT du Typhon cogneur augmentent de <color=#CF4029>50 %</color>, et il est <color=#CF4029>immunisé contre toutes les anomalies d'attribut</color>.",
+        "item_story": "À l'instar d'un gorille qui imiterait un humain avec une arme, la bête, dépourvue de raison, appuie sur la détente avec adresse. Cela rappelle le mal primitif qu'on rencontrait dans les terres barbares.",
+        "item_type": "Curse"
+    }
+}
