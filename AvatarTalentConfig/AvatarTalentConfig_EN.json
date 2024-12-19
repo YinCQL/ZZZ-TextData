@@ -1165,6 +1165,165 @@
             }
         ]
     },
+    "1091": {
+        "role_id": 1091,
+        "name": "Miyabi",
+        "full_name": "Hoshimi Miyabi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Unagi_Talent_01_Title": "Frost Atop the Snow",
+                "Unagi_Talent_01_Desc_01_Realign": "While in <color=#FFFFFF>Shimotsuki Stance</color>, every 1 point of <color=#FFFFFF>Fallen Frost</color> consumed will allow <color=#FFFFFF>Basic Attack: Shimotsuki</color> to ignore 6% of DEF, stacking up to 6 times and lasting until <color=#FFFFFF>Shimotsuki Stance</color> ends.\nWhen a charge-level three slash of <color=#FFFFFF>Basic Attack: Shimotsuki</color> hits an enemy suffering <color=#FFFFFF>Frostburn</color>, it will immediately remove the <color=#FFFFFF>Frostburn</color> state and increase all squad members' Anomaly Buildup Rate by 20% for 10s.",
+                "Unagi_Talent_01_Desc_02": "Miyabi has loved reciting poems about the cold since she was a child. She might not understand them completely, but she still does it every day.\nBefore long, she came to realize their true meaning.\nShe found clarity not on a still and snowy night, but rather upon the battlefield.",
+                "Unagi_Talent_01_Desc_01": "While in <color=#FFFFFF>Shimotsuki Stance</color>, every 1 point of <color=#FFFFFF>Fallen Frost</color> consumed will allow <color=#FFFFFF>Basic Attack: Shimotsuki</color> to ignore 6% of DEF, stacking up to 6 times and lasting until <color=#FFFFFF>Shimotsuki Stance</color> ends. When the slash for charge level three of <color=#FFFFFF>Basic Attack: Shimotsuki</color> hits an enemy under <color=#FFFFFF>Frostburn</color>, it will immediately remove the <color=#FFFFFF>Frostburn</color> state and increase all squad members' Anomaly Buildup Rate by 20% for 10s.",
+                "Unagi_Talent_01_Title_Realign": "Frost Atop the Snow"
+            },
+            {
+                "talent_id": "2",
+                "Unagi_Talent_02_Title": "Breath Technique",
+                "Unagi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>Basic Attack: Kazahana</color> and <color=#FFFFFF>Dodge Counter</color> DMG increases by 30%.\nHoshimi Miyabi gains 1 point of <color=#FFFFFF>Fallen Frost</color> when the final move of the 5th hit of <color=#FFFFFF>Basic Attack: Kazahana</color> hits an enemy.\nUpon entering the battlefield, Hoshimi Miyabi immediately obtains 6 points of <color=#FFFFFF>Fallen Frost</color> and her CRIT Rate increases by 15%.",
+                "Unagi_Talent_02_Desc_02": "\"As goes the sword, so goes the heart.\" This is a key disciplinary concept of the Hoshimi school of swordsmanship.\nDefeating the enemy is but the first step on the path to victory. \nMaintaining constant vigilance at all times is the true way of a warrior.",
+                "Unagi_Talent_02_Desc_01": "<color=#FFFFFF>Basic Attack: Kazahana</color> and <color=#FFFFFF>Dodge Counter</color> DMG increases by 30%. Hoshimi Miyabi gains 1 point of <color=#FFFFFF>Fallen Frost</color> when the final move of the 5th hit of <color=#FFFFFF>Basic Attack: Kazahana</color> hits an enemy. Upon entering the battlefield, Hoshimi Miyabi immediately obtains 6 points of <color=#FFFFFF>Fallen Frost</color> and her CRIT Rate increases by 15%.",
+                "Unagi_Talent_02_Title_Realign": "Breath Technique"
+            },
+            {
+                "talent_id": "3",
+                "Unagi_Talent_03_Title": "Martial Discipline",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Unagi_Talent_03_Desc_02": "Miyabi, whose family has a tradition of martial arts, has excellent training habits. Her commitment to swordsmanship practice is unwavering. What? A meeting? She won't be going.",
+                "Unagi_Talent_03_Title_Realign": "Martial Discipline"
+            },
+            {
+                "talent_id": "4",
+                "Unagi_Talent_04_Title": "Rupture",
+                "Unagi_Talent_04_Desc_01_Realign": "<color=#FFFFFF>Frostburn - Break</color> DMG increases by 30%. Upon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi generates 250 more Decibels.",
+                "Unagi_Talent_04_Desc_02": "Reciting poems during the heat of battle can regulate one's respiratory rhythm.\nWhether it's her mindset or breathing, Miyabi always keeps calm.",
+                "Unagi_Talent_04_Desc_01": "<color=#FFFFFF>Frostburn - Break</color> DMG increases by 30%. Upon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi generates 250 more Decibels.",
+                "Unagi_Talent_04_Title_Realign": "Rupture"
+            },
+            {
+                "talent_id": "5",
+                "Unagi_Talent_05_Title": "Anniversary",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Unagi_Talent_05_Desc_02": "The girl arrives at that all too familiar place with flowers, her breath misting and then vanishing into the cold air.\nHer fingers ghost over that name on the monument.\nEverything is quiet, like that most silence observer.",
+                "Unagi_Talent_05_Title_Realign": "Anniversary"
+            },
+            {
+                "talent_id": "6",
+                "Unagi_Talent_06_Title": "Prodigious Talent",
+                "Unagi_Talent_06_Desc_01_Realign": "During <color=#FFFFFF>Shimotsuki Stance</color>, Hoshimi Miyabi obtains <color=#FFFFFF>Polar</color>, which increases <color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG by 30%. After obtaining <color=#FFFFFF>Polar</color>, Hoshimi Miyabi will automatically draw her blade and unleash powerful slashes based on the current charge level upon consuming <color=#FFFFFF>Fallen Frost</color>. Before <color=#FFFFFF>Fallen Frost</color> is completely depleted, the draw and slashes will not interrupt charging under <color=#FFFFFF>Shimotsuki Stance</color>. Each occurrence of <color=#FFFFFF>Shimotsuki Stance</color> can perform up to 3 draws and slashes.",
+                "Unagi_Talent_06_Desc_02": "The more she battles, the more it becomes evident to outsiders: If there is a god of swordsmanship, it must greatly favor Hoshimi Miyabi.",
+                "Unagi_Talent_06_Desc_01": "During <color=#FFFFFF>Shimotsuki Stance</color>, Hoshimi Miyabi obtains <color=#FFFFFF>Polar</color>, which increases <color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG by 30%. After obtaining <color=#FFFFFF>Polar</color>, Hoshimi Miyabi will automatically draw her blade and unleash powerful slashes based on the current charge level upon consuming <color=#FFFFFF>Fallen Frost</color>. Before <color=#FFFFFF>Fallen Frost</color> is completely depleted, the draw and slashes will not interrupt charging under <color=#FFFFFF>Shimotsuki Stance</color>. Each occurrence of <color=#FFFFFF>Shimotsuki Stance</color> can perform up to 3 draws and slashes.",
+                "Unagi_Talent_06_Title_Realign": "Prodigious Talent"
+            }
+        ]
+    },
+    "1131": {
+        "role_id": 1131,
+        "name": "Soukaku",
+        "full_name": "Soukaku",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Aokaku_Talent_01_Title": "Uplifting Current",
+                "Aokaku_Talent_01_Desc_01_Realign": "When Soukaku triggers <color=#FFFFFF>Core Passive: Blade Banner</color> or <color=#FFFFFF>Additional Ability: Group Set Meal</color>, the buff duration is increased by 8s.",
+                "Aokaku_Talent_01_Desc_02": "When charged, the special charging module can generate a wind current of Ether energy to charge surrounding Ether devices.\nTo Soukaku, it's just like having a buffet with friends.\n\"Guys~ It's all-you-can-eat time!\"",
+                "Aokaku_Talent_01_Desc_01": "When Soukaku triggers <color=#FFFFFF>Core Passive: Blade Banner</color> or <color=#FFFFFF>Additional Ability: Group Set Meal</color>, the buff duration is increased by 8s.",
+                "Aokaku_Talent_01_Title_Realign": "Uplifting Current"
+            },
+            {
+                "talent_id": "2",
+                "Aokaku_Talent_02_Title": "Experimental Charging Module",
+                "Aokaku_Talent_02_Desc_01_Realign": "When Soukaku's <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Dodge Counter</color>, or <color=#FFFFFF>Quick Assist</color> hits an enemy, there's a 15% chance she gains 1 stack of <color=#FFFFFF>Vortex</color>, triggering up to once per second.\nWhen <color=#FFFFFF>Vortex</color> reaches max stacks, any additional stacks grant Soukaku 1.2 Energy instead.",
+                "Aokaku_Talent_02_Desc_02": "A charging module is able to continuously accumulate energy during battle.\nTherefore, it is regarded as an era-defining conceptual tactical weapon by the R&D department.\nBut for Soukaku, fully charging it simply means it's time to eat.",
+                "Aokaku_Talent_02_Desc_01": "When Soukaku's <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Dodge Counter</color>, or <color=#FFFFFF>Quick Assist</color> hits an enemy, there's a 15% chance she gains 1 stack of <color=#FFFFFF>Vortex</color>, triggering up to once per second.\nWhen <color=#FFFFFF>Vortex</color> reaches max stacks, any additional stacks grant Soukaku 1.2 Energy instead.",
+                "Aokaku_Talent_02_Title_Realign": "Experimental Charging Module"
+            },
+            {
+                "talent_id": "3",
+                "Aokaku_Talent_03_Title": "Attendance Meal Allowance",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Aokaku_Talent_03_Desc_02": "The best way to motivate Soukaku to train harder is simple: just increase her attendance meal allowance.",
+                "Aokaku_Talent_03_Title_Realign": "Attendance Meal Allowance"
+            },
+            {
+                "talent_id": "4",
+                "Aokaku_Talent_04_Title": "Hypothermia",
+                "Aokaku_Talent_04_Desc_01_Realign": "If an enemy is hit by <color=#FFFFFF>Fly the Flag</color>, the target's <color=#98EFF0>Ice RES</color> is reduced by 10% for 8s.",
+                "Aokaku_Talent_04_Desc_02": "The custom-made weapon Oni Banner features a powerful built-in cooling system. Its Ether-infused catalyst generates cold air, dealing significant DMG to enemies it hits.",
+                "Aokaku_Talent_04_Desc_01": "If an enemy is hit by <color=#FFFFFF>Fly the Flag</color>, the target's <color=#98EFF0>Ice RES</color> is reduced by 10% for 8s.",
+                "Aokaku_Talent_04_Title_Realign": "Hypothermia"
+            },
+            {
+                "talent_id": "5",
+                "Aokaku_Talent_05_Title": "Late-Night Snacks",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Aokaku_Talent_05_Desc_02": "To further incentivize Soukaku to train is simple: just add a late-night snack top of the attendance meal allowance.",
+                "Aokaku_Talent_05_Title_Realign": "Late-Night Snacks"
+            },
+            {
+                "talent_id": "6",
+                "Aokaku_Talent_06_Title": "Northern Wind",
+                "Aokaku_Talent_06_Desc_01_Realign": "While in the <color=#FFFFFF>Frosted Banner</color> state, the number of usable enhanced <color=#FFFFFF>Basic Attacks</color> and enhanced <color=#FFFFFF>Dash Attacks</color> are increased to 12, and also deal 45% more DMG.",
+                "Aokaku_Talent_06_Desc_02": "Unlocking the safety device within the blade banner allows it to operate at full capacity. It's not just for combat... it's also handy for cooling down a meal.",
+                "Aokaku_Talent_06_Desc_01": "While in the <color=#FFFFFF>Frosted Banner</color> state, the number of usable enhanced <color=#FFFFFF>Basic Attacks</color> and enhanced <color=#FFFFFF>Dash Attacks</color> is increased to 12, and also deal 45% more DMG.",
+                "Aokaku_Talent_06_Title_Realign": "Northern Wind"
+            }
+        ]
+    },
+    "1201": {
+        "role_id": 1201,
+        "name": "Harumasa",
+        "full_name": "Asaba Harumasa",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Harumasa_Talent_01_Title": "\"High Spirit\"",
+                "Harumasa_Talent_01_Desc_01_Realign": "The maximum stack limit of <color=#FFFFFF>Electro Prison</color> from <color=#FFFFFF>Basic Attack: Ha-Oto no Ya</color> increases to 14 stacks.\nWhen an <color=#FFFFFF>Electro Quiver</color> is triggered, 2 consecutive <color=#FFFFFF>Ha-Oto no Ya</color> will be fired at the target.",
+                "Harumasa_Talent_01_Desc_02": "\"I'm not like some stubborn idiots who insist on facing the enemy head-on.\"\n\"Be it a straightforward assault or an underhanded attack from the shadows, anything that gets me off work earlier is good in my eyes~\"",
+                "Harumasa_Talent_01_Desc_01": "The maximum stack limit of <color=#FFFFFF>Electro Prison</color> from <color=#FFFFFF>Basic Attack: Ha-Oto no Ya</color> increases to 14 stacks. When an <color=#FFFFFF>Electro Quiver</color> is triggered, 2 consecutive <color=#FFFFFF>Ha-Oto no Ya</color> will be fired at the target.",
+                "Harumasa_Talent_01_Title_Realign": "\"High Spirit\""
+            },
+            {
+                "talent_id": "2",
+                "Harumasa_Talent_02_Title": "Languish",
+                "Harumasa_Talent_02_Desc_01_Realign": "When using an <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Harumasa gains 7 stacks of <color=#FFFFFF>Electro Blitz</color>, up to a max of 7 stacks.\nWhile possessing <color=#FFFFFF>Electro Blitz</color>, the DMG of <color=#FFFFFF>Dash Attack: Hiten no Tsuru - Slash</color> increases by 50%.\nConsume 1 stack of <color=#FFFFFF>Electro Blitz</color> once <color=#FFFFFF>Dash Attack: Hiten no Tsuru - Slash</color> ends.",
+                "Harumasa_Talent_02_Desc_02": "\"Don't look at me like that, I'm actually real frail, y'know~\"\nHarumasa lazily sprawls across his office desk.\n\"So... how 'bout picking someone else for this mission?\"",
+                "Harumasa_Talent_02_Desc_01": "When using an <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Harumasa gains 7 stacks of <color=#FFFFFF>Electro Blitz</color>, up to a max of 7 stacks. While possessing <color=#FFFFFF>Electro Blitz</color>, the DMG of <color=#FFFFFF>Dash Attack: Hiten no Tsuru - Slash</color> increases by 50%. Consume 1 stack of <color=#FFFFFF>Electro Blitz</color> once <color=#FFFFFF>Dash Attack: Hiten no Tsuru - Slash</color> ends.",
+                "Harumasa_Talent_02_Title_Realign": "Languish"
+            },
+            {
+                "talent_id": "3",
+                "Harumasa_Talent_03_Title": "White Lies",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Harumasa_Talent_03_Desc_02": "\"...Don't worry, this isn't enough to kill me.\"\nHe wipes the blood from the corner of his mouth with a smile and readies his bow once more.\n\"After all, I'm going to live to make it everyone's problem.\"",
+                "Harumasa_Talent_03_Title_Realign": "White Lies"
+            },
+            {
+                "talent_id": "4",
+                "Harumasa_Talent_04_Title": "Occasionally Motivated",
+                "Harumasa_Talent_04_Desc_01_Realign": "<color=#FFFFFF>Electro Prison</color> now lasts for 20s. When <color=#FFFFFF>Dash Attack: Hiten no Tsuru - Slash</color> hits enemies, Harumasa gains 30 Decibels once per use of this skill.\nUpon activating an <color=#FFFFFF>Ultimate</color>, apply the maximum stacks of <color=#FFFFFF>Electro Prison</color> to all on-field enemies.",
+                "Harumasa_Talent_04_Desc_02": "Harumasa is occasionally full of energy and motivation...\nWhen there's only five minutes left until he can get off work.",
+                "Harumasa_Talent_04_Desc_01": "<color=#FFFFFF>Electro Prison</color> now lasts for 20s. When <color=#FFFFFF>Dash Attack: Hiten no Tsuru - Slash</color> hits enemies, Harumasa gains 30 Decibels once per use of this skill. Upon activating <color=#FFFFFF>Ultimate</color>, apply the maximum stacks of <color=#FFFFFF>Electro Prison</color> to all on-field enemies.",
+                "Harumasa_Talent_04_Title_Realign": "Occasionally Motivated"
+            },
+            {
+                "talent_id": "5",
+                "Harumasa_Talent_05_Title": "No One Knows",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Harumasa_Talent_05_Desc_02": "\"I want vacations, freedom, to be happy every day!\"\n\"Just kidding. I want to live.\"",
+                "Harumasa_Talent_05_Title_Realign": "No One Knows"
+            },
+            {
+                "talent_id": "6",
+                "Harumasa_Talent_06_Title": "Tacit Understanding",
+                "Harumasa_Talent_06_Desc_01_Realign": "After <color=#FFFFFF>Ha-Oto no Ya</color> hits Stunned enemies or enemies under Attribute Anomalies, Harumasa will ignore 15% of the target's <color=#2EB6FF>Electric RES</color> for 12s.\nEvery 12 times an enemy is hit by <color=#FFFFFF>Ha-Oto no Ya</color>, trigger an extra electromagnetic explosion, dealing 1,500% of Harumasa's ATK to the target as <color=#2EB6FF>Electric DMG</color>.",
+                "Harumasa_Talent_06_Desc_02": "\"My master taught me a lot of things, like how to draw a bow, how to wield a blade, and how to survive in this world with this body of mine.\"\n\"...What happened after that?\"\n\"Well, after that... he left me.\"",
+                "Harumasa_Talent_06_Desc_01": "After <color=#FFFFFF>Ha-Oto no Ya</color> hits Stunned enemies or enemies under Attribute Anomalies, Harumasa will ignore 15% of the target's <color=#2EB6FF>Electric RES</color> for 12s. Every 12 times an enemy is hit by <color=#FFFFFF>Ha-Oto no Ya</color>, trigger an extra electromagnetic explosion, dealing 1,500% of Harumasa's ATK to the target as <color=#2EB6FF>Electric DMG</color>.",
+                "Harumasa_Talent_06_Title_Realign": "Tacit Understanding"
+            }
+        ]
+    },
     "1221": {
         "role_id": 1221,
         "name": "Yanagi",
@@ -1174,7 +1333,7 @@
                 "talent_id": "1",
                 "Yanagi_Talent_01_Title": "Know Thy Self, Know Thy Enemy",
                 "Yanagi_Talent_01_Desc_01_Realign": "When any squad member inflicts an Anomaly on an enemy, Yanagi gains 1 stack of <color=#FFFFFF>Clarity</color>, lasting 15s, stacking up to 3 times. Repeated triggers reset the duration. Upon being hit by an enemy attack, Yanagi consumes 1 stack of <color=#FFFFFF>Clarity</color> to gain invulnerability for 1s. When Yanagi has 1 or more stacks of <color=#FFFFFF>Clarity</color>, her Anomaly Proficiency increases by 80.",
-                "Yanagi_Talent_01_Desc_02": "\"Having the clarity to see your enemy's weakness is like an extra safety net... and it increasing your chances at victory.\"\nYanagi adjusts her glasses, remaining as composed as ever, even when victory is already assured.",
+                "Yanagi_Talent_01_Desc_02": "\"Having the clarity to see your enemy's weakness is like an extra safety net... and it increases your chances at victory.\"\nYanagi adjusts her glasses, remaining as composed as ever, even when victory is already assured.",
                 "Yanagi_Talent_01_Desc_01": "When any squad member inflicts an Anomaly on an enemy, Yanagi gains 1 stack of <color=#FFFFFF>Clarity</color>, lasting 15s, stacking up to 3 times. Repeated triggers reset the duration. Upon being hit by an enemy attack, Yanagi consumes 1 stack of <color=#FFFFFF>Clarity</color> to gain invulnerability for 1s. When Yanagi has 1 or more stacks of <color=#FFFFFF>Clarity</color>, her Anomaly Proficiency increases by 80.",
                 "Yanagi_Talent_01_Title_Realign": "Know Thy Self, Know Thy Enemy"
             },
@@ -1190,7 +1349,7 @@
                 "talent_id": "3",
                 "Yanagi_Talent_03_Title": "Tsukishiro Style Management",
                 "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
-                "Yanagi_Talent_03_Desc_02": "Everyone says Section 6 is gathering oddballs and geniuses, with Tsukishiro Yanagi being the only \"normal\" one. But it’s precisely her presence that holds the oddballs and geniuses together.",
+                "Yanagi_Talent_03_Desc_02": "Everyone says Section 6 is gathering oddballs and geniuses, with Tsukishiro Yanagi being the only \"normal\" one. But it's precisely her presence that holds the oddballs and geniuses together.",
                 "Yanagi_Talent_03_Title_Realign": "Tsukishiro Style Management"
             },
             {
@@ -1212,7 +1371,7 @@
                 "talent_id": "6",
                 "Yanagi_Talent_06_Title": "Inhuman Blood",
                 "Yanagi_Talent_06_Desc_01_Realign": "After a thrust attack during her <color=#FFFFFF>EX Special Attack</color>, the duration of the <color=#FFFFFF>Shinrabanshou</color> state increases to 30s. While the state is active, <color=#FFFFFF>EX Special Attack</color> DMG increases by 20%. The maximum number of times the additional DMG multiplier increase effect for <color=#FFFFFF>Polarity Disorder</color> in <color=#FFFFFF>Outstanding Adaptability</color> can be triggered increases to 4, and the Energy cost for the first 4 additional thrust attacks is halved.",
-                "Yanagi_Talent_06_Desc_02": "Flowing through Tsukishiro Yanagi's veins is blood that isn’t entirely her own. This blood once granted her new life in the face of despair, and with it, she gained certain special powers.\n\"But as you know, something that isn't mine... comes with a price.\"",
+                "Yanagi_Talent_06_Desc_02": "Flowing through Tsukishiro Yanagi's veins is blood that isn't entirely her own. This blood once granted her new life in the face of despair, and with it, she gained certain special powers.\n\"But as you know, something that isn't mine... comes with a price.\"",
                 "Yanagi_Talent_06_Desc_01": "After a thrust attack during her <color=#FFFFFF>EX Special Attack</color>, the duration of the <color=#FFFFFF>Shinrabanshou</color> state increases to 30s. While the state is active, <color=#FFFFFF>EX Special Attack</color> DMG increases by 20%. The maximum number of times the additional DMG multiplier increase effect for <color=#FFFFFF>Polarity Disorder</color> in <color=#FFFFFF>Outstanding Adaptability</color> can be triggered increases to 4, and the Energy cost for the first 4 additional thrust attacks is halved.",
                 "Yanagi_Talent_06_Title_Realign": "Inhuman Blood"
             }

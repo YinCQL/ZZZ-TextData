@@ -210,12 +210,26 @@
             "card_quote": "— Entrevista a Nobby Kereyan, patrullero antidisturbios retirado por ser herido en combate, durante el programa nocturno «Té en la Cavidad», ep. 165",
             "skill_text": "El tyrfing ejecuta ataques cuerpo a cuerpo."
         },
+        "100004": {
+            "monster_id": 100004,
+            "monster_name": "Tyrfing parasítico",
+            "card_text": "La Asociación de Investigación de Cavidades siempre ha estudiado los hábitos de los tyrfing. Su postura encorvada y su tambaleo al caminar en realidad son una forma de almacenar energía para poder, de un momento a otro, atacar lanzando un golpe tras otro.\nDebido a lo numerosos que son y al poder de sus ataques, los tyrfing son considerados la causa de muerte número uno en las Cavidades.\nAl enfrentarse a un enemigo acorazado, los tyrfing lanzan golpes a diestro y siniestro sin detenerse, hasta que uno de los dos caiga.\n«¿Y si en lugar de odiarnos nos ven como sus marionetas de entrenamiento?»",
+            "card_quote": "— Entrevista a Nobby Kereyan, patrullero antidisturbios retirado por ser herido en combate, durante el programa nocturno «Té en la Cavidad», ep. 165",
+            "skill_text": "El tyrfing parasítico ejecuta distintos movimientos."
+        },
         "100011": {
             "monster_id": 100011,
             "monster_name": "Alpeca energizado",
             "card_text": "El acervo de la Asociación de Investigación de Cavidades en torno a los alpeca es relativamente escaso. Después de un análisis poco exhaustivo sobre su comportamiento al escupir éter líquido, determinaron que era un ser etéreo de bajo riesgo y dieron por concluida la investigación.\nEn una ocasión, un científico sintió curiosidad por el éter líquido que expedían los alpeca, por lo que solicitó apoyo de los investigadores de los alrededores.\nPor alguna razón, ninguno de los investigadores experimentados respondió a su llamada.\n«¡Rápido! ¡Han comenzado a salivar! ¡Aaah, mi ropa nueva!»",
             "card_quote": "— Raffaele Bert, investigadora novata, al considerar retirarse de las profundidades de una Cavidad",
             "skill_text": "El alpeca lanza ataques a distancia."
+        },
+        "100014": {
+            "monster_id": 100014,
+            "monster_name": "Alpeca parasítico",
+            "card_text": "El acervo de la Asociación de Investigación de Cavidades en torno a los alpeca es relativamente escaso. Después de un análisis poco exhaustivo sobre su comportamiento al escupir éter líquido, determinaron que era un ser etéreo de bajo riesgo y dieron por concluida la investigación.\nEn una ocasión, un científico sintió curiosidad por el éter líquido que expedían los alpeca, por lo que solicitó apoyo de los investigadores de los alrededores.\nPor alguna razón, ninguno de los investigadores experimentados respondió a su llamada.\n«¡Rápido! ¡Han comenzado a salivar! ¡Aaah, mi ropa nueva!»",
+            "card_quote": "— Raffaele Bert, investigadora novata, al considerar retirarse de las profundidades de una Cavidad",
+            "skill_text": "El alpeca parasítico ejecuta distintos movimientos."
         },
         "100021": {
             "monster_id": 100021,
@@ -237,6 +251,13 @@
             "card_text": "Según el informe de la Asociación de Investigación de Cavidades, dada la lentitud de movimiento y bajo impacto de sus explosiones, las arañas explosivas son consideradas seres etéreos de bajo riesgo.\nSin embargo, algunos comerciantes con un agudo sentido del olfato han encontrado un negocio a partir de su complexión redonda y patas cortas.\nDespués de que «¡Rueda, rueda, araña explosiva!» se volviera un éxito taquillero, artículos como juguetes y almohadas comenzaron a venderse como pan caliente.\n«No pensé que los productos fueran a afectarme más que las arañas explosivas mismas. Billy, prometo comer solo pan el próximo mes...»",
             "card_quote": "— Anby, mientras revisa su cartera frente a la tienda de muñecos del distrito comercial.",
             "skill_text": "La araña explosiva se autodestruye."
+        },
+        "100044": {
+            "monster_id": 100044,
+            "monster_name": "Explosecto",
+            "card_text": "Según el informe de la Asociación de Investigación de Cavidades, dada la lentitud de movimiento y bajo impacto de sus explosiones, las arañas explosivas son consideradas seres etéreos de bajo riesgo.\nSin embargo, algunos comerciantes con un agudo sentido del olfato han encontrado un negocio a partir de su complexión redonda y patas cortas.\nDespués de que «¡Rueda, rueda, araña explosiva!» se volviera un éxito taquillero, artículos como juguetes y almohadas comenzaron a venderse como pan caliente.\n«No pensé que los productos fueran a afectarme más que las arañas explosivas mismas. Billy, prometo comer solo pan el próximo mes...»",
+            "card_quote": "— Anby, mientras revisa su cartera frente a la tienda de muñecos del distrito comercial.",
+            "skill_text": "El explosecto se autodestruye."
         },
         "100141": {
             "monster_id": 100141,
@@ -398,6 +419,125 @@
             "card_text": "A diferencia de otros seres etéreos altamente peligrosos, el Carnicero del Callejón posee un cuerpo gigantesco, pero el éter en su interior normalmente se encuentra inactivo.\nAun así, el Carnicero del Callejón es lo suficientemente fuerte como para destruir lo que se le atraviese. Toda la retorcida área del metro es su «matadero».\nEl Carnicero del Callejón solo adoptará su forma más aterradora cuando una amenaza despierte su interés.\nEl éter concentrado acumulado en su cuerpo se intensificará en cuestión de milisegundos. La enorme cantidad de energía provoca que sus extremidades se distorsionen a gran velocidad para entrar en un estado devorador.\nEso significa que la hora del aperitivo ha llegado a su fin y ha comenzado el verdadero festín.\nSi no quieren formar parte del banquete, los saqueadores de Cavidades que entren por error en su territorio avanzar con cuidado y mantenerse lejos del «matadero»...\n«La ruta de esta Cavidad es complicada. Lo único certero es que, cuando él aparece al otro lado del camino, este se convierte en un callejón sin salida.»",
             "card_quote": "— Expediente n.º 17 sobre la Cavidad sin Retorno de la Asociación de Investigación de Cavidades",
             "skill_text": "La cría del Carnicero del Callejón ejecuta ataques de gran amplitud. Tras recibir cierta cantidad de daño, entra en la segunda fase, en la que se vuelve más agresivo y lanza rayos láser. Al encontrarse en la segunda fase, utiliza ataques más poderosos después de su combinación de golpes para confundirlo. La cría del Carnicero del Callejón tiende a ejecutar evasiones para esquivar los ataques enemigos."
+        },
+        "300121": {
+            "monster_id": 300121,
+            "monster_name": "Marioneta infame",
+            "card_text": "Muchos años atrás, dos bailarinas hermanas que tuvieron un ascenso meteórico fueron invitadas a participar en un magnífico espectáculo en las opulentas Bailarinas Mellizas.\nSin embargo, cuando el telón estaba a punto de caer, una Cavidad surgió de la nada, engullendo, as Bailarinas Mellizas a su paso. Las dos hermanas cayeron presas de la oscuridad. Al escuchar la noticia, admiradores de todos los rincones del mundo se sintieron devastados.\nA día de hoy, solo es posible admirar sus bellos pasos de baile en los escasos fragmentos de video e imágenes que todavía se conservan.\nSolo algunos saqueadores de Cavidades saben que cuando los ecos olvidados de la melodía del ballet resuena en las Bailarinas Mellizas, las marionetas mellizas emergen de entre las sombras. Se rumorea que esas dos figuras están directamente relacionadas con las bailarinas a las que tan terrible final les aguardó durante aquel espectáculo. Se dice que aún esperan poder llevar a cabo el gran final que nunca bailaron.\n«Cuando la estremecedora melodía entone su última nota, las dos marionetas emergerán de la oscuridad para deleitarnos con un presente...»\n«¿Eh? Entonces... ¿Quiere decir eso que el espectáculo ya ha comenzado?»\n«No, creo que lo que quiere decir es que... es demasiado tarde para huir. Este es el final.»",
+            "card_quote": "— «Entrevista de la Cavidad», edición n.º 251. Entrevista a un investigador de Cavidades que sobrevivió",
+            "skill_text": "La marioneta infame invoca a su compañera para ejecutar ataques. Al eliminar a una de las dos, aumentará la duración del siguiente Aturdimiento."
+        },
+        "930146": {
+            "monster_id": 930146,
+            "monster_name": "Tyrfing",
+            "card_text": "Una unidad hostil con poco Ataque y PV. Normalmente es el primer enemigo al que se enfrentan los bangbús novatos en un examen. No suponen una gran amenaza.",
+            "card_quote": null,
+            "skill_text": "PV: 50\nAtaque: medio\nDefensa: 50\nVelocidad: lenta\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+        },
+        "930147": {
+            "monster_id": 930147,
+            "monster_name": "Arlaune",
+            "card_text": "Un enemigo muy peligroso que puede ejecutar <color=#D9A600>ataques a distancia</color>. Al bloquear su ataque, libera una niebla toxina que inflige daño a <color=#D9A600>todos los bangbús cercanos</color>. Se recomienda desplegar <color=#D9A600>bangbús bondadosos</color> para hacerle frente.",
+            "card_quote": null,
+            "skill_text": "PV: 430\nAtaque: medio\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+        },
+        "930148": {
+            "monster_id": 930148,
+            "monster_name": "Arimán",
+            "card_text": "Cuando tiene los PV al máximo, <color=#D9A600>se mueve con mayor velocidad</color> y <color=#D9A600>no puede ser bloqueado</color>. Al recibir daño, su velocidad se reduce y puede ser bloqueado. Se recomienda desplegar <color=#D9A600>bangbús disparadores</color> para reducir la amenaza del arimán.",
+            "card_quote": null,
+            "skill_text": "PV: 70\nAtaque: medio\nDefensa: 50\nVelocidad: rápida, será más lenta tras recibir un ataque\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+        },
+        "930149": {
+            "monster_id": 930149,
+            "monster_name": "Alpeca",
+            "card_text": "El alpeca tiene la capacidad de <color=#D9A600>atacar a distancia</color> a los bangbús en posiciones estratégicas. ¡Ten en cuenta el aguante del estudiante!",
+            "card_quote": null,
+            "skill_text": "PV: 100\nAtaque: bajo\nDefensa: 21\nVelocidad: lenta\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+        },
+        "930150": {
+            "monster_id": 930150,
+            "monster_name": "Dullahan",
+            "card_text": "¡Una unidad de combate cuerpo a cuerpo altamente peligrosa con <color=#D9A600>muchos PV</color>! ¡Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con mucho aguante para detenerla!",
+            "card_quote": null,
+            "skill_text": "PV: 480\nAtaque: alto\nDefensa: 75\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+        },
+        "930152": {
+            "monster_id": 930152,
+            "monster_name": "Hoplita",
+            "card_text": "Cuando el hoplita entra en el campo de batalla, <color=#D9A600>se mueve a gran velocidad</color> y se abalanza contra el primer bangbú que encuentre a su paso, <color=#D9A600>infligiendo una gran cantidad de daño</color>. Tras golpearlo, su velocidad de movimiento <color=#D9A600>se reduce considerablemente</color>.",
+            "card_quote": null,
+            "skill_text": "PV: 150\nAtaque: alto\nDefensa: 75\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930153": {
+            "monster_id": 930153,
+            "monster_name": "Sátiro",
+            "card_text": "El sátiro se mueve lentamente, pero tiene una gran cantidad de Ataque. ¡Presta atención al aguante de los estudiantes!",
+            "card_quote": null,
+            "skill_text": "PV: 140\nAtaque: alto\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930154": {
+            "monster_id": 930154,
+            "monster_name": "Araña explosiva",
+            "card_text": "Las arañas explosivas son relativamente rápidas y pueden detonarse alrededor de los bangbús, infligiendo daño a <color=#D9A600>todos los bangbús</color>. Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con un aguante muy alto para detenerlas.",
+            "card_quote": null,
+            "skill_text": "PV: 80\nAtaque: bajo\nDefensa: 13\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930157": {
+            "monster_id": 930157,
+            "monster_name": "Tyrfing",
+            "card_text": "Una unidad hostil con poco Ataque y PV. Normalmente es el primer enemigo al que se enfrentan los bangbús novatos en un examen. No suponen una gran amenaza.",
+            "card_quote": null,
+            "skill_text": "PV: 140\nAtaque: medio\nDefensa: 50\nVelocidad: lenta\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+        },
+        "930158": {
+            "monster_id": 930158,
+            "monster_name": "Arlaune",
+            "card_text": "Un enemigo muy peligroso que puede ejecutar <color=#D9A600>ataques a distancia</color>. Al bloquear su ataque, libera una niebla toxina que inflige daño a <color=#D9A600>todos los bangbús cercanos</color>. Se recomienda desplegar <color=#D9A600>bangbús bondadosos</color> para hacerle frente.",
+            "card_quote": null,
+            "skill_text": "PV: 1300\nAtaque: medio\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+        },
+        "930159": {
+            "monster_id": 930159,
+            "monster_name": "Arimán",
+            "card_text": "Cuando tiene los PV al máximo, <color=#D9A600>se mueve con mayor velocidad</color> y <color=#D9A600>no puede ser bloqueado</color>. Al recibir daño, su velocidad se reduce y puede ser bloqueado. Se recomienda desplegar <color=#D9A600>bangbús disparadores</color> para reducir la amenaza del arimán.",
+            "card_quote": null,
+            "skill_text": "PV: 220\nAtaque: medio\nDefensa: 50\nVelocidad: rápida, lenta tras recibir un ataque\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+        },
+        "930160": {
+            "monster_id": 930160,
+            "monster_name": "Alpeca",
+            "card_text": "El alpeca tiene la capacidad de <color=#D9A600>atacar a distancia</color> a los bangbús en posiciones estratégicas. ¡Ten en cuenta el aguante del estudiante!",
+            "card_quote": null,
+            "skill_text": "PV: 300\nAtaque: bajo\nDefensa: 21\nVelocidad: lenta\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+        },
+        "930161": {
+            "monster_id": 930161,
+            "monster_name": "Dullahan",
+            "card_text": "¡Una unidad de combate cuerpo a cuerpo altamente peligrosa con <color=#D9A600>muchos PV</color>! ¡Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con mucho aguante para detenerla!",
+            "card_quote": null,
+            "skill_text": "PV: 1440\nAtaque: alto\nDefensa: 75\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+        },
+        "930162": {
+            "monster_id": 930162,
+            "monster_name": "Hoplita",
+            "card_text": "Cuando el hoplita entra en el campo de batalla, <color=#D9A600>se mueve a gran velocidad</color> y se abalanza contra el primer bangbú que encuentre a su paso, <color=#D9A600>infligiendo una gran cantidad de daño</color>. Tras golpearlo, su velocidad de movimiento <color=#D9A600>se reduce considerablemente</color>.",
+            "card_quote": null,
+            "skill_text": "PV: 460\nAtaque: alto\nDefensa: 75\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930163": {
+            "monster_id": 930163,
+            "monster_name": "Sátiro",
+            "card_text": "El sátiro se mueve lentamente, pero tiene una gran cantidad de Ataque. ¡Presta atención al aguante de los estudiantes!",
+            "card_quote": null,
+            "skill_text": "PV: 430\nAtaque: alto\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930164": {
+            "monster_id": 930164,
+            "monster_name": "Araña explosiva",
+            "card_text": "Las arañas explosivas son relativamente rápidas y pueden detonarse alrededor de los bangbús, infligiendo daño a <color=#D9A600>todos los bangbús</color>. Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con un aguante muy alto para detenerlas.",
+            "card_quote": null,
+            "skill_text": "PV: 230\nAtaque: bajo\nDefensa: 13\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         }
     },
     "Bandidos": {
@@ -566,7 +706,7 @@
         },
         "30021": {
             "monster_id": 30021,
-            "monster_name": "Jefe supremo corrompido - Pompey",
+            "monster_name": "Jefe supremo corrompido: Pompey",
             "card_text": "Todos en la Periferia se referían respetuosamente a él como «Pompey, el jefe supremo».\nSin embargo, su alma ha sido corrompida por el éter volátil, su cuerpo ha sido contaminado por el azufre y el petróleo pesado, y su corazón, que antes latía para defender la Periferia, se ha convertido en un núcleo de éter supercrítico que contiene energía prácticamente ilimitada.\nEl antiguo jefe de la Periferia ha surgido de entre las cenizas con una nueva apariencia.\nLibre, imponente... explosivo y fuera de control.\nAhora merodea entre las cenizas y el fuego, atrapando a todo ser vivo que se mueva, para hacerlo pedazos sin pensárselo dos veces.\nLas personas que llegaron a conocerlo deducen a partir de sus murmullos incoherentes que lo que busca no es la venganza, sino acabar con cualquier forastero que intente desafiar las leyes de la Periferia.\nTal vez fue la mayor obsesión que sobrevivió del anterior Pompey.\n«El jefe supremo se ha convertido en \"eso\"... pero sigue siendo el jefe supremo.»",
             "card_quote": "— Un esbirro miedoso de la afiliación original de Los Laureados",
             "skill_text": "Durante el combate, el jefe supremo Pompey usará tanto su moto como sus cañones flotantes para atacar. Sin embargo, expondrá su punto débil durante algunos movimientos tras recibir daño por un apoyo defensivo. Cuando haya recibido cierta cantidad de daño, entrará en la segunda fase, en la que alternará ataques con las ruedas traseras de la moto y con una espada. Las ruedas traseras de la moto también pueden acumular energía etérea para generar una explosión en un área grande."
@@ -603,7 +743,7 @@
             "monster_id": 200131,
             "monster_name": "Intimidador iracundo",
             "card_text": "Una pobre alma que ha mutado por la corrupción etérea severa. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. Sus extremidades humanas se han transformado y fortalecido, lo que lo vuelve más peligroso.\nA juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se encontraba en la Cavidad.\nPor alguna razón, la burda arma que este bandido utilizaba en vida se han conservado e incluso fortalecido por efecto de la corrupción etérea. Solo que, en lugar de disparar balas, ahora dispara un compuesto que contiene cristales nocivos.\n«¡No esperes una apertura! ¡Sus balas son infinitas, nunca se detendrá a recargar!»",
-            "card_quote": "— Grabación de un empleado del Ministerio de Seguridad Pública en servicio dentro de una Cavidad",
+            "card_quote": "— Grabación de un empleado del Equipo de Respuesta en Cavidades del Ministerio de Seguridad Pública durante el servicio",
             "skill_text": "El bandido corrompido: intimidador iracundo tiende a disparar perdigones etéreos después de atacar."
         },
         "200141": {
@@ -612,6 +752,34 @@
             "card_text": "Una pobre alma que ha mutado por la corrupción etérea severa. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. Sus extremidades humanas se han transformado y fortalecido, lo que lo vuelve más peligroso.\nA juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se encontraba en la Cavidad.\nDe por sí los bandidos son peligrosos, aquellos que se atreven a entrar a las Cavidades a asaltar casas son lo peor de lo peor. De entre ellos, los más temibles son los maleantes curtidos en pelea.\nSi encima de todo, estos maleantes que solo conocen la violencia son expuestos a la corrupción etérea, tendrás como resultado una máquina de pelea superior a los seres etéreos comunes.\n«Si antes preferían el dinero sobre la vida, ahora es todo lo contrario...»",
             "card_quote": "— Nota de pie del capítulo sobre entes corrompidos en «Reconoce los peligros en las Cavidades», material didáctico de la Asociación de Investigación de Cavidades",
             "skill_text": "El bandido corrompido: maleante desalmado ataca continuamente a los enemigos cercanos y embiste rápidamente a los enemigos lejanos. Al infligir cierta cantidad de daño en sus brazos, sus ataques serán más poderosos."
+        },
+        "300211": {
+            "monster_id": 300211,
+            "monster_name": "Pompey infame",
+            "card_text": "Todos en la Periferia se referían respetuosamente a él como «Pompey, el jefe supremo».\nSin embargo, su alma ha sido corrompida por el éter volátil, su cuerpo ha sido contaminado por el azufre y el petróleo pesado, y su corazón, que antes latía para defender la Periferia, se ha convertido en un núcleo de éter supercrítico que contiene energía prácticamente ilimitada.\nEl antiguo jefe de la Periferia ha surgido de entre las cenizas con una nueva apariencia.\nLibre, imponente... explosivo y fuera de control.\nAhora merodea entre las cenizas y el fuego, atrapando a todo ser vivo que se mueva, para hacerlo pedazos sin pensárselo dos veces.\nLas personas que llegaron a conocerlo deducen a partir de sus murmullos incoherentes que lo que busca no es la venganza, sino acabar con cualquier forastero que intente desafiar las leyes de la Periferia.\nTal vez fue la mayor obsesión que sobrevivió del anterior Pompey.\n«El jefe supremo se ha convertido en \"eso\"... pero sigue siendo el jefe supremo.»",
+            "card_quote": "— Un esbirro miedoso de la afiliación original de Los Laureados",
+            "skill_text": "Durante el combate, los ataques de Pompey dejan extensiones de terreno con energía etérea inestable. Cuando un enemigo se acerca o Pompey ejecuta un ataque cargado, la energía etérea explota violentamente. En caso de ser necesario, Pompey levanta su arma para bloquear los ataques. Si lo logra, responde atacando rápidamente al enemigo."
+        },
+        "930155": {
+            "monster_id": 930155,
+            "monster_name": "Matón despiadado",
+            "card_text": "El matón despiadado tiene <color=#FFAF2C>una gran cantidad de PV</color>. ¡Concentra tus ataques en él!",
+            "card_quote": null,
+            "skill_text": "PV: 240\nAtaque: mediano\nDefensa: 50\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930156": {
+            "monster_id": 930156,
+            "monster_name": "Matón despiadado",
+            "card_text": "El matón despiadado tiene <color=#D9A600>una gran cantidad de PV</color>. ¡Concentra tus ataques en él!",
+            "card_quote": null,
+            "skill_text": "PV: 240\nAtaque: medio\nDefensa: 50\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930165": {
+            "monster_id": 930165,
+            "monster_name": "Matón despiadado",
+            "card_text": "El matón despiadado tiene <color=#FFAF2C>una gran cantidad de PV</color>. ¡Concentra tus ataques en él!",
+            "card_quote": null,
+            "skill_text": "PV: 720\nAtaque: medio\nDefensa: 50\nVelocidad: lento\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         }
     },
     "Ministerio de Seguridad Pública": {
@@ -805,6 +973,13 @@
             "card_text": "Como meca pesado, el tifón golpeador no cuenta con capacidad de fuego de largo alcance, sino que todas sus funciones giran en torno al fortalecimiento de su coraza por medio de energía etérea.\nGolpear, aplastar, destruir... El tifón golpeador utiliza técnicas de combate sencillas y efectivas, llevando la capacidad destructiva de un bólido acorazado al extremo. Incluso la sacudida de sus golpes es capaz de disuadir a seres etéreos de gran tamaño.\nSu defensa es tan infranqueable, que incluso a los saqueadores experimentados no les queda más remedio que suspirar con resignación al verlo.\n«Un cuerpo imponente y vigoroso, brazos fuertes y robustos, como a mí me gustan... M-me refiero al modelo...»",
             "card_quote": "— Palabras de Grace mientras juega con un modelo de tifón golpeador de la tienda de juguetes",
             "skill_text": "La unidad táctica autónoma: tifón golpeador ejecuta una potente secuencia de golpes. Ocasionalmente da un salto en el aire para aplastar a los enemigos."
+        },
+        "300082": {
+            "monster_id": 300082,
+            "monster_name": "Unidad de apoyo autónoma: tifón destructor",
+            "card_text": "Como meca pesado, el tifón destructor no cuenta con capacidad de fuego de largo alcance, sino que todas sus funciones giran en torno al fortalecimiento de su coraza por medio de energía etérea.\nGolpear, aplastar, destruir... El tifón destructor utiliza técnicas de combate sencillas y efectivas, llevando la capacidad destructiva de un bólido acorazado al extremo. Incluso la sacudida de sus golpes es capaz de disuadir a seres etéreos de gran tamaño.\nSu defensa es tan infranqueable, que incluso a los saqueadores experimentados no les queda más remedio que suspirar con resignación al verlo.\n«Un cuerpo imponente y vigoroso, brazos fuertes y robustos, como a mí me gustan... M-me refiero al modelo...»",
+            "card_quote": "— Palabras de Grace mientras juega con un modelo de tifón destructor de la tienda de juguetes",
+            "skill_text": "La unidad de apoyo autónoma: tifón destructor ejecuta ataques más frenéticos y la mayoría de sus movimientos no pueden ser contrarrestados con apoyos perfectos. Cuando sus brazos mecánicos estén cargados de electricidad, ejecuta una embestida que puede activar un apoyo perfecto. Al ejecutar múltiples apoyos defensivos, dejará expuesta su vulnerabilidad."
         }
     },
     "Especiales": {
@@ -849,6 +1024,20 @@
             "card_text": "Una persona peligrosa que se codea con las bandas más peligrosas de Nueva Eridu. Es ágil y capaz de cambiar de apariencia. Hacer frente a su feroz habilidad de combate no es fácil, ni siquiera para un escuadrón armado hasta los dientes, por lo que no tienen más remedio que huir.",
             "card_quote": null,
             "skill_text": "Durante el combate, los ataques de Jane son extremadamente feroces y, a veces, incluso contraatacará ante los golpes de sus enemigos. Sin embargo, expondrá su punto débil al final de cada combo."
+        },
+        "30024": {
+            "monster_id": 30024,
+            "monster_name": "Sacrificio de Bringer",
+            "card_text": "De ser un superviviente que erraba en el erial hasta convertirse en el comisario en funciones del Ministerio de Seguridad Pública del distrito de Jano, la vida de Bringer es una historia inspiradora llena de gloria.\nPero detrás de esta historia inspiradora se esconden crímenes y conspiraciones que se ciñen como una nube oscura sobre el distrito de Jano.\nPara cumplir con su gran plan, Bringer tomó el control desde las sombras, tramando y conspirando, llegando a sacrificarlo todo...\nEn el último paso del plan, incluso se inyectó suero de sacrificio para demostrar la fe que tenía en sí mismo.\nEn ese momento, todas sus obsesiones y locuras se manifestaron en la retorcida Cavidad.\nUn torrente de energía etérea activa, una fuerza destructiva imparable... Su fe trastornada, sus deseos entremezclados, todo ello se alojó en ese cuerpo monstruoso.\nEl sacrificio es la última identidad que asumió bringer, y la más perfecta de todas.\n«¡Que el Creador... me dé forma!».",
+            "card_quote": "— Los gritos desgarradores de Bringer",
+            "skill_text": "El sacrificio de Bringer cuenta con un amplio arsenal que le permite combinar ataques a distancia y cuerpo a cuerpo. Además, puede invocar seres gigantes desde la fisura etérea para que lo asistan en combate. Al recibir cierta cantidad de daño entrará en su segunda fase, en la que ejecutará ataques más pesados y disparará una densa ráfaga. Al infligirle suficiente daño mientras prepara su Cuchilla sacrificial, dejará de acumular fuerza y expondrá su vulnerabilidad."
+        },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Protozoario espinoso",
+            "card_text": "El éter es un parásito voraz e insaciable que devora la vida.\nEl protozoario espinoso es una manifestación del éter aún más maligna. Al hospedarse en el cuerpo de sus crueles compañeros, el tyrfing y el alpeca, pueden satisfacer su voracidad más salvaje.\n«¡Quítenmelo de la cara!».",
+            "card_quote": "— Un científico de seres etéreos al darse cuenta de que es solo un insecto saltarín",
+            "skill_text": "El protozoario espinoso deambula continuamente en busca de un tyrfing o un alpeca huésped."
         },
         "100231": {
             "monster_id": 100231,
@@ -898,6 +1087,13 @@
             "card_text": "El momento en el que el denso éter se infiltró en el disco de almacenamiento de Viernes, una gran cantidad de datos inundaron su memoria RAM.\nImágenes, grabaciones, videos... documentos en toda clase de formatos se agolpaban contra su limitada capacidad de procesamiento.\nEn ese instante, Viernes tuvo una revelación. Después de permanecer quieto por mucho tiempo buscando y rebuscando dentro de la base de datos, al fin había podio confirmar el motivo de su mutación: era una epifanía. Solo aquellas máquinas inteligentes que han tenido experiencias cercanas a la muerte como un colapso o un apagón son testigos de un milagro así.\n0.02 segundos después de reflexionar profundamente, Viernes decidió ignorar la señal de Construcciones Belobog, pues él sabía que su misión era prevenir el peligro que se avecinaba.\nMientras el mal se moviliza entre las sombras, su única misión es salvar a todos los seres vivos y encerrar a ese terrible enemigo detrás del sello.\n«Fortalecer el sello y salvar al mundo, ¡esa es mi misión! ¡Y uno nunca reniega de su misión!»",
             "card_quote": "— Viernes, la máquina inteligente escogida por el destino",
             "skill_text": "Viernes crea ondas de choque de gran alcance que son difíciles de evadir. Sin embargo, la mayoría de sus habilidades pueden bloquearse con apoyos defensivos. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
+        },
+        "930151": {
+            "monster_id": 930151,
+            "monster_name": "Bangbú dorado",
+            "card_text": "El bangbú dorado <color=#D9A600>se mueve a gran velocidad y tiene una gran cantidad de PV</color>, pero no atacará a los bangbús aliados. Derrótalo y obtendrás <color=#D9A600>una sorpresa</color>.",
+            "card_quote": null,
+            "skill_text": "PV: 960\nAtaque: mediano\nDefensa: 50\nVelocidad: rápida\nNivel de amenaza: <color=#FF3333>alto</color>"
         }
     }
 }

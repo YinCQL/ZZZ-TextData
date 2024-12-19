@@ -999,9 +999,9 @@
             {
                 "talent_id": "6",
                 "Lucy_Talent_06_Title": "Colmillos llameantes",
-                "Lucy_Talent_06_Desc_01_Realign": "Cuando un aliado golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color> al encontrarse bajo el estado de <color=#FFFFFF>¡Ánimo!</color>, un puerco armado caerá del cielo y provocará una explosión que inflige <color=#FF5521>daño ígneo</color> equivalente al 300 % del Ataque del puerco armado y extiende la duración del estado de <color=#FFFFFF>¡Ánimo!</color> de todos los miembros del equipo en 5 s. Puede extenderse hasta 3 veces y hasta 30 s. La duración del efecto de <color=#FFFFFF>¡Ánimo!</color> se reinicia con cada activación. Después de provocar la explosión, un puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>.",
+                "Lucy_Talent_06_Desc_01_Realign": "Cuando un aliado golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color> al encontrarse bajo el estado de <color=#FFFFFF>¡Ánimo!</color>, un puerco armado caerá del cielo y provocará una explosión que inflige <color=#FF5521>daño ígneo</color> equivalente al 300 % del Ataque del puerco armado y extiende la duración del estado de <color=#FFFFFF>¡Ánimo!</color> de todos los miembros del equipo en 5 s. Puede extenderse hasta 3 veces y hasta 30 s. Al obtener de nuevo el efecto de <color=#FFFFFF>¡Ánimo!</color>, se reinicia el número de veces que puede extenderse su duración. Después de provocar la explosión, un puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>.",
                 "Lucy_Talent_06_Desc_02": "¡Los semihumanos suidos denominados «puercos melenarroja» siempre están en la primera línea de combate!\nAunque, el momento en el que son mandados a volar de un batazo, no se sabe si lo que sienten es arrepentimiento inmediato o total entrega.\n¡Vamos, cerdito, tú puedes!",
-                "Lucy_Talent_06_Desc_01": "Cuando un aliado golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color> al encontrarse bajo el estado de <color=#FFFFFF>¡Ánimo!</color>, un puerco armado caerá del cielo y provocará una explosión que inflige <color=#FF5521>daño ígneo</color> equivalente al 300 % del Ataque del puerco armado y extiende la duración del estado de <color=#FFFFFF>¡Ánimo!</color> de todos los miembros del equipo en 5 s. Puede extenderse hasta 3 veces y hasta 30 s. La duración del efecto de <color=#FFFFFF>¡Ánimo!</color> se reinicia con cada activación. Después de provocar la explosión, el puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>.",
+                "Lucy_Talent_06_Desc_01": "Cuando un aliado golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color> al encontrarse bajo el estado de <color=#FFFFFF>¡Ánimo!</color>, un puerco armado caerá del cielo y provocará una explosión que inflige <color=#FF5521>daño ígneo</color> equivalente al 300 % del Ataque del puerco armado y extiende la duración del estado de <color=#FFFFFF>¡Ánimo!</color> de todos los miembros del equipo en 5 s. Puede extenderse hasta 3 veces y hasta 30 s. Al obtener de nuevo el efecto de <color=#FFFFFF>¡Ánimo!</color>, se reinicia el número de veces que puede extenderse su duración. Después de provocar la explosión, el puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>.",
                 "Lucy_Talent_06_Title_Realign": "Colmillos llameantes"
             }
         ]
@@ -1162,6 +1162,165 @@
                 "Clara_Talent_06_Desc_02": "Como sabrás, el mayor deseo de Piper es que todos los días fueran de descanso.\nSin embargo, la chica con los párpados pesados en este momento emite un destello en sus ojos.\n«Si es por ti, la menda puede esforzarse un poco más.»",
                 "Clara_Talent_06_Desc_01": "Extiende la duración de <color=#FFFFFF>técnica especial EX: Revolución de motor</color> en 2 s, y la duración de <color=#FFFFFF>fuerza motriz</color> en 4 s.",
                 "Clara_Talent_06_Title_Realign": "Momentos emocionantes"
+            }
+        ]
+    },
+    "1091": {
+        "role_id": 1091,
+        "name": "Miyabi",
+        "full_name": "Hoshimi Miyabi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Unagi_Talent_01_Title": "Escarcha sobre la nieve",
+                "Unagi_Talent_01_Desc_01_Realign": "En la <color=#FFFFFF>posición de estación de la escarcha</color>, por cada carga de <color=#FFFFFF>cencellada</color> consumida, el <color=#FFFFFF>ataque normal: Estación de la escarcha</color> ignora un 6 % de la Defensa del objetivo. Pueden acumularse hasta 6 cargas. Al abandonar la <color=#FFFFFF>posición de estación de la escarcha</color>, el efecto finaliza. Al golpear a un enemigo afectado por <color=#FFFFFF>abrasión por congelamiento</color> con el tercer corte cargado del <color=#FFFFFF>ataque normal: Estación de la escarcha</color>, este elimina inmediatamente el estado de <color=#FFFFFF>abrasión por congelamiento</color> y la tasa de acumulación de Anomalía de Atributo de todos los miembros del equipo aumenta en un 20 % durante 10 s.",
+                "Unagi_Talent_01_Desc_02": "Desde que era pequeña, Miyabi adora recitar poemas relacionados con la nieve.\nSi bien tal vez no alcance a comprenderlos del todo la primera vez que los lee, no deja de repasarlos día tras día.\nAsí, antes de darse cuenta, es capaz de descubrir su verdadero significado.\nNo fue en una pacífica noche nevada, sino en el campo de batalla donde halló la claridad que buscaba.",
+                "Unagi_Talent_01_Desc_01": "En la <color=#FFFFFF>posición de estación de la escarcha</color>, por cada carga de <color=#FFFFFF>cencellada</color> consumida, el <color=#FFFFFF>ataque normal: Estación de la escarcha</color> ignora un 6 % de la Defensa del objetivo. Pueden acumularse hasta 6 cargas. Al abandonar la <color=#FFFFFF>posición de estación de la escarcha</color>, el efecto finaliza. Al golpear a un enemigo afectado por <color=#FFFFFF>abrasión por congelamiento</color> con el tercer corte cargado del <color=#FFFFFF>ataque normal: Estación de la escarcha</color>, este elimina inmediatamente el estado de <color=#FFFFFF>abrasión por congelamiento</color> y la tasa de acumulación de Anomalía de Atributo de todos los miembros del equipo aumenta en un 20 % durante 10 s.",
+                "Unagi_Talent_01_Title_Realign": "Escarcha sobre la nieve"
+            },
+            {
+                "talent_id": "2",
+                "Unagi_Talent_02_Title": "Respiración meditativa",
+                "Unagi_Talent_02_Desc_01_Realign": "El daño infligido por el <color=#FFFFFF>ataque normal: Hálitos de la nevisca</color> y el <color=#FFFFFF>contraataque</color> aumenta en un 30 %. Al golpear a un enemigo con el ataque final del quinto corte del <color=#FFFFFF>ataque normal: Hálitos de la nevisca</color>, Hoshimi Miyabi obtiene 1 carga de <color=#FFFFFF>cencellada</color>. Al entrar en combate, Miyabi obtiene inmediatamente 6 cargas de <color=#FFFFFF>cencellada</color> y su Probabilidad de Crítico aumenta en un 15 %.",
+                "Unagi_Talent_02_Desc_02": "«La espada es el reflejo del alma». Esta es una de las máximas del entrenamiento de técnica de espada de los Hoshimi.\nDerrotar al enemigo es solo el primer paso en el camino hacia la victoria.\nMantenerse vigilante en todo momento es el verdadero camino de un guerrero.",
+                "Unagi_Talent_02_Desc_01": "El daño infligido por el <color=#FFFFFF>ataque normal: Hálitos de la nevisca</color> y el <color=#FFFFFF>contraataque</color> aumenta en un 30 %. Al golpear a un enemigo con el ataque final del quinto corte del <color=#FFFFFF>ataque normal: Hálitos de la nevisca</color>, Hoshimi Miyabi obtiene 1 carga de <color=#FFFFFF>cencellada</color>. Al entrar en combate, Miyabi obtiene inmediatamente 6 cargas de <color=#FFFFFF>cencellada</color> y su Probabilidad de Crítico aumenta en un 15 %.",
+                "Unagi_Talent_02_Title_Realign": "Respiración meditativa"
+            },
+            {
+                "talent_id": "3",
+                "Unagi_Talent_03_Title": "Disciplina marcial",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Unagi_Talent_03_Desc_02": "Al venir de una familia de artistas marciales, los hábitos de entrenamiento de Miyabi son muy estrictos, y su entrega a la práctica de la espada es inquebrantable. ¿Qué? ¿Una reunión? Olvídate de que ella vaya.",
+                "Unagi_Talent_03_Title_Realign": "Disciplina marcial"
+            },
+            {
+                "talent_id": "4",
+                "Unagi_Talent_04_Title": "Agrietamiento",
+                "Unagi_Talent_04_Desc_01_Realign": "El daño infligido por <color=#FFFFFF>abrasión por congelamiento: agrietamiento</color> aumenta en un 30 %. Al activar <color=#FFFFFF>abrasión por congelamiento: agrietamiento</color>, Miyabi obtiene 250 dB adicionales.",
+                "Unagi_Talent_04_Desc_02": "Recitar poemas en el fragor de la batalla contribuye al control del ritmo respiratorio.\nMiyabi siempre mantiene la calma, ya se trate de su mente o de su respiración.",
+                "Unagi_Talent_04_Desc_01": "El daño infligido por <color=#FFFFFF>abrasión por congelamiento: agrietamiento</color> aumenta en un 30 %. Al activar <color=#FFFFFF>abrasión por congelamiento: agrietamiento</color>, Miyabi obtiene 250 dB adicionales.",
+                "Unagi_Talent_04_Title_Realign": "Agrietamiento"
+            },
+            {
+                "talent_id": "5",
+                "Unagi_Talent_05_Title": "Aniversario",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Unagi_Talent_05_Desc_02": "La joven llega a la ubicación que le resulta tan familiar con un ramo de flores frescas. Su aliento se convierte en una niebla que se desvanece al entrar en contacto con el aire frío.\nSus dedos rozan suavemente el nombre inscrito en el monumento.\nA su alrededor reina un silencio sepulcral, como si de un testigo taciturno se tratara.",
+                "Unagi_Talent_05_Title_Realign": "Aniversario"
+            },
+            {
+                "talent_id": "6",
+                "Unagi_Talent_06_Title": "Talento excepcional",
+                "Unagi_Talent_06_Desc_01_Realign": "<color=#FFFFFF>En la posición de estación de la escarcha</color>, Hoshimi Miyabi obtiene el efecto de <color=#FFFFFF>polaridad</color>, que hace que el daño infligido por el <color=#FFFFFF>ataque normal: Estación de la escarcha</color> aumente en un 30 %. Tras obtener el efecto de <color=#FFFFFF>polaridad</color>, al consumir <color=#FFFFFF>cencellada</color>, Hoshimi Miyabi desenvaina su espada y ejecuta hacia delante poderosos cortes en función del nivel de fuerza acumulada. Antes de que se consuman todas las cargas de <color=#FFFFFF>cencellada</color>, no se detendrá la acumulación de fuerza en la <color=#FFFFFF>posición de estación de la escarcha</color> ni al desenvainar la espada ni con los cortes. Por cada vez que Miyabi adopta la <color=#FFFFFF>posición de estación de la escarcha</color>, puede desenvainar su espada para ejecutar cortes hasta un total de 3 veces seguidas.",
+                "Unagi_Talent_06_Desc_02": "Cuanto más combate, más evidente es para quienes no la conocen: si existe una deidad del arte de la lucha con espada, esa debe ser Miyabi.",
+                "Unagi_Talent_06_Desc_01": "<color=#FFFFFF>En la posición de estación de la escarcha</color>, Hoshimi Miyabi obtiene el efecto de <color=#FFFFFF>polaridad</color>, que hace que el daño infligido por el <color=#FFFFFF>ataque normal: Estación de la escarcha</color> aumente en un 30 %. Tras obtener el efecto de <color=#FFFFFF>polaridad</color>, al consumir <color=#FFFFFF>cencellada</color>, Hoshimi Miyabi desenvaina su espada y ejecuta hacia delante poderosos cortes en función del nivel de fuerza acumulada. Antes de que se consuman todas las cargas de <color=#FFFFFF>cencellada</color>, no se detendrá la acumulación de fuerza en la <color=#FFFFFF>posición de estación de la escarcha</color> ni al desenvainar la espada ni con los cortes. Por cada vez que Miyabi adopta la <color=#FFFFFF>posición de estación de la escarcha</color>, puede desenvainar su espada para ejecutar cortes hasta un total de 3 veces seguidas.",
+                "Unagi_Talent_06_Title_Realign": "Talento excepcional"
+            }
+        ]
+    },
+    "1131": {
+        "role_id": 1131,
+        "name": "Soukaku",
+        "full_name": "Soukaku",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Aokaku_Talent_01_Title": "Corriente alentadora",
+                "Aokaku_Talent_01_Desc_01_Realign": "Cuando Soukaku activa <color=#FFFFFF>técnica pasiva: Estandarte afilado</color> o <color=#FFFFFF>técnica adicional: Combo grupal</color>, aumenta la duración de la bonificación en 8 s.",
+                "Aokaku_Talent_01_Desc_02": "Al estar completamente cargado, el módulo especial de carga puede crear corrientes de viento con energía etérea, capaz de cargar dispositivos etéreos cercanos. Para Soukaku, es la mejor forma de comer con amigos.\n«¡Vengan todos! ¡Coman hasta reventar!»",
+                "Aokaku_Talent_01_Desc_01": "Cuando Soukaku activa <color=#FFFFFF>técnica pasiva: Estandarte afilado</color> o <color=#FFFFFF>técnica adicional: Combo grupal</color>, aumenta la duración de la bonificación en 8 s.",
+                "Aokaku_Talent_01_Title_Realign": "Corriente alentadora"
+            },
+            {
+                "talent_id": "2",
+                "Aokaku_Talent_02_Title": "Módulo experimental de recarga",
+                "Aokaku_Talent_02_Desc_01_Realign": "Al golpear a un enemigo con un <color=#FFFFFF>ataque normal</color>, un <color=#FFFFFF>ataque rápido</color>, un <color=#FFFFFF>contraataque</color> o un <color=#FFFFFF>apoyo rápido</color>, hay un 15 % de probabilidad de obtener una carga de <color=#FFFFFF>vórtice</color>. Puede activarse una vez por segundo.\nAl alcanzar el límite de cargas, en lugar de obtener cargas de <color=#FFFFFF>vórtice</color> recuperará 1.2 ptos. de energía.",
+                "Aokaku_Talent_02_Desc_02": "El módulo de carga es capaz de acumular energía constantemente en batalla.\nEs por eso que el departamento I+D lo considera un hito en materia de diseño armamentista.\nPero para Soukaku, una carga completa significa que es hora de comer.",
+                "Aokaku_Talent_02_Desc_01": "Al golpear a un enemigo con un <color=#FFFFFF>ataque normal</color>, un <color=#FFFFFF>ataque rápido</color>, un <color=#FFFFFF>contraataque</color> o un <color=#FFFFFF>apoyo rápido</color>, hay un 15 % de probabilidad de obtener una carga de <color=#FFFFFF>vórtice</color>. Puede activarse una vez por segundo. Al alcanzar el límite de cargas, en lugar de obtener cargas de <color=#FFFFFF>vórtice</color> recuperará 1.2 ptos. de energía.",
+                "Aokaku_Talent_02_Title_Realign": "Módulo experimental de recarga"
+            },
+            {
+                "talent_id": "3",
+                "Aokaku_Talent_03_Title": "Bono alimenticio",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Aokaku_Talent_03_Desc_02": "Si quieres motivar a Soukaku para que entrene más duro, basta con aumentar su bono alimenticio.",
+                "Aokaku_Talent_03_Title_Realign": "Bono alimenticio"
+            },
+            {
+                "talent_id": "4",
+                "Aokaku_Talent_04_Title": "Insuficiencia térmica",
+                "Aokaku_Talent_04_Desc_01_Realign": "Al golpear a un enemigo al <color=#FFFFFF>izar el estandarte</color>, reduce la <color=#98EFF0>resistencia glacial</color> del objetivo en un 10 % durante 8 s.",
+                "Aokaku_Talent_04_Desc_02": "El estandarte oni personalizado como arma está equipado con un dispositivo de enfriamiento a base de un catalizador etéreo capaz de generar aire frío para dañar al enemigo.",
+                "Aokaku_Talent_04_Desc_01": "Al golpear a un enemigo al <color=#FFFFFF>izar el estandarte</color>, reduce la <color=#98EFF0>resistencia glacial</color> del objetivo en un 10 % durante 8 s.",
+                "Aokaku_Talent_04_Title_Realign": "Insuficiencia térmica"
+            },
+            {
+                "talent_id": "5",
+                "Aokaku_Talent_05_Title": "Aperitivo a medianoche",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Aokaku_Talent_05_Desc_02": "Si quieres motivar a Soukaku para que entrene aún más duro, basta con agregar un bono alimenticio para aperitivos a medianoche.",
+                "Aokaku_Talent_05_Title_Realign": "Aperitivo a medianoche"
+            },
+            {
+                "talent_id": "6",
+                "Aokaku_Talent_06_Title": "Viento boreal",
+                "Aokaku_Talent_06_Desc_01_Realign": "Al estar bajo el efecto de <color=#FFFFFF>estandarte escarchado</color>, el número de golpes del <color=#FFFFFF>ataque normal</color> y el <color=#FFFFFF>ataque rápido</color> fortalecido aumenta a 12.\nDurante su ejecución, aumenta el daño provocado en un 45 %.",
+                "Aokaku_Talent_06_Desc_02": "Desbloquear el dispositivo de seguridad del estandarte permite que esta arma funcione a su máxima capacidad. Y no solo en combate... también para enfriar la comida.",
+                "Aokaku_Talent_06_Desc_01": "Al estar bajo el efecto de <color=#FFFFFF>estandarte escarchado</color>, el número de golpes del <color=#FFFFFF>ataque normal</color> y el <color=#FFFFFF>ataque rápido</color> fortalecido aumenta a 12. Durante su ejecución, aumenta el daño provocado en un 45 %.",
+                "Aokaku_Talent_06_Title_Realign": "Viento boreal"
+            }
+        ]
+    },
+    "1201": {
+        "role_id": 1201,
+        "name": "Harumasa",
+        "full_name": "Asaba Harumasa",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Harumasa_Talent_01_Title": "«Determinación indómita»",
+                "Harumasa_Talent_01_Desc_01_Realign": "El número máximo de cargas de <color=#FFFFFF>prisión electrógena</color> que aplica el <color=#FFFFFF>ataque normal: Saetas primordiales</color> aumenta a 14. Al activar un <color=#FFFFFF>receptáculo voltaico</color>, dispara 2 <color=#FFFFFF>Saetas primordiales</color> consecutivas contra el objetivo.",
+                "Harumasa_Talent_01_Desc_02": "«No soy como esos tercos que solo quieren enfrentarse al enemigo de frente. Ya sea un ataque directo o uno por la espalda, cualquier ofensiva que me ayude a salir del trabajo antes es bienvenida.»",
+                "Harumasa_Talent_01_Desc_01": "El número máximo de cargas de <color=#FFFFFF>prisión electrógena</color> que aplica el <color=#FFFFFF>ataque normal: Saetas primordiales</color> aumenta a 14. Al activar un <color=#FFFFFF>receptáculo voltaico</color>, dispara 2 <color=#FFFFFF>Saetas primordiales</color> consecutivas contra el objetivo.",
+                "Harumasa_Talent_01_Title_Realign": "«Determinación indómita»"
+            },
+            {
+                "talent_id": "2",
+                "Harumasa_Talent_02_Title": "Languideza",
+                "Harumasa_Talent_02_Desc_01_Realign": "Al ejecutar la <color=#FFFFFF>técnica en cadena</color> o la <color=#FFFFFF>técnica definitiva</color>, Harumasa obtiene 7 cargas de <color=#FFFFFF>bombardeo electromagnético</color>. Pueden acumularse hasta 7 cargas.\nAl contar con <color=#FFFFFF>bombardeo electromagnético</color>, el daño infligido por el <color=#FFFFFF>ataque rápido: Cuerda célica - Corte</color> aumenta en un 50 %.\nTras ejecutar el <color=#FFFFFF>ataque rápido: Cuerda célica - Corte</color>, consume 1 carga de <color=#FFFFFF>bombardeo electromagnético</color>.",
+                "Harumasa_Talent_02_Desc_02": "«No me mires así. En realidad soy muy débil, ¿sabes?»\nHarumasa se recuesta sobre la mesa con actitud perezosa.\n«¿Qué tal si buscas a otra persona para que se encargue de la operación?»",
+                "Harumasa_Talent_02_Desc_01": "Al ejecutar la <color=#FFFFFF>técnica en cadena</color> o la <color=#FFFFFF>técnica definitiva</color>, Harumasa obtiene 7 cargas de <color=#FFFFFF>bombardeo electromagnético</color>. Pueden acumularse hasta 7 cargas. Al contar con <color=#FFFFFF>bombardeo electromagnético</color>, el daño infligido por el <color=#FFFFFF>ataque rápido: Cuerda célica - Corte</color> aumenta en un 50 %. Tras ejecutar el <color=#FFFFFF>ataque rápido: Cuerda célica - Corte</color>, consume 1 carga de <color=#FFFFFF>bombardeo electromagnético</color>.",
+                "Harumasa_Talent_02_Title_Realign": "Languideza"
+            },
+            {
+                "talent_id": "3",
+                "Harumasa_Talent_03_Title": "Mentira piadosa",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Harumasa_Talent_03_Desc_02": "«No te preocupes, este no será mi final.»\nSe enjuga la sangre que le cae de las comisuras de los labios con una sonrisa y vuelve a tensar la cuerda de su arco.\n«Después de todo, pienso vivir el tiempo suficiente para convertirme en un problema para todos.»",
+                "Harumasa_Talent_03_Title_Realign": "Mentira piadosa"
+            },
+            {
+                "talent_id": "4",
+                "Harumasa_Talent_04_Title": "Motivación intermitente",
+                "Harumasa_Talent_04_Desc_01_Realign": "La duración del efecto de <color=#FFFFFF>prisión electrógena</color> aumenta a 20 s. Al golpear a un enemigo con el <color=#FFFFFF>ataque rápido: Cuerda célica - Corte</color>, Harumasa obtiene 30 dB. Puede activarse un máximo de una vez por cada habilidad. Al ejecutar la <color=#FFFFFF>técnica definitiva</color>, aplica sobre todos los enemigos en el campo de batalla el número máximo de cargas de <color=#FFFFFF>prisión electrógena</color>.",
+                "Harumasa_Talent_04_Desc_02": "En contadas ocasiones, Harumasa se siente motivado y lleno de energía...\nNormalmente, ocurre durante los últimos cinco minutos de la jornada de trabajo.",
+                "Harumasa_Talent_04_Desc_01": "La duración del efecto de <color=#FFFFFF>prisión electrógena</color> aumenta a 20 s. Al golpear a un enemigo con el <color=#FFFFFF>ataque rápido: Cuerda célica - Corte</color>, Harumasa obtiene 30 dB. Puede activarse un máximo de una vez por cada habilidad. Al ejecutar la <color=#FFFFFF>técnica definitiva</color>, aplica sobre todos los enemigos en el campo de batalla el número máximo de cargas de <color=#FFFFFF>prisión electrógena</color>.",
+                "Harumasa_Talent_04_Title_Realign": "Motivación intermitente"
+            },
+            {
+                "talent_id": "5",
+                "Harumasa_Talent_05_Title": "Ignoto",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Harumasa_Talent_05_Desc_02": "«Quiero vacaciones, libertad, ¡quiero ser feliz todos los días!»\n«Es broma. Quiero vivir.»",
+                "Harumasa_Talent_05_Title_Realign": "Ignoto"
+            },
+            {
+                "talent_id": "6",
+                "Harumasa_Talent_06_Title": "Entendimiento tácito",
+                "Harumasa_Talent_06_Desc_01_Realign": "Al golpear a un enemigo afectado por Aturdimiento o una Anomalía de Atributo con <color=#FFFFFF>Saetas primordiales</color>, Harumasa ignora un 15 % de la <color=#2EB6FF>resistencia eléctrica</color> del objetivo durante 12 s. Al golpear 12 veces al mismo enemigo con <color=#FFFFFF>Saetas primordiales</color>, se genera una explosión electromagnética adicional, infligiendo <color=#2EB6FF>daño eléctrico</color> equivalente a un 1500 % del Ataque de Harumasa al objetivo.",
+                "Harumasa_Talent_06_Desc_02": "«Mi maestro me enseñó muchas cosas, como a disparar con el arco, manejar la espada y sobrevivir en este mundo con mi cuerpo.»\n«¿Y qué pasó después?»\n«Pues... que me abandonó.»",
+                "Harumasa_Talent_06_Desc_01": "Al golpear a un enemigo afectado por Aturdimiento o una Anomalía de Atributo con <color=#FFFFFF>Saetas primordiales</color>, Harumasa ignora un 15 % de la <color=#2EB6FF>resistencia eléctrica</color> del objetivo durante 12 s. Al golpear 12 veces al mismo enemigo con <color=#FFFFFF>Saetas primordiales</color>, se genera una explosión electromagnética adicional, infligiendo <color=#2EB6FF>daño eléctrico</color> equivalente a un 1500 % del Ataque de Harumasa al objetivo.",
+                "Harumasa_Talent_06_Title_Realign": "Entendimiento tácito"
             }
         ]
     },

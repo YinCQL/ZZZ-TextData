@@ -122,7 +122,7 @@
         "20010": {
             "monster_id": 20010,
             "monster_name": "Bétonnière tarasque",
-            "card_text": "D'après ses recherches, l'Association d'inspection des Néantres pense que les Bétonnières tarasques contiennent de l'éther liquéfié en quantités variable.\nÀ mesure qu'elles remuent et mélangent l'éther qu'elles contiennent, une réaction complexe se produit et dégage violemment une quantité folle d'énergie destructrice. La force qui s'en résulte est comparable à celle générée par l'artillerie lourde des Forces de défense.\nLes inspecteurs chevronnés savent à quel point il est crucial de ne pas attirer leur attention et tomber sous le feu de leurs bombardements.\n« Quand elle s'est penchée dans ma direction, j'ai cru qu'elle allait m'offrir une sorte de cadeau de bienvenue. Mais quand j'ai vu son canon s'illuminer, j'ai compris qu'il s'agissait... d'un cadeau d'adieu. »",
+            "card_text": "D'après ses recherches, l'Association d'inspection des Néantres pense que les Bétonnières tarasques contiennent de l'éther liquéfié en quantités variables.\nÀ mesure qu'elles remuent et mélangent l'éther qu'elles contiennent, une réaction complexe se produit et dégage violemment une quantité folle d'énergie destructrice. La force qui s'en résulte est comparable à celle générée par l'artillerie lourde des Forces de défense.\nLes inspecteurs chevronnés savent à quel point il est crucial de ne pas attirer leur attention et tomber sous le feu de leurs bombardements.\n« Quand elle s'est penchée dans ma direction, j'ai cru qu'elle allait m'offrir une sorte de cadeau de bienvenue. Mais quand j'ai vu son canon s'illuminer, j'ai compris qu'il s'agissait... d'un cadeau d'adieu. »",
             "card_quote": "– L'entretien d'un inspecteur célèbre sur son expérience personnelle dans <i>2 Retour</i>",
             "skill_text": "En combat, la Bétonnière tarasque lance des attaques lasers continues tout en se repositionnant à l'aide de bonds latéraux."
         },
@@ -194,7 +194,7 @@
             "monster_name": "Thrace",
             "card_text": "Cet Éthéréen redoutable, dont le nom provient d'un peuple guerrier d'une mythologie antique, est réputé comme l'incarnation des plus grands combattants et des esprits malveillants les plus cruels corrompus par l'éther.\n— Mais ce n'est pas le cas. Bien que vos muscules saillants développés après des années d'exploration de Néantres et la bouffée d'adrénaline relâchée juste avant la mort puissent poser de gros problèmes à vos anciens coéquipiers une fois transformé, croyez-vous que vos camarades se retiendraient contre les reste d'un vieil ami qu'ils ne peuvent plus sauver ?\nMais cela n'a aucune importance. Lorsque votre joli minois se transforme en un orbe sombre et sinistre, qui se préoccupe encore de sa réputation ?\n« Pas étonnant que ce soit lui le patron. Même en Éthéréen, il est toujours aussi classe !\nJe savais bien que ça se finirait mal quand il allait constamment à la salle ! »",
             "card_quote": "— Confession bruyante d'un écumeur de Néantres capturé",
-            "skill_text": "En combat, le Thrace exécute ses compétences à répétition pour entrer dans un état de charge. Dans cet état, ses attaques deviennent plus agressives, et après avoir exécuté des compétences de haut niveau, il déclenche une explosion dans une vaste zone."
+            "skill_text": "En combat, le Thrace exécute ses compétences à répétition pour entrer dans un état de charge. Dans cet état, ses attaques deviennent plus agressives, et après avoir exécuté des techniques de haut niveau, il déclenche une explosion dans une vaste zone."
         },
         "35001": {
             "monster_id": 35001,
@@ -210,12 +210,26 @@
             "card_quote": "– Le talk-show de minuit <i>À l'heure du goûter dans les Néantres</i>, épisode 165, avec Nobby Kereyan comme invité, un agent antiémeute parti à la retraite suite à une blessure.",
             "skill_text": "En combat, Tyrfing attaque au corps à corps."
         },
+        "100004": {
+            "monster_id": 100004,
+            "monster_name": "Tyrfing (Infesté)",
+            "card_text": "Après l'étude du comportement du Tyrfing par l'Association d'inspection des Néantres, il a été montré que sa posture penchée et son balancement constant, qui donne l'impression qu'il manque d'équilibre, était en réalité la posture idéale pour lancer une série d'entailles successives.\nPar ses fréquentes apparitions et son agressivité, le Tyrfing est considéré comme l'un des Éthéréens les plus dangereux des Néantres, en particulier pour certaines personnes affectées à l'inspection des Néantres.\nEn effet, lorsqu'il rencontre un adversaire muni d'un bouclier, il attaque ce dernier sans relâche jusqu'à ce que son ennemi, ou lui-même, soit anéanti.\n« Peut-être que nous ne sommes pas des ennemis à ses yeux, mais plutôt... des sacs de frappe pour son entraînement ? »",
+            "card_quote": "— Le talk-show de minuit <i>2 Retour</i>, épisode 165, avec Nobby Kereyan comme invité, un agent antiémeute parti à la retraite suite à une blessure.",
+            "skill_text": "En combat, Tyrfing (Infesté) utilise des compétences différentes."
+        },
         "100011": {
             "monster_id": 100011,
             "monster_name": "Alpeca (Énergisé)",
             "card_text": "Les recherches effectuées par l'Association d'inspection des Néantres sur l'Alpeca sont limitées. Après avoir observé son comportement et son habitude de cracher de l'éther liquide, l'Association a considéré que l'Alpeca représentait un risque minime, et n'a pas poursuivi les recherches.\nToutefois, des scientifiques, intrigués par la capacité de l'Alpeca à cracher de l'éther liquéfié, ont montré un grand intérêt pour cet Éthéréen et ont commissionné plusieurs inspection pour de plus amples observations.\nCependant, les inspecteurs chevronnés semblent réticents à accomplir lesdites commissions. La raison de ce refus reste encore inconnue.\n« Tirons-nous ! Il recommence à cracher... Oh, c'est pas vrai ! Mes fringues toutes neuves ! »",
             "card_quote": "– Au cœur d'une Néantre, l'inspecteur novice Raffaele Bert tente de battre en retraite",
             "skill_text": "En combat, Alpeca lance des attaques à distance dispersées."
+        },
+        "100014": {
+            "monster_id": 100014,
+            "monster_name": "Alpeca (Infesté)",
+            "card_text": "Les recherches effectuées par l'Association d'inspection des Néantres sur l'Alpeca sont limitées. Après avoir observé son comportement et son habitude à cracher de l'éther liquide, l'Association a considéré que l'Alpeca représentait un risque minime, et n'a pas poursuivi les recherches.\nToutefois, des scientifiques, intrigués par la capacité de l'Alpeca à cracher de l'éther liquéfié, ont montré un grand intérêt pour cet Éthéréen et ont commissionné plusieurs inspections pour de plus amples observations.\nCependant, les inspecteurs chevronnés semblent réticents à accomplir lesdites commissions. La raison de ce refus reste encore inconnue.\n« Tirons-nous ! Il recommence à cracher... Oh, c'est pas vrai ! Mes fringues toutes neuves ! »",
+            "card_quote": "— Au cœur d'une Néantre, l'inspecteur novice Raffaele Bert tente de battre en retraite.",
+            "skill_text": "En combat, Alpeca (Infesté) utilise des compétences différentes."
         },
         "100021": {
             "monster_id": 100021,
@@ -237,6 +251,13 @@
             "card_text": "Selon les rapports de recherche de l'Association d'inspection des Néantres, les araignées explosives, à cause de leur mobilité réduite et du rayon limité de leurs explosions, sont des Éthéréens de seconde zone et ne représentent qu'une « menace minime », et peuvent « être ignorées ».\nToutefois, certains hommes d'affaires au flair aiguisé ont décelé en elles un certain potentiel, notamment en raison de la rondeur de leurs et corps et de leurs petites pattes.\nEn effet, c'est ainsi qu'est né le long-métrage <i>Roule, petite araignée explosive</i>, qui fit un carton au box-office et entraîna ensuite la production de poupées et oreillers araignée explosive qui se vendent aujourd'hui à prix d'or.\n« Je ne savais pas que leurs poupées étaient plus meurtrières que les vraies... pour mon portefeuille, en tout cas. On dirait que je vais me nourrir uniquement de nouilles instantanées le mois prochain, Billy... »",
             "card_quote": "– Anby vérifiant son portefeuille devant la grue de la rue commerçante.",
             "skill_text": "En combat, les Araignées explosives s'auto-détruisent."
+        },
+        "100044": {
+            "monster_id": 100044,
+            "monster_name": "Scaraboum",
+            "card_text": "Selon les rapports de recherche de l'Association d'inspection des Néantres, les araignées explosives, à cause de leur mobilité réduite et du rayon limité de leurs explosions, sont des Éthéréens de seconde zone et ne représentent qu'une « menace minime », et peuvent « être ignorées ».\nToutefois, certains hommes d'affaires au flair aiguisé ont décelé en elles un certain potentiel, notamment en raison de la rondeur de leurs et corps et de leurs petites pattes.\nEn effet, c'est ainsi qu'est né le long-métrage <i>Roule, petite araignée explosive</i>, qui fit un carton au box-office et entraîna ensuite la production de poupées et oreillers araignée explosive qui se vendent aujourd'hui à prix d'or.\n« Je ne savais pas que leurs poupées étaient plus meurtrières que les vraies... pour mon portefeuille, en tout cas. On dirait que je vais me nourrir uniquement de nouilles instantanées le mois prochain, Billy... »",
+            "card_quote": "– Anby vérifiant son portefeuille devant la grue de la rue commerçante.",
+            "skill_text": "En combat, les Scaraboums s'autodétruisent pour attaquer."
         },
         "100141": {
             "monster_id": 100141,
@@ -325,7 +346,7 @@
         "200034": {
             "monster_id": 200034,
             "monster_name": "Hati cuirassé (Infâme)",
-            "card_text": "Le Hati cuirassé est considéré comme un adversaire redoutable par de nombreux inspecteurs de Néantres chevronnés.\nBien que sa carapace blindée limite son agilité, elle la compense largement par une résistance exceptionnelle.\nDe plus, la matière corrompue à la surface de son corps forme des épines renforcées qui aggravent considérablement les dégâts qu'un Hati peut infliger en chargeant à grande vitesse.\nSon agilité, sa résistance aux coups et son armure sans faille font de cette créature un obstacle que de nombreux explorateurs aguerris préfèrent volontiers contourner.\nCertains écumeurs de Néantres débutants ont déjà tenté de distraire un Hati cuirassé avec de la nourriture pour animaux.\nCependant, ces tentatives étaient vaines.\n« Courez ! Il n'a pas l'air d'aimer cette marque de croquettes ! »",
+            "card_text": "Le Hati cuirassé est considéré comme un adversaire redoutable par de nombreux inspecteurs de Néantres chevronnés.\nBien que sa carapace blindée limite son agilité, elle la compense largement par une résistance exceptionnelle.\nDe plus, la matière corrompue à la surface de son corps forme des épines renforcées qui aggravent considérablement les dégâts qu'un Hati cuirassé peut infliger en chargeant à grande vitesse.\nSon agilité, sa résistance aux coups et son armure sans faille font de cette créature un obstacle que de nombreux explorateurs aguerris préfèrent volontiers contourner.\nCertains écumeurs de Néantres débutants ont déjà tenté de distraire un Hati cuirassé avec de la nourriture pour animaux.\nCependant, ces tentatives étaient vaines.\n« Courrez ! Il n'a pas l'air d'aimer cette marque de croquettes ! »",
             "card_quote": "– Plusieurs écumeurs de Néantres novices paniqués échappant à un Hati dans une Néantre",
             "skill_text": "En combat, l'armure du Hati cuirassé (Infâme) réduit considérablement les DGT et la confusion qu'il subit. Les soutiens défensifs réduisent grandement son armure. Son rugissement tire également des projectiles éthériques encore plus puissants."
         },
@@ -360,14 +381,14 @@
         "300004": {
             "monster_id": 300004,
             "monster_name": "Dullahan (Ionisé)",
-            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthériques et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
+            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthérique et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
             "card_quote": "– Extrait d'un entretien avec un inspecteur dans l'émission de variété <i>Instruis-moi, senpai !</i>",
             "skill_text": "En combat, le Dullahan (Ionisé) charge pour lancer une attaque puissante à l'aide de son épée longue, qui peut être interrompue par d'autres attaques à haut niveau. Certaines de ses compétences accumulent également de l'énergie éthérique qui lui permet d'enchaîner avec des attaques explosives."
         },
         "300005": {
             "monster_id": 300005,
             "monster_name": "Dullahan (Infâme)",
-            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthériques et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
+            "card_text": "Un puissant humanoïde éthérique observé pour la première fois dans la Néantre de Lochville, et répertorié par la Troisième équipe d'inspection de l'Association d'inspection des Néantres. Le lien exact entre ces êtres éthérique et la chute de Blaise, la ville au bord du lac, est encore un mystère.\nEn raison de leur force incommensurable et de leur technique de combat redoutable, l'AIN considère ces créatures comme extrêmement dangereuses et recommande à tous les inspecteurs novices d'éviter à tout prix toute confrontation directe.\n« Ne les laissez pas activer leurs épées. Mais si c'est déjà fait... Ne vous faites pas couper. »",
             "card_quote": "– Extrait d'un entretien avec un inspecteur dans l'émission de variété <i>Instruis-moi, senpai !</i>",
             "skill_text": "En combat, le Dullahan (Infâme) charge pour lancer une attaque puissante à l'aide de son épée longue, qui peut être interrompue par d'autres attaques puissantes. Il peut bloquer les attaques avec son bouclier et riposter rapidement."
         },
@@ -398,6 +419,125 @@
             "card_text": "Contrairement aux autres Éthéréens, l'éther à l'intérieur du corps du Boucher de l'Impasse reste souvent dans un état dormant.\nIl fait, néanmoins, preuve d'une force brute extraordinaire qui lui permet de détruire n'importe quel obstacle et de faire de l'ancien métro en ruines et distordu son garde-manger personnel.\nCe n'est que lorsqu'il affronte un adversaire à sa taille, qui pique sa curiosité, qu'il entreprend une métamorphose épouvantable...\nEn quelques instants, l'éther extrêmement concentré dans son organisme subit une violente transformation qui génère d'immenses quantités d'énergie qui force ses membres à se déformer rapidement. Cette forme, plus brutale encore que la précédente, est celle qu'il prend pour se nourrir.\nFini les amuse-gueules, il est temps que le festin commence !\nAinsi, quiconque souhaiterait éviter d'être au menu, devrait bien planifier son itinéraire et éviter à tout prix de se retrouver dans son garde-manger.\n« Les chemins des Néantres sont sinueux. Mais une chose est sûre, lorsqu'il apparaît au bout de la route, vous pouvez être sûr d'être dans une \"impasse\". »",
             "card_quote": "– La 17e enquête de l'Association d'inspection des Néantres au sujet de la Néantre de l'Impasse",
             "skill_text": "En combat, les attaques du Boucher de l'Impasse nouveau-né sont très variées. Lorsqu'il subit suffisamment de dégâts, il prend sa forme finale et dispose d'attaques plus féroces, ainsi que de lasers. Frappez-le avec des compétences à haut niveau à la fin e son combo pour lui infliger davantage de Vacillement. Le Boucher de l'Impasse nouveau-né peut esquiver les attaques avec des bonds agiles."
+        },
+        "300121": {
+            "monster_id": 300121,
+            "monster_name": "Infâme – Marionnette",
+            "card_text": "Il y a des dizaines d'années, deux sœurs ballerines sont devenues célèbres du jour au lendemain. Aussi brillantes que des étoiles filantes, elles firent affluer des masses d'admirateurs qui se précipitèrent pour assister à leur représentation aux Jumelles Ballet, qui étaient alors à leur apogée.\nCependant, alors que leur spectacle touchait à sa fin, une Néantre apparut et engloutit les Jumelles Ballet, plongeant ainsi les sœurs dans l'obscurité pour l'éternité. Leurs fans dans le monde entier furent dévastés par la nouvelle qui se répandit.\nAujourd'hui, on ne peut apercevoir que des fragments de leurs pas de danse enjoués sur des vidéos et images éparpillées.\nSeuls certains savent que lorsque la musique dansante retentit dans les Jumelles Ballet, les silhouettes éthérées des Marionnettes jumelles sortent de l'ombre. On suppose que ces silhouettes sont liées aux Jumelles ballerines, disparues lors de cette représentation fatidique, qui cherchent à montrer au monde le grand final qu'elles n'ont jamais pu finir.\n« Lorsque l'air sinistre s'est achevé, les deux Marionnettes ont surgi des ténèbres et ont fait une révérence... »\n« Hein ? Donc... elles essayent de nous dire que le spectacle commence ? »\n« Non, je pense qu'elles essayent de nous dire... que c'est trop tard pour fuir. C'est fini. »",
+            "card_quote": "- « Entretien au sujet des Néantres » numéro 251, un entretien avec un inspecteur des Néantres ayant survécu.",
+            "skill_text": "En combat, Marionnette (Infâme) invoque sa partenaire de danse pour attaquer. À chaque fois que sa partenaire de danse est vaincue, le prochain étourdissement qu'elle subira sera prolongé."
+        },
+        "930146": {
+            "monster_id": 930146,
+            "monster_name": "Tyrfing",
+            "card_text": "Un ennemi avec une ATQ et des PV très bas. Présente une menace minime. Habituellement le premier ennemi que rencontre les Bangbous novices lors de leur examen.",
+            "card_quote": null,
+            "skill_text": "PV : 50\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Lente\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+        },
+        "930147": {
+            "monster_id": 930147,
+            "monster_name": "Alrune",
+            "card_text": "Un ennemi très dangereux capable de lancer des <color=#D9A600>attaques à distance</color>. Lorsqu'il est bloqué, il dégage un brouillard empoisonné, qui <color=#D9A600>inflige des DGT à tous les Bangbous à proximité</color>. Déployez un <color=#D9A600>Bangbou serviable</color> pour le contrer.",
+            "card_quote": null,
+            "skill_text": "PV : 430\nATQ : Moyenne\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+        },
+        "930148": {
+            "monster_id": 930148,
+            "monster_name": "Ahriman",
+            "card_text": "Lorsque ses PV sont au max, <color=#D9A600>il se déplace extrêmement vite</color>, et <color=#D9A600>ne peut pas être bloqué</color>. Lorsqu'il subit une attaque, sa vitesse de déplacement diminue grandement et il devient blocable. Déployez un <color=#D9A600>Bangbou véloce</color> pour infliger des DGT à l'Ahriman aussi vite que possible pour minimiser sa menace.",
+            "card_quote": null,
+            "skill_text": "PV : 70\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide (Ralentit quand il subit une attaque)\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+        },
+        "930149": {
+            "monster_id": 930149,
+            "monster_name": "Alpeca",
+            "card_text": "L'Alpeca lance des <color=#D9A600>attaques à distance</color>, et peut attaquer les Bangbous en Position tactique. Gardez un œil sur l'endurance de vos candidats !",
+            "card_quote": null,
+            "skill_text": "PV : 100\nATQ : Faible\nDÉF : 21\nVitesse de déplacement : Lente\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+        },
+        "930150": {
+            "monster_id": 930150,
+            "monster_name": "Dullahan",
+            "card_text": "Une unité de combat au corps à corps très dangereuse, qui possède <color=#D9A600>énormément de PV</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
+            "card_quote": null,
+            "skill_text": "PV : 480\nATQ : Forte\nDÉF : 75\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+        },
+        "930152": {
+            "monster_id": 930152,
+            "monster_name": "Hoplites",
+            "card_text": "Lorsqu'ils entrent sur le terrain, les Hoplites <color=#D9A600>se déplacent très rapidement</color>. Ils entrent en collision avec le premier Bangbou qu'ils rencontrent, infligeant d'<color=#D9A600>importants DGT</color>. Ensuite, leur vitesse de déplacement diminue <color=#D9A600>grandement</color>.",
+            "card_quote": null,
+            "skill_text": "PV : 150\nATQ : Forte\nDÉF : 75\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930153": {
+            "monster_id": 930153,
+            "monster_name": "Faune",
+            "card_text": "Le Faune se déplace lentement, mais frappe fort. Attention à l'endurance de vos candidats !",
+            "card_quote": null,
+            "skill_text": "PV : 140\nATQ : Forte\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930154": {
+            "monster_id": 930154,
+            "monster_name": "Araignée explosive",
+            "card_text": "L'Araignée explosive se déplace rapidement et explose à proximité des Bangbous, infligeant des DGT à <color=#D9A600>tous les Bangbous</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
+            "card_quote": null,
+            "skill_text": "PV : 80\nATQ : Faible\nDÉF : 13\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930157": {
+            "monster_id": 930157,
+            "monster_name": "Tyrfing",
+            "card_text": "Un ennemi avec une ATQ et des PV très bas. Présente une menace minime. Habituellement le premier ennemi que rencontre les Bangbous novices lors de leur examen.",
+            "card_quote": null,
+            "skill_text": "PV : 140\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Lente\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+        },
+        "930158": {
+            "monster_id": 930158,
+            "monster_name": "Alrune",
+            "card_text": "Un ennemi très dangereux capable de lancer des <color=#D9A600>attaques à distance</color>. Lorsqu'il est bloqué, il dégage un brouillard empoisonné, qui <color=#D9A600>inflige des DGT à tous les Bangbous à proximité</color>. Déployez un <color=#D9A600>Bangbou serviable</color> pour le contrer.",
+            "card_quote": null,
+            "skill_text": "PV : 1 300\nATQ : Moyenne\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+        },
+        "930159": {
+            "monster_id": 930159,
+            "monster_name": "Ahriman",
+            "card_text": "Lorsque ses PV sont au max, <color=#D9A600>il se déplace extrêmement vite</color>, et <color=#D9A600>ne peut pas être bloqué</color>. Lorsqu'il subit une attaque, sa vitesse de déplacement diminue grandement et il devient blocable. Déployez un <color=#D9A600>Bangbou véloce</color> pour infliger des DGT à l'Ahriman aussi vite que possible pour minimiser sa menace.",
+            "card_quote": null,
+            "skill_text": "PV : 220\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide (Ralentit quand il subit une attaque)\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+        },
+        "930160": {
+            "monster_id": 930160,
+            "monster_name": "Alpeca",
+            "card_text": "L'Alpeca lance des <color=#D9A600>attaques à distance</color>, et peut attaquer les Bangbous en Position tactique. Gardez un œil sur l'endurance de vos candidats !",
+            "card_quote": null,
+            "skill_text": "PV : 300\nATQ : Faible\nDÉF : 21\nVitesse de déplacement : Lente\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+        },
+        "930161": {
+            "monster_id": 930161,
+            "monster_name": "Dullahan",
+            "card_text": "Une unité de combat au corps à corps très dangereuse, qui possède <color=#D9A600>énormément de PV</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
+            "card_quote": null,
+            "skill_text": "PV : 1 440\nATQ : Forte\nDÉF : 75\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+        },
+        "930162": {
+            "monster_id": 930162,
+            "monster_name": "Hoplites",
+            "card_text": "Lorsqu'ils entrent sur le terrain, les Hoplites <color=#D9A600>se déplacent très rapidement</color>. Ils entrent en collision avec le premier Bangbou qu'ils rencontrent, infligeant d'<color=#D9A600>importants DGT</color>. Ensuite, leur vitesse de déplacement diminue <color=#D9A600>grandement</color>.",
+            "card_quote": null,
+            "skill_text": "PV : 460\nATQ : Forte\nDÉF : 75\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930163": {
+            "monster_id": 930163,
+            "monster_name": "Faune",
+            "card_text": "Le Faune se déplace lentement, mais frappe fort. Attention à l'endurance de vos candidats !",
+            "card_quote": null,
+            "skill_text": "PV : 430\nATQ : Forte\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930164": {
+            "monster_id": 930164,
+            "monster_name": "Araignée explosive",
+            "card_text": "L'Araignée explosive se déplace rapidement et explose à proximité des Bangbous, infligeant des DGT à <color=#D9A600>tous les Bangbous</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
+            "card_quote": null,
+            "skill_text": "PV : 230\nATQ : Faible\nDÉF : 13\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
         }
     },
     "Bandits": {
@@ -412,7 +552,7 @@
             "monster_id": 10016,
             "monster_name": "Pyromane",
             "card_text": "Pour les Pyromanes et les Incendiaires, les vols en tout genre ne sont qu'une activité accessoire. Au plus profond de leur âme, ils se considèrent plutôt comme des amateurs de cocktails à la recherche de sensations fortes.\nAvec technique et précision, ils mélangent toutes sortes d'éthers différents dans leurs boissons, et concoctent avec un flegme sans faille des « cuvées spéciales » hautement inflammables et explosives.\nContrairement aux autres écumeurs de Néantres violents, ils offrent souvent à leurs victimes un choix.\nSi leurs victimes acceptent de payer leur « taxe », ils leur offrent généreusement une boisson gratuite.\nToutefois, si la victime refuse, ils versent violemment leur « cuvée spéciale » sur la tête de leur souffre-douleur.\n« Et si on leur faisait boire leur propre arsenal, à ces ordures ? »",
-            "card_quote": "– Dans une Néantre, un inspecteur victime de vol discute tranquillement d'une stratégie de repli",
+            "card_quote": "– Dans une Néantre, un inspecteur victime de vol discute transuilement d'une stratégie de repli",
             "skill_text": "En combat, Bandit des Néantres – Pyromane bombarde parfois ses cibles avec des pluies de cocktails molotov."
         },
         "10018": {
@@ -489,7 +629,7 @@
             "monster_id": 100161,
             "monster_name": "Incendiaire",
             "card_text": "Pour les Pyromanes et les Incendiaires, les vols en tout genre ne sont qu'une activité accessoire. Au plus profond de leur âme, ils se considèrent plutôt comme des amateurs de cocktails à la recherche de sensations fortes.\nAvec technique et précision, ils mélangent toutes sortes d'éthers différents dans leurs boissons, et concoctent avec un flegme sans faille des « cuvées spéciales » hautement inflammables et explosives.\nContrairement aux autres écumeurs de Néantres violents, ils offrent souvent à leurs victimes un choix.\nSi leurs victimes acceptent de payer leur « taxe », ils leur offrent généreusement une boisson gratuite.\nToutefois, si la victime refuse, ils versent violemment leur « cuvée spéciale » sur la tête de leur souffre-douleur.\n« Et si on leur faisait boire leur propre arsenal, à ces ordures ? »",
-            "card_quote": "– Dans une Néantre, un inspecteur victime de vol discute tranquillement d'une stratégie de repli",
+            "card_quote": "– Dans une Néantre, un inspecteur victime de vol discute transuilement d'une stratégie de repli",
             "skill_text": "En combat, Bandit des Néantres – Incendiaire bombarde parfois ses cibles avec des pluies de cocktails molotov."
         },
         "100181": {
@@ -603,7 +743,7 @@
             "monster_id": 200131,
             "monster_name": "Esprit tordu",
             "card_text": "Des âmes malchanceuses qui ont muté à cause de la corruption intense provoquée par la matière éthérique des Néantres. En raison de leur affinité éthérique élevée ainsi que leurs capacités physiques impressionnantes, leurs corps n'ont pas entièrement été transformés par l'éther. Leur forme humanoïde, renforcée par des membres mutants, n'en est que plus dangereuse.\nÀ en juger par ses loques et son aptitude au combat, il s'agissait probablement d'un haut gradé d'une bande criminelle ou d'un écumeur expérimenté qui rôdait dans les Néantres.\nLes armes de fortune fabriqués par ces bandits ont mystérieusement survécu à la transformation et ont même été améliorée par la matière éthérique. Les balles qui en sortent ne sont plus de plomb, mais composées d'un mélange de cristaux extrêmement nocif.\n« Ne restez pas plantés là ! Leurs munitions sont illimitées et ils n'ont pas besoin de recharger ! »",
-            "card_quote": "– Division spéciale en Néantres de la Sécurité publique, enregistrement audio du personnel en service",
+            "card_quote": "– Intervention spéciale en Néantres de la Sécurité publique, enregistrement audio du personnel en service",
             "skill_text": "En combat, Bandit corrompu – Esprit tordu enchaîne ses attaques avec une attaque de chevrotine éthérique."
         },
         "200141": {
@@ -612,6 +752,34 @@
             "card_text": "Des âmes malchanceuses qui ont muté à cause de la corruption intense provoquée par la matière éthérique des Néantres. En raison de leur affinité éthérique élevée ainsi que leurs capacités physiques impressionnantes, leurs corps n'ont pas entièrement été transformés par l'éther. Leur forme humanoïde, renforcée par des membres mutants, n'en est que plus dangereuse.\nÀ en juger par ses loques et son aptitude au combat, il s'agissait probablement d'un haut gradé d'une bande criminelle ou d'un écumeur expérimenté qui rôdait dans les Néantres.\nLes voyous sont connus pour leur violence, mais parmi eux, les bandits des Néantres sont réputés être les plus impitoyables. Les combattants d'élite de ces bandits sont particulièrement terrifiants, et font preuve d'une violence incommensurable. Lorsque ces brutes endurcies à la fois physiquement et mentalement sont suffisamment corrompues par l'éther, ils se changent en monstres encore plus féroces et sauvages que tous les autres.\n« Avant, ils hurlaient \"La bourse ou la vie\". Maintenant, ils ne nous laisse même plus le choix... »",
             "card_quote": "– Annotations dans un manuel interne de l'Association d'inspection des Néantres, « Identification d'une menace dans une Néantre : sujets corrompus »",
             "skill_text": "En combat, Bandit corrompu – Diable impitoyable lance des attaques en continu sur les cibles à proximité, et charge ses adversaires à distance. Il entre dans une rage incontrôlable lorsque ses bras sont détruits."
+        },
+        "300211": {
+            "monster_id": 300211,
+            "monster_name": "Infâme – Pompée",
+            "card_text": "Les habitants de la couronne extérieure le nommaient respectueusement « Suzerain Pompée ».\nMais son âme a été corrompue par l'éther et son corps est intoxiqué par le soufre et le pétrole brut. Ce cœur qui ne battait que pour la couronne extérieure s'est changé en noyau éthérique emplit d'une puissance infinie.\nL'ancien « Seigneur de la couronne extérieure » est revenu des flammes dans une forme différente.\nLibre, majestueux... violent, fou.\nIl charge à travers cendres et flammes en saisissant tout ce qui bouge pour l'exterminer sans pitié.\nCeux qui le connaissaient ont compris, en se basant sur ses chuchotements saccadés, qu'il n'est pas animé par un désir de vengeance mesquin, mais plutôt par la volonté d'écraser tous les intrus qui osent défier les règles de la couronne extérieure.\nIl s'agit peut-être du dernier vestige de la volonté de l'ancien Suzerain Pompée.\n« Notre chef s'est transformé en \"ça\", mais... il n'en reste pas moins lui-même. »",
+            "card_quote": "— Un ancien sous-fifre des Conquérants, tremblant de peur.",
+            "skill_text": "En combat, les attaques de Pompée (Infâme) laissent des traces éthériques instables sur le sol. Lorsque ses adversaires en approchent, ou qu'il lance une attaque chargée, l'énergie éthérique provoque une puissante explosion. Lorsque c'est nécessaire, il lève son arme pour bloquer les coups. Lorsqu'il bloque une attaque, il lance immédiatement une riposte."
+        },
+        "930155": {
+            "monster_id": 930155,
+            "monster_name": "Frappeur sournois",
+            "card_text": "Le Frappeur sournois possède <color=#FFAF2C>beaucoup de PV</color>. Concentrez vos forces sur lui !",
+            "card_quote": null,
+            "skill_text": "PV : 240\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930156": {
+            "monster_id": 930156,
+            "monster_name": "Frappeur sournois",
+            "card_text": "Le Frappeur sournois possède <color=#D9A600>beaucoup de PV</color>. Concentrez vos forces sur lui !",
+            "card_quote": null,
+            "skill_text": "PV : 240\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930165": {
+            "monster_id": 930165,
+            "monster_name": "Frappeur sournois",
+            "card_text": "Le Frappeur sournois possède <color=#FFAF2C>beaucoup de PV</color>. Concentrez vos forces sur lui !",
+            "card_quote": null,
+            "skill_text": "PV : 720\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
         }
     },
     "Sécurité publique": {
@@ -805,6 +973,13 @@
             "card_text": "Le Typhon cogneur est un mécha lourd dépourvu de système d'attaque à distance. À la place, sa conception se concentre sur son armure cinétique éthérique.\nDirects, crochets, attaques plongeantes... Le Typhon cogneur emploie des tactiques simples, mais efficaces, pour maximiser sa puissance destructrice conférée par son armure cinétique éthérique. Les ondes de choc générées par ses coups feraient trembler même les plus gros Éthéréens.\nMême les écumeurs de Néantres les plus aguerris ne peuvent que laisser échapper un soupir désespéré, lorsqu'ils croisent la route d'un Typhon cogneur.\n« Ce grand buste robuste, ces bras imposants... C'est tout à fait mon type... Euh, je veux dire, j'aime beaucoup ce modèle. »",
             "card_quote": "– Grace jouant avec une réplique du Typhon cogneur à la boutique de gadgets",
             "skill_text": "En combat, Unité tactique autonome – Typhon cogneur lance de puissants combos, et bondit parfois dans les airs pour asséner une attaque plongeante."
+        },
+        "300082": {
+            "monster_id": 300082,
+            "monster_name": "Unité offensive autonome – Typhon destructeur",
+            "card_text": "Le Typhon destructeur est un mécha lourd dépourvu de système d'attaque à distance. À la place, sa conception se concentre sur son armure cinétique éthérique.\nDirects, crochets, attaques plongeantes... Le Typhon destructeur emploie des tactiques simples, mais efficaces, pour maximiser sa puissance destructrice conférée par son armure cinétique éthérique. Les ondes de choc générées par ses coups feraient trembler même les plus gros Éthéréens.\nMême les écumeurs de Néantres les plus aguerris ne peuvent que laisser échapper un soupir désespéré, lorsqu'ils croisent la route d'un Typhon destructeur.\n« Ce grand buste robuste, ces bras imposants... C'est tout à fait mon type... Euh, je veux dire, j'aime beaucoup ce modèle. »",
+            "card_quote": "– Grace jouant avec une réplique du Typhon destructeur à la boutique de gadgets",
+            "skill_text": "En combat, l'Unité offensive autonome Typhon cogneur lance des combos encore plus puissants. Cependant, la majorité de ses compétences ne peut pas être contrée à l'aide de soutiens parfaits. Une fois son bras mécanique chargé, il lance une attaque chargée, qui, elle, peut être contrée à l'aide d'un soutien parfait. Si vous utilisez un soutien défensif pour contrer cette compétence plusieurs fois d'affilée, vous exposez sa faiblesse."
         }
     },
     "Spéciaux": {
@@ -818,7 +993,7 @@
         "30004": {
             "monster_id": 30004,
             "monster_name": "Gretel",
-            "card_text": "Gretel, employée de longue date des usines Belobog, a subi une corruption éthérique significative qui l'a libérée de sa routine ennuyeuse. C'est là qu'elle a découvert quelque chose de plus profond, de plus beau que l'huile de moteur et l'électricité qui la fait tourner...\nL'amour.\nLes vidéos de surveillance du chantier qui ont capturé sa première rencontre avec l'imposant M. White resteront à jamais gravées dans la mémoire interne de Gretel.\nL'architecture et la robustesse de M. White ont généré un puissant courant électrique dans les circuits de Gretel, et ont laissé une marque indélébile dans le cœur logique de Gretel.\nDès les premières millisecondes de leur rencontre guidée par le destin, Gretel était conquise, tous ses circuits imprimés étaient saturés d'électricité statiques et chaque rouage de son système se mit à vibrer.\nSans la moindre hésitation, elle ignora le signal de rappel des usines Belobog, s'installa fermement sur le chantier pour protéger son bien-aimé M. White, et décida de ne plus bouger d'un pouce.\nÀ partir de cet instant, quiconque oserait s'approcher de M. White, que ce soit un Éthéréen ou un inspecteur de Néantres, se ferait repousser manu militari.\nCette « jeune fille » éprise d'amour ferait tout pour protéger son bien-aimé.\nNotamment brandir une scie de démolition hybride de 1 400 kg alimentée à l'éther et à l'électricité.\nElle croit fermement que son amour enflammé durera jusqu'à l'effondrement de la Néantre, voire jusqu'à la destruction de l'Univers.\n« N'approchez pas de M. White, bande de déchets puants ! »",
+            "card_text": "Gretel, employée de longue date des usines Belobog, a subi une corruption éthérique significative qui l'a libérée de sa routine ennuyeuse. C'est là qu'elle a découvert quelque chose de plus profond, de plus beau que l'huile de moteur et l'électricité qui la fait tourner...\nL'amour.\nLes vidéos de surveillance du chantier qui ont capturé sa première rencontre avec l'imposant M. White resteront à jamais gravées dans la mémoire interne de Gretel.\nL'architecture et la robustesse de M. White ont généré un puissant courant électrique dans les circuits de Gretel, et ont laissé une marque indélébile dans le cœur logique de Gretel.\nDès les premières millisecondes de leur rencontre guidée par le destin, Gretel était conquise, tous ses circuits imprimés étaient saturés d'électricité statique et chaque rouage de son système se mit à vibrer.\nSans la moindre hésitation, elle ignora le signal de rappel des usines Belobog, s'installa fermement sur le chantier pour protéger son bien-aimé M. White, et décida de ne plus bouger d'un pouce.\nÀ partir de cet instant, quiconque oserait s'approcher de M. White, que ce soit un Éthéréen ou un inspecteur de Néantres, se ferait repousser manu militari.\nCette « jeune fille » éprise d'amour ferait tout pour protéger son bien-aimé.\nNotamment brandir une scie de démolition hybride de 1 400 kg alimentée à l'éther et à l'électricité.\nElle croit fermement que son amour enflammé durera jusqu'à l'effondrement de la Néantre, voire jusqu'à la destruction de l'univers.\n« N'approchez pas de M. White, bande de déchets puants ! »",
             "card_quote": "– Gretel éloignant un groupe d'Éthéréens s'approchant de M. White",
             "skill_text": "En combat, à l'aide de sa scie de démolition, Gretel, charge ses ennemis ou balaye une vaste zone, de plus son attraction permet de piéger les ennemis touchés pendant un court instant. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
         },
@@ -849,6 +1024,20 @@
             "card_text": "Une personne dangereuse qui erre parmi les différents gangs de la Nouvelle-Eridu. Elle est agile et pleines de ressources. Même une escouade tactique bien équipée et lourdement armée se retrouve souvent en mauvaise posture face à ses techniques de combat uniques et féroces, et finit généralement par perdre sans grabuge et prendre la fuite.",
             "card_quote": null,
             "skill_text": "En bat, les attaques de Jane sont extrêmement féroces. En cas de nécessité, elle peut parer et contrer les frappes ennemies, cependant elle expose généralement son point faible après avoir réalisé un combo."
+        },
+        "30024": {
+            "monster_id": 30024,
+            "monster_name": "Sacrifice – Bringer",
+            "card_text": "De vagabond errant dans les contrés sauvages à Commandant adjoint du quartier Janus, la vie de Bringer avait tout d'une histoire inspirante.\nMais derrière l'officier modèle se cachent des méfaits et des complots qui flottent au-dessus du quartier Janus comme des nuages orageux.\nPour arriver aux fins d'on ne sait quelle grande cause, Bringer a orchestré, dans l'ombre, un plan machiavélique, et était prêt à tout sacrifier pour le mener à bien.\nÀ la dernière étape de son plan, il s'est même injecté le Sérum du Sacrifice, prouvant ainsi sa foi sans faille dans le bien fondé de ses actions.\nÀ cet instant, tous ses désirs et toutes ses croyances abracadabrantes se sont manifestés sous une forme biscornue très concrète dans la Néantre.\nUne énergie éthérique explosive, une force brute qui détruit tout sur son passage... Toutes ses croyances farfelues s'entremêlent dans ce nouveau corps grotesque...\nSacrifice – Bringer. Il s'agit de son ultime identité, de sa forme parfaite.\n« Que le Créateur me façonne ! »",
+            "card_quote": "— Bringer, qui hurle du fin fond de son cœur.",
+            "skill_text": "En combat, Sacrifice – Bringer se transforme en diverses armes pour asséner des enchaînements d'attaques rapprochées et à distance. Il invoque également d'immenses créatures depuis la faille pour l'aider. Après avoir subi une certaine quantité de DGT, il entre dans sa deuxième phase. Il utilisera alors des attaques plus complexes, et lancera continuellement des tirs de barrage concentrés. Infligez-lui suffisamment de DGT pendant qu'il charge son Couteau sacrificiel pour interrompre le chargement et créer une ouverture."
+        },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Spinozoaire épineux",
+            "card_text": "L'éther est un parasite avare et insatiable, une créature vicieuse qui se repaît sur la vitalité de son hôte.\nLe Spinozoaire épineux, incarnation éthérique malveillante, se loge dans le corps de ses congénères cruels et permet aux Tyrfings et Alpecas de satisfaire l'appétit vorace des Néantres avec encore plus d'avidité.\n« Ah, ne m'approche pas, saleté ! »",
+            "card_quote": "— Un écologue spécialiste des Éthéréens, qui se rend compte qu'il s'agit simplement d'un insecte sautillant.",
+            "skill_text": "En combat, le Spinozoaire épineux erre sur le champ de bataille à la recherche d'un Tyrfing ou d'un Alpeca à parasiter."
         },
         "100231": {
             "monster_id": 100231,
@@ -898,6 +1087,13 @@
             "card_text": "Lorsque de l'éther en haute concentration s'est infiltré dans le disque dur de secours de Vendredi, un flot incessant de données s'est insinué dans sa mémoire.\nDes images, des fichiers audios et vidéos... Ce large éventail de fichiers surpassait les limites de ses capacités de traitement.\nC'est là que Vendredi eut une révélation.\nIl resta immobile quelque temps, recherchant frénétiquement la raison de cette « anomalie » dans la base de données.\nL'illumination.\nIl y avait une chance sur un million, c'était un miracle qui n'arrivait qu'aux êtres mécaniques intelligents qui avaient surmonté contre toute attente des catastrophes, telles que des erreurs systèmes ou des pannes d'alimentation.\nAu bout d'une longue introspection de deux dixièmes de seconde, Vendredi décida d'ignorer le signal de rappel des usines Belobog.\nParce qu'il savait qu'une fois l'élu de la destinée révélé, une catastrophe se profilerait à l'horizon.\nL'ennemi attend patiemment, tapi dans l'ombre, et le succès de la mission de Vendredi décidera du sort d'un nombre incalculable de vies. Il doit affronter cet ennemi terrible et le sceller hors de ce monde une bonne fois pour toutes.\n« Je renforcerai le sceau, car c'est mon destin, et l'on ne remet pas en cause le destin ! »",
             "card_quote": "– La machine intelligente élue, Vendredi",
             "skill_text": "En combat, Vendredi lance des ondes de choc difficiles à esquiver, mais qui peuvent être bloquées par des soutiens défensifs. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
+        },
+        "930151": {
+            "monster_id": 930151,
+            "monster_name": "Bangbou doré",
+            "card_text": "Le Bangbou doré <color=#D9A600>se déplace très rapidement et possède beaucoup de PV</color>, mais n'attaque pas les Bangbous. Éliminez-le, et vous pourriez <color=#D9A600>recevoir une surprise</color>.",
+            "card_quote": null,
+            "skill_text": "PV : 960\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide\nMenace : <color=#FF3333>Élevée</color>"
         }
     }
 }

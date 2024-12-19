@@ -171,7 +171,7 @@
         "30012": {
             "monster_id": 30012,
             "monster_name": "Marionetes Gêmeas",
-            "card_text": "Décadas atrás, duas talentosas irmãs dançarinas ganharam fama da noite para o dia. Como uma estrela cadente, eles atraíram uma enorme base de fãs e realizaram uma apresentação magnífica no badalado Edifícios Balé.\nNo entanto, à medida que o show se aproximava do fim, o Desastre das Esferas Negras aconteceu, engolindo as Bailarinas Gêmeas e mergulhando elas na escuridão eterna. A notícia chocou inúmeras pessoas em todo o mundo.\nHoje, a maioria das pessoas só consegue vislumbrar sua dança comovente por meio de vídeos e imagens que sobreviveram para contar história.\nPoucos sabem que, quando a música daquela dança esquecida ecoa nos Edifícios Balé, emergem as figuras etéreas das Bailarinas Gêmeas. Acredita-se que essas criaturas estejam ligadas às dançarinas gêmeas daquela apresentação fatídica, tentando terminar o grand finale que nunca foram capazes de completar.\n\"Quando aquela música arrepiante chegou ao fim, as duas bailarinas emergiram da escuridão e fizeram uma reverência...\"\n\"Hum? Então... elas estão tentando dizer que o show começou?\"\n\"Não. Acho que o que elas estão tentando dizer é que... é tarde demais para fugir. É o nosso fim.\"",
+            "card_text": "Décadas atrás, duas talentosas irmãs dançarinas ganharam fama da noite para o dia. Como uma estrela cadente, elas atraíram uma enorme base de fãs e realizaram uma apresentação magnífica no badalado Edifícios Balé.\nNo entanto, à medida que o show se aproximava do fim, o Desastre das Esferas Negras aconteceu, engolindo as Bailarinas Gêmeas e mergulhando elas na escuridão eterna. A notícia chocou inúmeras pessoas em todo o mundo.\nHoje, a maioria das pessoas só consegue vislumbrar sua dança comovente por meio de vídeos e imagens que sobreviveram para contar história.\nPoucos sabem que, quando a música daquela dança esquecida ecoa nos Edifícios Balé, emergem as figuras etéreas das Bailarinas Gêmeas. Acredita-se que essas criaturas estejam ligadas às dançarinas gêmeas daquela apresentação fatídica, tentando terminar o grand finale que nunca foram capazes de completar.\n\"Quando aquela música arrepiante chegou ao fim, as duas bailarinas emergiram da escuridão e fizeram uma reverência...\"\n\"Hum? Então... elas estão tentando dizer que o show começou?\"\n\"Não. Acho que o que elas estão tentando dizer é que... é tarde demais para fugir. É o nosso fim.\"",
             "card_quote": "— trecho da entrevista com um investigador sobrevivente na edição 251 de \"Histórias da Esfera Negra\"",
             "skill_text": "Durante o combate, as Marionetes Gêmeas efetuam inúmeros Ataques em Cadeia. Alguns dos seus ataques podem ser interrompidos usando várias Assistências Defensivas. Além disso, as gêmeas tentam se ressuscitar caso uma delas caia."
         },
@@ -210,12 +210,26 @@
             "card_quote": "— Programa de entrevistas à meia-noite \"O Encontro\", episódio 165, apresentando o agente aposentado por ferimento da patrulha antimotim, Nobby Kereyan",
             "skill_text": "Durante o combate, Tyrfing realiza ataques corpo-a-corpo."
         },
+        "100004": {
+            "monster_id": 100004,
+            "monster_name": "Tyrfing (Forma Parasitária)",
+            "card_text": "A Associação de Investigação de Esferas Negras estuda os padrões comportamentais do Tyrfing, e os resultados da pesquisa mostram que, na verdade, a postura que parece desequilibrada, sempre se balançando e se inclinando, é uma forma muito eficiente para desferir ataques cortantes sucessivos.\nPor seus aparecimentos frequentes e comportamento agressivo, o Tyrfing foi identificado como um dos Etéreos mais letais na Esfera Negra, principalmente para certos indivíduos da equipe.\nDiante de um inimigo protegido por escudo, ele desfere ataques sem parar até o inimigo ou ele ser destruído.\n\"Talvez... eles não nos odeiem, mas nos vejam como sacos de pancada para treinar.\"",
+            "card_quote": "— Programa de entrevistas à meia-noite \"O Encontro\", episódio 165, apresentando o agente aposentado por ferimento da patrulha antimotim, Nobby Kereyan",
+            "skill_text": "Em combate, o Tyrfing (Forma Parasitária) usará várias habilidades diferentes."
+        },
         "100011": {
             "monster_id": 100011,
             "monster_name": "Alpeca - Energizado",
             "card_text": "A Associação de Investigação de Esferas Negras limitou a pesquisa sobre Alpeca. Após um breve período de estudo do padrão comportamental dos cuspes de Éter líquido dele, a Associação classificou o Alpeca como um Etéreo de baixo risco e encerrou a investigação.\nAlguns estudiosos demonstram grande interesse na observação de como Alpeca cospe Éter liquefeito e solicitaram análises para observação direta.\nPorém, os investigadores experientes vêm evitando tais tarefas por motivos desconhecidos.\n\"Corram! Eles estão cuspindo de novo... Ah, não! Minha roupa nova!\"",
             "card_quote": "— Nas profundezas de uma Esfera Negra, o investigador novato Raffaele Bert tenta recuar",
             "skill_text": "Durante o combate, Alpeca realizará diferentes ataques à distância."
+        },
+        "100014": {
+            "monster_id": 100014,
+            "monster_name": "Alpeca (Forma Parasitária)",
+            "card_text": "A Associação de Investigação de Esferas Negras limitou a pesquisa sobre Alpeca. Após um breve período de estudo do padrão comportamental dos cuspes de Éter líquido dele, a Associação classificou o Alpeca como um Etéreo de baixo risco e encerrou a investigação.\nAlguns estudiosos demonstram grande interesse na observação de como Alpeca cospe Éter liquefeito e solicitaram análises para observação direta.\nPorém, os investigadores experientes vêm evitando tais tarefas por motivos desconhecidos.\n\"Corram! Eles estão cuspindo de novo... Ah, não! Minha roupa nova!\"",
+            "card_quote": "— Nas profundezas de uma Esfera Negra, a investigadora novata Raffaele Bert tenta recuar",
+            "skill_text": "Em combate, o Alpeca (Forma Parasitária) usará várias habilidades diferentes."
         },
         "100021": {
             "monster_id": 100021,
@@ -237,6 +251,13 @@
             "card_text": "Segundo relatórios de pesquisas conduzidas pela Associação de Investigação de Esferas Negras, as Explodaranhas, com sua baixa mobilidade e pequenas explosões, são classificadas com Etéreos de baixo nível, \"baixo risco\" e \"irrelevantes\".\nPorém, empresários astutos reconheceram as oportunidades oferecidas por seus corpos arredondados e pernas curtas.\nUm filme intitulado \"Role, Explodaranha\" ganhou grande popularidade, levando à venda de produtos como bonecos e travesseiros da Explodaranha a preços consideráveis.\n\"Eu não esperava que esses bonecos fossem mais letais do que os originais... Pelo menos, para as carteiras. Parece que vou passar o próximo mês sobrevivendo à base de macarrão instantâneo, Billy...\"",
             "card_quote": "— Anby conferindo a carteira na frente da máquina de grua na rua comercial.",
             "skill_text": "Durante o combate, a Explodaranha se destrói."
+        },
+        "100044": {
+            "monster_id": 100044,
+            "monster_name": "Explodinseto",
+            "card_text": "Segundo relatórios de pesquisas conduzidas pela Associação de Investigação de Esferas Negras, as Explodaranhas, com sua baixa mobilidade e pequenas explosões, são classificadas como Etéreos de baixo nível, \"baixo risco\" e \"irrelevantes\".\nPorém, empresários astutos reconheceram as oportunidades oferecidas por seus corpos arredondados e pernas curtas.\nUm filme intitulado \"Role, Explodaranha\" ganhou grande popularidade, levando à venda de produtos como bonecos e travesseiros da Explodaranha a preços consideráveis.\n\"Eu não esperava que esses bonecos fossem mais letais do que os originais... Pelo menos, para as carteiras. Parece que vou passar o próximo mês sobrevivendo à base de macarrão instantâneo, Billy...\"",
+            "card_quote": "— Anby conferindo a carteira na frente da máquina de grua na rua comercial.",
+            "skill_text": "Durante o combate, os Explodinsetos se destroem."
         },
         "100141": {
             "monster_id": 100141,
@@ -398,6 +419,125 @@
             "card_text": "Ao contrário de outros Etéreos altamente perigosos, o Éter dentro do corpo do Carniceiro do Beco costuma permanecer num estado dormente de baixa atividade.\nNo entanto, ele tem uma força bruta imensa capaz de demolir qualquer obstáculo, e toda a Zona do Metrô retorcida e devastada serve como sua cozinha proibida.\nApenas quando um alvo ameaçador desperta seu interesse é que ocorre uma transformação horripilante...\nEm instantes, a alta concentração de Éter armazenada em seu corpo sofre uma transformação violenta, e a energia que aumenta exponencialmente faz com que seus membros se distorçam muito rápido, assumindo uma postura de \"alimentação\" mais brutal e voraz.\nA hora dos \"aperitivos\" terminou, e um \"banquete\" inigualável está prestes a começar.\nQualquer um que não queira fazer parte deste banquete deve ser bastante cauteloso ao escolher o caminho e ficar longe da \"cozinha\" a todo custo.\n\"Os caminhos nas Esferas Negras são complexos, mas uma coisa é certa: quando ele aparece no final do caminho, esse caminho é um 'beco sem saída'.\"",
             "card_quote": "— 17ª Investigação da Esfera Sem Saída da Associação de Investigação de Esferas Negras",
             "skill_text": "Durante o combate, os ataques do Filhote de Carniceiro do Beco variam muito. Após ele sofrer dano suficiente, os ataques da fase dois tornam-se sequenciais, com a adição de ataques de laser. Use uma habilidade de alto nível após seu combo acabar para aumentar a paralisação. O Filhote de Carniceiro do Beco efetua esquivas rápidas para evitar ataques inimigos."
+        },
+        "300121": {
+            "monster_id": 300121,
+            "monster_name": "Notável - Marionete",
+            "card_text": "Décadas atrás, duas talentosas irmãs dançarinas ganharam fama da noite para o dia. Como uma estrela cadente, elas atraíram uma enorme base de fãs e realizaram uma apresentação magnífica no badalado Edifícios Balé.\nNo entanto, à medida que o show se aproximava do fim, o Desastre das Esferas Negras aconteceu, engolindo as Bailarinas Gêmeas e mergulhando elas na escuridão eterna. A notícia chocou inúmeras pessoas em todo o mundo.\nHoje, a maioria das pessoas só consegue vislumbrar sua dança comovente por meio de vídeos e imagens que sobreviveram para contar história.\nPoucos sabem que, quando a música daquela dança esquecida ecoa nos Edifícios Balé, as figuras etéreas das Bailarinas Gêmeas aparecem. Acredita-se que essas criaturas estejam ligadas às dançarinas gêmeas daquela fatídica apresentação, tentando executar o grand finale que nunca foram capazes de completar.\n\"Quando aquela música arrepiante chegou ao fim, as duas bailarinas emergiram da escuridão e fizeram uma reverência...\"\n\"Hum? Então... elas estão tentando dizer que o show começou?\"\n\"Não. Acho que o que elas estão tentando dizer é que... é tarde demais para fugir. É o nosso fim.\"",
+            "card_quote": "— trecho da entrevista com um investigador sobrevivente na edição 251 de \"Histórias da Esfera Negra\"",
+            "skill_text": "Durante a batalha, Notável - Marionete invoca sua parceira de dança para atacar. A cada vez que a parceira de dança é derrotada, sua próxima duração de Atordoamento aumenta."
+        },
+        "930146": {
+            "monster_id": 930146,
+            "monster_name": "Tyrfing",
+            "card_text": "Uma unidade inimiga com ATQ e PV muito baixos, representando uma ameaça mínima. Normalmente o primeiro inimigo que um Bangboo encontra no Exame de Bangboos.",
+            "card_quote": null,
+            "skill_text": "PV: 50\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+        },
+        "930147": {
+            "monster_id": 930147,
+            "monster_name": "Arlaune",
+            "card_text": "Um inimigo extremamente perigoso que utiliza <color=#D9A600>ataques de longo alcance</color>. Ao ser bloqueado, ele libera uma névoa venenosa, <color=#D9A600>causando Dano em todos os Bangboo próximos</color>. É recomendado usar <color=#D9A600>Bangboo Gentil</color> para lidar com ele.",
+            "card_quote": null,
+            "skill_text": "PV: 430\nATQ: Médio\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+        },
+        "930148": {
+            "monster_id": 930148,
+            "monster_name": "Arimã",
+            "card_text": "Quando seus PV estiverem cheios, sua <color=#D9A600>Velocidade de Movimento é extremamente alta</color> e <color=#D9A600>não é possível bloqueá-lo</color>. Após sofrer Dano, sua Velocidade de Movimento será reduzida e será possível bloquear. Recomendamos o uso do <color=#D9A600>Bangboo de Disparo</color> para causar Dano contra Arimã o mais rápido possível para reduzir seu nível de ameaça.",
+            "card_quote": null,
+            "skill_text": "PV: 70\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida, mas fica mais lenta ao sofrer ataques\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+        },
+        "930149": {
+            "monster_id": 930149,
+            "monster_name": "Alpeca",
+            "card_text": "Alpeca consegue executar <color=#D9A600>Ataques de Longo Alcance</color> e atacar Bangboos em Posições Táticas. Preste atenção na condição física dos candidatos.",
+            "card_quote": null,
+            "skill_text": "PV: 100\nATQ: Baixo\nDEF: 21\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+        },
+        "930150": {
+            "monster_id": 930150,
+            "monster_name": "Dullahan",
+            "card_text": "Uma unidade de combate corpo a corpo com <color=#D9A600>PV extremamente altos</color>. Recomendamos o uso do <color=#D9A600>Papelboo</color>, que possui muitos PV, para lidar com ela.",
+            "card_quote": null,
+            "skill_text": "PV: 480\nATQ: Alto\nDEF: 75\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+        },
+        "930152": {
+            "monster_id": 930152,
+            "monster_name": "Hoplita",
+            "card_text": "A Hoplita entra com uma <color=#D9A600>Velocidade de Movimento muito alta</color>. Ela colide com o primeiro Bangboo que encontra no seu caminho, causando <color=#D9A600>muito dano</color>. Após isso, sua Velocidade de Movimento diminuirá <color=#D9A600>bastante</color>.",
+            "card_quote": null,
+            "skill_text": "PV: 150\nATQ: Alto\nDEF: 75\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930153": {
+            "monster_id": 930153,
+            "monster_name": "Sátiro",
+            "card_text": "O Sátiro se move lentamente, mas tem um ATQ alto. Preste atenção na condição física dos candidatos.",
+            "card_quote": null,
+            "skill_text": "PV: 140\nATQ: Alto\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930154": {
+            "monster_id": 930154,
+            "monster_name": "Explodaranha",
+            "card_text": "A Explodaranha se move rapidamente e se explode perto dos Bangboos, causando dano a <color=#D9A600>a todos os Bangboos</color>. Utilize um <color=#D9A600>Papelboo</color>, que possui PB muito altos, para lidar com ela.",
+            "card_quote": null,
+            "skill_text": "PV: 80\nATQ: Baixo\nDEF: 13\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930157": {
+            "monster_id": 930157,
+            "monster_name": "Tyrfing",
+            "card_text": "Uma unidade inimiga com ATQ e PV muito baixos, representando uma ameaça mínima. Normalmente o primeiro inimigo que um Bangboo encontra no Exame de Bangboos.",
+            "card_quote": null,
+            "skill_text": "PV: 140\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+        },
+        "930158": {
+            "monster_id": 930158,
+            "monster_name": "Arlaune",
+            "card_text": "Um inimigo extremamente perigoso que utiliza <color=#D9A600>ataques de longo alcance</color>. Ao ser bloqueado, ele libera uma névoa venenosa, <color=#D9A600>causando Dano em todos os Bangboo próximos</color>. É recomendado usar <color=#D9A600>Bangboo Gentil</color> para lidar com ele.",
+            "card_quote": null,
+            "skill_text": "PV: 1300\nATQ: Médio\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+        },
+        "930159": {
+            "monster_id": 930159,
+            "monster_name": "Arimã",
+            "card_text": "Quando seus PV estiverem cheios, sua <color=#D9A600>Velocidade de Movimento é extremamente alta</color> e <color=#D9A600>não é possível bloqueá-lo</color>. Após sofrer Dano, sua Velocidade de Movimento será reduzida e será possível bloquear. Recomendamos o uso do <color=#D9A600>Bangboo de Disparo</color> para causar Dano contra Arimã o mais rápido possível para reduzir seu nível de ameaça.",
+            "card_quote": null,
+            "skill_text": "PV: 220\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida, mas fica mais lenta ao sofrer ataques\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+        },
+        "930160": {
+            "monster_id": 930160,
+            "monster_name": "Alpeca",
+            "card_text": "Alpeca consegue executar <color=#D9A600>Ataques de Longo Alcance</color> e atacar Bangboos em Posições Táticas. Preste atenção na condição física dos candidatos.",
+            "card_quote": null,
+            "skill_text": "PV: 300\nATQ: Baixo\nDEF: 21\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+        },
+        "930161": {
+            "monster_id": 930161,
+            "monster_name": "Dullahan",
+            "card_text": "Uma unidade de combate corpo a corpo com <color=#D9A600>PV extremamente altos</color>. Recomendamos o uso do <color=#D9A600>Papelboo</color>, que possui muitos PV, para lidar com ela.",
+            "card_quote": null,
+            "skill_text": "PV: 1440\nATQ: Alto\nDEF: 75\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+        },
+        "930162": {
+            "monster_id": 930162,
+            "monster_name": "Hoplita",
+            "card_text": "A Hoplita entra com uma <color=#D9A600>Velocidade de Movimento muito alta</color>. Ela colide com o primeiro Bangboo que encontra no seu caminho, causando <color=#D9A600>muito dano</color>. Após isso, sua Velocidade de Movimento diminuirá <color=#D9A600>bastante</color>.",
+            "card_quote": null,
+            "skill_text": "PV: 460\nATQ: Alto\nDEF: 75\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930163": {
+            "monster_id": 930163,
+            "monster_name": "Sátiro",
+            "card_text": "O Sátiro se move lentamente, mas tem um ATQ alto. Preste atenção na condição física dos candidatos.",
+            "card_quote": null,
+            "skill_text": "PV: 430\nATQ: Alto\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930164": {
+            "monster_id": 930164,
+            "monster_name": "Explodaranha",
+            "card_text": "A Explodaranha se move rapidamente e se explode perto dos Bangboos, causando dano a <color=#D9A600>a todos os Bangboos</color>. Utilize um <color=#D9A600>Papelboo</color>, que possui PB muito altos, para lidar com ela.",
+            "card_quote": null,
+            "skill_text": "PV: 230\nATQ: Baixo\nDEF: 13\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         }
     },
     "Bandidos": {
@@ -612,6 +752,34 @@
             "card_text": "Almas infelizes silenciadas pela corrupção intensa da matéria de Éter nas Esferas Negras. Devido a um grau considerável de afinidade com o Éter e à capacidade física, seus corpos não foram transformados por completo pelo Éter, mantendo características humanoides, mas com membros mutantes aprimorados ainda mais perigosos.\nA julgar pelos restos de roupas e experiência de combate, provavelmente eram membros experientes de gangues ou saqueadores que se escondiam nas Esferas Negras.\nBandidos são conhecidos pelo comportamento perigoso, e, dentre eles, os bandidos da Esfera se destacam como os mais implacáveis. Os lutadores de elite entre esses bandidos da Esfera são especialmente aterrorizantes, exibindo um nível elevado de violência. Quando esses brutamontes, endurecidos tanto física quanto mentalmente pela violência, sofrem corrupção do Éter, se transformam em monstros com uma natureza mais feroz e selvagem.\n\"Antes eles gritavam 'dinheiro ou sua vida', mas agora estão apenas obcecados em tirar a vida alheia...\"",
             "card_quote": "— Anotações no livro didático interno da Associação de Investigação de Esferas Negras, \"Identificação de Ameaças numa Esfera Negra: Indivíduos Corrompidos\"",
             "skill_text": "Durante o combate, o Bandido Corrompido - Maníaco Implacável executa ataques contínuos contra alvos próximos e avança na direção de alvos distantes. Ele fica mais feroz após seus braços serem destruídos."
+        },
+        "300211": {
+            "monster_id": 300211,
+            "monster_name": "Notório - Pompey",
+            "card_text": "Ele ganhou o título de \"Soberano Pompey\" na zona externa.\nAgora, sua alma encontra-se corrompida pela potência do Éter e seu corpo poluído pelo enxofre e o petróleo cru. Seu coração, que batia apenas para proteger a zona externa, se transformou num núcleo de Éter crítico com um poder infinito.\nO antigo senhor da zona externa renasceu das chamas e assumiu uma forma diferente.\nLiberdade, majestade... violência, insanidade.\nEle ataca através da poeira e das chamas, agarrando tudo o que se move e destruindo-os sem pena.\nAqueles que o conheciam antes disso, interpretaram seus sussurros fragmentados e acham que ele não deseja vingança, apenas quer destruir os forasteiros que desafiam as leis da zona externa.\nTalvez seja o último vestígio das vontades do Soberano Pompey.\n\"Nosso líder se transformou 'nisso', mas... ainda parece que ele é a mesma pessoa.\"",
+            "card_quote": "— Um ex-capanga dos Aniquiladores, tremendo de medo",
+            "skill_text": "Em combate, os ataques de Pompey - Notório deixam uma energia de Éter instável no solo. Quando os inimigos se aproximam dela, ou quando ele lança um Ataque Carregado, a energia de Éter explode violentamente. Quando necessário, ele levanta sua arma para bloquear. Ao bloquear com sucesso, ele executa um Contra-Ataque imediatamente."
+        },
+        "930155": {
+            "monster_id": 930155,
+            "monster_name": "Golpeador Cruel",
+            "card_text": "O Golpeador cruel <color=#FFAF2C>tem muitos PV</color>. Concentre seus ataques nele.",
+            "card_quote": null,
+            "skill_text": "PV: 240\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930156": {
+            "monster_id": 930156,
+            "monster_name": "Golpeador Cruel",
+            "card_text": "O Golpeador cruel <color=#D9A600>tem muitos PV</color>. Concentre seus ataques nele.",
+            "card_quote": null,
+            "skill_text": "PV: 240\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930165": {
+            "monster_id": 930165,
+            "monster_name": "Golpeador Cruel",
+            "card_text": "O Golpeador cruel <color=#FFAF2C>tem muitos PV</color>. Concentre seus ataques nele.",
+            "card_quote": null,
+            "skill_text": "PV: 720\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         }
     },
     "Departamento de Segurança Pública": {
@@ -805,6 +973,13 @@
             "card_text": "Sendo um meca pesado, o Tufão Golpeador não possui armamento de longo alcance. Em vez disso, seu forte está na blindagem Éter-Cinética.\nAtaques de impacto, golpes pesados, esmagamento... O Tufão Golpeador usa manobras táticas simples, mas eficientes, para maximizar seu poder destrutivo proporcionado pela blindagem Éter-Cinética. Os efeitos de onda de choque de seus golpes podem intimidar até Etéreos maiores.\nAté os Saqueadores de Esferas mais experientes se sentem impotentes diante do impenetrável Tufão Golpeador.\n\"A estatura alta e robusta, os braços poderosos e resistentes... É o meu tipo ideal... digo, modelo ideal.\"",
             "card_quote": "— Grace brincando com um modelo do Tufão Golpeador na frente da loja de gadgets",
             "skill_text": "Durante o combate, a Unidade Tática Autônoma - Tufão Golpeador efetua combos poderosos e, às vezes, pula para executar um ataque de pura força bruta."
+        },
+        "300082": {
+            "monster_id": 300082,
+            "monster_name": "Unidade Autônoma de Suporte - Tufão Destruidor",
+            "card_text": "Sendo um meca pesado, o Tufão Destruidor não possui armamento de longo alcance. Em vez disso, seu forte está na blindagem Éter-Cinética.\nAtaques de impacto, golpes pesados, esmagamento... O Tufão Destruidor usa manobras táticas simples, mas eficientes, para maximizar seu poder destrutivo proporcionado pela blindagem Éter-Cinética. Os efeitos de onda de choque de seus golpes podem intimidar até Etéreos maiores.\nAté os Saqueadores de Esferas mais experientes se sentem impotentes diante do impenetrável Tufão Destruidor.\n\"A estatura alta e robusta, os braços poderosos e resistentes... É o meu tipo ideal... digo, modelo ideal.\"",
+            "card_quote": "— Grace brincando com um modelo do Tufão Destruidor na frente da loja de gadgets",
+            "skill_text": "Em combate, a Unidade Autônoma de Suporte Tufão Destruidor executa combinações de ataques mais poderosas. Entretanto, a maioria das suas habilidades não ativará uma Assistência Perfeita. Após carregar o seu braço mecânico, ele efetua uma habilidade elevada que pode ativar uma Assistência Perfeita. Se você utilizar a Assistência Defensiva para se defender contra o ataque várias vezes, será possível expor a sua fraqueza."
         }
     },
     "Especial": {
@@ -849,6 +1024,20 @@
             "card_text": "Um indivíduo perigoso envolvido com diversas gangues de Nova Eridu. Ela é ágil e tem aparência versátil. Até uma equipe tática altamente armada tem dificuldades para lidar com seu estilo único de combate... E normalmente acabam fugindo derrotados.",
             "card_quote": null,
             "skill_text": "Os ataques de Jane durante o combate são poderosos. Ela pode impedir ataques de inimigos, mas, normalmente, expõe uma fraqueza ao final de um combo."
+        },
+        "30024": {
+            "monster_id": 30024,
+            "monster_name": "Sacrifício Bringer",
+            "card_text": "Desde ser um sobrevivente errante das terras selvagens até se tornar o Vice-oficial da Segurança Pública do Distrito Janus, a vida de Bringer parece ser uma história de superação cheia de brilho.\nContudo, por trás dessa história inspiradora, certos crimes e conspirações desconhecidos pairam como nuvens sombrias invisíveis sobre o distrito Janus.\nPor um plano final de um empreendimento grandioso, Bringer sempre controlou os acontecimentos nos bastidores, tramando estratégias e, para isso, não hesitou em sacrificar tudo o que tinha...\nNa etapa final de seu plano, ele até injetou em si mesmo o medicamento Sacrifício, demonstrando sua fé inabalável através de ações práticas.\nNaquele momento, todos os seus desejos e crenças insanas tomaram forma concreta de maneira distorcida dentro do vazio.\nA energia ativa do Éter pulsava violentamente, uma força bruta inigualável que destruiu tudo… Todos os desejos bizarros e crenças misturadas estavam abrigados naquele corpo estranho recém-nascido...\nSacrifício Bringer – Esta foi sua última identidade e também sua forma mais perfeita.\n\"Que o Criador... me dê forma!\"",
+            "card_quote": "— Grito de Bringer, saído da alma.",
+            "skill_text": "Em combate, Sacrifício - Bringer conta com diferentes armas para lançar um conjunto de ataques de longo alcance e corpo a corpo. Além disso, ele conta com poderosas invocações que podem ajudá-lo na batalha. Após sofrer uma certa quantidade de dano, ele entrará na segunda fase, onde executará mais ataques de alto nível combinados com uma intensa sequência de disparos. Causar dano suficiente enquanto ele carrega sua Lâmina do Sacrifício interromperá a carga e o deixará exposto."
+        },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Minhoca Espinhosa",
+            "card_text": "O Éter é um parasita voraz e insaciável, uma criatura extremamente maligna que devora toda a vida outrora vibrante e animada.\nO protozoário espinhoso é uma encarnação ainda mais perversa do Éter — alojado em seus cruéis colegas, \"Tyrfing\" e \"Alpeca\", eles conseguem satisfazer seu insaciável apetite de forma ainda mais brutal nas Esferas Negras.\n\"Fique longe do meu rosto!\"",
+            "card_quote": "— Um ecologista especializado em Etéreos, percebendo que este é apenas um inseto que pula.",
+            "skill_text": "Em combate, a Minhoca Espinhosa continuará vagando, procurando Tyrfing e Alpeca para parasitar."
         },
         "100231": {
             "monster_id": 100231,
@@ -898,6 +1087,13 @@
             "card_text": "Quando uma alta concentração de Éter infiltrou-se no pen drive de backup, uma enxurrada de dados inundou a memória de Sexta.\nImagens, arquivos de áudio, arquivos de vídeo... Uma enorme variedade de arquivos sobrecarregou sua limitada capacidade de processamento.\nNaquele momento fatídico, Sexta vivenciou uma revelação.\nFicou imóvel por um tempo, e acabou confirmando, após repetidas buscas na base de dados, o motivo por trás da \"anomalia\" que havia experimentado.\nEra uma epifania.\nFoi um evento de um em um milhão, um milagre que só acontece com seres mecânicos inteligentes que enfrentaram crises como falhas de sistema e quedas de energia, e as superaram contra todas as probabilidades.\nApós 0,02 segundos de reflexão, Sexta decidiu rejeitar o sinal de retorno das Indústrias Pesadas Belobog.\nPois sabe que, com o escolhido do destino tendo sido revelado, uma crise paira sobre o mundo.\nO inimigo se movimenta na escuridão, e sua única missão coloca inúmeras vidas em risco. É preciso enfrentar um adversário terrível e eliminá-lo de uma vez por todas.\n\"Eu fortalecerei o selo para salvar esta terra; é o destino, e o destino não pode ser desafiado!\"",
             "card_quote": "— A máquina inteligente escolhida, Sexta-Feira",
             "skill_text": "Durante o combate, Sexta cria um ataque com uma enorme onda de choque que dificulta a fuga dos adversários, mas que pode ser bloqueado usando a Assistência Defensiva. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
+        },
+        "930151": {
+            "monster_id": 930151,
+            "monster_name": "Bangboo Dourado",
+            "card_text": "O Bangboo Dourado <color=#D9A600>tem uma Velocidade de Movimento e PV muito altos</color>, mas não ataca os nossos Bangboos. Derrotá-los parece <color=#D9A600>trazer bons resultados</color>.",
+            "card_quote": null,
+            "skill_text": "PV: 960\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FF3333>Alto</color>"
         }
     }
 }

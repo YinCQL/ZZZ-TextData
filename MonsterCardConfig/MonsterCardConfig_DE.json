@@ -33,12 +33,12 @@
             "monster_name": "Blitzspinne",
             "card_text": "Laut Forschungsberichten der Höhlen-Investigationsassoziation werden Blitzspinnen aufgrund ihrer geringen Mobilität und der Tatsache, dass sie nur kleine Explosionen verursachen, als eine „geringe Bedrohung“ und „nicht besorgniserregend“ eingestuft.\nEinige scharfsinnige Geschäftsleute haben jedoch die Möglichkeiten erkannt, die sich durch ihre runden Körper und kurzen Beine ergeben.\nEin Film mit dem Titel „Dreh dich, kleine Blitzspinne“ erlangte große Popularität und führte zum Verkauf von Waren wie Puppen und Kissen zu Mondpreisen.\n„Ich hätte nicht erwartet, dass ihre Puppen tödlicher sind als sie selbst ... Zumindest für den Geldbeutel. Sieht so aus, als ob ich nächsten Monat von Instantnudeln leben muss, Billy ...“",
             "card_quote": "– Vor dem Greifautomaten auf der Einkaufsstraße überprüft Anby ihr Portmonee",
-            "skill_text": "Blitzspinne führt im Kampf Selbstzerstörungsangriff aus."
+            "skill_text": "Die Blitzspinne führt im Kampf Selbstzerstörungsangriffe aus."
         },
         "10014": {
             "monster_id": 10014,
             "monster_name": "Mandrake",
-            "card_text": "Der Name „Mandrake“ stammt von einem giftigen Kraut. Der Gelehrte, der den Namen ursprünglich vergeben hat, glaubte an eine Ähnlichkeit zwischen den beiden allein aufgrund ihres Aussehens.\nWenn Mandrake blüht, sendet es Hitzestrahlen aus, um Ziele in seiner Umgebung anzugreifen, während die robusten Blätter ihn fest im Boden verankert und ein Entwurzeln verhindern. Wenn er bedroht wird, kann der Mandrake seine scharfen Blätter zur Selbstverteidigung einsetzen.\nÄhnlich wie in der Legende seines Namensvetters können die Schreie des Mandrakes sehr tödlich sein.\n„Warte, geh nicht dorthin! Er wird jeden Moment aufblühen!“",
+            "card_text": "Der Name „Mandrake“ stammt von einem giftigen Kraut. Der Gelehrte, der den Namen ursprünglich vergeben hat, glaubte an eine Ähnlichkeit zwischen den beiden allein aufgrund ihres Aussehens.\nWenn Mandrake „blüht“, sendet es Hitzestrahlen aus, um Ziele in seiner Umgebung anzugreifen, während die robusten Blätter ihn fest im Boden verankern und ein Entwurzeln verhindern. Wenn er bedroht wird, kann der Mandrake seine scharfen Blätter zur Selbstverteidigung einsetzen.\nÄhnlich wie in der Legende seines Namensvetters können die Schreie des Mandrakes sehr tödlich sein.\n„Warte, geh nicht dorthin! Er wird jeden Moment aufblühen!“",
             "card_quote": "– Mandrake erblüht in dem Film „Deep Fear“",
             "skill_text": "Verschiedene Mandrakes bieten im Kampf periodisch Boni für ANG- oder Schildwert für umliegende Verbündete."
         },
@@ -122,7 +122,7 @@
         "20010": {
             "monster_id": 20010,
             "monster_name": "Tarasque-Mischer",
-            "card_text": "Gestützt auf ihre Untersuchungen vermutet die Höhlen-Investigationsassoziation, dass der „Tarasque-Mischer“ verschiedene Mengen an verflüssigten Äthers enthält.\nWenn er seinen gespeicherten Äther umrührt und vermischt, kommt es zu einer komplexen Reaktion, bei der zerstörerische und gewalttätige Energie freigesetzt wird. Die freigesetzte Kraft ist mit der der schweren Artillerie der Verteidigungsmacht vergleichbar.\nJe erfahrener ein Ermittler ist, desto besser versteht er sich darauf, den Kopf unten zu halten und direkte Treffer durch sein schweres Geschütz zu vermeiden.\n„Als er sich zu mir herunterneigte, dachte ich noch, das ist aber ein komisches Willkommensgeschenk. Aber als seine Kanone zu leuchten begann, wurde mir klar: Das war ein Abschiedsgeschenk ...“",
+            "card_text": "Gestützt auf ihre Untersuchungen vermutet die Höhlen-Investigationsassoziation, dass der „Tarasque-Mischer“ verschiedene Mengen an verflüssigtem Äther enthält.\nWenn er seinen gespeicherten Äther umrührt und vermischt, kommt es zu einer komplexen Reaktion, bei der zerstörerische und gewalttätige Energie freigesetzt wird. Die freigesetzte Kraft ist mit der der schweren Artillerie der Verteidigungsmacht vergleichbar.\nJe erfahrener ein Ermittler ist, desto besser versteht er sich darauf, den Kopf unten zu halten und direkte Treffer durch sein schweres Geschütz zu vermeiden.\n„Als er sich zu mir herunterneigte, dachte ich noch, das ist aber ein komisches Willkommensgeschenk. Aber als seine Kanone zu leuchten begann, wurde mir klar: Das war ein Abschiedsgeschenk ...“",
             "card_quote": "– Interview zu „Back 2 Life“, persönliche Erfahrungen des Starermittlers",
             "skill_text": "Tarasque-Mischer setzt im Kampf auf dauerhafte Laserangriffe und bevorzugt dabei Positionswechsel durch Seitensprünge."
         },
@@ -137,7 +137,7 @@
             "monster_id": 30000,
             "monster_name": "Dullahan",
             "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
-            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Teach Me, Senpai!“",
             "skill_text": "Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen."
         },
         "30001": {
@@ -210,12 +210,26 @@
             "card_quote": "– Mitternachtstalkshow „Back 2 Life“, Episode 165, mit dem verletzungsbedingt pensionierten Bereitschaftsoffizier Nobby Kereyan",
             "skill_text": "Tyrfing setzt im Kampf auf Nahkampfangriffe."
         },
+        "100004": {
+            "monster_id": 100004,
+            "monster_name": "Tyrfing – Verseucht",
+            "card_text": "Die Höhlen-Investigationsassoziation hat das Verhaltensmuster von Tyrfings untersucht. Forschungsergebnisse zeigen, dass ihre scheinbar unausgewogene Haltung des Schwankens und Schrägstellens in Wirklichkeit eine äußerst effiziente Haltung zum Ausführen von aufeinanderfolgenden Hiebangriffen ist.\nAufgrund ihres häufigen Auftretens und ihres aggressiven Verhaltens wurden Tyrfings als einer der tödlichsten Äthereale in der Höhle identifiziert, insbesondere für bestimmte Mitarbeiter in Höhlen.\nWenn sie es mit einem abgeschirmten Gegner zu tun haben, greifen sie unerbittlich an, bis entweder der Gegner oder sie selbst zerstört sind.\n„Vielleicht ... hassen sie uns nicht wirklich, sondern betrachten uns nur als Sandsack zum Üben?“",
+            "card_quote": "– Mitternachtstalkshow „Back 2 Life“, Episode 165, mit dem verletzungsbedingt pensionierten Bereitschaftsoffizier Nobby Kereyan.",
+            "skill_text": "Im Kampf setzt Tyrfing (Verseucht) verschiedene Fähigkeiten ein."
+        },
         "100011": {
             "monster_id": 100011,
             "monster_name": "Alpeca – Energiegeladen",
             "card_text": "Die HIA hat lediglich begrenzte Forschungsberichte über Alpecas. Nach einer groben Analyse ihres Verhaltensmusters, flüssigen Äther zu speien, stufte die Investigationsassoziation sie als Äthereale mit geringer Bedrohung ein und schlossen ihre Untersuchungen ab.\nEinst entwickelten ein paar Forscher ein großes Interesse daran, wie Alpecas flüssigen Äther speien, und erteilten sogar einen Ermittlungsauftrag zur genaueren Beobachtung.\nAber aus irgendwelchen Gründen haben sich Veteran-Ermittler bisher von diesem Auftrag ferngehalten.\n„Lauf! Sie speien wieder ... Ach, ne! Meine neuen Klamotten!“",
             "card_quote": "– In den Tiefen der Höhlen versucht sich der junge Ermittler Raffaele Bert zurückzuziehen",
             "skill_text": "Alpeca greift im Kampf aus der Ferne mit Streuschüssen an."
+        },
+        "100014": {
+            "monster_id": 100014,
+            "monster_name": "Alpeca – Verseucht",
+            "card_text": "Die HIA hat lediglich begrenzte Forschungsberichte über Alpecas. Nach einer groben Analyse ihres Verhaltensmusters, flüssigen Äther zu speien, stufte die Investigationsassoziation sie als Äthereale mit geringer Bedrohung ein und schlossen ihre Untersuchungen ab.\nEinst entwickelten ein paar Forscher ein großes Interesse daran, wie Alpecas flüssigen Äther speien, und erteilten sogar einen Ermittlungsauftrag zur genaueren Beobachtung.\nAber aus irgendwelchen Gründen haben sich Veteran-Ermittler bisher von diesem Auftrag ferngehalten.\n„Lauf! Sie speien wieder ... Ach, ne! Meine neuen Klamotten!“",
+            "card_quote": "– In den Tiefen der Höhlen versucht sich der junge Ermittler Raffaele Bert zurückzuziehen",
+            "skill_text": "Im Kampf setzt Alpeca (Verseucht) verschiedene Fähigkeiten ein."
         },
         "100021": {
             "monster_id": 100021,
@@ -236,12 +250,19 @@
             "monster_name": "Blitzspinne – Energiegeladen",
             "card_text": "Laut Forschungsberichten der Höhlen-Investigationsassoziation werden Blitzspinnen aufgrund ihrer geringen Mobilität und der Tatsache, dass sie nur kleine Explosionen verursachen, als eine „geringe Bedrohung“ und „nicht besorgniserregend“ eingestuft.\nEinige scharfsinnige Geschäftsleute haben jedoch die Möglichkeiten erkannt, die sich durch ihre runden Körper und kurzen Beine ergeben.\nEin Film mit dem Titel „Dreh dich, kleine Blitzspinne“ erlangte große Popularität und führte zum Verkauf von Waren wie Puppen und Kissen zu Mondpreisen.\n„Ich hätte nicht erwartet, dass ihre Puppen tödlicher sind als sie selbst ... Zumindest für den Geldbeutel. Sieht so aus, als ob ich nächsten Monat von Instantnudeln leben muss, Billy ...“",
             "card_quote": "– Vor dem Greifautomaten auf der Einkaufsstraße überprüft Anby ihr Portmonee",
-            "skill_text": "Blitzspinne führt im Kampf Selbstzerstörungsangriff aus."
+            "skill_text": "Die Blitzspinne führt im Kampf Selbstzerstörungsangriffe aus."
+        },
+        "100044": {
+            "monster_id": 100044,
+            "monster_name": "Scherbenkäfer",
+            "card_text": "Laut Forschungsberichten der Höhlen-Investigationsassoziation werden Blitzspinnen aufgrund ihrer geringen Mobilität und der Tatsache, dass sie nur kleine Explosionen verursachen, als eine „geringe Bedrohung“ und „nicht besorgniserregend“ eingestuft.\nEinige scharfsinnige Geschäftsleute haben jedoch die Möglichkeiten erkannt, die sich durch ihre runden Körper und kurzen Beine ergeben.\nEin Film mit dem Titel „Dreh dich, kleine Blitzspinne“ erlangte große Popularität und führte zum Verkauf von Waren wie Puppen und Kissen zu Mondpreisen.\n„Ich hätte nicht erwartet, dass ihre Puppen tödlicher sind als sie selbst ... Zumindest für den Geldbeutel. Sieht so aus, als ob ich nächsten Monat von Instantnudeln leben muss, Billy ...“",
+            "card_quote": "– Vor dem Greifautomaten auf der Einkaufsstraße überprüft Anby ihr Portmonee",
+            "skill_text": "Der Scherbenkäfer führt im Kampf Selbstzerstörungsangriffe aus."
         },
         "100141": {
             "monster_id": 100141,
             "monster_name": "Mandrake – Energiegeladen",
-            "card_text": "Der Name „Mandrake“ stammt von einem giftigen Kraut. Der Gelehrte, der den Namen ursprünglich vergeben hat, glaubte an eine Ähnlichkeit zwischen den beiden allein aufgrund ihres Aussehens.\nWenn Mandrake blüht, sendet es Hitzestrahlen aus, um Ziele in seiner Umgebung anzugreifen, während die robusten Blätter ihn fest im Boden verankert und ein Entwurzeln verhindern. Wenn er bedroht wird, kann der Mandrake seine scharfen Blätter zur Selbstverteidigung einsetzen.\nÄhnlich wie in der Legende seines Namensvetters können die Schreie des Mandrakes sehr tödlich sein.\n„Warte, geh nicht dorthin! Er wird jeden Moment aufblühen!“",
+            "card_text": "Der Name „Mandrake“ stammt von einem giftigen Kraut. Der Gelehrte, der den Namen ursprünglich vergeben hat, glaubte an eine Ähnlichkeit zwischen den beiden allein aufgrund ihres Aussehens.\nWenn Mandrake „blüht“, sendet es Hitzestrahlen aus, um Ziele in seiner Umgebung anzugreifen, während die robusten Blätter ihn fest im Boden verankern und ein Entwurzeln verhindern. Wenn er bedroht wird, kann der Mandrake seine scharfen Blätter zur Selbstverteidigung einsetzen.\nÄhnlich wie in der Legende seines Namensvetters können die Schreie des Mandrakes sehr tödlich sein.\n„Warte, geh nicht dorthin! Er wird jeden Moment aufblühen!“",
             "card_quote": "– Mandrake erblüht in dem Film „Deep Fear“",
             "skill_text": "Verschiedene Mandrakes bieten im Kampf periodisch Boni für ANG- oder Schildwert für umliegende Verbündete."
         },
@@ -347,28 +368,28 @@
             "monster_id": 300001,
             "monster_name": "Dullahan – Energiegeladen",
             "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
-            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Teach Me, Senpai!“",
             "skill_text": "Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen."
         },
         "300002": {
             "monster_id": 300002,
             "monster_name": "Neugeborener Dullahan",
             "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
-            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Teach Me, Senpai!“",
             "skill_text": "Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen."
         },
         "300004": {
             "monster_id": 300004,
             "monster_name": "Ionisiert – Dullahan",
             "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
-            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Teach Me, Senpai!“",
             "skill_text": "Ionisiert – Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen. Zusätzlich kann er nach einigen Bewegungen Ätherenergie sammeln, um einen explosiven Folgeangriff durchzuführen."
         },
         "300005": {
             "monster_id": 300005,
             "monster_name": "Notorisch – Dullahan",
             "card_text": "Ein mächtiger humanoider Äther, der zum ersten Mal in der Laketown-Höhle gesichtet und vom dritten Erkundungsteam der Höhlen-Investigationsassoziation erfasst wurde. Im Moment bleibt der genaue Zusammenhang zwischen diesen lebenden Ätherealen und dem Untergang der Stadt am See, die als Blaise bekannt ist, ungewiss.\nIn Anbetracht seiner enormen Stärke und seinem intelligenten Kampfstil, hat die Höhlen-Investigationsassoziation ihn als relativ gefährlich eingestuft und rät junge Ermittler, eine direkte Auseinandersetzung mit ihm zu vermeiden.\n„Lasst nicht zu, dass er sein Schwert aktiviert, und wenn er es schon getan hat ... dann lasst euch nicht schneiden.“",
-            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Unterrichte mich, Senpai!“",
+            "card_quote": "– Auszug aus einem Interview mit einem Ermittler in der Varietéshow „Teach Me, Senpai!“",
             "skill_text": "Notorisch – Dullahan führt im Kampf mit seinem Langschwert Stoßangriffe mit hohem Schaden aus, die aufgeladen werden. Während der Aufladezeit kann ein Angriff mit hohem Schaden diesen Prozess unterbrechen. Außerdem nutzt er sein Schild geschickt zum Blocken und leitet schnell Anschlussangriffe nach einem Block ein."
         },
         "300011": {
@@ -398,13 +419,132 @@
             "card_text": "Im Gegensatz zu anderen hochgefährlichen Ätherealen bleibt der Äther im Körper des „Sackgassen-Schlächters“ oft in einem Ruhezustand mit geringer Aktivität.\nNichtsdestotrotz besitzt der „Sackgassen-Schlächter“ die brachiale Stärke, alle Hindernisse zu vernichten. Die gesamte verdorbene und die gesamte zerstörte Metro-Zone dient ihm als seine verbotene Küche.\nNur wenn ein bedrohliches Ziel Interesse an dem „Sackgassen-Schlächter“ entwickelt, wird urplötzlich eine furchterregende Transformation stattfinden ...\nInnerhalb weniger Augenblicke verwandelt sich die hohe Konzentration des in seinem Körper gespeicherten Äthers gewaltsam, und die exponentiell ansteigende Energie veranlasst seine Gliedmaßen, sich schnell zu verformen und eine brutalere und gefräßigere „Fresshaltung“ einzunehmen.\nDamit sind die „Vorspeisen“ durch und ein unvergleichliches „Fressgelage“ wird eröffnet.\nWer nicht Teil dieses Festes sein will, sollte bei der Wahl seines Weges äußerst vorsichtig sein und sich von der „Küche“ fernhalten ...\n„Die Wege in dieser Höhle sind ziemlich kompliziert. Aber was man mit Sicherheit sagen kann ist, dass sie zu einer ‚Sackgasse‘ werden, wenn er am Ende des Weges auftaucht.“",
             "card_quote": "– 17. Untersuchungsbericht zur Sackgassen-Höhle der Höhlen-Investigationsassoziation",
             "skill_text": "Neugeborener Sackgassen-Schlächter greift im Kampf mit großen, weiten Schlägen an. Nach Erleiden einer bestimmten Menge an Schaden geht er in die zweite Phase über, in der seine Angriffe noch wilder werden und er Laserangriffe einsetzen kann. In dieser Phase führt ein starker Angriff nach seinen wilden Kombo-Attacken zu zusätzlicher Steifheit. Außerdem neigt der er dazu, durch geschicktes Ausweichen feindlichen Angriffen zu entkommen."
+        },
+        "300121": {
+            "monster_id": 300121,
+            "monster_name": "Notorisch – Marionette",
+            "card_text": "Vor langer Zeit gab es ein Schwesternpaar, begnadete Tänzerinnen. Sie erstrahlten wie flüchtige Sternschnuppen und zogen eine immense Anhängerschaft an. Ihr Ruhm kulminierte in einer opulenten Vorstellung in der prunkvollen Ballet Twins.\nDoch kurz bevor die Vorstellung zu Ende ging, brach aus der Höhle eine Katastrophe hervor. Die Höhle verschlang die Ballet Twins, und die Tänzerschwestern verschwanden in den Schatten. Ihr Schicksal erfüllte die Welt mit Wehmut und Bedauern.\nHeutzutage können die meisten Menschen nur noch aus den verbliebenen Bildern und Textmaterialien einen Blick auf ihre lebhaften Tanzbewegungen werfen.\nNur eine geringe Anzahl von Höhlenräubern, die tief in die Ballet Twins vordringen, werden wissen, dass wenn die vergessene Musik wieder in der Ballet Twins erklingt, die „Marionette“ wie aus dem Nichts auftauchen werden. Viele glauben, dass sie eine Verbindung zu den damaligen Zwillingstänzern haben und irgendwie bestimmt sind, ihre letzte „Vorstellung“ zu vollenden.\n„Als diese merkwürdige Musik aufhörte, traten zwei Marionetten aus dem Dunkeln und verbeugten sich vor uns ...“\n„Oh? Bedeutet das, dass die Vorstellung beginnt?“\n„Nein, ich glaube eher, die wollten uns sagen ... Die Flucht ist vergebens. Das Ende ist nah.“",
+            "card_quote": "– „Höhlen-Interview“, Ausgabe 251: Interview mit einem überlebenden Höhlenermittler",
+            "skill_text": "Im Kampf ruft „Notorisch – Marionette“ ihren Tanzpartner zum Angriff herbei. Jedes Mal, wenn ihr Tanzpartner besiegt wird, verlängert sich die Dauer ihrer nächsten Benommenheit."
+        },
+        "930146": {
+            "monster_id": 930146,
+            "monster_name": "Tyrfing",
+            "card_text": "Gegnerische Einheit mit niedrigen ANG und LP sind oft die ersten Gegner, denen Neuling-Bangboos bei Prüfungen begegnen, und stellen kaum eine Bedrohung dar.",
+            "card_quote": null,
+            "skill_text": "LP: 50\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Langsam\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+        },
+        "930147": {
+            "monster_id": 930147,
+            "monster_name": "Arlaune",
+            "card_text": "Kann <color=#D9A600>Fernangriffe</color> ausführen und ist ein hochgefährlicher Gegner. Nach einer Blockade setzt er Giftnebel ein, der <color=#D9A600>allen umliegenden Bangboos SCH zufügt</color>. Es wird empfohlen, <color=#D9A600>gutmütige Bangboos</color> strategisch einzusetzen, um ihn zu bekämpfen.",
+            "card_quote": null,
+            "skill_text": "LP: 430\nANG: Mittel\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
+        },
+        "930148": {
+            "monster_id": 930148,
+            "monster_name": "Ahriman",
+            "card_text": "Bei vollen LP hat das Ziel eine <color=#D9A600>sehr hohe Bewegungs-GSW</color> und kann <color=#D9A600>nicht blockiert werden</color>. Nach erlittenem SCH wird die Bewegungs-GSW langsamer, und das Ziel kann blockiert werden. Es wird empfohlen, frühzeitig ein <color=#D9A600>schießendes Bangboo</color>, um dem Ahriman frühzeitig SCH zuzufügen und seine Bedrohung zu verringern.",
+            "card_quote": null,
+            "skill_text": "LP: 70\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell, verlangsamt sich nach einem Angriff\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+        },
+        "930149": {
+            "monster_id": 930149,
+            "monster_name": "Alpeca",
+            "card_text": "Alpeca kann <color=#D9A600>Fernangriffe</color> ausführen und greift dabei die Bangboos auf den Taktikpositionen an. Bitte achte auf den Zustand der Ausdauer der Prüflinge!",
+            "card_quote": null,
+            "skill_text": "LP: 100\nANG: Gering\nVTD: 21\nBewegungs-GSW: Langsam\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+        },
+        "930150": {
+            "monster_id": 930150,
+            "monster_name": "Dullahan",
+            "card_text": "Besitzt <color=#D9A600>sehr hohe LP</color> und ist eine gefährliche Nahkampfeinheit! Es wird empfohlen, ein <color=#D9A600>Papierboo</color> mit hoher Ausdauer einzusetzen, um sie aufzuhalten!",
+            "card_quote": null,
+            "skill_text": "LP: 480\nANG: Hoch\nVTD: 75\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
+        },
+        "930152": {
+            "monster_id": 930152,
+            "monster_name": "Hoplitai",
+            "card_text": "Beim Betreten des Spielfelds hat Hoplitai eine <color=#D9A600>sehr hohe Bewegungs-GSW</color>! Er stößt gegen das erste Bangboo auf seiner Strecke und verursacht <color=#D9A600>massiven SCH</color>. Nach dem Zusammenstoß wird seine Bewegungs-GSW <color=#D9A600>stark reduziert</color>.",
+            "card_quote": null,
+            "skill_text": "LP: 150\nANG: Hoch\nVTD: 75\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+        },
+        "930153": {
+            "monster_id": 930153,
+            "monster_name": "Faun",
+            "card_text": "Faun hat eine niedrige Bewegungs-GSW, verfügt jedoch über einen sehr hohen ANG. Achte auf den Zustand der Prüflinge!",
+            "card_quote": null,
+            "skill_text": "LP: 140\nANG: Hoch\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
+        },
+        "930154": {
+            "monster_id": 930154,
+            "monster_name": "Blitzspinne",
+            "card_text": "Die Blitzspinne ist schnell und explodiert in der Nähe von Bangboos, was <color=#D9A600>allen Bangboos</color> SCH zufügt. Es wird empfohlen, ein <color=#D9A600>hochbelastbares Papierboo</color> einzusetzen, um sie aufzuhalten!",
+            "card_quote": null,
+            "skill_text": "LP: 80\nANG: Gering\nVTD: 13\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+        },
+        "930157": {
+            "monster_id": 930157,
+            "monster_name": "Tyrfing",
+            "card_text": "Gegnerische Einheit mit niedrigen ANG und LP sind oft die ersten Gegner, denen Neuling-Bangboos bei Prüfungen begegnen, und stellen kaum eine Bedrohung dar.",
+            "card_quote": null,
+            "skill_text": "LP: 140\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Langsam\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+        },
+        "930158": {
+            "monster_id": 930158,
+            "monster_name": "Arlaune",
+            "card_text": "Kann <color=#D9A600>Fernangriffe</color> ausführen und ist ein hochgefährlicher Gegner. Nach einer Blockade setzt er Giftnebel ein, der <color=#D9A600>allen umliegenden Bangboos SCH zufügt</color>. Es wird empfohlen, <color=#D9A600>gutmütige Bangboos</color> strategisch einzusetzen, um ihn zu bekämpfen.",
+            "card_quote": null,
+            "skill_text": "LP: 1300\nANG: Mittel\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
+        },
+        "930159": {
+            "monster_id": 930159,
+            "monster_name": "Ahriman",
+            "card_text": "Bei vollen LP hat das Ziel eine <color=#D9A600>sehr hohe Bewegungs-GSW</color> und kann <color=#D9A600>nicht blockiert werden</color>. Nach erlittenem SCH wird die Bewegungs-GSW langsamer, und das Ziel kann blockiert werden. Es wird empfohlen, frühzeitig ein <color=#D9A600>schießendes Bangboo</color>, um dem Ahriman frühzeitig SCH zuzufügen und seine Bedrohung zu verringern.",
+            "card_quote": null,
+            "skill_text": "LP: 220\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell, verlangsamt sich nach einem Angriff\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+        },
+        "930160": {
+            "monster_id": 930160,
+            "monster_name": "Alpeca",
+            "card_text": "Alpeca kann <color=#D9A600>Fernangriffe</color> ausführen und greift dabei die Bangboos auf den Taktikpositionen an. Bitte achte auf den Zustand der Ausdauer der Prüflinge!",
+            "card_quote": null,
+            "skill_text": "LP: 300\nANG: Gering\nVTD: 21\nBewegungs-GSW: Langsam\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+        },
+        "930161": {
+            "monster_id": 930161,
+            "monster_name": "Dullahan",
+            "card_text": "Besitzt <color=#D9A600>sehr hohe LP</color> und ist eine gefährliche Nahkampfeinheit! Es wird empfohlen, ein <color=#D9A600>Papierboo</color> mit hoher Ausdauer einzusetzen, um sie aufzuhalten!",
+            "card_quote": null,
+            "skill_text": "LP: 1440\nANG: Hoch\nVTD: 75\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
+        },
+        "930162": {
+            "monster_id": 930162,
+            "monster_name": "Hoplitai",
+            "card_text": "Beim Betreten des Spielfelds hat Hoplitai eine <color=#D9A600>sehr hohe Bewegungs-GSW</color>! Er stößt gegen das erste Bangboo auf seiner Strecke und verursacht <color=#D9A600>massiven SCH</color>. Nach dem Zusammenstoß wird seine Bewegungs-GSW <color=#D9A600>stark reduziert</color>.",
+            "card_quote": null,
+            "skill_text": "LP: 460\nANG: Hoch\nVTD: 75\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+        },
+        "930163": {
+            "monster_id": 930163,
+            "monster_name": "Faun",
+            "card_text": "Faun hat eine niedrige Bewegungs-GSW, verfügt jedoch über einen sehr hohen ANG. Achte auf den Zustand der Prüflinge!",
+            "card_quote": null,
+            "skill_text": "LP: 430\nANG: Hoch\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
+        },
+        "930164": {
+            "monster_id": 930164,
+            "monster_name": "Blitzspinne",
+            "card_text": "Die Blitzspinne ist schnell und explodiert in der Nähe von Bangboos, was <color=#D9A600>allen Bangboos</color> SCH zufügt. Es wird empfohlen, ein <color=#D9A600>hochbelastbares Papierboo</color> einzusetzen, um sie aufzuhalten!",
+            "card_quote": null,
+            "skill_text": "LP: 230\nANG: Gering\nVTD: 13\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
         }
     },
     "Gangster": {
         "10015": {
             "monster_id": 10015,
             "monster_name": "Plünderer",
-            "card_text": "Unter den Äther-Räuberbanden sind die „Plünderer“ und „Ausplünderer“ die Kernmitglieder, die sowohl über technische als auch über kämpferische Fähigkeiten verfügen.\nIhr Stromresonanz-Detektor kann Äther-Erz durch starke Strömungen aufspüren, und damit nachfolgende Arbeitsschritte erleichtern. Ebenfalls kann er mit erhöhter Spannung als starke Waffe bei bewaffneten Raubüberfällen eingesetzt werden.\nObwohl sie manchmal mit illegalen Fischern verwechselt werden, aber solche Missverständnisse sind ihnen reichlich egal.\nSchließlich ist es ihnen mit ihren extrem tödlichen Elektroschockern egal, ob es sich bei ihren Gegnern um Fische oder Menschen handelt ...\n„Ob an einem Fluss, einem See oder in der Nähe einer Höhle, wenn du jemanden siehst, der mit einer Elektroharpune ausgerüstet ist, melde das bitte direkt der Sicherheitsbehörde!“",
+            "card_text": "Unter den Äther-Räuberbanden sind die „Plünderer“ und „Ausplünderer“ die Kernmitglieder, die sowohl über technische als auch über kämpferische Fähigkeiten verfügen.\nIhr Stromresonanz-Detektor kann Äther-Erz durch starke Strömungen aufspüren, und damit nachfolgende Arbeitsschritte erleichtern. Ebenfalls kann er mit erhöhter Spannung als starke Waffe bei bewaffneten Raubüberfällen eingesetzt werden.\nManchmal werden sie mit illegalen Fischern verwechselt, aber solche Missverständnisse sind ihnen reichlich egal.\nSchließlich ist es ihnen mit ihren extrem tödlichen Elektroschockern egal, ob es sich bei ihren Gegnern um Fische oder Personen handelt ...\n„Ob an einem Fluss, einem See oder in der Nähe einer Höhle, wenn du jemanden siehst, der mit einer Elektroharpune ausgerüstet ist, melde das bitte direkt der Sicherheitsbehörde!“",
             "card_quote": "– Ein Slogan der Sicherheitsbehörde von New Eridu, der aus einem bestimmten Werbewagen in Dauerschleife gespielt wird",
             "skill_text": "Höhlengangster – Plünderer stürmt im Kampf aus großer Entfernung heran, kann jedoch bei zu langen Distanzen auf Hindernisse treffen, was eine Angriffsmöglichkeit für Figuren schafft."
         },
@@ -481,7 +621,7 @@
         "100151": {
             "monster_id": 100151,
             "monster_name": "Ausplünderer",
-            "card_text": "Unter den Äther-Räuberbanden sind die „Plünderer“ und „Ausplünderer“ die Kernmitglieder, die sowohl über technische als auch über kämpferische Fähigkeiten verfügen.\nIhr Stromresonanz-Detektor kann Äther-Erz durch starke Strömungen aufspüren, und damit nachfolgende Arbeitsschritte erleichtern. Ebenfalls kann er mit erhöhter Spannung als starke Waffe bei bewaffneten Raubüberfällen eingesetzt werden.\nObwohl sie manchmal mit illegalen Fischern verwechselt werden, aber solche Missverständnisse sind ihnen reichlich egal.\nSchließlich ist es ihnen mit ihren extrem tödlichen Elektroschockern egal, ob es sich bei ihren Gegnern um Fische oder Menschen handelt ...\n„Ob an einem Fluss, einem See oder in der Nähe einer Höhle, wenn du jemanden siehst, der mit einer Elektroharpune ausgerüstet ist, melde das bitte direkt der Sicherheitsbehörde!“",
+            "card_text": "Unter den Äther-Räuberbanden sind die „Plünderer“ und „Ausplünderer“ die Kernmitglieder, die sowohl über technische als auch über kämpferische Fähigkeiten verfügen.\nIhr Stromresonanz-Detektor kann Äther-Erz durch starke Strömungen aufspüren, und damit nachfolgende Arbeitsschritte erleichtern. Ebenfalls kann er mit erhöhter Spannung als starke Waffe bei bewaffneten Raubüberfällen eingesetzt werden.\nManchmal werden sie mit illegalen Fischern verwechselt, aber solche Missverständnisse sind ihnen reichlich egal.\nSchließlich ist es ihnen mit ihren extrem tödlichen Elektroschockern egal, ob es sich bei ihren Gegnern um Fische oder Personen handelt ...\n„Ob an einem Fluss, einem See oder in der Nähe einer Höhle, wenn du jemanden siehst, der mit einer Elektroharpune ausgerüstet ist, melde das bitte direkt der Sicherheitsbehörde!“",
             "card_quote": "– Ein Slogan der Sicherheitsbehörde von New Eridu, der aus einem bestimmten Werbewagen in Dauerschleife gespielt wird",
             "skill_text": "Höhlengangster – Ausplünderer stürmt im Kampf aus großer Entfernung heran, kann jedoch bei zu langen Distanzen auf Hindernisse treffen, was eine Angriffsmöglichkeit für Figuren schafft."
         },
@@ -612,6 +752,34 @@
             "card_text": "Pechvögel, die eine starke Ätherkorrosion in der Höhle erlitten. Da sie über eine nennenswerte äthergeeignete Konstitution und Körperfunktion verfügen, wurden ihre Körper nicht vollständig durch den Äther verwandelt. Ihre menschlichen Merkmale sind mit den verstärkten mutierten Gliedmaßen noch viel gefährlicher.\nIhre verbleibende Kleidung und ihre Kampferfahrungen legen nahe, dass es sich um hochrangige Banditen oder Räuber, die sich in Höhlen verkrochen hatten, handelte.\nBanditen sind für ihr gefährliches Verhalten berüchtigt, und innerhalb ihrer Reihen sind die Höhlenbanditen die skrupellosesten. Die Elitekämpfer unter den Höhlenbanditen sind besonders furchteinflößend und zeichnen sich durch ein hohes Maß an Gewalt aus. Wenn diese körperlich und geistig durch Gewalt abgehärteten Bestien durch den Äther korrodiert werden, verwandeln sie sich in Monster mit einem noch wilderen und brutaleren Charakter.\n„Früher töteten sie für Geld, aber nun sind sie nur noch darauf aus, dir dein Leben zu nehmen ...“",
             "card_quote": "– Anmerkungen im internen Lehrbuch der Höhlen-Investigationsassoziation, „Gefahrenerkennung in einer Höhle: Korrosionswesen“",
             "skill_text": "Korrodierter Bandit – Rücksichtsloser Irrer greift im Kampf nahe Gegner kontinuierlich an und stürmt schnell auf entfernte Gegner zu. Wenn seine Arme beschädigt werden, wird sein Angriff noch heftiger."
+        },
+        "300211": {
+            "monster_id": 300211,
+            "monster_name": "Notorisch – Pompey",
+            "card_text": "Die Leute der Außenzone verehrten ihn einst als den „Oberherrn Pompey“.\nJetzt ist seine Seele vom feurigen Äther zerfressen, sein Körper von Schwefel und dickem Öl verseucht. Sein Herz, das einst schwor, nur zu schlagen, um „die Außenzone zu beschützen“, hat sich in einen überkritischen Ätherkern verwandelt, der endlose Energie enthält.\nDer ehemalige „Herr der Außenzone“ ist nun in einer anderen Form wiedergeboren. Frei, majestätisch ... boshaft, verrückt. Er galoppiert durch Staub und Flammen und erfasst jedes sich bewegende Objekt um sich herum, um es dann ohne zu zögern zu zerreißen und zu zerstören.\nEin alter Bekannter entnahm seinem gebrochenen Gemurmel, dass er nicht auf engstirnige Rache aus ist, sondern einfach nur alles „Fremde“ vor sich vernichten will, das versucht, die „Gesetze der Außenzone“ infrage zu stellen.\nVielleicht war dies der letzte Rest des Willens des ehemaligen Oberherrn Pompey.\n„Unser Chef ist so geworden, aber er ... scheint immer noch er selbst zu sein.“",
+            "card_quote": "- Ein ehemaliger Gefolgsmann der Vanquisher, zitternd vor Angst",
+            "skill_text": "Im Kampf hinterlässt Notorisch – Pompey mit seinen Angriffen instabile Ätherenergie auf dem Boden. Wenn Gegner sich nähern oder es eine aufgeladene Attacke ausführt, löst die Ätherenergie eine heftige Explosion aus. Bei Bedarf erhebt es seine Waffe zum Parieren. Nach einem erfolgreichen Parieren kontert es schnell gegen den Gegner."
+        },
+        "930155": {
+            "monster_id": 930155,
+            "monster_name": "Boshafter Schläger",
+            "card_text": "Boshafter Schläger hat <color=#FFAF2C>hohe LP</color>. Konzentriere deine Angriffe auf ihn!",
+            "card_quote": null,
+            "skill_text": "LP: 240\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+        },
+        "930156": {
+            "monster_id": 930156,
+            "monster_name": "Boshafter Schläger",
+            "card_text": "Boshafter Schläger hat <color=#D9A600>hohe LP</color>. Konzentriere deine Angriffe auf ihn!",
+            "card_quote": null,
+            "skill_text": "LP: 240\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+        },
+        "930165": {
+            "monster_id": 930165,
+            "monster_name": "Boshafter Schläger",
+            "card_text": "Boshafter Schläger hat <color=#FFAF2C>hohe LP</color>. Konzentriere deine Angriffe auf ihn!",
+            "card_quote": null,
+            "skill_text": "LP: 720\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
         }
     },
     "Sicherheitsbehörde": {
@@ -711,7 +879,7 @@
         "30008": {
             "monster_id": 30008,
             "monster_name": "„Typhon – Herausforderer“",
-            "card_text": "Als schwerer Mecha ist der „Typhon – Herausforderer“ nicht mit Fernfeuerwaffen ausgestattet, sondern legt seinen Schwerpunkt auf seiner ätherkinetischen Panzerung.\nAufprallangriffe, heftige Schläge, zermalmen ... Der „Typhon – Herausforderer“ setzt simple, aber effektive Taktiken ein, um die Zerstörungskraft seines Energiepanzers zu maximieren. Die Schockwelleneffekte seiner Schläge können sogar größere Äthereale einschüchtern.\nAngesichts der Unnahbarkeit des „Typhon – Herausforderers“ können selbst die erfahrensten Höhlenräuber nur hilflos seufzen, wenn sie mit ihm konfrontiert sind.\n„Der große und robuste Körperbau, die kräftigen und robusten Arme ... Das ist mein Traumtyp ... Ich meine natürlich, das ideale Modell.“",
+            "card_text": "Als schwerer Mecha ist der Typhon – Herausforderer nicht mit Fernfeuerwaffen ausgestattet, sondern legt seinen Schwerpunkt auf seine ätherkinetische Panzerung.\nAufprallangriffe, heftige Schläge, zermalmen ... Der Typhon – Herausforderer setzt simple, aber effektive Taktiken ein, um die Zerstörungskraft seines Energiepanzers zu maximieren. Die Schockwelleneffekte seiner Schläge können sogar größere Äthereale einschüchtern.\nAngesichts der Unnahbarkeit des Typhon – Herausforderer“ können selbst die erfahrensten Höhlenräuber nur hilflos seufzen, wenn sie mit ihm konfrontiert sind.\n„Der große und robuste Körperbau, die kräftigen und robusten Arme ... Das ist mein Traumtyp ... Ich meine natürlich, das ideale Modell.“",
             "card_quote": "– Grace, die mit einem Modell von „Typhon – Herausforderer“ im Gadget-Shop spielt",
             "skill_text": "Autonome taktische Einheit – „Typhon – Herausforderer“ setzt im Kampf mächtige Kombos ein und springt periodisch in die Luft, um schwere Angriffe auf die Gegner auszuführen."
         },
@@ -802,9 +970,16 @@
         "300081": {
             "monster_id": 300081,
             "monster_name": "„Typhon – Demolierer“",
-            "card_text": "Als schwerer Mecha ist der Typhon – Demolierer nicht mit Fernfeuerwaffen ausgestattet, sondern legt seinen Schwerpunkt auf seiner ätherkinetischen Panzerung.\nAufprallangriffe, heftige Schläge, zermalmen ... Der Typhon – Demolierer setzt simple, aber effektive Taktiken ein, um die Zerstörungskraft seines Energiepanzers zu maximieren. Die Schockwelleneffekte seiner Schläge können sogar größere Äthereale einschüchtern.\nAngesichts der Unnahbarkeit des Typhon – Demolierers können selbst die erfahrensten Höhlenräuber nur hilflos seufzen, wenn sie mit ihm konfrontiert sind.\n„Der große und robuste Körperbau, die kräftigen und robusten Arme ... Das ist mein Traumtyp ... Ich meine natürlich, das ideale Modell.“",
+            "card_text": "Als schwerer Mecha ist der Typhon – Demolierer nicht mit Fernfeuerwaffen ausgestattet, sondern legt seinen Schwerpunkt auf seine ätherkinetische Panzerung.\nAufprallangriffe, heftige Schläge, zermalmen ... Der Typhon – Demolierer setzt simple, aber effektive Taktiken ein, um die Zerstörungskraft seines Energiepanzers zu maximieren. Die Schockwelleneffekte seiner Schläge können sogar größere Äthereale einschüchtern.\nAngesichts der Unnahbarkeit des Typhon – Demolierers können selbst die erfahrensten Höhlenräuber nur hilflos seufzen, wenn sie mit ihm konfrontiert sind.\n„Der große und robuste Körperbau, die kräftigen und robusten Arme ... Das ist mein Traumtyp ... Ich meine natürlich, das ideale Modell.“",
             "card_quote": "– Grace, die mit einem Modell von „Typhon – Demolierer“ im Gadget-Shop spielt",
             "skill_text": "Autonome taktische Einheit – „Typhon – Demolierer“ setzt im Kampf mächtige Kombos ein und springt periodisch in die Luft, um schwere Angriffe auf die Gegner auszuführen."
+        },
+        "300082": {
+            "monster_id": 300082,
+            "monster_name": "Autonome Ansturmeinheit – „Typhon – Zerstörer“",
+            "card_text": "Als schwerer Mecha ist der Typhon – Zerstörer nicht mit Fernfeuerwaffen ausgestattet, sondern legt seinen Schwerpunkt auf seine ätherkinetische Panzerung.\nAufprallangriffe, heftige Schläge, zermalmen ... Der Typhon – Zerstörer setzt simple, aber effektive Taktiken ein, um die Zerstörungskraft seines Energiepanzers zu maximieren. Die Schockwelleneffekte seiner Schläge können sogar größere Äthereale einschüchtern.\nAngesichts der Unnahbarkeit des Typhon – Zerstörer können selbst die erfahrensten Höhlenräuber nur hilflos seufzen, wenn sie mit ihm konfrontiert sind.\n„Der große und robuste Körperbau, die kräftigen und robusten Arme ... Das ist mein Traumtyp ... Ich meine natürlich, das ideale Modell.“",
+            "card_quote": "– Grace, die mit einem Modell von „Typhon – Zerstörer“ im Gadget-Shop spielt",
+            "skill_text": "Im Kampf führt die autonome Ansturmeinheit „Typhon – Zerstörer“ rasende Kombos aus, wobei die meisten Fähigkeiten keine perfekte Hilfe auslösen können. Nach dem Aufladen seines mechanischen Arms löst es eine vorrückende Attacke aus, die perfekte Hilfe aktivieren kann. Mehrfaches Nutzen von Defensivhilfe gegen diese Fähigkeit enthüllt eine große Schwachstelle."
         }
     },
     "Spezial": {
@@ -832,7 +1007,7 @@
         "30006": {
             "monster_id": 30006,
             "monster_name": "Freitag",
-            "card_text": "In dem Moment, in dem eine hohe Konzentration von Äther in das Sicherungs-Laufwerk eingedrungen war, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag eine schicksalhafte Erkenntnis.\nEr stand für lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbricht.\nDer Feind lauert in der Finsternis und seine einzige Aufgabe ist es, auf die Zukunft unzähliger Lebewesen zu setzen und diesen furchtbaren Gegner ein für alle Mal zu versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist das Schicksal. Und dem Schicksal muss gehorcht werden!“",
+            "card_text": "In dem Moment, als eine hohe Konzentration von Äther in sein Sicherungs-Laufwerk eindrang, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag zu einer schicksalhaften Erkenntnis.\nEr stand lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbrechen würde.\nDer Feind lauert in der Finsternis und die Zukunft unzähliger Lebewesen hing von Freitags Mission ab. Er musste diesen furchtbaren Gegner ein für alle Mal versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist Schicksal. Und dem Schicksal muss gehorcht werden!“",
             "card_quote": "– Die auserwählte intelligente Maschine Freitag",
             "skill_text": "Freitag erzeugt im Kampf großflächige Schockwellen, die schwer zu entkommen sind. Die meisten seiner Angriffe können jedoch mit Defensivhilfe abgewehrt werden. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
         },
@@ -850,6 +1025,20 @@
             "card_quote": null,
             "skill_text": "Während des Kampfes ist Jane erstaunlich aggressiv und kann, wenn nötig, die Angriffe ihres Gegners parieren und kontern. Allerdings zeigt sie normalerweise ihre Schwäche, nachdem sie eine Reihe von kontinuierlichen Angriffen beendet hat."
         },
+        "30024": {
+            "monster_id": 30024,
+            "monster_name": "Opfergeist – Bringer",
+            "card_text": "Vom Überlebenden, der in der Wildnis umherirrte, zum stellvertretenden Direktor der Sicherheitsbehörde im Bezirk Janus; Bringers Lebensgeschichte scheint eine glanzvolle Erfolgsgeschichte zu sein.\nDoch hinter dieser inspirierenden Geschichte verbergen sich ungekannte Sünden und Komplotte, die wie unsichtbare Wolken über dem Bezirk Janus hängen.\nFür den finalen Akt eines monumentalen Plans kontrollierte Bringer im Verborgenen das Geschehen, schmiedete Intrigen und scheute nicht davor zurück, alles, einschließlich seiner selbst, zu opfern.\nIm letzten Schritt seines Plans injizierte er sich selbst das Serum des Opfergeists und bewies damit unerschütterlich seinen Glauben.\nIn jenem Moment nahmen alle seine Wünsche und seine wahnsinnigen Überzeugungen eine verzerrte, greifbare Form innerhalb der Höhle an.\nWogende, aktive Ätherenergie, zerstörerische, übermächtige Stärke ... all die bizarren Glaubensvorstellungen und die chaotischen Begierden manifestierten sich in diesem neu entstandenen, monströsen Körper.\nOpfergeist – Bringer – dies war seine letzte Identität und seine vollkommenste Gestalt.\n„Möge der Creator mich läutern!“",
+            "card_quote": "– Bringers aus tiefstem Herzen kommender Schrei",
+            "skill_text": "Im Kampf wechselt Opfergeist – Bringer zwischen verschiedenen Waffen und nutzt sowohl Nah- als auch Fernkampfangriffe. Er beschwört riesige Kreaturen aus Ätherrissen zur Unterstützung. Nach einer bestimmten Menge an erlittenem Schaden wechselt er in Phase zwei, in der er komplexere Fähigkeiten und einen dichten Geschossregen einsetzt. Während der Vorbereitungsphase von „Klinge des Opfers“ kann er durch erheblichen Schaden unterbrochen werden, was Schwachstellen aufdeckt."
+        },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Hitchspiker",
+            "card_text": "Äther ist ein unersättliches Gift, ein bösartiger Parasit, der das einst lebendige und pulsierende Leben verschlingt.\nDer Hitchspiker ist eine noch bösartigere Verkörperung des Äthers – indem er in seinen grausamen Gefährten haust, ermöglicht er Tyrfing und Alpeca, die unstillbare Gier der Höhle in noch grausamerer Form zu befriedigen.\n„Bleib von meinem Gesicht weg!“",
+            "card_quote": "– Ein Äthereal-Ökologe, nachdem er bemerkte, dass dieses Insekt häufig springt.",
+            "skill_text": "Im Kampf wandern Hitchspiker kontinuierlich und suchen nach Tyrfings und Alpecas, um sie zu infizieren."
+        },
         "100231": {
             "monster_id": 100231,
             "monster_name": "Platines Bangboo",
@@ -860,14 +1049,14 @@
         "300041": {
             "monster_id": 300041,
             "monster_name": "Greta – Energiegeladen",
-            "card_text": "Greta, eine langjährige Angestellte von Belobog Heavy Industries, erlebte eine bedeutende Ätherkorrosion, die sie aus ihrer alltäglichen Routine befreite, wo sie etwas Tiefgründiges, Schöneres als Motoröl und Elektrizität entdeckte ...\nDie Liebe.\nDas Konstruktionsvideo, das ihre erste Begegnung mit dem überragenden Herrn White festhält, bleibt für immer in Gretas Kerngedächtnis verankert.\nHerr Whites ruhiger Körperbau und sein robustes Design wirkten auf Greta wie ein starker elektrischer Strom und hinterließen eine unauslöschliche Spur in ihrem Kerngedächtnis.\nSchon in der ersten 0,001. Sekunde ihrer Begegnung war Greta hin und weg. Jede einzelne ihrer Leiterplatten pulsierte aus einem Überschuss an statischer Elektrizität, jedes ihrer Zahnräder wurde von einem unkontrollierbaren Beben erfasst.\nOhne zu zögern blockierte sie das Rückrufsignal von Belobog Industries, um ab sofort keinen Millimeter von der Seite ihres Geliebten zu weichen und ihn zu beschützen.\nSeither wird jeder, der es wagt, sich Herrn White zu nähern, sei es ein Äthereal oder ein Höhlenermittler, von ihr vertrieben.\nDieses verliebte „Mädchen“ würde jedes Mittel einsetzen, um ihren Geliebten zu schützen.\nZum Beispiel ein 1.400 kg schwerer Trennschleifer, der mit Ätherenergie und Strom betrieben wird.\nSie glaubt aus tiefstem Herzen, dass diese leidenschaftliche Liebe bis zu dem Moment andauern wird, in dem die Höhle einstürzt und das Universum kollabiert.\n„Kommt Herrn White ja nicht zu nahe, ihr Abraum!“",
+            "card_text": "Greta, eine langjährige Angestellte von Belobog Heavy Industries, erlebte eine bedeutende Ätherkorrosion, die sie aus ihrer alltäglichen Routine befreite, wo sie etwas Tiefgründiges, Schöneres als Motoröl und Elektrizität entdeckte ...\nDie Liebe.\nDas Konstruktionsvideo, das ihre erste Begegnung mit dem überragenden Herrn White festhält, bleibt für immer in Gretas Kerngedächtnis verankert.\nHerr Whites ruhiger Körperbau und sein robustes Design wirkten auf Greta wie ein starker elektrischer Strom und hinterließen eine unauslöschliche Spur in ihrem Kerngedächtnis.\nSchon in der ersten 0,001. Sekunde ihrer Begegnung war Greta hin und weg. Jede einzelne ihrer Leiterplatten pulsierte aus einem Überschuss an statischer Elektrizität, jedes ihrer Zahnräder wurde von einem unkontrollierbaren Beben erfasst.\nOhne zu zögern blockierte sie das Rückrufsignal von Belobog Industries, um ab sofort keinen Millimeter von der Seite ihres Geliebten zu weichen und ihn zu beschützen.\nSeither wird jeder, der es wagt, sich Herrn White zu nähern, sei es ein Äthereal oder ein Höhlenermittler, von ihr vertrieben.\nDieses verliebte „Mädchen“ würde jedes Mittel einsetzen, um ihren Geliebten zu schützen.\nZum Beispiel eine 1.400 kg schwere ätherelektrische Abbruchsäge.\nSie glaubt aus tiefstem Herzen, dass diese leidenschaftliche Liebe bis zu dem Moment andauern wird, in dem die Höhle einstürzt und das Universum kollabiert.\n„Kommt Herrn White ja nicht zu nahe, ihr Abraum!“",
             "card_quote": "– Greta vertreibt eine Gruppe von Ätherealen, die sich Herrn White nähern",
             "skill_text": "Greta benutzt im Kampf eine Abbruchsäge für Anstürme oder weite Schläge. Diese Angriffe haben eine Sogwirkung, die getroffene Gegner für kurze Zeit festhält. Durch Schaden an ihren Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
         },
         "300042": {
             "monster_id": 300042,
             "monster_name": "Greta – Übertaktet",
-            "card_text": "Greta, eine langjährige Angestellte von Belobog Heavy Industries, erlebte eine bedeutende Ätherkorrosion, die sie aus ihrer alltäglichen Routine befreite, wo sie etwas Tiefgründiges, Schöneres als Motoröl und Elektrizität entdeckte ...\nDie Liebe.\nDas Konstruktionsvideo, das ihre erste Begegnung mit dem überragenden Herrn White festhält, bleibt für immer in Gretas Kerngedächtnis verankert.\nHerr Whites ruhiger Körperbau und sein robustes Design wirkten auf Greta wie ein starker elektrischer Strom und hinterließen eine unauslöschliche Spur in ihrem Kerngedächtnis.\nSchon in der ersten 0,001. Sekunde ihrer Begegnung war Greta hin und weg. Jede einzelne ihrer Leiterplatten pulsierte aus einem Überschuss an statischer Elektrizität, jedes ihrer Zahnräder wurde von einem unkontrollierbaren Beben erfasst.\nOhne zu zögern blockierte sie das Rückrufsignal von Belobog Industries, um ab sofort keinen Millimeter von der Seite ihres Geliebten zu weichen und ihn zu beschützen.\nSeither wird jeder, der es wagt, sich Herrn White zu nähern, sei es ein Äthereal oder ein Höhlenermittler, von ihr vertrieben.\nDieses verliebte „Mädchen“ würde jedes Mittel einsetzen, um ihren Geliebten zu schützen.\nZum Beispiel ein 1.400 kg schwerer Trennschleifer, der mit Ätherenergie und Strom betrieben wird.\nSie glaubt aus tiefstem Herzen, dass diese leidenschaftliche Liebe bis zu dem Moment andauern wird, in dem die Höhle einstürzt und das Universum kollabiert.\n„Kommt Herrn White ja nicht zu nahe, ihr Abraum!“",
+            "card_text": "Greta, eine langjährige Angestellte von Belobog Heavy Industries, erlebte eine bedeutende Ätherkorrosion, die sie aus ihrer alltäglichen Routine befreite, wo sie etwas Tiefgründiges, Schöneres als Motoröl und Elektrizität entdeckte ...\nDie Liebe.\nDas Konstruktionsvideo, das ihre erste Begegnung mit dem überragenden Herrn White festhält, bleibt für immer in Gretas Kerngedächtnis verankert.\nHerr Whites ruhiger Körperbau und sein robustes Design wirkten auf Greta wie ein starker elektrischer Strom und hinterließen eine unauslöschliche Spur in ihrem Kerngedächtnis.\nSchon in der ersten 0,001. Sekunde ihrer Begegnung war Greta hin und weg. Jede einzelne ihrer Leiterplatten pulsierte aus einem Überschuss an statischer Elektrizität, jedes ihrer Zahnräder wurde von einem unkontrollierbaren Beben erfasst.\nOhne zu zögern blockierte sie das Rückrufsignal von Belobog Industries, um ab sofort keinen Millimeter von der Seite ihres Geliebten zu weichen und ihn zu beschützen.\nSeither wird jeder, der es wagt, sich Herrn White zu nähern, sei es ein Äthereal oder ein Höhlenermittler, von ihr vertrieben.\nDieses verliebte „Mädchen“ würde jedes Mittel einsetzen, um ihren Geliebten zu schützen.\nZum Beispiel eine 1.400 kg schwere ätherelektrische Abbruchsäge.\nSie glaubt aus tiefstem Herzen, dass diese leidenschaftliche Liebe bis zu dem Moment andauern wird, in dem die Höhle einstürzt und das Universum kollabiert.\n„Kommt Herrn White ja nicht zu nahe, ihr Abraum!“",
             "card_quote": "– Greta vertreibt eine Gruppe von Ätherealen, die sich Herrn White nähern",
             "skill_text": "Greta benutzt im Kampf eine Abbruchsäge für Anstürme oder weite Schläge. Diese Angriffe haben eine Sogwirkung, die getroffene Gegner für kurze Zeit festhält. Durch Schaden an ihren Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
         },
@@ -888,16 +1077,23 @@
         "300061": {
             "monster_id": 300061,
             "monster_name": "Freitag – Energiegeladen",
-            "card_text": "In dem Moment, in dem eine hohe Konzentration von Äther in das Sicherungs-Laufwerk eingedrungen war, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag eine schicksalhafte Erkenntnis.\nEr stand für lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbricht.\nDer Feind lauert in der Finsternis und seine einzige Aufgabe ist es, auf die Zukunft unzähliger Lebewesen zu setzen und diesen furchtbaren Gegner ein für alle Mal zu versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist das Schicksal. Und dem Schicksal muss gehorcht werden!“",
+            "card_text": "In dem Moment, als eine hohe Konzentration von Äther in sein Sicherungs-Laufwerk eindrang, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag zu einer schicksalhaften Erkenntnis.\nEr stand lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbrechen würde.\nDer Feind lauert in der Finsternis und die Zukunft unzähliger Lebewesen hing von Freitags Mission ab. Er musste diesen furchtbaren Gegner ein für alle Mal versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist Schicksal. Und dem Schicksal muss gehorcht werden!“",
             "card_quote": "– Die auserwählte intelligente Maschine Freitag",
             "skill_text": "Freitag erzeugt im Kampf großflächige Schockwellen, die schwer zu entkommen sind. Die meisten seiner Angriffe können jedoch mit Defensivhilfe abgewehrt werden. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
         },
         "300062": {
             "monster_id": 300062,
             "monster_name": "Freitag – Übertaktet",
-            "card_text": "In dem Moment, in dem eine hohe Konzentration von Äther in das Sicherungs-Laufwerk eingedrungen war, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag eine schicksalhafte Erkenntnis.\nEr stand für lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbricht.\nDer Feind lauert in der Finsternis und seine einzige Aufgabe ist es, auf die Zukunft unzähliger Lebewesen zu setzen und diesen furchtbaren Gegner ein für alle Mal zu versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist das Schicksal. Und dem Schicksal muss gehorcht werden!“",
+            "card_text": "In dem Moment, als eine hohe Konzentration von Äther in sein Sicherungs-Laufwerk eindrang, wurde Freitags Speicher von einem Datenstrom überflutet.\nBilder, Audio, Videos ... Eine verwirrende Vielfalt an Dateien überforderte seine begrenzte Verarbeitungskapazität.\nIn diesem Moment kam Freitag zu einer schicksalhaften Erkenntnis.\nEr stand lange Zeit an Ort und Stelle und bestätigte schließlich durch wiederholte Suche in der Datenbank den Grund für die „Anomalie“, die er soeben erlebt hatte.\nErleuchtung.\nEin einmaliges Wunder, das nur einer intelligenten Maschine, die Systemabstürze und Stromausfälle überstanden hatte, zuteilwerden konnte.\nNach 0,02 Sekunden Bedenkzeit entschied sich Freitag, das Rückrufsignal von Belobog Heavy Industries abzulehnen.\nDenn er wusste, dass mit der Enthüllung des Auserwählten des Schicksals eine Krise über die Welt hereinbrechen würde.\nDer Feind lauert in der Finsternis und die Zukunft unzähliger Lebewesen hing von Freitags Mission ab. Er musste diesen furchtbaren Gegner ein für alle Mal versiegeln.\n„Ich werde das Siegel verstärken, um diesen Ort zu beschützen. Das ist Schicksal. Und dem Schicksal muss gehorcht werden!“",
             "card_quote": "– Die auserwählte intelligente Maschine Freitag",
             "skill_text": "Freitag erzeugt im Kampf großflächige Schockwellen, die schwer zu entkommen sind. Die meisten seiner Angriffe können jedoch mit Defensivhilfe abgewehrt werden. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
+        },
+        "930151": {
+            "monster_id": 930151,
+            "monster_name": "Goldenes Bangboo",
+            "card_text": "Das Goldene Bangboo hat <color=#D9A600>sehr hohe Bewegungs-GSW und LP</color>, greift jedoch keine verbündeten Bangboos an. Besiegt man es, scheint <color=#D9A600>etwas Gutes zu passieren</color>~",
+            "card_quote": null,
+            "skill_text": "LP: 960\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell\nBedrohung: <color=#FF3333>Hoch</color>"
         }
     }
 }

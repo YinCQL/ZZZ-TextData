@@ -1165,6 +1165,165 @@
             }
         ]
     },
+    "1091": {
+        "role_id": 1091,
+        "name": "Miyabi",
+        "full_name": "Hoshimi Miyabi",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Unagi_Talent_01_Title": "Frost Atop the Snow",
+                "Unagi_Talent_01_Desc_01_Realign": "ในระหว่างช่วงเวลาของ <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color> ทุกการใช้ <color=#FFFFFF>[Fallen Frost]</color> 1 แต้ม จะทำให้ <color=#FFFFFF>[โจมตีปกติ: Shimotsuki]</color> มองข้าม 6% ของ DEF ของเป้าหมาย (ซ้อนทับได้มากสุด 6 ชั้น) และเมื่อออกจาก <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color> เอฟเฟกต์บัฟจะสิ้นสุดลง;\nเมื่อทำการชาร์จขั้นสามใน <color=#FFFFFF>[โจมตีปกติ: Shimotsuki]</color> และใช้ Slash ถูกศัตรูที่อยู่ในสถานะ <color=#FFFFFF>[Frostburn]</color> จะลบล้างสถานะ <color=#FFFFFF>[Frostburn]</color> ของเป้าหมายในทันที และทำให้ทั้งทีมมีประสิทธิภาพการสะสม Attribute Anomaly เพิ่มขึ้น 20% ต่อเนื่อง 10 วินาที",
+                "Unagi_Talent_01_Desc_02": "Miyabi ชอบท่องกลอนที่เกี่ยวกับหิมะมาตั้งแต่เด็ก\nถึงแม้จะยังไม่เข้าใจอย่างถ่องแท้ในครั้งแรกที่เห็น แต่เธอก็ยังคงค้นหาคำตอบวันแล้ววันเล่า\nแล้วจู่ๆ เธอก็เข้าใจความหมายที่แท้จริงโดยไม่รู้ตัว\nไม่ใช่ในค่ำคืนที่มีหิมะพร่างพราว แต่เป็นขณะที่คมดาบพุ่งเข้าหากันในสนามรบ",
+                "Unagi_Talent_01_Desc_01": "ในระหว่างช่วงเวลาของ <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color> ทุกการใช้ <color=#FFFFFF>[Fallen Frost]</color> 1 แต้ม จะทำให้ <color=#FFFFFF>[โจมตีปกติ: Shimotsuki]</color> มองข้าม 6% ของ DEF ของเป้าหมาย (ซ้อนทับได้มากสุด 6 ชั้น) และเมื่อออกจาก <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color> เอฟเฟกต์บัฟจะสิ้นสุดลง;\nเมื่อทำการชาร์จขั้นสามใน <color=#FFFFFF>[โจมตีปกติ: Shimotsuki]</color> และใช้ Slash ถูกศัตรูที่อยู่ในสถานะ <color=#FFFFFF>[Frostburn]</color> จะลบล้างสถานะ <color=#FFFFFF>[Frostburn]</color> ของเป้าหมายในทันที และทำให้ทั้งทีมมีประสิทธิภาพการสะสม Attribute Anomaly เพิ่มขึ้น 20% ต่อเนื่อง 10 วินาที",
+                "Unagi_Talent_01_Title_Realign": "Frost Atop the Snow"
+            },
+            {
+                "talent_id": "2",
+                "Unagi_Talent_02_Title": "Breath Technique",
+                "Unagi_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[โจมตีปกติ: Kazahana]</color> และ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> สร้างความเสียหายเพิ่มขึ้น 30%;\nเมื่อการโจมตีครั้งสุดท้ายของ <color=#FFFFFF>[โจมตีปกติ: Kazahana]</color> ขั้นที่ 5 ถูกศัตรู Hoshimi Miyabi จะได้รับ <color=#FFFFFF>[Fallen Frost]</color> 1 แต้ม;\nเมื่อเข้าสู่การต่อสู้ Hoshimi Miyabi จะได้รับ <color=#FFFFFF>[Fallen Frost]</color> 6 แต้ม โดยทันที และตัวของเธอเองจะมี CRIT Rate เพิ่มขึ้น 15%",
+                "Unagi_Talent_02_Desc_02": "\"คมดาบเป็นเช่นไร จิตใจก็เป็นเช่นนั้น\" นี่คือหนึ่งในคำสอนของวิชาดาบสำนัก Hoshimi\nการล้มศัตรูได้เป็นเพียงก้าวแรกของชัยชนะ ในการต่อสู้ต้องไม่ประมาท\nการมีจิตใจที่มุ่งมั่นตั้งแต่ต้นจนจบ คือวิธีฝึกฝนของนักสู้อย่างแท้จริง",
+                "Unagi_Talent_02_Desc_01": "<color=#FFFFFF>[โจมตีปกติ: Kazahana]</color> และ <color=#FFFFFF>[หลบหลีกสวนกลับ]</color> สร้างความเสียหายเพิ่มขึ้น 30%;\nเมื่อการโจมตีครั้งสุดท้ายของ <color=#FFFFFF>[โจมตีปกติ: Kazahana]</color> ขั้นที่ 5 ถูกศัตรู Hoshimi Miyabi จะได้รับ <color=#FFFFFF>[Fallen Frost]</color> 1 แต้ม;\nเมื่อเข้าสู่การต่อสู้ Hoshimi Miyabi จะได้รับ <color=#FFFFFF>[Fallen Frost]</color> 6 แต้ม โดยทันที และตัวของเธอเองจะมี CRIT Rate เพิ่มขึ้น 15%",
+                "Unagi_Talent_02_Title_Realign": "Breath Technique"
+            },
+            {
+                "talent_id": "3",
+                "Unagi_Talent_03_Title": "Martial Discipline",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Unagi_Talent_03_Desc_02": "Miyabi ที่เกิดมาในตระกูลนักรบมีนิสัยในการฝึกฝนที่ดีเยี่ยม ซึ่งการฝึกดาบนั้นเป็นสิ่งที่ขาดไม่ได้ ว่าไงนะ? จะประชุม? ประชุมน่ะช่างมันเถอะ",
+                "Unagi_Talent_03_Title_Realign": "Martial Discipline"
+            },
+            {
+                "talent_id": "4",
+                "Unagi_Talent_04_Title": "Rupture",
+                "Unagi_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[Frostburn - Break]</color> สร้างความเสียหายเพิ่มขึ้น 30% และเมื่อทำให้เกิด <color=#FFFFFF>[Frostburn - Break]</color> Hoshimi Miyabi จะได้รับค่า Decibel เพิ่มเติม 250 แต้ม",
+                "Unagi_Talent_04_Desc_02": "ท่องกลอนเบาๆ ในขณะต่อสู้ จะช่วยปรับจังหวะการหายใจได้\nไม่ว่าเป็นอารมณ์ หรือการหายใจ หญิงสาวล้วนรักษามันให้อยู่ในสถานะที่ดีที่สุด",
+                "Unagi_Talent_04_Desc_01": "<color=#FFFFFF>[Frostburn - Break]</color> สร้างความเสียหายเพิ่มขึ้น 30% และเมื่อทำให้เกิด <color=#FFFFFF>[Frostburn - Break]</color> Hoshimi Miyabi จะได้รับค่า Decibel เพิ่มเติม 250 แต้ม",
+                "Unagi_Talent_04_Title_Realign": "Rupture"
+            },
+            {
+                "talent_id": "5",
+                "Unagi_Talent_05_Title": "Anniversary",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Unagi_Talent_05_Desc_02": "เด็กสาวนำดอกไม้มายังสถานที่ที่คุ้นเคย ลมหายใจของเธอกลายเป็นหมอกสีขาว และมลายหายไปในอากาศที่เย็นยะเยือก\nปลายนิ้วของเธอสัมผัสชื่อบนอนุสาวรีย์เบาๆ\nทุกอย่างรอบตัวเงียบสงบ ราวกับเป็นพยานที่เงียบงันที่สุด",
+                "Unagi_Talent_05_Title_Realign": "Anniversary"
+            },
+            {
+                "talent_id": "6",
+                "Unagi_Talent_06_Title": "Prodigious Talent",
+                "Unagi_Talent_06_Desc_01_Realign": "ในระหว่าง <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color> Hoshimi Miyabi จะได้รับเอฟเฟกต์ <color=#FFFFFF>[Polar]</color> ซึ่งจะทำให้ <color=#FFFFFF>[โจมตีปกติ: Shimotsuki]</color> สร้างความเสียหายเพิ่มขึ้น 30% โดยหลังจากได้รับเอฟเฟกต์ <color=#FFFFFF>[Polar]</color> เมื่อใช้ <color=#FFFFFF>[Fallen Frost]</color> Hoshimi Miyabi จะชักดาบ และใช้ Slash อย่างรุนแรงออกไปข้างหน้าโดยอัตโนมัติ ตามจำนวนขั้นของการชาร์จในขณะนั้น;\nก่อนที่ <color=#FFFFFF>[Fallen Frost]</color> จะถูกใช้จนหมด การชักดาบเพื่อใช้ Slash จะไม่ขัดจังหวะความคืบหน้าการชาร์จพลังใน <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color>;\nในระหว่าง <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color> หนึ่งครั้ง จะชักดาบเพื่อใช้ Slash ติดต่อกันได้มากสุด 3 ครั้ง",
+                "Unagi_Talent_06_Desc_02": "ยิ่งผ่านการต่อสู้มามากเท่าไหร่ ก็ยิ่งทำให้คนนอกรับรู้ได้ถึงความจริงเรื่องหนึ่ง ถ้าหากมีเทพแห่งดาบอยู่จริง งั้นเทพเหล่านั้นก็คงจะชื่นชอบ Hoshimi Miyabi อยู่พอสมควร",
+                "Unagi_Talent_06_Desc_01": "ในระหว่าง <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color> Hoshimi Miyabi จะได้รับเอฟเฟกต์ <color=#FFFFFF>[Polar]</color> ซึ่งจะทำให้ <color=#FFFFFF>[โจมตีปกติ: Shimotsuki]</color> สร้างความเสียหายเพิ่มขึ้น 30% โดยหลังจากได้รับเอฟเฟกต์ <color=#FFFFFF>[Polar]</color> เมื่อใช้ <color=#FFFFFF>[Fallen Frost]</color> Hoshimi Miyabi จะชักดาบ และใช้ Slash อย่างรุนแรงออกไปข้างหน้าโดยอัตโนมัติ ตามจำนวนขั้นของการชาร์จในขณะนั้น;\nก่อนที่ <color=#FFFFFF>[Fallen Frost]</color> จะถูกใช้จนหมด การชักดาบเพื่อใช้ Slash จะไม่ขัดจังหวะความคืบหน้าการชาร์จพลังใน <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color>;\nในระหว่าง <color=#FFFFFF>[ท่วงท่า Shimotsuki]</color> หนึ่งครั้ง จะชักดาบเพื่อใช้ Slash ติดต่อกันได้มากสุด 3 ครั้ง",
+                "Unagi_Talent_06_Title_Realign": "Prodigious Talent"
+            }
+        ]
+    },
+    "1131": {
+        "role_id": 1131,
+        "name": "Soukaku",
+        "full_name": "Soukaku",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Aokaku_Talent_01_Title": "Uplifting Current",
+                "Aokaku_Talent_01_Desc_01_Realign": "เมื่อ Soukaku ทำให้เกิด <color=#FFFFFF>[พาสซีฟหลัก: Blade Banner]</color> หรือ <color=#FFFFFF>[ความสามารถเพิ่มเติม: Group Set Meal]</color> ช่วงเวลาต่อเนื่องของเอฟเฟกต์บัฟ จะเพิ่มขึ้น 8 วินาที",
+                "Aokaku_Talent_01_Desc_02": "หลังจากชาร์จพลังเสร็จ โมดูลชาร์จพลังพิเศษ จะสามารถก่อกระแสลมพลังอีเทอร์ เพื่อเพิ่มพลังให้อุปกรณ์อีเทอร์รอบๆ\nซึ่งสำหรับ Soukaku แล้ว มันก็เหมือนช่วงเวลาอาหารที่เธอชื่นชอบ\n\"ทุกคน~ มากินบุฟเฟต์กันเถอะ!\"",
+                "Aokaku_Talent_01_Desc_01": "เมื่อ Soukaku ทำให้เกิด <color=#FFFFFF>[พาสซีฟหลัก: Blade Banner]</color> หรือ <color=#FFFFFF>[ความสามารถเพิ่มเติม: Group Set Meal]</color> ช่วงเวลาต่อเนื่องของเอฟเฟกต์บัฟ จะเพิ่มขึ้น 8 วินาที",
+                "Aokaku_Talent_01_Title_Realign": "Uplifting Current"
+            },
+            {
+                "talent_id": "2",
+                "Aokaku_Talent_02_Title": "Experimental Charging Module",
+                "Aokaku_Talent_02_Desc_01_Realign": "เมื่อการ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[พุ่งโจมตี]</color>, <color=#FFFFFF>[หลบหลีกสวนกลับ]</color>, <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> ถูกศัตรู\nจะมีโอกาส 15% ที่ Soukaku จะได้รับ <color=#FFFFFF>[Vortex]</color> 1 ชั้น โดยที่ภายใน 1 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nเมื่อจำนวนชั้น <color=#FFFFFF>[Vortex]</color> ถึงขีดสูงสุดแล้ว\nหากได้รับ <color=#FFFFFF>[Vortex]</color> อีกครั้งหนึ่ง\nจะเปลี่ยนเป็นฟื้นฟูพลังงานให้ Soukaku 1.2 แต้ม",
+                "Aokaku_Talent_02_Desc_02": "โมดูลชาร์จพลังสามารถรวบรวมพลังงาน ในขณะต่อสู้ได้อย่างต่อเนื่อง\nเพราะเหตุนี้มันจึงถูกฝ่ายวิจัย มองว่าเป็นอาวุธทางยุทธวิธีรูปแบบใหม่แห่งยุค\nแต่สำหรับ Soukaku แล้ว เมื่อชาร์จพลังเสร็จ นั่นหมายถึงได้เวลากินข้าวแล้ว",
+                "Aokaku_Talent_02_Desc_01": "เมื่อการ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[พุ่งโจมตี]</color>, <color=#FFFFFF>[หลบหลีกสวนกลับ]</color>,\n<color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> ถูกศัตรู จะมีโอกาส 15% ที่ Soukaku จะได้รับ <color=#FFFFFF>[Vortex]</color> 1 ชั้น\nโดยที่ภายใน 1 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nเมื่อจำนวนชั้น <color=#FFFFFF>[Vortex]</color> ถึงขีดสูงสุดแล้ว\nหากได้รับ <color=#FFFFFF>[Vortex]</color> อีกครั้งหนึ่ง\nจะเปลี่ยนเป็นฟื้นฟูพลังงานให้ Soukaku 1.2 แต้ม",
+                "Aokaku_Talent_02_Title_Realign": "Experimental Charging Module"
+            },
+            {
+                "talent_id": "3",
+                "Aokaku_Talent_03_Title": "Attendance Meal Allowance",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Aokaku_Talent_03_Desc_02": "การกระตุ้นให้ Soukaku ขยันฝึกซ้อมนั้นง่ายมาก เพียงแค่เพิ่มมาตรฐานการสนับสนุนอาหาร และเครื่องดื่มสำหรับการเข้าร่วมเท่านั้น",
+                "Aokaku_Talent_03_Title_Realign": "Attendance Meal Allowance"
+            },
+            {
+                "talent_id": "4",
+                "Aokaku_Talent_04_Title": "Hypothermia",
+                "Aokaku_Talent_04_Desc_01_Realign": "เมื่อการโจมตี <color=#FFFFFF>[Fly the Flag]</color> ถูกศัตรู\n<color=#98EFF0>ความต้านทานความเสียหายน้ำแข็ง</color>ของเป้าหมาย จะลดลง 10% ต่อเนื่อง 8 วินาที",
+                "Aokaku_Talent_04_Desc_02": "ภายในอาวุธที่ทำขึ้นมาพิเศษ ติดตั้งอุปกรณ์ทำความเย็นที่ทรงพลังเอาไว้ โดยจะมีสสารอีเทอร์อยู่ในตัวเร่งปฏิกิริยาที่ทำให้เกิดไอเย็น ซึ่งจะสร้างความเสียหายอย่างรุนแรง ให้แก่ศัตรูที่ถูกโจมตี",
+                "Aokaku_Talent_04_Desc_01": "เมื่อการโจมตี <color=#FFFFFF>[Fly the Flag]</color> ถูกศัตรู\n<color=#98EFF0>ความต้านทานความเสียหายน้ำแข็ง</color>ของเป้าหมาย จะลดลง 10% ต่อเนื่อง 8 วินาที",
+                "Aokaku_Talent_04_Title_Realign": "Hypothermia"
+            },
+            {
+                "talent_id": "5",
+                "Aokaku_Talent_05_Title": "Late-Night Snacks",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Aokaku_Talent_05_Desc_02": "วิธีที่จะกระตุ้น Soukaku ให้พยายามฝึกซ้อมมากขึ้นไปอีกนั้นก็ง่ายมากเช่นกัน นั่นก็คือนอกเหนือจากการสนับสนุนอาหารเมื่อเข้าร่วมแล้ว เพิ่มอาหารว่างยามดึกเข้าไปอีก",
+                "Aokaku_Talent_05_Title_Realign": "Late-Night Snacks"
+            },
+            {
+                "talent_id": "6",
+                "Aokaku_Talent_06_Title": "Northern Wind",
+                "Aokaku_Talent_06_Desc_01_Realign": "ในสถานะ <color=#FFFFFF>[Frosted Banner]</color> จำนวนครั้งที่ใช้ได้ของการ <color=#FFFFFF>[โจมตีปกติ]</color> และ <color=#FFFFFF>[พุ่งโจมตี]</color> ที่ได้รับการเสริมพลัง จะเพิ่มขึ้นเป็น 12 ครั้ง และความเสียหายที่ท่าสร้าง จะเพิ่มขึ้น 45%",
+                "Aokaku_Talent_06_Desc_02": "ปลดล็อกอุปกรณ์ความปลอดภัยภายในดาบรูปธง เพื่อปลดปล่อยอาวุธ ให้ทำงานในโหมดประสิทธิภาพสูงสุด ไม่เพียงแต่การต่อสู้เท่านั้นที่ไม่มีปัญหา... การใช้มันเพื่อทำให้ข้าวกล่องเย็นลง ก็ไม่มีปัญหาเช่นกัน",
+                "Aokaku_Talent_06_Desc_01": "ในสถานะ <color=#FFFFFF>[Frosted Banner]</color> จำนวนครั้งที่ใช้ได้ของการ <color=#FFFFFF>[โจมตีปกติ]</color> และ <color=#FFFFFF>[พุ่งโจมตี]</color> ที่ได้รับการเสริมพลัง จะเพิ่มขึ้นเป็น 12 ครั้ง และความเสียหายที่ท่าสร้าง จะเพิ่มขึ้น 45%",
+                "Aokaku_Talent_06_Title_Realign": "Northern Wind"
+            }
+        ]
+    },
+    "1201": {
+        "role_id": 1201,
+        "name": "Harumasa",
+        "full_name": "Asaba Harumasa",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Harumasa_Talent_01_Title": "\"High Spirit\"",
+                "Harumasa_Talent_01_Desc_01_Realign": "จำนวนชั้นการซ้อนทับสูงสุดของเอฟเฟกต์ <color=#FFFFFF>[Electro Prison]</color> ของ <color=#FFFFFF>[โจมตีปกติ: Ha-Oto no Ya]</color> จะเพิ่มขึ้นเป็น 14 ชั้น;\nเมื่อ <color=#FFFFFF>[Electro Quiver]</color> ถูกเปิดใช้ จะยิง <color=#FFFFFF>[Ha-Oto no Ya]</color> ใส่เป้าหมายติดต่อกัน 2 ดอก",
+                "Harumasa_Talent_01_Desc_02": "\"ฉันไม่ได้ยึดติดกับการต่อสู้ซึ่งหน้า เหมือนอย่างพวกหัวรั้นบางคนหรอกนะ\"\n\"ไม่ว่าจะเป็นการโจมตีอย่างโต้งๆ หรือยิงด้วยลูกธนูในมุมมืด อะไรที่ทำให้เลิกงานเร็วได้ ก็ถือว่าดีทั้งนั้น~\"",
+                "Harumasa_Talent_01_Desc_01": "จำนวนชั้นการซ้อนทับสูงสุดของเอฟเฟกต์ <color=#FFFFFF>[Electro Prison]</color> ของ <color=#FFFFFF>[โจมตีปกติ: Ha-Oto no Ya]</color> จะเพิ่มขึ้นเป็น 14 ชั้น;\nเมื่อ <color=#FFFFFF>[Electro Quiver]</color> ถูกเปิดใช้ จะยิง <color=#FFFFFF>[Ha-Oto no Ya]</color> ใส่เป้าหมายติดต่อกัน 2 ดอก",
+                "Harumasa_Talent_01_Title_Realign": "\"High Spirit\""
+            },
+            {
+                "talent_id": "2",
+                "Harumasa_Talent_02_Title": "Languish",
+                "Harumasa_Talent_02_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> Harumasa จะได้รับ <color=#FFFFFF>[Electro Blitz]</color> 7 ชั้น (ซ้อนทับมากสุด 7 ชั้น);\nเมื่อมี <color=#FFFFFF>[Electro Blitz]</color> จะทำให้ <color=#FFFFFF>[พุ่งโจมตี: Hiten no Tsuru - Slash]</color> สร้างความเสียหายเพิ่มขึ้น 50%;\nหลังจาก <color=#FFFFFF>[พุ่งโจมตี: Hiten no Tsuru - Slash]</color> สิ้นสุดลง จะใช้ <color=#FFFFFF>[Electro Blitz]</color> 1 ชั้น",
+                "Harumasa_Talent_02_Desc_02": "\"เห็นแบบนี้ ที่จริงแล้วฉันอ่อนแอสุดๆ เลยนะ~\"\nHarumasa นอนฟุบอยู่บนโต๊ะทำงานอย่างเกียจคร้าน\n\"เพราะงั้นภารกิจในครั้งนี้ ให้คนอื่นไปแทนดีกว่ามั้ย?\"",
+                "Harumasa_Talent_02_Desc_01": "เมื่อใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> Harumasa จะได้รับ <color=#FFFFFF>[Electro Blitz]</color> 7 ชั้น (ซ้อนทับมากสุด 7 ชั้น);\nเมื่อมี <color=#FFFFFF>[Electro Blitz]</color> จะทำให้ <color=#FFFFFF>[พุ่งโจมตี: Hiten no Tsuru - Slash]</color> สร้างความเสียหายเพิ่มขึ้น 50%;\nหลังจาก <color=#FFFFFF>[พุ่งโจมตี: Hiten no Tsuru - Slash]</color> สิ้นสุดลง จะใช้ <color=#FFFFFF>[Electro Blitz]</color> 1 ชั้น",
+                "Harumasa_Talent_02_Title_Realign": "Languish"
+            },
+            {
+                "talent_id": "3",
+                "Harumasa_Talent_03_Title": "White Lies",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Harumasa_Talent_03_Desc_02": "\"...วางใจเถอะ ตอนนี้ยังตายไม่ได้หรอก\"\nเขายิ้ม และเช็ดเลือดที่ไหลออกมาจากมุมปาก จากนั้นก็ยกธนูขึ้นมาตั้งท่าอีกครั้ง\n\"ฉันจะอยู่ไปอีกพันปีเลยล่ะ\"",
+                "Harumasa_Talent_03_Title_Realign": "White Lies"
+            },
+            {
+                "talent_id": "4",
+                "Harumasa_Talent_04_Title": "Occasionally Motivated",
+                "Harumasa_Talent_04_Desc_01_Realign": "เอฟเฟกต์ <color=#FFFFFF>[Electro Prison]</color> มีช่วงเวลาต่อเนื่องเพิ่มขึ้นเป็น 20 วินาที;\nเมื่อ <color=#FFFFFF>[พุ่งโจมตี: Hiten no Tsuru - Slash]</color> ถูกศัตรู Harumasa จะได้รับค่า Decibel 30 แต้ม โดยในการใช้หนึ่งครั้ง จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nเมื่อใช้ <color=#FFFFFF>[สกิลอัลติเมท]</color> จะเพิ่มเอฟเฟกต์ <color=#FFFFFF>[Electro Prison]</color> จนถึงชั้นสูงสุดให้ศัตรูทั้งหมดในสนาม",
+                "Harumasa_Talent_04_Desc_02": "บางครั้ง Harumasa ก็มีช่วงเวลาที่เต็มไปด้วยความฮึกเหิมเหมือนกัน...\nในตอนที่เหลือเวลาอีกห้านาทีก็จะเลิกงาน",
+                "Harumasa_Talent_04_Desc_01": "เอฟเฟกต์ <color=#FFFFFF>[Electro Prison]</color> มีช่วงเวลาต่อเนื่องเพิ่มขึ้นเป็น 20 วินาที;\nเมื่อ <color=#FFFFFF>[พุ่งโจมตี: Hiten no Tsuru - Slash]</color> ถูกศัตรู Harumasa จะได้รับค่า Decibel 30 แต้ม โดยในการใช้หนึ่งครั้ง จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nเมื่อใช้ <color=#FFFFFF>[สกิลอัลติเมท]</color> จะเพิ่มเอฟเฟกต์ <color=#FFFFFF>[Electro Prison]</color> จนถึงชั้นสูงสุดให้ศัตรูทั้งหมดในสนาม",
+                "Harumasa_Talent_04_Title_Realign": "Occasionally Motivated"
+            },
+            {
+                "talent_id": "5",
+                "Harumasa_Talent_05_Title": "No One Knows",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Harumasa_Talent_05_Desc_02": "\"ฉันอยากได้วันหยุด อยากได้อิสระ อยากจะมีความสุขในทุกๆ วัน...\"\n\"ล้อเล่นน่ะ ฉันอยากมีชีวิตอยู่ต่อไปต่างหาก\"",
+                "Harumasa_Talent_05_Title_Realign": "No One Knows"
+            },
+            {
+                "talent_id": "6",
+                "Harumasa_Talent_06_Title": "Tacit Understanding",
+                "Harumasa_Talent_06_Desc_01_Realign": "หลังจาก <color=#FFFFFF>[Ha-Oto no Ya]</color> ถูกศัตรูที่อยู่ในสภาวะสตั๊น หรือสถานะ Attribute Anomaly แล้ว Harumasa จะมองข้าม 15% ของ<color=#2EB6FF>ความต้านทานความเสียหายไฟฟ้า</color>ของศัตรูดังกล่าว ต่อเนื่อง 12 วินาที;\nการโจมตีถูกศัตรูตัวเดียวกันทุก 12 ครั้งของ <color=#FFFFFF>[Ha-Oto no Ya]</color> จะทำให้เกิดระเบิดแม่เหล็กไฟฟ้าเพิ่มเติม 1 ครั้ง ซึ่งจะสร้าง<color=#2EB6FF>ความเสียหายธาตุไฟฟ้า</color>เป็น 1,500% ของ ATK ของ Harumasa",
+                "Harumasa_Talent_06_Desc_02": "\"อาจารย์สอนฉันไว้เพียบเลยล่ะ ทั้งวิธีการยิงธนู วิธีใช้ดาบ วิธี... เอาตัวรอดในโลกใบนี้\"\n\"...หลังจากนั้นเหรอ?\"\n\"หลังจากนั้นอ่ะนะ... เขาก็จากฉันไปแล้วล่ะ\"",
+                "Harumasa_Talent_06_Desc_01": "หลังจาก <color=#FFFFFF>[Ha-Oto no Ya]</color> ถูกศัตรูที่อยู่ในสภาวะสตั๊น หรือสถานะ Attribute Anomaly แล้ว Harumasa จะมองข้าม 15% ของ<color=#2EB6FF>ความต้านทานความเสียหายไฟฟ้า</color>ของศัตรูดังกล่าว ต่อเนื่อง 12 วินาที;\nการโจมตีถูกศัตรูตัวเดียวกันทุก 12 ครั้งของ <color=#FFFFFF>[Ha-Oto no Ya]</color> จะทำให้เกิดระเบิดแม่เหล็กไฟฟ้าเพิ่มเติม 1 ครั้ง ซึ่งจะสร้าง<color=#2EB6FF>ความเสียหายธาตุไฟฟ้า</color>เป็น 1,500% ของ ATK ของ Harumasa",
+                "Harumasa_Talent_06_Title_Realign": "Tacit Understanding"
+            }
+        ]
+    },
     "1221": {
         "role_id": 1221,
         "name": "Yanagi",

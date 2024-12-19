@@ -210,12 +210,26 @@
             "card_quote": "——Episode 165 dari acara wawancara tengah malam \"Bincang-Bincang Hollow\" menampilkan Nobby Kereyan, seorang Riot Patroller yang pensiun karena cedera.",
             "skill_text": "Dalam pertarungan, Tyrfing akan melancarkan serangan jarak dekat."
         },
+        "100004": {
+            "monster_id": 100004,
+            "monster_name": "Tyrfing (Infested)",
+            "card_text": "Hollow Investigative Association terus menyelidiki pola perilaku Tyrfing. Posisi tubuhnya yang terlihat goyah dan miring sebenarnya adalah postur charge yang efisien yang dapat melancarkan tebasan beruntun kapan saja.\nTyrfing, dengan frekuensi kemunculannya yang tinggi dan agresivitasnya yang kuat, dinilai sebagai salah satu Ethereal yang paling berbahaya di dalam Hollow karena keberadaannya. Hal ini utamanya berlaku bagi beberapa petugas di dalam Hollow.\nSaat menghadapi musuh beperisai, ia akan dengan ganas melancarkan serangan tanpa henti hingga salah satu pihak, baik musuh atau dirinya sendiri kalah.\n\"Mungkin... ia tidak membenci kita, melainkan melihat kita sebagai boneka latihan?\"",
+            "card_quote": "——Episode 165 dari acara wawancara tengah malam \"Bincang-Bincang Hollow\" menampilkan Nobby Kereyan, seorang Riot Patroller yang pensiun karena cedera.",
+            "skill_text": "Selama pertarungan, Tyrfing (Infested) dapat melancarkan serangan yang berbeda-beda."
+        },
         "100011": {
             "monster_id": 100011,
             "monster_name": "Alpeca - Energized",
             "card_text": "Hollow Investigative Association tidak memiliki banyak penelitian tentang Alpeca. Setelah menganalisis pola perilakunya dalam menyemburkan Ether, ia didefinisikan sebagai Ethereal dengan tingkat ancaman rendah, dan penyelidikan selesai.\nPernah ada seorang peneliti yang sangat berminat terhadap cara Alpeca menyemburkan Ether cair. Dia kemudian mengumumkan kontrak investigasi untuk melakukan pengamatan dari jarak dekat\nTetapi karena beberapa alasan, Investigator yang berpengalaman selalu menghindari misi ini.\n\"Cepat lari! Mereka mulai memuntahkan air liur lagi... Ah! Pakaian baruku!\"",
             "card_quote": "——Investigator pemula, Raffaele Bert, sedang mencoba untuk mundur di kedalaman Hollow.",
             "skill_text": "Dalam pertarungan, Alpeca akan melancarkan serangan tersebar jarak jauh."
+        },
+        "100014": {
+            "monster_id": 100014,
+            "monster_name": "Alpeca (Infested)",
+            "card_text": "Hollow Investigative Association tidak memiliki banyak penelitian tentang Alpeca. Setelah menganalisis pola perilakunya dalam menyemburkan Ether, ia didefinisikan sebagai Ethereal dengan tingkat ancaman rendah, dan penyelidikan selesai.\nPernah ada seorang peneliti yang sangat berminat terhadap cara Alpeca menyemburkan Ether cair. Dia kemudian mengumumkan kontrak investigasi untuk melakukan pengamatan dari jarak dekat\nTetapi karena beberapa alasan, Investigator yang berpengalaman selalu menghindari misi ini.\n\"Cepat lari! Mereka mulai memuntahkan air liur lagi... Ah! Pakaian baruku!\"",
+            "card_quote": "——Investigator pemula, Raffaele Bert, sedang mencoba untuk mundur di kedalaman Hollow.",
+            "skill_text": "Selama pertarungan, Alpeca (Infested) dapat melancarkan serangan yang berbeda-beda."
         },
         "100021": {
             "monster_id": 100021,
@@ -237,6 +251,13 @@
             "card_text": "Dalam laporan penelitian HIA, Blastcrawler yang bergerak lambat dan hanya bisa memicu ledakan kecil diklasifikasikan sebagai Ethereal dengan \"tingkat ancaman rendah\" dan \"tidak perlu diperhatikan\".\nNamun, beberapa pedagang yang memiliki insting bisnis yang kuat menyadari peluang bisnis dari tubuh bulat dan kaki pendek mereka.\nDengan rilisnya film \"Berputarlah, Blastcrawler kecil\", produk-produk terkait seperti boneka, bantal, dan merchandise lainnya hampir terjual habis.\n\"Tidak kusangka boneka mereka ternyata lebih mematikan daripada aslinya... Billy, bulan depan aku cuma bisa makan mi instan...\"",
             "card_quote": "——Anby sedang memeriksa dompet di depan mesin capit di Distrik Belanja.",
             "skill_text": "Dalam pertarungan, Blastcrawler akan menyerang dengan meledakkan diri sendiri."
+        },
+        "100044": {
+            "monster_id": 100044,
+            "monster_name": "Shatterbug",
+            "card_text": "Dalam laporan penelitian HIA, Blastcrawler yang bergerak lambat dan hanya bisa memicu ledakan kecil diklasifikasikan sebagai Ethereal dengan \"tingkat ancaman rendah\" dan \"tidak perlu diperhatikan\".\nNamun, beberapa pedagang yang memiliki insting bisnis yang kuat menyadari peluang bisnis dari tubuh bulat dan kaki pendek mereka.\nDengan rilisnya film \"Berputarlah, Blastcrawler Kecil\", produk-produk terkait seperti boneka, bantal, dan merchandise lainnya hampir terjual habis.\n\"Tidak kusangka boneka mereka ternyata lebih mematikan daripada aslinya... Billy, bulan depan aku cuma bisa makan mi instan...\"",
+            "card_quote": "——Anby sedang memeriksa dompet di depan mesin capit di Distrik Belanja.",
+            "skill_text": "Dalam pertarungan, Shatterbug akan menyerang dengan meledakkan diri sendiri."
         },
         "100141": {
             "monster_id": 100141,
@@ -398,6 +419,125 @@
             "card_text": "Berbeda dengan Ethereal ancaman tinggi lainnya, meskipun Dead End Butcher memiliki tubuh yang besar dan mengerikan, namun konsentrasi Ether pada tubuhnya biasanya dalam status istirahat dengan aktivitas rendah.\n\nMeskipun begitu, Dead End Butcher masih memiliki kekuatan luar biasa yang mampu menghancurkan segala yang menghadangnya; seluruh area metro yang terdistorsi dan hancur bisa dibilang adalah \"dapur belakang terlarang\" miliknya.\n\nKetika terdapat target mengancam yang menarik perhatian dari Dead End Butcher, transformasi yang mengerikan pun akan terjadi dalam sekejap.\n\nKonsentrasi Ether yang tinggi di dalamnya seketika akan teraktivasi sepenuhnya; energi yang meningkat secara eksponensial mengubah tubuhnya dengan cepat, dan ia akan memasuki \"mode berburu\" yang sadis dan rakus.\n\nIni juga berarti bahwa \"waktu hidangan pembukaan\" telah berakhir, dan \"perjamuan pembantaian\" secara resmi telah dimulai.\n\nJika tidak ingin menjadi bagian dari \"perjamuan\" ini, maka para Hollow Raider yang tersesat di sini harus sangat hati-hati memilih rute, dan sebisa mungkin menjauh dari \"dapur belakang\" miliknya...\n\n\"Rute di dalam Hollow ini cukup rumit, tetapi yang dapat dipastikan adalah saat 'ia' muncul di ujung jalan, jalan itu pasti adalah jalan buntu.\"",
             "card_quote": "——Catatan investigasi HIA no. 17 tentang Dead End Hollow.",
             "skill_text": "Dalam pertarungan, Newborn Dead End Butcher akan menyerang dengan seluruh tenaganya. Setelah menerima sejumlah DMG, dia akan memasuki fase kedua. Dalam fase kedua, dia bisa melancarkan serangan laser, serangannya pun akan menjadi lebih ganas. Setelah serangan kombo yang ganas dalam fase kedua, menyerangnya dengan serangan berenergi tinggi bisa memicu efek Stagger. Newborn Dead End Butcher akan cenderung menghindari serangan musuh dengan lincah."
+        },
+        "300121": {
+            "monster_id": 300121,
+            "monster_name": "Notorious - Marionette",
+            "card_text": "Bertahun-tahun yang lalu, ada sepasang saudara penari jenius. Mereka bersinar seperti bintang dan dengan cepat mendapatkan banyak popularitas. Mereka juga menampilkan pertunjukan mewah di Ballet Twins.\nTapi tepat sebelum pertunjukan berakhir, sebuah bencana Hollow tiba-tiba terjadi. Ballet Twins jatuh ke dalam Hollow, dan kedua penari itu pun jatuh ke dalam kegelapan. Banyak orang di dunia menjadi sedih saat mendengar kabar ini.\nSaat ini, kebanyakan orang hanya dapat menyaksikan tarian lincah mereka melalui sisa-sisa rekaman video dan material bergambar.\nHanya beberapa Hollow Raider yang masuk ke Ballet Twins yang bisa tahu bahwa saat musik yang terlupakan itu terdengar lagi di Ballet Twins, sosok para Marionette yang samar-samar akan muncul seperti yang dijanjikan. Banyak orang percaya bahwa mereka memiliki hubungan dengan penari tersebut, dan seakan-akan ingin membantunya menyelesaikan \"pertunjukan penutup\" itu.\n\"Waktu musik mengerikan itu berakhir, dua Marionette muncul dari kegelapan dan memberi hormat...\"\n\"Apa?! Maksud mereka pertunjukannya sudah mau dimulai?!\"\n\"Bukan, menurutku maksud mereka adalah... Sudah terlambat untuk kabur. Semuanya sudah berakhir.\"",
+            "card_quote": "—\"Wawancara Hollow\" Volume 251, terkait wawancara dengan Hollow Investigator yang selamat",
+            "skill_text": "Dalam pertarungan, Notorious - Marionette akan memanggil pasangan dansanya untuk menyerang. Setiap kali mengalahkan pasangannya, akan memperpanjang durasi Stun berikutnya untuk Notorious - Marionette."
+        },
+        "930146": {
+            "monster_id": 930146,
+            "monster_name": "Tyrfing",
+            "card_text": "Musuh dengan ATK dan HP yang sangat rendah. Biasanya, ia adalah musuh pertama yang dihadapi para Bangboo di ujian pemula. Hampir tidak mengancam sama sekali.",
+            "card_quote": null,
+            "skill_text": "HP: 50\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+        },
+        "930147": {
+            "monster_id": 930147,
+            "monster_name": "Arlaune",
+            "card_text": "Musuh dengan tingkat ancaman tinggi yang bisa melancarkan <color=#D9A600>serangan jarak jauh</color>. Jika diblokir, maka akan melancarkan serangan kabut beracun yang <color=#D9A600>mengakibatkan DMG pada semua Bangboo di sekitar</color>. Saran: Tempatkan <color=#D9A600>Bangboo Baik Hati</color> untuk menghadapinya.",
+            "card_quote": null,
+            "skill_text": "HP: 430\nATK: Menengah\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+        },
+        "930148": {
+            "monster_id": 930148,
+            "monster_name": "Ahriman",
+            "card_text": "Saat HP penuh, <color=#D9A600>kecepatan bergerak akan menjadi sangat tinggi</color>, dan <color=#D9A600>tidak dapat diblokir</color>. Setelah terkena serangan, kecepatan bergerak akan menjadi pelan, dan ia dapat diblokir. Saran: Tempatkan <color=#D9A600>Bangboo Penembak</color> dan mengakibatkan DMG pada musuh ini lebih awal untuk mengurangi ancaman.",
+            "card_quote": null,
+            "skill_text": "HP: 70\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat (melambat jika terkena serangan)\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+        },
+        "930149": {
+            "monster_id": 930149,
+            "monster_name": "Alpeca",
+            "card_text": "Alpeca memiliki kemampuan untuk <color=#D9A600>menyerang dari jarak jauh</color>, dan bisa menyerang Bangboo yang ditempatkan di Posisi Taktis. Mohon perhatikan Stamina para Bangboo!",
+            "card_quote": null,
+            "skill_text": "HP: 100\nATK: Rendah\nDEF: 21\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+        },
+        "930150": {
+            "monster_id": 930150,
+            "monster_name": "Dullahan",
+            "card_text": "Musuh jarak dekat yang dengan tingkat ancaman tinggi! Dia memiliki <color=#D9A600>HP yang sangat tinggi</color>. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
+            "card_quote": null,
+            "skill_text": "HP: 480\nATK: Tinggi\nDEF: 75\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+        },
+        "930152": {
+            "monster_id": 930152,
+            "monster_name": "Hoplitai",
+            "card_text": "Saat Hoplitai memasuki medan pertarungan, <color=#D9A600>kecepatan bergeraknya akan sangat tinggi</color>! Dia akan menabrak Bangboo pertama yang di jalurnya, dan mengakibatkan <color=#D9A600>DMG dalam jumlah besar</color>. Setelah itu, <color=#D9A600>kecepatan bergeraknya akan berkurang drastis</color>.",
+            "card_quote": null,
+            "skill_text": "HP: 150\nATK: Tinggi\nDEF: 75\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930153": {
+            "monster_id": 930153,
+            "monster_name": "Faun",
+            "card_text": "Faun memiliki kecepatan bergerak yang cukup pelan, tetapi ATK yang sangat tinggi. Mohon perhatikan Stamina para Bangboo!",
+            "card_quote": null,
+            "skill_text": "HP: 140\nATK: Tinggi\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930154": {
+            "monster_id": 930154,
+            "monster_name": "Blastcrawler",
+            "card_text": "Blastcrawler memiliki kemampuan bergerak yang cukup cepat, dan akan meledakkan diri untuk mengakibatkan DMG pada <color=#D9A600>semua Bangboo</color> di sekitarnya. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
+            "card_quote": null,
+            "skill_text": "HP: 80\nATK: Rendah\nDEF: 13\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930157": {
+            "monster_id": 930157,
+            "monster_name": "Tyrfing",
+            "card_text": "Musuh dengan ATK dan HP yang sangat rendah. Biasanya, ia adalah musuh pertama yang dihadapi para Bangboo di ujian pemula. Hampir tidak mengancam sama sekali.",
+            "card_quote": null,
+            "skill_text": "HP: 140\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+        },
+        "930158": {
+            "monster_id": 930158,
+            "monster_name": "Arlaune",
+            "card_text": "Musuh ancaman tinggi yang bisa melancarkan <color=#D9A600>serangan jarak jauh</color>. Jika diblokir, maka akan melancarkan serangan kabut beracun yang <color=#D9A600>mengakibatkan DMG pada semua Bangboo di sekitar</color>. Saran: Tempatkan <color=#D9A600>Bangboo Baik Hati</color> untuk menghadapinya.",
+            "card_quote": null,
+            "skill_text": "HP: 1300\nATK: Menengah\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+        },
+        "930159": {
+            "monster_id": 930159,
+            "monster_name": "Ahriman",
+            "card_text": "Saat HP penuh, <color=#D9A600>kecepatan bergerak akan menjadi sangat tinggi</color>, dan <color=#D9A600>tidak dapat diblokir</color>. Setelah terkena serangan, kecepatan bergerak akan menjadi pelan, dan ia dapat diblokir. Saran: Tempatkan <color=#D9A600>Bangboo Penembak</color> dan mengakibatkan DMG pada musuh ini lebih awal untuk mengurangi ancaman.",
+            "card_quote": null,
+            "skill_text": "HP: 220\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat (melambat jika terkena serangan)\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+        },
+        "930160": {
+            "monster_id": 930160,
+            "monster_name": "Alpeca",
+            "card_text": "Alpeca memiliki kemampuan untuk <color=#D9A600>menyerang dari jarak jauh</color>, dan bisa menyerang Bangboo yang ditempatkan di Posisi Taktis. Mohon perhatikan Stamina para Bangboo!",
+            "card_quote": null,
+            "skill_text": "HP: 300\nATK: Rendah\nDEF: 21\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+        },
+        "930161": {
+            "monster_id": 930161,
+            "monster_name": "Dullahan",
+            "card_text": "Musuh jarak dekat yang dengan tingkat ancaman tinggi! Dia memiliki <color=#D9A600>HP yang sangat tinggi</color>. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
+            "card_quote": null,
+            "skill_text": "HP: 1440\nATK: Tinggi\nDEF: 75\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+        },
+        "930162": {
+            "monster_id": 930162,
+            "monster_name": "Hoplitai",
+            "card_text": "Saat Hoplitai memasuki medan pertarungan, <color=#D9A600>kecepatan bergeraknya akan sangat tinggi</color>! Dia akan menabrak Bangboo pertama yang di jalurnya, dan mengakibatkan <color=#D9A600>DMG dalam jumlah besar</color>. Setelah itu, <color=#D9A600>kecepatan bergeraknya akan berkurang drastis</color>.",
+            "card_quote": null,
+            "skill_text": "HP: 460\nATK: Tinggi\nDEF: 75\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930163": {
+            "monster_id": 930163,
+            "monster_name": "Faun",
+            "card_text": "Faun memiliki kecepatan bergerak yang cukup pelan, tetapi ATK yang sangat tinggi. Mohon perhatikan Stamina para Bangboo!",
+            "card_quote": null,
+            "skill_text": "HP: 430\nATK: Tinggi\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930164": {
+            "monster_id": 930164,
+            "monster_name": "Blastcrawler",
+            "card_text": "Blastcrawler memiliki kemampuan bergerak yang cukup cepat, dan akan meledakkan diri untuk mengakibatkan DMG pada <color=#D9A600>semua Bangboo</color> di sekitarnya. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
+            "card_quote": null,
+            "skill_text": "HP: 230\nATK: Rendah\nDEF: 13\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         }
     },
     "Thug": {
@@ -612,6 +752,34 @@
             "card_text": "Makhluk bernasib malang ini dulunya adalah manusia yang kini telah terkontaminasi Ether dengan konsentrasi tinggi. Namun karena tubuhnya memiliki daya tahan Ether yang cukup tinggi, ia tidak sepenuhnya mutasi. Wujudnya saat ini jauh lebih kuat dibanding saat masih hidup.\n\nDilihat dari pakaian dan intuisi bertarung yang tersisa, kemungkinan besar mereka dulunya merupakan anggota geng atau bandit berpangkat tinggi yang berkeliaran dalam Hollow.\n\nBandit sering kali adalah orang-orang yang kasar dan berbahaya. Sedangkan mereka yang berani menapakkan kakinya ke dalam Hollow untuk merampok rumah-rumah di sana pastinya adalah sekelompok orang yang jauh lebih berbahaya lagi... Dan dalam kelompok bandit tersebut, yang paling mengerikan adalah para elite-elite di antaranya.\n\nKetika mereka terkontaminasi Ether, mereka pastinya akan mutasi menjadi monster yang jauh lebih kuat dari Ethereal biasa.\n\n\"Kala itu, uang dicuri demi mencari nafkah, tak merenggut nyawa. Kini, mereka hanya merenggut nyawa, tak peduli dengan uang.\"",
             "card_quote": "——Materi internal Hollow Investigative Association, halaman tertentu dari buku \"Mengidentifikasi Bahaya dalam Hollow\" bab Makhluk Terkontaminasi.",
             "skill_text": "Dalam pertarungan, Corrupted Bandit - Ruthless Fiend akan melancarkan serangan beruntun pada musuh yang berada di jarak yang dekat dan melancarkan tumbukan dengan kecepatan tinggi pada musuh yang berada di jarak yang jauh. Jika kamu merusak lengannya dengan mengakibatkan sejumlah DMG, serangannya akan berubah menjadi lebih ganas."
+        },
+        "300211": {
+            "monster_id": 300211,
+            "monster_name": "Notorious - Pompey",
+            "card_text": "Orang-orang di Outer Ring menjulukinya \"Overlord Pompey\".\nNamun sekarang, jiwanya telah terkontaminasi oleh Ether ganas, tubuhnya tercemar belerang dan minyak mentah. Jantungnya yang dulu berdetak untuk melindungi Outer Ring pun sudah berubah menjadi inti Ether superkritis dengan energi yang tidak terbatas.\nOrang yang dulunya adalah penguasa tertinggi Outer Ring itu kini bangkit dari api dengan wujud yang berbeda.\nBebas, agung, ganas, dan gila.\nDia berlari di tengah debu dan api, menangkap segala sesuatu yang bergerak di sekitarnya, lalu merobek dan menghancurkan mereka tanpa mengedipkan matanya.\nSeorang kawan lama yang pernah mendengar gumamannya menduga kalau yang dia lakukan bukanlah untuk balas dendam semata, tapi hanya untuk menghancurkan \"makhluk asing\" yang mencoba melanggar aturan Outer Ring.\nMungkin itu satu-satunya tekad yang tersisa dari Overlord Pompey.\n\"Bos kami memang sudah berubah, tapi... dia masih tetap seperti dirinya yang dulu.\"",
+            "card_quote": "— Bekas bawahan The Vanquishers yang terus gemetar.",
+            "skill_text": "Selama pertarungan, serangan Notorious - Pompey akan meninggalkan energi Ether yang tidak stabil di tanah. Saat musuh mendekat atau melancarkan serangan bermuatan, maka ledakan energi Ether yang besar akan terpicu. Jika perlu, dia juga bisa mengangkat senjatanya untuk memblokir menyerang balik musuh dengan cepat."
+        },
+        "930155": {
+            "monster_id": 930155,
+            "monster_name": "Vicious Striker",
+            "card_text": "Vicious Striker memiliki <color=#FFAF2C>HP yang cukup tinggi</color>. Saran: Fokuskan daya tembak padanya!",
+            "card_quote": null,
+            "skill_text": "HP: 240\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930156": {
+            "monster_id": 930156,
+            "monster_name": "Vicious Striker",
+            "card_text": "Vicious Striker memiliki <color=#D9A600>HP yang cukup tinggi</color>. Saran: Fokuskan daya tembak padanya!",
+            "card_quote": null,
+            "skill_text": "HP: 240\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930165": {
+            "monster_id": 930165,
+            "monster_name": "Vicious Striker",
+            "card_text": "Vicious Striker memiliki <color=#FFAF2C>HP yang cukup tinggi</color>. Saran: Fokuskan daya tembak padanya!",
+            "card_quote": null,
+            "skill_text": "HP: 720\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         }
     },
     "Public Security": {
@@ -805,6 +973,13 @@
             "card_text": "Typhon Slugger adalah mecha berat yang tidak dilengkapi dengan kekuatan tembak jarak jauh. Namun, semua kinerjanya bertujuan untuk memperkuat zirah berbasis Ether miliknya.\n\nSerangan menabrak, serangan berat, serangan menggilas... Typhon Slugger menggunakan taktik yang sederhana, namun efisien untuk memaksimalkan kehancuran dari zirah berbasis Ether tersebut.\n\nSaat menghadapi Typhon Slugger yang sulit untuk didekati, bahkan Hollow Raider yang paling berpengalaman pun hanya bisa menghela napas dengan putus asa.\n\n\"Tubuh yang tegap, dan lengan yang kuat. Hmm... benar-benar tipe idamanku... Ah, maksudnya model idamanku.\"",
             "card_quote": "——Grace sedang memainkan model Typhon Slugger di toko gadget.",
             "skill_text": "Dalam pertarungan, Autonomous Tactical Unit - Typhon Slugger dapat melancarkan kombo dengan kekuatan dahsyat. Dia juga bisa tiba-tiba melompat ke udara untuk menghantam musuh."
+        },
+        "300082": {
+            "monster_id": 300082,
+            "monster_name": "Autonomous Assault Unit - Typhon Destroyer",
+            "card_text": "Typhon Destroyer adalah mecha berat yang tidak dilengkapi dengan kekuatan tembak jarak jauh. Namun, semua kinerjanya bertujuan untuk memperkuat zirah berbasis Ether miliknya.\nSerangan menabrak, serangan berat, serangan menggilas... Typhon Destroyer menggunakan taktik yang sederhana, namun efisien untuk memaksimalkan kehancuran dari zirah berbasis Ether tersebut.\nSaat menghadapi Typhon Destroyer yang sulit untuk didekati, bahkan Hollow Raider yang paling berpengalaman pun hanya bisa menghela napas dengan putus asa.\n\"Tubuh yang tegap, dan lengan yang kuat. Hmm... benar-benar tipe idamanku... Ah, maksudnya model idamanku.\"",
+            "card_quote": "——Grace sedang main-main dengan model Typhon Destroyer di toko gadget.",
+            "skill_text": "Selama pertarungan, serangan bertubi-tubi dari Autonomous Assault Unit - Typhon Destroyer akan semakin agresif, dan Perfect Assist akan bisa terpicu untuk sebagian besar serangannya. Setelah lengan mekaniknya mengisi daya, dia akan melancarkan serangan menerjang yang bisa memicu Perfect Assist. Jika berhasil menggunakan Defensive Assist untuk menangkis serangan ini berturut-turut, musuh ini akan menjadi lebih mudah untuk dikalahkan."
         }
     },
     "Spesial": {
@@ -832,7 +1007,7 @@
         "30006": {
             "monster_id": 30006,
             "monster_name": "Friday",
-            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\n\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\n\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin cerdas yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
+            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\n\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\n\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin pintar yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
             "card_quote": "——Mesin AI Pilihan, Friday.",
             "skill_text": "Dalam pertarungan, Friday akan melancarkan serangan gelombang kejut dengan jangkauan luas. Gelombang kejut ini sulit untuk dihindari, tapi sebagian besar skill lainnya bisa diatasi dengan Defensive Assist. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
         },
@@ -849,6 +1024,20 @@
             "card_text": "Sebagai petualang berbahaya yang berkeliaran di berbagai geng di New Eridu, dia lincah dan penampilan yang terus berubah. Bahkan tim tempur yang dilengkapi persenjataan lengkap pun sering kewalahan menghadapi teknik bertarungnya yang unik dan mematikan, sehingga hanya bisa melarikan diri diam-diam.",
             "card_quote": null,
             "skill_text": "Dalam pertarungan, serangan Jane sangat ganas. Dia akan menahan dan membalas serangan musuh jika diperlukan, tetapi biasanya akan menunjukkan kelemahan setelah kombonya berakhir."
+        },
+        "30024": {
+            "monster_id": 30024,
+            "monster_name": "Sacrifice - Bringer",
+            "card_text": "Dari seorang penyintas yang mengembara di alam liar hingga menjadi Wakil Komandan Public Security Janus Quarter, jalan hidup Bringer adalah suatu kisah yang penuh dengan inspirasi.\nTetapi di balik kisah ini yang menginspirasi ini, terjadi setumpuk kejahatan dan konspirasi yang tidak diketahui orang banyak, seperti awan gelap tak terlihat yang menyelimuti langit Janus Quarter.\nDemi rencana akhir dari sebuah entitas besar, Bringer selalu mengendalikan situasi di belakang layar dan merencanakan segala sesuatunya. Dia rela mengorbankan semua yang dia miliki untuk itu...\nDan di langkah terakhir untuk menyelesaikan rencana tersebut, dia bahkan menyuntikkan serum Sacrifice ke dalam dirinya untuk membuktikan kepercayaannya dengan tindakannya.\nPada saat itu, semua keinginan dan keyakinan yang gila muncul dalam wujud yang terdistorsi di dalam Hollow.\nEnergi Ether yang bergejolak, kekuatan brutal yang menghancurkan segalanya... Semua kepercayaan yang aneh dan keinginan campuran, semuanya muncul di dalam tubuh aneh yang baru terlahir...\nSacrifice - Bringer adalah wujud terakhirnya, yang juga adalah wujudnya yang paling sempurna.\n\"Semoga sang Pencipta... memurnikanku...!\"",
+            "card_quote": "— Teriakan Bringer dari lubuk hatinya yang terdalam",
+            "skill_text": "Selama pertarungan, Sacrifice - Bringer akan mengubah berbagai senjata untuk melancarkan kombinasi gerakan jauh dan dekat, dan akan memanggil panggilan besar dari celah Ether untuk membantunya menyerang. Setelah menerima sejumlah DMG, ia akan memasuki tahap kedua, di mana ia akan melancarkan serangan yang lebih kuat dan menembakkan serangan bertubi-tubi. Jika berhasil mengakibatkan DMG yang cukup besar selama periode persiapan Sacrificial Knife, pengisian dayanya akan terhenti, membuatnya rentan untuk menerima DMG."
+        },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Hitchspiker",
+            "card_text": "Ether adalah hama beracun yang serakah dan tak pernah puas, parasit yang sangat jahat, yang menggerogoti segala yang hidup.\nDan Hitchspiker adalah perwujudan Ether lebih berbahaya yang menghinggapi tubuh rekan-rekannya. Tyrfing dan Alpeca bisa memuaskan rasa lapar Hollow dengan wujud yang lebih ganas.\n\n\"Menjauhlah dari wajahku!!!\"",
+            "card_quote": "—Seorang ahli ekologi Ethereal yang menyadari kalau ini adalah serangga yang bisa melompat",
+            "skill_text": "Selama pertarungan, Hitchspiker akan terus berkeliaran untuk mencari Tyrfing dan Alpeca yang bisa dihinggapi sebagai parasit."
         },
         "100231": {
             "monster_id": 100231,
@@ -888,16 +1077,23 @@
         "300061": {
             "monster_id": 300061,
             "monster_name": "Friday - Energized",
-            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\n\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin cerdas yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
+            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\n\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin pintar yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
             "card_quote": "——Mesin AI Pilihan, Friday.",
             "skill_text": "Dalam pertarungan, Friday akan melancarkan serangan gelombang kejut dengan jangkauan luas. Gelombang kejut ini sulit untuk dihindari, tapi sebagian besar skill lainnya bisa diatasi dengan Defensive Assist. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
         },
         "300062": {
             "monster_id": 300062,
             "monster_name": "Friday - Overclocked",
-            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\n\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin cerdas yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
+            "card_text": "Pada saat lonjakan konsentrasi Ether yang tinggi menyusup ke dalam piringan memori cadangan, arus data yang kuat pun mengalir ke dalam memori Friday.\nGambar, audio, video... berbagai macam dokumen mulai membanjiri memori terbatasnya.\n\nDalam sekejap, Friday pun tersadar.\n\nIa berdiri di sana untuk waktu yang lama, dan akhirnya menemukan penyebab \"mutasi\" yang terjadi padanya dengan memeriksa database berulang kali.\nIni pasti adalah \"kehendaknya\"!\n\nIni adalah keajaiban yang terjadi hanya pada mesin pintar yang telah mengalami dan berhasil melewati krisis \"kerusakan sistem\" dan \"kehabisan daya\".\n\nSetelah berpikir keras selama 0,02 detik, dia akhirnya memutuskan untuk menolak panggilan dari Belobog.\n\nKarena dia tahu, saat dia muncul, dunia akan menghadapi krisis.\n\nMusuh sedang bergerak dalam kegelapan, dan satu-satunya misinya adalah menyegel musuh mengerikan itu demi masa depan semua orang.\n\n\"Aku akan memperkuat segel untuk melindungi tanah ini. Ini adalah takdir, dan takdir ini ada di tanganku!\"",
             "card_quote": "——Mesin AI Pilihan, Friday.",
             "skill_text": "Dalam pertarungan, Friday akan melancarkan serangan gelombang kejut dengan jangkauan luas. Gelombang kejut ini sulit untuk dihindari, tapi sebagian besar skill lainnya bisa diatasi dengan Defensive Assist. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
+        },
+        "930151": {
+            "monster_id": 930151,
+            "monster_name": "Bangboo Emas",
+            "card_text": "Bangboo Emas <color=#D9A600>memiliki kecepatan bergerak yang sangat cepat, dan HP yang sangat tinggi</color>, tetapi dia tidak akan menyerang Bangboo. Jika berhasil mengalahkannya, sepertinya akan ada <color=#D9A600>kejutan baik</color>~",
+            "card_quote": null,
+            "skill_text": "HP: 960\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FF3333>Tinggi</color>"
         }
     }
 }
