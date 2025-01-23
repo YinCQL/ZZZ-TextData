@@ -189,12 +189,26 @@
             "card_quote": "– Plusieurs inspecteurs prenant un Nassellaire en étau dans une Néantre",
             "skill_text": "En combat, le Nassellaire (Ionisé) charge longuement ses attaques, puis tire des orbes énergétiques à haut niveau. Lorsque vous infligez des DGT éthériques ou assénez une attaque à haute niveau pendant le chargement, l'orbe tombera et frappera tous les ennemis dans la zone environnante."
         },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelganger – Jane",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en lançant des attaques extrêmement agressives. En cas de nécessité, il peut parer et contrer les frappes ennemies, cependant il expose généralement son point faible après avoir réalisé son combo."
+        },
         "30023": {
             "monster_id": 30023,
             "monster_name": "Thrace",
             "card_text": "Cet Éthéréen redoutable, dont le nom provient d'un peuple guerrier d'une mythologie antique, est réputé comme l'incarnation des plus grands combattants et des esprits malveillants les plus cruels corrompus par l'éther.\n— Mais ce n'est pas le cas. Bien que vos muscules saillants développés après des années d'exploration de Néantres et la bouffée d'adrénaline relâchée juste avant la mort puissent poser de gros problèmes à vos anciens coéquipiers une fois transformé, croyez-vous que vos camarades se retiendraient contre les reste d'un vieil ami qu'ils ne peuvent plus sauver ?\nMais cela n'a aucune importance. Lorsque votre joli minois se transforme en un orbe sombre et sinistre, qui se préoccupe encore de sa réputation ?\n« Pas étonnant que ce soit lui le patron. Même en Éthéréen, il est toujours aussi classe !\nJe savais bien que ça se finirait mal quand il allait constamment à la salle ! »",
             "card_quote": "— Confession bruyante d'un écumeur de Néantres capturé",
             "skill_text": "En combat, le Thrace exécute ses compétences à répétition pour entrer dans un état de charge. Dans cet état, ses attaques deviennent plus agressives, et après avoir exécuté des techniques de haut niveau, il déclenche une explosion dans une vaste zone."
+        },
+        "30029": {
+            "monster_id": 30029,
+            "monster_name": "Doppelganger (Ionisé)",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": null
         },
         "35001": {
             "monster_id": 35001,
@@ -320,7 +334,7 @@
             "monster_name": "Hati (Infâme)",
             "card_text": "L'équipe d'inspection Phase-I de l'AIN a enfin documenté l'existence de cet individu d'éther sentient, aux allures de bête quadrupède et extrêmement dangereuse.\nSelon les rumeurs, elle aurait été aperçue pour la première fois dans son terrier à l'intérieur d'une Néantre, où les explorateurs qui inspectaient des déchets à proximité auraient entendu des rugissements déchirants rappelant des hurlements de bêtes sauvages.\n« Si on lance un ballon ou un bâton, tu crois que le monstre ira le chercher ?\n– Tu peux essayer, mais ce n'est pas moi qui paierai ta facture d'hôpital. »",
             "card_quote": "– Une conversation entre Billy et Nicole",
-            "skill_text": null
+            "skill_text": "Info sur les compétences du monstre - Espace réservé"
         },
         "200015": {
             "monster_id": 200015,
@@ -363,6 +377,27 @@
             "card_text": "Trompés par leur apparence, de nombreux écumeurs de Néantres prennent les Alrunes pour des plantes inoffensives lorsqu'ils en rencontrent pour la première fois.\nToutefois, lorsqu'ils s'en approchent, ils découvrent que l'Alrune émet des décharges de matière éthérique, qui surprennent ses victimes qui ne se doutent de rien.\n« Quoi ? J'ai voulu l'arroser, et elle m'a craché dessus en retour ! »",
             "card_quote": "– Un groupe d'inspecteurs novices pris en embuscade par un Alrune dans une Néantre",
             "skill_text": "En combat, l'Alrune lance des attaques à distance extrêmement rusées. Toutefois, lui infliger Vacillement lorsque ses pétales sont ouverts permet d'accumuler énormément de confusion en un seul coup."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelganger – Mors",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en s'adaptant au champ de bataille pour alterner des combos à bout portant et tirs à longue portée. Quand ses PV passent en dessous d'un certain pourcentage ou bout d'un certain temps, il commence à enchaîner des attaques à distance ou à tendre des pièges avec des tirs dans l'angle mort après s'être furtivement repositionné."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelganger – Pulchra",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible tout en gardant ses distances, attendant le moment opportun pour utiliser ses attaques physiques, ses pistolets à baïonnette et autres gadgets pour perturber sa cible. Quand ses PV passent en dessous d'un certain pourcentage, il entreprend un moyen inconnu pour renforcer ses capacités d'esquive, lui permettant d'éviter toute attaque provenant de ses cibles proches."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelganger – Bellum",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en utilisant un fusil à baïonnette, un bouclier et un lance-flamme pour acculer son adversaire à bout portant. S'il est attaqué alors qu'il est en posture de garde avec son bouclier, il lance une puissante contre-attaque. Quand ses PV passent en dessous d'un certain pourcentage, ses attaques s'intensifient et deviennent plus féroces et impitoyables."
         },
         "300001": {
             "monster_id": 300001,
@@ -420,6 +455,13 @@
             "card_quote": "– La 17e enquête de l'Association d'inspection des Néantres au sujet de la Néantre de l'Impasse",
             "skill_text": "En combat, les attaques du Boucher de l'Impasse nouveau-né sont très variées. Lorsqu'il subit suffisamment de dégâts, il prend sa forme finale et dispose d'attaques plus féroces, ainsi que de lasers. Frappez-le avec des compétences à haut niveau à la fin e son combo pour lui infliger davantage de Vacillement. Le Boucher de l'Impasse nouveau-né peut esquiver les attaques avec des bonds agiles."
         },
+        "300072": {
+            "monster_id": 300072,
+            "monster_name": "Infâme – Boucher de l'Impasse",
+            "card_text": "Contrairement aux autres Éthéréens, l'éther à l'intérieur du corps du Boucher de l'Impasse reste souvent dans un état dormant.\nIl fait, néanmoins, preuve d'une force brute extraordinaire qui lui permet de détruire n'importe quel obstacle et de faire de l'ancien métro en ruines et distordu son garde-manger personnel.\nCe n'est que lorsqu'il affronte un adversaire à sa taille, qui pique sa curiosité, qu'il entreprend une métamorphose épouvantable...\nEn quelques instants, l'éther extrêmement concentré dans son organisme subit une violente transformation qui génère d'immenses quantités d'énergie qui force ses membres à se déformer rapidement. Cette forme, plus brutale encore que la précédente, est celle qu'il prend pour se nourrir.\nFini les amuse-gueules, il est temps que le festin commence !\nAinsi, quiconque souhaiterait éviter d'être au menu, devrait bien planifier son itinéraire et éviter à tout prix de se retrouver dans son garde-manger.\n« Les chemins des Néantres sont sinueux. Mais une chose est sûre, lorsqu'il apparaît au bout de la route, vous pouvez être sûr d'être dans une \"impasse\". »",
+            "card_quote": "– La 17e enquête de l'Association d'inspection des Néantres au sujet de la Néantre de l'Impasse",
+            "skill_text": "En combat, le Boucher de l'Impasse - Infâme peut utiliser l'énergie éthérique pour lancer une variété d'attaques à distance et altérer l'espace pour créer des objets mimétiques."
+        },
         "300121": {
             "monster_id": 300121,
             "monster_name": "Infâme – Marionnette",
@@ -432,112 +474,112 @@
             "monster_name": "Tyrfing",
             "card_text": "Un ennemi avec une ATQ et des PV très bas. Présente une menace minime. Habituellement le premier ennemi que rencontre les Bangbous novices lors de leur examen.",
             "card_quote": null,
-            "skill_text": "PV : 50\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Lente\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+            "skill_text": "PV : Faibles\nATQ : Moyenne\nVitesse de déplacement : Lente\nMenace : <color=#31CC00>Minime</color>"
         },
         "930147": {
             "monster_id": 930147,
             "monster_name": "Alrune",
             "card_text": "Un ennemi très dangereux capable de lancer des <color=#D9A600>attaques à distance</color>. Lorsqu'il est bloqué, il dégage un brouillard empoisonné, qui <color=#D9A600>inflige des DGT à tous les Bangbous à proximité</color>. Déployez un <color=#D9A600>Bangbou serviable</color> pour le contrer.",
             "card_quote": null,
-            "skill_text": "PV : 430\nATQ : Moyenne\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+            "skill_text": "PV : Moyens\nATQ : Moyenne\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
         },
         "930148": {
             "monster_id": 930148,
             "monster_name": "Ahriman",
             "card_text": "Lorsque ses PV sont au max, <color=#D9A600>il se déplace extrêmement vite</color>, et <color=#D9A600>ne peut pas être bloqué</color>. Lorsqu'il subit une attaque, sa vitesse de déplacement diminue grandement et il devient blocable. Déployez un <color=#D9A600>Bangbou véloce</color> pour infliger des DGT à l'Ahriman aussi vite que possible pour minimiser sa menace.",
             "card_quote": null,
-            "skill_text": "PV : 70\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide (Ralentit quand il subit une attaque)\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+            "skill_text": "PV : Faibles\nATQ : Moyenne\nVitesse de déplacement : Rapide (Ralentit quand il subit une attaque)\nMenace : <color=#31CC00>Minime</color>"
         },
         "930149": {
             "monster_id": 930149,
             "monster_name": "Alpeca",
             "card_text": "L'Alpeca lance des <color=#D9A600>attaques à distance</color>, et peut attaquer les Bangbous en Position tactique. Gardez un œil sur l'endurance de vos candidats !",
             "card_quote": null,
-            "skill_text": "PV : 100\nATQ : Faible\nDÉF : 21\nVitesse de déplacement : Lente\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+            "skill_text": "PV : Faibles\nATQ : Faible\nVitesse de déplacement : Lente\nMenace : <color=#31CC00>Minime</color>"
         },
         "930150": {
             "monster_id": 930150,
             "monster_name": "Dullahan",
             "card_text": "Une unité de combat au corps à corps très dangereuse, qui possède <color=#D9A600>énormément de PV</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
             "card_quote": null,
-            "skill_text": "PV : 480\nATQ : Forte\nDÉF : 75\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+            "skill_text": "PV : Moyens\nATQ : Forte\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
         },
         "930152": {
             "monster_id": 930152,
             "monster_name": "Hoplites",
             "card_text": "Lorsqu'ils entrent sur le terrain, les Hoplites <color=#D9A600>se déplacent très rapidement</color>. Ils entrent en collision avec le premier Bangbou qu'ils rencontrent, infligeant d'<color=#D9A600>importants DGT</color>. Ensuite, leur vitesse de déplacement diminue <color=#D9A600>grandement</color>.",
             "card_quote": null,
-            "skill_text": "PV : 150\nATQ : Forte\nDÉF : 75\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Faibles\nATQ : Forte\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
         },
         "930153": {
             "monster_id": 930153,
             "monster_name": "Faune",
             "card_text": "Le Faune se déplace lentement, mais frappe fort. Attention à l'endurance de vos candidats !",
             "card_quote": null,
-            "skill_text": "PV : 140\nATQ : Forte\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Faibles\nATQ : Forte\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
         },
         "930154": {
             "monster_id": 930154,
             "monster_name": "Araignée explosive",
             "card_text": "L'Araignée explosive se déplace rapidement et explose à proximité des Bangbous, infligeant des DGT à <color=#D9A600>tous les Bangbous</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
             "card_quote": null,
-            "skill_text": "PV : 80\nATQ : Faible\nDÉF : 13\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Faibles\nATQ : Faible\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
         },
         "930157": {
             "monster_id": 930157,
             "monster_name": "Tyrfing",
             "card_text": "Un ennemi avec une ATQ et des PV très bas. Présente une menace minime. Habituellement le premier ennemi que rencontre les Bangbous novices lors de leur examen.",
             "card_quote": null,
-            "skill_text": "PV : 140\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Lente\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+            "skill_text": "PV : Faibles\nATQ : Moyenne\nVitesse de déplacement : Lente\nMenace : <color=#31CC00>Minime</color>"
         },
         "930158": {
             "monster_id": 930158,
             "monster_name": "Alrune",
             "card_text": "Un ennemi très dangereux capable de lancer des <color=#D9A600>attaques à distance</color>. Lorsqu'il est bloqué, il dégage un brouillard empoisonné, qui <color=#D9A600>inflige des DGT à tous les Bangbous à proximité</color>. Déployez un <color=#D9A600>Bangbou serviable</color> pour le contrer.",
             "card_quote": null,
-            "skill_text": "PV : 1 300\nATQ : Moyenne\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+            "skill_text": "PV : Super élevés\nATQ : Moyenne\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
         },
         "930159": {
             "monster_id": 930159,
             "monster_name": "Ahriman",
             "card_text": "Lorsque ses PV sont au max, <color=#D9A600>il se déplace extrêmement vite</color>, et <color=#D9A600>ne peut pas être bloqué</color>. Lorsqu'il subit une attaque, sa vitesse de déplacement diminue grandement et il devient blocable. Déployez un <color=#D9A600>Bangbou véloce</color> pour infliger des DGT à l'Ahriman aussi vite que possible pour minimiser sa menace.",
             "card_quote": null,
-            "skill_text": "PV : 220\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide (Ralentit quand il subit une attaque)\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+            "skill_text": "PV : Faibles\nATQ : Moyenne\nVitesse de déplacement : Rapide (Ralentit quand il subit une attaque)\nMenace : <color=#31CC00>Minime</color>"
         },
         "930160": {
             "monster_id": 930160,
             "monster_name": "Alpeca",
             "card_text": "L'Alpeca lance des <color=#D9A600>attaques à distance</color>, et peut attaquer les Bangbous en Position tactique. Gardez un œil sur l'endurance de vos candidats !",
             "card_quote": null,
-            "skill_text": "PV : 300\nATQ : Faible\nDÉF : 21\nVitesse de déplacement : Lente\nMenace : <color=#POSITIVE_WITH_WHITE>Minime</color>"
+            "skill_text": "PV : Moyens\nATQ : Faible\nVitesse de déplacement : Lente\nMenace : <color=#31CC00>Minime</color>"
         },
         "930161": {
             "monster_id": 930161,
             "monster_name": "Dullahan",
             "card_text": "Une unité de combat au corps à corps très dangereuse, qui possède <color=#D9A600>énormément de PV</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
             "card_quote": null,
-            "skill_text": "PV : 1 440\nATQ : Forte\nDÉF : 75\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+            "skill_text": "PV : Super élevés\nATQ : Forte\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
         },
         "930162": {
             "monster_id": 930162,
             "monster_name": "Hoplites",
             "card_text": "Lorsqu'ils entrent sur le terrain, les Hoplites <color=#D9A600>se déplacent très rapidement</color>. Ils entrent en collision avec le premier Bangbou qu'ils rencontrent, infligeant d'<color=#D9A600>importants DGT</color>. Ensuite, leur vitesse de déplacement diminue <color=#D9A600>grandement</color>.",
             "card_quote": null,
-            "skill_text": "PV : 460\nATQ : Forte\nDÉF : 75\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Moyens\nATQ : Forte\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
         },
         "930163": {
             "monster_id": 930163,
             "monster_name": "Faune",
             "card_text": "Le Faune se déplace lentement, mais frappe fort. Attention à l'endurance de vos candidats !",
             "card_quote": null,
-            "skill_text": "PV : 430\nATQ : Forte\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Moyens\nATQ : Forte\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
         },
         "930164": {
             "monster_id": 930164,
             "monster_name": "Araignée explosive",
             "card_text": "L'Araignée explosive se déplace rapidement et explose à proximité des Bangbous, infligeant des DGT à <color=#D9A600>tous les Bangbous</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
             "card_quote": null,
-            "skill_text": "PV : 230\nATQ : Faible\nDÉF : 13\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Faibles\nATQ : Faible\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
         }
     },
     "Bandits": {
@@ -618,6 +660,13 @@
             "card_quote": "– Quelque part à la Nouvelle-Eridu, des Bandit des Néantres tentent de rallier de nouvelles recrues.",
             "skill_text": "En combat, Bandit des Néantres – Brute déchaînée charge son armure d'électricité pour lancer des attaques à haut niveau. Lorsque sa charge est interrompue, il subit Électrocution immédiatement, et Dysfonctionnement s'il souffre déjà d'une autre anomalie d'attribut."
         },
+        "30027": {
+            "monster_id": 30027,
+            "monster_name": "Bûcheron",
+            "card_text": "Les écumeurs de Néantres comptent de nombreux « inventeurs » autoproclamés dans leurs rangs. Leur compétence principale est de récupérer des matériaux industriels d'occasion et des engins de combat abandonnés par la Sécurité publique dans les Néantres pour les transformer en créations originales.\nTronçonneuses à haute vitesse, scies circulaires à dents, bras industriels hydrauliques... Après un assemblage rudimentaire et des soudures approximatives, ces matériaux communs sont empilés pour former un engin dangereux et rare.\nPour le faire fonctionner sans accroc, son créateur a « consciencieusement » supprimé les restrictions de sécurité de la machine et, en se basant sur son apparence robuste, l'a baptisé « Bûcheron ».\nNul ne sait combien de temps le Bûcheron peut fonctionner de manière stable.\nIl pourrait devenir incontrôlable à tout moment, se mettre à tourner à toute vitesse et balayer les environs avec sa tronçonneuse et ses pointes à l'aide d'une puissance démesurée, provoquant un chaos inarrêtable.\nMais... ce mode de combat frénétique est peut-être la meilleure modification qu'un tel inventeur puisse imaginer.\n« Pourquoi l'appeler un \"Bûcheron\" ? Il n'y a pas de bois à couper dans les Néantres, si ? »\n« C'est bien pour ça qu'il est si en colère. Quand il démarre, il est imprévisible... »",
+            "card_quote": "— Dans la Néantre, quelques écumeurs de Néantres discutent des principes de fonctionnement du « Bûcheron ».",
+            "skill_text": "En combat, le Bûcheron modifie constamment la forme de sa tronçonneuse pour effectuer des combos fluides, et utilise ses roues pour se déplacer rapidement. Lorsque les ennemis sont hors de portée, il tire des lames de scie pour les traquer à distance."
+        },
         "100151": {
             "monster_id": 100151,
             "monster_name": "Rapineur",
@@ -666,41 +715,20 @@
             "card_text": "Dans les milieux clandestins de la Nouvelle-Eridu, tout le monde s'accorde à dire que même les plus redoutables des combattants des cercles de combat n'arrivent pas à la cheville des Truands costauds ou des truands recherchés qui rôdent dans les Néantres. Ces voyous professionnels sont engagés à prix d'or par des voleurs de matière éthérique pour protéger leur butin mal acquis.\nGrands fans de boxe, les truands costauds ont incorporé des tasers à haute tension dans leurs gants de boxe, pour renforcer l'impact déjà destructeur de leurs coups.\nÀ leurs yeux, les Éthéréens, les écumeurs et inspecteurs de Néantres, voire même les agents de la Sécurité publique, ne sont pas des adversaires, mais plutôt des sacs de frappe sur lesquels ils peuvent se défouler.\n« Une seconde. Je crois que j'ai déjà vu la posture de combat de ce type dans la salle d'arcade de la Quatrième ! »",
             "card_quote": "– Billy s'occupant d'un truand en pleine charge dans une Néantre",
             "skill_text": "En combat, Délinquant – Truand recherché est extrêmement agressif, et utilise son jeu de jambes agile pour changer l'angle d'attaque."
-        },
-        "200231": {
-            "monster_id": 200231,
-            "monster_name": "Doppelganger – Mors",
-            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
-            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
-            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en s'adaptant au champ de bataille pour alterner des combos à bout portant et tirs à longue portée. Quand ses PV passent en dessous d'un certain pourcentage ou bout d'un certain temps, il commence à enchaîner des attaques à distance ou à tendre des pièges avec des tirs dans l'angle mort après s'être furtivement repositionné."
-        },
-        "200241": {
-            "monster_id": 200241,
-            "monster_name": "Doppelganger – Pulchra",
-            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
-            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
-            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible tout en gardant ses distances, attendant le moment opportun pour utiliser ses attaques physiques, ses pistolets à baïonnette et autres gadgets pour perturber sa cible. Quand ses PV passent en dessous d'un certain pourcentage, il entreprend un moyen inconnu pour renforcer ses capacités d'esquive, lui permettant d'éviter toute attaque provenant de ses cibles proches."
-        },
-        "200251": {
-            "monster_id": 200251,
-            "monster_name": "Doppelganger – Bellum",
-            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
-            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
-            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en utilisant un fusil à baïonnette, un bouclier et un lance-flamme pour acculer son adversaire à bout portant. S'il est attaqué alors qu'il est en posture de garde avec son bouclier, il lance une puissante contre-attaque. Quand ses PV passent en dessous d'un certain pourcentage, ses attaques s'intensifient et deviennent plus féroces et impitoyables."
         }
     },
     "Corrompus": {
         "10021": {
             "monster_id": 10021,
             "monster_name": "Drone Corbeau",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Inconnu",
+            "card_quote": "Aucun",
+            "skill_text": "Infos sur les compétences du monstre - Espace réservé"
         },
         "30009": {
             "monster_id": 30009,
             "monster_name": "Complexe de corruption inconnu",
-            "card_text": "Khors Belobog, fondateur des usines Belobog, disait que les engins de construction était le mariage parfait de la force et de la beauté, et que leur conception devait suivre, dans les moindres détails, les principes de la mécanique classique.\nToutefois, la découverte du Complexe de corruption inconnu a remis en question tous les modèles de conception classique établis.\nPar l'impulsion d'un cœur éthérique hautement concentré, divers composants de pointe se sont assemblés de manière brutale, et on engendré une structure excessive qui repoussait toutes les limites de la physique.\nMélangeant des techniques de coupe, de martèlement, de forage et de pilonnage... elle les transforma pour créer des tactiques de combat imprévisibles.\nDe plus, lorsqu'il atteint un seuil critique, le cœur éthérique fournit une source inépuisable d'énergie volatile. Cela lui permet de couvrir sa carapace de courants à haute tension, et d'émettre des décharges dévastatrices capables de fendre la terre et pulvériser ses adversaires.\nSelon les hypothèses de l'AIN, le Complexe de corruption inconnu est capable de dévorer et d'absorber un grand éventail d'engins lourd, notamment des méchas militaires, des armes à laser, voire des missiles à courte portée des Forces de défense...\nChaque objet mécanique élaboré qu'il touche est absorbé, disséqué et finalement assimilé à sa structure.\nIl a été conçu dans le but d'acquérir une force destructrice inégalée, pour maximiser son efficacité dans son massacre incessant.\n« Sa conception est beaucoup trop étrange... Bon, allez, encore un petit coup d'œil ! »",
+            "card_text": "Khors Belobog, fondateur des usines Belobog, disait que les engins de construction était le mariage parfait de la force et de la beauté, et que leur conception devait suivre, dans les moindres détails, les principes de la mécanique classique.\nToutefois, la découverte du Complexe de corruption inconnu a remis en question tous les modèles de conception classique établis.\nPar l'impulsion d'un cœur éthérique hautement concentré, divers composants de pointe se sont assemblés de manière brutale, et ont engendré une structure excessive qui repoussait toutes les limites de la physique.\nMélangeant des techniques de coupe, de martèlement, de forage et de pilonnage... elle les transforma pour créer des tactiques de combat imprévisibles.\nDe plus, lorsqu'il atteint un seuil critique, le cœur éthérique fournit une source inépuisable d'énergie volatile. Cela lui permet de couvrir sa carapace de courants à haute tension, et d'émettre des décharges dévastatrices capables de fendre la terre et pulvériser ses adversaires.\nSelon les hypothèses de l'AIN, le Complexe de corruption inconnu est capable de dévorer et d'absorber un grand éventail d'engins lourd, notamment des méchas militaires, des armes à laser, voire des missiles à courte portée des Forces de défense...\nChaque objet mécanique élaboré qu'il touche est absorbé, disséqué et finalement assimilé à sa structure.\nIl a été conçu dans le but d'acquérir une force destructrice inégalée, pour maximiser son efficacité dans son massacre incessant.\n« Sa conception est beaucoup trop étrange... Bon, allez, encore un petit coup d'œil ! »",
             "card_quote": "– Grace sur l'observation d'un complexe de corruption inconnu au cœur d'une Néantre",
             "skill_text": "En combat, le Complexe de corruption inconnu combine les attaques des différents engins de construction, et peut tirer des barrages de missiles. Pendant qu'il est étourdi, attaquez son corps principal jusqu'à le briser pour lui infliger une immense quantité de dégâts. Ses jambes peuvent également être brisées pour lui infliger une confusion considérable."
         },
@@ -714,9 +742,9 @@
         "100211": {
             "monster_id": 100211,
             "monster_name": "Drone corbeau (Activé)",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Inconnu",
+            "card_quote": "Aucun",
+            "skill_text": "Info sur les compétences du monstre - Espace réservé"
         },
         "100271": {
             "monster_id": 100271,
@@ -765,21 +793,21 @@
             "monster_name": "Frappeur sournois",
             "card_text": "Le Frappeur sournois possède <color=#FFAF2C>beaucoup de PV</color>. Concentrez vos forces sur lui !",
             "card_quote": null,
-            "skill_text": "PV : 240\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Faibles\nATQ : Moyenne\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
         },
         "930156": {
             "monster_id": 930156,
             "monster_name": "Frappeur sournois",
             "card_text": "Le Frappeur sournois possède <color=#D9A600>beaucoup de PV</color>. Concentrez vos forces sur lui !",
             "card_quote": null,
-            "skill_text": "PV : 240\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Moyens\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
         },
         "930165": {
             "monster_id": 930165,
             "monster_name": "Frappeur sournois",
             "card_text": "Le Frappeur sournois possède <color=#FFAF2C>beaucoup de PV</color>. Concentrez vos forces sur lui !",
             "card_quote": null,
-            "skill_text": "PV : 720\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
+            "skill_text": "PV : Élevés\nATQ : Moyenne\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
         }
     },
     "Sécurité publique": {
@@ -787,21 +815,21 @@
             "monster_id": 10010,
             "monster_name": "Unité non identifiée",
             "card_text": "Unité non identifiée. Analyse complémentaire nécessaire.",
-            "card_quote": null,
+            "card_quote": "Aucun",
             "skill_text": "???"
         },
         "10011": {
             "monster_id": 10011,
             "monster_name": "Unité non identifiée",
             "card_text": "Unité non identifiée. Analyse complémentaire nécessaire.",
-            "card_quote": null,
+            "card_quote": "Aucun",
             "skill_text": "???"
         },
         "10012": {
             "monster_id": 10012,
             "monster_name": "Unité non identifiée",
             "card_text": "Unité non identifiée. Analyse complémentaire nécessaire.",
-            "card_quote": null,
+            "card_quote": "Aucun",
             "skill_text": "???"
         },
         "20006": {
@@ -882,6 +910,13 @@
             "card_text": "Le Typhon combattant est un mécha lourd dépourvu de système d'attaque à distance. À la place, sa conception se concentre sur son armure cinétique éthérique.\nDirects, crochets, attaques plongeantes... Le Typhon combattant emploie des tactiques simples, mais efficaces, pour maximiser sa puissance destructrice conférée par son armure cinétique éthérique. Les ondes de choc générées par ses coups feraient trembler même les plus gros Éthéréens.\nMême les écumeurs de Néantres les plus aguerris ne peuvent que laisser échapper un soupir désespéré, lorsqu'ils croisent la route d'un Typhon combattant.\n« Ce grand buste robuste, ces bras imposants... C'est tout à fait mon type... Euh, je veux dire, j'aime beaucoup ce modèle. »",
             "card_quote": "– Grace jouant avec une réplique du Typhon combattant à la boutique de gadgets",
             "skill_text": "En combat, Unité tactique autonome – Typhon combattant lance de puissants combos, et bondit parfois dans les airs pour asséner une attaque plongeante."
+        },
+        "30026": {
+            "monster_id": 30026,
+            "monster_name": "Oiseau de terreur",
+            "card_text": "L'Oiseau de terreur est la machine de guerre la plus fiable de la Nouvelle-Eridu, et a participé à un nombre incalculable de batailles. Sa conception repose sur un principe simple : l'équilibre parfait entre la dévastation en combat rapproché et la puissance de l'attaque à distance. Chacun de ses mouvements, chacun de ses pas est synonyme de destruction. De plus, il dispose d'un système de lancement de missiles guidés multiples et d'une mitrailleuse, ce qui lui permet d'attaquer des cibles à longue distance avec une grande précision. Qu'il s'agisse d'attaques d'assaut, de bombardements guidés ou de retraites par bonds agiles, l'Oiseau de terreur peut facilement s'adapter à différents scénarios de combat. Son attaque incessante rend impossible toute contre-attaque de la part de l'ennemi. C'est la machine de guerre ultime, l'incarnation de la puissance et de la terreur.\n« L'Oiseau de terreur est le symbole de cette époque. »",
+            "card_quote": "— Extrait de « La bataille de l'ancienne capitale : vérité et mémoire »",
+            "skill_text": "En combat, l'Oiseau de terreur se sert de ses puissantes jambes mécaniques pour les attaques rapprochées, tout en déchaînant un déluge d'armes à longue portée pour éliminer son ennemi. Utilisez des soutiens défensifs pour renvoyer ses missiles et le paralyser temporairement."
         },
         "100051": {
             "monster_id": 100051,
@@ -1011,13 +1046,6 @@
             "card_quote": "– La machine intelligente choisie, Vendredi",
             "skill_text": "En combat, Vendredi lance des ondes de choc difficiles à esquiver, mais qui peuvent être bloquées par des soutiens défensifs. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
         },
-        "30020": {
-            "monster_id": 30020,
-            "monster_name": "Doppelganger – Jane",
-            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
-            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
-            "skill_text": "En combat, cet ennemi utilise des attaques qui imitent parfaitement ceux de sa cible en lançant des attaques extrêmement agressives. En cas de nécessité, il peut parer et contrer les frappes ennemies, cependant il expose généralement son point faible après avoir réalisé son combo."
-        },
         "30022": {
             "monster_id": 30022,
             "monster_name": "Jane Doe",
@@ -1038,6 +1066,13 @@
             "card_text": "L'éther est un parasite avare et insatiable, une créature vicieuse qui se repaît sur la vitalité de son hôte.\nLe Spinozoaire épineux, incarnation éthérique malveillante, se loge dans le corps de ses congénères cruels et permet aux Tyrfings et Alpecas de satisfaire l'appétit vorace des Néantres avec encore plus d'avidité.\n« Ah, ne m'approche pas, saleté ! »",
             "card_quote": "— Un écologue spécialiste des Éthéréens, qui se rend compte qu'il s'agit simplement d'un insecte sautillant.",
             "skill_text": "En combat, le Spinozoaire épineux erre sur le champ de bataille à la recherche d'un Tyrfing ou d'un Alpeca à parasiter."
+        },
+        "30028": {
+            "monster_id": 30028,
+            "monster_name": "Garde de sécurité spécial",
+            "card_text": "Ces gardes de sécurité ressemblent, à première vue, à des gardes ordinaires, mais ils sont équipés en réalité d'un arsenal de techniques secrètes. Le devoir des gardes de sécurité n'est pas seulement d'avoir l'air intimidant et de se tenir devant l'entrée, mais aussi d'aider son patron à maintenir sa réputation lorsqu'il a un peu trop bu, ou de garder son sang-froid devant les voleurs tout en ayant l'air cool. Leur mission n'est pas de combattre le crime, mais d'empêcher le patron de tomber, de réparer l'ascenseur de l'entrée et, plus généralement, de faire profil bas. Dans leur monde, l'arme la plus puissante est « d'avoir l'air d'un dur à cuire » afin de n'avoir « rien à faire ». Après tout, celui qui se targue d'être un garde de sécurité ne fait connaître son existence que lorsque le problème a été résolu et que les gens disent : « Quoi ? Vous étiez là tout ce temps ? »",
+            "card_quote": "— Extrait du Manuel des opérations du personnel de sécurité, écrit par un garde vétéran",
+            "skill_text": "En combat, les Gardes de sécurité spéciaux utilisent une variété d'armes pour attaquer et se coordonner entre eux, si nécessaire."
         },
         "100231": {
             "monster_id": 100231,
@@ -1093,7 +1128,7 @@
             "monster_name": "Bangbou doré",
             "card_text": "Le Bangbou doré <color=#D9A600>se déplace très rapidement et possède beaucoup de PV</color>, mais n'attaque pas les Bangbous. Éliminez-le, et vous pourriez <color=#D9A600>recevoir une surprise</color>.",
             "card_quote": null,
-            "skill_text": "PV : 960\nATQ : Moyenne\nDÉF : 50\nVitesse de déplacement : Rapide\nMenace : <color=#FF3333>Élevée</color>"
+            "skill_text": "PV : Élevés\nATQ : Moyenne\nVitesse de déplacement : Rapide\nMenace : <color=#FF3333>Élevée</color>"
         }
     }
 }

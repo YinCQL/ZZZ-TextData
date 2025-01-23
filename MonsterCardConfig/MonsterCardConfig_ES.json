@@ -189,12 +189,26 @@
             "card_quote": "— Investigadores en las profundidades de la Cavidad al ser acorralados por nassellaria",
             "skill_text": "El nassellaria ionizado tiende a acumular fuerza durante un tiempo prolongado para generar un gran número de orbes de energía que atacan a los enemigos. Si recibe daño etéreo o ataques poderosos, los orbes de energía caerán antes de tiempo e infligirán daño en área a las unidades cercanas."
         },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelgänger - Jane",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Sus ataques son extremadamente feroces y, a veces, incluso contraatacará ante los golpes de sus enemigos. Sin embargo, expondrá su punto débil al final de cada combo."
+        },
         "30023": {
             "monster_id": 30023,
             "monster_name": "Tracio",
             "card_text": "Un temible ser etéreo cuyo nombre proviene de una estirpe de guerreros de los que hablan las leyendas de la antigua civilización. Se dice que solo los héroes más valientes y los villanos más perversos pueden convertirse en estas terribles criaturas al corromperse.\nPero esa no es la realidad. Sin embargo, todo el entrenamiento que le hayas dedicado a tus preciados músculos tanto en las Cavidades como en el gimnasio y la gran cantidad de adrenalina generada antes de morir pueden contribuir a que te conviertas en un gran problema para los compañeros que tuviste cuando vivías. Aunque es poco probable que se preocupen demasiado por una vieja amistad que ya está más que muerta, ¿no?\nAhí ya nada importa. ¿Qué más da tu reputación social en el momento en el que tu bello rostro se transforma en un oscuro orbe de energía?\n«¡No esperaba menos del jefe! ¡Sigue siendo igual de fuerte transformado en ser etéreo!»\n«Sabía que no podía ser bueno que fuera al gimnasio todos los días...»",
             "card_quote": "— Declaraciones en caliente de un miembro de una banda de saqueadores de Cavidades al ser arrestado",
             "skill_text": "Durante el combate, Tracio emplea repetidamente habilidades especiales para entrar en el estado de reserva eléctrica. En este estado se vuelve muy violento y provoca una explosión en un área grande tras ejecutar ataques de gran poder."
+        },
+        "30029": {
+            "monster_id": 30029,
+            "monster_name": "Doppelgänger ionizado",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": null
         },
         "35001": {
             "monster_id": 35001,
@@ -320,7 +334,7 @@
             "monster_name": "Hati infame",
             "card_text": "Un ser etéreo altamente peligroso. A pesar de su apariencia de una bestia cuadrúpeda, es sumamente inteligente. Existen registros de esta criatura desde la primera expedición oficial de la Asociación de Investigación de Cavidades.\nSe dice que fueron vistos por primera vez en una madriguera dentro de una Cavidad. Los nómadas que rondaban por los alrededores alcanzaban a escuchar sus aullidos, similares a los de una bestia salvaje.\n«Si les lanzo un palo o una pelota, ¿crees que irán a recogerlo?»\n«Inténtalo si quieres, pero no pienso pagar el hospital.»",
             "card_quote": "— Conversación entre Billy y Nicole",
-            "skill_text": null
+            "skill_text": "Descripción de habilidad de monstruo - Marcador de posición temporal"
         },
         "200015": {
             "monster_id": 200015,
@@ -363,6 +377,27 @@
             "card_text": "La primera vez que los saqueadores inexpertos se encuentran con un arlaune, se dejan engañar por su apariencia, creyendo que se trata de una planta inofensiva.\nPero al acercarse, este ser comenzará a agitarse y desprender materia etérea altamente concentrada para atacar al enemigo.\n«¿Eh? ¿Por qué me escupe? Solo quería regarla...»",
             "card_quote": "— Palabras de un investigador inexperto al ser atacado por un arlaune",
             "skill_text": "El arlaune es muy astuto y prefiere lanzar ataques a distancia. Sin embargo, al golpearlo mientras sus pétalos están abiertos, lo confundirá y acumulará una gran cantidad de Aturdimiento."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelgänger - Mors",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Puede elegir entre acercarse a los enemigos para atacarlos con combos cuerpo a cuerpo o dispararles a distancia, dependiendo de las circunstancias. Cuando sus PV están por debajo de cierta cantidad o cuando ha pasado cierto tiempo, utiliza un ataque a distancia adicional o se desplaza rápidamente para ejecutar un disparo sorpresa desde un ángulo letal."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelgänger - Pulchra",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Guarda distancia de su presa y aprovecha el momento oportuno atacar con su pistola con navaja. Cuando sus PV están por debajo cierta cantidad, utiliza algún medio desconocido que aumenta su capacidad de evasión. En este estado potenciado, evita los ataques a corta distancia."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelgänger - Bellum",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Utiliza su pistola con navaja, escudo y lanzallamas tres en uno para atacar al enemigo desde cerca. Si recibe un ataque mientras alza el escudo, ejecuta un poderoso contraataque. Cuando sus PV estén por debajo de cierta cantidad o si ha pasado cierto tiempo, sus ataques serán más agresivos y más frecuentes."
         },
         "300001": {
             "monster_id": 300001,
@@ -420,6 +455,13 @@
             "card_quote": "— Expediente n.º 17 sobre la Cavidad sin Retorno de la Asociación de Investigación de Cavidades",
             "skill_text": "La cría del Carnicero del Callejón ejecuta ataques de gran amplitud. Tras recibir cierta cantidad de daño, entra en la segunda fase, en la que se vuelve más agresivo y lanza rayos láser. Al encontrarse en la segunda fase, utiliza ataques más poderosos después de su combinación de golpes para confundirlo. La cría del Carnicero del Callejón tiende a ejecutar evasiones para esquivar los ataques enemigos."
         },
+        "300072": {
+            "monster_id": 300072,
+            "monster_name": "Carnicero del Callejón infame",
+            "card_text": "A diferencia de otros seres etéreos altamente peligrosos, el Carnicero del Callejón posee un cuerpo gigantesco, pero el éter en su interior normalmente se encuentra inactivo.\nAun así, el Carnicero del Callejón es lo suficientemente fuerte como para destruir lo que se le atraviese. Toda la retorcida área del metro es su «matadero».\nEl Carnicero del Callejón solo adoptará su forma más aterradora cuando una amenaza despierte su interés.\nEl éter concentrado acumulado en su cuerpo se intensificará en cuestión de milisegundos. La enorme cantidad de energía provoca que sus extremidades se distorsionen a gran velocidad para entrar en un estado devorador.\nEso significa que la hora del aperitivo ha llegado a su fin y ha comenzado el verdadero festín.\nSi no quieren formar parte del banquete, los saqueadores de Cavidades que entren por error en su territorio avanzar con cuidado y mantenerse lejos del «matadero»...\n«La ruta de esta Cavidad es complicada. Lo único certero es que, cuando él aparece al otro lado del camino, este se convierte en un callejón sin salida.»",
+            "card_quote": "— Expediente n.º 17 sobre la Cavidad sin Retorno de la Asociación de Investigación de Cavidades",
+            "skill_text": "El Carnicero del Callejón infame puede utilizar la energía etérea para ejecutar varios tipos de ataques a distancia y distorsionar el espacio para crear objetos miméticos."
+        },
         "300121": {
             "monster_id": 300121,
             "monster_name": "Marioneta infame",
@@ -432,112 +474,112 @@
             "monster_name": "Tyrfing",
             "card_text": "Una unidad hostil con poco Ataque y PV. Normalmente es el primer enemigo al que se enfrentan los bangbús novatos en un examen. No suponen una gran amenaza.",
             "card_quote": null,
-            "skill_text": "PV: 50\nAtaque: medio\nDefensa: 50\nVelocidad: lenta\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+            "skill_text": "PV: bajos\nAtaque: medio\nVelocidad: lenta\nNivel de amenaza: <color=#31CC00>bajo</color>"
         },
         "930147": {
             "monster_id": 930147,
             "monster_name": "Arlaune",
             "card_text": "Un enemigo muy peligroso que puede ejecutar <color=#D9A600>ataques a distancia</color>. Al bloquear su ataque, libera una niebla toxina que inflige daño a <color=#D9A600>todos los bangbús cercanos</color>. Se recomienda desplegar <color=#D9A600>bangbús bondadosos</color> para hacerle frente.",
             "card_quote": null,
-            "skill_text": "PV: 430\nAtaque: medio\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+            "skill_text": "PV: medios\nAtaque: medio\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
         },
         "930148": {
             "monster_id": 930148,
             "monster_name": "Arimán",
             "card_text": "Cuando tiene los PV al máximo, <color=#D9A600>se mueve con mayor velocidad</color> y <color=#D9A600>no puede ser bloqueado</color>. Al recibir daño, su velocidad se reduce y puede ser bloqueado. Se recomienda desplegar <color=#D9A600>bangbús disparadores</color> para reducir la amenaza del arimán.",
             "card_quote": null,
-            "skill_text": "PV: 70\nAtaque: medio\nDefensa: 50\nVelocidad: rápida, será más lenta tras recibir un ataque\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+            "skill_text": "PV: bajos\nAtaque: medio\nVelocidad: rápida, lenta tras recibir un ataque\nNivel de amenaza: <color=#31CC00>bajo</color>"
         },
         "930149": {
             "monster_id": 930149,
             "monster_name": "Alpeca",
             "card_text": "El alpeca tiene la capacidad de <color=#D9A600>atacar a distancia</color> a los bangbús en posiciones estratégicas. ¡Ten en cuenta el aguante del estudiante!",
             "card_quote": null,
-            "skill_text": "PV: 100\nAtaque: bajo\nDefensa: 21\nVelocidad: lenta\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+            "skill_text": "PV: bajos\nAtaque: bajo\nVelocidad: lenta\nNivel de amenaza: <color=#31CC00>bajo</color>"
         },
         "930150": {
             "monster_id": 930150,
             "monster_name": "Dullahan",
             "card_text": "¡Una unidad de combate cuerpo a cuerpo altamente peligrosa con <color=#D9A600>muchos PV</color>! ¡Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con mucho aguante para detenerla!",
             "card_quote": null,
-            "skill_text": "PV: 480\nAtaque: alto\nDefensa: 75\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+            "skill_text": "PV: medios\nAtaque: alto\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
         },
         "930152": {
             "monster_id": 930152,
             "monster_name": "Hoplita",
             "card_text": "Cuando el hoplita entra en el campo de batalla, <color=#D9A600>se mueve a gran velocidad</color> y se abalanza contra el primer bangbú que encuentre a su paso, <color=#D9A600>infligiendo una gran cantidad de daño</color>. Tras golpearlo, su velocidad de movimiento <color=#D9A600>se reduce considerablemente</color>.",
             "card_quote": null,
-            "skill_text": "PV: 150\nAtaque: alto\nDefensa: 75\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: bajos\nAtaque: alto\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         },
         "930153": {
             "monster_id": 930153,
             "monster_name": "Sátiro",
             "card_text": "El sátiro se mueve lentamente, pero tiene una gran cantidad de Ataque. ¡Presta atención al aguante de los estudiantes!",
             "card_quote": null,
-            "skill_text": "PV: 140\nAtaque: alto\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: bajos\nAtaque: alto\nVelocidad: lenta\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         },
         "930154": {
             "monster_id": 930154,
             "monster_name": "Araña explosiva",
             "card_text": "Las arañas explosivas son relativamente rápidas y pueden detonarse alrededor de los bangbús, infligiendo daño a <color=#D9A600>todos los bangbús</color>. Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con un aguante muy alto para detenerlas.",
             "card_quote": null,
-            "skill_text": "PV: 80\nAtaque: bajo\nDefensa: 13\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: bajos\nAtaque: bajo\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         },
         "930157": {
             "monster_id": 930157,
             "monster_name": "Tyrfing",
             "card_text": "Una unidad hostil con poco Ataque y PV. Normalmente es el primer enemigo al que se enfrentan los bangbús novatos en un examen. No suponen una gran amenaza.",
             "card_quote": null,
-            "skill_text": "PV: 140\nAtaque: medio\nDefensa: 50\nVelocidad: lenta\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+            "skill_text": "PV: bajos\nAtaque: medio\nVelocidad: lenta\nNivel de amenaza: <color=#31CC00>bajo</color>"
         },
         "930158": {
             "monster_id": 930158,
             "monster_name": "Arlaune",
             "card_text": "Un enemigo muy peligroso que puede ejecutar <color=#D9A600>ataques a distancia</color>. Al bloquear su ataque, libera una niebla toxina que inflige daño a <color=#D9A600>todos los bangbús cercanos</color>. Se recomienda desplegar <color=#D9A600>bangbús bondadosos</color> para hacerle frente.",
             "card_quote": null,
-            "skill_text": "PV: 1300\nAtaque: medio\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+            "skill_text": "PV: muy altos\nAtaque: medio\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
         },
         "930159": {
             "monster_id": 930159,
             "monster_name": "Arimán",
             "card_text": "Cuando tiene los PV al máximo, <color=#D9A600>se mueve con mayor velocidad</color> y <color=#D9A600>no puede ser bloqueado</color>. Al recibir daño, su velocidad se reduce y puede ser bloqueado. Se recomienda desplegar <color=#D9A600>bangbús disparadores</color> para reducir la amenaza del arimán.",
             "card_quote": null,
-            "skill_text": "PV: 220\nAtaque: medio\nDefensa: 50\nVelocidad: rápida, lenta tras recibir un ataque\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+            "skill_text": "PV: bajos\nAtaque: medio\nVelocidad: rápida, lenta tras recibir un ataque\nNivel de amenaza: <color=#31CC00>bajo</color>"
         },
         "930160": {
             "monster_id": 930160,
             "monster_name": "Alpeca",
             "card_text": "El alpeca tiene la capacidad de <color=#D9A600>atacar a distancia</color> a los bangbús en posiciones estratégicas. ¡Ten en cuenta el aguante del estudiante!",
             "card_quote": null,
-            "skill_text": "PV: 300\nAtaque: bajo\nDefensa: 21\nVelocidad: lenta\nNivel de amenaza: <color=#POSITIVE_WITH_WHITE>bajo</color>"
+            "skill_text": "PV: medios\nAtaque: bajo\nVelocidad: lenta\nNivel de amenaza: <color=#31CC00>bajo</color>"
         },
         "930161": {
             "monster_id": 930161,
             "monster_name": "Dullahan",
             "card_text": "¡Una unidad de combate cuerpo a cuerpo altamente peligrosa con <color=#D9A600>muchos PV</color>! ¡Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con mucho aguante para detenerla!",
             "card_quote": null,
-            "skill_text": "PV: 1440\nAtaque: alto\nDefensa: 75\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+            "skill_text": "PV: muy altos\nAtaque: alto\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
         },
         "930162": {
             "monster_id": 930162,
             "monster_name": "Hoplita",
             "card_text": "Cuando el hoplita entra en el campo de batalla, <color=#D9A600>se mueve a gran velocidad</color> y se abalanza contra el primer bangbú que encuentre a su paso, <color=#D9A600>infligiendo una gran cantidad de daño</color>. Tras golpearlo, su velocidad de movimiento <color=#D9A600>se reduce considerablemente</color>.",
             "card_quote": null,
-            "skill_text": "PV: 460\nAtaque: alto\nDefensa: 75\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: medios\nAtaque: alto\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         },
         "930163": {
             "monster_id": 930163,
             "monster_name": "Sátiro",
             "card_text": "El sátiro se mueve lentamente, pero tiene una gran cantidad de Ataque. ¡Presta atención al aguante de los estudiantes!",
             "card_quote": null,
-            "skill_text": "PV: 430\nAtaque: alto\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: medios\nAtaque: alto\nVelocidad: lenta\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         },
         "930164": {
             "monster_id": 930164,
             "monster_name": "Araña explosiva",
             "card_text": "Las arañas explosivas son relativamente rápidas y pueden detonarse alrededor de los bangbús, infligiendo daño a <color=#D9A600>todos los bangbús</color>. Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con un aguante muy alto para detenerlas.",
             "card_quote": null,
-            "skill_text": "PV: 230\nAtaque: bajo\nDefensa: 13\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: bajos\nAtaque: bajo\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         }
     },
     "Bandidos": {
@@ -618,6 +660,13 @@
             "card_quote": "— En algún lugar de Nueva Eridu, unos bandidos de Cavidades intentando reclutar nuevos miembros",
             "skill_text": "El bandido de Cavidades: bárbaro desenfrenado recarga sus brazos acorazados para liberar ataques más potentes. Sin embargo, mientras recarga, el bárbaro desenfrenado se encuentra en el estado de electrochoque. Si aplicas otro tipo de Anomalía de Atributo, provocarás el estado de disfunción e interrumpirás su recarga."
         },
+        "30027": {
+            "monster_id": 30027,
+            "monster_name": "Leñador mecánico",
+            "card_text": "Entre los saqueadores de Cavidades, hay muchos que se declaran a sí mismos «grandes inventores» cuya mayor habilidad es tomar materiales industriales de segunda mano y modificar maquinaria abandonada por el Ministerio de Seguridad Pública en las Cavidades en perfectas condiciones y convertirla en un pedazo de chatarra.\nMotosierra de alta velocidad, sierras circulares, brazos hidráulicos... Estos materiales comunes son burdamente ensamblados y fijados mediante una soldadura a medias. El resultado es un engendro que es un riesgo andante.\nPara que funcione sin problemas, su creador se ha tomado la molestia de deshacerse de las restricciones de seguridad y la ha bautizado con un nombre que encaja con su apariencia: leñador mecánico.\nNadie sabe cuánto tiempo seguirá funcionando esta máquina. De un momento a otro puede perder el control y comenzar a blandir su motosierra y pinchos con gran potencia, ejecutando una «tala» imparable. Quizá este modo de combate frenético es el mayor logro de su creador.\n«¿Por qué le han puesto «leñador mecánico», si no hay madera que cortar en las Cavidades?»\n«Exacto. Tal vez por eso esté furioso. Una vez que comienza, no hay quien lo pare...»",
+            "card_quote": "— Un grupo de saqueadores de Cavidades mientras discuten el propósito original del leñador mecánico",
+            "skill_text": "El leñador mecánico cambia frecuentemente la forma de su motosierra para ejecutar ataques en cadena. Cuando el enemigo está a cierta distancia, dispara sierras que persiguen al objetivo."
+        },
         "100151": {
             "monster_id": 100151,
             "monster_name": "Desvalijador",
@@ -666,36 +715,15 @@
             "card_text": "En el bajo mundo de Nueva Eridu es bien sabido que los luchadores más feroces no son los que ganan muchas peleas consecutivas, sino los matones fornidos y los matones buscados que se adentran en las Cavidades. Son escoltas que cobran una tarifa elevada por proteger los recursos de los traficantes de éter.\nDebido a su obsesión por la pelea, a los matones fornidos no se les da muy bien el uso de dispositivos electrónicos complejos. En lugar de pistola de electrochoque, llevan guantes de boxeo especiales que les brindan un poder destructivo a sus puñetazos.\nSeres etéreos, saqueadores, investigadores, oficiales de seguridad... Estando solos frente a un matón fornido o a un matón buscado, no son más que un saco de arena para pasar el tiempo.\n«¡Espera! Ese estilo de pelea... ¡Creo haber visto a ese tipo en la sala de juegos del Barrio N.º 4!»",
             "card_quote": "— Billy, mientras unos matones embisten en dirección a él",
             "skill_text": "El alborotador: matón buscado es extremadamente agresivo y se mueve ágilmente para ajustar su posición de ataque."
-        },
-        "200231": {
-            "monster_id": 200231,
-            "monster_name": "Doppelgänger - Mors",
-            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
-            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
-            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Puede elegir entre acercarse a los enemigos para atacarlos con combos cuerpo a cuerpo o dispararles a distancia, dependiendo de las circunstancias. Cuando sus PV están por debajo de cierta cantidad o cuando ha pasado cierto tiempo, utiliza un ataque a distancia adicional o se desplaza rápidamente para ejecutar un disparo sorpresa desde un ángulo letal."
-        },
-        "200241": {
-            "monster_id": 200241,
-            "monster_name": "Doppelgänger - Pulchra",
-            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
-            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
-            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Guarda distancia de su presa y aprovecha el momento oportuno atacar con su pistola con navaja. Cuando sus PV están por debajo cierta cantidad, utiliza algún medio desconocido que aumenta su capacidad de evasión. En este estado potenciado, evita los ataques a corta distancia."
-        },
-        "200251": {
-            "monster_id": 200251,
-            "monster_name": "Doppelgänger - Bellum",
-            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
-            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
-            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Utiliza su pistola con navaja, escudo y lanzallamas tres en uno para atacar al enemigo desde cerca. Si recibe un ataque mientras alza el escudo, ejecuta un poderoso contraataque. Cuando sus PV estén por debajo de cierta cantidad o si ha pasado cierto tiempo, sus ataques serán más agresivos y más frecuentes."
         }
     },
     "Entes corrompidos": {
         "10021": {
             "monster_id": 10021,
             "monster_name": "Cuervodrón",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Información desconocida",
+            "card_quote": "Ninguno",
+            "skill_text": "Descripción de habilidad de monstruo - Marcador de posición temporal"
         },
         "30009": {
             "monster_id": 30009,
@@ -714,9 +742,9 @@
         "100211": {
             "monster_id": 100211,
             "monster_name": "Cuervodrón activo",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Información desconocida",
+            "card_quote": "Todos",
+            "skill_text": "Descripción de habilidad de monstruo - Marcador de posición temporal"
         },
         "100271": {
             "monster_id": 100271,
@@ -765,21 +793,21 @@
             "monster_name": "Matón despiadado",
             "card_text": "El matón despiadado tiene <color=#FFAF2C>una gran cantidad de PV</color>. ¡Concentra tus ataques en él!",
             "card_quote": null,
-            "skill_text": "PV: 240\nAtaque: mediano\nDefensa: 50\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: medios\nAtaque: medio\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         },
         "930156": {
             "monster_id": 930156,
             "monster_name": "Matón despiadado",
             "card_text": "El matón despiadado tiene <color=#D9A600>una gran cantidad de PV</color>. ¡Concentra tus ataques en él!",
             "card_quote": null,
-            "skill_text": "PV: 240\nAtaque: medio\nDefensa: 50\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: medios\nAtaque: medios\nDefensa: 50\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         },
         "930165": {
             "monster_id": 930165,
             "monster_name": "Matón despiadado",
             "card_text": "El matón despiadado tiene <color=#FFAF2C>una gran cantidad de PV</color>. ¡Concentra tus ataques en él!",
             "card_quote": null,
-            "skill_text": "PV: 720\nAtaque: medio\nDefensa: 50\nVelocidad: lento\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+            "skill_text": "PV: altos\nAtaque: medio\nVelocidad: lento\nNivel de amenaza: <color=#FFAF2C>medio</color>"
         }
     },
     "Ministerio de Seguridad Pública": {
@@ -787,21 +815,21 @@
             "monster_id": 10010,
             "monster_name": "Unidad desconocida",
             "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
-            "card_quote": null,
+            "card_quote": "Ninguna",
             "skill_text": "???"
         },
         "10011": {
             "monster_id": 10011,
             "monster_name": "Unidad desconocida",
             "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
-            "card_quote": null,
+            "card_quote": "Todos",
             "skill_text": "???"
         },
         "10012": {
             "monster_id": 10012,
             "monster_name": "Unidad desconocida",
             "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
-            "card_quote": null,
+            "card_quote": "Ninguno",
             "skill_text": "???"
         },
         "20006": {
@@ -882,6 +910,13 @@
             "card_text": "Como meca pesado, el tifón retador no cuenta con capacidad de fuego de largo alcance, sino que todas sus funciones giran en torno al fortalecimiento de su coraza por medio de energía etérea.\nGolpear, aplastar, destruir... El tifón retador utiliza técnicas de combate sencillas y efectivas, llevando la capacidad destructiva de un bólido acorazado al extremo. Incluso la sacudida de sus golpes es capaz de disuadir a seres etéreos de gran tamaño.\nSu defensa es tan infranqueable, que incluso a los saqueadores experimentados no les queda más remedio que suspirar con resignación al verlo.\n«Un cuerpo imponente y vigoroso, brazos fuertes y robustos, como a mí me gustan... M-me refiero al modelo...»",
             "card_quote": "— Palabras de Grace mientras juega con un modelo de tifón retador de la tienda de juguetes",
             "skill_text": "La unidad táctica autónoma: tifón retador ejecuta una potente secuencia de golpes. Ocasionalmente da un salto en el aire para aplastar a los enemigos."
+        },
+        "30026": {
+            "monster_id": 30026,
+            "monster_name": "Ave del terror",
+            "card_text": "Un modelo de máquina de combate que tiene un largo historial de méritos tras haber participado en numerosas batallas. El ave del terror se ha convertido en la maquinaria de guerra más fiable de Nueva Eridu gracias a su gran capacidad de supresión. El diseño se basa en una premisa muy sencilla: el equilibrio perfecto entre la devastación del combate cuerpo a cuerpo y la potencia del ataque a distancia. Cada movimiento que hace, cada pisada que da, están llenos de destrucción. Además, cuenta con un sistema de lanzamiento de múltiples misiles teledirigidos y una ametralladora, lo que le permite atacar objetivos a gran distancia con gran precisión. Ya sea mediante ataques de asalto, bombardeos teledirigidos o ágiles saltos de retirada, el ave del terror puede adaptarse fácilmente a diferentes escenarios de combate. Su ataque implacable imposibilita el contraataque del enemigo. Es la máquina de guerra definitiva, la encarnación de potencia y terror.\n«El ave del terror es el símbolo de aquella época».",
+            "card_quote": "— Extracto de «Guerra en la antigua capital: verdad y memoria»",
+            "skill_text": "El ave del terror ejecuta ataques cuerpo a cuerpo con sus ágiles y poderosas extremidades mecánicas y utiliza todo tipo de ataques a distancia como fuego de supresión. Si consigues ejecutar un apoyo defensivo cuando dispara sus misiles, podrás devolvérselos y paralizarlo."
         },
         "100051": {
             "monster_id": 100051,
@@ -1011,13 +1046,6 @@
             "card_quote": "— Viernes, la máquina inteligente escogida por el destino",
             "skill_text": "Viernes crea ondas de choque de gran alcance que son difíciles de evadir. Sin embargo, la mayoría de sus habilidades pueden bloquearse con apoyos defensivos. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
         },
-        "30020": {
-            "monster_id": 30020,
-            "monster_name": "Doppelgänger - Jane",
-            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
-            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
-            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Sus ataques son extremadamente feroces y, a veces, incluso contraatacará ante los golpes de sus enemigos. Sin embargo, expondrá su punto débil al final de cada combo."
-        },
         "30022": {
             "monster_id": 30022,
             "monster_name": "Jane Doe",
@@ -1038,6 +1066,13 @@
             "card_text": "El éter es un parásito voraz e insaciable que devora la vida.\nEl protozoario espinoso es una manifestación del éter aún más maligna. Al hospedarse en el cuerpo de sus crueles compañeros, el tyrfing y el alpeca, pueden satisfacer su voracidad más salvaje.\n«¡Quítenmelo de la cara!».",
             "card_quote": "— Un científico de seres etéreos al darse cuenta de que es solo un insecto saltarín",
             "skill_text": "El protozoario espinoso deambula continuamente en busca de un tyrfing o un alpeca huésped."
+        },
+        "30028": {
+            "monster_id": 30028,
+            "monster_name": "Guarda del operativo de seguridad",
+            "card_text": "Un guarda del operativo de seguridad que, a simple vista, parece un guarda común y corriente, pero que en realidad cuenta con un arsenal de técnicas secretas. El deber de un guarda de servicios especiales no solo consiste en parecer intimidante y pararse frente a la entrada, sino también en ayudar a su jefe a conservar su reputación cuando se ha pasado de copas, o mantener la compostura ante los ladrones como si fuera su pan de cada día. Su trabajo no consiste en detener a los ladrones, sino en evitar que el jefe se caiga, arreglar el ascensor de entrada y, en general, mantener un perfil bajo. En su mundo, el arma más poderosa es lucir genial sin tener que mover un solo dedo. Después de todo, aquel que se jacte de ser un guarda de servicios especiales no permite que los demás sepan de su existencia hasta que el problema haya quedado resuelto y la gente diga: «¿Cómo? ¿Has estado aquí todo este tiempo?».\n«Mantente firme, y nadie será más rudo que tú.»",
+            "card_quote": "— Extracto del «Manual de operaciones de un guarda de seguridad», escrito por un guarda veterano",
+            "skill_text": "Los guardas del operativo de seguridad utilizan diferentes armas para atacar y cuando es necesario, cooperan entre sí."
         },
         "100231": {
             "monster_id": 100231,
@@ -1093,7 +1128,7 @@
             "monster_name": "Bangbú dorado",
             "card_text": "El bangbú dorado <color=#D9A600>se mueve a gran velocidad y tiene una gran cantidad de PV</color>, pero no atacará a los bangbús aliados. Derrótalo y obtendrás <color=#D9A600>una sorpresa</color>.",
             "card_quote": null,
-            "skill_text": "PV: 960\nAtaque: mediano\nDefensa: 50\nVelocidad: rápida\nNivel de amenaza: <color=#FF3333>alto</color>"
+            "skill_text": "PV: altos\nAtaque: medio\nVelocidad: rápida\nNivel de amenaza: <color=#FF3333>alto</color>"
         }
     }
 }

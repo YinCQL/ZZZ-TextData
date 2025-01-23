@@ -344,7 +344,7 @@
     "1026": {
         "id": "1026",
         "texts": {
-            "Message_102601": "null"
+            "Message_102601": "Người chơi đã hoàn thành ủy thác, người giao hàng đã gửi tin nhắn cảm ơn."
         }
     },
     "1027": {
@@ -363,16 +363,16 @@
     "1028": {
         "id": "1028",
         "texts": {
-            "Message_102801": "null",
-            "Option01_102802": "null"
+            "Message_102801": "Người chơi đã hoàn thành ủy thác cuối cùng, nhân viên giao hàng đã gửi tin nhắn cảm ơn.",
+            "Option01_102802": "Không cần cảm ơn."
         }
     },
     "1029": {
         "id": "1029",
         "texts": {
-            "Message_102901": "null",
-            "Option01_102902": "null",
-            "Message_102903": "null"
+            "Message_102901": "Người chơi đã hoàn thành ủy thác chiến đấu thứ hai, Người giao hàng đã gửi tin nhắn cảm ơn.",
+            "Option01_102902": "Không cần cảm ơn.",
+            "Message_102903": "Ôi, {F#cô}{M#cậu} thật tốt bụng!"
         }
     },
     "2001": {
@@ -4330,7 +4330,7 @@
             "Option01_20041205": "...Xin lỗi vì đã không đến chỗ hẹn!",
             "Option01_20041206": "Đột xuất có việc gấp nên quên mất",
             "Message_20041207": "Được, cho {F#cô}{M#cậu} thêm một cơ hội nữa",
-            "Message_20041208": "(Hẹn xong thời gian với \"Chiến Binh 11\")",
+            "Message_20041208": "(Hẹn thời gian với \"Chiến Binh 11\")",
             "Message_20041209": "(Trực tiếp xác định thời gian lịch trình)",
             "Message_20041210": "Lần này... có thể gặp được {F#cô}{M#cậu} đúng không?"
         }
@@ -4345,7 +4345,7 @@
             "Message_20041305": "Hãy biến câu nói này thành ngôi sao và để nó xuất hiện trên quân phục của tôi đi",
             "Message_20041306": "Có thể gặp mặt, còn ăn mừng thì không cần đâu. Chỉ là thao tác bình thường thôi mà",
             "Message_20041307": "Khi nào {F#cô}{M#cậu} rảnh? Tôi đến tìm {F#cô}{M#cậu}",
-            "Option01_20041308": "(Hẹn xong thời gian với \"Chiến Binh 11\")",
+            "Option01_20041308": "(Hẹn thời gian với \"Chiến Binh 11\")",
             "Option01_20041309": "(Trực tiếp xác định thời gian lịch trình)",
             "Message_20041310": "Tôi nhớ rồi",
             "Message_20041311": "Gặp lại sau"
@@ -4359,7 +4359,7 @@
             "Option01_20041403": "Lần sau nhất định...",
             "Message_20041404": "Không sao. Nhưng lần này nhất định phải tới, nếu không, chuẩn bị mà hít đất đi",
             "Message_20041405": "Lần sau là cách nói mập mờ, chúng ta hãy hẹn gặp vào một thời điểm xác định đi",
-            "Option01_20041406": "(Hẹn xong thời gian với \"Chiến Binh 11\")",
+            "Option01_20041406": "(Hẹn thời gian với \"Chiến Binh 11\")",
             "Option01_20041407": "(Trực tiếp xác định thời gian lịch trình)",
             "Message_20041408": "Nhớ đến đó!",
             "Message_20041409": "Tôi đợi {F#cô}{M#cậu} ở tiệm mì"
@@ -4496,7 +4496,7 @@
         "id": "200423",
         "texts": {
             "Message_20042301": "Mèo sẽ cảm nhận được nguy hiểm",
-            "Message_20042302": "Đội trưởng \"Magus\" từng kể về những gì anh ấy đã chứng kiến ở bệnh viện dã chiến",
+            "Message_20042302": "Đội trưởng \"Magus\" từng kể về những gì cô ấy đã chứng kiến ở bệnh viện dã chiến",
             "Message_20042303": "Trong bệnh viện có một con mèo, nó luôn nằm nhoài trên giường của những người lính bị thương nặng, người bị thương ở trên mấy chiếc giường mà con mèo ấy bò lên nằm, rất nhanh sau đó đã không cứu chữa được mà qua đời",
             "Message_20042304": "Tôi luôn để ý đến con mèo đen ở con đường phía sau Tiệm Trò Chơi Điện Tử",
             "Message_20042305": "Tìm lúc nào đó cùng đi xem thử tình hình của con mèo kia đi",
@@ -6338,10 +6338,551 @@
             "Option02_42801514": "null"
         }
     },
+    "431001": {
+        "id": "431001",
+        "texts": {
+            "Message_43100101": "Xin chào, đây là tài khoản khác của tôi, sau này chúng ta sẽ liên lạc bằng tài khoản này nhé",
+            "Option01_43100102": "Vẫn là avatar quen thuộc",
+            "OptionLong01_43100102": "Vẫn là avatar quen thuộc, tài khoản cơm chiên ban đầu của cô đâu?",
+            "Option02_43100102": "Tài khoản cơm chiên ban đầu của cô đâu?",
+            "OptionLong02_43100102": "Vẫn là avatar quen thuộc, tài khoản cơm chiên ban đầu của cô đâu?",
+            "Message_43100103": "Tôi có tận ba tài khoản, công dụng đều khác nhau",
+            "Message_43100104": "Tài khoản số 1 dùng để trao đổi công việc, tài khoản số 2 dùng cho bạn bè trên mạng, tài khoản số 3 dùng cho bạn bè ngoài đời!",
+            "Option01_43100105": "Vậy tài khoản trước đó...",
+            "Option02_43100105": "Vậy tài khoản bây giờ là...",
+            "Message_43100106": "Trước kia là tài khoản số 2, đây là số 3",
+            "Message_43100107": "Sau này tôi sẽ dùng tài khoản này để tìm {F#cô}{M#cậu}, đừng nhận nhầm nhé, dù sao trên Inter-Knot cũng có người dùng tên và hình ảnh của tôi làm thông tin tài khoản...",
+            "Message_43100108": "Tóm lại hãy liên hệ tài khoản cơm chiên này!",
+            "Message_43100110": "Đương nhiên là số 3, chúng ta không chỉ là bạn bè trên mạng mà nhỉ!"
+        }
+    },
+    "431002": {
+        "id": "431002",
+        "texts": {
+            "Message_43100201": "{F#Cô}{M#Cậu} biết Điều Ước Ngôi Sao Nhỏ không?",
+            "Option01_43100202": "Là... tên bài hát sao?",
+            "Option02_43100202": "Là... tên phim sao?",
+            "Message_43100203": "Tôi cũng không rõ, vừa rồi khi nói chuyện với mẹ, mẹ nói \"Thật ra mẹ cũng từng lên tivi đó\", sự tò mò của tôi chợt trỗi dậy!",
+            "Message_43100204": "Nhưng mẹ cũng không nhớ rõ chi tiết nữa, chỉ nhớ mỗi cái tên Điều Ước Ngôi Sao Nhỏ này",
+            "Message_43100205": "Cho nên tôi mới đến hỏi {F#cô}{M#cậu}, trong số những người bạn của tôi thì {F#cô}{M#cậu} là người hiểu biết sâu rộng về mặt này",
+            "Option01_43100206": "Hình như tôi có chút ấn tượng!",
+            "OptionLong01_43100206": "Nhớ ra rồi, Điều Ước Ngôi Sao Nhỏ mà mẹ cô nói không phải ca khúc hay phim ảnh, mà có thể là một chương trình giải trí!",
+            "Option02_43100206": "Nhớ ra rồi, không phải ca khúc hay phim ảnh",
+            "OptionLong02_43100206": "Nhớ ra rồi, Điều Ước Ngôi Sao Nhỏ mà mẹ cô nói không phải ca khúc hay phim ảnh, mà có thể là một chương trình giải trí!",
+            "Option01_43100207": "Để tôi tìm thử",
+            "OptionLong01_43100207": "Để tôi tìm xem, trước đây tôi từng thấy băng video về chương trình này",
+            "Option02_43100207": "Tôi đã từng thấy băng video về chương trình này",
+            "OptionLong02_43100207": "Để tôi tìm xem, trước đây tôi từng thấy băng video về chương trình này",
+            "Message_43100208": "Vậy nhờ {F#cô}{M#cậu} tìm giúp tôi nhé, hoặc tự tôi tìm cũng được, tôi rất muốn nhìn thấy dáng vẻ của mẹ lúc đó",
+            "Option01_43100209": "Ngay lúc chúng ta đang nói chuyện",
+            "OptionLong01_43100209": "Ngay lúc chúng ta đang nói chuyện, thì đã tìm được rồi",
+            "Option02_43100209": "Đã tìm thấy rồi",
+            "OptionLong02_43100209": "Ngay lúc chúng ta đang nói chuyện, thì đã tìm được rồi",
+            "Message_43100210": "Thật sao? Tốt quá! Nhất định phải giúp tôi giữ lại nhé, khi nào rảnh tôi sẽ đến tiệm {F#cô}{M#cậu} một chuyến~"
+        }
+    },
+    "431003": {
+        "id": "431003",
+        "texts": {
+            "Option01_43100301": "Công việc gần đây có bận không?",
+            "Option02_43100301": "Gần đây có rảnh không?",
+            "Message_43100302": "Bận, rất bận",
+            "Message_43100303": "Nhưng tôi muốn... tranh thủ nghỉ ngơi!",
+            "Option01_43100304": "Tôi cũng đang có ý này!",
+            "Option02_43100304": "Trùng hợp thật, tôi cũng vậy",
+            "Message_43100305": "Thế chúng ta có cùng suy nghĩ rồi, chi bằng ngay hôm nay, đặt điện thoại xuống, ra ngoài gặp mặt nhé?",
+            "Option01_43100306": "Không thành vấn đề",
+            "OptionLong01_43100306": "Không thành vấn đề, cô muốn đi đâu?",
+            "Option02_43100306": "Cô muốn đi đâu?",
+            "OptionLong02_43100306": "Không thành vấn đề, cô muốn đi đâu?",
+            "Message_43100307": "{F#Cô}{M#Cậu} chọn đi! Phải rồi, hãy chọn nơi nào ít người nhé",
+            "Message_43100308": "Dù sao cũng đến đây để gặp {F#cô}{M#cậu}, không muốn bị người khác làm phiền...",
+            "Option01_43100309": "Đến Đấu Trường Reverb đi",
+            "Option02_43100309": "Đến Cảng Elpis xem câu cá?",
+            "Message_43100310": "Ừm... Được! Dù sao thì những người ở Đấu Trường Reverb đều xem tôi như người bắt chước Astra Yao... Cũng khá tiện lợi nhỉ",
+            "Message_43100311": "Quyết định thế nhé, chúng ta hẹn gặp nhau ở lối vào Đấu Trường Reverb",
+            "Message_43100312": "Được. Hy vọng hôm nay những thợ câu đều có mặt, tôi rất thích xem họ câu cá",
+            "Option01_43100313": "Cô thích xem họ câu cá",
+            "OptionLong01_43100313": "Rốt cuộc cô thích xem họ câu cá hay thích xem họ tranh luận?",
+            "Option02_43100313": "Cô thích xem họ tranh luận đúng không?",
+            "OptionLong02_43100313": "Rốt cuộc cô thích xem họ câu cá hay thích xem họ tranh luận?",
+            "Message_43100314": "Câu trả lời trước truyền thông: Không thể trả lời. Câu trả lời cá nhân: Tôi thích hết!",
+            "Message_43100315": "Quyết định thế nhé, chúng ta hẹn gặp ở Cảng Elpis",
+            "Message_43100316": "Trùng hợp thật, tôi vừa định nhắn hỏi {F#cô}{M#cậu} dạo này có rảnh không~",
+            "Option01_43100317": "Tôi hỏi trước đó!",
+            "Option02_43100317": "Cô trả lời trước đi!",
+            "Message_43100318": "Được! Dạo này bận lắm, nhưng... đột nhiên muốn nghỉ ngơi một chút!",
+            "Option01_43100319": "Trùng hợp quá",
+            "OptionLong01_43100319": "Trùng hợp quá, tôi cũng nghĩ như vậy",
+            "Option02_43100319": "Tôi cũng nghĩ vậy",
+            "OptionLong02_43100319": "Trùng hợp quá, tôi cũng nghĩ như vậy",
+            "Message_43100320": "Để ăn mừng chúng ta có cùng suy nghĩ, chọn một nơi ra ngoài đi dạo đi!",
+            "Option01_43100321": "Không thành vấn đề",
+            "Option02_43100321": "Tôi cũng đang có ý này",
+            "Message_43100322": "Đã nghĩ ra sẽ đi đâu chưa? Hãy chọn nơi nào ít người nhé",
+            "Message_43100323": "Dù sao cũng đến đây để gặp {F#cô}{M#cậu}, không muốn bị người khác làm phiền..."
+        }
+    },
+    "431004": {
+        "id": "431004",
+        "texts": {
+            "Option01_43100401": "Đột nhiên muốn đến thăm cô",
+            "Option02_43100401": "Đang làm gì vậy",
+            "Message_43100402": "Vậy thì... xem poster trong tiệm?",
+            "Option01_43100403": "Đương nhiên là muốn gặp người thật rồi!",
+            "Option02_43100403": "Được, tôi đi xem đây",
+            "Message_43100404": "Câu vừa rồi chỉ đùa thôi~ Tuy bận tối tăm mặt mày, nhưng khi nhìn thấy tin nhắn của {F#cô}{M#cậu}, tôi liền rất muốn gặp {F#cô}{M#cậu}... Tất nhiên là gặp người thật rồi!",
+            "Message_43100405": "Tìm một nơi để gặp mặt nhé?",
+            "Message_43100406": "Phải rồi, đến nơi ít người một chút, không phải sợ người khác thấy chúng ta ở cùng nhau, mà là sau khi bị nhận ra, chụp ảnh và ký tên sẽ mất rất nhiều thời gian...",
+            "Option01_43100407": "Đến Đấu Trường Reverb đi",
+            "Option02_43100407": "Đến Cảng Elpis xem câu cá?",
+            "Message_43100408": "Ừm... Được! Dù sao thì những người ở Đấu Trường Reverb đều xem tôi như người bắt chước Astra Yao... Cũng khá tiện lợi nhỉ",
+            "Message_43100409": "Quyết định thế nhé, chúng ta hẹn gặp nhau ở lối vào Đấu Trường Reverb",
+            "Message_43100410": "Được. Hy vọng hôm nay những thợ câu đều có mặt, tôi rất thích xem họ câu cá",
+            "Option01_43100411": "Cô thích xem họ câu cá",
+            "OptionLong01_43100411": "Rốt cuộc cô thích xem họ câu cá hay thích xem họ tranh luận?",
+            "Option02_43100411": "Cô thích xem họ tranh luận đúng không?",
+            "OptionLong02_43100411": "Rốt cuộc cô thích xem họ câu cá hay thích xem họ tranh luận?",
+            "Message_43100412": "Câu trả lời trước truyền thông: Không thể trả lời. Câu trả lời cá nhân: Tôi thích hết!",
+            "Message_43100413": "Quyết định thế nhé, chúng ta hẹn gặp ở Cảng Elpis",
+            "Message_43100414": "Đợi đã, tôi đùa thôi! Thật ra tôi cũng muốn gặp {F#cô}{M#cậu}, {F#cô}{M#cậu} đó, chẳng để lại poster hay hình ảnh gì cả...",
+            "Message_43100415": "A... Lâu rồi chưa gặp {M#Wise}{F#Belle}, không nhớ rõ {F#cô}{M#cậu} trông như thế nào nữa rồi",
+            "Option01_43100416": "Lần sau sẽ chụp cho cô vài tấm",
+            "Option02_43100416": "Không sao, tôi có poster của cô là được rồi",
+            "Message_43100417": "Được, vậy ít nhất lần này phải gặp người thật~ Nói đi, đi đâu gặp mặt?",
+            "Message_43100418": "Ây da đừng xem poster! Ra ngoài gặp tôi đi! Nói đi, muốn đi đâu gặp mặt?",
+            "Message_43100419": "Đang tìm cảm hứng, bài hát mới chỉ vừa viết đến nửa chừng, cứ cảm thấy có gì đó không ổn...",
+            "Message_43100420": "Phải rồi, ra ngoài chơi đi, giúp tôi tìm cảm hứng!",
+            "Option01_43100421": "Không thành vấn đề",
+            "OptionLong01_43100421": "Không thành vấn đề, thì ra... tôi có thể mang đến cảm hứng cho cô sao?",
+            "Option02_43100421": "Thì ra tôi có thể mang đến cảm hứng sao?",
+            "OptionLong02_43100421": "Không thành vấn đề, thì ra... tôi có thể mang đến cảm hứng cho cô sao?",
+            "Message_43100422": "Đương nhiên rồi, chỉ cần ở cùng {F#cô}{M#cậu} là sẽ gặp được rất nhiều chuyện vui, rất thích hợp để viết ca khúc ngọt ngào",
+            "Message_43100423": "Đã nghĩ ra sẽ đi đâu chưa? Phải rồi, đến nơi nào ít người nhé",
+            "Message_43100424": "Không phải sợ người khác thấy chúng ta ở cùng nhau, mà là sau khi bị nhận ra, chụp ảnh và ký tên sẽ mất rất nhiều thời gian..."
+        }
+    },
+    "431005": {
+        "id": "431005",
+        "texts": {
+            "Option01_43100501": "Công việc gần đây có bận không?",
+            "Option02_43100501": "Gần đây có rảnh không?",
+            "Message_43100502": "Bận, rất bận",
+            "Message_43100503": "Nhưng tôi muốn... tranh thủ nghỉ ngơi!",
+            "Option01_43100504": "Tôi cũng đang có ý này!",
+            "Option02_43100504": "Trùng hợp thật, tôi cũng vậy",
+            "Message_43100505": "Thế chúng ta có cùng suy nghĩ rồi, chi bằng ngay hôm nay, đặt điện thoại xuống, ra ngoài gặp mặt nhé?",
+            "Option01_43100506": "Không thành vấn đề",
+            "OptionLong01_43100506": "Không thành vấn đề, cô muốn đi đâu?",
+            "Option02_43100506": "Cô muốn đi đâu?",
+            "OptionLong02_43100506": "Không thành vấn đề, cô muốn đi đâu?",
+            "Message_43100507": "{F#Cô}{M#Cậu} chọn đi! Đi đâu cũng được!",
+            "Option01_43100508": "Vậy thì đến cửa hàng đĩa nhạc ở Ngõ Sáu đi dạo nhé?",
+            "Option02_43100508": "Vậy thì đến Ngõ Sáu ăn mì đi",
+            "Message_43100509": "Cửa hàng đĩa nhạc trên phố của các bạn... tôi nhớ tên là Ngân Nga Khúc Hát phải không? Được thôi! Vậy tôi xuất phát đây, gặp ở cửa ga tàu điện ngầm Ngõ Sáu nhé!",
+            "Message_43100510": "Ý hay đó! A~ Đều tại {F#cô}{M#cậu}, vừa nhắc đến là tôi đã thấy đói rồi, nhanh nhanh, gặp mặt ở cửa ga tàu điện ngầm Ngõ Sáu!",
+            "Message_43100511": "Trùng hợp thật, tôi vừa định nhắn hỏi {F#cô}{M#cậu} dạo này có rảnh không~",
+            "Option01_43100512": "Tôi hỏi trước đó!",
+            "Option02_43100512": "Cô trả lời trước đi!",
+            "Message_43100513": "Được! Dạo này bận lắm, nhưng... tự dưng muốn nghỉ ngơi một chút!",
+            "Option01_43100514": "Trùng hợp quá",
+            "OptionLong01_43100514": "Trùng hợp quá, tôi cũng nghĩ như vậy",
+            "Option02_43100514": "Tôi cũng nghĩ vậy",
+            "OptionLong02_43100514": "Trùng hợp quá, tôi cũng nghĩ như vậy",
+            "Message_43100515": "Để ăn mừng chúng ta có cùng suy nghĩ, chọn một nơi ra ngoài đi dạo đi!",
+            "Option01_43100516": "Không thành vấn đề",
+            "Option02_43100516": "Tôi cũng đang có ý này",
+            "Message_43100517": "Vậy đã nghĩ ra phải đi đâu chưa? Đi đâu cũng được!"
+        }
+    },
+    "431006": {
+        "id": "431006",
+        "texts": {
+            "Option01_43100601": "Đột nhiên muốn đến thăm cô",
+            "Option02_43100601": "Đang làm gì vậy",
+            "Message_43100602": "Vậy thì... xem poster trong tiệm?",
+            "Option01_43100603": "Đương nhiên là muốn gặp người thật rồi!",
+            "Option02_43100603": "Được, tôi đi xem đây",
+            "Message_43100604": "Câu vừa rồi chỉ đùa thôi~ Tuy bận tối tăm mặt mày, nhưng khi nhìn thấy tin nhắn của {F#cô}{M#cậu}, tôi liền rất muốn gặp {F#cô}{M#cậu}... Tất nhiên là gặp người thật rồi!",
+            "Message_43100605": "Tìm một nơi để gặp mặt nhé?",
+            "Option01_43100606": "Vậy thì đến cửa hàng đĩa nhạc ở Ngõ Sáu đi dạo nhé?",
+            "Option02_43100606": "Vậy thì đến Ngõ Sáu ăn mì đi",
+            "Message_43100607": "Cửa hàng đĩa nhạc trên phố của các bạn... tôi nhớ tên là Ngân Nga Khúc Hát phải không? Được thôi! Vậy tôi xuất phát đây, gặp ở cửa ga tàu điện ngầm Ngõ Sáu nhé!",
+            "Message_43100608": "Ý hay đó! A~ Đều tại {F#cô}{M#cậu}, vừa nhắc đến là tôi đã thấy đói rồi, nhanh nhanh, gặp mặt ở cửa ga tàu điện ngầm Ngõ Sáu!",
+            "Message_43100609": "Đợi đã, tôi đùa thôi! Thật ra tôi cũng muốn gặp {F#cô}{M#cậu}, {F#cô}{M#cậu} đó, chẳng để lại poster hay hình ảnh gì cả...",
+            "Message_43100610": "A... Lâu rồi chưa gặp {M#Wise}{F#Belle}, không nhớ rõ {F#cô}{M#cậu} trông như thế nào nữa rồi",
+            "Option01_43100611": "Lần sau sẽ chụp cho cô vài tấm",
+            "Option02_43100611": "Không sao, tôi có poster của cô là được rồi",
+            "Message_43100612": "Được, vậy ít nhất lần này phải gặp người thật~ Nói đi, đi đâu gặp mặt?",
+            "Message_43100613": "Ây da đừng xem poster! Ra ngoài gặp tôi đi! Nói đi, muốn đi đâu gặp mặt?",
+            "Message_43100614": "Đang tìm cảm hứng, bài hát mới chỉ vừa viết đến nửa chừng, cứ cảm thấy có gì đó không ổn...",
+            "Message_43100615": "Phải rồi, ra ngoài đi chơi đi, giúp tôi tìm cảm hứng!",
+            "Option01_43100616": "Không thành vấn đề",
+            "OptionLong01_43100616": "Không thành vấn đề, thì ra... tôi có thể mang đến cảm hứng cho cô sao?",
+            "Option02_43100616": "Thì ra tôi có thể mang đến cảm hứng sao?",
+            "OptionLong02_43100616": "Không thành vấn đề, thì ra... tôi có thể mang đến cảm hứng cho cô sao?",
+            "Message_43100617": "Đương nhiên rồi, chỉ cần ở cùng {F#cô}{M#cậu} là sẽ gặp được rất nhiều chuyện vui, rất thích hợp để viết ca khúc ngọt ngào",
+            "Message_43100618": "Vậy đã nghĩ ra phải đi đâu chưa? Đi đâu tôi cũng sẽ đi cùng!"
+        }
+    },
+    "431007": {
+        "id": "431007",
+        "texts": {
+            "Message_43100701": "Tôi là một người lười biếng thất bại, muốn nghỉ ngơi nhưng không thành",
+            "Message_43100702": "Nếu muốn hỏi tại sao, thì là vì thiếu mất một đồng phạm",
+            "Option01_43100703": "Xin lỗi, tôi có việc ra ngoài rồi",
+            "Option02_43100703": "Xin lỗi! Tôi thật sự có việc quan trọng!",
+            "Message_43100704": "Thôi bỏ đi, nể tình quà lưu niệm tôi sẽ tha thứ cho {F#cô}{M#cậu}!",
+            "Option01_43100705": "Quà lưu niệm?",
+            "OptionLong01_43100705": "Quà lưu niệm? Quà lưu niệm gì?",
+            "Option02_43100705": "Quà lưu niệm gì?",
+            "OptionLong02_43100705": "Quà lưu niệm? Quà lưu niệm gì?",
+            "Message_43100706": "Tôi đã mua được rất nhiều quà lưu niệm thú vị ở Đấu Trường Reverb đó, {F#cô}{M#cậu} không đến đúng là thiệt thòi rồi",
+            "Option01_43100707": "Lần sau nhất định sẽ đến",
+            "Option02_43100707": "Lần sau tôi nhất định sẽ không lỡ hẹn",
+            "Message_43100708": "Được, tôi nhớ rồi đấy, xem biểu hiện của {F#cô}{M#cậu}!"
+        }
+    },
+    "431008": {
+        "id": "431008",
+        "texts": {
+            "Message_43100801": "Hôm qua ở Cảng Elpis có hai người đau lòng",
+            "Message_43100802": "Một người là Ông Gu bị đàn cá ngó lơ, một người chính là Astra bị {M#Wise}{F#Belle} cho leo cây",
+            "Option01_43100803": "Xin lỗi, thật sự là có việc quan trọng phải làm...",
+            "Option02_43100803": "Xin lỗi! Đột nhiên có việc quan trọng...",
+            "Message_43100804": "Việc quan trọng đến đâu cũng không thể không đến xem câu cá...",
+            "Message_43100805": "Ừm... Hình như là được!",
+            "Message_43100806": "Được rồi, lần này tha thứ cho {F#cô}{M#cậu} đó, lần sau đừng lỡ hẹn nữa!"
+        }
+    },
+    "431009": {
+        "id": "431009",
+        "texts": {
+            "Message_43100901": "Tôi đã nghe hết tất cả đĩa hát trong Ngân Nga Khúc Hát, mà cũng không đợi được {F#cô}{M#cậu} đến, buồn quá đi...",
+            "Option01_43100902": "Xin lỗi! Đột nhiên có việc quan trọng",
+            "OptionLong01_43100902": "Xin lỗi! Đột nhiên có việc quan trọng... Đợi đã, cô thật sự đã nghe hết sao?",
+            "Option02_43100902": "Xin lỗi! Đột nhiên có việc gấp",
+            "OptionLong02_43100902": "Xin lỗi! Đột nhiên có việc quan trọng... Đợi đã, cô thật sự đã nghe hết sao?",
+            "Message_43100903": "Đương nhiên là không! Gạt {F#cô}{M#cậu} thôi! Nhưng tôi buồn thật đó!",
+            "Option01_43100904": "Lần sau nhất định sẽ đến",
+            "Option02_43100904": "Lần sau nhất định sẽ không lỡ hẹn",
+            "Message_43100905": "Được, tạm tin {F#cô}{M#cậu} lần này! Dù sao cửa hàng đĩa nhạc cũng gần nhà {F#cô}{M#cậu} lắm, lần sau {F#cô}{M#cậu} mà lỡ hẹn nữa, tôi sẽ ở lì ở nhà {F#cô}{M#cậu} không đi đâu hết!"
+        }
+    },
+    "431010": {
+        "id": "431010",
+        "texts": {
+            "Message_43101001": "Ăn xong mì lại gọi thêm món ăn vặt, ăn xong món ăn vặt cũng không thấy {F#cô}{M#cậu} đến",
+            "Option01_43101002": "Xin lỗi, tôi bị trì hoãn bởi việc khác!",
+            "Option02_43101002": "Xin lỗi! Lần sau nhất định đến",
+            "Message_43101003": "Tôi đã giao hẹn với chủ tiệm rồi, lần sau {F#cô}{M#cậu} không đến, tôi sẽ ăn một bữa no nê và để cho {F#cô}{M#cậu} thanh toán!"
+        }
+    },
+    "432001": {
+        "id": "432001",
+        "texts": {
+            "Message_43200101": "Còn thức không? Tôi có việc này không quyết định được",
+            "Message_43200102": "Muốn hỏi ý kiến của {F#cô}{M#cậu}, dù sao {F#cô}{M#cậu} cũng là Astranaut mà",
+            "Option01_43200103": "Muộn vậy rồi mà cô vẫn còn làm việc sao?",
+            "Option02_43200103": "Evelyn vẫn đang tăng ca à...",
+            "Message_43200104": "Cũng không muộn lắm, {F#cô}{M#cậu} vẫn còn thức mà",
+            "Message_43200105": "Tháng sau tiểu thư phải tham gia một bữa tiệc từ thiện, tôi đang đau đầu không biết nên chọn lễ phục nào",
+            "Message_43200106": "Thiết kế và màu sắc thông thường thì đều đã sử dụng, còn loại không thông thường thì...",
+            "Message_43200107": "{F#Cô}{M#Cậu} cũng biết đó, để theo đuổi sự sáng tạo, rất nhiều nhà thiết kế sẽ thử đưa ra các ý tưởng thần bí thu hút ánh nhìn...",
+            "Message_43200108": "Đau đầu",
+            "Option01_43200109": "Hôm đó Evelyn sẽ mặc gì?",
+            "Option02_43200109": "Vậy thì thay đổi lối suy nghĩ đi, như là cô sẽ mặc gì?",
+            "Message_43200110": "Tôi sao? Sẽ giống như thường ngày thôi. Tôi mặc gì không quan trọng, chúng ta đang thảo luận về tiểu thư mà",
+            "Option01_43200111": "Có thể thử để Astra mặc trang phục của Evelyn",
+            "Option02_43200111": "Astra chưa từng mặc phong cách ngầu như cô đúng không?",
+            "Message_43200112": "Ừm... Quả thực là một ý tưởng độc đáo. Cách ăn mặc của tôi chủ yếu là để thuận tiện hoạt động",
+            "Message_43200113": "Nếu tiểu thư gợi lên làn sóng xu hướng mới trong giới thời trang... vậy thì trang phục của tôi sẽ tăng giá lên đó",
+            "Message_43200114": "Nhưng có lẽ cô ấy sẽ rất vui mừng, nhất định sẽ nói \"Được mặc trang phục của Eve rồi, aaa! Trang phục của Eve!\"...",
+            "Message_43200115": "Đúng là ý tưởng của người hiểu rõ tiểu thư, quyết định vậy đi",
+            "Message_43200116": "Phải rồi, {F#cô}{M#cậu} đừng nói với tiểu thư... về việc hôm nay tôi tăng ca nhé? Bằng không nhất định sẽ càm ràm",
+            "Option01_43200117": "Tôi sẽ không nói đâu, nhưng Evelyn đúng là nên nghỉ ngơi rồi...",
+            "Option02_43200117": "Được. Nhưng Astra không càm ràm thì tôi sẽ càm ràm cô",
+            "Message_43200118": "A, bị phát hiện rồi... Muộn thế này mà tiểu thư lại đích thân đến công ty",
+            "Message_43200119": "Nhưng mặc trang phục của tôi đúng là ý tưởng hay. Chi bằng bây giờ thay đổi xem thử hiệu quả, dù sao muộn rồi công ty cũng không có ai",
+            "Message_43200120": "Không nói nữa nhé, ngủ ngonnnnnnn",
+            "Message_43200121": "Chuyện của tiểu thư không được xem là tăng ca"
+        }
+    },
+    "432002": {
+        "id": "432002",
+        "texts": {
+            "Message_43200201": "{F#Cô}{M#Cậu} mà nhảy, tôi cũng sẽ nhảy",
+            "Message_43200203": "Bình thường {F#cô}{M#cậu} sẽ nói câu này không?",
+            "Option01_43200204": "Không, khó mà nghĩ được tình huống thích hợp...",
+            "Option02_43200204": "Vẫn chưa tìm được đối tượng để nói lời thoại kinh điển này...",
+            "Message_43200205": "Ừm, xem ra khá phù hợp, tôi muốn đặt một \"từ không an toàn\" với {F#cô}{M#cậu}",
+            "Message_43200206": "Chính là từ mà bình thường người khác sẽ dùng, nhưng chúng ta lại không nói ra, thậm chí nếu chúng ta có nói ra thì người khác cũng sẽ không hiểu được ý nghĩa thật sự của nó",
+            "Message_43200207": "Nếu chúng ta đột nhiên nói với đối phương thì sẽ biết được rằng đối phương đang gặp nguy hiểm, có thể tiến hành chi viện ngay lập tức",
+            "Message_43200208": "Tôi cảm thấy lời mà không giống tôi nói nhất chính là \"{F#Cô}{M#Cậu} mà nhảy, tôi cũng sẽ nhảy\"...",
+            "Message_43200209": "Nhưng nghĩ kỹ lại thì có vẻ không khả thi, nếu thám hiểm trong Lỗ Hổng, nhảy vào khe nứt là chuyện rất bình thường",
+            "Message_43200210": "Nếu thật sự gặp phải tình huống phải cùng nhảy thì không phải là không thể, phải đổi câu khác",
+            "Option01_43200211": "Cũng không thể là những câu líu lưỡi như thần chú gì đó đúng không?",
+            "Option02_43200211": "Phải là những câu kiểu chen vào trong cuộc đối thoại bình thường cũng không cảm thấy kỳ lạ...",
+            "Message_43200212": "Nếu là thần chú thì rất khó đảm bảo rằng đến lúc đó sẽ đọc đúng từng chữ, hơn nữa đọc ra thật sẽ hơi... ngốc",
+            "Message_43200213": "{F#Cô}{M#Cậu} có ý tưởng gì không?",
+            "Option01_43200214": "Cô muốn solo sao?",
+            "Option02_43200214": "Tôi muốn tự mình lập nghiệp",
+            "Message_43200215": "A, tốt lắm. Nếu là {M#Wise}{F#Belle} thì tuyệt đối sẽ không bỏ rơi {M#em gái}{F#anh trai} mình nhỉ",
+            "Message_43200216": "Tôi cũng vậy",
+            "Message_43200217": "Cho nên nói ra câu này sẽ rất bất thường",
+            "Message_43200218": "Ý hay đó",
+            "Message_43200219": "Ừm đúng vậy, vì thế đọc thơ hay gì đấy cũng không mấy phù hợp, sẽ rất... kỳ lạ"
+        }
+    },
+    "432003": {
+        "id": "432003",
+        "texts": {
+            "Message_43200301": "Cho hỏi chỗ {F#cô}{M#cậu} có phim của Monica, Ôi~ Ngọt Ngào không?",
+            "Option01_43200302": "Ừm, là một bộ phim khá hay",
+            "Option02_43200302": "Đương nhiên, đó là bộ phim rất ăn khách",
+            "Message_43200303": "Ối? Hơi bất ngờ đó, tôi còn nghĩ {F#cô}{M#cậu} sẽ kiên định đứng về phía tiểu thư",
+            "Message_43200304": "Monica là đối thủ cạnh tranh lớn nhất của tiểu thư, {F#cô}{M#cậu} biết mà nhỉ?",
+            "Option01_43200305": "Nhất, nhất định phải chọn sao... Không thể sở hữu cả hai sao?",
+            "Option02_43200305": "Là chủ tiệm băng hình, tôi sẽ giữ thái độ trung lập",
+            "Message_43200306": "Vậy sao. Có cần tôi giới thiệu Monica cho {F#cô}{M#cậu} không? Tôi có thể giúp {F#cô}{M#cậu} hỏi tiểu thư đó",
+            "Option01_43200307": "...Tôi là Astranaut kiên định! Sẽ gỡ phim của Monica xuống ngay!",
+            "Option02_43200307": "Lập tức từ bỏ lập trường! Gỡ bỏ phim của Monica khỏi quầy hàng ngay!",
+            "Message_43200308": "Rất vui khi nghe {F#cô}{M#cậu} nói vậy. Nhưng không cần thiết phải gỡ xuống đâu",
+            "Message_43200309": "Gần đây {F#cô}{M#cậu} rảnh không? Tôi muốn xem một bộ phim của Monica",
+            "Option01_43200310": "...Sao Evelyn lại xem!",
+            "Option02_43200310": "Evelyn hai mặt...",
+            "Message_43200311": "Tôi là vì công việc",
+            "Message_43200312": "Chính vì không muốn tăng doanh số cho đối thủ nên tôi mới đến tiệm thuê đây",
+            "Option01_43200313": "Hoan nghênh cô ghé đến",
+            "Option02_43200313": "Vì Evelyn và Astra, lúc nào cũng rảnh",
+            "Message_43200314": "Cảm ơn nhiều",
+            "Message_43200315": "Chỉ có tôi thôi, không có tiểu thư, để {F#cô}{M#cậu} phải thất vọng rồi",
+            "Message_43200316": "Tính trung lập cũng là một quan điểm, với thái độ quan sát để cân nhắc những ưu nhược điểm giữa nhiều bên, chần chừ lưỡng lự. Chỉ có thể nói rằng rất thông minh"
+        }
+    },
+    "432004": {
+        "id": "432004",
+        "texts": {
+            "Option01_43200401": "Cốc cốc, cho hỏi cô còn biết tôi là ai không?",
+            "Option02_43200401": "Evelyn đang bận sao?",
+            "Message_43200402": "? Tôi đã ghi chú tên của {F#cô}{M#cậu} rồi, sao lại không quen biết chứ",
+            "Message_43200403": "Tôi đâu phải kiểu người tùy tiện xóa liên lạc đâu",
+            "Message_43200404": "Hay là... {F#cô}{M#cậu} đã xóa tôi rồi?",
+            "Option01_43200405": "Sao có thể chứ! Chỉ là lâu rồi không liên lạc nên nói đùa thôi",
+            "Option02_43200405": "Lâu rồi không liên lạc nên đã thầm xóa trong lòng rồi, hừ",
+            "Message_43200406": "Vậy à, gần đây tôi thật sự rất bận, công việc quá phiền phức, tôi luôn muốn tìm {F#cô}{M#cậu} để trò chuyện",
+            "Message_43200407": "Nhưng cảm thấy nếu là {F#cô}{M#cậu} thì hẹn {F#cô}{M#cậu} ra ngoài lúc nào cũng được",
+            "Message_43200408": "Nên cứ trì hoãn mãi, đến tận bây giờ... Thật xin lỗi",
+            "Option01_43200409": "Tôi biết vì Evelyn xem trọng tôi nên mới như vậy",
+            "OptionLong01_43200409": "Ừm, chính vì sự tin tưởng và hiểu biết lẫn nhau, mà ngược lại thường lơ là quan tâm những người rõ ràng rất quan trọng với mình",
+            "Option02_43200409": "Tôi không có giận, tôi cũng như thế",
+            "OptionLong02_43200409": "Không có giận, thật ra tôi cũng như thế, vì những chuyện nhỏ nhặt mà phớt lờ những người quan trọng với mình, nên tôi hiểu cô mà, Evelyn",
+            "Message_43200410": "Tốt quá, vậy {F#cô}{M#cậu} muốn đi đâu?",
+            "Option01_43200411": "Đến Trung Tâm Thương Mại Lumina thì sao?",
+            "Option02_43200411": "Đến Đấu Trường Reverb được không?",
+            "Message_43200412": "Đến trung tâm thương mại mua sắm sao? Thật ra tôi không cần mua gì cả",
+            "Message_43200413": "Nhưng nếu {F#cô}{M#cậu} muốn mua thì tôi đương nhiên sẽ đi cùng",
+            "Message_43200414": "Có một số cửa tiệm có giá hơi cao, còn có một số cửa tiệm có thiết kế... không ổn lắm",
+            "Message_43200415": "Nhưng đúng là đã lâu rồi không đi dạo, cũng khá thú vị",
+            "Message_43200416": "Đến lúc đó tôi chờ {F#cô}{M#cậu} ở trạm tàu điện ngầm Lumina",
+            "Message_43200418": "A, nhắc đến Đấu Trường Reverb, có một việc tôi đã trì hoãn mấy ngày rồi",
+            "Message_43200419": "Chủ tiệm {F#cô}{M#cậu} đi cùng tôi thì càng tốt",
+            "Message_43200420": "Mấy ngày trước tôi đã đưa ra một quyết định không lý trí",
+            "Message_43200421": "Muốn giải quyết vấn đề này thì không nơi nào thích hợp hơn Đấu Trường Reverb cả",
+            "Option01_43200422": "Cô nói làm tôi thấy hơi tò mò đó",
+            "Option02_43200422": "Rốt cuộc là chuyện gì?",
+            "Message_43200423": "{F#Cô}{M#Cậu} đến thì sẽ biết thôi... Đến lúc đó chúng ta gặp nhau ở Đấu Trường Reverb nhé",
+            "Message_43200425": "A, nhưng mà, nếu thầm xóa trong lòng thì thêm lại là được mà",
+            "Message_43200426": "Đã gửi yêu cầu kết bạn, xin hãy đồng ý",
+            "Message_43200427": "Giận cũng không sao, tôi sẽ gửi yêu cầu kết bạn mãi, cho đến khi {F#cô}{M#cậu} đồng ý mới thôi",
+            "Message_43200428": "Bận",
+            "Message_43200429": "Chuyện gì thế?",
+            "Option01_43200430": "A... Nếu bận thì thôi vậy",
+            "Option02_43200430": "Không có gì, cô bận việc của mình đi",
+            "Message_43200431": "{F#Cô}{M#Cậu} nói đi",
+            "Message_43200432": "Bận đến mấy tôi cũng sẽ trả lời mà",
+            "Message_43200433": "Rốt cuộc là có chuyện gì?",
+            "Option01_43200434": "Định hẹn cô gặp mặt",
+            "Option02_43200434": "Không có chuyện gì, chỉ là lâu rồi không gặp, định hẹn cô gặp mặt",
+            "Message_43200435": "Gặp",
+            "Message_43200436": "Ở đâu"
+        }
+    },
+    "432005": {
+        "id": "432005",
+        "texts": {
+            "Option01_43200501": "Cốc cốc, cho hỏi cô còn biết tôi là ai không?",
+            "Option02_43200501": "Evelyn đang bận sao?",
+            "Message_43200502": "? Tôi đã ghi chú tên của {F#cô}{M#cậu} rồi, sao lại không quen biết chứ",
+            "Message_43200503": "Tôi đâu phải kiểu người tùy tiện xóa liên lạc đâu",
+            "Message_43200504": "Hay là... {F#cô}{M#cậu} đã xóa tôi rồi?",
+            "Option01_43200505": "Sao có thể chứ! Chỉ là lâu rồi không liên lạc nên nói đùa thôi",
+            "Option02_43200505": "Lâu rồi không liên lạc nên đã thầm xóa trong lòng rồi, hừ",
+            "Message_43200506": "Vậy à, gần đây tôi thật sự rất bận, công việc quá phiền phức, tôi luôn muốn tìm {F#cô}{M#cậu} để trò chuyện",
+            "Message_43200507": "Nhưng cảm thấy nếu là {F#cô}{M#cậu} thì hẹn {F#cô}{M#cậu} ra ngoài lúc nào cũng được",
+            "Message_43200508": "Nên cứ trì hoãn mãi, đến tận bây giờ... Thật xin lỗi",
+            "Option01_43200509": "Tôi biết vì Evelyn xem trọng tôi nên mới như vậy",
+            "OptionLong01_43200509": "Ừm, chính vì sự tin tưởng và hiểu biết lẫn nhau, mà ngược lại thường lơ là quan tâm những người rõ ràng rất quan trọng với mình",
+            "Option02_43200509": "Tôi không có giận, tôi cũng như thế",
+            "OptionLong02_43200509": "Không có giận, thật ra tôi cũng như thế, vì những chuyện nhỏ nhặt mà phớt lờ những người quan trọng với mình, nên tôi hiểu cô mà, Evelyn",
+            "Message_43200510": "Tốt quá, vậy {F#cô}{M#cậu} muốn đi đâu?",
+            "Option01_43200511": "Đến \"Rạp Chiếu Phim Gravity\" thì sao?",
+            "Option02_43200511": "Đến \"Godfinger\" thì sao?",
+            "Message_43200512": "Xem phim sao?",
+            "Message_43200513": "Rõ ràng không phải công việc, nhưng cảm thấy vẫn như đang làm việc...",
+            "Message_43200514": "Những bộ phim gần đây chắc tôi đã xem hết rồi",
+            "Message_43200515": "Nhưng tôi nghe nói Rạp Chiếu Phim Gravity đang chiếu các bộ phim cũ từ nhiều năm trước, tôi muốn xem đó",
+            "Message_43200516": "{F#Cô}{M#Cậu} có hứng thú không?",
+            "Option01_43200517": "Có hứng thú!",
+            "Option02_43200517": "Đương nhiên có, dù sao tôi cũng kinh doanh tiệm băng hình mà!",
+            "Message_43200518": "Ừm, tôi cũng thấy vậy. Đến lúc đó gặp nhau ở trạm tàu điện ngầm Lumina nhé",
+            "Message_43200520": "Godfinger... là gì?",
+            "Message_43200521": "Ồ, tôi vừa tìm hiểu rồi, là Tiệm Trò Chơi Điện Tử ở gần nhà {F#cô}{M#cậu} đúng không",
+            "Message_43200522": "Cửa tiệm như thế trước đây có rất nhiều, bây giờ thì không còn thấy nữa",
+            "Message_43200523": "Ừm, tôi muốn đi, thật ra lúc nhỏ không chơi được nên luôn thấy khá tiếc nuối",
+            "Message_43200524": "Vậy chúng ta gặp nhau ở trạm tàu điện ngầm Ngõ Sáu nhé",
+            "Message_43200526": "A, nhưng mà, nếu thầm xóa trong lòng thì thêm lại là được mà",
+            "Message_43200527": "Đã gửi yêu cầu kết bạn, xin hãy đồng ý",
+            "Message_43200528": "Giận cũng không sao, tôi sẽ gửi yêu cầu kết bạn mãi, cho đến khi {F#cô}{M#cậu} đồng ý mới thôi",
+            "Message_43200529": "Bận",
+            "Message_43200530": "Chuyện gì thế?",
+            "Option01_43200531": "A... Nếu bận thì thôi vậy",
+            "Option02_43200531": "Không có gì, cô bận việc của mình đi",
+            "Message_43200532": "{F#Cô}{M#Cậu} nói đi",
+            "Message_43200533": "Bận đến mấy tôi cũng sẽ trả lời mà",
+            "Message_43200534": "Rốt cuộc là có chuyện gì?",
+            "Option01_43200535": "Định hẹn cô gặp mặt",
+            "Option02_43200535": "Không có chuyện gì, chỉ là lâu rồi không gặp, định hẹn cô gặp mặt",
+            "Message_43200536": "Gặp",
+            "Message_43200537": "Ở đâu"
+        }
+    },
+    "432006": {
+        "id": "432006",
+        "texts": {
+            "Option01_43200601": "Công việc gần đây rất vất vả phải không? Có muốn ra ngoài cho thư thả không?",
+            "Option02_43200601": "Cảm giác như bản thân đã không còn trong danh sách VIP của cô rồi...",
+            "Message_43200602": "Công việc gần đây khá vất vả, muốn ra ngoài cho thư thả... Tôi vừa định nhắn tin cho {F#cô}{M#cậu} đây",
+            "Message_43200603": "Trùng hợp thật đấy",
+            "Option01_43200604": "Hay quá! Thần giao cách cảm~",
+            "Option02_43200604": "Woa, thật ăn ý!",
+            "Message_43200605": "Ừm, không có sắp đặt trước nhưng lại có cùng suy nghĩ, thật thần kỳ",
+            "Message_43200606": "Nhưng tôi thật sự rất mệt, vì vậy vấn đề đi đâu chơi có thể giao lại cho {F#cô}{M#cậu} suy nghĩ không?",
+            "Option01_43200607": "Đến Trung Tâm Thương Mại Lumina thì sao?",
+            "Option02_43200607": "Đến Đấu Trường Reverb được không?",
+            "Message_43200608": "Đến trung tâm thương mại mua sắm sao? Thật ra tôi không cần mua gì cả",
+            "Message_43200609": "Nhưng nếu {F#cô}{M#cậu} muốn mua thì tôi đương nhiên sẽ đi cùng",
+            "Message_43200610": "Có một số cửa tiệm có giá hơi cao, còn có một số cửa tiệm có thiết kế... không ổn lắm",
+            "Message_43200611": "Nhưng đúng là đã lâu rồi không đi dạo, cũng khá thú vị",
+            "Message_43200612": "Đến lúc đó tôi chờ {F#cô}{M#cậu} ở trạm tàu điện ngầm Lumina",
+            "Message_43200614": "A, nhắc đến Đấu Trường Reverb, có một việc tôi đã trì hoãn mấy ngày rồi",
+            "Message_43200615": "Chủ tiệm {F#cô}{M#cậu} đi cùng tôi thì càng tốt",
+            "Message_43200616": "Mấy ngày trước tôi đã đưa ra một quyết định không lý trí",
+            "Message_43200617": "Muốn giải quyết vấn đề này thì không nơi nào thích hợp hơn Đấu Trường Reverb cả",
+            "Option01_43200618": "Cô nói làm tôi thấy hơi tò mò đó",
+            "Option02_43200618": "Rốt cuộc là chuyện gì?",
+            "Message_43200619": "{F#Cô}{M#Cậu} đến thì sẽ biết thôi... Đến lúc đó chúng ta gặp nhau ở Đấu Trường Reverb nhé",
+            "Message_43200621": "Ngay từ đầu đã không có trong danh sách VIP",
+            "Option01_43200622": "Hả... Sao lại như vậy",
+            "Option02_43200622": "Quả nhiên tôi đã... quá đề cao bản thân rồi...",
+            "Message_43200623": "{F#Cô}{M#Cậu} nằm trong danh sách quan trọng hơn",
+            "Message_43200624": "Ở chỗ tôi, {F#cô}{M#cậu} luôn có đặc quyền",
+            "Message_43200625": "Vì vậy thay vì phủ nhận bản thân, chi bằng nghĩ đến những vấn đề mang tính xây dựng",
+            "Message_43200626": "Ví dụ như muốn đi đâu chơi"
+        }
+    },
+    "432007": {
+        "id": "432007",
+        "texts": {
+            "Option01_43200701": "Công việc gần đây rất vất vả phải không? Có muốn ra ngoài cho thư thả không?",
+            "Option02_43200701": "Cảm giác như bản thân đã không còn trong danh sách VIP của cô rồi...",
+            "Message_43200702": "Công việc gần đây khá vất vả, muốn ra ngoài cho thư thả... Tôi vừa định nhắn tin cho {F#cô}{M#cậu} đây",
+            "Message_43200703": "Trùng hợp thật đấy",
+            "Option01_43200704": "Hay quá! Thần giao cách cảm~",
+            "Option02_43200704": "Woa, thật ăn ý!",
+            "Message_43200705": "Ừm, không có sắp đặt trước nhưng lại có cùng suy nghĩ, thật thần kỳ",
+            "Message_43200706": "Nhưng tôi thật sự rất mệt, vì vậy vấn đề đi đâu chơi có thể giao lại cho {F#cô}{M#cậu} suy nghĩ không?",
+            "Option01_43200707": "Đến \"Rạp Chiếu Phim Gravity\" thì sao?",
+            "Option02_43200707": "Đến \"Godfinger\" thì sao?",
+            "Message_43200708": "Xem phim sao?",
+            "Message_43200709": "Rõ ràng không phải công việc, nhưng cảm thấy vẫn như đang làm việc...",
+            "Message_43200710": "Những bộ phim gần đây chắc tôi đã xem hết rồi",
+            "Message_43200711": "Nhưng tôi nghe nói Rạp Chiếu Phim Gravity đang chiếu các bộ phim cũ từ nhiều năm trước, tôi muốn xem đó",
+            "Message_43200712": "{F#Cô}{M#Cậu} có hứng thú không?",
+            "Option01_43200713": "Có hứng thú!",
+            "Option02_43200713": "Đương nhiên có, dù sao tôi cũng kinh doanh tiệm băng hình mà!",
+            "Message_43200714": "Ừm, tôi cũng thấy vậy. Đến lúc đó gặp nhau ở trạm tàu điện ngầm Lumina nhé",
+            "Message_43200716": "Godfinger... là gì?",
+            "Message_43200717": "Ồ, tôi vừa tìm hiểu rồi, là Tiệm Trò Chơi Điện Tử ở gần nhà {F#cô}{M#cậu} đúng không",
+            "Message_43200718": "Cửa tiệm như thế trước đây có rất nhiều, bây giờ thì không còn thấy nữa",
+            "Message_43200719": "Ừm, tôi muốn đi, thật ra lúc nhỏ không chơi được nên luôn thấy khá tiếc nuối",
+            "Message_43200720": "Vậy chúng ta gặp nhau ở trạm tàu điện ngầm Ngõ Sáu nhé",
+            "Message_43200722": "Ngay từ đầu đã không có trong danh sách VIP",
+            "Option01_43200723": "Hả... Sao lại như vậy",
+            "Option02_43200723": "Quả nhiên tôi đã... quá đề cao bản thân rồi...",
+            "Message_43200724": "{F#Cô}{M#Cậu} nằm trong danh sách quan trọng hơn",
+            "Message_43200725": "Ở chỗ tôi, {F#cô}{M#cậu} luôn có đặc quyền",
+            "Message_43200726": "Vì vậy thay vì phủ nhận bản thân, chi bằng nghĩ đến những vấn đề mang tính xây dựng",
+            "Message_43200727": "Ví dụ như muốn đi đâu chơi"
+        }
+    },
+    "432008": {
+        "id": "432008",
+        "texts": {
+            "Message_43200801": "Hôm đó hình như {F#cô}{M#cậu} không đến",
+            "Message_43200802": "Nhưng không sao, sau đó tôi đã mua rất nhiều thứ, đều là thứ mà tiểu thư cần dùng đến",
+            "Message_43200803": "Xem như là đã tăng ca?",
+            "Option01_43200804": "Xin lỗi, lần sau tôi sẽ cùng cô đi dạo",
+            "Option02_43200804": "Thỉnh thoảng cô cũng nên mua thứ bản thân thích chứ",
+            "Message_43200805": "Tôi không cần mua gì cả, chắc {F#cô}{M#cậu} có thứ muốn mua đúng không?",
+            "Message_43200806": "Lần sau cùng đi",
+            "Message_43200807": "Hình như không có gì muốn mua cả"
+        }
+    },
+    "432009": {
+        "id": "432009",
+        "texts": {
+            "Message_43200901": "{F#Cô}{M#Cậu} đã thất hẹn",
+            "Message_43200902": "Mặc dù tôi thông cảm {F#cô}{M#cậu} rất bận, nhưng lần sau ít nhất hãy gửi tin nhắn cho tôi nhé?",
+            "Option01_43200903": "Xin lỗi",
+            "Option02_43200903": "Tôi sai rồi",
+            "Message_43200904": "Không cần xin lỗi, dù {F#cô}{M#cậu}không đến đối với tôi mà nói cũng chẳng tổn thất gì lớn",
+            "Message_43200905": "Tôi đã xem một buổi biểu diễn ở Đấu Trường Reverb, khá đặc sắc",
+            "Message_43200906": "Là {F#cô}{M#cậu} bỏ lỡ mới đáng tiếc hơn",
+            "Message_43200907": "Lần sau lại hẹn nhé"
+        }
+    },
+    "432010": {
+        "id": "432010",
+        "texts": {
+            "Message_43201001": "Bộ phim đó rất hay",
+            "Option01_43201002": "Suất chiếu nào...?",
+            "Option02_43201002": "Bộ phim nào?",
+            "Message_43201003": "A, quên rồi sao? Trước đó chúng ta hẹn cùng đi xem phim nhưng {F#cô}{M#cậu} không đến",
+            "Option01_43201004": "Vừa, vừa nãy {M#Belle}{F#anh Wise} đã cầm điện thoại của tôi...",
+            "Option02_43201004": "Tin nhắn vừa rồi không phải tôi gửi đi...",
+            "Message_43201005": "...",
+            "Message_43201006": "Quên thì quên, tôi sẽ không giận, nhưng nếu là nói dối thì chưa chắc nhé",
+            "Option01_43201007": "Tôi sai rồi!",
+            "Option02_43201007": "Lần sau không dám nữa!",
+            "Message_43201008": "Ừm"
+        }
+    },
+    "432011": {
+        "id": "432011",
+        "texts": {
+            "Message_43201101": "Hôm đó không thấy {F#cô}{M#cậu} đến",
+            "Message_43201102": "Nhưng sau đó thì tiểu thư đã đến, hai chúng tôi chơi rất vui vẻ",
+            "Option01_43201103": "A... Hối hận quá",
+            "Option02_43201103": "Cái gì... Astra cũng đến sao!",
+            "Message_43201104": "Hối hận sao? Tốt lắm, vậy là {F#cô}{M#cậu} đã biết hậu quả của việc lỡ hẹn rồi đấy",
+            "Message_43201105": "Lần sau đừng lỡ hẹn nữa đó, dù sao trong danh bạ của tôi đều là siêu sao nổi tiếng bậc nhất New Eridu"
+        }
+    },
     "1000001": {
         "id": "1000001",
         "texts": {
-            "Message_100000101": "null"
+            "Message_100000101": "(Tạm thời chiếm chỗ) Nhân viên Hiệp Hội Điều Tra Lỗ Hổng A gửi tin nhắn cho nhân vật chính, nói thiết bị trong hiệp hội có cập nhật dữ liệu thiết bị gia dụng tiên tiến, có thể khiêu chiến một loại kẻ địch hiếm gặp hơn, và nhiệt tình mời nhân vật chính đến trải nghiệm sớm."
         }
     },
     "1007001": {
@@ -7618,19 +8159,19 @@
     "2057001": {
         "id": "2057001",
         "texts": {
-            "Message_205700101": "null"
+            "Message_205700101": "Thư Qingyi giai đoạn 1: Cục Trị An sẽ đến cổng cung cấp dịch vụ cộng đồng"
         }
     },
     "2057002": {
         "id": "2057002",
         "texts": {
-            "Message_205700201": "null"
+            "Message_205700201": "Thư riêng áo xanh giai đoạn 2: Xe khả nghi đã có manh mối, gặp mặt trong dịch vụ cộng đồng nói"
         }
     },
     "2057003": {
         "id": "2057003",
         "texts": {
-            "Message_205700301": "null"
+            "Message_205700301": "Thư Qingyi giai đoạn 3: Cục Trị An sẽ lại đến thăm dò."
         }
     },
     "2057004": {
@@ -7645,19 +8186,19 @@
     "2058001": {
         "id": "2058001",
         "texts": {
-            "Message_205800101": "null"
+            "Message_205800101": "Burnice gửi tin nhắn cho nhân vật chính, nói có một ủy thác thu thập vật tư hàng ngày cần một Người Kết Nối, nên nhờ nhân vật chính giúp đỡ."
         }
     },
     "2058002": {
         "id": "2058002",
         "texts": {
-            "Message_205800201": "null"
+            "Message_205800201": "Burnice gửi tin nhắn cho nhân vật chính, nói rằng có việc gấp cần đến tìm Người Kết Nối, hy vọng được gặp mặt trò chuyện với Người Kết Nối"
         }
     },
     "2058003": {
         "id": "2058003",
         "texts": {
-            "Message_205800301": "null"
+            "Message_205800301": "Burnice gửi tin nhắn cho nhân vật chính, phát hiện tâm trạng của nhân vật chính không tốt, bảo nhân vật chính ra ngoài chơi."
         }
     },
     "3010001": {
@@ -7781,9 +8322,9 @@
         "texts": {
             "Option01_100710": "Hi? Có ở đó không?",
             "Message_1010212": "Người chịu chia đều thù lao đó",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Rất cảm ơn ngươi đã nhận ủy thác của ta!",
+            "Message_100602": "Tôi sẽ mãi mãi ghi nhớ sự hiến thân của cô trong nghiên cứu và thăm dò Lỗ Hổng.",
+            "Message_991502": "Gặp nhau ở \"Tiệm Tạp Hóa 141\"!"
         }
     },
     "3020013": {
@@ -7804,9 +8345,9 @@
         "texts": {
             "Option01_100710": "Hi? Có ở đó không?",
             "Message_1010212": "Người chịu chia đều thù lao đó",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Rất cảm ơn ngươi đã nhận ủy thác của ta!",
+            "Message_100602": "Tôi sẽ mãi mãi ghi nhớ sự hiến thân của cô trong nghiên cứu và thăm dò Lỗ Hổng.",
+            "Message_991502": "Gặp nhau ở \"Tiệm Tạp Hóa 141\"!"
         }
     },
     "3020015": {
@@ -7824,9 +8365,9 @@
         "texts": {
             "Option01_100710": "Hi? Có ở đó không?",
             "Message_1010212": "Người chịu chia đều thù lao đó",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Rất cảm ơn ngươi đã nhận ủy thác của ta!",
+            "Message_100602": "Tôi sẽ mãi mãi ghi nhớ sự hiến thân của cô trong nghiên cứu và thăm dò Lỗ Hổng.",
+            "Message_991502": "Gặp nhau ở \"Tiệm Tạp Hóa 141\"!"
         }
     },
     "3020017": {
@@ -7834,9 +8375,9 @@
         "texts": {
             "Option01_100710": "Hi? Có ở đó không?",
             "Message_1010212": "Người chịu chia đều thù lao đó",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Rất cảm ơn ngươi đã nhận ủy thác của ta!",
+            "Message_100602": "Tôi sẽ mãi mãi ghi nhớ sự hiến thân của cô trong nghiên cứu và thăm dò Lỗ Hổng.",
+            "Message_991502": "Gặp nhau ở \"Tiệm Tạp Hóa 141\"!"
         }
     },
     "3020018": {
@@ -7844,9 +8385,9 @@
         "texts": {
             "Option01_100710": "Hi? Có ở đó không?",
             "Message_1010212": "Người chịu chia đều thù lao đó",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Rất cảm ơn ngươi đã nhận ủy thác của ta!",
+            "Message_100602": "Tôi sẽ mãi mãi ghi nhớ sự hiến thân của cô trong nghiên cứu và thăm dò Lỗ Hổng.",
+            "Message_991502": "Gặp nhau ở \"Tiệm Tạp Hóa 141\"!"
         }
     },
     "3020019": {
@@ -8121,6 +8662,64 @@
         "id": "3099031",
         "texts": {
             "Message_309903110": "Vậy nên, hãy ghi lại bước tiến trưởng thành trong lúc chiến đấu với Ethereal, trong cuộc đối đầu với Lỗ Hổng nào!"
+        }
+    },
+    "3511261": {
+        "id": "3511261",
+        "texts": {
+            "Message_351126101": "Aaa! Người Kết Nối, xin lỗi vì đã xếp hàng ở siêu thị lâu như vậy! {F#Cô}{M#Cậu} đã đến Quảng Trường Lumina chưa? Gặp được Bling chưa?",
+            "Option01_351126102": "Gặp được rồi, gặp được Nicole bọn họ luôn rồi",
+            "Option02_351126102": "Gặp được rồi, lần đầu tiên thấy được sức mạnh đồng tiền từ một Bangboo",
+            "Message_351126103": "Hả, ý gì vậy?",
+            "Option01_351126104": "Khó mà nói ngắn gọn được",
+            "Option02_351126104": "Gõ chữ không thể bày tỏ được sự kinh ngạc của tôi",
+            "Message_351126105": "Sao nghe có vẻ như đã xảy ra rất nhiều chuyện vậy, có cần gọi điện thoại không?",
+            "Message_351126106": "À phải rồi, tôi đang ở gần nhà {F#cô}{M#cậu} đấy, bây giờ {F#cô}{M#cậu} đang ở đâu?",
+            "Option01_351126107": "Quảng Trường Lumina, nhưng tôi có thể về nhà ngay",
+            "Option02_351126107": "Vậy cô đến nhà tôi đợi đi, tôi sẽ về ngay",
+            "Message_351126108": "Được, đến ngay đây!"
+        }
+    },
+    "3511262": {
+        "id": "3511262",
+        "texts": {
+            "Message_351126201": "Hình chụp, khó vẽ quá",
+            "Message_351126202": "Quả nhiên vẫn nên nhờ Lynn vẽ giúp tôi",
+            "Option01_351126203": "Phấn chấn lên nào!",
+            "Option02_351126203": "Cố lên, cô làm được mà!",
+            "Message_351126204": "Nhưng hôm nay rất vui",
+            "Message_351126205": "Tôi cũng mừng cho ông McDunn",
+            "Message_351126206": "Đúng rồi, hình như {F#cô}{M#cậu} luôn gặp phải những chuyện phiền phức, là ảo giác của tôi sao?",
+            "Option01_351126207": "Đây có được xem là rắc rối không?",
+            "Option02_351126207": "Hình như vậy, haha...",
+            "Message_351126208": "Lần sau {F#cô}{M#cậu} câu cá cho tôi xem nữa nhé, đừng nghĩ đến chuyện dạy tôi, tôi sẽ không học đâu"
+        }
+    },
+    "3591261": {
+        "id": "3591261",
+        "texts": {
+            "Option01_359126101": "Evelyn, có chuyện muốn hỏi cô",
+            "Option02_359126101": "Evelyn, có ở đó không?",
+            "Message_359126102": "{F#Cô}{M#Cậu} nói đi, tôi nghe đây",
+            "Option01_359126103": "Gần đây chúng tôi đã gặp Snap...",
+            "OptionLong01_359126103": "Gần đây chúng tôi có gặp Snap ở Cảng Elpis, nó đang thực hiện một số ủy thác nhỏ về chụp ảnh, dường như tâm trạng không tốt lắm, trước đó đã xảy ra chuyện gì sao?",
+            "Option02_359126103": "Snap gần đây gặp phải chuyện gì sao?",
+            "OptionLong02_359126103": "Snap gần đây gặp phải chuyện gì sao? Gần đây chúng tôi có gặp Snap ở Cảng Elpis, nó đang thực hiện một số ủy thác nhỏ về chụp ảnh, dường như tâm trạng không tốt lắm",
+            "Message_359126104": "A, chẳng trách dạo này nó thường xuyên định vị ở gần đó",
+            "Message_359126105": "Tôi đại khái biết nguyên nhân rồi, nhắn tin không nói rõ được",
+            "Message_359126106": "{F#Cô}{M#Cậu} rảnh không? Tôi đang cùng tiểu thư thử vai ở gần Tòa Nhà Ballet",
+            "Message_359126107": "Chúng ta gặp nhau rồi nói, tôi đợi {F#cô}{M#cậu}",
+            "Option01_359126108": "Được, tôi đến ngay",
+            "Option02_359126108": "Đến rồi đây!"
+        }
+    },
+    "3711261": {
+        "id": "3711261",
+        "texts": {
+            "Message_371126101": "Chủ tiệm quay lại rồi à?",
+            "Option01_371126102": "Hửm, sao cô biết?",
+            "Option02_371126102": "Qingyi? Cô đang ở đâu?",
+            "Message_371126103": "Chủ tiệm hãy nhìn về phía ngọn hải đăng"
         }
     },
     "4006001": {

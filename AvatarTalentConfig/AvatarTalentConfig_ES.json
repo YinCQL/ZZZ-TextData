@@ -1377,6 +1377,112 @@
             }
         ]
     },
+    "1311": {
+        "role_id": 1311,
+        "name": "Astra Yao",
+        "full_name": "Astra Yao",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Astra_Talent_01_Title": "Escala temperada",
+                "Astra_Talent_01_Desc_01_Realign": "Cuando Astra Yao golpea a un enemigo con un ataque, la resistencia a todos los tipos de daño del objetivo se reduce en un 6 % durante 30 s. Pueden acumularse hasta 3 cargas. La duración se reinicia con cada activación. Al entrar en combate, Astra Yao obtiene inmediatamente 1000 dB. Al ejecutar una <color=#FFFFFF>técnica definitiva</color>, todos los miembros del equipo obtienen 1 carga de <color=#FFFFFF>canción del resguardo</color> durante 60 s. Al recibir un ataque enemigo, consume <color=#FFFFFF>canción del resguardo</color> y se vuelve invulnerable durante 1 s.",
+                "Astra_Talent_01_Desc_02": "«Profe, profe, ¿qué es la escala temperada?»\n«La escala temperada es un sistema de afinación. Al igual que los niños tienen que ponerse en la fila, los sonidos también deben estar ordenados.»\n«¡Pero seguro que a los sonidos no les gusta estar en una fila, igual que a los niños!»\n–La profesora de música de Astra recordando cuando tenía seis años y todavía no era famosa.",
+                "Astra_Talent_01_Desc_01": "Cuando Astra Yao golpea a un enemigo con un ataque, la resistencia a todos los tipos de daño del objetivo se reduce en un 6 % durante 30 s. Pueden acumularse hasta 3 cargas. La duración se reinicia con cada activación. Al entrar en combate, Astra Yao obtiene inmediatamente 1000 dB. Al ejecutar una <color=#FFFFFF>técnica definitiva</color>, todos los miembros del equipo obtienen 1 carga de <color=#FFFFFF>canción del resguardo</color> durante 60 s. Al recibir un ataque enemigo, consume <color=#FFFFFF>canción del resguardo</color> y se vuelve invulnerable durante 1 s.",
+                "Astra_Talent_01_Title_Realign": "Escala temperada"
+            },
+            {
+                "talent_id": "2",
+                "Astra_Talent_02_Title": "El arte de la codicia",
+                "Astra_Talent_02_Desc_01_Realign": "La bonificación de Ataque de la <color=#FFFFFF>técnica pasiva: Andante primoroso</color> aumenta en un 19 % y el límite aumenta en 400 ptos.\nEn el estado de <color=#FFFFFF>aria sublime</color>, cuando otro miembro del equipo entra en combate a través de un <color=#FFFFFF>apoyo rápido</color>, una <color=#FFFFFF>técnica en cadena</color>, un <color=#FFFFFF>apoyo defensivo</color> o un <color=#FFFFFF>apoyo evasivo</color>, Astra Yao libera adicionalmente 1 <color=#FFFFFF>trémolo</color> y 3 <color=#FFFFFF>clústeres tonales</color> de manera subsiguiente. Puede activarse una vez cada 3 s.",
+                "Astra_Talent_02_Desc_02": "«¡Lo más brillante de este mundo es, sin duda, el amor!»\nLos artistas son como pequeños pájaros en busca de objetos brillantes para su nido. ¿Tal vez esa codicia interior sirva para encontrar todo el amor del mundo? Con todo este amor reunido, es posible componer las melodías más conmovedoras.",
+                "Astra_Talent_02_Desc_01": "La bonificación de Ataque de la <color=#FFFFFF>técnica pasiva: Andante primoroso</color> aumenta en un 19 % y el límite aumenta en 400 ptos. En el estado de <color=#FFFFFF>aria sublime</color>, cuando otro miembro del equipo entra en combate a través de un <color=#FFFFFF>apoyo rápido</color>, una <color=#FFFFFF>técnica en cadena</color>, un <color=#FFFFFF>apoyo defensivo</color> o un <color=#FFFFFF>apoyo evasivo</color>, Astra Yao libera adicionalmente 1 <color=#FFFFFF>trémolo</color> y 3 <color=#FFFFFF>clústeres tonales</color> de manera subsiguiente. Puede activarse una vez cada 3 s.",
+                "Astra_Talent_02_Title_Realign": "El arte de la codicia"
+            },
+            {
+                "talent_id": "3",
+                "Astra_Talent_03_Title": "Pentagrama entrelazado",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Astra_Talent_03_Desc_02": "Un pentagrama en blanco tan solo son unas líneas paralelas que no se intersecan, como unas almas que nunca se encuentran y siguen esperando a que sus melodías se entrelacen para formar una canción.\n«¡Llenémoslo de notas! ¡Con muchas ligaduras! Creo que va a ser una canción maravillosa.»\nY así es como se compone una canción con 136 barras de compás repleta de notas unidas entre sí de principio a fin...",
+                "Astra_Talent_03_Title_Realign": "Pentagrama entrelazado"
+            },
+            {
+                "talent_id": "4",
+                "Astra_Talent_04_Title": "Cabello tras el cuello",
+                "Astra_Talent_04_Desc_01_Realign": "Tras ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, Astra Yao puede ejecutar un <color=#FFFFFF>apoyo rápido</color> dentro de un margen de 15 s incluso si no tiene <color=#FFFFFF>acordes</color>. Además, cuando el ataque golpea al enemigo, el intervalo de activación de un <color=#FFFFFF>apoyo rápido</color> se reduce a 1 s. En el estado de <color=#FFFFFF>aria sublime</color>, cuando otro miembro del equipo entra en combate a través de un <color=#FFFFFF>apoyo rápido</color>, recibe una bonificación diferente en función de su especialidad. Puede activarse una vez cada 3 s para todos los miembros del equipo:\n<color=#FFFFFF>Atacante</color>: el próximo ataque pesado del <color=#FFFFFF>apoyo rápido</color> que golpee a un enemigo inflige daño adicional equivalente al 300 % del Ataque de Astra Yao.\n<color=#FFFFFF>Anómalo</color>: la acumulación de Anomalía de Atributo del próximo <color=#FFFFFF>apoyo rápido</color> aumenta en un 50 %.\n<color=#FFFFFF>Aturdidor</color>: el Aturdimiento que causa el próximo <color=#FFFFFF>apoyo rápido</color> aumenta en un 50 %.",
+                "Astra_Talent_04_Desc_02": "Sobre el piano se cierne una mano\nNo se sabe qué nota tocará\n¿Un acorde en escala menor?\n¿O una melodía de añoranza?\nBusco tu sombra en la partitura\nCierro los ojos, discierno con confianza:\nSe trata del cabello que posas tras el cuello",
+                "Astra_Talent_04_Desc_01": "Tras ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, Astra Yao puede ejecutar un <color=#FFFFFF>apoyo rápido</color> dentro de un margen de 15 s incluso si no tiene <color=#FFFFFF>acordes</color>. Además, cuando el ataque golpea al enemigo, el intervalo de activación de un <color=#FFFFFF>apoyo rápido</color> se reduce a 1 s. En el estado de <color=#FFFFFF>aria sublime</color>, cuando otro miembro del equipo entra en combate a través de un <color=#FFFFFF>apoyo rápido</color>, recibe una bonificación diferente en función de su especialidad. Puede activarse una vez cada 3 s para todos los miembros del equipo:\n<color=#FFFFFF>Atacante</color>: el próximo ataque pesado del <color=#FFFFFF>apoyo rápido</color> que golpee a un enemigo inflige daño adicional equivalente al 300 % del Ataque de Astra Yao.\n<color=#FFFFFF>Anómalo</color>: la acumulación de Anomalía de Atributo del próximo <color=#FFFFFF>apoyo rápido</color> aumenta en un 50 %.\n<color=#FFFFFF>Aturdidor</color>: el Aturdimiento que causa el próximo <color=#FFFFFF>apoyo rápido</color> aumenta en un 50 %.",
+                "Astra_Talent_04_Title_Realign": "Cabello tras el cuello"
+            },
+            {
+                "talent_id": "5",
+                "Astra_Talent_05_Title": "Proxy y cuerda de seda",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Astra_Talent_05_Desc_02": "«¡Eve, he hecho un gran descubrimiento! ¡Tanto tú como {M#Wise}{F#Belle} son esbelt{M#os}{F#as}!»\n«... ¿A dónde pretendes llegar con eso?»\n«¡Pues que son mis personas favoritas!»\nAstra se siente increíblemente feliz, como si hubiera descubierto un secreto de importancia vital.",
+                "Astra_Talent_05_Title_Realign": "Proxy y cuerda de seda"
+            },
+            {
+                "talent_id": "6",
+                "Astra_Talent_06_Title": "Somos el mundo",
+                "Astra_Talent_06_Desc_01_Realign": "En el estado de <color=#FFFFFF>aria sublime</color>, el multiplicador de daño del <color=#FFFFFF>trémolo</color> y del <color=#FFFFFF>clúster tonal</color> y sus ejecuciones subsiguientes aumenta a un 200 % de su valor original.\nLa Probabilidad de Crítico aumenta en un 80 %. Al ejecutar un <color=#FFFFFF>apoyo preciso</color>, Astra Yao ejecuta automáticamente el tercer golpe del <color=#FFFFFF>ataque normal: Capriccio</color> de forma subsiguiente tras acumular fuerza, lo que hace que la Probabilidad de Crítico de esta habilidad aumente en un 80 %. Puede activarse una vez cada 10 s.",
+                "Astra_Talent_06_Desc_02": "El origen de la inquietud del mundo es la soledad de los corazones humanos. Si el corazón de cada persona pudiera sentirse reciprocado, ¿sería posible erradicar el sufrimiento, la agonía y el silencio de este mundo?\nSi fuera posible crear este vínculo a través de la música, ¿se cerrarían todas estas heridas? ¿Se convertiría todo el sufrimiento en una alegre melodía que pondría fin al silencio? Si eso sucediera, el mundo dejaría de ser una isla solitaria.\n«¡Esta canción se la dedico al mundo!»",
+                "Astra_Talent_06_Desc_01": "En el estado de <color=#FFFFFF>aria sublime</color>, el multiplicador de daño del <color=#FFFFFF>trémolo</color> y del <color=#FFFFFF>clúster tonal</color> y sus ejecuciones subsiguientes aumenta a un 200 % de su valor original. La Probabilidad de Crítico aumenta en un 80 %. Al ejecutar un <color=#FFFFFF>apoyo preciso</color>, Astra Yao ejecuta automáticamente el tercer golpe del <color=#FFFFFF>ataque normal: Capriccio</color> de forma subsiguiente tras acumular fuerza, lo que hace que la Probabilidad de Crítico de esta habilidad aumente en un 80 %. Puede activarse una vez cada 10 s.",
+                "Astra_Talent_06_Title_Realign": "Somos el mundo"
+            }
+        ]
+    },
+    "1321": {
+        "role_id": 1321,
+        "name": "Evelyn",
+        "full_name": "Evelyn Chevalier",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Evelyn_Talent_01_Title": "Tejido onírico",
+                "Evelyn_Talent_01_Desc_01_Realign": "Al entrar en combate, Evelyn obtiene inmediatamente 1500 dB. A los enemigos en el estado de <color=#FFFFFF>sujeción restrictiva</color> se les aplica el efecto de <color=#FFFFFF>confinio</color>. Cuando Evelyn ataca a un enemigo afectado por <color=#FFFFFF>confinio</color>, ignora un 12 % de su Defensa.\nAl ejecutar una <color=#FFFFFF>técnica especial: Ligadura desgarradora de primera forma</color> o una <color=#FFFFFF>técnica especial EX: Ligadura desgarradora definitiva</color>, el efecto de <color=#FFFFFF>confinio</color> se extiende a todos los enemigos golpeados por la habilidad. El efecto de <color=#FFFFFF>confinio</color> extendido dura 10 s.",
+                "Evelyn_Talent_01_Desc_02": "La lejana y apenas distinguible luz parecía un sueño que había tejido ella misma; un futuro inalcanzable. No anhelaba la redención, sino la libertad.\n«Tú también quieres una, ¿no? Una vida real, digo», le preguntó una vez una antigua compañera de trabajo anónima a Evelyn.",
+                "Evelyn_Talent_01_Desc_01": "Al entrar en combate, Evelyn obtiene inmediatamente 1500 dB. A los enemigos en el estado de <color=#FFFFFF>sujeción restrictiva</color> se les aplica el efecto de <color=#FFFFFF>confinio</color>. Cuando Evelyn ataca a un enemigo afectado por <color=#FFFFFF>confinio</color>, ignora un 12 % de su Defensa. Al ejecutar una <color=#FFFFFF>técnica especial: Ligadura desgarradora de primera forma</color> o una <color=#FFFFFF>técnica especial EX: Ligadura desgarradora definitiva</color>, el efecto de <color=#FFFFFF>confinio</color> se extiende a todos los enemigos golpeados por la habilidad. El efecto de <color=#FFFFFF>confinio</color> extendido dura 10 s.",
+                "Evelyn_Talent_01_Title_Realign": "Tejido onírico"
+            },
+            {
+                "talent_id": "2",
+                "Evelyn_Talent_02_Title": "Danza de fuego",
+                "Evelyn_Talent_02_Desc_01_Realign": "El Ataque de Evelyn aumenta en un 15 %. Al ejecutar el <color=#FFFFFF>ataque normal: Lazo estrangulador de primera forma</color> o el <color=#FFFFFF>ataque normal: Lazo estrangulador de segunda forma</color>, recupera las <color=#FFFFFF>lumbres</color> consumidas. Puede activarse una vez cada 25 s.\nCuando Evelyn consume ptos. de <color=#FFFFFF>brida incandescente</color> para ejecutar la <color=#FFFFFF>técnica en cadena: Cinta lunalux - Cepo</color>, el nivel de interrupción de la habilidad aumenta.",
+                "Evelyn_Talent_02_Desc_02": "«Para mí era una luz extraña, algo que debería haber evitado a toda costa. Pero esa luz destruyó mis defensas, como si intentara recordarme que existe algo que vale la pena perseguir más allá de la oscuridad.»\nCuando Evelyn recuerda el momento en el que conoció a Astra, su tono adquiere una dulzura poco común en ella.",
+                "Evelyn_Talent_02_Desc_01": "El Ataque de Evelyn aumenta en un 15 %. Al ejecutar el <color=#FFFFFF>ataque normal: Lazo estrangulador de primera forma</color> o el <color=#FFFFFF>ataque normal: Lazo estrangulador de segunda forma</color>, recupera las <color=#FFFFFF>lumbres</color> consumidas. Puede activarse una vez cada 25 s. Cuando Evelyn consume ptos. de <color=#FFFFFF>brida incandescente</color> para ejecutar la <color=#FFFFFF>técnica en cadena: Cinta lunalux - Cepo</color>, el nivel de interrupción de la habilidad aumenta.",
+                "Evelyn_Talent_02_Title_Realign": "Danza de fuego"
+            },
+            {
+                "talent_id": "3",
+                "Evelyn_Talent_03_Title": "Eclosión de crisálida",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Evelyn_Talent_03_Desc_02": "En ese momento, se libera de sus ataduras y se convierte en su versión más real. Las tensas cuerdas se quiebran y lo que una vez fueron cadenas ahora no son más que los restos de una crisálida eclosionada. Evelyn se encuentra a las puertas de una nueva vida y, en su fría mirada, se atisba un ligero y cálido brillo.",
+                "Evelyn_Talent_03_Title_Realign": "Eclosión de crisálida"
+            },
+            {
+                "talent_id": "4",
+                "Evelyn_Talent_04_Title": "Composición del destino",
+                "Evelyn_Talent_04_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, Evelyn obtiene inmediatamente un escudo equivalente al 10 % de sus PV máx. Mientras este escudo esté activo, el Daño Crítico de Evelyn aumenta en un 40 %.",
+                "Evelyn_Talent_04_Desc_02": "«¿Sabes qué, Eve? Siempre que me encuentro con alguien que es importante en mi vida, mi corazón hace: \"Pum, pum\".»\nEvelyn suspira, haciéndole saber que ya se está haciendo tarde. Astra se ajusta el vestido apresuradamente y sale por la puerta.\n«Pum, pum...», repite Evelyn en voz baja tras quedarse sola en el camerino.",
+                "Evelyn_Talent_04_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, Evelyn obtiene inmediatamente un escudo equivalente al 10 % de sus PV máx. Mientras este escudo esté activo, el Daño Crítico de Evelyn aumenta en un 40 %.",
+                "Evelyn_Talent_04_Title_Realign": "Composición del destino"
+            },
+            {
+                "talent_id": "5",
+                "Evelyn_Talent_05_Title": "Hebras carmesí como el crepúsculo",
+                "Common_Talent_Desc": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+                "Evelyn_Talent_05_Desc_02": "Sus hilos están teñidos de color carmesí, al igual que las nubes que desdibujan el atardecer.\nTras cada ataque, gira con delicadeza y confianza mientras sus llamas relucen tenuemente cual luz del ocaso. Sobran las palabras: la protección de Evelyn se ha convertido en un ardiente resplandor.",
+                "Evelyn_Talent_05_Title_Realign": "Hebras carmesí como el crepúsculo"
+            },
+            {
+                "talent_id": "6",
+                "Evelyn_Talent_06_Title": "Vínculo de luces y sombras",
+                "Evelyn_Talent_06_Desc_01_Realign": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, Evelyn obtiene <color=#FFFFFF>ápex de cordel sombrío</color> durante 20 s.\nDurante la duración de <color=#FFFFFF>ápex de cuerda sombría</color>, cuando Evelyn golpea a un enemigo con un <color=#FFFFFF>ataque normal</color>, un <color=#FFFFFF>ataque rápido</color>, una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, ejecuta un ataque subsiguiente adicional de <color=#FFFFFF>Cinta lunalux</color>, infligiendo <color=#FF5521>daño ígneo</color> equivalente al 375 % del Ataque de Evelyn. Este daño se considera daño de la <color=#FFFFFF>técnica en cadena</color> y puede activarse un máximo de 16 veces. Al volver a obtener <color=#FFFFFF>ápex de cordel sombrío</color>, se reinicia el número de activaciones.",
+                "Evelyn_Talent_06_Desc_02": "Allí donde haya luz, habrá sombras.\nSe esconde en el silencio, siguiendo la trayectoria de la luz, custodiando el paso de cada fulgor.\nLas sombras no pretenden robarle su esplendor a la luz, mas en todo momento y sin decir nada ocupan los rincones que esta no alcanza.\nLuces y sombras siempre han estado unidas, pues son inseparables: la sombra completa la luz, y de la luz depende la existencia de las sombras. Es una persecución eterna, una conexión indescriptible.",
+                "Evelyn_Talent_06_Desc_01": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, Evelyn obtiene <color=#FFFFFF>ápex de cordel sombrío</color> durante 20 s. Durante la duración de <color=#FFFFFF>ápex de cuerda sombría</color>, cuando Evelyn golpea a un enemigo con un <color=#FFFFFF>ataque normal</color>, un <color=#FFFFFF>ataque rápido</color>, una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, ejecuta un ataque subsiguiente adicional de <color=#FFFFFF>Cinta lunalux</color>, infligiendo <color=#FF5521>daño ígneo</color> equivalente al 375 % del Ataque de Evelyn. Este daño se considera daño de la <color=#FFFFFF>técnica en cadena</color> y puede activarse un máximo de 16 veces. Al volver a obtener <color=#FFFFFF>ápex de cordel sombrío</color>, se reinicia el número de activaciones.",
+                "Evelyn_Talent_06_Title_Realign": "Vínculo de luces y sombras"
+            }
+        ]
+    },
     "0": {
         "role_id": 0,
         "name": null,

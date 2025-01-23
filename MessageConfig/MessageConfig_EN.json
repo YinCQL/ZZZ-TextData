@@ -344,7 +344,7 @@
     "1026": {
         "id": "1026",
         "texts": {
-            "Message_102601": "null"
+            "Message_102601": "The player has completed the mission and sent you a message."
         }
     },
     "1027": {
@@ -363,16 +363,16 @@
     "1028": {
         "id": "1028",
         "texts": {
-            "Message_102801": "null",
-            "Option01_102802": "null"
+            "Message_102801": "The player has completed the last riddle, and the courier has sent a thank-you message.",
+            "Option01_102802": "You're welcome."
         }
     },
     "1029": {
         "id": "1029",
         "texts": {
-            "Message_102901": "null",
-            "Option01_102902": "null",
-            "Message_102903": "null"
+            "Message_102901": "The player has completed the second battle, and the courier has sent a message of gratitude.",
+            "Option01_102902": "You're welcome.",
+            "Message_102903": "You're so nice!"
         }
     },
     "2001": {
@@ -4496,7 +4496,7 @@
         "id": "200423",
         "texts": {
             "Message_20042301": "Cats can sense danger",
-            "Message_20042302": "Captain Magus once told us of his experiences at a field hospital",
+            "Message_20042302": "Captain Magus once told us of her experiences at a field hospital.",
             "Message_20042303": "There was a cat in the hospital, always lying on the beds of critically wounded soldiers. Those it chose to lay by would soon pass away",
             "Message_20042304": "I've been noticing this black cat down in the alleyways behind the arcade.",
             "Message_20042305": "Let's find some time to go and check on the cat together",
@@ -4984,7 +4984,7 @@
     "413005": {
         "id": "413005",
         "texts": {
-            "Option01_41300501": "you there?",
+            "Option01_41300501": "You there?",
             "Option02_41300501": "You hungry?",
             "Message_41300502": "the team was just dismissed!",
             "Message_41300503": "you finished with work?",
@@ -5515,7 +5515,7 @@
             "Option02_41600540": "Gimme 50 Dennies, I HAVE been hacked",
             "Message_41600541": "That's good",
             "Message_41600542": "What weird movies have you been watching?",
-            "Message_41600543": "You had my heart was racing for a second there",
+            "Message_41600543": "You had my heart racing for a second there",
             "Message_41600544": "Let me guess, you want to meet up?",
             "Option01_41600545": "Correct",
             "Option02_41600545": "So can we?",
@@ -5662,7 +5662,7 @@
             "OptionLong02_42000307": "I know the ending! The truth is...",
             "Message_42000308": "I want to know what happens next too",
             "Message_42000309": "I actually just want you to help me find a movie",
-            "Message_42000310": "The one I just mentioned, “Sleepwalking”",
+            "Message_42000310": "The one I just mentioned, \"Sleepwalking\"",
             "Message_42000311": "Being the best video store manager in all of New Eridu, I'm sure you can handle it, right?",
             "Option01_42000312": "Of course",
             "Option02_42000312": "I found it!",
@@ -5982,7 +5982,7 @@
             "Message_42200409": "Can we go to the one on Sixth Street?",
             "Message_42200410": "We often stop by the cafe at Lumina Square for coffee when we have to do fieldwork",
             "Message_42200411": "I always feel like the coffee tastes faintly of work",
-            "Message_42200412": "You should a pick time",
+            "Message_42200412": "You should pick a time",
             "Message_42200413": "Come to think of it",
             "Message_42200414": "The cinema at Lumina Square is currently rescreening a movie I've been wanting to watch...",
             "Message_42200415": "Would you come watch it with me?",
@@ -6338,10 +6338,551 @@
             "Option02_42801514": "null"
         }
     },
+    "431001": {
+        "id": "431001",
+        "texts": {
+            "Message_43100101": "Hellooo. This is my other account. We'll use this account for chatting from now on.",
+            "Option01_43100102": "Still the same familiar avatar.",
+            "OptionLong01_43100102": "Still the familiar same avatar. What happened to your previous account, the one with the fried rice tag?",
+            "Option02_43100102": "What happened to the fried rice account?",
+            "OptionLong02_43100102": "Still the familiar same avatar. What happened to your previous account, the one with the fried rice tag?",
+            "Message_43100103": "I have three accounts, each for different purposes.",
+            "Message_43100104": "Account 1 is for work, account 2 is for online friends, and account 3 is for real-life friends!",
+            "Option01_43100105": "So what was the previous account for?",
+            "Option02_43100105": "So what is this current account for?",
+            "Message_43100106": "The previous one was account 2, and this one is account 3.",
+            "Message_43100107": "From now on, I'll use this account to reach out to you. Don't mix it up, though — some people on Inter-Knot might use my name and image as their account info...",
+            "Message_43100108": "Anyway, make sure to recognize Fried Rice Sparrow!",
+            "Message_43100110": "Of course, it's account 3. We're more than just online friends!"
+        }
+    },
+    "431002": {
+        "id": "431002",
+        "texts": {
+            "Message_43100201": "Do you know \"Upon a Wishing Star\"?",
+            "Option01_43100202": "Is it... a song title?",
+            "Option02_43100202": "Is it... a movie title?",
+            "Message_43100203": "I'm not sure either. I was chatting with my mom just now, and she said, \"Actually, I've been on TV too.\" My curiosity was instantly piqued!",
+            "Message_43100204": "But she can't remember the details clearly, she only recalls the name \"Upon a Wishing Star.\"",
+            "Message_43100205": "So I came to ask you. Among my friends, you're the most knowledgeable in this area!",
+            "Option01_43100206": "I think I remember now!",
+            "OptionLong01_43100206": "I remember now! \"Upon a Wishing Star\" is neither a song nor a movie; it might be a variety show!",
+            "Option02_43100206": "Ah, it's neither a song nor a movie!",
+            "OptionLong02_43100206": "I remember now! \"Upon a Wishing Star\" is neither a song nor a movie; it might be a variety show!",
+            "Option01_43100207": "Let me look for it.",
+            "OptionLong01_43100207": "I'll look for it. I remember seeing a videotape of this variety show before.",
+            "Option02_43100207": "I've seen the videotape of this show.",
+            "OptionLong02_43100207": "I'll look for it. I remember seeing a videotape of this variety show before.",
+            "Message_43100208": "Could you please help me find it? Or I can do it myself. I just really want to see what my mom looked like back then.",
+            "Option01_43100209": "In the time it took us to chat...",
+            "OptionLong01_43100209": "In the time it took us to chat... I already found it.",
+            "Option02_43100209": "I found it!",
+            "OptionLong02_43100209": "In the time it took us to chat... I already found it.",
+            "Message_43100210": "Really? That's amazing! Please hold onto it for me. I'll swing by your store when I'm free!"
+        }
+    },
+    "431003": {
+        "id": "431003",
+        "texts": {
+            "Option01_43100301": "Has work been busy lately?",
+            "Option02_43100301": "Are you free lately?",
+            "Message_43100302": "Busy, very busy.",
+            "Message_43100303": "But... I feel like sneaking some free time in the middle of the busyness!",
+            "Option01_43100304": "Exactly what I had in mind!",
+            "Option02_43100304": "What a coincidence, me too!",
+            "Message_43100305": "Seems like we're on the same page! What do you think — why wait for the perfect day when today works? Put down the phone and let's meet up!",
+            "Option01_43100306": "Alright.",
+            "OptionLong01_43100306": "Alright. Where do you want to go?",
+            "Option02_43100306": "Where do you want to go?",
+            "OptionLong02_43100306": "Alright. Where do you want to go?",
+            "Message_43100307": "You can pick! Just try to choose a place with fewer people.",
+            "Message_43100308": "After all, I'm coming out just to see you. I don't want to be disturbed by others...",
+            "Option01_43100309": "Let's go to Reverb Arena.",
+            "Option02_43100309": "Let's go to Port Elpis.",
+            "Message_43100310": "Hmm... Alright! After all, it seems like everyone at Reverb Arena treats me as an Astra Yao impersonator... I guess that's pretty convenient for me.",
+            "Message_43100311": "That's settled! Let's meet at the entrance of Reverb Arena.",
+            "Message_43100312": "Sounds good! I hope the fishermen are there today, I actually enjoy watching them fish.",
+            "Option01_43100313": "You like watching them fish?",
+            "OptionLong01_43100313": "Do you actually enjoy watching them fish, or do you prefer watching them argue?",
+            "Option02_43100313": "You enjoy watching them argue, right?",
+            "OptionLong02_43100313": "Do you actually enjoy watching them fish, or do you prefer watching them argue?",
+            "Message_43100314": "Official answer: No comment. Unofficial answer: I like both!",
+            "Message_43100315": "It's settled. Let's meet at Port Elpis!",
+            "Message_43100316": "What a coincidence, I was just about to pick up my phone and ask you if you're free lately~",
+            "Option01_43100317": "I asked first!",
+            "Option02_43100317": "You answer first!",
+            "Message_43100318": "Alright! I've been quite busy lately, but... I feel like sneaking some free time in the middle of the busyness!!",
+            "Option01_43100319": "What a coincidence!",
+            "OptionLong01_43100319": "What a coincidence, I was thinking the same!",
+            "Option02_43100319": "I was thinking the same!",
+            "OptionLong02_43100319": "What a coincidence, I was thinking the same!",
+            "Message_43100320": "To celebrate us being on the same page, let's pick a place and go for a stroll!",
+            "Option01_43100321": "Alright.",
+            "Option02_43100321": "I was thinking the same thing.",
+            "Message_43100322": "Have you decided where to go? Just try to pick a place with fewer people!",
+            "Message_43100323": "After all, I'm coming out just to see you. I don't want to be disturbed by others..."
+        }
+    },
+    "431004": {
+        "id": "431004",
+        "texts": {
+            "Option01_43100401": "I suddenly felt like seeing you.",
+            "Option02_43100401": "What are you doing?",
+            "Message_43100402": "Well... Why don't you look at my poster at the store then?",
+            "Option01_43100403": "Nothing beats the real deal!",
+            "Option02_43100403": "Okay, I'll go take a look at it.",
+            "Message_43100404": "I was just kidding~ Although I'm swamped with work, the moment I saw your message, I suddenly really wanted to meet you... in person, of course!",
+            "Message_43100405": "Let's find a place to meet?",
+            "Message_43100406": "Right, let's go to a less crowded place. It's not that I'm worried about being seen together, but if I get recognized, signing autographs and taking photos could take up a lot of time...",
+            "Option01_43100407": "Let's go to Reverb Arena.",
+            "Option02_43100407": "Let's go to Port Elpis.",
+            "Message_43100408": "Hmm... Alright! After all, it seems like everyone at Reverb Arena treats me as an Astra Yao impersonator... I guess that's pretty convenient for me.",
+            "Message_43100409": "That's settled! Let's meet at the entrance of Reverb Arena.",
+            "Message_43100410": "Sounds good! I hope the fishermen are there today, I actually enjoy watching them fish.",
+            "Option01_43100411": "You like watching them fish?",
+            "OptionLong01_43100411": "Do you actually enjoy watching them fish, or do you prefer watching them argue?",
+            "Option02_43100411": "You enjoy watching them argue, right?",
+            "OptionLong02_43100411": "Do you actually enjoy watching them fish, or do you prefer watching them argue?",
+            "Message_43100412": "Official answer: No comment. Unofficial answer: I like both!",
+            "Message_43100413": "It's settled. Let's meet at Port Elpis!",
+            "Message_43100414": "Hold on, I was just kidding! Actually, I want to see you too. But there aren't even any posters or videos of you...",
+            "Message_43100415": "Ah... It's been so long since I last saw {M#Wise}{F#Belle}, I can't even remember what you look like anymore.",
+            "Option01_43100416": "Next time, I'll take some pictures for you.",
+            "Option02_43100416": "It's fine, at least I have your poster!",
+            "Message_43100417": "Alright, but we should at least meet in person this time! So, where should we meet?",
+            "Message_43100418": "Hey, don't just look at the poster! Come out and see me in person! So, where should we meet?",
+            "Message_43100419": "I'm searching for inspiration. The new song is halfway done, but I've hit a block. It just doesn't feel right...",
+            "Message_43100420": "Right, let's go out and have some fun! Help me find some inspiration!",
+            "Option01_43100421": "No problem.",
+            "OptionLong01_43100421": "No problem! So... I can inspire you?",
+            "Option02_43100421": "So, I can inspire you?",
+            "OptionLong02_43100421": "No problem! So... I can inspire you?",
+            "Message_43100422": "Of course! So many happy things happen when I'm with you — perfect for writing a sweet ballad!",
+            "Message_43100423": "Have you decided where to go? Let's head to a place with fewer people.",
+            "Message_43100424": "It's not that I'm worried about being seen together, but if I get recognized, signing autographs and taking photos could take up a lot of time..."
+        }
+    },
+    "431005": {
+        "id": "431005",
+        "texts": {
+            "Option01_43100501": "Has work been busy lately?",
+            "Option02_43100501": "Are you free lately?",
+            "Message_43100502": "Busy, very busy.",
+            "Message_43100503": "But... I feel like sneaking some free time in the middle of the busyness!",
+            "Option01_43100504": "Exactly what I had in mind!",
+            "Option02_43100504": "What a coincidence, me too!",
+            "Message_43100505": "Seems like we're on the same page! What do you think — why wait for the perfect day when today works? Put down the phone and let's meet up!",
+            "Option01_43100506": "Alright.",
+            "OptionLong01_43100506": "Alright. Where do you want to go?",
+            "Option02_43100506": "Where do you want to go?",
+            "OptionLong02_43100506": "Alright. Where do you want to go?",
+            "Message_43100507": "You pick! Anywhere is fine with me!",
+            "Option01_43100508": "How about we go check out the music store on Sixth Street?",
+            "Option02_43100508": "How about we go have noodles on Sixth Street?",
+            "Message_43100509": "The music store on your street... I remember it's called Bardic Needle, right? No problem! I'm heading out now, see you at the Sixth Street metro entrance!",
+            "Message_43100510": "Great idea! Ah... I'm hungry just thinking about it, thanks to you! Quick, let's meet at the Sixth Street metro entrance!",
+            "Message_43100511": "What a coincidence, I was just about to pick up my phone and ask you if you're free lately~",
+            "Option01_43100512": "I asked first!",
+            "Option02_43100512": "You answer first!",
+            "Message_43100513": "Alright! I've been quite busy lately, but... I feel like sneaking some free time in the middle of the busyness!!",
+            "Option01_43100514": "What a coincidence!",
+            "OptionLong01_43100514": "What a coincidence, I was thinking the same!",
+            "Option02_43100514": "I was thinking the same!",
+            "OptionLong02_43100514": "What a coincidence, I was thinking the same!",
+            "Message_43100515": "To celebrate us being on the same page, let's pick a place and go for a stroll!",
+            "Option01_43100516": "Alright.",
+            "Option02_43100516": "I was thinking the same thing.",
+            "Message_43100517": "Have you decided where to go? Anywhere is fine with me!"
+        }
+    },
+    "431006": {
+        "id": "431006",
+        "texts": {
+            "Option01_43100601": "I suddenly felt like seeing you.",
+            "Option02_43100601": "What are you doing?",
+            "Message_43100602": "Well... Why don't you look at my poster at the store then?",
+            "Option01_43100603": "Nothing beats the real deal!",
+            "Option02_43100603": "Okay, I'll go take a look at it.",
+            "Message_43100604": "I was just kidding~ Although I'm swamped with work, the moment I saw your message, I suddenly really wanted to meet you... in person, of course!",
+            "Message_43100605": "Let's find a place to meet?",
+            "Option01_43100606": "How about we go check out the music store on Sixth Street?",
+            "Option02_43100606": "How about we go have noodles on Sixth Street?",
+            "Message_43100607": "The music store on your street... I remember it's called Bardic Needle, right? No problem! I'm heading out now, see you at the Sixth Street metro entrance!",
+            "Message_43100608": "Great idea! Ah... I'm hungry just thinking about it, thanks to you! Quick, let's meet at the Sixth Street metro entrance!",
+            "Message_43100609": "Hold on, I was just kidding! Actually, I want to see you too. But there aren't even any posters or videos of you...",
+            "Message_43100610": "Ah... It's been so long since I last saw {M#Wise}{F#Belle}, I can't even remember what you look like anymore.",
+            "Option01_43100611": "Next time, I'll take some pictures for you.",
+            "Option02_43100611": "It's fine, at least I have your poster!",
+            "Message_43100612": "Alright, but we should at least meet in person this time! So, where should we meet?",
+            "Message_43100613": "Hey, don't just look at the poster! Come out and see me in person! So, where should we meet?",
+            "Message_43100614": "I'm searching for inspiration. The new song is halfway done, but I've hit a block. It just doesn't feel right...",
+            "Message_43100615": "Right, let's go out and have some fun! Help me find some inspiration!",
+            "Option01_43100616": "No problem.",
+            "OptionLong01_43100616": "No problem! So... I can inspire you?",
+            "Option02_43100616": "So, I can inspire you?",
+            "OptionLong02_43100616": "No problem! So... I can inspire you?",
+            "Message_43100617": "Of course! So many happy things happen when I'm with you — perfect for writing a sweet ballad!",
+            "Message_43100618": "Have you decided where to go? I'll accompany you wherever you choose!"
+        }
+    },
+    "431007": {
+        "id": "431007",
+        "texts": {
+            "Message_43100701": "I don't think I'd make a good officer. I can't even catch a break, let alone criminals.",
+            "Message_43100702": "If you're wondering why, it's because I'm missing a deputy.",
+            "Option01_43100703": "Sorry, I had to step out for something.",
+            "Option02_43100703": "Sorry! I had something important to do!",
+            "Message_43100704": "Alright, I'll forgive you for the sake of the merch!",
+            "Option01_43100705": "Merch?",
+            "OptionLong01_43100705": "Merch? What merch?",
+            "Option02_43100705": "What merch?",
+            "OptionLong02_43100705": "Merch? What merch?",
+            "Message_43100706": "I bought a lot of interesting merch at Reverb Arena! You're really missing out by not coming!",
+            "Option01_43100707": "I'll surely come next time!",
+            "Option02_43100707": "I definitely won't stand you up next time!",
+            "Message_43100708": "Alright, I'll remember what you said. We shall see what happens next time!"
+        }
+    },
+    "431008": {
+        "id": "431008",
+        "texts": {
+            "Message_43100801": "There were two heartbroken people at Port Elpis yesterday.",
+            "Message_43100802": "One was Grandpa Gu, ignored by the fishes, and the other was Astra, stood up by {M#Wise}{F#Belle}.",
+            "Option01_43100803": "Sorry, I've really been tied up with important matters...",
+            "Option02_43100803": "I'm sorry! Something important came up suddenly...",
+            "Message_43100804": "No matter how important, you can't skip watching people fish!",
+            "Message_43100805": "Wait... I guess you can!",
+            "Message_43100806": "Alright, I'll forgive you this time. But no backing out next time!"
+        }
+    },
+    "431009": {
+        "id": "431009",
+        "texts": {
+            "Message_43100901": "I listened to all the records at Bardic Needle but still didn't get to see you. I'm so sad...",
+            "Option01_43100902": "Sorry! Something cropped up last minute.",
+            "OptionLong01_43100902": "Sorry! Something urgent came up... Wait, you really listened to all of them?",
+            "Option02_43100902": "I'm sorry! I had to handle some urgent matters.",
+            "OptionLong02_43100902": "Sorry! Something urgent came up... Wait, you really listened to all of them?",
+            "Message_43100903": "Of course not! That was a lie! But the part about being sad is real!",
+            "Option01_43100904": "I'll surely come next time!",
+            "Option02_43100904": "I'll never cancel next time!",
+            "Message_43100905": "Alright, I'll trust you this time! Anyway, the music store is really close to your place. If you cancel again, I'll just stay at your house and won't leave!"
+        }
+    },
+    "431010": {
+        "id": "431010",
+        "texts": {
+            "Message_43101001": "Finished the noodles, ordered a side dish, finished that too, and still didn't catch a glimpse of you.",
+            "Option01_43101002": "Sorry, I got delayed by other matters!",
+            "Option02_43101002": "I'm sorry! I'll definitely come next time!",
+            "Message_43101003": "I've made a deal with the store owner — if you don't show up next time, I'll have a big meal and put the whole bill on your tab!"
+        }
+    },
+    "432001": {
+        "id": "432001",
+        "texts": {
+            "Message_43200101": "You awake? Can't decide on something.",
+            "Message_43200102": "Need your opinion, Astranaut.",
+            "Option01_43200103": "Are you still working? This late?",
+            "Option02_43200103": "You're still on the clock...?",
+            "Message_43200104": "It's not that late, you're awake too, right?",
+            "Message_43200105": "Astra's got a charity gala next month, I can't decide which dress to get her.",
+            "Message_43200106": "She's exhausted all the usual designs and colors. As for the unconventional...",
+            "Message_43200107": "You know how designers go wild for creativity, and their works end up drawing too much attention...",
+            "Message_43200108": "I'm getting a headache just thinking about it.",
+            "Option01_43200109": "What are you wearing that day, Evelyn?",
+            "Option02_43200109": "Let's switch it up. How would you style yourself?",
+            "Message_43200110": "Me? Same as always. What I wear isn't the point though, we're talking about Astra.",
+            "Option01_43200111": "Why not let Astra wear your clothes?",
+            "Option02_43200111": "Astra never tried your cool style before, no?",
+            "Message_43200112": "Oh that's a novel idea. My style is all about practicality though.",
+            "Message_43200113": "If Astra starts a trend in my style, my clothes might get more pricey.",
+            "Message_43200114": "But she'd be so happy. I can already hear her going \"I can wear Eve's clothes yay! Evattire!\"",
+            "Message_43200115": "But only someone who knows her well would think of such an idea. Let's go with it then.",
+            "Message_43200116": "Btw, can you not tell Astra that I'm working late tonight? I'll get an earful.",
+            "Option01_43200117": "I won't spill, but seriously you should rest...",
+            "Option02_43200117": "OK but I'll nag you on her behalf instead.",
+            "Message_43200118": "Ah, I was caught after all... Astra actually came to the office even though it's so late.",
+            "Message_43200119": "But good idea letting her try my clothes. We can swap now since no one is here.",
+            "Message_43200120": "Alright, chat again, goodnigjjhyt",
+            "Message_43200121": "Helping Astra out isn't considered working overtime right?"
+        }
+    },
+    "432002": {
+        "id": "432002",
+        "texts": {
+            "Message_43200201": "You jump, I jump.",
+            "Message_43200203": "Would you usually say that?",
+            "Option01_43200204": "No. It's hard to think of a time to use it...",
+            "Option02_43200204": "Haven't found anyone to say that classic line to...",
+            "Message_43200205": "Well, then it works. I want to establish an \"unsafe phrase\".",
+            "Message_43200206": "Like a phrase others might say but we won't. Even if we say it, no one would get its true meaning.",
+            "Message_43200207": "When we say it, we'd know the other is in trouble and can help each other out.",
+            "Message_43200208": "The phrase I'd be least likely to say is probably \"you jump I jump\".",
+            "Message_43200209": "But upon further thought, we may have to jump into a fissure together. That's quite a common occurrence.",
+            "Message_43200210": "We might just blurt out that phrase if that's the case. I need to think of another one.",
+            "Option01_43200211": "We can't make it too complicated like a spell, right?",
+            "Option02_43200211": "Gotta be something that fits into a normal convo...",
+            "Message_43200212": "Can we actually recite a spell incantation flawlessly? Plus it may sound kinda... silly.",
+            "Message_43200213": "Got any ideas?",
+            "Option01_43200214": "You're going solo?",
+            "Option02_43200214": "I'm thinking of starting my own business.",
+            "Message_43200215": "Ah, that works great. If it were {M#you}{F#you}, you'd never do that to {M#Belle}{F#Wise}.",
+            "Message_43200216": "Same goes for me.",
+            "Message_43200217": "That's just not something we'd say for sure.",
+            "Message_43200218": "Excellent idea.",
+            "Message_43200219": "Right. We can't just be reciting a poem out of the blue. It'll feel really strange."
+        }
+    },
+    "432003": {
+        "id": "432003",
+        "texts": {
+            "Message_43200301": "Hey Manager, do you have Monica's movie, \"Oh~ Sweetie\"?",
+            "Option01_43200302": "Yeah, awesome movie.",
+            "Option02_43200302": "It's a huge hit here.",
+            "Message_43200303": "Oh? Surprised to hear that, thought you'd be team Astra all the way.",
+            "Message_43200304": "Monica is Astra's biggest rival. You know that right?",
+            "Option01_43200305": "A—Are we really picking sides... Can't we like 'em both?",
+            "Option02_43200305": "As the video store manager, I gotta stay neutral.",
+            "Message_43200306": "Hah, is that so. Need me to introduce you to Monica? I can ask Astra.",
+            "Option01_43200307": "...I'm a die-hard Astranaut! Pulling Monica's movie from shelves NOW!",
+            "Option02_43200307": "I'm ditching neutrality! Get Monica off these shelves!",
+            "Message_43200308": "Glad to hear it, no need to purge Monica's movies though.",
+            "Message_43200309": "Got time soon? I need to watch Monica's movie.",
+            "Option01_43200310": "...Why do you get to watch it?!",
+            "Option02_43200310": "That's so double standard...",
+            "Message_43200311": "I'm watching it for work.",
+            "Message_43200312": "Didn't want to contribute to the rival's box office sales so I came to you instead.",
+            "Option01_43200313": "I await your arrival.",
+            "Option02_43200313": "Anything for you and Astra.",
+            "Message_43200314": "Thank you so very much.",
+            "Message_43200315": "It's just me, no Astra, sorry to disappoint.",
+            "Message_43200316": "Neutrality is a valid stance too, being able to weigh options from all sides. Smart."
+        }
+    },
+    "432004": {
+        "id": "432004",
+        "texts": {
+            "Option01_43200401": "Knock knock, do you still remember who I am?",
+            "Option02_43200401": "You busy now, Evelyn?",
+            "Message_43200402": "? I saved your number. How could I not know who you are?",
+            "Message_43200403": "I'm not the type to just delete contacts.",
+            "Message_43200404": "Or... did you delete mine?",
+            "Option01_43200405": "No way! I'm just joking around.",
+            "Option02_43200405": "It's been so long. Must've deleted me from your head, hmph.",
+            "Message_43200406": "Gotcha. I've been super busy with work. Wanted to meet up and chat for real.",
+            "Message_43200407": "I just felt like we could hang out anytime if it's you.",
+            "Message_43200408": "So I kept putting it off... till now. Sorry about that.",
+            "Option01_43200409": "I know it's cuz you care about me.",
+            "OptionLong01_43200409": "Yep. Sometimes we know and trust each other so much that we forget to check in on those important to us.",
+            "Option02_43200409": "I'm not mad. I'm the same.",
+            "OptionLong02_43200409": "I'm not mad. It's the same for me too. Sometimes I ignore the important people for the little stuff. Totally get it, Evelyn.",
+            "Message_43200410": "Awesome! So where do you wanna go?",
+            "Option01_43200411": "How about Lumina Galleria?",
+            "Option02_43200411": "What about Reverb Arena?",
+            "Message_43200412": "Shopping? I don't actually need anything.",
+            "Message_43200413": "But if you wanna shop, I'm down.",
+            "Message_43200414": "Some stores are kinda overpriced, and some designs are just... meh.",
+            "Message_43200415": "But it's been a while since I walked around, so could be fun.",
+            "Message_43200416": "I'll wait for you at the Lumina Square metro station.",
+            "Message_43200418": "Oh, speaking of it, I've been putting something off for days.",
+            "Message_43200419": "If could come with me, that'd be awesome.",
+            "Message_43200420": "I made an impulsive decision the other day.",
+            "Message_43200421": "And Reverb Arena seems the best spot to figure it out.",
+            "Option01_43200422": "Now I'm curious.",
+            "Option02_43200422": "What's going on?",
+            "Message_43200423": "Let's just meet at Reverb Arena, you'll find out then.",
+            "Message_43200425": "Ah, but that's an easy fix. I just have to add you back into my head.",
+            "Message_43200426": "Friend request sent. Please accept.",
+            "Message_43200427": "Even if you're mad, no worries. I'll keep sending requests until you accept.",
+            "Message_43200428": "Yes",
+            "Message_43200429": "What's up",
+            "Option01_43200430": "Ah... you're busy. Never mind then.",
+            "Option02_43200430": "No worries, just do your thing.",
+            "Message_43200431": "What's up",
+            "Message_43200432": "I'll reply no matter how busy I am",
+            "Message_43200433": "So what is it",
+            "Option01_43200434": "Just wanted to see if you'd wanna hang out and chat.",
+            "Option02_43200434": "Nothing specific, just felt that I haven't seen you lately.",
+            "Message_43200435": "Okay",
+            "Message_43200436": "Where"
+        }
+    },
+    "432005": {
+        "id": "432005",
+        "texts": {
+            "Option01_43200501": "Knock knock, do you still remember who I am?",
+            "Option02_43200501": "You busy now, Evelyn?",
+            "Message_43200502": "? I saved your number. How could I not know who you are?",
+            "Message_43200503": "I'm not the type to just delete contacts.",
+            "Message_43200504": "Or... did you delete mine?",
+            "Option01_43200505": "No way! I'm just joking around.",
+            "Option02_43200505": "It's been so long. Must've deleted me from your head, hmph.",
+            "Message_43200506": "Gotcha. I've been super busy with work. Wanted to meet up and chat for real.",
+            "Message_43200507": "I just felt like we could hang out anytime if it's you.",
+            "Message_43200508": "So I kept putting it off... till now. Sorry about that.",
+            "Option01_43200509": "I know it's cuz you care about me.",
+            "OptionLong01_43200509": "Yep. Sometimes we know and trust each other so much that we forget to check in on those important to us.",
+            "Option02_43200509": "I'm not mad. I'm the same.",
+            "OptionLong02_43200509": "I'm not mad. It's the same for me too. Sometimes I ignore the important people for the little stuff. Totally get it, Evelyn.",
+            "Message_43200510": "Awesome! So where do you wanna go?",
+            "Option01_43200511": "How about Gravity Cinema?",
+            "Option02_43200511": "How about Godfinger?",
+            "Message_43200512": "Catching a movie?",
+            "Message_43200513": "Feels like I'm working even when I'm off work...",
+            "Message_43200514": "I think I've seen most of the new releases.",
+            "Message_43200515": "But I heard Gravity is showing some old movies. I'm kinda interested.",
+            "Message_43200516": "You in?",
+            "Option01_43200517": "I'm in!",
+            "Option02_43200517": "No kidding, I run a video store!",
+            "Message_43200518": "That's what I thought. I'll wait for you at the Lumina Square metro station.",
+            "Message_43200520": "What's Godfinger...?",
+            "Message_43200521": "Oh I just did a quick search. It's that arcade near you, right?",
+            "Message_43200522": "Used to be a ton of those around, but you don't see them much anymore.",
+            "Message_43200523": "Yeah, I wanna go. Didn't get to enjoy them when I was a kid and I still regret it.",
+            "Message_43200524": "Let's meet at the metro station on Sixth Street.",
+            "Message_43200526": "Ah, but that's an easy fix. I just have to add you back into my head.",
+            "Message_43200527": "Friend request sent. Please accept.",
+            "Message_43200528": "Even if you're mad, no worries. I'll keep sending requests until you accept.",
+            "Message_43200529": "Yes",
+            "Message_43200530": "What's up",
+            "Option01_43200531": "Ah... you're busy. Never mind then.",
+            "Option02_43200531": "No worries, just do your thing.",
+            "Message_43200532": "What's up",
+            "Message_43200533": "I'll reply no matter how busy I am",
+            "Message_43200534": "So what is it",
+            "Option01_43200535": "Just wanted to see if you'd wanna hang out and chat.",
+            "Option02_43200535": "Nothing specific, just felt that I haven't seen you lately.",
+            "Message_43200536": "Sure",
+            "Message_43200537": "Where"
+        }
+    },
+    "432006": {
+        "id": "432006",
+        "texts": {
+            "Option01_43200601": "Must've been tough. Wanna get some fresh air?",
+            "Option02_43200601": "I feel like I'm off your VIP list now...",
+            "Message_43200602": "All that work must've been pretty suffocating. Wanna get some fresh air? \n^ I was just about to send you this",
+            "Message_43200603": "What a coincidence",
+            "Option01_43200604": "Yay! It's like we're telepathic.",
+            "Option02_43200604": "Wow, we're so in sync!",
+            "Message_43200605": "Kinda cool we both thought of the same thing.",
+            "Message_43200606": "I'm a little worn out, so can I leave the planning to you?",
+            "Option01_43200607": "How about Lumina Galleria?",
+            "Option02_43200607": "What about Reverb Arena?",
+            "Message_43200608": "Shopping? I don't actually need anything.",
+            "Message_43200609": "But if you wanna shop, I'm down.",
+            "Message_43200610": "Some stores are kinda overpriced, and some designs are just... meh.",
+            "Message_43200611": "But it's been a while since I walked around, so could be fun.",
+            "Message_43200612": "I'll wait for you at the Lumina Square metro station.",
+            "Message_43200614": "Oh, speaking of it, I've been putting something off for days.",
+            "Message_43200615": "If could come with me, that'd be awesome.",
+            "Message_43200616": "I made an impulsive decision the other day.",
+            "Message_43200617": "And Reverb Arena seems the best spot to figure it out.",
+            "Option01_43200618": "Now I'm curious.",
+            "Option02_43200618": "What's going on?",
+            "Message_43200619": "Let's just meet at Reverb Arena, you'll find out then.",
+            "Message_43200621": "Not on the VIP list to begin with",
+            "Option01_43200622": "Huhhh... Is that so?",
+            "Option02_43200622": "I guess I overestimated my importance...",
+            "Message_43200623": "You're on a more important list.",
+            "Message_43200624": "You'll always have more special privileges than some normal VIP.",
+            "Message_43200625": "Stop doubting yourself. Let's think of some fun ideas instead.",
+            "Message_43200626": "Like where to go."
+        }
+    },
+    "432007": {
+        "id": "432007",
+        "texts": {
+            "Option01_43200701": "Must've been tough. Wanna get some fresh air?",
+            "Option02_43200701": "I feel like I'm off your VIP list now...",
+            "Message_43200702": "All that work must've been pretty suffocating. Wanna get some fresh air? \n^ I was just about to send you this",
+            "Message_43200703": "What a coincidence!",
+            "Option01_43200704": "Yay! It's like we're telepathic.",
+            "Option02_43200704": "Wow, we're so in sync!",
+            "Message_43200705": "Kinda cool we both thought of the same thing.",
+            "Message_43200706": "I'm a little worn out, so can I leave the planning to you?",
+            "Option01_43200707": "How about Gravity Cinema?",
+            "Option02_43200707": "How about Godfinger?",
+            "Message_43200708": "Catching a movie?",
+            "Message_43200709": "Feels like I'm working even when I'm off work...",
+            "Message_43200710": "I think I've seen most of the new releases.",
+            "Message_43200711": "But I heard Gravity is showing some old movies. I'm kinda interested.",
+            "Message_43200712": "You in?",
+            "Option01_43200713": "I'm in!",
+            "Option02_43200713": "No kidding, I run a video store!",
+            "Message_43200714": "That's what I thought. I'll wait for you at the Lumina Square metro station.",
+            "Message_43200716": "What's Godfinger...?",
+            "Message_43200717": "Oh I just did a quick search. It's that arcade near you, right?",
+            "Message_43200718": "Used to be a ton of those around, but you don't see them much anymore.",
+            "Message_43200719": "Yeah, I wanna go. Didn't get to enjoy them when I was a kid and I still regret it.",
+            "Message_43200720": "Let's meet at the metro station on Sixth Street.",
+            "Message_43200722": "Not on the VIP list to begin with",
+            "Option01_43200723": "Huhhh... Is that so?",
+            "Option02_43200723": "I guess I overestimated my importance...",
+            "Message_43200724": "You're on a more important list.",
+            "Message_43200725": "You'll always have more special privileges than some normal VIP.",
+            "Message_43200726": "Stop doubting yourself. Let's think of some fun ideas instead.",
+            "Message_43200727": "Like where to go."
+        }
+    },
+    "432008": {
+        "id": "432008",
+        "texts": {
+            "Message_43200801": "I noticed you didn't come that day.",
+            "Message_43200802": "No worries though, I ended up buying a bunch of stuff for Astra.",
+            "Message_43200803": "Guess it was like OT for me?",
+            "Option01_43200804": "Sorry! Let's go shopping together next time.",
+            "Option02_43200804": "You should treat yourself too!",
+            "Message_43200805": "I don't really need anything. You probably have stuff you wanna buy.",
+            "Message_43200806": "Next time then.",
+            "Message_43200807": "I don't think I have anything in mind."
+        }
+    },
+    "432009": {
+        "id": "432009",
+        "texts": {
+            "Message_43200901": "You stood me up.",
+            "Message_43200902": "I get you're busy but at least message me on Knock Knock next time?",
+            "Option01_43200903": "I'm sorry.",
+            "Option02_43200903": "I messed up.",
+            "Message_43200904": "All good. No big loss for me.",
+            "Message_43200905": "Still had a good time at Reverb Arena. The show was great.",
+            "Message_43200906": "Missing out on the show was a bigger loss for you.",
+            "Message_43200907": "Let's plan something again next time."
+        }
+    },
+    "432010": {
+        "id": "432010",
+        "texts": {
+            "Message_43201001": "The movie was awesome.",
+            "Option01_43201002": "Which one...?",
+            "Option02_43201002": "What movie?",
+            "Message_43201003": "Don't you remember? We were supposed to watch it together and you ghosted me.",
+            "Option01_43201004": "{M#Belle}{F#Wise} took my phone...",
+            "Option02_43201004": "Uh that wasn't me texting...",
+            "Message_43201005": "...",
+            "Message_43201006": "I can tolerate forgetting, but lying? Nah.",
+            "Option01_43201007": "My bad!",
+            "Option02_43201007": "Won't happen again!",
+            "Message_43201008": "Good."
+        }
+    },
+    "432011": {
+        "id": "432011",
+        "texts": {
+            "Message_43201101": "I didn't see you that day.",
+            "Message_43201102": "But Astra came and we had a great time.",
+            "Option01_43201103": "Ahh? What a pity!!",
+            "Option02_43201103": "What... Astra went too?!",
+            "Message_43201104": "Regret it? Great. Now you know what happens when you stand me up.",
+            "Message_43201105": "Please don't do it again. After all, my contact list is full of important superstars of New Eridu."
+        }
+    },
     "1000001": {
         "id": "1000001",
         "texts": {
-            "Message_100000101": "null"
+            "Message_100000101": "(Temporary) A Hollow Investigative Association staff member who sends a DM to the Protagonist, saying that the Association has a lead on the whereabouts of the new Hollow and inviting the Protagonist to a meeting to discuss further."
         }
     },
     "1007001": {
@@ -7618,19 +8159,19 @@
     "2057001": {
         "id": "2057001",
         "texts": {
-            "Message_205700101": "null"
+            "Message_205700101": "Qingyi DM 1: Public Security will be coming to provide community services"
         }
     },
     "2057002": {
         "id": "2057002",
         "texts": {
-            "Message_205700201": "null"
+            "Message_205700201": "Blue-collar Worker's DM 2: We have a lead on the suspect's vehicle. Meet at the community service center"
         }
     },
     "2057003": {
         "id": "2057003",
         "texts": {
-            "Message_205700301": "null"
+            "Message_205700301": "Qingyi's private message to you: Public Security will be conducting another raid on the Hollow soon."
         }
     },
     "2057004": {
@@ -7645,19 +8186,19 @@
     "2058001": {
         "id": "2058001",
         "texts": {
-            "Message_205800101": "null"
+            "Message_205800101": "Burnice sends a message to the Protagonist, asking for help with a Proxy commission that is \"just a bit more challenging.\""
         }
     },
     "2058002": {
         "id": "2058002",
         "texts": {
-            "Message_205800201": "null"
+            "Message_205800201": "Burnice sends a message to the Proxy. She needs urgent help to talk to the Proxy face-to-face."
         }
     },
     "2058003": {
         "id": "2058003",
         "texts": {
-            "Message_205800301": "null"
+            "Message_205800301": "Burnice sends a message to the protagonist, asking the protagonist to come out and play."
         }
     },
     "3010001": {
@@ -7684,7 +8225,7 @@
     "3010021": {
         "id": "3010021",
         "texts": {
-            "Message_301002101": "How's it going, {NICKNAME}? I've been living life to the fullest lately!",
+            "Message_301002101": "Hey, {NICKNAME}~ How's it going? Enjoying the newbie Proxy life?",
             "Message_301002102": "Haha, I can feel your excitement through the phone. I get it! I was the same when I first started. Every time I got a new client, I would be so happy I could burst!",
             "Message_301002103": "I suppose you've defeated the ones on your end as well, eh?",
             "Message_301002104": "If you're free, let's meet at the cafe"
@@ -7781,9 +8322,9 @@
         "texts": {
             "Option01_100710": "Hi! Is anyone there?",
             "Message_1010212": "The reward is 50-50.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Thank you for accepting my commission!",
+            "Message_100602": "I'll always remember your kindness.",
+            "Message_991502": "See you at the store. Good luck!"
         }
     },
     "3020013": {
@@ -7804,9 +8345,9 @@
         "texts": {
             "Option01_100710": "Hi! Is anyone there?",
             "Message_1010212": "The reward is 50-50.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Thank you for accepting my commission!",
+            "Message_100602": "I'll always remember your kindness.",
+            "Message_991502": "See you at the store. Good luck!"
         }
     },
     "3020015": {
@@ -7824,9 +8365,9 @@
         "texts": {
             "Option01_100710": "Hi! Is anyone there?",
             "Message_1010212": "The reward is 50-50.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Thank you for accepting my commission!",
+            "Message_100602": "I'll always remember your kindness.",
+            "Message_991502": "See you at the store. Good luck!"
         }
     },
     "3020017": {
@@ -7834,9 +8375,9 @@
         "texts": {
             "Option01_100710": "Hi! Is anyone there?",
             "Message_1010212": "The reward is 50-50.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Thank you for accepting my commission!",
+            "Message_100602": "I'll always remember your kindness.",
+            "Message_991502": "See you at the store. Good luck!"
         }
     },
     "3020018": {
@@ -7844,9 +8385,9 @@
         "texts": {
             "Option01_100710": "Hi! Is anyone there?",
             "Message_1010212": "The reward is 50-50.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Thank you for accepting my commission!",
+            "Message_100602": "I'll always remember your kindness.",
+            "Message_991502": "See you at the store. Good luck!"
         }
     },
     "3020019": {
@@ -8071,8 +8612,8 @@
             "Option02_304000204": "You saw it, didn't you?",
             "Message_304000205": "Much more. I was right there! I'm overjoyed because I witnessed another possibility when my plans failed! And this overwhelming joy brought me right to you.",
             "Message_304000206": "Yes... I just had to greet you to praise a worthy enemy.",
-            "Option01_304000207": "Wait, you are the Butler just now?!",
-            "Option02_304000207": "Does that mean... You are the Bangboo just now?!",
+            "Option01_304000207": "Wait, you were the Butler just now?!",
+            "Option02_304000207": "Does that mean... You were that Bangboo just now?!",
             "Message_304000208": "Who knows? If you only observe with your eyes, you will always be deceived. When we meet again, perhaps I will be something even more surprising.",
             "Option01_304000209": "What do you want?",
             "Option02_304000209": "Why are you targeting the Bangboo?",
@@ -8121,6 +8662,64 @@
         "id": "3099031",
         "texts": {
             "Message_309903110": "So, remember to note down every win, every showdown with Ethereals, every stare-off with the Hollows!"
+        }
+    },
+    "3511261": {
+        "id": "3511261",
+        "texts": {
+            "Message_351126101": "Ah, Proxy, sorry for the wait! The line at the supermarket took forever! I just wrapped up here. Are you already at Lumina Square? Have you seen Bling yet?",
+            "Option01_351126102": "Yeah, I saw it. So did Nicole and the others.",
+            "Option02_351126102": "Yeah. First time witnessing a Bangboo's wallet magic.",
+            "Message_351126103": "Huh? What do you mean?",
+            "Option01_351126104": "It's... hard to explain in a few words.",
+            "Option02_351126104": "Words can't even begin to express my surprise!",
+            "Message_351126105": "Sounds like a lot happened. Should I call you?",
+            "Message_351126106": "Oh, by the way, I'm near your place right now. Where are you?",
+            "Option01_351126107": "Lumina Square, but I can head home right away.",
+            "Option02_351126107": "Perfect, wait for me at my place. I'll be right there.",
+            "Message_351126108": "Got it, see you soon!"
+        }
+    },
+    "3511262": {
+        "id": "3511262",
+        "texts": {
+            "Message_351126201": "The photo is so hard to paint.",
+            "Message_351126202": "I should have asked for Lynn's help...",
+            "Option01_351126203": "Pull yourself together!",
+            "Option02_351126203": "Come on! You can do it!",
+            "Message_351126204": "I had a good time today, though.",
+            "Message_351126205": "And I'm happy for Mr. McDunn.",
+            "Message_351126206": "By the way, it looks like you often get yourself involved in some kind of trouble. Am I the only one who sees this?",
+            "Option01_351126207": "Is this trouble?",
+            "Option02_351126207": "Maybe, haha...",
+            "Message_351126208": "I'll watch you fish next time, but don't try to teach me. I won't learn."
+        }
+    },
+    "3591261": {
+        "id": "3591261",
+        "texts": {
+            "Option01_359126101": "Evelyn, I need to ask you something",
+            "Option02_359126101": "Evelyn, you there?",
+            "Message_359126102": "Yeah, I'm here. What's up?",
+            "Option01_359126103": "We ran into Snap recently...",
+            "OptionLong01_359126103": "We recently ran into Snap at Port Elpis, who was working on some small photo commissions and seemed a bit down. Do you know what happened?",
+            "Option02_359126103": "Did anything happen to your Snap recently?",
+            "OptionLong02_359126103": "Did anything happen to your Snap recently? We ran into it at Port Elpis. It was working on some small photo commissions and seemed a bit down",
+            "Message_359126104": "Ah, that explains why its location has often been around there these days.",
+            "Message_359126105": "I think I know why, but it's hard to explain in writing.",
+            "Message_359126106": "Can you come and see me now? I'm with Miss Yao at her audition near Ballet Twins.",
+            "Message_359126107": "Let's chat in person, I'll wait for you here",
+            "Option01_359126108": "Okay, I'll be right there",
+            "Option02_359126108": "Coming!"
+        }
+    },
+    "3711261": {
+        "id": "3711261",
+        "texts": {
+            "Message_371126101": "Manager, you're back?",
+            "Option01_371126102": "Wow! How did you know that?",
+            "Option02_371126102": "Qingyi? Where are you?",
+            "Message_371126103": "Please look at the lighthouse, Manager."
         }
     },
     "4006001": {

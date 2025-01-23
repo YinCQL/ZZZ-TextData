@@ -189,12 +189,26 @@
             "card_quote": "— Several investigators besieging a Nassellaria within a Hollow",
             "skill_text": "During combat, Ionized: Nassellaria charges up attacks for a long time, shooting out high-level energy orbs to attack the enemy. Energy orbs attacked with Ether damage or a high-level attack during charge up will fall down, damaging enemies in the surrounding area."
         },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelganger - Jane",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot, Hollow Raider complaint post",
+            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, launching extremely aggressive attacks. When necessary, it can parry and counter enemy strikes, but it usually exposes a weakness after finishing its combo."
+        },
         "30023": {
             "monster_id": 30023,
             "monster_name": "Thracian",
             "card_text": "This fearsome Ethereal, named after the warrior tribes of ancient mythology, is said to be the embodiment of the most valiant heroes and the most insane villains corrupted by the Ether.\n— But that's not the case. While the chiseled muscles you developed in the Hollow and the adrenaline released in excess before death may indeed help you become a significant nuisance to your former companions, they probably won't hold it against an old friend who's already beyond saving, right?\nBut it's irrelevant. When your handsome face transforms into a dark, eerie energy orb, who cares about social reputation?\n\"No wonder he's the boss. Even as an Ethereal, he's still formidable!\"\n\"I knew something was off when he was always in the gym!\"",
             "card_quote": "— Confession screamed by a captured Hollow Raider",
             "skill_text": "During combat, Thracian will repeatedly perform specific skills to enter a charging state. While in this state, their attacks become more aggressive, and after unleashing high-level moves, they will trigger a large-scale explosion."
+        },
+        "30029": {
+            "monster_id": 30029,
+            "monster_name": "Ionized - Doppelganger",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": null
         },
         "35001": {
             "monster_id": 35001,
@@ -320,7 +334,7 @@
             "monster_name": "Notorious - Hati",
             "card_text": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
             "card_quote": "—A chat between Billy and Nicole",
-            "skill_text": null
+            "skill_text": "Monster Skill Info - Placeholder"
         },
         "200015": {
             "monster_id": 200015,
@@ -363,6 +377,27 @@
             "card_text": "Many novice Hollow Raiders who come across an Arlaune for the first time are often deceived by its appearance, mistakenly assuming it to be a harmless plant.\nHowever, upon approaching it, they discover that Arlaune release a concentrated discharge of Ether matter, catching their unsuspecting victims off guard.\n\"Huh? I tried to water it, and it spat at me?\"",
             "card_quote": "—A group of rookie investigators ambushed by an Arlaune in a Hollow",
             "skill_text": "During combat, Arlaune is extremely cunning at launching ranged attacks from a distance. However, Staggering it when its petals are wide open will build up a lot of Daze in just one shot."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelganger - Mors",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and depending on the battlefield situation, will choose between close-range combos or long-range shooting. When their health drops below a certain percentage or after a set period, they start using follow-up long-range attacks or ambush targets with blind spot shots after quickly repositioning."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelganger - Pulchra",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and maintains distance, waiting for the right moment to use physical attacks, bladeguns, and gadgets to disrupt the target. When their health drops below a certain percentage, they use unknown means to enhance their ability to dodge, allowing the dodging of all attacks from nearby targets."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelganger - Bellum",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and uses a bladegun, shield, and flamethrower to pressure the enemy at close range. If attacked while guarding with the shield, they'll respond with a powerful counterstrike. When their health drops below a certain percentage, their attacks intensify, becoming even more vicious and relentless."
         },
         "300001": {
             "monster_id": 300001,
@@ -420,6 +455,13 @@
             "card_quote": "—Hollow Investigative Association's 17th Dead End Hollow Investigation",
             "skill_text": "During combat, Newborn Dead End Butcher's attacks vary greatly. Once enough damage has been taken, phase two attacks become flurried and with the addition of laser attacks. Use a high-level skill once its combo has finished to trigger bonus Stagger. Newborn Dead End Butcher performs nimble dodges to evade enemy attacks."
         },
+        "300072": {
+            "monster_id": 300072,
+            "monster_name": "Notorious - Dead End Butcher",
+            "card_text": "Unlike other highly dangerous Ethereals, the Ether within the Dead End Butcher's body often remains in a low-activity dormant state.\nNevertheless, it possesses immense brute strength capable of demolishing any obstacle, and the entire twisted and ravaged metro zone serves as its off-limits kitchen.\nOnly when a threatening target piques its interest will a horrifying transformation take place...\nWithin moments, the high concentration of Ether stored in its body undergoes a violent transformation and the exponentially surging energy prompts its limbs to quickly distort, assuming a more brutal and voracious \"feeding stance.\nThe time for \"appetizers\" is over, and an unparalleled \"feast\" is about to begin.\nAnyone who doesn't want to be part of this feast should be extremely cautious in choosing their route, and stay away from its \"kitchen\" at all costs.\n\"The paths within the Hollows are complex, but one thing's for sure, when it appears at the end of the road, that path is a 'dead end.'\"",
+            "card_quote": "—Hollow Investigative Association's 17th Dead End Hollow Investigation",
+            "skill_text": "In combat, Notorious - Dead End Butcher can skillfully harness Ether Energy to unleash a variety of ranged attacks and alter space, creating mimetic objects."
+        },
         "300121": {
             "monster_id": 300121,
             "monster_name": "Notorious - Marionette",
@@ -432,112 +474,112 @@
             "monster_name": "Tyrfing",
             "card_text": "An enemy unit with very low ATK and HP, posing minimal threat. Typically the first enemy a new Bangboo encounters in their Bangboo Exam.",
             "card_quote": null,
-            "skill_text": "HP: 50\nATK: Medium\nDEF: 50\nMovement Speed: Slow\nThreat Level: <color=#POSITIVE_WITH_WHITE>Low</color>"
+            "skill_text": "HP: Low\nATK: Medium\nDEF: Slow\nMovement Speed: Slow\nThreat Level: <color=#31CC00>Low</color>"
         },
         "930147": {
             "monster_id": 930147,
             "monster_name": "Arlaune",
             "card_text": "A highly dangerous enemy that launches <color=#D9A600>Ranged Attacks</color>. Upon being blocked, it releases a poisonous mist, <color=#D9A600>damaging all nearby Bangboo</color>. Deploy <color=#D9A600>Kind Bangboo</color> to counter.",
             "card_quote": null,
-            "skill_text": "HP: 430\nATK: Medium\nDEF: 33\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
+            "skill_text": "HP: Medium\nATK: Medium\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
         },
         "930148": {
             "monster_id": 930148,
             "monster_name": "Ahriman",
             "card_text": "When at full HP, <color=#D9A600>its Movement Speed is very high</color> and it <color=#D9A600>cannot be blocked</color>. After taking DMG, its movement speed decreases and it can be blocked. Deploy a <color=#D9A600>Shooter Bangboo</color> to deal DMG to Ahriman as early as possible to reduce its threat.",
             "card_quote": null,
-            "skill_text": "HP: 70\nATK: Medium\nDEF: 50\nMovement Speed: Fast. Slows when attacked\nThreat Level: <color=#POSITIVE_WITH_WHITE>Low</color>"
+            "skill_text": "HP: Low\nATK: Medium\nMovement Speed: Fast, slows when attacked\nThreat Level: <color=#31CC00>Low</color>"
         },
         "930149": {
             "monster_id": 930149,
             "monster_name": "Alpeca",
             "card_text": "Alpeca can launch <color=#D9A600>Ranged Attacks</color>, and will attack Bangboo on Tactical Positions. Please pay attention to the candidates' Stamina!",
             "card_quote": null,
-            "skill_text": "HP: 100\nATK: Low\nDEF: 21\nMovement Speed: Slow\nThreat Level: <color=#POSITIVE_WITH_WHITE>Low</color>"
+            "skill_text": "HP: Low\nATK: Low\nMovement Speed: Slow\nThreat Level: <color=#31CC00>Low</color>"
         },
         "930150": {
             "monster_id": 930150,
             "monster_name": "Dullahan",
             "card_text": "A highly dangerous melee unit with <color=#D9A600>extremely high HP</color>. Deploy <color=#D9A600>Paperboo</color>, which have extremely high HP, to deal with it.",
             "card_quote": null,
-            "skill_text": "HP: 480\nATK: High\nDEF: 75\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
+            "skill_text": "HP: Medium\nATK: High\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
         },
         "930152": {
             "monster_id": 930152,
             "monster_name": "Hoplitai",
             "card_text": "Hoplitai enters the field with <color=#D9A600>very high Movement Speed</color>. They will collide with the first Bangboo they encounter, dealing <color=#D9A600>significant DMG</color>. Their Movement Speed will <color=#D9A600>significantly</color> decrease afterwards.",
             "card_quote": null,
-            "skill_text": "HP: 150\nATK: High\nDEF: 75\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: Low\nATK: High\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
         },
         "930153": {
             "monster_id": 930153,
             "monster_name": "Faun",
             "card_text": "Faun moves slowly but has a high ATK. Please pay attention to the candidates' Stamina!",
             "card_quote": null,
-            "skill_text": "HP: 140\nATK: High\nDEF: 33\nMovement SPD: Slow\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: Low\nATK: High\nMovement Speed: Slow\nThreat Level: <color=#FFAF2C>Medium</color>"
         },
         "930154": {
             "monster_id": 930154,
             "monster_name": "Blastcrawler",
             "card_text": "Blastcrawler moves quickly and will explode near Bangboo, dealing damage to <color=#D9A600>all Bangboo</color>. Deploy <color=#D9A600>Paperboo</color>, which have extremely high HP, to deal with it.",
             "card_quote": null,
-            "skill_text": "HP: 80\nATK: Low\nDEF: 13\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: Low\nATK: Low\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
         },
         "930157": {
             "monster_id": 930157,
             "monster_name": "Tyrfing",
             "card_text": "An enemy unit with very low ATK and HP, posing minimal threat. Typically the first enemy a new Bangboo encounters in their Bangboo Exam.",
             "card_quote": null,
-            "skill_text": "HP: 140\nATK: Medium\nDEF: 50\nMovement Speed: Slow\nThreat Level: <color=#POSITIVE_WITH_WHITE>Low</color>"
+            "skill_text": "HP: Low\nATK: Medium\nMovement Speed: Slow\nThreat Level: <color=#31CC00>Low</color>"
         },
         "930158": {
             "monster_id": 930158,
             "monster_name": "Arlaune",
             "card_text": "A highly dangerous enemy that launches <color=#D9A600>Ranged Attacks</color>. Upon being blocked, it releases a poisonous mist, <color=#D9A600>damaging all nearby Bangboo</color>. Deploy <color=#D9A600>Kind Bangboo</color> to counter.",
             "card_quote": null,
-            "skill_text": "HP: 1,300\nATK: Medium\nDEF: 33\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
+            "skill_text": "HP: Super High\nATK: Medium\nDEF: 33\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
         },
         "930159": {
             "monster_id": 930159,
             "monster_name": "Ahriman",
             "card_text": "When at full HP, <color=#D9A600>its Movement Speed is very high</color> and it <color=#D9A600>cannot be blocked</color>. After taking DMG, its movement speed decreases and it can now be blocked. Deploy a <color=#D9A600>Shooter Bangboo</color> to deal DMG to Ahriman as early as possible to reduce its threat.",
             "card_quote": null,
-            "skill_text": "HP: 220\nATK: Medium\nDEF: 50\nMovement Speed: Fast. Slows when attacked\nThreat Level: <color=#POSITIVE_WITH_WHITE>Low</color>"
+            "skill_text": "HP: Low\nATK: Medium\nMovement Speed: Fast, slows when attacked\nThreat Level: <color=#31CC00>Low</color>"
         },
         "930160": {
             "monster_id": 930160,
             "monster_name": "Alpeca",
             "card_text": "Alpeca can launch <color=#D9A600>Ranged Attacks</color> and will attack Bangboo on Tactical Positions. Please pay attention to the candidates' Stamina!",
             "card_quote": null,
-            "skill_text": "HP: 300\nATK: Low\nDEF: 21\nMovement Speed: Slow\nThreat Level: <color=#POSITIVE_WITH_WHITE>Low</color>"
+            "skill_text": "HP: Medium\nATK: Low\nMovement Speed: Slow\nThreat Level: <color=#31CC00>Low</color>"
         },
         "930161": {
             "monster_id": 930161,
             "monster_name": "Dullahan",
             "card_text": "A highly dangerous melee unit with <color=#D9A600>extremely high HP</color>. Deploy <color=#D9A600>Paperboo</color>, which have extremely high HP, to deal with it.",
             "card_quote": null,
-            "skill_text": "HP: 1,440\nATK: High\nDEF: 75\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
+            "skill_text": "HP: Super High\nATK: High\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
         },
         "930162": {
             "monster_id": 930162,
             "monster_name": "Hoplitai",
             "card_text": "Hoplitai enters the field with <color=#D9A600>very high Movement Speed</color>. They will collide with the first Bangboo they encounter, dealing <color=#D9A600>significant DMG</color>. Their Movement Speed will <color=#D9A600>significantly</color> decrease afterwards.",
             "card_quote": null,
-            "skill_text": "HP: 460\nATK: High\nDEF: 75\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: Medium\nATK: High\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
         },
         "930163": {
             "monster_id": 930163,
             "monster_name": "Faun",
             "card_text": "Faun moves slowly but has high ATK. Please pay attention to the candidates' Stamina!",
             "card_quote": null,
-            "skill_text": "HP: 430\nATK: High\nDEF: 33\nMovement Speed: Slow\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: Medium\nATK: High\nMovement Speed: Slow\nThreat Level: <color=#FFAF2C>Medium</color>"
         },
         "930164": {
             "monster_id": 930164,
             "monster_name": "Blastcrawler",
             "card_text": "Blastcrawler moves quickly and will explode near Bangboo, dealing damage to <color=#D9A600>all Bangboo</color>. Deploy <color=#D9A600>Paperboo</color>, which have extremely high HP, to deal with it.",
             "card_quote": null,
-            "skill_text": "HP: 230\nATK: Low\nDEF: 13\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: Low\nATK: Low\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
         }
     },
     "Thugs": {
@@ -618,6 +660,13 @@
             "card_quote": "— Somewhere in New Eridu, some Hollow Thugs are trying to convince people to join them",
             "skill_text": "During combat, Hollow Thug - Rampant Brute charges up his armor with electricity to release a high-level attack. During this time, he enters a Shocked state where his charging is interrupted and he's instantly inflicted with Disorder if any other type of Attribute Anomaly is inflicted."
         },
+        "30027": {
+            "monster_id": 30027,
+            "monster_name": "Lumberjack",
+            "card_text": "There are quite a few self-proclaimed \"master inventors\" among Hollow Raiders. Their most proficient skill is taking proper second-hand industrial materials and transforming the abandoned combat machines left by Public Security in the Hollow into not-so-proper personal creations.\nHigh-speed chainsaws, toothed circular saws, hydraulic industrial arms... After simple assembly and rough welding, these common materials are stacked together to form a rare and dangerous piece of machinery.\nTo make it run smoothly, the creator has \"thoughtfully\" removed the safety restrictions of the machine and, based on its rugged appearance, named it the Lumberjack.\nNo one knows how long the Lumberjack can run stably.\nPerhaps, at any moment, it could suddenly go berserk, swinging its high-speed rotating chainsaw and spikes with unmatched horsepower, launching an unstoppable logging fest that no one dares to stop.\nBut... this near-mad combat mode might just be the best modification outcome the creator had in mind.\n\"Why call it a 'Lumberjack'? There's no wood to chop in the Hollow, right?\"\n\"Yeah, that's why it's so angry. When it starts up, it's reckless...\"",
+            "card_quote": "— In the Hollow, a few Hollow Raiders are discussing the operating principles of the Lumberjack.",
+            "skill_text": "In combat, the Lumberjack constantly shifts its chainsaw's form to perform fluid combos, using its mounted wheels for swift movement. When enemies are out of reach, it fires saw blades to chase them down from a distance."
+        },
         "100151": {
             "monster_id": 100151,
             "monster_name": "Looter",
@@ -666,36 +715,15 @@
             "card_text": "There is a consensus within the New Eridu underworld that the most formidable fighters are not the champions of the ring, but rather the Bulky Enforcers and Wanted Enforcers lurking in the depths of the Hollow. These professional thugs are hired by Ether thieves at high prices to protect their illegally excavated Ether resources.\nBeing ardent boxing enthusiasts, Bulky Enforcers have modified high-voltage stun guns into boxing gloves, augmenting the destructive power of their punches.\nTo them, Ethereals, Hollow Raiders, Hollow investigators, and even scattered members of Public Security... are not seen as opponents but merely as \"training sandbags\" for their personal amusement.\n\"Wait a minute! I think I've seen this guy's fighting stance in the arcade on Fourth Street!\"",
             "card_quote": "—Billy dealing with a charging thug in a Hollow",
             "skill_text": "During combat, Troublemaker - Wanted Enforcer is extremely aggressive, using nimble sidesteps to shake up the angle of attack."
-        },
-        "200231": {
-            "monster_id": 200231,
-            "monster_name": "Doppelganger - Mors",
-            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
-            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
-            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and depending on the battlefield situation, will choose between close-range combos or long-range shooting. When their health drops below a certain percentage or after a set period, they start using follow-up long-range attacks or ambush targets with blind spot shots after quickly repositioning."
-        },
-        "200241": {
-            "monster_id": 200241,
-            "monster_name": "Doppelganger - Pulchra",
-            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
-            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
-            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and maintains distance, waiting for the right moment to use physical attacks, bladeguns, and gadgets to disrupt the target. When their health drops below a certain percentage, they use unknown means to enhance their ability to dodge, allowing the dodging of all attacks from nearby targets."
-        },
-        "200251": {
-            "monster_id": 200251,
-            "monster_name": "Doppelganger - Bellum",
-            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
-            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
-            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, and uses a bladegun, shield, and flamethrower to pressure the enemy at close range. If attacked while guarding with the shield, they'll respond with a powerful counterstrike. When their health drops below a certain percentage, their attacks intensify, becoming even more vicious and relentless."
         }
     },
     "Corrupted": {
         "10021": {
             "monster_id": 10021,
             "monster_name": "Raven UAV",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Unknown",
+            "card_quote": "None",
+            "skill_text": "Monster Skill Info - Placeholder"
         },
         "30009": {
             "monster_id": 30009,
@@ -714,9 +742,9 @@
         "100211": {
             "monster_id": 100211,
             "monster_name": "Raven UAV - Activated",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Unknown",
+            "card_quote": "None",
+            "skill_text": "Monster Skill Info - Placeholder"
         },
         "100271": {
             "monster_id": 100271,
@@ -765,21 +793,21 @@
             "monster_name": "Vicious Striker",
             "card_text": "Vicious Striker <color=#FFAF2C>has high HP</color>. Focus your fire on them.",
             "card_quote": null,
-            "skill_text": "HP: 240\nATK: Medium\nDEF: 50\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: Low\nATK: Medium\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
         },
         "930156": {
             "monster_id": 930156,
             "monster_name": "Vicious Striker",
             "card_text": "Vicious Striker <color=#D9A600>has high HP</color>. Focus your fire on them.",
             "card_quote": null,
-            "skill_text": "HP: 240\nATK: Medium\nDEF: 50\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: Medium\nATK: Medium\nDEF: 50\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
         },
         "930165": {
             "monster_id": 930165,
             "monster_name": "Vicious Striker",
             "card_text": "Vicious Striker <color=#FFAF2C>has high HP</color>. Focus your fire on them.",
             "card_quote": null,
-            "skill_text": "HP: 720\nATK: Medium\nDEF: 50\nMovement Speed: Slow\nThreat Level: <color=#FFAF2C>Medium</color>"
+            "skill_text": "HP: High\nATK: Medium\nMovement Speed: Slow\nThreat Level: <color=#FFAF2C>Medium</color>"
         }
     },
     "Public Security": {
@@ -787,21 +815,21 @@
             "monster_id": 10010,
             "monster_name": "Unknown Unit",
             "card_text": "Unknown unit. Further investigation is needed.",
-            "card_quote": null,
+            "card_quote": "None",
             "skill_text": "???"
         },
         "10011": {
             "monster_id": 10011,
             "monster_name": "Unknown Unit",
             "card_text": "Unknown unit. Further investigation is needed.",
-            "card_quote": null,
+            "card_quote": "None",
             "skill_text": "???"
         },
         "10012": {
             "monster_id": 10012,
             "monster_name": "Unknown Unit",
             "card_text": "Unknown unit. Further investigation is needed.",
-            "card_quote": null,
+            "card_quote": "None",
             "skill_text": "???"
         },
         "20006": {
@@ -882,6 +910,13 @@
             "card_text": "As a heavy mech, the Typhon Challenger is devoid of any added long-range firepower; instead, its focus is on its Ether-Kinetic Armor.\nImpact attacks, heavy blows, crushing... The Typhon Challenger employs simple yet efficient tactical maneuvers to maximize the destructive power afforded to it by its Ether-Kinetic Armor. The shockwave effects from its strikes can even intimidate larger Ethereals...\nEven the most seasoned Hollow Raiders can only let out a sigh of helplessness when confronted with the impenetrable Typhon Challenger.\n\"The tall and robust physique, powerful and sturdy arms... It's my ideal type... I mean, ideal model.\"",
             "card_quote": "—Grace playing with a model of Typhon Challenger at the gadget store",
             "skill_text": "During combat, Autonomous Tactical Unit - Typhon Challenger performs powerful combos and sometimes also leaps into the air to launch a clobbering blow."
+        },
+        "30026": {
+            "monster_id": 30026,
+            "monster_name": "Terror Raptor",
+            "card_text": "A veteran of countless battles, the Terror Raptor is New Eridu's most trusted weapon of war. Designed for a perfect balance of brutal melee and devastating ranged firepower, it delivers destruction with every charge, stomp, and strike. Armed with multi-missile launchers and rapid-fire guns, it dominates both close and distant combat. From leaping assaults to explosive barrages and swift aerial retreats, the Raptor adapts to any battlefield with ease. Its relentless attacks leave enemies no room to fight back, embodying both unstoppable power and overwhelming fear.\n\"Terror Raptor was the symbol of that era.\"",
+            "card_quote": "— As written in \"The Battle of the Old Capital: Truth and Memories\"",
+            "skill_text": "In combat, the Terror Raptor relies on its agile, powerful mechanical legs for close-range attacks while unleashing a barrage of ranged weapons to suppress its enemy. Use Defensive Assists to rebound its missiles back, leaving the Terror Raptor temporarily paralyzed."
         },
         "100051": {
             "monster_id": 100051,
@@ -1011,13 +1046,6 @@
             "card_quote": "—The chosen intelligent machine, Friday",
             "skill_text": "During combat, Friday creates an extremely large shockwave attack which is difficult to escape, but can be negated by Defensive Assist. If his legs get damaged, he can become Impaired, building up significant Daze in one shot."
         },
-        "30020": {
-            "monster_id": 30020,
-            "monster_name": "Doppelganger - Jane",
-            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
-            "card_quote": "— Inter-Knot, Hollow Raider complaint post",
-            "skill_text": "During combat, this enemy performs attacks that perfectly mimic those of its target, launching extremely aggressive attacks. When necessary, it can parry and counter enemy strikes, but it usually exposes a weakness after finishing its combo."
-        },
         "30022": {
             "monster_id": 30022,
             "monster_name": "Jane Doe",
@@ -1038,6 +1066,13 @@
             "card_text": "Ether is a greedy, insatiable parasite, a vicious creature that devours once-vibrant lives.\nThe Hitchspiker is an even more malicious incarnation of Ether — dwelling within the bodies of its cruel counterparts, it enables Tyrfing and Alpeca to satisfy the voracious appetites of the Hollows in an even more ferocious manner.\n\"Get away from my face!\"",
             "card_quote": "—An Ethereal Ecologist, realizing that this is just a very jumpy bug",
             "skill_text": "In combat, Hitchspiker will continue to roam, searching for any Tyrfing and Alpeca that can be parasitized."
+        },
+        "30028": {
+            "monster_id": 30028,
+            "monster_name": "Security Operative",
+            "card_text": "These Security Operatives may look like ordinary security personnel, but don't be fooled — they're packing a whole arsenal of secret skills. Their job isn't just to stand at the door and look intimidating. They're the ones who step in when the boss has had one too many drinks, or who handle petty troublemakers with a cool \"I've seen it all before\" expression. Their mission isn't to fight crime — it's to keep the boss from falling over, fix the elevator at the entrance, and, above all, stay under the radar. In their world, the most powerful weapon is \"looking like a total badass,\" and the best outcome is \"having nothing to do.\" After all, a great Security Operative is someone you don't even notice — until the problem's solved and people realize, \"Oh, they were here the whole time.\"\n\"If you can stand steady enough, no one's tougher than you.\"",
+            "card_quote": "— Written by a veteran security guard on the front page of the Security Personnel Operations Manual",
+            "skill_text": "In combat, Security Operatives use a variety of weapons to attack and coordinate with each other when necessary."
         },
         "100231": {
             "monster_id": 100231,
@@ -1093,7 +1128,7 @@
             "monster_name": "Golden Bangboo",
             "card_text": "The Golden Bangboo <color=#D9A600>has very high Movement Speed and HP</color> but does not attack your Bangboo. Defeat one, and <color=#D9A600>something good might happen</color>.",
             "card_quote": null,
-            "skill_text": "HP: 960\nATK: Medium\nDEF: 50\nMovement Speed: Fast\nThreat Level: <color=#FF3333>High</color>"
+            "skill_text": "HP: High\nATK: Medium\nMovement Speed: Fast\nThreat Level: <color=#FF3333>High</color>"
         }
     }
 }

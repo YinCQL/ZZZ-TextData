@@ -1075,7 +1075,7 @@
             {
                 "talent_id": "2",
                 "Burnice_Talent_02_Title": "Tăng Lượng Không Tăng Giá",
-                "Burnice_Talent_02_Desc_01_Realign": "Khi kích hoạt hiệu quả <color=#FFFFFF>Tro Tàn</color>, sẽ thi triển <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> lên kẻ địch, tối đa dồn 5 tầng, duy trì 6s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì. Khi bị phe ta tấn công, mỗi tầng <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> mà mục tiêu có sẽ khiến Tỷ Lệ Xuyên Giáp của tấn công lần này tăng 4%, tối đa tăng 20%.",
+                "Burnice_Talent_02_Desc_01_Realign": "Khi kích hoạt hiệu quả <color=#FFFFFF>Tro Tàn</color>, sẽ thi triển <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> lên kẻ địch, tối đa dồn 5 tầng, duy trì 6s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì.\nKhi bị phe ta tấn công, mỗi tầng <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> mà mục tiêu có sẽ khiến Tỷ Lệ Xuyên Giáp của tấn công lần này tăng 4%, tối đa tăng 20%.",
                 "Burnice_Talent_02_Desc_02": "Là một thợ pha chế của Những Đứa Con Của Calydon, Burnice rất vui vẻ khi pha chế món Nitro-Fuel ngon nhất New Eridu cho tất cả bạn bè của mình.\nĐương nhiên, nếu như bạn là \"kẻ địch\" của cô ấy... thì sẽ có cơ hội được thưởng thức món đồ uống với hương vị độc đáo chưa từng có.\n\"Là hương vị tuyệt hảo mà cả đời chỉ được uống một lần thôi đó!\"",
                 "Burnice_Talent_02_Desc_01": "Khi kích hoạt hiệu quả <color=#FFFFFF>Tro Tàn</color>, sẽ thi triển <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> lên kẻ địch, tối đa dồn 5 tầng, duy trì 6s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì. Khi bị phe ta tấn công, mỗi tầng <color=#FFFFFF>Ý Nhiệt Xuyên Thấu</color> mà mục tiêu có sẽ khiến Tỷ Lệ Xuyên Giáp của tấn công lần này tăng 4%, tối đa tăng 20%.",
                 "Burnice_Talent_02_Title_Realign": "Tăng Lượng Không Tăng Giá"
@@ -1374,6 +1374,112 @@
                 "Yanagi_Talent_06_Desc_02": "Trong cơ thể của Tsukishiro Yanagi có một phần dòng máu không thuộc về cô ấy.\nDòng máu này đã từng giúp cô có lại cuộc đời trong hoàn cảnh tuyệt vọng, và cũng nhờ đó mà có một số sức mạnh đặc biệt.\n\"Nhưng bạn biết đấy, những thứ không thuộc về mình... rồi sẽ phải trả giá.\"",
                 "Yanagi_Talent_06_Desc_01": "Sau khi phát động đòn đâm nhanh trong <color=#FFFFFF>Siêu Chiến Kỹ</color>, thời gian duy trì của trạng thái <color=#FFFFFF>Shinrabanshou</color> tăng đến 30s. Trong thời gian duy trì trạng thái, sát thương do <color=#FFFFFF>Siêu Chiến Kỹ</color> gây ra tăng 20%. Trong <color=#FFFFFF>Khả Năng Thích Ứng Siêu Việt</color>, giới hạn số lần kích hoạt hiệu quả tăng thêm bội số sát thương của <color=#FFFFFF>Hỗn Loạn Phân Cực</color> tăng đến 4 lần, trong 4 lần đầu phát động thêm tấn công đâm nhanh sẽ giảm một nửa tiêu hao Năng Lượng.",
                 "Yanagi_Talent_06_Title_Realign": "Dòng Máu Phi Nhân Loại"
+            }
+        ]
+    },
+    "1311": {
+        "role_id": 1311,
+        "name": "Astra Yao",
+        "full_name": "Astra Yao",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Astra_Talent_01_Title": "Mười Hai Bán Cung Bình Quân Luật",
+                "Astra_Talent_01_Desc_01_Realign": "Khi Astra Yao tấn công trúng kẻ địch, mục tiêu sẽ giảm 6% Kháng DMG tất cả thuộc tính, tối đa dồn 3 tầng, duy trì 30s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì.\nKhi vào sân, Astra Yao lập tức nhận 1000 điểm Decibel.\nKhi phát động <color=#FFFFFF>Tuyệt Kỹ</color>, mỗi thành viên trong đội nhận 1 tầng hiệu quả <color=#FFFFFF>Âm Điệu Bảo Hộ</color>, duy trì 60s. Khi bị phe địch tấn công, sẽ tiêu hao <color=#FFFFFF>Âm Điệu Bảo Hộ</color> và nhận hiệu quả Vô Địch, duy trì 1s.",
+                "Astra_Talent_01_Desc_02": "\"Cô ơi cô ơi, 12 bán cung bình quân luật là gì ạ?\"\n\"Mười hai bán cung bình quân luật là một loại hệ thống quy luật trong âm nhạc, cũng giống như các bạn nhỏ phải đứng xếp hàng, thì âm thanh cũng phải xếp hàng.\"\n\"Âm thanh đó nhất định cũng giống như các bạn nhỏ, không thích xếp hàng đâu!\"\n— Giáo viên dạy nhạc cho Astra lúc cô 6 tuổi, đã nhớ lại sau khi cô thành danh.",
+                "Astra_Talent_01_Desc_01": "Khi Astra Yao tấn công trúng kẻ địch, mục tiêu sẽ giảm 6% Kháng DMG tất cả thuộc tính, tối đa dồn 3 tầng, duy trì 30s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì. Khi vào sân, Astra Yao lập tức nhận 1000 điểm Decibel. Khi phát động <color=#FFFFFF>Tuyệt Kỹ</color>, mỗi thành viên trong đội nhận 1 tầng hiệu quả <color=#FFFFFF>Âm Điệu Bảo Hộ</color>, duy trì 60s. Khi bị phe địch tấn công, sẽ tiêu hao <color=#FFFFFF>Âm Điệu Bảo Hộ</color> và nhận hiệu quả Vô Địch, duy trì 1s.",
+                "Astra_Talent_01_Title_Realign": "Mười Hai Bán Cung Bình Quân Luật"
+            },
+            {
+                "talent_id": "2",
+                "Astra_Talent_02_Title": "Nghệ Thuật Tham Lam",
+                "Astra_Talent_02_Desc_01_Realign": "Hiệu quả tăng tấn công trong <color=#FFFFFF>Bị Động Cốt Lõi: Nhịp Điệu Thong Thả</color> tăng thêm 19%, giới hạn tăng thêm 400 điểm.\nTrong trạng thái <color=#FFFFFF>Độc Tấu Tự Do</color>, khi nhân vật khác trong đội vào sân thông qua <color=#FFFFFF>Hỗ Trợ Nhanh</color>, <color=#FFFFFF>Liên Kích</color>, <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color> hoặc <color=#FFFFFF>Hỗ Trợ Né Tránh</color>, Astra Yao sẽ tăng cường thi triển thêm 1 <color=#FFFFFF>Chấn Âm</color> và 3 <color=#FFFFFF>Chùm Nốt</color> để tấn công, trong 3s tối đa kích hoạt một lần.",
+                "Astra_Talent_02_Desc_02": "\"Thứ lấp lánh nhất trên thế giới này, đương nhiên là tình yêu!\"\nCũng giống như chú chim nhỏ đang xây tổ, sẽ muốn thu thập những thứ lấp lánh. Còn một chút lòng tham nhỏ bé trong lòng người nghệ sĩ, đó chính là thu thập tất cả tình yêu trên thế giới này, phải không? Chỉ cần tập hợp tất cả tình yêu lại với nhau, thì sẽ có thể sáng tác ra giai điệu lay động lòng người nhất.",
+                "Astra_Talent_02_Desc_01": "Hiệu quả tăng tấn công trong <color=#FFFFFF>Bị Động Cốt Lõi: Nhịp Điệu Thong Thả</color> tăng thêm 19%, giới hạn tăng thêm 400 điểm. Trong trạng thái <color=#FFFFFF>Độc Tấu Tự Do</color>, khi nhân vật khác trong đội vào sân thông qua <color=#FFFFFF>Hỗ Trợ Nhanh</color>, <color=#FFFFFF>Liên Kích</color>, <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color> hoặc <color=#FFFFFF>Hỗ Trợ Né Tránh</color>, Astra Yao sẽ tăng cường thi triển thêm 1 <color=#FFFFFF>Chấn Âm</color> và 3 <color=#FFFFFF>Chùm Nốt</color> để tấn công, trong 3s tối đa kích hoạt một lần.",
+                "Astra_Talent_02_Title_Realign": "Nghệ Thuật Tham Lam"
+            },
+            {
+                "talent_id": "3",
+                "Astra_Talent_03_Title": "Khuông Nhạc Giao Thoa",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Astra_Talent_03_Desc_02": "Một khuông nhạc trống không, là những đường thẳng song song không bao giờ giao nhau, giống như những tâm hồn chưa từng gặp gỡ, lặng lẽ chờ đợi giai điệu của nhau đan xen thành một khúc nhạc.\n\"Vậy hãy dùng nốt nhạc để lấp đầy nó là được! Còn phải là rất nhiều rất nhiều nốt liên âm, sẽ là một khúc nhạc rất tuyệt nhỉ?\"\nCứ như vậy, đã sáng tác ra một bài hát mới từ đầu đến cuối dùng nốt liên âm đi qua 136 ô nhịp...",
+                "Astra_Talent_03_Title_Realign": "Khuông Nhạc Giao Thoa"
+            },
+            {
+                "talent_id": "4",
+                "Astra_Talent_04_Title": "\"Đuôi Tóc Sau Gáy\"",
+                "Astra_Talent_04_Desc_01_Realign": "Sau khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, trong 15s, Astra Yao chưa có <color=#FFFFFF>Hợp Âm</color> cũng có thể kích hoạt <color=#FFFFFF>Hỗ Trợ Nhanh</color>, và thời gian giãn cách kích hoạt <color=#FFFFFF>Hỗ Trợ Nhanh</color> khi tấn công đánh trúng kẻ địch cũng rút ngắn còn 1s.\nTrong trạng thái <color=#FFFFFF>Độc Tấu Tự Do</color>, khi nhân vật khác trong đội vào sân thông qua <color=#FFFFFF>Hỗ Trợ Nhanh</color>, sẽ căn cứ đặc tính của bản thân để nhận được hiệu quả buff khác nhau, trong 3s toàn đội tối đa kích hoạt một lần:\n<color=#FFFFFF>[Tiên Phong]</color>: Lần sau <color=#FFFFFF>Hỗ Trợ Nhanh</color> trọng kích đánh trúng kẻ địch, sẽ tạo thêm sát thương bằng 300% tấn công của Astra Yao.\n<color=#FFFFFF>[Dị Thường]</color>: Lần sau <color=#FFFFFF>Hỗ Trợ Nhanh</color> tăng 50% Chỉ Số Tích Lũy Dị Thường tích lũy.\n<color=#FFFFFF>[Khống Chế]</color>: Lần sau <color=#FFFFFF>Hỗ Trợ Nhanh</color> tăng 50% Điểm Choáng gây ra.",
+                "Astra_Talent_04_Desc_02": "Một bàn tay lơ lửng trên phím đàn\nKhông biết nên nhấn phím nào\nLà một nốt bi thương\nHay là giai điệu đầy vấn vương?\nTìm kiếm hình bóng bạn giữa những nốt nhạc\nNhắm mắt lại, tôi đã nhìn thấy\nĐuôi tóc phía sau gáy của bạn",
+                "Astra_Talent_04_Desc_01": "Sau khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, trong 15s, Astra Yao chưa có <color=#FFFFFF>Hợp Âm</color> cũng có thể kích hoạt <color=#FFFFFF>Hỗ Trợ Nhanh</color>, và thời gian giãn cách kích hoạt <color=#FFFFFF>Hỗ Trợ Nhanh</color> khi tấn công đánh trúng kẻ địch cũng rút ngắn còn 1s. Trong trạng thái <color=#FFFFFF>Độc Tấu Tự Do</color>, khi nhân vật khác trong đội vào sân thông qua <color=#FFFFFF>Hỗ Trợ Nhanh</color>, sẽ căn cứ đặc tính của bản thân để nhận được hiệu quả buff khác nhau, trong 3s toàn đội tối đa kích hoạt một lần: <color=#FFFFFF>[Tiên Phong]</color>: Lần sau <color=#FFFFFF>Hỗ Trợ Nhanh</color> trọng kích đánh trúng kẻ địch, sẽ tạo thêm sát thương bằng 300% tấn công của Astra Yao; <color=#FFFFFF>[Dị Thường]</color>: Lần sau <color=#FFFFFF>Hỗ Trợ Nhanh</color> tăng 50% Chỉ Số Tích Lũy Dị Thường tích lũy; <color=#FFFFFF>[Khống Chế]</color>: Lần sau <color=#FFFFFF>Hỗ Trợ Nhanh</color> tăng 50% Điểm Choáng gây ra.",
+                "Astra_Talent_04_Title_Realign": "\"Đuôi Tóc Sau Gáy\""
+            },
+            {
+                "talent_id": "5",
+                "Astra_Talent_05_Title": "Người Kết Nối Và Dây Đàn",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Astra_Talent_05_Desc_02": "\"Eve! Tôi có một phát hiện quan trọng — Eve và {M#Wise}{F#Belle} có một đặc điểm chung!\"\n\"...Điểm chung này là gì?\"\n\"Cả hai đều là những người mà tôi thích nhất!\"\nAstra vui vẻ và tươi sáng, cứ như vừa phát hiện ra điều cơ mật gì ghê gớm lắm.",
+                "Astra_Talent_05_Title_Realign": "Người Kết Nối Và Dây Đàn"
+            },
+            {
+                "talent_id": "6",
+                "Astra_Talent_06_Title": "Chúng Ta Là Thế Giới",
+                "Astra_Talent_06_Desc_01_Realign": "Bội số sát thương của <color=#FFFFFF>Chấn Âm</color> và <color=#FFFFFF>Chùm Nốt</color> được thi triển và tăng cường thi triển trong trạng thái <color=#FFFFFF>Độc Tấu Tự Do</color> sẽ tăng đến 200% so với ban đầu, Tỷ Lệ Bạo Kích tăng 80%.\nKhi kích hoạt <color=#FFFFFF>Chi Viện Chính Xác</color>, Astra Yao sẽ tự phát động thêm đòn 3 của <color=#FFFFFF>Tấn Công Thường: Khúc Ngẫu Hứng</color> đã tụ lực hoàn tất, đồng thời tăng 80% Tỷ Lệ Bạo Kích của chiêu thức này, trong 10s tối đa kích hoạt một lần.",
+                "Astra_Talent_06_Desc_02": "Những điều rối ren trên thế giới, đều bắt nguồn từ sự cô đơn trong lòng người. Nếu như trái tim mỗi người đều có thể nhận được hồi âm, liệu những khổ đau, bi thương, trầm mặc của thế giới này có thể được xóa sạch hết không?\nNếu có thể dùng tiếng hát thêu dệt nên sự liên kết này, liệu tất cả vết thương có được chữa lành, tất cả nỗi đau có hóa thành giai điệu du dương, vang lên phá tan sự tĩnh lặng không? Đến lúc đó, cả thế giới sẽ không còn hòn đảo cô độc nào nữa.\n\"Bài hát này, xin hát tặng cho thế giới này!\"",
+                "Astra_Talent_06_Desc_01": "Bội số sát thương của <color=#FFFFFF>Chấn Âm</color> và <color=#FFFFFF>Chùm Nốt</color> được thi triển và tăng cường thi triển trong trạng thái <color=#FFFFFF>Độc Tấu Tự Do</color> sẽ tăng đến 200% so với ban đầu, Tỷ Lệ Bạo Kích tăng 80%. Khi kích hoạt <color=#FFFFFF>Chi Viện Chính Xác</color>, Astra Yao sẽ tự phát động thêm đòn 3 của <color=#FFFFFF>Tấn Công Thường: Khúc Ngẫu Hứng</color> đã tụ lực hoàn tất, đồng thời tăng 80% Tỷ Lệ Bạo Kích của chiêu thức này, trong 10s tối đa kích hoạt một lần.",
+                "Astra_Talent_06_Title_Realign": "Chúng Ta Là Thế Giới"
+            }
+        ]
+    },
+    "1321": {
+        "role_id": 1321,
+        "name": "Evelyn",
+        "full_name": "Evelyn Chevalier",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Evelyn_Talent_01_Title": "Dệt Mộng",
+                "Evelyn_Talent_01_Desc_01_Realign": "Khi vào trận, Evelyn lập tức nhận 1500 điểm Decibel.\nSau khi kẻ địch vào trạng thái <color=#FFFFFF>Trói Buộc Cấm Túc</color>, sẽ bị gán hiệu quả <color=#FFFFFF>Giam Cầm</color>.\nKhi Evelyn tấn công kẻ địch có hiệu quả <color=#FFFFFF>Giam Cầm</color>, sẽ bỏ qua 12% Phòng Thủ của mục tiêu.\nKhi Evelyn phát động <color=#FFFFFF>Chiến Kỹ: Kiểu Chùm Dây - I</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ: Kiểu Chùm Dây - Cuối</color>, khuếch tán hiệu quả <color=#FFFFFF>Giam Cầm</color> lên tất cả kẻ địch bị trúng đòn, hiệu quả <color=#FFFFFF>Giam Cầm</color> khuếch tán sẽ duy trì 10s.",
+                "Evelyn_Talent_01_Desc_02": "Ánh sáng mờ ảo phía xa xa, dường như là giấc mộng do cô dệt nên, một tương lai không thể nào chạm đến. Đó không phải là để chuộc tội, mà là khát vọng tự do.\n\"Quả nhiên cô cũng muốn có phải không? Một cuộc sống đúng nghĩa.\" — Một đồng nghiệp cũ giấu tên đã từng nói với Evelyn như vậy.",
+                "Evelyn_Talent_01_Desc_01": "Khi vào trận, Evelyn lập tức nhận 1500 điểm Decibel. Sau khi kẻ địch vào trạng thái <color=#FFFFFF>Trói Buộc Cấm Túc</color>, sẽ bị gán hiệu quả <color=#FFFFFF>Giam Cầm</color>. Khi Evelyn tấn công kẻ địch có hiệu quả <color=#FFFFFF>Giam Cầm</color>, sẽ bỏ qua 12% Phòng Thủ của mục tiêu. Khi Evelyn phát động <color=#FFFFFF>Chiến Kỹ: Kiểu Chùm Dây - I</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ: Kiểu Chùm Dây - Cuối</color>, khuếch tán hiệu quả <color=#FFFFFF>Giam Cầm</color> lên tất cả kẻ địch bị trúng đòn, hiệu quả <color=#FFFFFF>Giam Cầm</color> khuếch tán sẽ duy trì 10s.",
+                "Evelyn_Talent_01_Title_Realign": "Dệt Mộng"
+            },
+            {
+                "talent_id": "2",
+                "Evelyn_Talent_02_Title": "Vũ Điệu Lửa Thiêu",
+                "Evelyn_Talent_02_Desc_01_Realign": "Evelyn tăng 15% tấn công.\nKhi Evelyn phát động <color=#FFFFFF>Tấn Công Thường: Kiểu Siết Dây I</color> hoặc <color=#FFFFFF>Tấn Công Thường: Kiểu Siết Dây II</color>, sẽ hoàn trả <color=#FFFFFF>Lửa Lan</color> đã tiêu hao, trong 25s tối đa kích hoạt một lần.\nKhi Evelyn tiêu hao <color=#FFFFFF>Điểm Dây Lửa</color> phát động <color=#FFFFFF>Liên Kích: Tơ Ánh Trăng - Trói</color>, chiêu thức sẽ tăng cấp Gián Đoạn.",
+                "Evelyn_Talent_02_Desc_02": "\"Đối với tôi, ánh sáng đó khá là lạ lẫm, tôi vốn dĩ nên tránh xa, nhưng nó lại xuyên qua tất cả mọi phòng tuyến, như thể muốn nhắc nhở tôi, bên ngoài bóng tối còn có thứ gì đó đáng để theo đuổi.\"\nNhớ lại lần đầu tiên khi gặp Astra, trong giọng nói của Evelyn dường như mang chút dịu dàng hiếm thấy.",
+                "Evelyn_Talent_02_Desc_01": "Evelyn tăng 15% tấn công. Khi Evelyn phát động <color=#FFFFFF>Tấn Công Thường: Kiểu Siết Dây I</color> hoặc <color=#FFFFFF>Tấn Công Thường: Kiểu Siết Dây II</color>, sẽ hoàn trả <color=#FFFFFF>Lửa Lan</color> đã tiêu hao, trong 25s tối đa kích hoạt một lần. Khi Evelyn tiêu hao <color=#FFFFFF>Điểm Dây Lửa</color> phát động <color=#FFFFFF>Liên Kích: Tơ Ánh Trăng - Trói</color>, chiêu thức sẽ tăng cấp Gián Đoạn.",
+                "Evelyn_Talent_02_Title_Realign": "Vũ Điệu Lửa Thiêu"
+            },
+            {
+                "talent_id": "3",
+                "Evelyn_Talent_03_Title": "Phá Kén",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Evelyn_Talent_03_Desc_02": "Khoảnh khắc đó, cô ấy thoát khỏi sự giam cầm, thật sự trở thành chính mình.\nSợi dây kéo căng đã đứt đoạn, xiềng xích ngày nào cũng đã hóa thành chiếc kén vỡ tan. Đứng ở ranh giới của một cuộc sống mới, trong ánh mắt sắc lạnh của Evelyn, một tia sáng nhẹ nhàng như ẩn như hiện.",
+                "Evelyn_Talent_03_Title_Realign": "Phá Kén"
+            },
+            {
+                "talent_id": "4",
+                "Evelyn_Talent_04_Title": "Giai Điệu Của Vận Mệnh",
+                "Evelyn_Talent_04_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, Evelyn lập tức nhận được khiên bằng 10% giới hạn HP của bản thân.\nKhi có khiên này, Evelyn sẽ tăng 40% DMG Bạo Kích.",
+                "Evelyn_Talent_04_Desc_02": "\"Eve, cô biết không? Mỗi lần gặp phải người vô cùng quan trọng trong đời mình, thì tim tôi sẽ vang lên tiếng \"thình thịch!\" như thế đó~\"\nEvelyn thở dài tỏ ý đã không còn sớm nữa, Astra vội vã kéo vạt áo phía sau của bộ lễ phục, đẩy cửa bước ra ngoài.\n\"...Thình thịch.\" Evelyn khẽ lặp lại một lần khi còn lại mình cô ở trong phòng hóa trang.",
+                "Evelyn_Talent_04_Desc_01": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, Evelyn lập tức nhận được khiên bằng 10% giới hạn HP của bản thân. Khi có khiên này, Evelyn sẽ tăng 40% DMG Bạo Kích.",
+                "Evelyn_Talent_04_Title_Realign": "Giai Điệu Của Vận Mệnh"
+            },
+            {
+                "talent_id": "5",
+                "Evelyn_Talent_05_Title": "Tơ Đỏ Tựa Ráng Chiều",
+                "Common_Talent_Desc": "Cấp kỹ năng <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Né</color>, <color=#FFFFFF>Kỹ Năng Chi Viện</color>, <color=#FFFFFF>Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> +2",
+                "Evelyn_Talent_05_Desc_02": "Đường tơ của cô ấy, giống như áng mây chiều bị tia nắng ban mai nhuộm đỏ.\nSau mỗi lần tấn công, cô xoay người một cách thật ung dung, những đốm lửa rơi xuống như ánh hoàng hôn. Không cần phải dùng từ ngữ diễn đạt, Evelyn từ lâu đã xem việc bảo vệ như ánh hào quang của ngọn lửa.",
+                "Evelyn_Talent_05_Title_Realign": "Tơ Đỏ Tựa Ráng Chiều"
+            },
+            {
+                "talent_id": "6",
+                "Evelyn_Talent_06_Title": "Ánh Sáng Và Chiếc Bóng",
+                "Evelyn_Talent_06_Desc_01_Realign": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, Evelyn nhận được <color=#FFFFFF>Dây Đàn Sắc Nhọn</color>, duy trì 20s.\nTrong thời gian <color=#FFFFFF>Dây Đàn Sắc Nhọn</color>, Evelyn phát động <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Tấn Công Lướt</color>, <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, sẽ thi triển thêm 1 <color=#FFFFFF>Tơ Ánh Trăng</color> truy kích, gây <color=#FF5521>DMG Hỏa</color> bằng 375% tấn công của Evelyn, sát thương này được xem là sát thương <color=#FFFFFF>Liên Kích</color>, tối đa kích hoạt 16 lần, khi nhận <color=#FFFFFF>Dây Đàn Sắc Nhọn</color> lần nữa sẽ tạo mới số lần phát động.",
+                "Evelyn_Talent_06_Desc_02": "Nơi có ánh sáng, sẽ luôn có chiếc bóng.\nNó lặng yên ẩn mình, đi theo dấu tích của ánh sáng, bảo vệ cho mỗi một lần ánh sáng bùng tỏa.\nChiếc bóng chưa bao giờ có ý định đoạt lấy sự huy hoàng của ánh sáng, nhưng mỗi khi quay người, sẽ âm thầm bù đắp những góc nhỏ mà ánh sáng chưa chiếu đến.\nHai thứ này chưa từng chia cách nhau, mà cũng không thể nào chia cách — Ánh sáng sẽ hoàn chỉnh hơn nhờ có chiếc bóng, chiếc bóng thì nhờ có ánh sáng mới tồn tại. Đây là một cuộc theo đuổi không bao giờ có điểm dừng, cũng là một sự ràng buộc không gì phải bàn cãi.",
+                "Evelyn_Talent_06_Desc_01": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, Evelyn nhận được <color=#FFFFFF>Dây Đàn Sắc Nhọn</color>, duy trì 20s. Trong thời gian <color=#FFFFFF>Dây Đàn Sắc Nhọn</color>, Evelyn phát động <color=#FFFFFF>Tấn Công Thường</color>, <color=#FFFFFF>Tấn Công Lướt</color>, <color=#FFFFFF>Chiến Kỹ</color> hoặc <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, sẽ thi triển thêm 1 <color=#FFFFFF>Tơ Ánh Trăng</color> truy kích, gây <color=#FF5521>DMG Hỏa</color> bằng 375% tấn công của Evelyn, sát thương này được xem là sát thương <color=#FFFFFF>Liên Kích</color>, tối đa kích hoạt 16 lần, khi nhận <color=#FFFFFF>Dây Đàn Sắc Nhọn</color> lần nữa sẽ tạo mới số lần phát động.",
+                "Evelyn_Talent_06_Title_Realign": "Ánh Sáng Và Chiếc Bóng"
             }
         ]
     },

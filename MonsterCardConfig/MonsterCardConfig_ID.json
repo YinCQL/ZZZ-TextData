@@ -189,12 +189,26 @@
             "card_quote": "——Beberapa Investigator sedang mengepung Nassellaria di kedalaman Hollow.",
             "skill_text": "Dalam pertarungan, Ionized - Nassellaria akan cenderung melakukan Charge dalam jangka panjang untuk membentuk bola berenergi tinggi dan menyerang musuh. Jika menerima Ether DMG atau terkena serangan berenergi tinggi selama melakukan Charge, bola energi akan jatuh lebih awal dan mengakibatkan DMG terhadap unit-unit di sekitarnya."
         },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelganger - Jane",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya, dan melancarkan serangan yang sangat ganas. Dia akan menahan dan membalas serangan musuh jika diperlukan, tetapi biasanya akan menunjukkan kelemahan setelah kombonya berakhir."
+        },
         "30023": {
             "monster_id": 30023,
             "monster_name": "Thracian",
             "card_text": "Ethereal ganas yang dinamai dari bangsa prajurit dalam legenda peradaban kuno. Konon hanya para pahlawan paling berani dan penjahat paling gila yang mampu berubah menjadi monster semacam ini di tengah kontaminasi Ether.\n\nNamun faktanya bukan begitu. Meski otot yang dilatih dalam Hollow dan gym, serta adrenalin berlebih yang dilepaskan sebelum kematian mungkin membuatmu menjadi masalah besar bagi mantan rekanmu semasa hidup. Tapi, mereka seharusnya tidak akan menyalahkan seorang teman lama yang sudah mati, kan?\n\nSudahlah, saat wajah tampanmu berubah menjadi bola energi hitam yang aneh, apa lagi yang perlu dikhawatirkan tentang reputasi sosial?\n\n\"Bos memang hebat! Dia bahkan masih begitu kuat meski sudah berubah jadi Ethereal!\"\n\"Dia dulu selalu lama sekali di gym setiap hari... waktu itu aku sebenarnya sudah punya firasat buruk tahu!\"",
             "card_quote": "— Kesaksian dari anggota geng Hollow Raider yang menjerit",
             "skill_text": "Dalam pertempuran, Thracian akan terus melancarkan Skill tertentu untuk memasuki status Charge. Saat berada dalam status ini, serangannya akan bertambah semakin agresif, dan setelah melancarkan Skill tingkat tinggi, akan memicu ledakan dalam jangkauan area yang besar."
+        },
+        "30029": {
+            "monster_id": 30029,
+            "monster_name": "Ionized - Doppelganger",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": null
         },
         "35001": {
             "monster_id": 35001,
@@ -320,7 +334,7 @@
             "monster_name": "Notorious - Hati",
             "card_text": "Ether humanoid berbentuk menyerupai binatang berkaki empat yang memiliki kecerdasan tinggi dan sangat berbahaya. Secara resmi tercatat oleh tim investigasi pertama dari HIA.\nMenurut rumor, ia pertama kali terlihat di dalam sarang Hollow, dan para pengembara yang berkeliaran di hutan belantara sekitar pernah mendengar suara lolongan menakutkan yang menyerupai suara raungan seekor binatang buas.\n\"Kalau aku lempar ranting atau bola, apa monster ini akan mengambilnya?\"\n\"Kamu boleh coba, tapi aku tidak akan menanggung biaya rawat inap rumah sakitmu.\"",
             "card_quote": "——Percakapan santai antara Billy dan Nicole.",
-            "skill_text": null
+            "skill_text": "Deskripsi Skill Monster - Tempat Sementara"
         },
         "200015": {
             "monster_id": 200015,
@@ -363,6 +377,27 @@
             "card_text": "Banyak Hollow Raider pemula yang tertipu oleh penampilan luar sosok Arlaune saat pertama kali bertemu dengannya. \n\nMereka mengira bahwa ia adalah semacam tanaman yang tidak berbahaya, namun saat mendekatinya, monster ini akan tiba-tiba bergetar, lalu terus-menerus menembakkan zat Ether berkonsentrasi tinggi untuk menyerang mereka.\n\n\"Lah? Tadi aku mau siramin air, tapi malah ia yang ludahin aku?\"",
             "card_quote": "——Dalam sebuah Hollow, sekelompok Investigator pemula disergap oleh Arlaune.",
             "skill_text": "Dalam pertarungan, Arlaune yang sangat licik akan cenderung melancarkan serangan dari jarak jauh, tapi kamu bisa menumpuk banyak Daze dengan membuatnya memasuki status Stagger ketika kelopak bunga terbuka."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelganger - Mors",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya, dan sesuai dengan situasi medan pertarungan, dia dapat memilih untuk melancarkan serangan beruntun jarak dekat maupun serangan jarak jauh. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, dia akan melancarkan serangan lanjutan jarak jauh atau tembakan dari sudut mati untuk menyergap targetnya."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelganger - Pulchra",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya. Dia akan menjaga jarak dengan buruannya dan memanfaatkan kesempatan yang tepat untuk melancarkan serangan fisik, menggunakan bladegun, dan gadgetnya untuk menyerang target. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, dia akan menggunakan cara yang tidak diketahui untuk meningkatkan kemampuannya dalam menghindar. Setelah menjadi lebih kuat, dia dapat menghindari serangan yang dilancarkan musuh dari jarak dekat."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelganger - Bellum",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya. Dia bisa menggunakan bladegun, perisai, dan pelontar api untuk menekan target dalam jarak dekat. Jika dia diserang saat menggunakan perisai, dia akan langsung melancarkan serangan balasan yang kuat. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, tekanannya akan berubah menjadi lebih ganas dan berkelanjutan."
         },
         "300001": {
             "monster_id": 300001,
@@ -420,6 +455,13 @@
             "card_quote": "——Catatan investigasi HIA no. 17 tentang Dead End Hollow.",
             "skill_text": "Dalam pertarungan, Newborn Dead End Butcher akan menyerang dengan seluruh tenaganya. Setelah menerima sejumlah DMG, dia akan memasuki fase kedua. Dalam fase kedua, dia bisa melancarkan serangan laser, serangannya pun akan menjadi lebih ganas. Setelah serangan kombo yang ganas dalam fase kedua, menyerangnya dengan serangan berenergi tinggi bisa memicu efek Stagger. Newborn Dead End Butcher akan cenderung menghindari serangan musuh dengan lincah."
         },
+        "300072": {
+            "monster_id": 300072,
+            "monster_name": "Notorious - Dead End Butcher",
+            "card_text": "Berbeda dengan Ethereal ancaman tinggi lainnya, meskipun Dead End Butcher memiliki tubuh yang besar dan mengerikan, namun konsentrasi Ether pada tubuhnya biasanya dalam status istirahat dengan aktivitas rendah.\nMeskipun begitu, Dead End Butcher masih memiliki kekuatan luar biasa yang mampu menghancurkan segala yang menghadangnya; seluruh area metro yang terdistorsi dan hancur bisa dibilang adalah \"dapur belakang terlarang\" miliknya.\nKetika terdapat target mengancam yang menarik perhatian dari Dead End Butcher, transformasi yang mengerikan pun akan terjadi dalam sekejap.\nKonsentrasi Ether yang tinggi di dalamnya seketika akan teraktivasi sepenuhnya; energi yang meningkat secara eksponensial mengubah tubuhnya dengan cepat, dan ia akan memasuki \"mode berburu\" yang sadis dan rakus.\nIni juga berarti bahwa \"waktu hidangan pembukaan\" telah berakhir, dan \"perjamuan pembantaian\" secara resmi telah dimulai.\nJika tidak ingin menjadi bagian dari \"perjamuan\" ini, maka para Hollow Raider yang tersesat di sini harus sangat hati-hati memilih rute, dan sebisa mungkin menjauh dari \"dapur belakang\" miliknya...\n\"Rute di dalam Hollow ini cukup rumit, tetapi yang dapat dipastikan adalah saat 'ia' muncul di ujung jalan, jalan itu pasti adalah jalan buntu.\"",
+            "card_quote": "——Catatan investigasi HIA no. 17 tentang Dead End Hollow.",
+            "skill_text": "Dalam pertarungan, Dead End Butcher yang terkenal bisa menggunakan Ether Energy untuk melancarkan berbagai serangan jarak jauh dan mengubah ruang, menciptakan objek imitasi."
+        },
         "300121": {
             "monster_id": 300121,
             "monster_name": "Notorious - Marionette",
@@ -432,112 +474,112 @@
             "monster_name": "Tyrfing",
             "card_text": "Musuh dengan ATK dan HP yang sangat rendah. Biasanya, ia adalah musuh pertama yang dihadapi para Bangboo di ujian pemula. Hampir tidak mengancam sama sekali.",
             "card_quote": null,
-            "skill_text": "HP: 50\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+            "skill_text": "HP: Rendah\nATK: Menengah\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#31CC00>Rendah</color>"
         },
         "930147": {
             "monster_id": 930147,
             "monster_name": "Arlaune",
             "card_text": "Musuh dengan tingkat ancaman tinggi yang bisa melancarkan <color=#D9A600>serangan jarak jauh</color>. Jika diblokir, maka akan melancarkan serangan kabut beracun yang <color=#D9A600>mengakibatkan DMG pada semua Bangboo di sekitar</color>. Saran: Tempatkan <color=#D9A600>Bangboo Baik Hati</color> untuk menghadapinya.",
             "card_quote": null,
-            "skill_text": "HP: 430\nATK: Menengah\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+            "skill_text": "HP: Menengah\nATK: Menengah\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
         },
         "930148": {
             "monster_id": 930148,
             "monster_name": "Ahriman",
             "card_text": "Saat HP penuh, <color=#D9A600>kecepatan bergerak akan menjadi sangat tinggi</color>, dan <color=#D9A600>tidak dapat diblokir</color>. Setelah terkena serangan, kecepatan bergerak akan menjadi pelan, dan ia dapat diblokir. Saran: Tempatkan <color=#D9A600>Bangboo Penembak</color> dan mengakibatkan DMG pada musuh ini lebih awal untuk mengurangi ancaman.",
             "card_quote": null,
-            "skill_text": "HP: 70\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat (melambat jika terkena serangan)\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+            "skill_text": "HP: Rendah\nATK: Menengah\nKecepatan Gerak: Cepat (melambat jika terkena serangan)\nTingkat Ancaman: <color=#31CC00>Rendah</color>"
         },
         "930149": {
             "monster_id": 930149,
             "monster_name": "Alpeca",
             "card_text": "Alpeca memiliki kemampuan untuk <color=#D9A600>menyerang dari jarak jauh</color>, dan bisa menyerang Bangboo yang ditempatkan di Posisi Taktis. Mohon perhatikan Stamina para Bangboo!",
             "card_quote": null,
-            "skill_text": "HP: 100\nATK: Rendah\nDEF: 21\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+            "skill_text": "HP: Rendah\nATK: Rendah\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#31CC00>Rendah</color>"
         },
         "930150": {
             "monster_id": 930150,
             "monster_name": "Dullahan",
             "card_text": "Musuh jarak dekat yang dengan tingkat ancaman tinggi! Dia memiliki <color=#D9A600>HP yang sangat tinggi</color>. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
             "card_quote": null,
-            "skill_text": "HP: 480\nATK: Tinggi\nDEF: 75\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+            "skill_text": "HP: Menengah\nATK: Tinggi\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
         },
         "930152": {
             "monster_id": 930152,
             "monster_name": "Hoplitai",
             "card_text": "Saat Hoplitai memasuki medan pertarungan, <color=#D9A600>kecepatan bergeraknya akan sangat tinggi</color>! Dia akan menabrak Bangboo pertama yang di jalurnya, dan mengakibatkan <color=#D9A600>DMG dalam jumlah besar</color>. Setelah itu, <color=#D9A600>kecepatan bergeraknya akan berkurang drastis</color>.",
             "card_quote": null,
-            "skill_text": "HP: 150\nATK: Tinggi\nDEF: 75\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Rendah\nATK: Tinggi\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         },
         "930153": {
             "monster_id": 930153,
             "monster_name": "Faun",
             "card_text": "Faun memiliki kecepatan bergerak yang cukup pelan, tetapi ATK yang sangat tinggi. Mohon perhatikan Stamina para Bangboo!",
             "card_quote": null,
-            "skill_text": "HP: 140\nATK: Tinggi\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Rendah\nATK: Tinggi\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         },
         "930154": {
             "monster_id": 930154,
             "monster_name": "Blastcrawler",
             "card_text": "Blastcrawler memiliki kemampuan bergerak yang cukup cepat, dan akan meledakkan diri untuk mengakibatkan DMG pada <color=#D9A600>semua Bangboo</color> di sekitarnya. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
             "card_quote": null,
-            "skill_text": "HP: 80\nATK: Rendah\nDEF: 13\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Rendah\nATK: Rendah\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         },
         "930157": {
             "monster_id": 930157,
             "monster_name": "Tyrfing",
             "card_text": "Musuh dengan ATK dan HP yang sangat rendah. Biasanya, ia adalah musuh pertama yang dihadapi para Bangboo di ujian pemula. Hampir tidak mengancam sama sekali.",
             "card_quote": null,
-            "skill_text": "HP: 140\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+            "skill_text": "HP: Rendah\nATK: Menengah\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#31CC00>Rendah</color>"
         },
         "930158": {
             "monster_id": 930158,
             "monster_name": "Arlaune",
             "card_text": "Musuh ancaman tinggi yang bisa melancarkan <color=#D9A600>serangan jarak jauh</color>. Jika diblokir, maka akan melancarkan serangan kabut beracun yang <color=#D9A600>mengakibatkan DMG pada semua Bangboo di sekitar</color>. Saran: Tempatkan <color=#D9A600>Bangboo Baik Hati</color> untuk menghadapinya.",
             "card_quote": null,
-            "skill_text": "HP: 1300\nATK: Menengah\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+            "skill_text": "HP: Sangat Tinggi\nATK: Menengah\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
         },
         "930159": {
             "monster_id": 930159,
             "monster_name": "Ahriman",
             "card_text": "Saat HP penuh, <color=#D9A600>kecepatan bergerak akan menjadi sangat tinggi</color>, dan <color=#D9A600>tidak dapat diblokir</color>. Setelah terkena serangan, kecepatan bergerak akan menjadi pelan, dan ia dapat diblokir. Saran: Tempatkan <color=#D9A600>Bangboo Penembak</color> dan mengakibatkan DMG pada musuh ini lebih awal untuk mengurangi ancaman.",
             "card_quote": null,
-            "skill_text": "HP: 220\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat (melambat jika terkena serangan)\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+            "skill_text": "HP: Rendah\nATK: Menengah\nKecepatan Gerak: Cepat (melambat jika terkena serangan)\nTingkat Ancaman: <color=#31CC00>Rendah</color>"
         },
         "930160": {
             "monster_id": 930160,
             "monster_name": "Alpeca",
             "card_text": "Alpeca memiliki kemampuan untuk <color=#D9A600>menyerang dari jarak jauh</color>, dan bisa menyerang Bangboo yang ditempatkan di Posisi Taktis. Mohon perhatikan Stamina para Bangboo!",
             "card_quote": null,
-            "skill_text": "HP: 300\nATK: Rendah\nDEF: 21\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#POSITIVE_WITH_WHITE>Rendah</color>"
+            "skill_text": "HP: Menengah\nATK: Rendah\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#31CC00>Rendah</color>"
         },
         "930161": {
             "monster_id": 930161,
             "monster_name": "Dullahan",
             "card_text": "Musuh jarak dekat yang dengan tingkat ancaman tinggi! Dia memiliki <color=#D9A600>HP yang sangat tinggi</color>. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
             "card_quote": null,
-            "skill_text": "HP: 1440\nATK: Tinggi\nDEF: 75\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+            "skill_text": "HP: Sangat Tinggi\nATK: Tinggi\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
         },
         "930162": {
             "monster_id": 930162,
             "monster_name": "Hoplitai",
             "card_text": "Saat Hoplitai memasuki medan pertarungan, <color=#D9A600>kecepatan bergeraknya akan sangat tinggi</color>! Dia akan menabrak Bangboo pertama yang di jalurnya, dan mengakibatkan <color=#D9A600>DMG dalam jumlah besar</color>. Setelah itu, <color=#D9A600>kecepatan bergeraknya akan berkurang drastis</color>.",
             "card_quote": null,
-            "skill_text": "HP: 460\nATK: Tinggi\nDEF: 75\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Menengah\nATK: Tinggi\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         },
         "930163": {
             "monster_id": 930163,
             "monster_name": "Faun",
             "card_text": "Faun memiliki kecepatan bergerak yang cukup pelan, tetapi ATK yang sangat tinggi. Mohon perhatikan Stamina para Bangboo!",
             "card_quote": null,
-            "skill_text": "HP: 430\nATK: Tinggi\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Menengah\nATK: Tinggi\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         },
         "930164": {
             "monster_id": 930164,
             "monster_name": "Blastcrawler",
             "card_text": "Blastcrawler memiliki kemampuan bergerak yang cukup cepat, dan akan meledakkan diri untuk mengakibatkan DMG pada <color=#D9A600>semua Bangboo</color> di sekitarnya. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
             "card_quote": null,
-            "skill_text": "HP: 230\nATK: Rendah\nDEF: 13\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Rendah\nATK: Rendah\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         }
     },
     "Thug": {
@@ -618,6 +660,13 @@
             "card_quote": "—Di salah satu sudut New Eridu, beberapa penjahat Hollow sedang menghasut orang-orang bergabung dengan mereka.",
             "skill_text": "Dalam pertarungan, Hollow Thug - Rampant Brute akan melakukan Charge untuk zirah di lengannya agar dapat melancarkan serangan dengan energi yang lebih tinggi. Rampant Brute akan berada dalam status Shock selama melakukan Charge, mengakibatkan Attribute Anomaly tipe lain akan memicu efek Disorder dan membatalkan Charge-nya."
         },
+        "30027": {
+            "monster_id": 30027,
+            "monster_name": "Lumberjack",
+            "card_text": "Ada banyak yang mengaku sebagai \"Ahli Penemu\" di antara para Hollow Raider. Keterampilan mereka yang paling hebat adalah mengumpulkan material industri bekas dan merombak mesin tempur yang ditinggalkan oleh Public Security di dalam Hollow menjadi ciptaan pribadi yang \"tidak begitu serius\".\nGergaji mesin berkecepatan tinggi, gergaji listrik berbentuk bulat, lengan hidrolik industri... Setelah melalui perakitan dan penyambungan yang ala kadarnya, material-material biasa ini digabungkan untuk membentuk mesin langka dan berbahaya.\nUntuk menjalankannya dengan lancar, penciptanya \"secara bijak\" mencopot batasan keamanan mesin dan, berdasarkan penampilannya yang kasar, menamakannya \"Lumberjack\".\nTidak ada yang tahu berapa lama \"Lumberjack\" ini bisa berjalan dengan stabil.\nMungkin, kapan saja, mesin ini bisa tiba-tiba mengamuk, mengayunkan gergaji mesin berkecepatan tinggi dan duri dengan kekuatan yang tak tertandingi, melakukan \"penebangan\" yang tak terbendung dan yang tidak bisa dihentikan oleh siapa pun.\nTapi... mode pertempuran yang tidak waras ini mungkin adalah hasil modifikasi terbaik yang diinginkan penciptanya.\n\"Kenapa menamainya 'Lumberjack'? Di dalam Hollow tidak ada kayu yang bisa dipotong, kan?\"\n\"Ya, itulah kenapa dia begitu marah. Saat dia menyala, dia akan menjadi liar...\"",
+            "card_quote": "——Di dalam suatu Hollow, beberapa Hollow Raider sedang mendiskusikan prinsip kerja \"Lumberjack\".",
+            "skill_text": "Dalam pertempuran, Lumberjack akan terus-menerus mengubah bentuk gergaji mesinnya untuk melancarkan serangan kombo yang mulus, menggunakan roda di kendaraannya untuk bergerak dengan cepat. Ketika musuh berada di luar jangkauan, dia akan menembakkan gergaji mesinnya untuk mengejar musuhnya dari kejauhan."
+        },
         "100151": {
             "monster_id": 100151,
             "monster_name": "Looter",
@@ -666,36 +715,15 @@
             "card_text": "Ada sesuatu yang diketahui semua orang di dunia bawah tanah New Eridu, yaitu: Petinju yang paling kuat bukanlah juara beruntun di ring tinju, melainkan Bulky Enforcer. Ia adalah preman profesional yang dipekerjakan dengan bayaran tinggi oleh Hollow Raider, dan khususnya bertanggung jawab untuk menjaga sumber daya Ether hasil curian mereka.\nSebagai pencinta olahraga tinju yang fanatik, Bulky Enforcer tidak mahir dalam mengoperasikan perangkat elektronik yang rumit. Namun, ia ahli dalam mengubah pistol kejut bertegangan tinggi menjadi \"sarung tinju\" agar tinjunya menjadi lebih mematikan.\n\nBagi Bulky Enforcer dan Wanted Enforcer, baik Ethereal, Hollow Raider, Hollow Investigator, atau petugas Public Security yang terpisah dari timnya... semuanya tidak lebih dari \"kantong pasir latihan\" yang mereka gunakan untuk hiburan semata.\n\n\"Eh, tunggu dulu! Kayaknya aku pernah lihat gaya tinju orang ini di arkade Fourth Street!\"",
             "card_quote": "——Billy yang sedang menghadapi para Enforcer di dalam Hollow",
             "skill_text": "Dalam pertarungan, Troublemaker - Wanted Enforcer akan menyerang dengan brutal dan terus menghindar ke samping untuk mengatur sudut serangannya."
-        },
-        "200231": {
-            "monster_id": 200231,
-            "monster_name": "Doppelganger - Mors",
-            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
-            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
-            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya, dan sesuai dengan situasi medan pertarungan, dia dapat memilih untuk melancarkan serangan beruntun jarak dekat maupun serangan jarak jauh. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, dia akan melancarkan serangan lanjutan jarak jauh atau tembakan dari sudut mati untuk menyergap targetnya."
-        },
-        "200241": {
-            "monster_id": 200241,
-            "monster_name": "Doppelganger - Pulchra",
-            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
-            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
-            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya. Dia akan menjaga jarak dengan buruannya dan memanfaatkan kesempatan yang tepat untuk melancarkan serangan fisik, menggunakan bladegun, dan gadgetnya untuk menyerang target. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, dia akan menggunakan cara yang tidak diketahui untuk meningkatkan kemampuannya dalam menghindar. Setelah menjadi lebih kuat, dia dapat menghindari serangan yang dilancarkan musuh dari jarak dekat."
-        },
-        "200251": {
-            "monster_id": 200251,
-            "monster_name": "Doppelganger - Bellum",
-            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
-            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
-            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya. Dia bisa menggunakan bladegun, perisai, dan pelontar api untuk menekan target dalam jarak dekat. Jika dia diserang saat menggunakan perisai, dia akan langsung melancarkan serangan balasan yang kuat. Ketika HP-nya kurang dari persentase tertentu atau setelah jangka waktu tertentu, tekanannya akan berubah menjadi lebih ganas dan berkelanjutan."
         }
     },
     "Corrupted": {
         "10021": {
             "monster_id": 10021,
             "monster_name": "Raven UAV",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Situasi Tidak Diketahui",
+            "card_quote": "Tidak Ada",
+            "skill_text": "Deskripsi Skill Monster - Tempat Sementara"
         },
         "30009": {
             "monster_id": 30009,
@@ -714,9 +742,9 @@
         "100211": {
             "monster_id": 100211,
             "monster_name": "Raven UAV - Activated",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Kondisi Tidak Diketahui",
+            "card_quote": "Tidak Ada",
+            "skill_text": "Deskripsi Skill Monster - Tempat Sementara"
         },
         "100271": {
             "monster_id": 100271,
@@ -765,21 +793,21 @@
             "monster_name": "Vicious Striker",
             "card_text": "Vicious Striker memiliki <color=#FFAF2C>HP yang cukup tinggi</color>. Saran: Fokuskan daya tembak padanya!",
             "card_quote": null,
-            "skill_text": "HP: 240\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Menengah\nATK: Menengah\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         },
         "930156": {
             "monster_id": 930156,
             "monster_name": "Vicious Striker",
             "card_text": "Vicious Striker memiliki <color=#D9A600>HP yang cukup tinggi</color>. Saran: Fokuskan daya tembak padanya!",
             "card_quote": null,
-            "skill_text": "HP: 240\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Menengah\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         },
         "930165": {
             "monster_id": 930165,
             "monster_name": "Vicious Striker",
             "card_text": "Vicious Striker memiliki <color=#FFAF2C>HP yang cukup tinggi</color>. Saran: Fokuskan daya tembak padanya!",
             "card_quote": null,
-            "skill_text": "HP: 720\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+            "skill_text": "HP: Tinggi\nATK: Menengah\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
         }
     },
     "Public Security": {
@@ -787,21 +815,21 @@
             "monster_id": 10010,
             "monster_name": "Unknown Unit",
             "card_text": "Unit belum diketahui, memerlukan intel lebih lanjut.",
-            "card_quote": null,
+            "card_quote": "Tidak Ada",
             "skill_text": "???"
         },
         "10011": {
             "monster_id": 10011,
             "monster_name": "Unknown Unit",
             "card_text": "Unit belum diketahui, memerlukan intel lebih lanjut.",
-            "card_quote": null,
+            "card_quote": "Tidak Ada",
             "skill_text": "???"
         },
         "10012": {
             "monster_id": 10012,
             "monster_name": "Unknown Unit",
             "card_text": "Unit belum diketahui, memerlukan intel lebih lanjut.",
-            "card_quote": null,
+            "card_quote": "Tidak Ada",
             "skill_text": "???"
         },
         "20006": {
@@ -882,6 +910,13 @@
             "card_text": "Typhon Challenger adalah mecha berat yang tidak dilengkapi dengan kekuatan tembak jarak jauh. Namun, semua kinerjanya bertujuan untuk memperkuat zirah berbasis Ether miliknya.\n\nSerangan menabrak, serangan berat, serangan menggilas... Typhon Challenger menggunakan taktik yang sederhana, namun efisien untuk memaksimalkan kehancuran dari zirah berbasis Ether tersebut.\n\nSaat menghadapi Typhon Challenger yang sulit untuk didekati, bahkan Hollow Raider yang paling berpengalaman pun hanya bisa menghela napas dengan putus asa.\n\n\"Tubuh yang tegap, dan lengan yang kuat. Hmm... benar-benar tipe idamanku... Ah, maksudnya model idamanku.\"",
             "card_quote": "——Grace sedang memainkan model Typhon Challenger di toko gadget.",
             "skill_text": "Dalam pertarungan, Autonomous Tactical Unit - Typhon Challenger dapat melancarkan kombo dengan kekuatan dahsyat. Dia juga bisa tiba-tiba melompat ke udara untuk menghantam musuh."
+        },
+        "30026": {
+            "monster_id": 30026,
+            "monster_name": "Terror Raptor",
+            "card_text": "Sebagai veteran tempur yang telah melalui pertempuran yang tak terhitung jumlahnya, Terror Raptor adalah senjata perang New Eridu yang paling dipercaya. Didesain sebagai senjata yang menakutkan yang seimbang, dengan kekuatan melee yang brutal dan kekuatan tembakan jarak jauh yang mengejutkan. Setiap serangan, hantaman, dan tebasannya dapat mengakibatkan kehancuran. Dilengkapi dengan peluncur rudal dan senjata tembakan cepat, dia mampu mengendalikan pertempuran jarak dekat dan jarak jauh. Dari serangan melompat hingga serangan ledakan dan manuver menghindar di udara, Terror Raptor dapat beradaptasi dengan pertempuran apa pun dengan mudah. Serangannya yang tak ada habisnya membuat musuh tidak memiliki ruang untuk melawan, mewakili kekuatan yang tak terbendung dan ketakutan yang tak terhindarkan.\n\"Terror Raptor adalah simbol dari era itu.\"",
+            "card_quote": "— Seperti yang tertulis di \"Pertempuran Ibu Kota Lama: Kebenaran dan Kenangan\"",
+            "skill_text": "Dalam pertempuran, Terror Raptor mengandalkan kaki mekaniknya yang lincah dan kuat untuk melancarkan serangan jarak dekat, sambil melancarkan rentetan senjata jarak jauh untuk menyerang musuhnya. Menangkis bom khususnya dengan skill dapat mengaktifkan Defensive Assist, menyebabkan Terror Raptor menjadi lumpuh untuk sementara waktu."
         },
         "100051": {
             "monster_id": 100051,
@@ -1011,13 +1046,6 @@
             "card_quote": "——Mesin AI Pilihan, Friday.",
             "skill_text": "Dalam pertarungan, Friday akan melancarkan serangan gelombang kejut dengan jangkauan luas. Gelombang kejut ini sulit untuk dihindari, tapi sebagian besar skill lainnya bisa diatasi dengan Defensive Assist. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
         },
-        "30020": {
-            "monster_id": 30020,
-            "monster_name": "Doppelganger - Jane",
-            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
-            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
-            "skill_text": "Dalam pertarungan, musuh ini akan melakukan gerakan yang sama persis dengan obyek yang ditirunya, dan melancarkan serangan yang sangat ganas. Dia akan menahan dan membalas serangan musuh jika diperlukan, tetapi biasanya akan menunjukkan kelemahan setelah kombonya berakhir."
-        },
         "30022": {
             "monster_id": 30022,
             "monster_name": "Jane Doe",
@@ -1038,6 +1066,13 @@
             "card_text": "Ether adalah hama beracun yang serakah dan tak pernah puas, parasit yang sangat jahat, yang menggerogoti segala yang hidup.\nDan Hitchspiker adalah perwujudan Ether lebih berbahaya yang menghinggapi tubuh rekan-rekannya. Tyrfing dan Alpeca bisa memuaskan rasa lapar Hollow dengan wujud yang lebih ganas.\n\n\"Menjauhlah dari wajahku!!!\"",
             "card_quote": "—Seorang ahli ekologi Ethereal yang menyadari kalau ini adalah serangga yang bisa melompat",
             "skill_text": "Selama pertarungan, Hitchspiker akan terus berkeliaran untuk mencari Tyrfing dan Alpeca yang bisa dihinggapi sebagai parasit."
+        },
+        "30028": {
+            "monster_id": 30028,
+            "monster_name": "Security Operative",
+            "card_text": "Security Operative mungkin terlihat seperti penjaga biasa, tapi jangan tertipu — mereka punya \"skill rahasia\" yang lengkap. Tugas mereka bukan cuma berdiri di pintu dan mengintimidasi. Mereka adalah orang yang akan turun tangan saat bos minum terlalu banyak, atau yang akan menangani pengacau kecil dengan ekspresi \"aku sudah pernah melihatnya\" yang dingin. Misi mereka bukan untuk melawan kejahatan — tapi untuk menjaga agar bos tidak terjatuh, memperbaiki lift di pintu masuk, dan terutama, untuk tetap tidak menarik perhatian. Di dalam dunianya, senjata terkuat adalah \"terlihat seperti penjaga yang kuat\", dan hasil yang terbaik adalah \"tidak melakukan apa-apa\". Bagaimanapun, Security Operative yang hebat adalah orang yang tidak kamu perhatikan — sampai masalahnya sudah teratasi dan orang-orang menyadari, \"Oh, dia dari tadi sudah ada di sini\".\n\"Kalau kamu bisa berdiri dengan stabil, tidak ada yang lebih tangguh darimu.\"",
+            "card_quote": "— Ditulis oleh seorang satpam veteran di halaman depan Buku Panduan Operasional Personil Keamanan",
+            "skill_text": "Saat bertempur, Security Operative akan menggunakan berbagai macam senjata untuk menyerang dan saling berkomunikasi jika diperlukan."
         },
         "100231": {
             "monster_id": 100231,
@@ -1093,7 +1128,7 @@
             "monster_name": "Bangboo Emas",
             "card_text": "Bangboo Emas <color=#D9A600>memiliki kecepatan bergerak yang sangat cepat, dan HP yang sangat tinggi</color>, tetapi dia tidak akan menyerang Bangboo. Jika berhasil mengalahkannya, sepertinya akan ada <color=#D9A600>kejutan baik</color>~",
             "card_quote": null,
-            "skill_text": "HP: 960\nATK: Menengah\nDEF: 50\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FF3333>Tinggi</color>"
+            "skill_text": "HP: Tinggi\nATK: Menengah\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FF3333>Tinggi</color>"
         }
     }
 }

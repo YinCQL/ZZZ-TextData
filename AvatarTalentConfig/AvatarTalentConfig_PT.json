@@ -1377,6 +1377,112 @@
             }
         ]
     },
+    "1311": {
+        "role_id": 1311,
+        "name": "Astra Yao",
+        "full_name": "Astra Yao",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Astra_Talent_01_Title": "Escala Temperada",
+                "Astra_Talent_01_Desc_01_Realign": "Quando Astra Yao atinge um inimigo, a resistência do alvo contra qualquer atributo diminui 6%, sendo possível acumular até 3 vezes e com duração de 30s. Ativações repetidas reiniciam a duração. Ao entrar em combate, Astra Yao obtém 1000 dB. Quando Astra Yao ativa seu <color=#FFFFFF>Supremo</color>, todos os membros da equipe obtêm 1 acúmulo de <color=#FFFFFF>Canção de Defesa</color> por 60s. A <color=#FFFFFF>Canção de Defesa</color> é consumida quando um inimigo ataca, e deixa a personagem invulnerável por 1s.",
+                "Astra_Talent_01_Desc_02": "\"O que é uma Escala Temperada?\"\n\"É um sistema de afinação musical. Assim como crianças precisam aprender a ficar na fila, os sons de uma música precisam manter a ordem.\"\n\"Mas, talvez, os sons não gostem de ficar em ordem, assim como as crianças!\"\n— Professora de música da Astra, recordando quando ela tinha seis anos.",
+                "Astra_Talent_01_Desc_01": "Quando Astra Yao atinge um inimigo, a resistência do alvo contra qualquer atributo diminui 6%, sendo possível acumular até 3 vezes e durando 30s. Ativações repetidas reiniciam a duração. Ao entrar em combate, Astra Yao obtém 1000 dB. Quando Astra Yao ativa seu <color=#FFFFFF>Supremo</color>, todos os membros da equipe obtêm 1 acúmulo de <color=#FFFFFF>Canção de Defesa</color> por 60s. A <color=#FFFFFF>Canção de Defesa</color> é consumida quando um inimigo ataca, e deixa a personagem invulnerável por 1s.",
+                "Astra_Talent_01_Title_Realign": "Escala Temperada"
+            },
+            {
+                "talent_id": "2",
+                "Astra_Talent_02_Title": "Arte da Ganância",
+                "Astra_Talent_02_Desc_01_Realign": "O bônus de ATQ da <color=#FFFFFF>Passiva Principal: Andante Gracioso</color> aumenta mais 19%, até um aumento máximo de 400. No estado de <color=#FFFFFF>Cadenza Idílica</color>, quando outros personagens entram em combate por meio de <color=#FFFFFF>Assistência Reativa</color>, <color=#FFFFFF>Ataque em Cadeia</color>, <color=#FFFFFF>Assistência Defensiva</color> ou <color=#FFFFFF>Assistência Evasiva</color>, a Astra Yao conecta mais 1 <color=#FFFFFF>Tremolo</color> e 3 <color=#FFFFFF>Clusters de Nota</color> para atacar. Esse efeito pode ser ativado uma vez a cada 3s.",
+                "Astra_Talent_02_Desc_02": "\"A coisa mais brilhante do mundo? Claro que é o amor!\"\nAssim como um pássaro, que coleta objetos brilhantes para tecer seu ninho, a ambição de um artista é coletar todo o amor do mundo. Só reunindo todo o amor, é que se pode criar uma linda melodia.",
+                "Astra_Talent_02_Desc_01": "O bônus de ATQ da <color=#FFFFFF>Passiva Principal: Andante Gracioso</color> aumenta mais 19%, até um aumento máximo de 400. No estado de <color=#FFFFFF>Cadenza Idílica</color>, quando outros personagens entram em combate por meio de <color=#FFFFFF>Assistência Reativa</color>, <color=#FFFFFF>Ataque em Cadeia</color>, <color=#FFFFFF>Assistência Defensiva</color> ou <color=#FFFFFF>Assistência Evasiva</color>, Astra Yao conecta mais 1 <color=#FFFFFF>Tremolo</color> e 3 <color=#FFFFFF>Clusters de Nota</color> para atacar. Esse efeito pode ser ativado uma vez a cada 3s.",
+                "Astra_Talent_02_Title_Realign": "Arte da Ganância"
+            },
+            {
+                "talent_id": "3",
+                "Astra_Talent_03_Title": "Partitura Entrelaçada",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Astra_Talent_03_Desc_02": "Uma partitura em branco só tem linhas paralelas que nunca se cruzam, como almas que nunca se encontram, esperando em silêncio que as notas venham entrelaçá-las.\n\"Vamos encher ela de notas! Muitas notas entrelaçadas. Vai virar uma música fantástica!\"\nE foi assim que uma nova música foi criada, entre as 136 barras, todas conectadas e entrelaçadas...",
+                "Astra_Talent_03_Title_Realign": "Partitura Entrelaçada"
+            },
+            {
+                "talent_id": "4",
+                "Astra_Talent_04_Title": "Cabelos Por Trás da Nuca",
+                "Astra_Talent_04_Desc_01_Realign": "Ao ativar um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> dentro de 15s, a Astra Yao pode ativar uma <color=#FFFFFF>Assistência Reativa</color>, mesmo quando não tem <color=#FFFFFF>Acordes</color>. Quando seu ataque atinge um inimigo, o intervalo para ativar uma <color=#FFFFFF>Assistência Reativa</color> é reduzido para 1s. No estado de <color=#FFFFFF>Cadenza Idílica</color>, quando outros personagens entram em combate por meio de <color=#FFFFFF>Assistência Reativa</color>, eles recebem diferentes bônus, conforme sua especialidade. Esse efeito pode ser ativado uma vez a cada 3s para toda a equipe:\n<color=#FFFFFF>Atacante</color>: o próximo ataque pesado de <color=#FFFFFF>Assistência Reativa</color> sobre um inimigo causa um dano adicional equivalente a 300% do ATQ inicial da Astra.\n<color=#FFFFFF>Anômalo</color>: a próxima <color=#FFFFFF>Assistência Reativa</color> acumula 50% mais Amplificação de Anomalia.\n<color=#FFFFFF>Atordoador</color>: a próxima <color=#FFFFFF>Assistência Reativa</color> causa 50% mais Atordoamento.",
+                "Astra_Talent_04_Desc_02": "Com uma mão sobre o piano\nSem saber qual nota tocar\nUma melodia triste\nOu seria uma suave saudade?\nBusco sua sombra entre as notas\nFecho os olhos e posso ver\nOs cabelos que escorrem pela sua nuca",
+                "Astra_Talent_04_Desc_01": "Ao ativar um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> dentro de 15s, a Astra Yao pode ativar uma <color=#FFFFFF>Assistência Reativa</color>, mesmo quando não tem <color=#FFFFFF>Acordes</color>. Quando seu ataque atinge um inimigo, o intervalo para ativar uma <color=#FFFFFF>Assistência Reativa</color> é reduzido para 1s. No estado de <color=#FFFFFF>Cadenza Idílica</color>, quando outros personagens entram em combate por meio de <color=#FFFFFF>Assistência Reativa</color>, eles recebem diferentes bônus, conforme sua especialidade. Esse efeito pode ser ativado uma vez a cada 3s para toda a equipe:\n<color=#FFFFFF>Atacante</color>: o próximo ataque pesado de <color=#FFFFFF>Assistência Reativa</color> sobre um inimigo causa um dano adicional equivalente a 300% do ATQ inicial da Astra.\n<color=#FFFFFF>Anômalo</color>: a próxima <color=#FFFFFF>Assistência Reativa</color> acumula 50% mais Amplificação de Anomalia.\n<color=#FFFFFF>Atordoador</color>: a próxima <color=#FFFFFF>Assistência Reativa</color> causa 50% mais Atordoamento.",
+                "Astra_Talent_04_Title_Realign": "Cabelos Por Trás da Nuca"
+            },
+            {
+                "talent_id": "5",
+                "Astra_Talent_05_Title": "Proxy e Fios de Seda",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Astra_Talent_05_Desc_02": "\"Eva! Eu acabei de perceber! Você e {M#o Wise são altos e esbeltos}{F#a Belle são altas e esbeltas}!\"\n\"O que você quer dizer com isso?\"\n\"Vocês são minhas pessoas favoritas!\"\nAstra chegou a brilhar de felicidade, como se tivesse descoberto o segredo da vida.",
+                "Astra_Talent_05_Title_Realign": "Proxy e Fios de Seda"
+            },
+            {
+                "talent_id": "6",
+                "Astra_Talent_06_Title": "Somos o Mundo",
+                "Astra_Talent_06_Desc_01_Realign": "No estado de <color=#FFFFFF>Cadenza Idílica</color>, o Multiplicador de Dano de <color=#FFFFFF>Tremolo</color> e <color=#FFFFFF>Cluster de Nota</color> lançados ou conectados aumenta para 200% do original e a Taxa CRIT aumenta 80%.\nAo ativar uma <color=#FFFFFF>Assistência Precisa</color>, Astra Yao conecta automaticamente com o 3º golpe carregado do <color=#FFFFFF>Ataque Básico: Capricho</color>, com uma Taxa CRIT 80% maior. Esse efeito pode ser ativado uma vez a cada 10s.",
+                "Astra_Talent_06_Desc_02": "O caos do mundo se originou da solidão do coração humano. Se cada coração sentisse sentimentos recíprocos, talvez as dores, tristezas e silêncios do mundo desaparecessem. Se pudéssemos tecer essa conexão com músicas, será que as rachaduras se fechariam e a dor se transformaria em uma bela melodia que acabaria com o silêncio? Assim o mundo não seria mais uma ilha solitária.\n\"Dedico essa canção para o mundo!\"",
+                "Astra_Talent_06_Desc_01": "No estado de <color=#FFFFFF>Cadenza Idílica</color>, o Multiplicador de Dano de <color=#FFFFFF>Tremolo</color> e <color=#FFFFFF>Cluster de Nota</color> lançados ou conectados aumenta para 200% do valor original e a Taxa CRIT aumenta 80%.\nAo ativar uma <color=#FFFFFF>Assistência Precisa</color>, Astra Yao conecta automaticamente com o 3º golpe carregado do <color=#FFFFFF>Ataque Básico: Capricho</color>, com uma Taxa CRIT 80% maior. Esse efeito pode ser ativado uma vez a cada 10s.",
+                "Astra_Talent_06_Title_Realign": "Somos o Mundo"
+            }
+        ]
+    },
+    "1321": {
+        "role_id": 1321,
+        "name": "Evelyn",
+        "full_name": "Evelyn Chevalier",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Evelyn_Talent_01_Title": "Trama de Sonhos",
+                "Evelyn_Talent_01_Desc_01_Realign": "Evelyn ganha 1500 dB ao entrar no combate.\nInimigos afetados por <color=#FFFFFF>Contenção Trançada</color> ficam em <color=#FFFFFF>Confinamento</color>. Quando Evelyn ataca inimigos em <color=#FFFFFF>Confinamento</color>, ela ignora 12% da DEF dos inimigos.\nQuando Evelyn usa <color=#FFFFFF>Ataque Especial: Contenção Enraizada — Forma I</color> ou <color=#FFFFFF>Ataque Especial Reforçado: Contenção Enraizada — Forma Final</color>, o efeito de <color=#FFFFFF>Confinamento</color> atinge todos os inimigos afetados pela habilidade, que ficam sob efeito de <color=#FFFFFF>Confinamento</color> por 10s.",
+                "Evelyn_Talent_01_Desc_02": "A luz distante e desfocada parecia ser um sonho criado por ela, um futuro inalcançável. Não se tratava de redenção, mas de uma súplica por liberdade.\n\"Você também quer isso, não quer? Uma vida de verdade.\" —Um ex-colega de trabalho anônimo perguntou a Evelyn, certa vez.",
+                "Evelyn_Talent_01_Desc_01": "Ao entrar no campo de batalha, Evelyn imediatamente ganha 1500 dB. Inimigos afetados por <color=#FFFFFF>Contenção Trançada</color> ficarão em <color=#FFFFFF>Confinamento</color>. Quando Evelyn ataca inimigos em <color=#FFFFFF>Confinamento</color>, ela ignora 12% da DEF dos inimigos. Quando Evelyn usa <color=#FFFFFF>Ataque Especial: Contenção Enraizada — Forma I</color> ou <color=#FFFFFF>Ataque Especial Reforçado: Contenção Enraizada — Forma Final</color>, o efeito de <color=#FFFFFF>Confinamento</color> se espalha para todos os inimigos afetados pela habilidade. O efeito de espalhamento de <color=#FFFFFF>Confinamento</color> dura 10s.",
+                "Evelyn_Talent_01_Title_Realign": "Trama de Sonhos"
+            },
+            {
+                "talent_id": "2",
+                "Evelyn_Talent_02_Title": "Dança do Fogo",
+                "Evelyn_Talent_02_Desc_01_Realign": "O ATQ de Evelyn aumenta 15%.\nQuando Evelyn usa <color=#FFFFFF>Ataque Básico: Garrote Tipo I</color> ou <color=#FFFFFF>Ataque Básico: Garrote Tipo II</color>, recupera a <color=#FFFFFF>Chama Ardente</color> consumida.\nEsse efeito pode ser ativado uma vez a cada 25s.\nQuando Evelyn consome <color=#FFFFFF>Ponto de Ignição</color> para ativar <color=#FFFFFF>Ataque em Cadeia: Lunalux — Tambor</color>, o nível de Interrupção da habilidade aumenta.",
+                "Evelyn_Talent_02_Desc_02": "\"Para mim, aquela luz era estranha, algo que eu deveria evitar, mas que atravessou todas as minhas linhas de defesa, como se para me lembrar de que há algo além da escuridão, pelo que vale a pena perseverar.\"\nHá uma rara suavidade na voz de Evelyn ao se lembrar do dia em que conheceu Astra Yao.",
+                "Evelyn_Talent_02_Desc_01": "O ATQ de Evelyn aumenta 15%. Quando Evelyn usa <color=#FFFFFF>Ataque Básico: Garrote Tipo I</color> ou <color=#FFFFFF>Ataque Básico: Garrote Tipo II</color>, recupera a <color=#FFFFFF>Chama Ardente</color> consumida.\nEsse efeito pode ser ativado uma vez a cada 25s. Quando Evelyn consome <color=#FFFFFF>Ponto de Ignição</color> para ativar <color=#FFFFFF>Ataque em Cadeia: Lunalux — Tambor</color>, o nível de Interrupção da habilidade aumenta.",
+                "Evelyn_Talent_02_Title_Realign": "Dança do Fogo"
+            },
+            {
+                "talent_id": "3",
+                "Evelyn_Talent_03_Title": "Metamorfose",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Evelyn_Talent_03_Desc_02": "Naquele momento, ela se libertou de suas amarras e se tornou seu verdadeiro eu. As cordas firmes arrebentaram e as correntes se transformaram em um casulo rompido.\nEvelyn está no limite do renascimento, e em seu olhar frio e cortante há um brilho suave e sutil.",
+                "Evelyn_Talent_03_Title_Realign": "Metamorfose"
+            },
+            {
+                "talent_id": "4",
+                "Evelyn_Talent_04_Title": "Melodia do Destino",
+                "Evelyn_Talent_04_Desc_01_Realign": "Ao ativar um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, Evelyn imediatamente ganha um Escudo equivalente a 10% de seu Máx. de PV. Enquanto estiver com Escudo, o Dano CRIT de Evelyn aumenta 40%.",
+                "Evelyn_Talent_04_Desc_02": "\"Sabe, Eva? Sempre que encontro alguém importante para mim, meu coração começa a bater bem forte, tipo 'tu-tum!'.\"\nEvelyn suspira, indicando que está ficando tarde. Astra rapidamente amarra a parte de trás de seu vestido e corre para a porta.\n\"Tu-tum\", Evelyn murmura consigo mesma, sozinha no camarim.",
+                "Evelyn_Talent_04_Desc_01": "Ao ativar um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, Evelyn imediatamente ganha um Escudo equivalente a 10% de seu Máx. de PV. Enquanto estiver com Escudo, o Dano CRIT de Evelyn aumenta 40%.",
+                "Evelyn_Talent_04_Title_Realign": "Melodia do Destino"
+            },
+            {
+                "talent_id": "5",
+                "Evelyn_Talent_05_Title": "Fios Vermelhos como o Amanhecer",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Evelyn_Talent_05_Desc_02": "Seus fios de seda tingidos de vermelho são como nuvens ao amanhecer.\nDepois de cada ataque, ela gira com elegância, espalhando chamas brilhantes como a luz da manhã. Sem precisar dizer nada, a proteção de Evelyn se torna uma chama ardente.",
+                "Evelyn_Talent_05_Title_Realign": "Fios Vermelhos como o Amanhecer"
+            },
+            {
+                "talent_id": "6",
+                "Evelyn_Talent_06_Title": "União de Luz e Sombra",
+                "Evelyn_Talent_06_Desc_01_Realign": "Ao executar um <color=#FFFFFF>Ataque em Cadeia</color> ou um <color=#FFFFFF>Supremo</color>, Evelyn ganha <color=#FFFFFF>Ponta de Corda Sombria</color> por 20s.\nDurante <color=#FFFFFF>Ponta de Corda Sombria</color>, quando Evelyn atinge um inimigo com <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Ataque Rápido</color>, <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color>, executa um ataque sequencial de <color=#FFFFFF>Garrote Lunalux</color> e causa <color=#FF5521>Dano de Fogo</color> equivalente a 375% do ATQ de Evelyn. Esse Dano é considerado <color=#FFFFFF>dano de Ataque em Cadeia</color> e pode ser ativado até 16 vezes. O número de ativações é redefinido a cada <color=#FFFFFF>Ponta de Corda Sombria</color> obtida.",
+                "Evelyn_Talent_06_Desc_02": "Onde há luz, sempre haverá sombra.\nEla se esconde em silêncio, traçando o caminho da luz e protegendo cada lampejo brilhante. A sombra nunca tenta roubar o brilho da luz, mas a cada curva, ela preenche os cantos em que a luz não alcança.\nAs duas nunca se separaram, e nem poderiam — a luz estaria incompleta sem a sombra, e a sombra só existe devido à luz. É uma perseguição eterna, uma conexão indescritível.",
+                "Evelyn_Talent_06_Desc_01": "Ao executar um <color=#FFFFFF>Ataque em Cadeia</color> ou um <color=#FFFFFF>Supremo</color>, Evelyn ganha <color=#FFFFFF>Ponta de Corda Sombria</color> por 20s. Durante <color=#FFFFFF>Ponta de Corda Sombria</color>, quando Evelyn atinge um inimigo com <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Ataque Rápido</color>, <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color>, executa um ataque adicional subsequente de <color=#FFFFFF>Garrote Lunalux</color>, causando <color=#FF5521>Dano de Fogo</color> equivalente a 375% do ATQ de Evelyn. Esse Dano é considerado <color=#FFFFFF>Ataque em Cadeia</color> e pode ser ativado até 16 vezes. Cada vez que obter <color=#FFFFFF>Ponta de Corda Sombria</color>, a quantidade de ativações será redefinida.",
+                "Evelyn_Talent_06_Title_Realign": "União de Luz e Sombra"
+            }
+        ]
+    },
     "0": {
         "role_id": 0,
         "name": null,

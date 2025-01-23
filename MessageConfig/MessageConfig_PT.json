@@ -344,7 +344,7 @@
     "1026": {
         "id": "1026",
         "texts": {
-            "Message_102601": "null"
+            "Message_102601": "O jogador concluiu a comissão. O entregador enviou uma mensagem de agradecimento privada."
         }
     },
     "1027": {
@@ -363,16 +363,16 @@
     "1028": {
         "id": "1028",
         "texts": {
-            "Message_102801": "null",
-            "Option01_102802": "null"
+            "Message_102801": "O jogador concluiu a última comissão e o entregador enviou uma mensagem de agradecimento.",
+            "Option01_102802": "De nada."
         }
     },
     "1029": {
         "id": "1029",
         "texts": {
-            "Message_102901": "null",
-            "Option01_102902": "null",
-            "Message_102903": "null"
+            "Message_102901": "O jogador completou a segunda Comissão de Combate. O entregador enviou uma mensagem de agradecimento.",
+            "Option01_102902": "De nada.",
+            "Message_102903": "Você é muito gentil!"
         }
     },
     "2001": {
@@ -4496,7 +4496,7 @@
         "id": "200423",
         "texts": {
             "Message_20042301": "Gatos conseguem sentir o perigo.",
-            "Message_20042302": "O Capitão Brujas uma vez nos contou sobre suas experiências em um hospital militar.",
+            "Message_20042302": "A Capitã Magus uma vez nos contou sobre suas experiências em um hospital militar.",
             "Message_20042303": "No hospital tinha um gato que sempre deitava na cama dos soldados gravemente feridos, e aqueles escolhidos por ele logo faleciam.",
             "Message_20042304": "Faz um tempo que notei um gato preto nos becos atrás do fliperama.",
             "Message_20042305": "Vamos dar uma olhada nesse gato qualquer hora.",
@@ -6338,10 +6338,551 @@
             "Option02_42801514": "null"
         }
     },
+    "431001": {
+        "id": "431001",
+        "texts": {
+            "Message_43100101": "Ei, só queria passar pra avisar que esta é a minha outra conta. Podemos conversar por aqui no futuro",
+            "Option01_43100102": "Hum, o avatar é familiar",
+            "OptionLong01_43100102": "Hum, esse avatar é familiar. O que aconteceu com a outra conta?",
+            "Option02_43100102": "O que aconteceu com a outra?",
+            "OptionLong02_43100102": "Hum, esse avatar é familiar. O que aconteceu com a outra conta?",
+            "Message_43100103": "Eu tenho três contas, e cada uma tem um propósito diferente",
+            "Message_43100104": "A 1ª é pra comunicação de trabalho, a 2ª pra amigos online e a 3ª pra amigos da vida real!",
+            "Option01_43100105": "Então a outra era...",
+            "Option02_43100105": "Então, e essa é qual?",
+            "Message_43100106": "Antes era a 2ª, agora é a 3ª",
+            "Message_43100107": "No futuro, vou te procurar por aqui, então não se confunda. Afinal, tem algumas pessoas que usam meu nome e aparência em suas contas na Interlaço",
+            "Message_43100108": "Enfim, não deixe de conferir o arroz frito!",
+            "Message_43100110": "Claro que é a número 3! Nossa amizade não é só virtual, certo?"
+        }
+    },
+    "431002": {
+        "id": "431002",
+        "texts": {
+            "Message_43100201": "Você conhece \"Desejo da Pequena Estrela\"?",
+            "Option01_43100202": "Isso é o nome de uma pessoa?",
+            "Option02_43100202": "Isso é... O título de algum filme?",
+            "Message_43100203": "Eu não sei muito bem o que é, mas eu estava conversando com a minha mãe e ela disse: \"Na verdade, eu também já apareci na TV\", e isso despertou a minha curiosidade na hora!",
+            "Message_43100204": "Ela falou que não se lembra muito dos detalhes, só de \"Desejo da Pequena Estrela\"",
+            "Message_43100205": "Por isso, vim pedir a sua ajuda. Você tem mais conhecimento sobre essas coisas",
+            "Option01_43100206": "Ah, acho que lembrei!",
+            "OptionLong01_43100206": "Ah! Acho que lembrei. \"Desejo da Pequena Estrela\" não é música nem filme, é um programa de variedades!",
+            "Option02_43100206": "Ah, lembrei, não é música nem filme!",
+            "OptionLong02_43100206": "Ah! Acho que lembrei. \"Desejo da Pequena Estrela\" não é música nem filme, é um programa de variedades!",
+            "Option01_43100207": "Não se preocupe, vou procurar",
+            "OptionLong01_43100207": "Eu vou procurar, acho que tenho uma fita aqui",
+            "Option02_43100207": "Na verdade, eu já vi uma fita desse programa",
+            "OptionLong02_43100207": "Eu vou procurar, acho que tenho uma fita aqui",
+            "Message_43100208": "Pode me ajudar a encontrar a fita? Ou eu posso procurar por conta própria. Eu só quero muito ver como era a minha mãe naquela época",
+            "Option01_43100209": "Enquanto a gente conversava...",
+            "OptionLong01_43100209": "Enquanto a gente conversava... já encontrei",
+            "Option02_43100209": "Achei!",
+            "OptionLong02_43100209": "Enquanto a gente conversava... já encontrei",
+            "Message_43100210": "Sério? Isso é ótimo! Por favor, guarda pra mim. Eu passo na locadora quando estiver livre"
+        }
+    },
+    "431003": {
+        "id": "431003",
+        "texts": {
+            "Option01_43100301": "Muito trabalho ultimamente?",
+            "Option02_43100301": "Você vai ter algum tempo livre em breve?",
+            "Message_43100302": "Totalmente sem tempo!",
+            "Message_43100303": "Mas eu gostaria... de ter uma folga.",
+            "Option01_43100304": "É exatamente nisso que eu estava pensando!",
+            "Option02_43100304": "Que coincidência, eu também!",
+            "Message_43100305": "Então pensamos no mesmo. Que tal agora? Podemos deixar nossos telefones de lado e nos encontrarmos pessoalmente?",
+            "Option01_43100306": "Claro!",
+            "OptionLong01_43100306": "Claro. Para onde você quer ir?",
+            "Option02_43100306": "Pra onde você quer ir?",
+            "OptionLong02_43100306": "Claro. Para onde você quer ir?",
+            "Message_43100307": "Pode escolher! Ah, mas tenta escolher um lugar com pouca gente",
+            "Message_43100308": "Afinal, vou sair para te ver. Não quero muita gente incomodando...",
+            "Option01_43100309": "Então vamos para a Arena Reverberante!",
+            "Option02_43100309": "Que tal irmos para o Porto Elpis pescar?",
+            "Message_43100310": "Claro, afinal todos lá acham que eu só imito a Astra Yao mesmo, então acho que será conveniente...",
+            "Message_43100311": "Então tá decidido, nos encontramos na Arena Reverberante",
+            "Message_43100312": "Claro. Espero que todos aqueles pescadores estejam lá hoje. Eu gosto de ver eles pescando",
+            "Option01_43100313": "Você gosta de ver as pessoas pescando?",
+            "OptionLong01_43100313": "Você quer dizer que prefere ver as pessoas pescando do que pescar mesmo?",
+            "Option02_43100313": "Você deve gostar é de ver eles discutindo né?",
+            "OptionLong02_43100313": "Você quer dizer que prefere ver as pessoas pescando do que pescar mesmo?",
+            "Message_43100314": "Resposta oficial: Não tenho nada a comentar. Resposta não oficial: Eu gosto de todo o tipo de drama!",
+            "Message_43100315": "Então, tá combinado! Vamos nos encontrar no Porto Elpis",
+            "Message_43100316": "Que coincidência! Eu estava prestes a te perguntar se você estava livre!",
+            "Option01_43100317": "Eu perguntei primeiro!",
+            "Option02_43100317": "Pode me responder primeiro!",
+            "Message_43100318": "Certo. Tenho andado muito ocupada ultimamente, mas... acho que preciso de um descanso",
+            "Option01_43100319": "Que coincidência!",
+            "OptionLong01_43100319": "Que coincidência, eu também!",
+            "Option02_43100319": "Eu também!",
+            "OptionLong02_43100319": "Que coincidência, eu também!",
+            "Message_43100320": "Para celebrar essa coincidência, vamos escolher um lugar para passear!",
+            "Option01_43100321": "Claro!",
+            "Option02_43100321": "É exatamente nisso que eu estava pensando",
+            "Message_43100322": "Então, para onde vamos? Espero que seja um lugar com pouca gente",
+            "Message_43100323": "Afinal, vamos sair para nos ver. Não quero muita gente incomodando..."
+        }
+    },
+    "431004": {
+        "id": "431004",
+        "texts": {
+            "Option01_43100401": "Estou querendo te ver!",
+            "Option02_43100401": "O que você tá fazendo?",
+            "Message_43100402": "Então... Por que não dá uma olhada nos pôsteres da loja?",
+            "Option01_43100403": "Ah mas é bem melhor te ver na vida real!",
+            "Option02_43100403": "Tudo bem, vou dar uma olhada",
+            "Message_43100404": "Eu estava brincando! Apesar de estar sem tempo, assim que vi a sua mensagem eu fiquei ansiosa. Quero te encontrar pessoalmente!",
+            "Message_43100405": "Que tal encontrar um lugar para irmos?",
+            "Message_43100406": "Ah, certo. Só evite lugares lotados, por favor. Não é que eu tenha medo de ser vista com você, é só que autógrafos e fotos tiradas com os fãs podem acabar tomando muito tempo...",
+            "Option01_43100407": "Então vamos para a Arena Reverberante!",
+            "Option02_43100407": "Que tal irmos para o Porto Elpis pescar?",
+            "Message_43100408": "Claro, afinal todos lá acham que eu só imito a Astra Yao mesmo, então acho que será conveniente...",
+            "Message_43100409": "Então está decidido, nos encontramos na Arena Reverberante",
+            "Message_43100410": "Claro. Espero que todos aqueles pescadores estejam lá hoje. Eu gosto de ver eles pescando",
+            "Option01_43100411": "Você gosta de ver as pessoas pescando?",
+            "OptionLong01_43100411": "Você gosta de ver as pessoas pescando ou discutindo?",
+            "Option02_43100411": "Você deve gostar é de ver eles discutindo né?",
+            "OptionLong02_43100411": "Você gosta de ver as pessoas pescando ou discutindo?",
+            "Message_43100412": "Resposta oficial: Não tenho nada a comentar. Resposta não oficial: Eu gosto de todo o tipo de drama!",
+            "Message_43100413": "Então, está combinado! Vamos nos encontrar no Porto Elpis.",
+            "Message_43100414": "Espere, eu estava brincando! Na verdade, quero te ver. Deixe os pôsteres pra lá...",
+            "Message_43100415": "Ah... Já faz tanto tempo que não vejo {M#o Wise}{F#a Belle}... Não consigo nem me lembrar da aparência...",
+            "Option01_43100416": "Vou tirar umas fotos na próxima...",
+            "Option02_43100416": "Aqui está tudo bem, eu tenho seus pôsteres...",
+            "Message_43100417": "Certo, então, dessa vez, vamos nos encontrar pessoalmente. Onde você quer ir?",
+            "Message_43100418": "Ei, não fique olhando para os pôsteres. Vamos sair! Onde vamos nos encontrar?",
+            "Message_43100419": "Estou escrevendo uma música, mas estou sem inspiração, e não sei como ela deve continuar",
+            "Message_43100420": "Vamos lá, vamos sair. Quer me ajudar a procurar inspiração para a minha música?",
+            "Option01_43100421": "Claro!",
+            "OptionLong01_43100421": "Sem problemas. Eu... vou conseguir te ajudar com essa inspiração?",
+            "Option02_43100421": "Eu posso te ajudar com inspiração?",
+            "OptionLong02_43100421": "Sem problemas. Eu... vou conseguir te ajudar com essa inspiração?",
+            "Message_43100422": "É claro! Quando fazemos alguma coisa, tudo é divertido. Isso é ótimo para escrever umas canções",
+            "Message_43100423": "Então, para onde vamos? Ah, sim. Vamos para algum lugar que não tenha muita gente",
+            "Message_43100424": "Não é que eu tenha medo de ser vista com você, é só que autógrafos e fotos tiradas com os fãs podem acabar tomando muito tempo..."
+        }
+    },
+    "431005": {
+        "id": "431005",
+        "texts": {
+            "Option01_43100501": "Muito trabalho ultimamente?",
+            "Option02_43100501": "Você vai ter algum tempo livre em breve?",
+            "Message_43100502": "Totalmente sem tempo!",
+            "Message_43100503": "Mas eu gostaria... de ter uma folga",
+            "Option01_43100504": "É exatamente nisso que eu estava pensando!",
+            "Option02_43100504": "Que coincidência, eu também!",
+            "Message_43100505": "Então pensamos no mesmo. Que tal agora? Podemos deixar nossos telefones de lado e nos encontrarmos pessoalmente?",
+            "Option01_43100506": "Claro!",
+            "OptionLong01_43100506": "Claro. Para onde você quer ir?",
+            "Option02_43100506": "Pra onde você quer ir?",
+            "OptionLong02_43100506": "Claro. Para onde você quer ir?",
+            "Message_43100507": "Você decide! Podemos ir a qualquer lugar!",
+            "Option01_43100508": "O que acha da loja de música da Rua Seis?",
+            "Option02_43100508": "O que acha de comer um macarrão na Rua Seis?",
+            "Message_43100509": "A loja de música da sua rua né? O nome é Agulha Bárdica, certo? Beleza! Vou sair agora, te vejo na estação de metrô da Rua Seis!",
+            "Message_43100510": "Ótima ideia! Ah... foi só você falar e já comecei a ter fome! Vamos nos encontrar na saída da estação de metrô da Rua Seis!",
+            "Message_43100511": "Que coincidência! Eu estava prestes a te perguntar se você estava livre!",
+            "Option01_43100512": "Eu perguntei primeiro!",
+            "Option02_43100512": "Pode me responder primeiro!",
+            "Message_43100513": "Certo. Tenho andado muito ocupada ultimamente, mas... acho que preciso de um descanso",
+            "Option01_43100514": "Que coincidência!",
+            "OptionLong01_43100514": "Que coincidência, eu também!",
+            "Option02_43100514": "Eu também!",
+            "OptionLong02_43100514": "Que coincidência, eu também!",
+            "Message_43100515": "Para celebrar essa coincidência, vamos escolher um lugar para passear!",
+            "Option01_43100516": "Claro!",
+            "Option02_43100516": "É exatamente nisso que eu estava pensando",
+            "Message_43100517": "Bem, então, para onde você quer ir? Qualquer lugar está bom!"
+        }
+    },
+    "431006": {
+        "id": "431006",
+        "texts": {
+            "Option01_43100601": "Estou querendo te ver!",
+            "Option02_43100601": "O que você tá fazendo?",
+            "Message_43100602": "Então... Por que não dá uma olhada nos pôsteres da loja?",
+            "Option01_43100603": "Ah mas é bem melhor te ver na vida real!",
+            "Option02_43100603": "Tudo bem, vou dar uma olhada",
+            "Message_43100604": "Eu estava brincando! Apesar de estar sem tempo, assim que vi a sua mensagem eu fiquei ansiosa. Quero te encontrar pessoalmente!",
+            "Message_43100605": "Que tal encontrar um lugar para irmos?",
+            "Option01_43100606": "O que acha da loja de música da Rua Seis?",
+            "Option02_43100606": "O que acha de comer um macarrão na Rua Seis?",
+            "Message_43100607": "A loja de música da sua rua né? O nome é Agulha Bárdica, certo? Beleza! Vou sair agora, te vejo na estação de metrô da Rua Seis!",
+            "Message_43100608": "Ótima ideia! Ah... foi só você falar e já fiquei com fome! Vamos nos encontrar na saída da estação de metrô da Rua Seis!",
+            "Message_43100609": "Espere, eu estava brincando! Na verdade, quero te ver. Deixe os pôsteres pra lá...",
+            "Message_43100610": "Ah... Já faz tanto tempo que não vejo {M#o Wise}{F#a Belle}... Não consigo nem me lembrar da aparência...",
+            "Option01_43100611": "Vou tirar umas fotos na próxima...",
+            "Option02_43100611": "Aqui está tudo bem, eu tenho seus pôsteres...",
+            "Message_43100612": "Certo, então, dessa vez, vamos nos encontrar pessoalmente. Onde você quer ir?",
+            "Message_43100613": "Ei, não fique olhando para os pôsteres. Vamos sair! Onde vamos nos encontrar?",
+            "Message_43100614": "Estou escrevendo uma música, mas estou sem inspiração, e não sei como ela deve continuar",
+            "Message_43100615": "Vamos lá, vamos sair. Quer me ajudar a procurar inspiração para a minha música?",
+            "Option01_43100616": "Claro!",
+            "OptionLong01_43100616": "Sem problemas. Eu... vou conseguir te ajudar com essa inspiração?",
+            "Option02_43100616": "Eu posso te ajudar com inspiração?",
+            "OptionLong02_43100616": "Sem problemas. Eu... vou conseguir te ajudar com essa inspiração?",
+            "Message_43100617": "É claro! Quando fazemos alguma coisa, tudo é divertido. Isso é ótimo para escrever umas canções",
+            "Message_43100618": "Então, você já decidiu para onde vamos? Podemos ir para qualquer lugar que você quiser!"
+        }
+    },
+    "431007": {
+        "id": "431007",
+        "texts": {
+            "Message_43100701": "Eu não sei roubar. Não consigo, mesmo se eu quisesse",
+            "Message_43100702": "Talvez o motivo seja a falta de um cúmplice",
+            "Option01_43100703": "Desculpe, tinha que fazer outras coisas",
+            "Option02_43100703": "Desculpe! Tinha algo urgente para fazer!",
+            "Message_43100704": "Pode deixar pra lá. Eu te perdoo",
+            "Option01_43100705": "Merchandises?",
+            "OptionLong01_43100705": "Merchandises? De que tipo?",
+            "Option02_43100705": "Que tipo de Merchandises?",
+            "OptionLong02_43100705": "Merchandises? De que tipo?",
+            "Message_43100706": "Eu comprei um monte de merchandises legais na Arena Reverberante. Foi uma pena você não aproveitar!",
+            "Option01_43100707": "Eu vou na próxima!",
+            "Option02_43100707": "Não vou perder na próxima",
+            "Message_43100708": "Tudo bem, vou guardar a sua resposta. Vamos ver o que você vai fazer!"
+        }
+    },
+    "431008": {
+        "id": "431008",
+        "texts": {
+            "Message_43100801": "Ontem, no Porto Elpis, tinha duas pessoas bem tristes",
+            "Message_43100802": "Uma era o vovô, que estava sendo ignorado pelos peixes. A outra era a Astra, que foi ignorada {M#pelo Wise}{F#pela Belle}.",
+            "Option01_43100803": "Desculpa, eu realmente estava resolvendo algo importante...",
+            "Option02_43100803": "Desculpe! Foi uma emergência...",
+            "Message_43100804": "Nada é mais importante do que pescar!",
+            "Message_43100805": "Hum... Acho que pode funcionar!",
+            "Message_43100806": "Está bem, eu perdoo dessa vez. Mas não adianta se você não aparecer na próxima!"
+        }
+    },
+    "431009": {
+        "id": "431009",
+        "texts": {
+            "Message_43100901": "Eu ouvi quase todos os discos da Agulha Bárdica, e você não apareceu... Que triste...",
+            "Option01_43100902": "Desculpa, tive que resolver algo urgente",
+            "OptionLong01_43100902": "Me desculpa! Eu tive uma emergência... Espera, você realmente ouviu isso tudo?",
+            "Option02_43100902": "Desculpa, tive que lidar com um imprevisto urgente",
+            "OptionLong02_43100902": "Me desculpa! Eu tive uma emergência... Espera, você realmente ouviu isso tudo?",
+            "Message_43100903": "Claro que não! Era mentira! Mas a parte triste é verdade!",
+            "Option01_43100904": "Eu vou na próxima!",
+            "Option02_43100904": "Nunca vou perder na próxima, prometo",
+            "Message_43100905": "Certo, vou confiar em você! A loja de música é bem perto da sua casa. Se você não aparecer, eu vou ficar na sua casa até sairmos!"
+        }
+    },
+    "431010": {
+        "id": "431010",
+        "texts": {
+            "Message_43101001": "Após comer um pouco de macarrão, pedi outro. Após comer o outro, você ainda não tinha aparecido...",
+            "Option01_43101002": "Perdão, algo urgente surgiu!",
+            "Option02_43101002": "Desculpa! Vou aparecer na próxima!",
+            "Message_43101003": "Eu fiz um acordo com o dono. Se você não aparecer na próxima, vou comer tudo que quiser e colocar a conta no seu nome."
+        }
+    },
+    "432001": {
+        "id": "432001",
+        "texts": {
+            "Message_43200101": "Você acordou? Preciso da sua opinião para decidir uma coisa",
+            "Message_43200102": "Queria a sua opinião, astranauta",
+            "Option01_43200103": "Por que você ainda tá trabalhando?",
+            "Option02_43200103": "Evelyn, você ainda tá trabalhando tão tarde...",
+            "Message_43200104": "Não é tão tarde assim. Você também não tá conseguindo dormir?",
+            "Message_43200105": "A senhorita precisa de um vestido para um baile beneficente no mês que vem",
+            "Message_43200106": "Os designs e cores mais comuns já foram usados antes, já os menos comuns...",
+            "Message_43200107": "Como você sabe, muitos designers vão além do necessário para encontrar inspiração e criar algo realmente inovador",
+            "Message_43200108": "Que dor de cabeça...",
+            "Option01_43200109": "Que tipo de roupa ela costuma usar?",
+            "Option02_43200109": "Vamos pensar de outra forma. O que você usaria?",
+            "Message_43200110": "Eu? O mesmo de sempre. Não importa o que eu visto, o que importa é a senhorita",
+            "Option01_43200111": "A Astra pode tentar usar a sua roupa, Evelyn",
+            "Option02_43200111": "A Astra nunca usou o seu estilo, né?",
+            "Message_43200112": "Hum... É uma boa ideia. Meu estilo é mais funcional",
+            "Message_43200113": "Se a senhorita desencadear uma nova moda... o preço das roupas que eu gosto vai disparar",
+            "Message_43200114": "Mas ela provavelmente ficaria bem feliz, né? \"Ah, vou usar a mesma roupa que a Eva... Igualzinho à Eva!\" Ela provavelmente diria isso...",
+            "Message_43200115": "Sim, parece algo que a Srta. Astra faria. Pronto, tá decidido",
+            "Message_43200116": "A propósito, você poderia não contar para a senhorita que eu estava trabalhando até tarde hoje? Ela vai me xingar.",
+            "Option01_43200117": "Não vou falar nada, você deveria descansar, Evelyn...",
+            "Option02_43200117": "Tudo bem. Mas se a Astra não te xingar, eu vou!",
+            "Message_43200118": "Ah, me pegou... A senhorita apareceu no trabalho a essa hora!",
+            "Message_43200119": "Mas você tem razão, usar as minhas roupas é uma boa ideia. Vamos experimentar agora, ninguém deve aparecer a essa hora.",
+            "Message_43200120": "Sendo assim, até mais tarde",
+            "Message_43200121": "Resolver essa questão pra senhorita não conta como hora extra, né?"
+        }
+    },
+    "432002": {
+        "id": "432002",
+        "texts": {
+            "Message_43200201": "Se você pular, eu vou atrás",
+            "Message_43200203": "Você costuma dizer esse tipo de coisa?",
+            "Option01_43200204": "Não, é meio difícil pensar em um cenário em que daria pra encaixar isso...",
+            "Option02_43200204": "Ainda não encontrei um momento para usar frases clássicas...",
+            "Message_43200205": "Bem, parece que chegou a hora. Acho que deveríamos combinar alguma \"frase de segurança\".",
+            "Message_43200206": "Uma frase que poderíamos dizer em um contexto normal, mas com um significado que só nós entenderíamos",
+            "Message_43200207": "Assim, se estivermos conversando e percebermos que estamos em perigo, usamos a frase e a outra pessoa pode ajudar imediatamente",
+            "Message_43200208": "Eu só consegui pensar em \"se você pular, eu vou atrás\", mas não é algo comum de se dizer.",
+            "Message_43200209": "Mas agora que pensei melhor, acho não seria uma boa ideia. Pular em uma fissura é algo comum quando se explora uma Esfera Negra",
+            "Message_43200210": "Se um dia surgir uma situação em que temos que pular, essa frase vai acabar sendo usada...",
+            "Option01_43200211": "Só que também não pode ser algo complexo demais, tipo como se fosse um feitiço, sabe?",
+            "Option02_43200211": "Hum, temos que pensar em algo que pareça normal em um diálogo...",
+            "Message_43200212": "Se fosse tipo um feitiço, acho que não iria conseguir pronunciar direito... seria meio confuso",
+            "Message_43200213": "Alguma ideia?",
+            "Option01_43200214": "Você vai fazer tudo sem ajuda?",
+            "Option02_43200214": "Estou querendo abrir o meu próprio negócio",
+            "Message_43200215": "Ah, ótimo. {M#Wise}{F#Belle} nunca deixaria {M#a sua irmã}{F#seu irmão} para trás",
+            "Message_43200216": "Verdade...",
+            "Message_43200217": "Então, seria muito estranho dizer algo assim",
+            "Message_43200218": "Boa ideia!",
+            "Message_43200219": "Sim, por isso não é muito adequado recitar isso. Seria meio... estranho"
+        }
+    },
+    "432003": {
+        "id": "432003",
+        "texts": {
+            "Message_43200301": "Gerente, você tem um filme da Mônica chamado \"Meu Chuchuzinho\"?",
+            "Option01_43200302": "Sim, é um bom filme",
+            "Option02_43200302": "Claro, é um filme muito procurado",
+            "Message_43200303": "Ah? Que inesperado. Eu pensei que você só teria coisas da Srta. Astra...",
+            "Message_43200304": "A Mônica é a maior rival da Srta. Astra, sabia?",
+            "Option01_43200305": "Tenho que escolher um lado...? Não posso gostar das duas?",
+            "Option02_43200305": "Como gerente da locadora de vídeo, eu mantenho uma postura completamente neutra",
+            "Message_43200306": "Haha, sério? Quer que eu te apresente a Mônica? Posso pedir à Srta. Astra",
+            "Option01_43200307": "Sou Astranauta até o fim! Vou banir o filme da Mônica da locadora AGORA!",
+            "Option02_43200307": "Que se dane a neutralidade! Quero a Mônica longe da minha locadora!",
+            "Message_43200308": "Fico feliz ao ouvir isso. Mas não precisa tirar das prateleiras",
+            "Message_43200309": "Você tem um tempinho nos próximos dias? Eu queria assistir ao filme da Mônica",
+            "Option01_43200310": "Mas... por que só você pode assistir?!",
+            "Option02_43200310": "Que incoerente...",
+            "Message_43200311": "Eu só estou fazendo isso pelo meu trabalho",
+            "Message_43200312": "Eu não queria aumentar as vendas da minha rival, então decidi alugar na sua locadora",
+            "Option01_43200313": "Estou te esperando",
+            "Option02_43200313": "Sempre tenho tempo para você e a senhorita Astra",
+            "Message_43200314": "Muito obrigada",
+            "Message_43200315": "Mas estou sozinha, desculpe te desapontar",
+            "Message_43200316": "A neutralidade é uma boa postura. Permite observar os lados positivos e negativos de várias partes. Isso é bem inteligente"
+        }
+    },
+    "432004": {
+        "id": "432004",
+        "texts": {
+            "Option01_43200401": "Toc toc, ainda se lembra de mim?",
+            "Option02_43200401": "Evelyn, tá ocupada?",
+            "Message_43200402": "? Eu anotei o seu nome, como não iria me lembrar?",
+            "Message_43200403": "Eu não sou o tipo de pessoa que apaga contatos sem pensar duas vezes...",
+            "Message_43200404": "Ou... você que me apagou?",
+            "Option01_43200405": "De jeito nenhum! Eu só tô brincando, faz um tempo que a gente não se vê",
+            "Option02_43200405": "Não é isso, só faz muito tempo que a gente não se vê, pareceu que me apagou psicologicamente",
+            "Message_43200406": "Ah, então é isso. Estou com muito trabalho ultimamente, está sendo uma dor de cabeça. Vai ser ótimo sair para te encontrar e conversar",
+            "Message_43200407": "Mas no seu caso, dá para combinar de sair quando quiser, né?",
+            "Message_43200408": "Eu me atrasei tanto que estou trabalhando até agora... desculpa",
+            "Option01_43200409": "Se ela fez isso, é porque me considera importante",
+            "OptionLong01_43200409": "Isso mesmo. É exatamente porque se valorizam e se entendem, que as pessoas importantes acabam se negligenciando",
+            "Option02_43200409": "Não tem problema, eu também sou assim",
+            "OptionLong02_43200409": "Não se preocupe, eu também sou assim. Acabo deixando de lado as pessoas importantes por causa do trabalho. Eu te entendo, Evelyn",
+            "Message_43200410": "Beleza. Então, para onde você quer ir?",
+            "Option01_43200411": "Que tal a Galeria Lumina?",
+            "Option02_43200411": "Que tal a Arena Reverberante?",
+            "Message_43200412": "Você quer fazer umas compras? Eu não estou precisando de nada",
+            "Message_43200413": "Mas se você quiser, posso te acompanhar",
+            "Message_43200414": "Algumas lojas são bem caras e as peças... não são muito boas",
+            "Message_43200415": "Mas, faz um bom tempo que não vou lá, acho que pode ser uma boa",
+            "Message_43200416": "Vou te esperar na estação de metrô da Praça Lumina",
+            "Message_43200418": "Ah, falando da Arena Reverberante, tenho que resolver um assunto lá",
+            "Message_43200419": "Se você vier comigo, será ainda melhor",
+            "Message_43200420": "Eu tomei uma decisão meio irracional há uns dias...",
+            "Message_43200421": "Para resolver o problema, não tem lugar melhor do que a Arena Reverberante",
+            "Option01_43200422": "Agora você me deixou com curiosidade",
+            "Option02_43200422": "O que aconteceu?",
+            "Message_43200423": "Você vai ver... Nos encontramos na Arena Reverberante",
+            "Message_43200425": "Ah, mas se foi só psicologicamente apagado, também pode ser psicologicamente adicionado",
+            "Message_43200426": "Pedido de amizade enviado, por favor, dê uma olhada na caixa de entrada",
+            "Message_43200427": "Se te irritar, tudo bem. Vou continuar enviando convites até você aceitar",
+            "Message_43200428": "Ocupada",
+            "Message_43200429": "E aí?",
+            "Option01_43200430": "Ah, se você tá ocupada, pode deixar",
+            "Option02_43200430": "Tá tudo certo, pode deixar pra lá",
+            "Message_43200431": "Pode falar",
+            "Message_43200432": "Eu vou responder, não importa o quanto eu esteja ocupada",
+            "Message_43200433": "O que foi?",
+            "Option01_43200434": "Eu queria te convidar para sair e conversar",
+            "Option02_43200434": "Não é nada de mais, é só que a gente não se vê há um tempo e eu queria te encontrar",
+            "Message_43200435": "Certo",
+            "Message_43200436": "Onde?"
+        }
+    },
+    "432005": {
+        "id": "432005",
+        "texts": {
+            "Option01_43200501": "Toc toc, ainda se lembra de mim?",
+            "Option02_43200501": "Evelyn, tá ocupada?",
+            "Message_43200502": "? Eu anotei o seu nome, como não iria me lembrar?",
+            "Message_43200503": "Eu não sou o tipo de pessoa que apaga contatos sem pensar duas vezes...",
+            "Message_43200504": "Ou... você que me apagou?",
+            "Option01_43200505": "De jeito nenhum! Eu só tô brincando, faz um tempo que a gente não se vê",
+            "Option02_43200505": "Não é isso, só faz muito tempo que a gente não se vê, pareceu que me apagou psicologicamente",
+            "Message_43200506": "Ah, então é isso. Estou com muito trabalho ultimamente, está sendo uma dor de cabeça. Vai ser ótimo sair para te encontrar e conversar",
+            "Message_43200507": "Mas no seu caso, dá para combinar de sair quando quiser, né?",
+            "Message_43200508": "Eu me atrasei tanto que estou trabalhando até agora... desculpa",
+            "Option01_43200509": "Eu sei que é porque você se importa comigo",
+            "OptionLong01_43200509": "Pois é. Exatamente porque nos conhecemos e nos valorizamos tanto que acabamos negligenciando quem é importante pra nós ",
+            "Option02_43200509": "Não tem problema, eu também sou assim",
+            "OptionLong02_43200509": "Não se preocupe, eu também sou assim. Acabo deixando de lado as pessoas importantes por causa do trabalho. Eu te entendo, Evelyn",
+            "Message_43200510": "Beleza. Então, para onde você quer ir?",
+            "Option01_43200511": "Que tal o Cinema Gravity?",
+            "Option02_43200511": "Que tal o Godfinger?",
+            "Message_43200512": "Quer assistir a um filme?",
+            "Message_43200513": "Apesar de não ser trabalho, eu acabo me sentindo como se estivesse trabalhando...",
+            "Message_43200514": "Acho que já assisti todos os filmes mais recentes",
+            "Message_43200515": "Mas ouvi dizer que o Gravity tá exibindo vários filmes antigos, então estou curiosa",
+            "Message_43200516": "Tem interesse?",
+            "Option01_43200517": "Sim, tenho interesse!",
+            "Option02_43200517": "Claro, afinal é interessante para a locadora!",
+            "Message_43200518": "Boa ideia. Então, vamos nos encontrar na estação de metrô da Lumina mais tarde",
+            "Message_43200520": "Godfinger... O que é isso?",
+            "Message_43200521": "Ah, eu acabei de pesquisar. É o fliperama perto da sua casa, né?",
+            "Message_43200522": "Lojas assim eram comuns antigamente. Agora nem tanto",
+            "Message_43200523": "Hum, quero ir. Eu sempre tive vontade e nunca fui quando era criança",
+            "Message_43200524": "Então, vamos nos encontrar na estação de metrô da Rua Seis",
+            "Message_43200526": "Ah, mas se foi só psicologicamente apagado, também pode ser psicologicamente adicionado",
+            "Message_43200527": "Pedido de amizade enviado, por favor, dê uma olhada na caixa de entrada",
+            "Message_43200528": "Se te irritar, tudo bem. Vou continuar enviando convites até você aceitar",
+            "Message_43200529": "Ocupada",
+            "Message_43200530": "E aí?",
+            "Option01_43200531": "Ah, se você tá ocupada, pode deixar",
+            "Option02_43200531": "Tá tudo certo, pode deixar pra lá",
+            "Message_43200532": "Pode falar",
+            "Message_43200533": "Eu vou responder, não importa o quanto eu esteja ocupada",
+            "Message_43200534": "O que foi?",
+            "Option01_43200535": "Eu queria te convidar para sair e conversar",
+            "Option02_43200535": "Não é nada demais, é só que a gente não se vê há um tempo e eu queria te encontrar",
+            "Message_43200536": "Encontrar",
+            "Message_43200537": "Onde?"
+        }
+    },
+    "432006": {
+        "id": "432006",
+        "texts": {
+            "Option01_43200601": "Você tá ralando muito. O que acha de sair pra tomar um ar fresco?",
+            "Option02_43200601": "Parece que não estou mais na sua lista VIP...",
+            "Message_43200602": "Estou trabalhando muito ultimamente e queria sair um pouco para pegar um ar... Eu estava digitando exatamente isso para te enviar",
+            "Message_43200603": "Que coincidência!",
+            "Option01_43200604": "Legal! Estamos em sintonia!",
+            "Option02_43200604": "Uau, que bacana!",
+            "Message_43200605": "Sim! E pensamos nisso sem combinar! Incrível!",
+            "Message_43200606": "Mas, nesse momento, estou muito cansada. Você pode decidir aonde vamos, certo?",
+            "Option01_43200607": "Que tal a Galeria Lumina?",
+            "Option02_43200607": "Que tal a Arena Reverberante?",
+            "Message_43200608": "Você quer fazer umas compras? Eu não estou precisando de nada",
+            "Message_43200609": "Mas se você quiser, posso te acompanhar",
+            "Message_43200610": "Algumas lojas são bem caras e as peças... não são muito boas",
+            "Message_43200611": "Mas, faz um bom tempo que não vou lá, acho que pode ser uma boa",
+            "Message_43200612": "Vou te esperar na estação de metrô da Praça Lumina",
+            "Message_43200614": "Ah, falando da Arena Reverberante, tenho que resolver um assunto lá",
+            "Message_43200615": "Se você vier comigo, será ainda melhor",
+            "Message_43200616": "Eu tomei uma decisão meio irracional há uns dias...",
+            "Message_43200617": "Para resolver o problema, não tem lugar melhor do que a Arena Reverberante",
+            "Option01_43200618": "Agora você me deixou com curiosidade",
+            "Option02_43200618": "O que aconteceu?",
+            "Message_43200619": "Você vai ver... Nos encontramos na Arena Reverberante",
+            "Message_43200621": "Eu nunca tive lista VIP",
+            "Option01_43200622": "Ah... Por que você tá dizendo isso?",
+            "Option02_43200622": "Parece que eu me achei demais...",
+            "Message_43200623": "Você está em uma lista mais importante ainda",
+            "Message_43200624": "Comigo, você sempre terá prioridade",
+            "Message_43200625": "Então, ao invés de ficarmos pensando nisso, vamos focar em algo mais construtivo",
+            "Message_43200626": "Por exemplo, aonde vamos para nos divertir..."
+        }
+    },
+    "432007": {
+        "id": "432007",
+        "texts": {
+            "Option01_43200701": "Você tem trabalhado muito esses dias, não quer sair para tomar um ar fresco?",
+            "Option02_43200701": "Parece que não estou mais na sua lista VIP...",
+            "Message_43200702": "Estou trabalhando muito ultimamente e queria sair um pouco para pegar um ar... Estava escrevendo exatamente isso para te enviar",
+            "Message_43200703": "Que coincidência!",
+            "Option01_43200704": "Legal! Estamos em sintonia!",
+            "Option02_43200704": "Uau, que bacana!",
+            "Message_43200705": "Sim! E pensamos nisso sem combinar! Incrível!",
+            "Message_43200706": "Mas, nesse momento, estou muito cansada. Você pode decidir aonde vamos, certo?",
+            "Option01_43200707": "Que tal o Cinema Gravity?",
+            "Option02_43200707": "Que tal o Godfinger?",
+            "Message_43200708": "Quer assistir a um filme?",
+            "Message_43200709": "Apesar de não ser trabalho, eu acabo me sentindo como se estivesse trabalhando...",
+            "Message_43200710": "Acho que já assisti todos os filmes mais recentes",
+            "Message_43200711": "Mas ouvi dizer que o Gravity tá exibindo vários filmes antigos, então estou curiosa",
+            "Message_43200712": "Tem interesse?",
+            "Option01_43200713": "Sim, tenho interesse!",
+            "Option02_43200713": "Claro, afinal é interessante para a locadora!",
+            "Message_43200714": "Boa ideia. Então, vamos nos encontrar na estação de metrô da Lumina mais tarde",
+            "Message_43200716": "Godfinger... O que é isso?",
+            "Message_43200717": "Oh, eu acabei de pesquisar. É o fliperama perto da sua casa, né?",
+            "Message_43200718": "Lojas assim eram comuns antigamente. Agora nem tanto",
+            "Message_43200719": "Hum, quero ir. Eu sempre tive vontade e nunca fui quando era criança",
+            "Message_43200720": "Então, vamos nos encontrar na estação de metrô da Rua Seis",
+            "Message_43200722": "Eu nunca tive lista VIP",
+            "Option01_43200723": "Ah... Por que você tá dizendo isso?",
+            "Option02_43200723": "Parece que eu me achei demais...",
+            "Message_43200724": "Você está em uma lista mais importante ainda",
+            "Message_43200725": "Comigo, você sempre terá prioridade",
+            "Message_43200726": "Então, ao invés de ficarmos pensando nisso, vamos focar em algo mais construtivo",
+            "Message_43200727": "Por exemplo, aonde vamos para nos divertir..."
+        }
+    },
+    "432008": {
+        "id": "432008",
+        "texts": {
+            "Message_43200801": "Parece que você não apareceu no outro dia...",
+            "Message_43200802": "Mas não tem problema, comprei várias coisas que a senhorita pode usar",
+            "Message_43200803": "Então você, basicamente, estava fazendo hora extra, certo?",
+            "Option01_43200804": "Desculpa, vou aparecer na próxima",
+            "Option02_43200804": "De vez em quando, você deveria comprar as coisas que você gosta...",
+            "Message_43200805": "Eu não preciso de nada. Mas você deve querer comprar algumas coisas, né?",
+            "Message_43200806": "Na próxima vez eu compro",
+            "Message_43200807": "Não preciso comprar nada"
+        }
+    },
+    "432009": {
+        "id": "432009",
+        "texts": {
+            "Message_43200901": "Você não cumpriu sua promessa",
+            "Message_43200902": "Eu sei que você tá meio sem tempo, mas poderia, no mínimo, enviar uma mensagem avisando...",
+            "Option01_43200903": "D-Desculpa!",
+            "Option02_43200903": "Foi mal!",
+            "Message_43200904": "Não precisa. Mesmo que você não venha, eu não perderei muito",
+            "Message_43200905": "Eu fiquei na Arena Reverberante para ver um show. Foi impressionante",
+            "Message_43200906": "É uma pena você ter perdido",
+            "Message_43200907": "Talvez na próxima"
+        }
+    },
+    "432010": {
+        "id": "432010",
+        "texts": {
+            "Message_43201001": "Aquele filme era muito bom",
+            "Option01_43201002": "Como assim?",
+            "Option02_43201002": "Que filme?",
+            "Message_43201003": "Ah, você esqueceu? Nós tínhamos combinado de assistir a um filme, mas você não apareceu...",
+            "Option01_43201004": "{M#A Belle}{F#O Wise} pegou o meu celular...",
+            "Option02_43201004": "Não fui eu quem mandou a mensagem...",
+            "Message_43201005": "...",
+            "Message_43201006": "Bem, se você tiver esquecido, não vou ficar com raiva. Se estiver mentindo... é outra história",
+            "Option01_43201007": "Desculpa!",
+            "Option02_43201007": "Eu não vou fazer isso de novo!",
+            "Message_43201008": "Hum..."
+        }
+    },
+    "432011": {
+        "id": "432011",
+        "texts": {
+            "Message_43201101": "Você não apareceu...",
+            "Message_43201102": "Mas a senhorita me encontrou mais tarde e nos divertimos bastante",
+            "Option01_43201103": "Ah... Que arrependimento...",
+            "Option02_43201103": "Q-Quê? A Astra apareceu?",
+            "Message_43201104": "Arrependimento? Ótimo! Agora você sabe o que acontece quando falta a um compromisso!",
+            "Message_43201105": "Não me diga que você vai me dar outro bolo. Meus contatos são algumas das maiores estrelas de Nova Eridu"
+        }
+    },
     "1000001": {
         "id": "1000001",
         "texts": {
-            "Message_100000101": "null"
+            "Message_100000101": "(Temporário) O membro da AIEN A mandou uma mensagem para o protagonista, dizendo que o equipamento da AIEN foi atualizado com dados de um terminal doméstico líder, e que pode desafiar um inimigo raro. Ele também convida o protagonista para experimentar."
         }
     },
     "1007001": {
@@ -7618,19 +8159,19 @@
     "2057001": {
         "id": "2057001",
         "texts": {
-            "Message_205700101": "null"
+            "Message_205700101": "Mensagem Privada de Qingyi - Fase 1: O Departamento de Segurança Pública oferecerá serviços da comunidade"
         }
     },
     "2057002": {
         "id": "2057002",
         "texts": {
-            "Message_205700201": "null"
+            "Message_205700201": "Mensagem Privada de Qingyi - Fase 2: Nós achamos que sabemos quem é o carro suspeito. Vamos encontrar com a comunidade para ver o que sabem."
         }
     },
     "2057003": {
         "id": "2057003",
         "texts": {
-            "Message_205700301": "null"
+            "Message_205700301": "Mensagem Privada de Qingyi - Fase 3: O Departamento de Segurança Pública visitará novamente o local."
         }
     },
     "2057004": {
@@ -7645,19 +8186,19 @@
     "2058001": {
         "id": "2058001",
         "texts": {
-            "Message_205800101": "null"
+            "Message_205800101": "Burnice mandou uma mensagem para o protagonista, dizendo que tem uma comissão de coleta de recursos diária que precisa de um Mediador. Ela está pedindo ajuda ao protagonista."
         }
     },
     "2058002": {
         "id": "2058002",
         "texts": {
-            "Message_205800201": "null"
+            "Message_205800201": "Burnice mandou uma mensagem para o Protagonista, dizendo que tem algo urgente para falar pessoalmente com o Proxy."
         }
     },
     "2058003": {
         "id": "2058003",
         "texts": {
-            "Message_205800301": "null"
+            "Message_205800301": "Burnice mandou uma mensagem para o personagem principal, dizendo que está chateada que o personagem principal está de mau humor, e convida o personagem principal para sair e se divertir."
         }
     },
     "3010001": {
@@ -7781,9 +8322,9 @@
         "texts": {
             "Option01_100710": "Oi! Tem alguém aí?",
             "Message_1010212": "A recompensa é meio a meio",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Muito obrigado por aceitar a minha missão!",
+            "Message_100602": "Eu sempre lembrarei de você ter dedicado sua vida à pesquisa sobre as Esferas Negras.",
+            "Message_991502": "Aí nos vemos! Loja de Conveniência 141!"
         }
     },
     "3020013": {
@@ -7804,9 +8345,9 @@
         "texts": {
             "Option01_100710": "Oi! Tem alguém aí?",
             "Message_1010212": "A recompensa é meio a meio",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Muito obrigado por aceitar a minha missão!",
+            "Message_100602": "Eu sempre lembrarei de você ter dedicado sua vida à pesquisa sobre as Esferas Negras.",
+            "Message_991502": "Aí nos vemos! Loja de Conveniência 141!"
         }
     },
     "3020015": {
@@ -7824,9 +8365,9 @@
         "texts": {
             "Option01_100710": "Oi! Tem alguém aí?",
             "Message_1010212": "A recompensa é meio a meio",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Muito obrigado por aceitar a minha missão!",
+            "Message_100602": "Eu sempre lembrarei de você ter dedicado sua vida à pesquisa sobre as Esferas Negras.",
+            "Message_991502": "Aí nos vemos! Loja de Conveniência 141!"
         }
     },
     "3020017": {
@@ -7834,9 +8375,9 @@
         "texts": {
             "Option01_100710": "Oi! Tem alguém aí?",
             "Message_1010212": "A recompensa é meio a meio",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Muito obrigado por aceitar a minha missão!",
+            "Message_100602": "Eu sempre lembrarei de você ter dedicado sua vida à pesquisa sobre as Esferas Negras.",
+            "Message_991502": "Aí nos vemos! Loja de Conveniência 141!"
         }
     },
     "3020018": {
@@ -7844,9 +8385,9 @@
         "texts": {
             "Option01_100710": "Oi! Tem alguém aí?",
             "Message_1010212": "A recompensa é meio a meio",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Muito obrigado por aceitar a minha missão!",
+            "Message_100602": "Eu sempre lembrarei de você ter dedicado sua vida à pesquisa sobre as Esferas Negras.",
+            "Message_991502": "Aí nos vemos! Loja de Conveniência 141!"
         }
     },
     "3020019": {
@@ -8121,6 +8662,64 @@
         "id": "3099031",
         "texts": {
             "Message_309903110": "Então é melhor você anotar todas as suas vitórias, todas as lutas com Etéreos e cada olhada torta que receber nas Esferas Negras!"
+        }
+    },
+    "3511261": {
+        "id": "3511261",
+        "texts": {
+            "Message_351126101": "Ah, Proxy, desculpe! Eu tô no supermercado até agora, e só terminei de trabalhar há pouco! Você já chegou na Praça Lumina? Viu Riquinho?",
+            "Option01_351126102": "Sim, eu vi. Vi Nicole e os outros também.",
+            "Option02_351126102": "Sim, pela primeira vez, eu vi o poder financeiro de um Bangboo.",
+            "Message_351126103": "O quê? Como assim?",
+            "Option01_351126104": "É difícil descrever em poucas palavras.",
+            "Option02_351126104": "Não posso expressar minha surpresa com palavras.",
+            "Message_351126105": "Parece que muitas coisas aconteceram. Deveríamos ligar para saber mais?",
+            "Message_351126106": "Ah, a propósito, eu estou perto de sua casa. Você está aí?",
+            "Option01_351126107": "Estou na Praça Lumina, mas já tô indo pra casa.",
+            "Option02_351126107": "Me espera em minha casa. Vou aí agora mesmo.",
+            "Message_351126108": "Beleza, já tô indo!"
+        }
+    },
+    "3511262": {
+        "id": "3511262",
+        "texts": {
+            "Message_351126201": "Pintar foto é difícil.",
+            "Message_351126202": "Devia ter pedido ajuda de Lynn...",
+            "Option01_351126203": "Não se desanime!",
+            "Option02_351126203": "Vamos lá! Você consegue!",
+            "Message_351126204": "Mas hoje foi bem legal.",
+            "Message_351126205": "Fiquei feliz pelo Sr. Tang!",
+            "Message_351126206": "A propósito, parece que você sempre se mete em problemas. Será que sou a única pessoa que pensa assim?",
+            "Option01_351126207": "Isso seria considerado um problema?",
+            "Option02_351126207": "Talvez, haha...",
+            "Message_351126208": "Quero ver você pescar um peixe na próxima vez, mas nem tente me ensinar, porque não vou aprender."
+        }
+    },
+    "3591261": {
+        "id": "3591261",
+        "texts": {
+            "Option01_359126101": "Evelyn, queria te perguntar uma coisa.",
+            "Option02_359126101": "Evelyn, tá aí?",
+            "Message_359126102": "Sim, estou. O que foi?",
+            "Option01_359126103": "A gente encontrou o Snapster...",
+            "OptionLong01_359126103": "A gente encontrou Snapster no Porto Elpis. Ele estava fazendo algumas comissões de fotografia e parecia um pouco pra baixo. Você está sabendo de alguma coisa?",
+            "Option02_359126103": "Alguma coisa aconteceu com o Snapster?",
+            "OptionLong02_359126103": "Alguma coisa aconteceu com o Snapster? A gente encontrou Snapster no Porto Elpis. Ele estava fazendo uma comissão de fotografia e parecia um pouco pra baixo.",
+            "Message_359126104": "Ah, não é à toa que ele tem estado por lá nos últimos dias.",
+            "Message_359126105": "Acho que sei o motivo, mas não consigo explicar bem por mensagem.",
+            "Message_359126106": "Você tem tempo para dar uma passadinha aqui? Estou acompanhando o ensaio da Srta. Astra perto dos Edifícios Balé.",
+            "Message_359126107": "Eu te espero aqui para a gente falar pessoalmente.",
+            "Option01_359126108": "Já chego aí.",
+            "Option02_359126108": "Cheguei!"
+        }
+    },
+    "3711261": {
+        "id": "3711261",
+        "texts": {
+            "Message_371126101": "Você voltou, gerente?",
+            "Option01_371126102": "Uau! Como você sabe disso?",
+            "Option02_371126102": "Qingyi, onde você está?",
+            "Message_371126103": "Gerente, dê uma olhada no farol."
         }
     },
     "4006001": {

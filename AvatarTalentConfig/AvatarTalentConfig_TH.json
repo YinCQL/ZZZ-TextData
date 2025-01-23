@@ -1377,6 +1377,112 @@
             }
         ]
     },
+    "1311": {
+        "role_id": 1311,
+        "name": "Astra Yao",
+        "full_name": "Astra Yao",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Astra_Talent_01_Title": "12-Tone Equal Temperament",
+                "Astra_Talent_01_Desc_01_Realign": "เมื่อ Astra Yao โจมตีถูกศัตรู ความต้านทานความเสียหายธาตุทั้งหมดของเป้าหมายจะลดลง 6% โดยจะซ้อนทับได้มากสุด 3 ชั้น ต่อเนื่อง 30 วินาที และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง;\nเมื่อเข้าสู่การต่อสู้ Astra Yao จะได้รับค่า Decibel 1,000 แต้ม โดยทันที;\nเมื่อใช้ <color=#FFFFFF>[สกิลอัลติเมท]</color> สมาชิกแต่ละคนในทีมจะได้รับเอฟเฟกต์ <color=#FFFFFF>[Song of Protection]</color> 1 ชั้น ต่อเนื่อง 60 วินาที โดยเมื่อถูกศัตรูโจมตี จะใช้ <color=#FFFFFF>[Song of Protection]</color> และได้รับเอฟเฟกต์ Invulnerable เป็นเวลา 1 วินาที",
+                "Astra_Talent_01_Desc_02": "\"ครูคะๆ อะไรคือระบบ 12 เสียงเท่ากันคะ?\"\n\"ระบบ 12 เสียงเท่ากันคือกฎรูปแบบนึงของดนตรี ก็เหมือนกับเด็กๆ ที่ต้องเข้าแถวเรียงกันนั่นแหละ เสียงก็ต้องเข้าแถวเรียงกันด้วย\"\n\"งั้นเสียงก็ต้องไม่ชอบเข้าแถว เหมือนกับเด็กๆ แน่เลย!\"\n—หลังจากที่ Astra โด่งดังแล้ว ครูสอนดนตรีของเธอ ก็ได้นึกย้อนกลับไปตอนที่เธออายุหกขวบ",
+                "Astra_Talent_01_Desc_01": "เมื่อ Astra Yao โจมตีถูกศัตรู ความต้านทานความเสียหายธาตุทั้งหมดของเป้าหมายจะลดลง 6% โดยจะซ้อนทับได้มากสุด 3 ชั้น ต่อเนื่อง 30 วินาที และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง;\nเมื่อเข้าสู่การต่อสู้ Astra Yao จะได้รับค่า Decibel 1,000 แต้ม โดยทันที;\nเมื่อใช้ <color=#FFFFFF>[สกิลอัลติเมท]</color> สมาชิกแต่ละคนในทีมจะได้รับเอฟเฟกต์ <color=#FFFFFF>[Song of Protection]</color> 1 ชั้น ต่อเนื่อง 60 วินาที โดยเมื่อถูกศัตรูโจมตี จะใช้ <color=#FFFFFF>[Song of Protection]</color> และได้รับเอฟเฟกต์ Invulnerable เป็นเวลา 1 วินาที",
+                "Astra_Talent_01_Title_Realign": "12-Tone Equal Temperament"
+            },
+            {
+                "talent_id": "2",
+                "Astra_Talent_02_Title": "Art of Greed",
+                "Astra_Talent_02_Desc_01_Realign": "เอฟเฟกต์เพิ่ม ATK ของ <color=#FFFFFF>[พาสซีฟหลัก: \"Graceful Andante\"]</color> เพิ่มขึ้นอีก 19% (ขีดจำกัดสูงสุดเพิ่มขึ้นอีก 400 แต้ม);\nในสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> เมื่อตัวละครอื่นในทีมเข้าสนามผ่าน <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color>, <color=#FFFFFF>[ซัปพอร์ตตั้งรับ]</color> หรือ <color=#FFFFFF>[ซัปพอร์ตเมื่อหลบหลีก]</color> Astra Yao จะทำการโจมตีเพิ่มเติมโดยใช้ <color=#FFFFFF>[Tremolo]</color> 1 ครั้ง และ <color=#FFFFFF>[Tone Cluster]</color> 3 อัน (ใน 3 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง)",
+                "Astra_Talent_02_Desc_02": "\"สิ่งที่เปล่งประกายที่สุดในโลกนี้ ต้องเป็นความรักแน่นอนอยู่แล้ว!\"\nเหมือนกับนกน้อยที่ทำรัง ที่อยากจะสะสมของที่ดูแวววาว ความโลภในใจของศิลปิน ก็คือการรวบรวมความรักทั้งหมดบนโลกใบนี้ล่ะมั้ง? ขอเพียงรวบรวมความรักทั้งหมดไว้ด้วยกัน ก็จะสามารถสร้างท่วงทำนองที่ไพเราะที่สุดออกมาได้",
+                "Astra_Talent_02_Desc_01": "เอฟเฟกต์เพิ่ม ATK ของ <color=#FFFFFF>[พาสซีฟหลัก: \"Graceful Andante\"]</color> เพิ่มขึ้นอีก 19% (ขีดจำกัดสูงสุดเพิ่มขึ้นอีก 400 แต้ม);\nในสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> เมื่อตัวละครอื่นในทีมเข้าสนามผ่าน <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color>, <color=#FFFFFF>[ซัปพอร์ตตั้งรับ]</color> หรือ <color=#FFFFFF>[ซัปพอร์ตเมื่อหลบหลีก]</color> Astra Yao จะทำการโจมตีเพิ่มเติมโดยใช้ <color=#FFFFFF>[Tremolo]</color> 1 ครั้ง และ <color=#FFFFFF>[Tone Cluster]</color> 3 อัน (ใน 3 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง)",
+                "Astra_Talent_02_Title_Realign": "Art of Greed"
+            },
+            {
+                "talent_id": "3",
+                "Astra_Talent_03_Title": "Interwoven Staff Notation",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Astra_Talent_03_Desc_02": "บรรทัดห้าเส้นที่ว่างเปล่า เป็นเส้นขนานที่ไม่มีวันมาบรรจบกัน ราวกับดวงวิญญาณที่ยังไม่เคยพบกัน รอให้ท่วงทำนองของกันและกันมาบรรเลงเป็นเพลงอย่างเงียบๆ\n\"งั้นก็เติมเต็มมันด้วยโน้ตดนตรีก็แล้วกัน! แล้วยังมีเครื่องหมายควบโน้ตอีกเยอะเลย น่าจะเป็นเพลงที่ยอดเยี่ยมมากเลยว่ามั้ย?\"\nแล้วก็แต่งเพลงใหม่ขึ้นมาทั้งอย่างนี้ เพลงที่ตั้งแต่ต้นจนจบ ใช้เครื่องหมายควบโน้ตคร่อมไปทั้งหมด 136 จังหวะ...",
+                "Astra_Talent_03_Title_Realign": "Interwoven Staff Notation"
+            },
+            {
+                "talent_id": "4",
+                "Astra_Talent_04_Title": "\"Hair Upon Your Nape\"",
+                "Astra_Talent_04_Desc_01_Realign": "หลังจากใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ภายใน 15 วินาที Astra Yao จะสามารถใช้ <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> ได้แม้ไม่มี <color=#FFFFFF>[Chord]</color> และเมื่อโจมตีถูกศัตรู ระยะห่างช่วงเวลาในการเกิด <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> จะลดลงเป็น 1 วินาที;\nในสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> เมื่อตัวละครอื่นในทีมเข้าสนามผ่าน <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> จะได้รับเอฟเฟกต์บัฟที่แตกต่างกันตามคุณสมบัติของตนเอง (ใน 3 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้งกับทั้งทีม):\n<color=#FFFFFF>[โจมตีรุนแรง]</color>: ครั้งต่อไปที่การโจมตีหนักของ <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> ถูกศัตรู จะสร้างความเสียหายเพิ่มเติมอีก 300% ของ ATK ของ Astra Yao;\n<color=#FFFFFF>[ธาตุผิดปกติ]</color>: ครั้งต่อไป <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> จะสะสมค่าการสะสม Anomaly เพิ่มขึ้น 50%;\n<color=#FFFFFF>[สตั๊น]</color>: ครั้งต่อไป <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> จะสร้าง Daze เพิ่มขึ้น 50%",
+                "Astra_Talent_04_Desc_02": "มือข้างหนึ่งพาดอยู่บนเปียโน\nไม่รู้ว่าควรกดโน้ตไหนดี\nเป็นท่วงทำนองที่เศร้าโศก\nหรือความปรารถนาอันไพเราะดีนะ?\nค้นหาเงาของคุณท่ามกลางตัวโน้ต\nเมื่อหลับตาลง ก็จะได้เห็น\nเส้นผมที่อยู่หลังคอของคุณ",
+                "Astra_Talent_04_Desc_01": "หลังจากใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ภายใน 15 วินาที Astra Yao จะสามารถใช้ <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> ได้แม้ไม่มี <color=#FFFFFF>[Chord]</color> และเมื่อโจมตีถูกศัตรู ระยะห่างช่วงเวลาในการเกิด <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> จะลดลงเป็น 1 วินาที;\nในสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> เมื่อตัวละครอื่นในทีมเข้าสนามผ่าน <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> จะได้รับเอฟเฟกต์บัฟที่แตกต่างกันตามคุณสมบัติของตนเอง (ใน 3 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้งกับทั้งทีม):\n<color=#FFFFFF>[โจมตีรุนแรง]</color>: ครั้งต่อไปที่การโจมตีหนักของ <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> ถูกศัตรู จะสร้างความเสียหายเพิ่มเติมอีก 300% ของ ATK ของ Astra Yao;\n<color=#FFFFFF>[ธาตุผิดปกติ]</color>: ครั้งต่อไป <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> จะสะสมค่าการสะสม Anomaly เพิ่มขึ้น 50%;\n<color=#FFFFFF>[สตั๊น]</color>: ครั้งต่อไป <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> จะสร้าง Daze เพิ่มขึ้น 50%",
+                "Astra_Talent_04_Title_Realign": "\"Hair Upon Your Nape\""
+            },
+            {
+                "talent_id": "5",
+                "Astra_Talent_05_Title": "Proxy and Silk String",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Astra_Talent_05_Desc_02": "\"Eve! ฉันค้นพบอะไรบางอย่างที่สำคัญมาก— Eve กับ {M#Wise}{F#Belle} ต่างก็มีรูปร่างเป็นเส้นยาวๆ เหมือนกันเลย!\"\n\"...เหมือนกันแล้วมันยังไงกันล่ะเนี่ย?\"\n\"แล้วทั้งสองคนก็เป็นคนที่ฉันรักที่สุดด้วยยังไงล่ะ!\"\nAstra มีความสุขและสดใส ราวกับได้ค้นพบความลับที่น่าทึ่งอะไรบางอย่าง",
+                "Astra_Talent_05_Title_Realign": "Proxy and Silk String"
+            },
+            {
+                "talent_id": "6",
+                "Astra_Talent_06_Title": "We Are the World",
+                "Astra_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[Tremolo]</color> และ <color=#FFFFFF>[Tone Cluster]</color> ที่ถูกปล่อยออกไป หรือถูกใช้เพิ่มเติมในสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> จะมีตัวคูณ DMG เพิ่มขึ้นเป็น 200% จากของเดิม และมี CRIT Rate เพิ่มขึ้น 80%;\nเมื่อทำให้เกิด <color=#FFFFFF>[Precise Assist]</color> Astra Yao จะใช้ <color=#FFFFFF>[โจมตีปกติ: \"Capriccio\"]</color> ขั้น 3 ที่ชาร์จเสร็จแล้วโจมตีต่อเนื่องโดยอัตโนมัติ และทำให้ท่านี้มี CRIT Rate เพิ่มขึ้น 80% โดยที่ใน 10 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Astra_Talent_06_Desc_02": "ความวุ่นวายของโลก ล้วนมาจากความโดดเดี่ยวของจิตใจ หากหัวใจของทุกคนต่างได้รับเสียงสะท้อน จะเป็นไปได้มั้ยว่า... ความทุกข์ ความโศกเศร้า และความเงียบของโลกใบนี้ จะถูกลบล้างไปได้?\nหากสามารถใช้เสียงเพลง ถักทอความเชื่อมโยงนี้ได้ จะสามารถรักษารอยร้าวทั้งหมดได้มั้ยนะ ความเจ็บปวดทั้งหมด จะกลายเป็นท่วงทำนองอันไพเราะ และดังขึ้นท่ามกลางความเงียบรึเปล่า? เมื่อถึงตอนนั้น โลกทั้งใบก็ไม่ต้องโดดเดี่ยวอีกต่อไปแล้ว\n\"บทเพลงนี้ ขอมอบให้แด่โลกใบนี้!\"",
+                "Astra_Talent_06_Desc_01": "<color=#FFFFFF>[Tremolo]</color> และ <color=#FFFFFF>[Tone Cluster]</color> ที่ถูกปล่อยออกไป หรือถูกใช้เพิ่มเติมในสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> จะมีตัวคูณ DMG เพิ่มขึ้นเป็น 200% จากของเดิม และมี CRIT Rate เพิ่มขึ้น 80%;\nเมื่อทำให้เกิด <color=#FFFFFF>[Precise Assist]</color> Astra Yao จะใช้ <color=#FFFFFF>[โจมตีปกติ: \"Capriccio\"]</color> ขั้น 3 ที่ชาร์จเสร็จแล้วโจมตีต่อเนื่องโดยอัตโนมัติ และทำให้ท่านี้มี CRIT Rate เพิ่มขึ้น 80% โดยที่ใน 10 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+                "Astra_Talent_06_Title_Realign": "We Are the World"
+            }
+        ]
+    },
+    "1321": {
+        "role_id": 1321,
+        "name": "Evelyn",
+        "full_name": "Evelyn Chevalier",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Evelyn_Talent_01_Title": "Dreamweave",
+                "Evelyn_Talent_01_Desc_01_Realign": "เมื่อเข้าสู่การต่อสู้ Evelyn จะได้รับค่า Decibel 1,500 แต้ม โดยทันที;\nหลังจากศัตรูเข้าสู่ <color=#FFFFFF>[Binding Seal]</color> จะติดเอฟเฟกต์ <color=#FFFFFF>[Bound]</color> โดยเมื่อ Evelyn โจมตีศัตรูที่ติดเอฟเฟกต์ <color=#FFFFFF>[Bound]</color> จะมองข้าม 12% ของ DEF ของเป้าหมาย;\nเมื่อ Evelyn ใช้ <color=#FFFFFF>[สกิลพิเศษ: Binding Sunder - First Form]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX: Binding Sunder - Final Form]</color> จะแพร่กระจายเอฟเฟกต์ <color=#FFFFFF>[Bound]</color> ให้ศัตรูทั้งหมดที่ถูกโจมตี ซึ่งเอฟเฟกต์ <color=#FFFFFF>[Bound]</color> ที่ถูกแพร่กระจายออกไปนี้ จะคงอยู่ต่อเนื่อง 10 วินาที",
+                "Evelyn_Talent_01_Desc_02": "แสงสลัวที่อยู่ไกลออกไป ดูเหมือนจะเป็นความฝันที่ตัวเธอถักทอขึ้นมา อนาคตที่ไม่อาจสัมผัสได้ นั่นไม่ใช่เพื่อการชดเชยความผิด แต่เป็นการแสวงหาอิสรภาพ\n\"เธอก็อยากได้เหมือนกันสินะ? ชีวิตที่แท้จริงน่ะ\" —อดีตเพื่อนร่วมงานนิรนามคนหนึ่ง เคยพูดกับ Evelyn ไว้แบบนี้",
+                "Evelyn_Talent_01_Desc_01": "เมื่อเข้าสู่การต่อสู้ Evelyn จะได้รับค่า Decibel 1,500 แต้ม โดยทันที;\nหลังจากศัตรูเข้าสู่ <color=#FFFFFF>[Binding Seal]</color> จะติดเอฟเฟกต์ <color=#FFFFFF>[Bound]</color> โดยเมื่อ Evelyn โจมตีศัตรูที่ติดเอฟเฟกต์ <color=#FFFFFF>[Bound]</color> จะมองข้าม 12% ของ DEF ของเป้าหมาย;\nเมื่อ Evelyn ใช้ <color=#FFFFFF>[สกิลพิเศษ: Binding Sunder - First Form]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX: Binding Sunder - Final Form]</color> จะแพร่กระจายเอฟเฟกต์ <color=#FFFFFF>[Bound]</color> ให้ศัตรูทั้งหมดที่ถูกโจมตี ซึ่งเอฟเฟกต์ <color=#FFFFFF>[Bound]</color> ที่ถูกแพร่กระจายออกไปนี้ จะคงอยู่ต่อเนื่อง 10 วินาที",
+                "Evelyn_Talent_01_Title_Realign": "Dreamweave"
+            },
+            {
+                "talent_id": "2",
+                "Evelyn_Talent_02_Title": "Dance of Fire",
+                "Evelyn_Talent_02_Desc_01_Realign": "Evelyn มี ATK เพิ่มขึ้น 15%;\nเมื่อ Evelyn ใช้ <color=#FFFFFF>[โจมตีปกติ: Garrote - First Form]</color> หรือ <color=#FFFFFF>[โจมตีปกติ: Garrote - Second Form]</color> จะได้รับ <color=#FFFFFF>[Burning Embers]</color> ที่ใช้ไปคืน โดยใน 25 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nเมื่อ Evelyn ใช้ <color=#FFFFFF>[Burning Tether Point]</color> เพื่อปล่อย <color=#FFFFFF>[สกิลต่อเนื่อง: Lunalux - Snare]</color> ท่าจะมีเลเวล Interrupt เพิ่มขึ้น",
+                "Evelyn_Talent_02_Desc_02": "\"สำหรับฉันแล้ว แสงแบบนั้นเป็นสิ่งที่ไม่คุ้นเคย เดิมทีฉันควรต้องหลีกเลี่ยง แต่มันกลับทะลวงผ่านแนวป้องกันทั้งหมด ราวกับจะเตือนฉันว่า ภายนอกความมืดมิด ยังมีอะไรที่ควรค่าแก่การตามหาอยู่\"\nเมื่อนึกถึงตอนที่ได้พบกับ Astra เป็นครั้งแรก น้ำเสียงของ Evelyn ก็เต็มไปด้วยความอ่อนโยนที่หาได้ยาก",
+                "Evelyn_Talent_02_Desc_01": "Evelyn มี ATK เพิ่มขึ้น 15%;\nเมื่อ Evelyn ใช้ <color=#FFFFFF>[โจมตีปกติ: Garrote - First Form]</color> หรือ <color=#FFFFFF>[โจมตีปกติ: Garrote - Second Form]</color> จะได้รับ <color=#FFFFFF>[Burning Embers]</color> ที่ใช้ไปคืน โดยใน 25 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง;\nเมื่อ Evelyn ใช้ <color=#FFFFFF>[Burning Tether Point]</color> เพื่อปล่อย <color=#FFFFFF>[สกิลต่อเนื่อง: Lunalux - Snare]</color> ท่าจะมีเลเวล Interrupt เพิ่มขึ้น",
+                "Evelyn_Talent_02_Title_Realign": "Dance of Fire"
+            },
+            {
+                "talent_id": "3",
+                "Evelyn_Talent_03_Title": "Metamorphosis",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Evelyn_Talent_03_Desc_02": "ทันใดนั้น เธอคนนั้นก็หลุดพ้นจากพันธนาการ และกลายเป็นตัวตนของตัวเองอย่างแท้จริงยิ่งขึ้น\nเชือกที่ถูกดึงจนตึงได้ขาดออก โซ่ตรวนในอดีตได้กลายเป็นรังไหมที่แตกสลาย Evelyn ยืนอยู่บนขอบเขตของชีวิตใหม่ ภายในสายตาที่ดูเยือกเย็นของเธอ มีแสงสว่างอันอ่อนโยนปรากฏขึ้นอย่างรางๆ",
+                "Evelyn_Talent_03_Title_Realign": "Metamorphosis"
+            },
+            {
+                "talent_id": "4",
+                "Evelyn_Talent_04_Title": "Fate's Melody",
+                "Evelyn_Talent_04_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> Evelyn จะได้รับโล่เท่ากับ 10% ของ Max HP ของตนเองโดยทันที ซึ่งในขณะที่มีโล่ดังกล่าว Evelyn จะมี CRIT DMG เพิ่มขึ้น 40%",
+                "Evelyn_Talent_04_Desc_02": "\"Eve รู้มั้ย? ทุกครั้งที่ได้เจอกับคนที่มีความหมายต่อชีวิตของฉัน หัวใจของฉันมันจะเต้น 'ตึกๆ' แบบนี้เลยล่ะ~\"\n\"Evelyn ถอนหายใจ บ่งบอกเป็นนัยว่ามันสายแล้ว จากนั้น Astra ก็รีบดึงสายรัดชุดของเธอ แล้วผลักประตูออกไป\"\n\"...ตึกๆ\" Evelyn ที่อยู่เพียงลำพังในห้องแต่งตัว พูดทวนซ้ำด้วยเสียงอันแผ่วเบา",
+                "Evelyn_Talent_04_Desc_01": "เมื่อใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> Evelyn จะได้รับโล่เท่ากับ 10% ของ Max HP ของตนเองโดยทันที ซึ่งในขณะที่มีโล่ดังกล่าว Evelyn จะมี CRIT DMG เพิ่มขึ้น 40%",
+                "Evelyn_Talent_04_Title_Realign": "Fate's Melody"
+            },
+            {
+                "talent_id": "5",
+                "Evelyn_Talent_05_Title": "Crimson Threads Like the Dawn",
+                "Common_Talent_Desc": "การ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[หลบหลีก]</color>, <color=#FFFFFF>[สกิลซัปพอร์ต]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color>, <color=#FFFFFF>[สกิลต่อเนื่อง]</color> มีเลเวลสกิล +2",
+                "Evelyn_Talent_05_Desc_02": "เส้นลวดของเธอ เปรียบเสมือนก้อนเมฆที่ถูกแสงอรุณย้อมเป็นสีแดง\nทุกครั้งหลังจากโจมตี จะหันหลังกลับอย่างสง่างาม เปลวไฟสาดส่องราวกับแสงยามสนธยา ไม่จำเป็นต้องเอ่ยถ้อยคำใดๆ Evelyn ได้เปลี่ยนการป้องกัน ให้กลายเป็นแสงสว่างที่แผดเผาไปตั้งนานแล้ว",
+                "Evelyn_Talent_05_Title_Realign": "Crimson Threads Like the Dawn"
+            },
+            {
+                "talent_id": "6",
+                "Evelyn_Talent_06_Title": "Bond of Light and Shadow",
+                "Evelyn_Talent_06_Desc_01_Realign": "เมื่อใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> Evelyn จะได้รับ <color=#FFFFFF>[Shadowstring Edge]</color> ต่อเนื่อง 20 วินาที;\nระหว่างช่วงเวลาของ <color=#FFFFFF>[Shadowstring Edge]</color> เมื่อ Evelyn ใช้ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[พุ่งโจมตี]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู จะใช้ <color=#FFFFFF>[Lunalux Garrote]</color> โจมตีเพิ่มเติม เพื่อสร้าง<color=#FF5521>ความเสียหายธาตุไฟ</color>เท่ากับ 375% ของ ATK ของ Evelyn โดยที่ความเสียหายนี้ จะถูกมองว่าเป็นความเสียหายของ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> ซึ่งจะเกิดขึ้นได้มากสุด 16 ครั้ง และเมื่อได้รับ <color=#FFFFFF>[Shadowstring Edge]</color> อีกครั้ง จะรีเฟรชจำนวนครั้งที่สามารถทำให้เกิดขึ้นได้",
+                "Evelyn_Talent_06_Desc_02": "ที่ใดมีแสงสว่าง ย่อมมีเงาอยู่ด้วยเสมอ\nมันจะหลบซ่อนอย่างเงียบๆ คอยไล่ตามเส้นทางของแสงสว่าง และปกป้องแสงสว่างที่เกิดขึ้นในแต่ละครั้ง\nเงานั้นไม่เคยพยายาม ที่จะแย่งชิงความรุ่งโรจน์ของแสงสว่างไป แต่ทุกครั้งที่หันหลังกลับ ก็มักเติมเต็มมุมที่มันเอื้อมไปไม่ถึงอย่างเงียบๆ\nทั้งสองไม่เคยแยกจากกัน และไม่สามารถแยกจากกันได้... แสงสว่างสมบูรณ์ได้ก็เพราะเงา และเงาดำรงอยู่ได้ก็เพราะแสงสว่าง นี่คือการไล่ตามอย่างไม่มีที่สิ้นสุด และเป็นสายสัมพันธ์ที่ไม่สามารถอธิบายได้ด้วยคำพูด",
+                "Evelyn_Talent_06_Desc_01": "เมื่อใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> Evelyn จะได้รับ <color=#FFFFFF>[Shadowstring Edge]</color> ต่อเนื่อง 20 วินาที;\nระหว่างช่วงเวลาของ <color=#FFFFFF>[Shadowstring Edge]</color> เมื่อ Evelyn ใช้ <color=#FFFFFF>[โจมตีปกติ]</color>, <color=#FFFFFF>[พุ่งโจมตี]</color>, <color=#FFFFFF>[สกิลพิเศษ]</color> หรือ <color=#FFFFFF>[สกิลพิเศษ-EX]</color> ถูกศัตรู จะใช้ <color=#FFFFFF>[Lunalux Garrote]</color> โจมตีเพิ่มเติม เพื่อสร้าง<color=#FF5521>ความเสียหายธาตุไฟ</color>เท่ากับ 375% ของ ATK ของ Evelyn โดยที่ความเสียหายนี้ จะถูกมองว่าเป็นความเสียหายของ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> ซึ่งจะเกิดขึ้นได้มากสุด 16 ครั้ง และเมื่อได้รับ <color=#FFFFFF>[Shadowstring Edge]</color> อีกครั้ง จะรีเฟรชจำนวนครั้งที่สามารถทำให้เกิดขึ้นได้",
+                "Evelyn_Talent_06_Title_Realign": "Bond of Light and Shadow"
+            }
+        ]
+    },
     "0": {
         "role_id": 0,
         "name": null,

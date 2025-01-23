@@ -1075,7 +1075,7 @@
             {
                 "talent_id": "2",
                 "Burnice_Talent_02_Title": "Extra at No Additional Charge",
-                "Burnice_Talent_02_Desc_01_Realign": "When triggering the <color=#FFFFFF>Afterburn</color> effect, <color=#FFFFFF>Thermal Penetration</color> is applied to the enemy, stacking up to 5 times and lasting 6s. Repeated triggers reset the duration. When any allied unit in the squad hits the enemy, the attack's PEN Ratio is increased by 4% for each stack of <color=#FFFFFF>Thermal Penetration</color>, up to a max of 20%.",
+                "Burnice_Talent_02_Desc_01_Realign": "When triggering the <color=#FFFFFF>Afterburn</color> effect, <color=#FFFFFF>Thermal Penetration</color> is applied to the enemy,\nstacking up to 5 times and lasting 6s. Repeated triggers reset the duration.\nWhen any allied unit in the squad hits the enemy, the attack's PEN Ratio is increased by 4% for each stack of <color=#FFFFFF>Thermal Penetration</color>, up to a max of 20%.",
                 "Burnice_Talent_02_Desc_02": "As the mixologist for the Sons of Calydon, Burnice takes great pleasure in crafting the best Nitro-Fuel drinks in New Eridu for her friends.\nOf course, if you happen to be her enemy... you might have the opportunity to try a new and unique flavor too.\n\"It's a once-in-a-lifetime, absolutely exquisite taste!\"",
                 "Burnice_Talent_02_Desc_01": "When triggering the <color=#FFFFFF>Afterburn</color> effect, <color=#FFFFFF>Thermal Penetration</color> is applied to the enemy, stacking up to 5 times and lasting 6s. Repeated triggers reset the duration. When any allied unit in the squad hits the enemy, the attack's PEN Ratio is increased by 4% for each stack of <color=#FFFFFF>Thermal Penetration</color>, up to a max of 20%.",
                 "Burnice_Talent_02_Title_Realign": "Extra at No Additional Charge"
@@ -1105,7 +1105,7 @@
             {
                 "talent_id": "6",
                 "Burnice_Talent_06_Title": "Burning Invitation",
-                "Burnice_Talent_06_Desc_01_Realign": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect, dealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>.\nAfter hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active, <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> effects will ignore 25% of the target's <color=#FF5521>Fire RES</color>.\nWhen <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>, trigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
+                "Burnice_Talent_06_Desc_01_Realign": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect,\ndealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>.\nAfter hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active,\n<color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> effects will ignore 25% of the target's <color=#FF5521>Fire RES</color>.\nWhen <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>,\ntrigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
                 "Burnice_Talent_06_Desc_02": "It seems like no one has ever seen Burnice truly angry.\n\"Trust me, you don't want to see it.\"\n— From a driver getting ready to sleep atop Steeltusk",
                 "Burnice_Talent_06_Desc_01": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect, dealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>. After hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active, <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> effects will ignore 25% of the target's <color=#FF5521>Fire RES</color>. When <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>, trigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
                 "Burnice_Talent_06_Title_Realign": "Burning Invitation"
@@ -1374,6 +1374,112 @@
                 "Yanagi_Talent_06_Desc_02": "Flowing through Tsukishiro Yanagi's veins is blood that isn't entirely her own. This blood once granted her new life in the face of despair, and with it, she gained certain special powers.\n\"But as you know, something that isn't mine... comes with a price.\"",
                 "Yanagi_Talent_06_Desc_01": "After a thrust attack during her <color=#FFFFFF>EX Special Attack</color>, the duration of the <color=#FFFFFF>Shinrabanshou</color> state increases to 30s. While the state is active, <color=#FFFFFF>EX Special Attack</color> DMG increases by 20%. The maximum number of times the additional DMG multiplier increase effect for <color=#FFFFFF>Polarity Disorder</color> in <color=#FFFFFF>Outstanding Adaptability</color> can be triggered increases to 4, and the Energy cost for the first 4 additional thrust attacks is halved.",
                 "Yanagi_Talent_06_Title_Realign": "Inhuman Blood"
+            }
+        ]
+    },
+    "1311": {
+        "role_id": 1311,
+        "name": "Astra Yao",
+        "full_name": "Astra Yao",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Astra_Talent_01_Title": "12-Tone Equal Temperament",
+                "Astra_Talent_01_Desc_01_Realign": "When Astra Yao's attack hits an enemy, the target's All-Attribute RES is reduced by 6%, stacking up to 3 times and lasting 30s. Repeated triggers refresh the duration.\nUpon entering the battlefield, Astra Yao immediately gains 1,000 Decibels.\nWhen activating her <color=#FFFFFF>Ultimate</color>, all squad members gain 1 stack of <color=#FFFFFF>Song of Protection</color> for 60s. When attacked by an enemy, consume <color=#FFFFFF>Song of Protection</color>, granting Invulnerability for 1s.",
+                "Astra_Talent_01_Desc_02": "\"What is the 12-tone equal temperament?\"\n\"12-tone equal temperament is a musical tuning system, just like how children have to line up, sounds need to be in order too.\"\n\"But sounds probably don't like lining up, just like children!\"\n—Astra Yao's music teacher, recalling when she was six.",
+                "Astra_Talent_01_Desc_01": "When Astra Yao's attack hits an enemy, the target's All-Attribute RES is reduced by 6%, stacking up to 3 times and lasting 30s. Repeated triggers reset the duration. Upon entering the battlefield, Astra Yao immediately gains 1,000 Decibels. When activating her <color=#FFFFFF>Ultimate</color>, all squad members gain 1 stack of <color=#FFFFFF>Song of Protection</color> for 60s. When attacked by an enemy, consume <color=#FFFFFF>Song of Protection</color>, granting Invulnerability for 1s.",
+                "Astra_Talent_01_Title_Realign": "12-Tone Equal Temperament"
+            },
+            {
+                "talent_id": "2",
+                "Astra_Talent_02_Title": "Art of Greed",
+                "Astra_Talent_02_Desc_01_Realign": "The ATK buff from <color=#FFFFFF>Core Passive: \"Graceful Andante\"</color> is further increased by 19%, with an increased maximum of 400.\nWhile in the <color=#FFFFFF>Idyllic Cadenza</color> state, when other squad members switch in through a <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Evasive Assist</color>, Astra Yao will additionally follow up with 1 <color=#FFFFFF>Tremolo</color> and 3 <color=#FFFFFF>Tone Clusters</color> to attack. This effect can trigger once every 3s.",
+                "Astra_Talent_02_Desc_02": "\"The shiniest thing in the world is, of course, love!\"\nJust like a bird gathering shiny things for its nest, an artist's inner greed is probably to gather all the love in the world. By gathering all the love, one can create the most beautiful melody.",
+                "Astra_Talent_02_Desc_01": "The ATK buff from <color=#FFFFFF>Core Passive: \"Graceful Andante\"</color> is further increased by 19%, with an increased maximum of 400. While in the <color=#FFFFFF>Idyllic Cadenza</color> state, when other squad members switch in through a <color=#FFFFFF>Quick Assist</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Evasive Assist</color>, Astra Yao will additionally follow up with 1 <color=#FFFFFF>Tremolo</color> and 3 <color=#FFFFFF>Tone Clusters</color> to attack. This effect can trigger once every 3s.",
+                "Astra_Talent_02_Title_Realign": "Art of Greed"
+            },
+            {
+                "talent_id": "3",
+                "Astra_Talent_03_Title": "Interwoven Staff Notation",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Astra_Talent_03_Desc_02": "A blank musical staff is a set of parallel lines that never intersect, like souls that have never met, quietly waiting for their melodies to intertwine into a song.\n\"Let's fill it with notes! And lots and lots of tied notes. It'll make a fantastic song!\"\nAnd that's how a new song was created, stretching across 136 bars, all connected with ties...",
+                "Astra_Talent_03_Title_Realign": "Interwoven Staff Notation"
+            },
+            {
+                "talent_id": "4",
+                "Astra_Talent_04_Title": "\"Hair Upon Your Nape\"",
+                "Astra_Talent_04_Desc_01_Realign": "After activating a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, within 15s, Astra Yao can trigger a <color=#FFFFFF>Quick Assist</color> even if she does not have <color=#FFFFFF>Chords</color>. When the attack hits an enemy, the interval for triggering a <color=#FFFFFF>Quick Assist</color> is reduced to 1s.\nWhile in the <color=#FFFFFF>Idyllic Cadenza</color> state, when other squad members enter the field via a <color=#FFFFFF>Quick Assist</color>, they will receive different buffs based on their specialty, and this effect can be triggered once every 3s for the entire squad:\n<color=#FFFFFF>Attack</color>: The next <color=#FFFFFF>Quick Assist</color> heavy attack on an enemy will deal extra DMG equal to 300% of Astra Yao's ATK;\n<color=#FFFFFF>Anomaly</color>: The next <color=#FFFFFF>Quick Assist</color> will have 50% increased Anomaly Buildup;\n<color=#FFFFFF>Stun</color>: The next <color=#FFFFFF>Quick Assist</color> will inflict 50% increased Daze.",
+                "Astra_Talent_04_Desc_02": "One hand hovers over the piano\nNot sure which note will bring me peace\nA sad minor key\nOr gentle melody of longing?\nI seek your shadow through the score\nI close my eyes, and see you more\nSuch as the hair upon your nape",
+                "Astra_Talent_04_Desc_01": "After activating a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, within 15s, Astra Yao can trigger a <color=#FFFFFF>Quick Assist</color> even if she does not have <color=#FFFFFF>Chords</color>. When the attack hits an enemy, the interval for triggering a <color=#FFFFFF>Quick Assist</color> is reduced to 1s. While in the <color=#FFFFFF>Idyllic Cadenza</color> state, when other squad members enter the field via a <color=#FFFFFF>Quick Assist</color>, they will receive different buffs based on their specialty, and this effect can be triggered once every 3s for the entire squad: <color=#FFFFFF>Attack</color>: The next <color=#FFFFFF>Quick Assist</color> heavy attack on an enemy will deal extra DMG equal to 300% of Astra Yao's ATK; <color=#FFFFFF>Anomaly</color>: The next <color=#FFFFFF>Quick Assist</color> will have 50% increased Anomaly Buildup; <color=#FFFFFF>Stun</color>: The next <color=#FFFFFF>Quick Assist</color> will inflict 50% increased Daze.",
+                "Astra_Talent_04_Title_Realign": "\"Hair Upon Your Nape\""
+            },
+            {
+                "talent_id": "5",
+                "Astra_Talent_05_Title": "Proxy and Silk String",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Astra_Talent_05_Desc_02": "\"Eve! I've just realized something huge — both you and {M#Wise}{F#Belle} are tall and slim!\"\n\"...And your point being...?\"\n\"You're both my favorite people!\"\nAstra beamed with joy, as if she had uncovered an earth-shattering secret.",
+                "Astra_Talent_05_Title_Realign": "Proxy and Silk String"
+            },
+            {
+                "talent_id": "6",
+                "Astra_Talent_06_Title": "We Are the World",
+                "Astra_Talent_06_Desc_01_Realign": "While in the <color=#FFFFFF>Idyllic Cadenza</color> state, the DMG multiplier for <color=#FFFFFF>Tremolo</color> and <color=#FFFFFF>Tone Clusters</color> released or followed up with will increase to 200% of the original, and CRIT Rate is increased by 80%.\nWhen triggering a <color=#FFFFFF>Precise Assist</color>, Astra Yao will automatically follow up with the charged 3rd-hit of <color=#FFFFFF>Basic Attack: \"Capriccio\"</color>, with a 80% increased CRIT Rate. This effect can trigger once every 10s.",
+                "Astra_Talent_06_Desc_02": "The turmoil in the world originates from the solitude of the human heart. If everyone's heart was reciprocated, perhaps all the suffering, sadness, and silence in the world would vanish?\nIf we could weave this connection with song, would all the cracks heal, and all the pain turn into a beautiful melody, filling the silence? At that point, the world would no longer be a lonely island.\n\"This song is dedicated to the world!\"",
+                "Astra_Talent_06_Desc_01": "While in the <color=#FFFFFF>Idyllic Cadenza</color> state, the DMG multiplier for <color=#FFFFFF>Tremolo</color> and <color=#FFFFFF>Tone Clusters</color> released or followed up with will increase to 200% of the original, and CRIT Rate is increased by 80%. When triggering a <color=#FFFFFF>Precise Assist</color>, Astra Yao will automatically follow up with the charged 3rd-hit of <color=#FFFFFF>Basic Attack: \"Capriccio\"</color>, with a 80% increased CRIT Rate. This effect can trigger once every 10s.",
+                "Astra_Talent_06_Title_Realign": "We Are the World"
+            }
+        ]
+    },
+    "1321": {
+        "role_id": 1321,
+        "name": "Evelyn",
+        "full_name": "Evelyn Chevalier",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Evelyn_Talent_01_Title": "Dreamweave",
+                "Evelyn_Talent_01_Desc_01_Realign": "Upon entering the battlefield, Evelyn immediately gains 1,500 Decibels.\nEnemies affected by <color=#FFFFFF>Binding Seal</color> will be <color=#FFFFFF>Bound</color>. When Evelyn attacks <color=#FFFFFF>Bound</color> enemies, she ignores 12% of their DEF.\nWhen Evelyn uses <color=#FFFFFF>Special Attack: Binding Sunder - First Form</color> or <color=#FFFFFF>EX Special Attack: Binding Sunder - Final Form</color>, the <color=#FFFFFF>Bound</color> effect spreads to all enemies hit by the skill. This spread <color=#FFFFFF>Bound</color> effect lasts for 10s.",
+                "Evelyn_Talent_01_Desc_02": "The distant, blurred light seemed to be a dream she had crafted, an unreachable future. It wasn't about atonement, but a yearning for freedom.\n\"You want it too, don't you? A real life.\" An anonymous former coworker once asked Evelyn.",
+                "Evelyn_Talent_01_Desc_01": "Upon entering the battlefield, Evelyn immediately gains 1,500 Decibels. Enemies affected by <color=#FFFFFF>Binding Seal</color> will be <color=#FFFFFF>Bound</color>. When Evelyn attacks <color=#FFFFFF>Bound</color> enemies, she ignores 12% of their DEF. When Evelyn uses <color=#FFFFFF>Special Attack: Binding Sunder - First Form</color> or <color=#FFFFFF>EX Special Attack: Binding Sunder - Final Form</color>, the <color=#FFFFFF>Bound</color> effect spreads to all enemies hit by the skill. This spread <color=#FFFFFF>Bound</color> effect lasts for 10s.",
+                "Evelyn_Talent_01_Title_Realign": "Dreamweave"
+            },
+            {
+                "talent_id": "2",
+                "Evelyn_Talent_02_Title": "Dance of Fire",
+                "Evelyn_Talent_02_Desc_01_Realign": "Evelyn's ATK increases by 15%.\nWhen Evelyn uses <color=#FFFFFF>Basic Attack: Garrote - First Form</color> or <color=#FFFFFF>Basic Attack: Garrote - Second Form</color>, the <color=#FFFFFF>Burning Embers</color> consumed will be returned. This effect can trigger once every 25s.\nWhen Evelyn consumes <color=#FFFFFF>Burning Tether Point</color> to trigger <color=#FFFFFF>Chain Attack: Lunalux - Snare</color>, the skill's Interrupt Level increases.",
+                "Evelyn_Talent_02_Desc_02": "\"To me, that light was unfamiliar, something I should have steered clear of, but it broke through every barrier, as though it was trying to remind me that beyond the darkness, there was something worth chasing.\"\nWhen Evelyn recalls the first time she met Astra Yao, there's a rare softness in her tone.",
+                "Evelyn_Talent_02_Desc_01": "Evelyn's ATK increases by 15%. When Evelyn uses <color=#FFFFFF>Basic Attack: Garrote - First Form</color> or <color=#FFFFFF>Basic Attack: Garrote - Second Form</color>, the <color=#FFFFFF>Burning Embers</color> consumed will be returned. This effect can trigger once every 25s. When Evelyn consumes <color=#FFFFFF>Burning Tether Point</color> to trigger <color=#FFFFFF>Chain Attack: Lunalux - Snare</color>, the skill's Interrupt Level increases.",
+                "Evelyn_Talent_02_Title_Realign": "Dance of Fire"
+            },
+            {
+                "talent_id": "3",
+                "Evelyn_Talent_03_Title": "Metamorphosis",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Evelyn_Talent_03_Desc_02": "At that moment, she frees herself from her restraints and becomes her truest self. The tightened ropes snap, and the chains turn into a broken cocoon. Evelyn stands at the boundary of rebirth, and in her cold, sharp gaze, there is the flicker of a faint, soft glow.",
+                "Evelyn_Talent_03_Title_Realign": "Metamorphosis"
+            },
+            {
+                "talent_id": "4",
+                "Evelyn_Talent_04_Title": "Fate's Melody",
+                "Evelyn_Talent_04_Desc_01_Realign": "Upon activating a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Evelyn immediately gains a shield equal to 10% of her Max HP. While this shield exists, Evelyn's CRIT DMG increases by 40%.",
+                "Evelyn_Talent_04_Desc_02": "\"You know, Eve? Every time I meet someone important to me, my heart goes 'thump-thump!'\"\nEvelyn sighs, signaling that it was getting late. Astra quickly fastens the back of her gown and rushed out the door.\n\"Thump thump,\" Evelyn mutters to herself, left alone in the dressing room.",
+                "Evelyn_Talent_04_Desc_01": "Upon activating a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Evelyn immediately gains a shield equal to 10% of her Max HP. While this shield exists, Evelyn's CRIT DMG increases by 40%.",
+                "Evelyn_Talent_04_Title_Realign": "Fate's Melody"
+            },
+            {
+                "talent_id": "5",
+                "Evelyn_Talent_05_Title": "Crimson Threads Like the Dawn",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Evelyn_Talent_05_Desc_02": "Her threads, dyed crimson like the clouds at dawn.\nAfter each attack, she spins elegantly, blazing flames scattering like the morning light. No words are needed — Evelyn's protection has turned into a radiant flame.",
+                "Evelyn_Talent_05_Title_Realign": "Crimson Threads Like the Dawn"
+            },
+            {
+                "talent_id": "6",
+                "Evelyn_Talent_06_Title": "Bond of Light and Shadow",
+                "Evelyn_Talent_06_Desc_01_Realign": "When activating her <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Evelyn gains <color=#FFFFFF>Shadowstring Edge</color> for 20s.\nDuring <color=#FFFFFF>Shadowstring Edge</color>, when Evelyn hits enemies with a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color>, an additional <color=#FFFFFF>Lunalux Garrote</color> will be released for a follow-up attack, dealing <color=#FF5521>Fire DMG</color> equal to 375% of Evelyn's ATK. This DMG is considered <color=#FFFFFF>Chain Attack</color> DMG and can trigger up to 16 times. The number of triggers will be refreshed each time <color=#FFFFFF>Shadowstring Edge</color> is gained.",
+                "Evelyn_Talent_06_Desc_02": "Where there is light, there will always be shadow.\nIt silently hides, tracing the light's path, guarding each bright burst. The shadow never tries to steal the light's brilliance, but at every turn, it quietly fills those corners the light cannot reach. The two have never been separated, nor can they be — light is whole because of shadow, and shadow exists because of light. It's an eternal pursuit, an unspeakable connection.",
+                "Evelyn_Talent_06_Desc_01": "When activating her <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Evelyn gains <color=#FFFFFF>Shadowstring Edge</color> for 20s. During <color=#FFFFFF>Shadowstring Edge</color>, when Evelyn hits enemies with a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color>, an additional <color=#FFFFFF>Lunalux Garrote</color> will be released for a follow-up attack, dealing <color=#FF5521>Fire DMG</color> equal to 375% of Evelyn's ATK. This DMG is considered <color=#FFFFFF>Chain Attack</color> DMG and can trigger up to 16 times. The number of triggers will be refreshed each time <color=#FFFFFF>Shadowstring Edge</color> is gained.",
+                "Evelyn_Talent_06_Title_Realign": "Bond of Light and Shadow"
             }
         ]
     },

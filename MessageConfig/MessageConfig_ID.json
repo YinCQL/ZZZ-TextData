@@ -344,7 +344,7 @@
     "1026": {
         "id": "1026",
         "texts": {
-            "Message_102601": "null"
+            "Message_102601": "Kontrak sudah selesai, kurir mengirim pesan terima kasih."
         }
     },
     "1027": {
@@ -363,16 +363,16 @@
     "1028": {
         "id": "1028",
         "texts": {
-            "Message_102801": "null",
-            "Option01_102802": "null"
+            "Message_102801": "Setelah pemain menyelesaikan kontrak terakhir, kurir mengirim pesan terima kasih.",
+            "Option01_102802": "Sama-sama."
         }
     },
     "1029": {
         "id": "1029",
         "texts": {
-            "Message_102901": "null",
-            "Option01_102902": "null",
-            "Message_102903": "null"
+            "Message_102901": "Pemain telah menyelesaikan Kontrak Pertarungan kedua. Kurir telah mengirim pesan terima kasih.",
+            "Option01_102902": "Sama-sama.",
+            "Message_102903": "Aww, kamu baik sekali!"
         }
     },
     "2001": {
@@ -6338,10 +6338,551 @@
             "Option02_42801514": "null"
         }
     },
+    "431001": {
+        "id": "431001",
+        "texts": {
+            "Message_43100101": "Halo, ini akunku yang satu lagi. Kalau mau ngobrol, kirim ke akun ini saja ya",
+            "Option01_43100102": "Avatarnya masih sama.",
+            "OptionLong01_43100102": "Avatarnya masih sama. Mana akun NasiGoreng yang waktu itu?",
+            "Option02_43100102": "Mana akun NasiGoreng yang waktu itu?",
+            "OptionLong02_43100102": "Avatarnya masih sama. Mana akun NasiGoreng yang waktu itu?",
+            "Message_43100103": "Aku punya tiga akun loh, fungsinya beda-beda semua",
+            "Message_43100104": "Yang pertama buat kerjaan, yang kedua buat teman online, yang ketiga khusus buat teman di dunia nyata!",
+            "Option01_43100105": "Jadi, akun yang waktu itu...",
+            "Option02_43100105": "Jadi akun yang ini...?",
+            "Message_43100106": "Yang waktu itu akun yang kedua, ini yang ketiga",
+            "Message_43100107": "Mulai hari ini, aku bakal pakai akun ini buat hubungi kamu. Jangan sampai salah orang ya. Di Inter-Knot kan ada banyak orang yang profilnya pakai nama dan fotoku...",
+            "Message_43100108": "Pokoknya yang akunnya pakai nama BurungPipitNasiGoreng ya!",
+            "Message_43100110": "Sudah pasti akun yang ketiga dong. Kita kan bukan cuma teman online saja!"
+        }
+    },
+    "431002": {
+        "id": "431002",
+        "texts": {
+            "Message_43100201": "Kamu tahu \"Impian Bintang Kecil\" tidak?",
+            "Option01_43100202": "Itu... judul lagu ya?",
+            "Option02_43100202": "Itu... judul film?",
+            "Message_43100203": "Aku juga tidak yakin. Tadi waktu aku ngobrol dengan ibuku, dia bilang \"Sebenarnya aku juga pernah masuk TV loh.\" Sekarang aku malah jadi penasaran!",
+            "Message_43100204": "Tapi, dia tidak ingat jelas detailnya, dia cuma ingat nama \"Impian Bintang Kecil\" saja",
+            "Message_43100205": "Makanya, aku coba tanya kamu. Kalau soal beginian, kamu yang wawasannya paling luas di antara teman-temanku!",
+            "Option01_43100206": "Kayaknya aku ingat!",
+            "OptionLong01_43100206": "Oh, aku ingat. \"Impian Bintang Kecil\" yang ibumu bilang itu bukan judul lagu, tapi bukan judul film juga. Mungkin acara realitas!",
+            "Option02_43100206": "Oh, aku ingat. Bukan judul lagu, tapi bukan judul film juga.",
+            "OptionLong02_43100206": "Oh, aku ingat. \"Impian Bintang Kecil\" yang ibumu bilang itu bukan judul lagu, tapi bukan judul film juga. Mungkin acara realitas!",
+            "Option01_43100207": "Aku coba cari deh.",
+            "OptionLong01_43100207": "Aku coba cari dulu ya. Aku ingat aku pernah nonton videotape acara realitas itu.",
+            "Option02_43100207": "Aku pernah nonton videotape acara realitas ini.",
+            "OptionLong02_43100207": "Aku coba cari dulu ya. Aku ingat aku pernah nonton videotape acara realitas itu.",
+            "Message_43100208": "Kalau begitu, aku minta tolong carikan ya. Atau kalau aku harus cari sendiri, tidak apa juga kok. Soalnya aku benar-benar ingin lihat muka ibuku waktu itu~",
+            "Option01_43100209": "Pas kita lagi ngobrol...",
+            "OptionLong01_43100209": "Pas kita lagi ngobrol... aku sudah ketemu.",
+            "Option02_43100209": "Sudah ketemu nih!",
+            "OptionLong02_43100209": "Pas kita lagi ngobrol... aku sudah ketemu.",
+            "Message_43100210": "Yang benar? Bagus! Tolong simpan buat aku ya, nanti pas lagi sempat aku bakal mampir ke tokomu buat ambil~"
+        }
+    },
+    "431003": {
+        "id": "431003",
+        "texts": {
+            "Option01_43100301": "Belakangan ini kerjaanmu sibuk {M#tidak}{F#enggak}?",
+            "Option02_43100301": "Belakangan ini kamu sempat {M#tidak}{F#enggak}?",
+            "Message_43100302": "Sibuk. Sibuk sekali",
+            "Message_43100303": "Tapi, aku ingin... curi-curi waktu buat santai sebentar!",
+            "Option01_43100304": "Aku juga lagi berpikir hal yang sama!",
+            "Option02_43100304": "Kebetulan sekali, aku juga!",
+            "Message_43100305": "Kalau begitu, pemikiran kita sejalan. Daripada ditunda-tunda lagi, bagaimana kalau kita sekarang ketemu saja?",
+            "Option01_43100306": "Oke!",
+            "OptionLong01_43100306": "{M#Tidak}{F#Enggak} masalah. Kamu mau pergi ke mana?",
+            "Option02_43100306": "Mau pergi ke mana?",
+            "OptionLong02_43100306": "{M#Tidak}{F#Enggak} masalah. Kamu mau pergi ke mana?",
+            "Message_43100307": "Kamu saja yang pilih! Oh ya, sebisa mungkin pilih tempat yang tidak banyak orang ya",
+            "Message_43100308": "Aku kan mau ketemu kamu, jadi aku tidak ingin diganggu orang lain...",
+            "Option01_43100309": "Kalau begitu, ke Reverb Arena saja.",
+            "Option02_43100309": "Lihat orang mancing di Pelabuhan Elpis?",
+            "Message_43100310": "Hmm... Boleh! Aku kan dikira orang yang mirip Astra Yao sama orang-orang di Reverb Arena... jadi sebenarnya ada bagusnya juga",
+            "Message_43100311": "Oke. Kalau begitu, kita ketemu di pintu masuk Reverb Arena ya",
+            "Message_43100312": "Boleh. Semoga pemancing-pemancing itu ada di sana ya. Aku suka sekali lihat mereka mancing",
+            "Option01_43100313": "Kamu suka lihat mereka mancing?",
+            "OptionLong01_43100313": "Kamu sebenarnya suka lihat mereka mancing atau suka lihat mereka berantem?",
+            "Option02_43100313": "Kamu suka lihat mereka berantem, kan?",
+            "OptionLong02_43100313": "Kamu sebenarnya suka lihat mereka mancing atau suka lihat mereka berantem?",
+            "Message_43100314": "Jawaban resmi: Aku tidak mau komentar. Jawaban tidak resmi: Aku suka dua-duanya!",
+            "Message_43100315": "Oke. Kalau begitu, kita ketemu di Pelabuhan Elpis ya",
+            "Message_43100316": "Kebetulan sekali. Aku baru saja mau keluarin ponsel buat tanya kamu belakangan ini punya waktu atau tidak~",
+            "Option01_43100317": "Tapi aku yang tanya dulu!",
+            "Option02_43100317": "Kamu dulu yang jawab!",
+            "Message_43100318": "Oke! Belakangan ini sibuk sekali, tapi... aku tiba-tiba ingin curi-curi waktu buat santai sebentar!",
+            "Option01_43100319": "Kebetulan sekali.",
+            "OptionLong01_43100319": "Kebetulan sekali, aku juga sepemikiran!",
+            "Option02_43100319": "Aku juga berpikiran begitu!",
+            "OptionLong02_43100319": "Kebetulan sekali, aku juga sepemikiran!",
+            "Message_43100320": "Buat rayakan pemikiran kita yang sejalan, kamu pilih tempat buat jalan-jalan dong!",
+            "Option01_43100321": "Oke!",
+            "Option02_43100321": "Aku juga lagi berpikir hal yang sama",
+            "Message_43100322": "Kamu sudah tahu mau ke mana? Sebisa mungkin pilih tempat yang tidak banyak orang ya",
+            "Message_43100323": "Aku kan mau ketemu kamu, jadi aku tidak ingin diganggu orang lain..."
+        }
+    },
+    "431004": {
+        "id": "431004",
+        "texts": {
+            "Option01_43100401": "Aku tiba-tiba ingin ketemu kamu.",
+            "Option02_43100401": "Kamu lagi ngapain?",
+            "Message_43100402": "Bagaimana kalau... kamu lihat poster yang ada di toko saja?",
+            "Option01_43100403": "Aku maunya ketemu orangnya langsung!",
+            "Option02_43100403": "Oke. Aku coba lihat dulu ya.",
+            "Message_43100404": "Barusan aku cuma bercanda kok~ Aku memang sibuk sekali sih, tapi begitu lihat avatarmu, aku langsung jadi ingin ketemu kamu... Tentu saja ketemu orangnya langsung ya!",
+            "Message_43100405": "Ketemuan yuk~ Mau ke mana?",
+            "Message_43100406": "Oh ya, tempatnya jangan yang ada banyak orang ya. Bukan takut ada orang yang lihat kita pergi berdua, tapi aku takut dimintai foto dan tanda tangan, nanti waktuku malah jadi habis...",
+            "Option01_43100407": "Kalau begitu, ke Reverb Arena saja.",
+            "Option02_43100407": "Nonton orang mancing di Pelabuhan Elpis?",
+            "Message_43100408": "Hmm... Boleh! Aku kan dikira orang yang mirip Astra Yao sama orang-orang di Reverb Arena... jadi sebenarnya ada bagusnya juga",
+            "Message_43100409": "Oke. Kalau begitu, kita ketemu di pintu masuk Reverb Arena ya",
+            "Message_43100410": "Boleh. Semoga pemancing-pemancing itu ada di sana ya. Aku suka sekali lihat mereka mancing",
+            "Option01_43100411": "Kamu suka lihat mereka mancing.",
+            "OptionLong01_43100411": "Kamu sebenarnya suka lihat mereka mancing atau suka lihat mereka bertengkar?",
+            "Option02_43100411": "Kamu suka lihat mereka bertengkar kan?",
+            "OptionLong02_43100411": "Kamu sebenarnya suka lihat mereka mancing atau suka lihat mereka bertengkar?",
+            "Message_43100412": "Jawaban resmi: Aku tidak mau komentar. Jawaban tidak resmi: Aku suka dua-duanya!",
+            "Message_43100413": "Oke. Kalau begitu, kita ketemu di Pelabuhan Elpis ya",
+            "Message_43100414": "Eh, aku cuma bercanda kok! Sebenarnya aku juga ingin ketemu kamu. Eh, tapi kamu masa sama sekali tidak ada poster atau filmku sih...",
+            "Message_43100415": "Ah... Sudah lama sekali tidak lihat {M#Wise}{F#Belle}. Aku sekarang sudah tidak ingat mukamu seperti apa",
+            "Option01_43100416": "Lain kali aku foto buat kamu deh.",
+            "Option02_43100416": "{M#Tidak}{F#Enggak} apa-apa. Postermu saja sudah cukup kok.",
+            "Message_43100417": "Boleh. Kali ini setidaknya harus ketemu orangnya langsung dong~ Jadi, kita mau ketemu di mana nih?",
+            "Message_43100418": "Duh, jangan lihat poster! Lebih baik langsung ketemu saja! Jadi, kita mau ketemu di mana nih? ",
+            "Message_43100419": "Aku lagi cari inspirasi. Lagu baruku baru aku tulis setengah, tapi aku sudah kehabisan inspirasi...",
+            "Message_43100420": "Oh ya, ayo kita pergi main saja, sekalian bantu aku cari inspirasi!",
+            "Option01_43100421": "Oke!",
+            "OptionLong01_43100421": "{M#Tidak}{F#Enggak} masalah. Ternyata... aku bisa jadi sumber inspirasimu?",
+            "Option02_43100421": "Ternyata aku bisa jadi sumber inspirasi?",
+            "OptionLong02_43100421": "{M#Tidak}{F#Enggak} masalah. Ternyata... aku bisa jadi sumber inspirasimu?",
+            "Message_43100422": "Bisa dong! Asalkan pergi sama kamu, pasti bakal ada banyak hal yang menyenangkan deh, jadi cocok sekali buat tulis lagu",
+            "Message_43100423": "Kamu sudah tahu mau ke mana? Oh ya, tempatnya jangan yang ada banyak orang ya",
+            "Message_43100424": "Bukan takut ada orang yang lihat kita pergi berdua, tapi aku takut dimintai foto dan tanda tangan, nanti waktuku malah jadi habis..."
+        }
+    },
+    "431005": {
+        "id": "431005",
+        "texts": {
+            "Option01_43100501": "Belakangan ini kerjaanmu sibuk {M#tidak}{F#enggak}?",
+            "Option02_43100501": "Belakangan ini kamu sempat {M#tidak}{F#enggak}?",
+            "Message_43100502": "Sibuk. Sibuk sekali",
+            "Message_43100503": "Tapi, aku ingin... curi-curi waktu buat santai sebentar!",
+            "Option01_43100504": "Aku juga lagi berpikir hal yang sama!",
+            "Option02_43100504": "Kebetulan sekali, aku juga!",
+            "Message_43100505": "Kalau begitu, pemikiran kita sejalan. Daripada ditunda-tunda lagi, bagaimana kalau kita sekarang ketemu saja?",
+            "Option01_43100506": "Oke!",
+            "OptionLong01_43100506": "{M#Tidak}{F#Enggak} masalah. Kamu mau pergi ke mana?",
+            "Option02_43100506": "Mau pergi ke mana?",
+            "OptionLong02_43100506": "{M#Tidak}{F#Enggak} masalah. Kamu mau pergi ke mana?",
+            "Message_43100507": "Kamu saja yang pilih! Aku pergi ke mana saja boleh kok!",
+            "Option01_43100508": "Bagaimana kalau ke toko musik yang di Sixth Street?",
+            "Option02_43100508": "Bagaimana kalau makan mi di Sixth Street?",
+            "Message_43100509": "Toko musik yang di jalanan kalian... Seingatku namanya \"Bardic Needle\" kan? Oke! Aku berangkat sekarang ya! Sampai ketemu di pintu metro Sixth Street!",
+            "Message_43100510": "Ide bagus! Ah~ Gara-gara kamu nih, sekarang perutku langsung jadi lapar. Cepatan ya, nanti kita ketemu di pintu metro Sixth Street!",
+            "Message_43100511": "Kebetulan sekali. Aku baru mau ambil ponsel buat tanya kamu belakangan sempat atau tidak~",
+            "Option01_43100512": "Tapi aku yang tanya dulu!",
+            "Option02_43100512": "Kamu dulu yang jawab!",
+            "Message_43100513": "Oke! Belakangan ini sibuk sekali, tapi... aku tiba-tiba ingin curi-curi waktu buat santai sebentar!",
+            "Option01_43100514": "Kebetulan sekali.",
+            "OptionLong01_43100514": "Kebetulan sekali, aku juga sepemikiran!",
+            "Option02_43100514": "Aku juga berpikiran begitu!",
+            "OptionLong02_43100514": "Kebetulan sekali, aku juga sepemikiran!",
+            "Message_43100515": "Buat rayakan pemikiran kita yang sejalan, kamu pilih tempat buat jalan-jalan dong!",
+            "Option01_43100516": "Oke!",
+            "Option02_43100516": "Aku juga lagi berpikir hal yang sama",
+            "Message_43100517": "Kamu sudah tahu mau ke mana? Aku pergi ke mana saja boleh kok!"
+        }
+    },
+    "431006": {
+        "id": "431006",
+        "texts": {
+            "Option01_43100601": "Aku tiba-tiba ingin ketemu kamu.",
+            "Option02_43100601": "Kamu lagi ngapain?",
+            "Message_43100602": "Bagaimana kalau... kamu lihat poster yang ada di toko saja?",
+            "Option01_43100603": "Aku maunya ketemu orangnya langsung!",
+            "Option02_43100603": "Oke. Aku coba lihat dulu ya.",
+            "Message_43100604": "Barusan aku cuma bercanda kok~ Aku memang sibuk sekali sih, tapi begitu lihat avatarmu, aku langsung jadi ingin ketemu kamu... Tentu saja ketemu orangnya langsung ya!",
+            "Message_43100605": "Ketemuan yuk~ Mau ke mana?",
+            "Option01_43100606": "Bagaimana kalau ke toko musik yang di Sixth Street?",
+            "Option02_43100606": "Bagaimana kalau makan mi di Sixth Street?",
+            "Message_43100607": "Toko musik yang di jalanan kalian... Seingatku namanya \"Bardic Needle\" kan? Oke! Aku berangkat sekarang ya! Sampai ketemu di pintu metro Sixth Street!",
+            "Message_43100608": "Ide bagus! Ah~ Gara-gara kamu nih, sekarang perutku langsung jadi lapar. Cepatan ya, nanti kita ketemu di pintu metro Sixth Street!",
+            "Message_43100609": "Eh, aku cuma bercanda kok! Sebenarnya aku juga ingin ketemu kamu. Eh, tapi kamu masa sama sekali tidak ada poster atau filmku sih...",
+            "Message_43100610": "Ah... Sudah lama sekali tidak lihat {M#Wise}{F#Belle}. Aku sekarang sudah tidak ingat mukamu seperti apa",
+            "Option01_43100611": "Lain kali aku foto buat kamu deh.",
+            "Option02_43100611": "{M#Tidak}{F#Enggak} apa-apa. Postermu saja sudah cukup kok.",
+            "Message_43100612": "Boleh. Kali ini setidaknya harus ketemu orangnya langsung dong~ Jadi, kita mau ketemu di mana nih?",
+            "Message_43100613": "Duh, jangan lihat poster! Lebih baik langsung ketemu saja! Jadi, kita mau ketemu di mana nih? ",
+            "Message_43100614": "Aku lagi cari inspirasi. Lagu baruku baru aku tulis setengah, tapi aku sudah kehabisan inspirasi...",
+            "Message_43100615": "Oh ya, ayo kita pergi main saja, sekalian bantu aku cari inspirasi!",
+            "Option01_43100616": "Oke!",
+            "OptionLong01_43100616": "{M#Tidak}{F#Enggak} masalah. Ternyata... aku bisa jadi sumber inspirasimu?",
+            "Option02_43100616": "Ternyata aku bisa jadi sumber inspirasi?",
+            "OptionLong02_43100616": "{M#Tidak}{F#Enggak} masalah. Ternyata... aku bisa jadi sumber inspirasimu?",
+            "Message_43100617": "Bisa dong! Asalkan pergi sama kamu, pasti bakal ada banyak hal yang menyenangkan deh, jadi cocok sekali buat tulis lagu",
+            "Message_43100618": "Kamu sudah tahu mau ke mana? Ke mana saja pasti aku temani deh!"
+        }
+    },
+    "431007": {
+        "id": "431007",
+        "texts": {
+            "Message_43100701": "Aku ini pencuri yang gagal deh. Masa mau curi-curi waktu buat santai saja tidak bisa",
+            "Message_43100702": "Kamu tahu kenapa? Karena komplotannya kurang satu orang",
+            "Option01_43100703": "Maaf ya, aku ada urusan.",
+            "Option02_43100703": "Maaf ya! Aku benaran ada urusan penting!",
+            "Message_43100704": "Sudahlah, lupakan saja. Karena sudah dapat merchandise, aku maafkan kamu deh!",
+            "Option01_43100705": "Merchandise?",
+            "OptionLong01_43100705": "Merchandise? Merchandise apa?",
+            "Option02_43100705": "Merchandise apa?",
+            "OptionLong02_43100705": "Merchandise? Merchandise apa?",
+            "Message_43100706": "Aku beli banyak merchandise menarik di Reverb Arena loh. Kamu tidak datang ya rugi sendiri",
+            "Option01_43100707": "Lain kali aku pasti datang",
+            "Option02_43100707": "Lain kali {M#tidak}{F#enggak} bakal ingkar janji lagi deh...",
+            "Message_43100708": "Oke. Aku akan ingat kata-katamu. Kamu harus buktikan omonganmu ya!"
+        }
+    },
+    "431008": {
+        "id": "431008",
+        "texts": {
+            "Message_43100801": "Kemarin ada dua orang yang lagi sedih di Pelabuhan Elpis",
+            "Message_43100802": "Yang satu, Kakek Gu, dia sedih karena tidak digubris ikan dan yang satu lagi, Astra, dia sedih karena {M#Wise}{F#Belle} ingkar janji",
+            "Option01_43100803": "Maaf ya, aku benaran ada urusan penting...",
+            "Option02_43100803": "Maaf! Tiba-tiba ada urusan penting...",
+            "Message_43100804": "Ada urusan sepenting apa pun, kamu tidak boleh lupa lihat orang mancing—",
+            "Message_43100805": "Eh... Sepertinya boleh-boleh saja sih!",
+            "Message_43100806": "Oke, kali ini aku maafkan kamu. Lain kali tidak boleh ingkar janji lagi ya!"
+        }
+    },
+    "431009": {
+        "id": "431009",
+        "texts": {
+            "Message_43100901": "Aku sudah dengar semua lagu di Bardic Needle loh, tapi kamu tetap tidak datang juga. Sedih sekali deh—",
+            "Option01_43100902": "Maaf! Tiba-tiba ada urusan mendadak...",
+            "OptionLong01_43100902": "Maaf ya! Tiba-tiba ada urusan penting... Eh, tunggu dulu. Kamu benaran sudah dengar semuanya?",
+            "Option02_43100902": "Maaf! Tiba-tiba ada urusan mendadak...",
+            "OptionLong02_43100902": "Maaf ya! Tiba-tiba ada urusan penting... Eh, tunggu dulu. Kamu benaran sudah dengar semuanya?",
+            "Message_43100903": "Tentu saja tidak! Aku bohong kok! Tapi, aku memang benaran sedih!",
+            "Option01_43100904": "Lain kali aku pasti datang",
+            "Option02_43100904": "Lain kali {M#tidak}{F#enggak} bakal ingkar janji lagi.",
+            "Message_43100905": "Ya sudah, kali ini aku percaya kamu deh! Toko musik juga dekat sekali dari rumahmu loh. Kalau kamu sampai ingkar janji lagi, aku bakal cari kamu ke rumah!"
+        }
+    },
+    "431010": {
+        "id": "431010",
+        "texts": {
+            "Message_43101001": "Waktu minya sudah habis, aku pesan satu porsi camilan lagi. Camilannya sudah habis, tapi kamu belum datang juga",
+            "Option01_43101002": "Maaf ya, ada urusan yang belum selesai!",
+            "Option02_43101002": "Maaf ya! Lain kali aku pasti datang!",
+            "Message_43101003": "Aku sudah janjian sama bosnya ya. Kalau lain kali kamu tidak datang lagi, aku bakal makan sepuasnya, terus suruh kamu yang bayar!"
+        }
+    },
+    "432001": {
+        "id": "432001",
+        "texts": {
+            "Message_43200101": "Kamu sudah tidur? Ada satu masalah yang bikin aku galau nih",
+            "Message_43200102": "Aku mau minta pendapatmu, Astranaut",
+            "Option01_43200103": "Sudah malam begini masih kerja?",
+            "Option02_43200103": "Ternyata Evelyn lagi lembur ya...",
+            "Message_43200104": "Belum terlalu malam kok, kamu sendiri juga belum tidur kan?",
+            "Message_43200105": "Bulan depan Nona harus hadir di pesta amal, dia lagi pusing mau pakai gaun yang mana",
+            "Message_43200106": "Desain dan warna yang biasa sudah pernah dipakai semua. Kalau yang tidak biasa...",
+            "Message_43200107": "Kamu juga tahu kan, banyak desainer yang coba bikin desain \"unik\" supaya kelihatan kreatif...",
+            "Message_43200108": "Pusing deh",
+            "Option01_43200109": "Evelyn nanti bakal pakai apa?",
+            "Option02_43200109": "Coba kita pakai pola pikir yang berbeda. Misalnya, kamu bakal pakai apa?",
+            "Message_43200110": "Aku ya? Sama seperti biasanya saja. Aku pakai apa tidak penting, kita kan lagi bahas tentang Nona Astra",
+            "Option01_43200111": "Mungkin bisa minta Astra coba pakai baju Evelyn.",
+            "Option02_43200111": "Astra {M#tidak}{F#enggak} pernah pakai gaya yang keren seperti kamu kan?",
+            "Message_43200112": "Oh... Memang pola pikir yang luar biasa. Tapi gaya berpakaianku itu yang penting efisien",
+            "Message_43200113": "Kalau Nona mulai tren baru dengan pakai baju seperti aku... Nanti harga bajuku bisa naik...",
+            "Message_43200114": "Tapi, aku rasa dia bakal senang deh. Dia pasti bilang \"Asyik! Aku bisa pakai baju Eve!\"...",
+            "Message_43200115": "Cuma orang yang paham sifat Nona yang bakal kasih ide seperti itu. Ya sudah, begitu saja deh",
+            "Message_43200116": "Oh ya, kamu kan tahu aku hari ini lembur... Tolong jangan kasih tahu Nona ya, nanti aku kena omel lagi",
+            "Option01_43200117": "{M#Tidak}{F#Enggak} akan bocor kok, tapi Evelyn sudah waktunya tidur deh...",
+            "Option02_43200117": "Oke. Kalau Astra {M#tidak}{F#enggak} boleh ngomel, biar aku aja yang ngomel.",
+            "Message_43200118": "Duh, tetap ketahuan juga... Sudah semalam ini Nona masih datang ke kantor",
+            "Message_43200119": "Tapi, pakai baju seperti aku memang ide bagus. Lebih baik kita coba lihat hasilnya sekarang saja. Sudah malam begini, di kantor juga sudah tidak ada orang",
+            "Message_43200120": "Kalau begitu, sampai di sini saja deh. Selamat tiduuuurrr",
+            "Message_43200121": "Bicarakan masalah Nona tidak termasuk lembur kan?"
+        }
+    },
+    "432002": {
+        "id": "432002",
+        "texts": {
+            "Message_43200201": "Kalau kamu lompat, aku juga lompat...",
+            "Message_43200203": "Kamu sering pakai kata-kata itu tidak?",
+            "Option01_43200204": "Harusnya {F#enggak}{M#tidak} ya. Aku {F#enggak}{M#tidak} bisa bayangkan situasi yang cocok...",
+            "Option02_43200204": "Belum ketemu lawan bicara buat ngomong kata-kata keren seperti itu...",
+            "Message_43200205": "Hmm, kelihatannya cocok juga. Aku mau bikin kata sandi buat kita berdua",
+            "Message_43200206": "Kata-kata yang sering dipakai orang, tapi tidak mungkin kita pakai. Kalau sampai kita bilang begitu, orang lain juga tidak bakal paham artinya yang sebenarnya",
+            "Message_43200207": "Kalau salah satu dari kita ada yang tiba-tiba bilang begitu, berarti orang itu lagi dalam bahaya, jadi yang lainnya bisa langsung bantu",
+            "Message_43200208": "Aku rasa kata-kata yang tidak paling tidak mirip omonganku itu \"Kalau kamu lompat, aku juga lompat.\"...",
+            "Message_43200209": "Kalau dipikir-pikir lagi, sepertinya tidak bisa dipakai deh. Kalau lagi jelajahi Hollow, lompat ke dalam celah itu kan hal biasa",
+            "Message_43200210": "Bisa saja nanti kita benar-benar harus lompat bareng kan? Cari yang lain deh",
+            "Option01_43200211": "Kalau semacam mantra, mungkin terlalu susah ya?",
+            "Option02_43200211": "Harus cari kata-kata yang {M#tidak}{F#enggak} kedengaran aneh kalau diucapkan di tengah obrolan...",
+            "Message_43200212": "Kalau mantra, susah buat diucapkan tanpa salah sedikit pun. Lagi pula, kalau benaran diucapkan, kedengarannya agak... tolol",
+            "Message_43200213": "Punya ide?",
+            "Option01_43200214": "Kamu mau mulai kariermu sendiri?",
+            "Option02_43200214": "Aku mau buka usaha sendiri.",
+            "Message_43200215": "Oh, bagus sekali. Kalau {M#Wise}{F#Belle}, sudah pasti tidak bakal tinggalkan {M#adiknya}{F#kakaknya}",
+            "Message_43200216": "Aku juga sama.",
+            "Message_43200217": "Jadi, pasti janggal sekali kalau pakai kata-kata itu",
+            "Message_43200218": "Ide bagus.",
+            "Message_43200219": "Iya, betul. Jadi, baca puisi juga tidak cocok. Kedengarannya pasti... aneh sekali"
+        }
+    },
+    "432003": {
+        "id": "432003",
+        "texts": {
+            "Message_43200301": "Aku mau tanya ya. Di tempatmu ada film Monica yang judulnya \"Oh~ Sayangku\" tidak?",
+            "Option01_43200302": "Ada. Filmnya bagus sekali.",
+            "Option02_43200302": "Tentu dong. Film itu kan terkenal sekali.",
+            "Message_43200303": "Oh? Aku agak kaget, aku kira kamu akan terus setia di pihak Nona.",
+            "Message_43200304": "Monica itu saingan terbesarnya Nona. Kamu tahu, kan?",
+            "Option01_43200305": "Ha-harus pilih salah satu ya... Memangnya {M#tidak}{F#enggak} boleh suka dua-duanya?",
+            "Option02_43200305": "Sebagai manajer toko video, aku harus bersikap netral.",
+            "Message_43200306": "Oh ya? Apa kamu mau kenalan sama Monica? Nanti aku bisa tanyakan ke Nona kok",
+            "Option01_43200307": "Aku penggemar setia Astra! Film Monica yang ada di rak aku simpan semua sekarang juga!",
+            "Option02_43200307": "Aku akan langsung ambil semua film Monica dari rak!",
+            "Message_43200308": "Aku senang sekali kamu bilang begitu, tapi tidak usah sampai seperti itu kok.",
+            "Message_43200309": "Belakangan ini kamu punya waktu tidak? Aku perlu nonton film Monica yang ini",
+            "Option01_43200310": "Kenapa jadi kamu yang boleh nonton?!",
+            "Option02_43200310": "Wah, ternyata Evelyn punya standar ganda...",
+            "Message_43200311": "Aku nonton untuk pekerjaan",
+            "Message_43200312": "Aku mau pinjam dari tokomu karena tidak mau bikin penjualan saingan Nona meningkat",
+            "Option01_43200313": "Aku tunggu kamu datang ya.",
+            "Option02_43200313": "Aku selalu ada waktu kalau buat Evelyn dan Astra!",
+            "Message_43200314": "Terima kasih atas bantuannya",
+            "Message_43200315": "Cuma aku saja, Nona tidak ikut. Maaf ya sudah bikin kamu kecewa",
+            "Message_43200316": "Bersikap netral itu bisa amati kelebihan dan kekurangan masing-masing pihak secara objektif. Kamu memang pintar sekali"
+        }
+    },
+    "432004": {
+        "id": "432004",
+        "texts": {
+            "Option01_43200401": "tok-tok kamu masih kenal siapa aku?",
+            "Option02_43200401": "Evelyn lagi sibuk ya?",
+            "Message_43200402": "Mana mungkin tidak kenal sih? Aku sudah simpan kontakmu kok",
+            "Message_43200403": "Aku kan bukan orang yang suka sembarang hapus daftar kontak",
+            "Message_43200404": "Atau jangan-jangan... kamu yang hapus aku?",
+            "Option01_43200405": "Mana mungkin?! Aku cuma bercanda karena kamu sudah lama {M#tidak}{F#enggak} cari aku.",
+            "Option02_43200405": "Huh, kamu sudah lama {M#tidak}{F#enggak} cari aku, jadi sudah aku hapus dari hatiku.",
+            "Message_43200406": "Oh, begitu ya. Belakangan ini aku memang sibuk sekali, kerjaanku benar-benar bikin repot. Sebenarnya aku ingin cari kamu buat ngobrol panjang lebar",
+            "Message_43200407": "Tapi, aku selalu merasa aku bisa ajak kamu keluar kapan saja",
+            "Message_43200408": "Akhirnya, aku undur terus sampai sekarang... Maaf ya",
+            "Option01_43200409": "Aku tahu Evelyn begitu karena aku penting buat Evelyn.",
+            "OptionLong01_43200409": "Hmm, Justru karena rasa saling percaya dan saling memahami, kita malah sering lupa perhatikan orang-orang yang penting bagi kita ya...",
+            "Option02_43200409": "Aku {M#tidak}{F#enggak} marah. Aku sendiri juga bakal begitu kok.",
+            "OptionLong02_43200409": "Aku {M#tidak}{F#enggak} marah kok. Sebenarnya aku juga sering lupa sama orang yang penting buat aku karena terlalu sibuk. Jadi, aku bisa paham kok, Evelyn.",
+            "Message_43200410": "Baguslah kalau begitu. Jadi, kamu ingin pergi ke mana?",
+            "Option01_43200411": "Gimana kalau ke Lumina Galleria?",
+            "Option02_43200411": "Gimana kalau ke Reverb Arena?",
+            "Message_43200412": "Pergi belanja di mal? Sekarang belum ada barang yang perlu aku beli sih",
+            "Message_43200413": "Tapi, kalau kamu ingin pergi, aku bisa temani kamu kok",
+            "Message_43200414": "Ada beberapa toko yang harganya kemahalan, ada juga yang desainnya... kurang bagus",
+            "Message_43200415": "Tapi, ide bagus juga sih, soalnya aku sudah lama sekali tidak pergi jalan-jalan ke mal",
+            "Message_43200416": "Nanti aku tunggu kamu di stasiun metro Lumina Square ya",
+            "Message_43200418": "Oh, ngomong-ngomong tentang Reverb Arena, ada urusan yang sudah aku tunda berhari-hari nih",
+            "Message_43200419": "Lebih bagus lagi kalau Manajer bisa temani aku pergi",
+            "Message_43200420": "Beberapa hari lalu aku bikin keputusan yang benar-benar gegabah",
+            "Message_43200421": "Kalau mau selesaikan masalah itu, mungkin tidak ada tempat yang lebih cocok dari Reverb Arena",
+            "Option01_43200422": "Aku jadi agak penasaran gara-gara kamu bilang begitu...",
+            "Option02_43200422": "Sebenarnya masalah apa?",
+            "Message_43200423": "Nanti kamu juga tahu kalau sudah ke sana... Kalau begitu, langsung ketemu di Reverb Arena ya!",
+            "Message_43200425": "Oh, tapi kalau cuma dihapus di dalam hati, tinggal tambahkan di dalam hati lagi saja",
+            "Message_43200426": "Aku sudah kirim permintaan berteman ya. Jangan lupa terima ya",
+            "Message_43200427": "Kamu marah juga tidak apa-apa kok. Aku bakal terus kirimkan permintaan berteman sampai kamu terima aku dalam hatimu",
+            "Message_43200428": "Sibuk",
+            "Message_43200429": "Ada apa?",
+            "Option01_43200430": "Oh... Ya sudah deh kalau lagi sibuk.",
+            "Option02_43200430": "{M#Tidak}{F#Enggak} ada apa-apa. Kamu sibuk dulu saja.",
+            "Message_43200431": "Ada apa?",
+            "Message_43200432": "Sesibuk apa pun aku bakal tetap balas kok",
+            "Message_43200433": "Jadi, ada apa?",
+            "Option01_43200434": "Aku mau ajak kamu ketemu buat ngobrol.",
+            "Option02_43200434": "{M#Tidak}{F#Enggak} ada masalah kok. Cuma ingin ketemu karena sudah lama {M#tidak}{F#enggak} ketemu.",
+            "Message_43200435": "Ketemu",
+            "Message_43200436": "Di mana?"
+        }
+    },
+    "432005": {
+        "id": "432005",
+        "texts": {
+            "Option01_43200501": "*Tok-tok* Kamu masih kenal siapa aku?",
+            "Option02_43200501": "Evelyn lagi sibuk ya?",
+            "Message_43200502": "Mana mungkin tidak kenal sih? Aku sudah simpan kontakmu kok",
+            "Message_43200503": "Aku kan bukan orang yang suka sembarang hapus daftar kontak",
+            "Message_43200504": "Atau jangan-jangan... kamu yang hapus aku?",
+            "Option01_43200505": "Mana mungkin?! Aku cuma bercanda karena kamu sudah lama {M#tidak}{F#enggak} cari aku.",
+            "Option02_43200505": "Huh, kamu sudah lama {M#tidak}{F#enggak} cari aku, jadi sudah aku hapus dari hatiku.",
+            "Message_43200506": "Oh, begitu ya. Belakangan ini aku memang sibuk sekali, kerjaanku benar-benar bikin repot. Sebenarnya aku ingin cari kamu buat ngobrol panjang lebar",
+            "Message_43200507": "Tapi, aku selalu merasa aku bisa ajak kamu keluar kapan saja",
+            "Message_43200508": "Akhirnya, aku undur terus sampai sekarang... Maaf ya",
+            "Option01_43200509": "Aku tahu Evelyn begitu karena aku penting buat Evelyn.",
+            "OptionLong01_43200509": "Hmm, justru karena rasa saling percaya dan saling memahami, kita malah sering lupa perhatikan orang-orang yang penting bagi kita ya. Aku paham kok.",
+            "Option02_43200509": "Aku {M#tidak}{F#enggak} marah. Aku sendiri juga bakal begitu kok.",
+            "OptionLong02_43200509": "Aku {M#tidak}{F#enggak} marah kok. Sebenarnya aku juga sering lupa sama orang yang penting buat aku karena terlalu sibuk. Jadi, aku bisa paham kok, Evelyn.",
+            "Message_43200510": "Baguslah kalau begitu. Jadi, kamu ingin pergi ke mana?",
+            "Option01_43200511": "Bioskop Gravity, gimana?",
+            "Option02_43200511": "Bagaimana kalau ke Godfinger?",
+            "Message_43200512": "Nonton film ya?",
+            "Message_43200513": "Rasanya agak mirip lagi kerja ya, padahal jelas-jelas bukan lagi kerja...",
+            "Message_43200514": "Film yang dirilis belakangan ini sudah aku tonton semua",
+            "Message_43200515": "Tapi, dengar-dengar bioskop Gravity lagi putar film tua yang sudah bertahun-tahun lalu. Aku malah jadi agak ingin nonton...",
+            "Message_43200516": "Kamu tertarik?",
+            "Option01_43200517": "Tertarik kok!",
+            "Option02_43200517": "Jelas dong. Aku kan buka toko video!",
+            "Message_43200518": "Baik. Kalau begitu, kita ketemu di stasiun metro Lumina Square ya.",
+            "Message_43200520": "Godfinger... Apa itu?",
+            "Message_43200521": "Oh, aku tadi sudah sempat cari di internet. Itu arkade yang ada di dekat rumah kalian kan?",
+            "Message_43200522": "Tempat begitu dulu banyak sekali, sekarang malah sudah jarang ya",
+            "Message_43200523": "Iya. Aku ingin pergi. Sebenarnya aku menyesal juga, waktu kecil aku tidak sempat main sampai puas",
+            "Message_43200524": "Kalau begitu, kita ketemu di stasiun metro Sixth Street ya",
+            "Message_43200526": "Oh, tapi kalau cuma dihapus di dalam hati, tinggal tambahkan di dalam hati lagi saja",
+            "Message_43200527": "Aku sudah kirim permintaan berteman ya. Jangan lupa terima ya",
+            "Message_43200528": "Kamu marah juga tidak apa-apa kok. Aku bakal terus kirimkan permintaan berteman sampai kamu terima aku dalam hatimu",
+            "Message_43200529": "Sibuk",
+            "Message_43200530": "Ada apa?",
+            "Option01_43200531": "Oh... Ya sudah deh kalau lagi sibuk.",
+            "Option02_43200531": "{M#Tidak}{F#Enggak} ada apa-apa. Kamu sibuk dulu saja.",
+            "Message_43200532": "Ada apa?",
+            "Message_43200533": "Sesibuk apa pun aku bakal tetap balas kok",
+            "Message_43200534": "Jadi, ada apa?",
+            "Option01_43200535": "Aku mau ajak kamu ketemu buat ngobrol.",
+            "Option02_43200535": "{M#Tidak}{F#Enggak} ada masalah kok. Cuma ingin ketemu karena sudah lama {M#tidak}{F#enggak} ketemu.",
+            "Message_43200536": "Boleh",
+            "Message_43200537": "Di mana?"
+        }
+    },
+    "432006": {
+        "id": "432006",
+        "texts": {
+            "Option01_43200601": "Kerjaanmu belakangan ini capek sekali kan? Mau pergi cari angin {M#tidak}{F#enggak}?",
+            "Option02_43200601": "Rasanya aku sudah {M#tidak}{F#enggak} ada di daftar VIP-mu...",
+            "Message_43200602": "Belakangan ini kerjaanku agak melelahkan, jadi aku ingin pergi cari angin... \nTadi aku lagi mau kirim pesan ini ke kamu loh, sudah tulis sampai di sini...",
+            "Message_43200603": "Kebetulan sekali",
+            "Option01_43200604": "Hore! Pemikiran kita sama~",
+            "Option02_43200604": "Wah, kompak sekali deh!",
+            "Message_43200605": "Wah, ajaib juga, tidak janjian tapi pemikirannya bisa sejalan",
+            "Message_43200606": "Tapi, aku memang capek sekali sih, jadi kamu saja yang pikirkan kita pergi main ke mana ya",
+            "Option01_43200607": "Gimana kalau ke Lumina Galleria?",
+            "Option02_43200607": "Gimana kalau ke Reverb Arena?",
+            "Message_43200608": "Pergi belanja di mal? Sekarang belum ada barang yang perlu aku beli sih",
+            "Message_43200609": "Tapi, kalau kamu ingin pergi, aku bisa temani kamu kok",
+            "Message_43200610": "Ada beberapa toko yang harganya kemahalan, ada juga yang desainnya... kurang bagus",
+            "Message_43200611": "Tapi, ide bagus juga sih, soalnya aku sudah lama sekali tidak pergi jalan-jalan ke mal",
+            "Message_43200612": "Nanti aku tunggu kamu di stasiun metro Lumina Square ya",
+            "Message_43200614": "Oh, ngomong-ngomong tentang Reverb Arena, ada urusan yang sudah aku tunda berhari-hari nih",
+            "Message_43200615": "Lebih bagus lagi kalau Manajer bisa temani aku pergi",
+            "Message_43200616": "Beberapa hari lalu aku bikin keputusan yang benar-benar gegabah",
+            "Message_43200617": "Kalau mau selesaikan masalah itu, mungkin tidak ada tempat yang lebih cocok dari Reverb Arena",
+            "Option01_43200618": "Aku jadi agak penasaran gara-gara kamu bilang begitu...",
+            "Option02_43200618": "Sebenarnya masalah apa?",
+            "Message_43200619": "Nanti kamu juga tahu kalau sudah ke sana... Kalau begitu, langsung ketemu di Reverb Arena ya!",
+            "Message_43200621": "Dari awal juga tidak ada di daftar VIP",
+            "Option01_43200622": "Loh... Kok...",
+            "Option02_43200622": "Ternyata aku... terlalu remehkan diri sendiri...",
+            "Message_43200623": "Kamu ada di daftar yang lebih penting lagi",
+            "Message_43200624": "Kamu selamanya punya tempat yang spesial di hatiku",
+            "Message_43200625": "Jadi, daripada sangkal diri sendiri, lebih baik pikirkan masalah yang berguna saja",
+            "Message_43200626": "Misalnya, mau pergi main ke mana..."
+        }
+    },
+    "432007": {
+        "id": "432007",
+        "texts": {
+            "Option01_43200701": "Kerjaanmu belakangan ini capek sekali kan? Mau pergi cari angin {M#tidak}{F#enggak}?",
+            "Option02_43200701": "Rasanya aku sudah {M#tidak}{F#enggak} ada di daftar VIP-mu...",
+            "Message_43200702": "Belakangan ini kerjaanku agak melelahkan, jadi aku ingin pergi cari angin... \nTadi aku lagi mau kirim pesan ini ke kamu loh, sudah tulis sampai di sini...",
+            "Message_43200703": "Kebetulan sekali",
+            "Option01_43200704": "Hore! Pemikiran kita sama~",
+            "Option02_43200704": "Wah, kompak sekali deh!",
+            "Message_43200705": "Wah, ajaib juga, tidak janjian tapi pemikirannya bisa sejalan",
+            "Message_43200706": "Tapi, aku memang capek sekali sih, jadi kamu saja yang pikirkan kita pergi main ke mana ya",
+            "Option01_43200707": "Bioskop Gravity, gimana?",
+            "Option02_43200707": "Bagaimana kalau ke Godfinger?",
+            "Message_43200708": "Nonton film ya?",
+            "Message_43200709": "Rasanya agak mirip lagi kerja ya, padahal jelas-jelas bukan lagi kerja...",
+            "Message_43200710": "Film yang dirilis belakangan ini sudah aku tonton semua",
+            "Message_43200711": "Tapi, dengar-dengar bioskop Gravity lagi putar film tua yang sudah bertahun-tahun lalu. Aku malah jadi agak ingin nonton...",
+            "Message_43200712": "Kamu tertarik?",
+            "Option01_43200713": "Tertarik kok!",
+            "Option02_43200713": "Jelas dong. Aku kan buka toko video!",
+            "Message_43200714": "Baik. Kalau begitu, kita ketemu di stasiun metro Lumina Square ya.",
+            "Message_43200716": "Godfinger... Apa itu?",
+            "Message_43200717": "Oh, aku tadi sudah sempat cari di internet. Itu arkade yang ada di dekat rumah kalian kan?",
+            "Message_43200718": "Tempat begitu dulu banyak sekali, sekarang malah sudah jarang ya",
+            "Message_43200719": "Iya. Aku ingin pergi. Sebenarnya aku menyesal juga, waktu kecil aku tidak sempat main sampai puas",
+            "Message_43200720": "Kalau begitu, kita ketemu di stasiun metro Sixth Street ya",
+            "Message_43200722": "Dari awal juga tidak ada di daftar VIP",
+            "Option01_43200723": "Loh... Kok...",
+            "Option02_43200723": "Ternyata aku... terlalu remehkan diri sendiri...",
+            "Message_43200724": "Kamu ada di daftar yang lebih penting lagi",
+            "Message_43200725": "Kamu selamanya punya tempat yang spesial di hatiku",
+            "Message_43200726": "Jadi, daripada sangkal diri sendiri, lebih baik pikirkan masalah yang berguna saja",
+            "Message_43200727": "Misalnya, mau pergi main ke mana..."
+        }
+    },
+    "432008": {
+        "id": "432008",
+        "texts": {
+            "Message_43200801": "Hari itu kamu sepertinya tidak datang ya...?",
+            "Message_43200802": "Tapi, tidak apa-apa juga sih. Aku akhirnya beli banyak barang, semuanya bisa dipakai Nona",
+            "Message_43200803": "Jadi, termasuk lembur juga kali ya?",
+            "Option01_43200804": "Maaf ya! Lain kali aku temani kamu jalan-jalan deh!",
+            "Option02_43200804": "Kamu sesekali juga harus beli barang yang kamu suka dong.",
+            "Message_43200805": "Aku tidak ada yang perlu dibeli sih. Kamu pasti ingin beli sesuatu, kan?",
+            "Message_43200806": "Lain kali deh",
+            "Message_43200807": "Sepertinya tidak ada yang ingin aku beli"
+        }
+    },
+    "432009": {
+        "id": "432009",
+        "texts": {
+            "Message_43200901": "Kamu ingkar janji",
+            "Message_43200902": "Aku tahu kamu sibuk sekali, tapi lain kali setidaknya kamu bisa kirim Knock Knock buat kasih tahu aku kan?",
+            "Option01_43200903": "Maaf ya",
+            "Option02_43200903": "Maaf...",
+            "Message_43200904": "Tidak usah sih. Aku juga tidak rugi kok meski kamu tidak datang",
+            "Message_43200905": "Waktu di Reverb Arena, aku sendirian nonton pertunjukan yang bagus sekali loh",
+            "Message_43200906": "Justru kamu yang rugi karena tidak bisa nonton",
+            "Message_43200907": "Lain kali janjian lagi ya"
+        }
+    },
+    "432010": {
+        "id": "432010",
+        "texts": {
+            "Message_43201001": "Film itu bagus sekali",
+            "Option01_43201002": "Yang mana...?",
+            "Option02_43201002": "Film apa?",
+            "Message_43201003": "Oh, ternyata kamu lupa ya? Waktu itu kita sudah janji mau nonton film bareng, tapi kamu tidak datang",
+            "Option01_43201004": "Ta-tadi {M#Belle}{F#Kakak} ambil ponselku...",
+            "Option02_43201004": "Ta-tadi bukan aku yang kirim pesan di Knock Knock...",
+            "Message_43201005": "...",
+            "Message_43201006": "Ya sudah kalau lupa, aku juga tidak bakal marah, tapi lain cerita kalau kamu bohong",
+            "Option01_43201007": "MAAF!!!",
+            "Option02_43201007": "Lain kali {M#tidak}{F#enggak} bakal begitu lagi!",
+            "Message_43201008": "Oke"
+        }
+    },
+    "432011": {
+        "id": "432011",
+        "texts": {
+            "Message_43201101": "Hari itu aku tidak lihat kamu",
+            "Message_43201102": "Tapi, akhirnya Nona juga datang. Kami berdua mainnya seru sekali loh",
+            "Option01_43201103": "Duh... Nyesal deh.",
+            "Option02_43201103": "Apa...? Astra juga datang?!",
+            "Message_43201104": "Menyesal? Baguslah. Sekarang kamu sudah tahu apa akibatnya kalau sampai ingkar janji",
+            "Message_43201105": "Lain kali jangan ingkar janji lagi ya. Jangan lupa ya, daftar kontakku ini isinya artis-artis terkenal di New Eridu loh"
+        }
+    },
     "1000001": {
         "id": "1000001",
         "texts": {
-            "Message_100000101": "null"
+            "Message_100000101": "(Tempat yang sementara) Staf HIA A mengirim pesan pribadi kepada protagonis, katanya ada pembaruan data perangkat di HIA, dan mereka bisa menantang musuh yang lebih langka. Dia juga mengundang protagonis untuk mencobanya dulu."
         }
     },
     "1007001": {
@@ -6423,7 +6964,7 @@
             "Message_100700409": "Proksi, seingatku di dekat rumahmu ada arkade, kan? Kita ketemu di situ dulu saja, nanti baru kita bahas mau main game apa!",
             "Message_100700410": "Kabarin aja waktu ketemuannya.",
             "Message_100700412": "Aku ya...",
-            "Message_100700413": "Kalau menurutku ya, sejak jadi Overlord, aku sudah lama enggak bisa brantem sampai puas. Aku benaran pengin cari lawan tanggu buat duel.",
+            "Message_100700413": "Kalau menurutku ya, sejak jadi Overlord, aku sudah lama enggak bisa brantem sampai puas. Aku benaran ingin cari lawan tanggu buat duel.",
             "Option01_100700414": "Aku carikan tempat yang cocok buat kamu ya!",
             "Option02_100700414": "Gampang, serahkan saja padaku!",
             "Message_100700415": "Serius? Ada tempat kayak begitu?",
@@ -6540,7 +7081,7 @@
             "Option02_100701003": "Overlord ada perintah apa bagi hamba?",
             "Message_100701004": "Bukan kok, bukan ke Hollow.",
             "Message_100701005": "Kalau pergi ke Hollow mah bukan \"masalah kecil\" lagi.",
-            "Message_100701006": "Sebenarnya aku pengin tanya tentang film. Selama ini ada satu film yang aku cari, tapi enggak pernah bisa ketemu gara-gara aku enggak tahu judulnya.",
+            "Message_100701006": "Sebenarnya aku ingin tanya tentang film. Selama ini ada satu film yang aku cari, tapi enggak pernah bisa ketemu gara-gara aku enggak tahu judulnya.",
             "Option01_100701007": "Filmnya seperti apa?",
             "Option02_100701007": "Kamu tahu jalan ceritanya?",
             "Message_100701008": "Kelihatannya memang mirip film drama yang sudah agak jadol, tapi ternyata banyak unsur fantasiknya juga.",
@@ -7618,19 +8159,19 @@
     "2057001": {
         "id": "2057001",
         "texts": {
-            "Message_205700101": "null"
+            "Message_205700101": "Pesan Qingyi Tahap 1: Public Security akan datang untuk melayani masyarakat"
         }
     },
     "2057002": {
         "id": "2057002",
         "texts": {
-            "Message_205700201": "null"
+            "Message_205700201": "Pesan pribadi Qingyi tahap 2: Kita sudah tahu identitas kendaraan yang dicurigai. Temui layanan komunitas dan beri tahu mereka"
         }
     },
     "2057003": {
         "id": "2057003",
         "texts": {
-            "Message_205700301": "null"
+            "Message_205700301": "Pesan pribadi Qingyi tahap 3: Public Security akan kembali melayani."
         }
     },
     "2057004": {
@@ -7645,19 +8186,19 @@
     "2058001": {
         "id": "2058001",
         "texts": {
-            "Message_205800101": "null"
+            "Message_205800101": "Burnice mengirim pesan pribadi ke Protagonis, katanya dia butuh Proxy untuk membantunya dalam sebuah kontrak harian mengumpulkan material."
         }
     },
     "2058002": {
         "id": "2058002",
         "texts": {
-            "Message_205800201": "null"
+            "Message_205800201": "Burnice mengirim pesan pribadi kepada Protagonis, katanya ada urusan mendesak dan ingin menemui Proxy. Dia berharap bisa bertemu langsung dengan Proxy."
         }
     },
     "2058003": {
         "id": "2058003",
         "texts": {
-            "Message_205800301": "null"
+            "Message_205800301": "Burnice mengirim pesan pribadi ke protagonis dan menyadari suasana hati protagonis sedang buruk, dia meminta protagonis keluar untuk bermain."
         }
     },
     "3010001": {
@@ -7781,9 +8322,9 @@
         "texts": {
             "Option01_100710": "Halo? Apa ada orang?",
             "Message_1010212": "Yang upahnya 50:50 itu.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Terima kasih sudah menerima misi dariku!",
+            "Message_100602": "Aku akan selalu ingat pengorbananmu untuk penjelajahan Hollow.",
+            "Message_991502": "Dadah! Toserba 141!"
         }
     },
     "3020013": {
@@ -7804,9 +8345,9 @@
         "texts": {
             "Option01_100710": "Halo? Apa ada orang?",
             "Message_1010212": "Yang upahnya 50:50 itu.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Terima kasih sudah menerima misi dariku!",
+            "Message_100602": "Aku akan selalu ingat pengorbananmu untuk penjelajahan Hollow.",
+            "Message_991502": "Dadah! Toserba 141!"
         }
     },
     "3020015": {
@@ -7824,9 +8365,9 @@
         "texts": {
             "Option01_100710": "Halo? Apa ada orang?",
             "Message_1010212": "Yang upahnya 50:50 itu.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Terima kasih sudah menerima misi dariku!",
+            "Message_100602": "Aku akan selalu ingat pengorbananmu untuk penjelajahan Hollow.",
+            "Message_991502": "Dadah! Toserba 141!"
         }
     },
     "3020017": {
@@ -7834,9 +8375,9 @@
         "texts": {
             "Option01_100710": "Halo? Apa ada orang?",
             "Message_1010212": "Yang upahnya 50:50 itu.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Terima kasih sudah menerima misi dariku!",
+            "Message_100602": "Aku akan selalu ingat pengorbananmu untuk penjelajahan Hollow.",
+            "Message_991502": "Dadah! Toserba 141!"
         }
     },
     "3020018": {
@@ -7844,9 +8385,9 @@
         "texts": {
             "Option01_100710": "Halo? Apa ada orang?",
             "Message_1010212": "Yang upahnya 50:50 itu.",
-            "Message_100601": "null",
-            "Message_100602": "null",
-            "Message_991502": "null"
+            "Message_100601": "Terima kasih sudah menerima misi dariku!",
+            "Message_100602": "Aku akan selalu ingat pengorbananmu untuk penjelajahan Hollow.",
+            "Message_991502": "Dadah! Toserba 141!"
         }
     },
     "3020019": {
@@ -8121,6 +8662,64 @@
         "id": "3099031",
         "texts": {
             "Message_309903110": "Jadi, waktu bertarung dengan Ethereal dan melawan Hollow, jangan lupa catat jejak perkembanganmu, ya!"
+        }
+    },
+    "3511261": {
+        "id": "3511261",
+        "texts": {
+            "Message_351126101": "Ahhh, Proxy, maaf, aku baru selesai antre di supermarket, dan baru saja selesai! Kamu sudah sampai di Lumina Square? Sudah ketemu Karunia, belum?",
+            "Option01_351126102": "Sudah, Nicole dan yang lainnya juga sudah ketemu.",
+            "Option02_351126102": "Sudah, ini pertama kalinya aku lihat kekuatan uang seekor Bangboo.",
+            "Message_351126103": "Eh, apa maksudnya?",
+            "Option01_351126104": "Susah kalau mau dijelaskan secara singkat",
+            "Option02_351126104": "SMS {F#enggak}{M#tidak} bisa mewakili ekspresiku",
+            "Message_351126105": "Kayaknya ada banyak hal yang terjadi. Mau telepon aja enggak?",
+            "Message_351126106": "Oh iya, aku lagi di dekat rumahmu, kamu sekarang lagi di mana?",
+            "Option01_351126107": "Lumina Square, tapi aku bisa langsung pulang sekarang",
+            "Option02_351126107": "Kamu tunggu di rumahku, aku langsung pulang sekarang",
+            "Message_351126108": "Oke, OTW!"
+        }
+    },
+    "3511262": {
+        "id": "3511262",
+        "texts": {
+            "Message_351126201": "Foto ini susah banget buat digambar",
+            "Message_351126202": "Mendingan minta bantuan Lynn saja deh...",
+            "Option01_351126203": "Ayo semangat!",
+            "Option02_351126203": "Semangat! Kamu bisa!",
+            "Message_351126204": "Aku senang sekali hari ini",
+            "Message_351126205": "Dan aku juga senang buat Tuan McDunn",
+            "Message_351126206": "Oh iya, kayaknya kamu sering terjebak sama masalah ya? Apa cuma aku saja yang sadar?",
+            "Option01_351126207": "Memangnya ini masalah?",
+            "Option02_351126207": "Mungkin, hahaha",
+            "Message_351126208": "Lain kali tunjukkin aku lagi caranya mancing ya, tapi jangan ajari aku. Aku tidak mau belajar."
+        }
+    },
+    "3591261": {
+        "id": "3591261",
+        "texts": {
+            "Option01_359126101": "Evelyn, aku mau tanya sesuatu",
+            "Option02_359126101": "Evelyn? Ada orang?",
+            "Message_359126102": "Iya, ada. Kenapa?",
+            "Option01_359126103": "Kita belum lama ini sempat ketemu Snap...",
+            "OptionLong01_359126103": "Kita sempat ketemu Snap di Pelabuhan Elpis, dia lagi kerjain kontrak buat ambil foto-foto dan kelihatannya sedih. Kamu tahu dia kenapa?",
+            "Option02_359126103": "Snap belakangan ini kenapa?",
+            "OptionLong02_359126103": "Snap belakangan ini kenapa? Kami sempat ketemu dengannya di Pelabuhan Elpis. Dia lagi kerjain kontrak sampingan dan kelihatan sedih.",
+            "Message_359126104": "Ah, pantas saja lokasinya sering ada di sekitar sana akhir-akhir ini.",
+            "Message_359126105": "Mungkin aku tahu alasannya, tapi sulit kalau mau dijelaskan dalam tulisan.",
+            "Message_359126106": "Kamu bisa datang sekarang? Aku sedang bersama Nona Yao di audisinya di dekat Ballet Twins.",
+            "Message_359126107": "Ayo kita ngobrol secara langsung. Aku tunggu di sini.",
+            "Option01_359126108": "Oke, aku langsung ke sana",
+            "Option02_359126108": "Oke!"
+        }
+    },
+    "3711261": {
+        "id": "3711261",
+        "texts": {
+            "Message_371126101": "manajer kamu sudah pulang",
+            "Option01_371126102": "Wah, kamu kok tahu?",
+            "Option02_371126102": "Qingyi? Kamu lagi di mana?",
+            "Message_371126103": "tolong lihat ke arah mercusuar manajer"
         }
     },
     "4006001": {

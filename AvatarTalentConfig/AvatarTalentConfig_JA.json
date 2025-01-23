@@ -1075,7 +1075,7 @@
             {
                 "talent_id": "2",
                 "Burnice_Talent_02_Title": "お値段そのまま増量フェア",
-                "Burnice_Talent_02_Desc_01_Realign": "<color=#FFFFFF>「エンバー」</color>効果発動時、敵に<color=#FFFFFF>「貫く熱意」</color>を付与する、最大5重まで重ね掛け可能、継続時間6秒、重複して発動すると継続時間が更新される。\n味方の攻撃を受けたターゲットの<color=#FFFFFF>「貫く熱意」</color>1重につき、今回の攻撃の貫通率が4%アップする、最大20%アップできる。",
+                "Burnice_Talent_02_Desc_01_Realign": "<color=#FFFFFF>「エンバー」</color>効果発動時、敵に<color=#FFFFFF>「貫く熱意」</color>を付与する、最大5重まで重ね掛け可能、継続時間6秒、重複して発動すると継続時間が更新される。味方の攻撃を受けたターゲットの<color=#FFFFFF>「貫く熱意」</color>1重につき、今回の攻撃の貫通率が4%アップする、最大20%アップできる。",
                 "Burnice_Talent_02_Desc_02": "カリュドーンの子のバーテンダー・バーニスと友達になれば、新エリー都いちと謳われる\n彼女の特製ニトロフューエルを嬉々として振る舞ってもらえるだろう。\nもし、彼女の「敵」になったら…それはそれで\n前代未聞のドリンクが味わえるかもしれない。\n「一生に一度だけのぉ…スペシャル・フレーバー！」",
                 "Burnice_Talent_02_Desc_01": "<color=#FFFFFF>「エンバー」</color>効果発動時、敵に<color=#FFFFFF>「貫く熱意」</color>を付与する、最大5重まで重ね掛け可能、継続時間6秒、重複して発動すると継続時間が更新される。味方の攻撃を受けたターゲットの<color=#FFFFFF>「貫く熱意」</color>1重につき、今回の攻撃の貫通率が4%アップする、最大20%アップできる。",
                 "Burnice_Talent_02_Title_Realign": "お値段そのまま\n増量フェア"
@@ -1288,7 +1288,7 @@
                 "talent_id": "2",
                 "Harumasa_Talent_02_Title": "持ち腐れ",
                 "Harumasa_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、悠真は<color=#FFFFFF>「電閃」</color>を7重獲得する、最大7重まで重ね掛け可能。<color=#FFFFFF>「電閃」</color>を所持している時、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与ダメージが50%アップする。<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>終了後、<color=#FFFFFF>「電閃」</color>を1重消費する。",
-                "Harumasa_Talent_02_Desc_02": "「こう見えて、めちゃくちゃ弱いんですよねえ…僕って」\n悠真は気だるそうにデスクへ突っ伏する。\n「この任務、別の人に振りません？」",
+                "Harumasa_Talent_02_Desc_02": "「こう見えて、めちゃくちゃ弱いんですよねえ…僕って」\n悠真は気だるそうにデスクへ突っ伏す。\n「この任務、別の人に振りません？」",
                 "Harumasa_Talent_02_Desc_01": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、悠真は<color=#FFFFFF>「電閃」</color>を7重獲得する、最大7重まで重ね掛け可能。<color=#FFFFFF>「電閃」</color>を所持している時、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与ダメージが50%アップする。<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>終了後、<color=#FFFFFF>「電閃」</color>を1重消費する。",
                 "Harumasa_Talent_02_Title_Realign": "持ち腐れ"
             },
@@ -1374,6 +1374,112 @@
                 "Yanagi_Talent_06_Desc_02": "月城柳の体内には、彼女のものではない血が流れている。\nその血はかつて絶望に直面した彼女を救い、特別な力を授けた。\n「ですがご存知の通り…私のものではない以上、いつかは代償を払う時が来るでしょう」",
                 "Yanagi_Talent_06_Desc_01": "<color=#FFFFFF>『強化特殊スキル』</color>の突き刺し攻撃を発動した後、<color=#FFFFFF>「森羅万象」</color>状態の継続時間が30秒まで延長される。状態継続中、<color=#FFFFFF>『強化特殊スキル』</color>の与ダメージが20%アップする。<color=#FFFFFF>「卓越した適性」</color>による<color=#FFFFFF>「極性混沌」</color>ダメージ倍率追加アップ効果の最大発動可能回数が4回になる。最初の4回の突き刺し攻撃追加発動時に消費されるエネルギーが半減する。",
                 "Yanagi_Talent_06_Title_Realign": "人ならざる血"
+            }
+        ]
+    },
+    "1311": {
+        "role_id": 1311,
+        "name": "アストラ",
+        "full_name": "アストラ・ヤオ",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Astra_Talent_01_Title": "十二平均律",
+                "Astra_Talent_01_Desc_01_Realign": "アストラの攻撃が敵に命中した時、ターゲットの全属性ダメージ耐性が6%ダウンする、最大3重まで重ね掛け可能、継続時間30秒、重複して発動すると継続時間が更新される。\nフィールド入場時、アストラは即座にデシベル値を1000Pt獲得する。\n<color=#FFFFFF>『終結スキル』</color>発動時、メンバー全員が<color=#FFFFFF>「守護の音」</color>効果をそれぞれ1重獲得する、継続時間60秒。敵の攻撃を受けると、<color=#FFFFFF>「守護の音」</color>を消費して無敵効果を得る、継続時間1秒。",
+                "Astra_Talent_01_Desc_02": "「先生～『じゅうにへいきんりつ』ってなあに？」\n「十二平均律というのは、音律のひとつです。\nおともだちのみんなと同じように、音符さんたちも列に並ぶんですよ」\n「じゃあきっと私たちと同じで、列にならぶのがきらいなのね！」\n――かつてアストラを担当した音楽の先生が、6歳の彼女を振り返って。",
+                "Astra_Talent_01_Desc_01": "アストラの攻撃が敵に命中した時、ターゲットの全属性ダメージ耐性が6%ダウンする、最大3重まで重ね掛け可能、継続時間30秒、重複して発動すると継続時間が更新される。\nフィールド入場時、アストラは即座にデシベル値を1000Pt獲得する。\n<color=#FFFFFF>『終結スキル』</color>発動時、メンバー全員が<color=#FFFFFF>「守護の音」</color>効果をそれぞれ1重獲得する、継続時間60秒。敵の攻撃を受けると、<color=#FFFFFF>「守護の音」</color>を消費して無敵効果を得る、継続時間1秒。",
+                "Astra_Talent_01_Title_Realign": "十二平均律"
+            },
+            {
+                "talent_id": "2",
+                "Astra_Talent_02_Title": "欲張りの芸術",
+                "Astra_Talent_02_Desc_01_Realign": "<color=#FFFFFF>『コアパッシブ：アンダンテ・カンタービレ』</color>による攻撃力アップ効果が追加で19%アップし、アップ効果の上限がさらに400Pt引き上げられる。\n<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場した時、アストラは追加で<color=#FFFFFF>「ビブラート」</color>を1発、<color=#FFFFFF>「トーンクラスター」</color>を3発放って攻撃する、3秒に1回のみ発動可能。",
+                "Astra_Talent_02_Desc_02": "「この世で一番キラキラしてるもの、それはもちろん愛よ！」\n小鳥がキラキラしたものを集めて巣を作るように、芸術家は誰しも\n「世界中の愛を集めたい」という欲張りな心を持っている。\nすべての愛を集めれば、最も心動かす旋律が生まれるのだから。",
+                "Astra_Talent_02_Desc_01": "<color=#FFFFFF>『コアパッシブ：アンダンテ・カンタービレ』</color>による攻撃力アップ効果が追加で19%アップし、アップ効果の上限がさらに400Pt引き上げられる。\n<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場した時、アストラは追加で<color=#FFFFFF>「ビブラート」</color>を1発、<color=#FFFFFF>「トーンクラスター」</color>を3発放って攻撃する、3秒に1回のみ発動可能。",
+                "Astra_Talent_02_Title_Realign": "欲張りの芸術"
+            },
+            {
+                "talent_id": "3",
+                "Astra_Talent_03_Title": "交錯する五線譜",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Astra_Talent_03_Desc_02": "空白の五線譜は、永遠に交わることのない平行線。\n個々の旋律が合わさり、曲となることを待ちわびる魂のよう。\n「音符で埋めちゃえばいいのよ！連符をたくさん書いたら、\nきっとすごい歌になるわ！」\nかくして、最初から最後まで連符で構成された136小節の新曲が生まれた…",
+                "Astra_Talent_03_Title_Realign": "交錯する五線譜"
+            },
+            {
+                "talent_id": "4",
+                "Astra_Talent_04_Title": "『貴方の首筋』",
+                "Astra_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した後の15秒間：\n・アストラは<color=#FFFFFF>「コード」</color>を所持していなくても<color=#FFFFFF>『クイック支援』</color>を発動できる。\n・操作しているエージェントの攻撃が敵に命中した時、<color=#FFFFFF>『クイック支援』</color>を発動できる間隔が1秒になる。\n\nアストラが<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態にある時、<color=#FFFFFF>『クイック支援』</color>で入場した他のメンバーは自身の特性に基づいて、それぞれ異なるバフ効果を獲得する。チーム内において3秒に1回のみ発動可能。\n・<color=#FFFFFF>[強攻]</color>：次の<color=#FFFFFF>『クイック支援』</color>の重撃が敵に命中した時、アストラの攻撃力300%分の追加ダメージを与える。\n・<color=#FFFFFF>[異常]</color>：次の<color=#FFFFFF>『クイック支援』</color>による状態異常蓄積値が50%アップする。\n・<color=#FFFFFF>[撃破]</color>：次の<color=#FFFFFF>『クイック支援』</color>によるブレイク値が50%アップする。",
+                "Astra_Talent_04_Desc_02": "鍵盤の真上で止まった手\nどれを弾いてあげるべきかしら\n悲しみの短調？\nそれとも恋しい想い？\n音符の間に貴方の姿を探す\nまぶたの裏に\n貴方の首筋が浮かぶ",
+                "Astra_Talent_04_Desc_01": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した後の15秒間：\n・アストラは<color=#FFFFFF>「コード」</color>を所持していなくても<color=#FFFFFF>『クイック支援』</color>を発動できる。\n・操作しているエージェントの攻撃が敵に命中した時、<color=#FFFFFF>『クイック支援』</color>を発動できる間隔が1秒になる。\n\nアストラが<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態にある時、<color=#FFFFFF>『クイック支援』</color>で入場した他のメンバーは自身の特性に基づいて、それぞれ異なるバフ効果を獲得する。チーム内において3秒に1回のみ発動可能。\n・<color=#FFFFFF>[強攻]</color>：次の<color=#FFFFFF>『クイック支援』</color>の重撃が敵に命中した時、アストラの攻撃力300%分の追加ダメージを与える。\n・<color=#FFFFFF>[異常]</color>：次の<color=#FFFFFF>『クイック支援』</color>による状態異常蓄積値が50%アップする。\n・<color=#FFFFFF>[撃破]</color>：次の<color=#FFFFFF>『クイック支援』</color>によるブレイク値が50%アップする。",
+                "Astra_Talent_04_Title_Realign": "『貴方の首筋』"
+            },
+            {
+                "talent_id": "5",
+                "Astra_Talent_05_Title": "プロキシとワイヤー",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Astra_Talent_05_Desc_02": "「イヴ、私気付いちゃったの！イヴとかけて、{M#アキラ}{F#リン}と解きます！」\n「…その心は？」\n「二人とも、私の大好きな人でしょう！」\nアストラは何かとんでもないことを発見したと言わんばかりに、\n曇りない笑顔を咲かせた。",
+                "Astra_Talent_05_Title_Realign": "プロキシとワイヤー"
+            },
+            {
+                "talent_id": "6",
+                "Astra_Talent_06_Title": "私たちが世界",
+                "Astra_Talent_06_Desc_01_Realign": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態で放たれた<color=#FFFFFF>「ビブラート」</color>と<color=#FFFFFF>「トーンクラスター」</color>、および追加で放たれた<color=#FFFFFF>「ビブラート」</color>と<color=#FFFFFF>「トーンクラスター」</color>のダメージ倍率が本来の200%になり、会心率が80%アップする。\n<color=#FFFFFF>『精密支援』</color>発動時、アストラは自動でチャージ完了後の<color=#FFFFFF>『通常攻撃：カプリチオ』</color>3段目を追加で発動し、この攻撃の会心率が80%アップする、10秒に1回のみ発動可能。",
+                "Astra_Talent_06_Desc_02": "世界の混乱は、心の隙間から生まれるものだ。\n全ての心を反響で満たせば、この世の苦難や悲哀、沈黙は消えるだろうか？\n全てを歌声で繋ぐことができたら、傷は癒え、痛みはとめどない\nメロディーとなって静寂に取って代われるだろうか？\nそのとき、世界はもはや孤島ではなくなる。\n「この歌を世界に捧げるわ！」",
+                "Astra_Talent_06_Desc_01": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態で放たれた<color=#FFFFFF>「ビブラート」</color>と<color=#FFFFFF>「トーンクラスター」</color>、および追加で放たれた<color=#FFFFFF>「ビブラート」</color>と<color=#FFFFFF>「トーンクラスター」</color>のダメージ倍率が本来の200%になり、会心率が80%アップする。\n<color=#FFFFFF>『精密支援』</color>発動時、アストラは自動でチャージ完了後の<color=#FFFFFF>『通常攻撃：カプリチオ』</color>3段目を追加で発動し、この攻撃の会心率が80%アップする、10秒に1回のみ発動可能。",
+                "Astra_Talent_06_Title_Realign": "私たちが世界"
+            }
+        ]
+    },
+    "1321": {
+        "role_id": 1321,
+        "name": "イヴリン",
+        "full_name": "イヴリン・シェヴァリエ",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Evelyn_Talent_01_Title": "織りなす夢",
+                "Evelyn_Talent_01_Desc_01_Realign": "フィールド入場時、イヴリンは即座にデシベル値を1500Pt獲得する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態に入った敵は<color=#FFFFFF>「束縛」</color>効果を付与される。\nイヴリンが<color=#FFFFFF>「束縛」</color>効果を付与された敵を攻撃する時、ターゲットの防御力を12%無視する。\n\n<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>または<color=#FFFFFF>『強化特殊スキル：縛裂式・終型』</color>を発動した時、命中した敵全員に<color=#FFFFFF>「束縛」</color>効果を付与する。この方法で付与された<color=#FFFFFF>「束縛」</color>効果は10秒継続する。",
+                "Evelyn_Talent_01_Desc_02": "遠くおぼろげな光は彼女が創り出した夢であり、\n触れることのできない未来のように思えた。\nそれは贖罪ではなく、自由への渇望…\n「きみだって、心の中では憧れてるんでしょ？\n『ほんとの日常』ってやつ」——イヴリンのとある元同僚の言葉",
+                "Evelyn_Talent_01_Desc_01": "フィールド入場時、イヴリンは即座にデシベル値を1500Pt獲得する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態に入った敵は<color=#FFFFFF>「束縛」</color>効果を付与される。イヴリンが<color=#FFFFFF>「束縛」</color>効果を付与された敵を攻撃する時、ターゲットの防御力を12%無視する。\n<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>または<color=#FFFFFF>『強化特殊スキル：縛裂式・終型』</color>を発動した時、命中した敵全員に<color=#FFFFFF>「束縛」</color>効果を付与する。この方法で付与された<color=#FFFFFF>「束縛」</color>効果は10秒継続する。",
+                "Evelyn_Talent_01_Title_Realign": "織りなす夢"
+            },
+            {
+                "talent_id": "2",
+                "Evelyn_Talent_02_Title": "飛んで火に舞う",
+                "Evelyn_Talent_02_Desc_01_Realign": "イヴリンの攻撃力が15%アップする。\n<color=#FFFFFF>『通常攻撃：絞式・I型』</color>または<color=#FFFFFF>『通常攻撃：絞式・II型』</color>を発動した時、\n消費した<color=#FFFFFF>「燎火」</color>が返還される、25秒に1回のみ発動可能。\n\n<color=#FFFFFF>「燎索ポイント」</color>を消費して<color=#FFFFFF>『連携スキル：輝夜の糸・絆』</color>を発動した時、\nスキルの中断レベルがアップする。",
+                "Evelyn_Talent_02_Desc_02": "「あんな輝きがあることを、私は知らなかった。\n触れてはならないと思っていたが…その輝きはあらゆる壁を壊し\n私の心に直接触れた――そのとき思い出したんだ、\n暗闇の外にも、追い求めるに値するものがあるのだと」\n初めてアストラと出会ったときを回想するイヴリンの声は\nいつになく優しげだった。",
+                "Evelyn_Talent_02_Desc_01": "イヴリンの攻撃力が15%アップする。\n<color=#FFFFFF>『通常攻撃：絞式・I型』</color>または<color=#FFFFFF>『通常攻撃：絞式・II型』</color>を発動した時、消費した<color=#FFFFFF>「燎火」</color>が返還される、25秒に1回のみ発動可能。\n<color=#FFFFFF>「燎索ポイント」</color>を消費して<color=#FFFFFF>『連携スキル：輝夜の糸・絆』</color>を発動した時、スキルの中断レベルがアップする。",
+                "Evelyn_Talent_02_Title_Realign": "飛んで火に舞う"
+            },
+            {
+                "talent_id": "3",
+                "Evelyn_Talent_03_Title": "繭を破る",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Evelyn_Talent_03_Desc_02": "その瞬間、彼女は自らを縛るものから解放され、\n「本当の自分」になった。張りつめていた縄は千切れ、\nかつての鎖——いわば繭は、ついに破られた。\n生まれ変わったイヴリンの鋭い目つきには、\nしかし柔らかい光が僅かに宿っていた。",
+                "Evelyn_Talent_03_Title_Realign": "繭を破る"
+            },
+            {
+                "talent_id": "4",
+                "Evelyn_Talent_04_Title": "運命の音",
+                "Evelyn_Talent_04_Desc_01_Realign": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、\nイヴリンが即座に自身のHP上限10%分のシールドを生成する。\nこのシールドがある時、イヴリンの会心ダメージが40%アップする。",
+                "Evelyn_Talent_04_Desc_02": "「あのねイヴ、私…誰かに会って、\n『あっ、この人は私の人生で大切な人になる…』ってとき\n胸の中で『ドクン』って音がするの！」\nイヴリンはため息をつき、時間がないんだぞ、と催促し\nそれを聞いたアストラはファスナーを閉め、慌てて部屋を出る。\n一人メイク室に残されたイヴリンは、小さい声で反芻した。\n「…ドクン」",
+                "Evelyn_Talent_04_Desc_01": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、イヴリンが即座に自身のHP上限10%分のシールドを生成する。\nこのシールドがある時、イヴリンの会心ダメージが40%アップする。",
+                "Evelyn_Talent_04_Title_Realign": "運命の音"
+            },
+            {
+                "talent_id": "5",
+                "Evelyn_Talent_05_Title": "朝焼け色の糸",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Evelyn_Talent_05_Desc_02": "イヴリンが操る糸は、朝焼けに染まった雲と同じ色をしていた。\n攻撃のたびに颯爽と身を翻し、朝焼けの如き火花を散らす。\n言葉はいらない。彼女の「守る」という決意は、\nとうに燃え盛る光と化していた。",
+                "Evelyn_Talent_05_Title_Realign": "朝焼け色の糸"
+            },
+            {
+                "talent_id": "6",
+                "Evelyn_Talent_06_Title": "光と影の繋がり",
+                "Evelyn_Talent_06_Desc_01_Realign": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、\nイヴリンが<color=#FFFFFF>「糸の鋒鋩」</color>を獲得する、継続時間20秒。\n<color=#FFFFFF>「糸の鋒鋩」</color>期間中、イヴリンの<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『特殊スキル』</color>または\n<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、追加で<color=#FFFFFF>『輝夜の糸・弦』</color>を1段放って追撃し、\nイヴリンの攻撃力375%分の<color=#FF5521>炎属性ダメージ</color>を与える。\n該当ダメージは<color=#FFFFFF>『連携スキル』</color>によるダメージとみなされる、最大16回まで発動可能。\n再び<color=#FFFFFF>「糸の鋒鋩」</color>を獲得した時、発動可能回数がリセットされる。",
+                "Evelyn_Talent_06_Desc_02": "光あるところに影あり。\n影は息を潜めて身を隠し、光の進む道を追いかける。\nまばゆく輝く光の背後には、いつも影の守護があった。\n影が光のまばゆさを奪うことは決してない。\nその代わり、光の及ばない場所は影が埋める。\n光は影によって補完され、影は光によって存在する。\n今までも、これからも離れることはない。\n人知れぬ絆が途絶えることはなく、影は永遠に光を追いかけるだろう。",
+                "Evelyn_Talent_06_Desc_01": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、イヴリンが<color=#FFFFFF>「糸の鋒鋩」</color>を獲得する、継続時間20秒。\n<color=#FFFFFF>「糸の鋒鋩」</color>期間中、イヴリンの<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、追加で<color=#FFFFFF>『輝夜の糸・弦』</color>を1段放って追撃し、イヴリンの攻撃力375%分の<color=#FF5521>炎属性ダメージ</color>を与える。該当ダメージは<color=#FFFFFF>『連携スキル』</color>によるダメージとみなされる、最大16回まで発動可能。\n再び<color=#FFFFFF>「糸の鋒鋩」</color>を獲得した時、発動可能回数がリセットされる。",
+                "Evelyn_Talent_06_Title_Realign": "光と影の繋がり"
             }
         ]
     },

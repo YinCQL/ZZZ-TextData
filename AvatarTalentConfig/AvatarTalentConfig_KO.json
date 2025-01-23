@@ -1075,7 +1075,7 @@
             {
                 "talent_id": "2",
                 "Burnice_Talent_02_Title": "무료 사이즈 업",
-                "Burnice_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[잿불]</color> 효과 발동 시 적에게 <color=#FFFFFF>[열기 관통]</color>을 부여한다. 최대 중첩: 5스택, 지속 시간: 6초, 중복 발동 시 지속 시간이 갱신된다. 아군의 공격을 받을 시, 타깃이 보유한 <color=#FFFFFF>[열기 관통]</color> 1스택당 이번 공격의 관통률이 4% 증가한다. 최대 증가: 20%",
+                "Burnice_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[잿불]</color> 효과 발동 시 적에게 <color=#FFFFFF>[열기 관통]</color>을 부여한다. 최대 중첩: 5스택, 지속 시간: 6초, 중복 발동 시 지속 시간이 갱신된다.\n아군의 공격을 받을 시, 타깃이 보유한 <color=#FFFFFF>[열기 관통]</color> 1스택당 이번 공격의 관통률이 4% 증가한다. 최대 증가: 20%",
                 "Burnice_Talent_02_Desc_02": "칼리돈의 자손의 바텐더로서, 버니스는 친구들에게 뉴에리두에서 가장 맛있는 니트로 퓨엘을 제조해 주곤 한다.\n물론, 당신이 그녀의 「적」이라면… 전례 없는 새로운 맛을 느낄 수 있을 테지만 말이다.\n「일생에 딱 한 번만 맛볼 수 있는 굉장한 맛이라구!」",
                 "Burnice_Talent_02_Desc_01": "<color=#FFFFFF>[잿불]</color> 효과 발동 시 적에게 <color=#FFFFFF>[열기 관통]</color>을 부여한다. 최대 중첩: 5스택, 지속 시간: 6초, 중복 발동 시 지속 시간이 갱신된다. 아군의 공격을 받을 시, 타깃이 보유한 <color=#FFFFFF>[열기 관통]</color> 1스택당 이번 공격의 관통률이 4% 증가한다. 최대 증가: 20%",
                 "Burnice_Talent_02_Title_Realign": "무료 사이즈 업"
@@ -1374,6 +1374,112 @@
                 "Yanagi_Talent_06_Desc_02": "츠키시로 야나기의 몸에는 자신의 것이 아닌 혈액이 일부 흐르고 있다.\n이 피는 그녀가 막다른 길에 놓였을 때 새로운 삶을 불어넣어 줬으며 이로 인해 특별한 힘을 얻게 되었다.\n「하지만 당신도 아는 것처럼, 본디 내 것이 아니었던 것에는… 대가가 따르는 법이죠」",
                 "Yanagi_Talent_06_Desc_01": "<color=#FFFFFF>[강화 특수 스킬]</color> 중 찌르기 공격 시전 후, <color=#FFFFFF>[삼라만상]</color> 상태의 지속 시간이 30초까지 증가한다. 상태가 지속되는 동안 <color=#FFFFFF>[강화 특수 스킬]</color>로 주는 피해가 20% 증가한다. <color=#FFFFFF>[뛰어난 적응력]</color> 중 <color=#FFFFFF>[극성 혼돈]</color> 피해 배율 추가 증가 효과의 발동 횟수 최대치가 4회까지 증가하고, 추가 찌르기 공격 4회까지는 시전에 필요한 에너지가 절반으로 감소한다.",
                 "Yanagi_Talent_06_Title_Realign": "인간의 것이 아닌 피"
+            }
+        ]
+    },
+    "1311": {
+        "role_id": 1311,
+        "name": "아스트라",
+        "full_name": "아스트라 야오",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Astra_Talent_01_Title": "12평균율",
+                "Astra_Talent_01_Desc_01_Realign": "아스트라 야오의 공격이 적에게 명중 시, 타깃의 모든 속성 피해 저항이 6% 감소한다. 최대 중첩: 3스택, 지속 시간: 30초, 중복 발동 시 지속 시간이 갱신된다.\n전장 진입 시 아스트라 야오가 즉시 데시벨을 1000pt 획득한다.\n<color=#FFFFFF>[궁극기]</color> 시전 시 모든 파티원이 각자 <color=#FFFFFF>[가호의 소리]</color> 효과를 1스택 획득한다. 지속 시간: 60초, 적의 공격을 받을 시 <color=#FFFFFF>[가호의 소리]</color>를 소모하고 무적 효과를 획득한다. 지속 시간: 1초",
+                "Astra_Talent_01_Desc_02": "「선생님, 선생님, 12평균율이 뭐예요?」\n「12평균율은 음악의 조율 방식 중 하나란다. 아이들이 줄을 서야 하는 것처럼, 소리에도 균등한 배열이 필요하거든」\n「그럼 소리도 우리들처럼 줄 서는 걸 싫어하겠네요!」\n——아스트라가 유명해진 후, 6살 아스트라를 가르쳤던 음악 선생님이 그녀와의 추억을 떠올렸다.",
+                "Astra_Talent_01_Desc_01": "아스트라 야오의 공격이 적에게 명중 시, 타깃의 모든 속성 피해 저항이 6% 감소한다. 최대 중첩: 3스택, 지속 시간: 30초, 중복 발동 시 지속 시간이 갱신된다. 전장 진입 시 아스트라 야오가 즉시 데시벨을 1000pt 획득한다. <color=#FFFFFF>[궁극기]</color> 시전 시 모든 파티원이 각자 <color=#FFFFFF>[가호의 소리]</color> 효과를 1스택 획득한다. 지속 시간: 60초, 적의 공격을 받을 시 <color=#FFFFFF>[가호의 소리]</color>를 소모하고 무적 효과를 획득한다. 지속 시간: 1초",
+                "Astra_Talent_01_Title_Realign": "12평균율"
+            },
+            {
+                "talent_id": "2",
+                "Astra_Talent_02_Title": "탐욕의 예술",
+                "Astra_Talent_02_Desc_01_Realign": "<color=#FFFFFF>[핵심 패시브: 〈안단테 칸타빌레〉]</color>의 공격력 증가 효과가 추가로 19% 증가하고, 최대치가 추가로 400pt 증가한다.\n<color=#FFFFFF>[아이들릭 카덴차]</color> 상태에서 파티 내 다른 캐릭터가 <color=#FFFFFF>[빠른 지원]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[패링 지원]</color> 혹은 <color=#FFFFFF>[회피 지원]</color>을 통해 전장 진입 시 아스트라 야오가 추가로 <color=#FFFFFF>[트레몰로]</color> 1개 및 <color=#FFFFFF>[톤 클러스터]</color> 3개를 방출해 공격한다. 3초 동안 최대 1회 발동한다.",
+                "Astra_Talent_02_Desc_02": "「세상에서 가장 빛나는 건, 당연히 사랑일 거야!」\n둥지 안의 작은 새처럼, 빛나는 걸 수집하고 싶다. 예술가의 탐욕이란 세상의 모든 사랑을 수집하는 거겠지? 모든 사랑을 한데 모으면 가장 감동적인 멜로디를 만들어 낼 수 있을 것이다.",
+                "Astra_Talent_02_Desc_01": "<color=#FFFFFF>[핵심 패시브: 〈안단테 칸타빌레〉]</color>의 공격력 증가 효과가 추가로 19% 증가하고, 최대치가 추가로 400pt 증가한다. <color=#FFFFFF>[아이들릭 카덴차]</color> 상태에서 파티 내 다른 캐릭터가 <color=#FFFFFF>[빠른 지원]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[패링 지원]</color> 혹은 <color=#FFFFFF>[회피 지원]</color>을 통해 전장 진입 시 아스트라 야오가 추가로 <color=#FFFFFF>[트레몰로]</color> 1개 및 <color=#FFFFFF>[톤 클러스터]</color> 3개를 방출해 공격한다. 3초 동안 최대 1회 발동한다.",
+                "Astra_Talent_02_Title_Realign": "탐욕의 예술"
+            },
+            {
+                "talent_id": "3",
+                "Astra_Talent_03_Title": "엇갈리는 오선지",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Astra_Talent_03_Desc_02": "텅 빈 오선지는 영원히 교차할 수 없는 평행선이다. 그것은 마치 아직 만나지 않은 영혼처럼 서로의 음률이 얽혀 멜로디가 되기를 기다리고 있다.\n「그럼 음표로 오선지를 가득 채우자! 잇단음표도 잔뜩 쓰면 멋진 노래가 나오지 않을까?」\n바로 이렇게 처음부터 끝까지 잇단음표를 사용해 136마디가 이어지는 새로운 곡이 탄생했다…",
+                "Astra_Talent_03_Title_Realign": "엇갈리는 오선지"
+            },
+            {
+                "talent_id": "4",
+                "Astra_Talent_04_Title": "〈목덜미의 잔머리〉",
+                "Astra_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 후 15초 내에 아스트라 야오가 <color=#FFFFFF>[화음]</color>을 보유하지 않은 경우에도 <color=#FFFFFF>[빠른 지원]</color>을 발동할 수 있으며 공격이 적에게 명중 시 <color=#FFFFFF>[빠른 지원]</color> 발동 간격이 1초까지 줄어든다.\n<color=#FFFFFF>[아이들릭 카덴차]</color> 상태에서 파티 내 다른 캐릭터가 <color=#FFFFFF>[빠른 지원]</color>을 통해 전장 진입 시, 자신의 특성에 따라 각기 다른 버프 효과를 획득한다. 모든 파티원이 3초 동안 최대 1회 발동할 수 있다.\n<color=#FFFFFF>[강공]</color>: 다음번 <color=#FFFFFF>[빠른 지원]</color>의 강공격이 적에게 명중 시 아스트라 야오 공격력의 300%에 해당하는 피해를 추가로 준다.\n<color=#FFFFFF>[이상]</color>: 다음번 <color=#FFFFFF>[빠른 지원]</color>으로 누적하는 속성 이상 축적치가 50% 증가한다.\n<color=#FFFFFF>[격파]</color>: 다음번 <color=#FFFFFF>[빠른 지원]</color>으로 주는 그로기 수치가 50% 증가한다.",
+                "Astra_Talent_04_Desc_02": "한 손은 피아노 위에 걸친 채\n어떤 건반을 누를지 고민한다.\n슬픔의 멜로디\n아니면 아득한 그리움?\n음표와 음표 사이에서 너의 그림자를 찾는다.\n눈을 감으면\n네 목덜미의 잔머리가 보인다.",
+                "Astra_Talent_04_Desc_01": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 후 15초 내에 아스트라 야오가 <color=#FFFFFF>[화음]</color>을 보유하지 않은 경우에도 <color=#FFFFFF>[빠른 지원]</color>을 발동할 수 있으며 공격이 적에게 명중 시 <color=#FFFFFF>[빠른 지원]</color> 발동 간격이 1초까지 줄어든다. <color=#FFFFFF>[아이들릭 카덴차]</color> 상태에서 파티 내 다른 캐릭터가 <color=#FFFFFF>[빠른 지원]</color>을 통해 전장 진입 시, 자신의 특성에 따라 각기 다른 버프 효과를 획득한다. 모든 파티원이 3초 동안 최대 1회 발동할 수 있다.\n<color=#FFFFFF>[강공]</color>: 다음번 <color=#FFFFFF>[빠른 지원]</color>의 강공격이 적에게 명중 시 아스트라 야오 공격력의 300%에 해당하는 피해를 추가로 준다.\n<color=#FFFFFF>[이상]</color>: 다음번 <color=#FFFFFF>[빠른 지원]</color>으로 누적하는 속성 이상 축적치가 50% 증가한다.\n<color=#FFFFFF>[격파]</color>: 다음번 <color=#FFFFFF>[빠른 지원]</color>으로 주는 그로기 수치가 50% 증가한다.",
+                "Astra_Talent_04_Title_Realign": "〈목덜미의 잔머리〉"
+            },
+            {
+                "talent_id": "5",
+                "Astra_Talent_05_Title": "로프꾼과 현",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Astra_Talent_05_Desc_02": "「이브! 나, 굉장한 걸 발견했어! 이브랑 {M#와이즈}{F#벨} 둘 다 길쭉하고 날씬한 타입이야!」\n「…그리고요?」\n「둘은 내가 가장 좋아하는 사람이야!」\n아스트라는 무슨 대단한 비밀이라도 발견한 것처럼 기뻐하며 두 눈을 반짝인다.",
+                "Astra_Talent_05_Title_Realign": "로프꾼과 현"
+            },
+            {
+                "talent_id": "6",
+                "Astra_Talent_06_Title": "우리가 곧 세계",
+                "Astra_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[아이들릭 카덴차]</color> 상태에서 방출한 <color=#FFFFFF>[트레몰로]</color>와 <color=#FFFFFF>[톤 클러스터]</color> 및 추가로 방출한 <color=#FFFFFF>[트레몰로]</color>와 <color=#FFFFFF>[톤 클러스터]</color>의 피해 배율이 기존의 200%까지 증가하고, 치명타 확률이 80% 증가한다.\n<color=#FFFFFF>[정밀 지원]</color> 발동 시 아스트라 야오가 자동으로 차지 완료 후의 <color=#FFFFFF>[일반 공격: 〈카프리치오〉]</color> 세 번째 공격을 추가로 시전하며 해당 스킬의 치명타 확률이 80% 증가한다. 10초 동안 최대 1회 발동한다.",
+                "Astra_Talent_06_Desc_02": "세상의 혼란은 인간의 고독에서 비롯된다. 만약 모든 사람의 마음에 메아리가 있다면, 이 세상의 모든 고난, 슬픔, 침묵을 지울 수 있지 않을까?\n노래로 이 유대감을 엮을 수 있다면, 모든 상처는 치유되고, 모든 고통은 아름다운 선율이 되어 적막 속에서 울려 퍼질 수 있지 않을까? 그때가 되면 세상은 더 이상 고독한 섬이 아니게 될 것이다.\n「이 노래는 이 세상에 바칩니다!」",
+                "Astra_Talent_06_Desc_01": "<color=#FFFFFF>[아이들릭 카덴차]</color> 상태에서 방출한 <color=#FFFFFF>[트레몰로]</color>와 <color=#FFFFFF>[톤 클러스터]</color> 및 추가로 방출한 <color=#FFFFFF>[트레몰로]</color>와 <color=#FFFFFF>[톤 클러스터]</color>의 피해 배율이 기존의 200%까지 증가하고, 치명타 확률이 80% 증가한다. <color=#FFFFFF>[정밀 지원]</color> 발동 시 아스트라 야오가 자동으로 차지 완료 후의 <color=#FFFFFF>[일반 공격: 〈카프리치오〉]</color> 세 번째 공격을 추가로 시전하며 해당 스킬의 치명타 확률이 80% 증가한다. 10초 동안 최대 1회 발동한다.",
+                "Astra_Talent_06_Title_Realign": "우리가 곧 세계"
+            }
+        ]
+    },
+    "1321": {
+        "role_id": 1321,
+        "name": "이블린",
+        "full_name": "이블린 슈발리에",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Evelyn_Talent_01_Title": "엮어가는 꿈",
+                "Evelyn_Talent_01_Desc_01_Realign": "전장 진입 시 이블린이 즉시 데시벨을 1500pt 획득한다.\n적이 <color=#FFFFFF>[뒤엉킨 금제]</color>에 진입하면 <color=#FFFFFF>[감금]</color> 효과가 부여되며 이블린이 <color=#FFFFFF>[감금]</color> 효과를 지닌 적을 공격 시 타깃의 방어력을 12% 무시한다.\n이블린이 <color=#FFFFFF>[특수 스킬: 속박식·Ⅰ형]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬: 속박식·최종형]</color> 시전 시 <color=#FFFFFF>[감금]</color> 효과가 스킬에 명중한 모든 적에게 확산되며, 확산된 <color=#FFFFFF>[감금]</color> 효과는 10초 동안 지속된다.",
+                "Evelyn_Talent_01_Desc_02": "먼 곳에서 반짝이는 희미한 빛, 그것은 그녀가 엮어낸 꿈이자 닿을 수 없는 미래 같았다. 그것은 속죄가 아닌 자유를 향한 갈망이었다.\n「너도 원하는 거지? 진정한 삶을 말이야」——익명의 전 동료가 이블린에게 말했다.",
+                "Evelyn_Talent_01_Desc_01": "전장 진입 시 이블린이 즉시 데시벨을 1500pt 획득한다. 적이 <color=#FFFFFF>[뒤엉킨 금제]</color>에 진입하면 <color=#FFFFFF>[감금]</color> 효과가 부여되며 이블린이 <color=#FFFFFF>[감금]</color> 효과를 지닌 적을 공격 시 타깃의 방어력을 12% 무시한다. 이블린이 <color=#FFFFFF>[특수 스킬: 속박식·Ⅰ형]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬: 속박식·최종형]</color> 시전 시 <color=#FFFFFF>[감금]</color> 효과가 스킬에 명중한 모든 적에게 확산되며, 확산된 <color=#FFFFFF>[감금]</color> 효과는 10초 동안 지속된다.",
+                "Evelyn_Talent_01_Title_Realign": "엮어가는 꿈"
+            },
+            {
+                "talent_id": "2",
+                "Evelyn_Talent_02_Title": "불 속에서 춤을",
+                "Evelyn_Talent_02_Desc_01_Realign": "이블린의 공격력이 15% 증가한다.\n이블린이 <color=#FFFFFF>[일반 공격: 교살식·Ⅰ형]</color> 혹은 <color=#FFFFFF>[일반 공격: 교살식·Ⅱ형]</color> 시전 시 소모한 <color=#FFFFFF>[잉걸불]</color>을 반환한다. 25초 동안 최대 1회 발동한다.\n이블린이 <color=#FFFFFF>[화승점]</color>을 소모해 <color=#FFFFFF>[콤보 스킬: 달빛타래·올가미]</color> 시전 시 스킬의 경직 레벨이 증가한다.",
+                "Evelyn_Talent_02_Desc_02": "「저에게 있어 빛은 낯설고 피해야 하는 것이었지만, 빛은 모든 방어선을 뚫고 다가왔습니다. 마치 제게 어둠 바깥에 좇을 가치가 있는 무언가가 있다고 알려주는 것 같았죠」\n처음 아스트라를 만났던 순간을 떠올리자, 이블린의 말투에 드물게 따뜻함이 묻어났다.",
+                "Evelyn_Talent_02_Desc_01": "이블린의 공격력이 15% 증가한다. 이블린이 <color=#FFFFFF>[일반 공격: 교살식·Ⅰ형]</color> 혹은 <color=#FFFFFF>[일반 공격: 교살식·Ⅱ형]</color> 시전 시 소모한 <color=#FFFFFF>[잉걸불]</color>을 반환한다. 25초 동안 최대 1회 발동한다. 이블린이 <color=#FFFFFF>[화승점]</color>을 소모해 <color=#FFFFFF>[콤보 스킬: 달빛타래·올가미]</color> 시전 시 스킬의 경직 레벨이 증가한다.",
+                "Evelyn_Talent_02_Title_Realign": "불 속에서 춤을"
+            },
+            {
+                "talent_id": "3",
+                "Evelyn_Talent_03_Title": "허물벗기",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Evelyn_Talent_03_Desc_02": "그 순간, 그녀는 속박에서 벗어나 더욱 진실한 자신이 되었다.\n팽팽한 밧줄이 끊기자, 과거의 굴레는 부서진 고치로 변하였다. 새로운 삶의 경계에 선 이블린의 매서운 눈빛에 한줄기 부드러운 빛이 떠올랐다.",
+                "Evelyn_Talent_03_Title_Realign": "허물벗기"
+            },
+            {
+                "talent_id": "4",
+                "Evelyn_Talent_04_Title": "운명의 울림",
+                "Evelyn_Talent_04_Desc_01_Realign": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 이블린이 즉시 자신 HP 최대치의 10%에 해당하는 실드를 획득한다. 해당 실드 보유 시 이블린의 치명타 피해가 40% 증가한다.",
+                "Evelyn_Talent_04_Desc_02": "「이브, 그거 알아? 난, 아주 소중한 사람을 만날 때마다 심장이 『쿵쿵!』 울리곤 해~」\n이블린이 한숨을 쉬며 시간이 늦었음을 알린다. 아스트라는 급하게 옷자락을 잡아올리곤 문을 열고 밖으로 나간다.\n「…쿵쿵」 대기실에 혼자 남은 이블린이 조용히 방금 그 말을 되뇐다.",
+                "Evelyn_Talent_04_Desc_01": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 이블린이 즉시 자신 HP 최대치의 10%에 해당하는 실드를 획득한다. 해당 실드 보유 시 이블린의 치명타 피해가 40% 증가한다.",
+                "Evelyn_Talent_04_Title_Realign": "운명의 울림"
+            },
+            {
+                "talent_id": "5",
+                "Evelyn_Talent_05_Title": "노을처럼 붉은 실",
+                "Common_Talent_Desc": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피]</color>, <color=#FFFFFF>[지원 스킬]</color>, <color=#FFFFFF>[특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>의 스킬 레벨+2",
+                "Evelyn_Talent_05_Desc_02": "그녀의 현은 아침 햇살에 붉게 물든 구름 같다.\n공격이 끝나고 홀연히 돌아설 때마다, 불꽃은 노을빛처럼 흩어진다. 구태여 설명할 필요도 없이, 이블린은 수호하는 마음을 타오르는 불꽃으로 바꾼 지 오래다.",
+                "Evelyn_Talent_05_Title_Realign": "노을처럼 붉은 실"
+            },
+            {
+                "talent_id": "6",
+                "Evelyn_Talent_06_Title": "빛과 그림자의 유대",
+                "Evelyn_Talent_06_Desc_01_Realign": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 이블린이 <color=#FFFFFF>[현의 서슬]</color>을 획득한다. 지속 시간: 20초\n<color=#FFFFFF>[현의 서슬]</color> 기간 동안 이블린이 시전한 <color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 추가로 <color=#FFFFFF>[달빛타래·현]</color>을 시전해 추가 공격으로 이블린 공격력의 375%에 해당하는 <color=#FF5521>불 속성 피해</color>를 준다.\n해당 피해는 <color=#FFFFFF>[콤보 스킬]</color> 피해로 간주되며 최대 16회 발동할 수 있다. 다시 <color=#FFFFFF>[현의 서슬]</color> 획득 시 발동 가능 횟수가 갱신된다.",
+                "Evelyn_Talent_06_Desc_02": "빛이 있는 곳에는 그림자가 지기 마련이다.\n그림자는 조용히 몸을 숨긴 채 빛의 궤적을 쫓고, 발하는 모든 빛을 지켜낸다.\n그림자는 빛의 찬란함을 빼앗을 시도조차 한 적 없이, 찰나마다 빛이 닿지 않는 구석을 조용히 채워 넣는다.\n빛과 그림자는 떨어진 적도 없고, 떨어질 수도 없다. 빛은 그림자로 인해 완벽해지고, 그림자는 빛에 의해 존재한다. 이건 끝없는 추종이자, 말로 형용할 수 없는 유대이다.",
+                "Evelyn_Talent_06_Desc_01": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 이블린이 <color=#FFFFFF>[현의 서슬]</color>을 획득한다. 지속 시간: 20초. <color=#FFFFFF>[현의 서슬]</color> 기간 동안 이블린이 시전한 <color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 추가로 <color=#FFFFFF>[달빛타래·현]</color>을 시전해 추가 공격으로 이블린 공격력의 375%에 해당하는 <color=#FF5521>불 속성 피해</color>를 준다. 해당 피해는 <color=#FFFFFF>[콤보 스킬]</color> 피해로 간주되며 최대 16회 발동할 수 있다. 다시 <color=#FFFFFF>[현의 서슬]</color> 획득 시 발동 가능 횟수가 갱신된다.",
+                "Evelyn_Talent_06_Title_Realign": "빛과 그림자의 유대"
             }
         ]
     },

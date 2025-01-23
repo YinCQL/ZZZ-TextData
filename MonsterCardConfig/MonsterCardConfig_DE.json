@@ -189,12 +189,26 @@
             "card_quote": "– In der Tiefe der Höhle umkreisen mehrere Ermittler ein Nassellaria",
             "skill_text": "Ionisiert – Nassellaria verwendet im Kampf lange Aufladungen, um hochenergetische Kugeln zu erzeugen, die Feinde angreifen. Wenn es während der Aufladung Äther-SCH oder Angriffe mit hohem Schaden erleidet, fallen die Energiekugeln vorzeitig und verursachen Flächenschaden bei umliegenden Einheiten."
         },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Doppelgänger – Jane",
+            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
+            "skill_text": "Während des Kampfes führt dieser Gegner Angriffe aus, die die seines Ziels perfekt imitieren. Er ist erstaunlich aggressiv und kann, wenn nötig, gegnerische Schläge parieren und kontern. Er zeigt jedoch normalerweise seine Schwäche, nachdem er eine Reihe von kontinuierlichen Angriffen beendet hat."
+        },
         "30023": {
             "monster_id": 30023,
             "monster_name": "Thracian",
             "card_text": "Benannt nach den legendären Kriegervölkern der alten Zivilisationen, soll dieser bösartige Äthereal die Verkörperung der tapfersten Helden und der wahnsinnigsten Schurken sein, die vom Äther korrodiert wurden.\n... Aber das ist nicht der Fall. Es stimmt zwar, dass die gestählten Muskeln, die du in der Höhle und im Fitnessstudio aufgebaut hast, sowie das Adrenalin, das du kurz vor deinem Tod in rauen Mengen ausschüttest, dir dabei helfen können, ein großes Problem für deine früheren Gefährten zu werden. Aber sie würden sich wohl eher nicht wegen eines alten Freundes aufregen, der bereits nicht mehr zu retten ist, stimmt’s?\nAber egal. Was nützt es, einen guten gesellschaftlichen Ruf zu haben, wenn sich dein hübsches Gesicht in eine seltsame schwarze Energiekugel verwandelt?\n„Kein Wunder, dass er der Boss ist. Selbst als Äthereal kämpft er noch alles nieder!“\n„Ich wusste, dass da etwas nicht stimmt, als ich ihn ständig im Fitnessstudio getroffen habe!“",
             "card_quote": "– Herausgerufenes Geständnis eines verhafteten Mitglieds der Höhlenräuber",
             "skill_text": "Im Kampf setzt Thracian mehrmals bestimmte Fähigkeiten ein, um in einen Aufladungszustand zu gelangen. In diesem Zustand werden seine Angriffe aggressiver, und nach dem Ausführen hochgradiger Fähigkeiten verursacht er eine großflächige Explosion."
+        },
+        "30029": {
+            "monster_id": 30029,
+            "monster_name": "Ionisiert – Doppelgänger",
+            "card_text": "Selbst unter den ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen „Ionisiert – Doppelgänger“ als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt kopieren. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch problematischer ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Ziels wählen und dann in deren Form angreifen.\n„Unsinn! Wenn sie wirklich meine größten Ängste lesen könnten, dann würden sie sich in eine mittelaltrige Frau mit einem Kleiderbügel verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot.",
+            "skill_text": null
         },
         "35001": {
             "monster_id": 35001,
@@ -320,7 +334,7 @@
             "monster_name": "Notorisch - Hati",
             "card_text": "Dieser vierbeinige, aber überaus intelligente lebendige Äther ist äußerst gefährlich und wurde von dem ersten Erkundungsteam der Höhlen-Investigationsassoziation offiziell katalogisiert.\nGerüchten zufolge wurde er zum ersten Mal in einer Nesthöhle gesichtet, wo Personen, die die nahegelegene Ödnis erkundeten, berichteten, ohrenbetäubendes Gebrüll gehört zu haben, das an das Knurren wilder Tiere erinnerte.\n„Glaubst du, dieses Biest würde einem Stock oder Ball hinterherrennen?“ \n„Du kannst es ja versuchen, aber die Krankenhausrechnung werde ich dir nicht bezahlen.“",
             "card_quote": "– Ein Gespräch zwischen Billy und Nicole",
-            "skill_text": null
+            "skill_text": "Beschreibung der Fähigkeiten des Gegners – Temporärer Platzhalter"
         },
         "200015": {
             "monster_id": 200015,
@@ -363,6 +377,27 @@
             "card_text": "Viele junge Höhlenräuber lassen sich bei der ersten Begegnung mit einer Arlaune von seinem Äußeren täuschen und denken, er sei eine normale Pflanze.\nAber wenn sich ihm jemand nähert, fängt er schlagartig an zu zittern und stößt kontinuierlich hoch konzentrierte ätherische Materie aus, die seine ahnungslosen Opfer unvorbereitet trifft.\n„Was? Ich wollte ihn nur gießen, und er hat mich einfach angespuckt?“",
             "card_quote": "– Eine Gruppe von Anfängerermittlern wird von einem Arlaune in einer Höhle überfallen",
             "skill_text": "Arlaune ist im Kampf sehr hinterlistig und neigt dazu, aus der Ferne anzugreifen. Wenn ihre Blütenblätter geöffnet sind und sie getroffen wird, kann dies viel Benommenheit ansammeln."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Doppelgänger – Mors",
+            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
+            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Je nach Situation wählt er entweder eine Nahkampf-Kombo oder Fernangriffe. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, führt er zusätzlich Folgeangriffe aus der Ferne aus oder bewegt sich in hoher Geschwindigkeit und greift das Ziel aus dem toten Winkel an, um es zu überfallen."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Doppelgänger – Pulchra",
+            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
+            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Er hält die Beute auf Distanz und wartet auf eine Gelegenheit, das Ziel mit Kampftechniken, Klingen und Vorrichtungen zu attackieren. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, verwendet er zusätzlich eine unbekannte Methode, um seine Ausweichfähigkeiten zu verbessern und allen Angriffen von Zielen in der Nähe ausweichen zu können."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Doppelgänger – Bellum",
+            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
+            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
+            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Er setzt seine Klingenpistole, seinen Schild und seinen Flammenwerfer ein, um im Nahkampf Druck auf das Ziel auszuüben. Wird er angegriffen, während er mit dem Schild verteidigt, startet er sofort einen mächtigen Gegenangriff. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, werden seine Angriffe noch aggressiver und kontinuierlicher."
         },
         "300001": {
             "monster_id": 300001,
@@ -420,6 +455,13 @@
             "card_quote": "– 17. Untersuchungsbericht zur Sackgassen-Höhle der Höhlen-Investigationsassoziation",
             "skill_text": "Neugeborener Sackgassen-Schlächter greift im Kampf mit großen, weiten Schlägen an. Nach Erleiden einer bestimmten Menge an Schaden geht er in die zweite Phase über, in der seine Angriffe noch wilder werden und er Laserangriffe einsetzen kann. In dieser Phase führt ein starker Angriff nach seinen wilden Kombo-Attacken zu zusätzlicher Steifheit. Außerdem neigt der er dazu, durch geschicktes Ausweichen feindlichen Angriffen zu entkommen."
         },
+        "300072": {
+            "monster_id": 300072,
+            "monster_name": "Notorisch – Sackgassen-Schlächter",
+            "card_text": "Im Gegensatz zu anderen hochgefährlichen Ätherealen bleibt der Äther im Körper des „Sackgassen-Schlächters“ oft in einem Ruhezustand mit geringer Aktivität.\nNichtsdestotrotz besitzt der „Sackgassen-Schlächter“ die brachiale Stärke, alle Hindernisse zu vernichten. Die gesamte verdorbene und die gesamte zerstörte Metro-Zone dient ihm als seine verbotene Küche.\nNur wenn ein bedrohliches Ziel Interesse an dem „Sackgassen-Schlächter“ entwickelt, wird urplötzlich eine furchterregende Transformation stattfinden ...\nInnerhalb weniger Augenblicke verwandelt sich die hohe Konzentration des in seinem Körper gespeicherten Äthers gewaltsam, und die exponentiell ansteigende Energie veranlasst seine Gliedmaßen, sich schnell zu verformen und eine brutalere und gefräßigere „Fresshaltung“ einzunehmen.\nDamit sind die „Vorspeisen“ durch und ein unvergleichliches „Fressgelage“ wird eröffnet.\nWer nicht Teil dieses Festes sein will, sollte bei der Wahl seines Weges äußerst vorsichtig sein und sich von der „Küche“ fernhalten ...\n„Die Wege in dieser Höhle sind ziemlich kompliziert. Aber was man mit Sicherheit sagen kann ist, dass sie zu einer ‚Sackgasse‘ werden, wenn er am Ende des Weges auftaucht.“",
+            "card_quote": "– 17. Untersuchungsbericht zur Sackgassen-Höhle der Höhlen-Investigationsassoziation",
+            "skill_text": "Notorisch - Sackgassen-Schlächter kann während des Kampfes eine Vielzahl von Fernkampfangriffen einsetzen, indem er seine Ätherenergie flexibel einsetzt. Außerdem kann er Ätherenergie nutzen, um den Raum zu verzerren und nachgemachte Objekte zu erschaffen."
+        },
         "300121": {
             "monster_id": 300121,
             "monster_name": "Notorisch – Marionette",
@@ -432,112 +474,112 @@
             "monster_name": "Tyrfing",
             "card_text": "Gegnerische Einheit mit niedrigen ANG und LP sind oft die ersten Gegner, denen Neuling-Bangboos bei Prüfungen begegnen, und stellen kaum eine Bedrohung dar.",
             "card_quote": null,
-            "skill_text": "LP: 50\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Langsam\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+            "skill_text": "LP: Niedrig\nANG: Mittel\nBewegungs-GSW: Langsam\nBedrohung: <color=#31CC00>Gering</color>"
         },
         "930147": {
             "monster_id": 930147,
             "monster_name": "Arlaune",
             "card_text": "Kann <color=#D9A600>Fernangriffe</color> ausführen und ist ein hochgefährlicher Gegner. Nach einer Blockade setzt er Giftnebel ein, der <color=#D9A600>allen umliegenden Bangboos SCH zufügt</color>. Es wird empfohlen, <color=#D9A600>gutmütige Bangboos</color> strategisch einzusetzen, um ihn zu bekämpfen.",
             "card_quote": null,
-            "skill_text": "LP: 430\nANG: Mittel\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
+            "skill_text": "LP: Mittel\nANG: Mittel\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
         },
         "930148": {
             "monster_id": 930148,
             "monster_name": "Ahriman",
             "card_text": "Bei vollen LP hat das Ziel eine <color=#D9A600>sehr hohe Bewegungs-GSW</color> und kann <color=#D9A600>nicht blockiert werden</color>. Nach erlittenem SCH wird die Bewegungs-GSW langsamer, und das Ziel kann blockiert werden. Es wird empfohlen, frühzeitig ein <color=#D9A600>schießendes Bangboo</color>, um dem Ahriman frühzeitig SCH zuzufügen und seine Bedrohung zu verringern.",
             "card_quote": null,
-            "skill_text": "LP: 70\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell, verlangsamt sich nach einem Angriff\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+            "skill_text": "LP: Niedrig\nANG: Mittel\nBewegungs-GSW: Schnell, verlangsamt sich nach einem Angriff\nBedrohung: <color=#31CC00>Gering</color>"
         },
         "930149": {
             "monster_id": 930149,
             "monster_name": "Alpeca",
             "card_text": "Alpeca kann <color=#D9A600>Fernangriffe</color> ausführen und greift dabei die Bangboos auf den Taktikpositionen an. Bitte achte auf den Zustand der Ausdauer der Prüflinge!",
             "card_quote": null,
-            "skill_text": "LP: 100\nANG: Gering\nVTD: 21\nBewegungs-GSW: Langsam\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+            "skill_text": "LP: Niedrig\nANG: Niedrig\nBewegungs-GSW: Langsam\nBedrohung: <color=#31CC00>Gering</color>"
         },
         "930150": {
             "monster_id": 930150,
             "monster_name": "Dullahan",
             "card_text": "Besitzt <color=#D9A600>sehr hohe LP</color> und ist eine gefährliche Nahkampfeinheit! Es wird empfohlen, ein <color=#D9A600>Papierboo</color> mit hoher Ausdauer einzusetzen, um sie aufzuhalten!",
             "card_quote": null,
-            "skill_text": "LP: 480\nANG: Hoch\nVTD: 75\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
+            "skill_text": "LP: Mittel\nANG: Hoch\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
         },
         "930152": {
             "monster_id": 930152,
             "monster_name": "Hoplitai",
             "card_text": "Beim Betreten des Spielfelds hat Hoplitai eine <color=#D9A600>sehr hohe Bewegungs-GSW</color>! Er stößt gegen das erste Bangboo auf seiner Strecke und verursacht <color=#D9A600>massiven SCH</color>. Nach dem Zusammenstoß wird seine Bewegungs-GSW <color=#D9A600>stark reduziert</color>.",
             "card_quote": null,
-            "skill_text": "LP: 150\nANG: Hoch\nVTD: 75\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Niedrig\nANG: Hoch\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
         },
         "930153": {
             "monster_id": 930153,
             "monster_name": "Faun",
             "card_text": "Faun hat eine niedrige Bewegungs-GSW, verfügt jedoch über einen sehr hohen ANG. Achte auf den Zustand der Prüflinge!",
             "card_quote": null,
-            "skill_text": "LP: 140\nANG: Hoch\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Niedrig\nANG: Hoch\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
         },
         "930154": {
             "monster_id": 930154,
             "monster_name": "Blitzspinne",
             "card_text": "Die Blitzspinne ist schnell und explodiert in der Nähe von Bangboos, was <color=#D9A600>allen Bangboos</color> SCH zufügt. Es wird empfohlen, ein <color=#D9A600>hochbelastbares Papierboo</color> einzusetzen, um sie aufzuhalten!",
             "card_quote": null,
-            "skill_text": "LP: 80\nANG: Gering\nVTD: 13\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Niedrig\nANG: Niedrig\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
         },
         "930157": {
             "monster_id": 930157,
             "monster_name": "Tyrfing",
             "card_text": "Gegnerische Einheit mit niedrigen ANG und LP sind oft die ersten Gegner, denen Neuling-Bangboos bei Prüfungen begegnen, und stellen kaum eine Bedrohung dar.",
             "card_quote": null,
-            "skill_text": "LP: 140\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Langsam\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+            "skill_text": "LP: Niedrig\nANG: Mittel\nBewegungs-GSW: Langsam\nBedrohung: <color=#31CC00>Gering</color>"
         },
         "930158": {
             "monster_id": 930158,
             "monster_name": "Arlaune",
             "card_text": "Kann <color=#D9A600>Fernangriffe</color> ausführen und ist ein hochgefährlicher Gegner. Nach einer Blockade setzt er Giftnebel ein, der <color=#D9A600>allen umliegenden Bangboos SCH zufügt</color>. Es wird empfohlen, <color=#D9A600>gutmütige Bangboos</color> strategisch einzusetzen, um ihn zu bekämpfen.",
             "card_quote": null,
-            "skill_text": "LP: 1300\nANG: Mittel\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
+            "skill_text": "LP: Sehr hoch\nANG: Mittel\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
         },
         "930159": {
             "monster_id": 930159,
             "monster_name": "Ahriman",
             "card_text": "Bei vollen LP hat das Ziel eine <color=#D9A600>sehr hohe Bewegungs-GSW</color> und kann <color=#D9A600>nicht blockiert werden</color>. Nach erlittenem SCH wird die Bewegungs-GSW langsamer, und das Ziel kann blockiert werden. Es wird empfohlen, frühzeitig ein <color=#D9A600>schießendes Bangboo</color>, um dem Ahriman frühzeitig SCH zuzufügen und seine Bedrohung zu verringern.",
             "card_quote": null,
-            "skill_text": "LP: 220\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell, verlangsamt sich nach einem Angriff\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+            "skill_text": "LP: Niedrig\nANG: Mittel\nBewegungs-GSW: Schnell, verlangsamt sich nach einem Angriff\nBedrohung: <color=#31CC00>Gering</color>"
         },
         "930160": {
             "monster_id": 930160,
             "monster_name": "Alpeca",
             "card_text": "Alpeca kann <color=#D9A600>Fernangriffe</color> ausführen und greift dabei die Bangboos auf den Taktikpositionen an. Bitte achte auf den Zustand der Ausdauer der Prüflinge!",
             "card_quote": null,
-            "skill_text": "LP: 300\nANG: Gering\nVTD: 21\nBewegungs-GSW: Langsam\nBedrohung: <color=#POSITIVE_WITH_WHITE>Gering</color>"
+            "skill_text": "LP: Mittel\nANG: Niedrig\nBewegungs-GSW: Langsam\nBedrohung: <color=#31CC00>Gering</color>"
         },
         "930161": {
             "monster_id": 930161,
             "monster_name": "Dullahan",
             "card_text": "Besitzt <color=#D9A600>sehr hohe LP</color> und ist eine gefährliche Nahkampfeinheit! Es wird empfohlen, ein <color=#D9A600>Papierboo</color> mit hoher Ausdauer einzusetzen, um sie aufzuhalten!",
             "card_quote": null,
-            "skill_text": "LP: 1440\nANG: Hoch\nVTD: 75\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
+            "skill_text": "LP: Sehr hoch\nANG: Hoch\nBewegungs-GSW: Langsam\nBedrohung: <color=#FF3333>Sehr hoch</color>"
         },
         "930162": {
             "monster_id": 930162,
             "monster_name": "Hoplitai",
             "card_text": "Beim Betreten des Spielfelds hat Hoplitai eine <color=#D9A600>sehr hohe Bewegungs-GSW</color>! Er stößt gegen das erste Bangboo auf seiner Strecke und verursacht <color=#D9A600>massiven SCH</color>. Nach dem Zusammenstoß wird seine Bewegungs-GSW <color=#D9A600>stark reduziert</color>.",
             "card_quote": null,
-            "skill_text": "LP: 460\nANG: Hoch\nVTD: 75\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Mittel\nANG: Hoch\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
         },
         "930163": {
             "monster_id": 930163,
             "monster_name": "Faun",
             "card_text": "Faun hat eine niedrige Bewegungs-GSW, verfügt jedoch über einen sehr hohen ANG. Achte auf den Zustand der Prüflinge!",
             "card_quote": null,
-            "skill_text": "LP: 430\nANG: Hoch\nVTD: 33\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Mittel\nANG: Hoch\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
         },
         "930164": {
             "monster_id": 930164,
             "monster_name": "Blitzspinne",
             "card_text": "Die Blitzspinne ist schnell und explodiert in der Nähe von Bangboos, was <color=#D9A600>allen Bangboos</color> SCH zufügt. Es wird empfohlen, ein <color=#D9A600>hochbelastbares Papierboo</color> einzusetzen, um sie aufzuhalten!",
             "card_quote": null,
-            "skill_text": "LP: 230\nANG: Gering\nVTD: 13\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Niedrig\nANG: Niedrig\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
         }
     },
     "Gangster": {
@@ -618,6 +660,13 @@
             "card_quote": "– Einige Höhlengangster, die gerade irgendwo in New Eridu beim Neuzugang angeben",
             "skill_text": "Höhlengangster – Zügelloser Bulle verwendet im Kampf seine elektrisch aufgeladenen Armschienen, um stärkere Angriffe auszuführen. Während des Aufladens befindet er sich jedoch ständig im Elektroschockzustand, und das Anwenden anderer Attributanomalien löst sofort Unordnung aus und entfernt den Aufladezustand."
         },
+        "30027": {
+            "monster_id": 30027,
+            "monster_name": "Holzfäller",
+            "card_text": "Unter den Höhlenräubern gibt es eine ganze Reihe von selbsternannten „Meistererfindern“. Ihre größte Fertigkeit besteht darin, die von der Sicherheitsbehörde in den Höhlen zurückgelassenen ausrangierten Kampfmaschinen mit gebrauchten Industriematerialien, die „noch ziemlich gut aussehen“, in „nicht so gut aussehende“ Eigenkreationen zu verwandeln.\nHochgeschwindigkeits-Kettensägen, gezahnte Kreissägen, hydraulische Industriearme ... Nach einfachem Zusammenbau und grobem Schweißen werden diese gewöhnlichen Gegenstände zu einer seltsamen und gefährlichen Maschine zusammengebaut.\nDamit sie reibungslos funktioniert, hat der Erfinder die Sicherheitsbeschränkungen der verschiedenen Maschinen „gedankenvoll“ entfernt und sie aufgrund ihres robusten Aussehens „Holzfäller“ genannt.\nNiemand weiß, wie lange der „Holzfäller“ stabil funktionieren kann.\nVielleicht könnte er jeden Moment plötzlich durchdrehen und seine hochtourig drehende Kettensäge und seine Stacheln mit unübertroffener Pferdestärke schwingen und eine unaufhaltsame „Holzernte“ starten, die niemand zu stoppen wagt.\nAber ... dieser fast wahnsinnige Kampfmodus könnte wohl die beste Modifikation sein, die dieser Erfinder im Sinn hatte.\n„Aber warum heißt er ‚Holzfäller‘? In den Höhlen gibt es doch kein Holz zu fällen, oder?“\n„Ja, und deshalb ist er so wütend. Wenn er loslegt, ist er wirklich wild ...“",
+            "card_quote": "– Ein paar Höhlenräuber diskutieren in einer Höhle über die Funktionsweise des „Holzfällers“.",
+            "skill_text": "Im Kampf ändert der Holzfäller häufig die Form seiner Kettensäge, um flexibel Angriffskombos auszuführen, während er sich mit den angebrachten Rädern schnell bewegt. Wenn sein Ziel weit von ihm entfernt ist, schießt er es aus der Ferne mit Sägeblättern."
+        },
         "100151": {
             "monster_id": 100151,
             "monster_name": "Ausplünderer",
@@ -666,36 +715,15 @@
             "card_text": "In der Unterwelt von New Eridu ist man sich einig: Die wildesten Kämpfer sind nicht die ungeschlagenen Champions in den Arenen, sondern die stämmigen Kämpfer und gesuchten Kämpfer, die in den Tiefen der Höhlen lauern. Sie sind professionelle Gangster, die von den Ätherdiebesbanden zu hohen Preisen angeheuert werden, um die gestohlenen Ätherressourcen zu bewachen.\nAls besessene Boxkämpfer können stämmige Kämpfer nicht mit präzisen elektrischen Geräten umgehen, weshalb sie ihre Hochspannungs-Elektroschocker einfach zu Schlaghandschuhen umgebaut haben, die ihren Fäusten zusätzliche Schlagkraft verleihen.\nÄthereale, Höhlenräuber, Höhlenermittler und sogar vereinzelte Mitglieder der Sicherheitsbehörde ... In den Augen der stämmigen Kämpfer und gesuchten Kämpfer sind sie nicht einmal „Gegner“, sondern „Sandsäcke“ zur persönlichen Unterhaltung.\n„Warte! Diese Kampfhaltung habe ich doch schon mal in der Spielhalle in der Fourth Street gesehen!“",
             "card_quote": "– Billy, der es mit sich nähernden Kämpfern in einer Höhle zu tun hat",
             "skill_text": "Hauptübeltäter – Gesuchter Kämpfer zeigt im Kampf extreme Aggression und passt seinen Angriffswinkel durch geschicktes Ausweichen an."
-        },
-        "200231": {
-            "monster_id": 200231,
-            "monster_name": "Doppelgänger – Mors",
-            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
-            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
-            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Je nach Situation wählt er entweder eine Nahkampf-Kombo oder Fernangriffe. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, führt er zusätzlich Folgeangriffe aus der Ferne aus oder bewegt sich in hoher Geschwindigkeit und greift das Ziel aus dem toten Winkel an, um es zu überfallen."
-        },
-        "200241": {
-            "monster_id": 200241,
-            "monster_name": "Doppelgänger – Pulchra",
-            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
-            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
-            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Er hält die Beute auf Distanz und wartet auf eine Gelegenheit, das Ziel mit Kampftechniken, Klingen und Vorrichtungen zu attackieren. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, verwendet er zusätzlich eine unbekannte Methode, um seine Ausweichfähigkeiten zu verbessern und allen Angriffen von Zielen in der Nähe ausweichen zu können."
-        },
-        "200251": {
-            "monster_id": 200251,
-            "monster_name": "Doppelgänger – Bellum",
-            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
-            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
-            "skill_text": "Im Kampf verwendet dieser Gegner dieselben Bewegungen wie das Ziel, das er imitiert. Er setzt seine Klingenpistole, seinen Schild und seinen Flammenwerfer ein, um im Nahkampf Druck auf das Ziel auszuüben. Wird er angegriffen, während er mit dem Schild verteidigt, startet er sofort einen mächtigen Gegenangriff. Wenn seine LP unter einen bestimmten Wert fallen oder eine gewisse Zeit vergangen ist, werden seine Angriffe noch aggressiver und kontinuierlicher."
         }
     },
     "Korrodierte Wesen": {
         "10021": {
             "monster_id": 10021,
             "monster_name": "Raben-Drohne",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Unbekannte Situation",
+            "card_quote": "Nichts",
+            "skill_text": "Beschreibung der Fähigkeiten des Gegners"
         },
         "30009": {
             "monster_id": 30009,
@@ -714,9 +742,9 @@
         "100211": {
             "monster_id": 100211,
             "monster_name": "Raben-Drohne – Aktiviert",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Unbekannte Situation",
+            "card_quote": "Nichts",
+            "skill_text": "Beschreibung der Fähigkeiten des Gegners"
         },
         "100271": {
             "monster_id": 100271,
@@ -765,21 +793,21 @@
             "monster_name": "Boshafter Schläger",
             "card_text": "Boshafter Schläger hat <color=#FFAF2C>hohe LP</color>. Konzentriere deine Angriffe auf ihn!",
             "card_quote": null,
-            "skill_text": "LP: 240\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Mittel\nANG: Mittel\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
         },
         "930156": {
             "monster_id": 930156,
             "monster_name": "Boshafter Schläger",
             "card_text": "Boshafter Schläger hat <color=#D9A600>hohe LP</color>. Konzentriere deine Angriffe auf ihn!",
             "card_quote": null,
-            "skill_text": "LP: 240\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Mittel\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell\nBedrohung: <color=#FFAF2C>Mittel</color>"
         },
         "930165": {
             "monster_id": 930165,
             "monster_name": "Boshafter Schläger",
             "card_text": "Boshafter Schläger hat <color=#FFAF2C>hohe LP</color>. Konzentriere deine Angriffe auf ihn!",
             "card_quote": null,
-            "skill_text": "LP: 720\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
+            "skill_text": "LP: Hoch\nANG: Mittel\nBewegungs-GSW: Langsam\nBedrohung: <color=#FFAF2C>Mittel</color>"
         }
     },
     "Sicherheitsbehörde": {
@@ -787,21 +815,21 @@
             "monster_id": 10010,
             "monster_name": "Unbekannte Einheit",
             "card_text": "Unbekannte Einheit. Weitere Untersuchungen sind erforderlich.",
-            "card_quote": null,
+            "card_quote": "Nichts",
             "skill_text": "???"
         },
         "10011": {
             "monster_id": 10011,
             "monster_name": "Unbekannte Einheit",
             "card_text": "Unbekannte Einheit. Weitere Untersuchungen sind erforderlich.",
-            "card_quote": null,
+            "card_quote": "Nichts",
             "skill_text": "???"
         },
         "10012": {
             "monster_id": 10012,
             "monster_name": "Unbekannte Einheit",
             "card_text": "Unbekannte Einheit. Weitere Untersuchungen sind erforderlich.",
-            "card_quote": null,
+            "card_quote": "Nichts",
             "skill_text": "???"
         },
         "20006": {
@@ -882,6 +910,13 @@
             "card_text": "Als schwerer Mecha ist der Typhon – Herausforderer nicht mit Fernfeuerwaffen ausgestattet, sondern legt seinen Schwerpunkt auf seine ätherkinetische Panzerung.\nAufprallangriffe, heftige Schläge, zermalmen ... Der Typhon – Herausforderer setzt simple, aber effektive Taktiken ein, um die Zerstörungskraft seines Energiepanzers zu maximieren. Die Schockwelleneffekte seiner Schläge können sogar größere Äthereale einschüchtern.\nAngesichts der Unnahbarkeit des Typhon – Herausforderer“ können selbst die erfahrensten Höhlenräuber nur hilflos seufzen, wenn sie mit ihm konfrontiert sind.\n„Der große und robuste Körperbau, die kräftigen und robusten Arme ... Das ist mein Traumtyp ... Ich meine natürlich, das ideale Modell.“",
             "card_quote": "– Grace, die mit einem Modell von „Typhon – Herausforderer“ im Gadget-Shop spielt",
             "skill_text": "Autonome taktische Einheit – „Typhon – Herausforderer“ setzt im Kampf mächtige Kombos ein und springt periodisch in die Luft, um schwere Angriffe auf die Gegner auszuführen."
+        },
+        "30026": {
+            "monster_id": 30026,
+            "monster_name": "Schreckensvogel",
+            "card_text": "Als ein ehrwürdiges Modell, das an vielen Kriegen teilgenommen hat, hat sich der Schreckensvogel als New Eridus zuverlässigste Kriegsmaschine erwiesen. Das Konzept des Entwurfs ist einfach: Es soll ein perfektes Gleichgewicht zwischen Nahkampf und Feuerunterstützung aus der Ferne erreicht werden. Jeder seiner Angriffe ist voll von Zerstörungskraft. Er ist mit einer Vielzahl von Raketen und Maschinengewehren ausgestattet, die ihm die Fähigkeit geben, Ziele auf große Entfernung präzise zu treffen. Mit seinen Sprintangriffen, explosiven Raketen, Luftbombardements und der Fähigkeit, schnell zurückzuspringen, kann sich der Schreckensvogel an alle Situationen auf dem Schlachtfeld anpassen. Gegen seine zahlreichen Schläge haben seine Gegner kaum eine Chance, sich zu wehren. Er ist der unbestrittene Herrscher auf dem Schlachtfeld und steht seinen Feinden nicht nur als Symbol der Macht, sondern auch als purer Schrecken gegenüber.\n„Der Schreckensvogel war ein Zeichen jener Ära.“",
+            "card_quote": "– So heißt es im Buch „Der Kampf der alten Hauptstadt: Wahrheit und Erinnerung“.",
+            "skill_text": "Im Kampf setzt der Schreckensvogel seine agilen mechanischen Beine ein, um Nahkampfangriffe auszuführen, und sorgt mit seinen Fernkampfwaffen gleichzeitig für Unterdrückungsfeuer. Wenn du die Spezialbomben, die er abschießt, abwehrst, kannst du die Defensivhilfe einsetzen und sie auf ihn zurückwerfen und ihn lähmen."
         },
         "100051": {
             "monster_id": 100051,
@@ -1011,13 +1046,6 @@
             "card_quote": "– Die auserwählte intelligente Maschine Freitag",
             "skill_text": "Freitag erzeugt im Kampf großflächige Schockwellen, die schwer zu entkommen sind. Die meisten seiner Angriffe können jedoch mit Defensivhilfe abgewehrt werden. Durch Schaden an seinen Beinen kann eine Teilzerstörung erreicht werden, die große Mengen an Benommenheit verursacht."
         },
-        "30020": {
-            "monster_id": 30020,
-            "monster_name": "Doppelgänger – Jane",
-            "card_text": "Selbst unter ionisierten Wesen, die für ihre bizarren und unheimlichen Eigenarten bekannt sind, fallen ionisierte Doppelgänger als besonders einzigartig auf.\nDiese Kreaturen können ihre Körper mit einer Schicht aktiver Ätherionen belegen und dadurch die Form ihres Ziels exakt nachahmen. Sie sehen oft so lebensecht aus, dass es fast unmöglich ist, sie vom Original zu unterscheiden.\nNoch schwieriger ist die Tatsache, dass sie die kraftvollen und furchteinflößenden Techniken ihrer Ziele ebenfalls imitieren können.\nNiemand weiß, woher sie die Informationen für ihre Nachahmungen erhalten. Gerüchten zufolge, können sie Gedanken lesen, den passendsten Gegner aus den Erinnerungen ihres Gegners wählen und dann in deren Form angreifen.\n„Unsinn! Wenn es wirklich meine größten Ängste lesen könnte, dann würde es sich in eine mittelaltrige Frau mit einem Kleiderhaken verwandeln! Ja, ganz recht! Am meisten Angst habe ich vor meiner Mutter!“",
-            "card_quote": "– Ein Beschwerdebeitrag von einem Höhlenräuber im Inter-Knot",
-            "skill_text": "Während des Kampfes führt dieser Gegner Angriffe aus, die die seines Ziels perfekt imitieren. Er ist erstaunlich aggressiv und kann, wenn nötig, gegnerische Schläge parieren und kontern. Er zeigt jedoch normalerweise seine Schwäche, nachdem er eine Reihe von kontinuierlichen Angriffen beendet hat."
-        },
         "30022": {
             "monster_id": 30022,
             "monster_name": "Jane Doe",
@@ -1038,6 +1066,13 @@
             "card_text": "Äther ist ein unersättliches Gift, ein bösartiger Parasit, der das einst lebendige und pulsierende Leben verschlingt.\nDer Hitchspiker ist eine noch bösartigere Verkörperung des Äthers – indem er in seinen grausamen Gefährten haust, ermöglicht er Tyrfing und Alpeca, die unstillbare Gier der Höhle in noch grausamerer Form zu befriedigen.\n„Bleib von meinem Gesicht weg!“",
             "card_quote": "– Ein Äthereal-Ökologe, nachdem er bemerkte, dass dieses Insekt häufig springt.",
             "skill_text": "Im Kampf wandern Hitchspiker kontinuierlich und suchen nach Tyrfings und Alpecas, um sie zu infizieren."
+        },
+        "30028": {
+            "monster_id": 30028,
+            "monster_name": "Spezialwachmann",
+            "card_text": "Auch wenn die Spezialwachmänner wie gewöhnliches Sicherheitspersonal aussehen, sollte man sie auf keinen Fall unterschätzen. In der Tat haben sie eine Reihe von „Spezialtechniken“ in ihren Ärmeln versteckt. Die Aufgabe der Spezialwachmänner besteht nicht nur darin, imposant an der Tür zu stehen, sie sind auch diejenigen, die, wenn der Chef zu viel getrunken hat, oder wenn ein Dieb versucht, sich anzuschleichen, die Situation mit einem „Hab ich alles schon gesehen“-Ausdruck in den Griff kriegen. Ihre Arbeit besteht nicht darin, Verbrechen zu bekämpfen, sondern darin, „den Chef vor Fällen zu bewahren, den Aufzug am Eingang zu reparieren und möglichst unauffällig zu bleiben“. In ihrer Welt heißt die mächtigste Waffe „furchterregend auszusehen“ und die glücklichste Sache, die sie haben können, ist „nichts zu tun zu haben“. Ein gutes Sicherheitspersonal würde sich nie bemerkbar machen und die Leute würden sich erst dann daran erinnern, dass sie die ganze Zeit da waren, wenn das Problem bereits gelöst ist.\n„Niemand kann dich niederschlagen, wenn du fest genug stehst.“",
+            "card_quote": "– Auf der Titelseite eines Sicherheitsdiensthandbuches, verfasst von einer alten Sicherheitskraft.",
+            "skill_text": "Die Spezialwachmänner greifen im Kampf mit unterschiedlichen Waffen an und arbeiten bei Bedarf zusammen."
         },
         "100231": {
             "monster_id": 100231,
@@ -1093,7 +1128,7 @@
             "monster_name": "Goldenes Bangboo",
             "card_text": "Das Goldene Bangboo hat <color=#D9A600>sehr hohe Bewegungs-GSW und LP</color>, greift jedoch keine verbündeten Bangboos an. Besiegt man es, scheint <color=#D9A600>etwas Gutes zu passieren</color>~",
             "card_quote": null,
-            "skill_text": "LP: 960\nANG: Mittel\nVTD: 50\nBewegungs-GSW: Schnell\nBedrohung: <color=#FF3333>Hoch</color>"
+            "skill_text": "LP: Hoch\nANG: Mittel\nBewegungs-GSW: Schnell\nBedrohung: <color=#FF3333>Hoch</color>"
         }
     }
 }

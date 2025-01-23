@@ -189,12 +189,26 @@
             "card_quote": "— Nas profundezas da Esfera Negra, vários investigadores estão cercando Nassellaria ",
             "skill_text": "Durante o combate, Nassellaria - Ionizada carrega ataques durante muito tempo, disparando bolas de energia de alto nível para atacar seus inimigos. Bolas de energia atingidas por dano de Éter ou um ataque de alto nível durante a carga cairão, causando dano nos inimigos à sua volta."
         },
+        "30020": {
+            "monster_id": 30020,
+            "monster_name": "Sósia - Jane",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos e lança ataques extremamente agressivos durante o combate. Quando necessário, ele pode impedir ataques de inimigos, mas fica com uma fraqueza exposta ao final de seu combo."
+        },
         "30023": {
             "monster_id": 30023,
             "monster_name": "Thracian",
             "card_text": "Nomeado em homenagem à raça de guerreiros lendários da antiga civilização, acredita-se que este Etéreo cruel seja a incorporação de valentes heróis e vilões insanos corrompidos pelo Éter.\nMas isso não é verdade. Seus músculos esculpidos pela Esfera Negra e os montantes de adrenalina liberados antes de sua morte são um percalço para seus antigos companheiros... porém, isso não será um problema para eles. Afinal de contas, esse velho amigo já não tem salvação.\nMas quem se importa? Quando a bela face se transforma na sombria orbe negra, sua reputação social será o que menos vai te importar.\n\"Por isso que ele é o chefe. Mesmo virando Etéreo, ele ainda é formidável!\"\n\"Eu sabia que tinha algo de errado quando percebi que ele era rato de academia!\"",
             "card_quote": "— Confissão aos gritos de um integrante da gangue de saqueadores",
             "skill_text": "Durante o combate, Thracian realiza movimentos constantes para entrar num estado de carregamento. Nesse estado, seus ataques se tornam mais agressivos e, após alguns movimentos avançados, ele causa uma explosão em grande área."
+        },
+        "30029": {
+            "monster_id": 30029,
+            "monster_name": "Sósia Ionizado",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": null
         },
         "35001": {
             "monster_id": 35001,
@@ -320,7 +334,7 @@
             "monster_name": "Hati - Notório",
             "card_text": "A Equipe de Investigação da Fase I da AIEN documentou oficialmente a existência desta criatura etérea consciente, que se assemelha a uma fera de quatro patas, e representa um perigo significativo.\nSegundo boatos, a primeira aparição ocorreu na Esfera Negra principal. Indivíduos que exploravam os resíduos próximos disseram ouvir rugidos ensurdecedores que lembravam os grunhidos de animais selvagens.\n\"Se eu jogar um graveto ou uma bola, será que aquele monstro vai pegar?\"\n\"Você pode tentar, mas eu não vou pagar sua conta do hospital.\"",
             "card_quote": "— Um bate-papo entre Billy e Nicole",
-            "skill_text": null
+            "skill_text": "Introdução de Habilidades de Monstro - Temporário"
         },
         "200015": {
             "monster_id": 200015,
@@ -363,6 +377,27 @@
             "card_text": "Muitos saqueadores novatos que se deparam com um Arlaune pela primeira vez costumam ser ludibriados pela aparência dela, assumindo equivocadamente que se trata de uma planta inofensiva.\nMas, ao se aproximarem, descobrem que a Arlaune libera uma descarga concentrada de matéria etérea, que surpreende suas vítimas.\n\"Hã? Eu tentei regá-la, e ela cuspiu em mim?\"",
             "card_quote": "— Um grupo de investigadores novatos encurralados por uma Arlaune numa Esfera Negra",
             "skill_text": "Durante o combate, Arlaune executa ataques de longo alcance extremamente inteligentes. Entretanto, Desequilibrá-la enquanto suas pétalas estiverem abertas causará um acúmulo grande de Atordoamento com um só golpe."
+        },
+        "200231": {
+            "monster_id": 200231,
+            "monster_name": "Sósia - Mors",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente o de seus alvos, durante o combate. Ele pode escolher entre combos de curto alcance ou tiros de longo alcance, dependendo da situação. Quando sua vida cai abaixo de determinada percentagem ou após determinado período, ele passa usar ataques consecutivos de longa distância ou a emboscar seus alvos com tiros sem alvo definido, quando se reposiciona."
+        },
+        "200241": {
+            "monster_id": 200241,
+            "monster_name": "Sósia - Pulchra",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos. Ele mantém distância durante o combate e espera pelo momento ideal para usar ataques físicos, sua lâmina-revólver e dispositivos para prejudicar o alvo. Quando sua vida cai abaixo de determinada percentagem, ele tem uma maneira desconhecida de melhorar sua habilidade de realizar Esquivas, que permite que ele desvie de ataques de alvos próximos."
+        },
+        "200251": {
+            "monster_id": 200251,
+            "monster_name": "Sósia - Bellum",
+            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos. Durante o combate, ele usa sua lâmina-revólver, escudo e lança-chamas para pressionar os inimigos próximos. Quando atacado enquanto guarda o escudo, ele responde com um belo contra-ataque. Quando sua vida cai abaixo de determinada percentagem, seus ataques se tornam mais cruéis e implacáveis."
         },
         "300001": {
             "monster_id": 300001,
@@ -420,6 +455,13 @@
             "card_quote": "— 17ª Investigação da Esfera Sem Saída da Associação de Investigação de Esferas Negras",
             "skill_text": "Durante o combate, os ataques do Filhote de Carniceiro do Beco variam muito. Após ele sofrer dano suficiente, os ataques da fase dois tornam-se sequenciais, com a adição de ataques de laser. Use uma habilidade de alto nível após seu combo acabar para aumentar a paralisação. O Filhote de Carniceiro do Beco efetua esquivas rápidas para evitar ataques inimigos."
         },
+        "300072": {
+            "monster_id": 300072,
+            "monster_name": "Notável - Carniceiro do Beco",
+            "card_text": "Ao contrário de outros Etéreos altamente perigosos, o Éter dentro do corpo do Carniceiro do Beco costuma permanecer num estado dormente de baixa atividade.\nNo entanto, ele tem uma força bruta imensa capaz de demolir qualquer obstáculo, e toda a Zona do Metrô retorcida e devastada serve como sua cozinha proibida.\nApenas quando um alvo ameaçador desperta seu interesse é que ocorre uma transformação horripilante...\nEm instantes, a alta concentração de Éter armazenada em seu corpo sofre uma transformação violenta, e a energia que aumenta exponencialmente faz com que seus membros se distorçam muito rápido, assumindo uma postura de \"alimentação\" mais brutal e voraz.\nA hora dos \"aperitivos\" terminou, e um \"banquete\" inigualável está prestes a começar.\nQualquer um que não queira fazer parte deste banquete deve ser bastante cauteloso ao escolher o caminho e ficar longe da \"cozinha\" a todo custo.\n\"Os caminhos nas Esferas Negras são complexos, mas uma coisa é certa: quando ele aparece no final do caminho, esse caminho é um 'beco sem saída'.\"",
+            "card_quote": "— 17ª Investigação da Esfera Sem Saída da Associação de Investigação de Esferas Negras",
+            "skill_text": "Durante o combate, o Carniceiro do Beco é capaz de usar a energia Etérea para lançar vários tipos de ataques à distância e distorcer o espaço para criar objetos simulados."
+        },
         "300121": {
             "monster_id": 300121,
             "monster_name": "Notável - Marionete",
@@ -432,112 +474,112 @@
             "monster_name": "Tyrfing",
             "card_text": "Uma unidade inimiga com ATQ e PV muito baixos, representando uma ameaça mínima. Normalmente o primeiro inimigo que um Bangboo encontra no Exame de Bangboos.",
             "card_quote": null,
-            "skill_text": "PV: 50\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+            "skill_text": "PV: Baixo\nATQ: Médio\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#31CC00>Baixo</color>"
         },
         "930147": {
             "monster_id": 930147,
             "monster_name": "Arlaune",
             "card_text": "Um inimigo extremamente perigoso que utiliza <color=#D9A600>ataques de longo alcance</color>. Ao ser bloqueado, ele libera uma névoa venenosa, <color=#D9A600>causando Dano em todos os Bangboo próximos</color>. É recomendado usar <color=#D9A600>Bangboo Gentil</color> para lidar com ele.",
             "card_quote": null,
-            "skill_text": "PV: 430\nATQ: Médio\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+            "skill_text": "PV: Médio\nATQ: Médio\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
         },
         "930148": {
             "monster_id": 930148,
             "monster_name": "Arimã",
             "card_text": "Quando seus PV estiverem cheios, sua <color=#D9A600>Velocidade de Movimento é extremamente alta</color> e <color=#D9A600>não é possível bloqueá-lo</color>. Após sofrer Dano, sua Velocidade de Movimento será reduzida e será possível bloquear. Recomendamos o uso do <color=#D9A600>Bangboo de Disparo</color> para causar Dano contra Arimã o mais rápido possível para reduzir seu nível de ameaça.",
             "card_quote": null,
-            "skill_text": "PV: 70\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida, mas fica mais lenta ao sofrer ataques\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+            "skill_text": "PV: Baixo\nATQ: Médio\nVelocidade de Movimento: Rápida, mas fica mais lenta ao sofrer ataques\nNível de Ameaça: <color=#31CC00>Baixo</color>"
         },
         "930149": {
             "monster_id": 930149,
             "monster_name": "Alpeca",
             "card_text": "Alpeca consegue executar <color=#D9A600>Ataques de Longo Alcance</color> e atacar Bangboos em Posições Táticas. Preste atenção na condição física dos candidatos.",
             "card_quote": null,
-            "skill_text": "PV: 100\nATQ: Baixo\nDEF: 21\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+            "skill_text": "PV: Baixo\nATQ: Baixo\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#31CC00>Baixo</color>"
         },
         "930150": {
             "monster_id": 930150,
             "monster_name": "Dullahan",
             "card_text": "Uma unidade de combate corpo a corpo com <color=#D9A600>PV extremamente altos</color>. Recomendamos o uso do <color=#D9A600>Papelboo</color>, que possui muitos PV, para lidar com ela.",
             "card_quote": null,
-            "skill_text": "PV: 480\nATQ: Alto\nDEF: 75\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+            "skill_text": "PV: Médio\nATQ: Alto\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
         },
         "930152": {
             "monster_id": 930152,
             "monster_name": "Hoplita",
             "card_text": "A Hoplita entra com uma <color=#D9A600>Velocidade de Movimento muito alta</color>. Ela colide com o primeiro Bangboo que encontra no seu caminho, causando <color=#D9A600>muito dano</color>. Após isso, sua Velocidade de Movimento diminuirá <color=#D9A600>bastante</color>.",
             "card_quote": null,
-            "skill_text": "PV: 150\nATQ: Alto\nDEF: 75\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Baixo\nATQ: Alto\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         },
         "930153": {
             "monster_id": 930153,
             "monster_name": "Sátiro",
             "card_text": "O Sátiro se move lentamente, mas tem um ATQ alto. Preste atenção na condição física dos candidatos.",
             "card_quote": null,
-            "skill_text": "PV: 140\nATQ: Alto\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Baixo\nATQ: Alto\nVelocidade de Movimento.: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         },
         "930154": {
             "monster_id": 930154,
             "monster_name": "Explodaranha",
             "card_text": "A Explodaranha se move rapidamente e se explode perto dos Bangboos, causando dano a <color=#D9A600>a todos os Bangboos</color>. Utilize um <color=#D9A600>Papelboo</color>, que possui PB muito altos, para lidar com ela.",
             "card_quote": null,
-            "skill_text": "PV: 80\nATQ: Baixo\nDEF: 13\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Baixo\nATQ: Baixo\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         },
         "930157": {
             "monster_id": 930157,
             "monster_name": "Tyrfing",
             "card_text": "Uma unidade inimiga com ATQ e PV muito baixos, representando uma ameaça mínima. Normalmente o primeiro inimigo que um Bangboo encontra no Exame de Bangboos.",
             "card_quote": null,
-            "skill_text": "PV: 140\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+            "skill_text": "PV: Baixo\nATQ: Médio\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#31CC00>Baixo</color>"
         },
         "930158": {
             "monster_id": 930158,
             "monster_name": "Arlaune",
             "card_text": "Um inimigo extremamente perigoso que utiliza <color=#D9A600>ataques de longo alcance</color>. Ao ser bloqueado, ele libera uma névoa venenosa, <color=#D9A600>causando Dano em todos os Bangboo próximos</color>. É recomendado usar <color=#D9A600>Bangboo Gentil</color> para lidar com ele.",
             "card_quote": null,
-            "skill_text": "PV: 1300\nATQ: Médio\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+            "skill_text": "PV: Muito Alto\nATQ: Médio\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
         },
         "930159": {
             "monster_id": 930159,
             "monster_name": "Arimã",
             "card_text": "Quando seus PV estiverem cheios, sua <color=#D9A600>Velocidade de Movimento é extremamente alta</color> e <color=#D9A600>não é possível bloqueá-lo</color>. Após sofrer Dano, sua Velocidade de Movimento será reduzida e será possível bloquear. Recomendamos o uso do <color=#D9A600>Bangboo de Disparo</color> para causar Dano contra Arimã o mais rápido possível para reduzir seu nível de ameaça.",
             "card_quote": null,
-            "skill_text": "PV: 220\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida, mas fica mais lenta ao sofrer ataques\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+            "skill_text": "PV: Baixo\nATQ: Médio\nVelocidade de Movimento: Rápida, mas fica mais lenta ao sofrer ataques\nNível de Ameaça: <color=#31CC00>Baixo</color>"
         },
         "930160": {
             "monster_id": 930160,
             "monster_name": "Alpeca",
             "card_text": "Alpeca consegue executar <color=#D9A600>Ataques de Longo Alcance</color> e atacar Bangboos em Posições Táticas. Preste atenção na condição física dos candidatos.",
             "card_quote": null,
-            "skill_text": "PV: 300\nATQ: Baixo\nDEF: 21\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#POSITIVE_WITH_WHITE>Baixo</color>"
+            "skill_text": "PV: Médio\nATQ: Baixo\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#31CC00>Baixo</color>"
         },
         "930161": {
             "monster_id": 930161,
             "monster_name": "Dullahan",
             "card_text": "Uma unidade de combate corpo a corpo com <color=#D9A600>PV extremamente altos</color>. Recomendamos o uso do <color=#D9A600>Papelboo</color>, que possui muitos PV, para lidar com ela.",
             "card_quote": null,
-            "skill_text": "PV: 1440\nATQ: Alto\nDEF: 75\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+            "skill_text": "PV: Muito Alto\nATQ: Alto\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
         },
         "930162": {
             "monster_id": 930162,
             "monster_name": "Hoplita",
             "card_text": "A Hoplita entra com uma <color=#D9A600>Velocidade de Movimento muito alta</color>. Ela colide com o primeiro Bangboo que encontra no seu caminho, causando <color=#D9A600>muito dano</color>. Após isso, sua Velocidade de Movimento diminuirá <color=#D9A600>bastante</color>.",
             "card_quote": null,
-            "skill_text": "PV: 460\nATQ: Alto\nDEF: 75\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Médio\nATQ: Alto\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         },
         "930163": {
             "monster_id": 930163,
             "monster_name": "Sátiro",
             "card_text": "O Sátiro se move lentamente, mas tem um ATQ alto. Preste atenção na condição física dos candidatos.",
             "card_quote": null,
-            "skill_text": "PV: 430\nATQ: Alto\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Médio\nATQ: Alto\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         },
         "930164": {
             "monster_id": 930164,
             "monster_name": "Explodaranha",
             "card_text": "A Explodaranha se move rapidamente e se explode perto dos Bangboos, causando dano a <color=#D9A600>a todos os Bangboos</color>. Utilize um <color=#D9A600>Papelboo</color>, que possui PB muito altos, para lidar com ela.",
             "card_quote": null,
-            "skill_text": "PV: 230\nATQ: Baixo\nDEF: 13\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Baixo\nATQ: Baixo\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         }
     },
     "Bandidos": {
@@ -618,6 +660,13 @@
             "card_quote": "———— Em algum lugar de Nova Eridu, saqueadores de Esferas tentam atrair novos membros",
             "skill_text": "Durante o combate, Bandido de Esfera - Guerreiro Bruto carrega sua armadura com eletricidade para liberar um ataque de alto nível. Durante esse tempo, ele entra em um estado de Choque quando sua carga é interrompida e sofre Disfunção se qualquer outro tipo de Anomalia de Atributo for causada."
         },
+        "30027": {
+            "monster_id": 30027,
+            "monster_name": "Lenhadora",
+            "card_text": "Entre os saqueadores, há muitos que se autodenominam \"mestres inventores\". Sua maior habilidade é utilizar materiais industriais de segunda mão, \"legítimos\" (na medida do possível), para transformar os equipamentos de combate descartados pelo Departamento de Segurança Pública nas Esferas Negras em \"obras\" pessoais \"não tão legítimas assim\".\n\nCom serras de corrente de alta rotação, serras circulares dentadas e braços mecânicos hidráulicos industriais, esses materiais comuns são combinados de forma improvisada e soldados de maneira rudimentar, resultando em algo raro e perigoso.\n\nPara garantir que essas invenções funcionem, os modificadores \"cuidadosamente\" desativam as restrições de segurança do maquinário. Devido à sua aparência bruta e agressiva, essa invenção foi batizada de \"Lenhadora\".\n\nNinguém sabe quanto tempo a Lenhadora pode funcionar de forma estável. Ela pode enlouquecer a qualquer momento, acionando seu motor de potência avassaladora, balançando serras de corrente giratórias de alta velocidade e espinhos afiados, iniciando uma \"poda\" que ninguém ousaria impedir.\n\nNo entanto, esse estilo de combate quase insano pode muito bem ser o objetivo desejado pelos modificadores.\n\n\"Por que ela se chama 'Lenhadora'? Não tem madeira para cortar na Esfera Negra, né?\"\n\"Pois é, e é por isso que ela está tão furiosa, disposta a enlouquecer quando é acionada...\"",
+            "card_quote": "— Vários saqueadores de Esferas Negras, discutindo o princípio de operação da \"Lenhadora\" numa Esfera Negra.",
+            "skill_text": "Durante o combate, a Lenhadora muda frequentemente o formato da sua motosserra para executar ataques flexíveis, enquanto usa suas rodas para se mover. Quando o alvo está distante, ela dispara serras para perseguir à distância."
+        },
         "100151": {
             "monster_id": 100151,
             "monster_name": "Saqueador",
@@ -666,36 +715,15 @@
             "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nEntusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de Esfera, investigadores de Esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancada\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
             "card_quote": "— Billy lidando com a aproximação de um Capanga Corpulento numa Esfera Negra",
             "skill_text": "Durante o combate, o Arruaceiro — Capanga Procurado é extremamente agressivo e usa passos laterais ágeis para alternar o ângulo de ataque."
-        },
-        "200231": {
-            "monster_id": 200231,
-            "monster_name": "Sósia - Mors",
-            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
-            "card_quote": "— Reclamação de um saqueador na Interlaço",
-            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente o de seus alvos, durante o combate. Ele pode escolher entre combos de curto alcance ou tiros de longo alcance, dependendo da situação. Quando sua vida cai abaixo de determinada percentagem ou após determinado período, ele passa usar ataques consecutivos de longa distância ou a emboscar seus alvos com tiros sem alvo definido, quando se reposiciona."
-        },
-        "200241": {
-            "monster_id": 200241,
-            "monster_name": "Sósia - Pulchra",
-            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
-            "card_quote": "— Reclamação de um saqueador na Interlaço",
-            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos. Ele mantém distância durante o combate e espera pelo momento ideal para usar ataques físicos, sua lâmina-revólver e dispositivos para prejudicar o alvo. Quando sua vida cai abaixo de determinada percentagem, ele tem uma maneira desconhecida de melhorar sua habilidade de realizar Esquivas, que permite que ele desvie de ataques de alvos próximos."
-        },
-        "200251": {
-            "monster_id": 200251,
-            "monster_name": "Sósia - Bellum",
-            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
-            "card_quote": "— Reclamação de um saqueador na Interlaço",
-            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos. Durante o combate, ele usa sua lâmina-revólver, escudo e lança-chamas para pressionar os inimigos próximos. Quando atacado enquanto guarda o escudo, ele responde com um belo contra-ataque. Quando sua vida cai abaixo de determinada percentagem, seus ataques se tornam mais cruéis e implacáveis."
         }
     },
     "Corrompido": {
         "10021": {
             "monster_id": 10021,
             "monster_name": "Drone Corvo",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Condição Desconhecida",
+            "card_quote": "Nenhum",
+            "skill_text": "Introdução de Habilidades de Monstro - Temporário"
         },
         "30009": {
             "monster_id": 30009,
@@ -714,9 +742,9 @@
         "100211": {
             "monster_id": 100211,
             "monster_name": "Drone Corvo - Ativado",
-            "card_text": null,
-            "card_quote": null,
-            "skill_text": null
+            "card_text": "Condição Desconhecida",
+            "card_quote": "Nenhum",
+            "skill_text": "Introdução de Habilidades de Monstro - Temporário"
         },
         "100271": {
             "monster_id": 100271,
@@ -765,21 +793,21 @@
             "monster_name": "Golpeador Cruel",
             "card_text": "O Golpeador cruel <color=#FFAF2C>tem muitos PV</color>. Concentre seus ataques nele.",
             "card_quote": null,
-            "skill_text": "PV: 240\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Médio\nATQ: Médio\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         },
         "930156": {
             "monster_id": 930156,
             "monster_name": "Golpeador Cruel",
             "card_text": "O Golpeador cruel <color=#D9A600>tem muitos PV</color>. Concentre seus ataques nele.",
             "card_quote": null,
-            "skill_text": "PV: 240\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Médio\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         },
         "930165": {
             "monster_id": 930165,
             "monster_name": "Golpeador Cruel",
             "card_text": "O Golpeador cruel <color=#FFAF2C>tem muitos PV</color>. Concentre seus ataques nele.",
             "card_quote": null,
-            "skill_text": "PV: 720\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+            "skill_text": "PV: Alto\nATQ: Médio\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
         }
     },
     "Departamento de Segurança Pública": {
@@ -787,21 +815,21 @@
             "monster_id": 10010,
             "monster_name": "Entidade Desconhecida",
             "card_text": "Uma unidade desconhecida. É necessário investigar mais a fundo.",
-            "card_quote": null,
+            "card_quote": "Nenhum",
             "skill_text": "???"
         },
         "10011": {
             "monster_id": 10011,
             "monster_name": "Entidade Desconhecida",
             "card_text": "Uma unidade desconhecida. É necessário investigar mais a fundo.",
-            "card_quote": null,
+            "card_quote": "Nenhum",
             "skill_text": "???"
         },
         "10012": {
             "monster_id": 10012,
             "monster_name": "Entidade Desconhecida",
             "card_text": "Uma unidade desconhecida. É necessário investigar mais a fundo.",
-            "card_quote": null,
+            "card_quote": "Nenhum",
             "skill_text": "???"
         },
         "20006": {
@@ -882,6 +910,13 @@
             "card_text": "Sendo um meca pesado, o Tufão Desafiante não possui armamento de longo alcance. Em vez disso, seu forte está na blindagem Éter-Cinética.\nAtaques de impacto, golpes pesados, esmagamento... O Tufão Desafiante usa manobras táticas simples, mas eficientes, para maximizar seu poder destrutivo proporcionado pela blindagem Éter-Cinética. Os efeitos de onda de choque de seus golpes podem intimidar até Etéreos maiores.\nAté os Saqueadores de Esferas mais experientes se sentem impotentes diante do impenetrável Tufão Desafiante.\n\"A estatura alta e robusta, os braços poderosos e resistentes... É o meu tipo ideal... digo, modelo ideal.\"",
             "card_quote": "— Grace brincando com um modelo do Tufão Desafiante na frente da loja de gadgets",
             "skill_text": "Durante o combate, a Unidade Tática Autônoma - Tufão Desafiante efetua combos poderosos e, às vezes, pula para executar um ataque de pura força bruta."
+        },
+        "30026": {
+            "monster_id": 30026,
+            "monster_name": "Terrornis",
+            "card_text": "Um Mecautômato veterano vitorioso em muitas batalhas, o Terrornis se tornou a ferramenta de guerra mais confiável de Nova Eridu graças à sua capacidade de supressão absoluta. O design original era simples e direto, combinava perfeitamente o poder de combate corpo-a-corpo com uma capacidade ofensiva à distância. Cada um dos seus ataques é extremamente destrutivo e ele possui vários sistemas de lançamento de mísseis, além de uma metralhadora que permite atacar alvos à distância com precisão. Seja saltando para cima do inimigo, disparando mísseis explosivos ou se recolhendo rapidamente no ar para disparar uma salva de balas, o Terrornis pode responder a qualquer situação no campo de batalha. Seus inimigos têm dificuldade para contra-atacar e o Terrornis é o rei absoluto do campo de batalha. Quando ele aparece, não é apenas força que os inimigos enfrentam, mas também terror.",
+            "card_quote": "— \"Batalha da Antiga Capital: A Verdade e a Memória\"",
+            "skill_text": "Durante o combate, o Terrornis usa suas ágeis e fortes pernas mecânicas para realizar ataques corpo-a-corpo, enquanto usa vários tipos de armas de longo alcance para suprimir o inimigo. Ao bloquear suas bombas especiais, é possível desviá-las de volta contra ele, paralisando-o."
         },
         "100051": {
             "monster_id": 100051,
@@ -1011,13 +1046,6 @@
             "card_quote": "— A máquina inteligente escolhida, Sexta",
             "skill_text": "Durante o combate, Sexta cria um ataque com uma enorme onda de choque que dificulta a fuga dos adversários, mas que pode ser bloqueado usando a Assistência Defensiva. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
         },
-        "30020": {
-            "monster_id": 30020,
-            "monster_name": "Sósia - Jane",
-            "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
-            "card_quote": "— Reclamação de um saqueador na Interlaço",
-            "skill_text": "Esse inimigo realiza ataques que imitam perfeitamente os de seus alvos e lança ataques extremamente agressivos durante o combate. Quando necessário, ele pode impedir ataques de inimigos, mas fica com uma fraqueza exposta ao final de seu combo."
-        },
         "30022": {
             "monster_id": 30022,
             "monster_name": "Jane Doe",
@@ -1038,6 +1066,13 @@
             "card_text": "O Éter é um parasita voraz e insaciável, uma criatura extremamente maligna que devora toda a vida outrora vibrante e animada.\nO protozoário espinhoso é uma encarnação ainda mais perversa do Éter — alojado em seus cruéis colegas, \"Tyrfing\" e \"Alpeca\", eles conseguem satisfazer seu insaciável apetite de forma ainda mais brutal nas Esferas Negras.\n\"Fique longe do meu rosto!\"",
             "card_quote": "— Um ecologista especializado em Etéreos, percebendo que este é apenas um inseto que pula.",
             "skill_text": "Em combate, a Minhoca Espinhosa continuará vagando, procurando Tyrfing e Alpeca para parasitar."
+        },
+        "30028": {
+            "monster_id": 30028,
+            "monster_name": "Guarda de Operações Especiais",
+            "card_text": "O Guarda de Operações Especiais parece ser um guarda comum, mas não se engane, na verdade ele possui várias habilidades especiais. Os deveres de um Guarda de Operações Especiais não se limitam a ficar de guarda na porta. Eles também devem estar prontos para intervir caso de um cliente beba demais ou para manter a compostura em uma situação em que um ladrão está tentando roubar o estabelecimento. Seu trabalho não é combater o crime, mas sim \"impedir que o crime ocorra, proteger seus clientes e manter a discrição\". Para eles, a arma mais poderosa é a aparência intimidadora, e a maior sorte é ter nada para fazer. Afinal, um Guarda de Operações Especiais excepcional nunca se revelará. Somente quando o problema for resolvido, as pessoas finalmente perceberão sua presença: \"Ninguém pode vencer alguém que sempre se mantém firme\".",
+            "card_quote": "— Um guia de operações para oficiais, escrito por um veterano.",
+            "skill_text": "Durante o combate, o Guarda de Operações Especiais usa diferentes armas para atacar e, se necessário, coopera com seus companheiros."
         },
         "100231": {
             "monster_id": 100231,
@@ -1093,7 +1128,7 @@
             "monster_name": "Bangboo Dourado",
             "card_text": "O Bangboo Dourado <color=#D9A600>tem uma Velocidade de Movimento e PV muito altos</color>, mas não ataca os nossos Bangboos. Derrotá-los parece <color=#D9A600>trazer bons resultados</color>.",
             "card_quote": null,
-            "skill_text": "PV: 960\nATQ: Médio\nDEF: 50\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FF3333>Alto</color>"
+            "skill_text": "PV: Alto\nATQ: Médio\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FF3333>Alto</color>"
         }
     }
 }

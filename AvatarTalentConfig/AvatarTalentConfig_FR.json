@@ -1377,6 +1377,112 @@
             }
         ]
     },
+    "1311": {
+        "role_id": 1311,
+        "name": "Astra Yao",
+        "full_name": "Astra Yao",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Astra_Talent_01_Title": "Gamme tempérée",
+                "Astra_Talent_01_Desc_01_Realign": "Lorsque les attaques d'Astra Yao touchent un ennemi, la RÉS à tous les attributs de la cible est réduite de 6 % pendant 30 s, cumulable 3 fois. Les déclenchements répétés réinitialisent la durée.\nEn entrant sur le terrain, Astra Yao gagne immédiatement 1 000 décibels.\nLorsqu'elle lance son <color=#FFFFFF>ultime</color>, tous les membres de l'escouade gagnent 1 cumul de <color=#FFFFFF>Chant de protection</color> pendant 60 s. Lorsqu'un personnage est attaqué par un ennemi, il consomme <color=#FFFFFF>Chant de protection</color> et devient invulnérable pendant 1 s.",
+                "Astra_Talent_01_Desc_02": "« Qu'est-ce que c'est la gamme tempérée ?\n— La gamme tempérée est un système d'accordage qui divise les notes en douze demi-tons égaux. C'est comme quand on dit aux enfants de se ranger en rang, c'est pour mettre de l'ordre dans les notes.\n— Mais parfois, on dirait que les notes sont comme les enfants : elles détestent l'ordre ! »\n— La professeure de musique d'Astra Yao, qui se souvient de l'époque où elle avait six ans.",
+                "Astra_Talent_01_Desc_01": "Lorsque les attaques d'Astra Yao touchent un ennemi, la RÉS à tous les attributs de la cible est réduite de 6 % pendant 30 s, cumulable 3 fois. Les déclenchements répétés réinitialisent la durée. En entrant sur le terrain, Astra Yao gagne immédiatement 1 000 décibels. Lorsqu'elle lance son <color=#FFFFFF>ultime</color>, tous les membres de l'escouade gagnent 1 cumul de <color=#FFFFFF>Chant de protection</color> pendant 60 s. Lorsqu'un personnage est attaqué par un ennemi, il consomme <color=#FFFFFF>Chant de protection</color> et devient invulnérable pendant 1 s.",
+                "Astra_Talent_01_Title_Realign": "Gamme tempérée"
+            },
+            {
+                "talent_id": "2",
+                "Astra_Talent_02_Title": "L'art de l'avarice",
+                "Astra_Talent_02_Desc_01_Realign": "Le bonus d'ATQ conféré par <color=#FFFFFF>Passif principal : Andante grazioso</color> est amélioré de 19 %, avec une augmentation maximale de 400.\nDans l'état <color=#FFFFFF>Tempo idyllique</color>, lorsque d'autres membres de l'escouade prennent le relai via un <color=#FFFFFF>soutien rapide</color>, un <color=#FFFFFF>enchaînement</color>, un <color=#FFFFFF>soutien défensif</color> ou un <color=#FFFFFF>soutien d'esquive</color>, Astra Yao enchaîne également avec 1 attaque <color=#FFFFFF>Trémolo</color> et 3 attaques <color=#FFFFFF>Grappe sonore</color>. Cet effet peut être déclenché une fois toutes les 3 s.",
+                "Astra_Talent_02_Desc_02": "« La chose la plus brillante au monde, c'est l'amour, bien entendu ! »\nTelle une pie qui se rue sur tout ce qui brille, l'avarice innée aux artistes s'attèle à ramasser tout l'amour du monde. Avec suffisamment d'amour, on peut créer une mélodie superbe.",
+                "Astra_Talent_02_Desc_01": "Le bonus d'ATQ conféré par <color=#FFFFFF>Passif principal : Andante grazioso</color> est amélioré de 19 % supplémentaires, avec une augmentation maximale de 400. Dans l'état <color=#FFFFFF>Tempo idyllique</color>, lorsque d'autres membres de l'escouade prennent le relai via un <color=#FFFFFF>soutien rapide</color>, un <color=#FFFFFF>enchaînement</color>, un <color=#FFFFFF>soutien défensif</color> ou un <color=#FFFFFF>soutien d'esquive</color>, Astra Yao enchaîne également avec 1 attaque <color=#FFFFFF>Trémolo</color> supplémentaire et 3 attaques <color=#FFFFFF>Grappe sonore</color>. Cet effet peut être déclenché une fois toutes les 3 s.",
+                "Astra_Talent_02_Title_Realign": "L'art de l'avarice"
+            },
+            {
+                "talent_id": "3",
+                "Astra_Talent_03_Title": "Portée entrelacée",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Astra_Talent_03_Desc_02": "Une portée vidée n'est qu'un ensemble de lignes parallèles qui ne s'entrecoupent jamais, comme des cœurs qui ne se sont pas encore rencontrés, attendant en silence que leurs mélodies s'entrelacent.\n« On va la remplir de notes ! Des tas et des tas de notes liées. Cette chanson sera fantastique ! »\nC'est ainsi qu'une nouvelle chanson est née, s'étendant sur 136 barres de mesure, toutes connectées par des liaisons...",
+                "Astra_Talent_03_Title_Realign": "Portée entrelacée"
+            },
+            {
+                "talent_id": "4",
+                "Astra_Talent_04_Title": "« Les cheveux qui te caressent les épaules »",
+                "Astra_Talent_04_Desc_01_Realign": "Dans les 15 s qui suivent un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, Astra Yao peut déclencher un <color=#FFFFFF>soutien rapide</color> même si elle ne possède aucun <color=#FFFFFF>Accord</color>. Lorsque l'attaque touche un ennemi, l'intervalle avant le prochain <color=#FFFFFF>soutien rapide</color> est réduit à 1 s.\nDans l'état <color=#FFFFFF>Tempo idyllique</color>, lorsque d'autres membres de l'escouade prennent le relai via un <color=#FFFFFF>soutien rapide</color>, ils reçoivent différents bonus en fonction de leur spécialisation. Cet effet peut être déclenché une fois toutes les 3 s pour toute l'escouade.\n<color=#FFFFFF>Attaque</color> : La prochaine attaque lourde d'un <color=#FFFFFF>soutien rapide</color> infligera à la cible des DGT additionnels équivalents à 300 % de l'ATQ d'Astra Yao ;\n<color=#FFFFFF>Anomalie</color> : Le prochain <color=#FFFFFF>soutien rapide</color> infligera 50 % d'accumulation d'anomalie supplémentaire ;\n<color=#FFFFFF>Confusion</color> : Le prochain <color=#FFFFFF>soutien rapide</color> infligera 50 % de confusion supplémentaire.",
+                "Astra_Talent_04_Desc_02": "Comme une main sur le piano\nCherchant la note qui m'apportera la paix\nLa mélancolie d'un accord mineur\nOu une douce mélodie de chagrin ?\nCherchant ton ombre sur la partition\nJe ferme les yeux, et comme une apparition\nJe vois les cheveux qui te caressent les épaules",
+                "Astra_Talent_04_Desc_01": "Dans les 15 s qui suivent un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, Astra Yao peut déclencher un <color=#FFFFFF>soutien rapide</color> même si elle ne possède aucun <color=#FFFFFF>Accord</color>. Lorsque l'attaque touche un ennemi, l'intervalle avant le prochain <color=#FFFFFF>soutien rapide</color> est réduit à 1 s. Dans l'état <color=#FFFFFF>Tempo idyllique</color>, lorsque d'autres membres de l'escouade prennent le relai via un <color=#FFFFFF>soutien rapide</color>, ils reçoivent différents bonus en fonction de leur spécialisation. Cet effet peut être déclenché une fois toutes les 3 s pour toute l'escouade.\n<color=#FFFFFF>Attaque</color> : La prochaine attaque lourde d'un <color=#FFFFFF>soutien rapide</color> infligera à la cible des DGT additionnels équivalents à 300 % de l'ATQ d'Astra Yao ; <color=#FFFFFF>Anomalie</color> : Le prochain <color=#FFFFFF>soutien rapide</color> infligera 50 % d'accumulation d'anomalie supplémentaire ; <color=#FFFFFF>Confusion</color> : Le prochain <color=#FFFFFF>soutien rapide</color> infligera 50 % de confusion supplémentaire.",
+                "Astra_Talent_04_Title_Realign": "« Les cheveux qui te caressent les épaules »"
+            },
+            {
+                "talent_id": "5",
+                "Astra_Talent_05_Title": "Proxy et corde de soie",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Astra_Talent_05_Desc_02": "« Ève ! Je viens de me rendre compte d'un truc ! Toi et {M#Wise}{F#Belle}, vous êtes {M#tous les deux grands et minces}{F#toutes les deux grandes et minces} !\n— ... Mais encore ?\n— Vous êtes {M#tous}{F#toutes} les deux les personnes que je préfère ! »\nAstra saute de joie, comme si elle venait de percer un immense mystère.",
+                "Astra_Talent_05_Title_Realign": "Proxy et corde de soie"
+            },
+            {
+                "talent_id": "6",
+                "Astra_Talent_06_Title": "Nous sommes le monde",
+                "Astra_Talent_06_Desc_01_Realign": "Dans l'état <color=#FFFFFF>Tempo idyllique</color>, le multiplicateur de DGT de <color=#FFFFFF>Trémolo</color> et <color=#FFFFFF>Grappe sonore</color> augmente à 200 % de sa valeur originelle, et le taux CRIT augmente de 80 %.\nLorsque vous déclenchez un <color=#FFFFFF>soutien précis</color>, Astra Yao enchaîne immédiatement avec le 3e coup chargé d'<color=#FFFFFF>Attaque normale : Capriccio</color>, avec un taux CRIT amélioré de 80 %. Cet effet peut être déclenché une fois toutes les 10 s.",
+                "Astra_Talent_06_Desc_02": "Toute la souffrance du monde prend racine dans la solitude du cœur. Si chaque cœur était lié, peut-être que toute la souffrance, la tristesse et le silence du monde disparaîtraient ?\nPeut-être que si on tissait ce lien à l'aide d'une chanson, toutes les blessures se refermeraient, que la douleur se transformerait en une douce mélodie qui comblerait le silence ? Si c'était possible, le monde ne serait plus une île solitaire.\n« Je dédie cette chanson au monde ! »",
+                "Astra_Talent_06_Desc_01": "Dans l'état <color=#FFFFFF>Tempo idyllique</color>, le multiplicateur de DGT de <color=#FFFFFF>Trémolo</color> et <color=#FFFFFF>Grappe sonore</color> augmente à 200 % de sa valeur originelle, et le taux CRIT augmente de 80 %. Lorsque vous déclenchez un <color=#FFFFFF>soutien précis</color>, Astra Yao enchaîne immédiatement avec le 3e coup chargé d'<color=#FFFFFF>Attaque normale : Capriccio</color>, avec un taux CRIT amélioré de 80 %. Cet effet peut être déclenché une fois toutes les 10 s.",
+                "Astra_Talent_06_Title_Realign": "Nous sommes le monde"
+            }
+        ]
+    },
+    "1321": {
+        "role_id": 1321,
+        "name": "Évelyne",
+        "full_name": "Évelyne Chevalier",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Evelyn_Talent_01_Title": "Tisse-rêve",
+                "Evelyn_Talent_01_Desc_01_Realign": "En entrant sur le champ de bataille, Évelyne obtient immédiatement 1 500 décibels.\nLes ennemis souffrant de <color=#FFFFFF>Ligotage</color> seront <color=#FFFFFF>Attachés</color>. Les attaques d'Évelyne ignorent 12 % de la DÉF des ennemis <color=#FFFFFF>Attachés</color>.\nLorsque Évelyne lance <color=#FFFFFF>Attaque spéciale : Cocon de confinement – Première forme</color> ou <color=#FFFFFF>Attaque spéciale EX : Cocon de confinement – Forme finale</color>, l'effet <color=#FFFFFF>Attaché</color> se propage à tous les ennemis touchés par la compétence. Cet effet <color=#FFFFFF>Attaché</color> propagé dure 10 s.",
+                "Evelyn_Talent_01_Desc_02": "Cette lumière fuyante et floue était comme un rêve qu'elle avait façonné, un futur inaccessible. Il ne s'agissait pas de rédemption, mais de la volonté d'être libre.\n« C'est ce que tu veux, toi aussi, non ? Une vraie vie. » demanda un jour une de ses collègues à Évelyne.",
+                "Evelyn_Talent_01_Desc_01": "En entrant sur le champ de bataille, Évelyne obtient immédiatement 1 500 décibels. Les ennemis souffrant de <color=#FFFFFF>Ligotage</color> seront <color=#FFFFFF>Attachés</color>. Les attaques d'Évelyne ignorent 12 % de la DÉF des ennemis <color=#FFFFFF>Attachés</color>. Lorsque Évelyne lance <color=#FFFFFF>Attaque spéciale : Cocon de confinement – Première forme</color> ou <color=#FFFFFF>Attaque spéciale EX : Cocon de confinement – Forme finale</color>, l'effet <color=#FFFFFF>Attaché</color> se propage à tous les ennemis touchés par la compétence. Cet effet <color=#FFFFFF>Attaché</color> propagé dure 10 s.",
+                "Evelyn_Talent_01_Title_Realign": "Tisse-rêve"
+            },
+            {
+                "talent_id": "2",
+                "Evelyn_Talent_02_Title": "Danse de feu",
+                "Evelyn_Talent_02_Desc_01_Realign": "L'ATQ d'Évelyne augmente de 15 %.\nLorsque Évelyne lance <color=#FFFFFF>Attaque normale : Lacet étrangleur – Première forme</color> ou <color=#FFFFFF>Attaque normale : Lacet étrangleur – Deuxième forme</color>, les <color=#FFFFFF>Braises incandescentes</color> consommées seront remboursées. Cet effet peut être déclenché une fois toutes les 25 s.\nLorsque Évelyne consomme des points d'<color=#FFFFFF>Entrave brûlante</color> pour déclencher <color=#FFFFFF>Enchaînement : Lunalux – Collet</color>, le niveau d'interruption de la compétence augmente.",
+                "Evelyn_Talent_02_Desc_02": "« Pour moi, sa lumière était inhabituelle, elle représentait quelque chose que je devais éviter. Mais elle a brisé toutes mes barrières, comme si elle avait voulu me rappeler qu'au-delà des ténèbres, il y a des choses qui en valent la peine. »\nLorsque Évelyne raconte sa première rencontre avec Astra Yao, une douceur inhabituelle enveloppe sa voix.",
+                "Evelyn_Talent_02_Desc_01": "L'ATQ d'Évelyne augmente de 15 %. Lorsque Évelyne lance <color=#FFFFFF>Attaque normale : Lacet étrangleur – Première forme</color> ou <color=#FFFFFF>Attaque normale : Lacet étrangleur – Deuxième forme</color>, les <color=#FFFFFF>Braises incandescentes</color> consommées seront remboursées. Cet effet peut être déclenché une fois toutes les 25 s. Lorsque Évelyne consomme des points d'<color=#FFFFFF>Entrave brûlante</color> pour déclencher <color=#FFFFFF>Enchaînement : Lunalux – Collet</color>, le niveau d'interruption de la compétence augmente.",
+                "Evelyn_Talent_02_Title_Realign": "Danse de feu"
+            },
+            {
+                "talent_id": "3",
+                "Evelyn_Talent_03_Title": "Hors du cocon",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Evelyn_Talent_03_Desc_02": "À cet instant, elle se libère de ses contraintes et se montre telle qu'elle est vraiment. Les cordes tendues se rompent, et les chaînes se transforment en un cocon brisé. Évelyne est sur le point de renaître, et dans son regard froid et acéré, on peut déceler une faible lueur douce.",
+                "Evelyn_Talent_03_Title_Realign": "Hors du cocon"
+            },
+            {
+                "talent_id": "4",
+                "Evelyn_Talent_04_Title": "Mélodie du destin",
+                "Evelyn_Talent_04_Desc_01_Realign": "Après avoir lancé un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, Évelyne obtient immédiatement un bouclier équivalent à 10 % de ses PV max. Tant que ce bouclier est actif, les DGT CRIT d'Évelyne augmentent de 40 %.",
+                "Evelyn_Talent_04_Desc_02": "« Tu sais, Ève. À chaque fois que je rencontre quelqu'un qui compte pour moi, mon cœur fait \"boum-boum\" ! »\nÉvelyne soupire pour signifier que l'heure tourne, puis Astra attache en vitesse le dos de sa robe et part dans la précipitation.\nRestée seule dans la loge, Évelyne se murmure : « Boum-boum ».",
+                "Evelyn_Talent_04_Desc_01": "Après avoir lancé un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, Évelyne obtient immédiatement un bouclier équivalent à 10 % de ses PV max. Tant que ce bouclier est actif, les DGT CRIT d'Évelyne augmentent de 40 %.",
+                "Evelyn_Talent_04_Title_Realign": "Mélodie du destin"
+            },
+            {
+                "talent_id": "5",
+                "Evelyn_Talent_05_Title": "Des cordes rouges comme l'aube",
+                "Common_Talent_Desc": "Niv. d'<color=#FFFFFF>attaque normale</color>, d'<color=#FFFFFF>esquive</color>, de <color=#FFFFFF>soutien</color>, d'<color=#FFFFFF>attaque spéciale</color> et d'<color=#FFFFFF>enchaînement</color> +2",
+                "Evelyn_Talent_05_Desc_02": "Ses cordes, teintes en rouge comme les nuages à l'aube.\nAprès chacune de ses attaques, elle tourne avec élégance et répand des flammes semblables aux lueurs du matin. Les mots sont superflus. La protection d'Évelyne est comme une flamme brillante.",
+                "Evelyn_Talent_05_Title_Realign": "Des cordes rouges comme l'aube"
+            },
+            {
+                "talent_id": "6",
+                "Evelyn_Talent_06_Title": "Ombre et lumière entremêlées",
+                "Evelyn_Talent_06_Desc_01_Realign": "Lorsqu'elle lance son <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, Évelyne obtient l'effet <color=#FFFFFF>Corde ténébreuse</color> pendant 20 s.\nLorsque <color=#FFFFFF>Corde ténébreuse</color> est active, lorsque Évelyne touche des ennemis avec une <color=#FFFFFF>attaque normale</color>, une <color=#FFFFFF>attaque de bond</color>, une <color=#FFFFFF>attaque spéciale</color> ou une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>Lacet Lunalux</color> supplémentaire sera généré pour une attaque de suivi, infligeant des <color=#FF5521>DGT de feu</color> équivalents à 375 % de l'ATQ d'Évelyne. Ces DGT sont considérés comme des DGT d'<color=#FFFFFF>enchaînement</color> et peuvent être déclenchés 16 fois. Le nombre de déclenchements sera réinitialisé à chaque fois que vous obtenez l'effet <color=#FFFFFF>Corde ténébreuse</color>.",
+                "Evelyn_Talent_06_Desc_02": "Là où il y a de la lumière, il y aura toujours de l'ombre.\nElle se cache, silencieuse, suit le chemin de la lumière, protège chacun de ses éclats. L'ombre ne cherche jamais à voler le rayonnement de la lumière, mais à chaque tournant, elle remplit chaque coin que la lumière ne peut atteindre. Ce binôme n'a jamais été séparé, et ne peut pas l'âtre. La lumière n'est lumière que grâce à l'ombre, et l'ombre n'existe que grâce à la lumière. Il s'agit d'une poursuite éternelle, d'un lien indescriptible.",
+                "Evelyn_Talent_06_Desc_01": "Lorsqu'elle lance son <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, Évelyne obtient l'effet <color=#FFFFFF>Corde ténébreuse</color> pendant 20 s. Lorsque <color=#FFFFFF>Corde ténébreuse</color> est active, lorsque Évelyne touche des ennemis avec une <color=#FFFFFF>attaque normale</color>, une <color=#FFFFFF>attaque de bond</color>, une <color=#FFFFFF>attaque spéciale</color> ou une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>Lacet Lunalux</color> supplémentaire sera généré pour une attaque de suivi, infligeant des <color=#FF5521>DGT de feu</color> équivalents à 375 % de l'ATQ d'Évelyne. Ces DGT sont considérés comme des DGT d'<color=#FFFFFF>enchaînement</color> et peuvent être déclenchés 16 fois. Le nombre de déclenchements sera réinitialisé à chaque fois que vous obtenez l'effet <color=#FFFFFF>Corde ténébreuse</color>.",
+                "Evelyn_Talent_06_Title_Realign": "Ombre et lumière entremêlées"
+            }
+        ]
+    },
     "0": {
         "role_id": 0,
         "name": null,
