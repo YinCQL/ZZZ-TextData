@@ -23,14 +23,14 @@
     "1100006": {
         "item_id": 1100006,
         "item_name": "Efecto revitalizador",
-        "item_des": "El Aturdimiento de enemigos disminuye gradualmente. Aumenta la tasa de vulnerabilidad.",
+        "item_des": "El Aturdimiento de enemigos disminuye gradualmente. Aumenta la tasa de vulnerabilidad de Aturdimiento.",
         "item_story": "Una fina y extraña neblina de éter envuelve a los miembros del equipo. Parece que tiene un efecto revitalizador sobre los etéreos.",
         "item_type": "Curse"
     },
     "1100007": {
         "item_id": 1100007,
         "item_name": "Rechazo a la pelea",
-        "item_des": "Los agentes inactivos perderán energía gradualmente.",
+        "item_des": "Los personajes en reserva perderán Energía gradualmente.",
         "item_story": "Poco a poco comienzas a perder fuerzas. Ahora mismo solo lo consideras una medida de necesidad en situaciones de vida o muerte.",
         "item_type": "Curse"
     },
@@ -86,7 +86,7 @@
     "1100019": {
         "item_id": 1100019,
         "item_name": "Fatiga",
-        "item_des": "Al explorar el panel perderás PV. En combate, el agente activo perderá PV gradualmente.",
+        "item_des": "Al explorar el panel perderás PV. En combate, el personaje en el campo de batalla perderá PV gradualmente.",
         "item_story": "Como el aire, la corrupción del éter se infiltra en humanos y máquinas por igual.",
         "item_type": "Curse"
     },
@@ -100,7 +100,7 @@
     "1100021": {
         "item_id": 1100021,
         "item_name": "Megalofobia",
-        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 30 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al romper sus componentes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
+        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 30 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al dañar sus partes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
         "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
         "item_type": "Curse"
     },
@@ -212,21 +212,21 @@
     "11000212": {
         "item_id": 11000212,
         "item_name": "Megalofobia II",
-        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 40 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al romper sus componentes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
+        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 40 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al dañar sus partes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
         "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
         "item_type": "Curse"
     },
     "11000213": {
         "item_id": 11000213,
         "item_name": "Megalofobia III",
-        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 50 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al romper sus componentes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
+        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 50 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al dañar sus partes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
         "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
         "item_type": "Curse"
     },
     "11000214": {
         "item_id": 11000214,
         "item_name": "Megalofobia IV",
-        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 50 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al romper sus componentes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
+        "item_des": "El daño infligido por la amalgama corrupta <color=#CF4029>aumenta en un 50 %</color>. Al golpear a un agente <color=#CF4029>dejará de acumular Aturdimiento</color>, pero al dañar sus partes <color=#2BAD00>acumulará una gran cantidad de Aturdimiento</color>.",
         "item_story": "Al darte cuenta de tu insignificancia, tus pasos, antes ligeros, se han vuelto pesados y torpes. No encuentras el sentido de dar pelea.",
         "item_type": "Curse"
     },
@@ -254,14 +254,14 @@
     "11000281": {
         "item_id": 11000281,
         "item_name": "Rinitis alérgica I",
-        "item_des": "El daño que inflige Nínive <color=#CF4029>aumenta en un 40 %</color>. También <color=#CF4029>aumenta la frecuencia con la que invoca sus avispones</color>.\nAl explorar el panel perderás PV. En combate, el agente activo perderá PV gradualmente.",
+        "item_des": "El daño que inflige Nínive <color=#CF4029>aumenta en un 40 %</color>. También <color=#CF4029>aumenta la frecuencia con la que invoca sus avispones</color>.\nAl explorar el panel perderás PV. En combate, el personaje en el campo de batalla perderá PV gradualmente.",
         "item_story": "Es una floración que no puede ser vista con los simples ojos. Es una estructura que escapa de la comprensión humana e infunde temor y admiración con sus pétalos. En un descuido te encontrarás danzando en medio de sus flores encantadoras y letales. ¿Quién es esa persona que yace atónita en el suelo?",
         "item_type": "Curse"
     },
     "11000282": {
         "item_id": 11000282,
         "item_name": "Rinitis alérgica II",
-        "item_des": "El daño que inflige Nínive <color=#CF4029>aumenta en un 50 %</color>. También <color=#CF4029>aumenta la frecuencia con la que invoca sus avispones y con la que florece</color>.\nAl explorar el panel perderás PV. En combate, el agente activo perderá PV gradualmente.",
+        "item_des": "El daño que inflige Nínive <color=#CF4029>aumenta en un 50 %</color>. También <color=#CF4029>aumenta la frecuencia con la que invoca sus avispones y con la que florece</color>.\nAl explorar el panel perderás PV. En combate, el personaje en el campo de batalla perderá PV gradualmente.",
         "item_story": "Es una floración que no puede ser vista con los simples ojos. Es una estructura que escapa de la comprensión humana e infunde temor y admiración con sus pétalos. En un descuido te encontrarás danzando en medio de sus flores encantadoras y letales. ¿Quién es esa persona que yace atónita en el suelo?",
         "item_type": "Curse"
     },

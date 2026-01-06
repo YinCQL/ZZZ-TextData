@@ -115,7 +115,7 @@
         "20005": {
             "monster_id": 20005,
             "monster_name": "Arlaune",
-            "card_text": "Muitos saqueadores novatos que se deparam com um Arlaune pela primeira vez costumam ser ludibriados pela aparência dela, assumindo equivocadamente que se trata de uma planta inofensiva.\nMas, ao se aproximarem, descobrem que a Arlaune libera uma descarga concentrada de matéria Etérea, que surpreende suas vítimas.\n\"Hã? Eu tentei regá-la, e ela cuspiu em mim?\"",
+            "card_text": "Muitos saqueadores novatos que se deparam com um Arlaune pela primeira vez costumam ser ludibriados pela aparência dela, assumindo equivocadamente que se trata de uma planta inofensiva.\nMas, ao se aproximarem, descobrem que a Arlaune libera uma descarga concentrada de matéria etérea, que surpreende suas vítimas.\n\"Hã? Eu tentei regá-la, e ela cuspiu em mim?\"",
             "card_quote": "— Um grupo de investigadores novatos encurralados por uma Arlaune numa Esfera Negra",
             "skill_text": "Durante o combate, Arlaune executa ataques de longo alcance extremamente inteligentes. Entretanto, Desequilibrá-la enquanto suas pétalas estiverem abertas causará um acúmulo grande de Atordoamento com um só golpe."
         },
@@ -132,6 +132,13 @@
             "card_text": "Parece que as Vespas estão sempre por perto da Nínive. Alguns estudiosos acreditam que uma relação simbiótica foi formada e que, de uma certa forma, alcançaram um certo tipo de coordenação em grupo.\nConforme a energia da Nínive aumenta, revelando sua distinta postura de desabrochar oscilante, as Vespas entram em um estado de frenesi e atacam qualquer alvo móvel por perto.\n\"Ei, alguma coisa saiu voando daquela flor!\"\n\"Parece um... enxame de vespas?\"",
             "card_quote": "— Arquivo KU241 da Investigação da Esfera Zero. Gravação de voz da primeira observação registrada das Vespas.",
             "skill_text": "Na batalha, as Vespas ajudarão Nínive ao interromper e atacar os inimigos."
+        },
+        "20032": {
+            "monster_id": 20032,
+            "monster_name": "Ionizado — Pugnus",
+            "card_text": "Este ser ionizado não tenta esconder seus rastros na Esfera Negra, e o Pugnus causa temor através de cada um de seus espinhos. Coberto por uma couraça com espinhos afiados por sua coluna e cauda, seus braços são pinças enormes que não servem apenas como arma, mas também como tambores de guerra que golpeiam a terra para marcar seu território. O Pugnus costuma se fortalecer nas sombras, mas pode se lançar sobre suas presas de repente e usar todo seu peso junto com suas pinças para esmagar o alvo. Suas ondas de choque são poderosas o bastante para desequilibrar lutadores inexperientes, enquanto os escombros resultantes disso bloqueiam todas as rotas de fuga. Seu ritmo de ataque sugere que ele depende das vibrações para rastrear suas presas antes de executar um golpe poderoso e repentino para encerrar a luta. Curiosamente, alguns saqueadores que passaram anos lidando com o Pugnus desenvolveram uma técnica peculiar de \"exploração com passos leves\": \"Eu costumava perder o equilíbrio nos tremores, mas aí aprendi a andar mais rápido nas pontas dos pés, e agora sempre ganho nas corridas de pernas de pau nos festivais!\"",
+            "card_quote": "— Extraído de \"Contos das Esferas Negras\" compartilhado pelo suposto sucessor da \"técnica de exploração com passos leves\"",
+            "skill_text": "Em combate, o Sósia Ionizado — Pugnus tende a usar seus braços fortes para desferir golpes consecutivos de martelo, coordenando ataques com os espinhos em sua cabeça e sua cauda. Além disso, quando o Sósia Ionizado — Pugnus golpeia o chão, ele causa dano em uma área ampla."
         },
         "30000": {
             "monster_id": 30000,
@@ -175,6 +182,13 @@
             "card_quote": "— trecho da entrevista com um investigador sobrevivente na edição 251 de \"Histórias da Esfera Negra\"",
             "skill_text": "Durante o combate, as Marionetes Gêmeas efetuam inúmeros Ataques em Cadeia. Alguns dos seus ataques podem ser interrompidos usando várias Assistências Defensivas. Além disso, as gêmeas tentam se ressuscitar caso uma delas caia."
         },
+        "30013": {
+            "monster_id": 30013,
+            "monster_name": "Errante — Escorpefunto",
+            "card_text": "Nas terras desertas completamente consumidas pela Esfera Negra, ele dormia... até a chegada \"daquele poder\".\n\nEsse poder, altamente invasivo e contaminante, como um artesão habilidoso, porém malicioso, o preencheu novamente com energia sombria mais pura, transformando-o no atual \"Escorpefunto Miasmático\".\n\nGradualmente, ele parece ter aprendido o truque da \"existência\" através da imitação. Ele pode dividir sua energia de miasma, criando vários mímicos indistinguíveis do original.\nEsses mímicos possuem um poder ofensivo quase idêntico ao do original e atacam de diferentes ângulos com movimentos deslumbrantes para ocultar a única \"verdade\" fatal.\n\nQuando enfrentar seu cerco, lembre-se bem: tudo que você vê é ilusão. Tudo que você sente são armadilhas.\n\n\"Apenas eliminando todas as distrações e compreendendo a única 'verdade' é possível encontrar uma chance de sobrevivência nesta dança mortal de ilusões.\"",
+            "card_quote": "— Explorador Corajoso",
+            "skill_text": "Durante o combate, o Errante – Escorpefunto se esconde e usa Mímicos para atacar o jogador. Após ativar com sucesso a Assistência Defensiva ou a Contraesquiva contra os Mímicos, o Errante – Escorpefunto ficará derrubado e atordoado por um período. Ao entrar na Zona Contaminada, o Errante – Escorpefunto invocará mais Mímicos para realizar um Ataque Coordenado. Além disso, o Errante – Escorpefunto também cospe uma grande quantidade de veneno contendo ovos de Miasmático – Explodaranha, causando dano explosivo com vários golpes."
+        },
         "30017": {
             "monster_id": 30017,
             "monster_name": "Ionizado - Cyrtoidea",
@@ -203,17 +217,45 @@
             "card_quote": "— Confissão aos gritos de um integrante da gangue de saqueadores",
             "skill_text": "Durante o combate, Thracian realiza movimentos constantes para entrar num estado de carregamento. Nesse estado, seus ataques se tornam mais agressivos e, após alguns movimentos avançados, ele causa uma explosão em grande área."
         },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Minhoca Espinhosa",
+            "card_text": "O Éter é um parasita voraz e insaciável, uma criatura extremamente maligna que devora toda a vida outrora vibrante e animada.\nO protozoário espinhoso é uma encarnação ainda mais perversa do Éter — alojado em seus cruéis colegas, \"Tyrfing\" e \"Alpeca\", eles conseguem satisfazer seu insaciável apetite de forma ainda mais brutal nas Esferas Negras.\n\"Fique longe do meu rosto!\"",
+            "card_quote": "— Um ecologista especializado em Etéreos, percebendo que este é apenas um inseto que pula.",
+            "skill_text": "Em combate, a Minhoca Espinhosa continuará vagando, procurando Tyrfing e Alpeca para parasitar."
+        },
         "30029": {
             "monster_id": 30029,
             "monster_name": "Sósia Ionizado",
             "card_text": "Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
             "card_quote": "— Reclamação de um saqueador na Interlaço",
-            "skill_text": null
+            "skill_text": "Durante o combate, este inimigo usa movimentos idênticos aos do seu alvo de imitação."
+        },
+        "30031": {
+            "monster_id": 30031,
+            "monster_name": "Palici",
+            "card_text": "Etéreos ferozes que sempre aparecem em pares. São conhecidas pelas características físicas singulares. Há uma ligação profunda entre elas.\n\n\"Essa passou raspando! Não se concentre apenas em um alvo. Você precisa prestar atenção nos ataques furtivos das mulheres.\"\n\"Epa, para tudo. Como assim 'mulheres'? Passar tanto tempo na Esfera Negra está mexendo com seu cérebro ao ponto de você achar Etéreos atraentes?\"\n\"Cara, eu conheço Etéreos e mulheres. Eu juro que Palici são mulheres.\"\n\"Fala sério!\"\n\"Olhe bem para os cabelos longos e aquelas pernas! São gatas que vieram da 'linha de montagem'. Minha irmã que usa essa expressão.\"\n\"Falando nisso, como está sua irmã?\"\n\"Ela está bem melhor. Porém o dinheiro das despesas médicas do próximo mês terão que vir dessas belezuras Etéreas.\"\n\"Não é fácil ser um irmão mais velho, hein? Vamos fazer o seguinte: eu distraio Palici, e você me passa o número da sua irmã depois, beleza?\"\n\"Ah, tá! Vai sonhando.\"",
+            "card_quote": "— As últimas palavras de dois jovens saqueadores",
+            "skill_text": "Durante o combate, Palici luta com um misto de ataques de longo e curto alcance. Quando um do par morre, o outro entra em frenesi, e seus ataques ficam mais acelerados e agressivos."
+        },
+        "30032": {
+            "monster_id": 30032,
+            "monster_name": "Gepeto",
+            "card_text": "Como um dos Etéreos simbióticos mais temíveis da Esfera Zero, Gepeto costuma deixar uma impressão estranha para aqueles que o veem pela primeira vez.\nO corpo enorme e assustador contém uma energia Etérea intensa, mas ele se move com movimentos estranhos e imprevisíveis como uma marionete. Além de ser uma experiência traumatizante, encontrar-se com Gepeto na Esfera Zero costuma significar uma morte inevitável.\nUsando como referência os registros do Enxame de Etéreos Comensais, alguns pesquisadores sugerem que a carapaça gigante do Gepeto é apenas uma camuflagem e a verdadeira forma dele é o núcleo Etéreo com muita energia dentro da carapaça.\nInfelizmente, ainda não há registros de pesquisa desse núcleo misterioso.\n\"Eu nunca vi a personificação da morte, mas eu sei como uma marionete dele se parece.\"",
+            "card_quote": "— Trecho da entrevista especial com um investigador de elite da Esfera Zero em \"O Encontro\"",
+            "skill_text": "Durante o combate, Gepeto lança ataques de área usando seu corpo e energia etérea. Quando suas mãos e cauda sofrem bastante dano, elas são destruídas e ele fica paralisado. Gepeto consegue regenerar essas partes quando invoca Etéreos ou usa seu Véu de Sombra. Além disso, seu Véu de Sombra causa o estado de Fios de Seda a inimigos que o tocam, reduzindo sua capacidade de movimento e impedindo o uso de habilidades."
+        },
+        "30033": {
+            "monster_id": 30033,
+            "monster_name": "Sacerdote do Miasma",
+            "card_text": "As Esfera Negras são uma catástrofe desesperadora em Nova Eridu. Sempre que elas se expandem, o medo, a morte, a dor... todo o desespero invade a mente e muda o destino de milhares de cidadãos.\nO desastre teve início nas profundezas da Esfera Negra. Algumas pessoas ouviram um chamado estranho e, em meio ao desespero, viram um pouco de... esperança, e salvação.\nDesde então, eles obedeceram o misterioso chamado para formar uma organização secreta, e os Sacerdotes do Miasma se esconderam nas sombras de Eridu, espalhando suas bênçãos sobre aqueles que se perderam do caminho.\nOs Sacerdotes do Miasma creem que a expansão de uma Esfera Negra não é apenas um desastre natural.\nGeração após geração, estes sacerdotes perseguiram a verdade sem hesitar, esperando encontrar a verdade da maneira que desejavam... e que o chamado da Esfera Negra se tornasse realidade.\nNo entanto, sacrifícios são necessários neste processo e alguns problemas são inevitáveis. Ser alvos dos Caçadores do Vazio e de grandes organizações é um pequeno obstáculo no caminho para a verdade.\nDepois de muito esforço e tempo de preparação, os Sacerdotes do Miasma finalmente invocaram o chamado da Esfera Negra, permitindo que ele descesse sobre a terra de sua forma mais perfeita. O miasma que cobre e dança ao redor dos Sacerdotes do Miasma, uma substância que não deve ser tocada, se transformou em brilhantes armaduras e armas para eles.\nIsso é a prova final de que eles atingiram a bendição.\n\"Sua vontade finalmente recairá sobre o mundo.\"\n\"Sua tarefa é muito simples...\"\n\"Escutem, obedeçam... e aceitem sua bênção!\"",
+            "card_quote": "—Um Sacerdote do Miasma realizando um ritual",
+            "skill_text": "Durante o combate, o Sacerdote do Miasma alterna entre diferentes fases, e usa habilidades específicas para cada uma delas. Quando Agentes ativam uma Assistência Perfeita contra algumas das habilidades do Sacerdote do Miasma, Pontos de Assistência não serão consumidos. Após várias Assistências Defensivas ativadas em um curto período, o Sacerdote do Miasma entra num estado de Confusão Especial, e sofrem mais danos de ataques dos Agentes."
         },
         "35001": {
             "monster_id": 35001,
             "monster_name": "Nínive",
-            "card_text": "A aparência única e magnífica do enxame simbiótico Etéreo conhecido como Nínive faz com que seja \"difícil\" para as pessoas desconfiarem dele.\nDe acordo com os poucos registros de pesquisa disponíveis, à medida que o Nínive estende seu corpo, um Éter concentrado e potente flui em direção ao seu núcleo através de seu \"rizoma\", fornecendo um suprimento constante de energia. Alguns estudiosos especulam que esse comportamento é semelhante ao processo de fotossíntese em plantas.\nNo decorrer de seus movimentos ondulantes, um excesso de energia de Éter muito ativo é derramado de forma contínua. Quando esse acúmulo de Éter muito ativo está quase transbordando, ele se transforma, revelando sua verdadeira forma de \"floração\".\nE com essa floração vem a morte.\n\"A boa notícia é que ele não tem a intenção de fazer mal. Apenas quer absorver nutrientes para a fotossíntese. A má notícia é que... nós somos os nutrientes.\"",
+            "card_text": "A aparência única e magnífica do enxame simbiótico Etéreo conhecido como Nínive faz com que seja \"difícil\" para as pessoas desconfiarem dela.\nDe acordo com os poucos registros de pesquisa disponíveis, à medida que a Nínive estende seu corpo, um Éter concentrado e potente flui em direção ao seu núcleo através de seu \"rizoma\", fornecendo um suprimento constante de energia. Alguns estudiosos especulam que esse comportamento é semelhante ao processo de fotossíntese em plantas.\nNo decorrer de seus movimentos ondulantes, um excesso de energia de Éter muito ativo é derramado de forma contínua. Quando esse acúmulo de Éter muito ativo está quase transbordando, ela se transforma, revelando sua verdadeira forma de \"floração\".\nE com essa floração vem a morte.\n\"A boa notícia é que ela não tem a intenção de fazer mal. Apenas quer absorver nutrientes para a fotossíntese. A má notícia é que... nós somos os nutrientes.\"",
             "card_quote": "— Registro de Investigações K-411 da Esfera Zero da Força de Defesa",
             "skill_text": "Na batalha, Nínive usa ataques com grandes áreas de efeito, bombardeia oponentes com mísseis e invoca Vespas para ajudá-la."
         },
@@ -289,7 +331,7 @@
         },
         "100261": {
             "monster_id": 100261,
-            "monster_name": "Espectro - Energizado",
+            "monster_name": "Espectro — Energizado",
             "card_text": "Influenciados pela distinta decoração interna dos Edifícios Balé, os espectros apresentam uma estrutura grotesca e retorcida, como uma escultura artística.\nAlguns investigadores acreditam que sua forma única tem a finalidade de manter seu Núcleo de Éter mais protegido.\nOutros investigadores argumentam que isso não passa de um truque projetado para causar distração. Enquanto seus inimigos estão fascinados por sua postura peculiar, um espectro aproveitará a oportunidade para desferir ataques de longo alcance usando Éter concentrado.\n\"Olhei para estrutura bizarra e pensei: ele tá tentando jogar boliche com a própria cabeça?\"\n\"Mas, antes que eu percebesse, a bola de boliche já tinha esmagado a minha cara...\"",
             "card_quote": "— Publicado por um usuário anônimo na Interlaço",
             "skill_text": "Durante o combate, Espectro executa uma sequência de ataques de longo alcance."
@@ -331,10 +373,10 @@
         },
         "200014": {
             "monster_id": 200014,
-            "monster_name": "Hati - Notório",
+            "monster_name": "Hati - Notável",
             "card_text": "A Equipe de Investigação da Fase I da AIEN documentou oficialmente a existência desta criatura etérea consciente, que se assemelha a uma fera de quatro patas, e representa um perigo significativo.\nSegundo boatos, a primeira aparição ocorreu na Esfera Negra principal. Indivíduos que exploravam os resíduos próximos disseram ouvir rugidos ensurdecedores que lembravam os grunhidos de animais selvagens.\n\"Se eu jogar um graveto ou uma bola, será que aquele monstro vai pegar?\"\n\"Você pode tentar, mas eu não vou pagar sua conta do hospital.\"",
             "card_quote": "— Um bate-papo entre Billy e Nicole",
-            "skill_text": "Introdução de Habilidades de Monstro - Temporário"
+            "skill_text": "Durante o combate, Hati usa saltos ágeis e ataques rápidos com a garra."
         },
         "200015": {
             "monster_id": 200015,
@@ -359,10 +401,10 @@
         },
         "200034": {
             "monster_id": 200034,
-            "monster_name": "Hati Blindado - Notório",
+            "monster_name": "Hati Blindado - Notável",
             "card_text": "Muitos investigadores de Esferas Negras experientes consideram o Hati Blindado um adversário formidável.\nEmbora a carapaça blindada limite sua agilidade, sua capacidade defensiva é extraordinária.\nAlém disso, o material corrompido em seu corpo forma protuberâncias afiadas e resistentes, capazes de causar danos adicionais quando o Hati Blindado ataca em alta velocidade.\nOs movimentos ágeis, resistência a golpes e a armadura impenetrável dessa criatura obrigam até os exploradores mais experientes a buscar rotas alternativas para evitar confrontos diretos.\nAlguns Saqueadores de Esferas novatos tentaram atrair o Hati Blindado com comida de animais de estimação.\nObviamente, isso não funciona muito bem.\n\"Corra! Ele não gosta desse sabor de ração de cachorro!\"",
             "card_quote": "— Vários saqueadores de esfera novatos em pânico fugindo de um Hati numa Esfera Negra",
-            "skill_text": "Durante o combate, a armadura do Hati Blindado - Notório reduz bastante o dano e o Atordoamento recebidos, mas a Assistência Defensiva reduz muito da sua blindagem. Seu rugido também libera balas de Éter mais poderosas do que o normal."
+            "skill_text": "Durante o combate, a armadura do Hati Blindado - Notável reduz bastante o dano e o Atordoamento recebidos, mas a Assistência Defensiva reduz muito da sua blindagem. Seu rugido também libera balas de Éter mais poderosas do que o normal."
         },
         "200041": {
             "monster_id": 200041,
@@ -422,10 +464,10 @@
         },
         "300005": {
             "monster_id": 300005,
-            "monster_name": "Dullahan - Notório",
+            "monster_name": "Dullahan - Notável",
             "card_text": "Um poderoso humanoide de Éter vivo, inicialmente observado na Esfera Negra de Lagunópolis e documentado pela Terceira Equipe de Investigação da AIEN. Permanece incerta a correlação exata entre esses seres de Éter vivo e a queda da cidade ribeirinha conhecida como Blaise.\nDevido ao imenso poder e estilo de luta formidável, a AIEN os classificou como altamente perigosos e aconselha que investigadores novatos evitem confrontos diretos com eles.\n\"Não deixe que ele ative a espada, e se já tiver ativado... não deixe que te corte.\"",
             "card_quote": "— Trecho da entrevista com um investigador no programa de variedades \"Me Ensine, Senpai!\"",
-            "skill_text": "Durante o combate, Dullahan - Notório usa sua longa espada para avançar e executar um ataque de alto nível, que pode ser interrompido pelos seus próprios ataques de alto nível. Dullahan - Notório consegue bloquear ataques com seu escudo e combinar ataques logo após o bloqueio."
+            "skill_text": "Durante o combate, Dullahan - Notável usa sua longa espada para avançar e executar um ataque de alto nível, que pode ser interrompido pelos seus próprios ataques de alto nível. Dullahan - Notável consegue bloquear ataques com seu escudo e combinar ataques logo após o bloqueio."
         },
         "300011": {
             "monster_id": 300011,
@@ -443,10 +485,10 @@
         },
         "300015": {
             "monster_id": 300015,
-            "monster_name": "Tânatos - Notório",
+            "monster_name": "Tânatos - Notável",
             "card_text": "Explorar Esferas Negras pode ser mentalmente angustiante, e Tânatos, com sua habilidade singular de teletransporte e padrões de ataque imprevisíveis, tornou-se um desafio psicológico comum entre os saqueadores.\nMuitos indivíduos que enfrentaram Tânatos por conta própria na Esfera Negra perderam toda a coragem de continuar suas aventuras e optaram por se aposentar prematuramente.\nComo resultado, essas entidades elusivas se tornaram figuras recorrentes em filmes de terror.\n\"A sombra esguia desaparece diante de seus olhos e reaparece atrás de você...\"\n\"O que devo fazer? Agora estou com tanto medo que nem consigo ir ao banheiro sozinho...\"",
             "card_quote": "— Noite de estreia do filme de terror \"Etéreo Bate à Porta\", tópico de discussão em alta no site de críticas de cinema \"Ameixa Cúprica\"",
-            "skill_text": "Durante o combate, Tânatos - Notório se teletransporta para atacar a partir de ângulos diferentes do normal e é extremamente agressivo, mas seu acúmulo de Atordoamento ao usar Assistência Defensiva e Assistência Imediata também é muito alto."
+            "skill_text": "Durante o combate, Tânatos - Notável se teletransporta para atacar a partir de ângulos diferentes do normal e é extremamente agressivo, mas seu acúmulo de Atordoamento ao usar Assistência Defensiva e Assistência Imediata também é muito alto."
         },
         "300071": {
             "monster_id": 300071,
@@ -460,7 +502,7 @@
             "monster_name": "Notável - Carniceiro do Beco",
             "card_text": "Ao contrário de outros Etéreos altamente perigosos, o Éter dentro do corpo do Carniceiro do Beco costuma permanecer num estado dormente de baixa atividade.\nNo entanto, ele tem uma força bruta imensa capaz de demolir qualquer obstáculo, e toda a Zona do Metrô retorcida e devastada serve como sua cozinha proibida.\nApenas quando um alvo ameaçador desperta seu interesse é que ocorre uma transformação horripilante...\nEm instantes, a alta concentração de Éter armazenada em seu corpo sofre uma transformação violenta, e a energia que aumenta exponencialmente faz com que seus membros se distorçam muito rápido, assumindo uma postura de \"alimentação\" mais brutal e voraz.\nA hora dos \"aperitivos\" terminou, e um \"banquete\" inigualável está prestes a começar.\nQualquer um que não queira fazer parte deste banquete deve ser bastante cauteloso ao escolher o caminho e ficar longe da \"cozinha\" a todo custo.\n\"Os caminhos nas Esferas Negras são complexos, mas uma coisa é certa: quando ele aparece no final do caminho, esse caminho é um 'beco sem saída'.\"",
             "card_quote": "— 17ª Investigação da Esfera Sem Saída da Associação de Investigação de Esferas Negras",
-            "skill_text": "Durante o combate, o Carniceiro do Beco é capaz de usar a energia Etérea para lançar vários tipos de ataques à distância e distorcer o espaço para criar objetos simulados."
+            "skill_text": "Durante o combate, o Notável — Carniceiro do Beco pode usar energia etérea para lançar diversos tipos de ataque à distância. Ele pode entrar no estado de Fortalecimento Etéreo, que aumenta seu ATQ. Ele sai do estado de Fortalecimento Etéreo quando sofre Atordoamento."
         },
         "300121": {
             "monster_id": 300121,
@@ -468,6 +510,27 @@
             "card_text": "Décadas atrás, duas talentosas irmãs dançarinas ganharam fama da noite para o dia. Como uma estrela cadente, elas atraíram uma enorme base de fãs e realizaram uma apresentação magnífica no badalado Edifícios Balé.\nNo entanto, à medida que o show se aproximava do fim, o Desastre das Esferas Negras aconteceu, engolindo as Bailarinas Gêmeas e mergulhando elas na escuridão eterna. A notícia chocou inúmeras pessoas em todo o mundo.\nHoje, a maioria das pessoas só consegue vislumbrar sua dança comovente por meio de vídeos e imagens que sobreviveram para contar história.\nPoucos sabem que, quando a música daquela dança esquecida ecoa nos Edifícios Balé, as figuras etéreas das Bailarinas Gêmeas aparecem. Acredita-se que essas criaturas estejam ligadas às dançarinas gêmeas daquela fatídica apresentação, tentando executar o grand finale que nunca foram capazes de completar.\n\"Quando aquela música arrepiante chegou ao fim, as duas bailarinas emergiram da escuridão e fizeram uma reverência...\"\n\"Hum? Então... elas estão tentando dizer que o show começou?\"\n\"Não. Acho que o que elas estão tentando dizer é que... é tarde demais para fugir. É o nosso fim.\"",
             "card_quote": "— trecho da entrevista com um investigador sobrevivente na edição 251 de \"Histórias da Esfera Negra\"",
             "skill_text": "Durante a batalha, Notável - Marionete invoca sua parceira de dança para atacar. A cada vez que a parceira de dança é derrotada, sua próxima duração de Atordoamento aumenta."
+        },
+        "300301": {
+            "monster_id": 300301,
+            "monster_name": "Sósia — Executor Abismal",
+            "card_text": "Mesmo entre o tipo ionizado, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes e descobrisse meus medos mais profundos, se transformaria numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Durante o combate, o Sósia — Executor Abismal evita os inimigos e ativa a Visão Vital, seguido de um ataque vigoroso. Esta habilidade pode ser contra-atacada com Esquiva Perfeita ou Assistência Perfeita."
+        },
+        "300371": {
+            "monster_id": 300371,
+            "monster_name": "Sósia — Desertora",
+            "card_text": "Uma forma recriada nas profundezas sombrias da impureza de uma criatura que já havia sucumbido. Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Durante o combate, este inimigo usa habilidades idênticas às do alvo, executando ataques poderosos com lâminas e armas."
+        },
+        "300401": {
+            "monster_id": 300401,
+            "monster_name": "Sósia — Komano Manato",
+            "card_text": "Mesmo entre os Ionizados, famosos por suas qualidades bizarras, os Sósias Ionizados são ainda mais peculiares.\nEssas entidades são cobrem seus corpos com uma camada especial de íons de Éter ativos, e isso permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade com uma chinela na mão! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Durante o combate, o Sósia Ionizado do Manato lança ataques ferozes contra o jogador, que precisa se esforçar ao máximo para se defender de seus golpes. Realizar uma Assistência Defensiva contra alguns de seus ataques os interrompe, e realizar esta Assistência Defensiva contra seus golpes mais poderosos, pode enfraquecê-lo."
         },
         "930146": {
             "monster_id": 930146,
@@ -537,7 +600,7 @@
             "monster_name": "Arlaune",
             "card_text": "Um inimigo extremamente perigoso que utiliza <color=#D9A600>ataques de longo alcance</color>. Ao ser bloqueado, ele libera uma névoa venenosa, <color=#D9A600>causando Dano em todos os Bangboo próximos</color>. É recomendado usar <color=#D9A600>Bangboo Gentil</color> para lidar com ele.",
             "card_quote": null,
-            "skill_text": "PV: Muito Alto\nATQ: Médio\nDEF: 33\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+            "skill_text": "PV: Muito Alto\nATQ: Médio\nDEF: Médio\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
         },
         "930159": {
             "monster_id": 930159,
@@ -580,6 +643,62 @@
             "card_text": "A Explodaranha se move rapidamente e se explode perto dos Bangboos, causando dano a <color=#D9A600>a todos os Bangboos</color>. Utilize um <color=#D9A600>Papelboo</color>, que possui PB muito altos, para lidar com ela.",
             "card_quote": null,
             "skill_text": "PV: Baixo\nATQ: Baixo\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930166": {
+            "monster_id": 930166,
+            "monster_name": "Tepes",
+            "card_text": "Sob o perpétuo controle disfarçado de amor, a jovem não hesitou em mentir para as vítimas que haviam perdido seus entes queridos na Esfera Negra, para conseguir o afeto de sua família.\nEla pensava que, se ajudasse a esconder o segredo da poção da \"bênção\", se não pudesse ouvir os lamentos dolorosos das pessoas corrompidas e mantivesse o experimento secreto, o vínculo entre ela e sua família não seria quebrado.\nO que ela não esperava era testemunhar o último suspiro de sua irmã sobre uma poça de sangue.\n\nDepois disso, o ódio e a inveja perfuraram seu coração como espinhos afiados.\nAs engrenagens da vingança corroeram cada centímetro de sua sanidade, e ela passou a dedicar sua vida a um propósito obscuro a partir das notas deixadas por seu pai. Sua vida virou uma fábula sombria sobre a obsessão.\n\nQuando seus antigos companheiros tentaram lhe ajudar, a jovem já havia escolhido seu caminho. As palavras ditas para tentar convencê-la foram todas reduzidas a inveja, obsessão e ódio, penetrando até os ossos.\nFinalmente, quando o sol estava prestes a se pôr, incontáveis espinhos surgiram a partir de seus ossos e empalaram seu corpo com os gritos de uma das pessoas abandonadas.\nTepes foi conduzido pelo ódio dos espinhos até o abismo mais profundo.\n\"Especialmente à noite, sua voz é mais estridente do que a dos outros Etéreos, e, se você ouvir com atenção, a voz soa como um choro feminino...\"",
+            "card_quote": "— Anotações feitas por um pesquisador do Instituto Estrela Branca após cuidadosa análise da gravação.",
+            "skill_text": "Durante a batalha, Tepes usa martelos espinhosos em ambas as mãos para executar ataques poderosos e causar um efeito de redução de danos. Se os ataques de Tepes foram bloqueados várias vezes com Assistência Defensiva, seus martelos são danificados. Com os martelos danificados, Tepes revela pontos fracos, perde o efeito de redução de danos e fica mais vulnerável a Atordoamento."
+        },
+        "930168": {
+            "monster_id": 930168,
+            "monster_name": "Banyrek",
+            "card_text": "Nos relatórios da Associação de Investigação de Esferas Negras, o Banyrek foi marcado várias vezes como \"perigoso\", principalmente porque ele, simplesmente, salta demais.\nSe uma olimpíada etérea existisse na Esfera Negra, ele certamente ganharia todas as medalhas de salto em altura e distância. De acordo com os registros de observação, o Banyrek pode saltar continuamente durante várias horas sem mostrar sinais de cansaço, como se o ar e o solo fossem sua pista natural.\nUm investigador brincou dizendo que, se um dia o colocassem em Nova Eridu, provavelmente demoraria menos de um dia para ele saltar do oeste até o leste da cidade.\n\n\"E se tentássemos domesticá-lo como montaria?\"\n\"Melhor não, com toda essa energia explosiva dele, provavelmente seria mais rentável usá-lo para gerar eletricidade.\"",
+            "card_quote": "— Trecho de uma conversa com um saqueador que fugiu, encharcado de suor, de uma Esfera Negra após um encontro direto com o Banyrek",
+            "skill_text": "Durante o combate, Banyrek usa uma técnica de expelir para gerar Lago de Miasma no solo, absorvendo ativamente o Lago de Miasma para fortalecer seus próprios ataques. Além disso, suas técnicas possuem forte capacidade de Corrupção Miasmática, e alguns dos seus ataques, ao atingirem o Lago de Miasma, podem fazê-lo explodir."
+        },
+        "930169": {
+            "monster_id": 930169,
+            "monster_name": "Devorador do Miasma - Avarus",
+            "card_text": "Nos relatórios da Associação de Investigação de Esferas Negras, Avarus é frequentemente chamado de encarnação do \"Pecado da Gula\". Seu corpo barrigudo lembra, de qualquer ângulo, um preguiçoso sempre prestes a dormir.\nMas não o subestime. De acordo com os registros de observação, Avarus pode encolher seu corpo em forma de bola e lançar ataques violentos contra alvos em velocidades surpreendentes.\nQuanto a como ele mantém aquela forma redonda mesmo com tanta atividade física intensa, a Associação ainda não chegou a uma conclusão.\n\n\"Quando ele rola, sempre me lembra meu hamster, só que um pouco maior.\"\n\"Muito maior, na verdade...\"",
+            "card_quote": "— Diário de observação de um investigador de Esferas Negras, extraído de uma conversa casual entre dois observadores",
+            "skill_text": "Durante o combate, o Corroedor de Miasma Avarus usará seu corpo enorme para realizar ataques rolantes. Se você usar Assistência Defensiva para contra-atacar esse movimento 3 vezes seguidas, seu ataque rolante será interrompido e ele ficará vulnerável. Após sofrer uma certa quantidade de dano durante o combate, ele ativará a Zona Contaminada."
+        },
+        "930171": {
+            "monster_id": 930171,
+            "monster_name": "Caranguejo Pescador",
+            "card_text": "Alimentando-se principalmente de investigadores novatos, saqueadores iniciantes e aventureiros gananciosos e imprudentes, o Caranguejo Pescador é o caçador mais paciente da Esfera Negra.\nAntes de se jogar na caixa de suprimentos de Esfera Negra, garanta que não se tornará piada no jantar de seus amigos essa noite... nem notícia no obituário de amanhã.\n\n\"Mimico? Você anda jogando muito RPG de mesa?\"",
+            "card_quote": "—Registro de áudio fornecido por um investigador iniciante, durante o processo de indenização por acidente de trabalho.",
+            "skill_text": "Durante o combate, o Caranguejo Pescador se move rapidamente de lado, usando suas pinças para lançar ataques ferozes, e se protegendo com sua casca resistente. Após sofrer ataques intensos, o Caranguejo Pescador entra em modo defensivo. Quando protegido pela casca, ele sai do modo defensivo após um período e lança um Contra-Ataque poderoso. Se não está protegido pela casca e sofrer ataques várias vezes, o Caranguejo Pescador é derrotado e entra em estado de paralisia."
+        },
+        "930172": {
+            "monster_id": 930172,
+            "monster_name": "Huskron",
+            "card_text": "O Huskron, com suas duas formas distintas antes e depois da eclosão, tem causado problemas tanto para novos investigadores quanto para veteranos. A Associação de Investigação de Esferas Negras oferece o seguinte conselho: fique sempre atento ao miasma ao seu redor! Se você encontrar uma estrutura semelhante a uma rocha esférica, ataque imediatamente! Não hesite! Não hesite!\nSegundo fontes bem informadas, o aviso não tinha originalmente essa repetição no final, até que alguns investigadores de Esferas Negras tentaram, mesmo após ler o aviso, passar ao lado do Huskron. Essa tática foi tão ineficaz quanto tentar abrir silenciosamente a geladeira à noite sem acordar o cachorro da casa.\n\n\"Eu gosto mais da forma dele antes de eclodir, todo redondinho e rolante.\"\n\"É por isso que você não o atacou logo...?\"",
+            "card_quote": "—Um diálogo entre Anne e Bessa, duas investigadoras aprendizes que acabaram de escapar com vida da Esfera Negra",
+            "skill_text": "Durante o combate, o Huskron age com cautela e, quando atacado pelo jogador, assume uma postura defensiva e lança poderosos contra-ataques. Se você conseguir realizar uma Assistência Defensiva contra esses contra-ataques, ele ficará atordoado."
+        },
+        "930173": {
+            "monster_id": 930173,
+            "monster_name": "Errante do Miasma — Arcavor",
+            "card_text": "A cabeça brilhante como coral do Arcavor sempre chama a atenção dos novos saqueadores à primeira vista. Muitos ficam hipnotizados sem perceber, olhando fixamente em transe, sem saber que o perigo está apenas começando.\nAproveitando a distração do oponente, o Arcavor ergue elegantemente suas pernas longas, assumindo uma pose geométrica digna de um prodígio circense. A Associação de Investigação de Esferas Negras até descreve em seus registros que sua postura é como a de uma bailarina rodopiando sobre o gelo.\nNo entanto, os avisos da Associação são bem claros: quando você o vir assumindo essa pose, é melhor rolar, pular ou recuar imediatamente, pois ele está mirando para dar um golpe fatal.\n\n\"Falando sério, será que esse cara não errou de profissão? Ele poderia ser um bailarino, uma estrela do circo, até mesmo um patinador artístico e faria o maior sucesso! Mas não, tinha que ficar na Esfera Negra atacando as pessoas...\"",
+            "card_quote": "— Fórum \"Planeta do Desastre\", mensagem deixada por um saqueador que sofreu bastante após um \"golpe artístico\"",
+            "skill_text": "Durante o combate, o Errante Arcavor continuará atirando à distância; após ser derrubado pela primeira vez, ele se levantará novamente se entrar em contato com o Lago de Miasma."
+        },
+        "930178": {
+            "monster_id": 930178,
+            "monster_name": "Miasmático — Thracian",
+            "card_text": "Uma criatura já corrompida, remodelada nas profundezas obscuras da impureza.\n\nNomeado em homenagem à raça de guerreiros lendários da antiga civilização, acredita-se que este Etéreo cruel seja a incorporação de valentes heróis e vilões insanos corrompidos pelo Éter.\nMas isso não é verdade. Seus músculos esculpidos pela Esfera Negra e os montantes de adrenalina liberados antes de sua morte são um percalço para seus antigos companheiros... porém, isso não será um problema para eles. Afinal de contas, esse velho amigo já não tem salvação.\nMas quem se importa? Quando a bela face se transforma na sombria orbe negra, sua reputação social será o que menos vai te importar.\n\"Por isso que ele é o chefe. Mesmo virando Etéreo, ele ainda é formidável!\"\n\"Eu sabia que tinha algo de errado quando percebi que ele era rato de academia!\"",
+            "card_quote": "— Confissão aos gritos de um integrante da gangue de saqueadores",
+            "skill_text": "Durante o combate, este inimigo irá ativar Zona Contaminada em momentos específicos, lançando imediatamente um poderoso ataque de área ampla e aprimorando seus próprios golpes durante sua duração."
+        },
+        "940001": {
+            "monster_id": 940001,
+            "monster_name": "Huskron",
+            "card_text": "Quando Huskron é bloqueado, sua <color=#D9A600>DEF aumenta significativamente</color>. Derrote-o antes que isso aconteça!",
+            "card_quote": null,
+            "skill_text": "PV: Baixo\nATQ: Médio\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#31CC00>Baixo</color>"
         }
     },
     "Bandidos": {
@@ -621,7 +740,7 @@
         "20017": {
             "monster_id": 20017,
             "monster_name": "Capanga Corpulento",
-            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nSendo entusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de esfera, investigadores de esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancada\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
+            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nSendo entusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de esfera, investigadores de esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancadas\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
             "card_quote": "— O Billy está lidando com uns capangas que se aproximaram dele na Esfera",
             "skill_text": "Durante o combate, o Bandido de Esfera - Capanga Corpulento usa ambos os punhos para socar, enquanto usa ágeis passadas laterais para alternar o ângulo de ataque."
         },
@@ -705,25 +824,102 @@
         "200171": {
             "monster_id": 200171,
             "monster_name": "Capanga Procurado",
-            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nSendo entusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de esfera, investigadores de esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancada\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
+            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nSendo entusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de esfera, investigadores de esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancadas\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
             "card_quote": "— O Billy está lidando com uns capangas que se aproximaram dele na Esfera",
             "skill_text": "Durante o combate, o Bandido de Esfera - Capanga Procurado usa ambos os punhos para socar, enquanto usa ágeis passadas laterais para alternar o ângulo de ataque."
         },
         "200172": {
             "monster_id": 200172,
             "monster_name": "Arruaceiro - Capanga Procurado",
-            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nEntusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de Esfera, investigadores de Esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancada\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
+            "card_text": "Há um consenso no submundo de Nova Eridu de que os lutadores mais formidáveis não são os campeões do ringue, mas sim os Capangas Corpulentos e os Capangas Procurados que se escondem nas profundezas da Esfera Negra. Esses valentões profissionais são contratados a preços altos por ladrões de Éter para proteger seus recursos escavados ilegalmente.\nEntusiastas fervorosos de boxe, os Capangas Corpulentos transformaram armas de choque de alta voltagem em luvas de boxe, aumentando o poder destrutivo dos seus socos.\nPara eles, Etéreos, saqueadores de Esfera, investigadores de Esferas e até membros dispersos do DSP, não são vistos como oponentes, mas meramente como \"sacos de pancadas\" para entretenimento.\n\"Espera um pouco! Acho que já vi a postura de luta desse cara no fliperama da Rua Quatro!\"",
             "card_quote": "— Billy lidando com a aproximação de um Capanga Corpulento numa Esfera Negra",
             "skill_text": "Durante o combate, o Arruaceiro — Capanga Procurado é extremamente agressivo e usa passos laterais ágeis para alternar o ângulo de ataque."
+        },
+        "940002": {
+            "monster_id": 940002,
+            "monster_name": "Lenhadora",
+            "card_text": "A Lenhadora é um inimigo altamente perigoso. Ao mesmo tempo em que causa <color=#D9A600>muito dano a um único alvo</color>, também lança um ataque que causa <color=#D9A600>dano em uma grande área de efeito</color> ao redor de si mesma. Mantenha distância!",
+            "card_quote": null,
+            "skill_text": "PV: Muito Alto\nATQ: Alto\nDEF: Alto\nVelocidade de Movimento: Médio\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+        },
+        "940003": {
+            "monster_id": 940003,
+            "monster_name": "Guerreiro Bruto",
+            "card_text": "O Guerreiro Bruto é um inimigo altamente perigoso. Ele pode causar <color=#D9A600>dano muito alto</color> aos alvos, então ao usar o Papelboo para bloqueá-lo, não deixe de enviar o Bangboo Gentil para garantir a segurança do <color=#D9A600>Papelboo</color>!",
+            "card_quote": null,
+            "skill_text": "PV: Muito Alto\nATQ: Muito Alto\nDEF: Alto\nVelocidade de Movimento: Médio\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
         }
     },
     "Corrompido": {
+        "10017": {
+            "monster_id": 10017,
+            "monster_name": "Miasmática — Explodaranha",
+            "card_text": "Uma criatura já corrompida, remodelada nas profundezas da escuridão impura.\n\nA Explodaranha Miasmática está coberta de vermelho escarlate, mas ainda não se livrou do estigma de \"Baixa Ameaça\", pois sua velocidade de movimento e área de explosão não mudaram muito...\n\nNo entanto, a AIEN emitiu vários avisos, alertando os investigadores para terem extrema cautela com a névoa de miasma liberada após sua explosão. Se inalada acidentalmente, um breve momento de desorientação é suficiente para que até mesmo um investigador de elite pereça na Esfera Negra em constante mudança.\n\n\"A equipe vermelha está pronta! A equipe verde está vindo em nossa direção...\"",
+            "card_quote": "— Durante a coleta de histórias de terror, Lúcia está brincando de fazer a Explodaranha lutar com grilos",
+            "skill_text": "Após ser corrompida pelo miasma, a Explodaranha Miasmática se torna extremamente instável e, após sua autodestruição, deixa resíduos de miasma que podem causar novas explosões. Ao usar uma Assistência Defensiva no momento certo contra o seu salto pode redirecionar a explosão ao seu favor."
+        },
         "10021": {
             "monster_id": 10021,
             "monster_name": "Drone Corvo",
             "card_text": "Condição Desconhecida",
             "card_quote": "Nenhum",
             "skill_text": "Introdução de Habilidades de Monstro - Temporário"
+        },
+        "10033": {
+            "monster_id": 10033,
+            "monster_name": "Soldado Miasmático — Guardião",
+            "card_text": "Um soldado Etéreo formado a partir do miasma, portando uma enorme lâmina corruptora por miasma e protegido por um escudo quase impenetrável. Por instinto, ele protege outros Soldados Miasmáticos enquanto avança.\nSeu tamanho imenso e amplo alcance de defesa o tornam formidável em posicionamento tático, principalmente em grupos, quando ele se torna ainda mais difícil de derrotar.\nA Associação de Investigação de Esferas Negras recomenda eliminá-lo rapidamente enquanto ainda estiver sozinho.\n\"Um Etéreo com a função de proteger os demais? Isso sim é incomum...\"\n\"Não subestime os Etéreos. Lembre-se, o que quer que esteja por trás dessas criaturas não é humano!\"",
+            "card_quote": "— Dois investigadores trocando informações discretamente.",
+            "skill_text": "Durante o combate, o Soldado Miasmático — Guardião usa seu escudo para sofrer menos dano e Atordoamento, e para contra-atacar."
+        },
+        "10034": {
+            "monster_id": 10034,
+            "monster_name": "Soldado Miasmático — Artilheiro",
+            "card_text": "Os soldados Etéreos, formados a partir do miasma, usam uniformes desgastados e vagam em meio à fumaça da batalha, como fantasmas do passado.\nDados de observação de Esferas Negras mostram que os Artilheiro podem atingir alvos próximos com precisão impressionante usando suas bazucas; um nível de precisão que sugere um rigoroso treinamento, o que gerou especulações.\n\"Será que esses Etéreos altamente organizados recém-descobertos têm alguma ligação com a Força de Defesa?\"\n\"Desculpe. Nenhuma informação pode ser confirmada até o fim da investigação.\"",
+            "card_quote": "— Resposta oficial de um porta-voz da Força de Defesa.",
+            "skill_text": "Durante o combate, o Soldado Miasmático — Artilheiro fornece cobertura pesada à distância. Além disso, algumas de suas habilidades causam Corrupção Miasmática."
+        },
+        "20011": {
+            "monster_id": 20011,
+            "monster_name": "Miamático — Huskron",
+            "card_text": "Uma criação em decadência, forjada novamente nas profundezas de uma impureza sombria.\nAo adentrar o território da besta adormecida e aterrorizante, é preciso estar preparado para enfrentar o pesadelo carmesim, pois ele não se contenta mais com jogos de esconde-esconde.\nSaqueadores presunçosos tentam provocá-lo, induzindo-o a expor seu núcleo profundamente enterrado. Mesmo assim, até os caçadores habilidosos frequentemente aparecem na forma de presa, e baixar a guarda quando a fraqueza do inimigo se revela é muitas vezes a falha mais fatal de um novato.\n\"Parem de me chamar de burro, minha cabeça realmente ficou presa nas pinças de um Etéreo...\"",
+            "card_quote": "— Investigador estagiário resmungando ao ser repreendido pelo seu mentor.",
+            "skill_text": "Durante a batalha, o Devorador do Miasma Huskron foi corrompido pelo miasma, ganhando um físico mais forte e habilidades de ataque mais ferozes. Usar a Assistência Defensiva no momento certo pode efetivamente neutralizar seus ataques violentos."
+        },
+        "20016": {
+            "monster_id": 20016,
+            "monster_name": "Miasmático — Andarilho Ligeiro",
+            "card_text": "O meca de suporte de fogo principal que sucumbiu na Esfera Negra teve seus algoritmos táticos completamente corrompidos, marcando todas as formas de vida à vista como ameaças de alto risco e disparando indiscriminadamente.\n\nAbandonando a defesa em favor do ataque, este meca possui mobilidade extrema, sendo difícil de acertar e especialista em perseguição.\n\nSe você tiver o azar de ser marcado por ele, é melhor rezar para que haja uma fissura espacial por perto, caso contrário, é praticamente impossível escapar.\n\n\"Se eu pudesse voltar ao colegial, jamais teria desperdiçado os treinos do clube de atletismo.\"",
+            "card_quote": "— Do diário de uma saqueadora que escreveu com a mão tremendo",
+            "skill_text": "Durante o combate, o Miasmático — Andarilho Ligeiro invoca dois drones para ajudar. Quando está em campo ao mesmo tempo que o Miasmático — Golpeador Pesado, o Miasmático — Andarilho Ligeiro realiza um Ataque Coordenado com ele. Além disso, quando o Miasmático — Golpeador Pesado está prestes a morrer, devido à interferência do sinal de combate coordenado, o Miasmático — Andarilho Ligeiro salta em direção ao objetivo e rouba seu núcleo de dados de combate, obtendo assim parte das peças de Escudo e habilidades do Miasmático — Golpeador Pesado e ativando uma pequena Zona Contaminada."
+        },
+        "20018": {
+            "monster_id": 20018,
+            "monster_name": "Miasmático — Golpeador Pesado",
+            "card_text": "Os mecas táticos autônomos que sucumbiram na Esfera Negra, após serem corrompidos, tornaram-se ainda mais letais, podendo esmagar goblins com facilidade.\n\nOs escudos que antes protegiam os soldados dos golpes pesados, os companheiros mais confiáveis da Força de Defesa, agora se transformaram em terríveis máquinas de matar.\n\n\"Se você tiver coragem suficiente, ajude nossos antigos amigos mais confiáveis a encontrarem o fim, limpando tanto seus pecados quanto sua glória.\"",
+            "card_quote": "— Mensagem de despedida de um meca de guerra grisalho em sua aposentadoria",
+            "skill_text": "Durante o combate, quando o Miasmático — Golpeador Pesado ativa seu Escudo, ele cria uma pequena Zona Contaminada. Quando está em campo ao mesmo tempo que o Miasmático — Andarilho Ligeiro, o Miasmático — Golpeador Pesado realiza um Ataque Coordenado com ele. Além disso, quando o Miasmático — Andarilho Ligeiro está prestes a morrer, o Miasmático — Golpeador Pesado, devido à interferência do sinal de combate coordenado, salta em direção ao alvo, tomando seu núcleo de dados de combate e obtendo assim os drones e as habilidades do Miasmático — Andarilho Ligeiro, comandando depois os drones para lutar ao seu lado."
+        },
+        "20026": {
+            "monster_id": 20026,
+            "monster_name": "Miasmático — Brigão Frenético",
+            "card_text": "Uma criação já decaída, que foi recriada da mais profunda e sombria impureza.\nAlmas desafortunadas silenciadas pela corrupção intensa da matéria Etérea das Esferas Negras. Como a entidade original apresentava um certo grau de afinidade com o Éter, a transformação não foi totalmente concluída, e algumas características humanoides foram preservadas, mas com membros mutantes aprimorados, que tornam esses seres ainda mais perigosos.\nA julgar pelos restos de roupas e experiência de combate, provavelmente tenham sido membros experientes de gangues ou saqueadores que se escondiam nas Esferas Negras.\nDevido à fisiologia aprimorada ou à afinidade com a Matéria Etérea, esses sujeitos corrompidos desenvolveram habilidades formidáveis de combate corpo a corpo, e são ainda mais ameaçadores do que os monstros comuns encontrados na Esfera Negra.\n\"As armas deles parecem bem chiques... Mas parecem que foram algum tipo de brinde.\"",
+            "card_quote": "— Análise de Anby sobre uma certa operação com as Lebres Astutas.",
+            "skill_text": "Durante o combate, o Brigão Frenético Miasmático usa sua especialidade de invisibilidade para lançar ataques surpresa. Quando está com o Miasmático — Trinox, ele executa uma Esquiva Perfeita contra os ataques do jogador, e conecta um Ataque Coordenado com o Miasmático — Trinox. Além disso, quando um deles morre, o outro entra num estado de fúria."
+        },
+        "20027": {
+            "monster_id": 20027,
+            "monster_name": "Miasmático — Trinox",
+            "card_text": "Uma criação já decaída, que foi recriada da mais profunda e sombria impureza.\n\nA Associação de Investigação de Esferas Negras tem estudado as características de alteração corporal dos Etéreos.\n\nO trinox tem uma cabeça de estrutura triangular, que parece ter sido deliberadamente projetada dessa maneira. Por isso, ele está ente os três Estéreos mais pesquisados.\nJá houve até rumores de que alguns matemáticos se disfarçaram de investigadores para entrar na Esfera Negra e poder ver o trinox pessoalmente.\n\nOs resultados mais recentes da pesquisa foram publicados na edição de fevereiro da \"Enciclopédia da Esfera Negra\", volume 28. Segundo os assinantes, o artigo discutiu apenas o significado estético da cabeça do trinox.\n\nEm resposta, leitores interessados no assunto ficaram insatisfeitos e deram péssimas avaliações ao artigo no site da revista, que chegou a apenas 34% de aprovação.\n\n\"As medidas da cabeça do trinox se aproximam da proporção áurea clássica!\"\n\n\"Estamos lutando contra Etéreos, não julgando um concurso de beleza, professor.\"",
+            "card_quote": "— Entrevista do programa \"Show de Durham\", episódio 79º, conversa entre o apresentador Durham e o matemático Isaac, que ficou manco após entrar na Esfera Negra.",
+            "skill_text": "Durante o combate, o Miasmático — Trinox tem especialidade de deflexão, que utiliza para resistir a danos e executar um contra-ataque após o bloqueio. Quando está em campo com o Brigão Frenético Miasmático, Trinox lidera a dupla num Ataque Coordenado. Além disso, quando um deles morre, o outro entra num estado de fúria."
+        },
+        "20031": {
+            "monster_id": 20031,
+            "monster_name": "Miasmático — Valentão Furioso",
+            "card_text": "Uma criatura condenada, reforjada na corrupção e nas sombras. Seu traço mais característico é um par de braços grotescos, a encarnação da fúria perversa. Mais espessos que uma geladeira, são cobertos por queratina densa que se molda em martelos naturais. Especialistas da Associação de Investigação de Esferas Negras especulam que esse desenvolvimento anômalo é resultado da amplificação grotesca de um corpo original acostumado a trabalho ou levantamento de peso.\nRelatos indicam que a criatura, informalmente chamada de 'Setor de Demolição da Esfera Negra', esmaga concreto reforçado e arremessa veículos a dezenas de metros. Diz-se que, em sua fúria, ela derrubou ruínas inteiras em menos de um minuto, mas sua massa corporal a fez ficar presa em um corredor estreito, facilitando sua captura para pesquisa.\n\n\"Quando ela atinge o chão, até os ecos da Esfera Negra estremecem. Corra rápido, ou você não evitará uma queda-de-braço.\"",
+            "card_quote": "— Um investigador convicto de que sua paciência lhe trouxe boa sorte",
+            "skill_text": "O Miasmático — Valentão Furioso ataca com um machado gigante e uma espingarda. Os ataques com o machado podem gerar Poças de Miasma no chão, e esses ataques podem causar o efeito de Corrupção Miasmática no jogador."
         },
         "30009": {
             "monster_id": 30009,
@@ -738,6 +934,34 @@
             "card_text": "Ele ganhou o título de \"Soberano Pompey\" na zona externa.\nAgora, sua alma encontra-se corrompida pela potência do Éter e seu corpo poluído pelo enxofre e o petróleo cru. Seu coração, que batia apenas para proteger a zona externa, se transformou num núcleo de Éter crítico com um poder infinito.\nO antigo senhor da zona externa renasceu das chamas e assumiu uma forma diferente.\nLiberdade, majestade... violência, insanidade.\nEle ataca através da poeira e das chamas, agarrando tudo o que se move e destruindo-os sem pena.\nAqueles que o conheciam antes disso, interpretaram seus sussurros fragmentados e acham que ele não deseja vingança, apenas quer destruir os forasteiros que desafiam as leis da zona externa.\nTalvez seja o último vestígio das vontades do Soberano Pompey.\n\"Nosso líder se transformou 'nisso', mas... ainda parece que ele é a mesma pessoa.\"",
             "card_quote": "— Um ex-capanga dos Aniquiladores tremendo de medo",
             "skill_text": "Durante o combate, Soberano Pompey ataca com uma combinação de moto e armas suspensas. Se ele sofrer uma Assistência Defensiva durante um ataque, sua fraqueza ficará exposta. Após sofrer determinada quantidade de dano, ele entra numa segunda fase, em que alterna entre a roda traseira da motocicleta e a espada longa para atacar. A roda traseira de sua motocicleta acumula energia etérea e pode levar à explosão de uma grande área."
+        },
+        "30034": {
+            "monster_id": 30034,
+            "monster_name": "Demônio Miasmático — Incompreensível",
+            "card_text": "Um monstro forjado a partir do miasma e das memórias de uma mística: cada memória assustadora e dolorosa estão agora seladas nesta forma caótica.\nNo fim das contas, não passa de uma imitação que jamais terá coragem suficiente para se impor nem determinação suficiente para desaparecer sem deixar rastros. Mesmo assim, para quem o criou, isso bastava. Como um mero peão, essas memórias repletas de sofrimento servem como um combustível, o bastante para deixar a Esfera Negra de ponta-cabeça e expor todos os segredos ao mundo.\nPortanto, impulsionado por memórias que não lhe pertencem, o miasma que o originou o tornou inquieto, os Etéreos ao redor o encheram de ódio e, até mesmo enquanto espreita seu próprio território, ele está sempre apreensivo.\nApenas uma vez, quando perseguiu um humano até a fronteira da Esfera Negra e viu o pavor em seu rosto, foi que seu instinto de caça foi sobreposto por um impulso estranho e inesperado. Ele parou de repente. E quando aquela pobre pessoa desapareceu de seu campo de visão, ele sentiu algo diferente: uma emoção quase semelhante à satisfação.\nMas essa sensação de satisfação não durou muito. Um grupo de humanos de armadura preta começaram a invadir seu território repetidamente, indiferentes a qualquer ameaça. Lentamente, a inquietação e a exaustão levaram a melhor, até que seu único desejo era ver tudo que se mexia desaparecer. Desaparecer! DESAPARECER!!!\n...\n\"... Isso... acaba... aqui...\"\nQue estranho, que voz é essa?\n\"Está profundamente conectado... Quem atou o nó deve ser a pessoa a desatá-lo!\"\nMemórias há muito manchadas pela loucura vêm à tona. Sim... sim! Era esse o som, o que ecoou eternamente em sua mente. Embora o instinto o ordenasse atacar, seu corpo hesitou. Seu olhar seguiu o brilho do cabelo prateado, tão parecido com o seu, desesperado para ver se a voz pertencia à pessoa que continuamente aparecia em suas memórias. Distraído, o monstro sofreu um golpe certeiro em seu núcleo por trás, a dor intensa quase fazendo-o quebrar. Mesmo assim, ele ouviu aquele leve sussurro: \"Eu sinto muito, mas é necessário...\"\nEmbora aquelas palavras não fizessem sentido para o monstro, aquela sensação quase satisfatória retornou. Ele se tornou consciente de que ele estava na mira de algo verdadeiramente assustador. Poderia causar sua morte... Mas o monstro não tinha a menor intenção de fugir.\nNo fim, sua força se esgotou completamente. Porém, no último instante, o monstro finalmente pôde vê-la com clareza. Ela não era mais a mesma de suas memórias, e essa breve percepção lhe trouxe um resquício de solidão. Mesmo assim, o monstro gostou mais de seu eu atual do que dos gritos dilaceradores de antes.\n\n\"O 'Demônio Miasmático'... Hmm, embora os subordinados do Ferox o tenham chamado assim, a natureza vil e fantasmagórica dessa criatura certamente faz jus ao nome. Vamos registrá-lo assim. O que você acha, mestra Yixuan?\"\n\"Já ouviu aquele ditado antigo? 'Nomes incompreensíveis ainda são apenas nomes'. Um nome é apenas um nome, qualquer coisa que os lábios possam pronunciar serve.\"",
+            "card_quote": "— Uma conversa entre Yixuan e um investigador responsável por nomear o Demônio Miasmático",
+            "skill_text": "Durante o combate, o Demônio Miasmático — Incompreensível aprimora sua arma e lança ataques poderosos e indefensáveis. Incompreensível salta para uma área elevada e ativa a Zona Contaminada, consumindo Escudo Miasmático para realizar múltiplos ataques. Atraia seus ataques para detonar as Poças de Miasma e evite que ele as absorva, impedindo que recupere o Escudo Miasmático. Quando ele retornar ao campo, afaste-se rapidamente para evitar seu mortal Golpe Final."
+        },
+        "30036": {
+            "monster_id": 30036,
+            "monster_name": "Miasmático — Terrornis",
+            "card_text": "Uma forma recriada nas profundezas sombrias da impureza.\nUm Mecautômato veterano vitorioso em muitas batalhas, o Terrornis se tornou a ferramenta de guerra mais confiável de Nova Eridu graças à sua capacidade de supressão absoluta. O design original era simples e direto, combinava perfeitamente o poder de combate corpo-a-corpo com uma capacidade ofensiva à distância. Cada um dos seus ataques é extremamente destrutivo e ele possui vários sistemas de lançamento de mísseis, além de uma metralhadora que permite atacar alvos à distância com precisão. Seja saltando para cima do inimigo, disparando mísseis explosivos ou se recolhendo rapidamente no ar para disparar uma salva de balas, o Terrornis pode responder a qualquer situação no campo de batalha. Seus inimigos têm dificuldade para contra-atacar e o Terrornis é o rei absoluto do campo de batalha. Quando ele aparece, não é apenas força que os inimigos enfrentam, mas também terror.",
+            "card_quote": "— \"Batalha da Antiga Capital: A Verdade e a Memória\"",
+            "skill_text": "Durante o combate, o Terrornis Miasmático repele os inimigos com várias armas de longo alcance, enquanto seus seis drones furtivos fornecem cobertura pesada periodicamente.\nQuando ele disparar cápsulas de miasma especiais, você pode usar a Assistência Defensiva para bloquear e devolvê-las, paralisando o Terrornis temporariamente. Em certos momentos do combate, a Zona Contaminada será ativada, fazendo com que o Terrornis execute principalmente ataques corpo a corpo enquanto seus seis drones atacam em intervalos regulares. Cuidado: muitas das habilidades do Terrornis e dos ataques dos drones causam Corrupção Miasmática forte."
+        },
+        "30039": {
+            "monster_id": 30039,
+            "monster_name": "Hayuz",
+            "card_text": "Um esqueleto magro e sinistro, carregando uma \"capa\" pálida e pontiaguda — mais uma obra-prima da Sociedade da Exaltação. Em \"100 Maneiras de Integrar Humanos à Esfera Negra\", vê-se que o ímpeto de conduzir experimentos não tem limites.\n\nTodos que já viram um Hayuz acreditam que eles devem ser membros em posições elevadas na Sociedade da Exaltação, afinal continuam arrebanhando seguidores, mesmo depois de virarem Etéreos.\n\n\"Eu odeio esse tipo de gente!\"\n\n\"Será que eles também dizem a suas criações que estão desapontados, que elas poderiam ser melhor, e que eles tinham expectativas mais altas para elas?!\"",
+            "card_quote": "— Em uma madrugada comum de hora extra, o funcionário furioso do DOE bate violentamente no esqueleto de um Hayuz e grita.",
+            "skill_text": "Durante o combate, Hayuz usa Invocações para enganar os oponentes e lançar ataques surpresa. Após entrar em uma Zona Contaminada, o hayuz pode chamar Invocações ainda maiores para atacar com ele. Bloqueie os ataques das invocações para enfraquecer o Escudo Miasmático durante este tempo."
+        },
+        "30041": {
+            "monster_id": 30041,
+            "monster_name": "Caçador Errante",
+            "card_text": "Um ser corrompido com vasta experiência em combate, movimentos ágeis e equilíbrio entre habilidades de ataque e defesa. Especialista em se esconder e lançar ataques altamente eficientes mirando os pontos fracos do alvo.\n\nEu devia ter registrado mais sobre seus padrões comportamentais, sobre a canção que o acompanha como uma sombra, e assim por diante... Mas está bom assim, vou encerrar os registros por aqui, assim como o retrato inacabado no livro da Lúcia.\n\n\"Estrelinha, um! Estrelinha, dois! Conto até três, onde estão vocês?\"",
+            "card_quote": "— Investigadores \"atormentados\" pelos dados do Caçador Errante na simulação se pegam cantarolando canções infantis enquanto fazem suas tarefas domésticas",
+            "skill_text": "Durante o combate, o Caçador Errante tem uma DEF extremamente alta. Algumas de suas habilidades de longo alcance podem gerar Poças de Miasma no chão, que geram e disparam lâminas errantes. Além disso, quando o Caçador Errante ativa uma Poça de Miasma, ele se esconde e acumula força. Quando os jogadores usam a técnica de Percepção para revelar o Onírico da Lúcia, o Caçador Errante se revela e realiza uma emboscada. Uma Assistência Defensiva bem-sucedida pode interromper sua ação, provocando o estado de Debilitação e reduzindo seu escudo miasmático. Se o Onírico da Lúcia não é identificado a tempo, ou é identificado incorretamente, o Caçador Errante lança uma habilidade imbatível, e aumenta a contaminação por miasma da equipe ao nível máximo."
         },
         "100211": {
             "monster_id": 100211,
@@ -756,7 +980,7 @@
         "100281": {
             "monster_id": 100281,
             "monster_name": "Saqueador Avarento",
-            "card_text": "Este humanoide inteligente é resultado da potente corrupção de matéria Etérea nas Esferas Negras, exibindo características humanoides, vestígios da antiga vestimenta e o mesmo estilo de combate. Em algum momento, é provável que tenha sido membro de uma gangue ou algum saqueador que vivia na Esfera Negra.\nAs características físicas da criatura indicam seu passado como especialista em armas de longo alcance. Apesar de perder a vida e a vontade própria devido à Eterealização, ela retém seus instintos e hábitos para combate de longo alcance. Sua forma corrompida permite lançar projéteis, atacando inimigos à distância. A corrupção do Éter aprimorou suas habilidades de tiro e o poder de fogo dos projéteis. (Por exemplo, essas criaturas podem disparar cristais de Éter afiados ou explosivos mistos.)\n\"Eu avisei pra não encostar naquele cristal, mas ele não quis me ouvir! Aquele idiota imprudente nunca me dá ouvidos! Quando tinha dado a hora de sairmos da Esfera Negra, ele estava... diferente...\"",
+            "card_text": "Este humanoide inteligente é resultado da potente corrupção de matéria etérea nas Esferas Negras, exibindo características humanoides, vestígios da antiga vestimenta e o mesmo estilo de combate. Em algum momento, é provável que tenha sido membro de uma gangue ou algum saqueador que vivia na Esfera Negra.\nAs características físicas da criatura indicam seu passado como especialista em armas de longo alcance. Apesar de perder a vida e a vontade própria devido à Eterealização, ela retém seus instintos e hábitos para combate de longo alcance. Sua forma corrompida permite lançar projéteis, atacando inimigos à distância. A corrupção do Éter aprimorou suas habilidades de tiro e o poder de fogo dos projéteis. (Por exemplo, essas criaturas podem disparar cristais de Éter afiados ou explosivos mistos.)\n\"Eu avisei pra não encostar naquele cristal, mas ele não quis me ouvir! Aquele idiota imprudente nunca me dá ouvidos! Quando tinha dado a hora de sairmos da Esfera Negra, ele estava... diferente...\"",
             "card_quote": "— Registro de uma Interrogação na filial do Departamento de Segurança Pública no distrito Faunus",
             "skill_text": "Durante o combate, o Bandido Corrompido - Saqueador Avarento executa ataques de longo alcance que são difíceis de detectar."
         },
@@ -783,10 +1007,10 @@
         },
         "300211": {
             "monster_id": 300211,
-            "monster_name": "Notório - Pompey",
+            "monster_name": "Pompey - Notável",
             "card_text": "Ele ganhou o título de \"Soberano Pompey\" na zona externa.\nAgora, sua alma encontra-se corrompida pela potência do Éter e seu corpo poluído pelo enxofre e o petróleo cru. Seu coração, que batia apenas para proteger a zona externa, se transformou num núcleo de Éter crítico com um poder infinito.\nO antigo senhor da zona externa renasceu das chamas e assumiu uma forma diferente.\nLiberdade, majestade... violência, insanidade.\nEle ataca através da poeira e das chamas, agarrando tudo o que se move e destruindo-os sem pena.\nAqueles que o conheciam antes disso, interpretaram seus sussurros fragmentados e acham que ele não deseja vingança, apenas quer destruir os forasteiros que desafiam as leis da zona externa.\nTalvez seja o último vestígio das vontades do Soberano Pompey.\n\"Nosso líder se transformou 'nisso', mas... ainda parece que ele é a mesma pessoa.\"",
             "card_quote": "— Um ex-capanga dos Aniquiladores, tremendo de medo",
-            "skill_text": "Em combate, os ataques de Pompey - Notório deixam uma energia de Éter instável no solo. Quando os inimigos se aproximam dela, ou quando ele lança um Ataque Carregado, a energia de Éter explode violentamente. Quando necessário, ele levanta sua arma para bloquear. Ao bloquear com sucesso, ele executa um Contra-Ataque imediatamente."
+            "skill_text": "Em combate, os ataques de Pompey - Notável deixam uma energia de Éter instável no solo. Quando os inimigos se aproximam dela, ou quando ele lança um Ataque Carregado, a energia de Éter explode violentamente. Quando necessário, ele levanta sua arma para bloquear. Ao bloquear com sucesso, ele executa um Contra-Ataque imediatamente."
         },
         "930155": {
             "monster_id": 930155,
@@ -808,6 +1032,41 @@
             "card_text": "O Golpeador cruel <color=#FFAF2C>tem muitos PV</color>. Concentre seus ataques nele.",
             "card_quote": null,
             "skill_text": "PV: Alto\nATQ: Médio\nVelocidade de Movimento: Lenta\nNível de Ameaça: <color=#FFAF2C>Médio</color>"
+        },
+        "930167": {
+            "monster_id": 930167,
+            "monster_name": "Arautos da Chama",
+            "card_text": "Um sacerdote de alto escalão da Sociedade da Exaltação que ocupa o cargo de \"Portador do Fogo\" e possui a habilidade de manipular o miasma. Sua força profana destrói a energia vital, enquanto as chamas iluminam o caminho.\n\nEmbora todos os fanáticos da Sociedade da Exaltação gritem ou murmurem slogans vagos como \"Moldagem\" e \"Origem\" ao te atacar, são poucos os que, como este, podem realmente fazer você experimentar na pele o gosto da \"moldagem\" com o fogo do miasma.\n\n\"Eles vêm correndo em nossa direção gritando coisas como 'Moldagem', 'Criador' e 'Purificação'!\"",
+            "card_quote": "—Membro da Força-Tarefa ainda Esferas Negras da AIEN",
+            "skill_text": "Durante o combate, os Arautos da Chama possuem habilidades com Corrupção Miasmática e usam técnicas de aspersão para criar um Lago de Miasma no solo. Além disso, os Arautos da Chama podem invocar Huskrons do Lago de Miasma e comandá-los para realizar ataques de investida."
+        },
+        "930174": {
+            "monster_id": 930174,
+            "monster_name": "Exaltador Hímnico",
+            "card_text": "Um canto inquietante frequentemente ecoava pela Esfera Negra. Os mineiros veteranos proibiam estritamente qualquer um de se aproximar da fonte, mas Johnny, o novato, não deu importância. Por causa de uma aposta tola, ele se esgueirou silenciosamente em direção à origem do som. Finalmente, chegou a uma clareira. Lá, um grupo de pessoas usando uniformes idênticos e máscaras sinistras formava um círculo, realizando algum tipo de ritual misterioso, enquanto um grupo de Etéreos se aproximava lentamente ao redor deles. Johnny tentou alertá-los em voz alta, esperando que evacuassem. No entanto, eles o ignoraram, e foram os Etéreos que, atraídos por sua voz, avançaram em sua direção...\n\n\"Certamente vamos reforçar a disciplina entre os mineiros. Que Deus abençoe a alma do Johnny.\"",
+            "card_quote": "— Entrevista concedida pelo velho minerador Sally ao Jornal Nova Capital após o desaparecimento do Johnny",
+            "skill_text": "Durante o combate, os Exaltadores Hímnicos provocam uma forte explosão que afeta amigos e inimigos quando são ameaçados."
+        },
+        "940004": {
+            "monster_id": 940004,
+            "monster_name": "Arautos da Chama",
+            "card_text": "O Arauto da Chama é um inimigo altamente perigoso, especialista em causar <color=#D9A600>dano em uma grande área de efeito</color>. Envie a <color=#D9A600>Senhorita Esme</color> estrategicamente para proteger a todos!",
+            "card_quote": null,
+            "skill_text": "PV: Muito Alto\nATQ: Alto\nDEF: Alto\nVelocidade de Movimento: Médio\nNível de Ameaça: <color=#FF3333>Muito Alto</color>"
+        },
+        "990167": {
+            "monster_id": 990167,
+            "monster_name": "Discípulo do Portador do Fogo",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "990174": {
+            "monster_id": 990174,
+            "monster_name": "Exaltador Onírico",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         }
     },
     "Departamento de Segurança Pública": {
@@ -988,6 +1247,13 @@
             "card_quote": "— Comentário na página Mundo da Lua do Fórum Planeta do Desastre",
             "skill_text": "Durante o combate, o Atirador de Assalto alterna entre o uso de canhões de laser e granadas de fragmentação para executar ataques de longo alcance contínuos."
         },
+        "200092": {
+            "monster_id": 200092,
+            "monster_name": "Bombardeiro Especialista",
+            "card_text": "Uma unidade de infantaria pesada pertencente à Força de Defesa de Nova Eridu.\nEquipados com a armadura de combate pesada \"rinoceronte cinzento\", juntamente com um arsenal completo aprimorado pela tecnologia de Éter, eles são capazes de manter um poder de fogo de alta intensidade por um período prolongado quando há munição suficiente disponível. Eles atuam como o núcleo de assalto de uma equipe de combate e costumam ser empregados na linha de frente em operações de ataque e desobstrução.\nApós a queda da antiga capital, muitos soldados deixaram o exército e se juntaram a facções civis. Desde então, esses atiradores de elite têm surgido sob várias bandeiras, incluindo exércitos privados de plutocratas, novas empresas de segurança e até bandos errantes de bandidos...\n\"Estou convencido de que esses atiradores pesados são secretamente garotinhas adoráveis que, de alguma forma, conseguem esconder toda essa munição nos bolsos extras de seus trajes de combate. Digo, de que outro jeito é possível explicar o estoque interminável de munições?\"",
+            "card_quote": "— Comentário na página Mundo da Lua do fórum Planeta do Desastre",
+            "skill_text": "Durante o combate, o Bombardeiro Especialista mistura artes marciais com armas variadas para combater seus inimigos. Quando ele entra no estado de Agressão, alguns de seus movimentos são adicionados de chamas, para ataques ainda mais ferozes. Causar dano o bastante durante o estado de Agressão pode destruir seus equipamentos e enfraquecê-lo."
+        },
         "300021": {
             "monster_id": 300021,
             "monster_name": "Guardião Modelo II",
@@ -1025,6 +1291,55 @@
             "card_quote": "— Membros da Casa das Lebres Astutas perseguindo desesperadamente um Bangboo Dourado em uma Esfera Negra",
             "skill_text": "Às vezes, durante o combate, o Bangboo Dourado pode contra-atacar."
         },
+        "10032": {
+            "monster_id": 10032,
+            "monster_name": "Criatura do Miasma",
+            "card_text": "Como monstros que ainda mantêm uma silhueta humana após serem injetados com o soro do Sacrifício, embora o Porcelume tenha temporariamente suprimido seus corpos, as distorções em sua superfície ainda são insuportáveis de se olhar.\n\nOs relatórios experimentais da Associação de Investigação de Esferas Negras indicam que, uma vez removido o Porcelume de seus corpos, essas pobres formas humanoides perdem o controle instantaneamente, deteriorando-se rapidamente em formas ainda mais horrendas.\n\nPortanto, embora pareçam se mover lentamente, a Associação nunca recomenda qualquer tentativa de aproximação ou \"redenção\", a menos que você esteja confiante em dar um golpe fatal antes que enlouqueçam.\n\n\"Olhe para aquelas protuberâncias nas suas costas, como mochilas que nunca podem ser removidas... como uma espécie de mochileiro maligno, sempre pronto para partir em outra jornada.\"",
+            "card_quote": "— Edição semanal da revista Planeta do Desastre, por Crusoé, colaborador especial",
+            "skill_text": "Durante o combate, a Criatura do Miasma invoca uma poeira explosiva ao redor do jogador. Essa poeira detona em pouco tempo. A estratégia mais prudente é sair rapidamente da nuvem de poeira."
+        },
+        "19999": {
+            "monster_id": 19999,
+            "monster_name": "Carta de Inimigo Aleatória",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "20028": {
+            "monster_id": 20028,
+            "monster_name": "Guardião da Ordem",
+            "card_text": "Uma unidade tática de segurança civil que foi replicada pela Tifão Segurança, com inspiração nos oficiais do DSP. Seus aspectos técnicos e poder de fogo foram ajustados o bastante para evitar auditorias e violações de direitos autorais.\n\nNo entanto, esses ajustes não diminuíram a capacidade de combate deles. Sem limite de orçamento para a fabricação, optaram por utilizar materiais mais resistentes e caros, e melhoraram tanto sua usabilidade, quanto sua durabilidade.\n\nQuando foram lançados ao público, esses equipamentos foram muito buscados por diversas empresas comerciais.\n\n\"Olá, o Guardião da Ordem está feliz em servi-lo. Por favor, selecione o modo de patrulha desejado...\"\n\"Hã... você está dizendo que ele tem mais de cem modos predefinidos?!\"",
+            "card_quote": "— Na exposição, um comprador indeciso não aguenta mais e começa a lamentar",
+            "skill_text": "Durante o combate, a Unidade Tática de Segurança — Guardião da Ordem, usa seu escudo para reduzir o dano e o Atordoamento sofridos enquanto espera para contra-atacar."
+        },
+        "20029": {
+            "monster_id": 20029,
+            "monster_name": "Patrulheiro Leve",
+            "card_text": "As unidades de segurança produzidas em massa pela Tifão Segurança têm sido amplamente utilizadas no setor civil. As vantagens são inúmeras, incluindo baixo custo, versatilidade, um revolucionário sistema de equilíbrio dinâmico de roda única e um núcleo integrado de identificação de ameaças inteligente, que tornam as unidades adequadas para a garantia da segurança em diversos espaços complexos.\n\n\"Esta unidade tática de segurança passou por 47 testes rigorosos, foi implementada com sucesso em áreas centrais de 32 parques industriais, e os clientes indicam uma redução média de 91% em incidentes de invasão ilegal. Acredite, você certamente pode usá-la para qualquer trabalho de segurança que possa imaginar.\"",
+            "card_quote": "—O representante de vendas da Tifão Segurança fala com eloquência",
+            "skill_text": "Durante o combate, a Unidade Tática de Segurança — Patrulheiro Leve usa a motosserra em seu braço para realizar um Ataque Rápido."
+        },
+        "20030": {
+            "monster_id": 20030,
+            "monster_name": "Patrulheiro Intermediário",
+            "card_text": "Uma das Unidades Táticas que a Tifão Segurança produz em massa, com base nos mecas de combate modificados do DSP. Se comparada aos mecas originais, sua força ofensiva foi reduzida, e ela depende de seu enorme escudo para conter grupos que apresentam pouco risco, como agitadores e vândalos. Ela é usada especialmente para manter a ordem e orientar multidões em grandes eventos e outras ocasiões especiais.\nConsta que algumas dessas unidades foram adquiridas e modificadas ilegalmente por criminosos, dando origem ao modelo clandestino Unidade de Apoio Ilegal —Limpador Furioso.\nHouve até quem comentasse dando uma estrela no site oficial da empresa:\n\"A qualidade disso é pior que os mecas que encontrei na sucata da Esfera Negra.\"\nA empresa respondeu que \"modificações ilegais não têm qualquer relação com a companhia, e são de responsabilidade do usuário\". Disseram também que lutariam até o fim contra este tipo de avaliação negativa... ou melhor, de conduta criminosa.",
+            "card_quote": "—Porta-voz da Tifão Segurança",
+            "skill_text": "Durante o combate, a Unidade Tática de Segurança — Patrulheiro Intermediário usa seus longos braços para realizar um ataque giratório. É possível bloqueá-lo usando uma Assistência Defensiva antes que ele ataque."
+        },
+        "29999": {
+            "monster_id": 29999,
+            "monster_name": "Carta de Inimigo Aleatória",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30003": {
+            "monster_id": 30003,
+            "monster_name": "Lockspring",
+            "card_text": "No início da criação dos Bangboos, a Dama da Alvorada teve uma grandiosa visão: criar um Bangboo altamente inteligente, capaz de julgar e executar comandos de \"proteção\" para ajudar a humanidade contra as ameaças das Esferas Negras.\n\nE o Lockspring, com o número de GU-0001, foi a primeira criação desse grande plano.\n\nEle recebeu os módulos táticos mais avançados, os sistemas de armas mais poderosos e... um coração puro programado com a ordem suprema de \"proteger a humanidade\".\n\nNo entanto, durante o desastre infernal da queda da antiga capital, ele testemunhou pela primeira vez a escuridão irremediável que se escondia nas almas dos humanos que ele deveria proteger. Ele viu as pessoas se traírem e se matarem para sobreviver e viu como seus usuários de confiança o forçaram a apontar suas armas para outros humanos indefesos.\n\nOs nobres ideais gravados no código de seu núcleo entrou em conflito com a feia realidade da forma mais cruel.\n\nNesse momento, ele finalmente compreendeu que os maiores inimigos da humanidade nunca foram os monstros externos... mas os intermináveis conflitos e desejos da própria humanidade.\n\n\"Os humanos são mesmo adoráveis. Ainda que sempre cometam os mesmos erros...\"\n\n\"Mas tudo bem, eu os perdoo.\"\n\n\"E... vou ajudar a corrigir tudo com as minhas próprias mãos.\"",
+            "card_quote": "— Lockspring",
+            "skill_text": "Durante o combate, Lockspring usa suas armas para atacar o jogador. Alguns de seus ataques são extremamente poderosos e, mesmo que você consiga realizar uma Assistência Defensiva contra esses golpes, a Assistência Imediata não pode ser ativada devido ao forte impacto, e Lockspring pode responder com uma provocação."
+        },
         "30004": {
             "monster_id": 30004,
             "monster_name": "Gretel",
@@ -1060,19 +1375,75 @@
             "card_quote": "— Grito de Bringer, saído da alma.",
             "skill_text": "Em combate, Sacrifício - Bringer conta com diferentes armas para lançar um conjunto de ataques de longo alcance e corpo a corpo. Além disso, ele conta com poderosas invocações que podem ajudá-lo na batalha. Após sofrer uma certa quantidade de dano, ele entrará na segunda fase, onde executará mais ataques de alto nível combinados com uma intensa sequência de disparos. Causar dano suficiente enquanto ele carrega sua Lâmina do Sacrifício interromperá a carga e o deixará exposto."
         },
-        "30025": {
-            "monster_id": 30025,
-            "monster_name": "Minhoca Espinhosa",
-            "card_text": "O Éter é um parasita voraz e insaciável, uma criatura extremamente maligna que devora toda a vida outrora vibrante e animada.\nO protozoário espinhoso é uma encarnação ainda mais perversa do Éter — alojado em seus cruéis colegas, \"Tyrfing\" e \"Alpeca\", eles conseguem satisfazer seu insaciável apetite de forma ainda mais brutal nas Esferas Negras.\n\"Fique longe do meu rosto!\"",
-            "card_quote": "— Um ecologista especializado em Etéreos, percebendo que este é apenas um inseto que pula.",
-            "skill_text": "Em combate, a Minhoca Espinhosa continuará vagando, procurando Tyrfing e Alpeca para parasitar."
-        },
         "30028": {
             "monster_id": 30028,
             "monster_name": "Guarda de Operações Especiais",
             "card_text": "O Guarda de Operações Especiais parece ser um guarda comum, mas não se engane, na verdade ele possui várias habilidades especiais. Os deveres de um Guarda de Operações Especiais não se limitam a ficar de guarda na porta. Eles também devem estar prontos para intervir caso de um cliente beba demais ou para manter a compostura em uma situação em que um ladrão está tentando roubar o estabelecimento. Seu trabalho não é combater o crime, mas sim \"impedir que o crime ocorra, proteger seus clientes e manter a discrição\". Para eles, a arma mais poderosa é a aparência intimidadora, e a maior sorte é ter nada para fazer. Afinal, um Guarda de Operações Especiais excepcional nunca se revelará. Somente quando o problema for resolvido, as pessoas finalmente perceberão sua presença: \"Ninguém pode vencer alguém que sempre se mantém firme\".",
             "card_quote": "— Um guia de operações para oficiais, escrito por um veterano.",
             "skill_text": "Durante o combate, o Guarda de Operações Especiais usa diferentes armas para atacar e, se necessário, coopera com seus companheiros."
+        },
+        "30030": {
+            "monster_id": 30030,
+            "monster_name": "Executor Abismal",
+            "card_text": "Líder da organização de ladrões Sabiá. Além de ser um mestre em disfarces, enganação e técnicas de furto, ele também tem um estilo de combate imprevisível. A grande foice que usa parece existir apenas para colher a \"injustiça\" do mundo. A maleta que carrega é ainda mais misteriosa, pois nela estão os utensílios e as armas mortais necessários para cometer crimes. As ações dele são renomadas pelo perigo e pela imprevisibilidade.",
+            "card_quote": null,
+            "skill_text": "Durante o combate, o Executor Abismal evita os inimigos e ativa a Visão Vital, seguido de um ataque vigoroso. Esta habilidade pode ser contra-atacada com Esquiva Perfeita ou Assistência Perfeita."
+        },
+        "30035": {
+            "monster_id": 30035,
+            "monster_name": "Sacrifício - Tirano Tolo",
+            "card_text": "Suas flutuações peculiares de energia revelam sua identidade: uma criação da Sociedade da Exaltação, a fonte de muitos pesadelos.\nUm caçador temível, ele espreita suas presas em total silêncio. Ainda assim, há momentos em que ele age como uma criança agitada brincando de esconde-esconde, incapaz de conter seus risos travessos. Talvez o miasma que o gerou carregue muitos ecos de almas perdidas, o que torna o monstro errático e confuso.\n\"Se brincar é um privilégio de seres inteligentes, então o que ele imita não passa de uma paródia quebrada e vazia; não há aplausos, apenas derramamento de sangue.\"",
+            "card_quote": "— Um e-mail enviado a um psiquiatra por um investigador de laboratório (aposentado) vítima de um ataque",
+            "skill_text": "Durante o combate, o Sacrifício — Tirano Tolo sobe aos céus para lançar \"Lâminas Velozes\" e ativar a Zona Contaminada. Use Assistência Defensiva no momento exato do ataque para contra-atacar \"Lâminas Velozes\". Ao executar um contra-ataque com sucesso o faz cair e entrar em estado de Enfraquecimento por um certo tempo."
+        },
+        "30037": {
+            "monster_id": 30037,
+            "monster_name": "Desertora",
+            "card_text": "Proteção, lealdade e honra. O que protege os soldados da linha de fogo, das Esferas Negras, o motivo pelo qual eles sacrificam suas vidas, não é nada além dessas palavras suaves.\nMas e se... o que tentamos proteger não valha a pena ser protegido? E se aqueles a quem servimos não merecerem a nossa lealdade e os ideais que honramos? Nosso sacrifício seria como uma piada cruel, um insulto àqueles que caíram acreditando em uma mentira.\nEntão, deixe essas chamas de vingança me consumam, apenas a mim.\n\"Voltar atrás? Agora é tarde demais para isso.\"",
+            "card_quote": "— Um suspiro ecoa de um recife e se dissipa com a maré de miasma",
+            "skill_text": "Durante o combate, a Desertora ataca ferozmente com lâminas e armas. Após sofrer certa quantidade de dano, ela ativa a Zona Contaminada e executa ataques rápidos perfurantes."
+        },
+        "30038": {
+            "monster_id": 30038,
+            "monster_name": "Profanadora",
+            "card_text": "As chamas de vingança do outro lado do rio dos mortos nunca poderá iluminar o caminho dos vingadores. Os loucos obcecados que gravaram maldições nos santuários agora colhem o fruto amargo de sua blasfêmia.\n\nO miasma se acumula sob a torre enquanto almas perdidas despertam do Éter. Neste poder sombrio afundado em impurezas e sombras, o ódio toma forma, condensado em algo palpável. Destituído de fé, intocado pela justiça, esta força profana forja apenas instrumentos de guerra, moldados por vingança e loucura.\n\nO solo fede a sangue e pecado, espalhando-se até alcançar o fim desta longa e angustiante história.\n\n\"Se o final não pode ser perfeito, que ao menos seja escrito pela minha própria mão.\"",
+            "card_quote": "— Um suspiro ecoa das ondas crescentes de miasma",
+            "skill_text": "Em combate, a Profanadora utiliza armas para realizar ataques rápidos e ferozes. Defender com sucesso as lâminas miasmáticas disparadas pela Profanadora e os ataques do Soldado Miasmático invocado pode expor suas vulnerabilidades. Após sofrer certa quantidade de dano durante o combate, a Profanadora ativa a Zona Contaminada e canaliza um tsunami de miasma para causar um efeito de morte instantânea ao jogador. Quebre partes da Profanadora durante a canalização, para gerar uma barreira de miasma, que protege contra o tsunami de miasma."
+        },
+        "30040": {
+            "monster_id": 30040,
+            "monster_name": "Onírico do Manato",
+            "card_text": "Um inimigo de ilusão que não deveria existir e talvez jamais volte a aparecer no futuro... mas ainda assim causa uma impressão real de opressão com sua força. Seus registros acabaram sendo usados pela AIEN como simples dados para criar simulações, mas os jovens que ousaram adentrar o mundo onírico têm uma compreensão bem diferente de seus padrões de comportamento.\n\n\"É impressão minha, ou ele parece mais magro que o Manato?\"",
+            "card_quote": "— Uma avaliação subjetiva de um Agente que conhece Manato muito bem",
+            "skill_text": "Durante o combate, o Onírico do Manato lança ataques ferozes contra o jogador, que precisa se esforçar ao máximo para se defender de seus golpes. Realizar uma Assistência Defensiva contra alguns de seus ataques os interrompe, e realizar esta Assistência Defensiva contra seus golpes mais poderosos, pode enfraquecê-lo."
+        },
+        "30042": {
+            "monster_id": 30042,
+            "monster_name": "Aprisionador de Pesadelos Ye Shiyuan",
+            "card_text": "O miasma e uma vontade corrompida a controlam. A fera gigante ainda tem o instinto de se mover, mas a figura humana sobre suas costas perdeu completamente a consciência, restando apenas um vago lamento de agonia.\nÀs vezes, ele brande sua espada em meio à escuridão, e às vezes, ele atira suas flechas enormes para que rasguem a terra. Seus movimentos são precisos, mas sem a desenvoltura que demonstrava quando era humano, como uma marionete manipulada pelos fragmentos de seus pesadelos.\nApenas quando um fio de cabelo vermelho cruza sua visão, sua espada parece congelar por um momento, como se o lamento agonizante oprimisse sua alma corroída por um instante.\n\n\"Entre os dois, quem realmente controla quem? A 'pessoa' nas costas é o meu verdadeiro prisioneiro.\"\n\"O desespero deve ser usado até o último momento, não é mesmo?\"",
+            "card_quote": "— Sussurros zombeteiros de \"Sua\" vontade nas profundezas da Esfera Negra",
+            "skill_text": "Durante o combate, o Aprisionador de Pesadelos invoca o Devorador do Miasma· Sobek como aliado. Sobek não sofre Atordoamento e não acumula Amplificação de Anomalia. Sempre que Sobek é derrotado, o Aprisionador de Pesadelos o ressuscita e lança um combo de ataques ainda mais forte. Defenda o último impacto deste ataque combinado, para aplicar o efeito de Enfraquecimento em Sobek por certo tempo."
+        },
+        "30044": {
+            "monster_id": 30044,
+            "monster_name": "Sacrifício — Emissária do Pacto",
+            "card_text": "\"Todos que ouvirem essa voz verão a forma da verdade\", mesmo que seja uma ilusão resgatada de mentiras.\nPor razões desconhecidas, ele abandonou seu nome e se tornou voluntariamente um recipiente na escuridão, vivendo apenas para transmitir uma voz específica. Ele aceitou os sussurros da Esfera Negra como uma revelação divina, agindo como um canal direto de sua vontade. Seu propósito: ressoar na mente do alvo uma voz clara e irresistível, esperando que ele baixe a guarda.\nContudo, nos raros intervalos em que alguém resiste, é possível ouvir o eco pulsante das emoções humanas por trás da transmissão, onde a verdade ainda não corrompida persiste. Não há raiva nem medo em seu ato, apenas uma determinação devota até que o último murmúrio desapareça junto com seu corpo.\nConhecido como 'emissário do pacto', ele defende essa voz detestável como se fosse a própria lei, acreditando ter encontrado o caminho de volta para casa e se transformando em uma lápide para essa voz.\n\n\"Mas por que odiar tanto o transmissor? Se quisermos acertar as contas, temos que encontrar a origem da voz.\"",
+            "card_quote": "— Uma funcionária do serviço de atendimento ao cliente em uma animada chamada telefônica durante o expediente",
+            "skill_text": "Durante o combate, Sacrifício — Emissária do Pacto usa suas asas para ataques subsequentes. Usar Assistência Defensiva contra alguns de seus movimentos pode interromper seus ataques. Além disso, a Emissária do Pacto concentra sua energia para realizar ataques à distância, e alguns deles podem gerar Poças de Miasma no chão, que invocam projéteis perseguidores. Aproveite o intervalo de direcionamento das balas para ativar a Esquiva Perfeita e realizar uma Contraesquiva."
+        },
+        "40000": {
+            "monster_id": 40000,
+            "monster_name": "Pesadelo Primordial — O Criador",
+            "card_text": "Para os humanos que lutam na longa noite escura, a vida é uma tortura sem fim.\n\nBondade e maldade, amor e ódio, esperança e desespero... Esses conceitos eternamente opostos são como grilhões que se entrelaçam na alma, fazendo com que a humanidade se dilacere mutuamente em um ciclo infinito, sem encontrar paz.\n\nNo entanto, antes do nascimento de todos os conceitos, antes da formação de todas as oposições, existia o \"Um\" primordial.\n\nEle é o início de tudo e também o fim de tudo. Ele não tem bondade nem maldade, pois Ele é a própria essência de ambos. Ele não tem tristeza nem alegria, pois Ele é a união de todas as emoções.\n\nEle apagará os limites entre \"você\" e \"eu\", permitindo que todas as consciências independentes retornem ao grande fluxo da \"Unidade\".\n\nEm Seu mundo, sem individualidade, não há desejo egoísta. Sem conflito, não há sofrimento. Sem escolha, não há erro. Todas as almas serão libertas de suas correntes, retornando ao estado primordial de absoluta igualdade e paz eterna.\n\nEle não tem forma fixa, pois Ele é a forma de todas as coisas. Ele não tem voz definida, pois Ele é a ressonância do universo.\n\nEle é a tempestade e também a calmaria. É o fim e também o renascimento.\n\n\"Abandonem sua luta sem sentido, filhos perdidos.\"\n\n\"Seu sofrimento termina aqui.\"\n\n\"Retornem ao abraço d'Ele...\"",
+            "card_quote": "— Criação do Criador",
+            "skill_text": "O Pesadelo Primordial pode entrar e sair livremente da Zona Contaminada. Mesmo quando não está na Zona Contaminada, o Escudo Miasmático ainda pode proteger o Pesadelo Primordial de entrar em estado de Atordoamento. Somente quando o Escudo Miasmático é quebrado, ele pode entrar em estado de Atordoamento. Quando o Pesadelo Primordial se recupera do estado de Atordoamento, a proteção do Escudo Miasmático volta a funcionar.\nDurante o combate, o Pesadelo Primordial usa técnicas de controle. Ao contra-atacar perfeitamente cada ataque, você pode obter vantagem durante a batalha."
+        },
+        "100132": {
+            "monster_id": 100132,
+            "monster_name": "\"Patrulheiro Leve\"",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         },
         "100231": {
             "monster_id": 100231,
@@ -1123,12 +1494,54 @@
             "card_quote": "— A máquina inteligente escolhida, Sexta-Feira",
             "skill_text": "Durante o combate, Sexta cria um ataque com uma enorme onda de choque que dificulta a fuga dos adversários, mas que pode ser bloqueado usando a Assistência Defensiva. Se suas pernas forem danificadas, ele pode ficar Debilitado, acumulando muito Atordoamento com um só golpe."
         },
+        "300372": {
+            "monster_id": 300372,
+            "monster_name": "Miasmática — Sósia — Desertora",
+            "card_text": "Uma forma recriada nas profundezas sombrias da impureza de uma criatura que já havia sucumbido. Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Durante o combate, este inimigo usa habilidades idênticas às do alvo, atacando ferozmente com lâminas e armas. Após sofrer certa quantidade de dano, ele ativa a Zona Contaminada e executa ataques rápidos perfurantes."
+        },
+        "300402": {
+            "monster_id": 300402,
+            "monster_name": "Miasmático — Komano Manato",
+            "card_text": "Uma forma recriada nas profundezas sombrias da impureza de uma criatura que já havia sucumbido. Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Durante o combate, o Sósia do Manato lança ataques ferozes contra o jogador, que precisa se esforçar ao máximo para se defender. Realizar uma Assistência Defensiva contra alguns de seus ataques os interrompe, e realizar esta Assistência Defensiva contra seus golpes mais poderosos, pode enfraquecê-lo.\nApós sofrer certa quantidade de dano, ele ativa a Zona Contaminada e executa um ataque poderoso."
+        },
         "930151": {
             "monster_id": 930151,
             "monster_name": "Bangboo Dourado",
             "card_text": "O Bangboo Dourado <color=#D9A600>tem uma Velocidade de Movimento e PV muito altos</color>, mas não ataca os nossos Bangboos. Derrotá-los parece <color=#D9A600>trazer bons resultados</color>.",
             "card_quote": null,
             "skill_text": "PV: Alto\nATQ: Médio\nVelocidade de Movimento: Rápida\nNível de Ameaça: <color=#FF3333>Alto</color>"
+        },
+        "930170": {
+            "monster_id": 930170,
+            "monster_name": "Bangboo Dourado Meca",
+            "card_text": "Nas lendas urbanas dos saqueadores, os Bangboos Dourados coletam constantemente dennies e Mecamoedas na Esfera Negra, tudo por um único propósito: extrair os metais necessários para financiar coletivamente a construção do \"Mecaboo Dourado\". (Claro, o brilhante metal \"dourado\" é apenas uma liga de cromo e cobre, pois só ela tem resistência suficiente para sustentar uma estrutura tão imponente.)\nQuando o \"Mecaboo Dourado\" estiver concluído, o Bangboo que mais contribuiu financeiramente será escoltado por outros Bangboos até a cabine de pilotagem, transformando-se no \"Bangboo Mecaboo Dourado\", e esmagará os inimigos que atacam os Bangboos Dourados com vários golpes poderosos.\n\"Impacto Dourado\", \"Raio Dourado\", \"Míssil Dourado\"...\nEmbora os nomes dos golpes sejam estranhos, os Bangboos acham tudo isso muito legal!\n\n\"Olha! É o Bangboo Mecaboo Dourado!\" \"N-não tenha medo! Se derrotarmos ele, ficaremos ricos!\"...\nMesmo sendo frequentemente tratados como cofres ambulantes pelos malvados saqueadores, os Bangboos realmente acham tudo isso incrível!",
+            "card_quote": "— \"En-neh, nah-nu-ehn ne-na!\" \"O deus dos Bangboos Dourados está se erguendo sobre a terra!\"",
+            "skill_text": "Bangboo Dourado Meca equipado com o mais recente sistema de armadura dourada. Ativar a Armadura Dourada gera Escudo máximo, e, enquanto ele dura, a resistência ao Éter aumenta, e a resistência elétrica diminui. O Bangboo Dourado Meca possui um poderoso sistema de propulsão a jato, que permite esquivas ágeis ou ataques aéreos, porém seu voo tem tempo limitado."
+        },
+        "930175": {
+            "monster_id": 930175,
+            "monster_name": "Miasmática — Jane",
+            "card_text": "Uma forma recriada nas profundezas sombrias da impureza de uma criatura que já havia sucumbido. Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Durante o combate, este inimigo ativará a Zona Contaminada em momentos específicos, podendo defender e contra-atacar quando necessário, mas geralmente ficará vulnerável após concluir uma sequência de ataques."
+        },
+        "930176": {
+            "monster_id": 930176,
+            "monster_name": "Miasmático — Executor Abismal",
+            "card_text": "Uma forma recriada nas profundezas sombrias da impureza de uma criatura que já havia sucumbido. Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Durante o combate, este inimigo evita ativamente os oponentes e ativa Visão Vital e Zona Contaminada, prosseguindo depois com Ataques Vigorosos. Esta habilidade pode ser contra-atacada com Esquiva Perfeita ou Assistência Perfeita."
+        },
+        "930177": {
+            "monster_id": 930177,
+            "monster_name": "Miasmático — Sósia",
+            "card_text": "Uma forma recriada nas profundezas sombrias da impureza de uma criatura que já havia sucumbido. Mesmo entre o tipo Ionizante, famoso por suas qualidades únicas, os Sósias Ionizados são ainda mais únicos.\nEssas entidades são capazes de cobrir seus corpos com uma camada especial de íons de Éter ativos, o que permite que eles repliquem a forma de seu alvo. Muitas vezes, a cópia é tão perfeita que é difícil perceber a diferença. Tanto em detalhes como em textura, é quase impossível saber quem é o falso e quem é o original.\nA característica mais problemática é que eles também conseguem imitar as técnicas de combate dos alvos que replicam.\nNinguém sabe onde eles encontram os dados para criar a imitação. Alguns rumores sugerem que eles podem ler mentes e, quando analisam as memórias do oponente, encontram um desafiante perfeito em quem se transformar.\n\"Não faz sentido! Se ele pudesse ler mentes, ia se transformar numa mulher de meia-idade munida de um cabide de roupas! É, é isso mesmo. Eu tenho medo é da minha mãe!\"",
+            "card_quote": "— Reclamação de um saqueador na Interlaço",
+            "skill_text": "Durante o combate, este inimigo usa movimentos idênticos aos do seu alvo de imitação e, devido à Corrupção do miasma, ele também ativará a Zona Contaminada em certos momentos."
         }
     }
 }

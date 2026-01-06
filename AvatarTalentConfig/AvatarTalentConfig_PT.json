@@ -1,8 +1,7 @@
 {
     "1011": {
         "role_id": 1011,
-        "name": "Anby",
-        "full_name": "Anby Demara",
+        "name": "Anby Demara",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -54,13 +53,12 @@
     },
     "1021": {
         "role_id": 1021,
-        "name": "Nekomata",
-        "full_name": "Nekomiya Mana",
+        "name": "Nekomiya Mana",
         "talent_text": [
             {
                 "talent_id": "1",
                 "Tsubaki_Talent_01_Title": "Predadora de Aves",
-                "Tsubaki_Talent_01_Desc_01_Realign": "Quando Nekomata ataca pela retaguarda, a <color=#F0D12B>Resistência a Físico</color> do alvo fica 16% menor. Se o inimigo estiver Atordoado, todos os ataques de Nekomata são considerados ataques pela retaguarda.",
+                "Tsubaki_Talent_01_Desc_01_Realign": "Quando Nekomata ataca pela retaguarda, a <color=#F0D12B>Resistência a Físico</color> do alvo fica 16% menor.\nSe o inimigo estiver Atordoado, todos os ataques de Nekomata são considerados ataques pela retaguarda.",
                 "Tsubaki_Talent_01_Desc_02": "Embora Nekomata não tenha muita força, por seu tamanho pequeno, ela tem a sagacidade e agilidade necessárias para identificar os pontos fracos do inimigo e atacar onde dói mais.",
                 "Tsubaki_Talent_01_Desc_01": "Quando Nekomata ataca pela retaguarda, a <color=#F0D12B>Resistência a Físico</color> do alvo fica 16% menor. Se o inimigo estiver Atordoado, todos os ataques de Nekomata são considerados ataques pela retaguarda.",
                 "Tsubaki_Talent_01_Title_Realign": "Predadora de Aves"
@@ -107,8 +105,7 @@
     },
     "1031": {
         "role_id": 1031,
-        "name": "Nicole",
-        "full_name": "Nicole Demara",
+        "name": "Nicole Demara",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -151,17 +148,16 @@
             {
                 "talent_id": "6",
                 "Nostradamus_Talent_06_Title": "Campo de Energia Corrompido",
-                "Nostradamus_Talent_06_Desc_01_Realign": "Quando os campos de energia da Nicole causam dano a um inimigo, a Taxa CRIT de todos os membros da equipe contra o inimigo aumenta 1,5%, acumula até dez vezes e dura 12s. A duração de cada acúmulo é calculada separadamente.",
+                "Nostradamus_Talent_06_Desc_01_Realign": "Quando os campos de energia da Nicole causam dano a um inimigo, a Taxa CRIT de todos os aliados contra o inimigo aumenta 1,5%, acumula até dez vezes e dura 12s.\nA duração de cada acúmulo é calculada separadamente.",
                 "Nostradamus_Talent_06_Desc_02": "Adotar munição de qualidade superior com mais poder de fogo e mais Matéria Etérea comprimida garante um aumento de dano, maior duração de uso... e custos maiores.",
-                "Nostradamus_Talent_06_Desc_01": "Quando os campos de energia da Nicole causam dano a um inimigo, a Taxa CRIT de todos os membros da equipe contra o inimigo aumenta 1,5%, acumula até dez vezes e dura 12s. A duração de cada acúmulo é calculada separadamente.",
+                "Nostradamus_Talent_06_Desc_01": "Quando os campos de energia da Nicole causam dano a um inimigo, a Taxa CRIT de todos os aliados contra o inimigo aumenta 1,5%, acumula até dez vezes e dura 12s. A duração de cada acúmulo é calculada separadamente.",
                 "Nostradamus_Talent_06_Title_Realign": "Campo de Energia Corrompido"
             }
         ]
     },
     "1081": {
         "role_id": 1081,
-        "name": "Billy",
-        "full_name": "Billy Kid",
+        "name": "Billy Kid",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -213,8 +209,7 @@
     },
     "1101": {
         "role_id": 1101,
-        "name": "Koleda",
-        "full_name": "Koleda Belobog",
+        "name": "Koleda Belobog",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -242,9 +237,9 @@
             {
                 "talent_id": "4",
                 "OokumaMari_Talent_04_Title": "Calor Remanescente",
-                "OokumaMari_Talent_04_Desc_01_Realign": "Koleda ganha um acúmulo de Carga (máx. de 2 acúmulos) ao consumir <color=#FFFFFF>Calor Crescente</color> para usar seu <color=#FFFFFF>Ataque Básico</color> aprimorado.\nAo acertar um inimigo com <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, Koleda consome todas as Cargas para aumentar o dano causado em 18% por acúmulo.",
+                "OokumaMari_Talent_04_Desc_01_Realign": "Koleda ganha um acúmulo de Carga (máx. de 2 acúmulos) ao consumir <color=#FFFFFF>Calor Crescente</color> para usar seu <color=#FFFFFF>Ataque Básico</color> aprimorado.\nAo acertar um inimigo com <color=#FFFFFF>Ataque em Cadeia: Desastre Natural</color> ou <color=#FFFFFF>Supremo: Tremor do Martelo</color>, Koleda consome todas as Cargas para aumentar o dano causado em 18% por acúmulo.",
                 "OokumaMari_Talent_04_Desc_02": "Koleda pode sentir as chamas da guerra quando suas marteladas aumentam a temperatura do ambiente.\nAgora ela é ainda mais inflamável e explosiva que o próprio Éter.",
-                "OokumaMari_Talent_04_Desc_01": "Koleda ganha um acúmulo de Carga (máx. de 2 acúmulos) ao consumir <color=#FFFFFF>Calor Crescente</color> para usar seu <color=#FFFFFF>Ataque Básico</color> aprimorado. Ao acertar um inimigo com <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, Koleda consome todas as Cargas para aumentar o dano causado em 18% por acúmulo.",
+                "OokumaMari_Talent_04_Desc_01": "Koleda ganha um acúmulo de Carga (máx. de 2 acúmulos) ao consumir <color=#FFFFFF>Calor Crescente</color> para usar seu <color=#FFFFFF>Ataque Básico</color> aprimorado. Ao acertar um inimigo com <color=#FFFFFF>Ataque em Cadeia: Desastre Natural</color> ou <color=#FFFFFF>Supremo: Tremor do Martelo</color>, Koleda consome todas as Cargas para aumentar o dano causado em 18% por acúmulo.",
                 "OokumaMari_Talent_04_Title_Realign": "Calor Remanescente"
             },
             {
@@ -266,8 +261,7 @@
     },
     "1111": {
         "role_id": 1111,
-        "name": "Anton",
-        "full_name": "Anton Ivanov",
+        "name": "Anton Ivanov",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -295,9 +289,9 @@
             {
                 "talent_id": "4",
                 "Anton_Talent_04_Title": "Todos no clima!",
-                "Anton_Talent_04_Desc_01_Realign": "Quando Anton usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, a Taxa CRIT da equipe aumenta 10% por 12s.",
+                "Anton_Talent_04_Desc_01_Realign": "Quando Anton usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, a Taxa CRIT dos membros da equipe aumenta 10% por 12s.",
                 "Anton_Talent_04_Desc_02": "\"Vamos lembrar o treinamento e avançar juntos!\"\nQuando Anton começa a ficar sério, todos ficam mais ágeis. Afinal, você vai estar treinando sem companhia amanhã se não conseguir manter o ritmo.",
-                "Anton_Talent_04_Desc_01": "Quando Anton usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, a Taxa CRIT da equipe aumenta 10% por 12s.",
+                "Anton_Talent_04_Desc_01": "Quando Anton usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, a Taxa CRIT dos membros da equipe aumenta 10% por 12s.",
                 "Anton_Talent_04_Title_Realign": "Todos no clima!"
             },
             {
@@ -319,8 +313,7 @@
     },
     "1121": {
         "role_id": 1121,
-        "name": "Ben",
-        "full_name": "Ben Bigger",
+        "name": "Ben Bigger",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -372,23 +365,22 @@
     },
     "1181": {
         "role_id": 1181,
-        "name": "Grace",
-        "full_name": "Grace Howard",
+        "name": "Grace Howard",
         "talent_text": [
             {
                 "talent_id": "1",
                 "Lisa_Talent_01_Title": "Câmara de Recarga",
-                "Lisa_Talent_01_Desc_01_Realign": "Quando o quarto acerto do <color=#FFFFFF>Ataque Básico</color> de Grace atinge um inimigo, toda a equipe ganha 0,25 de Energia.\nNo mesmo golpe, esse efeito pode conceder um máximo de 2 de Energia à equipe.",
+                "Lisa_Talent_01_Desc_01_Realign": "Quando o quarto acerto do <color=#FFFFFF>Ataque Básico</color> de Grace acerta um inimigo, todos os membros sa equipe ganham 0,25 de Energia.\nNo mesmo golpe, este efeito pode conceder um máximo de 2 de Energia à equipe.",
                 "Lisa_Talent_01_Desc_02": "Eficiência é a alma da engenharia. Nos aposentos de Grace, está a essência vital dessa característica.",
-                "Lisa_Talent_01_Desc_01": "Quando o quarto acerto do <color=#FFFFFF>Ataque Básico</color> de Grace acerta um inimigo, toda a equipe ganha 0,25 de Energia.\nNo mesmo golpe, este efeito pode conceder um máximo de 2 de Energia à equipe.",
+                "Lisa_Talent_01_Desc_01": "Quando o quarto acerto do <color=#FFFFFF>Ataque Básico</color> de Grace acerta um inimigo, todos os membros sa equipe ganham 0,25 de Energia.\nNo mesmo golpe, este efeito pode conceder um máximo de 2 de Energia à equipe.",
                 "Lisa_Talent_01_Title_Realign": "Câmara de Recarga"
             },
             {
                 "talent_id": "2",
                 "Lisa_Talent_02_Title": "Perfurador Relâmpago",
-                "Lisa_Talent_02_Desc_01_Realign": "Quando a granada lançada durante um <color=#FFFFFF>Ataque Básico</color>, um <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color> de Grace atinge um inimigo, a <color=#2EB6FF>resistência a Dano Elétrico</color> do alvo reduz 8,5% e a <color=#2EB6FF>resistência à Amplificação de Anomalia Elétrica</color> reduz 8,5% por 8s.",
+                "Lisa_Talent_02_Desc_01_Realign": "Quando a granada lançada durante um <color=#FFFFFF>Ataque Básico</color>, um <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color> de Grace atinge um inimigo, a <color=#2EB6FF>resistência a Dano Elétrico</color> do alvo diminui 8,5% e a <color=#2EB6FF>resistência à Amplificação de Anomalia Elétrica</color> diminui 8,5% por 8s.",
                 "Lisa_Talent_02_Desc_02": "\"Dissecar\" estruturas mecânicas complexas é o maior hobby de Grace, mesmo no meio da batalha.\nComo é acabar em pedaços com cada uma das suas vulnerabilidades expostas?",
-                "Lisa_Talent_02_Desc_01": "Quando a granada lançada durante um <color=#FFFFFF>Ataque Básico</color>, um <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color> de Grace atinge um inimigo, a <color=#2EB6FF>resistência a Dano Elétrico</color> do alvo reduz 8,5% e a <color=#2EB6FF>resistência à Amplificação de Anomalia Elétrica</color> reduz 8,5% por 8s.",
+                "Lisa_Talent_02_Desc_01": "Quando a granada lançada durante um <color=#FFFFFF>Ataque Básico</color>, um <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color> de Grace atinge um inimigo, a <color=#2EB6FF>resistência a Dano Elétrico</color> do alvo diminui 8,5% e a <color=#2EB6FF>resistência à amplificação de anomalia</color> diminui 8,5% por 8s.",
                 "Lisa_Talent_02_Title_Realign": "Perfurador Relâmpago"
             },
             {
@@ -401,9 +393,9 @@
             {
                 "talent_id": "4",
                 "Lisa_Talent_04_Title": "Explosão de Capacitor",
-                "Lisa_Talent_04_Desc_01_Realign": "Quando usa seu <color=#FFFFFF>Ataque Especial Reforçado</color>, Grace ganha 6 acúmulos de Carga (máximo de 6 acúmulos).\nQuando atinge um inimigo com o <color=#FFFFFF>Ataque Básico</color> ou <color=#FFFFFF>Ataque Rápido</color>, ela consome 1 acúmulo de Carga e aumenta 20% da taxa de Geração de Energia da habilidade atual.",
+                "Lisa_Talent_04_Desc_01_Realign": "Ao usar seu <color=#FFFFFF>Ataque Especial Reforçado</color>, Grace ganha 6 acúmulos de Carga (máximo de 6 acúmulos).\nQuando atinge um inimigo com o <color=#FFFFFF>Ataque Básico: Pico de Alta Pressão</color> ou <color=#FFFFFF>Ataque Rápido: Inspeção Rápida</color>, ela consome 1 acúmulo de Carga e aumenta 20% da taxa de Geração de Energia da habilidade atual.",
                 "Lisa_Talent_04_Desc_02": "Anton suspeitava que no interior do componente de Grace conhecido como \"Módulo de Reciclagem de Eletropulso\" havia, na verdade, um hamster Etéreo gerando energia incansavelmente e sem parar.\n\"Você pode equipar meu parça com um?\"",
-                "Lisa_Talent_04_Desc_01": "Ao usar seu <color=#FFFFFF>Ataque Especial Reforçado</color>, Grace ganha 6 acúmulos de Carga (máximo de 6 acúmulos). Quando atinge um inimigo com o <color=#FFFFFF>Ataque Básico</color> ou <color=#FFFFFF>Ataque Rápido</color>, ela consome 1 acúmulo de Carga e aumenta 20% da taxa de Geração de Energia da habilidade atual.",
+                "Lisa_Talent_04_Desc_01": "Ao usar seu <color=#FFFFFF>Ataque Especial Reforçado</color>, Grace ganha 6 acúmulos de Carga (máximo de 6 acúmulos). Quando atinge um inimigo com o <color=#FFFFFF>Ataque Básico: Pico de Alta Pressão</color> ou <color=#FFFFFF>Ataque Rápido: Inspeção Rápida</color>, ela consome 1 acúmulo de Carga e aumenta 20% da taxa de Geração de Energia da habilidade atual.",
                 "Lisa_Talent_04_Title_Realign": "Explosão de Capacitor"
             },
             {
@@ -425,8 +417,7 @@
     },
     "1061": {
         "role_id": 1061,
-        "name": "Corin",
-        "full_name": "Corin Wickes",
+        "name": "Corin Wickes",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -478,15 +469,14 @@
     },
     "1141": {
         "role_id": 1141,
-        "name": "Lycaon",
-        "full_name": "Von Lycaon",
+        "name": "Von Lycaon",
         "talent_text": [
             {
                 "talent_id": "1",
                 "Lycaon_Talent_01_Title": "Impulso da Lua Cheia",
-                "Lycaon_Talent_01_Desc_01_Realign": "Quando o <color=#FFFFFF>Ataque Especial Reforçado</color> de Lycaon atinge um inimigo, o Atordoamento do ataque aumenta 12%. Este efeito pode ser ativado uma vez a cada 8s. Quando ele usa completamente o <color=#FFFFFF>Ataque Especial Reforçado</color>, este efeito aumenta mais 10%.",
+                "Lycaon_Talent_01_Desc_01_Realign": "Quando o <color=#FFFFFF>Ataque Especial Reforçado: Emoção da Caçada</color> de Lycaon atinge um inimigo, o Atordoamento do ataque aumenta 12%. Este efeito pode ser ativado uma vez a cada 8s.\nQuando ele usa completamente o <color=#FFFFFF>Ataque Especial Reforçado: Emoção da Caçada</color>, este efeito aumenta mais 10%.",
                 "Lycaon_Talent_01_Desc_02": "Registros sugerem que os lobisomens expostos ao luar ficam consideravelmente mais agressivos.\n\"Não olhe para a lua.\"",
-                "Lycaon_Talent_01_Desc_01": "Quando o <color=#FFFFFF>Ataque Especial Reforçado</color> de Lycaon atinge um inimigo, o Atordoamento do ataque aumenta 12%. Este efeito pode ser ativado uma vez a cada 8s. Quando ele usa completamente o <color=#FFFFFF>Ataque Especial Reforçado</color>, este efeito aumenta mais 10%.",
+                "Lycaon_Talent_01_Desc_01": "Quando o <color=#FFFFFF>Ataque Especial Reforçado: Emoção da Caçada</color> de Lycaon atinge um inimigo, o Atordoamento do ataque aumenta 12%. Este efeito pode ser ativado uma vez a cada 8s. Quando ele usa completamente o <color=#FFFFFF>Ataque Especial Reforçado: Emoção da Caçada</color>, este efeito aumenta mais 10%.",
                 "Lycaon_Talent_01_Title_Realign": "Impulso da Lua Cheia"
             },
             {
@@ -531,8 +521,7 @@
     },
     "1191": {
         "role_id": 1191,
-        "name": "Ellen",
-        "full_name": "Ellen Joe",
+        "name": "Ellen Joe",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -584,8 +573,7 @@
     },
     "1211": {
         "role_id": 1211,
-        "name": "Rina",
-        "full_name": "Alexandrina Sebastiane",
+        "name": "Alexandrina Sebastiane",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -598,9 +586,9 @@
             {
                 "talent_id": "2",
                 "Rina_Talent_02_Title": "Modelo de Maestria",
-                "Rina_Talent_02_Desc_01_Realign": "Ao entrar em combate ou substituir outro personagem, o dano da Rina aumenta 15% durante 12s. Este efeito pode ser ativado uma vez a cada 18s.\n",
+                "Rina_Talent_02_Desc_01_Realign": "Ao se tornar o personagem ativo durante o combate, o dano da Rina aumenta 15% durante 12s. Esse efeito pode ser ativado uma vez a cada 18s.",
                 "Rina_Talent_02_Desc_02": "\"É necessária uma governanta excelente para liderar governantas excelentes, e uma mestra exemplar para educar Bangboos exemplares.\" — Trecho do discurso de Rina no \"Seminário de Recursos Humanos e Perspectivas de Treinamento de Bangboos da Serviços Domésticos Victória\".",
-                "Rina_Talent_02_Desc_01": "Ao entrar em combate ou substituir outro personagem, o dano da Rina aumenta 15% durante 12s. Este efeito pode ser ativado uma vez a cada 18s.\n",
+                "Rina_Talent_02_Desc_01": "Ao se tornar o personagem ativo durante o combate, o dano da Rina aumenta 15% durante 12s. Esse efeito pode ser ativado uma vez a cada 18s.",
                 "Rina_Talent_02_Title_Realign": "Modelo de Maestria"
             },
             {
@@ -628,9 +616,9 @@
             {
                 "talent_id": "6",
                 "Rina_Talent_06_Title": "Terror da Noite de Tempestade",
-                "Rina_Talent_06_Desc_01_Realign": "Quando um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> atinge um inimigo, o <color=#2EB6FF>Dano Elétrico</color> de toda a equipe aumenta 15% por 8s.",
+                "Rina_Talent_06_Desc_01_Realign": "Quando um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> atinge um inimigo, o <color=#2EB6FF>Dano Elétrico</color> de todos os membros da equipe aumenta 15% por 8s.",
                 "Rina_Talent_06_Desc_02": "Um trovão ressoa pelo velho castelo em uma noite chuvosa. As profundezas dos longos corredores são tomadas por sombras sinistras. \nCircuitos de medo sobrecarregados, iniciar gravação de filme de terror.",
-                "Rina_Talent_06_Desc_01": "Quando um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> atinge um inimigo, o <color=#2EB6FF>Dano Elétrico</color> de toda a equipe aumenta 15% por 8s.",
+                "Rina_Talent_06_Desc_01": "Quando um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> atinge um inimigo, o <color=#2EB6FF>Dano Elétrico</color> de todos os membros da equipe aumenta 15% por 8s.",
                 "Rina_Talent_06_Title_Realign": "Terror da Noite de Tempestade"
             }
         ]
@@ -638,14 +626,13 @@
     "1041": {
         "role_id": 1041,
         "name": "N.º 11",
-        "full_name": "N.º 11",
         "talent_text": [
             {
                 "talent_id": "1",
                 "Longinus_Talent_01_Title": "Aquecimento Acelerado",
-                "Longinus_Talent_01_Desc_01_Realign": "Se a Energia de N.º 11 for inferior a 40 quando ela entrar em combate ou for ativada, a Energia é restaurada para 80. Pode ser ativado uma vez a cada 50s.",
+                "Longinus_Talent_01_Desc_01_Realign": "Se a Energia da N.º 11 for inferior a 40 ao se tornar a personagem ativa em combate, a Energia é restaurada para 80. Esse efeito pode ser ativado uma vez a cada 50s.",
                 "Longinus_Talent_01_Desc_02": "Um longo treinamento de combate de alta intensidade permite que N.º 11 alcance o domínio de seus sistemas regulatórios.\nEla sempre tenta manter a melhor forma possível para todas as batalhas.",
-                "Longinus_Talent_01_Desc_01": "Se a Energia da N.º 11 for inferior a 40, quando ela entrar em combate ou for ativada, a Energia é restaurada para 80. Pode ser ativado uma vez a cada 50s.",
+                "Longinus_Talent_01_Desc_01": "Se a Energia da N.º 11 for inferior a 40 ao se tornar a personagem ativa em combate, a Energia é restaurada para 80. Esse efeito pode ser ativado uma vez a cada 50s.",
                 "Longinus_Talent_01_Title_Realign": "Aquecimento Acelerado"
             },
             {
@@ -688,10 +675,165 @@
             }
         ]
     },
+    "1301": {
+        "role_id": 1301,
+        "name": "Orfeu Magnusson & Magus",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Brujas_Talent_01_Title": "Casa de Gato Luxuosa",
+                "Brujas_Talent_01_Desc_01_Realign": "O dano causado por Orfeu & Magus ao usar Ataque Especial: Raio Corrosivo, Ataque Especial Reforçado: Vórtice Carmesim, Ataque Especial Reforçado: Carga Térmica, Ataque Especial Reforçado: Explosão Ardente ignora 15% da <color=#FF5521>resistência ao Fogo</color> do alvo, Agentes com Foco da Mira causam 20% mais dano.",
+                "Brujas_Talent_01_Desc_02": "Os cantos do quarto de Orfeu estão cheios de itens para gatos: um conjunto de árvores para escalar, uma almofada macia, um arranhador resistente e brinquedos cuidadosamente selecionados...\n\"Sempre me preocupo em encontrar um gatinho doente e sem-teto perto do posto avançado... Se eu tiver essas coisas preparadas com antecedência, será mais fácil para ele morar aqui...\"\n\"Só que não podemos ter gatos no acampamento... Então, quando encontrar um, com certeza vou achar um dono bondoso dentro do prazo estabelecido pela capitã!\"\n\"Mas Orfeu, essas coisas já estão no dormitório há três anos e você ainda não encontrou nenhum gato!\"",
+                "Brujas_Talent_01_Desc_01": "O dano causado por Orfeu & Magus ao usar Ataque Especial: Raio Corrosivo, Ataque Especial Reforçado: Vórtice Carmesim, Ataque Especial Reforçado: Carga Térmica, Ataque Especial Reforçado: Explosão Ardente ignora 15% da <color=#FF5521>resistência ao Fogo</color> do alvo, Agentes com Foco da Mira causam 20% mais dano.",
+                "Brujas_Talent_01_Title_Realign": "Casa de Gato Luxuosa"
+            },
+            {
+                "talent_id": "2",
+                "Brujas_Talent_02_Title": "Lista de Alimentos Estranhos",
+                "Brujas_Talent_02_Desc_01_Realign": "Quando Orfeu & Magus executam um Ataque Subsequente, recuperam 65 dB. Esse efeito pode ser ativado uma vez a cada 4s. Após executarem um Supremo, Orfeu & Magus ficam com ATQ 20% maior por até 45s.",
+                "Brujas_Talent_02_Desc_02": "Pipoca de uva do mar, mingau de frutos-do-mar com pêssego e flor de cerejeira, tofu apimentado com morango... Orfeu, às vezes, experimenta comidas com sabores estranhos, e todas elas estão listadas desordenadamente em um papel no canto da sua mesa.\n\"Embora a comida gostosa seja atraente, também vale a pena experimentar sabores mais exóticos! Desde que não sejam amargos!\"\n\"Ah, Proxy, quer experimentar meu doce favorito de morango com leite de coco ultra picante? Já tirei da embalagem para você!\"\n\"Soldado Orfeu, seus gostos estranhos vão acabar assustando todos os seus amigos!\"",
+                "Brujas_Talent_02_Desc_01": "Quando Orfeu & Magus executam um Ataque Subsequente, recuperam 65 dB. Esse efeito pode ser ativado uma vez a cada 4s. Após executarem um Supremo, Orfeu & Magus ficam com ATQ 20% maior por até 45s.",
+                "Brujas_Talent_02_Title_Realign": "Lista de Alimentos Estranhos"
+            },
+            {
+                "talent_id": "3",
+                "Brujas_Talent_03_Title": "\"Manual Tático\"",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Brujas_Talent_03_Desc_02": "Nem mesmo a Capitã Magus sabe o que está escrito no \"Manual Tático: Edição Especial Orfeu\" que fica ao lado da cama da garota.\n\"'Aniquilação-1', 'Retirada-3', 'Patrulha-2'... Ah, e 'Encontro-5'!\"\n\"Espera aí, Orfeu, desde quando as contramedidas táticas para encontros já chegaram ao 5º item?!\"\n\"Eu só estava testando se a Capitã conhecia bem o 'Manual Tático', hehe! Você passou no teste!\"",
+                "Brujas_Talent_03_Title_Realign": "\"Manual Tático\""
+            },
+            {
+                "talent_id": "4",
+                "Brujas_Talent_04_Title": "Coldre Rosa",
+                "Brujas_Talent_04_Desc_01_Realign": "O tempo inicial de Foco da Mira aumenta para 16s, e Orfeu & Magus causam 40% mais dano ao usar Ataque Especial Reforçado: Carga Térmica ou Supremo: Dança com Fogo.",
+                "Brujas_Talent_04_Desc_02": "Magus nunca responde a ameaças vazias, e é por isso que Orfeu realmente comprou um coldre rosa.\nEle fica guardado na gaveta mais baixa do armário, lembrando constantemente à Magus para ter cuidado com suas palavras, embora com um efeito meio limitado.\n\"Capitã, já disse que você precisa pensar três vezes antes de falar, caso contrário é fácil machucar os outros!\"\n\"Aqueles moleques mereciam aquelas balas! Espera, Orfeu... soldado Orfeu, não coloque essa coisa rosa em mim, isso é uma ordem!\"",
+                "Brujas_Talent_04_Desc_01": "O tempo inicial de Foco da Mira aumenta para 16s, e Orfeu & Magus causam 40% mais dano ao usar Ataque Especial Reforçado: Carga Térmica ou Supremo: Dança com Fogo.",
+                "Brujas_Talent_04_Title_Realign": "Coldre Rosa"
+            },
+            {
+                "talent_id": "5",
+                "Brujas_Talent_05_Title": "Moeda da Travessia",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Brujas_Talent_05_Desc_02": "A Orfeu colocou a moeda comemorativa prateada e reluzente bem à vista na entrada.\n\"Onde está aquela moeda de prata para atravessar o Rio Estige?\"\n\"E se fizéssemos um conjunto dessas moedas comemorativas? Podemos usar o emblema do esquadrão como design, seria um símbolo do espírito da nossa unidade.\"\n\"Então... um emblema de luar pode nascer em meio às chamas negras?\"\n\"Para de falar coisa que ninguém entende, N.º 11! Mas a ideia da Trigger é ótima! A gente podia até colocar o nome de todas no verso! O que acha, capitã?\"\n\"Aprovado.\"",
+                "Brujas_Talent_05_Title_Realign": "Moeda da Travessia"
+            },
+            {
+                "talent_id": "6",
+                "Brujas_Talent_06_Title": "Sementes Mágicas",
+                "Brujas_Talent_06_Desc_01_Realign": "Com energia suficiente, após o ataque com lâmina de fogo do Ataque Básico: Lança-chamas de Alta Pressão, pressione <IconMap:Icon_SpecialReady> para conectar com Ataque Especial Reforçado: Vórtice Carmesim. Quando executam o ataque com lâmina de fogo do Ataque Básico: Lança-chamas de Alta Pressão, recuperam 10 pontos de Calor Acumulado, e o nível de interrupção durante o período de baixa potência do Ataque Especial Reforçado: Carga Térmica aumenta. Quando o laser do Ataque Especial Reforçado: Carga Térmica ou Supremo atinge inimigos, causa <color=#FF5521>Dano de Fogo</color> adicional igual a 250% do ATQ de Orfeu & Magus. Este efeito pode ser ativado uma vez a cada 0,5s, e seu dano é considerado como dano de Ataque Especial Reforçado e Ataque Subsequente.",
+                "Brujas_Talent_06_Desc_02": "\"Capitã, esta semente não vai dar flor. Ela é como eu, não importa o quanto eu me esforce, não há resultado...\"\n\"Orfeu, esta semente é mágica. Ela pode não florescer, mas vai ajudar outras sementes a se tornarem árvores grandes. Fique com ela, vai te trazer sorte.\"\n\"Como eu, ela sempre estará ao seu lado, assistindo a sua transformação em uma soldado cada vez melhor.\"\n— Diante daquela pequena figura, que limpa as lágrimas desajeitadamente com as mãos, em um misto de tristeza e mágoa, Magus deixa escapar um tom de voz gentil que nunca havia demonstrado antes.",
+                "Brujas_Talent_06_Desc_01": "Com energia suficiente, após o ataque com lâmina de fogo do Ataque Básico: Lança-chamas de Alta Pressão, pressione <IconMap:Icon_SpecialReady> para conectar com Ataque Especial Reforçado: Vórtice Carmesim. Quando executam o ataque com lâmina de fogo do Ataque Básico: Lança-chamas de Alta Pressão, recuperam 10 pontos de Calor Acumulado, e o nível de interrupção durante o período de baixa potência do Ataque Especial Reforçado: Carga Térmica aumenta. Quando o laser do Ataque Especial Reforçado: Carga Térmica ou Supremo atinge inimigos, causa <color=#FF5521>Dano de Fogo</color> adicional igual a 250% do ATQ de Orfeu & Magus. Este efeito pode ser ativado uma vez a cada 0,5s, e seu dano é considerado como dano de Ataque Especial Reforçado e Ataque Subsequente.",
+                "Brujas_Talent_06_Title_Realign": "Sementes Mágicas"
+            }
+        ]
+    },
+    "1361": {
+        "role_id": 1361,
+        "name": "Trigger",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Trigger_Talent_01_Title": "Sentidos Aguçados",
+                "Trigger_Talent_01_Desc_01_Realign": "O Multiplicador de Dano de Atordoamento aplicado pela <color=#FFFFFF>Passiva Principal: Olhar Introspectivo</color> aumenta mais 20%.\nAo executar um <color=#FFFFFF>Ataque Básico: Eliminação Coordenada</color>, o tempo de recarga diminui para 2s.\nAo atingir um inimigo com disparos consecutivos ou um Contra-Ataque carregado no estado de <color=#FFFFFF>Postura de Franco-Atirador</color>, <color=#FFFFFF>Coração Resoluto</color> aumenta 25% e o limite de <color=#FFFFFF>Coração Resoluto</color> aumenta para 125.",
+                "Trigger_Talent_01_Desc_02": "Uma audição capaz de distinguir cada alteração sutil no vento, um tato capaz de perceber cada vibração no solo. Para compensar suas limitações visuais, a jovem aguçou seus outros sentidos à perfeição.\n\"Ser uma franco-atiradora é o meu maior talento... Pelo menos nisso, eu não vou perder para ninguém.\"",
+                "Trigger_Talent_01_Desc_01": "O Multiplicador de Dano de Atordoamento aplicado pela <color=#FFFFFF>Passiva Principal: Olhar Introspectivo</color> aumenta mais 20%.\nAo executar um <color=#FFFFFF>Ataque Básico: Eliminação Coordenada</color>, o tempo de recarga diminui para 2s. Ao atingir um inimigo com disparos consecutivos ou um Contra-Ataque carregado no estado de <color=#FFFFFF>Postura de Franco-Atirador</color>, <color=#FFFFFF>Coração Resoluto</color> aumenta 25% e o limite de <color=#FFFFFF>Coração Resoluto</color> aumenta para 125.",
+                "Trigger_Talent_01_Title_Realign": "Sentidos Aguçados"
+            },
+            {
+                "talent_id": "2",
+                "Trigger_Talent_02_Title": "Visão Etérea",
+                "Trigger_Talent_02_Desc_01_Realign": "Ao ativar um <color=#FFFFFF>Ataque Subsequente</color>, Trigger ganha 1 acúmulo de <color=#FFFFFF>Olhos de Caçadora</color>.\nAo executar um Golpe Final na <color=#FFFFFF>Postura de Franco-Atirador</color>, Trigger ganha 2 acúmulos de <color=#FFFFFF>Olhos de Caçadora</color>.\nCada acúmulo de <color=#FFFFFF>Olhos de Caçadora</color> aumenta o Dano CRIT de toda a equipe em 6%, acumulando até 4 vezes por 10s. Ativações repetidas reiniciam a duração.",
+                "Trigger_Talent_02_Desc_02": "Quando está na Esfera Negra, todas as flutuações de Éter ao redor dela ajudam em sua observação espacial.\n\"Eu costumava pensar que esses olhos eram uma maldição que só me causava dor.\"\n\"Mas agora... eles são a chave para alcançar meus objetivos, e a prova de que não me esqueci do meu passado.\"",
+                "Trigger_Talent_02_Desc_01": "Ao ativar um <color=#FFFFFF>Ataque Subsequente</color>, Trigger ganha 1 acúmulo de <color=#FFFFFF>Olhos de Caçadora</color>. Ao executar um Golpe Final na <color=#FFFFFF>Postura de Franco-Atirador</color>, Trigger ganha 2 acúmulos de <color=#FFFFFF>Olhos de Caçadora</color>. Cada acúmulo de <color=#FFFFFF>Olhos de Caçadora</color> aumenta o Dano CRIT de toda a equipe em 6%, acumulando até 4 vezes por 10s. Ativações repetidas reiniciam a duração.",
+                "Trigger_Talent_02_Title_Realign": "Visão Etérea"
+            },
+            {
+                "talent_id": "3",
+                "Trigger_Talent_03_Title": "De Volta ao Lar",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Trigger_Talent_03_Desc_02": "O lar para onde ela podia voltar, agora está selado no passado.\nSeus lábios frios deslizam contra a gaita, a melodia solitária é o único vestígio de suas memórias.",
+                "Trigger_Talent_03_Title_Realign": "De Volta ao Lar"
+            },
+            {
+                "talent_id": "4",
+                "Trigger_Talent_04_Title": "Sem Deixar Rastros",
+                "Trigger_Talent_04_Desc_01_Realign": "Quando Trigger entra ou prolonga o <color=#FFFFFF>Apoio Coordenado</color>, quando o estado ainda está ativo, o próximo <color=#FFFFFF>Ataque Básico: Eliminação Coordenada</color> ou <color=#FFFFFF>Ataque Básico: Eliminação Coordenada — Tártaro</color> de outro personagem da equipe que atingir o inimigo desencadeará o efeito <color=#FFFFFF>Desconexão</color>, causando dano equivalente a 200% do ATQ de Trigger e Atordoamento equivalente a 120% do Impacto de Trigger. Essa habilidade tem uma grande capacidade de interrupção.",
+                "Trigger_Talent_04_Desc_02": "Passos, respiração, batimentos cardíacos. Ela suprime cada rastro de sua presença até que seu corpo se misture completamente com o ambiente, e se move pelo campo de batalha como um espectro ceifador.\nMas, fora de combate, esse modo silencioso de se mover foi estritamente proibido depois de assustar seus companheiros em várias ocasiões.\nClaro, ela definitivamente nunca usou suas técnicas de furtividade para observar a locadora quando não tem a oportunidade de se encontrar com alguém ali... certo?",
+                "Trigger_Talent_04_Desc_01": "Quando Trigger entra ou prolonga o <color=#FFFFFF>Apoio Coordenado</color>, quando o estado ainda está ativo, o próximo <color=#FFFFFF>Ataque Básico: Eliminação Coordenada</color> ou <color=#FFFFFF>Ataque Básico: Eliminação Coordenada — Tártaro</color> de outro personagem da equipe que atingir o inimigo desencadeará o efeito <color=#FFFFFF>Desconexão</color>, causando dano equivalente a 200% do ATQ de Trigger e Atordoamento equivalente a 120% do Impacto de Trigger. Essa habilidade tem uma grande capacidade de interrupção.",
+                "Trigger_Talent_04_Title_Realign": "Sem Deixar Rastros"
+            },
+            {
+                "talent_id": "5",
+                "Trigger_Talent_05_Title": "Determinação Inabalável",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Trigger_Talent_05_Desc_02": "Uma vez que o alvo seja marcado, mesmo que seu corpo esteja destroçado e sua dor seja insuportável, a mira nunca se desviará dele. Sejam os alvos de sua vingança ou aqueles sob sua proteção; sejam inimigos ou aliados, esta é a determinação de uma franco-atiradora.\nMas com {M#aquele}{F#aquela} Proxy que se tornou um farol nos momentos mais escuros, mais do que marcar o alvo, ela se sente atraída pela luz. Mesmo que não haja motivo algum para continuar observando, ela nunca desvia sua mira. Esta é a determinação de uma jovem garota.",
+                "Trigger_Talent_05_Title_Realign": "Determinação Inabalável"
+            },
+            {
+                "talent_id": "6",
+                "Trigger_Talent_06_Title": "Na Outra Margem",
+                "Trigger_Talent_06_Desc_01_Realign": "Ao entrar em combate, Trigger ganha 5 <color=#FFFFFF>Balas Perfurantes</color>. Para cada 25 pontos de <color=#FFFFFF>Coração Resoluto</color> consumidos, Trigger ganha mais 1 <color=#FFFFFF>Bala Perfurante</color>, até um máximo de 5 balas. Enquanto tem <color=#FFFFFF>Balas Perfurantes</color>, quando Trigger atinge um inimigo com <color=#FFFFFF>Postura de Franco-Atirador</color>, 1 <color=#FFFFFF>Bala Perfurante</color> é consumida para causar <color=#2EB6FF>Dano Elétrico</color> equivalente a mais 1200% do ATQ de Trigger. O dano das <color=#FFFFFF>Balas Perfurantes</color> aumentam 50%. Esse efeito pode ser ativado uma vez a cada 0,2s.",
+                "Trigger_Talent_06_Desc_02": "\"Sabe de uma coisa? Aqueles que sujam as mãos de sangue na batalha só podem ir ao submundo após a morte.\"\n\n\"Além do rio dos mortos, sei que há uma paisagem de beleza incomparável. As flores vermelhas de lírio-aranha florescerão ao meu redor enquanto rostos familiares do passado me acompanham ao meu destino final, para o meu descanso eterno.\"\n\n\"Mas... graças a você, porque agora tenho algo para proteger, talvez eu não queira que esse dia chegue tão cedo.\"",
+                "Trigger_Talent_06_Desc_01": "Ao entrar em combate, Trigger ganha 5 <color=#FFFFFF>Balas Perfurantes</color>. Para cada 25 pontos de <color=#FFFFFF>Coração Resoluto</color> consumidos, Trigger ganha mais 1 <color=#FFFFFF>Bala Perfurante</color>, até um máximo de 5 balas. Enquanto tiver <color=#FFFFFF>Balas Perfurantes</color>, quando Trigger atingir um inimigo com <color=#FFFFFF>Postura de Franco-Atirador</color>, 1 <color=#FFFFFF>Bala Perfurante</color> será consumida para causar <color=#2EB6FF>Dano Elétrico</color> equivalente a mais 1200% do ATQ de Trigger. O dano das <color=#FFFFFF>Balas Perfurantes</color> aumentam 50%. Esse efeito pode ser ativado uma vez a cada 0,2s.",
+                "Trigger_Talent_06_Title_Realign": "Na Outra Margem"
+            }
+        ]
+    },
+    "1461": {
+        "role_id": 1461,
+        "name": "Seed",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Seed_Talent_01_Title": "Período de Hibernação",
+                "Seed_Talent_01_Desc_01_Realign": "Quando Seed atinge 100 pontos de <color=#FFFFFF>Vigor de Aço</color>, ative <color=#FFFFFF>Ataque Básico: Flores Caídas — Colapso</color> para reduzir o <color=#FFFFFF>Vigor de Aço</color> consumido para 100.\nA quantidade de <color=#FFFFFF>Vigor de Aço</color> necessária para obter uma chance de executar <color=#FFFFFF>Ataque Básico: Flores Caídas — Massacre</color> rapidamente é reduzida para 100 acúmulos.\nAo entrar em batalha ou ativar um <color=#FFFFFF>Supremo</color>, ela acumula mais 40 ou 20 pontos de <color=#FFFFFF>Vigor de Aço</color>. O Dano CRIT de <color=#FFFFFF>Ataque Básico: Flores Caídas — Colapso</color> aumenta 30%.",
+                "Seed_Talent_01_Desc_02": "Este é um edifício solene e misterioso, isolado do mundo exterior.\nEla, a pura, pertence a este lugar. Ela se encolhe, espiando através da cerca de arame com muito cuidado. Como será o mundo exterior?\nSua curiosidade flui além da instalação estéril, atravessa as torres colapsadas e se esquiva das flores rosas gigantes no céu.\nFluindo cada vez mais além...\n\"Parece um ovo rachado e fedorento!\"\n\"Mas eu quero ficar aqui um pouco mais...\"",
+                "Seed_Talent_01_Desc_01": "Quando Seed atinge 100 pontos de <color=#FFFFFF>Vigor de Aço</color>, ative <color=#FFFFFF>Ataque Básico: Flores Caídas — Colapso</color> para reduzir o <color=#FFFFFF>Vigor de Aço</color> consumido para 100.\nA quantidade de <color=#FFFFFF>Vigor de Aço</color> necessária para obter uma chance de executar <color=#FFFFFF>Ataque Básico: Flores Caídas — Massacre</color> rapidamente é reduzida para 100 acúmulos.\nAo entrar em batalha ou ativar um <color=#FFFFFF>Supremo</color>, ela acumula mais 40 ou 20 pontos de <color=#FFFFFF>Vigor de Aço</color>. O Dano CRIT de <color=#FFFFFF>Ataque Básico: Flores Caídas — Colapso</color> aumenta 30%.",
+                "Seed_Talent_01_Title_Realign": "Período de Hibernação"
+            },
+            {
+                "talent_id": "2",
+                "Seed_Talent_02_Title": "Absorção de Luz",
+                "Seed_Talent_02_Desc_01_Realign": "Quando o Agente está sob o estado de <color=#FFFFFF>Cerco Letal</color>, seu dano ignora 20% da DEF.\nApós ativar o <color=#FFFFFF>Ataque Especial Reforçado: Cortina de Pétalas de Ferro</color> e consumir 60 pontos de Energia, é possível consumir mais Energia e prolongar a habilidade até consumir 120 pontos de Energia, ou até soltar o botão. A cada 5 pontos de Energia consumidos por <color=#FFFFFF>Ataque Especial Reforçado: Cortina de Pétalas de Ferro</color>, o <color=#FFFFFF>Ataque Básico: Flores Caídas — Massacre</color> seguinte causa 5% mais dano.",
+                "Seed_Talent_02_Desc_02": "Estas são as vastas ruínas de aço retorcido.\nUma emoção inexplicável e indescritível dá um nó em sua garganta, mas sua língua permanece em silêncio...\nSua visão fica turva quando um líquido estranho começa a escorrer pelas bochechas dela.\nEla esfrega os olhos e tenta piscar...\nO que será aquela coisa difusa se aproximando?\n\"Não tenha medo... Estou aqui... para te salvar...\"\n\"Você tem... nome? Meu codinome é... 'Seed'.\"",
+                "Seed_Talent_02_Desc_01": "Quando o Agente está sob o estado de <color=#FFFFFF>Cerco Letal</color>, seu dano ignora 20% da DEF. Após ativar o <color=#FFFFFF>Ataque Especial Reforçado: Cortina de Pétalas de Ferro</color> e consumir 60 pontos de Energia, é possível consumir mais Energia e prolongar a habilidade até consumir 120 pontos de Energia, ou até soltar o botão. A cada 5 pontos de Energia consumidos por <color=#FFFFFF>Ataque Especial Reforçado: Cortina de Pétalas de Ferro</color>, o <color=#FFFFFF>Ataque Básico: Flores Caídas — Massacre</color> seguinte causa 5% mais dano.",
+                "Seed_Talent_02_Title_Realign": "Absorção de Luz"
+            },
+            {
+                "talent_id": "3",
+                "Seed_Talent_03_Title": "Teoria da Germinação",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Seed_Talent_03_Desc_02": "Era apenas uma sala de descanso comum em um acampamento militar.\nElas a cumprimentaram, tentando fazê-la abrir seu coração.\nUma jovem ruiva e tímida, uma estranha arma tagarela, um golden retriever com uma venda nos olhos...\nO robô gigante disse a ela que todas elas são suas amigas.\n\"O que são amigos?\"\n\"Amigos... são aqueles que você vê quando olha para trás.\"",
+                "Seed_Talent_03_Title_Realign": "Teoria da Germinação"
+            },
+            {
+                "talent_id": "4",
+                "Seed_Talent_04_Title": "Nota Aromática",
+                "Seed_Talent_04_Desc_01_Realign": "Quando o efeito de bônus do <color=#FFFFFF>Cerco Letal</color> de Seed está ativo, sua Taxa de Obtenção de dB aumenta 10% e dano de seu <color=#FFFFFF>Supremo</color> aumenta 20%.",
+                "Seed_Talent_04_Desc_02": "Esta é uma praça enorme e movimentada.\nEm um palco elevado acima de todos, alguém murmura algo.\nUma voz chama seu nome, e uma multidão se reúne ao redor dela.\nA flor desorientada é transplantada para o palco, e ainda há vestígios de pólvora em seu cabelo.\nA caixa preta emite um brilho mais intenso que as estrelas, e pequenos pedaços de metal são afixados em seu velho amigo e jovens companheiras, que estão tão nervosos quanto ela.\nCompreender isso também significa que, a partir de agora, ela é \"Seed\", e o robô que está sempre ao seu lado agora é \"Seed Sênior\".\n\"Eu me saí bem?\"\n\"Claro que sim. Você é o nosso orgulho. Esse codinome é a prova disso, Seed.\"",
+                "Seed_Talent_04_Desc_01": "Quando o efeito de bônus do <color=#FFFFFF>Cerco Letal</color> de Seed está ativo, sua Taxa de Obtenção de dB aumenta 10% e dano de seu <color=#FFFFFF>Supremo</color> aumenta 20%.",
+                "Seed_Talent_04_Title_Realign": "Nota Aromática"
+            },
+            {
+                "talent_id": "5",
+                "Seed_Talent_05_Title": "Florescer",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Seed_Talent_05_Desc_02": "Este é um pequeno abrigo que quase ninguém conhece.\nO espaço está repleto de objetos espalhados e desorganizados. Caixas, sofás, porta-retratos, vários vasos com flores vermelhas, amarelas, cor-de-rosa, algumas eretas, outras volumosas, e algumas caídas.\nFeche os olhos, cubra a boca, você vai aguentar, ela prometeu.\n\"Dê mais um tempo para elas, está bem?\"\n\"Elas vão crescer muito bem... assim como você.\"",
+                "Seed_Talent_05_Title_Realign": "Florescer"
+            },
+            {
+                "talent_id": "6",
+                "Seed_Talent_06_Title": "Teoria do Coração",
+                "Seed_Talent_06_Desc_01_Realign": "O Dano CRIT da Seed aumenta 50%.\nAo ativar <color=#FFFFFF>Ataque Básico: Flores Caídas — Massacre</color>, dispara 3 raios lasers adicionais, cada um causando 165% de dano de ATQ. Esse efeito pode ser ativado uma vez a cada 3s.",
+                "Seed_Talent_06_Desc_02": "Aqui há um campo vasto e vibrante de flores silvestres.\nEla se lembra de como era no início, estéril, sem nem mesmo um fio de grama.\nQuem fez essa maldade? Quem transformou a desolada e sombria Esfera Zero nisso? Quem plantou um coração vigoroso neste solo pálido?\n\"Você conseguiu chegar tão longe nesse ciclo...\"\n\"Até a próxima, Seed Sênior.\"",
+                "Seed_Talent_06_Desc_01": "O Dano CRIT da Seed aumenta 50%.\nAo ativar <color=#FFFFFF>Ataque Básico: Flores Caídas — Massacre</color>, dispara 3 raios lasers adicionais, cada um causando 165% de dano de ATQ. Esse efeito pode ser ativado uma vez a cada 3s.",
+                "Seed_Talent_06_Title_Realign": "Teoria do Coração"
+            }
+        ]
+    },
     "1241": {
         "role_id": 1241,
         "name": "Zhu Yuan",
-        "full_name": "Zhu Yuan",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -744,7 +886,6 @@
     "1251": {
         "role_id": 1251,
         "name": "Qingyi",
-        "full_name": "Qingyi",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -796,8 +937,7 @@
     },
     "1261": {
         "role_id": 1261,
-        "name": "Jane",
-        "full_name": "Jane Doe",
+        "name": "Jane Doe",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -825,7 +965,7 @@
             {
                 "talent_id": "4",
                 "JaneDoe_Talent_04_Title": "Adapte-se e Sobreviva",
-                "JaneDoe_Talent_04_Desc_01_Realign": "Quando qualquer membro da equipe ativa os efeitos de <color=#F0D12B>Ofensiva</color> ou <color=#FFFFFF>Disfunção</color>,\no dano de Anomalia de Atributo de toda a equipe aumenta 18% por 15s.",
+                "JaneDoe_Talent_04_Desc_01_Realign": "Quando qualquer membro da equipe ativa os efeitos de <color=#F0D12B>Ofensiva</color> ou <color=#FFFFFF>Disfunção</color>, o dano de Anomalia de Atributo de toda a equipe aumenta 18% por 15s.",
                 "JaneDoe_Talent_04_Desc_02": "\"Costuma depender da sua perspectiva, se você é predador ou presa. No entanto, sou a favor de uma avaliação mais direta—\"\n\"O perdedor é a presa.\"",
                 "JaneDoe_Talent_04_Desc_01": "Quando qualquer membro da equipe ativa os efeitos de <color=#F0D12B>Ofensiva</color> ou <color=#FFFFFF>Disfunção</color>, o dano de Anomalia de Atributo de toda a equipe aumenta 18% por 15s.",
                 "JaneDoe_Talent_04_Title_Realign": "Adapte-se e Sobreviva"
@@ -849,8 +989,7 @@
     },
     "1271": {
         "role_id": 1271,
-        "name": "Seth",
-        "full_name": "Seth Lowell",
+        "name": "Seth Lowell",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -902,23 +1041,22 @@
     },
     "1071": {
         "role_id": 1071,
-        "name": "Caesar",
-        "full_name": "Caesar King",
+        "name": "Caesar King",
         "talent_text": [
             {
                 "talent_id": "1",
                 "Caesar_Talent_01_Title": "Formação Ponta de Lança",
-                "Caesar_Talent_01_Desc_01_Realign": "Ao entrar em combate ou substituir outro personagem, Caesar concede imediatamente à equipe um <color=#FFFFFF>Escudo Glorioso</color>, que pode ser ativado uma vez a cada 300s.\nEnquanto o <color=#FFFFFF>Escudo Glorioso</color> estiver ativo, a Resistência a danos de todos os atributos dos inimigos dentro de um raio de 5 metros ao redor do portador reduz 15%.",
+                "Caesar_Talent_01_Desc_01_Realign": "Ao se tornar o personagem ativo em combate, Caesar concede imediatamente à equipe um <color=#FFFFFF>Escudo Glorioso</color>, que pode ser ativado uma vez a cada 300s. Enquanto o <color=#FFFFFF>Escudo Glorioso</color> estiver ativo, a Resistência a danos de todos os atributos dos inimigos dentro de um raio de 5 metros ao redor do portador reduz 15%.",
                 "Caesar_Talent_01_Desc_02": "\"O Paizão me ensinou que em momentos como esse, se deve usar uma formação de ponta de lança e atacar o ponto mais fraco do inimigo com o máximo de força...\"\n\"É claro que sou EU que vou na frente!\"",
-                "Caesar_Talent_01_Desc_01": "Ao entrar em combate ou substituir outro personagem, Caesar concede imediatamente à equipe um <color=#FFFFFF>Escudo Glorioso</color>, que pode ser ativado uma vez a cada 300s. Enquanto o <color=#FFFFFF>Escudo Glorioso</color> estiver ativo, a Resistência a danos de todos os atributos dos inimigos dentro de um raio de 5 metros ao redor do portador reduz 15%.",
+                "Caesar_Talent_01_Desc_01": "Ao se tornar o personagem ativo em combate, Caesar concede imediatamente à equipe um <color=#FFFFFF>Escudo Glorioso</color>, que pode ser ativado uma vez a cada 300s. Enquanto o <color=#FFFFFF>Escudo Glorioso</color> estiver ativo, a Resistência a danos de todos os atributos dos inimigos dentro de um raio de 5 metros ao redor do portador reduz 15%.",
                 "Caesar_Talent_01_Title_Realign": "Formação Ponta de Lança"
             },
             {
                 "talent_id": "2",
                 "Caesar_Talent_02_Title": "Legado Exótico",
-                "Caesar_Talent_02_Desc_01_Realign": "Na <color=#FFFFFF>Passiva Principal: Barreira da Resiliência</color>, enquanto o <color=#FFFFFF>Escudo Glorioso</color> estiver ativo, a Recuperação de Energia de Caesar aumenta 10%, e o efeito de aumento de ATQ do portador é aumentado para 150% do valor original.",
+                "Caesar_Talent_02_Desc_01_Realign": "Na <color=#FFFFFF>Passiva Principal: Barreira da Resiliência</color>, enquanto o <color=#FFFFFF>Escudo Glorioso</color> está ativo, a Taxa de Geração de Energia de Caesar aumenta 10%, e bônus de ATQ do portador aumenta 150% do valor original.",
                 "Caesar_Talent_02_Desc_02": "O estilo de combate de Caesar é um pouco diferente do estilo de Nova Eridu ou da zona externa, pegando técnicas dos guerreiros mais habilidosos entre os andarilhos.\nSabendo quando esperar e quando dar um ataque decisivo: este sempre foi o modo de sobrevivência dos andarilhos.\nE Cesar sempre foi uma boa aprendiz.",
-                "Caesar_Talent_02_Desc_01": "Na <color=#FFFFFF>Passiva Principal: Barreira da Resiliência</color>, enquanto o <color=#FFFFFF>Escudo Glorioso</color> estiver ativo, a Recuperação de Energia de Caesar aumenta 10%, e o efeito de aumento de ATQ do portador é aumentado para 150% do valor original.",
+                "Caesar_Talent_02_Desc_01": "Na <color=#FFFFFF>Passiva Principal: Barreira da Resiliência</color>, enquanto o <color=#FFFFFF>Escudo Glorioso</color> estiver ativo, a recuperação de energia de Caesar aumenta 10%, e o bônus de ATQ do portador aumenta para 150% de seu valor original.",
                 "Caesar_Talent_02_Title_Realign": "Legado Exótico"
             },
             {
@@ -940,23 +1078,22 @@
                 "talent_id": "5",
                 "Caesar_Talent_05_Title": "Conquista Romântica",
                 "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
-                "Caesar_Talent_05_Desc_02": "Diferente do que aparenta, Caesar bem no fundo é toda romântica. \nPor exemplo, ela sempre tem muita curiosidade sobre algumas cenas de romance. Mas, se você conversar com ela mais profundamente... César ficará corada.",
+                "Caesar_Talent_05_Desc_02": "Diferente do que aparenta, Caesar bem no fundo é toda romântica. \nPor exemplo, ela sempre tem muita curiosidade sobre algumas cenas de romance. Mas, se você conversar com ela mais profundamente... Caesar ficará corada.",
                 "Caesar_Talent_05_Title_Realign": "Conquista Romântica"
             },
             {
                 "talent_id": "6",
                 "Caesar_Talent_06_Title": "Ambição da Soberana",
-                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>Ataque Especial Reforçado: Escudo Superpoderoso</color> e <color=#FFFFFF>Assistência Imediata</color> causam Crítico de forma garantida e o dano aumenta 50%, com um bônus adicional de 50% de dano ao principal alvo.\nQuando Caesar usa <color=#FFFFFF>Ataque Especial Reforçado: Escudo Superpoderoso</color> ou <color=#FFFFFF>Assistência Imediata</color>, sua Taxa CRIT aumenta 30% e o Dano CRIT aumenta 60% por 15s.",
+                "Caesar_Talent_06_Desc_01_Realign": "<color=#FFFFFF>Ataque Especial Reforçado: Escudo Superpoderoso</color> e <color=#FFFFFF>Assistência Imediata: Lança Assistente</color> causam Crítico de forma garantida.\nO dano aumenta 50%, com um bônus adicional de 50% de dano ao principal alvo.\nQuando Caesar usa <color=#FFFFFF>Ataque Especial Reforçado: Escudo Superpoderoso</color> ou <color=#FFFFFF>Assistência Imediata: Lança Assistente</color>, sua Taxa CRIT aumenta 30% e o Dano CRIT aumenta 60% por 15s.",
                 "Caesar_Talent_06_Desc_02": "\"Eu costumava olhar apenas para a frente. Achava que, se eu fosse forte o suficiente, não haveria nada que eu não pudesse fazer\".\n\"Mas para me tornar uma Soberana, eu preciso ir ainda mais longe\".\n\"Eu também preciso proteger meus companheiros — eles são meu maior apoio\".",
-                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>Ataque Especial Reforçado: Escudo Superpoderoso</color> e <color=#FFFFFF>Assistência Imediata</color> causam Crítico de forma garantida e o dano aumenta 50%, com um bônus adicional de 50% de dano ao principal alvo. Quando Caesar usa <color=#FFFFFF>Ataque Especial Reforçado: Escudo Superpoderoso</color> ou <color=#FFFFFF>Assistência Imediata</color>, sua Taxa CRIT aumenta 30% e o Dano CRIT aumenta 60% por 15s.",
+                "Caesar_Talent_06_Desc_01": "<color=#FFFFFF>Ataque Especial Reforçado: Escudo Superpoderoso</color> e <color=#FFFFFF>Assistência Imediata: Lança Assistente</color> causam Crítico de forma garantida e o dano aumenta 50%, com um bônus adicional de 50% de dano ao principal alvo. Quando Caesar usa <color=#FFFFFF>Ataque Especial Reforçado: Escudo Superpoderoso</color> ou <color=#FFFFFF>Assistência Imediata: Lança Assistente</color>, sua Taxa CRIT aumenta 30% e o Dano CRIT aumenta 60% por 15s.",
                 "Caesar_Talent_06_Title_Realign": "Ambição da Soberana"
             }
         ]
     },
     "1151": {
         "role_id": 1151,
-        "name": "Lucy",
-        "full_name": "Luciana de Montefio",
+        "name": "Luciana de Montefio",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -969,9 +1106,9 @@
             {
                 "talent_id": "2",
                 "Lucy_Talent_02_Title": "Capitã Javali",
-                "Lucy_Talent_02_Desc_01_Realign": "Quando Lucy usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>,\no estado <color=#FFFFFF>Força!</color> é aplicado a todos os aliados, Bangboos e Javalis por 10 segundos.",
+                "Lucy_Talent_02_Desc_01_Realign": "Quando Lucy usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, o estado <color=#FFFFFF>Força!</color> é aplicado a todos os membros da equipe, Bangboos e Javalis por 10 segundos.",
                 "Lucy_Talent_02_Desc_02": "\"Sem dúvida, a Capitã Lucy é a maior líder dos javalis tirenos dos Filhos de Calydon!\"\nConclusão do \"Relatório de Trabalho Anual dos Filhos de Calydon\", escrito por DePau.",
-                "Lucy_Talent_02_Desc_01": "Quando Lucy usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, o estado <color=#FFFFFF>Força!</color> é aplicado a todos os aliados, Bangboos e Javalis por 10 segundos.",
+                "Lucy_Talent_02_Desc_01": "Quando Lucy usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, o estado <color=#FFFFFF>Força!</color> é aplicado a todos os membros da equipe, Bangboos e Javalis por 10 segundos.",
                 "Lucy_Talent_02_Title_Realign": "Capitã Javali"
             },
             {
@@ -999,9 +1136,9 @@
             {
                 "talent_id": "6",
                 "Lucy_Talent_06_Title": "Presas Flamejantes",
-                "Lucy_Talent_06_Desc_01_Realign": "Quando um aliado atinge um inimigo com um <color=#FFFFFF>Ataque Especial Reforçado</color> durante o estado <color=#FFFFFF>Força!</color>,\num Javali Guardião cairá do céu e provocará uma explosão, causando <color=#FF5521>Dano de Fogo</color> equivalente a 300% do ATQ dos Javalis Guardiões.\nIsso aumentará 5s da duração do estado <color=#FFFFFF>Força</color> de todos os membros da equipe.\nA duração pode ser aumentada até 3 vezes, com uma duração máxima de 30s. Os acúmulos de duração do estado <color=#FFFFFF>Força!</color> são reiniciados a cada ativação.\nApós aterrissar e explodir, os Javalis Guardiões executarão <color=#FFFFFF>\"Javalis Guardiões: Tacada Giratória!\"</color>.",
+                "Lucy_Talent_06_Desc_01_Realign": "Quando um aliado atinge um inimigo com um <color=#FFFFFF>Ataque Especial Reforçado</color> durante o estado <color=#FFFFFF>Força!</color>, um Javali Guardião cairá do céu e provocará uma explosão, causando <color=#FF5521>Dano de Fogo</color> equivalente a 300% do ATQ dos Javalis Guardiões. Isso aumentará 5s da duração do estado <color=#FFFFFF>Força!</color> de todos os membros da equipe, Bangboo e dos próprios Javalis Guardiões. A duração pode ser aumentada até 3 vezes, com uma duração máxima de 30s. Os acúmulos de duração do estado <color=#FFFFFF>Força!</color> são reiniciados a cada ativação. Após aterrissar e explodir, os Javalis Guardiões executarão <color=#FFFFFF>Javalis Guardiões: Tacada Giratória!</color>.",
                 "Lucy_Talent_06_Desc_02": "Os javalis tirenos conhecidos como \"Guarda da Juba Carmesim\" sempre estão na linha de frente!\nSó é difícil saber com certeza se no momento em que são arremessados pelo taco, eles estão morrendo de medo ou já aceitaram seu destino.\nBravos javalis, liderando o ataque!",
-                "Lucy_Talent_06_Desc_01": "Quando um aliado atinge um inimigo com um <color=#FFFFFF>Ataque Especial Reforçado</color> durante o estado <color=#FFFFFF>Força!</color>, um Javali Guardião cairá do céu e provocará uma explosão, causando <color=#FF5521>Dano de Fogo</color> equivalente a 300% do ATQ dos Javalis Guardiões. Isso aumentará 5s da duração do estado <color=#FFFFFF>Força!</color> de todos os membros da equipe. A duração pode ser aumentada até 3 vezes, com uma duração máxima de 30s. Os acúmulos de duração do estado <color=#FFFFFF>Força!</color> são reiniciados a cada ativação. Após aterrissar e explodir, os Javalis Guardiões executarão <color=#FFFFFF>\"Javalis Guardiões: Tacada Giratória!\"</color>.",
+                "Lucy_Talent_06_Desc_01": "Quando um aliado atinge um inimigo com um <color=#FFFFFF>Ataque Especial Reforçado</color> durante o estado <color=#FFFFFF>Força!</color>, um Javali Guardião cairá do céu e provocará uma explosão, causando <color=#FF5521>Dano de Fogo</color> equivalente a 300% do ATQ dos Javalis Guardiões. Isso aumentará 5s da duração do estado <color=#FFFFFF>Força!</color> de todos os membros da equipe, Bangboo e dos próprios Javalis Guardiões. A duração pode ser aumentada até 3 vezes, com uma duração máxima de 30s. Os acúmulos de duração do estado <color=#FFFFFF>Força!</color> são reiniciados a cada ativação. Após aterrissar e explodir, os Javalis Guardiões executarão <color=#FFFFFF>Javalis Guardiões: Tacada Giratória!</color>.",
                 "Lucy_Talent_06_Title_Realign": "Presas Flamejantes"
             }
         ]
@@ -1009,7 +1146,6 @@
     "1161": {
         "role_id": 1161,
         "name": "Lighter",
-        "full_name": "Lighter",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -1061,8 +1197,7 @@
     },
     "1171": {
         "role_id": 1171,
-        "name": "Burnice",
-        "full_name": "Burnice White",
+        "name": "Burnice White",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -1105,7 +1240,7 @@
             {
                 "talent_id": "6",
                 "Burnice_Talent_06_Title": "Convite Inflamável",
-                "Burnice_Talent_06_Desc_01_Realign": "Quando o <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color> da Burnice atinge um inimigo, ativa o efeito especial de <color=#FFFFFF>Brasa</color> e causa <color=#FF5521>Dano de Fogo</color> equivalente a 60% do ATQ da Burnice ao alvo. Pode ser ativado até 1 vez a cada 0.5s e não consome <color=#FFFFFF>Calor</color>.\nApós atingir um inimigo com <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, durante sua execução, <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, o efeito especial de <color=#FFFFFF>Brasa</color> e o efeito de <color=#FF5521>Queimadura</color> ignoram 25% da <color=#FF5521>resistência ao Fogo</color> do alvo.\nNo <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, ao atingir um inimigo com a explosão de fogo que está no estado de <color=#FF5521>Queimadura</color>, aciona uma instância adicional de dano de <color=#FF5521>Queimadura</color> equivalente a 1800% do dano original. Pode ser ativado uma vez a cada 20s para cada alvo.",
+                "Burnice_Talent_06_Desc_01_Realign": "Quando o <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color> da Burnice atinge um inimigo, ativa o efeito especial de <color=#FFFFFF>Brasa</color> e causa <color=#FF5521>Dano de Fogo</color> equivalente a 60% do ATQ da Burnice ao alvo.\nPode ser ativado até 1 vez a cada 0.5s e não consome <color=#FFFFFF>Calor</color>.\nApós atingir um inimigo com <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, durante sua execução, <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, o efeito especial de <color=#FFFFFF>Brasa</color> e o efeito de <color=#FF5521>Queimadura</color> ignoram 25% da <color=#FF5521>resistência ao Fogo</color> do alvo.\nNo <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, ao atingir um inimigo com a explosão de fogo que está no estado de <color=#FF5521>Queimadura</color>, aciona uma instância adicional de dano de <color=#FF5521>Queimadura</color> equivalente a 1800% do dano original.\nPode ser ativado uma vez a cada 20s para cada alvo. ",
                 "Burnice_Talent_06_Desc_02": "Parece que ninguém nunca viu a verdadeira ira da Burnice.\n\"E acreditem, vocês não vão querer ver.\"\n— Uma motorista que está se preparando para dormir no Presas de Aço",
                 "Burnice_Talent_06_Desc_01": "Quando o <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color> da Burnice atinge um inimigo, ativa o efeito especial de <color=#FFFFFF>Brasa</color> e causa <color=#FF5521>Dano de Fogo</color> equivalente a 60% do ATQ da Burnice ao alvo. Pode ser ativado até 1 vez a cada 0.5s e não consome <color=#FFFFFF>Calor</color>. Após atingir um inimigo com <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, durante sua execução, <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, o efeito especial de <color=#FFFFFF>Brasa</color> e o efeito de <color=#FF5521>Queimadura</color> ignoram 25% da <color=#FF5521>resistência ao Fogo</color> do alvo. No <color=#FFFFFF>Ataque Especial Reforçado: Mistura Ardente — Dose Dupla</color>, ao atingir um inimigo com a explosão de fogo que está no estado de <color=#FF5521>Queimadura</color>, aciona uma instância adicional de dano de <color=#FF5521>Queimadura</color> equivalente a 1800% do dano original. Pode ser ativado uma vez a cada 20s para cada alvo. ",
                 "Burnice_Talent_06_Title_Realign": "Convite Inflamável"
@@ -1115,7 +1250,6 @@
     "1281": {
         "role_id": 1281,
         "name": "Piper",
-        "full_name": "Piper Wheel",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -1165,10 +1299,61 @@
             }
         ]
     },
+    "1351": {
+        "role_id": 1351,
+        "name": "Pulchra Fellini",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Pulchra_Talent_01_Title": "Egoísmo",
+                "Pulchra_Talent_01_Desc_01_Realign": "Ao causar dano a inimigos afetados por <color=#FFFFFF>Armadilha</color>, a Taxa CRIT aumenta 10%.",
+                "Pulchra_Talent_01_Desc_02": "\"O egoísmo é um instinto, mas também pode ser aprendido.\"\n\"Como se aprende?\"\n\"Quanto mais você apanhar da vida, mais você vai entender.\"",
+                "Pulchra_Talent_01_Desc_01": "Ao causar dano a inimigos afetados por <color=#FFFFFF>Armadilha</color>, a Taxa CRIT aumenta 10%.",
+                "Pulchra_Talent_01_Title_Realign": "Egoísmo"
+            },
+            {
+                "talent_id": "2",
+                "Pulchra_Talent_02_Title": "Oportunismo",
+                "Pulchra_Talent_02_Desc_01_Realign": "Enquanto está no estado de <color=#FFFFFF>Vigilância</color> da <color=#FFFFFF>Passiva Principal: Instinto de Caçadora</color>, o ATQ de Pulchra aumenta mais 10%.",
+                "Pulchra_Talent_02_Desc_02": "\"A qualidade mais importante de uma mercenária não é a lealdade, e sim saber aproveitar as oportunidades. Escolher o cliente certo, cumprir as comissões certas, realizar o trabalho como foi pedido, e nunca assinar contratos de longo prazo. Então, se algum dia você mudar de lado e acabar trabalhando para os concorrentes, seu cliente anterior não pode reclamar.\"\n\"Pulchra, mais alguém apareceu aqui procurando confusão, mas eu já mandei pastar. Como você consegue fazer tantos inimigos?\"\n\"Muita gente leva as coisas pro coração. Como você pode ver, são um bando de perdedores que não conhecem o próprio valor.\"",
+                "Pulchra_Talent_02_Desc_01": "Enquanto está no estado de <color=#FFFFFF>Vigilância</color> da <color=#FFFFFF>Passiva Principal: Instinto de Caçadora</color>, o ATQ de Pulchra aumenta mais 10%.",
+                "Pulchra_Talent_02_Title_Realign": "Oportunismo"
+            },
+            {
+                "talent_id": "3",
+                "Pulchra_Talent_03_Title": "Instinto Territorial",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Pulchra_Talent_03_Desc_02": "Há um grande pedaço de papel colado na porta do veículo onde Pulchra mora. Está escrito em enormes letras vermelhas: \"ESTE É O MEU TERRITÓRIO! BATA ANTES DE ENTRAR! NÃO ENTRE SEM BATER!\"\nDebaixo, há outro pedaço de papel menor, com grandes letras pretas que dizem: \"Caesar, quero um reembolso de 100.000 dennies pelo meu cadeado!\"\nDebaixo das grandes letras pretas, há algo escrito em letras pequenas e retorcidas: \"Eu perguntei {M#ao}{F#à} Proxy, esse cadeado custa 20.000!\"",
+                "Pulchra_Talent_03_Title_Realign": "Instinto Territorial"
+            },
+            {
+                "talent_id": "4",
+                "Pulchra_Talent_04_Title": "Prazer da Caça",
+                "Pulchra_Talent_04_Desc_01_Realign": "Reduz o Consumo de Energia em 5 ao ativar o <color=#FFFFFF>Ataque Especial Reforçado: Garra Dilaceradora — Passo Ligeiro</color>.",
+                "Pulchra_Talent_04_Desc_02": "\"Qual é o sentido de desafiar oponentes fortes? Eu não sou masoquista. Para mim, o verdadeiro prazer da caça está em saber que vou vencer!\"\n5 minutos depois...\n\"A IA desse jogo é muito fraca, mas que chatice.\"",
+                "Pulchra_Talent_04_Desc_01": "Reduz o Consumo de Energia em 5 ao ativar o <color=#FFFFFF>Ataque Especial Reforçado: Garra Dilaceradora — Passo Ligeiro</color>.",
+                "Pulchra_Talent_04_Title_Realign": "Prazer da Caça"
+            },
+            {
+                "talent_id": "5",
+                "Pulchra_Talent_05_Title": "Jogo da Cauda",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Pulchra_Talent_05_Desc_02": "A memória mais antiga e nebulosa da infância de Pulchra é de uma cauda grande, quente e macia. Quando ela aprendeu a engatinhar, ela adorava brincar de persegui-la.\n\"E daí?\"\n\"Me disseram que era a minha própria cauda.\"\nMas Pulchra sabia que aquela cauda não era a sua. Além da brincadeira de perseguição, a cauda a envolvia à noite para mantê-la aquecida no frio noturno. Talvez a Esfera Negra a tenha roubado, ou talvez outra coisa... Mas não importa, ela parou de jogar esse jogo há muito tempo.",
+                "Pulchra_Talent_05_Title_Realign": "Jogo da Cauda"
+            },
+            {
+                "talent_id": "6",
+                "Pulchra_Talent_06_Title": "Sob a Máscara",
+                "Pulchra_Talent_06_Desc_01_Realign": "O dano causado por <color=#FFFFFF>Ataque Especial: Garra Dilaceradora — Sombra Tenebrosa</color> aumenta 15%, e o número de repetições que podem ser ativadas aumenta 2. O efeito de <color=#FFFFFF>Armadilha</color> da <color=#FFFFFF>Habilidade Extra: Parceira de Negócios</color> agora se aplica a todos os tipos de dano além do <color=#FFFFFF>Ataque Subsequente</color>.",
+                "Pulchra_Talent_06_Desc_02": "A máscara com filtro respirador bloqueia as partículas de Éter e o pólen, e afasta os olhares curiosos, amedrontados e maliciosos, mas fica extremamente desconfortável para dormir em posição fetal. Se ao menos houvesse um lugar tranquilo e quentinho para tirar uma soneca...\nA porta do veículo se abre de repente. Acordada no susto, ela se levanta sobressaltada e coloca sua fiel companheira no rosto. \"Vai cair a mão se bater na porta?!\"\n...Ah, verdade. Ela já pode tirar a máscara agora.",
+                "Pulchra_Talent_06_Desc_01": "O dano causado por <color=#FFFFFF>Ataque Especial: Garra Dilaceradora — Sombra Tenebrosa</color> aumenta 15%, e o número de repetições que podem ser ativadas aumenta 2. O efeito de <color=#FFFFFF>Armadilha</color> da <color=#FFFFFF>Habilidade Extra: Parceira de Negócios</color> agora se aplica a todos os tipos de dano além do <color=#FFFFFF>Ataque Subsequente</color>.",
+                "Pulchra_Talent_06_Title_Realign": "Sob a Máscara"
+            }
+        ]
+    },
     "1091": {
         "role_id": 1091,
-        "name": "Miyabi",
-        "full_name": "Hoshimi Miyabi",
+        "name": "Hoshimi Miyabi",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -1221,7 +1406,6 @@
     "1131": {
         "role_id": 1131,
         "name": "Soukaku",
-        "full_name": "Soukaku",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -1273,8 +1457,7 @@
     },
     "1201": {
         "role_id": 1201,
-        "name": "Harumasa",
-        "full_name": "Asaba Harumasa",
+        "name": "Asaba Harumasa",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -1326,8 +1509,7 @@
     },
     "1221": {
         "role_id": 1221,
-        "name": "Yanagi",
-        "full_name": "Tsukishiro Yanagi",
+        "name": "Tsukishiro Yanagi",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -1380,12 +1562,11 @@
     "1311": {
         "role_id": 1311,
         "name": "Astra Yao",
-        "full_name": "Astra Yao",
         "talent_text": [
             {
                 "talent_id": "1",
                 "Astra_Talent_01_Title": "Escala Temperada",
-                "Astra_Talent_01_Desc_01_Realign": "Quando Astra Yao atinge um inimigo, a resistência do alvo contra qualquer atributo diminui 6%, sendo possível acumular até 3 vezes e com duração de 30s. Ativações repetidas reiniciam a duração. Ao entrar em combate, Astra Yao obtém 1000 dB. Quando Astra Yao ativa seu <color=#FFFFFF>Supremo</color>, todos os membros da equipe obtêm 1 acúmulo de <color=#FFFFFF>Canção de Defesa</color> por 60s. A <color=#FFFFFF>Canção de Defesa</color> é consumida quando um inimigo ataca, e deixa a personagem invulnerável por 1s.",
+                "Astra_Talent_01_Desc_01_Realign": "Quando Astra Yao atinge um inimigo, a resistência do alvo contra qualquer atributo diminui 6%, sendo possível acumular até 3 vezes e durando 30s. Ativações repetidas reiniciam a duração.\nAo entrar em combate, Astra Yao obtém 1000 dB. Quando Astra Yao ativa seu <color=#FFFFFF>Supremo</color>, todos os membros da equipe obtêm 1 acúmulo de <color=#FFFFFF>Canção de Defesa</color> por 60s.\nA <color=#FFFFFF>Canção de Defesa</color> é consumida quando um inimigo ataca, e deixa a personagem invulnerável por 1s.",
                 "Astra_Talent_01_Desc_02": "\"O que é uma Escala Temperada?\"\n\"É um sistema de afinação musical. Assim como crianças precisam aprender a ficar na fila, os sons de uma música precisam manter a ordem.\"\n\"Mas, talvez, os sons não gostem de ficar em ordem, assim como as crianças!\"\n— Professora de música da Astra, recordando quando ela tinha seis anos.",
                 "Astra_Talent_01_Desc_01": "Quando Astra Yao atinge um inimigo, a resistência do alvo contra qualquer atributo diminui 6%, sendo possível acumular até 3 vezes e durando 30s. Ativações repetidas reiniciam a duração. Ao entrar em combate, Astra Yao obtém 1000 dB. Quando Astra Yao ativa seu <color=#FFFFFF>Supremo</color>, todos os membros da equipe obtêm 1 acúmulo de <color=#FFFFFF>Canção de Defesa</color> por 60s. A <color=#FFFFFF>Canção de Defesa</color> é consumida quando um inimigo ataca, e deixa a personagem invulnerável por 1s.",
                 "Astra_Talent_01_Title_Realign": "Escala Temperada"
@@ -1432,8 +1613,7 @@
     },
     "1321": {
         "role_id": 1321,
-        "name": "Evelyn",
-        "full_name": "Evelyn Chevalier",
+        "name": "Evelyn Chevalier",
         "talent_text": [
             {
                 "talent_id": "1",
@@ -1476,17 +1656,744 @@
             {
                 "talent_id": "6",
                 "Evelyn_Talent_06_Title": "União de Luz e Sombra",
-                "Evelyn_Talent_06_Desc_01_Realign": "Ao executar um <color=#FFFFFF>Ataque em Cadeia</color> ou um <color=#FFFFFF>Supremo</color>, Evelyn ganha <color=#FFFFFF>Ponta de Corda Sombria</color> por 20s.\nDurante <color=#FFFFFF>Ponta de Corda Sombria</color>, quando Evelyn atinge um inimigo com <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Ataque Rápido</color>, <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color>, executa um ataque sequencial de <color=#FFFFFF>Garrote Lunalux</color> e causa <color=#FF5521>Dano de Fogo</color> equivalente a 375% do ATQ de Evelyn. Esse Dano é considerado <color=#FFFFFF>dano de Ataque em Cadeia</color> e pode ser ativado até 16 vezes. O número de ativações é redefinido a cada <color=#FFFFFF>Ponta de Corda Sombria</color> obtida.",
+                "Evelyn_Talent_06_Desc_01_Realign": "Ao executar um <color=#FFFFFF>Ataque em Cadeia</color> ou um <color=#FFFFFF>Supremo</color>, Evelyn ganha <color=#FFFFFF>Ponta de Corda Sombria</color> por 20s.\nDurante <color=#FFFFFF>Ponta de Corda Sombria</color>, quando Evelyn atinge o inimigo principal com <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Ataque Rápido</color>, <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color>, executa um ataque sequencial de <color=#FFFFFF>Garrote Lunalux</color> e causa <color=#FF5521>Dano de Fogo</color> aos inimigos dentro do alcance, equivalente a 375% do ATQ de Evelyn. Esse Dano é considerado <color=#FFFFFF>dano de Ataque em Cadeia</color> e pode ser ativado até 16 vezes. O número de ativações é redefinido a cada <color=#FFFFFF>Ponta de Corda Sombria</color> obtida.",
                 "Evelyn_Talent_06_Desc_02": "Onde há luz, sempre haverá sombra.\nEla se esconde em silêncio, traçando o caminho da luz e protegendo cada lampejo brilhante. A sombra nunca tenta roubar o brilho da luz, mas a cada curva, ela preenche os cantos em que a luz não alcança.\nAs duas nunca se separaram, e nem poderiam — a luz estaria incompleta sem a sombra, e a sombra só existe devido à luz. É uma perseguição eterna, uma conexão indescritível.",
-                "Evelyn_Talent_06_Desc_01": "Ao executar um <color=#FFFFFF>Ataque em Cadeia</color> ou um <color=#FFFFFF>Supremo</color>, Evelyn ganha <color=#FFFFFF>Ponta de Corda Sombria</color> por 20s. Durante <color=#FFFFFF>Ponta de Corda Sombria</color>, quando Evelyn atinge um inimigo com <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Ataque Rápido</color>, <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color>, executa um ataque adicional subsequente de <color=#FFFFFF>Garrote Lunalux</color>, causando <color=#FF5521>Dano de Fogo</color> equivalente a 375% do ATQ de Evelyn. Esse Dano é considerado <color=#FFFFFF>Ataque em Cadeia</color> e pode ser ativado até 16 vezes. Cada vez que obter <color=#FFFFFF>Ponta de Corda Sombria</color>, a quantidade de ativações será redefinida.",
+                "Evelyn_Talent_06_Desc_01": "Ao executar um <color=#FFFFFF>Ataque em Cadeia</color> ou um <color=#FFFFFF>Supremo</color>, Evelyn ganha <color=#FFFFFF>Ponta de Corda Sombria</color> por 20s.\nDurante <color=#FFFFFF>Ponta de Corda Sombria</color>, quando Evelyn atinge o inimigo principal com <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Ataque Rápido</color>, <color=#FFFFFF>Ataque Especial</color> ou um <color=#FFFFFF>Ataque Especial Reforçado</color>, executa um ataque sequencial de <color=#FFFFFF>Garrote Lunalux</color> e causa <color=#FF5521>Dano de Fogo</color> aos inimigos dentro do alcance, equivalente a 375% do ATQ de Evelyn. Esse Dano é considerado <color=#FFFFFF>dano de Ataque em Cadeia</color> e pode ser ativado até 16 vezes. O número de ativações é redefinido a cada <color=#FFFFFF>Ponta de Corda Sombria</color> obtida.",
                 "Evelyn_Talent_06_Title_Realign": "União de Luz e Sombra"
+            }
+        ]
+    },
+    "1291": {
+        "role_id": 1291,
+        "name": "Hugo Vlad",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "HugoVlad_Talent_01_Title": "Filho do Ódio",
+                "HugoVlad_Talent_01_Desc_01_Realign": "No estado <color=#FFFFFF>Ecos do Abismo</color>, ao ativar o efeito <color=#FFFFFF>Totalização</color>, a Taxa CRIT da habilidade aumenta mais 12% e o Dano CRIT aumenta 30%.",
+                "HugoVlad_Talent_01_Desc_02": "\"Portanto, não negue seus desejos, não resista às suas ambições. Este é o seu talento nato, a melhor dádiva que o destino já lhe concedeu!\"\n\"Admita, há uma fagulha, no fundo do seu coração, que anseia para começar o inferno ardente que reduzirá tudo a cinzas...\"\n\"E eu sou essa fagulha.\"\n\n\"Sim, eu sei. Eu sempre soube.\"",
+                "HugoVlad_Talent_01_Desc_01": "No estado <color=#FFFFFF>Ecos do Abismo</color>, ao ativar o efeito <color=#FFFFFF>Totalização</color>, a Taxa CRIT da habilidade aumenta mais 12% e o Dano CRIT aumenta 30%.",
+                "HugoVlad_Talent_01_Title_Realign": "Filho do Ódio"
+            },
+            {
+                "talent_id": "2",
+                "HugoVlad_Talent_02_Title": "Criança Interior",
+                "HugoVlad_Talent_02_Desc_01_Realign": "Quando o <color=#FFFFFF>Supremo: Blasfêmia</color> ativar <color=#FFFFFF>Totalização</color>, o inimigo não sairá do estado de Atordoamento.\nAlém disso, quando <color=#FFFFFF>Totalização</color> for ativado, a habilidade vai ignorar 15% da DEF do inimigo.",
+                "HugoVlad_Talent_02_Desc_02": "\"A família é uma maldição eterna e inevitável imposta a uma pessoa.\"\n\"Não importa o quanto você cresça, não importa aonde vá, essa maldição sempre seguirá você como uma sombra.\"\n\"Mesmo que você chegue ao fundo do poço ou ao topo do mundo, eles aparecerão e transformarão você naquela criança indefesa e impotente que não consegue fazer nada além de se esconder e chorar.\"\n\n\"A não ser que você verdadeiramente o veja e o aceite.\"\nAlgumas dores só podem ser curadas quando reconhecidas e aceitas.",
+                "HugoVlad_Talent_02_Desc_01": "Quando o <color=#FFFFFF>Supremo: Blasfêmia</color> ativar <color=#FFFFFF>Totalização</color>, o inimigo não sairá do estado de Atordoamento. Além disso, quando <color=#FFFFFF>Totalização</color> for ativado, a habilidade vai ignorar 15% da DEF do inimigo.",
+                "HugoVlad_Talent_02_Title_Realign": "Criança Interior"
+            },
+            {
+                "talent_id": "3",
+                "HugoVlad_Talent_03_Title": "Fruto Proibido",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "HugoVlad_Talent_03_Desc_02": "Rumores dizem que todas as flores que desabrocham no Abismo são impregnadas de malícia, assim como uma árvore venenosa que produz somente frutos perigosos.\nMas todas as frutas caem.\nEntão, ele se partiu em uma chuva de fragmentos.\nEssa chuva encharcou a terra, e cada gota de orvalho refletiu um novo amanhecer.",
+                "HugoVlad_Talent_03_Title_Realign": "Fruto Proibido"
+            },
+            {
+                "talent_id": "4",
+                "HugoVlad_Talent_04_Title": "Teoria Dramática",
+                "HugoVlad_Talent_04_Desc_01_Realign": "Quando um Disparo Carregado atinge um inimigo, os ataques de Hugo ignoram 12% da <color=#98EFF0>resistência ao Gelo</color> do alvo por 15s. Ativações repetidas reiniciam a duração.",
+                "HugoVlad_Talent_04_Desc_02": "Justiça, maldade, loucura, razão, charme, teimosia.\nEle é composto por milhares de faces.\n\"Então, qual é o seu verdadeiro eu?\"\n\"Isso não importa. Ao invés disso, conte-me, Lycaon...\"\n\"Que pessoa você vê ao olhar para mim?\"",
+                "HugoVlad_Talent_04_Desc_01": "Quando um Disparo Carregado atinge um inimigo, os ataques de Hugo ignoram 12% da <color=#98EFF0>resistência ao Gelo</color> do alvo por 15s. Ativações repetidas reiniciam a duração.",
+                "HugoVlad_Talent_04_Title_Realign": "Teoria Dramática"
+            },
+            {
+                "talent_id": "5",
+                "HugoVlad_Talent_05_Title": "Nirvana",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "HugoVlad_Talent_05_Desc_02": "O mundo não precisa ser destruído e reconstruído, e ninguém tem o direito de fazer isso.\nMas com uma pessoa isso pode acontecer.\nEntão ele se despedaçou e renasceu.\n\"Se eu tiver que cair, deixe-me cair. A pessoa em quem devo me tornar será aquela que vai me amparar.\"",
+                "HugoVlad_Talent_05_Title_Realign": "Nirvana"
+            },
+            {
+                "talent_id": "6",
+                "HugoVlad_Talent_06_Title": "Coroa de Espinhos",
+                "HugoVlad_Talent_06_Desc_01_Realign": "Todos os disparos que atingem um inimigo podem ativar o estado <color=#FFFFFF>Ecos do Abismo</color>, por até 6s. Ativações repetidas reiniciam a duração.\nAlém disso, quando o efeito <color=#FFFFFF>Totalização</color> é ativado, o dano da habilidade aumenta mais 60%.\nQuando o Golpe Final do <color=#FFFFFF>Ataque Especial Reforçado: Caçador de Almas — Castigo</color> atinge um inimigo não atordoado, também ativa o efeito <color=#FFFFFF>Totalização</color>, o Multiplicador de Dano do Golpe Final aumenta em um valor fixo de 1000%.",
+                "HugoVlad_Talent_06_Desc_02": "Ele caminhou alegremente na direção do infinito abismo, deixando os espinhos do chão rasgarem suas feridas.\nOnde o sangue se espalhava, dignidade e teimosia quebradas brotavam.\nEle pegou os espinhos ensanguentados para se coroar.\n\"Somente uma pessoa pode me matar ou me salvar... eu mesmo.\"",
+                "HugoVlad_Talent_06_Desc_01": "Todos os disparos que atingem um inimigo podem ativar o estado <color=#FFFFFF>Ecos do Abismo</color>, por até 6s. Ativações repetidas reiniciam a duração. Além disso, quando o efeito <color=#FFFFFF>Totalização</color> é ativado, o dano da habilidade aumenta mais 60%. Quando o Golpe Final do <color=#FFFFFF>Ataque Especial Reforçado: Caçador de Almas — Castigo</color> atinge um inimigo não atordoado, também ativa o efeito <color=#FFFFFF>Totalização</color>, o Multiplicador de Dano do Golpe Final aumenta em um valor fixo de 1000%.",
+                "HugoVlad_Talent_06_Title_Realign": "Coroa de Espinhos"
+            }
+        ]
+    },
+    "1331": {
+        "role_id": 1331,
+        "name": "Vivian Banshee",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Vivian_Talent_01_Title": "\"Passeio Primaveril no Pomar\"",
+                "Vivian_Talent_01_Desc_01_Realign": "Ao consumir 4 <color=#FFFFFF>Plumas Protetoras</color>, recupera 1 <color=#FFFFFF>Pluma Voadora</color>.\nInimigos sob efeito da <color=#FFFFFF>Profecia de Vivian</color> recebem 16% mais dano de qualquer tipo de Anomalia de Atributo e de <color=#FFFFFF>Disfunção</color>.",
+                "Vivian_Talent_01_Desc_02": "\"Cada amanhecer é o primeiro encontro com você, e cada noite é um reencontro.\"\nCerta vez, ela viu o destino ser imprevisível, mas o final imutável está sempre marcado por lágrimas.\nMas desde que você apareceu, ela não quer mais ser o pássaro profético das calamidades. Ela está disposta a desaparecer no fogo, dormir sob a luz e usar tudo ao seu alcance para mudar o seu destino.\nEntão, por favor, não feche a janela, pois o pássaro lhe trará amor e levará embora a morte.",
+                "Vivian_Talent_01_Desc_01": "Ao consumir 4 <color=#FFFFFF>Plumas Protetoras</color>, recupera 1 <color=#FFFFFF>Pluma Voadora</color>. Inimigos sob efeito da <color=#FFFFFF>Profecia de Vivian</color> recebem 16% mais dano de qualquer tipo de Anomalia de Atributo e de <color=#FFFFFF>Disfunção</color>.",
+                "Vivian_Talent_01_Title_Realign": "\"Passeio Primaveril no Pomar\""
+            },
+            {
+                "talent_id": "2",
+                "Vivian_Talent_02_Title": "\"Uma Noite Tempestuosa\"",
+                "Vivian_Talent_02_Desc_01_Realign": "A <color=#FE437E>Taxa de Amplificação de Anomalia de Éter</color> de Vivian aumenta 25%.\nO bônus de Proficiência de Anomalia proveniente de <color=#FFFFFF>Floração Anômala</color> aumenta até 130% do valor original e ignora 15% resistência a atributos do alvo.",
+                "Vivian_Talent_02_Desc_02": "\"Se eu nunca tivesse visto o sol, eu poderia suportar a escuridão.\"\nA palavra \"{M#salvador}{F#salvadora}\" é muito forte, mas as palavras \"alma gentil\" podem parecer irreverentes.\nEntão, em vez disso, você é {M#o capitão}{F#a capitã} dela.\nEm meio à tempestade de malícia e arrependimento, você foi a luz que a guiou através da torrente.\nDepois disso, ela não suportou mais a maldição e os pesadelos e partiu em uma jornada para encontrar você.",
+                "Vivian_Talent_02_Desc_01": "A <color=#FE437E>Taxa de Amplificação de Anomalia de Éter</color> de Vivian aumenta 25%. O bônus de Proficiência de Anomalia proveniente de <color=#FFFFFF>Floração Anômala</color> aumenta até 130% do valor original e ignora 15% resistência a atributos do alvo.",
+                "Vivian_Talent_02_Title_Realign": "\"Uma Noite Tempestuosa\""
+            },
+            {
+                "talent_id": "3",
+                "Vivian_Talent_03_Title": "\"Outra Versão\"",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Vivian_Talent_03_Desc_02": "\"Nós usamos o pôr do sol para medir a sombra {M#um do outro}{F#uma da outra} e descobrimos que elas se sobrepõem por completo.\"\nVocê não sabe, mas em incontáveis crepúsculos, ela assistiu ao mesmo pôr do sol que você, aquecendo o oceano até se tornar lindo e quente.\nDe vários caminhos, ela escolheu seguir por aquele que leva até você.\nE hoje, a sombra dela finalmente sobrepõe a sua.\nE hoje, o sol poente ainda está lá.",
+                "Vivian_Talent_03_Title_Realign": "\"Outra Versão\""
+            },
+            {
+                "talent_id": "4",
+                "Vivian_Talent_04_Title": "\"O Vento Entre os Juncos\"",
+                "Vivian_Talent_04_Desc_01_Realign": "O <color=#FFFFFF>Ataque Básico: Vestido Esvoaçante — Suspensão</color> e o <color=#FFFFFF>Ataque Básico: Florescer da Pena Cadente</color> sempre causam Crítico e o ATQ de Vivian aumenta 12%, por 12s. Ativações repetidas reiniciam a duração.\nAo entrar em combate, Vivian obtém 5 <color=#FFFFFF>Plumas Protetoras</color> imediatamente.",
+                "Vivian_Talent_04_Desc_02": "\"Que meu coração seja como o luar que ilumina o caminho sob seus pés.\"\nEm seu caminho para alcançar você, ela se tornou uma cúpula.\nSeu amor não é tão grande, nem tão filantrópico.\nMas, por você, ela pode derramar a luz da lua e cobrir a escuridão, e também pode reparar as fissuras.\nPara ela, você representa sua única fonte de generosidade e sua maior fonte de coragem.",
+                "Vivian_Talent_04_Desc_01": "O <color=#FFFFFF>Ataque Básico: Vestido Esvoaçante — Suspensão</color> e o <color=#FFFFFF>Ataque Básico: Florescer da Pena Cadente</color> sempre causam Crítico e o ATQ de Vivian aumenta 12%, por 12s. Ativações repetidas reiniciam a duração.\nAo entrar em combate, Vivian obtém 5 <color=#FFFFFF>Plumas Protetoras</color> imediatamente.",
+                "Vivian_Talent_04_Title_Realign": "\"O Vento Entre os Juncos\""
+            },
+            {
+                "talent_id": "5",
+                "Vivian_Talent_05_Title": "\"Soneto\"",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Vivian_Talent_05_Desc_02": "\"Posso comparar-te ao verão?\"\nComo um pássaro, ela parte no fim do outono com emoção e esperança. Suas asas tocam a neve do inverno; na primavera, leva no bico uma flor, e assim mergulha no sol ardente do verão.\nApenas porque em seus olhos há milhares de sóis, fazendo-a amar para sempre o calor, sem temer o frio e a geada.",
+                "Vivian_Talent_05_Title_Realign": "\"Soneto\""
+            },
+            {
+                "talent_id": "6",
+                "Vivian_Talent_06_Title": "\"Vivian\"",
+                "Vivian_Talent_06_Desc_01_Realign": "Vivian causa 40% mais <color=#FE437E>Dano de Éter</color>, ao executar uma Esquiva Perfeita durante o avanço do <color=#FFFFFF>Ataque Básico: Fidalga — Valsa</color>, ou usar <color=#FFFFFF>Ataque Especial Reforçado: Elegia à Violeta</color> recupera 1 acúmulo de <color=#FFFFFF>Pluma Voadora</color>. Lançar <color=#FFFFFF>Ataque Básico: Vestido Esvoaçante — Suspensão</color> consome todos os acúmulos de <color=#FFFFFF>Pluma Protetora</color>, aumenta consideravelmente a área do ataque e, ao atingir, ativa uma <color=#FFFFFF>Floração Anômala</color> especial. Os acúmulos adicionais de <color=#FFFFFF>Pluma Protetora</color> consumidos aumentam a porcentagem de dano de anomalia da <color=#FFFFFF>Floração Anômala</color>. Pode-se consumir até 5 acúmulos de <color=#FFFFFF>Pluma Protetora</color> para aumentar o dano para até 5 vezes do valor original.",
+                "Vivian_Talent_06_Desc_02": "\"'Vivian' é um poema de amor dedicado exclusivamente a você.\"\n\"Você e eu temos todo o tempo do mundo.\"\n\"Por isso, permita-me escrever o resto da minha vida na sua, como uma nota de rodapé.\"",
+                "Vivian_Talent_06_Desc_01": "Vivian causa 40% mais <color=#FE437E>Dano de Éter</color>, ao executar uma Esquiva Perfeita durante o avanço do <color=#FFFFFF>Ataque Básico: Fidalga — Valsa</color>, ou usar <color=#FFFFFF>Ataque Especial Reforçado: Elegia à Violeta</color> recupera 1 acúmulo de <color=#FFFFFF>Pluma Voadora</color>.\nLançar <color=#FFFFFF>Ataque Básico: Vestido Esvoaçante — Suspensão</color> consome todos os acúmulos de <color=#FFFFFF>Pluma Protetora</color>, aumenta consideravelmente a área do ataque e, ao atingir, ativa uma <color=#FFFFFF>Floração Anômala</color> especial. Os acúmulos adicionais de <color=#FFFFFF>Pluma Protetora</color> consumidos aumentam a porcentagem de dano de anomalia da <color=#FFFFFF>Floração Anômala</color>. Pode-se consumir até 5 acúmulos de <color=#FFFFFF>Pluma Protetora</color> para aumentar o dano para até 5 vezes do valor original.",
+                "Vivian_Talent_06_Title_Realign": "\"Vivian\""
+            }
+        ]
+    },
+    "1371": {
+        "role_id": 1371,
+        "name": "Yixuan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "YiXuan_Talent_01_Title": "Caminho Espiritual",
+                "YiXuan_Talent_01_Desc_01_Realign": "Ao entrar em combate, a Taxa CRIT aumenta 10% e obtém imediatamente 120 <color=#FFFFFF>Pontos de Técnica</color>. No Modo de Reconhecimento, esse efeito só pode ser ativado uma vez a cada 180s.\nQuando qualquer membro da equipe atinge um inimigo, Yixuan invoca um Raio descendente extra automaticamente, causando dano equivalente a 50% de sua Força Bruta e recuperando mais 5 pontos de Adrenalina. Esse efeito pode ser ativado uma vez a cada 6s.",
+                "YiXuan_Talent_01_Desc_02": "\"O destino é mutável e o caminho é imprevisível. Somente um espírito puro permanece inabalável. Mesmo sob as marés do tempo, não carrego arrependimentos.\"\n\"As artes místicas têm milhares de formas, mas seu cerne é sempre o mesmo. O caminho pode se bifurcar e até falhar, mas o espírito permanece inquebrável.\"\n\"Por mais perigosa que seja a situação e por mais poderoso que o inimigo possa ser, sempre se adapte e enfrente tudo com calma.\"",
+                "YiXuan_Talent_01_Desc_01": "Ao entrar em combate, a Taxa CRIT aumenta 10% e obtém imediatamente 120 <color=#FFFFFF>Pontos de Técnica</color>. No Modo de Reconhecimento, esse efeito só pode ser ativado uma vez a cada 180s. Quando qualquer membro da equipe atinge um inimigo, Yixuan invoca um Raio descendente extra automaticamente, causando dano equivalente a 50% de sua Força Bruta e recuperando mais 5 pontos de Adrenalina. Esse efeito pode ser ativado uma vez a cada 6s.",
+                "YiXuan_Talent_01_Title_Realign": "Caminho Espiritual"
+            },
+            {
+                "talent_id": "2",
+                "YiXuan_Talent_02_Title": "Dissipação da Calamidade",
+                "YiXuan_Talent_02_Desc_01_Realign": "Quando um <color=#FFFFFF>Supremo</color> ou <color=#FFFFFF>Ataque Especial Reforçado</color> causa dano, ignora 15% da <color=#FE437E>Resistência ao Éter</color> do inimigo. Ao executar <color=#FFFFFF>Supremo: Nuvem de Sombras de Qingming</color>, a duração do Atordoamento de todos os inimigos aumenta 3s. Durante um único estado de Atordoamento, os inimigos só podem ter esse efeito aplicado uma vez e não acumula com efeitos semelhantes. Além disso, ao executar <color=#FFFFFF>Supremo: Supressão de Talismãs</color>, obtém um acúmulo do efeito <color=#FFFFFF>Tinta Condensada</color>. Após o <color=#FFFFFF>Ataque Básico: Impacto Qingming</color> ou o <color=#FFFFFF>Ataque Especial Reforçado: Extinção das Sombras de Tinta</color>, pressione o botão do <color=#FFFFFF>Ataque Básico</color>, ou, após o <color=#FFFFFF>Ataque Especial Reforçado: Impacto Qingming — Ruptura</color>, pressione o botão do <color=#FFFFFF>Ataque Especial</color> para consumir um acúmulo e executar um <color=#FFFFFF>Ataque Especial Reforçado: Supressão de Talismãs — Ruptura</color>, causando até 1200% de Dano Bruto. Só pode ter um acúmulo de Tinta Condensada por vez.",
+                "YiXuan_Talent_02_Desc_02": "\"A vida é imprevisível. Nem mesmo os adivinhos são capazes de vislumbrar mais do que uma fração.\"\n\"Dissipar as calamidades e fazer rituais de bênçãos são apenas leituras dos sinais para aproveitar as coisas boas e evitar o mal.\"\n\"Depois que você dominar a técnica para evitar as calamidades, também poderá usá-la contra seus inimigos. Você só terá que invocar os desastres que eles ainda terão que enfrentar.\"",
+                "YiXuan_Talent_02_Desc_01": "Quando um <color=#FFFFFF>Supremo</color> ou <color=#FFFFFF>Ataque Especial Reforçado</color> causa dano, ignora 15% da <color=#FE437E>Resistência ao Éter</color> do inimigo. Ao executar <color=#FFFFFF>Supremo: Nuvem de Sombras de Qingming</color>, a duração do Atordoamento de todos os inimigos aumenta 3s. Durante um único estado de Atordoamento, os inimigos só podem ter esse efeito aplicado uma vez e não acumula com efeitos semelhantes. Além disso, ao executar <color=#FFFFFF>Supremo: Supressão de Talismãs</color>, obtém um acúmulo do efeito <color=#FFFFFF>Tinta Condensada</color>. Após o <color=#FFFFFF>Ataque Básico: Impacto Qingming</color> ou o <color=#FFFFFF>Ataque Especial Reforçado: Extinção das Sombras de Tinta</color>, pressione o botão do <color=#FFFFFF>Ataque Básico</color>, ou, após o <color=#FFFFFF>Ataque Especial Reforçado: Impacto Qingming — Ruptura</color>, pressione o botão do <color=#FFFFFF>Ataque Especial</color> para consumir um acúmulo e executar um <color=#FFFFFF>Ataque Especial Reforçado: Supressão de Talismãs — Ruptura</color>, causando até 1200% de Dano Bruto. Só pode ter um acúmulo de Tinta Condensada por vez.",
+                "YiXuan_Talent_02_Title_Realign": "Dissipação da Calamidade"
+            },
+            {
+                "talent_id": "3",
+                "YiXuan_Talent_03_Title": "Ciclo de Yin e Yang",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "YiXuan_Talent_03_Desc_02": "\"Tudo neste mundo segue o princípio da afinidade e da disparidade. Se você for capaz de enxergar o que isso significa, você poderá equilibrar yin e yang para derrotar seus inimigos.\"\n\"Para alcançar os melhores resultados com técnicas simples, não se pode pegar atalhos. Os melhores resultados vêm de forma natural com esforço contínuo.\"",
+                "YiXuan_Talent_03_Title_Realign": "Ciclo de Yin e Yang"
+            },
+            {
+                "talent_id": "4",
+                "YiXuan_Talent_04_Title": "O Caminho do Misticismo",
+                "YiXuan_Talent_04_Desc_01_Realign": "Ao ativar um <color=#FFFFFF>Supremo</color>, obtém um acúmulo de <color=#FFFFFF>Paz Interior</color>, até um máximo de 2 acúmulos. Para cada acúmulo de <color=#FFFFFF>Paz Interior</color>, o dano do próximo <color=#FFFFFF>Ataque Especial Reforçado: Técnica das Nuvens</color> e do <color=#FFFFFF>Ataque Especial Reforçado: Extinção das Sombras de Tinta</color> aumenta 30%.",
+                "YiXuan_Talent_04_Desc_02": "\"Dizem que muitas transformações surgem de um mesmo princípio. Ao estudar as técnicas místicas, não se atenha a técnicas, mas busque compreender seu verdadeiro significado.\"\n\"Se você for capaz de perceber seus princípios centrais, cada técnica se transforma em outra diferente. Assim é o caminho do misticismo: infinitas formas se convergem em uma unidade.\"",
+                "YiXuan_Talent_04_Desc_01": "Ao ativar um <color=#FFFFFF>Supremo</color>, obtém um acúmulo de <color=#FFFFFF>Paz Interior</color>, até um máximo de 2 acúmulos. Para cada acúmulo de <color=#FFFFFF>Paz Interior</color>, o dano do próximo <color=#FFFFFF>Ataque Especial Reforçado: Técnica das Nuvens</color> e do <color=#FFFFFF>Ataque Especial Reforçado: Extinção das Sombras de Tinta</color> aumenta 30%.",
+                "YiXuan_Talent_04_Title_Realign": "O Caminho do Misticismo"
+            },
+            {
+                "talent_id": "5",
+                "YiXuan_Talent_05_Title": "Contemplação das Nuvens",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "YiXuan_Talent_05_Desc_02": "\"Para dominar as técnicas místicas, estudos diligentes e uma boa reflexão são apenas o começo. É preciso aprender a manter a mente pura, ouvir o chamado do vento e observar as nuvens.\"\n\"Ao transcender para o plano em que a barreira entre o ego e o mundo exterior se desfoca, você aprenderá a controlar o Éter quase sem esforço.\"\n\"Se você persistir, poderá enfrentar qualquer mudança com uma calma imutável.\"",
+                "YiXuan_Talent_05_Title_Realign": "Contemplação das Nuvens"
+            },
+            {
+                "talent_id": "6",
+                "YiXuan_Talent_06_Title": "Leveza e Calma",
+                "YiXuan_Talent_06_Desc_01_Realign": "Após executar o <color=#FFFFFF>Supremo: Nuvem de Sombras de Qingming</color>, obtém um acúmulo do efeito <color=#FFFFFF>Respiração Controlada</color>.\nDurante esse efeito, é possível ignorar o custo de <color=#FFFFFF>Pontos de Técnica</color> para executar um <color=#FFFFFF>Supremo: Supressão de Talismãs</color> uma vez.\nO efeito de <color=#FFFFFF>Respiração Controlada</color> termina depois que o <color=#FFFFFF>Supremo: Supressão de Talismãs</color> termina. Esse efeito só pode ser obtido uma vez a cada 30s.\nApenas um acúmulo de <color=#FFFFFF>Respiração Controlada</color> pode ser obtido por vez.\nAlém disso, durante o estado de <color=#FFFFFF>Meditação</color>, a Força Bruta de Yixuan aumenta 20%.",
+                "YiXuan_Talent_06_Desc_02": "\"Dominar o movimento com a leveza. No movimento, há calma, e na calma há movimento.\"\n\"A qualquer momento, se sua mente se mantiver calma, você poderá enfrentar qualquer mudança com uma calma imutável, possibilitando o golpe da vitória no momento oportuno.\"\n\"Você entende?\"\n\"Se não, não tem problema... Após uma contemplação silenciosa, chega o momento de epifania. Essa é apenas mais uma expressão para 'leveza e calma'.\"",
+                "YiXuan_Talent_06_Desc_01": "Após executar o <color=#FFFFFF>Supremo: Nuvem de Sombras de Qingming</color>, obtém um acúmulo do efeito <color=#FFFFFF>Respiração Controlada</color>.\nDurante esse efeito, é possível ignorar o custo de <color=#FFFFFF>Pontos de Técnica</color> para executar um <color=#FFFFFF>Supremo: Supressão de Talismãs</color> uma vez.\nO efeito de <color=#FFFFFF>Respiração Controlada</color> termina depois que o <color=#FFFFFF>Supremo: Supressão de Talismãs</color> termina. Esse efeito só pode ser obtido uma vez a cada 30s.\nApenas um acúmulo de <color=#FFFFFF>Respiração Controlada</color> pode ser obtido por vez.\nAlém disso, durante o estado de <color=#FFFFFF>Meditação</color>, a Força Bruta de Yixuan aumenta 20%.",
+                "YiXuan_Talent_06_Title_Realign": "Leveza e Calma"
+            }
+        ]
+    },
+    "1391": {
+        "role_id": 1391,
+        "name": "Ju Fufu",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Jufufu_Talent_01_Title": "Tigresa Adoravelmente Assustadora",
+                "Jufufu_Talent_01_Desc_01_Realign": "Ao entrar em combate, a Taxa CRIT de Ju Fufu aumenta 12% e ela obtém 100 pontos de <color=#FFFFFF>Vontade</color> imediatamente.\nQuando o <color=#FFFFFF>Ataque em Cadeia</color> de Ju Fufu atinge um inimigo afetado por Atordoamento, o Multiplicador de Dano de Atordoamento do alvo aumenta 35% por 30s.",
+                "Jufufu_Talent_01_Desc_02": "\"O tema de despedidas e da vida e morte é muito difícil para as crianças entenderem, muito pesado para os adultos e muito cruel para os idosos.\"\n\"Mas eu não tenho medo. Sou uma tirena tigresa que aprendeu essa lição cedo demais.\"\n\"Eu sou uma tigresa enorme e assustadora, animaizinhos fofos, não olhem diretamente nos meus olhos!\"",
+                "Jufufu_Talent_01_Desc_01": "Ao entrar em combate, a Taxa CRIT de Ju Fufu aumenta 12% e ela obtém 100 pontos de <color=#FFFFFF>Vontade</color> imediatamente. Quando o <color=#FFFFFF>Ataque em Cadeia</color> de Ju Fufu atinge um inimigo afetado por Atordoamento, o Multiplicador de Dano de Atordoamento do alvo aumenta 35% por 30s.",
+                "Jufufu_Talent_01_Title_Realign": "Tigresa Adoravelmente Assustadora"
+            },
+            {
+                "talent_id": "2",
+                "Jufufu_Talent_02_Title": "Poderosa Guerreira Qingming",
+                "Jufufu_Talent_02_Desc_01_Realign": "No estado de <color=#FFFFFF>Rugido do Tigre</color>, o Dano CRIT da personagem aumenta mais 22%.\nQuando qualquer personagem ativa um <color=#FFFFFF>Supremo</color>, Ju Fufu obtém 3 pontos de <color=#FFFFFF>Embalo</color>.",
+                "Jufufu_Talent_02_Desc_02": "\"As técnicas que minha mestra ensinou são verdadeiramente incríveis, apesar de incomparáveis com os contos de fadas e lendas.\"\n\"Se eu fosse um pouco mais forte, só um pouco mais forte, será que conseguiria refazer todo esse passado predestinado, como nos contos de fadas e lendas?\"\n\"No começo eu também não entendia muito bem, mas, na verdade, é muito fácil quando você pega o jeito. Deixa que eu te ensino, aprendiz!\"",
+                "Jufufu_Talent_02_Desc_01": "No estado de <color=#FFFFFF>Rugido do Tigre</color>, o Dano CRIT da personagem aumenta mais 22%. Quando qualquer personagem ativa um <color=#FFFFFF>Supremo</color>, Ju Fufu obtém 3 pontos de <color=#FFFFFF>Embalo</color>.",
+                "Jufufu_Talent_02_Title_Realign": "Poderosa Guerreira Qingming"
+            },
+            {
+                "talent_id": "3",
+                "Jufufu_Talent_03_Title": "Jovem Guerreira",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Jufufu_Talent_03_Desc_02": "\"Naquele momento, não havia diferença entre bem ou mal. Talvez tudo dependa de um único pensamento. Um único pensamento deixa um rastro de arrependimentos, muitos \"e ses\"... e muitos sacrifícios e amor.\"\n\"Não sou inteligente, não entendo muitos dos principais conceitos, então só faço o que considero correto.\"\n\"Onde a Guerreira Fufu está, a justiça é feita!\"",
+                "Jufufu_Talent_03_Title_Realign": "Jovem Guerreira"
+            },
+            {
+                "talent_id": "4",
+                "Jufufu_Talent_04_Title": "Tigresa Exterminadora de Demônios",
+                "Jufufu_Talent_04_Desc_01_Realign": "Quando Ju Fufu está no estado <color=#FFFFFF>Rugido do Tigre</color>, seu Dano CRIT aumenta 35%.",
+                "Jufufu_Talent_04_Desc_02": "\"Os etéreos são assustadores, os bandidos são assustadores, a Esfera Negra é assustadora, a noite sem estrelas é assustadora. Mas eu sou a mística mais poderosa do Monte Yunkui. Não posso recuar, não posso deixar minha história se repetir.\"\n\"Esta cena sombria e desoladora é demais para mim. Não aguento ver as montanhas, a lua ou as nuvens.\"\n\"Eu sou a mística mais poderosa do Monte Yunkui! Espíritos e demônios, chegou a hora do fim!\"",
+                "Jufufu_Talent_04_Desc_01": "Quando Ju Fufu está no estado <color=#FFFFFF>Rugido do Tigre</color>, seu Dano CRIT aumenta 35%.",
+                "Jufufu_Talent_04_Title_Realign": "Tigresa Exterminadora de Demônios"
+            },
+            {
+                "talent_id": "5",
+                "Jufufu_Talent_05_Title": "Veterana de Vontade Divina Inigualável",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Jufufu_Talent_05_Desc_02": "\"Não temam! Sua veterana está aqui!\"\n\"Quando eu era pequena, o guerreiro de que eu precisava nunca chegou, mas eu não deixarei você esperando, eu serei a sua guerreira!\"\n\"Você pode mexer comigo, mas não com meus aprendizes! Não me segure! Grrrr!\"",
+                "Jufufu_Talent_05_Title_Realign": "Veterana de Vontade Divina Inigualável"
+            },
+            {
+                "talent_id": "6",
+                "Jufufu_Talent_06_Title": "O Rugido do Tigre Interior",
+                "Jufufu_Talent_06_Desc_01_Realign": "O dano causado pelo <color=#FFFFFF>Ataque em Cadeia</color> de Ju Fufu aumenta 30%. Quando Ju Fufu atinge um inimigo durante o estado de rotação em alta velocidade, ao consumir <color=#FFFFFF>Embalo</color>, dispara 3 pipocas em chamas. Cada pipoca causa dano equivalente a 160% do ATQ de Ju Fufu. Esse dano conta como dano de <color=#FFFFFF>Ataque em Cadeia</color>.",
+                "Jufufu_Talent_06_Desc_02": "\"Minha determinação derruba a lua sobre a montanha, a minha presença imponente nivela as cavernas... O que achou? Esse poema captura a grandeza da minha presença?\"\n\"O nome de um herói não importa, o arrependimento não importa, as lágrimas não importam, e, nem mesmo a separação que um dia virá, importa.\"\n\"Desde que você se lembre que um dia eu rugi corajosamente.\"",
+                "Jufufu_Talent_06_Desc_01": "O dano causado pelo <color=#FFFFFF>Ataque em Cadeia</color> de Ju Fufu aumenta 30%. Quando Ju Fufu atinge um inimigo durante o estado de rotação em alta velocidade, ao consumir <color=#FFFFFF>Embalo</color>, dispara 3 pipocas em chamas. Cada pipoca causa dano equivalente a 160% do ATQ de Ju Fufu. Esse dano conta como dano de <color=#FFFFFF>Ataque em Cadeia</color>.",
+                "Jufufu_Talent_06_Title_Realign": "O Rugido do Tigre Interior"
+            }
+        ]
+    },
+    "1421": {
+        "role_id": 1421,
+        "name": "Pan Yinhu",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "PanYinhu_Talent_01_Title": "Proteção de Qi",
+                "PanYinhu_Talent_01_Desc_01_Realign": "Todas as unidades causam 10% mais dano contra inimigos afetados pelo efeito de <color=#FFFFFF>Último Suspiro</color>.",
+                "PanYinhu_Talent_01_Desc_02": "Esta técnica de Yunkui permite controlar o fluxo do Éter externo e proteger os meridianos e músculos em seu interior. O qi atua como um escudo impenetrável, que nenhuma espada ou lança pode atravessar. Esse é o segredo por trás da capacidade de Pan Yinhu de resistir a cada ataque.\nObservação: esta técnica é particularmente útil quando você precisa disputar um lugar na fila pelos produtos em promoção no mercado.",
+                "PanYinhu_Talent_01_Desc_01": "Todas as unidades causam 10% mais dano contra inimigos afetados pelo efeito de <color=#FFFFFF>Último Suspiro</color>.",
+                "PanYinhu_Talent_01_Title_Realign": "Proteção de Qi"
+            },
+            {
+                "talent_id": "2",
+                "PanYinhu_Talent_02_Title": "Toque da Morte de Yunkui",
+                "PanYinhu_Talent_02_Desc_01_Realign": "Para cada 6 pontos de <color=#FFFFFF>Força de Ruptura</color> consumidos, Pan Yinhu recupera 4 pontos de Energia, e quando atinge um inimigo com um <color=#FFFFFF>Ataque Especial: Toque da Morte</color>, a duração do efeito de <color=#FFFFFF>Último Suspiro</color> aumenta 12s.",
+                "PanYinhu_Talent_02_Desc_02": "\"Hehe, não consegue se mover, não é, meliante?\"\n\"Esta técnica se chama 'Toque da Morte de Yunkui', e pode paralisar o corpo e liberar os meridianos! É a técnica suprema de Yunkui para punir os maus e impor justiça!\"\n\"Hã...? Está dizendo que te segurei tão forte que seu corpo inteiro ficou dormente? Então está bem... Só me diga se consegue se mexer ou não!\"",
+                "PanYinhu_Talent_02_Desc_01": "Para cada 6 pontos de <color=#FFFFFF>Força de Ruptura</color> consumidos, Pan Yinhu recupera 4 pontos de Energia, e quando atinge um inimigo com um <color=#FFFFFF>Ataque Especial: Toque da Morte</color>, a duração do efeito de <color=#FFFFFF>Último Suspiro</color> aumenta 12s.",
+                "PanYinhu_Talent_02_Title_Realign": "Toque da Morte de Yunkui"
+            },
+            {
+                "talent_id": "3",
+                "PanYinhu_Talent_03_Title": "Pontos de Acupuntura Não Meridianos",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "PanYinhu_Talent_03_Desc_02": "\"Estes pontos de pressão são muito similares a nós, tirenos pandas.\"\n\"São poucos e estão espalhados, não se encaixam em nenhum sistema específico e quase ninguém jamais os estudou. É uma pena...\"\n\"Mas quando eles finalmente tiram uma carta da manga, é uma grande surpresa, não acha?\"",
+                "PanYinhu_Talent_03_Title_Realign": "Pontos de Acupuntura Não Meridianos"
+            },
+            {
+                "talent_id": "4",
+                "PanYinhu_Talent_04_Title": "Cozinheiro de Mão Cheia",
+                "PanYinhu_Talent_04_Desc_01_Realign": "Quando o <color=#FFFFFF>Supremo: Um Banquete Digno de um Imperador!</color> cura toda a equipe, a recuperação de PV aumenta 25%, e o efeito de cura ao longo do tempo aumenta 25%. Ao ativar o <color=#FFFFFF>Supremo: Um Banquete Digno de um Imperador!</color>, obtém o efeito <color=#FFFFFF>Provisões Reservas</color>. Quando qualquer membro da equipe perde PV, ao usar o <color=#FFFFFF>Supremo: Um Banquete Digno de um Imperador!</color>, usa o efeito de <color=#FFFFFF>Provisões Reservas</color> para recuperar imediatamente 50% dos PV. Esse efeito não pode ser acumulado.",
+                "PanYinhu_Talent_04_Desc_02": "Na primeira vez que cozinhou, ele quase incendiou a cozinha. Entre os que vieram para ajudar a apagar o fogo, havia um cozinheiro que, ao ver a pilha de comida queimada, usou os ovos que sobraram para preparar arroz frito para ele.\nPan Yinhu devorou a comida com lágrimas nos olhos e, ao levantar os olhos, o cozinheiro estava mostrando a ele um papel com o número \"100\" escrito nele.\n\"Eu compreendo, mestre! Você quer dizer que devo me dedicar 100% quando estiver cozinhando, certo?\" \"Não, estou dizendo que são 100 dennies por mordida, e você já deu mais de cem mordidas. Agora vai ter que pagar a conta.\"\nDaquele dia em diante, Pan Yinhu insistiu em cozinhar para si mesmo e nunca mais voltou a errar. Foi assim que nasceu um verdadeiro cozinheiro de mão cheia.",
+                "PanYinhu_Talent_04_Desc_01": "Quando o <color=#FFFFFF>Supremo: Um Banquete Digno de um Imperador!</color> cura toda a equipe, a recuperação de PV aumenta 25%, e o efeito de cura ao longo do tempo aumenta 25%. Ao ativar o <color=#FFFFFF>Supremo: Um Banquete Digno de um Imperador!</color>, obtém o efeito <color=#FFFFFF>Provisões Reservas</color>. Quando qualquer membro da equipe perde PV, ao usar o <color=#FFFFFF>Supremo: Um Banquete Digno de um Imperador!</color>, usa o efeito de <color=#FFFFFF>Provisões Reservas</color> para recuperar imediatamente 50% dos PV. Esse efeito não pode ser acumulado.",
+                "PanYinhu_Talent_04_Title_Realign": "Cozinheiro de Mão Cheia"
+            },
+            {
+                "talent_id": "5",
+                "PanYinhu_Talent_05_Title": "\"Peculiar\"",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "PanYinhu_Talent_05_Desc_02": "Na vasta Nova Eridu, a existência de um tireno panda é algo verdadeiramente peculiar. Ele sempre se encolhia diante dos olhares curiosos das pessoas e se acostumou com uma vida solitária, sem o apoio de ninguém.\nSomente quando ele se tornou um discípulo do Monte Yunkui, que ele deixou de sentir tão isolado.\nE quando ele percebeu que muitos cidadãos até mesmo pagariam para tirar uma foto com um tireno panda... ele parou de se incomodar com os olhares.",
+                "PanYinhu_Talent_05_Title_Realign": "\"Peculiar\""
+            },
+            {
+                "talent_id": "6",
+                "PanYinhu_Talent_06_Title": "Teoria dos Meridianos",
+                "PanYinhu_Talent_06_Desc_01_Realign": "O efeito de <color=#FFFFFF>Fluxo Meridiano</color> fornecido pela <color=#FFFFFF>Passiva Principal: Pulso Cósmico</color> aumenta mais 6% do ATQ inicial de Pan Yinhu. A Força Bruta máxima fornecida por esse efeito aumenta para 720 pontos.",
+                "PanYinhu_Talent_06_Desc_02": "\"Há um velho ditado que afirma que existem 365 pontos de pressão nos pés. Engraçado que é o mesmo número de formas de viver a vida.\"\n\"Aqui, escolha qualquer ponto que seja do seu agrado neste diagrama.\"\n\"Este ponto representa seu estilo de vida atual: não importa onde está, nem para que serve. Contanto que você goste, é suficiente.\"\n\"Quanto ao motivo de escolher, deixe-me pensar... Ah, é claro. Da próxima vez que eu lidar com alguns bandidos, este será o ponto que vou atacar!\"",
+                "PanYinhu_Talent_06_Desc_01": "O efeito de <color=#FFFFFF>Fluxo Meridiano</color> fornecido pela <color=#FFFFFF>Passiva Principal: Pulso Cósmico</color> aumenta mais 6% do ATQ inicial de Pan Yinhu. A Força Bruta máxima fornecida por esse efeito aumenta para 720 pontos.",
+                "PanYinhu_Talent_06_Title_Realign": "Teoria dos Meridianos"
+            }
+        ]
+    },
+    "1431": {
+        "role_id": 1431,
+        "name": "Ye Shunguang",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Zhenzhen_Talent_01_Title": "Vida do Sonho",
+                "Zhenzhen_Talent_01_Desc_01_Realign": "Ao entrar no campo de batalha, obtém 6 pontos de <color=#FFFFFF>Poder da Espada Qingming</color>. Esse efeito pode ser ativado uma vez a cada 180s no Modo de Reconhecimento.\nO efeito <color=#FFFFFF>Harmonia</color> da <color=#FFFFFF>Passiva Principal: Iluminação Transcendental</color> aumenta mais 10% do dano causado e ignora 20% da DEF do alvo.",
+                "Zhenzhen_Talent_01_Desc_02": "Inúmeras vezes, na calada da noite, ela se vê voltando àquele dia...\nA lâmina gritou. A espada reconhecia sua portadora, e um contrato foi selado. Era uma bênção ou uma maldição?\n\nNinguém sabe a resposta para essa pergunta, mas desde aquele dia, seu destino está ligado à espada.",
+                "Zhenzhen_Talent_01_Desc_01": "Ao entrar no campo de batalha, obtém 6 pontos de <color=#FFFFFF>Poder da Espada Qingming</color>. Esse efeito pode ser ativado uma vez a cada 180s no Modo de Reconhecimento.\nO efeito <color=#FFFFFF>Harmonia</color> da <color=#FFFFFF>Passiva Principal: Iluminação Transcendental</color> aumenta mais 10% do dano causado e ignora 20% da DEF do alvo.",
+                "Zhenzhen_Talent_01_Title_Realign": "Vida do Sonho"
+            },
+            {
+                "talent_id": "2",
+                "Zhenzhen_Talent_02_Title": "Luz e Sombra",
+                "Zhenzhen_Talent_02_Desc_01_Realign": "O acúmulo máximo de <color=#FFFFFF>Portadora</color> é aumentado para 6 e <color=#FFFFFF>Culminação</color> pode aumentar até 9.\nNo estado <color=#FFFFFF>Serenidade</color>, cada ponto de <color=#FFFFFF>Poder da Espada Qingming</color> consumido acumula 1 <color=#FFFFFF>Culminação</color>. O dano causado por <color=#FFFFFF>Ataque Especial Reforçado: Serenidade — Luz Voadora</color> e <color=#FFFFFF>Supremo: Corte Ilusório dos Céus</color> ignora 40% da DEF do alvo.",
+                "Zhenzhen_Talent_02_Desc_02": "O tempo continua fluindo, invernos vão dando espaço aos verões...\nO mundo todo dela se resumia a esse pequeno pedaço do Monte Yunkui, e ela só podia ver as quatro estações se alternando sobre a montanha.\nEm meio à solidão infinita e o medo constante, um \"outro lado\" começou a se materializar.\n\n\"Sou parte dela, desde o início, nunca nos separamos.\"\n\"Se ela é a luz, eu sou a sombra. Se ela é a imagem sagrada no alto, eu sou a que rasteja pela lama.\"\n\"Diferente dela, eu não quero ser uma 'heroína'.\"\n\"Eu só quero sobreviver.\"",
+                "Zhenzhen_Talent_02_Desc_01": "O acúmulo máximo de <color=#FFFFFF>Portadora</color> é aumentado para 6 e <color=#FFFFFF>Culminação</color> pode aumentar até 9. No estado <color=#FFFFFF>Serenidade</color>, cada ponto de <color=#FFFFFF>Poder da Espada Qingming</color> consumido acumula 1 <color=#FFFFFF>Culminação</color>. O dano causado por <color=#FFFFFF>Ataque Especial Reforçado: Serenidade — Luz Voadora</color> e <color=#FFFFFF>Supremo: Corte Ilusório dos Céus</color> ignora 40% da DEF do alvo.",
+                "Zhenzhen_Talent_02_Title_Realign": "Luz e Sombra"
+            },
+            {
+                "talent_id": "3",
+                "Zhenzhen_Talent_03_Title": "Espadachina",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Zhenzhen_Talent_03_Desc_02": "A espada lendária se esconde nas profundezas da montanha, ocultando seu fio.\nUma vez fora da bainha, um brilho gélido escapa da lâmina e se estende ao longe. Mesmo após vento e neve, um raio solitário perdura.\n\n\"O que é um espadachim?\"\n\"Nada mais que... alguém com uma coragem inabalável e a determinação de cortar através de tudo.\"",
+                "Zhenzhen_Talent_03_Title_Realign": "Espadachina"
+            },
+            {
+                "talent_id": "4",
+                "Zhenzhen_Talent_04_Title": "Parceria na Poeira",
+                "Zhenzhen_Talent_04_Desc_01_Realign": "Ganhe 1000 dB ao entrar na batalha. Esse efeito pode ser ativado uma vez a cada 180s no Modo de Reconhecimento. O bônus de Vulnerabilidade ao <color=#FFFFFF>Véu de Éter: Veredito</color> aumenta para 200%.",
+                "Zhenzhen_Talent_04_Desc_02": "Sob a grandiosa visão se escondem mentiras, e a salvação exige que ela se queime até as cinzas.\nO destino não lhe mostrou misericórdia, e ela foi em direção a seu fim alegremente.\n\n\"Eu entendo.\"\n\"Sei que vou ter muitas perdas na vida.\"\n\"Eu aceito tudo isso de bom grado.\"\n\"Eu escolho me tornar essa pessoa.\"",
+                "Zhenzhen_Talent_04_Desc_01": "Ganhe 1000 dB ao entrar na batalha. Esse efeito pode ser ativado uma vez a cada 180s no Modo de Reconhecimento. O bônus de Vulnerabilidade ao <color=#FFFFFF>Véu de Éter: Veredito</color> aumenta para 200%.",
+                "Zhenzhen_Talent_04_Title_Realign": "Parceria na Poeira"
+            },
+            {
+                "talent_id": "5",
+                "Zhenzhen_Talent_05_Title": "Centelha que Guia",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Zhenzhen_Talent_05_Desc_02": "\"No fim, acho que sou uma criança de sorte.\"\n\"O miasma não me afoga, o desastre não me consome.\"\n\"Nem mesmo a Espada Qingming pode me arrastar para o abismo sem fundo...\"\n\n\"Meu irmão, mestra, todos do Templo Suibian... e você.\"\n\"Eu sei que vocês sempre estarão me esperando.\"\nE assim, mesmo com um caminho cheio de obstáculos à frente, uma centelha de luz ilumina a jornada.",
+                "Zhenzhen_Talent_05_Title_Realign": "Centelha que Guia"
+            },
+            {
+                "talent_id": "6",
+                "Zhenzhen_Talent_06_Title": "Desejo na Lanterna",
+                "Zhenzhen_Talent_06_Desc_01_Realign": "Ao entrar em combate, obtém 2 acúmulos de <color=#FFFFFF>Desejo na Lanterna</color>. A cada vez que entra no estado <color=#FFFFFF>Serenidade</color>, obtém 1 acúmulo de <color=#FFFFFF>Desejo na Lanterna</color>, até o máximo de 4 acúmulos. Com 3 acúmulos de <color=#FFFFFF>Desejo na Lanterna</color>, o <color=#FFFFFF>Ataque Especial Reforçado: Serenidade — Retorno ao Pó</color> é substituído pelo <color=#FFFFFF>Supremo: Corte Ilusório dos Céus</color>. Ativar este <color=#FFFFFF>Supremo: Corte Ilusório dos Céus</color> consome 3 acúmulos de <color=#FFFFFF>Desejo na Lanterna</color>. O Golpe Final de <color=#FFFFFF>Ataque Especial Reforçado: Serenidade — Retorno ao Pó</color> e <color=#FFFFFF>Supremo: Corte Ilusório dos Céus</color> causa 1500% do ATQ como <color=#F0D12B>Dano Físico</color> adicional.",
+                "Zhenzhen_Talent_06_Desc_02": "Ela já esteve sozinha, caminhando na escuridão.\nEntão, empunhando sua espada, correu em direção ao desastre. Quando a Espada Qingming foi desembainhada, um arco-íris cortou o céu por um instante e iluminou o silêncio e a escuridão.\n\n\"Quero ser uma luzinha em meio a mil pirilampos.\"\n\"O sol vai nascer. Não importa quanto tempo dure a noite, sempre amanhece.\"\n\"No passado distante e no futuro distante, deve haver muita gente que fez a mesma escolha que eu. Nós... nunca estivemos sozinhos.\"",
+                "Zhenzhen_Talent_06_Desc_01": "Ao entrar em combate, obtém 2 acúmulos de <color=#FFFFFF>Desejo na Lanterna</color>. A cada vez que entra no estado <color=#FFFFFF>Serenidade</color>, obtém 1 acúmulo de <color=#FFFFFF>Desejo na Lanterna</color>, até o máximo de 4 acúmulos. Com 3 acúmulos de <color=#FFFFFF>Desejo na Lanterna</color>, o <color=#FFFFFF>Ataque Especial Reforçado: Serenidade — Retorno ao Pó</color> é substituído pelo <color=#FFFFFF>Supremo: Corte Ilusório dos Céus</color>. Ativar este <color=#FFFFFF>Supremo: Corte Ilusório dos Céus</color> consome 3 acúmulos de <color=#FFFFFF>Desejo na Lanterna</color>. O Golpe Final de <color=#FFFFFF>Ataque Especial Reforçado: Serenidade — Retorno ao Pó</color> e <color=#FFFFFF>Supremo: Corte Ilusório dos Céus</color> causa 1500% do ATQ como <color=#F0D12B>Dano Físico</color> adicional.",
+                "Zhenzhen_Talent_06_Title_Realign": "Desejo na Lanterna"
+            }
+        ]
+    },
+    "1051": {
+        "role_id": 1051,
+        "name": "Yidhari Murphy",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yidhari_Talent_01_Title": "Nas Profundezas do Passado",
+                "Yidhari_Talent_01_Desc_01_Realign": "Ativar o <color=#FFFFFF>Ataque Especial Reforçado</color> da Yidhari consome 10 pontos de Adrenalina a menos.\nApós <color=#FFFFFF>Ataque Especial Reforçado: Geada</color> ou <color=#FFFFFF>Ataque Especial Reforçado: Impacto Glacial</color>, mantenha o botão de Ataque Básico ou Ataque Especial pressionado para consumir 35 pontos de Adrenalina, não recuperar PV e conectar <color=#FFFFFF>Ataque Especial Reforçado: Impacto Glacial</color>. Este <color=#FFFFFF>Ataque Especial Reforçado: Impacto Glacial</color> recupera 100% mais PV que o original. Os <color=#FFFFFF>Ataques Básicos</color> e <color=#FFFFFF>Ataques Especiais Reforçados</color> de Yidhari ignoram 20% da <color=#98EFF0>resistência ao Gelo</color> do alvo.",
+                "Yidhari_Talent_01_Desc_02": "Ela mergulha no abismo impenetrável.\n\"Que lugar é esse, e para onde vai me levar?\"\nQuando a dúvida surge em seu coração, uma voz parece responder na escuridão:\n\"Este é o lugar do desconhecido, que abre caminho para todo o conhecimento.\"\nAs sombras caem com ela no abismo.\n\"Quem são elas, e por que suas sombras caem aqui?\"\nEla pensa nessa pergunta e a voz responde novamente:\n\"São pessoas que tiveram seus destinos interrompidos. O que cai aqui são seus passados.\"\nE a pequena garota abraça a própria solitude, e vai sendo levada para baixo com o peso das memórias.\nSeus olhos arregalados pela confusão veem apenas o frio, o silêncio e a solidão no fundo do abismo.",
+                "Yidhari_Talent_01_Desc_01": "Ativar o <color=#FFFFFF>Ataque Especial Reforçado</color> da Yidhari consome 10 pontos de Adrenalina a menos. Após <color=#FFFFFF>Ataque Especial Reforçado: Geada</color> ou <color=#FFFFFF>Ataque Especial Reforçado: Impacto Glacial</color>, mantenha o botão de Ataque Básico ou Ataque Especial pressionado para consumir 35 pontos de Adrenalina, não recuperar PV e conectar <color=#FFFFFF>Ataque Especial Reforçado: Impacto Glacial</color>. Este <color=#FFFFFF>Ataque Especial Reforçado: Impacto Glacial</color> recupera 100% mais PV que o original. Os <color=#FFFFFF>Ataques Básicos</color> e <color=#FFFFFF>Ataques Especiais Reforçados</color> de Yidhari ignoram 20% da <color=#98EFF0>resistência ao Gelo</color> do alvo.",
+                "Yidhari_Talent_01_Title_Realign": "Nas Profundezas do Passado"
+            },
+            {
+                "talent_id": "2",
+                "Yidhari_Talent_02_Title": "Quem Se Perdeu nos Pensamentos?",
+                "Yidhari_Talent_02_Desc_01_Realign": "Yidhari causa 40% mais Dano CRIT. Após ativar a <color=#FFFFFF>Friaca Monstra</color> ou a <color=#FFFFFF>Perseguição Esmagadora</color>, recupera 0,5 pontos de Adrenalina por segundo, por até 30s. Ativações repetidas reiniciam a duração.",
+                "Yidhari_Talent_02_Desc_02": "Os profundos pensamentos da garota repousam na escuridão.\nNão é seu infantil mundo da lua, não é nenhum devaneio.\nSua mente só vê as memórias que ela testemunhou.\n\"O que preciso fazer? O que mais preciso suportar?\"\n\"Ainda bem que sou eu, e não outra pessoa.\"\n\"Sei lidar com a solidão... eu acho.\"\nLendo as páginas das memórias, ela aceita serenamente o peso deste dom.",
+                "Yidhari_Talent_02_Desc_01": "Yidhari causa 40% mais Dano CRIT. Ativar a <color=#FFFFFF>Friaca Monstra</color> ou a <color=#FFFFFF>Perseguição Esmagadora</color>, recupera 0,5 pontos de Adrenalina por segundo, por até 30s. Ativações repetidas reiniciam a duração.",
+                "Yidhari_Talent_02_Title_Realign": "Quem Se Perdeu nos Pensamentos?"
+            },
+            {
+                "talent_id": "3",
+                "Yidhari_Talent_03_Title": "História que Ninguém Ouviu",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Yidhari_Talent_03_Desc_02": "Então os humanos são assim... complexos.\nUma vida pode conter tanta alegria e tanta tristeza.\nMas tudo cai nesse vazio, para ser engolido, apagado e enterrado.\nNinguém mais se importa com as risadas sinceras, ou os choros penosos...\nCada uma dessas histórias nunca contadas ficará fundida no abismo da alma.",
+                "Yidhari_Talent_03_Title_Realign": "História que Ninguém Ouviu"
+            },
+            {
+                "talent_id": "4",
+                "Yidhari_Talent_04_Title": "Florescer em Silêncio",
+                "Yidhari_Talent_04_Desc_01_Realign": "Quando os PV de Yidhari diminuem na <color=#FFFFFF>Passiva Principal: Devaneio dos Sonhos</color>, ela obtém 10% de dB.\nSob o efeito de <color=#FFFFFF>Véu de Éter: Nascente</color>, o Máx. de PV de Yidhari aumenta mais 5%.",
+                "Yidhari_Talent_04_Desc_02": "A flor treme ao florescer na escuridão, branca e translúcida, refletindo a única luz no fundo do abismo.\nUma alma frágil e forte ao mesmo tempo.\nEntre as inúmeras sombras que caem, derramando uma cascata de memórias, ela continua intocada, florescendo sozinha...\nMas, no fim, será que também padecerá e será levada sem nada onde se apoiar?",
+                "Yidhari_Talent_04_Desc_01": "Quando os PV de Yidhari diminuem na <color=#FFFFFF>Passiva Principal: Devaneio dos Sonhos</color>, ela recupera 10% de dB. Sob o efeito de <color=#FFFFFF>Véu de Éter: Nascente</color>, o Máx. de PV de Yidhari aumenta mais 5%.",
+                "Yidhari_Talent_04_Title_Realign": "Florescer em Silêncio"
+            },
+            {
+                "talent_id": "5",
+                "Yidhari_Talent_05_Title": "Um Oásis Real",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Yidhari_Talent_05_Desc_02": "\"Que olhos lindos... Ainda estou sonhando?\"\nAssim se encontraram pela primeira vez, o primeiro encontro com algo real.\nEntre o vazio e o absurdo, no infértil abismo que devora a tudo, ela vê aqueles olhos...\nEram um toque de verde irrompendo pelo deserto ardente, como um riacho nascendo do curso seco de um rio.\n\"Acho que encontrei... a esperança de que alguém me responderia.\"",
+                "Yidhari_Talent_05_Title_Realign": "Um Oásis Real"
+            },
+            {
+                "talent_id": "6",
+                "Yidhari_Talent_06_Title": "Finalmente um Sonho de Paz",
+                "Yidhari_Talent_06_Desc_01_Realign": "Após Yidhari consumir dB para ativar ou prolongar o <color=#FFFFFF>Véu de Éter: Nascente</color>, ela obtém <color=#FFFFFF>Iluminação</color> por 30s.\nSob o estado de <color=#FFFFFF>Iluminação</color>, ela causa 25% mais Dano Bruto, e, quando sofre dano letal pela primeira vez, seus PV não caem abaixo de 1, tornando-se invulnerável por 5s, enquanto recupera 25% de PV.",
+                "Yidhari_Talent_06_Desc_02": "Imersa nas ondas do passado, ela nunca tinha um momento de paz.\nSeu único refúgio era a própria solidão, onde escapava do barulho do mundo, mergulhava em histórias bizarras, buscando a quietude sob o véu da chuva fraca ou no abraço da água quente.\nAgora ela anda calmamente entre a multidão, sem se abalar com o barulho, ou o sol ardente, pois seu espírito não está mais envolvido pela ilusão, e a realidade é onde sua alma encontrou um porto seguro.",
+                "Yidhari_Talent_06_Desc_01": "Quando Yidhari consome dB para ativar ou prolongar o <color=#FFFFFF>Véu de Éter: Nascente</color>, ela obtém <color=#FFFFFF>Iluminação</color> por 30s. Sob o estado de <color=#FFFFFF>Iluminação</color>, ela causa 25% mais Dano Bruto, e, quando sofre dano fatal pela primeira vez, fica com 1 PV, e torna-se invulnerável por 5s, enquanto recupera 25% de PV.",
+                "Yidhari_Talent_06_Title_Realign": "Finalmente um Sonho de Paz"
+            }
+        ]
+    },
+    "1401": {
+        "role_id": 1401,
+        "name": "Alice Thymefield",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Alice_Talent_01_Title": "Punhado de Coentro",
+                "Alice_Talent_01_Desc_01_Realign": "Quando Alice ativa <color=#F0D12B>Ofensiva Polarizada</color>, recupera 25 pontos de <color=#FFFFFF>Rito da Espada</color>.\nQuando Alice ativa <color=#F0D12B>Ofensiva</color>, a DEF do inimigo diminui 20% por 30s.",
+                "Alice_Talent_01_Desc_02": "Um pé de coentro balança como uma estrela verde recém-nascida,\ntão frágil que seus dedos sentiam que poderiam atravessá-la.\nEla estendeu suas mãos trêmulas lentamente,\naconchegando aquele pequeno sentimento em suas palmas.\nSeu coração batia como um broto primaveril irrompendo a terra logo após a chuva da manhã.",
+                "Alice_Talent_01_Desc_01": "Quando Alice ativa <color=#F0D12B>Ofensiva Polarizada</color>, recupera 25 pontos de <color=#FFFFFF>Rito da Espada</color>. Quando Alice ativa <color=#F0D12B>Ofensiva</color>, a DEF do inimigo diminui 20% por 30s.",
+                "Alice_Talent_01_Title_Realign": "Punhado de Coentro"
+            },
+            {
+                "talent_id": "2",
+                "Alice_Talent_02_Title": "Sálvia na Ponta da Espada",
+                "Alice_Talent_02_Desc_01_Realign": "Quando o <color=#FFFFFF>Supremo: Encerramento Estelar</color> acerta o inimigo com Golpe Final, a <color=#F0D12B>Ofensiva Polarizada é ativada</color>.\nO dano de <color=#F0D12B>Ofensiva</color> de todos os personagens da equipe aumenta 15%. O dano de <color=#FFFFFF>Disfunção</color> causado a inimigos sob efeito de <color=#F0D12B>Anomalia Física</color> aumenta 15%.\nQuando em combate, Alice obtém 1000 dB. No Modo de Reconhecimento, esse efeito pode ser ativado uma vez a cada 180 segundos.",
+                "Alice_Talent_02_Desc_02": "A ponta prateada da espada beija suavemente a geada nas folhas da sálvia.\nA reverência antes da batalha é a manifestação da serenidade da donzela.\nO medo e a impotência foram congelados nos sonhos de ontem.\nA espada embainhada dança, prestes a traçar o contorno das estrelas.\nA alvorada está chegando, os botões de flor aguardam seu desabrochar.",
+                "Alice_Talent_02_Desc_01": "Quando o <color=#FFFFFF>Supremo: Encerramento Estelar</color> acerta o inimigo com Golpe Final, a <color=#F0D12B>Ofensiva Polarizada é ativada</color>. O dano de <color=#F0D12B>Ofensiva</color> de todos os personagens da equipe aumenta 15%. O dano de <color=#FFFFFF>Disfunção</color> causado a inimigos sob efeito de <color=#F0D12B>Anomalia Física</color> aumenta 15%. Quando em combate, Alice obtém 1000 dB. No Modo de Reconhecimento, esse efeito pode ser ativado uma vez a cada 180 segundos.",
+                "Alice_Talent_02_Title_Realign": "Sálvia na Ponta da Espada"
+            },
+            {
+                "talent_id": "3",
+                "Alice_Talent_03_Title": "Simetrismo",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Alice_Talent_03_Desc_02": "Ela não consegue resistir à simetria perfeita.\nNa simetria, existe ordem e padrão. Se ela não consegue ver simetria, suas orelhas e cauda de coelho perdem o brilho e a maciez, como se todas as coisas boas estivessem prestes a desaparecer.\n\"Então... é por isso que você insiste em mencionar minhas meias e quer tirar minhas ligas de perna?\"\n\"Não aguento mais essa sua assimetria! Só um segundo, prometo que é por um segundo!\"",
+                "Alice_Talent_03_Title_Realign": "Simetrismo"
+            },
+            {
+                "talent_id": "4",
+                "Alice_Talent_04_Title": "Alecrim em Seus Lábios",
+                "Alice_Talent_04_Desc_01_Realign": "Alice ignora 10% da <color=#F0D12B>Resistência a Físico</color> do alvo. O <color=#FFFFFF>Ataque Básico: Prelúdio Celestial</color> aprimorado acumula 25% mais <color=#F0D12B>Amplificação de Anomalia Física</color>.",
+                "Alice_Talent_04_Desc_02": "O aroma de alecrim permanece em seus lábios.\nO juramento, ardente e firme, resiste em seu hálito branco.\nMesmo que o ar em seus pulmões seja frio e pesado,\na jovem jamais esquecerá o encanto chamado amor.\n\"Em nome dos Thymefield... Eu jamais quebrarei minha palavra.\"",
+                "Alice_Talent_04_Desc_01": "Alice ignora 10% da <color=#F0D12B>Resistência a Físico</color> do alvo. O <color=#FFFFFF>Ataque Básico: Prelúdio Celestial</color> aprimorado acumula 25% mais <color=#F0D12B>Amplificação de Anomalia Física</color>.",
+                "Alice_Talent_04_Title_Realign": "Alecrim em Seus Lábios"
+            },
+            {
+                "talent_id": "5",
+                "Alice_Talent_05_Title": "Desejo Sobrenatural",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Alice_Talent_05_Desc_02": "Ela não consegue resistir ao mistério sobrenatural.\nNo mistério, escondem-se o desconhecido e o perigo. Quando ela sente o sobrenatural, suas orelhas de coelho e cauda se arrepiam de tremor, mas depois de se acalmar, ficam ainda mais macias.\n\"Então... é por isso que você sempre me segue nas aventuras de histórias de terror, mesmo morrendo de medo?\"\n\"Eu só estou curiosa para ver o que vai acontecer... mas é tão assustador, que já me arrependi! Só desta vez, não conte comigo na próxima!\"",
+                "Alice_Talent_05_Title_Realign": "Desejo Sobrenatural"
+            },
+            {
+                "talent_id": "6",
+                "Alice_Talent_06_Title": "Coração de Tomilho",
+                "Alice_Talent_06_Desc_01_Realign": "Quando Alice ativa o <color=#FFFFFF>Ataque Básico: Valsa Estelar</color> ou <color=#FFFFFF>Supremo: Encerramento Estelar</color> com três cargas, ela entra no <color=#FFFFFF>Estado Decisivo</color> por 30s. Durante este período, quando qualquer membro da equipe atinge um inimigo, Alice realiza um ataque adicional contra o inimigo, causando Dano Físico equivalente a 3300% de sua Proficiência de Anomalia. Esse efeito pode ser ativado uma vez a cada 1s e sempre causa acerto crítico, podendo ser ativado até 6 vezes. O número máximo de ativações é renovado ao obter o <color=#FFFFFF>Estado Decisivo</color> novamente.",
+                "Alice_Talent_06_Desc_02": "Naquela propriedade coberta de tomilho, naquela noite observando as estrelas,\nfoi naquele momento que entendeu o significado da coragem.\nA brisa suave dispersou as nuvens escuras, a luz do sol ofuscou o brilho do lustre de cristal.\nA garota fez uma leve reverência aos dias passados.\nEla desapareceu lentamente no campo de tomilho.",
+                "Alice_Talent_06_Desc_01": "Quando Alice ativa o <color=#FFFFFF>Ataque Básico: Valsa Estelar</color> ou <color=#FFFFFF>Supremo: Encerramento Estelar</color> com três cargas, ela entra no <color=#FFFFFF>Estado Decisivo</color> por 30s. Durante este período, quando qualquer membro da equipe atinge um inimigo, Alice realiza um ataque adicional contra o inimigo, causando Dano Físico equivalente a 3300% de sua Proficiência de Anomalia. Esse efeito pode ser ativado uma vez a cada 1s e sempre causa acerto crítico, podendo ser ativado até 6 vezes. O número máximo de ativações é renovado ao obter o <color=#FFFFFF>Estado Decisivo</color> novamente.",
+                "Alice_Talent_06_Title_Realign": "Coração de Tomilho"
+            }
+        ]
+    },
+    "1411": {
+        "role_id": 1411,
+        "name": "Ukinami Yuzuha",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Yuzuha_Talent_01_Title": "Constituição Sortuda",
+                "Yuzuha_Talent_01_Desc_01_Realign": "Quando Yuzuha entra em combate, recupera 30 pontos de Energia. No Modo de Reconhecimento, este efeito pode ser ativado no máximo uma vez a cada 180s.\nA resistência a todos os atributos de inimigos sob o efeito de <color=#FFFFFF>Doce Susto</color> diminui 10%. Na <color=#FFFFFF>Habilidade Extra</color>, os bônus de dano de Anomalia de Atributo e de <color=#FFFFFF>Disfunção</color> aumentam para 130% do valor original.",
+                "Yuzuha_Talent_01_Desc_02": "\"Ah, agora eu tô ferrada!\"\n\"Yuzuha, você também foi mal? Uau... 92? Isso é realmente uma nota que dá pra tirar chutando? Você só tá se gabando, né?\"\n\"Não, não, não, a coisa mais importante sobre a sorte é a moderação. Eu não precisava tirar uma nota tão alta nesta matéria... Meu instinto me diz que a prova da tarde definitivamente não vai ter questões de múltipla escolha!\"",
+                "Yuzuha_Talent_01_Desc_01": "Quando Yuzuha entra em combate, recupera 30 pontos de Energia. No Modo de Reconhecimento, este efeito pode ser ativado no máximo uma vez a cada 180s. A resistência a todos os atributos de inimigos sob o efeito de <color=#FFFFFF>Doce Susto</color> diminui 10%. Na <color=#FFFFFF>Habilidade Extra</color>, os bônus de dano de Anomalia de Atributo e de <color=#FFFFFF>Disfunção</color> aumentam para 130% do valor original.",
+                "Yuzuha_Talent_01_Title_Realign": "Constituição Sortuda"
+            },
+            {
+                "talent_id": "2",
+                "Yuzuha_Talent_02_Title": "Reunião de Amigos Divertidos",
+                "Yuzuha_Talent_02_Desc_01_Realign": "Quando Yuzuha atinge um inimigo com um <color=#FFFFFF>Ataque Especial Reforçado: Alerta de Cáries</color>, <color=#FFFFFF>Ataque Especial Reforçado: Alerta de Cáries, Agora Mesmo!</color> ou <color=#FFFFFF>Supremo: Renda-se Agora ou Prepare-se para a Encrenca</color>, o dano causado por todos os membros da equipe aumenta 15% e a Taxa de Amplificação de Anomalia aumenta 15% por 40s. Ativações repetidas reiniciam a duração. Atingir um inimigo não atordoado com um golpe pesado ativa um <color=#FFFFFF>Ataque em Cadeia</color>. <color=#FFFFFF>Ataques em Cadeia</color> ativados desta maneira têm nível de interrupção menor e só podem ocorrer uma vez a cada 20s. Quando outros personagens entram em campo através do <color=#FFFFFF>Ataque em Cadeia</color>, Yuzuha obtém 1 <color=#FFFFFF>Pontos de Açúcar</color>. O tempo de recarga do <color=#FFFFFF>Ataque Básico: Disparo Açucarado</color> de Yuzuha diminui 25%.",
+                "Yuzuha_Talent_02_Desc_02": "\"Kama, você não saiu do meu campo de visão nem por um segundo, como você conseguiu trocar tantas coisas tão rápido?\"\n\"Hehe! Kama tem muitos amigos também! Venham, venham todos, deixa eu apresentar, da esquerda para a direita, são: Takenosuke, Inosuke, Hyakunosuke...\"\n\"Espera, está indo rápido demais!\"\n\"Tá, vou repetir: Shinosuke, Kinosuke, Harunosuke...\"\n\"Esses nomes são completamente diferentes dos anteriores!\"",
+                "Yuzuha_Talent_02_Desc_01": "Quando Yuzuha atinge um inimigo com um <color=#FFFFFF>Ataque Especial Reforçado: Alerta de Cáries</color>, <color=#FFFFFF>Ataque Especial Reforçado: Alerta de Cáries, Agora Mesmo!</color> ou <color=#FFFFFF>Supremo: Renda-se Agora ou Prepare-se para a Encrenca</color>, o dano causado por todos os membros da equipe aumenta 15% e a Taxa de Amplificação de Anomalia aumenta 15% por 40s. Ativações repetidas reiniciam a duração. Atingir um inimigo não atordoado com um golpe pesado ativa um <color=#FFFFFF>Ataque em Cadeia</color>. <color=#FFFFFF>Ataques em Cadeia</color> ativados desta maneira têm nível de interrupção menor e só podem ocorrer uma vez a cada 20s. Quando outros personagens entram em campo através do <color=#FFFFFF>Ataque em Cadeia</color>, Yuzuha obtém 1 <color=#FFFFFF>Pontos de Açúcar</color>. O tempo de recarga do <color=#FFFFFF>Ataque Básico: Disparo Açucarado</color> de Yuzuha diminui 25%.",
+                "Yuzuha_Talent_02_Title_Realign": "Reunião de Amigos Divertidos"
+            },
+            {
+                "talent_id": "3",
+                "Yuzuha_Talent_03_Title": "Conto de Fadas da Cidade Sombria",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Yuzuha_Talent_03_Desc_02": "\"... Todos os dias da princesa são muito ocupados. De manhã, as silenciosas damas de companhia a vestem com roupas elegantes, colocam nela a pesada coroa mágica e outras joias, e a acompanham até o trono. Lá, ela usa seus poderes mágicos para transformar pedras comuns em tesouros de valor inestimável.\"\n\"A princesa tem que transformar pedras em joias todos os dias? Isso é mais chato do que cuidar da loja e fazer lição de casa ao mesmo tempo.\"\n\"Bem... se a princesa não fizer isso, o pobre reino vai desaparecer.\"\n\"Se é um reino inútil que depende apenas dos esforços da princesa, ele pode desaparecer!\"\nEla não consegue conter a risada. Sim, um reino tão inútil assim, pode desaparecer.",
+                "Yuzuha_Talent_03_Title_Realign": "Conto de Fadas da Cidade Sombria"
+            },
+            {
+                "talent_id": "4",
+                "Yuzuha_Talent_04_Title": "Feitiço de Queda",
+                "Yuzuha_Talent_04_Desc_01_Realign": "O dano causado pela <color=#FFFFFF>Assistência Imediata: Disparo Açucarado com Recheio</color> e <color=#FFFFFF>Assistência Imediata: Aqui Temos Biscoitos</color> de Yuzuha aumenta 30%, a Taxa de Amplificação de Anomalia aumenta 20%, e quando essas habilidades atingem um inimigo, ativam a <color=#FFFFFF>Assistência Reativa</color>.",
+                "Yuzuha_Talent_04_Desc_02": "A garota que vi através da estreita abertura de ventilação brilhava como se tivesse saído de um conto de fadas.\nEla era a verdadeira princesa, e eu não passava de uma prisioneira.\nMinha nossa, ela já tem tantas coisas... não faria mal compartilhar um pouquinho comigo, não é?\nEntão, o grampo de cabelo cai silenciosamente.",
+                "Yuzuha_Talent_04_Desc_01": "O dano causado pela <color=#FFFFFF>Assistência Imediata: Disparo Açucarado com Recheio</color> e <color=#FFFFFF>Assistência Imediata: Aqui Temos Biscoitos</color> de Yuzuha aumenta 30%, a Taxa de Amplificação de Anomalia aumenta 20%, e quando essas habilidades atingem um inimigo, ativam a <color=#FFFFFF>Assistência Reativa</color>.",
+                "Yuzuha_Talent_04_Title_Realign": "Feitiço de Queda"
+            },
+            {
+                "talent_id": "5",
+                "Yuzuha_Talent_05_Title": "Sonhos do Inverno",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Yuzuha_Talent_05_Desc_02": "No dia em que os executivos da T.O.P.S. e o Comitê de Inspeção chegaram, ela e Manato tinham acabado de voltar da escola. A aeronave deles teve que ficar sobrevoando a área, esperando os veículos dos ilustres convidados, que tinham prioridade de pouso. Quando atravessaram a passarela, já suados, passaram por muitos repórteres, que rodeavam os convidados. Foi quando ela viu a garota. Naquela noite, ela teve um sonho: os repórteres a rodeavam naquele mesmo caminho sob a ponte. E, ao fim do caminho, havia um trono esperando por ela.\nFazia tempo que ela não sonhava assim. Ela acordou para tomar água, e reviveu as palavras que tinha escutado naquele dia: \"Que tipo de comitê de especialistas é esse que permite que uma senhorita rica se misture só para fazer número?\"\n\"Kama, Kama!\" ela chamou baixinho, abrindo a janela. Imediatamente uma figura peluda apareceu do lado de fora. \"Tive uma ótima ideia, vamos fazer algo divertido amanhã à noite.\"",
+                "Yuzuha_Talent_05_Title_Realign": "Sonhos do Inverno"
+            },
+            {
+                "talent_id": "6",
+                "Yuzuha_Talent_06_Title": "Criar Raízes",
+                "Yuzuha_Talent_06_Desc_01_Realign": "Ao bloquear um ataque inimigo usando uma <color=#FFFFFF>Assistência Defensiva</color> ou um <color=#FFFFFF>Ataque Básico: Capa de Tanuki</color>, obtém 1 <color=#FFFFFF>Pontos de Açúcar</color> adicionais. Ao ativar <color=#FFFFFF>Assistência Imediata: Disparo Açucarado com Recheio</color>, mantenha <IconMap:Icon_Normal> pressionado para acumular energia por até 0,8 segundos. Ao soltar <IconMap:Icon_Normal> ou atingir o tempo máximo de acúmulo, Yuzuha dispara projéteis adicionais poderosos contra os inimigos. A cada 0,4s de acúmulo, Yuzuha consome 1 <color=#FFFFFF>Ponto de Açúcar</color> para disparar um projétil adicional poderoso. Cada projétil adicional causa <color=#F0D12B>Dano Físico</color> equivalente a 300% do ATQ da Yuzuha. Quando qualquer projétil poderoso de <color=#FFFFFF>Assistência Imediata: Disparo Açucarado com Recheio</color> atinge um inimigo, o Multiplicador de Dano de <color=#FFFFFF>Disfunção</color> de todos os personagens da equipe aumenta 105% durante 40s, acumulando até 3 vezes, com cada acúmulo tendo sua própria duração, e quando projéteis adicionais atingem um inimigo afetado por <color=#FFFFFF>Doce Susto</color>, também ativam um <color=#FFFFFF>Ataque Básico: Explosão Açucarada — Máximo</color>. Se Yuzuha for atacada durante o acúmulo de energia, ela automaticamente se esquiva do ataque inimigo e dispara imediatamente com o máximo de energia acumulada.",
+                "Yuzuha_Talent_06_Desc_02": "Na noite em que a audiência terminou, Baorong disse que queria comemorar a bolsa de estudos que Kaede recebeu, então o Empório Sobrenatural fechou mais cedo e toda a família foi ao Chá Celestial. Durante o jantar, o irmão dela, que estava no distrito Faunus, também ligou para dar os parabéns. Enquanto Kaede e A-Wen contavam animadamente os acontecimentos do dia: o gato malhado da escola tinha perdido seu filhote, e ninguém conseguia encontrá-lo, até que o gatinho voltou sozinho ao meio-dia. O irmão suspirou ao telefone: \"A-Wen, sempre que pergunto sobre suas notas, você muda de assunto. Papai e Yuzuha não te cobram, mas eu vou cobrar por eles!\" Toda a família começou a rir, apenas Baorong murmurava repetidamente: \"Que bom que voltou... é isso que importa...\"",
+                "Yuzuha_Talent_06_Desc_01": "Ao bloquear um ataque inimigo usando uma <color=#FFFFFF>Assistência Defensiva</color> ou um <color=#FFFFFF>Ataque Básico: Capa de Tanuki</color>, obtém 1 <color=#FFFFFF>Pontos de Açúcar</color> adicionais. Ao ativar <color=#FFFFFF>Assistência Imediata: Disparo Açucarado com Recheio</color>, mantenha <IconMap:Icon_Normal> pressionado para acumular energia por até 0,8 segundos. Ao soltar <IconMap:Icon_Normal> ou atingir o tempo máximo de acúmulo, Yuzuha dispara projéteis adicionais poderosos contra os inimigos. A cada 0,4s de acúmulo, Yuzuha consome 1 <color=#FFFFFF>Ponto de Açúcar</color> para disparar um projétil adicional poderoso. Cada projétil adicional causa <color=#F0D12B>Dano Físico</color> equivalente a 300% do ATQ da Yuzuha. Quando qualquer projétil poderoso de <color=#FFFFFF>Assistência Imediata: Disparo Açucarado com Recheio</color> atinge um inimigo, o Multiplicador de Dano de <color=#FFFFFF>Disfunção</color> de todos os personagens da equipe aumenta 105% durante 40s, acumulando até 3 vezes, com cada acúmulo tendo sua própria duração, e quando projéteis adicionais atingem um inimigo afetado por <color=#FFFFFF>Doce Susto</color>, também ativam um <color=#FFFFFF>Ataque Básico: Explosão Açucarada — Máximo</color>. Se Yuzuha for atacada durante o acúmulo de energia, ela automaticamente se esquiva do ataque inimigo e dispara imediatamente com o máximo de energia acumulada.",
+                "Yuzuha_Talent_06_Title_Realign": "Criar Raízes"
+            }
+        ]
+    },
+    "1441": {
+        "role_id": 1441,
+        "name": "Komano Manato",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Norano_Talent_01_Title": "Regras de Sobrevivência nas Ruas",
+                "Norano_Talent_01_Desc_01_Realign": "Quando Manato perde PV, os PV perdidos são acumulados. Para cada 1% dos PV máximos perdidos, a <color=#FFFFFF>Assistência Imediata</color> e o <color=#FFFFFF>Ataque Básico</color> causam mais 0,4% de <color=#FF5521>Dano de Fogo</color>, até um máximo de 20%.",
+                "Norano_Talent_01_Desc_02": "Crianças desafortunadas são todas parecidas.\nAs vozes carinhosas de outrora, as luzes acolhedoras, as promessas alegres... tudo desaparece sem se despedir. São coisas intocáveis, que nem as presas ou as garras mais afiadas conseguem segurar.\n\"Eu como de tudo e não tenho medo do frio. Se existe algum segredo para sobreviver nas ruas, acho que é isso.\"",
+                "Norano_Talent_01_Desc_01": "Quando Manato perde PV, os PV perdidos são acumulados. Para cada 1% dos PV máximos perdidos, a <color=#FFFFFF>Assistência Imediata</color> e o <color=#FFFFFF>Ataque Básico</color> causam mais 0,4% de <color=#FF5521>Dano de Fogo</color>, até um máximo de 20%.",
+                "Norano_Talent_01_Title_Realign": "Regras de Sobrevivência nas Ruas"
+            },
+            {
+                "talent_id": "2",
+                "Norano_Talent_02_Title": "Dia e Noite, Cozinha e Amor",
+                "Norano_Talent_02_Desc_01_Realign": "No estado de <color=#FFFFFF>Lâmina Fundida</color>, Manato ignora 8% da <color=#FF5521>resistência ao Fogo</color> do alvo. Se sofrer um ataque inimigo durante <color=#FFFFFF>Ataque Especial: Retorno às Cinzas</color> ou <color=#FFFFFF>Ataque Especial: Retorno às Cinzas — Sacrifício</color>, pressione <IconMap:Icon_Normal> para ativar uma <color=#FFFFFF>Assistência Imediata</color>.",
+                "Norano_Talent_02_Desc_02": "Talvez uma família em harmonia seja assim — Manato, Qing e Yue se consideram crianças de sorte, que foram escolhidas e levadas a um lar.\nSe há algo sobre o que discutir, é quem vai ficar com a última porção de legumes.\n\"Não tá gostoso? Vou perguntar no Chá Celestial se eu cometi algum erro na receita...\"\n\"Segredo comercial? Da última vez, eu só precisei ficar ali, e o chef me contou tudo.\"",
+                "Norano_Talent_02_Desc_01": "No estado de <color=#FFFFFF>Lâmina Fundida</color>, Manato ignora 8% da <color=#FF5521>resistência ao Fogo</color> do alvo. Se sofrer um ataque inimigo durante <color=#FFFFFF>Ataque Especial: Retorno às Cinzas</color> ou <color=#FFFFFF>Ataque Especial: Retorno às Cinzas — Sacrifício</color>, pressione <IconMap:Icon_Normal> para ativar uma <color=#FFFFFF>Assistência Imediata</color>.",
+                "Norano_Talent_02_Title_Realign": "Dia e Noite, Cozinha e Amor"
+            },
+            {
+                "talent_id": "3",
+                "Norano_Talent_03_Title": "No Reino das Histórias de Terror",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Norano_Talent_03_Desc_02": "O primeiro passo para se estabelecer no fórum é escolher um apelido memorável. Ninguém se acha bom nisso, mas é algo especialmente difícil para um tireno que ficou de recuperação em literatura.\n\"Você já sabe, não sabe? É... ahm... 'Fantasma de Sailume'.\"\n\"Você escutou!\"\n\"Droga! Qualquer hora dessas, vou mudar meu apelido para 'se falar meu apelido antigo de novo, vou te pegar na saída da Esfera Negra'!\"",
+                "Norano_Talent_03_Title_Realign": "No Reino das Histórias de Terror"
+            },
+            {
+                "talent_id": "4",
+                "Norano_Talent_04_Title": "Juramento da Infância",
+                "Norano_Talent_04_Desc_01_Realign": "Os PV máximos aumentam 8%. Se Manato sofre dano fatal durante <color=#FFFFFF>Ataque Especial: Retorno às Cinzas</color> ou <color=#FFFFFF>Ataque Especial: Retorno às Cinzas — Sacrifício</color>, ele não morre durante a habilidade e fica com 1 PV. Esse efeito pode ser ativado uma vez a cada 10 segundos.",
+                "Norano_Talent_04_Desc_02": "Todo adolescente se vê como um lobo solitário em algum ponto da vida. Para Manato, isso é ainda mais real. Se não fosse pelos seres oníricos, ele poderia continuar fingindo que nada aconteceu, como todos os outros...\n\"Eu já disse. Eu pensava assim quando tinha oito anos.\"\n\"Então 'amizade' é isso... Vocês não me trataram como alguém frágil, mas também não me trataram como uma pessoa.\"",
+                "Norano_Talent_04_Desc_01": "Os PV máximos aumentam 8%. Se Manato sofre dano fatal durante <color=#FFFFFF>Ataque Especial: Retorno às Cinzas</color> ou <color=#FFFFFF>Ataque Especial: Retorno às Cinzas — Sacrifício</color>, ele não morre durante a habilidade e fica com 1 PV. Esse efeito pode ser ativado uma vez a cada 10 segundos.",
+                "Norano_Talent_04_Title_Realign": "Juramento da Infância"
+            },
+            {
+                "talent_id": "5",
+                "Norano_Talent_05_Title": "A Sombra Solitária Retorna à Matilha",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Norano_Talent_05_Desc_02": "Na realidade, mesmo com a barreira de sua aparência, Manato é muito popular com todo mundo.\nAlguns fazem amizade, alguns querem sua proteção, e outros... tentam ludibriá-lo para a área da publicidade.\n\"Foi mal, acho que não sou a pessoa ideal para anunciar sua locadora.\"\n\"Eu nunca fiz supino... a não ser quando tenho que empurrar minha espada nos Etéreos, quando eles sobem em mim.\"",
+                "Norano_Talent_05_Title_Realign": "A Sombra Solitária Retorna à Matilha"
+            },
+            {
+                "talent_id": "6",
+                "Norano_Talent_06_Title": "Além dos Sonhos Passados",
+                "Norano_Talent_06_Desc_01_Realign": "Quando seu <color=#FFFFFF>Ataque Especial: Retorno às Cinzas</color> atinge um inimigo atordoado, Manato recupera 75 pontos de Coração Ardente e obtém 4 acúmulos de Chama Remanescente. Pressione <IconMap:Icon_Normal> para ativar uma <color=#FFFFFF>Assistência Imediata</color>. O efeito de Chama Remanescente pode ser ativado uma vez a cada 20s. Quando atinge um inimigo com <color=#FFFFFF>Assistência Imediata</color>, Manato causa 3% mais <color=#FF5521>Dano de Fogo</color> por 8s, podendo acumular até 5 vezes. Ativar novamente reinicia a duração.",
+                "Norano_Talent_06_Desc_02": "Manato supera seu sonho solitário e abraça seus amigos, que tanto ama.\nClaramente, estes amigos podem lhe causar alguns problemas, como na loja de sopa da Península Waifei.\n\n\"Quando eu disse que ia 'cobrir a retaguarda', eu não me referia a proteger vocês enquanto tomam sopa de frango com leite de coco.\"\n\"E por que agora, na hora de tomar a sopa de escorpião, sou eu quem tem que ir na frente?\"\nMas, no final, ele acaba indo mesmo assim.",
+                "Norano_Talent_06_Desc_01": "Quando seu <color=#FFFFFF>Ataque Especial: Retorno às Cinzas</color> atinge um inimigo atordoado, Manato recupera 75 pontos de Coração Ardente e obtém 4 acúmulos de Chama Remanescente. Pressione <IconMap:Icon_Normal> para ativar uma <color=#FFFFFF>Assistência Imediata</color>. O efeito de Chama Remanescente pode ser ativado uma vez a cada 20s. Quando atinge um inimigo com <color=#FFFFFF>Assistência Imediata</color>, Manato causa 3% mais <color=#FF5521>Dano de Fogo</color> por 8s, podendo acumular até 5 vezes. Ativar novamente reinicia a duração.",
+                "Norano_Talent_06_Title_Realign": "Além dos Sonhos Passados"
+            }
+        ]
+    },
+    "1451": {
+        "role_id": 1451,
+        "name": "Lúcia Elowen",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Lucia_Talent_01_Title": "Amiga Secreta",
+                "Lucia_Talent_01_Desc_01_Realign": "Quando o estado <color=#FFFFFF>Cantiga da Vigília</color> causa dano adicional, ataques ignoram 18% de todas as resistências a atributos do inimigo e têm 5% mais Taxa de Obtenção de dB.\nSempre que Lúcia aprimora uma habilidade, ela obtém 1 acúmulo de <color=#FFFFFF>Eco</color>, até um máximo de 4 acúmulos. Quando a <color=#FFFFFF>Cantiga da Vigília</color> termina, se Lúcia tem <color=#FFFFFF>Eco</color>, consome 1 acúmulo para reaplicar <color=#FFFFFF>Cantiga da Vigília</color> em toda a equipe.",
+                "Lucia_Talent_01_Desc_02": "Quando criança, sua avó a levou pela mão para dentro de uma Esfera Negra.\nDaquele momento em diante, ela vagou por caminhos obscuros e caçou nas profundezas sem fim. Com seu pincel, ela pintou os Etéreos que encontrava e o brilho do Éter foi a luz que iluminou sua infância.\n\"Quando eu era pequena, eu tinha três amigos: o grande escudo preto, um tanatinho que se teletransportava e uma incrível armadura gigante!\"\n\"Um dia, eles desapareceram...\"\n\"Mas tudo bem! Eu desenhei eles no meu caderninho! Agora basta eu mover meu cajado, que invoco todos eles!\"",
+                "Lucia_Talent_01_Desc_01": "Quando o estado <color=#FFFFFF>Cantiga da Vigília</color> causa dano adicional, ataques ignoram 18% de todas as resistências a atributos do inimigo e têm 5% mais Taxa de Obtenção de dB. Sempre que Lúcia aprimora uma habilidade, ela obtém 1 acúmulo de <color=#FFFFFF>Eco</color>, até um máximo de 4 acúmulos. Quando a <color=#FFFFFF>Cantiga da Vigília</color> termina, se Lúcia tem <color=#FFFFFF>Eco</color>, consome 1 acúmulo para reaplicar <color=#FFFFFF>Cantiga da Vigília</color> em toda a equipe.",
+                "Lucia_Talent_01_Title_Realign": "Amiga Secreta"
+            },
+            {
+                "talent_id": "2",
+                "Lucia_Talent_02_Title": "Mestra da Magia",
+                "Lucia_Talent_02_Desc_01_Realign": "Quando Lúcia está dentro do <color=#FFFFFF>Véu de Éter: Nascente</color>, <color=#FFFFFF>Harmonia</color> causa 15% mais dano. Agentes no estado de <color=#FFFFFF>Antitrevas</color> dentro do <color=#FFFFFF>Véu de Éter: Nascente</color> recebem 15% de bônus adicional de Dano Bruto.",
+                "Lucia_Talent_02_Desc_02": "Ultimamente a lenda da Mensageira Noturna tem tomado Nova Eridu.\n\"Todo dia, à meia-noite, a Mensageira Noturna aparece nas ruas e conta todo tipo de histórias!\"\n\"Ela também faz mágicas incríveis! É só falar um feitiço que, VUM, uma onda de Etéreos aparece para lutar por nós.\"\n\"Na última vez que nos perdemos na Esfera Negra, a Mensageira Noturna usou esse truque pra nos salvar!\"\n—Relatos de Abacaboo, Malignoboo e Namiraboo",
+                "Lucia_Talent_02_Desc_01": "Quando Lúcia está dentro do <color=#FFFFFF>Véu de Éter: Nascente</color>, <color=#FFFFFF>Harmonia</color> causa 15% mais dano. Agentes no estado de <color=#FFFFFF>Antitrevas</color> dentro do <color=#FFFFFF>Véu de Éter: Nascente</color> recebem 15% de bônus adicional de Dano Bruto.",
+                "Lucia_Talent_02_Title_Realign": "Mestra da Magia"
+            },
+            {
+                "talent_id": "3",
+                "Lucia_Talent_03_Title": "Melhor Parceria",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Lucia_Talent_03_Desc_02": "—Toc, toc, toc.\nJuntamente com as batidas na porta, um espetinho aparece em sua janela.\n\"Pega aí, Proxy! Espetinho fresquinho com doce explosivo de limão, uma combinação tão perfeita quanto a espada e o escudo do Dullahan!\"\n\"Quando você terminar, a gente pode sair pra se divertir!\"\n\"Estou sentindo que hoje a gente vai encontrar inspiração pra uma lenda urbana... do tipo que vai fazer o fórum bombar!\"",
+                "Lucia_Talent_03_Title_Realign": "Melhor Parceria"
+            },
+            {
+                "talent_id": "4",
+                "Lucia_Talent_04_Title": "Altas Horas da Noite",
+                "Lucia_Talent_04_Desc_01_Realign": "Quando o <color=#FFFFFF>Véu de Éter</color> está ativo ou estendido no campo, Lúcia concede 100 dB para todos os membros da equipe. Esse efeito pode ser ativado uma vez a cada 15s.",
+                "Lucia_Talent_04_Desc_02": "Uma estudiosa de histórias de terror precisa de curiosidade, ímpeto e coragem para agir sem pensar duas vezes, e Lúcia não é exceção à regra.\nPor isso, logo que chega a Nova Eridu, ela se torna uma visitante frequente do Departamento de Segurança Pública.\n\n\"Quantas vezes vou ter que repetir? Perseguir histórias de fantasmas não te dá o direito de entrar em canteiros de obras!\"\n\"Não durma na rua, não corra por aí no meio da noite, e não vá se enfiando em qualquer Esfera Negra na frente das pessoas. Essas são regras da vida em Nova Eridu, e você precisa levar isso a sério!\"\n\"Já que você não consegue dormir... que tal explorar a mansão dos Thymefield e contar umas histórias de terror para a Alice?\"",
+                "Lucia_Talent_04_Desc_01": "Quando o <color=#FFFFFF>Véu de Éter</color> está ativo ou estendido no campo, Lúcia concede 100 dB para todos os membros da equipe. Esse efeito pode ser ativado uma vez a cada 15s.",
+                "Lucia_Talent_04_Title_Realign": "Altas Horas da Noite"
+            },
+            {
+                "talent_id": "5",
+                "Lucia_Talent_05_Title": "Vigilante dos Sonhos",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Lucia_Talent_05_Desc_02": "Na noite de céu nanquim, as estrelas brilham cintilantes.\nEla percorre sua longa jornada, trazendo histórias, canções e poemas inacabados.\nEla colhe uma flor cheia de gotinhas de orvalho e coloca em sua janela.\nEla vigia seus sonhos, mantendo seu sono seguro e confortável.\n\n\"Bom dia! Hã? Quando você chegou aqui?\"\n\"Não sei exatamente, mas não faz muito tempo... as horas voam quando estou com você, Proxy!\"",
+                "Lucia_Talent_05_Title_Realign": "Vigilante dos Sonhos"
+            },
+            {
+                "talent_id": "6",
+                "Lucia_Talent_06_Title": "Jornada Sem Fim",
+                "Lucia_Talent_06_Desc_01_Realign": "Quando Lúcia está em qualquer <color=#FFFFFF>Véu de Éter</color>, seu ATQ aumenta 2% do seu Máx. de PV inicial, <color=#FFFFFF>Harmonia</color> sempre causa Crítico e, o Dano CRIT de <color=#FFFFFF>Harmonia</color> aumenta 30%.",
+                "Lucia_Talent_06_Desc_02": "A vida de Lúcia é uma jornada sem fim. Ela corre sob o luar em sua busca, atravessando rua após rua, passando por cidade após cidade.\nOs fios das histórias tecem inúmeros sonhos, e uma suave melodia flui sob as luzes noturnas.\nSua busca nunca termina e, sob as estrelas, ela continua nessa jornada infinita.\n\nSomente quando a noite se vai, e o sol aparece, a garota deixa a Esfera Negra, se espreguiçando vagarosamente.\n\"Uaaaah, estou com soninho... mas todos me dizem que é melhor não dormir na Esfera Negra.\"\n\"Quem sabe seja melhor eu dormir aqui no chão da locadora?\"",
+                "Lucia_Talent_06_Desc_01": "Quando Lúcia está em qualquer <color=#FFFFFF>Véu de Éter</color>, seu ATQ aumenta 2% do seu Máx. de PV inicial, <color=#FFFFFF>Harmonia</color> sempre causa Crítico e, o Dano CRIT de <color=#FFFFFF>Harmonia</color> aumenta 30%.",
+                "Lucia_Talent_06_Title_Realign": "Jornada Sem Fim"
+            }
+        ]
+    },
+    "1341": {
+        "role_id": 1341,
+        "name": "Zhao",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "XiaoZhao_Talent_01_Title": "Julgamento Solene",
+                "XiaoZhao_Talent_01_Desc_01_Realign": "O dano de toda a equipe ignora 15% da Resistência a Atributos do alvo por 50s quando Zhao deixa de ser a personagem ativa. Ativações repetidas reiniciam a duração.",
+                "XiaoZhao_Talent_01_Desc_02": "\"Não se deixe enganar por aquela carinha fofa! Eu nunca vou me esquecer da reunião em que ela me apontou o dedo em frente a dezenas de pessoas, e, com a expressão mais doce do mundo, anunciou o veredito: 'Se sua companhia se negar a aceitar qualquer item da lista de adequações, será removida da T.O.P.S. Isso não é uma ameaça — é uma simples constatação.' Essa cena está gravada na minha memória para sempre! Mas eu ainda sou grato a ela.\"\n— Gerente de uma companhia, após uma brutal reestruturação da empresa, falando com uma expressão confusa e massageando as próprias têmporas.",
+                "XiaoZhao_Talent_01_Desc_01": "O dano de toda a equipe ignora 15% da Resistência a Atributos do alvo por 50s quando Zhao deixa de ser a personagem ativa. Ativações repetidas reiniciam a duração.",
+                "XiaoZhao_Talent_01_Title_Realign": "Julgamento Solene"
+            },
+            {
+                "talent_id": "2",
+                "XiaoZhao_Talent_02_Title": "Mentora da Krampus",
+                "XiaoZhao_Talent_02_Desc_01_Realign": "Quando Zhao recupera PV, seu ATQ aumenta 20% e o ATQ de outros personagens da equipe aumenta 15% por 50s. Ativações repetidas reiniciam a duração.",
+                "XiaoZhao_Talent_02_Desc_02": "Zhao se juntou à Krampus logo no seu início e é respeitosamente chamada de \"mentora\" até mesmo entre a elite das elites da Auditoria Krampus. E é assim que as coisas deveriam ser, mas os colegas novatos que se juntaram depois são pessoas que valorizavam mais a personalidade do que o protocolo.",
+                "XiaoZhao_Talent_02_Desc_01": "Quando Zhao recupera PV, seu ATQ aumenta 20% e o ATQ de outros personagens da equipe aumenta 15% por 50s. Ativações repetidas reiniciam a duração.",
+                "XiaoZhao_Talent_02_Title_Realign": "Mentora da Krampus"
+            },
+            {
+                "talent_id": "3",
+                "XiaoZhao_Talent_03_Title": "Véu Gelado",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "XiaoZhao_Talent_03_Desc_02": "A arma de Zhao, chamada \"Véu Gelado\", é um ativo experimental fornecido por um projeto secreto da T.O.P.S. Ao usar esta arma, em vez de simplesmente liberar Éter do elemento Gelo para causar dano, o Éter é transformado em uma parte integrante da própria arma. Em seu estado normal, a Véu Gelado pesa apenas metade de uma arma do mesmo porte, mas quando entra em estado de combate, a lâmina de gelo que se forma rapidamente na ponta ganha um poder destrutivo ainda maior, uma característica que parece ter sido feita sob medida para a Zhao.",
+                "XiaoZhao_Talent_03_Title_Realign": "Véu Gelado"
+            },
+            {
+                "talent_id": "4",
+                "XiaoZhao_Talent_04_Title": "Passos Leves",
+                "XiaoZhao_Talent_04_Desc_01_Realign": "Ao ativar <color=#FFFFFF>Véu de Éter</color>, Zhao obtém 250 pontos de dB. O Dano CRIT de <color=#FFFFFF>Supremo</color>, <color=#FFFFFF>Ataque em Cadeia</color> e <color=#FFFFFF>Ataque Básico: Veredito</color> aumenta 40%.",
+                "XiaoZhao_Talent_04_Desc_02": "Ágil, leve, difícil de capturar. São palavras que descreviam uma fofa coelhinha, mas agora falam sobre uma guerreira aterrorizante com uma lâmina gigantesca, capaz de perfurar qualquer coisa.",
+                "XiaoZhao_Talent_04_Desc_01": "Ao ativar <color=#FFFFFF>Véu de Éter</color>, Zhao obtém 250 pontos de dB. O Dano CRIT de <color=#FFFFFF>Supremo</color>, <color=#FFFFFF>Ataque em Cadeia</color> e <color=#FFFFFF>Ataque Básico: Veredito</color> aumenta 40%.",
+                "XiaoZhao_Talent_04_Title_Realign": "Passos Leves"
+            },
+            {
+                "talent_id": "5",
+                "XiaoZhao_Talent_05_Title": "Ouvinte Felpuda",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "XiaoZhao_Talent_05_Desc_02": "Se as orelhas da Zhao tremem involuntariamente e se levantam um pouco, significa que ela ouviu algo que chamou sua atenção. Podem ser informações, missões, negociações... ou elogios.",
+                "XiaoZhao_Talent_05_Title_Realign": "Ouvinte Felpuda"
+            },
+            {
+                "talent_id": "6",
+                "XiaoZhao_Talent_06_Title": "Valor Inestimável",
+                "XiaoZhao_Talent_06_Desc_01_Realign": "A <color=#FFFFFF>Passiva Principal: Colega Ideal</color> aumenta o efeito da Taxa CRIT para 125% do valor original. O <color=#FFFFFF>Ataque Básico: Veredito</color> aumenta o dano adicional do tempo de carga acumulado para 140% do valor original, e o tempo de carga acumulado não será consumido durante o ataque.",
+                "XiaoZhao_Talent_06_Desc_02": "As barreiras conceituais construídas desde a infância por influência de inúmeras pessoas começam a rachar devido a um certo encontro.\nA visão de Zhao sobre \"valor\" mudou: algumas coisas não têm preço, não porque são inúteis, mas porque são tão preciosas que não existe nada equivalente para trocar.",
+                "XiaoZhao_Talent_06_Desc_01": "A <color=#FFFFFF>Passiva Principal: Colega Ideal</color> aumenta o efeito da Taxa CRIT para 125% do valor original. O <color=#FFFFFF>Ataque Básico: Veredito</color> aumenta o dano adicional do tempo de carga acumulado para 140% do valor original, e o tempo de carga acumulado não será consumido durante o ataque.",
+                "XiaoZhao_Talent_06_Title_Realign": "Valor Inestimável"
+            }
+        ]
+    },
+    "1471": {
+        "role_id": 1471,
+        "name": "Banyue",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "BanYue_Talent_01_Title": "Avareza Como Fogo",
+                "BanYue_Talent_01_Desc_01_Realign": "Os inimigos entram no estado de <color=#FFFFFF>Tremor</color>, quando atingidos por <color=#FFFFFF>Ataque Especial Reforçado: O Caminho</color> e <color=#FFFFFF>Ataque Especial Reforçado: Terremoto</color>. Nesse estado, eles têm 10 menos <color=#FF5521>resistência ao Fogo</color> por 30s. <color=#FFFFFF>Ataque Especial Reforçado: Rugido do Leão</color>, <color=#FFFFFF>Ataque Especial Reforçado: Rugido do Leão — Fúria</color>, <color=#FFFFFF>Ataque Especial Reforçado: Tremor da Montanha</color>, <color=#FFFFFF>Ataque Especial Reforçado: Tremor da Montanha — Fúria</color>, <color=#FFFFFF>Ataque Básico: Montanha Tombada</color> e <color=#FFFFFF>Ataque Básico: Destruidor de Montanhas</color> causam 10% mais Dano Bruto quando atingem inimigos em estado de <color=#FFFFFF>Tremor</color>. Quando o <color=#FFFFFF>Ataque Básico: Destruidor de Montanhas</color> atinge um inimigo atordoado, o Atordoamento dura mais 2s. Este efeito pode ser aplicado uma vez por período de Atordoamento, e efeitos do mesmo tipo não podem ser acumulados.",
+                "BanYue_Talent_01_Desc_02": "Teria o Mestre Banyue algum desejo? Ele abriu uma escola de artes marciais no Planalto de Failume aparentemente apenas porque uma certa Grande Mestra sugeriu que ele fizesse isso. A academia sequer tem um nome. Não é por fama, nem por lucro, e ele nunca ensinou seus aprendizes a recitar frases como \"transmitir o legado marcial\". Apenas o Mestre Banyue sabe que a \"obsessão\" chamada de \"redenção\" queima dia e noite em seu coração forjado em aço. Qualquer deslize seria fatal.\n\n\"A avareza é como fogo: o desejo adequado pode se tornar a tocha que nos guia; se não for controlado, acabará por consumir a si mesmo.\"",
+                "BanYue_Talent_01_Desc_01": "Os inimigos entram no estado de <color=#FFFFFF>Tremor</color>, quando atingidos por <color=#FFFFFF>Ataque Especial Reforçado: O Caminho</color> e <color=#FFFFFF>Ataque Especial Reforçado: Terremoto</color>. Nesse estado, eles têm 10 menos <color=#FF5521>resistência ao Fogo</color> por 30s. <color=#FFFFFF>Ataque Especial Reforçado: Rugido do Leão</color>, <color=#FFFFFF>Ataque Especial Reforçado: Rugido do Leão — Fúria</color>, <color=#FFFFFF>Ataque Especial Reforçado: Tremor da Montanha</color>, <color=#FFFFFF>Ataque Especial Reforçado: Tremor da Montanha — Fúria</color>, <color=#FFFFFF>Ataque Básico: Montanha Tombada</color> e <color=#FFFFFF>Ataque Básico: Destruidor de Montanhas</color> causam 10% mais Dano Bruto quando atingem inimigos em estado de <color=#FFFFFF>Tremor</color>. Quando o <color=#FFFFFF>Ataque Básico: Destruidor de Montanhas</color> atinge um inimigo atordoado, o Atordoamento dura mais 2s. Este efeito pode ser aplicado uma vez por período de Atordoamento, e efeitos do mesmo tipo não podem ser acumulados.",
+                "BanYue_Talent_01_Title_Realign": "Avareza Como Fogo"
+            },
+            {
+                "talent_id": "2",
+                "BanYue_Talent_02_Title": "Raiva Como Lâmina",
+                "BanYue_Talent_02_Desc_01_Realign": "O bônus de Dano CRIT da <color=#FFFFFF>Passiva Principal</color> aumenta mais 15%, e o bônus de <color=#FF5521>Dano de Fogo</color> aumenta mais 15%.\nNo estado de <color=#FFFFFF>Semblante de Fúria</color>, quando o personagem consome <color=#FFFFFF>Imponência da Montanha</color> para ativar um <color=#FFFFFF>Ataque Especial Reforçado</color>, recupera mais 5 de Adrenalina.",
+                "BanYue_Talent_02_Desc_02": "Os alunos da escola de artes marciais nunca viram o Mestre Banyue nervoso — muito menos furioso.\nComo poderia uma montanha se enfurecer facilmente? Sua grande força e densa serenidade sempre faz com que as pessoas quase se esqueçam de sua ferocidade. Mas quando ele invoca sua fúria, até mesmo as feras mais agressivas tremem diante dele.\n\n\"A raiva é como uma lâmina: mantenha-a bem guardada na bainha todos os dias, para não ferir as pessoas ao seu redor.\"",
+                "BanYue_Talent_02_Desc_01": "O bônus de Dano CRIT da <color=#FFFFFF>Passiva Principal</color> aumenta mais 15%, e o bônus de <color=#FF5521>Dano de Fogo</color> aumenta mais 15%. No estado de <color=#FFFFFF>Semblante de Fúria</color>, quando o personagem consome <color=#FFFFFF>Imponência da Montanha</color> para ativar um <color=#FFFFFF>Ataque Especial Reforçado</color>, recupera mais 5 de Adrenalina.",
+                "BanYue_Talent_02_Title_Realign": "Raiva Como Lâmina"
+            },
+            {
+                "talent_id": "3",
+                "BanYue_Talent_03_Title": "Loucura Como Correntes",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "BanYue_Talent_03_Desc_02": "O Mestre Banyue não é apenas um artista marcial, mas também um sábio. Pelo menos, é o que seus alunos da academia e vizinhos dizem. Afinal, ele sempre parece muito contemplativo no dia a dia. Quando ele, que não costuma falar muito, finalmente se manifesta, são sempre frases filosóficas, que deixam as pessoas reflexivas. O caminho da arte marcial não aprimora apenas o corpo, mas também a mente, e o Mestre Banyue frequentemente diz que ele mesmo não passa de um aprendiz.\n\n\"Embora tenha trilhado o caminho errado no passado, Banyue ainda pode oferecer seus punhos para se redimir e abrir o caminho à frente.\"",
+                "BanYue_Talent_03_Title_Realign": "Loucura Como Correntes"
+            },
+            {
+                "talent_id": "4",
+                "BanYue_Talent_04_Title": "Unidade de Extermínio Tipo Zero",
+                "BanYue_Talent_04_Desc_01_Realign": "O dano causado por <color=#FFFFFF>Ataque Especial Reforçado: Rugido do Leão — Fúria</color>, <color=#FFFFFF>Ataque Especial Reforçado: Tremor da Montanha — Fúria</color>, <color=#FFFFFF>Ataque Básico: Montanha Tombada</color> e <color=#FFFFFF>Ataque Básico: Destruidor de Montanhas</color> aumenta <color=#FFFFFF>30%</color>.",
+                "BanYue_Talent_04_Desc_02": "O destino pode ser predeterminado pelos céus ou pelos humanos, mas o fardo e a culpa de algumas pessoas jamais tiveram a honra de serem manchados pelo livre arbítrio. Antes de ganhar seu nome atual, o construto de combate conhecido como \"Tipo Zero\" era, literalmente, apenas uma máquina de matar. Mas quando foi que seu coração nasceu? Foi quando ele removeu as barreiras de seu código ou quando ganhou coragem para carregar todo esse fardo e seguir em frente?\n\n\"O remorso não é fácil. Em vez de fugir dos pecados do passado, é melhor carregar o peso monumental do passado e brandir os punhos pelo presente.\"",
+                "BanYue_Talent_04_Desc_01": "O dano causado por <color=#FFFFFF>Ataque Especial Reforçado: Rugido do Leão — Fúria</color>, <color=#FFFFFF>Ataque Especial Reforçado: Tremor da Montanha — Fúria</color>, <color=#FFFFFF>Ataque Básico: Montanha Tombada</color> e <color=#FFFFFF>Ataque Básico: Destruidor de Montanhas</color> aumenta <color=#FFFFFF>30%</color>.",
+                "BanYue_Talent_04_Title_Realign": "Unidade de Extermínio Tipo Zero"
+            },
+            {
+                "talent_id": "5",
+                "BanYue_Talent_05_Title": "Aprendiz",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "BanYue_Talent_05_Desc_02": "Ficou sabendo? Abriu um dojo na montanha, e quem ensina artes marciais lá é um construto inteligente enorme.\nOs aprendizes que saem daquele dojo têm habilidades reais, até conseguem trocar alguns golpes com os Etéreos.\nO mestre de ferro também costuma entrar na Esfera Negra para resgatar e ajudar pessoas. Deve ser mesmo um grande mestre das artes marciais, não é?\n\n\"Sou apenas mais um aprendiz inexperiente... Vocês me chamam de mestre, mas são vocês que me ensinam muito sobre o que significa ser 'humano'.\"",
+                "BanYue_Talent_05_Title_Realign": "Aprendiz"
+            },
+            {
+                "talent_id": "6",
+                "BanYue_Talent_06_Title": "Rei da Sabedoria Encarnado",
+                "BanYue_Talent_06_Desc_01_Realign": "Sempre que Banyue executa um <color=#FFFFFF>Ataque Especial Reforçado</color>, ele obtém <color=#FFFFFF>Rei da Sabedoria</color>. O bônus de <color=#FF5521>Dano de Fogo</color> de <color=#FFFFFF>Rei da Sabedoria</color> aumenta mais 8% e sua duração aumenta para 30s. Com <color=#FFFFFF>Ataque Básico: Destruidor de Montanhas</color>, Banyue causa <color=#FF5521>Dano de Fogo</color> igual a 600% de sua Força Bruta aos inimigos ao seu redor. Também é possível obter <color=#FFFFFF>Rei da Sabedoria</color> ao usar <color=#FFFFFF>Esquiva: Grito de Guerra</color> imediatamente após um <color=#FFFFFF>Ataque Especial Reforçado</color>.",
+                "BanYue_Talent_06_Desc_02": "\"Acha fácil pagar sua dívida com a vida, grandalhão? Mas você ainda tem um longo caminho de redenção pela frente!\"\n\n\"Esta é... minha sentença final para você!\"\n\nEmbora a silhueta da garota fosse delicada, suas palavras de julgamento ressoaram com força, como se dissipassem o peso das montanhas e a névoa misteriosa.\n\n\"Ainda reflito se tenho a sabedoria e a coragem para julgar... mas isso não será uma desculpa para me manter parado.\"",
+                "BanYue_Talent_06_Desc_01": "Sempre que Banyue executa um <color=#FFFFFF>Ataque Especial Reforçado</color>, ele obtém <color=#FFFFFF>Rei da Sabedoria</color>. O bônus de <color=#FF5521>Dano de Fogo</color> de <color=#FFFFFF>Rei da Sabedoria</color> aumenta mais 8% e sua duração aumenta para 30s. Com <color=#FFFFFF>Ataque Básico: Destruidor de Montanhas</color>, Banyue causa <color=#FF5521>Dano de Fogo</color> igual a 600% de sua Força Bruta aos inimigos ao seu redor. Também é possível obter <color=#FFFFFF>Rei da Sabedoria</color> ao usar <color=#FFFFFF>Esquiva: Grito de Guerra</color> imediatamente após um <color=#FFFFFF>Ataque Especial Reforçado</color>.",
+                "BanYue_Talent_06_Title_Realign": "Rei da Sabedoria Encarnado"
+            }
+        ]
+    },
+    "1481": {
+        "role_id": 1481,
+        "name": "Dialyn",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Azural_Talent_01_Title": "Serviço Ilimitado",
+                "Azural_Talent_01_Desc_01_Realign": "Os pontos de <color=#FFFFFF>Avaliação Positiva</color> acumulados por segundo e obtidos com <color=#FFFFFF>Ataque Especial Reforçado: Pedra</color>, <color=#FFFFFF>Ataque Especial Reforçado: Tesoura</color>, ou <color=#FFFFFF>Ataque Especial Reforçado: Papel</color> aumentam 16%.\nPersonagens no estado de <color=#FFFFFF>Satisfação Total</color> ignoram 15% da Resistência dos inimigos a todos os atributos.",
+                "Azural_Talent_01_Desc_02": "Boas-vindas ao Centro de Atendimento ao Cliente Interdepartamental!\nNossa missão é simples: sempre oferecer um sorriso e atender os clientes com entusiasmo!\nUm sorriso... justamente a expressão mais difícil de fingir. Quando foi que eu aprendi a fazer isso tão bem?\n\"Olá, como posso te ajudar? Bem, não que eu realmente possa fazer algo por você...\"",
+                "Azural_Talent_01_Desc_01": "Os pontos de <color=#FFFFFF>Avaliação Positiva</color> acumulados por segundo e obtidos com <color=#FFFFFF>Ataque Especial Reforçado: Pedra</color>, <color=#FFFFFF>Ataque Especial Reforçado: Tesoura</color>, ou <color=#FFFFFF>Ataque Especial Reforçado: Papel</color> aumentam 16%.\nPersonagens no estado de <color=#FFFFFF>Satisfação Total</color> ignoram 15% da Resistência dos inimigos a todos os atributos.",
+                "Azural_Talent_01_Title_Realign": "Serviço Ilimitado"
+            },
+            {
+                "talent_id": "2",
+                "Azural_Talent_02_Title": "Ligações 24h",
+                "Azural_Talent_02_Desc_01_Realign": "Inimigos com <color=#FFFFFF>Denúncia Maliciosa</color> obtém mais 20% de Multiplicador de Dano de Atordoamento quando sofrem atordoamento, e todas as unidades causam 15% mais dano a alvos sob efeito de <color=#FFFFFF>Denúncia Maliciosa</color>.",
+                "Azural_Talent_02_Desc_02": "A T.O.P.S. é a maior aliança empresarial de Nova Eridu. Nosso trabalho mantém a cidade viva!\nSomos o óleo essencial para essa máquina continuar trabalhando, e nossos telefones têm que estar ativos 24 horas por dia!\nBarulhos insistentes e conversas altas? Sem problema, é minha área de especialidade.\n\"Fique à vontade para me contatar a qualquer momento! Eu vou ser irritante assim independente da hora que você ligar.\"",
+                "Azural_Talent_02_Desc_01": "Inimigos com <color=#FFFFFF>Denúncia Maliciosa</color> obtêm mais 20% de Multiplicador de Dano de Atordoamento quando sofrem atordoamento, e todas as unidades causam 15% mais dano a alvos sob efeito de <color=#FFFFFF>Denúncia Maliciosa</color>.",
+                "Azural_Talent_02_Title_Realign": "Ligações 24h"
+            },
+            {
+                "talent_id": "3",
+                "Azural_Talent_03_Title": "Chamada da Esfera Negra",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Azural_Talent_03_Desc_02": "A Esfera Negra é uma tumba gigante onde o som da vida é enterrado no mais escuro dos caixões.\nPara mim, é um chamado irrecusável, é a página final de cada diário, uma lembrança das obsessões e ressentimentos mais persistentes.\nMas todo esse falatório sobre o que vai e o que fica não tem nada a ver com minha própria história.\n\"Não se preocupe. Eu já precisei lidar com clientes bem piores que você!\"",
+                "Azural_Talent_03_Title_Realign": "Chamada da Esfera Negra"
+            },
+            {
+                "talent_id": "4",
+                "Azural_Talent_04_Title": "Passado Presente",
+                "Azural_Talent_04_Desc_01_Realign": "Ao entrar em combate, Dialyn recupera 20 de Energia.\nEsse efeito pode ser ativado uma vez a cada 180s no Modo de Reconhecimento. \nSob efeito de <color=#FFFFFF>Satisfação Total</color>, o ATQ de Dialyn aumenta 500 pontos.",
+                "Azural_Talent_04_Desc_02": "As pessoas me tratam como criança porque eu sou pequena, mas minha infância já acabou faz tempo.\nQuando foi que aconteceu? Na primeira vez que ouvi os sussurros dos mortos? Quando fui enviada como um sacrifício para a Esfera Negra? Na primeira vez que chorei sozinha até dormir?\nEu precisei me virar, pois não havia ninguém para cuidar de mim. Eu não conseguia esquecer o passado, então aprendi a fingir.\n\"Seus assuntos pessoais pouco me importam... mas estou preocupada que seus traumas de infância vão afetar minha avaliação!\"",
+                "Azural_Talent_04_Desc_01": "Ao entrar em combate, Dialyn recupera 20 de Energia. Esse efeito pode ser ativado uma vez a cada 180s no Modo de Reconhecimento. Sob efeito de <color=#FFFFFF>Satisfação Total</color>, o ATQ de Dialyn aumenta 500 pontos.",
+                "Azural_Talent_04_Title_Realign": "Passado Presente"
+            },
+            {
+                "talent_id": "5",
+                "Azural_Talent_05_Title": "Mentiras",
+                "Common_Talent_Desc": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+                "Azural_Talent_05_Desc_02": "Nós mentimos enquanto as pessoas se importam, e só falamos a verdade quando elas desistem de se importar.\nEssas atitudes só trazem arrependimentos. Meu trabalho é usar os arrependimentos do passado para melhorar o presente.\nEu sei que todo mundo mente... Ainda bem que alguém ainda se importa o bastante para mentir pra mim.\n\"Minha sugestão? Faz um elogio ou outro no meio das reclamações. Funciona, que é uma beleza!\"",
+                "Azural_Talent_05_Title_Realign": "Mentiras"
+            },
+            {
+                "talent_id": "6",
+                "Azural_Talent_06_Title": "Verdade",
+                "Azural_Talent_06_Desc_01_Realign": "Quando um aliado entra em combate com um <color=#FFFFFF>Supremo</color>, através da Passiva Principal, esse aliado obtém o efeito <color=#FFFFFF>Ecos</color>.\nAo atingir um inimigo com esse efeito, causa uma instância adicional de <color=#F0D12B>Dano Físico</color> equivalente a 480% do ATQ de Dialyn.\nEsse dano é considerado dano de <color=#FFFFFF>Ataque Especial Reforçado</color> e pode ser ativado 1 vez por segundo, até 12 vezes.\nObter <color=#FFFFFF>Ecos</color> novamente reinicia o número de ativações restantes. Apenas um aliado pode obter o efeito <color=#FFFFFF>Ecos</color> por vez.",
+                "Azural_Talent_06_Desc_02": "Uma morte repentina é como uma fatia preservada do tempo, que captura a verdade em sua forma final e imutável.\nEu pego essas amostras especiais diretamente dos mortos, e uso suas certidões de óbito para certificar meus julgamentos.\nA verdade pura e objetiva rege minha vida e guia meu caminho, até que...\n\"Proxy, posso contar uma mentirinha?\"",
+                "Azural_Talent_06_Desc_01": "Quando um aliado entra em combate com um <color=#FFFFFF>Supremo</color>, através da Passiva Principal, esse aliado obtém o efeito <color=#FFFFFF>Ecos</color>. Ao atingir um inimigo com esse efeito, causa uma instância adicional de <color=#F0D12B>Dano Físico</color> equivalente a 480% do ATQ de Dialyn. Esse dano é considerado dano de <color=#FFFFFF>Ataque Especial Reforçado</color> e pode ser ativado 1 vez por segundo, até 12 vezes. Obter <color=#FFFFFF>Ecos</color> novamente reinicia o número de ativações restantes. Apenas um aliado pode obter o efeito <color=#FFFFFF>Ecos</color> por vez.",
+                "Azural_Talent_06_Title_Realign": "Verdade"
             }
         ]
     },
     "0": {
         "role_id": 0,
         "name": null,
-        "full_name": null,
         "talent_text": []
     }
 }

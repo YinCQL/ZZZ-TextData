@@ -327,18 +327,18 @@
         "id": 1041,
         "name": "N.º 11",
         "full_name": "N.º 11",
-        "en_name": "Soldier 11",
-        "en_full_name": "Soldier 11",
+        "en_name": "N.º 11",
+        "en_full_name": "N.º 11",
         "nickname": "Soldier11",
         "gender": "Feminino",
         "stature": "160",
-        "birthday": "????",
+        "birthday": "21 de Março",
         "organization": "Esquadrão OBOLS",
         "partner_bg": "OBOL SQUAD ",
         "outlook": "Detalhes atualmente indisponíveis",
         "profile": {
-            "profile_01": "N.º 11 é membro da Força de Defesa de Nova Eridu.\nAtualmente, ela atua como socorrista principal no Esquadrão OBOLS, Divisão Obsidiana. N.º 11 é um codinome, seu nome verdadeiro permanece desconhecido.\n\"Meu nome? Desisti dele há muito tempo.\nÉ apenas uma lembrança do meu passado, e o passado nos torna fracos.\"\n\nN.º 11 é fã de comida apimentada e gosta do macarrão superpicante servido na Cascata de Macarrão.\nVale a pena notar que ela atualmente nos chama por um nome diferente toda vez que nos cumprimenta.\nInformações adicionais sobre a N.º 11 ainda estão sendo obtidas.",
-            "profile_02": null
+            "profile_01": "A N.º 11 faz parte da Força de Defesa de Nova Eridu. Atualmente, ela atua na linha de frente do Esquadrão OBOLS da Divisão Obsidiana. \"N.º 11\" é um codinome. Ela abriu mão de seu nome verdadeiro há muito tempo.\n\nA N.º 11 é uma verdadeira apreciadora de comida superpicante, e gosta muito do macarrão superpicante servido na Cascata de Macarrão. Vale mencionar que ela nos chama por nomes diferentes sempre que nos cumprimenta.",
+            "profile_02": "{M#Mestre}{F#Mestra}, segundo seus relatos e o testemunho da Agente Anby, o verdadeiro nome da N.º 11 é Harin. Ela é um clone do projeto de soldados clonados anteriormente implementado pela Força de Defesa de Nova Eridu, e assim como a Anby, ela pertenceu à Companhia de Prata da Força de Defesa.\n\nO projeto de pesquisa produziu vários clones que obedeciam absolutamente ao alto comando da Força de Defesa, mas, devido a diversos fatores, foi descontinuado anos atrás. A Força de Defesa tentou se livrar das evidências e resultados desse projeto desumano, mantendo apenas um soldado como resultado representativo. Originalmente, Anby seria a escolhida, mas ela se autodestruiu para proteger N.º 11, fazendo com que ela se tornasse a soldado preservada. Posteriormente, Magus, a capitã do Esquadrão OBOLS, acolheu voluntariamente N.º 11 em sua equipe.\n\nPor desconhecer a verdade, a N.º 11 sempre manteve sentimentos de abandono e traição em relação à Anby, tendo como objetivo se tornar uma soldado mais forte que ela. Ao mesmo tempo, ela tem um bom relacionamento com todos os membros do Esquadrão OBOLS, considerando-as companheiras mais importantes."
         },
         "sender_note": {
             "sender_note1": "Impressão sobre N.º 11\n• A N.º 11 continua me chamando de qualquer coisa que venha à cabeça.",
@@ -346,8 +346,89 @@
             "sender_note3": " · A N.º 11 ainda é uma soldado fria... Mas talvez ela já tenha mudado um pouco por causa da nossa amizade."
         },
         "impression": {
-            "sister": "Essa é toda a informação que temos? Vamos lá, Fada, você não consegue fazer melhor?",
-            "brother": "Hmm... Espero que a N.º 11 se lembre da gente algum dia..."
+            "sister": "Gatos, macarrão superpicante, sair em missões, e todos no Esquadrão OBOLS... Tudo isso faz parte da vida atual da N.º 11. Espero conquistar um espaço no coração dela um dia!",
+            "brother": "Tenho certeza de que vamos! Mas, pra falar a verdade, espero que a N.º 11 se lembre do nosso nome algum dia..."
+        }
+    },
+    "1301": {
+        "id": 1301,
+        "name": "Orfeu & Magus",
+        "full_name": "Orfeu Magnusson & Magus",
+        "en_name": "Orfeu & Magus",
+        "en_full_name": "Orfeu Magnusson & Magus",
+        "nickname": "Brujas",
+        "gender": "Feminino",
+        "stature": "158",
+        "birthday": "3 de novembro",
+        "organization": "Esquadrão OBOLS",
+        "partner_bg": "OBOL SQUAD ",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Orfeu Magnusson faz parte do Esquadrão OBOLS da Divisão Obsidiana da Força de Defesa de Nova Eridu. Ela é a portadora do construto inteligente em forma de arma, Magus.\n\nMagus é a capitã do Esquadrão OBOLS. Ela foi gravemente ferida durante a queda da antiga capital e ficou à beira da morte. Após participar de um projeto de pesquisa militar, sua consciência foi transferida para uma arma, permitindo que ela sobrevivesse como um construto inteligente. Desde a formação do esquadrão, ela tem mantido sua essência: temperamental e impulsiva às vezes, mas tem a confiança e o respeito profundo de suas companheiras.\n\nOrfeu parece ter uma conexão especial com Magus, que vai além da parceria. Elas se conhecem há anos e, às vezes, Magus demonstra um comportamento maternal, oferecendo orientação e cuidado, enquanto Orfeu faz todo o possível para cumprir as expectativas de Magus, tentando se tornar uma soldado forte e independente como sua capitã.\n\nFalando de maneira mais direta, Orfeu tem muitos interesses que a Capitã Magus desaprova: sobremesas refinadas, animais pequenos e brinquedos muito chamativos. Magus considera essas coisas como sinais de fraqueza, inapropriadas para uma soldado. Mesmo assim, embora Magus tome medidas disciplinares em público e imponha suas expectativas de um soldado perfeito, ela finge estar em \"estado de hibernação\" para fazer vista grossa quanto ao comportamento inapropriado de Orfeu. Segundo as palavras da capitã \"inflexível e imparcial\", ela apenas segue os conselhos parentais da série intitulada \"Como Criar uma Criança Prodígio\" disponível on-line.",
+            "profile_02": "Embora pareça que a Capitã Magus seja quem dá as ordens e toma as decisões, na verdade, Orfeu tem sua própria forma de controlar essas situações de maneira bem sutil.\nElas são como um reflexo uma da outra, compartilhando as mesmas vulnerabilidades, embora Magus tenha a tendência de esconder as suas.\n\nObservação: apesar disso, você já descobriu várias das fraquezas que Magus tenta esconder. Seus olhos espertos não deixam escapar nenhum segredo!"
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Orfeu & Magus:\n · A garota tem a curiosidade de um gato em relação ao mundo.",
+            "sender_note2": "· Elas são como dois brotos diferentes da mesma semente.",
+            "sender_note3": "· Nem sempre se pode escolher o ponto de partida do caminho, mas você sempre pode mudar o rumo."
+        },
+        "impression": {
+            "sister": "Orfeu tem uma ótima personalidade. Estar com ela é muito relaxante!\nMas seu jeito despreocupado causa muitos problemas para a Magus, e ela parece nem perceber!",
+            "brother": "A dinâmica entre elas é muito interessante.\nSe alguém fizesse um filme sobre uma garota e sua arma falante, provavelmente seria um sucesso de bilheteria."
+        }
+    },
+    "1361": {
+        "id": 1361,
+        "name": "Trigger",
+        "full_name": "Trigger",
+        "en_name": "Trigger",
+        "en_full_name": "Trigger",
+        "nickname": "Trigger",
+        "gender": "Feminino",
+        "stature": "173",
+        "birthday": "21 de abril",
+        "organization": "Esquadrão OBOLS",
+        "partner_bg": "OBOL SQUAD ",
+        "outlook": "Arquivo de Licenças da AIEN:\nTrigger, soldado da Força de Defesa, boa afinidade com Éter, está autorizada a realizar tarefas básicas como investigar e extrair recursos em Esferas Negras conhecidas dentro da cidade (incluindo Sub-Esferas).\nObservação: os olhos de Trigger foram contaminados por alta concentração de Éter e severamente corrompidos. Não é aconselhável remover o protetor de olhos fora do ambiente da Esfera Negra.",
+        "profile": {
+            "profile_01": "Trigger é uma franco-atiradora da elite militar de Nova Eridu, pertencente à Divisão Obsidiana do Esquadrão OBOLS da Força de Defesa. Ela recebeu esse codinome quando entrou para a Força de Defesa de Nova Eridu, e ainda o utiliza. \n\nSeus olhos são muito especiais e não conseguem ver a maior parte das coisas. Porém, eles podem identificar claramente a localização de entidades etéreas através das flutuações de Éter. Atenção: entidades com variações de flutuações de Éter incluem seres vivos, matéria etérea, produtos de Éter e Etéreos.\n\nSendo praticamente cega, Trigger treina seus outros sentidos à perfeição, e isso permite que ela se mova normalmente e até detecte mudanças no ambiente. Isso a torna adequada para ser uma atiradora de elite. Ela pode realizar missões secretas, como reconhecimento, vigilância e assassinatos.\n\nAo contrário de sua precisão mortal no combate, sua personalidade é bastante inofensiva. Ela aparece silenciosamente e quase mata a gente de susto, mas, fora isso, é basicamente inofensiva.",
+            "profile_02": "Originalmente, Trigger fazia parte do Esquadrão da Lira da Força de Defesa, na Divisão Olho de Gato. Os outros integrantes deste grupo sucumbiram na queda da antiga capital, e Trigger teve os olhos severamente corrompidos durante a catástrofe. Atualmente, Trigger investiga a verdade sobre a queda da antiga capital com outros membros de seu atual pelotão.\n\nTrigger possui um forte espírito de equipe e está sempre disposta a se sacrificar por seu grupo. A julgar por seu comportamento, ela parece estar determinada a ser sua companheira. É provável que um certo incidente tenha causado uma boa impressão de você para ela.\n\nSugestão: Tente estabelecer uma cooperação de longo prazo com ela. Ofereça bolinhos de feijão vermelho ilimitados e quartos isolados para praticar gaita até tarde. Você obterá uma aliada de alto valor com pouco esforço."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Trigger:\n · Adequada, gentil, perspicaz e confiável. Essas são as qualidades que melhor representam a primeira impressão que Trigger deixa nas pessoas.",
+            "sender_note2": "· Nossa relação com Trigger começou cedo, e ela parece achar que isso é uma de suas memórias mais valiosas.",
+            "sender_note3": " · Ela parece muito interessada em nossos planos. Parece que ela usa todo e qualquer método para criar encontros... Talvez esse seja o lado mais autêntico de uma franco-atiradora."
+        },
+        "impression": {
+            "sister": "Um dia eu estava cuidando da locadora sozinha e fiquei com febre. A Trigger apareceu e, não apenas mediu minha temperatura sem ter termômetro, como ainda cuidou de mim durante toda a tarde... Como ela sabia?",
+            "brother": "Você quer saber como ela sabia que você estava com febre ou como ela descobriu a sua temperatura exata? Eu também não sei dizer, mas pouco tempo atrás, quando torci o tornozelo no estacionamento, ela apareceu com uma bolsa de gelo quase na mesma hora..."
+        }
+    },
+    "1461": {
+        "id": 1461,
+        "name": "Seed",
+        "full_name": "Seed",
+        "en_name": "Seed",
+        "en_full_name": "Seed",
+        "nickname": "Seed",
+        "gender": "Feminino",
+        "stature": "153/240 (meca)",
+        "birthday": "22 de novembro",
+        "organization": "Esquadrão OBOLS",
+        "partner_bg": "OBOL SQUAD ",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Seed é a artilheira do Esquadrão OBOLS, que pertence à Divisão Obsidiana da Força de Defesa de Nova Eridu. Seu nome verdadeiro é Flora. O codinome \"Seed\" foi herdado do seu guardião, um construto inteligente de combate antes conhecido pelo mesmo nome, que agora é chamado de \"Seed Sênior\".\n\nSegundo diversas fontes, Seed é uma órfã não identificada que foi resgatada da Esfera Zero pelo Seed Sênior durante a queda da antiga capital. Seed Sênior a adotou e criou sozinho no dormitório da Força de Defesa.\n\nHá alguns anos, Seed Sênior conseguiu entrar para o Esquadrão OBOLS, mas pouco tempo depois acabou falecendo devido a danos irreversíveis ao seu núcleo lógico. Depois disso, Seed assumiu seu lugar no esquadrão. Atualmente, as vozes que se pode ouvir do Seed Sênior são gravações previamente integradas ao sistema.\n\nSeed tem um dom extraordinário para engenharia mecânica e pesquisa, capaz de projetar e criar invenções muito além da imaginação de muitos. Ela também tem uma afinidade com o Éter excepcionalmente alta, podendo maximizar o potencial de combate do Seed Sênior por meio de pilotagem, controle remoto e instalação de módulos de combate.\n\nApesar de ter uma capacidade física abaixo dos padrões do esquadrão e de sua origem misteriosa, os militares abriram uma exceção para ela se tornar uma soldado de elite.\n\nSeed tem um comportamento diferente da maioria das pessoas em situações cotidianas. Ela usa a cabine de pilotagem do Seed Sênior como cama, prefere ficar em lugares apertados e detesta conversar ou interagir com pessoas fora de seu círculo social primário. Seu raciocínio apresenta saltos lógicos muito pronunciados, o que dificulta bastante a comunicação.\n\nFelizmente, por algum motivo, ela parece ter um apego especial por você, {M#mestre}{F#mestra}, e {M#pela}{F#pelo} assistente número dois. Você conseguiu evitar todo o processo trabalhoso para conquistar sua confiança e não precisa se preocupar em ser o alvo de seus ocasionais impulsos destrutivos. Parabéns!\n\nSugestão: ao conversar com ela, fale sobre seus assuntos favoritos: flores e robôs. Mantenha a calma quando partes do raciocínio dela não fizerem sentido para você; tratar esses momentos com naturalidade pode ajudar a fortalecer sua relação com ela.",
+            "profile_02": "Desde muito jovem, Seed demonstra certas habilidades incomuns e potencialmente perigosas, como a habilidade de controlar, desativar e até detonar dispositivos mecânicos próximos. Essa habilidade apenas se manifesta quando ela se encontra em um estado emocional altamente instável, evidenciado por um brilho vermelho nos seus olhos.\n\nFoi precisamente essa habilidade que fez o sistema de autodefesa do Seed Sênior considerá-la automaticamente uma ameaça de alto risco quando se conheceram, o que causou, indiretamente, dano irreversível ao núcleo lógico dele.\n\nQuando Seed foi resgatada da Esfera Zero pelo Seed Sênior, ela já apresentava uma peculiaridade em sua personalidade: por razões desconhecidas, lhe faltava compreensão, percepção e empatia em relação à vida. Seed Sênior dedicou os anos seguintes a desenvolver a personalidade dela. Após sua morte, a tarefa passou a ser responsabilidade do Esquadrão OBOLS. Felizmente, a condição da Seed melhorou muito com o tempo.\n\n{M#Mestre}{F#Mestra}, segundo os registros das suas explorações anteriores com a Seed na Esfera Zero, ficou evidente que a verdadeira identidade da Seed é semelhante à sua: ela também foi uma aprendiz da Instituição Helios.\n\nPode-se presumir que, durante seu tempo na Instituição Helios, ela pertencia a algum projeto de pesquisa diferente do seu, provavelmente relacionado a pesquisa mecânica. As habilidades mecânicas incomuns e a personalidade atípica da Seed são resultados residuais desse projeto. No entanto, devido à sua perda de memória sobre a Instituição Helios e a queda da antiga capital, não é possível analisar mais informações a respeito.\n\nAlém disso, {M#Mestre}{F#Mestra}, às vezes, ela me encara com um sorriso. Suspeito de que ela deseje me desmontar por curiosidade. Solicito formalmente que sejam implementadas maiores medidas de proteção para reforçar minha segurança pessoal e para evitar a perda de uma assistente tão adorável e competente."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Seed:\n · Às vezes, ela é um anjo que ama flores, faz amizade com Bangboos e resolve problemas. Outras vezes, ela é como um demônio que devora flores, implica com os Bangboos e causa problemas.",
+            "sender_note2": " · Ela é um prodígio que se esconde no interior da cabine de pilotagem e a imponente herdeira de um meca que ruge no campo de batalha.",
+            "sender_note3": " · Ela é como uma semente que pulsa como um batimento cardíaco e uma nova flor cheia de amor."
+        },
+        "impression": {
+            "sister": "A Seed é ótima em jogos, gosta dos mesmos tipos de música que eu, e também não é muito fã de atividade física. A cabine de controle é praticamente o quarto dela... Nós realmente temos muito em comum. Ah, só mais uma coisa, nós duas sabemos que somos adoráveis!",
+            "brother": "Na maioria das vezes, eu consigo acompanhar o raciocínio... peculiar dela, mas não posso abaixar a guarda. Da última vez, ela me disse que o patinete dela tinha quebrado, então eu me ofereci pra consertar ele, depois ela pulou nas minhas costas e me usou como transporte pelo resto do dia! Ainda bem que eu consigo correr mais do que ela..."
         }
     },
     "1241": {
@@ -381,8 +462,8 @@
         "id": 1251,
         "name": "Qingyi",
         "full_name": "Qingyi",
-        "en_name": "Qingyi",
-        "en_full_name": "Qingyi",
+        "en_name": "QingYi",
+        "en_full_name": "QingYi",
         "nickname": "QingYi",
         "gender": "Feminino",
         "stature": "142",
@@ -593,6 +674,33 @@
             "brother": "Eu diria que é apenas uma frase de efeito dela.\nPensando bem, essa mensagem parece mais uma reclamaçãozinha da Fada..."
         }
     },
+    "1351": {
+        "id": 1351,
+        "name": "Pulchra",
+        "full_name": "Pulchra Fellini",
+        "en_name": "Pulchra",
+        "en_full_name": "Pulchra Fellini",
+        "nickname": "Pulchra",
+        "gender": "Feminino",
+        "stature": "173",
+        "birthday": "19 de junho",
+        "organization": "Filhos de Calydon",
+        "partner_bg": "SONS OF CALYDON ",
+        "outlook": "Não há registros da afinidade com Éter de Pulchra no registro de cidadãos de Nova Eridu.\nObservação: Pulchra possui excelente afinidade com Éter, mas parte da pelagem dos tirenos felinos é suscetível aos efeitos da Esfera Negra e ela corre o risco de se deteriorar por Corrupção rapidamente. É necessário ter uma atenção especial.",
+        "profile": {
+            "profile_01": "Pulchra, ex-mercenária da zona externa, agora membro dos Filhos de Calydon e funcionária da Logística Excelência.\nAlerta: foram detectadas transações financeiras entre Pulchra e várias gangues de motociclistas e grupos ilegais na zona externa. Depois que ela se uniu aos Filhos de Calydon, essas transações diminuíram, mas os registros de transferência de fundos municipais de Nova Eridu aumentaram bastante. Supõe-se que sua nova identidade permita que ela entre e saia de Nova Eridu com mais facilidade.\nOs registros mostram que ela está indiretamente ligada a vários incidentes da zona externa, incluindo, mas não se limitando a: formação de gangues, tráfico de informações sobre suprimentos e caravanas, danos a estradas e aumento suspeito de suprimentos importantes.\nNão há provas que evidenciem sua atual relação com Lucius. Sendo parte de uma gangue de motociclistas, ela corre menos riscos, mas suas relações sociais são complicadas. É recomendado manter certa atenção quando a contatar, especialmente no quesito privacidade.",
+            "profile_02": "Foram encontrados registros do emprego de Pulchra em duas equipes de mercenários da zona externa, juntamente com registros de uma jovem chamada Milena, cujas informações desapareceram há oito anos. \nFoi também há oito anos que Pulchra formou uma equipe de mercenários, mas não foi encontrada a lista de participantes, nem o motivo para sua dissolução. Após este período, a carreira de Pulchra passou a florescer repentinamente."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Pulchra:\n · Para Pulchra, a distinção entre inimigos e aliados é irrelevante, eles são apenas papéis que precisam ser interpretados temporariamente para a realização de seu trabalho.",
+            "sender_note2": " · Ela parece não se importar com nada além de seus próprios interesses, mas será que isso é só uma fachada?",
+            "sender_note3": " · Tem uma pessoa que ela não consegue apagar da memória. Será que são boas memórias ou pesadelos?"
+        },
+        "impression": {
+            "sister": "Eu não acho que ela seja tão perigosa quanto a Fada pensa. Ela parece bem amigável. Como pode haver algo tão errado com uma gatinha?",
+            "brother": "É perigoso pensar assim. Ah! Ela enviou uma mensagem dizendo que eu a ajudei a conseguir a versão limitada do jogo que ela queria."
+        }
+    },
     "1091": {
         "id": 1091,
         "name": "Miyabi",
@@ -746,7 +854,7 @@
             "profile_02": "São raras as informações sobre a \"organização\" para a qual a Evelyn trabalha. Só se sabe que ela se juntou a eles enquanto era jovem, foi submetida a um rígido treinamento e desenvolveu habilidades como tomada rápida de decisões e realização de tarefas em ambientes desafiadores. Ela tem muitas cicatrizes dessas experiências, mas também ganhou habilidades extraordinárias e compostura.\n\nConsideração: analisar que tipo de \"organização\" é essa."
         },
         "sender_note": {
-            "sender_note1": "Impressões da Evelyn:\n · Qualquer tentativa de aproximação com a Astra é observada de perto pela Evelyn...",
+            "sender_note1": "Impressão sobre Evelyn:\n · Qualquer tentativa de aproximação com a Astra é observada de perto pela Evelyn...",
             "sender_note2": " · Pelo tempo em que estão diariamente juntas, Evelyn começou a baixar a guarda.",
             "sender_note3": " · Há poucas coisas nesse mundo das quais ela depende, mas nós somos uma delas."
         },
@@ -755,12 +863,390 @@
             "brother": "Eu tenho inveja de você. Você diz isso com facilidade, mas se fosse eu, provavelmente levaria uma surra..."
         }
     },
+    "1291": {
+        "id": 1291,
+        "name": "Hugo",
+        "full_name": "Hugo Vlad",
+        "en_name": "Hugo",
+        "en_full_name": "Hugo Vlad",
+        "nickname": "Hugo",
+        "gender": "Masculino",
+        "stature": "185",
+        "birthday": "20 de agosto",
+        "organization": "Sabiá",
+        "partner_bg": "MOCKINGBIRD ",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Hugo, um autoproclamado colecionador, administra uma galeria de artes de grande reputação e frequenta os ambientes da alta sociedade de Nova Eridu.\nNa verdade, ele é o líder da organização de ladrões fantasmas, Sabiá, e ex-parceiro de Lycaon.\nApesar de sua atitude cruel (arisca e dramática), ele busca por equidade e justiça à sua própria maneira.\n\nInformações relevantes sugerem que Hugo teve uma infância complicada.\nComo filho ilegítimo da família Ravenlock, parte da aliança T.O.P.S., ele foi rejeitado pela mãe desde criança por sua heterocromia.\nHugo foi comprado como uma mercadoria barata por seu pai, que o usou para incitar uma competição doentia pela herança entre seus filhos. Nessa competição cruel, Serena, a única de seus irmãos que foi gentil com Hugo, se sacrificou por ele, levando-a a ser assassinada pelas outras crianças. Elas o incriminaram, acreditando que se livrariam dele dessa forma. No entanto, seu pai o elogiou por isso, afirmando que esse era o comportamento esperado de um herdeiro qualificado.\nApós fugir de sua família, Hugo conheceu Lycaon e Jack, com quem aprendeu algumas técnicas de roubo. Depois que Jack faleceu, Lycaon e Hugo fundaram a organização Sabiá.\n\nEm uma das operações da Sabiá, Hugo enfrentou seu pai. Em um momento de hesitação, Hugo escolheu não concluir sua vingança e não matou seu pai, mas essa escolha resultou na morte de muitas pessoas inocentes. Seu então parceiro Lycaon rompeu seus laços com ele devido a um mal-entendido e deixou a Sabiá.\nDepois de vagar sozinho por algum tempo, Hugo acolheu Vivian, que o lembrava de sua irmã Serena, retomando as atividades da organização Sabiá.",
+            "profile_02": "Na época em que esteve com a família Ravenlock, certa vez, Hugo comeu uma fatia do bolo que seu irmão mais velho gostava... Em retaliação, as outras crianças o forçaram a comer uma mesa inteira de sobremesas.\nDesde então, o sabor doce o deixa muito enjoado (especulação: reação de estresse pós-traumático).\nPorém, devido à sua hipoglicemia, ele precisa de açúcar para manter suas funções corporais estáveis. Hugo se obriga a comer doces diversas vezes, suportando a náusea, para superar a dor.\nObservação: nem Lycaon nem Vivian sabem sobre isso, e Hugo pediu a você para manter isso em segredo."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Hugo: \n · Ele escalou para fora do abismo e viu seu verdadeiro eu.",
+            "sender_note2": " · Nunca houve uma semente da maldade.",
+            "sender_note3": " · Você sempre pode escolher quem você deseja ser."
+        },
+        "impression": {
+            "sister": "Vamos concordar que... Hugo ter mantido sua saúde mental relativamente intacta e não ter desenvolvido tendências antissociais é um grande feito.",
+            "brother": "Eu me pergunto, se ele tivesse nascido em uma família comum, que tipo de pessoa ele teria se tornado?\nMas é precisamente por tudo que ele viveu que ele se tornou quem é hoje."
+        }
+    },
+    "1331": {
+        "id": 1331,
+        "name": "Vivian",
+        "full_name": "Vivian Banshee",
+        "en_name": "Vivian",
+        "en_full_name": "Vivian Banshee",
+        "nickname": "Vivian",
+        "gender": "Feminino",
+        "stature": "162",
+        "birthday": "10 de abril",
+        "organization": "Sabiá",
+        "partner_bg": "MOCKINGBIRD ",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Vivian faz parte da organização Sabiá, é especialista em coleta de informações e possui muitas habilidades, incluindo, mas não se limitando a culinária, mixologia, tradução, réplicas de obras de arte, conserto de eletrônicos...\nNo passado, ela vagava sem rumo, nem lar, e era considerada \"aquela que atrai desastres\" e \"a personificação do infortúnio\".\nDizem que ela é capaz de prever infortúnios através de suas lágrimas, mas não há evidências científicas que comprovem essa habilidade.\nEla é uma seguidora fiel de Phaethon. Desde que a conta de Phaethon saiu do ar, ela tentou descobrir seu paradeiro de várias maneiras, procurando por pistas relacionadas a você na Interlaço, mas nunca encontrou nada. Claro, {M#Mestre}{F#Mestra}, isso foi graças à minha proteção da sua segurança de rede.\nSugestão: não revele sua identidade como \"Phaethon\" antes de descobrir as verdadeiras intenções dela.\nSe sua identidade já foi revelada por acidente, lembre-se de trancar a porta e vestir o pijama antes de dormir. A julgar pelas publicações anteriores dela em seu blog pessoal, é provável que ela expresse sua admiração por você de maneira excessivamente entusiasmada e agressiva.",
+            "profile_02": "Quando Vivian era mais jovem, foi adotada por Landon, um membro da Sociedade da Exaltação, e conheceu sua amiga de infância, Dina.\nDepois que os crimes de Landon foram descobertos, Dina continuou protegendo seu pai, e Vivian fugiu da Sociedade da Exaltação e se separou de sua amiga.\nCerta vez, Vivian atravessou a pior fase de sua vida e desistiu de si mesma, mas você respondeu a uma mensagem dela e lhe deu esperança para continuar se esforçando.\nPor respeito aos desejos pessoais de Vivian, não posso revelar qual era a mensagem.\nTalvez eu não consiga compreender totalmente as emoções humanas, mas tenho certeza de que você trouxe esperança e conforto para ela."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Vivian:\n · Ela vive em um mundo regido pela loucura, mas o amor sempre prevalece.",
+            "sender_note2": " · A maioria das pessoas vive em um abismo sombrio, mas ela prefere olhar para as estrelas.",
+            "sender_note3": " · Ela oferece um tipo de lealdade que apenas alguém que nunca teve fé poderia conceder."
+        },
+        "impression": {
+            "sister": "Vivian conhece muitas pessoas de lugares onde já trabalhou... Isso é totalmente diferente da primeira impressão que ela passa!",
+            "brother": "Quando descobri que ela já foi veterana da Sjal, isso explicou muita coisa..."
+        }
+    },
+    "1371": {
+        "id": 1371,
+        "name": "Yixuan",
+        "full_name": "Yixuan",
+        "en_name": "Yixuan",
+        "en_full_name": "Yixuan",
+        "nickname": "Yixuan",
+        "gender": "Feminino",
+        "stature": "172",
+        "birthday": "12 de março",
+        "organization": "Monte Yunkui",
+        "partner_bg": null,
+        "outlook": null,
+        "profile": {
+            "profile_01": "Yixuan é a 13ª mestra do Monte Yunkui e também uma investigadora do nível dos Caçadores do Vazio reconhecida oficialmente pelo prefeito Mayflower.\n\nEla era uma órfã que vagava pelo mundo com sua irmã mais velha desde pequena. Mais tarde, as duas foram acolhidas pelo então mestre do Monte Yunkui e passaram a ser aprendizes de suas técnicas. Nesse período, Yixuan demonstrou um talento extraordinário. Ela era capaz de dominar qualquer técnica com extrema rapidez, e não apenas as compreendia, como criava suas próprias técnicas. Uma das técnicas especiais que ela desenvolveu em colaboração com a irmã foi \"Pássaro Qingming\", que a ajudou a eliminar inimigos e exterminar espíritos malignos em várias situações perigosas. Quando se tornou mestra, Yixuan se juntou à Associação de Investigação de Esferas Negras como investigadora da Força-Tarefa em regime de cooperação.\n\nYixuan tem um estilo casual de fazer as coisas. Muitas vezes, ela ensina através de exemplos, e os aprendizes só conseguem fazer suposições sobre suas reais intenções. Ela não se preocupa com isso, afinal, acredita que não há um único caminho correto. O que importa para ela é que seus aprendizes encontrem o próprio caminho. Claramente, se eles conseguirem compreender e aprender por conta própria, é ainda melhor. Como mestra, ela só precisa deixar as coisas seguirem seu curso natural.",
+            "profile_02": "Quando criança, Yixuan gostava de comer pãezinhos de carne assada com sua irmã, mas, após a queda da antiga capital, ela perdeu o interesse neles e nunca mais os provou.\n\nOs discípulos do Monte Yunkui não sabem disso e pensam que sua mestra é apenas exigente com a comida.\n\nÉ melhor manter isso em segredo. Deve-se permitir que algumas memórias e apegos do passado desapareçam com o tempo."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Yixuan:\n· Se não há fardos a carregar, por que não seguir seu coração?",
+            "sender_note2": "· Todos os caminhos tortuosos do destino levam ao resultado que sempre esteve escrito.",
+            "sender_note3": "· As coisas mais preciosas devem ser guardadas no fundo do coração. Nunca revele seus verdadeiros sentimentos."
+        },
+        "impression": {
+            "sister": "A mestra sempre parece estar tranquila, como se não tivesse apegos ou preocupações. Talvez ela tenha viajado e feito muitas adivinhações. Ela já viu tantas alegrias, tristezas e suplícios, que o destino deve estar cobrando o preço.",
+            "brother": "A mestra faz adivinhações e lê a sorte. Ela já não deve se surpreender com muitas coisas. Toda mudança pode ser prevista com precisão. Talvez seja por isso que ela se mantém calma e indiferente, sem desejos e exigências."
+        }
+    },
+    "1391": {
+        "id": 1391,
+        "name": "Ju Fufu",
+        "full_name": "Ju Fufu",
+        "en_name": "Ju Fufu",
+        "en_full_name": "Ju Fufu",
+        "nickname": "Jufufu",
+        "gender": "Feminino",
+        "stature": "142",
+        "birthday": "6 de janeiro",
+        "organization": "Monte Yunkui",
+        "partner_bg": null,
+        "outlook": null,
+        "profile": {
+            "profile_01": "Ju Fufu, uma dos raros tirenos tigres de Nova Eridu. Apesar de sua pequena estatura e pouca idade, ela é a veterana do Templo Suibian, sendo uma dos primeiros discípulos da mestra Yixuan.\n\n\"Consegue resolver qualquer coisa\", \"Consegue até persuadir a mestra\", \"Uma professora paciente e atenciosa\", \"Tem um ótimo gosto para escolher os restaurantes nas confraternizações\".\n— Avaliação de desempenho dos discípulos do Monte Yunkui, página de avaliação entre discípulos\n\n\"Sempre cometo erros nas tarefas dadas pela mestra\", \"Não sou confiante, seja discursando ou lutando\", \"Não sei fazer ameaças aos vilões\", \"Todos os outros discípulos são mais capazes que eu\".\n— Avaliação de desempenho dos discípulos do Monte Yunkui, página de autoavaliação\n\n\"'A veterana mais habilidosa, capaz de fazer qualquer coisa, uma guerreira de vontade inabalável.' Eu a ouvi murmurando isso quando passava pelo dormitório. Bem, concordo plenamente\".\n— Avaliação de desempenho dos discípulos do Monte Yunkui, página de avaliação da mestra\n\nSugestão: recomendo ao Monte Yunkui que fortaleça a segurança da rede para reduzir o risco de vazamento de informações privadas dos discípulos.",
+            "profile_02": "Os tirenos tigres costumavam habitar as montanhas e florestas, longe das áreas urbanas de Nova Eridu. Com base nos registros de vigilância de vários bairros do distrito Janus, há menos de vinte cidadãos tirenos tigres na região de Nova Eridu atualmente.\n\nDurante a queda da antiga capital, uma subesfera da Esfera Zero também eclodiu no assentamento dos tirenos tigres. Segundo os registros, múltiplos Etéreos notórios apareceram na Esfera Negra que se formou repentinamente e engoliu o assentamento, eliminando 98% de todos os tirenos tigres registrados nesse desastre. Os sobreviventes eram principalmente idosos, crianças e doentes. Se não fosse pela chegada do grupo de discípulos do Monte Yunkui ao assentamento para realizar operações de resgate em meia hora, o nome \"Ju Fufu\" provavelmente não apareceria no seu Perfil de Agente.\n\nCombinando com as datas registradas nos arquivos da organização de discípulos do Monte Yunkui, pode-se deduzir que Ju Fufu já havia se tornado discípula da atual mestra do Monte Yunkui, Yixuan, durante a queda da antiga capital."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Ju Fufu: \n · A pequena tigresa do Monte Yunkui se destaca em dominar demônios e erradicar o mal, motivada por uma forte determinação de expurgar toda a maldade e aplicar a justiça.",
+            "sender_note2": " · A jovem mestra do Templo Suibian tem muitas habilidades, e seus feitos são absolutamente impressionantes.",
+            "sender_note3": " · A veterana de Phaethon ficará ao seu lado se você causar problemas e falará em sua defesa se você tiver problemas."
+        },
+        "impression": {
+            "sister": "\"A veterana mais habilidosa, capaz de fazer qualquer coisa, uma guerreira de vontade inabalável!\" A Veterana Fufu também tem um lado vaidoso quando ninguém está olhando, que fofa! Hmm... Por que isso me lembra o Wise?",
+            "brother": "Isso não tem nada a ver comigo... Embora eu ainda não tenha me acostumado a ser chamado de \"aprendiz\", ela realmente tem o talento e o estilo de uma verdadeira veterana, tanto em ação quanto na vida cotidiana. Que tal deixarmos ela ver nossos comentários da próxima vez? Aposto que a Fufu ficaria envergonhada e secretamente orgulhosa!"
+        }
+    },
+    "1421": {
+        "id": 1421,
+        "name": "Pan Yinhu",
+        "full_name": "Pan Yinhu",
+        "en_name": "Yinhu",
+        "en_full_name": "Pan Yinhu",
+        "nickname": "Panyinhu",
+        "gender": "Masculino",
+        "stature": "192",
+        "birthday": "10 de maio",
+        "organization": "Monte Yunkui",
+        "partner_bg": null,
+        "outlook": null,
+        "profile": {
+            "profile_01": "Pan Yinhu, discípulo do Monte Yunkui, é o cozinheiro chefe e gestor financeiro do Templo Suibian. Ele é um mestre em artes marciais especializado em técnicas de pontos de pressão.\nComo gestor das finanças do Templo Suibian, ele é um especialista em economizar dinheiro. Ele é capaz de barganhar uma peça de carne de 5.000 dennies por 500 e se recusa a comprar qualquer coisa que ele mesmo possa preparar em casa. Ele sempre tem cupons de desconto de todos os supermercados e lojas, não importa qual seja.\nGraças a ele, os membros do Templo Suibian desfrutam de refeições deliciosas, mas também econômicas, todos os dias. Como cozinheiro chefe, ele é muito exigente com o sabor de seus pratos e valoriza profundamente as opiniões dos outros discípulos.\nAlém disso, devido aos seus hábitos de barganha ao longo de anos, é possível deduzir que tanto os fundos do Templo Suibian como suas próprias economias alcançaram valores que deixariam qualquer um boquiaberto.",
+            "profile_02": "Como um tireno panda, uma raridade em toda Nova Eridu, Pan Yinhu cresceu sem a ajuda de ninguém desde criança. Apenas quem realmente passou fome compreende como é, e para ganhar seu sustento, Pan Yinhu experimentou todas as profissões possíveis até acabar se tornando um saqueador de Esferas, graças à sua excepcional afinidade com Éter.\nComo saqueador de Esferas, ele teve a chance de conhecer Yixuan. Depois de levar uma boa surra que abriu seus olhos espirituais, ele se tornou um discípulo no Monte Yunkui, onde ele agora pratica as técnicas místicas para purificar sua crescente natureza violenta.\nPor ter entrado para o templo anos mais tarde do que todos os outros discípulos, ele tem poucos aprendizes, e você, {M#Mestre}{F#Mestra}, é {M#um}{F#uma} desses poucos. Como seu veterano, ele demonstra seu carinho cozinhando pratos especiais só para você e sempre dá um jeito de colocar cupons nos seus bolsos quando você não está olhando."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Pan Yinhu:\n· Como gestor de finanças do Templo Suibian, nenhum denny é desperdiçado!",
+            "sender_note2": " · Como cozinheiro chefe do Templo Suibian, ele garante que cada pedaço de carne de porco grelhada conquiste as papilas gustativas de seus companheiros!",
+            "sender_note3": " · Como o mais novo discípulo promovido a veterano, ele deve apoiar seus aprendizes incondicionalmente!"
+        },
+        "impression": {
+            "sister": "Sempre que a gente pensa em pedir entrega de comida, o veterano Pan aparece pra nos impedir, dizendo que entrega de comida faz mal, e depois se oferece para preparar algo pra gente na cozinha... A gente não pede comida de fora há meses!",
+            "brother": "Mas as habilidades culinárias dele são incomparáveis, exceto pelas vezes que ele economiza na carne... Eu queria aprender algumas das receitas dele."
+        }
+    },
+    "1431": {
+        "id": 1431,
+        "name": "Ye Shunguang",
+        "full_name": "Ye Shunguang",
+        "en_name": "Ye Shunguang",
+        "en_full_name": "",
+        "nickname": "Yeshunguang",
+        "gender": "Feminino",
+        "stature": "162",
+        "birthday": "20 de janeiro",
+        "organization": "Monte Yunkui",
+        "partner_bg": null,
+        "outlook": null,
+        "profile": {
+            "profile_01": "Ye Shunguang é a portadora da Espada Qingming, o tesouro supremo do Monte Yunkui, discípula de Yixuan, irmã de Ye Shiyuan e também uma espadachina de talento excepcional.\nEla teve uma infância feliz, até que a antiga capital caiu, quando seus pais morreram ao tentar resgatar civis, pondo um fim abrupto a toda felicidade dela.\nDesde então, ela só pôde contar com seu irmão — até que Yixuan os acolheu, levando-os para o Monte Yunkui. Mais tarde, ela foi escolhida pela Espada Qingming, assumindo o manto e dever de Guardiã da Espada.\n\nSegundo rumores, o favor da Espada Qingming é mais uma maldição do que uma bênção. Apesar de conceder ao seu portador poder de nível dos Caçadores do Vazio, ela toma suas memórias e cinco sentidos como preço.\nPara conter esses efeitos colaterais, a Mestra Yixuan criou uma bainha de espada personalizada para Ye Shunguang. Parece estar funcionando por enquanto, mas a verdadeira natureza da arma ainda é um mistério.",
+            "profile_02": "Quando recebeu a Espada Qingming, Ye Shunguang ainda era jovem, mas foi forçada a carregar uma responsabilidade muito além de sua idade.\nEla não tinha permissão para ter brinquedos e sempre era ensinada a ser mais madura. Tudo o que podia fazer eram treinamentos constantes de esgrima. Toda a pressão recaía sobre ela, e a jovem só podia aceitar.\nApós um momento de explosão emocional, ela fugiu dos portões da montanha e vagou pelo Planalto de Failume. Foi então que você apareceu, oferecendo a ela um pacote de doces de osmanthus, oferecendo a ela um raio de calor.\n\nNota adicional: hoje em dia, o doce favorito de Ye Shunguang é bolo de osmanthus. Talvez seja por isso."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Ye Shunguang:\n · Mesmo que seu caminho seja repleto de espinhos, ela continua semeando a esperança.",
+            "sender_note2": " · O destino é incerto, mas ela está disposta a carregar o peso dos demais.",
+            "sender_note3": " · Ela caminha sozinha na escuridão, até segurar sua mão."
+        },
+        "impression": {
+            "sister": "Então... veterana, você pode vir à locadora todos os dias? Eu e o Eous sentimos muito a sua falta!",
+            "brother": "A Guangzinha é sempre muito gentil e confiável. Não importa o que seja, se estiver sob os cuidados dela, vai ser resolvido com perfeição.\nHmm... Será por isso que dizem que ela é \"a filha que toda mãe queria ter\"?"
+        }
+    },
+    "1051": {
+        "id": 1051,
+        "name": "Yidhari",
+        "full_name": "Yidhari Murphy",
+        "en_name": "Yidhari",
+        "en_full_name": "Yidhari Murphy",
+        "nickname": "Yidhari",
+        "gender": "Feminino",
+        "stature": "171",
+        "birthday": "19 de março",
+        "organization": "Casa Paranormal",
+        "partner_bg": "SPOOK SHACK",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Yidhari, além de ser uma Agente, também atua como Proxy e é uma autora colaboradora da Casa Paranormal.\nMuitas pessoas pensam que ela é relaxada e sossegada, mas os registros mostram que isso não é preguiça, e sim uma aura de vazio que a rodeia, deixando-a alheia ao mundo ao redor.\nPara a maioria das pessoas, isso poderia parecer uma mania comum dos artistas absortos em sua arte — como uma talentosa escritora de contos sombrios, Yidhari tem facilidade para se perder no mundo de fantasia que ela criou.\nMas, na verdade, sua atitude é causada pelo fardo de carregar suas próprias habilidades.\nQuando está na Esfera Negra, ela é exposta a uma gama de informações que a maioria das pessoas nem poderia imaginar. Um misto de memórias de tudo que aconteceu ali. O peso esmagador do passado a expulsa da realidade, até que suas emoções se esvaneçam. O que faz dela alguém tão especial é que, além de carregar este fardo, ela consegue transformá-lo em um poder e viver a vida segundo as próprias regras.",
+            "profile_02": "Yidhari tem um amor especial por dias chuvosos e longos banhos de imersão.\nSão momentos de conforto como estes que trazem paz para sua vida e permitem que ela descanse dos fluxos de informação entrelaçados que permeiam sua mente.\n\nUltimamente, ela tem visto essas duas paixões com outros olhos. Ela não é mais acostumada à solidão, e não precisa mais esperar por dias chuvosos ou banheiras de água morna para se curar.\nEla começou a caminhar sob o céu ensolarado e atravessar multidões, ansiosa para experimentar as novidades que a vida lhe oferece.\nTudo mudou para Yidhari, no momento em que ela te conheceu."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Yidhari:\n · Estava inegavelmente frio na escuridão, mas ela se queimou com o calor.",
+            "sender_note2": " · Ela não conseguiu o dia chuvoso que tanto queria, mas conseguiu você.",
+            "sender_note3": " · Ela quer continuar acompanhada das pessoas que ama."
+        },
+        "impression": {
+            "sister": "Yidhari parece nem aí pra nada, mas, na verdade, é muito atenciosa e gosta de cuidar dos outros!\nUma vez eu me cortei carregando umas fitas de vídeo, e antes que eu percebesse, ela já apareceu e colocou um curativo em mim!",
+            "brother": "Sei como é... Nós já saímos antes, num dia que eu estava com tanta pressa que me esqueci de almoçar. Ela percebeu imediatamente. Disse que meus lábios pareciam pálidos... coisa que nem eu percebi."
+        }
+    },
+    "1401": {
+        "id": 1401,
+        "name": "Alice",
+        "full_name": "Alice Thymefield",
+        "en_name": "Alice",
+        "en_full_name": "Alice Thymefield",
+        "nickname": "Alice",
+        "gender": "Feminino",
+        "stature": "163 (incluindo as orelhas)",
+        "birthday": "30 de agosto",
+        "organization": "Casa Paranormal",
+        "partner_bg": "SPOOK SHACK",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Alice Thymefield, nova integrante da Casa Paranormal, é a jovem senhorita da nobre família Thymefield de Nova Eridu.\nAlice treinou esgrima e ciências do Éter desde jovem, demonstrando um talento excepcional em ambas as áreas. Atualmente, ela estuda no Colégio Celestia para Meninas, uma instituição afiliada ao Instituto Futuro, onde é uma aluna exemplar com excelente desempenho acadêmico. Prevê-se que um dia ela herdará os negócios da família e se tornará uma estudiosa do Éter da nova geração de Nova Eridu.\nEla dá extrema importância à ordem e regularidade, demonstrando uma obsessão quase compulsiva por simetria. Seu transtorno obsessivo por simetria até mesmo influencia sua percepção estética, fazendo com que a presença ou ausência de simetria seja o primeiro critério em seu julgamento de beleza.\nAlém disso, ela se assusta muito facilmente e tem praticamente zero resistência a Histórias de Terror. Mesmo assim, ela parece demonstrar um grande interesse em explorar essas histórias. Sugere-se que {M#mestre}{F#mestra} use Histórias de Terror como um tópico de conversa com ela; não importa quanto ela resista inicialmente, prevê-se que ela acabará se aproximando para investigar.",
+            "profile_02": "Segundo minha investigação, o Transtorno Obsessivo Compulsivo de simetria de Alice é uma tendência que ela tem desde pequena. Ela perdeu um grampo simétrico na infância e, posteriormente, perdeu o pai em um acidente. Isso a fez atribuir a tragédia à perda de objetos simétricos, agravando ainda mais sua obsessão.\n\nA família Thymefield, conhecida por sua pesquisa sobre Éter, está em declínio. Quando seus pais faleceram cedo, e seu avô adoeceu, ela doou as patentes dos Thymefield para salvar alguém querido e está determinada a recomeçar e reviver a honra da família com as próprias mãos.\n\nEmbora ela seja tímida por natureza, uma vez que decide realizar algo, ela segue determinada até o fim. Além disso, valoriza muito seus companheiros e jamais ignoraria suas dificuldades. Portanto, {M#mestre}{F#mestra}, recomendo que você mantenha boas relações com Alice e revele nossas atuais dificuldades com o pagamento das contas de energia."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Alice:\n· Parece que Alice considera ajudar os amigos com grandes quantias de dinheiro algo muito casual e normal...",
+            "sender_note2": "· Como alguém tão facilmente assustado decidiu se juntar a uma organização de Histórias de Terror?",
+            "sender_note3": "· Sob a constelação simétrica, seus olhares se encontram, e seu sorriso, agora sem hesitação, é ofuscantemente brilhante."
+        },
+        "impression": {
+            "sister": "É raro encontrar alguém que seja tão sensível a filmes de terror quanto meu irmão~ Mas mesmo assim, Alice não resiste à curiosidade de assistir aos filmes de terror que recomendo, e grita de medo me abraçando. Diferente do meu irmão que sempre arranja desculpas para fugir...",
+            "brother": "Seu irmão realmente não tem espírito de aventura, que pena... Mas a Alice é mesmo obcecada por mistérios. Será que ela gosta tanto assim de levar sustos repetidamente?"
+        }
+    },
+    "1411": {
+        "id": 1411,
+        "name": "Yuzuha",
+        "full_name": "Ukinami Yuzuha",
+        "en_name": "Yuzuha",
+        "en_full_name": "Ukinami Yuzuha",
+        "nickname": "Yuzuha",
+        "gender": "Feminino",
+        "stature": "162",
+        "birthday": "2 de novembro",
+        "organization": "Casa Paranormal",
+        "partner_bg": "SPOOK SHACK",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Ukinami Yuzuha, uma habitante da Península Waifei, atualmente frequenta uma escola afiliada com uma baixa mensalidade na cidade. Além de fazer parte do sub-fórum da Interlaço, Casa Paranormal, ela não tem qualquer conexão com nenhum outro grupo, embora esses fóruns não sejam comumente considerados organizações oficiais em Nova Eridu, mas sim clubes informais.\nYuzuha é a filha adotiva de Li Baorong, proprietário da loja de Porcelume Empório Sobrenatural. Dizem na Península Waifei que Baorong perdeu sua esposa e duas filhas na queda da antiga capital. Nos anos seguintes, ele acolheu cinco crianças. Yuzuha é a segunda mais velha, com um irmão mais velho, um irmão mais novo e duas irmãs mais novas. A família morava no andar de cima da loja, com apenas duas quartos, Yuzuha dividia um com suas irmãs enquanto os meninos ficavam com Baorong. Agora que seu irmão mais velho se mudou e ela passa a maior parte do tempo no dormitório da escola, o apartamento parece um pouco menos lotado. Mas nos fins de semana e feriados, Yuzuha costuma voltar da escola para ajudar seu pai na loja.\nMesmo desde criança, Yuzuha demonstrava um alto nível de maturidade. Sua eloquência e natureza animada a tornavam uma favorita entre os vizinhos, e um sucesso entre as crianças da Península Waifei e da Baía de Sailume.\nNo fórum da Casa Paranormal, Yuzuha usa o pseudônimo \"Yuzupimenta\". Além de seus amigos da vida real Manato e Alice, ela também é próxima de outros dois usuários conhecidos como \"Mensageiro Noturno\" e \"Parfait de Morango\" nos fóruns.",
+            "profile_02": "Segundo Yuzuha, ela passou boa parte de sua vida vagando pelo distrito Faunus como parte de uma pequena gangue crianças de rua. Ela não tinha um nome na época. Devido à desnutrição, ela desenvolveu cegueira noturna e sempre carregava um castiçal depois de escurecer, então as outras crianças passaram a chamá-la de \"Velinha\".\nYuzuha fez parte de um programa experimental chamado \"Projeto Folha Nova\". Como ela nunca teve um nome oficial, um dos pesquisadores de baixo nível responsáveis por cuidar das crianças a chamou de \"Yuzuha\". No entanto, esse nome nunca chegou aos ouvidos de Ferox nem de nenhuma outra pessoa do alto escalão, eles apenas a chamavam de \"ES-07\". Apesar de o nome ter surgido do laboratório, Yuzuha sempre sentiu que o nome tinha uma fagulha de vivacidade, e essa fagulha era parte de sua sorte.\nAs duas irmãs mais novas de Yuzuha foram adotadas ainda na infância, e quando Baorong as nomeou, ele manteve a tradição de usar nomes inspirados em plantas."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Ukinami Yuzuha:\n · Uma mestra das travessuras, mas não por diversão.",
+            "sender_note2": " · Uma companheira confiável, mas também tem seus momentos de vulnerabilidade.",
+            "sender_note3": " · Que sua vida seja sempre livre e brilhante."
+        },
+        "impression": {
+            "sister": "Quando eu conheci a Yuzuha, ela parecia animada, mas eu sempre tive a impressão de que ela mantinha uma certa distância das pessoas... Mas agora isso não acontece mais.",
+            "brother": "Quando eu vi a Kaede, irmã mais nova da Yuzuha, da última vez, ela me perguntou se a Yuzuha passou nas provas neste semestre. Ela comentou que a Yuzuha parece muito mais alegre esses dias."
+        }
+    },
+    "1441": {
+        "id": 1441,
+        "name": "Manato",
+        "full_name": "Komano Manato",
+        "en_name": "Manato",
+        "en_full_name": "Komano Manato",
+        "nickname": "KomanoManato",
+        "gender": "Masculino",
+        "stature": "198",
+        "birthday": "5 de janeiro",
+        "organization": "Casa Paranormal",
+        "partner_bg": "SPOOK SHACK",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Komano Manato é um membro da Casa Paranormal e uma pessoa extremamente confiável. Ele perdeu a família na queda da antiga capital e cresceu sozinho na Península Waifei, onde acabou adotando Qing e Yue, duas crianças abandonadas. Desde então, os três vivem como uma família, dependendo um do outro. Pode até ser uma família \"relativamente jovem\", mas nada é mais importante para Manato do que cuidar dos dois neste novo lar.\nNo momento, Manato estuda em uma escola corporativa da cidade e é conhecido como o temido \"valentão da escola\". Provavelmente isso se deva apenas à sua aparência intimidadora, pois Manato é muito mais gentil e bondoso do que aparenta.\nNo início, ele tentou fazer algo para mudar este estigma, mas seus esforços nunca davam resultado. Sua atitude otimista o levou a concluir que a imagem de \"valentão\" não tinha apenas desvantagens, ele podia se esconder sob ela para evitar atividades sociais desnecessárias, desfrutar da vida sem ser incomodado e até mesmo para investigar histórias de terror da escola e proteger os alunos sendo realmente intimidados.\nNo que diz respeito a notas... bem, ele faz jus ao rótulo de valentão da escola neste quesito.",
+            "profile_02": "Sua sinceridade excessiva e carisma às vezes causam alguns \"problemas\" inesperados. Sempre que vai ao mercado, ou outros lugares cheios de moradores locais, ele chama muita atenção. Donos de lojas, de barraquinhas e vizinhos amam presenteá-lo com seus melhores itens e melhores conselhos.\n\nQuando seus pais faleceram, Manato aprendeu rapidamente a cuidar de si mesmo. Ele se tornou um excelente cozinheiro e até costura as roupas que Qing e Yue rasgam em suas brincadeiras.\n\nNa escola corporativa, Manato também foi recebido com entusiasmo. Nesse tipo de ambiente, sua incapacidade de controlar a própria força acabou sendo a melhor ajuda que os mineiros podiam querer."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Komano Manato:\n · Até mesmo o confiável Manato deixa os irmãos preocupados às vezes.",
+            "sender_note2": " · Quem diria que há tantos lugares ótimos para um banho de sol?!",
+            "sender_note3": " · Uma felicidade genuína para suas papilas gustativas!"
+        },
+        "impression": {
+            "sister": "É incrível como Manato se lembra de todos os nomes e hábitos dos vizinhos que o cumprimentam na rua!",
+            "brother": "Com Manato por perto, não dá pra ter medo de histórias de terror."
+        }
+    },
+    "1451": {
+        "id": 1451,
+        "name": "Lúcia",
+        "full_name": "Lúcia Elowen",
+        "en_name": "Lúcia",
+        "en_full_name": "Lúcia Elowen",
+        "nickname": "Lucia",
+        "gender": "Feminino",
+        "stature": "160",
+        "birthday": "17 de março",
+        "organization": "Casa Paranormal",
+        "partner_bg": "SPOOK SHACK",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Lúcia, integrante da Casa Paranormal, é conhecida online como Mensageira Noturna. Ela é mochileira, apaixonada por Etéreos e especialista em comidas de rua noturnas.\n\nRegistros indicam que Lúcia vem de um clã que vive na periferia da cidade. Segundo a lenda, seus antepassados encontraram um Etéreo chamado Terror Noturno, que não existe nos arquivos da AIEN, e ele concedeu ao clã um dom bizarro: os Etéreos não percebem sua presença. O preço a pagar é que, caso durmam à noite, o Terror Noturno aparece em seus sonhos e causa um sonambulismo que os atrai para a Esfera Negra, para sofrerem Corrupção. Assim, o grupo assumiu a função de vigilantes noturnos — eles descansam de dia e caçam à noite, para evitar o Terror Noturno. Se alguém precisar dormir à noite, uma pessoa da família deve ficar de vigília até o amanhecer.\n\nLúcia cresceu com seu povo e mantém a tradição dos vigilantes noturnos mesmo depois de chegar a Nova Eridu. Ela fica acordada à noite e observa o sono de seus amigos, para protegê-los do Terror Noturno. {F#Mestra}{M#Mestre}, se você ouvir batidas na janela à noite, não se alarme, deve ser sua guardiã vindo dar um oi.\n\nObservação adicional: Lúcia tem Mamona, uma pequena hati amigável, como animal de estimação. Ela vivia na fronteira da Esfera Negra, mas foi para as profundezas. Nem mesmo eu consigo mais identificar sua localização.",
+            "profile_02": "O pai de Lúcia servia em uma unidade especial da Força de Defesa e só voltava para casa uma vez ao ano. Para a jovem Lúcia, esse tempo com seu pai era um enorme prêmio. Uma vez, durante sua folga, ele recebe um chamado urgente e tem que partir às pressas.\nPara acalmar Lúcia, que cai no choro, ele a convence a fechar os olhos, para brincarem de esconde-esconde. Quando ela termina de contar, ele já havia partido, para nunca mais voltar.\nAnos depois, durante uma operação no vilarejo, Lúcia reencontra o pai, que sofreu Corrupção, se tornando o Caçador Errante. Ao som de uma suave música infantil, eles jogam seu derradeiro esconde-esconde. O Caçador Errante abandona sua obsessão repleta de miasma e se dissipa lentamente. Esse foi o reencontro dos dois, mas também sua despedida."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Lúcia:\n · Ela chega na calada da noite, como um mistério sob o céu estrelado.",
+            "sender_note2": " · Ela atravessa inúmeros contos e caminha por sonhos sem limites.",
+            "sender_note3": " · Que sua jornada nunca tenha fim."
+        },
+        "impression": {
+            "sister": "Lúcia adora viajar sozinha pela Esfera Negra atrás de Etéreos. Ela sempre traz uns lanchinhos e bate na janela antes de entrar na locadora para ver um filme.\nEla aparece em lugares diferentes, sempre sorridente, como uma fadinha volitando pela noite.",
+            "brother": "Desde que se viciou nas histórias de terror com Bangboos contadas pela Lúcia, Eous não dorme mais no horário certo.\nAgora ele fica de guarda na recepção, de orelhas em pé, esperando as batidas na janela. Que problemão..."
+        }
+    },
+    "1341": {
+        "id": 1341,
+        "name": "Zhao",
+        "full_name": "Zhao",
+        "en_name": "Zhao",
+        "en_full_name": "Zhao",
+        "nickname": "Zhao",
+        "gender": "Feminino",
+        "stature": "118",
+        "birthday": "14 de outubro",
+        "organization": "Auditoria Krampus",
+        "partner_bg": "K.C.A.",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Zhao, uma juíza da Auditoria Krampus, foi uma das primeiras integrantes de elite da Krampus.\n\nApesar de sua aparência fofa e inofensiva, ela é muito perspicaz, meticulosa e íntegra. Ela dá muita importância a \"valores\" e \"trocas equivalentes\", mas isso não tem nada a ver com dinheiro. Zhao analisa as habilidades e o potencial das pessoas para fazer uma avaliação objetiva e a longo prazo.\n\nDizem que esse conceito não veio de seu trabalho na Krampus, mas desde sua infância. Ela não avalia apenas as outras pessoas, mas também a si mesma. \"Apenas quem tem valor merece ser visto.\"\n\nEmbora ela raramente demonstre, Zhao não confia em gentileza sem motivo, pois isso entra em conflito com sua crença em \"troca equivalente\". Ela costuma presumir que a pessoa que está oferecendo ajuda tem segundas intenções.\nPor isso, ao lidar com a Zhao, é melhor se concentrar no mútuo benefício a princípio.\nSe quiser quebrar suas barreiras com sinceridade e gentileza genuínas, você estará nadando contra a maré.\n\nHá também uma informação que ainda não foi confirmada: Zhao ama vegetais e não gosta de carne, mas ela parece fingir que gosta de carne também.",
+            "profile_02": "Zhao cresceu em uma grande família que passou por muitas dificuldades financeiras, em que a confiança e o afeto nunca estiveram acima da lei de sobrevivência: \"Quem trouxer mais lucro, ganha mais comida\".\n\nEla tem uma aparência delicada e amável, mas isso só fez com que as pessoas a vissem como uma presa fácil. Naquele ambiente em que os mais fortes sobrevivem, as pessoas rapidamente a classificaram como alguém de \"baixo valor\". Por isso, sua família a julgou inútil e a expulsaram, deixando-a à mercê da própria sorte.\nTudo mudou quando ela conheceu um oficial da Krampus, que enxergou seu potencial imediatamente. Daquele momento em diante, ela cortou os laços com sua família, entrou para a Krampus e jurou provar seu verdadeiro valor.\n\"Ao ter valor, você será visto mesmo que esteja na lama.\""
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Zhao:\n · Para alguém como a Zhao, que dá muita importância ao valor das coisas, uma parceria comercial é uma conexão de muita confiança.",
+            "sender_note2": " · Mas quando um parceiro oferece ajuda sem pedir por nada em troca, Zhao se sente um pouco desconfortável. Não é que ela não goste de favores, ela só não consegue pensar em uma forma de retribuir para concluir a \"transação\".",
+            "sender_note3": " · À medida que mais parceiros assim surgiram em sua vida, Zhao acabou percebendo que ser querida é muito bom, e que isso não tem nada a ver com seu valor."
+        },
+        "impression": {
+            "sister": "Eu me sinto muito segura quando tô explorando com a Zhao. Tipo... Eu sinto que ela não tem nada a perder quando tem que lidar com outras pessoas.",
+            "brother": "Se a Zhao não tentar contrariar uma decisão tomada pelo grupo, pode apostar que ela já considerou todas as possibilidades e decidiu que vale a pena tentar."
+        }
+    },
+    "1471": {
+        "id": 1471,
+        "name": "Banyue",
+        "full_name": "Banyue",
+        "en_name": "Banyue",
+        "en_full_name": "Banyue",
+        "nickname": "Banyue",
+        "gender": "Masculino",
+        "stature": "200",
+        "birthday": "24 de julho",
+        "organization": "Auditoria Krampus",
+        "partner_bg": "K.C.A.",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Banyue é um construto inteligente que administra uma escola de artes marciais na Península Waifei e é conhecido por muitos como mestre Banyue. Ele vive há muito tempo e sua aparência é majestosa como a de um leão de pedra. Extremamente habilidoso nas artes marciais, ele mantém uma longa amizade com Yixuan, a atual líder do Monte Yunkui.\n\nComo mestre de artes marciais, Banyue é taciturno e confiável, possuindo um estilo e princípios tradicionais, sendo rigoroso na educação de seus discípulos, ensinando-os não só a lutar, mas a aprender. Reconhecido como um dos melhores da Península Waifei, ele possui uma forma especial de combate chamado \"Semblante de Fúria\" que, ao ser ativada, subjuga todo o mal.\n\nComo um residente comum que vive há muito tempo na Península Waifei, Banyue tem uma personalidade calma e serena. Ele não é bom em expressar emoções e seu comportamento e fala refletem um estilo antiquado. Ciente de que não consegue acompanhar as tendências modernas da humanidade, ele tem, secretamente, estudado várias gírias da internet, mas devido à sua compreensão limitada, isso, frequentemente, causa mal-entendidos que fazem as pessoas rirem.\n\nAlém disso, Banyue parece gostar muito de objetos esféricos. Quando o silêncio se torna desconfortável durante momentos a sós com ele, é recomendado usar objetos esféricos para despertar sua curiosidade.",
+            "profile_02": "A verdadeira identidade do Banyue é a de uma máquina de extermínio desenvolvida secretamente pela T.O.P.S. há muitos anos, especificamente projetada para suprimir o miasma, chamada de \"unidade de extermínio tipo zero\". Seus algoritmos o faziam agir conforme os planos mais eficientes para eliminar o miasma, o que frequentemente resultava na eliminação indiscriminada de todos os alvos móveis em seu campo de visão, incluindo tanto o miasma quanto civis afetados.\n\nApós uma missão fracassada, Banyue é abandonado pela T.O.P.S., mas acaba sendo encontrado por um sábio que visitava a Esfera Lemnian. Ele reescreve seu núcleo e constrói uma nova lógica de inteligência para ele, permitindo que Banyue gradualmente desenvolva autoconsciência. Posteriormente, Banyue é aceito pelos residentes das antigas minas da Península Waifei, que o ajudam a se integrar à vida \"humana\".\n\nDurante a grande catástrofe do surto de miasma nas antigas minas há dez anos, Banyue correu para resgatar os civis, mas abandonou alguns residentes considerados impossíveis de salvar por sua lógica algorítmica absolutamente racional. Ele salva os jovens Ye Shunguang e Ye Shiyuan, mas isso deixa uma cicatriz em sua consciência devido ao \"abandono\" daqueles que não pôde salvar. Por isso, Banyue não se submeteu ativamente ao Teste do Fruto Proibido e, embora apresente características gerais de um construto inteligente, ainda não foi oficialmente reconhecido como tal.\n\nApós receber o julgamento de Dialyn, uma juíza da Auditoria Krampus, Banyue decide compensar seus arrependimentos do passado protegendo o futuro. Com a recomendação de Dialyn, ele se torna um dos juízes da Auditoria Krampus, iniciando uma nova jornada."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Banyue:\n· Preocupação na vida de um construto inteligente número 1: o detector de metais sempre dispara.",
+            "sender_note2": "· Preocupação na vida de um construto inteligente número 2: manutenção de peças antigas.",
+            "sender_note3": "· Preocupação na vida de um construto inteligente número 3: como medimos o peso de um coração?"
+        },
+        "impression": {
+            "sister": "O Mestre Banyue até parece super calmo e centrado, mas na real ele tem um lado super medroso, viu? Da última vez que ele passou no Templo Suibian, entrou um rato do nada. Ele tentou disfarçar ao máximo, mas dava pra ver direitinho o quanto ele estava desconfortável...",
+            "brother": "Falando nisso, eu vi uma criança brincando de bolinha de gude e ela deixou uma cair sem querer… e o Mestre Banyue ficou encarando por um bom tempo, como se estivesse tentado não ir pegá-la. Parece que o mestre Banyue também tem um lado que não é muito típico de um mestre de artes marciais."
+        }
+    },
+    "1481": {
+        "id": 1481,
+        "name": "Dialyn",
+        "full_name": "Dialyn",
+        "en_name": "Dialyn",
+        "en_full_name": "Dialyn",
+        "nickname": "Azural",
+        "gender": "Feminino",
+        "stature": "145",
+        "birthday": "28 de maio",
+        "organization": "Auditoria Krampus",
+        "partner_bg": "K.C.A.",
+        "outlook": null,
+        "profile": {
+            "profile_01": "Dialyn é uma funcionária do atendimento ao cliente no Centro de Atendimento ao Cliente Interdepartamental da T.O.P.S., mas sua identidade menos conhecida é a de juíza da Auditoria Krampus.\n\nEmbora se considere a melhor atendente da T.O.P.S., ela também é quem recebe mais reclamações em todo o departamento. Apesar de nunca ostentar sua autoridade como juíza, ela sempre consegue chegar aos vereditos mais próximos da verdade.\n\nDialyn nasceu com a capacidade de ouvir as vozes dos humanos à beira da morte nas Esferas Negras. Um talento único, mas para a jovem Dialyn, era também era uma maldição dolorosa.\n\nSeja dom ou maldição, Dialyn transformou essa habilidade em uma ferramenta para discernir a verdade. Independentemente do destino ou das adversidades que carrega, ela continua seguindo seu caminho.",
+            "profile_02": "\"Maldição\". Não é apenas uma descrição do tormento mental e físico causado pelas vozes onipresentes dos mortos nas Esferas Negras, mas também descreve o infortúnio trazido por esse dom tão \"sinistro\".\n\nNa véspera de um segundo desastre de Esfera Negra, os habitantes da cidade onde Dialyn morava, manipulados por uma empresa de construção, ofereceram a jovem portadora do dom \"sinistro\" como \"sacrifício\" para uma Esfera Negra, na esperança de salvar suas próprias vidas.\n\nA garotinha, que conhecia pouco sobre a maldade humana, mas possuía uma bondade natural, estava disposta a trocar sua vida pela dos outros. No entanto, quando entrou na Esfera Negra, seu dom amaldiçoado revelou-lhe a cruel verdade: tudo era uma conspiração da empresa de construção. Os residentes, que haviam comprado apólices de seguro, estavam destinados a morrer na Esfera Negra, e Dialyn era apenas uma ferramenta usada para evitar que fugissem.\n\nEla ouviu como seu segredo sinistro foi vendido, ouviu o ressentimento dos mortos contra ela, ouviu todas as vozes dos falecidos e as mentiras dos vivos. Ela não se lembra mais como atravessou aquela terra devastada, mas desde o dia em que foi acolhida pela Krampus, ela se preparou: entre a luta interminável entre mentiras e verdades, ela aprenderia a julgar o bem e o mal à sua própria maneira."
+        },
+        "sender_note": {
+            "sender_note1": "Impressão sobre Dialyn:\n· Olá! Você está falando com um serviço de atendimento ao cliente premium e exclusivo!",
+            "sender_note2": "· Todos os personagens poderosos, inevitavelmente, recebem inúmeras reclamações.",
+            "sender_note3": "· Ligações e lamentações do passado, eu respondo às mesmas em nome do ontem."
+        },
+        "impression": {
+            "sister": "Embora ela pareça alternar constantemente entre piadas e comentários ácidos, se você tiver paciência para ouvir o verdadeiro coração que Dialyn esconde por trás disso tudo, entenderá que ela é uma pessoa de muitos princípios e coragem!",
+            "brother": "As palavras da Dialyn sempre parecem \"muito agressivas\", mas ela sempre confronta as injustiças e é sincera com seus amigos. Foi ela quem me contou sobre a Belle ter saído com os Agentes sem me avisar."
+        }
+    },
     "0": {
         "id": 0,
-        "name": null,
-        "full_name": null,
+        "name": "null",
+        "full_name": "null",
         "en_name": "BlackCat",
-        "en_full_name": null,
+        "en_full_name": "BlackCat",
         "nickname": "Cat",
         "gender": "?",
         "stature": "22",

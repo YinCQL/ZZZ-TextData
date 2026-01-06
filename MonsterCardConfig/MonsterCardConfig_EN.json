@@ -133,6 +133,13 @@
             "card_quote": "— Hollow Zero Investigation File KU241. Voice recording of the first recorded Hornet sighting.",
             "skill_text": "In battle, Hornets will assist Nineveh by distrupting and attacking enemies."
         },
+        "20032": {
+            "monster_id": 20032,
+            "monster_name": "Ionized - Pugnus",
+            "card_text": "Not all Ionized beings within the Hollows prefer to hide, and Pugnus wears its menace on every sharpened spike. Clad in armor, its back and tail bristle with razor spines, while its massive pincers serve not only as weapons but as war drums that pound the earth to mark its territory. Pugnus tends to build power from within the shadows, yet can suddenly spring forth — bringing its full weight down with both crushing claws upon its prey. Its shockwaves are powerful enough to throw inexperienced fighters off balance, and the flying debris that follows often seals off any escape routes. Its attack rhythm suggests it relies on ground vibrations to track its prey before lunging in a sudden, explosive strike to finish the fight. Interestingly, some Hollow Raiders who've spent years dealing with Pugnus have developed a unique \"Lightfoot Hollow Step\" technique: \"I used to get knocked off balance by its tremors, but then I learned to step on my toes and move quickly... Now I'm somehow winning stilts racing competitions at festivals.\"",
+            "card_quote": "—As shared in \"Tales of Hollow Pitfalls\" by a self-proclaimed successor of the \"Lightfoot Hollow Step\".",
+            "skill_text": "In combat, Ionized - Pugnus tends to unleash continuous hammer attacks with its powerful arms, combining attacks with the spikes on its head and tail. When Ionized - Pugnus slams the ground, it also creates a large area attack."
+        },
         "30000": {
             "monster_id": 30000,
             "monster_name": "Dullahan",
@@ -175,6 +182,13 @@
             "card_quote": "—\"Hollow Interview\" Issue 251, an interview with a surviving Hollow investigator",
             "skill_text": "During combat, the Twin Marionettes perform a large number of chained attacks. Some of their dance attacks can be interrupted by multiple Defensive Assists, and the twins will attempt to resuscitate the other if one should fall."
         },
+        "30013": {
+            "monster_id": 30013,
+            "monster_name": "Miasma Walker - Scorpse",
+            "card_text": "In a desolate realm completely devoured by the Hollows, it slumbered... until the arrival of \"that power.\"\n\nThis aggressive and contaminating force, like a skilled yet malicious craftsman, refilled it with purer dark energy, transforming it into the current \"Miasmic Scorpse.\"\n\nGradually, it seemed to grasp the trick of \"existence\" through mimicry. It could split its miasmic energy, creating multiple Mimics indistinguishable from the real thing.\n\nThese Mimics possess nearly identical offensive capabilities as the original, launching dazzling attacks from different angles to conceal the one lethal \"truth.\"\n\nWhen facing its encirclement, remember this well: all you see is illusion. All you feel is a trap.\n\n\"Only by filtering out all distractions and perceiving the one 'truth' can you find a glimmer of hope in this deadly dance of phantoms.\"",
+            "card_quote": "—A Brave Explorer",
+            "skill_text": "In battle, Miasma Walker - Scorpse hides itself and uses Mimics to attack players. Triggering a Defensive Assist or Dodge Counter against a Mimic will knock the Miasma Walker - Scorpse down and leave it staggered for a short time. Once it enters a Miasmic Field, it summons additional Mimics to coordinate its attacks. It also spits venom packed with Miasmic - Blastcrawler egg sacs, causing damage through multiple explosions."
+        },
         "30017": {
             "monster_id": 30017,
             "monster_name": "Ionized - Cyrtoidea",
@@ -203,12 +217,40 @@
             "card_quote": "— Confession screamed by a captured Hollow Raider",
             "skill_text": "During combat, Thracian will repeatedly perform specific skills to enter a charging state. While in this state, their attacks become more aggressive, and after unleashing high-level moves, they will trigger a large-scale explosion."
         },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Hitchspiker",
+            "card_text": "Ether is a greedy, insatiable parasite, a vicious creature that devours once-vibrant lives.\nThe Hitchspiker is an even more malicious incarnation of Ether — dwelling within the bodies of its cruel counterparts, it enables Tyrfing and Alpeca to satisfy the voracious appetites of the Hollows in an even more ferocious manner.\n\"Get away from my face!\"",
+            "card_quote": "—An Ethereal Ecologist, realizing that this is just a very jumpy bug",
+            "skill_text": "In combat, Hitchspiker will continue to roam, searching for any Tyrfing and Alpeca that can be parasitized."
+        },
         "30029": {
             "monster_id": 30029,
             "monster_name": "Ionized - Doppelganger",
             "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
             "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
-            "skill_text": null
+            "skill_text": "During combat, this enemy can copy the moves of whoever it copies."
+        },
+        "30031": {
+            "monster_id": 30031,
+            "monster_name": "Palicus",
+            "card_text": "Ethereals that are always seen in pairs, distinguished by their peculiar physical traits. A profound bond exists between the two.\n \n\"Whoa, that was close! Don't just deal with one. You gotta watch out for the ladies' sneak attacks!\"\n\"Hold on, 'ladies'? Has being in the Hollow for so long made you see even the Ethereals as attractive?\"\n\"Dude, I know Ethereals and I know ladies. I swear, Palicus are definitely 'ladies'.\"\n\"No way!\"\n\"That long hair? Those legs? They're like total 'factory-made babes' — my sister taught me that term.\"\n\"How's your sister doing lately?\"\n\"She's actually getting better. But next month's medical bills? Gotta hustle that cash from these Ethereal hotties.\"\n\"Ain't easy being an older brother, eh? Here's the deal: I'll keep Palicus busy, and you give me your sister's number.\"\n\"Hah. Like I'm actually gonna give you her number!\"",
+            "card_quote": "—The last words of two young Hollow Raiders",
+            "skill_text": "In combat, the Palicus fight by combining both close and ranged attacks. When one dies, the other will enter a Frenzy state, increasing the speed and ferocity of its attacks."
+        },
+        "30032": {
+            "monster_id": 30032,
+            "monster_name": "Geppetto",
+            "card_text": "Among the most fearsome symbiotic entities in Hollow Zero, Geppetto, thanks to its distinctive posture, often leaves an unsettling first impression.\nIts immense, terrifying form harbors violent Ether energy, yet it moves with the unsettling grace of a puppet, often performing strange and unpredictable actions. In the absence of sufficient observational data, an encounter with Geppetto in Hollow Zero typically heralds enormous dread and inescapable death for any investigator.\nSome scholars speculate, drawing from the records of Parasitic Ethereal Swarm, that this horrific outer shell is merely a facade, while a volatile potent Ether Core lies in command within.\nRegrettably, no investigation records regarding this mysterious core have yet come to light.\n\"I've never met the Grim Reaper, but I've definitely seen what his puppet looks like.\"",
+            "card_quote": "—Special Feature of Interview on Back 2 Life, talks with an elite investigator of Hollow Zero",
+            "skill_text": "In combat, Geppetto unleashes large area attacks using both its body and Ether energy. After its hands and tail take sufficient DMG, they'll be destroyed, leaving it paralyzed. Geppetto will repair these destroyed parts when summoning Ether enemies or deploying Curtain of Phantoms. Additionally, Geppetto's Curtain of Phantoms inflicts the Suspended status on enemies who touch it, reducing their movement speed and preventing Skill usage."
+        },
+        "30033": {
+            "monster_id": 30033,
+            "monster_name": "Miasma Priest",
+            "card_text": "For New Eridu, the Hollow is a catastrophe of despair. And when a Hollow expands, fear, death, suffering... all forms of despair devour people's minds, altering the fates of countless souls.\nThe omens of doom began in the shadows of the Hollow, yet some heard a strange calling within, glimpsing a sliver of... hope and redemption amidst despair.\nSince then, they heeded that secret call to form a clandestine organization, and the Miasma Priests lurked in the shadows of Eridu... spreading Their blessing to those who had lost their way.\nThe \"Miasma Priests\" believe that the Hollow's expansion is no mere natural disaster. Generation after generation, the \"Priests\" have tirelessly pursued the hidden truth behind it, seeking to achieve their desired truth... that the will within the Hollow shall ultimately become reality.\nHowever, sacrifices are necessary in this process, and minor troubles are inevitable. Even being targeted by Void Hunters and hunted by major organizations are merely trivial setbacks on the path to truth.\nAfter a lengthy effort and thorough preparation, the \"Miasma Priests\" have finally summoned that will from the Hollow, allowing it to descend upon the world with near-perfect form. The Miasma that coils and covers the \"Miasma Priests,\" that corrupting substance untouchable to others, has become for them dazzling weapons and armor.\nAll of this serves as the ultimate proof of their blessed status.\n\"Their will... shall finally descend upon this world.\"\n\"What you must do is simple...\"\n\"Listen, obey, and then... accept Their blessing!\"",
+            "card_quote": "— A Miasma Priest performing a ritual",
+            "skill_text": "During combat, the Miasma Priest will switch between different phases and use special skills for each phase. When Agents activate Perfect Assist against some of the Miasma Priest's skills, it won't consume Assist Points, and after multiple Defensive Assist activations in a short time, the Miasma Priest will enter a special Stagger state, during which Agents can deal increased DMG to the Miasma Priest."
         },
         "35001": {
             "monster_id": 35001,
@@ -334,7 +376,7 @@
             "monster_name": "Notorious - Hati",
             "card_text": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
             "card_quote": "—A chat between Billy and Nicole",
-            "skill_text": "Monster Skill Info - Placeholder"
+            "skill_text": "During combat, Hati uses nimble leaps and quick claw attacks."
         },
         "200015": {
             "monster_id": 200015,
@@ -460,7 +502,7 @@
             "monster_name": "Notorious - Dead End Butcher",
             "card_text": "Unlike other highly dangerous Ethereals, the Ether within the Dead End Butcher's body often remains in a low-activity dormant state.\nNevertheless, it possesses immense brute strength capable of demolishing any obstacle, and the entire twisted and ravaged metro zone serves as its off-limits kitchen.\nOnly when a threatening target piques its interest will a horrifying transformation take place...\nWithin moments, the high concentration of Ether stored in its body undergoes a violent transformation and the exponentially surging energy prompts its limbs to quickly distort, assuming a more brutal and voracious \"feeding stance.\nThe time for \"appetizers\" is over, and an unparalleled \"feast\" is about to begin.\nAnyone who doesn't want to be part of this feast should be extremely cautious in choosing their route, and stay away from its \"kitchen\" at all costs.\n\"The paths within the Hollows are complex, but one thing's for sure, when it appears at the end of the road, that path is a 'dead end.'\"",
             "card_quote": "—Hollow Investigative Association's 17th Dead End Hollow Investigation",
-            "skill_text": "In combat, Notorious - Dead End Butcher can skillfully harness Ether Energy to unleash a variety of ranged attacks and alter space, creating mimetic objects."
+            "skill_text": "In combat, the notorious Dead End Butcher can skillfully utilize Ether Energy to unleash various ranged attacks and enter an \"Ether Enhanced\" state to boost their ATK; Dazing them will cancel their \"Ether Enhanced\" state."
         },
         "300121": {
             "monster_id": 300121,
@@ -469,12 +511,33 @@
             "card_quote": "—\"Hollow Interview\" Issue 251, an interview with a surviving Hollow Investigator",
             "skill_text": "In combat, Notorious - Marionette will summon her dance partner to attack. Every time her dance partner is defeated, her next Stun's duration will be increased."
         },
+        "300301": {
+            "monster_id": 300301,
+            "monster_name": "Doppelganger - Abyssal Enforcer",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "—Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "In combat, the Doppelganger Abyssal Enforcer will actively evade enemies and activate Vital View, followed by a powerful rush attack. This skill can be countered with Perfect Dodge or Perfect Assist."
+        },
+        "300371": {
+            "monster_id": 300371,
+            "monster_name": "Doppelganger - The Defector",
+            "card_text": "A fallen creation, reforged in the depths of filth and gloom.\nEven among Ionized enemies known for their strange and uncanny qualities, Ionized Doppelgangers stand out as particularly exceptional.\nThese creatures cloak themselves in a special layer of active Ether ions, allowing them to precisely mimic the appearance of their targets — sometimes so accurately it's nearly impossible to tell the difference. From details to texture, they're masters at blurring the line between real and false.\nWhat makes them even more dangerous is their ability to replicate their targets' powerful combat techniques.\nNo one knows how they acquire such detailed intel of their targets. Some say they can read minds, pulling the perfect nightmare from their opponent's memory and taking that shape before launching their attack.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "In combat, this enemy uses identical skills to those of their target, launching fierce attacks with blades and guns."
+        },
+        "300401": {
+            "monster_id": 300401,
+            "monster_name": "Doppelganger Komano Manato",
+            "card_text": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\n\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\n\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\n\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "In combat, Ionized - Doppelganger - Komano Manato will unleash fierce attacks against the player. Players must give it their all to parry his skills. When successfully performing a Defensive Assist against some of his skills, you can interrupt his attacks. If you manage to Defensive Assist his powerful skills, you can force him into a Weakened state."
+        },
         "930146": {
             "monster_id": 930146,
             "monster_name": "Tyrfing",
             "card_text": "An enemy unit with very low ATK and HP, posing minimal threat. Typically the first enemy a new Bangboo encounters in their Bangboo Exam.",
             "card_quote": null,
-            "skill_text": "HP: Low\nATK: Medium\nDEF: Slow\nMovement Speed: Slow\nThreat Level: <color=#31CC00>Low</color>"
+            "skill_text": "HP: Low\nATK: Medium\nMovement Speed: Slow\nThreat Level: <color=#31CC00>Low</color>"
         },
         "930147": {
             "monster_id": 930147,
@@ -537,7 +600,7 @@
             "monster_name": "Arlaune",
             "card_text": "A highly dangerous enemy that launches <color=#D9A600>Ranged Attacks</color>. Upon being blocked, it releases a poisonous mist, <color=#D9A600>damaging all nearby Bangboo</color>. Deploy <color=#D9A600>Kind Bangboo</color> to counter.",
             "card_quote": null,
-            "skill_text": "HP: Super High\nATK: Medium\nDEF: 33\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
+            "skill_text": "HP: Super High\nATK: Medium\nDEF: Medium\nMovement Speed: Slow\nThreat Level: <color=#FF3333>Super High</color>"
         },
         "930159": {
             "monster_id": 930159,
@@ -580,6 +643,62 @@
             "card_text": "Blastcrawler moves quickly and will explode near Bangboo, dealing damage to <color=#D9A600>all Bangboo</color>. Deploy <color=#D9A600>Paperboo</color>, which have extremely high HP, to deal with it.",
             "card_quote": null,
             "skill_text": "HP: Low\nATK: Low\nMovement Speed: Fast\nThreat Level: <color=#FFAF2C>Medium</color>"
+        },
+        "930166": {
+            "monster_id": 930166,
+            "monster_name": "Tepes",
+            "card_text": "Under the long-lasting distortion of control in the name of love, the girl resorts to lying to deceive the suffering victims who have lost their loved ones to the Hollows, all in the pursuit of attention and love from her closest kin.\nShe believed that as long as she helped her loved ones hide the secret of the \"Blessing\" medicine, as long as she could not hear the agonizing screams of the people being affected by corruption, and as long as this secret and vile experiment remained concealed, the bond between her and her loved ones would not break.\nBut in the end, what awaited her was witnessing her loved one take his last breath in a pool of blood.\n\nAfter that, hatred and jealousy, like sharp thorns, constantly pierced her heart.\nThe gears of vengeance gnawed at every ounce of her sanity, and she pieced together a twisted meaning of existence from the notes left behind by her loved one.\nHer life trajectory seemed like a dark fable about obsession.\n\nWhen former companions extended their hands of salvation to her, the girl could no longer turn back. Or rather, the words that tried to pull her back into the light were torn to shreds by the jealousy, obsession, and hatred that had burrowed deep into her bones.\nIn the end, as the sun was about to set, countless spikes surged forth, bursting from her body, each bone shard piercing the screams of the forsaken.\nTepes – the pitiful one pierced by thorns - walks toward the deeper abyss with hatred.\n\"Especially at night, its voice is more sorrowful than that of other remains, and if you listen closely, the sound seems like the cry of a woman...\"",
+            "card_quote": "— Notes written by a scholar of the White Star Institute after carefully listening to the recording.",
+            "skill_text": "During the battle, Tepes frequently uses the spiked hammers in both hands to launch powerful attacks and inflict a damage reduction effect. Successfully executing Defensive Assists multiple times to block Tepes' hand attacks will Impair its spiked hammers. Once the hammers are Impaired, some of Tepes' moves will reveal significant openings, the damage reduction effect will be lost, and Tepes will be inflicted with an increased Daze Vulnerability."
+        },
+        "930168": {
+            "monster_id": 930168,
+            "monster_name": "Banyrek",
+            "card_text": "In the Hollow Investigative Association's reports, Banyrek has been repeatedly marked as \"dangerous\" mainly due to its all-too-great jumping prowess.\nIf an Ethereal Olympics were held in the Hollow, it would definitely sweep both the high jump and long jump championships. Observation data indicates that Banyrek can bounce continuously for hours without showing any signs of fatigue, as if the space between air and ground were some natural runway.\nSome researchers have joked that if they ever released it in New Eridu's urban district, it would probably bounce from west to east in less than a day.\n\n\"How about trying to tame it as a mount?\"\n\"Forget it, with that explosive kinetic energy, it might be more cost-effective to use it for power generation directly.\"",
+            "card_quote": "— A casual chat with a Hollow Raider who fled the Hollow after a face-to-face encounter with Banyrek, sweating all the while",
+            "skill_text": "During combat, Banyrek will use a spitting skill to generate Miasma Pools on the ground, which it will actively absorb to enhance its skills. Additionally, its skills possess strong Miasma Corruption capabilities, and when certain skills hit a Miasma Pool, they will trigger an explosion."
+        },
+        "930169": {
+            "monster_id": 930169,
+            "monster_name": "Miasma Ravager - Avarus",
+            "card_text": "In Hollow Investigative Association reports, Avarus is often jokingly referred to as the embodiment of \"the sin of gluttony\" — its pot-bellied figure makes it look every bit the lazy bum, about to doze off at any moment.\nDon't underestimate it, however. Observation data indicates that Avarus can compress its body into a ball and launch devastating strikes at targets with astonishing speed.\nAs to how it maintains such a rotund figure despite its intense physical activity, the Association has yet to reach a conclusion.\n\n\"The way it rolls around always reminds me of my pet hamster — it's just a bigger, y'know?\"\n\"More than just a bit bigger, I'd say...\"",
+            "card_quote": "— Hollow Investigator Observation Log, excerpted from casual chat between two observers",
+            "skill_text": "During combat, Miasma Ravager Avarus will use its massive body to perform rolling attacks. If you successfully counter this skill with Defensive Assists 3 times in a row, you can interrupt its rolling attack and expose its weakness. After taking a certain amount of DMG in battle, it will activate a Miasmic Field."
+        },
+        "930171": {
+            "monster_id": 930171,
+            "monster_name": "Fisher Crab",
+            "card_text": "Feeding primarily on rookie investigators, newbie Hollow Raiders, and greedy, reckless beginner adventurers, the Fisher Crab - the most patient hunter in the Hollow, fishing for fools.\nBefore rushing towards that \"Hollow Supply Container,\" remember:\nDon't become tonight's dinner party joke among colleagues, or tomorrow morning's mass-distributed obituary.\n\n\"A mimic? You've been playing too many tabletop games, haven't you?\"",
+            "card_quote": "— Audio log submitted by a rookie investigator for supplies recovery during a workplace injury claim.",
+            "skill_text": "In combat, the Fisher Crab moves swiftly sideways, unleashing fierce attacks with its dual pincers while protecting itself with a tough shell. After taking heavy hits, the Fisher Crab enters defense mode. If its shell is intact, it will exit defense mode after a while and launch a devastating counter-attack. However, if its shell is gone and it takes multiple hits, the Fisher Crab will be executed and enter a paralyzed state."
+        },
+        "930172": {
+            "monster_id": 930172,
+            "monster_name": "Huskron",
+            "card_text": "The Huskron's dual forms — pre and post-hatching — have been giving headaches to new and veteran investigators alike. The Hollow Investigative Association offers this advice: Always watch for Miasmic substances at your feet. If you spot any rock-like spherical objects, attack immediately! Don't hesitate! Don't hesitate!\nAccording to insiders, the advice originally didn't have that repetition — until some clever Hollow Investigators still tried stepping around Huskrons even after reading it. That strategy worked about as well as trying to quietly open the fridge late at night without alerting one's dog.\n\n\"I prefer how it looks before hatching — all round and rolly.\"\n\"Is that why you didn't attack it first...?\"",
+            "card_quote": "— A conversation between Anne and Bessa, two Trainee Investigators who just escaped death in the Hollow",
+            "skill_text": "In combat, Huskron moves cautiously and actively takes a defensive stance when facing player attacks, launching powerful counterattacks. If you successfully perform Defensive Assists against these counterattacks, it will become stunned."
+        },
+        "930173": {
+            "monster_id": 930173,
+            "monster_name": "Miasma Walker - Arcavor",
+            "card_text": "Arcavor's coral-like glowing head never fails to catch the attention of rookie Hollow Raiders. Many find themselves unconsciously mesmerized, staring blankly in fascination — unaware that the danger has only just begun.\nTaking advantage of any such distraction, Arcavor gracefully raises its slender legs, striking a pose that's nothing short of an acrobatic miracle — the Hollow Investigative Association's records even describe it as reminiscent of a ballet dancer twirling on ice.\nHowever, the Association's warning is crystal clear: when you see it strike this pose, you'd better roll, jump, or back away immediately, because it's aiming for a lethal strike.\n\n\"Seriously, did this one miss its calling? It could've been a superstar as a dance performer, acrobat, or even a figure skater! But no, it just has to hang out in the Hollow and attack people...\"",
+            "card_quote": "— Posted on the Planet of Disaster forum by a Hollow Raider who experienced an \"artistically heavy attack\"",
+            "skill_text": "During combat, Miasma Walker Arcavor will continuously fire from long range; after being knocked down for the first time, they will stand back up if they come in contact with Miasma Pools."
+        },
+        "930178": {
+            "monster_id": 930178,
+            "monster_name": "Miasmic - Thracian",
+            "card_text": "A fallen creation, reshaped in the depths of profound darkness and impurity.\n\nThis fearsome Ethereal, named after a warrior tribe in ancient mythology, is said to only manifest from the most valiant heroes and the most insane villains when they become corrupted by the Ether.\nThat is not the case, however. While the chiseled muscles you developed in the Hollow and the adrenaline released in excess before death may indeed help you become a significant nuisance to your former companions, they probably won't hold it against an old friend who's already beyond saving, right?\nNot that it matters, of course. Who cares about street cred or socializing once your handsome face has transformed into a dark, eerie energy orb, anyway?\n\"That's the Boss for ya. Even his Ether-corrupted form is super strong!\"\n\"I always knew something was off about that gym freak!\"",
+            "card_quote": "— Shrieking confession made by a captured Hollow Raider gang member",
+            "skill_text": "During combat, this enemy will activate Miasmic Fields at specific moments, instantly unleashing a powerful large-area attack, while enhancing their skills throughout its duration."
+        },
+        "940001": {
+            "monster_id": 940001,
+            "monster_name": "Huskron",
+            "card_text": "Huskron's <color=#D9A600>DEF increases significantly</color> when he is blocked. Take him down before that happens!",
+            "card_quote": null,
+            "skill_text": "HP: Low\nATK: Medium\nMovement Speed: Fast\nThreat Level: <color=#31CC00>Low</color>"
         }
     },
     "Thugs": {
@@ -649,7 +768,7 @@
         "20025": {
             "monster_id": 20025,
             "monster_name": "Bellum",
-            "card_text": "As an arena champion with an impressive win streak, Bellum once called himself the number-one fighter in the Outer Ring... Until his win streak was ended.\nWhat was even more infuriating... was that arrogant guy didn't even remember his name.\nAngry, Bellum honed his fighting skills, swearing that he would make his name known throughout the Outer Ring once more and make the arrogant jerk who beat him pay.\nTo achieve his goal, Bellum joined The Vanquishers and helped Pompey defeat enemy after dangerous enemy. He could skillfully modify and operate a flamethrower, leading the charge to incinerate enemies in his path. He could also command his squad with seamless precision, organizing them into an unstoppable battle force. Every battle he led ended in victory.\nNow, Bellum no longer needs to make a name for himself.\nThough he's no longer that champion with an impressive win streak, in the Outer Ring, everyone knows the terror of gang wars, and as a member of The Vanquishers' core fighting force, Bellum was war itself.\n\"You don't wanna do menial jobs? Heh, you can complain about that you defeat boss Bellum!\"\n\"Now go clean the toilet!\"",
+            "card_text": "As an arena champion with an impressive win streak, Bellum once called himself the number-one fighter in the Outer Ring... Until his win streak was ended.\nWhat was even more infuriating... was that arrogant guy didn't even remember his name.\nAngry, Bellum honed his fighting skills, swearing that he would make his name known throughout the Outer Ring once more and make the arrogant jerk who beat him pay.\nTo achieve his goal, Bellum joined The Vanquishers and helped Pompey defeat enemy after dangerous enemy. He could skillfully modify and operate a flamethrower, leading the charge to incinerate enemies in his path. He could also command his squad with seamless precision, organizing them into an unstoppable battle force. Every battle he led ended in victory.\nNow, Bellum no longer needs to make a name for himself.\nThough he's no longer that champion with an impressive win streak, in the Outer Ring, everyone knows the terror of gang wars, and as a member of The Vanquishers' core fighting force, Bellum was war itself.\n\"You don't wanna do menial jobs? Heh, you can complain about that once you defeat boss Bellum!\"\n\"Now go clean the toilet!\"",
             "card_quote": "— Within The Vanquishers' camp, a veteran scolding a slacking rookie",
             "skill_text": "During combat, Bellum uses his bladegun, shield, and flamethrower to pressure the enemy at close range. If Bellum is attacked while guarding with his shield, he'll respond with a powerful counterstrike. When his health drops below a certain percentage, Bellum's attacks intensify, becoming even more vicious and relentless."
         },
@@ -715,15 +834,92 @@
             "card_text": "There is a consensus within the New Eridu underworld that the most formidable fighters are not the champions of the ring, but rather the Bulky Enforcers and Wanted Enforcers lurking in the depths of the Hollow. These professional thugs are hired by Ether thieves at high prices to protect their illegally excavated Ether resources.\nBeing ardent boxing enthusiasts, Bulky Enforcers have modified high-voltage stun guns into boxing gloves, augmenting the destructive power of their punches.\nTo them, Ethereals, Hollow Raiders, Hollow investigators, and even scattered members of Public Security... are not seen as opponents but merely as \"training sandbags\" for their personal amusement.\n\"Wait a minute! I think I've seen this guy's fighting stance in the arcade on Fourth Street!\"",
             "card_quote": "—Billy dealing with a charging thug in a Hollow",
             "skill_text": "During combat, Troublemaker - Wanted Enforcer is extremely aggressive, using nimble sidesteps to shake up the angle of attack."
+        },
+        "940002": {
+            "monster_id": 940002,
+            "monster_name": "Lumberjack",
+            "card_text": "The Lumberjack is a highly dangerous enemy. While dealing <color=#D9A600>massive single-target DMG</color>, it also unleashes <color=#D9A600>large AoE DMG</color> around itself. Keep your distance!",
+            "card_quote": null,
+            "skill_text": "HP: Super High\nATK: High\nDEF: High\nMovement Speed: Medium\nThreat Level: <color=#FF3333>Super High</color>"
+        },
+        "940003": {
+            "monster_id": 940003,
+            "monster_name": "Rampant Brute",
+            "card_text": "The Rampant Brute is a highly dangerous enemy. He can deal <color=#D9A600>massive DMG</color> to targets, so when using Paperboo to block him, be sure to deploy Kind Bangboo strategically to ensure <color=#D9A600>Paperboo's</color> safety!",
+            "card_quote": null,
+            "skill_text": "HP: Super High\nATK: Super High\nDEF: High\nMovement Speed: Medium\nThreat Level: <color=#FF3333>Super High</color>"
         }
     },
     "Corrupted": {
+        "10017": {
+            "monster_id": 10017,
+            "monster_name": "Miasmic - Blastcrawler",
+            "card_text": "A fallen creation, reshaped in deep, tainted darkness.\nThe Miasma Blastcrawler wears crimson red, yet still can't shake off its \"low threat\" stigma, as its movement speed and blast radius remain— unchanged...\nHowever, the Association has repeatedly issued warnings, urging investigators to guard against the miasma smoke released after its explosion. If inhaled carelessly, a moment of disorientation is enough for even an Elite Investigator to perish in the ever-changing Hollows.\n\"Red team is ready! Here comes the green team walking towards us...\"",
+            "card_quote": "—While collecting ghost stories, Lucia is making Blastcrawlers fight like crickets",
+            "skill_text": "After being corrupted by Miasma, Miasmic - Blastcrawler becomes extremely unstable, leaving behind Miasma residue that can trigger another explosion after it self-detonates. A well-timed Defensive Assist against its leap can redirect the blast in your favor."
+        },
         "10021": {
             "monster_id": 10021,
             "monster_name": "Raven UAV",
             "card_text": "Unknown",
             "card_quote": "None",
             "skill_text": "Monster Skill Info - Placeholder"
+        },
+        "10033": {
+            "monster_id": 10033,
+            "monster_name": "Miasmic Trooper - Shieldguard",
+            "card_text": "An Ethereal Soldier formed from Miasma, wielding a massive, corruptive Miasma blade and protected by an almost impenetrable defense shield, instinctively covers other Miasmic Troopers as they advance.\nTheir immense physical mass and extensive defensive reach make them formidable in positional warfare, especially in groups, where they become significantly harder to handle. The Hollow Investigative Association advises swiftly eliminating any isolated units on sight.\n\"An Ethereal whose main role is to protect others? Now that's a rare sight...\"\n\"Don't overestimate the Ethereals. Remember, whatever's behind these things was never human to begin with!\"",
+            "card_quote": "—Two Hollow Investigators exchanging intel on the sly.",
+            "skill_text": "During combat, Miasmic Trooper - Shieldguard uses its shield to both significantly reduce DMG and Daze taken, and also counterattack."
+        },
+        "10034": {
+            "monster_id": 10034,
+            "monster_name": "Miasmic Trooper - Cannoneer",
+            "card_text": "The Ethereal soldiers, formed from Miasma, wear tattered old uniforms and linger in the smoke of battle like ghosts from another era.\nHollow observation data shows that the Canonneers can strike nearby targets with impressive precision using their bazookas — a level of accuracy suggesting rigorous training, which has sparked much speculation.\n\"Could these newly discovered, highly organized Ethereal units be linked to the Defense Force?\"\n\"Sorry. No comment until the matter is fully investigated and confirmed.\"",
+            "card_quote": "—Official response from a Defense Force spokesperson.",
+            "skill_text": "In combat, the Miasmic Trooper - Cannoneer prefers to provide heavy firepower support from a distance. Additionally, some of its skills inflict potent Miasma Corruption."
+        },
+        "20011": {
+            "monster_id": 20011,
+            "monster_name": "Miasmic - Huskron",
+            "card_text": "A fallen creation, reshaped in the depths of impure darkness.\nTo step into the domain of the sleeping behemoth is to prepare for confronting the crimson nightmare, for it's no longer content with games of hide and seek.\nThe reckless Hollow Raider attempts to provoke, luring it to expose its deeply buried core. Yet skilled hunters often appear as prey - letting your guard down when the enemy's weakness is revealed is often a rookie's deadliest flaw.\n\"Don't call me stupid, my head really was caught in those Ethereal pincers...\"",
+            "card_quote": "—A grumbling Trainee Investigator getting scolded by their senior",
+            "skill_text": "During combat, Miasma Ravager - Huskron, corrupted by Miasma, now possesses enhanced physique and a more vicious assault pattern. Using a Defensive Assist at the right moment can counter its brutal offense."
+        },
+        "20016": {
+            "monster_id": 20016,
+            "monster_name": "Miasmic - Lightfoot Rover",
+            "card_text": "Once a standard fire-support mech, now corrupted within the Hollow. It's tactical algorithms now in total disarray, flagging every lifeform it sees as a high-threat target and firing indiscriminately.\nBuilt for offense over defense, it boasts exceptional mobility, making it hard to hit and relentless in pursuit.\nIf you're unlucky enough to be tagged by it, pray there's a spatial rift nearby — without one, escape is nearly impossible.\n\"If I could go back to middle school, I'd never slack off in track practice again.\"",
+            "card_quote": "—From the diary of a shaken Hollow Raider, written with trembling hands",
+            "skill_text": "In combat, Miasmic - Lightfoot Rover summons two drones to assist in battle. If Miasmic - Heavy Striker is also on the field, Miasmic - Lightfoot Rover will coordinate attacks together with it. Additionally, when Miasmic - Heavy Striker is close to death, Miasmic - Lightfoot Rover will leap toward the target due to coordinated combat signal interference, seize its combat data core, gain part of Miasmic - Heavy Striker's shield components and abilities, and trigger a small Miasmic Field."
+        },
+        "20018": {
+            "monster_id": 20018,
+            "monster_name": "Miasmic - Heavy Striker",
+            "card_text": "This autonomous tactical mech, swallowed by the Hollow, has grown even more brutal after corruption, powerful enough to crush Goblins with ease.\nOnce a steadfast shield protecting soldiers against devastating attacks, the Defense Force's most trusted companion has now transformed into a terrifying killing machine.\n\"If you have the courage, then grant our once-reliable friend a final end, freeing it from the sins and shattered honor it now carries.\"",
+            "card_quote": "—Words from a graying combat mechanic, left upon retirement",
+            "skill_text": "In combat, when Miasmic - Heavy Striker deploys its shield, it activates a small Miasmic Field. If Miasmic - Lightfoot Rover is also on the field, the two will carry out coordinated attacks. Additionally, when Miasmic - Lightfoot Rover is close to death, Miasmic - Heavy Striker will leap toward the target due to coordinated combat signal interference, seize its combat data core, acquire Miasmic - Lightfoot Rover's drones and abilities, and command the drones to fight alongside it."
+        },
+        "20026": {
+            "monster_id": 20026,
+            "monster_name": "Miasmic - Frenzied Maniac",
+            "card_text": "A fallen creation, reshaped in profound darkness and impurity.\n\nUnfortunate souls mutated by the intense corruption of Etheric matter within the Hollows. Due to a considerable degree of Ether aptitude and physical capability, their bodies have not been completely transformed by the Ether, retaining humanoid features but with enhanced mutant limbs that are more dangerous.\n\nJudging from the remnants of clothing and combat experience, likely once a senior gang member or Raider lurking in the Hollows.\n\nThese corrupted subjects, potentially due to their enhanced physiology or affinity for Ether matter, have developed formidable close combat abilities, making them even more menacing than the typical monsters found in the Hollow.\n\n\"Their weapons look very fancy... and kinda like they came as freebies.\"",
+            "card_quote": "—Anby's analysis of a particular operation with the Cunning Hares",
+            "skill_text": "In combat, the Miasmic - Frenzied Maniac uses its stealth specialty to launch surprise attacks. When paired with Miasmic - Trinox, it will perform a Perfect Dodge against player attacks, followed by a Coordinated Attack with Miasmic - Trinox. Additionally, when one of them dies, the survivor will enter Frenzy."
+        },
+        "20027": {
+            "monster_id": 20027,
+            "monster_name": "Miasmic - Trinox",
+            "card_text": "A fallen creation, reshaped in profound darkness and impurity.\n\nThe Hollow Investigative Association has been studying the mutation characteristics of Ethereal humanoid bodies.\n\nTrinox has consistently ranked in the top three of research popularity lists due to its seemingly deliberately designed triangular head structure. There were even rumors of mathematicians disguising themselves as investigators to infiltrate the Hollow just to witness Trinox firsthand.\n\nThe latest research results were published in \"Hollow Encyclopedia\" Issue 28, February Edition. According to subscribers, the article only discussed the aesthetic significance of Trinox's head structure.\n\nDissatisfied Hollow-related readers gave the article the lowest score of the issue on the magazine's website, with only a 34% approval rating currently.\n\n\"Trinox's head measurements are close to the ancient golden ratio!\"\n\n\"We're fighting the Ethereal, not hosting a beauty pageant for them, Professor.\"",
+            "card_quote": "—From \"The Durham Show\" Episode 79, a conversation between host Durham and mathematician Isaac, who was left with a limp after entering the Hollow",
+            "skill_text": "In combat, Miasmic - Trinox uses parry mechanics to deflect DMG and unleash Block Counter. When Miasmic - Frenzied Maniac is present on the field, Miasmic - Trinox will command it to perform a Coordinated Attack together. Additionally, when one of them dies, the survivor will enter Frenzy."
+        },
+        "20031": {
+            "monster_id": 20031,
+            "monster_name": "Miasmic - Wicked Wraith",
+            "card_text": "A fallen being, reforged within the depths of corruption and shadow.\nIts most striking feature lies in its grotesquely developed arms, the embodiment of the Wicked Wraith's fury. The limbs themselves are bulkier than a standard double-door refrigerator, coated in dense keratin layers that interlock to form a natural hammer shape. One expert from the Hollow Investigative Association claimed such abnormal development may stem from the host's original body having long relied on heavy machinery or strength-enhancing equipment, causing its physical traits to become grotesquely amplified during the corruption process.\nReports indicate it can smash through reinforced concrete and fling the remains of derelict vehicles several dozen meters. Among investigators, it's colloquially known as the \"Hollow Demolition Crew.\"\nOne account tells of a Wicked Wraith that, in its fury, leveled a whole ruin in under a minute, only to get stuck in a tight corridor, its massive frame unable to keep balance, and was later retrieved as a research specimen.\n\"When it slams the ground, even the echoes throughout the Hollow tremble... but if you're quick enough, maybe you won't have to arm-wrestle it.\"",
+            "card_quote": "—A consistently lucky investigator that believes good fortune comes from waiting patiently.",
+            "skill_text": "Miasmic - Wicked Wraith attacks with a giant axe and shotgun. Its axe attacks can create Miasma Pools on the ground, and these attacks can inflict an Miasma Corruption effect on players."
         },
         "30009": {
             "monster_id": 30009,
@@ -738,6 +934,34 @@
             "card_text": "People in the Outer Ring once called him the \"Overlord Pompey\" with true respect.\nBut now, his soul has been corrupted by potent Ether, his body polluted by sulfur and crude oil; the heart that once beat solely to protect the Outer Ring has turned into a supercritical Ether core filled with infinite power.\nThe former \"Lord of the Outer Ring\" has been reborn in flames, taking on a different form.\nFreedom, majesty... Violence, insanity.\nIt charges through the dust and flames, seizing anything that moves and then mercilessly tearing and shattering it.\nThose familiar with it before have guessed from its fractured whispers that what drives it is not a desire for petty revenge, but rather a desire to crush all outliers who dare to challenge the laws of the Outer Ring.\nMaybe it's the last vestige of the former Overlord Pompey's lingering will.\n\"Our leader has turned into that thing, but... he still feels like the same person.\"",
             "card_quote": "— A former henchman of The Vanquishers, shaking with fear",
             "skill_text": "During combat, overlord Pompey attacks using a combination of a motorcycle and hover guns. However, during certain moves, if countered with a Defensive Assist, his weakness will be exposed. After taking a certain amount of damage, he will enter a second phase. In this phase, he alternates between using the motorcycle's rear wheel and a longsword for attacks. The motorcycle's rear wheel can also accumulate Ether energy, leading to a explosion across a large area."
+        },
+        "30034": {
+            "monster_id": 30034,
+            "monster_name": "Miasmic Fiend - Unfathomable",
+            "card_text": "A monster forged from Miasma and the memories of a mystic — every painful, haunting moment now sealed within this chaotic form.\nIt's nothing but an imitation in the end, never brave enough to rise up, never decisive enough to disappear without a trace. Yet for its creator, this was sufficient — as a mere pawn, those memories steeped in agony served as potent fuel, enough to turn the Hollow upside down and expose all secrets to the world.\nThus, driven by memories not its own, the Miasma that birthed it made it restless, the approaching Ethereals filled it with rage, and even while prowling its own territory, it remained forever uneasy.\nOnly once, when it chased a human to the edge of the Hollow and saw the fear on their face, was its hunting instinct unexpectedly overridden by a strange impulse. It came to an involuntary stop. And when that unlucky figure vanished from view, it felt something new: an emotion startlingly close to satisfaction.\nBut that sense of satisfaction didn't last. A group of humans in black armor began intruding into its territory again and again, unfazed by any threat. Agitation and exhaustion slowly wore it down — until all it wanted was for everything that moved to disappear. Disappear! DISAPPEAR!!!\n...\n\"...Let's... settle... this...\nStrange, what was that voice?\n\"It's deeply connected... The one who tied the knot must be the one to untie it!\"\nMemories long smothered by madness stirred back to life. Yes... yes! That was the sound — the one that had echoed endlessly in its mind. Though instinct screamed for it to attack, its body hesitated. Its gaze followed the glint of silver hair, so much like its own, desperate to see if the voice belonged to the figure that kept resurfacing in its memory.\nDistracted, it took a direct hit to its core from behind, the excruciating pain nearly breaking it. Yet it still heard that faint whisper:\n\"I'm sorry, I must do this...\"\nThough the words made no sense to it, that near-satisfying emotion returned. It became aware that something genuinely frightening now had it in its grip. It might die because of it... but it had no intention of fleeing.\nIn the end, its strength was completely spent. But in that final moment, it could finally see her clearly. She wasn't quite the same as in its memories, and that fleeting realization brought a trace of loneliness. But even so, it liked her current self more than the heart-shattering screams of the past.\n\n\"The 'Miasmic Fiend'... Hmm, though Ferox's subordinates named it first, this creature's ghostly and vicious nature certainly lives up to the name. We plan to register it as such — what does you think, Yixuan Shifu?\"\n\"Have you heard the ancient saying? 'A name makes the truth no less unfathomable.' A name is just a name — whatever rolls off the tongue will do.\"",
+            "card_quote": "—A conversation between an investigator naming the Miasmic Fiend and Yixuan",
+            "skill_text": "During combat, Miasmic Fiend - Unfathomable will enhance its weapon and unleash powerful attacks that cannot be blocked. Additionally, Miasmic Fiend - Unfathomable will leap to a high point to activate a Miasmic Field and consume Miasmic Shield to launch multiple waves of attacks. Draw its attacks to detonate the Miasma Pool to prevent it from absorbing the Miasma Pool and restoring its Miasmic Shield, and quickly move away when it jumps back into the battlefield to avoid being caught in its deadly finishing attack."
+        },
+        "30036": {
+            "monster_id": 30036,
+            "monster_name": "Miasmic - Terror Raptor",
+            "card_text": "A fallen creation, reforged in the depths of filth and darkness.\nA veteran model of countless battles, the Terror Raptors are New Eridu's most trusted weapon of war. Designed for a perfect balance of brutal melee and devastating ranged firepower, it delivers destruction with every charge and strike. Armed with multi-missile launchers and rapid-fire guns, it dominates both close-quarters and distant combat. From leaping assaults to explosive barrages and swift aerial retreats, the Raptor adapts to any battlefield with ease. Its relentless attacks leave enemies no room to fight back, embodying both unstoppable power and overwhelming fear.\n\n\"Terror Raptor was the symbol of that era.\"",
+            "card_quote": "— As written in \"The Battle of the Old Capital: Truth and Memories\"",
+            "skill_text": "In combat, the Miasmic Terror Raptor suppresses enemies with various ranged weapons, while its six stealth drones provide additional firepower at staggered intervals.\nWhen it fires special Miasma shells, you can use Defensive Assist to counter and reflect them, temporarily paralyzing the Miasmic Terror Raptor. At specific points in battle, it also activates the Miasmic Field, shifting to primarily melee attacks while its six drones blink and execute strike patterns at regular intervals. Beware: many of the Terror Raptor's abilities and drone attacks inflict potent Miasma Corruption."
+        },
+        "30039": {
+            "monster_id": 30039,
+            "monster_name": "Haytor",
+            "card_text": "A gaunt and eerie skeleton, bearing a pale, sharp \"Cape\"—another masterpiece from the Exaltists. When it comes to \"100 Ways to Integrate Humans into Hollows,\" their experimental enthusiasm is truly unmatched.\nThose who've encountered Haytor believe these folks must be high-ranking Exaltist members; after all, even as Ethereals, they still couldn't resist creating some lackeys to boss around.\n\n\"I absolutely hate people like that!\"\n\n\"I bet they even say to their phantoms... 'I'm rather disappointed in you, as you could have done better; when I summoned you, I actually had higher expectations'?!\"",
+            "card_quote": "—On a typical late-night overtime shift, an enraged HSO officer violently bangs on Haytor's frame while shouting",
+            "skill_text": "In combat, Haytor uses Phantoms to deceive opponents and launch surprise attacks; after entering Miasmic Field, Haytor can summon even larger Phantoms to attack alongside him. During this time, successfully parrying the large Phantoms' attacks will weaken the Miasmic Shield."
+        },
+        "30041": {
+            "monster_id": 30041,
+            "monster_name": "Wandering Hunter",
+            "card_text": "A Corrupted with rich combat experience, equally skilled in offense and defense, moving with agility. It excels at lurking in hidden spots, launching the most efficient attacks targeting weak points.\n\nI should have recorded more - its behavioral patterns, the haunting song that follows it like a shadow, things like that... But let's leave it at that, just like the half-finished portrait in Lucia's book.\n\n\"One little star, up high. Two little stars, float by. Three little stars, it's time to go and hide.\"",
+            "card_quote": "—The investigators, \"tormented\" by the simulation data of the Wandering Hunter, found themselves unconsciously humming nursery rhymes while doing household chores",
+            "skill_text": "In combat, the Wandering Hunter possesses extremely high DEF. Some of its ranged skills can generate Miasma Pool on the ground, while most skills can trigger Miasma Pool to create Stray Blades for disruptive shots. Additionally, when the Wandering Hunter activates Miasmic Field, it conceals itself and charges strength. When players use Perception Technique to break through Drowned Ideal - Lucia, the Wandering Hunter will reveal itself and launch an ambush. A successful Defensive Assist can interrupt its action, causing Impaired status and reducing its Miasmic Shield. If you fail to correctly identify Drowned Ideal: Lucia, or after a period of time, the Wandering Hunter will unleash a powerful skill that ignores the Invulnerable effect to deal DMG, maxing out the team's Miasma Contamination value."
         },
         "100211": {
             "monster_id": 100211,
@@ -808,6 +1032,41 @@
             "card_text": "Vicious Striker <color=#FFAF2C>has high HP</color>. Focus your fire on them.",
             "card_quote": null,
             "skill_text": "HP: High\nATK: Medium\nMovement Speed: Slow\nThreat Level: <color=#FFAF2C>Medium</color>"
+        },
+        "930167": {
+            "monster_id": 930167,
+            "monster_name": "Flame Cantor",
+            "card_text": "A high-ranking priest of the Exaltists who holds the position of \"Flame Cantor,\" and who has the power to manipulate Miasma. This defiling force drains life, while the flames light the path ahead.\n\nWhile all Exaltist fanatics tend to either shout or chant vague slogans like \"Refinement\" and \"Creator\" when attacking you, few can make known the experience of true \"Refinement\" using Miasmic fire like this one does.\n\n\"They just charge at you, screaming things like 'Refinement,' 'Creator,' 'Purification' and whatnot!\"",
+            "card_quote": "— Member of the Hollow Investigative Association's Anti-Hollow Fanatic Task Force",
+            "skill_text": "In combat, the Flame Cantor's skills possess the Miasma Corruption ability, and will use sweeping skills to generate Miasma Pools on the ground. Additionally, the Flame Cantor can summon Huskrons from the Miasma Pools and command them to perform charging attacks."
+        },
+        "930174": {
+            "monster_id": 930174,
+            "monster_name": "Exalting Hymnist",
+            "card_text": "An unsettling chant often echoed through the Hollow. The veteran miners strictly forbade anyone from approaching its source, but newcomer Johnny brushed off their warnings. Spurred on by a foolish bet, he crept step by step toward the source of the sound. Finally, he reached a clearing. There, a group of people wearing identical uniforms and eerie masks stood in a circle, performing some mysterious ritual. All around them, a group of Ethereals slowly closed in. Johnny shouted warnings, hoping they would flee, but they remained deaf to his cries. Instead, the Ethereals, drawn by Johnny's voice, lunged at him...\n\n\"We will do all we can to enhance discipline amongst the miners. God keep Johnny's soul.\"",
+            "card_quote": "— Veteran miner Sally, interview with the New Metro Daily following Johnny's disappearance",
+            "skill_text": "In combat, when threatened, the Exalting Hymnist will trigger a powerful explosion that affects both friend and foe."
+        },
+        "940004": {
+            "monster_id": 940004,
+            "monster_name": "Flame Cantor",
+            "card_text": "The Flame Cantor is a highly dangerous enemy that specializes in <color=#D9A600>large AoE DMG</color>. Deploy <color=#D9A600>Miss Esme</color> strategically to protect everyone!",
+            "card_quote": null,
+            "skill_text": "HP: Super High\nATK: High\nDEF: High\nMovement Speed: Medium\nThreat Level: <color=#FF3333>Super High</color>"
+        },
+        "990167": {
+            "monster_id": 990167,
+            "monster_name": "Flame Dreamer",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "990174": {
+            "monster_id": 990174,
+            "monster_name": "Dreaming Hymnist",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         }
     },
     "Public Security": {
@@ -988,6 +1247,13 @@
             "card_quote": "—Comment on the Daydream page of the Planet of Disaster forum",
             "skill_text": "During combat, Assault Gunner switches between using laser cannons and frag grenades to perform continual long-range attacks."
         },
+        "200092": {
+            "monster_id": 200092,
+            "monster_name": "Specialized Assault Bomber",
+            "card_text": "A heavy infantry unit belonging to the New Eridu Defense Force.\nEquipped with \"Gray Rhino\" heavy combat armor paired with a complete arsenal enhanced using Ether technology, they can sustain high-intensity firepower for an extended period when ample ammunition is available. They serve as the assault core of a combat team and are often deployed as the front line in assault and clearance operations.\nAfter the fall of the old capital, many soldiers left the army and joined civilian factions. Since then, these elite gunners have emerged under various banners, including private armies of plutocrats, new security companies, and even roving gangs of bandits...\n\"I'm convinced those heavy gunners are secretly adorable little girls who somehow manage to hide all that ammo in the extra pockets of their combat suits. I mean, how else can you explain their endless stockpile of shells?\"",
+            "card_quote": "—Comment on the Daydream page of the Planet of Disaster forum",
+            "skill_text": "In combat, the Specialized Assault Bomber combines martial arts with various weapons to suppress enemies. Upon entering an overheated state, certain moves are enhanced by flames for even fiercer attacks. If enough damage is inflicted during this overheated state, their gear can be destroyed, weakening their abilities."
+        },
         "300021": {
             "monster_id": 300021,
             "monster_name": "Guardian MK II",
@@ -1025,6 +1291,55 @@
             "card_quote": "—The Cunning Hares desperately chasing after a Golden Bangboo deep within a Hollow",
             "skill_text": "During combat, Golden Bangboo will sometimes counterattack, too."
         },
+        "10032": {
+            "monster_id": 10032,
+            "monster_name": "Miasma Spawn",
+            "card_text": "These monsters, still vaguely humanoid after being injected with the Sacrifice serum, have their forms partially restrained by Porcelume — but the grotesque distortions on their bodies remain hard to look at.\nLab reports from the Hollow Investigative Association indicate that once the Porcelume is stripped from their bodies, these pitiful humanoids instantly lose control, rapidly deteriorating into more horrifying forms.\nDespite their seemingly sluggish movements, the Association strongly discourages any attempt to approach or \"rescue\" them, unless you're capable of taking them out in one blow before they go berserk.\n\n\"Look at those lumps bulging from their backs, like eternal baggage they can never shed... They're like some kind of evil backpackers, always ready to embark on another journey.\"",
+            "card_quote": "—Planet of Disaster Weekly, Special Contributor Kruz",
+            "skill_text": "During combat, the Miasma Spawn will summon dust around the player that will explode after some time. Getting out of the dust quickly is your best tactical move."
+        },
+        "19999": {
+            "monster_id": 19999,
+            "monster_name": "Random Enemy Card",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "20028": {
+            "monster_id": 20028,
+            "monster_name": "Security Enforcer",
+            "card_text": "This civilian-grade Tactical Security Unit, replicated by Typhoeus Security based on Public Security's Search Patrollers, has been modified in both firepower and technology to avoid potential technical reviews and copyright infringement claims.\n\nHowever, these modifications haven't diminished the combat capabilities of these security devices. Without budget constraints on manufacturing, Typhoeus Security used higher-grade but more expensive materials, significantly enhancing their usability and durability.\n\nThese devices became highly sought after by many commercial companies as soon as they hit the market.\n\n\"Hello, Security Enforcer at your service. Please select your desired patrol mode...\"\n\"Uh... you're saying it has over a hundred preset modes?!\"",
+            "card_quote": "—At the exhibition, an indecisive buyer finally couldn't help but let out a wail",
+            "skill_text": "In combat, Tactical Security Unit - Security Enforcer uses its shield to both significantly reduce DMG and Daze taken, and also counterattack."
+        },
+        "20029": {
+            "monster_id": 20029,
+            "monster_name": "Light Patroller",
+            "card_text": "A mass-produced security unit made by Typhoeus Security, put into use across many civilian sectors. With numerous advantages, including affordability, versatility, a revolutionary single-wheel dynamic balance system, and an integrated intelligent threat recognition core, they're suitable for security needs in various complex spaces.\n\n\"This Tactical Security Unit, having passed 47 rigorous tests, has been successfully deployed in core areas of 32 industrial parks. Client feedback shows an average 91% reduction in tresspassing rates. Trust us: you can use it for any security task you can imagine.\"",
+            "card_quote": "—Typhoeus Security's sales rep, talking up a storm",
+            "skill_text": "In combat, Tactical Security Unit - Light Patroller performs a dash attack using the chainsaws mounted on its arms."
+        },
+        "20030": {
+            "monster_id": 20030,
+            "monster_name": "Medium Patroller",
+            "card_text": "A mass-produced security unit manufactured by Typhoeus Security, modified from Public Security's support combat mechs. Compared to the support combat mechs, some combat capabilities have been reduced, mainly relying on its large shield to suppress low-threat groups like rioters, maintaining order and guiding crowds during large events and special occasions.\n\nAccording to reports, some units were purchased and modified by illegal operators to create the Illegal Support Unit \"Enraged Sweeper.\" Some even went as far as posting reviews on the company's official website saying \"This quality is worse than the scrapped support mechs I picked up in the Hollow!\" and giving the product a one-star rating.\n\n\"These illegal modifications have nothing to do with our security company and are private modifications by users. We will fight to the end against such negative reviews... I mean, illegal activities...\"",
+            "card_quote": "—Typhoeus Security Spokesperson",
+            "skill_text": "In combat, Tactical Security Unit - Medium Patroller uses its long arms to perform a spinning attack. Use Defensive Assist before it attacks to completely prevent it from executing the skill."
+        },
+        "29999": {
+            "monster_id": 29999,
+            "monster_name": "Random Enemy Card",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30003": {
+            "monster_id": 30003,
+            "monster_name": "Lockspring",
+            "card_text": "In the early days of Bangboo's creation, Lady Sunbringer had a grand vision: to create a highly intelligent Bangboo capable of independently judging and executing \"protection\" commands to help humanity against threats from the Hollows.\n\nAnd \"Lockspring,\" designated GU-0001, was the first creation of this great plan.\n\nHe was given the most advanced tactical modules, the most powerful fire systems, and... a pure heart programmed with the highest directive to \"protect humanity.\"\n\nHowever, during the hellish disaster of the old capital's fall, he witnessed for the first time the irredeemable darkness lurking in the souls of the humans he was meant to \"protect.\" He saw people betray and slaughter each other for survival, and watched as his trusted users forced him to point his gun at defenseless fellow humans.\n\nThe noble ideals etched in his core code clashed violently with the ugly reality before him in the most acute and cruel way.\n\nAt that moment, he finally understood that humanity's greatest enemy was never the monsters from outside—\n\nBut rather humanity's own endless desires and conflicts.\n\n\"Humans are truly adorable. Even though you keep making the same mistakes...\"\n\n\"But it's alright, I'll forgive you.\"\n\n\"And... I'll help fix everything with my own hands.\"",
+            "card_quote": "—Lockspring",
+            "skill_text": "In combat, Lockspring attacks the player with its weapon. Certain blows hit with such force that, despite a successful Defensive Assist, an Assist Follow-Up cannot activate, and Lockspring may respond with a taunt."
+        },
         "30004": {
             "monster_id": 30004,
             "monster_name": "Greta",
@@ -1060,19 +1375,75 @@
             "card_quote": "—Bringer's heartfelt scream",
             "skill_text": "In combat, Sacrifice - Bringer will transform into multiple weapons to perform a combination of close and ranged attacks, and will summon massive creatures from fissures to assist in his assault. After taking a certain amount of damage, he'll enter the second phase, during which he'll use more advanced attacks and continuously launch dense ranged barrages. Dealing sufficient damage while he charges up his Sacrificial Knife will interrupt charging and leave him exposed."
         },
-        "30025": {
-            "monster_id": 30025,
-            "monster_name": "Hitchspiker",
-            "card_text": "Ether is a greedy, insatiable parasite, a vicious creature that devours once-vibrant lives.\nThe Hitchspiker is an even more malicious incarnation of Ether — dwelling within the bodies of its cruel counterparts, it enables Tyrfing and Alpeca to satisfy the voracious appetites of the Hollows in an even more ferocious manner.\n\"Get away from my face!\"",
-            "card_quote": "—An Ethereal Ecologist, realizing that this is just a very jumpy bug",
-            "skill_text": "In combat, Hitchspiker will continue to roam, searching for any Tyrfing and Alpeca that can be parasitized."
-        },
         "30028": {
             "monster_id": 30028,
             "monster_name": "Security Operative",
             "card_text": "These Security Operatives may look like ordinary security personnel, but don't be fooled — they're packing a whole arsenal of secret skills. Their job isn't just to stand at the door and look intimidating. They're the ones who step in when the boss has had one too many drinks, or who handle petty troublemakers with a cool \"I've seen it all before\" expression. Their mission isn't to fight crime — it's to keep the boss from falling over, fix the elevator at the entrance, and, above all, stay under the radar. In their world, the most powerful weapon is \"looking like a total badass,\" and the best outcome is \"having nothing to do.\" After all, a great Security Operative is someone you don't even notice — until the problem's solved and people realize, \"Oh, they were here the whole time.\"\n\"If you can stand steady enough, no one's tougher than you.\"",
             "card_quote": "— Written by a veteran security guard on the front page of the Security Personnel Operations Manual",
             "skill_text": "In combat, Security Operatives use a variety of weapons to attack and coordinate with each other when necessary."
+        },
+        "30030": {
+            "monster_id": 30030,
+            "monster_name": "Abyssal Enforcer",
+            "card_text": "The leader of the phantom thieves syndicate \"Mockingbird\" is not only a master of disguise and deception, but also wields an unpredictable combat style that keeps foes on edge. His colossal scythe appears to exist solely for the purpose of harvesting the \"injustices\" of the world. The suitcase he carried with him was even more mysterious, concealing the clever tools and deadly weapons needed for his crimes, making every one of his actions filled with uncertainty and danger.",
+            "card_quote": null,
+            "skill_text": "In combat, the Abyssal Enforcer will actively evade enemies and activate Vital View, followed by a powerful rush attack. This skill can be countered with Perfect Dodge or Perfect Assist."
+        },
+        "30035": {
+            "monster_id": 30035,
+            "monster_name": "Sacrifice - Heretic Jester",
+            "card_text": "Its peculiar energy fluctuations reveal its identity — an Exaltist creation, the source of nightmares.\nA fearsome hunter, it creeps up on its prey without a sound — yet at times, it's like a restless child playing hide-and-seek, unable to hold back a mischievous giggle. Perhaps the Miasma that birthed it carries too many echoes of lost souls, making it erratic and indecisive.\n\"If play is a privilege of the intelligent, then what it imitates is nothing more than a broken, mindless parody — there's no applause, only bloodshed.\"",
+            "card_quote": "—An email sent to a psychiatrist by a lab investigator (now resigned) who was attacked",
+            "skill_text": "During combat, Sacrifice - Heretic Jester will rise into the air, unleashing Flying Blade Frenzy and activating a Miasmic Field. Using a Defensive Assist at the right moment during the skill can interrupt the Flying Blade Frenzy. Successfully interrupting it will cause the enemy to fall and enter a Weakened state for a period of time."
+        },
+        "30037": {
+            "monster_id": 30037,
+            "monster_name": "The Defector",
+            "card_text": "Protection, loyalty, honor — What stands between a soldier and the line of fire, between them and the Hollows, the reasons they trade away their fleeting lives, are nothing but these soft syllables.\nBut what if... what we try to protect isn't worth protecting? What if those we serve don't deserve our loyalty, and the ideals we honor aren't truly honorable? Then sacrifice becomes a cruel joke, an insult to those who fell believing in a lie.\nSo let these flames of vengeance consume me, and me alone.\n\"Turning back? Now's far too late for that.\"",
+            "card_quote": "—A sigh echoes from a reef, fading with the receding tide of Miasma",
+            "skill_text": "In combat, The Defector unleashes fierce attacks with blades and guns. After taking a certain amount of DMG, they activate Miasmic Field and unleash powerful, swift piercing attacks."
+        },
+        "30038": {
+            "monster_id": 30038,
+            "monster_name": "The Defiler",
+            "card_text": "The vengeful flames from beyond the river of the dead can never illuminate the path of those seeking revenge. The obsessed zealots who carved curses into sacred shrines now reaps the bitter fruit of their blasphemy.\n\nMiasma gathers beneath the towering spire as lost souls awaken from the Ether. In this ominous power steeped in filth and shadow, hatred takes form, coalescing into something tangible. Unbound by faith, untouched by justice, this profane force forges nothing but instruments of war, forged by vengeance and madness\n\nThe soil reeks with blood and sin, spreading ever onward... and finally reaches the end of this long, harrowing tale.\n\n\"If the ending cannot be perfect, then at least let it be written by my own hand.\"",
+            "card_quote": "—A whisper echoes through the rising waves of Miasma",
+            "skill_text": "In combat, The Defiler can unleash rapid and powerful attacks with their weapons. Successfully parrying the Miasmic Blades fired by The Defiler and the attacks from summoned Miasmic Troopers will expose their weakness. After taking a certain amount of DMG in battle, The Defiler will activate Miasmic Field and channel a Miasmic Tsunami to inflict Death Comes. Successfully breaking The Defiler's parts and impairing them during the channeling will generate Miasma barriers to block the Miasmic Tsunami."
+        },
+        "30040": {
+            "monster_id": 30040,
+            "monster_name": "Drowned Ideal - Komano Manato",
+            "card_text": "A phantom enemy that shouldn't exist and may never be encountered again, yet the pressure of its power feels all too real. While records of it will ultimately become part of the Association's simulation data, the young men and women who first ventured into the dream realm as its discoverers have a different understanding of its behavioral patterns.\n\n\"Is it just me, or does it look skinnier than Manato?\"",
+            "card_quote": "—A subjective assessment from an Agent who knows Manato well",
+            "skill_text": "In combat, the Drowned Ideal: Komano Manato will unleash fierce attacks against the player. Players must give it their all to parry his skills. When successfully performing a Defensive Assist against some of his skills, you can interrupt his attacks. If you manage to Defensive Assist his powerful skills, you can force him into a Weakened state."
+        },
+        "30042": {
+            "monster_id": 30042,
+            "monster_name": "Ye Shiyuan the Thrall",
+            "card_text": "Tainted miasma and a corrupt will pull the strings. The beast still retains its instinct to roam and prowl, yet the human form upon its back has lost all reason. Only a faint trace of sorrow remains. At times, he slashes through the dark fog with his blade; at others, he commands the beast's gaping jaws to rend the earth itself. His strikes are precise, devoid of the gentle humanity he once held — like a puppet pulled by the tattered remnants of a nightmare.\nOnly when a streak of red ribbon flashes across his senses does his sword arm falter for an instant — as though that lingering sorrow had, for a heartbeat, tightened around his corroded soul.\n\n\"As for the two, who is truly controlling whom... The \"person\" on its back is my real prisoner.\"\n\"Despair should be utilized to its fullest until the very end, shouldn't it?\"",
+            "card_quote": "—In the deepest reaches of the Hollow, \"Its\" will murmurs in scornful mockery.",
+            "skill_text": "During combat, The Thrall will summon Miasma Ravager - Sobek as an ally. Sobek cannot be Stunned and does not accumulate Anomaly Buildup. Each time Sobek is defeated, The Thrall will revive them and unleash an even more powerful combo move. If the player successfully defends the final hit of this combo move, Sobek will enter a Weakened state for a period of time."
+        },
+        "30044": {
+            "monster_id": 30044,
+            "monster_name": "Sacrifice - Covenant Guardian",
+            "card_text": "\"All who hear the sound shall behold the form of truth.\" —Even if that truth is nothing more than an illusion dredged from delirious murmurs.\nPerhaps it once had a name, a history, a self. For reasons unknown, it willingly stepped into a dark chamber one day, offering its ears, its eyes, even its mind to become a vessel existing solely to transmit a certain sound. It mistook the whispers of something within a Hollow for divine revelation, seeing itself as the voice through which \"It\" spoke directly to the mortal world. When its prey grows careless, that voice, eerily familiar, undeniably their own, rings within their mind, impossible to resist.\nYet in those brief pauses between its divine utterances, when the mind resists the murmurs and shatters the delusion, does it, in turn, feel a faint sting of human emotion?\nTo the very end, it pulsed with the remnants of an unspoken \"truth.\" No rage, no terror — just a solemn, almost sacred determination, until the last note faded into silence along with its lifeless shell.\n\n\"The 'Covenant Guardian'? It clings to that disgusting voice as if upholding divine law. Like some idiot convinced they'd found their way home, only to become a tombstone carved from sound.\" \"But really... what's the use in despising the vessel? If there's blame to be had, it belongs to whatever makes the sound.\"",
+            "card_quote": "—As told by a customer service agent who couldn't resist a good chat while on a work call.",
+            "skill_text": "In combat, Sacrifice - Covenant Guardian will use wings to launch follow-up attacks. When successfully performing a Defensive Assist against some of the Guardian's skills, you can interrupt its attacks. Additionally, the Covenant Guardian will concentrate its Energy to unleash ranged attacks, with some of these ranged skills creating a Miasma Pool on the ground. Homing projectiles summoned from the Miasma Pool will pursue you. Use the brief moment when the projectiles turn to trigger a Perfect Dodge and perform a Dodge Counter."
+        },
+        "40000": {
+            "monster_id": 40000,
+            "monster_name": "Primordial Nightmare - \"The Creator\"",
+            "card_text": "For humans struggling through the long dark night, life is an endless torture.\nGood and evil, love and hate, hope and despair... these eternally opposing concepts are like shackles wrapped around the soul, forcing humanity to tear at each other in endless cycles, never finding peace.\nYet before all concepts were born, before all oppositions formed, there existed a primordial \"One.\"\nThey are the beginning of all things and the end of all things. They hold no good or evil, for They are good and evil itself. They know no joy or sorrow, for They embody every emotion.\nThey will erase the boundaries between \"you\" and \"me,\" letting all independent consciousness flow back into the great stream of \"Unity.\"\nIn Their world, without individuals, there is no selfish desire. Without conflict, there is no suffering. Without choice, there can be no mistakes. All souls shall break free from their chains, returning to the primordial, absolutely equal, eternal peace.\nThey have no fixed form, for They are the form of all things. They have no fixed voice, for They are the resonance of the universe.\nThey are the storm, and also the calm. The end, and also rebirth.\n\"Abandon your futile struggles, lost children.\"\n\"Your suffering ends here.\"\n\"Return to Their embrace...\"",
+            "card_quote": "—Creation of the Creator",
+            "skill_text": "Primordial Nightmare can exit or enter a Miasmic Field freely. Even when not in a Miasmic Field, the Miasmic Shield continues to protect it from being Stunned. Only when the Miasmic Shield is broken can it be Stunned. When Primordial Nightmare recovers from being Stunned, the protection from the Miasmic Shield will be restored.\n\nIn combat, \"Primal Nightmare\" will use \"Control Skills\". Perfectly responding to each attack can grant an advantage in battle."
+        },
+        "100132": {
+            "monster_id": 100132,
+            "monster_name": "Light Patroller",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         },
         "100231": {
             "monster_id": 100231,
@@ -1123,12 +1494,54 @@
             "card_quote": "—The Chosen intelligent machine, Friday",
             "skill_text": "During combat, Friday creates an extremely large shockwave attack which is difficult to escape, but can be negated by Defensive Assist. If his legs get damaged, he can become Impaired, building up significant Daze in one shot."
         },
+        "300372": {
+            "monster_id": 300372,
+            "monster_name": "Miasmic - Doppelganger - The Defector",
+            "card_text": "A fallen creation, reforged in the depths of filth and gloom.\nEven among Ionized enemies known for their strange and uncanny qualities, Ionized Doppelgangers stand out as particularly exceptional.\nThese creatures cloak themselves in a special layer of active Ether ions, allowing them to precisely mimic the appearance of their targets — sometimes so accurately it's nearly impossible to tell the difference. From details to texture, they're masters at blurring the line between real and false.\nWhat makes them even more dangerous is their ability to replicate their targets' powerful combat techniques.\nNo one knows how they acquire such detailed intel of their targets. Some say they can read minds, pulling the perfect nightmare from their opponent's memory and taking that shape before launching their attack.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "In combat, this enemy uses identical skills to those of their target, launching fierce attacks with blades and guns. After taking a certain amount of DMG, it activates a Miasmic Field and unleashes powerful, swift piercing attacks."
+        },
+        "300402": {
+            "monster_id": 300402,
+            "monster_name": "Miasmic Komano Manato",
+            "card_text": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "In combat, Miasmic Doppelganger - Komano Manato will unleash fierce attacks against the player. Players must give it their all to parry his skills. When successfully performing a Defensive Assist against some of his skills, you can interrupt his attacks. If you manage to Defensive Assist his powerful skills, you can force him into a Weakened state. After taking a certain amount of DMG in battle, he will activate Miasmic Field and unleash powerful attacks."
+        },
         "930151": {
             "monster_id": 930151,
             "monster_name": "Golden Bangboo",
             "card_text": "The Golden Bangboo <color=#D9A600>has very high Movement Speed and HP</color> but does not attack your Bangboo. Defeat one, and <color=#D9A600>something good might happen</color>.",
             "card_quote": null,
             "skill_text": "HP: High\nATK: Medium\nMovement Speed: Fast\nThreat Level: <color=#FF3333>High</color>"
+        },
+        "930170": {
+            "monster_id": 930170,
+            "monster_name": "Mecha Golden Bangboo",
+            "card_text": "According to urban legends among Hollow Raiders, Golden Bangboo keep collecting Dennies and Gear Coins in the Hollow for one purpose: extracting the metals needed to crowdfund the construction of the Golden Mecha. (Of course, this \"gold\" is actually a chrome-copper alloy — only this could provide enough strength to support such a magnificent frame.)\nWhen the Golden Mecha is completed, the Bangboo with the highest contribution will enter the cockpit surrounded by fellow Bangboo, transforming into the Golden Mecha Mechboo to crush enemies who dare attack Golden Bangboo with flashy and powerful combat techniques.\n\"Gold Rush,\" \"Molten Gold Beam,\" \"Golden Missile\"...\nThe skill names might sound weird, but the Bangboo think they're super cool!\n\"Look! It's the Golden Mecha Mechboo!\" \"D—Don't be scared! If we take that thing down, we'll be rich!\"...\nEven though evil Hollow Raiders often treat it like a walking vault, the Bangboo still think it's absolutely awesome!",
+            "card_quote": "— \"En-neh, en-nahn-ne-nah-nah!\"\n\"The god amongst Golden Bangboos stands tall!\"",
+            "skill_text": "Mecha Golden Bangboo with the newest Golden Armor system equipped. Upon activation of Golden Armor, it obtains maximum Shield, during which Ether RES is greatly increased and Electric RES is greatly decreased. The Mecha Golden Bangboo has an advanced air jet system that allows it to dodge and fly while attacking. However, flight can only last for a limited time."
+        },
+        "930175": {
+            "monster_id": 930175,
+            "monster_name": "Miasmic - Jane",
+            "card_text": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "During combat, this enemy will activate a Miasmic Field at specific moments, blocking and countering attacks when necessary, but typically leaves an opening after finishing their combo."
+        },
+        "930176": {
+            "monster_id": 930176,
+            "monster_name": "Miasmic - Abyssal Enforcer",
+            "card_text": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "In combat, this enemy will actively evade at specific moments and activate Vital View and Miasmic Field, followed by a powerful rush attack. This skill can be countered with a Perfect Dodge or Perfect Assist."
+        },
+        "930177": {
+            "monster_id": 930177,
+            "monster_name": "Miasmic - Doppelganger",
+            "card_text": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+            "card_quote": "— Inter-Knot forum complaint from a Hollow Raider",
+            "skill_text": "In combat, this enemy will use skills identical to those of its mimicked target, and due to Miasma Corruption, it will also activate Miasmic Fields at specific opportunities."
         }
     }
 }

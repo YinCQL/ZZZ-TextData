@@ -133,6 +133,13 @@
             "card_quote": "– Dossier d'inspection de la Néantre Zéro KU241. Enregistrement vocal de la toute première observation de Frelons",
             "skill_text": "En combat, les Frelons aident Ninive en interrompant les attaques de ses ennemis."
         },
+        "20032": {
+            "monster_id": 20032,
+            "monster_name": "Pugnus (Ionisé)",
+            "card_text": "Tous les êtres Ionisés des Néantres ne préfèrent pas se cacher, et Pugnus affiche sa menace sur chacune de ses pointes acérées. Vêtu d'une armure, son dos et sa queue sont hérissés d'épines tranchantes, tandis que ses pinces massives lui servent non seulement d'armes, mais aussi de tambours de guerre qui martèlent le sol pour marquer son territoire. Pugnus a tendance à accumuler sa puissance dans l'ombre, mais peut bondir d'un coup, abattant tout son poids sur sa proie avec ses deux pinces écrasantes. Ses ondes de choc sont suffisamment puissantes pour déséquilibrer les combattants inexpérimentés et les débris qui volent dans tous les sens bloquent souvent toute voie de fuite. Le rythme de ses attaques fait penser qu'il se fie aux vibrations du sol pour traquer sa proie avant de se jeter sur elle dans une attaque brusque et explosive pour mettre fin au combat. Il est intéressant de noter que certains écumeurs de Néantres qui ont passé des années à affronter Pugnus ont développé une technique unique appelée « À pas de velours dans la Néantre ». « Avant, ses vibrations me déséquilibraient, mais j'ai appris à marcher sur la pointe des pieds et à me déplacer rapidement... Désormais, je remporte même des courses d'échasses lors de festivals. »",
+            "card_quote": "- Issu des « Récits des pièges de la Néantre » écrits par un successeur autoproclamé de « À pas de velours dans la Néantre ».",
+            "skill_text": "En combat, Ionisé - Pugnus a tendance à enchaîner des coups de marteau continus à l'aide de ses bras puissants en combinant ses attaques avec les pointes de sa tête et de sa queue. Lorsque Ionisé - Pugnus frappe le sol, il crée également une attaque dans une vaste zone."
+        },
         "30000": {
             "monster_id": 30000,
             "monster_name": "Dullahan",
@@ -175,6 +182,13 @@
             "card_quote": "- « Entretien au sujet des Néantres » numéro 251, un entretien avec un inspecteur des Néantres ayant survécu.",
             "skill_text": "En combat, les Marionnettes jumelles assènent de nombreuses attaques d'enchaînement. Certains de leurs mouvements de danse peuvent être interrompus par des soutiens défensifs. Les jumelles tentent de se ranimer entre elles lorsqu'une d'entre elles tombe au combat."
         },
+        "30013": {
+            "monster_id": 30013,
+            "monster_name": "Marcheur miasmatique - Scorpion",
+            "card_text": "Dans un royaume désolé entièrement dévoré par la Néantre, il sommeillait... jusqu'à l'arrivée de « cette puissance ».\n\nCette force agressive et contaminante, tel un artisan habile mais malveillant, l'a rempli d'une énergie sombre plus pure, le transformant en l'actuel « Scorpion miasmatique ».\n\nPeu à peu, il semblait avoir saisi le secret de « l'existence » par mimétisme. Il pouvait scinder son énergie miasmatique, créant de multiples Mimiques impossibles à distinguer de l'original.\n\nCes Mimiques possèdent des capacités offensives presque identiques à l'original, lançant des attaques éblouissantes sous différents angles pour dissimuler l'unique « vérité » mortelle.\n\nEn cas d'encerclement, n'oubliez pas que tout ce que vous voyez n'est qu'illusion. Tout ce que vous ressentez n'est qu'un piège.\n\n« Ce n'est qu'en filtrant toutes les distractions et en percevant l'unique \"vérité\" que vous pourrez trouver une lueur d'espoir dans cette danse mortelle de fantômes. »",
+            "card_quote": "— Un explorateur courageux",
+            "skill_text": "En combat, le Marcheur miasmatique - Scorpion miasmatique se cache et utilise des Mimiques pour attaquer. En déclenchant un soutien défensif ou un contre d'esquive contre un Mimique, le Marcheur miasmatique - Scorpion miasmatique tombe à terre et vacille pendant un bref instant. Lorsqu'il entre dans un champ miasmatique, il invoque davantage de Mimiques aux attaques coordonnées. Il crache également du venin chargé d'œufs d'Araignées explosives miasmatiques qui provoquent des explosions multiples."
+        },
         "30017": {
             "monster_id": 30017,
             "monster_name": "Cyrtoïde (Ionisé)",
@@ -203,12 +217,40 @@
             "card_quote": "— Confession bruyante d'un écumeur de Néantres capturé",
             "skill_text": "En combat, le Thrace exécute ses compétences à répétition pour entrer dans un état de charge. Dans cet état, ses attaques deviennent plus agressives, et après avoir exécuté des techniques de haut niveau, il déclenche une explosion dans une vaste zone."
         },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Spinozoaire épineux",
+            "card_text": "L'éther est un parasite avare et insatiable, une créature vicieuse qui se repaît sur la vitalité de son hôte.\nLe Spinozoaire épineux, incarnation éthérique malveillante, se loge dans le corps de ses congénères cruels et permet aux Tyrfings et Alpecas de satisfaire l'appétit vorace des Néantres avec encore plus d'avidité.\n« Ah, ne m'approche pas, saleté ! »",
+            "card_quote": "— Un écologue spécialiste des Éthéréens, qui se rend compte qu'il s'agit simplement d'un insecte sautillant.",
+            "skill_text": "En combat, le Spinozoaire épineux erre sur le champ de bataille à la recherche d'un Tyrfing ou d'un Alpeca à parasiter."
+        },
         "30029": {
             "monster_id": 30029,
             "monster_name": "Doppelganger (Ionisé)",
             "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
             "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
-            "skill_text": null
+            "skill_text": "Pendant le combat, cet ennemi peut copier les mouvements de celui qu'il imite."
+        },
+        "30031": {
+            "monster_id": 30031,
+            "monster_name": "Paliques",
+            "card_text": "Des Éthéréens qui sont toujours vus par paires, sont reconnaissables par leurs physiques particuliers. Un lien profond existe entre eux deux.\n\n« Ouah, c'était moins une ! Ne focalise pas que sur un. Tu dois aussi faire attention aux attaques sournoises de ces demoiselles ! »\n« Attends, des « demoiselles » ? Tu es dans la Néantre depuis si longtemps que tu trouves les Éthéréens séduisantes ? »\n« Mon pote, je connais les Éthéréens et je connais les demoiselles. Je te jure, les Paliques sont assurément des « demoiselles ». »\n« T'hallucines ! »\n« Et ces longs cheveux ? Ces jambes ? Tout comme ces « usines à mannequins », ma sœur m'a appris ce terme. »\n« Comment va ta sœur en ce moment ? »\n« Elle va mieux. Mais pour les factures médicales du mois prochain... Je dois récupérer du fric de ces jolies Éthéréennes. »\n« Pas facile d'être le grand frère, hein ? Je te propose un truc, je vais occuper les Paliques et tu me donnes le numéro de ta sœur. »\n« Haha. Comme si j'allais vraiment te filer son numéro ! »",
+            "card_quote": "— Les dernières paroles de deux jeunes écumeurs de Néantres",
+            "skill_text": "En combat, les Paliques se battent en combinant des attaques à courte et longue portée. Lorsque l'une d'elles meurt, l'autre entre dans un état de Frénésie, ce qui augmente la vitesse et la férocité de ses attaques."
+        },
+        "30032": {
+            "monster_id": 30032,
+            "monster_name": "Geppetto",
+            "card_text": "Parmi les entités symbiotiques les plus redoutables de la Néantre Zéro, Geppetto, par sa posture particulière, laisse souvent une première impression troublante.\nSa forme imposante et terrifiante renferme une violente énergie éthérique, mais il se déplace avec la grâce troublante d'une marionnette, effectuant souvent d'étranges mouvements imprévisibles. En l'absence de données d'observation suffisantes, une rencontre avec Geppetto dans la Néantre Zéro est généralement synonyme d'effroi et de mort inéluctable pour tout inspecteur.\nCertains chercheurs s'appuyant sur les archives des Essaims d'Éthéréens commensaux pensent que cette horrible enveloppe extérieure n'est qu'une façade et qu'un puissant noyau éthérique volatile règne en maître à l'intérieur.\nMalheureusement, aucun rapport d'enquête concernant ce mystérieux noyau n'a encore été mis à jour.\n« Je n'ai jamais rencontré la Faucheuse, mais j'ai déjà vu à quoi ressemblait sa marionnette. »",
+            "card_quote": "— Reportage spécial de 2 Retour, entretien avec un inspecteur d'élite de Néantre Zéro",
+            "skill_text": "En combat, Geppetto assène des attaques de zone importante en utilisant à la fois son corps et son énergie éthérique. Ses mains et sa queue seront détruites après avoir subi suffisamment de dégâts, le laissant immobile. Geppetto réparera ces parties détruites en invoquant des ennemis éthériques ou en déployant son Rideau des ombres. De plus, le Rideau des ombres de Geppetto inflige un état Suspendu à ses ennemis quand il les touche afin de réduire leur vitesse de déplacement et les empêcher d'utiliser leurs compétences."
+        },
+        "30033": {
+            "monster_id": 30033,
+            "monster_name": "Prêtre miasmatique",
+            "card_text": "Pour la Nouvelle-Eridu, la Néantre n'est que désespoir. Lorsqu'elle s'étend, la peur, la mort, la souffrance... toutes les formes de désespoir dévorent l'esprit des habitants, altérant le destin d'innombrables âmes.\nLes présages funestes ont commencé dans l'ombre de la Néantre, mais certains y ont entendu un étrange appel, apercevant une lueur... d'espoir et de rédemption au milieu des ténèbres.\nDepuis, ils répondent à cet appel secret pour former une organisation clandestine. Les Prêtres miasmatiques se sont tapis dans l'ombre d'Eridu pour répandre la bonne parole à ceux qui s'étaient égarés.\nLes Prêtres miasmatiques ne considèrent pas l'expansion de la Néantre comme une catastrophe naturelle. Génération après génération, ces prêtres ont poursuivi leur quête de vérité, cherchant à la dévoiler coûte que coûte... dans l'espoir de faire de la volonté qui se cache au fond de la Néantre une réalité.\nCependant, leur poursuite demande des sacrifices, et quelques désagréments sont inévitables. Mais même la persécution par les Chasseurs du néant et les grandes organisations ne sont que de maigres embûches sur le chemin de la vérité.\nAprès de longs efforts et une préparation minutieuse, les Prêtres miasmatiques ont enfin réussi à invoquer la volonté de la Néantre, lui permettant de s'abattre sur le monde dans une forme proche de la perfection. Le miasme qui se répand et recouvre les Prêtres miasmatiques, cette substance corruptrice intouchable pour les autres, s'est changé pour eux en armes et armures éblouissantes.\nTout ceci sert de preuve irréfutable de la bénédiction qui leur a été accordée.\n« Sa volonté s'abattra enfin sur ce monde.\nCe que vous devez faire est simple...\nÉcoutez, obéissez, et... acceptez Sa bénédiction ! »",
+            "card_quote": "— Un Prêtre miasmatique en plein rituel",
+            "skill_text": "Pendant le combat, le Prêtre miasmatique alterne entre différentes phases qui comportent chacune des compétences spéciales. Lorsque les agents déclenchent un soutien parfait contre certaines compétences du Prêtre miasmatique, ils ne consomment pas de points de soutien. De plus, après plusieurs soutiens défensifs dans un court laps de temps, le Prêtre miasmatique entre dans un état de Vacillement spécial, pendant lequel les DGT que lui infligent les agents sont augmentés."
         },
         "35001": {
             "monster_id": 35001,
@@ -334,7 +376,7 @@
             "monster_name": "Hati (Infâme)",
             "card_text": "L'équipe d'inspection Phase-I de l'AIN a enfin documenté l'existence de cet individu d'éther sentient, aux allures de bête quadrupède et extrêmement dangereuse.\nSelon les rumeurs, elle aurait été aperçue pour la première fois dans son terrier à l'intérieur d'une Néantre, où les explorateurs qui inspectaient des déchets à proximité auraient entendu des rugissements déchirants rappelant des hurlements de bêtes sauvages.\n« Si on lance un ballon ou un bâton, tu crois que le monstre ira le chercher ?\n– Tu peux essayer, mais ce n'est pas moi qui paierai ta facture d'hôpital. »",
             "card_quote": "– Une conversation entre Billy et Nicole",
-            "skill_text": "Info sur les compétences du monstre - Espace réservé"
+            "skill_text": "En combat, le Hati utilise des bonds agiles et ses griffes rapides pour attaquer."
         },
         "200015": {
             "monster_id": 200015,
@@ -460,7 +502,7 @@
             "monster_name": "Infâme – Boucher de l'Impasse",
             "card_text": "Contrairement aux autres Éthéréens, l'éther à l'intérieur du corps du Boucher de l'Impasse reste souvent dans un état dormant.\nIl fait, néanmoins, preuve d'une force brute extraordinaire qui lui permet de détruire n'importe quel obstacle et de faire de l'ancien métro en ruines et distordu son garde-manger personnel.\nCe n'est que lorsqu'il affronte un adversaire à sa taille, qui pique sa curiosité, qu'il entreprend une métamorphose épouvantable...\nEn quelques instants, l'éther extrêmement concentré dans son organisme subit une violente transformation qui génère d'immenses quantités d'énergie qui force ses membres à se déformer rapidement. Cette forme, plus brutale encore que la précédente, est celle qu'il prend pour se nourrir.\nFini les amuse-gueules, il est temps que le festin commence !\nAinsi, quiconque souhaiterait éviter d'être au menu, devrait bien planifier son itinéraire et éviter à tout prix de se retrouver dans son garde-manger.\n« Les chemins des Néantres sont sinueux. Mais une chose est sûre, lorsqu'il apparaît au bout de la route, vous pouvez être sûr d'être dans une \"impasse\". »",
             "card_quote": "– La 17e enquête de l'Association d'inspection des Néantres au sujet de la Néantre de l'Impasse",
-            "skill_text": "En combat, le Boucher de l'Impasse - Infâme peut utiliser l'énergie éthérique pour lancer une variété d'attaques à distance et altérer l'espace pour créer des objets mimétiques."
+            "skill_text": "En combat, l'infâme Boucher de l'Impasse peut aisément utiliser de l'énergie éthérique pour déclencher diverses attaques à distance et entrer en état de « Renforcement éthérique » pour amplifier ses ATQ; l'étourdir annulera son état de « Renforcement éthérique »."
         },
         "300121": {
             "monster_id": 300121,
@@ -468,6 +510,27 @@
             "card_text": "Il y a des dizaines d'années, deux sœurs ballerines sont devenues célèbres du jour au lendemain. Aussi brillantes que des étoiles filantes, elles firent affluer des masses d'admirateurs qui se précipitèrent pour assister à leur représentation aux Jumelles Ballet, qui étaient alors à leur apogée.\nCependant, alors que leur spectacle touchait à sa fin, une Néantre apparut et engloutit les Jumelles Ballet, plongeant ainsi les sœurs dans l'obscurité pour l'éternité. Leurs fans dans le monde entier furent dévastés par la nouvelle qui se répandit.\nAujourd'hui, on ne peut apercevoir que des fragments de leurs pas de danse enjoués sur des vidéos et images éparpillées.\nSeuls certains savent que lorsque la musique dansante retentit dans les Jumelles Ballet, les silhouettes éthérées des Marionnettes jumelles sortent de l'ombre. On suppose que ces silhouettes sont liées aux Jumelles ballerines, disparues lors de cette représentation fatidique, qui cherchent à montrer au monde le grand final qu'elles n'ont jamais pu finir.\n« Lorsque l'air sinistre s'est achevé, les deux Marionnettes ont surgi des ténèbres et ont fait une révérence... »\n« Hein ? Donc... elles essayent de nous dire que le spectacle commence ? »\n« Non, je pense qu'elles essayent de nous dire... que c'est trop tard pour fuir. C'est fini. »",
             "card_quote": "- « Entretien au sujet des Néantres » numéro 251, un entretien avec un inspecteur des Néantres ayant survécu.",
             "skill_text": "En combat, Marionnette (Infâme) invoque sa partenaire de danse pour attaquer. À chaque fois que sa partenaire de danse est vaincue, le prochain étourdissement qu'elle subira sera prolongé."
+        },
+        "300301": {
+            "monster_id": 300301,
+            "monster_name": "Doppelganger - Exécuteur abyssal",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Plainte d'un écumeur de Néantres trouvée sur un forum d'Inter-nœud.",
+            "skill_text": "En combat, le Doppelganger esquivera activement ses ennemis et activera l'Œil de lynx, suivi d'une puissante impulsion. Cette compétence peut être contrée par une esquive parfaite ou un soutien parfait."
+        },
+        "300371": {
+            "monster_id": 300371,
+            "monster_name": "Doppelganger - Le Déserteur",
+            "card_text": "Une création déchue, reforgée dans les profondeurs de la souillure et des ténèbres.\nMême parmi les ennemis ionisés connus pour leurs qualités étranges et mystérieuses, les Doppelgangers ionisés se démarquent comme particulièrement exceptionnels.\nCes créatures se drapent d'une couche spéciale d'ions d'éther actifs, ce qui leur permet d'imiter avec précision l'apparence de leurs cibles, parfois si fidèlement qu'il est presque impossible de faire la différence. Des détails à la texture, ce sont des maîtres dans l'art de brouiller la frontière entre le réel et le faux.\nCe qui les rend encore plus dangereux, c'est leur capacité à reproduire les puissantes techniques de combat de leurs cibles.\nPersonne ne sait comment ils obtiennent des renseignements aussi détaillés sur leurs cibles. D'après certains, ils peuvent lire dans les pensées, puisant dans le cauchemar parfait situé dans la mémoire de leur adversaire et prenant cette forme avant de lancer leur attaque.\n« Balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant une sandale ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "Au combat, cet ennemi utilise des compétences identiques à celles de sa cible, lançant de féroces attaques avec des lames et des armes à feu."
+        },
+        "300401": {
+            "monster_id": 300401,
+            "monster_name": "Doppelganger - Komano Manato",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\n\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\n\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\n\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, le Doppelganger ionisé - Komano Manato lance des attaques féroces contre vous. Vous devez donner tout ce que vous avez pour parer ses compétences. En réussissant un soutien défensif contre une de ses compétences, vous pouvez interrompre son attaque. Si vous parvenez à faire un soutien défensif sur une de ses puissantes compétences, vous pouvez le mettre en état Affaibli."
         },
         "930146": {
             "monster_id": 930146,
@@ -537,7 +600,7 @@
             "monster_name": "Alrune",
             "card_text": "Un ennemi très dangereux capable de lancer des <color=#D9A600>attaques à distance</color>. Lorsqu'il est bloqué, il dégage un brouillard empoisonné, qui <color=#D9A600>inflige des DGT à tous les Bangbous à proximité</color>. Déployez un <color=#D9A600>Bangbou serviable</color> pour le contrer.",
             "card_quote": null,
-            "skill_text": "PV : Super élevés\nATQ : Moyenne\nDÉF : 33\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
+            "skill_text": "PV : Super élevés\nATQ : Moyenne\nDÉF : Moyenne\nVitesse de déplacement : Lente\nMenace : <color=#FF3333>Extrême</color>"
         },
         "930159": {
             "monster_id": 930159,
@@ -580,6 +643,62 @@
             "card_text": "L'Araignée explosive se déplace rapidement et explose à proximité des Bangbous, infligeant des DGT à <color=#D9A600>tous les Bangbous</color>. Déployez un <color=#D9A600>Papierbou</color>, qui possède également beaucoup de PV, pour s'en occuper.",
             "card_quote": null,
             "skill_text": "PV : Faibles\nATQ : Faible\nVitesse de déplacement : Rapide\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930166": {
+            "monster_id": 930166,
+            "monster_name": "Tepes",
+            "card_text": "La longue emprise que cette jeune fille en mal d'amour paternel a subie l'a poussée à mentir pour profiter de victimes en deuil ayant perdu leurs proches aux Néantres, tout cela pour mériter l'amour de sa seule famille.\nElle croyait que tant qu'elle aiderait son père à dissimuler la vérité cachée derrière la « Bénédiction », que tant qu'elle n'entendrait pas les cris des victimes agonisantes succombant à la corruption, que tant que cette expérience malsaine et terrible resterait secrète, l'amour que lui vouait sa famille serait inébranlable.\nToutefois, c'est cette mascarade qui l'amena au jour où elle vit son père rendre l'âme dans une mare de sang.\n\nAprès ce jour, elle fut sans cesse accablée par la haine et la jalousie, qui perçaient son cœur comme des épines pointues.\nLes rouages de la vengeance s'enclenchèrent et rongeaient nuit et jour chaque recoin de son esprit. Des lettres laissées par son père, elle rapiéça une vision du monde tordue et malsaine.\nDès lors, sa vie prit une trajectoire obsessionnelle qui la mènerait à sa perte.\n\nLorsque d'anciens compagnons lui tendirent la main pour la sauver, il était déjà trop tard pour faire marche arrière. Les mots qui tentaient de la ramener dans la lumière ne faisaient pas le poids face à la jalousie, l'obsession et la haine qui s'étaient insinuées au plus profond de son être.\nFinalement, au soleil couchant, d'innombrables pics jaillir de son corps, et chaque fragment d'os perça sa chair reproduisant le cri strident des condamnés.\nTepes, la malheureuse aux épines, erre emplie de haine dans les profondeurs de l'abîme.\n« Surtout la nuit, sa voix est encore plus triste que celle des autres créatures. Et si on écoute attentivement, on peut reconnaître la voix d'une femme. »",
+            "card_quote": "— Notes écrites par un chercheur de l'Institut de l'Étoile blanche après une écoute attentive de l'enregistrement.",
+            "skill_text": "Durant le combat, Tepes utilise fréquemment les marteaux à pointes dans ses deux mains pour lancer de puissantes attaques et infliger un effet de réduction des dégâts. Réussir plusieurs soutiens défensifs en bloquant les attaques des mains de Tepes brisera ses marteaux à pointes. Une fois les marteaux brisés, certains mouvements de Tepes révéleront des ouvertures importantes, l'effet de réduction des dégâts sera annulé, et Tepes souffrira d'une vulnérabilité accrue à la confusion."
+        },
+        "930168": {
+            "monster_id": 930168,
+            "monster_name": "Banyrek",
+            "card_text": "Dans les rapports de l'Association d'inspection des Néantres, Banyrek a été maintes fois signalé comme dangereux, principalement en raison de ses capacités de saut extraordinaires.\nSi on organisait des Jeux olympiques en Néantre réservés aux Éthéréens, il décrocherait l'or sans aucun effort aussi bien au saut en longueur qu'au saut en hauteur. Les données d'observation indiquent que Banyrek peut rebondir continuellement pendant des heures sans montrer le moindre signe de fatigue, comme si bondir dans les airs était aussi naturel que de marcher pour lui.\nPar plaisanterie, certains chercheurs prétendent que si on en lâchait un dans la Nouvelle-Eridu, il pourrait traverser la ville d'est en ouest en bondissant en moins d'une journée.\n\n« Et si on essayait de le dresser pour monter dessus ?\n— Laisse tomber, avec une telle énergie cinétique, ce serait plus rentable de l'utiliser pour produire de l'électricité. »",
+            "card_quote": "— Conversation entre écumeurs de Néantres en sueur après leur fuite de la Néantre à la suite d'une rencontre avec un Banyrek.",
+            "skill_text": "Pendant le combat, Banyrek utilise une compétence de crachat pour créer des flaques de miasme au sol, qu'il absorbe ensuite pour renforcer ses compétences. De plus, ses compétences possèdent de puissantes capacités de Corruption miasmatique, et lorsque certaines compétences touchent une flaque de miasme, elles déclenchent une explosion."
+        },
+        "930169": {
+            "monster_id": 930169,
+            "monster_name": "Ravageur miasmatique - Avarus",
+            "card_text": "Dans les rapports de l'Association d'inspection des Néantres, Avarus est souvent désigné avec humour comme l'incarnation du péché de gourmandise. Sa silhouette bedonnante lui donne l'air d'un véritable fainéant ventripotent, prêt à s'assoupir à tout moment.\nNe le sous-estimez pas pour autant : Les données d'observation indiquent qu'Avarus peut comprimer son corps en boule pour lancer sur ses cibles des frappes dévastatrices à une vitesse stupéfiante.\nQuant à savoir comment il maintient une telle corpulence malgré son intense activité physique, l'Association n'a pas encore trouvé d'explication.\n\n« Sa façon de rouler me rappelle toujours mon hamster, en un peu plus gros, quoi.\n— Juste un peu plus gros ? Vraiment ? »",
+            "card_quote": "— Journal d'observation d'un inspecteur de Néantres, extrait d'une discussion informelle entre deux observateurs",
+            "skill_text": "Durant le combat, le Ravageur miasmatique Avarus utilise son corps massif pour effectuer des attaques de roulade. Parer cette compétence 3 fois de suite à l'aide de soutiens défensifs permet d'interrompre son attaque de roulade et d'exposer son point faible. Après avoir subi une certaine quantité de DGT, il génère un champ miasmatique."
+        },
+        "930171": {
+            "monster_id": 930171,
+            "monster_name": "Crabe pêcheur",
+            "card_text": "Se nourrissant principalement d'inspecteurs novices, d'écumeurs de Néantres débutants et d'aventuriers néophytes avides et imprudents, le Crabe pêcheur est le chasseur le plus patient de la Néantre, et pêche les sots.\nAvant de vous précipiter vers ce « Conteneur de provisions en Néantre », n'oubliez jamais ça :\nNe devenez pas la risée du dîner entre collègues de ce soir, ou l'acte de décès diffusé en masse dans les boîtes mail demain matin.\n\n« Un métamorphe ? T'aurais pas un peu trop joué aux jeux de rôle sur table ? »",
+            "card_quote": "— Journal audio fourni par un inspecteur novice chargé de la récupération de provisions lors d'une demande d'indemnisation pour accident du travail.",
+            "skill_text": "Durant le combat, le Crabe pêcheur se déplace rapidement sur le côté et déchaîne de féroces attaques avec ses deux pinces, tout en se protégeant grâce à sa carapace robuste. Après avoir subi des attaques lourdes, le Crabe pêcheur entre en posture défensive. Si sa carapace est toujours intacte, il sort de cette posture après un moment pour lancer une contre-attaque dévastatrice. Cependant, s'il n'a plus de carapace pour le protéger et qu'il subit plusieurs coups, le Crabe pêcheur est mis en déroute et entre dans un état de paralysie."
+        },
+        "930172": {
+            "monster_id": 930172,
+            "monster_name": "Huskron",
+            "card_text": "Les deux formes du Huskron, dans et hors de sa coquille, donnent du fil à retordre aux inspecteurs, qu'ils soient novices ou vétérans. L'Association d'inspection des Néantres donne ce conseil : Surveillez toujours la substance miasmatique à vos pieds. Si vous repérez des objets sphériques ressemblant à des cailloux, attaquez immédiatement ! Pas d'hésitation ! Surtout n'hésitez pas !\nSelon des sources internes, le conseil ne comportait pas cette répétition à l'origine, jusqu'à ce que certains inspecteurs de Néantres, se croyant malins, tentent quand même de marcher à travers les Huskrons en les évitant. Autant essayer d'ouvrir discrètement le frigo en pleine nuit sans réveiller son chien.\n\n« Je préfère son apparence avant l'éclosion. Comme une petite bouboule qui roule.\n— C'est pour ça que tu ne l'as pas attaqué tout de suite ? »",
+            "card_quote": "— Conversation entre Anne et Bessa, deux inspectrices stagiaires qui viennent d'échapper à la mort de justesse dans le Néantre.",
+            "skill_text": "Au combat, Huskron se déplace avec prudence et adopte activement une posture défensive face aux attaques des agents, lançant de puissantes contre-attaques. Réussir un soutien défensif contre ces contre-attaques l'étourdit."
+        },
+        "930173": {
+            "monster_id": 930173,
+            "monster_name": "Arcavor",
+            "card_text": "La tête luminescente d'Arcavor, rappelant le corail, ne manque jamais d'attirer l'attention des écumeurs de Néantres novices. Nombreux sont ceux qui se retrouvés hagards, hypnotisés par son apparence, et ignorant que le danger ne faisait que commencer.\nProfitant de la moindre distraction, Arcavor lève gracieusement ses jambes élancées, adoptant une pose qui relève du miracle acrobatique. Les archives de l'Association d'inspection des Néantres la décrivent même comme évoquant une ballerine pirouettant sur la glace.\nCependant, l'avertissement de l'Association est on ne peut plus clair : dès que vous l'apercevez prendre cette pose, vous feriez mieux de partir en roulade, de sauter ou de reculer immédiatement, car elle s'apprête à porter un coup mortel.\n« Franchement, celle-là n'aurait-elle pas raté sa vocation ? Elle aurait pu faire carrière comme danseuse, acrobate, ou même patineuse artistique ! Mais non, il faut qu'elle traîne dans la Néantre pour s'en prendre aux honnêtes gens... »",
+            "card_quote": "— Publié sur le forum « Planète des catastrophes » par une écumeuse de Néantres qui a subi une « attaque artistiquement lourde ».",
+            "skill_text": "Pendant le combat, le Marcheur miasmatique Arcavor tire un barrage de projectiles à longue portée. Après avoir été mis à terre pour la première fois, il se relève s'il entre en contact avec des flaques de miasme."
+        },
+        "930178": {
+            "monster_id": 930178,
+            "monster_name": "Miasmatique - Thrace",
+            "card_text": "Une forme remodelée d'une création déchue dans des profondeurs obscures et impures.\n\nCet Éthéréen redoutable, dont le nom provient d'un peuple guerrier que l'on retrouve dans les légendes de l'ancienne civilisation, est réputé pour prendre forme chez les héros les plus vaillants et les esprits les plus malveillants lorsqu'ils se retrouvent corrompus par l'éther.\nMais dans les faits, ce n'est pas le cas. Bien que vos muscles saillants développés après des années d'exploration en Néantres et la bouffée d'adrénaline relâchée juste avant la mort puissent poser de gros problèmes à vos anciens coéquipiers une fois transformé, vous croyez vraiment que vos camarades vont se retenir contre les restes d'un vieil ami qu'ils ne peuvent plus sauver ?\nÇa n'a plus aucune importance. Lorsque votre joli minois se transforme en un orbe sombre et sinistre, qui se préoccupe encore de la réputation et de sociabiliser ?\n\n« Pas étonnant que ce soit lui le patron. Même après être devenu un Éthéréen il est toujours aussi fort !\n— Je savais bien que c'était pas une bonne chose qu'il aille tous les jours à la salle ! »",
+            "card_quote": "— Confession bruyante d'un membre d'un gang d'écumeurs de Néantres capturé.",
+            "skill_text": "En combat, cet ennemi génère des champs miasmatiques à des moments, assénant instantanément une puissante attaque de zone, tout en améliorant ses compétences pendant toute la durée de l'effet."
+        },
+        "940001": {
+            "monster_id": 940001,
+            "monster_name": "Huskron",
+            "card_text": "La <color=#D9A600>DÉF du Huskron augmente considérablement</color> lorsqu'il est bloqué. Éliminez-le avant que cela n'arrive !",
+            "card_quote": null,
+            "skill_text": "PV : Faibles\nATQ : Moyenne\nVitesse de déplacement : Rapide\nMenace : <color=#31CC00>Faible</color>"
         }
     },
     "Bandits": {
@@ -715,15 +834,92 @@
             "card_text": "Dans les milieux clandestins de la Nouvelle-Eridu, tout le monde s'accorde à dire que même les plus redoutables des combattants des cercles de combat n'arrivent pas à la cheville des Truands costauds ou des truands recherchés qui rôdent dans les Néantres. Ces voyous professionnels sont engagés à prix d'or par des voleurs de matière éthérique pour protéger leur butin mal acquis.\nGrands fans de boxe, les truands costauds ont incorporé des tasers à haute tension dans leurs gants de boxe, pour renforcer l'impact déjà destructeur de leurs coups.\nÀ leurs yeux, les Éthéréens, les écumeurs et inspecteurs de Néantres, voire même les agents de la Sécurité publique, ne sont pas des adversaires, mais plutôt des sacs de frappe sur lesquels ils peuvent se défouler.\n« Une seconde. Je crois que j'ai déjà vu la posture de combat de ce type dans la salle d'arcade de la Quatrième ! »",
             "card_quote": "– Billy s'occupant d'un truand en pleine charge dans une Néantre",
             "skill_text": "En combat, Délinquant – Truand recherché est extrêmement agressif, et utilise son jeu de jambes agile pour changer l'angle d'attaque."
+        },
+        "940002": {
+            "monster_id": 940002,
+            "monster_name": "Bûcheron",
+            "card_text": "Le Bûcheron est un ennemi extrêmement dangereux. En plus d'infliger des <color=#D9A600>DGT massifs sur une cible unique</color>, il inflige aussi des <color=#D9A600>DGT sur une grande zone</color> autour de lui. Gardez vos distances !",
+            "card_quote": null,
+            "skill_text": "PV : Super élevés\nATQ : Élevée\nDÉF : Élevée\nVitesse de déplacement : Moyenne\nMenace : <color=#FF3333>Extrême</color>"
+        },
+        "940003": {
+            "monster_id": 940003,
+            "monster_name": "Brute déchaînée",
+            "card_text": "La Brute déchaînée est un ennemi extrêmement dangereux. Il peut infliger des <color=#D9A600>DGT massifs</color> à ses cibles. Lorsque vous utilisez Papierbou pour le bloquer, assurez-vous de déployer stratégiquement Bangbou serviable pour garantir la sécurité de <color=#D9A600>Papierbou</color> !",
+            "card_quote": null,
+            "skill_text": "PV : Super élevés\nATQ : Super élevée\nDÉF : Élevée\nVitesse de déplacement : Moyenne\nMenace : <color=#FF3333>Extrême</color>"
         }
     },
     "Corrompus": {
+        "10017": {
+            "monster_id": 10017,
+            "monster_name": "Miasmatique - Araignée explosive",
+            "card_text": "Une création déchue, reforgée dans les profondeurs de la souillure et des ténèbres.\nL'Araignée explosive miasmatique arbore un rouge cramoisi, mais ne parvient toujours pas à se défaire de son étiquette de « menace mineure », car sa vitesse de déplacement et son rayon d'explosion demeurent inchangés...\nCependant, l'Association a émis des avertissements répétés, exhortant les inspecteurs de se méfier de la fumée de miasme libérée après son explosion. Une simple inhalation involontaire et un moment d'égarement suffisent pour qu'un inspecteur d'élite périsse dans les Néantres en perpétuel changement.\n« L'équipe rouge est prête ! Et voilà l'équipe verte qui s'approche... »",
+            "card_quote": "— Pendant qu'elle recueille des histoires de fantômes, Lucia fait s'affronter des Araignées explosives comme des insectes.",
+            "skill_text": "Une fois corrompue par le miasme, l'Araignée explosive miasmatique devient extrêmement instable, laissant derrière elle des résidus de miasme qui peuvent déclencher une nouvelle explosion après son autodestruction. Un soutien défensif bien synchronisé contre son bond peut retourner l'explosion en votre faveur."
+        },
         "10021": {
             "monster_id": 10021,
             "monster_name": "Drone Corbeau",
             "card_text": "Inconnu",
             "card_quote": "Aucun",
             "skill_text": "Infos sur les compétences du monstre - Espace réservé"
+        },
+        "10033": {
+            "monster_id": 10033,
+            "monster_name": "Bataillon miasmatique brisé - Porte-bouclier",
+            "card_text": "Un soldat Éthéréen façonné par le miasme, armé d'une lame de miasme massive et corruptrice, et protégé par un bouclier quasi impénétrable, couvre instinctivement les autres troupes du Bataillon miasmatique brisé pendant leur avancée.\n\nSa masse physique imposante et sa grande capacité défensive en font un adversaire redoutable dans les guerres de position, particulièrement en groupe, où il devient nettement plus difficile à affronter. L'Association d'inspection des Néantres conseille d'éliminer rapidement toute unité isolée dès qu'elle est repérée.\n\n« Un Éthéréen dont le rôle principal est de protéger les autres ? Ce n'est pas commun... »\n\n« Ne surestime pas les Éthéréens. N'oublie pas que ce qui se cache derrière ces créatures n'a jamais été humain ! »",
+            "card_quote": "— Deux inspecteurs de Néantres échangeant des informations en cachette.",
+            "skill_text": "En combat, Bataillon miasmatique brisé - Porte-bouclier utilise sont bouclier pour réduire considérablement les DGT et la confusion qu'il subit, mais également pour contre-attaquer."
+        },
+        "10034": {
+            "monster_id": 10034,
+            "monster_name": "Bataillon miasmatique brisé - Artilleur",
+            "card_text": "Un soldat Éthéréen, façonné par le miasme, porte un ancien uniforme en lambeaux et s'attarde dans la fumée du combat tel un fantôme d'une autre époque.\nLes données d'observation des Néantres montrent que les artilleurs peuvent frapper des cibles à proximité avec une précision impressionnante à l'aide de leur bazouka, un niveau de précision qui suggère un entraînement rigoureux, ce qui a suscité de nombreuses spéculations.\n« Ces unités Éthéréennes nouvellement découvertes et hautement organisées pourraient-elles avoir un lien avec les Forces de défense ? »\n« Veuillez m'excuser, il n'y aura commentaire jusqu'à ce que l'affaire soit entièrement examinée et confirmée. »",
+            "card_quote": "— Réponse officielle d'un porte-parole des Forces de défense.",
+            "skill_text": "Au combat, le Bataillon miasmatique brisé - Artilleur privilégie un soutien de puissance de feu à distance. De plus, certaines de ses compétences infligent une puissante Corruption miasmatique."
+        },
+        "20011": {
+            "monster_id": 20011,
+            "monster_name": "Miasmatique - Huskron",
+            "card_text": "Une création déchue, reforgée dans les profondeurs de la souillure et des ténèbres.\nPénétrer dans le domaine du béhémoth endormi, c'est se préparer à affronter le cauchemar cramoisi, car il ne se contente plus de parties de cache-cache.\nL'écumeur de Néantres téméraire tente de le provoquer, l'attirant pour exposer son noyau profondément enfoui. Pourtant, les chasseurs habiles se font souvent passer pour des proies, et baisser sa garde lorsque la faiblesse de l'ennemi est révélée constitue souvent une erreur fatale de débutant.\n« Ne me traitez pas d'idiote, ma tête était bien coincée dans ces pinces Éthéréennes... »",
+            "card_quote": "— Une apprentie inspectrice se faisant réprimander par son supérieur.",
+            "skill_text": "En combat, le Ravageur miasmatique - Huskron, corrompu par le miasme, arbore désormais une constitution renforcée et un schéma d'assaut plus redoutable. Utiliser un soutien défensif au bon moment permet de contrer son offensive brutale."
+        },
+        "20016": {
+            "monster_id": 20016,
+            "monster_name": "Miasmatique - Rover agile",
+            "card_text": "Autrefois un mécha de soutien standard, désormais maintenant corrompu par la Néantre. Ses algorithmes tactiques sont dans un chaos complet et identifient chaque forme de vie comme une cible à haute menace et tirent sans discernement.\nConçu pour privilégier l'attaque à la défense, il possède une mobilité exceptionnelle, qui fait de lui une cible difficile à toucher et à poursuivre.\nSi vous avez la malchance qu'il vous repère, espérez qu'une faille spatiale se trouve à proximité, sans elle, la fuite est quasi impossible.\n\n« Si je pouvais retourner au collège, je ne sécherais plus jamais les cours d'EPS. »",
+            "card_quote": "— Extrait du journal d'une écumeuse de Néantres tremblotante, écrit d'une main fébrile.",
+            "skill_text": "Au combat, Miasmatique – Rover agile invoque deux drones pour l'assister au combat. Si Miasmatique – Frappeur lourd est sur le terrain, Miasmatique - Rover agile effectue avec lui des attaques coordonnées. De plus, lorsque Miasmatique – Frappeur lourd est proche de la mort, Miasmatique – Rover agile bondit vers la cible grâce à une interférence coordonnée des signaux de combat, s'empare du noyau de données de combat du Miasmatique - Frappeur lourd, obtenant une partie de ses composants de bouclier et de ses capacités, déclenchant ainsi un petit champ miasmatique."
+        },
+        "20018": {
+            "monster_id": 20018,
+            "monster_name": "Miasmatique - Frappeur lourd",
+            "card_text": "Ce mécha tactique autonome, englouti par la Néantre, est devenu encore plus brutal suite à sa corruption, suffisamment puissant pour écraser les Gobelins sans effort.\nIl était autrefois un bouclier inébranlable protégeant les soldats contre les attaques dévastatrices, le compagnon le plus fiable des Forces de défense s'est maintenant transformé en une terrifiante machine à tuer.\n« Si vous en avez le courage, accordez à notre ami jadis fidèle une fin définitive afin de le libérer des péchés et de l'honneur brisé qu'il porte désormais. »",
+            "card_quote": "— Paroles d'un mécanicien de combat aux cheveux grisonnants au moment de sa retraite",
+            "skill_text": "En combat, lorsque le Miasmatique - Frappeur lourd déploie son bouclier, il active un petit champ miasmatique. Si le Miasmatique - Rover agile est sur le terrain, les deux effectuent des attaques coordonnées. De plus, lorsque le Miasmatique - Rover agile est proche de la mort, le Miasmatique - Frappeur lourd bondit vers la cible grâce à une interférence coordonnée des signaux de combat, s'empare du noyau de données de combat du Miasmatique -Rover agile, obtenant ainsi les drones et les capacités du Miasmatique - Rover agile, et commande les drones pour qu'ils combattent à ses côtés."
+        },
+        "20026": {
+            "monster_id": 20026,
+            "monster_name": "Miasmatique - Maniaque frénétique",
+            "card_text": "Une création déchue, remodelée dans les ténèbres et la souillure les plus profondes.\n\nDes âmes malchanceuses qui ont muté à cause de la corruption intense provoquée par la matière éthérique des Néantres. En raison de leur affinité éthérique élevée ainsi que leurs capacités physiques impressionnantes, leurs corps n'ont pas entièrement été transformés par l'éther. Leur forme humanoïde, renforcée par des membres mutants, n'en est que plus dangereuse.\n\nÀ en juger par ses loques et son aptitude au combat, il s'agissait probablement d'un haut gradé d'une bande criminelle ou d'un écumeur expérimenté qui rôdait dans les Néantres.\n\nProbablement en raison de leur affinité éthérique ou de leur physiologie supérieure, ces êtres corrompus ont développé une aptitude extraordinaire pour le combat rapproché, rendant ces créatures beaucoup plus dangereuses que la plupart des monstres que l'on croise habituellement dans les Néantres.\n\n« Ils ont des armes plutôt haut de gamme... mais maintenant, elles sont gratuites... »",
+            "card_quote": "– Analyse d'Anby sur une certaine opération des Lièvres rusés",
+            "skill_text": "En combat, le Miasmatique - Maniaque frénétique utilise sa spécialité de furtivité pour lancer des attaques surprises. Lorsqu'il est associé au Miasmatique - Trinox, il effectue une esquive parfaite contre vos attaques, suivie d'une attaque coordonnée avec le Miasmatique - Trinox. De plus, lorsque l'un d'eux meurt, le survivant entre en Frénésie."
+        },
+        "20027": {
+            "monster_id": 20027,
+            "monster_name": "Miasmatique - Trinox",
+            "card_text": "Une création déchue, remodelée dans les ténèbres et la souillure les plus profondes.\n\nL'Association d'inspection des Néantres étudie les caractéristiques de mutation des corps humanoïdes Éthéréens.\n\nTrinox s'est constamment classé dans le top 3 des sujets de recherche les plus populaires en raison de la structure de sa tête qui semble délibérément conçue en triangle. Il paraît que des mathématiciens se faisaient passer pour des inspecteurs afin d'infiltrer la Néantre, juste pour voir Trinox de leurs propres yeux.\n\nLes derniers résultats de recherche ont été publiés dans « l'Encyclopédie des Néantres » numéro 28, édition de février. Selon les abonnés, l'article ne traitait que de la signification esthétique de la structure de la tête de Trinox.\n\nDes lecteurs passionnés de Néantres mécontents, ont donné à l'article la note la plus basse du numéro sur le site web du magazine, avec seulement 34 % d'approbation.\n\n« Les mesures de la tête de Trinox sont proches du nombre d'or antique ! »\n\n« Nous combattons les Éthéréens, nous n'organisons pas un concours de beauté pour eux, professeur. »",
+            "card_quote": "— Extrait de « L'émission de Durham » épisode 79, une conversation entre l'animateur Durham et le mathématicien Isaac, qui est devenu boiteux après être entré dans la Néantre",
+            "skill_text": "En combat, le Miasmatique - Trinox utilise des mécaniques de parade pour dévier les DGT et déclencher une riposte. Lorsque le Miasmatique - Maniaque frénétique est présent sur le terrain, Miasmatique - Trinox lui ordonnera d'effectuer une Attaque coordonnée ensemble. De plus, lorsque l'un d'eux meurt, le survivant entre en Frénésie."
+        },
+        "20031": {
+            "monster_id": 20031,
+            "monster_name": "Miasmatique - Esprit tordu",
+            "card_text": "Une création déchue, reforgée dans les profondeurs de la souillure et des ténèbres.\nSa caractéristique la plus frappante réside dans ses bras sur-développés, incarnation de la fureur de l'Esprit tordu. Les membres eux-mêmes sont plus massifs qu'un réfrigérateur à double porte, recouverts de couches de kératine dense qui s'imbriquent pour former une forme naturelle de marteau. Un expert de l'Association d'inspection des Néantres affirme connaître la raison d'un tel développement anormal. D'après lui, le corps d'origine de l'hôte se serait longuement appuyé sur une machinerie lourde ou des équipements de renforcement musculaire, ce qui a provoqué une amplification grotesque de ses traits physiques durant le processus de corruption.\nLes rapports indiquent qu'il peut pulvériser le béton armé et projeter des carcasses de véhicules abandonnés à plusieurs dizaines de mètres. Parmi les inspecteurs, on le surnomme familièrement le « Personnel de démolition en Néantre ».\nIl paraît qu'un Esprit tordu en pleine fureur, a rasé toute une ruine en moins d'une minute, avant de se retrouver coincé dans un couloir étroit, son corps massif étant incapable de garder l'équilibre. Il a ensuite été récupéré comme spécimen de recherche.\n« Quand il frappe le sol, même les échos à travers la Néantre tremblent... mais si vous êtes assez rapide, vous n'aurez pas à faire un bras de fer avec lui. »",
+            "card_quote": "- Un inspecteur constamment veinard qui pense que la bonne fortune vient avec de la patience.",
+            "skill_text": "Miasmatique - L'Esprit tordu attaque avec une hache géante et un fusil à pompe. Ses attaques à la hache peuvent créer des flaques de miasme au sol qui génèrent un effet de Corruption miasmatique au joueur."
         },
         "30009": {
             "monster_id": 30009,
@@ -738,6 +934,34 @@
             "card_text": "Les habitants de la couronne extérieure le nommaient respectueusement « Suzerain Pompée ».\nMais son âme a été corrompue par l'éther et son corps est intoxiqué par le soufre et le pétrole brut. Ce cœur qui ne battait que pour la couronne extérieure s'est changé en noyau éthérique emplit d'une puissance infinie.\nL'ancien « Seigneur de la couronne extérieure » est revenu des flammes dans une forme différente.\nLibre, majestueux... violent, fou.\nIl charge à travers cendres et flammes en saisissant tout ce qui bouge pour l'exterminer sans pitié.\nCeux qui le connaissaient ont compris, en se basant sur ses chuchotements saccadés, qu'il n'est pas animé par un désir de vengeance mesquin, mais plutôt par la volonté d'écraser tous les intrus qui osent défier les règles de la couronne extérieure.\nIl s'agit peut-être du dernier vestige de la volonté de l'ancien Suzerain Pompée.\n« Notre chef s'est transformé en \"ça\", mais... il n'en reste pas moins lui-même. »",
             "card_quote": "— Un ancien sous-fifre des Conquérants, tremblant de peur.",
             "skill_text": "En combat, le Suzerain Pompée attaque avec une combinaison de moto et de pistolets flottants. Cependant, lors de certains mouvements, s'il est contré par un soutien défensif, son point faible se retrouve exposé. Après avoir subi un certain nombre de DGT, il entre dans une deuxième phase durant laquelle il utilise alternativement la roue arrière de sa moto et une longue épée pour attaquer. La roue arrière de sa moto peut également accumuler de l'énergie éthérique, ce qui provoque une explosion de grande ampleur."
+        },
+        "30034": {
+            "monster_id": 30034,
+            "monster_name": "Furie miasmatique - Innommable",
+            "card_text": "Un monstre forgé à partir du miasme et des souvenirs d'une mystique. Chaque moment de souffrance et d'effroi est maintenant scellé dans cette forme chaotique.\nIl ne s'agit que d'une imitation. Elle n'a ni le courage ni la détermination nécessaire pour disparaître à jamais. Néanmoins, c'était amplement suffisant pour son créateur. Il se servirait de ces souvenirs emplies de souffrances comme d'un pion qui mettrait le feu à la Néantre, pour révéler dans ses cendres la vérité aux yeux de tous.\nAinsi, poussée par des souvenirs qui ne sont pas les siens, le miasme qui l'a engendrée ne lui laissait aucun répit, les Éthéréens qui l'approchaient la remplissaient de rage, et même en errant sur son propre territoire, elle restait toujours anxieuse.\nSeulement une fois, alors qu'elle poursuivait un humain jusqu'au bord de la Néantre, elle aperçut la peur sur son visage, son instinct de chasseur se retrouva alors réprimé de façon inattendue par une étrange impulsion. Elle s'arrêta involontairement. Et lorsque cette silhouette malchanceuse disparut de son champ de vision, elle ressentit quelque chose de nouveau : une émotion étonnamment proche de la satisfaction. Mais ce sentiment ne dura pas longtemps. Un groupe d'humains en armure noire commença à s'introduire à plusieurs reprises sur son territoire, sans se laisser intimider par la moindre menace. L'agitation et l'épuisement l'érodèrent lentement. Jusqu'à ce que son seul désir soit que tout ce qui bouge disparaisse. Disparaisse ! DISPARAISSE !!!\n...\n« ... Mettons fin à... tout ça »\nBizarre, quelle est cette voix étrange ?\n« Ce monstre semble lié à mon passé... C'est à celui qui fait le nœud qu'il incombe de le dénouer, j'imagine. »\nLes souvenirs longtemps brouillés par la folie se sont ravivés. Oui... Oui ! C'était ce son, celui qui avait résonné sans fin dans son esprit. Bien que son instinct lui criait d'attaquer, son corps hésita. Son regard suivait l'éclat des cheveux argentés, si semblables aux siens, elle essayait désespérément de voir si la voix appartenait à la personne qui n'arrêtait pas de refaire surface dans sa mémoire.\nDistraite, elle prit un coup par derrière directement dans son noyau, la douleur atroce manqua de le briser. Pourtant, elle entendit encore ce faible murmure : \n« Je suis désolée, mais je dois le faire... »\nBien que les mots n'avaient aucun sens pour elle, cette émotion presque satisfaisante revint. Elle se rendit compte que quelque chose de vraiment effrayant la contrôlait maintenant et qu'elle pourrait mourir à cause de cela... mais elle n'avait pas l'intention de fuir.\nFinalement, sa force s'épuisa complètement. Mais dans ce dernier instant, elle put enfin la voir clairement. Elle n'était pas tout à fait comme dans ses souvenirs, et cette réalisation fugace lui fit ressentir de la solitude. Mais malgré cela, elle préféra son apparence actuelle aux cris déchirants du passé.\n\n« La Furie miasmatique... Hmm, bien que ce soient les subordonnés de Férox qui l'aient nommée, ce nom convient bien à cette créature spectrale et vicieuse. Nous prévoyons de l'enregistrer comme tel. Qu'en pensez-vous, Yixuan shifu ? »\n— Vous avez déjà entendu ce vieux dicton ? Un nom ne rend pas la vérité moins innommable. Un nom n'est qu'un nom, tant qu'il est facile à prononcer, ça ira. »",
+            "card_quote": "— Une conversation entre un inspecteur qui cherche un nom pour la Furie miasmatique et Yixuan.",
+            "skill_text": "Pendant le combat, la Furie miasmatique - Innommable renforce son arme et lance de puissantes attaques imparables. De plus, la Furie miasmatique - Innommable bondit dans les airs pour activer un champ miasmatique et consomme son Bouclier miasmatique pour lancer plusieurs vagues d'attaques. Utilisez ses attaques pour détruire les flaques de miasme et l'empêcher de les absorber pour restaurer son Bouclier miasmatique. Puis, éloignez-vous rapidement lorsqu'elle revient sur le champ de bataille pour éviter d'être pris dans son impitoyable coup final."
+        },
+        "30036": {
+            "monster_id": 30036,
+            "monster_name": "Miasmatique - Oiseau de terreur",
+            "card_text": "Une création déchue, reforgée dans les profondeurs de la souillure et des ténèbres.\n\nL'Oiseau de terreur est la machine de guerre la plus fiable de la Nouvelle-Eridu, et a participé à un nombre incalculable de batailles. Sa conception repose sur un principe simple : l'équilibre parfait entre la dévastation en combat rapproché et la puissance de l'attaque à distance. Chaque charge et chaque frappe est synonyme de destruction. De plus, il dispose d'un système de lancement de missiles guidés multiples et d'une mitrailleuse, ce qui lui permet de dominer aussi bien le combat rapproché qu'à distance. Qu'il s'agisse d'attaques d'assaut, de bombardements guidés ou de retraites par bonds agiles, l'Oiseau de terreur peut facilement s'adapter à différents scénarios de combat. Son attaque incessante rend impossible toute contre-attaque de la part de l'ennemi. C'est la machine de guerre ultime, l'incarnation de la puissance et de la terreur.\n\n« L'Oiseau de terreur était le symbole de cette époque. »",
+            "card_quote": "— Extrait de « La bataille de l'ancienne capitale : vérité et mémoire »",
+            "skill_text": "Au combat, l'Oiseau de terreur miasmatique supprime les ennemis avec diverses armes à distance, tandis que ses six drones furtifs fournissent une puissance de feu supplémentaire à intervalles irréguliers.\nLorsqu'il tire des obus miasmatiques spéciaux, vous pouvez utiliser le soutien défensif pour les contrer et les renvoyer, ce qui paralyse temporairement l'Oiseau de terreur miasmatique. À certains moments du combat, il active également le champ miasmatique, passant principalement aux attaques au corps à corps pendant que ses six drones clignotent et exécutent des schémas de frappe à intervalles réguliers. Attention : de nombreuses capacités de l'Oiseau de terreur et des attaques de drones infligent une puissante Corruption miasmatique."
+        },
+        "30039": {
+            "monster_id": 30039,
+            "monster_name": "Haytor",
+            "card_text": "Un squelette décharné et sinistre, portant une « Cape » pâle et coupante, encore un chef-d'œuvre des Exaltés. Quand il s'agit des « 100 façons d'intégrer les humains dans la Néantre », leur enthousiasme pour l'expérimentation est vraiment sans égal.\nCeux qui ont rencontré des Haytors pensent que ces individus doivent être des membres haut placés des Exaltés, après tout, même en tant qu'Éthéréens, ils n'ont pas pu résister à l'envie de créer quelques laquais à commander.\n\n« Je déteste vraiment les gens comme ça ! »\n\n« Je parie qu'ils disent même à leurs fantômes... \"Tu me déçois, tu aurais pu faire mieux, quand je t'ai invoqué, j'avais de bien plus grandes attentes\" ?! »",
+            "card_quote": "— Lors d'une soirée d'heures supp' typique, un officier de la FSN enragé frappe violemment en hurlant sur le cadre du Haytor.",
+            "skill_text": "En combat, Haytor utilise des fantômes pour tromper ses ennemis et lancer des attaques surprises. Après être entré dans le champ miasmatique, Haytor peut invoquer des fantômes encore plus grands pour attaquer à ses côtés. Parer les attaques des grands fantômes pendant cette période affaiblira le Bouclier miasmatique."
+        },
+        "30041": {
+            "monster_id": 30041,
+            "monster_name": "Chasseur vagabond",
+            "card_text": "Un être corrompu doté d'une riche expérience au combat, aussi habile en attaque qu'en défense, il se déplace avec agilité. Il excelle dans l'art de se tapir dans l'ombre pour lancer des attaques dévastatrices en visant les points faibles.\n\nJ'aurais dû en noter davantage, ses schémas comportementaux, ce chant obsédant qui le suit comme une ombre, ce genre de choses... Mais laissons cela ainsi, tout comme le portrait inachevé dans le carnet de Lucia.\n\n« Une p'tite étoile là-haut. Deux p'tites étoiles sur l'eau. Trois p'tites étoiles, cache-toi ou je t'attrape ! »",
+            "card_quote": "— Les inspecteurs, « tourmentés » par les données de simulation du Chasseur vagabond ont été surpris de fredonner des comptines en faisant leurs tâches ménagères.",
+            "skill_text": "En combat, le Chasseur vagabond possède une DÉF extrêmement élevée. Certaines de ses compétences à distance peuvent générer une flaque de miasme au sol, tandis que la plupart des compétences peuvent déclencher la flaque de miasme pour créer des Lames errantes pour parer les coups. De plus, lorsque le Chasseur vagabond active le champ miasmatique, il se cache et reprend des forces. Lorsque vous utilisez la technique de perception pour percer la Chimère enfouie - Lucia, le Chasseur vagabond se révèle et lance une embuscade. Un soutien défensif réussi peut interrompre son action, infligeant Brisé et réduisant son bouclier miasmatique. Si vous échouez à identifier correctement la Chimère enfouie - Lucia, ou après un certain temps, le Chasseur vagabond déclenchera une puissante compétence qui ignore l'effet invulnérable pour infliger plus de DGT de contamination miasmatique de l'équipe."
         },
         "100211": {
             "monster_id": 100211,
@@ -808,6 +1032,41 @@
             "card_text": "Le Frappeur sournois possède <color=#FFAF2C>beaucoup de PV</color>. Concentrez vos forces sur lui !",
             "card_quote": null,
             "skill_text": "PV : Élevés\nATQ : Moyenne\nVitesse de déplacement : Lente\nMenace : <color=#FFAF2C>Moyenne</color>"
+        },
+        "930167": {
+            "monster_id": 930167,
+            "monster_name": "Adorateur des flammes",
+            "card_text": "Un prêtre supérieur des Exaltés qui occupe la position d'Adorateur des flammes et possède le pouvoir de manipuler le miasme. Cette force souille et draine la vie, tandis que les flammes éclairent le chemin à suivre.\n\nLorsqu'ils attaquent, tous les fanatiques des Exaltés ont tendance à hurler ou scander des formules vagues parlant de « Façonnage » ou du « Créateur », mais peu sont capables de faire ressentir l'expérience d'un véritable « Façonnage » à l'aide du feu miasmatique comme celui-ci.\n\n« Ils se contentent de vous foncer dessus en hurlant des inepties comme \"Façonnage\", \"Créateur\", \"Purification\" et que sais-je encore ! »",
+            "card_quote": "— Membre de la Lutte contre le fanatisme en Néantre de l'Association d'inspection des Néantres",
+            "skill_text": "En combat, les compétences de l'Adorateur des flammes possèdent une capacité de Corruption miasmatique. Il utilise des attaques de balayage pour créer des flaques de miasme au sol. De plus, l'Adorateur des flammes peut invoquer des Huskrons dans ses flaques de miasme et les envoyer à la charge."
+        },
+        "930174": {
+            "monster_id": 930174,
+            "monster_name": "Aède des Exaltés",
+            "card_text": "Un chant troublant résonnait souvent dans la Néantre. Les mineurs les plus expérimentés interdisaient strictement à quiconque d'approcher de sa source, mais le nouveau venu, Johnny, n'en tint pas compte. Poussé par un pari insensé, il se dirigea pas à pas vers la source du bruit. Enfin, il parvint à une clairière. Là, un groupe de personnes portant des uniformes identiques et des masques étranges se tenait en cercle, participant à un rituel mystérieux. Tout autour d'eux, un groupe d'Éthéréens s'approchait lentement. Johnny cria pour les avertir, espérant qu'ils fuiraient, mais ils restèrent sourds à ses paroles. Au lieu de cela, les Éthéréens, attirés par la voix de Johnny, se précipitèrent sur lui...\n\n« Nous ferons tout notre possible pour enseigner la discipline aux jeunes mineurs. Quant à Johnny, paix à son âme. »",
+            "card_quote": "— Sally, une mineuse chevronnée, après la disparition de Johnny, une interview du <i>Ridu libérée</i>.",
+            "skill_text": "En combat, lorsqu'il est menacé, l'Aède des Exaltés déclenche une puissante explosion qui affecte aussi bien ses alliés que ses ennemis."
+        },
+        "940004": {
+            "monster_id": 940004,
+            "monster_name": "Adorateur des flammes",
+            "card_text": "L'Adorateur des flammes est un ennemi très dangereux spécialisé dans les <color=#D9A600>DGT sur une grande zone</color>. Déployez <color=#D9A600>Mlle Esmée</color> stratégiquement pour protéger tout le monde !",
+            "card_quote": null,
+            "skill_text": "PV : Super élevés\nATQ : Élevée\nDÉF : Élevée\nVitesse de déplacement : Moyenne\nMenace : <color=#FF3333>Extrême</color>"
+        },
+        "990167": {
+            "monster_id": 990167,
+            "monster_name": "Rêveur des flammes",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "990174": {
+            "monster_id": 990174,
+            "monster_name": "Aède onirique",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         }
     },
     "Sécurité publique": {
@@ -988,6 +1247,13 @@
             "card_quote": "– Un commentaire sur la page Rêverie du forum « Planète des catastrophes »",
             "skill_text": "En combat, le Canon d'assaut lance des attaques à distance en continu en alternant entre son canon laser et des grenades à fragmentation."
         },
+        "200092": {
+            "monster_id": 200092,
+            "monster_name": "Artificier d'assaut",
+            "card_text": "Une unité d'infanterie lourde des Forces de défense de la Nouvelle-Eridu.\nÉquipés d'une armure lourde de combat « Rhino Gris » et d'un arsenal amélioré à l'aide de technologie éthérique, ils peuvent fournir un feu fourni sur de longue période lorsque les munitions sont suffisantes. Équipe d'assaut principale des Forces de défense, ils sont souvent déployés en première ligne lors des opérations offensives et de nettoyage.\nAprès la chute de l'ancienne capitale, de nombreux militaires ont quitté l'armée pour rejoindre des factions civiles. Depuis, ces tireurs aguerris se sont démarqués sous diverses bannières, notamment des armées privées financées par des ploutocrates, de nouvelles entreprises de sécurité, et même des bandes criminelles errantes...\n« Je suis convaincu que ces tireurs lourds sont en réalité d'adorables fillettes qui cachent leurs munitions dans l'espace libre de leurs combinaisons de combat. Autrement, comment expliquer leurs stocks inépuisables de cartouches ? »",
+            "card_quote": "– Un commentaire sur la page Rêverie du forum « Planète des catastrophes »",
+            "skill_text": "En combat, l'Artificier d'assaut combine les arts martiaux avec différentes armes pour éliminer les ennemis. Lors d'une surchauffe ardente, certains mouvements sont renforcés par des flammes pour des attaques encore plus féroces. Si suffisamment de dégâts sont infligés durant cet état de surchauffe, son équipement peut être détruit, provoquant un affaiblissement de ses capacités."
+        },
         "300021": {
             "monster_id": 300021,
             "monster_name": "Gardien MK II",
@@ -1025,6 +1291,55 @@
             "card_quote": "– Les Lièvres rusés poursuivant désespéremment un Bangbou doré au fin fond d'une Néantre",
             "skill_text": "En combat, le Bangbou doré peut parfois riposter."
         },
+        "10032": {
+            "monster_id": 10032,
+            "monster_name": "Rejeton de miasme",
+            "card_text": "Ces monstres, qui conservent une forme vaguement humanoïde après l'injection du sérum du Sacrifice, voient leurs formes partiellement contenues par la porcelume, mais les déformations grotesques sur leurs corps restent difficiles à regarder.\n\nLes rapports de laboratoire de l'Association d'inspection des Néantres indiquent qu'une fois la porcelume retirée de leurs corps, ces pauvres humanoïdes perdent instantanément le contrôle et se détériorent rapidement en des formes plus horribles encore.\n\nMalgré leurs mouvements apparemment lents, l'Association déconseille fortement toute tentative d'approche ou de « sauvetage », à moins d'être capable de les éliminer d'un seul coup avant qu'ils ne deviennent fous furieux.\n\n« Regardez ces bosses gonflées sur leurs dos qui ressemblent à des bagages dont ils ne pourront jamais se débarrasser... On dirait de sinistres randonneurs, toujours prêts à partir pour un nouveau voyage. »",
+            "card_quote": "— Kruz, contributeur spécial pour l'hebdomadaire Planète des catastrophes",
+            "skill_text": "Pendant le combat, le Rejeton de miasme fait apparaître autour de vous de la poussière qui explosera après quelques secondes. Votre meilleure option est de sortir de la poussière au plus vite."
+        },
+        "19999": {
+            "monster_id": 19999,
+            "monster_name": "Carte d'ennemi aléatoire",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "20028": {
+            "monster_id": 20028,
+            "monster_name": "Sentinelle de sécurité",
+            "card_text": "Cette unité tactique de sécurité civile, produite par l'entreprise de sécurité Typhée qui a copié le Patrouilleur de perquisition de la Sécurité publique, a été modifiée aussi bien en termes de puissance de feu que de technologie pour éviter tout contrôle technique ou litige de propriété intellectuelle.\n\nNéanmoins, ces modifications n'ont en rien diminué les capacités au combat de ces machines de sécurité. Sans limite de budget, les entreprises de sécurité ont utilisé des matériaux onéreux plus performants, qui ont permis de grandement améliorer leur solidité et durabilité.\n\nDès leur apparition sur le marché, ces machines ont fait sensation auprès de nombreuses entreprises commerciales.\n\n« Salutations, Sentinelle de sécurité à votre service. Veuillez sélectionner un mode de patrouille.\n— Euh... Vous voulez dire qu'il y a vraiment plus d'une centaine de modes prédéfinis ?! »",
+            "card_quote": "— Lors d'une exposition, un acheteur indécis finit par ne plus pouvoir retenir un gémissement.",
+            "skill_text": "En combat, Unité de sécurité tactique - Sentinelle de sécurité utilise son bouclier pour réduire considérablement les DGT et la confusion qu'elle subit, mais également pour contre-attaquer."
+        },
+        "20029": {
+            "monster_id": 20029,
+            "monster_name": "Patrouilleur léger",
+            "card_text": "L'unité de sécurité produite en série par l'entreprise de sécurité Typhée a été déployée dans de nombreux secteurs civils. Grâce à ses multiples avantages, notamment son coût abordable, sa polyvalence, son système révolutionnaire d'équilibre dynamique à roue unique et son noyau intégré de reconnaissance intelligente des menaces, elle est adaptée aux besoins sécuritaires dans divers espaces complexes.\n\n« Cette unité de sécurité tactique a passé avec succès 47 tests rigoureux et a été déployée dans les zones stratégiques de 32 parcs industriels. Les retours clients indiquent une réduction moyenne de 91 % des taux d'intrusion. Faites-nous confiance : vous pouvez l'utiliser pour toute tâche de sécurité possible. »",
+            "card_quote": "— Le représentant commercial enthousiaste de l'entreprise de sécurité Typhée",
+            "skill_text": "En combat, Unité de sécurité tactique - Patrouilleur léger lance une attaque de bond à l'aide des tronçonneuses montées sur ses bras."
+        },
+        "20030": {
+            "monster_id": 20030,
+            "monster_name": "Patrouilleur moyen",
+            "card_text": "Une unité de sécurité produite en masse par l'entreprise de sécurité Typhée, modifiée à partir des méchas de combat de soutien de la Sécurité publique. Par rapport aux méchas de combat de soutien, certaines capacités de combat ont été réduites, s'appuyant principalement sur son large bouclier pour maîtriser les groupes à faible menace comme les émeutiers, maintenir l'ordre et guider les foules lors d'événements importants et d'occasions spéciales.\n\nD'après certains rapports, des unités ont été achetées et modifiées par des opérateurs illégaux pour créer l'Unité de soutien illégale - « Balayeur enragé ». Certains sont même allés jusqu'à poster des avis sur le site officiel de l'entreprise en disant : « Cette qualité est pire que celle des méchas de soutien mis au rebut que j'ai ramassés en Néantre ! » et n'accorde qu'une étoile au produit.\n\n« Ces modifications illégales n'ont rien à voir avec notre société de sécurité et sont des modifications privées effectuées par les utilisateurs. Nous lutterons jusqu'au bout contre ces avis négatifs... Je veux dire, ces activités illégales... »",
+            "card_quote": "— Porte-parole de l'entreprise de sécurité Typhée",
+            "skill_text": "En combat, Unité de sécurité tactique - Patrouilleur moyen lance une attaque tournoyante à l'aide de ses longs bras. Lancez un soutien défensif avant son attaque pour l'empêcher d'exécuter sa compétence."
+        },
+        "29999": {
+            "monster_id": 29999,
+            "monster_name": "Carte d'ennemi aléatoire",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30003": {
+            "monster_id": 30003,
+            "monster_name": "Scellote",
+            "card_text": "Aux premiers jours de la création des Bangbous, la Dame de l'Aurore avait une vision grandiose, celle de créer un Bangbou fortement intelligent capable d'analyser et d'exécuter de manière autonome les ordres de « protection » pour soutenir l'humanité face aux menaces des Néantres.\n\nEt « Scellote », nommé GU-0001, fut la première création de ce grand projet.\n\nIl reçut les modules tactiques les plus avancés, les systèmes de feu les plus puissants et... un noyau pur programmé avec la plus haute instruction de « protéger l'humanité ».\n\nCependant, durant le désastre colossal de la Chute de l'ancienne capitale, il fut témoin pour la première fois des ténèbres irrémédiables qui se cachaient dans l'âme des humains qu'il devait « protéger ». Il vit des gens se trahir et s'entre-tuer pour survivre, et observa, impuissant, ses utilisateurs de confiance le forcer à pointer son arme sur des semblables sans défense.\n\nLes beaux idéaux gravés dans son code source entrèrent violemment en conflit avec l'affreuse réalité qui se déroulait devant lui, de la manière la plus forte et la plus cruelle qui soit.\n\nÀ cet instant, il comprit enfin que le plus grand ennemi de l'humanité n'avait jamais été les monstres venus de l'extérieur...\n\nMais plutôt les désirs sans fin de l'humanité et ses conflits internes.\n\n« Vous, les humains, êtes vraiment adorables. Même si vous continuez à faire les mêmes erreurs... »\n\n« Mais ce n'est pas grave, je vous pardonne. »\n\n« Et... je vais tout arranger de mes propres mains. »",
+            "card_quote": "— Scellote",
+            "skill_text": "Au combat, Scellote attaque le joueur avec son arme. Certains coups sont portés avec une telle force que, malgré un soutien défensif réussi, un soutien de suivi ne peut pas s'activer et Scellote peut répondre par une provocation."
+        },
         "30004": {
             "monster_id": 30004,
             "monster_name": "Gretel",
@@ -1060,19 +1375,75 @@
             "card_quote": "— Bringer, qui hurle du fin fond de son cœur.",
             "skill_text": "En combat, Sacrifice – Bringer se transforme en diverses armes pour asséner des enchaînements d'attaques rapprochées et à distance. Il invoque également d'immenses créatures depuis la faille pour l'aider. Après avoir subi une certaine quantité de DGT, il entre dans sa deuxième phase. Il utilisera alors des attaques plus complexes, et lancera continuellement des tirs de barrage concentrés. Infligez-lui suffisamment de DGT pendant qu'il charge son Couteau sacrificiel pour interrompre le chargement et créer une ouverture."
         },
-        "30025": {
-            "monster_id": 30025,
-            "monster_name": "Spinozoaire épineux",
-            "card_text": "L'éther est un parasite avare et insatiable, une créature vicieuse qui se repaît sur la vitalité de son hôte.\nLe Spinozoaire épineux, incarnation éthérique malveillante, se loge dans le corps de ses congénères cruels et permet aux Tyrfings et Alpecas de satisfaire l'appétit vorace des Néantres avec encore plus d'avidité.\n« Ah, ne m'approche pas, saleté ! »",
-            "card_quote": "— Un écologue spécialiste des Éthéréens, qui se rend compte qu'il s'agit simplement d'un insecte sautillant.",
-            "skill_text": "En combat, le Spinozoaire épineux erre sur le champ de bataille à la recherche d'un Tyrfing ou d'un Alpeca à parasiter."
-        },
         "30028": {
             "monster_id": 30028,
             "monster_name": "Garde de sécurité spécial",
             "card_text": "Ces gardes de sécurité ressemblent, à première vue, à des gardes ordinaires, mais ils sont équipés en réalité d'un arsenal de techniques secrètes. Le devoir des gardes de sécurité n'est pas seulement d'avoir l'air intimidant et de se tenir devant l'entrée, mais aussi d'aider son patron à maintenir sa réputation lorsqu'il a un peu trop bu, ou de garder son sang-froid devant les voleurs tout en ayant l'air cool. Leur mission n'est pas de combattre le crime, mais d'empêcher le patron de tomber, de réparer l'ascenseur de l'entrée et, plus généralement, de faire profil bas. Dans leur monde, l'arme la plus puissante est « d'avoir l'air d'un dur à cuire » afin de n'avoir « rien à faire ». Après tout, celui qui se targue d'être un garde de sécurité ne fait connaître son existence que lorsque le problème a été résolu et que les gens disent : « Quoi ? Vous étiez là tout ce temps ? »",
             "card_quote": "— Extrait du Manuel des opérations du personnel de sécurité, écrit par un garde vétéran",
             "skill_text": "En combat, les Gardes de sécurité spéciaux utilisent une variété d'armes pour attaquer et se coordonner entre eux, si nécessaire."
+        },
+        "30030": {
+            "monster_id": 30030,
+            "monster_name": "Exécuteur abyssal",
+            "card_text": "Le chef des fantômes voleurs « Oiseaux-moqueurs » n'est pas seulement un maître dans l'art du déguisement et de la tromperie, mais il possède également un style de combat imprévisible qui met ses ennemis à rude épreuve. Sa faux colossale semble présente seulement dans le but de trancher les « injustices » du monde. La valise qu'il transporte est encore plus mystérieuse. Elle contient des outils ingénieux et des armes mortelles nécessaires à ses crimes, faisant de chacune de ses actions un moment rempli d'incertitude et de danger.",
+            "card_quote": null,
+            "skill_text": "En combat, l'Exécuteur abyssal esquivera activement ses ennemis et activera l'Œil de lynx, suivi d'une puissante impulsion. Cette compétence peut être contrée par une esquive parfaite ou un soutien parfait."
+        },
+        "30035": {
+            "monster_id": 30035,
+            "monster_name": "Sacrifice - Histrion hérétique",
+            "card_text": "Ses fluctuations énergétiques particulières trahissent son identité : Une création des Exaltés, la source des cauchemars.\nUn chasseur redoutable qui s'approche de sa proie sans un bruit. Pourtant, parfois, il est comme un enfant agité qui joue à cache-cache, incapable de retenir son petit rire espiègle. Peut-être que le miasme qui lui a donné naissance transporte trop d'échos d'âmes perdues, le rendant chaotique et indécis.\n« Si le jeu est le privilège des êtres intelligents, alors ce qu'il imite n'est rien d'autre qu'une parodie brisée et insensée. Il n'y a pas d'applaudissements, seulement du sang versé. »",
+            "card_quote": "— Un e-mail envoyé à un psychiatre par un inspecteur de laboratoire (ayant depuis démissionné) qui a été attaqué.",
+            "skill_text": "Pendant le combat, Sacrifice - Histrion hérétique s'élève dans les airs, lance son attaque Frénésie de lames volantes et active un champ miasmatique. Lancez un soutien défensif au bon moment pendant sa compétence pour interrompre la Frénésie de lames volantes. Interrompez sa compétence pour le faire tomber et lui infliger l'état Affaibli pendant une période donnée."
+        },
+        "30037": {
+            "monster_id": 30037,
+            "monster_name": "Le Déserteur",
+            "card_text": "Protection, loyauté, honneur. Ce qui se dresse entre un soldat et la ligne de feu, entre lui et les Néantres, les raisons pour lesquelles il sacrifie sa vie éphémère, ne sont rien d'autre que ces douces syllabes.\nMais si... ce que nous essayons de protéger ne mérite pas d'être protégé ? Si ceux que nous servons ne méritent pas notre loyauté, et si les idéaux que nous honorons ne sont pas véritablement honorables ? Alors le sacrifice devient une cruelle plaisanterie, une insulte à ceux qui sont tombés en croyant à un mensonge.\nQue ces flammes de vengeance me consument donc, moi et moi seule.\n« Faire demi-tour ? Il est bien trop tard pour ça. »",
+            "card_quote": "— Un soupir résonne depuis un récif, s'évanouissant avec la marée descendante du miasme",
+            "skill_text": "Au combat, le Déserteur déclenche de féroces attaques avec des lames et des armes à feu. Après avoir subi une certaine quantité de DGT, il active son champ miasmatique et déclenche de puissantes attaques perforantes à grande vitesse."
+        },
+        "30038": {
+            "monster_id": 30038,
+            "monster_name": "La Profanatrice",
+            "card_text": "Les flammes sinistres venues d'au-delà du fleuve des morts ne peuvent jamais éclairer le chemin de ceux qui cherchent la vengeance. Les fanatiques obsédés qui ont gravé leurs malédictions dans les sanctuaires sacrés récoltent maintenant les fruits amers de leur blasphème.\n\nLe miasme s'accumule sous la tour vertigineuse tandis que les âmes perdues s'éveillent de l'éther. Dans cette puissance imprégnée de souillure et d'ombre, la haine prend forme, se cristallisant en quelque chose de tangible. Sans foi ni loi, cette force profane ne forge que des instruments de guerre, façonnés par la vengeance et la folie.\n\nLe sol empeste le sang et le péché, s'étendant sans fin... et atteint enfin le dénouement de ce long et déchirant récit.\n\n« Si la fin ne peut être parfaite, qu'elle soit au moins écrite de ma propre main. »",
+            "card_quote": "— Un murmure résonne à travers les vagues montantes de miasme",
+            "skill_text": "Au combat, La Profanatrice peut déclencher des attaques rapides et puissantes avec ses armes. En parant avec succès les lames miasmatiques tirées par La Profanatrice et les attaques des troupes du Bataillon miasmatique brisé qu'elle invoque, vous exposerez son point faible. Après avoir subi une certaine quantité de DGT au combat, La Profanatrice activera son champ miasmatique et canalisera un tsunami miasmatique pour infliger Mort imminente. Si une partie de La Profanatrice est brisée pendant la canalisation, une barrière de miasme sera générée pour bloquer l'attaque du tsunami miasmatique."
+        },
+        "30040": {
+            "monster_id": 30040,
+            "monster_name": "Chimère enfouie - Komano Manato",
+            "card_text": "Un ennemi fantôme qui ne devrait pas exister et qu'on ne rencontrera peut-être plus jamais, pourtant la pression de sa force n'est que trop réelle. Bien que les données le concernant finiront par être intégrées aux simulations de l'Association, les jeunes hommes et femmes qui se sont aventurés les premiers dans le monde des rêves en tant que découvreurs ont une compréhension différente de ses schémas comportementaux.\n\n« C'est moi ou il a l'air plus maigre que Manato ? »",
+            "card_quote": "— Une évaluation subjective d'un agent qui connaît bien Manato.",
+            "skill_text": "En combat, la Chimère enfouie - Komano Manato lance des attaques féroces contre vous. Vous devez donner tout ce que vous avez pour parer ses compétences. En réussissant un soutien défensif contre une de ses compétences, vous pouvez interrompre son attaque. Si vous parvenez à faire un soutien défensif sur une de ses puissantes compétences, vous pouvez le mettre en état Affaibli."
+        },
+        "30042": {
+            "monster_id": 30042,
+            "monster_name": "L'Asservi - Ye Shiyuan",
+            "card_text": "Le miasme corrompu et une volonté pervertie tirent les ficelles. La bête conserve toujours son instinct de chasse et d'errance, mais la forme humaine sur son dos a perdu toute sa raison. Seule une once de chagrin subsiste. Parfois, il frappe avec sa lame dans le brouillard. À d'autres moments, il ordonne aux mâchoires béantes de la bête de déchirer la terre elle-même. Ses coups sont précis, dépourvus de la chaleur humaine qu'il possédait autrefois, telle une marionnette manipulée par les vestiges déchirés d'un cauchemar.\nCe n'est qu'au moment où un éclair de ruban rouge traverse ses sens que son bras armé se met à hésiter, comme si ce chagrin persistant avait, l'espace d'un battement de cœur, enlacé son âme rongée.\n\n« Pour ces deux-là, qui contrôle qui... La <i>personne</i> sur son dos est mon véritable prisonnier. »\n« Le désespoir devrait être utilisé pleinement jusqu'à la toute fin, n'est-ce pas ? »",
+            "card_quote": "- Dans les profondeurs les plus reculées de la Néantre, « Sa » volonté se moque avec mépris dans un chuchotement.",
+            "skill_text": "En combat, l'Asservi invoque le Ravageur miasmatique - Sobek comme allié. Sobek ne peut être étourdi et ne fait pas d'accumulation d'anomalie. Chaque fois que Sobek est vaincu, l'Asservi le ranimera et déclenche un puissant combo. Si vous parvenez à parer le dernier coup de ce combo, Sobek entrera dans un état Affaibli pendant un certain temps."
+        },
+        "30044": {
+            "monster_id": 30044,
+            "monster_name": "Sacrifice - Gardien des Commandements",
+            "card_text": "« Tous ceux qui entendent le son contempleront la forme de la vérité. » Même si cette vérité n'est qu'une simple illusion venant de murmures délirants.\nIl avait peut-être autrefois un nom, une histoire, une identité. Mais pour des raisons inconnues, il est entré un jour de son plein gré dans une chambre obscure, offrant ses oreilles, ses yeux, et même son esprit pour devenir un réceptacle n'existant que pour transmettre un certain son. Il a confondu les chuchotements de quelque chose dans une Néantre avec une révélation divine, se voyant comme la voix à travers laquelle « Il » parlait directement au monde mortel. Lorsque sa proie baisse sa garde, cette voix, étrangement familière qui est indéniablement la sienne, résonne dans son esprit sans pouvoir lui résister.\nPourtant, lors de ces brèves pauses entrecoupant ses paroles divines, quand l'esprit résiste aux murmures et brise l'illusion, ressent-il à son tour une once d'émotion humaine ?\nJusqu'à la fin, il a vacillé des vestiges d'une « vérité » indicible. Pas rage ou de terreur, juste une détermination solennelle, presque sacrée, jusqu'à ce que la dernière note s'évanouisse dans le silence avec son enveloppe sans vie.\n\n« Le \"Gardien des Commandements\" ? Il s'accroche à cette voix répugnante comme s'il défendait une loi divine. Comme un idiot persuadé d'avoir trouvé le chemin de la maison, pour finir en pierre tombale sculptée dans le son. » « Mais sincèrement... à quoi bon mépriser le réceptacle ? S'il y a une chose à blâmer, c'est ce qui produit le son. »",
+            "card_quote": "- Rapporté par un représentant du service client incapable de résister à une bonne conversation pendant un appel professionnel.",
+            "skill_text": "En combat, Sacrifice - Gardien des Commandements utilise des ailes pour lancer des attaques de suivi. Lorsque vous réussissez un soutien défensif contre certaines compétences du Gardien, vous pouvez interrompre ses attaques. De plus, le Gardien des Commandements concentre son énergie pour déclencher des attaques à distance, certaines de ces compétences à distance créant une flaque de miasme au sol. Des missiles à tête chercheuse invoqués depuis la flaque de miasme vous prennent pour cible. Profitez du bref moment où les missiles changent de direction pour déclencher une esquive parfaite et effectuer un contre d'esquive."
+        },
+        "40000": {
+            "monster_id": 40000,
+            "monster_name": "Cauchemar originel - « Le Créateur »",
+            "card_text": "Pour les humains qui luttent dans la longue nuit noire, la vie n'est qu'une torture sans fin.\nLe bien et le mal, l'amour et la haine, l'espoir et le désespoir... ces concepts éternellement opposés sont comme des chaînes qui enserrent l'âme, forçant l'humanité à se déchirer dans des cycles sans fin, sans jamais trouver la paix.\nPourtant, avant que tous les concepts ne naissent, avant que toutes les oppositions ne se forment, il existait un « Unique » primordial.\nIl est le commencement de toutes choses et la fin de toutes choses. Il ne porte ni bien ni mal, car Il est le bien et le mal même. Il ne connaît ni joie ni chagrin, car Il incarne chaque émotion.\nIls effaceront les frontières entre « toi » et « moi », laissant toute conscience indépendante refluer dans le grand courant de l'« Unité ».\nDans Son monde, sans individus, il n'y a pas de désir égoïste. Sans conflit, il n'y a pas de souffrance. Sans choix, il ne peut y avoir d'erreurs. Toutes les âmes se libéreront de leurs chaînes, retournant à la paix primordiale, absolument égale et éternelle.\nIl n'a pas de forme fixe, car Il est la forme de toutes choses. Il n'a pas de voix fixe, car Il est la résonance de l'univers.\nIl est la tempête, et aussi le calme. La fin, et aussi la renaissance.\n« Abandonnez vos luttes futiles, enfants égarés. »\n« Votre souffrance s'arrête ici. »\n« Retournez dans Son étreinte... »",
+            "card_quote": "— Création du Créateur",
+            "skill_text": "Le Cauchemar originel peut entrer ou sortir librement d'un champ miasmatique. Même en dehors d'un champ miasmatique, le Bouclier miasmatique continue de le protéger contre l'Étourdissement. Il ne peut être étourdi que lorsque le Bouclier miasmatique est brisé. Lorsque le Cauchemar primordial sort de l'état étourdi, la protection du Bouclier miasmatique est restaurée.\n\nAu combat, le Cauchemar primordial utilise des compétences de contrôle. Réagir parfaitement à chaque attaque peut apporter un avantage au combat."
+        },
+        "100132": {
+            "monster_id": 100132,
+            "monster_name": "Patrouilleur léger",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         },
         "100231": {
             "monster_id": 100231,
@@ -1123,12 +1494,54 @@
             "card_quote": "– La machine intelligente élue, Vendredi",
             "skill_text": "En combat, Vendredi lance des ondes de choc difficiles à esquiver, mais qui peuvent être bloquées par des soutiens défensifs. Ses jambes peuvent être brisées pour lui infliger une quantité considérable de confusion."
         },
+        "300372": {
+            "monster_id": 300372,
+            "monster_name": "Miasmatique - Doppelganger - Le Déserteur",
+            "card_text": "Une création déchue, reforgée dans les profondeurs de la souillure et des ténèbres.\nMême parmi les ennemis ionisés connus pour leurs qualités étranges et mystérieuses, les Doppelgangers ionisés se démarquent comme particulièrement exceptionnels.\nCes créatures se drapent d'une couche spéciale d'ions d'éther actifs, ce qui leur permet d'imiter avec précision l'apparence de leurs cibles, parfois si fidèlement qu'il est presque impossible de faire la différence. Des détails à la texture, ce sont des maîtres dans l'art de brouiller la frontière entre le réel et le faux.\nCe qui les rend encore plus dangereux, c'est leur capacité à reproduire les puissantes techniques de combat de leurs cibles.\nPersonne ne sait comment ils obtiennent des renseignements aussi détaillés sur leurs cibles. D'après certains, ils peuvent lire dans les pensées, puisant dans le cauchemar parfait situé dans la mémoire de leur adversaire et prenant cette forme avant de lancer leur attaque.\n« Balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant une sandale ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "Au combat, cet ennemi utilise des compétences identiques à celles de sa cible, lançant de féroces attaques avec des lames et des armes à feu. Après avoir subi une certaine quantité de DGT, il active son champ miasmatique et déclenche de puissantes attaques perforantes à grande vitesse."
+        },
+        "300402": {
+            "monster_id": 300402,
+            "monster_name": "Miasmatique - Komano Manato",
+            "card_text": "Une forme remodelée d'une création déchue dans des profondeurs obscures et impures.\nMême parmi les ennemis Ionisés, qui sont bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original. Du détail à la texture, ces créatures sont passées maîtres dans l'art d'imiter l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations des sujets qu'ils imitent.\nCertaines rumeurs suggèrent qu'ils peuvent lire dans les pensées, et prendre dans celles de leurs adversaires la forme de l'ennemi le plus redoutable pour lui avant d'attaquer.\n« Balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant une sandale ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, le Miasmatique Doppelganger - Komano Manato lance des attaques féroces contre vous. Vous devez donner tout ce que vous avez pour parer ses compétences. En réussissant un soutien défensif contre une de ses compétences, vous pouvez interrompre son attaque. Si vous parvenez à faire un soutien défensif sur une de ses puissantes compétences, vous pouvez le mettre en état Affaibli. Après avoir subi une certaine quantité de DGT, il activera son champ miasmatique et déclenchera de puissantes attaques"
+        },
         "930151": {
             "monster_id": 930151,
             "monster_name": "Bangbou doré",
             "card_text": "Le Bangbou doré <color=#D9A600>se déplace très rapidement et possède beaucoup de PV</color>, mais n'attaque pas les Bangbous. Éliminez-le, et vous pourriez <color=#D9A600>recevoir une surprise</color>.",
             "card_quote": null,
             "skill_text": "PV : Élevés\nATQ : Moyenne\nVitesse de déplacement : Rapide\nMenace : <color=#FF3333>Élevée</color>"
+        },
+        "930170": {
+            "monster_id": 930170,
+            "monster_name": "Bangbou mécha doré",
+            "card_text": "D'après les légendes urbaines qui circulent parmi les écumeurs de Néantres, si les Bangbous dorés ne cessent de collecter des dennies et des pièces rouages dans les Néantres, c'est dans un seul et unique but : extraire les métaux nécessaires au financement de la construction du Mécha doré. (Bien entendu, ce soi-disant « or » n'est en réalité qu'un alliage de chrome et de cuivre, car seul cet alliage peut offrir assez de résistance pour soutenir une structure aussi magnifique.)\nLorsque le Mécha doré sera achevé, le Bangbou ayant le plus contribué entrera dans le cockpit, entouré de ses compagnons Bangbous, et se transformera en \t\nMéchabou du Mécha doré pour écraser les ennemis qui osent s'attaquer aux Bangbous dorés à l'aide de techniques de combat flashantes et dévastatrices.\n« Ruée vers l'or », « Rayon d'or en fusion », « Missile doré »...\nCes compétences ont des noms plutôt étranges, mais les Bangbous les trouvent très classes !\n« Regardez ! C'est le Méchabou du Mécha doré !\n— N—N'ayez pas peur ! Si on arrive à l'abattre, on sera riches ! »...\nMême si les vils écumeurs de Néantres le considèrent souvent comme un coffre-fort ambulant, les Bangbous, eux, le trouvent absolument génial !",
+            "card_quote": "— « Ehn-ne, ehn ehn-ne ne ne !\n(Le dieu des Bangbous dorés, se dresse fièrement au-dessus du monde !) »",
+            "skill_text": "Le Bangbou mécha doré équipé du tout nouveau système d'Armure dorée. Lorsqu'il active l'Armure dorée, il recharge au maximum son bouclier, grâce auquel sa RÉS éthérique est grandement augmentée, tandis que sa RÉS électrique est grandement diminuée. Le Bangbou mécha doré dispose d'un système de propulsion aérienne avancé qui lui permet d'esquiver et de voler tout en attaquant. Cependant, le vol ne peut durer qu'un temps limité."
+        },
+        "930175": {
+            "monster_id": 930175,
+            "monster_name": "Miasmatique - Jane",
+            "card_text": "Une forme remodelée d'une création déchue dans des profondeurs obscures et impures.\nMême parmi les ennemis Ionisés, qui sont bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original. Du détail à la texture, ces créatures sont passées maîtres dans l'art d'imiter l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations des sujets qu'ils imitent.\nCertaines rumeurs suggèrent qu'ils peuvent lire dans les pensées, et prendre dans celles de leurs adversaires la forme de l'ennemi le plus redoutable pour lui avant d'attaquer.\n« Balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant une sandale ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "Durant le combat, cet ennemi active un champ miasmatique à des moments précis, bloquant et contrant les attaques lorsque nécessaire, mais il devient vulnérable après avoir terminé son combo."
+        },
+        "930176": {
+            "monster_id": 930176,
+            "monster_name": "Miasmatique - Exécuteur abyssal",
+            "card_text": "Une forme remodelée d'une création déchue dans des profondeurs obscures et impures.\nMême parmi les ennemis Ionisés, qui sont bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original. Du détail à la texture, ces créatures sont passées maîtres dans l'art d'imiter l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations des sujets qu'ils imitent.\nCertaines rumeurs suggèrent qu'ils peuvent lire dans les pensées, et prendre dans celles de leurs adversaires la forme de l'ennemi le plus redoutable pour lui avant d'attaquer.\n« Balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant une sandale ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "En combat, cet ennemi esquive les attaques à certains moments et active Œil de lynx, ainsi qu'un champ miasmatique, suivis d'une puissante impulsion. Cette compétence peut être contrée par une esquive parfaite ou un soutien parfait."
+        },
+        "930177": {
+            "monster_id": 930177,
+            "monster_name": "Miasmatique - Doppelganger",
+            "card_text": "Une forme remodelée d'une création déchue dans des profondeurs obscures et impures.\nMême parmi les ennemis Ionisés, qui sont bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original. Du détail à la texture, ces créatures sont passées maîtres dans l'art d'imiter l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combats propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations des sujets qu'ils imitent.\nCertaines rumeurs suggèrent qu'ils peuvent lire dans les pensées, et prendre dans celles de leurs adversaires la forme de l'ennemi le plus redoutable pour lui avant d'attaquer.\n« Balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant une sandale ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "Au combat, cet ennemi utilise des compétences identiques à celles de la cible qu'il imite, et utilise la Corruption miasmatique pour générer des champs miasmatiques à certains moments."
         }
     }
 }

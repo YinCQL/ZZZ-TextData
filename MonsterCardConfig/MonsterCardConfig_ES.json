@@ -53,14 +53,14 @@
             "monster_id": 10026,
             "monster_name": "Espíritu errante",
             "card_text": "Como si el entorno artístico de las Bailarinas Mellizas hubiera influido en él, el espíritu errante tiene una extraña estructura retorcida como la de una escultura contemporánea.\nAlgunos investigadores creen que su forma tan peculiar sirve para proteger mejor su núcleo etéreo.\nPero otros investigadores insisten en se trata de una trampa para distraer a sus enemigos. Al distraerse por su extraña postura, el espíritu errante utiliza éter concentrado para ejecutar ataques de largo alcance.\n«Me quedé viéndolo por un instante y pensé: \"¿está usando su propia cabeza como bola de bolos?\". Antes de darme cuenta, su \"bola de bolos\" estaba justo en mis narices.»",
-            "card_quote": "—Publicación anónima en la red proxy",
+            "card_quote": "— Publicación anónima en la red proxy",
             "skill_text": "El espíritu errante ejecuta ataques continuos a distancia durante un breve periodo de tiempo."
         },
         "10029": {
             "monster_id": 10029,
             "monster_name": "Motor del observador",
             "card_text": "A pesar de que, según la base de datos de la Asociación de Investigación de Cavidades, el motor del observador solo representa un peligro al acercarse a él, en realidad, este ser puede llegar a convertirse en un dolor de cabeza para los investigadores.\nCuando su ojo fija su mirada en el objetivo y se abalanza sobre él desde las sombras, hasta los investigadores más experimentados sienten un miedo indescriptible.\nY en las Cavidades, normalmente el miedo solo empeora los síntomas de corrupción, lo que termina en desastre.\n«La única forma de acabar con el miedo es mirándolo fijamente.»",
-            "card_quote": "— Recopilación de consejos de un investigador experimentado en el foro «Supernova Hoy»",
+            "card_quote": "— Recopilación de consejos de un investigador veterano en el foro «Supernova Hoy»",
             "skill_text": "El motor del observador aprovecha su complexión para desplazarse rodando."
         },
         "10030": {
@@ -133,6 +133,13 @@
             "card_quote": "— Expediente de investigación KU241 de la Cavidad Cero: grabación oral del primer avistamiento de un avispón.",
             "skill_text": "Los avispones asisten a Nínive, distrayendo al enemigo."
         },
+        "20032": {
+            "monster_id": 20032,
+            "monster_name": "Pugnus ionizado",
+            "card_text": "Este ser ionizado de la Cavidad no se preocupa por ocultar su rastro, y cada una de sus púas inspira temor. Cubierto de una coraza con púas afiladas en su espalda y cola, sus brazos son unas enormes pinzas pesadas que no solo sirven como arma, sino también como tambores de guerra que golpean la tierra para marcar su territorio. El pugnus acostumbra a acechar en las sombras, pero puede abalanzarse sobre sus presas en un instante y usar todo su peso junto con el de sus pinzas para aplastar al objetivo. La onda de choque es suficiente para hacer perder el equilibrio a los novatos, mientras que los escombros que levanta bloquean todas las rutas de escape. Su ritmo de ataque parece depender de las vibraciones del suelo para localizar a su presa antes de terminar la batalla con un asalto explosivo. Curiosamente, algunos saqueadores de Cavidades que han lidiado con el pugnus durante años han desarrollado un peculiar método de exploración ligera.\n\n«Antes siempre perdía el equilibrio por los temblores que provocaba, pero luego aprendí a moverme rápidamente caminando de puntillas. ¡Me he vuelto tan bueno que ahora incluso llego a ganar las carreras de zancos en los festivales!»",
+            "card_quote": "— Extracto de «Pasatiempos en los escollos de las Cavidades» compartido por el supuesto sucesor del método de exploración ligera",
+            "skill_text": "En combate, el pugnus ionizado tiende a usar sus fuertes brazos para lanzar martillazos consecutivos y ejecutar un ataque coordinado con los pinchos de su cabeza y su cola. Además, cuando el pugnus ionizado golpea el suelo, ejecuta un ataque en un área grande."
+        },
         "30000": {
             "monster_id": 30000,
             "monster_name": "Dullahan",
@@ -175,6 +182,13 @@
             "card_quote": "— «Entrevista de la Cavidad», edición n.º 251. Entrevista a un investigador de Cavidades que sobrevivió",
             "skill_text": "Las marionetas mellizas ejecutan una gran cantidad de técnicas en cadena. Si, durante algunos de sus ataques, ejecutas una gran cantidad de apoyos defensivos, las interrumpirás. Cuando una de las marionetas mellizas sea derrotada, la otra intentará resucitarla."
         },
+        "30013": {
+            "monster_id": 30013,
+            "monster_name": "Caminante miasmático: escorpiosqueleto",
+            "card_text": "En las tierras desoladas, completamente devoradas por la Cavidad, dormía en paz... hasta que llegó «aquel poder».\nEste poder invasivo y contaminante, como un artesano habilidoso pero malévolo, lo rellenó con una energía oscura más pura, transformándolo en lo que ahora es, el «escorpiosqueleto miasmático».\nPoco a poco, parece haber comprendido el truco de la «existencia» a través de la imitación. Puede dividir su energía miasmática para crear múltiples «mimos» aparentemente reales.\nEstos mimos poseen un poder ofensivo casi idéntico al del original. Emplean deslumbrantes ataques desde múltiples ángulos para ocultar la singular y letal «verdad».\nCuando te enfrentes a su asedio, recuerda bien esto: todo lo que ves es ilusorio, todo lo que perciben tus sentidos es una trampa.\n«Solo eliminando todas las distracciones y alcanzando la lucidez para ver la única \"verdad\", podrás encontrar un atisbo de esperanza en esta danza ilusoria de la muerte.»",
+            "card_quote": "— Valiente explorador",
+            "skill_text": "Durante el combate, el caminante miasmático: escorpiosqueleto se oculta y utiliza sus mimos para atacar al jugador. Al activar el apoyo defensivo o el contraataque contra los mimos, el caminante miasmático: escorpiosqueleto quedará derribado y aturdido durante un tiempo. Al entrar en el dominio miasmático, el caminante miasmático: escorpiosqueleto invocará más mimos para realizar ataques coordinados. Además, el caminante miasmático: escorpiosqueleto escupe grandes cantidades de veneno que contienen sacos de huevos de araña explosiva miasmática, lo que causa daño por múltiples explosiones."
+        },
         "30017": {
             "monster_id": 30017,
             "monster_name": "Cyrtoidea ionizado",
@@ -191,7 +205,7 @@
         },
         "30020": {
             "monster_id": 30020,
-            "monster_name": "Doppelgänger - Jane",
+            "monster_name": "Doppelgänger de Jane",
             "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
             "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
             "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Sus ataques son extremadamente feroces y, a veces, incluso contraatacará ante los golpes de sus enemigos. Sin embargo, expondrá su punto débil al final de cada combo."
@@ -203,12 +217,40 @@
             "card_quote": "— Declaraciones en caliente de un miembro de una banda de saqueadores de Cavidades al ser arrestado",
             "skill_text": "Durante el combate, Tracio emplea repetidamente habilidades especiales para entrar en el estado de reserva eléctrica. En este estado se vuelve muy violento y provoca una explosión en un área grande tras ejecutar ataques de gran poder."
         },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Protozoario espinoso",
+            "card_text": "El éter es un parásito voraz e insaciable que devora la vida.\nEl protozoario espinoso es una manifestación del éter aún más maligna. Al hospedarse en el cuerpo de sus crueles compañeros, el tyrfing y el alpeca, pueden satisfacer su voracidad más salvaje.\n«¡Quítenmelo de la cara!».",
+            "card_quote": "— Un científico de seres etéreos al darse cuenta de que es solo un insecto saltarín",
+            "skill_text": "El protozoario espinoso deambula continuamente en busca de un tyrfing o un alpeca huésped."
+        },
         "30029": {
             "monster_id": 30029,
             "monster_name": "Doppelgänger ionizado",
             "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
             "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
-            "skill_text": null
+            "skill_text": "Este enemigo ejecuta movimientos idénticos a los del ser que imita."
+        },
+        "30031": {
+            "monster_id": 30031,
+            "monster_name": "Palicus",
+            "card_text": "Unos seres etéreos temibles que siempre aparecen por parejas y son fáciles de reconocer por sus distintivos rasgos físicos. Una profunda conexión parece unirlos a los dos.\n\n«¡Eso sí que ha estado cerca! No te centres solo en una de ellas. Debes estar atento al ataque de ambas.»\n«¿Has dicho \"ellas\"? ¿Has estado tanto tiempo en la Cavidad que ahora hasta los seres etéreos te parecen atractivos?»\n«¡No seas tonto! Conozco a los seres etéreos y a las mujeres, y te aseguro que las palicus son señoritas».\n«¿Lo dices en serio?»\n«¿Tú has visto esa melena larga? ¡Esas piernas! Es el prototipo de una mujer. Esa expresión me la enseñó mi hermana.»\n«¿Cómo está tu hermana últimamente?»\n«Por fortuna, ya se encuentra mejor. Pero los deniques para pagar los medicamentos del próximo mes... tendrán que salir de este par de bellezas.»\n«Ser el hermano mayor no es fácil, ¿eh? Hagamos esto, yo te echo una mano con las palicus, ¡y tú me das el número de tu hermana!»\n«¡Oye! ¡Yo no he aceptado ese trato!»",
+            "card_quote": "— Las últimas palabras de dos jóvenes saqueadores de Cavidades",
+            "skill_text": "Las palicus ejecutan ataques coordinados cuerpo a cuerpo y a distancia. Cuando una de ellas es eliminada, la otra entra en estado de furia y sus ataques se vuelven más agresivos."
+        },
+        "30032": {
+            "monster_id": 30032,
+            "monster_name": "Geppetto",
+            "card_text": "Como uno de los seres etéreos simbióticos más temibles de la Cavidad Cero, la complexión única de Geppetto a menudo da una impresión perturbadora a quienes lo ven por primera vez.\nSu enorme y aterrador cuerpo contiene energía etérea volátil. Sus movimientos son como los de un titiritero que ejecuta constantemente movimientos impredecibles. En ausencia de datos de observación, encontrar a Geppetto en la Cavidad Cero a menudo es una experiencia infinitamente terrible y una muerte inevitable.\nTomando en cuenta los registros de nidos etéreos simbióticos, algunos científicos especulan que su coraza gigante es solo una fachada, y lo que en realidad lo controla es un núcleo de éter altamente volátil que se encuentra en un estado supercrítico.\nLamentablemente, hasta ahora no existe ningún registro de investigación sobre ese núcleo misterioso.\n«Nunca he visto a la muerte, pero sé cómo se ve el títere de la muerte...»",
+            "card_quote": "— Entrevista a un investigador veterano de la Cavidad Cero en una edición especial de «Té en la Cavidad»",
+            "skill_text": "Geppetto ejecuta ataques en un área grande usando su propio cuerpo y energía etérea. Cuando sus manos y cola reciben cierto daño, se destruyen y queda paralizado. Geppetto puede reparar las partes dañadas mientras invoca enemigos etéreos o despliega un Velo fantasmagórico. Además, el Velo fantasmagórico de Geppetto provoca el estado de suspensión en los oponentes que lo tocan, reduciendo su velocidad de movimiento e impidiendo el uso de técnicas."
+        },
+        "30033": {
+            "monster_id": 30033,
+            "monster_name": "Sacerdote miasmático",
+            "card_text": "Para Nueva Eridu, las Cavidades son desastres ausentes de esperanza. Cada vez que una Cavidad se expande, el miedo, la muerte, el dolor... toda forma de desesperación carcome la mente humana y altera el destino de decenas de miles de personas\nLa calamidad provino de las entrañas de la Cavidad, pero hubo quienes escucharon una extraña llamada y, en medio de la desesperación, alcanzaron a ver un rayo de esperanza y redención\nDesde entonces, atendiendo a esta llamada misteriosa, formaron una organización secreta, y los sacerdotes miasmáticos se ocultaron en las sombras de Eridu, difundiendo su bendición entre aquellos que se han perdido en el camino.\nLos sacerdotes miasmáticos creen que la expansión de la Cavidad no es una simple catástrofe natural. Generaciones de ellos han perseguido incansablemente la anhelada verdad en las Cavidades, convencidos de que, algún día, la voluntad de la Cavidad finalmente se materializará.\nSin embargo, en este proceso, es necesario sacrificar algunas cosas e inevitablemente surgen problemas menores. A pesar de ser perseguidos por los Agonistas de la Vacuidad y las grandes organizaciones, ellos no lo consideran más que meros contratiempos en el camino hacia la verdad.\nDespués de grandes esfuerzos, los sacerdotes miasmáticos finalmente han alcanzado una forma casi perfecta y un grado de preparación que les permita invocar esa voluntad desde la Cavidad y traerla al mundo. El miasma que envuelve a los sacerdotes miasmáticos, esa materia corrompida intocable para otros, se ha convertido en su brillante arma y su reluciente armadura.\n¿Qué más pruebas se necesitan para demostrar que los sacerdotes miasmáticos han sido ungidos con la bendición?\n«Su voluntad al fin se manifestará en este mundo.»\n«Lo único que tienen que hacer es muy sencillo.»\n«Escuchen, obedezcan, y entonces... ¡recibirán la bendición!»",
+            "card_quote": "— Palabras de un sacerdote miasmático durante una ceremonia",
+            "skill_text": "El sacerdote miasmático alterna diferentes fases y utiliza movimientos especiales específicos en cada una de ellas. Durante algunos de los movimientos del sacerdote miasmático, cuando el agente activa un apoyo perfecto, no consume puntos de apoyo. Después de activar un apoyo defensivo varias veces en un corto periodo de tiempo, el sacerdote miasmático entra en un estado de confusión especial durante el cual el daño que el agente le inflige al sacerdote miasmático aumenta."
         },
         "35001": {
             "monster_id": 35001,
@@ -291,7 +333,7 @@
             "monster_id": 100261,
             "monster_name": "Espíritu errante energizado",
             "card_text": "Como si el entorno artístico de las Bailarinas Mellizas hubiera influido en él, el espíritu errante tiene una extraña estructura retorcida como la de una escultura contemporánea.\nAlgunos investigadores creen que su forma tan peculiar sirve para proteger mejor su núcleo etéreo.\nPero otros investigadores insisten en se trata de una trampa para distraer a sus enemigos. Al distraerse por su extraña postura, el espíritu errante utiliza éter concentrado para ejecutar ataques de largo alcance.\n«Me quedé viéndolo por un instante y pensé: \"¿está usando su propia cabeza como bola de bolos?\". Antes de darme cuenta, su \"bola de bolos\" estaba justo en mis narices.»",
-            "card_quote": "—Publicación anónima en la red proxy",
+            "card_quote": "— Publicación anónima en la red proxy",
             "skill_text": "El espíritu errante ejecuta ataques continuos a distancia durante un breve periodo de tiempo."
         },
         "100301": {
@@ -334,7 +376,7 @@
             "monster_name": "Hati infame",
             "card_text": "Un ser etéreo altamente peligroso. A pesar de su apariencia de una bestia cuadrúpeda, es sumamente inteligente. Existen registros de esta criatura desde la primera expedición oficial de la Asociación de Investigación de Cavidades.\nSe dice que fueron vistos por primera vez en una madriguera dentro de una Cavidad. Los nómadas que rondaban por los alrededores alcanzaban a escuchar sus aullidos, similares a los de una bestia salvaje.\n«Si les lanzo un palo o una pelota, ¿crees que irán a recogerlo?»\n«Inténtalo si quieres, pero no pienso pagar el hospital.»",
             "card_quote": "— Conversación entre Billy y Nicole",
-            "skill_text": "Descripción de habilidad de monstruo - Marcador de posición temporal"
+            "skill_text": "El hati es capaz de desplazarse a gran velocidad y ejecutar rápidos zarpazos."
         },
         "200015": {
             "monster_id": 200015,
@@ -380,21 +422,21 @@
         },
         "200231": {
             "monster_id": 200231,
-            "monster_name": "Doppelgänger - Mors",
+            "monster_name": "Doppelgänger de Mors",
             "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
             "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
-            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Puede elegir entre acercarse a los enemigos para atacarlos con combos cuerpo a cuerpo o dispararles a distancia, dependiendo de las circunstancias. Cuando sus PV están por debajo de cierta cantidad o cuando ha pasado cierto tiempo, utiliza un ataque a distancia adicional o se desplaza rápidamente para ejecutar un disparo sorpresa desde un ángulo letal."
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Puede elegir entre acercarse a los enemigos para atacarlos con combos cuerpo a cuerpo o dispararles a distancia, dependiendo de las circunstancias. Cuando sus PV están por debajo de cierta cantidad o cuando ha pasado cierto tiempo, utiliza un ataque subsiguiente a distancia o se desplaza rápidamente para ejecutar un disparo sorpresa desde un ángulo letal."
         },
         "200241": {
             "monster_id": 200241,
-            "monster_name": "Doppelgänger - Pulchra",
+            "monster_name": "Doppelgänger de Pulchra",
             "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
             "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
-            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Guarda distancia de su presa y aprovecha el momento oportuno atacar con su pistola con navaja. Cuando sus PV están por debajo cierta cantidad, utiliza algún medio desconocido que aumenta su capacidad de evasión. En este estado potenciado, evita los ataques a corta distancia."
+            "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Guarda distancia de su presa y aprovecha el momento oportuno atacar con su pistola con navaja. Cuando sus PV están por debajo cierta cantidad, utiliza algún medio desconocido que aumenta su capacidad de evasión. En este estado de fortalecimiento, evita los ataques a corta distancia."
         },
         "200251": {
             "monster_id": 200251,
-            "monster_name": "Doppelgänger - Bellum",
+            "monster_name": "Doppelgänger de Bellum",
             "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
             "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
             "skill_text": "Durante el combate, este enemigo ejecuta exactamente los movimientos de su modelo de imitación. Utiliza su pistola con navaja, escudo y lanzallamas tres en uno para atacar al enemigo desde cerca. Si recibe un ataque mientras alza el escudo, ejecuta un poderoso contraataque. Cuando sus PV estén por debajo de cierta cantidad o si ha pasado cierto tiempo, sus ataques serán más agresivos y más frecuentes."
@@ -425,7 +467,7 @@
             "monster_name": "Dullahan infame",
             "card_text": "Un poderoso ser etéreo humanoide que se vio por primera vez en la Cavidad Lagunaria, cuyos apuntes se encuentran en los informes de la tercera expedición de la Asociación de Investigación de Cavidades. Hasta ahora, se desconoce si el origen de este organismo etéreo está relacionado con la caída de Bruz, la ciudad aledaña.\nDebido a su gran fuerza y sus técnicas inteligentes de pelea, la Asociación de Investigación de Cavidades lo clasifica como un riesgo medio. Se recomienda a los investigadores novatos mantener la distancia y evitar la confrontación directa con ellos.\n«No dejes que ilumine su espada. Y si lo hace... ¡no dejes que te corte la cabeza!»",
             "card_quote": "— Segmento del programa de variedades de edición especial «¡Enséñame, líder!»",
-            "skill_text": "El dullahan infame acumula fuerza para después arrojarse hacia delante con un poderoso espadazo. Mientras acumula fuerza, utiliza ataques de gran poder para interrumpirlo. Además, el dullahan infame usa hábilmente su escudo para bloquear ataques. Tras bloquearlos, ejecuta rápidamente una habilidad."
+            "skill_text": "El dullahan infame acumula fuerza para después arrojarse hacia delante con un poderoso espadazo. Mientras acumula fuerza, utiliza ataques de gran poder para interrumpirlo. Además, el dullahan infame usa hábilmente su escudo para bloquear ataques. Tras bloquearlos, enlaza rápidamente una habilidad."
         },
         "300011": {
             "monster_id": 300011,
@@ -460,7 +502,7 @@
             "monster_name": "Carnicero del Callejón infame",
             "card_text": "A diferencia de otros seres etéreos altamente peligrosos, el Carnicero del Callejón posee un cuerpo gigantesco, pero el éter en su interior normalmente se encuentra inactivo.\nAun así, el Carnicero del Callejón es lo suficientemente fuerte como para destruir lo que se le atraviese. Toda la retorcida área del metro es su «matadero».\nEl Carnicero del Callejón solo adoptará su forma más aterradora cuando una amenaza despierte su interés.\nEl éter concentrado acumulado en su cuerpo se intensificará en cuestión de milisegundos. La enorme cantidad de energía provoca que sus extremidades se distorsionen a gran velocidad para entrar en un estado devorador.\nEso significa que la hora del aperitivo ha llegado a su fin y ha comenzado el verdadero festín.\nSi no quieren formar parte del banquete, los saqueadores de Cavidades que entren por error en su territorio avanzar con cuidado y mantenerse lejos del «matadero»...\n«La ruta de esta Cavidad es complicada. Lo único certero es que, cuando él aparece al otro lado del camino, este se convierte en un callejón sin salida.»",
             "card_quote": "— Expediente n.º 17 sobre la Cavidad sin Retorno de la Asociación de Investigación de Cavidades",
-            "skill_text": "El Carnicero del Callejón infame puede utilizar la energía etérea para ejecutar varios tipos de ataques a distancia y distorsionar el espacio para crear objetos miméticos."
+            "skill_text": "El Carnicero del Callejón infame puede utilizar con gran habilidad energía etérea para ejecutar varios tipos de ataques a distancia. También puede entrar en el estado de potenciación etérea para aumentar su Ataque. Provocarle Aturdimiento cancela su estado de potenciación etérea."
         },
         "300121": {
             "monster_id": 300121,
@@ -468,6 +510,27 @@
             "card_text": "Muchos años atrás, dos bailarinas hermanas que tuvieron un ascenso meteórico fueron invitadas a participar en un magnífico espectáculo en las opulentas Bailarinas Mellizas.\nSin embargo, cuando el telón estaba a punto de caer, una Cavidad surgió de la nada, engullendo, as Bailarinas Mellizas a su paso. Las dos hermanas cayeron presas de la oscuridad. Al escuchar la noticia, admiradores de todos los rincones del mundo se sintieron devastados.\nA día de hoy, solo es posible admirar sus bellos pasos de baile en los escasos fragmentos de video e imágenes que todavía se conservan.\nSolo algunos saqueadores de Cavidades saben que cuando los ecos olvidados de la melodía del ballet resuena en las Bailarinas Mellizas, las marionetas mellizas emergen de entre las sombras. Se rumorea que esas dos figuras están directamente relacionadas con las bailarinas a las que tan terrible final les aguardó durante aquel espectáculo. Se dice que aún esperan poder llevar a cabo el gran final que nunca bailaron.\n«Cuando la estremecedora melodía entone su última nota, las dos marionetas emergerán de la oscuridad para deleitarnos con un presente...»\n«¿Eh? Entonces... ¿Quiere decir eso que el espectáculo ya ha comenzado?»\n«No, creo que lo que quiere decir es que... es demasiado tarde para huir. Este es el final.»",
             "card_quote": "— «Entrevista de la Cavidad», edición n.º 251. Entrevista a un investigador de Cavidades que sobrevivió",
             "skill_text": "La marioneta infame invoca a su compañera para ejecutar ataques. Al eliminar a una de las dos, aumentará la duración del siguiente Aturdimiento."
+        },
+        "300301": {
+            "monster_id": 300301,
+            "monster_name": "Doppelgänger de Castigador Sombrío",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "El doppelgänger de Castigador Sombrío evade al oponente y activa la visión extrema, para luego ejecutar un poderoso ataque con impulso. Este movimiento puede ser contrarrestado con una evasión perfecta o un apoyo perfecto."
+        },
+        "300371": {
+            "monster_id": 300371,
+            "monster_name": "Doppelgänger de Desertora",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nIncluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su minuciosidad es tal que resulta prácticamente imposible apreciar diferencias tanto en la textura como en los detalles del objetivo original.\nLo que todavía resulta más peligroso es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr emular a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo utiliza movimientos idénticos a los del ser que imita, con lo que ejecuta ataques feroces con espada y pistola."
+        },
+        "300401": {
+            "monster_id": 300401,
+            "monster_name": "Doppelgänger de Komano Manato",
+            "card_text": "Incluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, el doppelgänger de Komano Manato ionizado ejecuta ataques feroces contra ti. Debes esforzarte al máximo para defenderte de sus habilidades. Al ejecutar con éxito un apoyo defensivo contra algunas de sus habilidades, puedes interrumpir sus ataques. Si logras ejecutar un apoyo defensivo contra sus habilidades más poderosas, puedes dejarlo en estado debilitado."
         },
         "930146": {
             "monster_id": 930146,
@@ -537,7 +600,7 @@
             "monster_name": "Arlaune",
             "card_text": "Un enemigo muy peligroso que puede ejecutar <color=#D9A600>ataques a distancia</color>. Al bloquear su ataque, libera una niebla toxina que inflige daño a <color=#D9A600>todos los bangbús cercanos</color>. Se recomienda desplegar <color=#D9A600>bangbús bondadosos</color> para hacerle frente.",
             "card_quote": null,
-            "skill_text": "PV: muy altos\nAtaque: medio\nDefensa: 33\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
+            "skill_text": "PV: muy altos\nAtaque: medio\nDefensa: media\nVelocidad: lenta\nNivel de amenaza: <color=#FF3333>extremo</color>"
         },
         "930159": {
             "monster_id": 930159,
@@ -580,6 +643,62 @@
             "card_text": "Las arañas explosivas son relativamente rápidas y pueden detonarse alrededor de los bangbús, infligiendo daño a <color=#D9A600>todos los bangbús</color>. Se recomienda desplegar un <color=#D9A600>Cartonbú</color> con un aguante muy alto para detenerlas.",
             "card_quote": null,
             "skill_text": "PV: bajos\nAtaque: bajo\nVelocidad: rápida\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930166": {
+            "monster_id": 930166,
+            "monster_name": "Tepes",
+            "card_text": "Presa de un control disfrazado de amor, en su búsqueda del afecto de su padre, la joven no dudó en engañar a las víctimas que habían perdido a sus seres queridos en la Cavidad.\nPensaba que, si ayudaba a su padre a ocultar el secreto del suero de la «bendición», si no escuchaba los gritos de dolor de las personas corrompidas, si el experimento siniestro no salía a la luz, sus lazos de sangre serían inquebrantables.\nPero lo que la esperaba al final era la escena de su familiar desplomado en un charco de sangre y exhalando su último aliento.\nDespués de eso, el odio y la envidia se clavarían en su corazón permanentemente como si fueran espinas.\nLos engranajes de la venganza carcomieron los últimos indicios de razón que tenía la joven, quien consagró su vida a un propósito retorcido a partir de las notas que dejó su padre. El curso de su vida era como una oscura fábula sobre la obsesión.\nCuando sus compañeros del pasado le tendieron la mano para ayudarla, la joven había elegido un camino sin retorno. O más bien, las palabras que le dijeron en un intento de llevarla de vuelta a la luz quedaron atrapadas entre las espinas de la envidia, la obsesión y el odio que guardaba en lo más profundo de su corazón.\nFinalmente, cuando el sol estaba a punto de ponerse, incontables espinas emergieron desde su interior y empalaron su cuerpo, cada una de ellas unida a los gritos de quienes habían sido abandonados.\nTepes, tú que sufriste el empalamiento por las espinas, lleva tu odio hasta lo más profundo del abismo.\n«Su sonido es más desgarrador que el de cualquier otro ser etéreo, especialmente por las noches. Si prestas atención, se asemeja al llanto de una joven...»",
+            "card_quote": "— Nota escrita por un investigador del Instituto Estrella Blanca tras analizar el audio.",
+            "skill_text": "Durante el combate, Tepes usa frecuentemente los martillos en ambas manos para ejecutar poderosos ataques. Además, tiene un efecto de reducción de daño. Si bloqueas varios ataques de Tepes mediante el apoyo defensivo, sus martillos sufrirá daño. Al provocar una parte dañada, El punto débil de Tepes quedará expuesto. Además, perderá su reducción de daño y será afectado por vulnerabilidad de Aturdimiento."
+        },
+        "930168": {
+            "monster_id": 930168,
+            "monster_name": "Banyrek",
+            "card_text": "En los informes de la Asociación de Investigación de Cavidades, Banyrek ha sido marcado repetidamente como «peligroso», principalmente porque... se le da muy bien saltar.\nSi se celebraran unas olimpiadas de seres etéreos en la Cavidad, sin duda se llevaría el oro tanto en salto de altura como de longitud. Según los registros de observación, Banyrek puede saltar durante horas sin mostrar signos de fatiga, como si el espacio entre el aire y el suelo fueran su pista de carreras.\nAlgunos científicos bromean diciendo que si algún día lo soltaran en algún distrito de Nueva Eridu, lo recorrería de este a oeste a saltos en solo un día.\n\n«¿Y si intentamos domesticarlo para montarlo?»\n«Mejor no. Con esa energía explosiva que tiene, sería más rentable usarlo para generar electricidad.»",
+            "card_quote": "— Charla con un saqueador de Cavidades que escapó de un encuentro directo con Banyrek",
+            "skill_text": "Banyrek escupe charcos miasmáticos en el suelo, los cuales absorbe para fortalecerse. Además, la corrupción miasmática de sus técnicas es muy fuerte. Al golpear un charco miasmático con ciertas habilidades, provocará una explosión."
+        },
+        "930169": {
+            "monster_id": 930169,
+            "monster_name": "Devorador miasmático: Avarus",
+            "card_text": "En los informes de la Asociación de Investigación de Cavidades, Avarus recibe burlonamente el apodo de «la encarnación de la gula», pues su figura barrigona lo hace parecer un monstruo perezoso a punto de quedarse dormido.\nSin embargo, no se debe subestimar su poder. Según los registros de observación, Avarus puede contraer su cuerpo hasta convertirse en una bola y lanzar ataques violentos contra sus objetivos a una velocidad asombrosa.\nEn cuanto a por qué mantiene esa figura tan redonda a pesar de su intenso nivel de actividad física, eso es algo que la Asociación sigue investigando.\n\n«Cuando rueda, me recuerda a mi hámster, solo que un poco más grande.»\n«¿Solo un poco más grande?»",
+            "card_quote": "— Anotaciones de una charla casual entre dos investigadores",
+            "skill_text": "El devorador miasmático: Avarus utiliza su enorme cuerpo para realizar ataques rodantes. Al ejecutar un apoyo defensivo para contrarrestar este movimiento 3 veces seguidas, puedes interrumpir su ataque rodante y exponer su punto débil. Cuando reciba cierta cantidad de daño durante el combate, activa el dominio miasmático."
+        },
+        "930171": {
+            "monster_id": 930171,
+            "monster_name": "Cangrejo pescador",
+            "card_text": "Su alimentación se basa principalmente en investigadores novatos, saqueadores de Cavidades inexpertos y aventureros ingenuos, imprudentes y codiciosos.\nEl cangrejo pescador es el terror de los incautos y el cazador más paciente de la Cavidad.\nAntes de lanzarte hacia un contenedor de suministros de la Cavidad, recuerda estas palabras:\nNo te conviertas en el hazmerreír de tus colegas durante la cena de esta noche ni en el protagonista del obituario presente en todos sus correos mañana.\n\n«¿Un mímico? ¿Has estado jugando a demasiados juegos de mesa?»",
+            "card_quote": "— Registro de audio proporcionado por un investigador novato encargado de la recuperación de recursos durante la demanda de una compensación laboral.",
+            "skill_text": "Durante el combate, el cangrejo pescador se mueve rápidamente de lado y utiliza sus dos pinzas para lanzar feroces ataques mientras se protege con un duro caparazón. Después de recibir un ataque violento, el cangrejo pescador entra en modo defensivo. Si cuenta con la protección de su caparazón, sale del modo defensivo después de un rato para lanzar un contraataque devastador. Sin embargo, si no tiene caparazón y recibe múltiples ataques, el cangrejo pescador es derrotado y se queda en estado paralizado."
+        },
+        "930172": {
+            "monster_id": 930172,
+            "monster_name": "Huskron",
+            "card_text": "Huskron, con sus dos formas antes y después de la eclosión, ha estado causando problemas tanto a investigadores novatos como veteranos. La Asociación de Investigación de Cavidades ofrece el siguiente consejo: ¡eviten pisar el miasma, y si encuentran un objeto esférico similar a una roca, ataquen inmediatamente! ¡No duden ni por un instante! ¡NO DUDEN NI POR UN INSTANTE!\nSegún ciertas fuentes, el consejo originalmente no tenía esta repetición al final, hasta que algunos investigadores de Cavidades astutos intentaron rodear a un huskron incluso después de leer la advertencia. Esta táctica resultó tan inefectiva como cuando uno intenta abrir la nevera por la noche a escondidas para no despertar al perro de la casa.\n\n«Me gusta más su forma antes de eclosionar, es redondita como una pelota.»\n«¿Es esa tu excusa para no atacar?»",
+            "card_quote": "— Diálogo entre Anne y Bessa, dos investigadoras novatas, justo después de escapar con vida de la Cavidad",
+            "skill_text": "Huskron actúa con cautela y adopta una postura defensiva y ejecuta poderosos contraataques. Si consigues ejecutar un apoyo defensivo frente a sus contraataques, quedará paralizado."
+        },
+        "930173": {
+            "monster_id": 930173,
+            "monster_name": "Caminante miasmático: Arcavor",
+            "card_text": "La cabeza brillante de Arcavor, que asemeja un coral, siempre atrae la atención de los saqueadores de Cavidades novatos. Muchos quedan hipnotizados, mirándolo embobados, sin saber el peligro al que se exponen.\nAprovechando la distracción, Arcavor eleva elegantemente sus largas piernas, adoptando una postura geométrica digna de un acróbata (la Asociación de Investigación de Cavidades incluso lo describe en sus registros como a una bailarina de ballet girando sobre el hielo). Sin embargo, la advertencia de la Asociación es clara: cuando lo veas adoptar esta postura, es mejor que huyas por todos los medios, porque está apuntándote, preparándose para asestar un golpe mortal.\n\n«En serio, ¿no se habrá equivocado de profesión? Podría ser un bailarín estrella, un acróbata, o incluso un patinador artístico? Pero no, tenía que quedarse en la Cavidad a atacar a las personas...»",
+            "card_quote": "— Mensaje de un saqueador de Cavidades en el foro de «Supernova Hoy» tras experimentar un «ataque pesado artístico»",
+            "skill_text": "El caminante miasmático: Arcavor dispara continuamente a larga distancia. Tras ser derribado por primera vez, se levanta de nuevo si entra en contacto con charcos miasmáticos."
+        },
+        "930178": {
+            "monster_id": 930178,
+            "monster_name": "Tracio miasmático",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nUn temible ser etéreo cuyo nombre proviene de una estirpe de guerreros de los que hablan las leyendas de la antigua civilización. Se dice que solo los héroes más valientes y los villanos más perversos pueden convertirse en estas terribles criaturas al corromperse.\nPero esa no es la realidad. Sin embargo, todo el entrenamiento que le hayas dedicado a tus preciados músculos tanto en las Cavidades como en el gimnasio y la gran cantidad de adrenalina generada antes de morir pueden contribuir a que te conviertas en un gran problema para los compañeros que tuviste cuando vivías. Aunque es poco probable que se preocupen demasiado por una vieja amistad que ya está más que muerta, ¿no?\nAhí ya nada importa. ¿Qué más da tu reputación social en el momento en el que tu bello rostro se transforma en un oscuro orbe de energía?\n«¡No esperaba menos del jefe! ¡Sigue siendo igual de fuerte transformado en ser etéreo!»\n«Sabía que no podía ser bueno que fuera al gimnasio todos los días...»",
+            "card_quote": "— Declaraciones en caliente de un miembro de una banda de saqueadores de Cavidades al ser arrestado.",
+            "skill_text": "Este enemigo activa el dominio miasmático en momentos específicos, para luego ejecutar una ronda de poderosos ataques en un área grande y fortaleciendo sus técnicas mientras dure el efecto."
+        },
+        "940001": {
+            "monster_id": 940001,
+            "monster_name": "Huskron",
+            "card_text": "Al bloquear a un huskron, su <color=#D9A600>Defensa aumenta drásticamente</color>. ¡Derrótalo antes!",
+            "card_quote": null,
+            "skill_text": "PV: bajos\nAtaque: medio\nVelocidad: rápida\nNivel de amenaza: <color=#31CC00>bajo</color>"
         }
     },
     "Bandidos": {
@@ -601,7 +720,7 @@
             "monster_id": 10018,
             "monster_name": "Cazador furtivo",
             "card_text": "Los bandidos que frecuentan las Cavidades durante días enteros presentan severos problemas cognitivos o desarrollan hábitos extraños. Por fortuna, los cazadores furtivos y los acechadores furtivos han heredado las buenas costumbres de los grupos delictivos tradicionales.\nSon escurridizos y astutos, por lo que se les da muy bien acechar en la oscuridad y atacar al enemigo con flechas. Si tienen la opción de asaltarlos por la espalda, nunca escogerán el enfrentamiento directo.\nA pesar de que su ballesta compuesta no es tan amenazante, es la mejor arma cuando se trata de sigilo. Los cazadores y acechadores experimentados saben aprovechar la oportunidad de derribar a su «presa» con una sola flecha cuando está desprevenida.\n«Yo solía ser un oficial del Ministerio de Seguridad Pública, pero un día me hirieron en la rodilla con una flecha.»",
-            "card_quote": "—Palabras de un miembro experimentado de la agencia de seguridad Ruiseñor Nocturno para un miembro novato",
+            "card_quote": "— Palabras de un miembro experimentado de la agencia de seguridad Ruiseñor Nocturno para un miembro novato",
             "skill_text": "El bandido de Cavidades: acechador furtivo tiende a ejecutar tres disparos continuos a distancia para distraer al enemigo."
         },
         "10019": {
@@ -637,14 +756,14 @@
             "monster_name": "Mors",
             "card_text": "Mors solía ser el cazarrecompensas más temido de la periferia. Su sed de sangre era casi obsesiva. Podía perseguir a su presa durante días, y una vez que ponía los ojos en un objetivo, se obsesionaba con la cacería hasta acabar con él.\nMors, «el lobo solitario» nunca fallaba. Eso era un hecho que todos los bandos de la periferia sabían.\nSin embargo, durante una cacería, Mors persiguió a su objetivo durante tres días. A pesar de haberse quedado sin fuerzas, no consiguió acabar con el objetivo.\nPero a Pompey no le importó y, a pesar del fracaso de Mors, le invitó a unirse a su organización.\nA partir de ese momento, Mors, el aclamado cazarrecompensas, desapareció. En su lugar, apareció en Los Laureados un capitán reservado y solitario.\nActualmente, sigue sin haber rastro de Mors, quien solo aparece para luchar contra un oponente digno. No lo hace en cumplimiento de su título de capitán, sino porque disfruta de una buena pelea y puede saciar su sed de cacería.\n«¿Quieres retar al capitán Mors a un duelo uno contra uno? ¿Tú?»\n«Reserva para dentro de un mes, a ver si tienes suerte.»",
             "card_quote": "— Subordinados de Mors, durante un duelo entre ellos",
-            "skill_text": "Durante el combate, Mors elige entre acercarse a los enemigos para atacarlos con combos cuerpo a cuerpo o dispararles a distancia, dependiendo de las circunstancias. Cuando sus PV están por debajo de cierta cantidad o cuando ha pasado cierto tiempo, utiliza un ataque a distancia adicional o se desplaza rápidamente para ejecutar un disparo sorpresa desde un ángulo letal."
+            "skill_text": "Durante el combate, Mors elige entre acercarse a los enemigos para atacarlos con combos cuerpo a cuerpo o dispararles a distancia, dependiendo de las circunstancias. Cuando sus PV están por debajo de cierta cantidad o cuando ha pasado cierto tiempo, utiliza un ataque subsiguiente a distancia o se desplaza rápidamente para ejecutar un disparo sorpresa desde un ángulo letal."
         },
         "20024": {
             "monster_id": 20024,
             "monster_name": "Pulchra",
             "card_text": "Nadie sabe de dónde vino Pulchra, pero llegó a ser una de las mejores mercenarias de la Periferia, capaz de cambiar de bandos de acuerdo con la situación.\nPoco después de que terminara su contrato con Pompey durante la última «Travesía estigia», algunas facciones se unieron en secreto y planearon un ataque sorpresa contra Los Laureados. Sin embargo, Los Laureados obtuvieron una victoria aplastante. Era como si en todo momento hubieran tenido la situación bajo control.\nLos perdedores fueron expulsados del Antiguo Pozo Petrolífero, pero Pulchra, quien estaba de su lado, resultó ilesa. Por eso, muchos especulaban que Los Laureados obtuvieron la victoria gracias a su traición.\nAunque muchos han intentado convencerla de unirse a su bando, nunca lo han conseguido.\nTal vez para ella, las intrigas de la Periferia no son más que un juego que puede abandonar en cualquier momento. Por más despreciable que sea su cliente, no importa, siempre y cuando pague por sus servicios y el trabajo sea interesante,\nespecialmente si se trata de atraer a los enemigos a una trampa ingeniosa y poder verlos caer lentamente al abismo de la muerte...\nEs una mezcla de seducción y engaño que conduce a un final funesto. Cuanto más hermoso es algo, mayor es su peligro. Este razonamiento es lo que le ha permitido sobrevivir durante tanto tiempo.\n«¿Qué? ¿Quieres ser su subordinado? Ay, otro pobre tonto que se deja engatusar.»",
             "card_quote": "— Un nuevo recluta de Los Laureados, siendo el objeto de burla de sus compañeros en el campamento",
-            "skill_text": "Durante el combate, Pulchra guarda distancia de su presa y aprovecha el momento oportuno atacar con su pistola con navaja. Cuando sus PV están por debajo cierta cantidad, utiliza una medicina potenciadora que aumenta su capacidad de evasión. En este estado potenciado, Pulchra evita los ataques a corta distancia."
+            "skill_text": "Durante el combate, Pulchra guarda distancia de su presa y aprovecha el momento oportuno atacar con su pistola con navaja. Cuando sus PV están por debajo cierta cantidad, utiliza una medicina potenciadora que aumenta su capacidad de evasión. En este estado de fortalecimiento, Pulchra evita los ataques a corta distancia."
         },
         "20025": {
             "monster_id": 20025,
@@ -685,7 +804,7 @@
             "monster_id": 100181,
             "monster_name": "Acechador furtivo",
             "card_text": "Los bandidos que frecuentan las Cavidades durante días enteros presentan severos problemas cognitivos o desarrollan hábitos extraños. Por fortuna, los cazadores furtivos y los acechadores furtivos han heredado las buenas costumbres de los grupos delictivos tradicionales.\nSon escurridizos y astutos, por lo que se les da muy bien acechar en la oscuridad y atacar al enemigo con flechas. Si tienen la opción de asaltarlos por la espalda, nunca escogerán el enfrentamiento directo.\nA pesar de que su ballesta compuesta no es tan amenazante, es la mejor arma cuando se trata de sigilo. Los cazadores y acechadores experimentados saben aprovechar la oportunidad de derribar a su «presa» con una sola flecha cuando está desprevenida.\n«Yo solía ser un oficial del Ministerio de Seguridad Pública, pero un día me hirieron en la rodilla con una flecha.»",
-            "card_quote": "—Palabras de un miembro experimentado de la agencia de seguridad Ruiseñor Nocturno para un miembro novato",
+            "card_quote": "— Palabras de un miembro experimentado de la agencia de seguridad Ruiseñor Nocturno para un miembro novato",
             "skill_text": "El bandido de Cavidades: cazador furtivo tiende a ejecutar tres disparos continuos a distancia para distraer al enemigo."
         },
         "100191": {
@@ -715,15 +834,92 @@
             "card_text": "En el bajo mundo de Nueva Eridu es bien sabido que los luchadores más feroces no son los que ganan muchas peleas consecutivas, sino los matones fornidos y los matones buscados que se adentran en las Cavidades. Son escoltas que cobran una tarifa elevada por proteger los recursos de los traficantes de éter.\nDebido a su obsesión por la pelea, a los matones fornidos no se les da muy bien el uso de dispositivos electrónicos complejos. En lugar de pistola de electrochoque, llevan guantes de boxeo especiales que les brindan un poder destructivo a sus puñetazos.\nSeres etéreos, saqueadores, investigadores, oficiales de seguridad... Estando solos frente a un matón fornido o a un matón buscado, no son más que un saco de arena para pasar el tiempo.\n«¡Espera! Ese estilo de pelea... ¡Creo haber visto a ese tipo en la sala de juegos del Barrio N.º 4!»",
             "card_quote": "— Billy, mientras unos matones embisten en dirección a él",
             "skill_text": "El alborotador: matón buscado es extremadamente agresivo y se mueve ágilmente para ajustar su posición de ataque."
+        },
+        "940002": {
+            "monster_id": 940002,
+            "monster_name": "Leñador mecánico",
+            "card_text": "El leñador mecánico es un enemigo sumamente peligroso. Además de infligir <color=#D9A600>una gran cantidad de daño individual</color>, también inflige <color=#D9A600>daño en un área grande</color> alrededor de sí mismo. ¡Ten cuidado!",
+            "card_quote": null,
+            "skill_text": "PV: muy altos\nAtaque: alto\nDefensa: alta\nVelocidad: media\nNivel de amenaza: <color=#FF3333>extremo</color>"
+        },
+        "940003": {
+            "monster_id": 940003,
+            "monster_name": "Bárbaro desenfrenado",
+            "card_text": "El bárbaro desenfrenado es un enemigo sumamente peligroso que puede infligir <color=#D9A600>una gran cantidad de daño</color>. ¡Al bloquear sus ataques con Cartonbú, asegúrate de desplegar adecuadamente bangbús bondadosos <color=#D9A600>para protegerlo</color>!",
+            "card_quote": null,
+            "skill_text": "PV: muy altos\nAtaque: muy alto\nDefensa: alta\nVelocidad: media\nNivel de amenaza: <color=#FF3333>extremo</color>"
         }
     },
     "Entes corrompidos": {
+        "10017": {
+            "monster_id": 10017,
+            "monster_name": "Araña explosiva miasmática",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nLa araña explosiva especializada en miasma está cubierta de rojo carmesí, pero aún no se ha librado del estigma de ser una «amenaza menor», ya que su velocidad de movimiento y rango de explosión... no han cambiado en absoluto.\nLa Asociación de Investigación ha emitido numerosos avisos advirtiendo a los investigadores que tengan especial cuidado con el humo de miasma que libera tras la explosión. Si se inhala por accidente, la desorientación momentánea resultante es suficiente para que un investigador de élite pierda la vida en una Cavidad que cambia a cada instante.\n«¡El equipo rojo está listo! El equipo verde avanza hacia nosotros...»",
+            "card_quote": "— Lucía que juega con una araña explosiva y un grillo durante la recopilación de historias de terror",
+            "skill_text": "La araña explosiva miasmática, tras ser afectada por la contaminación miasmática, se vuelve extremadamente inestable y, al autodestruirse, deja un constructo miasmático que puede volver a explotar. Si tienes la oportunidad de usar el apoyo defensivo contra su panzazo, podrás aprovechar la explosión a tu favor."
+        },
         "10021": {
             "monster_id": 10021,
             "monster_name": "Cuervodrón",
             "card_text": "Información desconocida",
-            "card_quote": "Ninguno",
+            "card_quote": "Todos",
             "skill_text": "Descripción de habilidad de monstruo - Marcador de posición temporal"
+        },
+        "10033": {
+            "monster_id": 10033,
+            "monster_name": "Milicia miasmática: escudado",
+            "card_text": "Un soldado etéreo moldeado por el miasma que porta una pesada espada con propiedades altamente corruptivas y un escudo defensivo prácticamente impenetrable. Posee el instinto de proteger el avance de otras milicias miasmáticas.\nSu asombroso peso y amplio rango defensivo otorgan a este peligroso ser una gran ventaja en posición de combate, lo que provoca que sea extremadamente difícil lidiar con ellos cuando se encuentran en grupo.\nLa Asociación de Investigación de Cavidades sugiere que, en caso de encontrarte con uno solo, lo elimines lo antes posible.\n«¿Un ser etéreo cuyo principal objetivo es \"proteger a otros\"? Qué extraño...»\n«Les das demasiado crédito a los seres etéreos. ¡Al fin y al cabo, lo que hay detrás de esa cosa nunca ha sido humano!»",
+            "card_quote": "— Dos investigadores de Cavidades intercambiando información",
+            "skill_text": "En combate, la milicia miasmática: escudado utiliza su escudo para reducir el daño y el Aturdimiento en gran medida a la espera del momento oportuno para atacar."
+        },
+        "10034": {
+            "monster_id": 10034,
+            "monster_name": "Milicia miasmática: artillero",
+            "card_text": "Un soldado etéreo moldeado por el miasma que viste un uniforme militar desgastado y deambula entre el humo de la pólvora como un fantasma del pasado.\nSegún los datos de observación de la Cavidad, el artillero puede atacar con su lanzacohetes portátil. Su precisión demuestra una gran disciplina, lo que suscita sospechas inquietantes.\n«En cuanto a esos seres etéreos organizados y hostiles que se han descubierto recientemente, ¿cree usted que tienen alguna conexión con el Ministerio de Defensa?»\n«Lo siento, pero sin una investigación que lo corrobore, no puedo hacer declaraciones al respecto.»",
+            "card_quote": "— Respuesta de un portavoz del Ministerio de Defensa",
+            "skill_text": "En combate, la milicia miasmática: artillero asiste desde lejos con fuego pesado. Además, algunos de sus ataques provocan el efecto de corrupción miasmática."
+        },
+        "20011": {
+            "monster_id": 20011,
+            "monster_name": "Huskron miasmático",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nPara adentrarse en el dominio de la temible bestia dormida, hay que estar preparado para enfrentarse a la pesadilla carmesí, pues ya no se conforma con jugar al escondite.\nEl imprudente saqueador de Cavidades intentó provocarla, seduciéndola para que expusiera su núcleo enterrado. Sin embargo, los cazadores expertos suelen aparecer como presas, y bajar la guardia cuando el enemigo muestra sus debilidades suele ser el error más letal para los novatos.\n«¡No me llames idiota! Realmente mi cabeza fue aplastada por un ser etéreo...»",
+            "card_quote": "— Investigadora novata que murmuraba cuando era reprendida por un superior",
+            "skill_text": "Durante el combate, el devorador miasmático: huskron es corrompido por el miasma, lo que le otorga una constitución más fuerte y una capacidad de ataque más feroz. Utilizar el apoyo defensivo en el momento oportuno puede contrarrestar eficazmente su feroz ofensiva."
+        },
+        "20016": {
+            "monster_id": 20016,
+            "monster_name": "Rondador escurridizo miasmático",
+            "card_text": "Un meca auxiliar de combate principal que ha caído en la Cavidad y que tiene sus algoritmos tácticos completamente trastornados. Marca a cualquier forma de vida que ve como objetivo de alta amenaza y dispara indiscriminadamente.\nAbandona la aptitud defensiva por la atacante, posee una movilidad excepcional, es difícil de alcanzar y es experto en la persecución.\nSi tienes la mala suerte de ser marcado por uno, más vale que busques una fisura espacial cerca, o será prácticamente imposible escapar.\n«Si pudiera volver a mis años de estudio, jamás me saltaría los entrenamientos de atletismo.»",
+            "card_quote": "— Asustada saqueadora de Cavidades que escribió en su diario con mano temblorosa",
+            "skill_text": "Durante el combate, el rondador escurridizo miasmático invoca dos drones para luchar juntos. Al estar en el campo de batalla junto al invasor pesado miasmático, realiza ataques coordinados con este. Además, cuando el invasor pesado miasmático está a punto de morir, el rondador escurridizo miasmático salta hacia el objetivo debido a la interferencia de la señal del combate cooperativo y le roba el núcleo de datos de combate, obteniendo así parte de los componentes del escudo y las habilidades del invasor pesado miasmático, lo que activa un dominio miasmático a pequeña escala."
+        },
+        "20018": {
+            "monster_id": 20018,
+            "monster_name": "Invasor pesado miasmático",
+            "card_text": "Un meca táctico autónomo que ha caído en la Cavidad y que se ha vuelto más letal tras la corrupción. Puede aplastar a los trasgos sin esfuerzo.\nEl escudo que una vez protegió a los soldados de los ataques pesados, el compañero de armas más fiable del Ministerio de Defensa, ahora se ha convertido en una terrible máquina de matar.\n«Si eres lo suficientemente valiente, pon fin a la vida de nuestro antiguo amigo más fiel y purifica la maldad y la gloria que se aferran a él.»",
+            "card_quote": "— Mecánico de guerra canoso que ha escrito un mensaje de despedida para el momento de su jubilación",
+            "skill_text": "Durante el combate, cuando el invasor pesado miasmático despliega su escudo, activa un pequeño dominio miasmático. Al estar en el campo de batalla junto al rondador escurridizo miasmático, realiza ataques coordinados con este. Además, cuando el rondador escurridizo miasmático está a punto de morir, el invasor pesado miasmático salta hacia el objetivo debido a la interferencia de la señal del combate cooperativo y le roba el núcleo de datos de combate, obteniendo así los drones y las habilidades del rondador escurridizo miasmático para ordenarles que luchen junto a él."
+        },
+        "20026": {
+            "monster_id": 20026,
+            "monster_name": "Bandido frenético miasmático",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nUna pobre alma que ha mutado por la corrupción etérea severa. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. Sus extremidades humanas se han transformado y fortalecido, lo que lo vuelve más peligroso.\nA juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se adentró en la Cavidad.\nYa sea debido a su condición física sobresaliente en vida, o por su afinidad con la materia etérea, este ser corrompido ha desarrollado unas excelentes habilidades de combate, por lo que supone una amenaza aún mayor que la mayoría de criaturas que moran en las Cavidades.\n«Sus armas parecen ser de gran calidad... Es como si las hubieran traído de regalo.»",
+            "card_quote": "— Anby, de las Liebres Astutas, analizando el plan de acción",
+            "skill_text": "En combate, el bandido frenético miasmático utiliza su capacidad de invisibilidad para ejecutar ataques sorpresa. Al estar en el campo de batalla junto al trinox miasmático, evade perfectamente tus ataques y ejecuta un ataque coordinado con el trinox miasmático. Además, cuando uno de los dos muere, el otro entrará en estado de furia."
+        },
+        "20027": {
+            "monster_id": 20027,
+            "monster_name": "Trinox miasmático",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nLa Asociación de Investigación de Cavidades ha estado estudiando las características de transformación corporal de los seres etéreos humanoides.\nEl trinox, debido a su cabeza de estructura triangular que parece deliberadamente diseñada, por años ha ocupado uno de los tres primeros puestos en la lista de investigaciones más populares. Incluso se rumora que un matemático se hizo pasar por investigador para infiltrarse en la Cavidad con el único propósito de verlo en persona.\nLos resultados más recientes de la investigación se publicaron en el número 28 de la revista «Enciclopedia de la Cavidad» de febrero. Según los suscriptores, el artículo solo abordaba el significado estético de la cabeza del trinox.\nEn respuesta, los lectores relacionados con asuntos de la Cavidad, insatisfechos, le dieron al artículo la puntuación más baja del número en el sitio web de la revista, con una tasa de aprobación de solo el 34 %.\n«¡Las medidas de la cabeza del trinox se aproximan a la proporción áurea clásica!»\n«Estamos luchando contra los seres etéreos, no organizando un concurso de belleza para ellos, profesor».",
+            "card_quote": "— Extracto del programa de entrevistas «El show de Durham», episodio 79, conversación entre el anunciante Durham e Isaac, el matemático que quedó cojo tras entrar en la Cavidad",
+            "skill_text": "Durante el combate, el trinox miasmático usa la mecánica de contraataque para bloquear el daño y ejecutar un contraataque defensivo. Cuando está en el campo de batalla junto al bandido frenético miasmático, el trinox miasmático le ordena ejecutar un ataque coordinado en conjunto. Además, cuando uno de ellos muere, el otro entra en estado de furia."
+        },
+        "20031": {
+            "monster_id": 20031,
+            "monster_name": "Intimidador iracundo miasmático",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nSus brazos altamente sofisticados son difíciles de ignorar; prácticamente toda la amenaza del intimidador iracundo se concentra en esas articulaciones gigantescas alteradas de forma grotesca. Su circunferencia supera con creces la de una nevera doméstica de dos puertas, cubierta por capas entrecruzadas de queratina que forman una estructura natural similar a la de un martillo. Un asesor de la Asociación de Investigación de Cavidades planteó la hipótesis de que este desarrollo anormal se debiese a que el cuerpo original dependía durante largo tiempo de maquinaria pesada o equipamiento de refuerzo, lo que provocó que sus características físicas originales se amplificaran durante el proceso de corrupción.\nMúltiples registros muestran que puede atravesar muros de hormigón reforzado e incluso arrojar restos de vehículos abandonados a decenas de metros de distancia como si fueran piedras. Algunos investigadores lo llaman directamente «Departamento de demolición de la Cavidad». Se dice que un investigador fue testigo de cómo un intimidador iracundo despejaba todo un campo de escombros en un minuto, pero después quedó atrapado en un pasaje estrecho al no poder mantener el equilibrio entre la parte superior e inferior de su cuerpo, lo que lo convirtió en un sujeto para estudios posteriores.\n\n«Cuando golpea el suelo, la Cavidad entera tiembla. Pero si eres lo suficientemente rápido como para esquivarlo, quizás no tengas que medir tus fuerzas con él.»",
+            "card_quote": "— Un investigador convencido de que su buena suerte se debe a la paciencia",
+            "skill_text": "El intimidador iracundo miasmático ejecuta ataques con un hacha gigante y una escopeta. Los ataques con el hacha gigante crean un charco miasmático en el suelo. Sus ataques pueden provocar el efecto de corrupción miasmática."
         },
         "30009": {
             "monster_id": 30009,
@@ -739,25 +935,53 @@
             "card_quote": "— Un esbirro miedoso de la afiliación original de Los Laureados",
             "skill_text": "Durante el combate, el jefe supremo Pompey usará tanto su moto como sus cañones flotantes para atacar. Sin embargo, expondrá su punto débil durante algunos movimientos tras recibir daño por un apoyo defensivo. Cuando haya recibido cierta cantidad de daño, entrará en la segunda fase, en la que alternará ataques con las ruedas traseras de la moto y con una espada. Las ruedas traseras de la moto también pueden acumular energía etérea para generar una explosión en un área grande."
         },
+        "30034": {
+            "monster_id": 30034,
+            "monster_name": "Pérfida miasmática: insondable",
+            "card_text": "Un monstruo refinado a partir del miasma y los recuerdos de cierta asceta; todo momento de dolor, angustia y desolación consolidados en esta caótica forma.\nAl final, no era sino una lamentable imitación, carente del valor necesario para dar un paso al frente, carente de la determinación de partir sin dejar rastro. Sin embargo, para su creador esto era suficiente: como una pieza de ajedrez, esos recuerdos llenos de dolor eran un poderoso combustible, suficiente para causar un gran revuelo en la Cavidad y exponer todos aquellos secretos al mundo.\nAsí, impulsada por recuerdos que no le pertenecían, el miasma que la engendró la inquietaba, la proximidad de los seres etéreos la enfurecía, e incluso mientras vagaba por su propio territorio, permanecía constantemente ansiosa.\nSolo una vez, cuando persiguió a un humano hasta el borde de la Cavidad y vio la expresión de terror en su rostro, su instinto de cacería fue repentinamente suprimido por un impulso extraño, y se detuvo involuntariamente. Cuando la silueta del desafortunado desapareció por completo, sintió una emoción cercana a la satisfacción que nunca había experimentado antes.\nSin embargo, esta satisfacción no duró mucho, pues un grupo de humanos con armaduras negras comenzó a invadir frecuentemente su territorio, sin inmutarse ante ninguna amenaza. La ansiedad y el cansancio la fueron aplastando gradualmente, todo cuanto se movía ante sus ojos debía desaparecer. ¡Desaparecer! ¡¡¡DESAPARECER!!!\n...\n\n«Ahora... pongamos... un final... a esto...».\nExtraño, ¿qué era esa voz?\n«... Hay una profunda conexión... ¡Solo la persona que ató el nudo puede deshacerlo!».\nEsos recuerdos enterrados bajo la locura despertaron. Sí, sí, ¡ese era exactamente el sonido que resonaba repetidamente en lo profundo de sus recuerdos! El instinto aún la urgía a atacar, pero su cuerpo titubeó. Su mirada siguió ese cabello plateado similar al suyo, solo queriendo confirmar si la persona que emitía esa voz era realmente la figura que aparecía una y otra vez en sus recuerdos.\n\nAsí fue como recibió un golpe directo en la espalda a corta distancia, el dolor agudo que emanaba de su núcleo casi la destruye, pero aun así escuchó un suave susurro:\n«Perdóname, pero es mi deber...»\nAunque no logró comprender el significado de aquellas palabras, aquella familiar sensación de satisfacción la inundó una vez más. Se dio cuenta de que algo verdaderamente aterrador la tenía a su merced, y, aunque probablemente moriría por ello, no había escapatoria posible.\n\nFinalmente, su fuerza se agotó por completo. Pero en ese último momento, por fin, pudo verla claramente. No era exactamente tal y como la recordaba, y esa breve percepción trajo consigo un atisbo de soledad. Y, sin embargo, prefería aquella versión a aquella en la que sus desgarradores gritos resonaban en sus recuerdos.\n\n«Pérfida miasmática», un nombre ciertamente apropiado para esta criatura espectral y cruel. Hemos pensado usar ese nombre en los registros. ¿Qué piensa usted, maestra?\n«Como dice el antiguo dicho, \"nombrarla no hace la realidad menos insondable de lo que puramente es\". Un nombre es tan solo eso, mientras sea fácil de pronunciar, está bien.»",
+            "card_quote": "- Diálogo entre el investigador encargado de nombrar a la pérfida miasmática y Yixuan",
+            "skill_text": "Durante el combate, la pérfida miasmática: insondable potenciará su arma y lanzará ataques poderosos imposibles de eludir. Además, saltará a lugares elevados para activar el dominio miasmático y consumirá su escudo miasmático para realizar múltiples rondas de ataques. Atrae sus ataques para detonar los charcos miasmáticos y evitar que los absorba para recuperar su escudo miasmático. Cuando regrese al campo de batalla, aléjate rápidamente para evitar que te atrape en su ataque definitivo letal."
+        },
+        "30036": {
+            "monster_id": 30036,
+            "monster_name": "Ave del terror miasmática",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nUn modelo de máquina de combate que tiene un largo historial de méritos tras haber participado en numerosas batallas. El ave del terror se ha convertido en la maquinaria de guerra más fiable de Nueva Eridu gracias a su gran capacidad de supresión. Su diseño se basa en una premisa muy sencilla: el equilibrio perfecto entre un devastador combate cuerpo a cuerpo y un potente ataque a distancia. Cada movimiento que hace y cada pisada que da traen consigo la destrucción. Además, cuenta con un sistema de lanzamiento de múltiples misiles teledirigidos y una ametralladora, lo que le permite atacar objetivos a larga distancia con gran precisión. Ya sea mediante ataques de asalto, bombardeos teledirigidos o ágiles saltos de retirada, el ave del terror puede adaptarse fácilmente a diferentes escenarios de combate y su implacable ataque impide cualquier contraataque del enemigo. Es la máquina de guerra definitiva, la encarnación de la potencia y el pánico.\n«El ave del terror es el símbolo de aquella época.»",
+            "card_quote": "— Extracto de «La batalla de la antigua capital: verdad y memoria»",
+            "skill_text": "En combate, el ave del terror miasmática cuenta con seis drones invisibles que proporcionan apoyo de fuego en diferentes momentos mientras el cuerpo principal mantiene el fuego de supresión con diversas armas a distancia.\nAl ejecutar un apoyo defensivo contra sus proyectiles miasmáticos especiales, es posible contraatacar y paralizar al ave del terror miasmática. Además, el ave del terror miasmática activa el dominio miasmático en momentos específicos. En este estado, ataca principalmente cuerpo a cuerpo, y los seis drones parpadean automáticamente a una frecuencia determinada para atacar. Además, algunos ataques del ave del terror miasmática y su enjambre de drones pueden provocar una fuerte corrupción miasmática."
+        },
+        "30039": {
+            "monster_id": 30039,
+            "monster_name": "Haytor",
+            "card_text": "Un esqueleto delgado y siniestro, con una «capa» pálida y afilada a sus espaldas. Otra obra maestra de la Asamblea de la Exacerbación. En cuanto a las «cien formas de fusionar humanos con la Cavidad», su entusiasmo por la experimentación es verdaderamente insuperable.\nQuienes han visto a los haytor creen que estos tipos deben ser miembros de alto rango de la Asamblea de la Exacerbación. Después de todo, incluso después de convertirse en seres etéreos, no pueden evitar crear seguidores a los que puedan manipular.\n«¡Detesto a la gente así!»\n«Apuesto que incluso les dicen a sus espectros... \"Estoy algo decepcionado contigo, porque podrías haberlo hecho mejor. Cuando te invoqué, la verdad es que tenía expectativas más altas\"»",
+            "card_quote": "— En una típica jornada de horas extra a altas horas de la noche, un furioso miembro del Departamento de Operaciones Anticavidades golpea violentamente el armazón del haytor mientras grita",
+            "skill_text": "Durante el combate, el haytor usa ilusiones para confundir a sus oponentes y ejecutar ataques sorpresa. Al entrar en el dominio miasmático, el haytor invoca ilusiones aún más grandes para atacar junto a él. Durante este tiempo, cada vez que se logre desviar con éxito el ataque de una ilusión gigante, se reducirá su escudo miasmático."
+        },
+        "30041": {
+            "monster_id": 30041,
+            "monster_name": "Cazador errante",
+            "card_text": "Un ente de corrupción con amplia experiencia en combate, capaz tanto de atacar como de defender, y de movimientos ágiles. Se destaca por acechar en lugares ocultos para lanzar los ataques más eficaces contra los puntos débiles de sus objetivos.\nDebería haber registrado más detalles sobre sus patrones de comportamiento, sobre esa canción de Armonía umbría que siempre lo acompaña y demás... Pero así está bien, que el registro termine aquí, tal como el retrato a medio terminar en el cuaderno de Lucía.\n\n«A contar estrellas, una. A contar estrellas, dos. A la de tres, niños, a esconderse».",
+            "card_quote": "Los investigadores, «atormentados» por los datos de simulación del cazador errante, comenzaron a cantar inconscientemente canciones infantiles mientras hacían las tareas del hogar",
+            "skill_text": "En combate, el cazador errante posee una Defensa extremadamente alta. Algunas de sus habilidades a distancia pueden generar charcos miasmáticos en el suelo, y la mayoría de sus habilidades pueden provocar que los charcos miasmáticos generen filos extraviados para ejecutar disparos de interferencia. Además, cuando el cazador errante ejecuta el dominio miasmático, se vuelve invisible y comienza a acumular fuerza. Cuando ejecutas la técnica de percepción para romper el ideal anegado de Lucía, el cazador errante se hace visible y lanza un ataque sorpresa. Si se logra ejecutar un apoyo defensivo, se puede interrumpir su acción, infligir daño a una parte y reducir parte del escudo miasmático. Si no se logra encontrar al ideal anegado de Lucía, o después de cierto tiempo, el cazador errante ejecuta una poderosa técnica que inflige daño ignorando el estado invulnerable y hace que el nivel de contaminación miasmática del equipo alcance su límite."
+        },
         "100211": {
             "monster_id": 100211,
             "monster_name": "Cuervodrón activo",
             "card_text": "Información desconocida",
-            "card_quote": "Todos",
+            "card_quote": "Ninguno",
             "skill_text": "Descripción de habilidad de monstruo - Marcador de posición temporal"
         },
         "100271": {
             "monster_id": 100271,
             "monster_name": "Matón despiadado",
             "card_text": "Un pobre diablo que ha mutado por la corrupción etérea severa. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. A juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se encontraba en la Cavidad.\nA pesar de que los bandidos cuentan con equipo resistente a la corrupción, debido a la falta de mantenimiento adecuado o simplemente por mala suerte, algunos de ellos sufren de corrupción etérea severa y se convierten en monstruos. Estos seres que cuentan con experiencia de combate pueden llegar a ser más peligrosos que los seres etéreos ordinarios.\n«Quien vive como un bandido, muere en las Cavidades.»",
-            "card_quote": "—Aviso del Ministerio de Seguridad Pública de Nueva Eridu en el foro «Supernova Hoy»",
+            "card_quote": "— Aviso del Ministerio de Seguridad Pública de Nueva Eridu en el foro «Supernova Hoy»",
             "skill_text": "El bandido corrompido: matón despiadado ejecuta ataques continuos a diestro y siniestro difíciles de interrumpir."
         },
         "100281": {
             "monster_id": 100281,
             "monster_name": "Tirador codicioso",
             "card_text": "Un humanoide inteligente que ha mutado por la intensa corrupción etérea en las Cavidades. Debido a que el organismo contaba con cierta compatibilidad etérea, no ha terminado de mutar y aún conserva algunas características humanas. A juzgar por la ropa que lleva puesta y su estilo de combate, probablemente se trate de un bandido o algún maleante que se encontraba en la Cavidad.\nUn análisis de los restos de su estructura original muestra que debió ser un bandido que usaba un arma de largo alcance, cuya voluntad y vida fueron arrebatadas al convertirse en un ente corrompido, pero el instinto y los hábitos de combate a distancia siguen ahí. Además de seguir atacando a distancia, la capacidad de fuego y de tiro del ser corrompido se han fortalecido, pudiendo disparar cristales etéreos afilados y una especie de amalgama explosiva.\n«Le dije que no tocara el cristal, ¡pero no me hizo caso! Era un necio, nunca me escuchó. Cuando estábamos a punto de salir de la Cavidad... ya había mutado.»",
-            "card_quote": "—Informe de interrogatorio de un oficial del distrito de Fauno del distrito de Fauno",
+            "card_quote": "— Informe de interrogatorio de un oficial de una comisaría del distrito de Fauno",
             "skill_text": "El bandido corrompido: tirador codicioso tiende a ejecutar ataques a distancia difíciles de detectar."
         },
         "200121": {
@@ -808,6 +1032,41 @@
             "card_text": "El matón despiadado tiene <color=#FFAF2C>una gran cantidad de PV</color>. ¡Concentra tus ataques en él!",
             "card_quote": null,
             "skill_text": "PV: altos\nAtaque: medio\nVelocidad: lento\nNivel de amenaza: <color=#FFAF2C>medio</color>"
+        },
+        "930167": {
+            "monster_id": 930167,
+            "monster_name": "Cantor del fuego",
+            "card_text": "Un predicador de alto rango de la Asamblea de la Exacerbación que ostenta el título de «cantor» y posee la habilidad de manipular el miasma. Su profanación destruye la vida mientras ilumina el camino para los suyos.\nSi bien todos los idólatras de la Asamblea de la Exacerbación suelen gritar o murmurar cosas como «refinación» o «Creador» al atacar, pocos de ellos son realmente capaces de darle a probar el fuego de la refinación a sus opositores.\n\n«¡Se abalanzaron sobre nosotros gritando cosas como \"refinación\", \"Creador\" y \"purificación\"!»",
+            "card_quote": "— Miembro del Equipo Anti-Cultos de las Cavidades de la Asociación de Investigación de Cavidades",
+            "skill_text": "Las habilidades del cantor del fuego contienen corrupción miasmática y derrama charcos miasmáticos en el suelo. Además, el cantor del fuego puede invocar varios huskron de los charcos miasmáticos y ordenarle que ataque."
+        },
+        "930174": {
+            "monster_id": 930174,
+            "monster_name": "Exaltador hímnico",
+            "card_text": "Un inquietante cántico resuena constantemente en la Cavidad. Los mineros veteranos prohibieron que nadie se acercara a la fuente del sonido, pero Johnny, el minero novato, los ignoró. Tras perder una apuesta tonta, se acercó al origen del sonido a hurtadillas. Finalmente, llegó a un claro. Allí, un grupo de personas con uniformes idénticos y máscaras siniestras formaban un círculo y realizaban una especie de ritual misterioso mientras un grupo de seres etéreos se acercaba a ellos lentamente. Johnny gritó para advertirles, esperando que se retiraran, pero fue ignorado. En cambio, los seres etéreos, atraídos por su voz, se abalanzaron sobre él.\n\n«Tomaremos medidas para reforzar la disciplina de los mineros. Que en paz descanses, Johnny.»",
+            "card_quote": "— Sally, el viejo minero, durante una entrevista de Nuevo Metropolitano tras la desaparición de Johnny",
+            "skill_text": "Cuando se siente amenazado, el exaltador hímnico provoca una fuerte explosión que afecta tanto a aliados."
+        },
+        "940004": {
+            "monster_id": 940004,
+            "monster_name": "Cantor del fuego",
+            "card_text": "El cantor del fuego es un enemigo sumamente peligroso que se especializa en infligir <color=#D9A600>daño en un área grande</color>. ¡Despliega a <color=#D9A600>Señorita Esme</color> estratégicamente para protegerlos a todos!",
+            "card_quote": null,
+            "skill_text": "PV: muy altos\nAtaque: alto\nDefensa: alta\nVelocidad: media\nNivel de amenaza: <color=#FF3333>extremo</color>"
+        },
+        "990167": {
+            "monster_id": 990167,
+            "monster_name": "Soñador del fuego",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "990174": {
+            "monster_id": 990174,
+            "monster_name": "Exaltador onírico",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         }
     },
     "Ministerio de Seguridad Pública": {
@@ -816,21 +1075,21 @@
             "monster_name": "Unidad desconocida",
             "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
             "card_quote": "Ninguna",
-            "skill_text": "???"
+            "skill_text": "¿?"
         },
         "10011": {
             "monster_id": 10011,
             "monster_name": "Unidad desconocida",
             "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
-            "card_quote": "Todos",
-            "skill_text": "???"
+            "card_quote": "Ninguno",
+            "skill_text": "¿?"
         },
         "10012": {
             "monster_id": 10012,
             "monster_name": "Unidad desconocida",
             "card_text": "Una unidad desconocida. Es necesario investigar más a fondo.",
-            "card_quote": "Ninguno",
-            "skill_text": "???"
+            "card_quote": "Ninguna",
+            "skill_text": "¿?"
         },
         "20006": {
             "monster_id": 20006,
@@ -859,7 +1118,7 @@
             "monster_id": 10007,
             "monster_name": "Cazador novato",
             "card_text": "Durante operaciones especiales del Ministerio de Defensa dentro de las Cavidades, tanto los cazadores novatos como los cazadores veteranos son miembros que nunca pueden faltar en el equipo táctico.\nEstán equipados con pesadas cuchillas etéreas de alta vibración Coyote-PE7 que pueden intimidar a enemigos pequeños en combate cuerpo a cuerpo. Pero para atreverse a pelear contra un ser etéreo a cuchillo hay que ser muy valiente. O más bien, hay que estar loco.\n«Siendo estrictos, no es una estrategia de combate en las Cavidades que se pueda estandarizar. Más que combatir seres etéreos, esos lunáticos parecen divertirse con ellos.»",
-            "card_quote": "—Informe de una patrulla del Ministerio de Defensa en el frente",
+            "card_quote": "— Informe de una patrulla del Ministerio de Defensa en el frente",
             "skill_text": "El cazador novato ejecuta ataques cuerpo a cuerpo."
         },
         "10008": {
@@ -915,7 +1174,7 @@
             "monster_id": 30026,
             "monster_name": "Ave del terror",
             "card_text": "Un modelo de máquina de combate que tiene un largo historial de méritos tras haber participado en numerosas batallas. El ave del terror se ha convertido en la maquinaria de guerra más fiable de Nueva Eridu gracias a su gran capacidad de supresión. El diseño se basa en una premisa muy sencilla: el equilibrio perfecto entre la devastación del combate cuerpo a cuerpo y la potencia del ataque a distancia. Cada movimiento que hace, cada pisada que da, están llenos de destrucción. Además, cuenta con un sistema de lanzamiento de múltiples misiles teledirigidos y una ametralladora, lo que le permite atacar objetivos a gran distancia con gran precisión. Ya sea mediante ataques de asalto, bombardeos teledirigidos o ágiles saltos de retirada, el ave del terror puede adaptarse fácilmente a diferentes escenarios de combate. Su ataque implacable imposibilita el contraataque del enemigo. Es la máquina de guerra definitiva, la encarnación de potencia y terror.\n«El ave del terror es el símbolo de aquella época».",
-            "card_quote": "— Extracto de «Guerra en la antigua capital: verdad y memoria»",
+            "card_quote": "— Extracto de «La batalla de la antigua capital: verdad y memoria»",
             "skill_text": "El ave del terror ejecuta ataques cuerpo a cuerpo con sus ágiles y poderosas extremidades mecánicas y utiliza todo tipo de ataques a distancia como fuego de supresión. Si consigues ejecutar un apoyo defensivo cuando dispara sus misiles, podrás devolvérselos y paralizarlo."
         },
         "100051": {
@@ -936,7 +1195,7 @@
             "monster_id": 100071,
             "monster_name": "Cazador veterano",
             "card_text": "Durante operaciones especiales del Ministerio de Defensa dentro de las Cavidades, tanto los cazadores novatos como los cazadores veteranos son miembros que nunca pueden faltar en el equipo táctico.\nEstán equipados con pesadas cuchillas etéreas de alta vibración Coyote-PE7 que pueden intimidar a enemigos pequeños en combate cuerpo a cuerpo. Pero para atreverse a pelear contra un ser etéreo a cuchillo hay que ser muy valiente. O más bien, hay que estar loco.\n«Siendo estrictos, no es una estrategia de combate en las Cavidades que se pueda estandarizar. Más que combatir seres etéreos, esos lunáticos parecen divertirse con ellos.»",
-            "card_quote": "—Informe de una patrulla del Ministerio de Defensa en el frente",
+            "card_quote": "— Informe de una patrulla del Ministerio de Defensa en el frente",
             "skill_text": "El cazador veterano ejecuta ataques cuerpo a cuerpo."
         },
         "100081": {
@@ -988,6 +1247,13 @@
             "card_quote": "— Comentario en la página «TablónSoñador» en el foro «Supernova Hoy»",
             "skill_text": "El artillero de asalto usa un cañón láser y arroja granadas de fragmentación para ejecutar ataques continuos a distancia."
         },
+        "200092": {
+            "monster_id": 200092,
+            "monster_name": "Bombardero de incursión",
+            "card_text": "Una unidad activa del Ministerio de Defensa de Nueva Eridu clasificada como infantería pesada.\nEstas unidades visten un uniforme pesado denominado «Rinoceronte gris» y están equipadas con un armamento fortalecido con tecnología etérea. Al contar con un suministro suficiente de munición, son capaces de abrir fuego durante un tiempo prolongado, lo que los posiciona en el centro de la línea de avanzada. A menudo también son enviados a operaciones de asalto y limpieza.\nDurante la caída de la antigua capital, una gran cantidad de soldados desertaron y se convirtieron en nómadas, y estas armas tan sofisticadas comenzaron a verse con frecuencia en manos de otras facciones, como escoltas personales de magnates, nuevas empresas de seguridad, e incluso entre bandidos itinerantes.\n«Me gusta imaginar que los artilleros pesados son en realidad mujeres diminutas, y que todo el espacio extra dentro de esos uniformes está repleto de munición. ¿De qué otra manera explicas de dónde salen todas esas balas?»",
+            "card_quote": "— Comentario en la página «TablónSoñador» en el foro «Supernova Hoy»",
+            "skill_text": "El bombardero de incursión utiliza técnicas de combate cuerpo a cuerpo junto con un amplio arsenal de armas para someter al enemigo. Cuando entra en estado de sobrecalentamiento, infunde algunas habilidades con fuego y sus ataques se vuelven más agresivos. Si se le inflige suficiente daño mientras está en el estado de sobrecalentamiento, puedes romper su equipo y debilitarlo."
+        },
         "300021": {
             "monster_id": 300021,
             "monster_name": "Guardián (II)",
@@ -1017,13 +1283,62 @@
             "skill_text": "La unidad de apoyo autónoma: tifón destructor ejecuta ataques más frenéticos y la mayoría de sus movimientos no pueden ser contrarrestados con apoyos perfectos. Cuando sus brazos mecánicos estén cargados de electricidad, ejecuta una embestida que puede activar un apoyo perfecto. Al ejecutar múltiples apoyos defensivos, dejará expuesta su vulnerabilidad."
         }
     },
-    "Especiales": {
+    "Especial": {
         "10023": {
             "monster_id": 10023,
             "monster_name": "Bangbú dorado",
             "card_text": "Cada saqueador de Cavidades está convencido de que estas aguardan infinitas oportunidades de volverse rico. Todas las historias de riqueza inmediata mencionan a un ser especial: el bangbú dorado.\nUna investigación de la Asociación de Investigación de Cavidades revela que en las profundidades de las Cavidades habitan incontables bangbús errantes que recolectan mecamonedas y deniques dispersos que dejan al resguardo del bangbú dorado.\nSe desconoce el objetivo por el cual reúnen tanto dinero. Lo único que se sabe es que introducen sus monedas en el bangbú dorado mientras tararean «en nah» sin cesar.\n«¡N-Nickie, mira! ¡Es un bangbú dorado!»\n«¡¿Qué haces ahí parado?! ¡Golpéalo, rápido! ¡Este bangbú nos hará asquerosamente ricos!»",
             "card_quote": "— Las Liebres Astutas mientras persiguen a un bangbú dorado en las profundidades de una Cavidad",
             "skill_text": "El bangbú dorado contraataca ocasionalmente."
+        },
+        "10032": {
+            "monster_id": 10032,
+            "monster_name": "Engendro miasmático",
+            "card_text": "Monstruos humanoides que, tras ser inyectados con el suero de sacrificio, mantienen su forma debido a la supresión del porcelumen. Su apariencia grotesca es insoportable de ver.\nLos informes de la Asociación de Investigación de Cavidades indican que estos humanoides miserables pierden el control instantáneamente una vez que se les despoja del porcelumen en sus cuerpos, convirtiéndose rápidamente en engendros terroríficos.\nPor lo tanto, aunque parezcan moverse lentamente, la Asociación nunca recomienda intentar acercarse o «redimirlos», a menos que estés seguro de poder eliminarlos antes de que enfurezcan.\n\n«Mira esos bultos que sobresalen de sus espaldas, como mochilas que nunca pueden quitarse... Parecen una especie de excursionistas malignos, siempre listos para emprender un nuevo viaje».",
+            "card_quote": "— Kruz, editorialista especial del foro semanal «Supernova Hoy»",
+            "skill_text": "Durante el combate, el engendro miasmático invocará polvo explosivo que puede detonar con retraso alrededor del personaje. La estrategia más prudente será alejarse rápidamente de las áreas con polvo."
+        },
+        "19999": {
+            "monster_id": 19999,
+            "monster_name": "Carta de enemigo aleatoria",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "20028": {
+            "monster_id": 20028,
+            "monster_name": "Protector del orden",
+            "card_text": "Una unidad táctica de seguridad de uso civil fabricada por la empresa de seguridad Tifeo a la imagen de un patrullero trampero del Ministerio de Seguridad Pública, el cual ha sufrido algunos ajustes en su potencia de fuego y tecnología para evitar posibles inspecciones técnicas y acusaciones de plagio.\nA pesar de ello, Taifei Tecnología de Seguridad ha utilizado los materiales más duraderos y sofisticados para su fabricación, facilitando en gran medida su uso y resistencia.\nTras su lanzamiento al mercado, fue bien recibido por diversas empresas.\n\n«Saludos, el protector del orden están a su servicio. Por favor, escoja el modo de patrullaje deseado.»\n«Eh... ¡¿Me estás diciendo que tiene más de cien modos predeterminados?!»",
+            "card_quote": "— Reclamo de un comprador indeciso durante una exhibición",
+            "skill_text": "Durante el combate, la unidad táctica de seguridad: protector del orden utiliza su escudo para reducir el daño y el Aturdimiento en gran medida a la espera del momento oportuno para atacar."
+        },
+        "20029": {
+            "monster_id": 20029,
+            "monster_name": "Patrulla ligera",
+            "card_text": "Una unidad de seguridad producida en serie por la empresa de seguridad Tifeo, la cual ha sido ampliamente utilizada en el ámbito civil. Cuenta con numerosas ventajas: bajo costo, versatilidad, un revolucionario sistema de equilibrio dinámico de una sola rueda y un sistema inteligente integrado con núcleo de reconocimiento de amenazas, adaptable a las necesidades de seguridad de diversos entornos complejos.\n«Esta unidad táctica de seguridad, que ha superado 47 pruebas rigurosas, ha sido implementada exitosamente en el área central de 32 parques industriales. Según los comentarios de los clientes, ha reducido los incidentes de intrusión ilegal en un 91 %. Tenga la seguridad de que podrá utilizarla para cualquier tarea de seguridad que pueda imaginar».",
+            "card_quote": "— Palabras elocuentes de un vendedor de Taifei Tecnología de Seguridad, S.L. a cargo de la publicidad",
+            "skill_text": "Durante el combate, la unidad táctica de seguridad: patrulla ligera utiliza la motosierra de su brazo para ejecutar un ataque rápido."
+        },
+        "20030": {
+            "monster_id": 20030,
+            "monster_name": "Patrulla mediana",
+            "card_text": "Producida por Taifei Tecnología de Seguridad, S.L., es una unidad de seguridad de producción en masa basada en la modificación de los mecas de apoyo de combate del Ministerio de Seguridad Pública. En comparación con los mecas de apoyo de combate, se han reducido algunas de sus capacidades de combate, dependiendo principalmente de su gran escudo para someter a grupos de baja amenaza como alborotadores, mantener el orden y guiar a las multitudes durante eventos importantes y ocasiones especiales.\nSegún los informes, algunas unidades han sido adquiridas y modificadas por delincuentes para crear la unidad de apoyo ilegal «Barredora enfurecida». Algunos incluso han llegado a comentar en el sitio web oficial de la empresa que «¡la calidad es peor que la de los mecas de apoyo destrozados que encontré en la Cavidad!», dejando una reseña negativa de una estrella.\n«Este tipo de modificaciones ilegales no tienen relación con nuestra empresa, son modificaciones privadas realizadas por los usuarios. Definitivamente, lucharemos contra este tipo de reseñas negativas, quiero decir, contra estas actividades ilegales hasta el final...»",
+            "card_quote": "— Portavoz de Taifei Tecnología de Seguridad, S.L.",
+            "skill_text": "La unidad táctica de seguridad: patrulla mediana utiliza sus largas y delgadas extremidades superiores para ejecutar un ataque giratorio continuo. Ejecuta un apoyo defensivo antes de que lance su ataque para detener por completo la ejecución de la habilidad."
+        },
+        "29999": {
+            "monster_id": 29999,
+            "monster_name": "Carta de enemigo aleatoria",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30003": {
+            "monster_id": 30003,
+            "monster_name": "Cerrosorte",
+            "card_text": "En los primeros días de la creación de los bangbús, la Dama del Albor tuvo una grandiosa visión: crear un bangbú con gran inteligencia que pudiera juzgar y ejecutar de forma independiente la orden de «proteger», para así ayudar a la humanidad contra las amenazas de la Cavidad.\nY Cerrosorte, con el número de serie GU-0001, fue la primera creación de este gran plan.\nSe le dotó del módulo táctico más avanzado, del sistema de armamento más poderoso y... del corazón más puro, programado con la orden suprema de «proteger a la humanidad».\nSin embargo, durante el infierno que fue la caída de la antigua capital, fue testigo por primera vez de la incurable oscuridad que anidaba en el alma de los humanos a quienes debía proteger. Vio cómo la gente se traicionaba y se mataba entre sí para sobrevivir, fue testigo de cómo su usuario de confianza se vio obligado a apuntar con el cañón de un arma a seres indefensos.\nLos nobles ideales grabados en su código del núcleo entraron en el más agudo y cruel conflicto con la horrible realidad ante sus ojos.\nEn ese momento, finalmente comprendió que, para la humanidad, el mayor enemigo nunca fueron los monstruos del exterior...\nSino los interminables deseos y conflictos de la propia humanidad.\n«Los humanos son realmente adorables. Aunque siempre repiten los mismos errores...»\n«Pero no importa, los perdonaré.»\n«Y... corregiré todo esto con mis propias manos.»",
+            "card_quote": "— Cerrosorte",
+            "skill_text": "Durante el combate, Cerrosorte usa su arma para atacar al jugador. Algunos de sus ataques son muy poderosos y, aunque se logre realizar un apoyo defensivo contra estas habilidades, la fuerza del impacto impedirá realizar un ataque sucesivo y se podrá ser afectado por la mofa de Cerrosorte."
         },
         "30004": {
             "monster_id": 30004,
@@ -1056,16 +1371,9 @@
         "30024": {
             "monster_id": 30024,
             "monster_name": "Sacrificio de Bringer",
-            "card_text": "De ser un superviviente que erraba en el erial hasta convertirse en el comisario en funciones del Ministerio de Seguridad Pública del distrito de Jano, la vida de Bringer es una historia inspiradora llena de gloria.\nPero detrás de esta historia inspiradora se esconden crímenes y conspiraciones que se ciñen como una nube oscura sobre el distrito de Jano.\nPara cumplir con su gran plan, Bringer tomó el control desde las sombras, tramando y conspirando, llegando a sacrificarlo todo...\nEn el último paso del plan, incluso se inyectó suero de sacrificio para demostrar la fe que tenía en sí mismo.\nEn ese momento, todas sus obsesiones y locuras se manifestaron en la retorcida Cavidad.\nUn torrente de energía etérea activa, una fuerza destructiva imparable... Su fe trastornada, sus deseos entremezclados, todo ello se alojó en ese cuerpo monstruoso.\nEl sacrificio es la última identidad que asumió bringer, y la más perfecta de todas.\n«¡Que el Creador... me dé forma!».",
+            "card_text": "De ser un superviviente que erraba en el erial hasta convertirse en el comisario en funciones del Ministerio de Seguridad Pública del distrito de Jano, la vida de Bringer es una historia inspiradora llena de gloria.\nPero detrás de esta historia inspiradora se esconden crímenes y conspiraciones que se ciñen como una nube oscura sobre el distrito de Jano.\nPara cumplir con su gran plan, Bringer tomó el control desde las sombras, tramando y conspirando, llegando a sacrificarlo todo...\nEn el último paso del plan, incluso se inyectó suero de sacrificio para demostrar la fe que tenía en sí mismo.\nEn ese momento, todas sus obsesiones y locuras se manifestaron en la retorcida Cavidad.\nUn torrente de energía etérea activa, una fuerza destructiva imparable... Su fe trastornada, sus deseos entremezclados, todo ello se alojó en ese cuerpo monstruoso.\nEl sacrificio es la última identidad que asumió bringer, y la más perfecta de todas.\n«¡Que el Creador... me refine!».",
             "card_quote": "— Los gritos desgarradores de Bringer",
             "skill_text": "El sacrificio de Bringer cuenta con un amplio arsenal que le permite combinar ataques a distancia y cuerpo a cuerpo. Además, puede invocar seres gigantes desde la fisura etérea para que lo asistan en combate. Al recibir cierta cantidad de daño entrará en su segunda fase, en la que ejecutará ataques más pesados y disparará una densa ráfaga. Al infligirle suficiente daño mientras prepara su Cuchilla sacrificial, dejará de acumular fuerza y expondrá su vulnerabilidad."
-        },
-        "30025": {
-            "monster_id": 30025,
-            "monster_name": "Protozoario espinoso",
-            "card_text": "El éter es un parásito voraz e insaciable que devora la vida.\nEl protozoario espinoso es una manifestación del éter aún más maligna. Al hospedarse en el cuerpo de sus crueles compañeros, el tyrfing y el alpeca, pueden satisfacer su voracidad más salvaje.\n«¡Quítenmelo de la cara!».",
-            "card_quote": "— Un científico de seres etéreos al darse cuenta de que es solo un insecto saltarín",
-            "skill_text": "El protozoario espinoso deambula continuamente en busca de un tyrfing o un alpeca huésped."
         },
         "30028": {
             "monster_id": 30028,
@@ -1073,6 +1381,69 @@
             "card_text": "Un guarda del operativo de seguridad que, a simple vista, parece un guarda común y corriente, pero que en realidad cuenta con un arsenal de técnicas secretas. El deber de un guarda de servicios especiales no solo consiste en parecer intimidante y pararse frente a la entrada, sino también en ayudar a su jefe a conservar su reputación cuando se ha pasado de copas, o mantener la compostura ante los ladrones como si fuera su pan de cada día. Su trabajo no consiste en detener a los ladrones, sino en evitar que el jefe se caiga, arreglar el ascensor de entrada y, en general, mantener un perfil bajo. En su mundo, el arma más poderosa es lucir genial sin tener que mover un solo dedo. Después de todo, aquel que se jacte de ser un guarda de servicios especiales no permite que los demás sepan de su existencia hasta que el problema haya quedado resuelto y la gente diga: «¿Cómo? ¿Has estado aquí todo este tiempo?».\n«Mantente firme, y nadie será más rudo que tú.»",
             "card_quote": "— Extracto del «Manual de operaciones de un guarda de seguridad», escrito por un guarda veterano",
             "skill_text": "Los guardas del operativo de seguridad utilizan diferentes armas para atacar y cuando es necesario, cooperan entre sí."
+        },
+        "30030": {
+            "monster_id": 30030,
+            "monster_name": "Castigador Sombrío",
+            "card_text": "El líder de la organización de ladrones de arte «Ruiseñor». Además de ser el maestro del disfraz, el engaño y diversas técnicas sofisticadas de robo, el Castigador Sombrío también posee un estilo de combate enigmático e impredecible. Empuña una guadaña gigante, como si con ella quisiera cortar de raíz las injusticias del mundo. El maletín que lleva consigo está cubierto de misterio, y en su interior alberga dispositivos intricados y armas letales que usa durante sus operaciones, haciendo cada uno de sus movimientos impredecible y peligroso.",
+            "card_quote": null,
+            "skill_text": "El Castigador Sombrío evade al oponente y activa la visión extrema, para luego ejecutar un poderoso ataque con impulso. Este movimiento puede ser contrarrestado con una evasión perfecta o un apoyo perfecto."
+        },
+        "30035": {
+            "monster_id": 30035,
+            "monster_name": "Sacrificio: bufón herético",
+            "card_text": "Las peculiares ondas de energía revelan su identidad: es una creación de la Asamblea de la Exacerbación, el origen de las pesadillas.\nEs un cazador temible que se acerca sigilosamente a su presa. Sin embargo, a veces es como un niño inquieto jugando al escondite, incapaz de contener sus risitas. Quizás porque el miasma que lo engendró carga consigo las voces de muchas almas perdidas, siempre es voluble e indeciso.\n\n«Si el juego es un privilegio de los seres inteligentes, lo que esto imita no son más que fragmentos rotos de una farsa absurda... No hay ovación, solo sangre a raudales».",
+            "card_quote": "— Correo enviado por un psicólogo a un investigador de laboratorio ya retirado tras sufrir un ataque",
+            "skill_text": "Durante el combate, el sacrificio de bufón herético se elevará en el aire, desatando un frenesí de dagas voladoras y activando un dominio miasmático. Usa un apoyo defensivo en el momento preciso de su ataque para contrarrestar el frenesí de dagas voladoras. Si lo logras, caerá y quedará en estado vulnerable durante un tiempo."
+        },
+        "30037": {
+            "monster_id": 30037,
+            "monster_name": "Desertora",
+            "card_text": "Protección, lealtad, honor... No son más que palabras triviales por las que los soldados entregan sus frágiles vidas en la contienda que se lucha en las Cavidades.\nPero si lo que se protege no es lo que se debe proteger, si la lealtad no se entrega a quien la merece y si el honor no es genuino, entonces ese sacrificio se convierte en una burla hacia aquellos que se creen la mentira.\nPor lo tanto, que estas llamas impregnadas de venganza me consuman a mí y solo a mí.\n«¿Dar marcha atrás? Ya es demasiado tarde.»",
+            "card_quote": "— Un murmullo proveniente de un arrecife en medio de la marea menguante de miasma",
+            "skill_text": "Durante el combate, Desertora ejecuta ataques feroces con su espada y su pistola. Cuando recibe cierta cantidad de daño, activa el dominio miasmático y ejecuta ataques penetrantes rápidos y poderosos."
+        },
+        "30038": {
+            "monster_id": 30038,
+            "monster_name": "Profanadora",
+            "card_text": "Las llamas siniestras más allá del río Estigia no pueden iluminar el camino de la venganza. Una fanática obsesionada que grabó una maldición en el santuario finalmente prueba el amargo fruto de su profanación.\nEl miasma se acumula bajo la alta torre, y las almas perdidas despiertan del éter. El rencor se materializa en un poder oscuro y corrupto. Sin fe ni justicia, este poder profano no forja más que una armadura y una alabarda que encarnan el odio y la locura.\nLas nauseabundas manchas de sangre colorida se extienden por la tierra maldita, lo que conduce al desenlace de esta larga historia.\n«Si el final está destinado a ser imperfecto, al menos déjame escribirlo con mis propias manos.»",
+            "card_quote": "— Un murmullo proveniente de entre las olas gigantes del miasma que se elevan en el aire",
+            "skill_text": "Profanadora ejecuta ataques rápidos e implacables con su arma. Al bloquear las hojas miasmáticas que arroja y los ataques de la milicia miasmática que invoca, dejará expuesta su vulnerabilidad. Cuando Profanadora recibe cierta cantidad de daño durante el combate, activa el dominio miasmático y canaliza un tsunami miasmático que aplica el efecto de muerte inminente al jugador. Si se logra destruir una parte de Profanadora durante la canalización, se generará una barrera miasmática que protege contra el ataque del tsunami miasmático."
+        },
+        "30040": {
+            "monster_id": 30040,
+            "monster_name": "Ideal anegado: Komano Manato",
+            "card_text": "Un enemigo ilusorio que no debería de existir, y que quizás nunca más vuelva a aparecer, y sin embargo, la presión que ejerce su poder se siente muy real. Si bien los registros relacionados con él acabarán formando parte de los datos de simulación de la Asociación de Investigación, los jóvenes que alguna vez se adentraron en el sueño, siendo sus primeros descubridores, tienen una comprensión diferente de sus patrones de comportamiento.\n\n«¿Será mi imaginación, o parece más delgado que Manato?»",
+            "card_quote": "— Evaluación subjetiva de un agente que conoce bien a Manato",
+            "skill_text": "Durante el combate, el ideal anegado de Komano Manato ejecuta ataques feroces contra ti. Debes esforzarte al máximo para defenderte de sus habilidades. Al ejecutar con éxito un apoyo defensivo contra algunas de sus habilidades, puedes interrumpir sus ataques. Si logras ejecutar un apoyo defensivo contra sus habilidades más poderosas, puedes dejarlo en estado debilitado."
+        },
+        "30042": {
+            "monster_id": 30042,
+            "monster_name": "Ye Shiyuan, el siervo",
+            "card_text": "El miasma y una voluntad corrupta lo controlan. La bestia aún conserva su instinto ambulante, pero la figura humana sobre su lomo ha perdido toda conciencia y de ella solo queda un vago anhelo agonizante. A veces blande su espada en la niebla negra y otras veces dirige las fauces gigantes de la bestia para abrir la tierra. Sus acciones, aunque precisas, carecen de la gentileza que mostraba cuando era humano, como las de un títere manipulado por fragmentos de su pesadilla.\nSolo cuando una cinta roja cruza su línea de visión, su espada parece congelarse por un momento, como si ese anhelo agonizante oprimiese su alma corroída por un instante.\n\n«¿Quién controla realmente a quién? La persona sobre mi lomo es el verdadero prisionero.»\n«La desesperación debe aprovecharse hasta el último momento, ¿no es así?»",
+            "card_quote": "— Un susurro de Su voluntad que se mofa desde las profundidades de la Cavidad.",
+            "skill_text": "Durante el combate, el siervo invoca al devorador miasmático sobek como apoyo. No se puede provocar Aturdimiento ni Anomalía sobre el sobek. Cada vez que es derrotado, el siervo lo resucita para liberar juntos una poderosa habilidad combinada. Si consigues bloquear el último ataque de dicha habilidad combinada, el sobek entra en el estado de debilidad durante cierto tiempo."
+        },
+        "30044": {
+            "monster_id": 30044,
+            "monster_name": "Sacrificio: emisaria del mandato",
+            "card_text": "«Todo aquel que oiga la voz, contemplará la forma de la verdad». Aunque esa verdad no sea más que una ilusión rescatada del delirio.\nQuizás tuvo nombre y apellido alguna vez, pero por razones desconocidas, decidió entrar voluntariamente en una habitación oscura para ofrecer sus oídos, sus ojos e incluso su mente y convertirse en un recipiente que existe únicamente para transmitir cierta voz. Tomó los susurros de aquella existencia en la Cavidad como una revelación divina, como si se tratara de un canal directo de <i>su</i> voluntad en el mundo terrenal, a la espera de que, cuando el objetivo bajase la guardia, resonase en su mente una «voz propia» clara e irresistible.\nPero entre los intervalos de las transmisiones de sus mandamientos, cuando alguien se resiste a los susurros de la voluntad y desgarra las alucinaciones auditivas, se escucha el eco punzante de las emociones humanas, en las cuales sigue reverberando una verdad sin difundir hasta el último momento.\nSin ira, sin miedo, solo con una determinación devota, hasta que el último murmullo se desvanece en el silencio junto con su cuerpo.\n\n«¿\"Emisaria del mandato\"? Ciertamente, defendía esa voz detestable como si fuera la ley misma, cual necia que cree haber encontrado el camino a casa para terminar convirtiéndose en la lápida de esa voz. Pero ¿qué sentido tiene odiar a un recipiente de voces? Si hay que ajustar cuentas, habrá que buscar el origen de esa voz.»",
+            "card_quote": "— Una empleada del Servicio de Atención al Cliente enfrascada en una animada conversación durante una llamada telefónica",
+            "skill_text": "Durante el combate, el sacrificio de la emisaria del mandato utiliza sus alas para ejecutar una réplica. Cuando ejecutas un apoyo defensivo contra algunas de sus habilidades, puedes interrumpir su ataque. Además, la emisaria del mandato concentra su energía para ejecutar ataques a distancia, algunos de los cuales crean charcos miasmáticos en el suelo desde los que invoca proyectiles teledirigidos para ejecutar réplicas. Puedes aprovechar el momento en el que los proyectiles cambian de dirección para activar una evasión perfecta y ejecutar un contraataque."
+        },
+        "40000": {
+            "monster_id": 40000,
+            "monster_name": "Pesadilla primordial: Creador",
+            "card_text": "Para los humanos que luchan en la larga noche, la vida es una tortura sin fin.\nBondad y maldad, amor y odio, esperanza y desesperación... Estos conceptos eternamente opuestos son como ataduras que envuelven el alma, condenando a la humanidad a desgarrarse mutuamente en un ciclo interminable sin hallar paz.\nSin embargo, antes de que existiera concepto alguno, antes de que surgiera cualquier oposición, existía el «Uno» primordial.\nSiendo el principio y el fin de todo. Sin conocer el bien ni el mal, pues es la esencia misma de ambos. Sin sentir tristeza ni alegría, pues es la suma de todas las emociones.\nBorrará los límites entre el «tú» y el «yo», y permitirá que todas las conciencias independientes se fusionen una vez más en el gran flujo de la «unidad».\nEn su mundo, sin individualidad no hay deseo egoísta. Sin conflicto no hay sufrimiento. Sin elección no hay error. Todas las almas se liberarán de sus ataduras, regresando al estado primordial de absoluta igualdad y paz eterna.\nNo tiene forma definida, porque es la forma de todas las cosas. No tiene voz definida, porque es la resonancia misma del universo.\nEs la tormenta y la calma. Es el final y el renacimiento.\n«Abandonen su lucha sin sentido, hijos perdidos.»\n«Su sufrimiento termina aquí.»\n«Regresen al abrazo de \"Él\"...»",
+            "card_quote": "— Creación del Creador",
+            "skill_text": "La pesadilla primordial puede entrar y salir libremente del dominio miasmático. Incluso cuando no se encuentra en el dominio miasmático, la existencia del escudo miasmático puede protegerla y evitar que se le provoque Aturdimiento. Solo cuando el escudo miasmático se rompe, se le puede provocar Aturdimiento. Cuando la pesadilla primordial se recupera del Aturdimiento, la protección del escudo miasmático vuelve a activarse.\nDurante el combate, la pesadilla primordial utiliza técnicas de control. Si logras contrarrestar perfectamente cada ataque, podrás obtener ventaja durante el combate."
+        },
+        "100132": {
+            "monster_id": 100132,
+            "monster_name": "Patrulla ligera",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         },
         "100231": {
             "monster_id": 100231,
@@ -1123,12 +1494,54 @@
             "card_quote": "— Viernes, la máquina inteligente escogida por el destino",
             "skill_text": "Viernes crea ondas de choque de gran alcance que son difíciles de evadir. Sin embargo, la mayoría de sus habilidades pueden bloquearse con apoyos defensivos. Tras infligir cierta cantidad de daño en sus patas, podrás destruirlas y provocar una gran cantidad de Aturdimiento una vez."
         },
+        "300372": {
+            "monster_id": 300372,
+            "monster_name": "Doppelgänger miasmático de Desertora",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nIncluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su minuciosidad es tal que resulta prácticamente imposible apreciar diferencias tanto en la textura como en los detalles del objetivo original.\nLo que todavía resulta más peligroso es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr emular a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, este enemigo utiliza movimientos idénticos a los del ser que imita, con lo que ejecuta ataques feroces con espada y pistola. Cuando recibe cierta cantidad de daño, activa el dominio miasmático y ejecuta ataques penetrantes rápidos y poderosos."
+        },
+        "300402": {
+            "monster_id": 300402,
+            "monster_name": "Komano Manato miasmático",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nIncluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Durante el combate, el doppelgänger de Komano Manato miasmático ejecuta ataques feroces contra ti. Debes esforzarte al máximo para defenderte de sus habilidades. Al ejecutar con éxito un apoyo defensivo contra algunas de sus habilidades, puedes interrumpir sus ataques. Si logras ejecutar un apoyo defensivo contra sus habilidades más poderosas, puedes dejarlo en el estado de debilidad. En combate, tras recibir cierta cantidad de daño, ejecuta dominio miasmático para usar un ataque poderoso."
+        },
         "930151": {
             "monster_id": 930151,
             "monster_name": "Bangbú dorado",
             "card_text": "El bangbú dorado <color=#D9A600>se mueve a gran velocidad y tiene una gran cantidad de PV</color>, pero no atacará a los bangbús aliados. Derrótalo y obtendrás <color=#D9A600>una sorpresa</color>.",
             "card_quote": null,
             "skill_text": "PV: altos\nAtaque: medio\nVelocidad: rápida\nNivel de amenaza: <color=#FF3333>alto</color>"
+        },
+        "930170": {
+            "monster_id": 930170,
+            "monster_name": "Mecabú Dorado",
+            "card_text": "Según las leyendas urbanas que circulan entre los saqueadores de Cavidades, los bangbús dorados buscan sin cesar deniques y mecamonedas en las Cavidades con un único propósito: extraer los metales necesarios para financiar colectivamente la construcción del Mecabú Dorado (por supuesto, su brillante esmalte es en realidad una aleación de cromo y cobre, el único material con la resistencia suficiente como para sostener una estructura tan imponente).\nCuando el Mecabú Dorado esté terminado, el bangbú que haya aportado más a su construcción se sentará en la cabina de control rodeado por sus compañeros y se convertirá en el bangbú del Mecabú Dorado para aplastar a los enemigos que amenacen a los bangbús dorados con sus espectaculares y poderosos movimientos.\n«Acometida dorada», «Rayo de oro fundido», «Misil áureo»...\nAunque los nombres de los movimientos sean extraños, ¡los bangbús piensan que son geniales!\n«¡Mira! ¡El bangbú del Mecabú Dorado!» «¡N-no teman! ¡Si lo derrotamos, nos haremos de oro!»...\nAunque los malvados saqueadores de Cavidades suelan verlo como una cámara acorazada ambulante, ¡los bangbús siguen pensando que es genial!",
+            "card_quote": "— ¡Ehn nah ñunah!\n(¡El dios de los bangbús dorados se yergue sobre la tierra!)",
+            "skill_text": "El Mecabú Dorado está equipado con el sistema de armadura dorada más novedoso. Al activarlo, obtiene una gran cantidad de escudo, incrementando considerablemente su resistencia etérea, y disminuyendo considerablemente su resistencia eléctrica. El Mecabú Dorado cuenta con un poderoso sistema de propulsión que le permite evadir con facilidad o ejecutar ataques aéreos, pero la duración de vuelo es limitada."
+        },
+        "930175": {
+            "monster_id": 930175,
+            "monster_name": "Jane miasmática",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nIncluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Este enemigo activa el dominio miasmático en momentos específicos, y bloquea y contraataca cuando es necesario. Sin embargo, al terminar una serie de ataques, quedará vulnerable."
+        },
+        "930176": {
+            "monster_id": 930176,
+            "monster_name": "Castigador Sombrío miasmático",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nIncluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Este enemigo evade al oponente y activa la visión extrema y el dominio miasmático en momentos específicos, para luego ejecutar un poderoso ataque con impulso. Este movimiento puede ser contrarrestado con una evasión perfecta o un apoyo perfecto."
+        },
+        "930177": {
+            "monster_id": 930177,
+            "monster_name": "Doppelgänger miasmático",
+            "card_text": "La forma refinada en las oscuras profundidades de la inmundicia de lo que en su momento fue una creación caída.\nIncluso dentro de los ionizados, conocidos por su rareza y sus cualidades insólitas, el doppelgänger ionizado es único en su especie.\nEstos seres son capaces de cubrir sus cuerpos con una capa de iones de éter activos especiales, lo cual les permite replicar con precisión la apariencia de su objetivo. Su precisión es tal que resulta prácticamente imposible apreciar diferencias tanto en textura como en detalles del objetivo original.\nLo que todavía resulta más complicado es que pueden llegar a imitar las poderosas e intimidantes técnicas de combate de sus objetivos.\nNadie sabe de dónde obtienen la información para lograr imitar a ciertos sujetos. Algunos rumores indican que pueden leer la mente, lo cual les permitiría elegir la forma más adecuada a partir de los recuerdos de su oponente, transformarse en ella y atacar sin piedad.\n«¡Tonterías! Si de verdad pudiera identificar mis miedos más profundos, ¡se convertiría en una feroz señora de mediana edad con una chancla en la mano! ¡Así es, mi mayor miedo es mi vieja!»",
+            "card_quote": "— Comentario de un saqueador de Cavidades en la red proxy",
+            "skill_text": "Este enemigo utiliza movimientos idénticos a los del objetivo que imita y, debido a la contaminación miasmática, activará el dominio miasmático en momentos específicos."
         }
     }
 }

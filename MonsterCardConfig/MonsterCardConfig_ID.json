@@ -133,6 +133,13 @@
             "card_quote": "—Arsip Investigasi Hollow Zero No. KU241 - Rekaman suara ketika menyaksikan Hornet untuk pertama kalinya.",
             "skill_text": "Dalam pertarungan, Hornet akan menghalau musuh untuk membantu Nineveh."
         },
+        "20032": {
+            "monster_id": 20032,
+            "monster_name": "Ionized - Pugnus",
+            "card_text": "Tidak semua Ionized di Hollow suka bersembunyi, dan Pugnus bahkan menyebarkan ancamannya di setiap duri yang dimilikinya. Dilengkapi dengan armor, punggung dan ekornya dipenuhi duri-duri tajam, sementara kedua lengannya berupa capit raksasa yang berat—bukan hanya sebagai senjata, tapi juga genderang perang untuk menghantam tanah dan menandai wilayahnya. Pugnus cenderung mengumpulkan kekuatan dalam bayangan, namun bisa tiba-tiba muncul dalam sekejap, menghantam target dengan seluruh berat tubuhnya menggunakan kedua capitnya. Gelombang kejutnya cukup kuat untuk membuat target yang belum berpengalaman kehilangan keseimbangan, dan puing-puing beterbangan yang mengikutinya seringkali menutup semua jalur pelarian. Ritme serangannya menunjukkan bahwa ia mengandalkan getaran tanah untuk melacak targetnya sebelum menerjang dengan serangan tiba-tiba dan eksplosif untuk mengakhiri pertarungan. Menariknya, beberapa Hollow Raider yang bertahun-tahun berhadapan dengan Pugnus telah mengembangkan teknik unik \"Lightfoot Hollow Step\": \"Dulu aku sering kehilangan keseimbangan karena getarannya, tapi aku belajar untuk berjinjit dan bergerak cepat... Sekarang, entah bagaimana aku bahkan bisa menjadi juara lomba lari egrang.\"",
+            "card_quote": "—Dibagikan oleh seseorang yang mengaku sebagai penerus \"Lightfoot Hollow Step\" dalam Legenda Jurang Hollow.",
+            "skill_text": "Dalam pertarungan, Ionized - Pugnus cenderung menggunakan tangannya yang kuat untuk melancarkan Hammer Attack terus-menerus, serta melancarkan serangan terkoordinasi dengan duri-duri di kepala dan ekornya. Saat Ionized - Pugnus menghantam tanah, ia juga menciptakan serangan area yang luas."
+        },
         "30000": {
             "monster_id": 30000,
             "monster_name": "Dullahan",
@@ -175,6 +182,13 @@
             "card_quote": "—\"Wawancara Hollow\" Volume 251, terkait wawancara dengan Hollow Investigator yang selamat",
             "skill_text": "Dalam pertarungan, Twin Marionettes akan melancarkan banyak Chain Attack. Sebagian serangan tariannya akan terhenti jika terkena beberapa Defensive Assist secara berturut-turut. Jika salah satu Marionette gugur, Marionette yang bertahan akan mencoba membangkitkannya."
         },
+        "30013": {
+            "monster_id": 30013,
+            "monster_name": "Miasma Walker - Scorpse",
+            "card_text": "Di tanah tak berpenghuni yang telah sepenuhnya ditelan oleh Hollow, dia tertidur... hingga datangnya \"kekuatan itu\".\n\nKekuatan yang sangat agresif dan mencemari ini, bagaikan seorang pengrajin yang terampil namun penuh niat jahat, telah mengisinya kembali dengan energi kegelapan yang lebih murni, mengubahnya menjadi \"Miasmic Scorpse\" yang sekarang.\n\nPerlahan-lahan, sepertinya dia telah memahami trik \"eksistensi\" melalui peniruan. Dia mampu membelah energi Miasma-nya sendiri, menciptakan beberapa \"tubuh tiruan\" yang sulit dibedakan antara asli dan palsu.\n\nTubuh-tubuh tiruan ini memiliki daya serang yang hampir sama dengan tubuh aslinya. Mereka akan menyerang dari berbagai sudut dengan gerakan yang memukau untuk menutupi satu-satunya \"kenyataan\" yang mematikan.\n\nSaat menghadapi kepungannya, jangan lupa, semua yang kamu lihat adalah ilusi, semua yang kamu rasakan adalah jebakan.\n\n\"Hanya dengan menyingkirkan semua gangguan dan memahami satu-satunya 'kenyataan', kamu bisa menemukan secercah harapan dalam tarian ilusi kematian ini.\"",
+            "card_quote": "— Seorang Penjelajah Pemberani",
+            "skill_text": "Dalam pertarungan, Miasma Walker - Scorpse akan menyembunyikan dirinya dan menggunakan Mimic untuk menyerang pemain. Setelah berhasil memicu Defensive Assist atau Dodge Counter terhadap Mimic, Miasma Walker - Scorpse akan terjatuh dan kaku untuk beberapa saat. Setelah memasuki Miasmic Field, Miasma Walker - Scorpse akan memanggil lebih banyak Mimic untuk melakukan serangan terkoordinasi bersamanya. Selain itu, Miasma Walker - Scorpse juga akan menyemburkan racun yang mengandung gelembung telur Miasmic - Blastcrawler, yang akan menghasilkan damage ledakan bertahap."
+        },
         "30017": {
             "monster_id": 30017,
             "monster_name": "Ionized - Cyrtoidea",
@@ -203,12 +217,40 @@
             "card_quote": "— Kesaksian dari anggota geng Hollow Raider yang menjerit",
             "skill_text": "Dalam pertempuran, Thracian akan terus melancarkan Skill tertentu untuk memasuki status Charge. Saat berada dalam status ini, serangannya akan bertambah semakin agresif, dan setelah melancarkan Skill tingkat tinggi, akan memicu ledakan dalam jangkauan area yang besar."
         },
+        "30025": {
+            "monster_id": 30025,
+            "monster_name": "Hitchspiker",
+            "card_text": "Ether adalah hama beracun yang serakah dan tak pernah puas, parasit yang sangat jahat, yang menggerogoti segala yang hidup.\nDan Hitchspiker adalah perwujudan Ether lebih berbahaya yang menghinggapi tubuh rekan-rekannya. Tyrfing dan Alpeca bisa memuaskan rasa lapar Hollow dengan wujud yang lebih ganas.\n\n\"Menjauhlah dari wajahku!!!\"",
+            "card_quote": "—Seorang ahli ekologi Ethereal yang menyadari kalau ini adalah serangga yang bisa melompat",
+            "skill_text": "Selama pertarungan, Hitchspiker akan terus berkeliaran untuk mencari Tyrfing dan Alpeca yang bisa dihinggapi sebagai parasit."
+        },
         "30029": {
             "monster_id": 30029,
             "monster_name": "Ionized - Doppelganger",
             "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
             "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
-            "skill_text": null
+            "skill_text": "Dalam pertarungan, musuh ini akan melancarkan skill yang sama dengan target yang ditirunya."
+        },
+        "30031": {
+            "monster_id": 30031,
+            "monster_name": "Palicus",
+            "card_text": "Ethereal ganas yang selalu muncul berpasangan dan dikenal karena karakteristik tubuhnya yang unik. Kedua Ethereal itu memiliki ikatan yang erat.\n\n\"Tadi barusan itu bahaya sekali! Jangan cuma fokus melawan salah satunya, kamu juga harus memperhatikan serangan kombinasi dari perempuan-perempuan itu.\"\n\"Tunggu 'perempuan-perempuan'? Kamu sudah terlalu lama di dalam Hollow ya? Dengan Ethereal pun bisa terpesona.\"\n\"Bodoh! Aku tahu yang mana Ethereal, yang mana perempuan! Aku juga berani sumpah, 'Palicus' pasti 'perempuan'.\"\n\"Yang benar?\"\n\"Rambutnya yang panjang! Kakinya yang panjang! Sudah pasti \"Perempuan Modis Zaman Now\" —— Istilah ini adik perempuanku yang mengajariku.\"\n\"Adikmu apa kabarnya?\"\n\"Untungnya, penyakitnya sudah mulai membaik. Tapi biaya pengobatan bulan depan... masih harus dibayar dari sepasang perempuan cantik ini.\"\n\"Jadi kakak juga tidak mudah ya. Begini deh, aku bantu kamu mengalahkan 'Palicus', tapi kamu harus kasih aku nomor telepon adikmu!\"\n\"Woi, aku tidak pernah setuju sama perjanjian kayak begini ya~\"",
+            "card_quote": "——Kata-kata terakhir dari dua Hollow Raider muda",
+            "skill_text": "Dalam pertarungan, Palicus akan menyerang dengan mengombinasikan serangan jarak dekat dan jauh. Setelah salah satu dari mereka kalah, yang lainnya akan memasuki status Frenzy, yang membuat serangannya menjadi lebih cepat dan agresif."
+        },
+        "30032": {
+            "monster_id": 30032,
+            "monster_name": "Geppetto",
+            "card_text": "Sebagai salah satu Ethereal yang paling menakutkan di dalam Hollow Zero, perilaku Geppetto yang unik selalu memberikan kesan yang sangat aneh pada orang yang pertama kali melihatnya.\nTubuhnya yang besar dan menakutkan itu mengandung energi Ether yang sangat kuat, namun seperti boneka yang dikendalikan, sering kali melakukan gerakan-gerakan aneh yang tidak terduga. Tanpa data observasi yang cukup, jika Investigator bertemu dengan Geppetto di Hollow Zero, itu sama saja telah menemui ajalnya sendiri.\nAda peneliti yang berspekulasi, berdasarkan catatan mengenai \"Parasitic Ethereal Swarm\", bahwa tubuhnya yang besar dan menakutkan hanyalah kamuflase belaka, dan yang benar-benar dominan adalah inti Ether di dalam tubuhnya yang berada dalam kondisi kritis.\nSayangnya, belum ada catatan investigasi mengenai inti misterius itu.\n\"Aku belum pernah lihat dewa kematian, tapi aku tahu seperti apa bonekanya dewa kematian...\"",
+            "card_quote": "——Wawancara \"Bincang-Bincang Hollow\" edisi khusus: Seorang Investigator Hollow Zero Elite",
+            "skill_text": "Dalam pertarungan, Geppetto menggunakan tubuhnya dan energi Ether untuk melancarkan serangan dengan jangkauan luas. Jika kedua tangan dan ekornya menerima DMG dalam jumlah tertentu, bagian tersebut akan hancur, dan membuatnya lumpuh. Sat Geppetto memanggil musuh Ether atau mengaktifkan Curtain of Phantoms, ia akan memperbaiki bagian tubuh yang telah hancur. Selain itu, musuh yang terkena Curtain of Phantoms Geppetto akan terkena status Suspended, yang mengurangi kecepatan gerak dan mencegah penggunaan Skill."
+        },
+        "30033": {
+            "monster_id": 30033,
+            "monster_name": "Miasma Priest",
+            "card_text": "Bagi New Eridu, Hollow adalah bencana yang mendatangkan keputusasaan. Tiap kali Hollow meluas, ketakutan, kematian, penderitaan... dan segala bentuk keputusasaan akan menelan akal sehat dan mengubah nasib jutaan manusia.\nPertanda bencana itu berawal dari bayangan yang ada di dalam Hollow, tapi ada orang-orang yang justru mendengar panggilan aneh dari dalamnya dan menemukan... harapan serta penyelamatan di tengah keputusasaan.\nSejak saat itu, mereka menuruti panggilan misterius itu dan mendirikan organisasi rahasia. Sementara itu, Miasma Priest bersembunyi di balik bayangan New Eridu... dan menyebarkan berkat-Nya bagi orang-orang yang tersesat.\nMenurut Miasma Priest, perluasan Hollow bukan sekadar bencana alam. Dari generasi ke generasi, para pemimpin terus berusaha memecahkan misteri yang tersembunyi di baliknya untuk menemukan kebenaran sejati yang mereka dambakan... Kehendak yang ada di dalam Hollow suatu saat akan terwujud.\nTapi, proses ini memerlukan pengorbanan, masalah-masalah kecil pun tidak dapat dihindari. Meski harus berhadapan dengan Void Hunter, diburu oleh berbagai organisasi besar, itu semua tidak lebih dari sekadar rintangan kecil di jalan mencapai kebenaran sejati.\nSetelah melalui perjuangan yang panjang, Miasma Priest akhirnya hampir mencapai wujud yang sempurna. Dia sudah siap memanggil kehendak dalam Hollow itu untuk turun ke dunia manusia. Tubuh Miasma Priest terlilit dan tertutup oleh Miasma. Zat terkontaminasi yang tidak boleh disentuh itu justru menjadi senjata dan zirah yang berkilau bagi Miasma Priest.\nSemua itu adalah bukti kuat bahwa Miasma Priest menerima berkat dari-Nya.\n\"Kehendak-Nya... akan turun ke dunia manusia.\"\n\"Tugas kalian sederhana sekali...\"\n\"Kalian hanya tinggal mendengar, mematuhi, lalu... menerima berkat!\"",
+            "card_quote": "—Miasma Priest sedang melangsungkan ritual.",
+            "skill_text": "Dalam pertarungan, Miasma Priest akan beralih antara fase yang berbeda dan menggunakan jurus khusus di setiap fase. Saat Miasma Priest melancarkan beberapa jurusnya, Agen dapat melancarkan \"Perfect Assist\" tanpa mengonsumsi Assist Point, dan jika Agen melancarkan \"Defensive Assist\" beberapa kali dalam waktu singkat, Miasma Priest akan memasuki status Stagger khusus, di mana DMG yang diakibatkan Agen terhadap Miasma Priest akan meningkat."
         },
         "35001": {
             "monster_id": 35001,
@@ -334,7 +376,7 @@
             "monster_name": "Notorious - Hati",
             "card_text": "Ether humanoid berbentuk menyerupai binatang berkaki empat yang memiliki kecerdasan tinggi dan sangat berbahaya. Secara resmi tercatat oleh tim investigasi pertama dari HIA.\nMenurut rumor, ia pertama kali terlihat di dalam sarang Hollow, dan para pengembara yang berkeliaran di hutan belantara sekitar pernah mendengar suara lolongan menakutkan yang menyerupai suara raungan seekor binatang buas.\n\"Kalau aku lempar ranting atau bola, apa monster ini akan mengambilnya?\"\n\"Kamu boleh coba, tapi aku tidak akan menanggung biaya rawat inap rumah sakitmu.\"",
             "card_quote": "——Percakapan santai antara Billy dan Nicole.",
-            "skill_text": "Deskripsi Skill Monster - Tempat Sementara"
+            "skill_text": "Dalam pertarungan, Hati akan menukik dengan lincah dan melancarkan serangan cepat dengan cakarnya."
         },
         "200015": {
             "monster_id": 200015,
@@ -460,7 +502,7 @@
             "monster_name": "Notorious - Dead End Butcher",
             "card_text": "Berbeda dengan Ethereal ancaman tinggi lainnya, meskipun Dead End Butcher memiliki tubuh yang besar dan mengerikan, namun konsentrasi Ether pada tubuhnya biasanya dalam status istirahat dengan aktivitas rendah.\nMeskipun begitu, Dead End Butcher masih memiliki kekuatan luar biasa yang mampu menghancurkan segala yang menghadangnya; seluruh area metro yang terdistorsi dan hancur bisa dibilang adalah \"dapur belakang terlarang\" miliknya.\nKetika terdapat target mengancam yang menarik perhatian dari Dead End Butcher, transformasi yang mengerikan pun akan terjadi dalam sekejap.\nKonsentrasi Ether yang tinggi di dalamnya seketika akan teraktivasi sepenuhnya; energi yang meningkat secara eksponensial mengubah tubuhnya dengan cepat, dan ia akan memasuki \"mode berburu\" yang sadis dan rakus.\nIni juga berarti bahwa \"waktu hidangan pembukaan\" telah berakhir, dan \"perjamuan pembantaian\" secara resmi telah dimulai.\nJika tidak ingin menjadi bagian dari \"perjamuan\" ini, maka para Hollow Raider yang tersesat di sini harus sangat hati-hati memilih rute, dan sebisa mungkin menjauh dari \"dapur belakang\" miliknya...\n\"Rute di dalam Hollow ini cukup rumit, tetapi yang dapat dipastikan adalah saat 'ia' muncul di ujung jalan, jalan itu pasti adalah jalan buntu.\"",
             "card_quote": "——Catatan investigasi HIA no. 17 tentang Dead End Hollow.",
-            "skill_text": "Dalam pertarungan, Dead End Butcher yang terkenal bisa menggunakan Ether Energy untuk melancarkan berbagai serangan jarak jauh dan mengubah ruang, menciptakan objek imitasi."
+            "skill_text": "Dalam pertarungan, Notorious - Dead End Butcher dapat memanfaatkan energi Ether untuk melancarkan berbagai serangan jarak jauh dan dapat membuat dirinya memasuki status \"Ether Enhanced\", yang akan meningkatkan ATK. Jika dia terkena Stun, status \"Ether Enhanced\" akan terhapus."
         },
         "300121": {
             "monster_id": 300121,
@@ -468,6 +510,27 @@
             "card_text": "Bertahun-tahun yang lalu, ada sepasang saudara penari jenius. Mereka bersinar seperti bintang dan dengan cepat mendapatkan banyak popularitas. Mereka juga menampilkan pertunjukan mewah di Ballet Twins.\nTapi tepat sebelum pertunjukan berakhir, sebuah bencana Hollow tiba-tiba terjadi. Ballet Twins jatuh ke dalam Hollow, dan kedua penari itu pun jatuh ke dalam kegelapan. Banyak orang di dunia menjadi sedih saat mendengar kabar ini.\nSaat ini, kebanyakan orang hanya dapat menyaksikan tarian lincah mereka melalui sisa-sisa rekaman video dan material bergambar.\nHanya beberapa Hollow Raider yang masuk ke Ballet Twins yang bisa tahu bahwa saat musik yang terlupakan itu terdengar lagi di Ballet Twins, sosok para Marionette yang samar-samar akan muncul seperti yang dijanjikan. Banyak orang percaya bahwa mereka memiliki hubungan dengan penari tersebut, dan seakan-akan ingin membantunya menyelesaikan \"pertunjukan penutup\" itu.\n\"Waktu musik mengerikan itu berakhir, dua Marionette muncul dari kegelapan dan memberi hormat...\"\n\"Apa?! Maksud mereka pertunjukannya sudah mau dimulai?!\"\n\"Bukan, menurutku maksud mereka adalah... Sudah terlambat untuk kabur. Semuanya sudah berakhir.\"",
             "card_quote": "—\"Wawancara Hollow\" Volume 251, terkait wawancara dengan Hollow Investigator yang selamat",
             "skill_text": "Dalam pertarungan, Notorious - Marionette akan memanggil pasangan dansanya untuk menyerang. Setiap kali mengalahkan pasangannya, akan memperpanjang durasi Stun berikutnya untuk Notorious - Marionette."
+        },
+        "300301": {
+            "monster_id": 300301,
+            "monster_name": "Doppelganger - Abyssal Enforcer",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized - Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, Doppelganger - Abyssal Enforcer akan menghindari musuh secara aktif dan mengaktifkan Vital View, lalu melancarkan Serangan Menerjang yang kuat. Skill ini dapat dibalas dengan Perfect Dodge atau Perfect Assist."
+        },
+        "300371": {
+            "monster_id": 300371,
+            "monster_name": "Doppelganger - The Defector",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nBahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized - Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melancarkan skill yang sama dengan target yang ditirunya, melancarkan serangan ganas menggunakan pedang dan pistol."
+        },
+        "300401": {
+            "monster_id": 300401,
+            "monster_name": "Doppelganger - Komano Manato",
+            "card_text": "Bahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Postingan di Inter-Knot dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, Ionized - Doppelganger - Komano Manato akan melancarkan serangan tajam yang bertubi-tubi kepada pemain. Pemain perlu mengerahkan seluruh kemampuan untuk menangkis serangannya. Ketika berhasil melakukan Defensive Assist terhadap beberapa serangannya, pemain dapat menghentikan serangannya. Jika berhasil melakukan Defensive Assist terhadap serangan kuatnya, pemain dapat membuatnya masuk ke dalam kondisi Weakened."
         },
         "930146": {
             "monster_id": 930146,
@@ -537,7 +600,7 @@
             "monster_name": "Arlaune",
             "card_text": "Musuh ancaman tinggi yang bisa melancarkan <color=#D9A600>serangan jarak jauh</color>. Jika diblokir, maka akan melancarkan serangan kabut beracun yang <color=#D9A600>mengakibatkan DMG pada semua Bangboo di sekitar</color>. Saran: Tempatkan <color=#D9A600>Bangboo Baik Hati</color> untuk menghadapinya.",
             "card_quote": null,
-            "skill_text": "HP: Sangat Tinggi\nATK: Menengah\nDEF: 33\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+            "skill_text": "HP: Sangat Tinggi\nATK: Menengah\nDEF: Menengah\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
         },
         "930159": {
             "monster_id": 930159,
@@ -580,6 +643,62 @@
             "card_text": "Blastcrawler memiliki kemampuan bergerak yang cukup cepat, dan akan meledakkan diri untuk mengakibatkan DMG pada <color=#D9A600>semua Bangboo</color> di sekitarnya. Saran: Tempatkan <color=#D9A600>Paperboo</color> dengan Stamina yang tinggi untuk memblokirnya.",
             "card_quote": null,
             "skill_text": "HP: Rendah\nATK: Rendah\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930166": {
+            "monster_id": 930166,
+            "monster_name": "Tepes",
+            "card_text": "Di bawah pengaruh cinta, demi mendapatkan perhatian dan kasih sayang dari orang terdekat, gadis itu rela menggunakan kebohongan untuk menipu para korban yang kehilangan keluarga akibat Hollow.\nDia mengira bahwa selama dia membantu orang terdekatnya menyembunyikan rahasia serum \"berkat\", selama dia tidak mendengar jeritan kesakitan dari mereka yang tergerus, selama eksperimen rahasia dan tercela ini tidak terungkap, ikatannya dengan orang terdekatnya tidak akan terputus.\nNamun, pada akhirnya yang menantinya justru adalah menyaksikan dengan mata kepala sendiri bagaimana orang terdekatnya tergeletak di genangan darah dan kehilangan napas terakhir.\n\nSetelah itu, kebencian dan rasa iri menusuk hatinya setiap saat, bagaikan duri yang tak pernah hilang.\nRoda balas dendam melahap setiap inci kewarasannya, dan dalam catatan yang ditinggalkan oleh orang terdekatnya, dia kembali merangkai makna hidup yang telah terdistorsi.\nJalur hidupnya seakan menjadi sebuah dongeng kelam tentang obsesi.\n\nSaat rekan-rekan lamanya mengulurkan tangan untuk menyelamatkannya, gadis itu sudah tak bisa kembali lagi. Atau bisa dibilang, setiap kata yang berusaha menariknya kembali ke cahaya telah hancur lebur oleh rasa iri, obsesi, dan kebencian yang tertanam dalam darah dan dagingnya.\nPada akhirnya, saat matahari hendak terbenam, duri yang tak terhitung jumlahnya mencuat dari tubuh dan menembus kulitnya. Setiap tulang berduri membawa jeritan para jiwa yang telah ditinggalkan.\nTepes— Wahai sosok malang yang tertembus duri, bawalah kebencianmu dan melangkahlah menuju kegelapan yang lebih dalam.\n\n\"Terutama di malam hari, suaranya lebih menyayat dibandingkan Ethereal lainnya. Jika didengar lebih saksama, suaranya terdengar seperti tangisan seorang wanita...\"",
+            "card_quote": "——Catatan yang ditulis oleh para peneliti dari White Star Institute setelah mendengarkan rekaman dengan saksama.",
+            "skill_text": "Dalam pertarungan, Tepes akan sering menggunakan palu di kedua tangannya untuk melancarkan serangan kuat, dan Tepes juga memiliki efek buff yang dapat mengurangi efek yang diterima. Jika berhasil menangkis serangan Tepes melalui Defensive Assist beberapa kali, Agen dapat mengakibatkan Impair terhadapnya. Setelah palunya dihancurkan, sebagian Skill Tepes akan menunjukkan penurunan performa dan efek buff pengurangan DMG-nya akan hilang, serta akan terkena Stun."
+        },
+        "930168": {
+            "monster_id": 930168,
+            "monster_name": "Banyrek",
+            "card_text": "Dalam laporan HIA, Banyrek sering kali ditandai dengan label \"berbahaya\". Alasan utamanya adalah kemampuan melompatnya yang luar biasa.\nKalau diadakan olimpiade Ethereal di dalam Hollow, dia sudah pasti akan menyapu bersih gelar juara lompat tinggi dan lompat jauh. Menurut data observasi, Banyrek mampu melompat selama beberapa jam tanpa menunjukkan tanda-tanda kelelahan. Udara dan permukaan tanah sudah seperti lintasan alami yang sering dilewatinya.\nAda seorang peneliti yang berkelakar, kalau suatu hari dia dilepaskan di dalam kota New Eridu, mungkin dia bisa melompat dari sisi barat ke sisi timur dalam waktu kurang dari satu hari.\n\n\"Mau coba untuk melatihnya jadi tungganganmu?\"\n\"Sudahlah, lupakan saja. Energinya yang meledak-ledak itu lebih cocok kalau dibikin jadi generator listrik.\"",
+            "card_quote": "—Obrolan santai seorang Hollow Raider yang kabur keluar dari Hollow dengan badan penuh keringat setelah berhadapan dengan Banyrek.",
+            "skill_text": "Dalam pertarungan, Banyrek akan melancarkan serangan semburan untuk membentuk Miasma Pool di permukaan lantai. Dia kemudian akan mengisap Miasma Pool untuk memperkuat serangan yang dia lancarkan. Selain itu, skill yang dia lancarkan juga memiliki kemampuan Miasma Corruption yang cukup kuat. Miasma Pool juga bisa meledak ketika terkena serangan dari sebagian skill yang dia lancarkan."
+        },
+        "930169": {
+            "monster_id": 930169,
+            "monster_name": "Miasma Ravager - Avarus",
+            "card_text": "Dalam laporan HIA, Avarus sering dijuluki sebagai jelmaan \"dosa kerakusan\". Perut buncitnya selalu membuatnya tampak seperti pemalas yang setiap saat bisa tertidur.\nTapi, sama sekali jangan remehkan dia. Menurut data observasi, Avarus bisa meringkuk menjadi bola, lalu menggelinding untuk melancarkan hantaman dahsyat ke arah targetnya dengan kecepatan yang mengejutkan.\nMengenai alasan kenapa dia tetap bertubuh tambun dan gempal meski melakukan aktivitas fisik seintens itu, penelitian HIA sampai sekarang masih belum bisa mendapatkan kesimpulan.\n\n\"Tiap kali lihat dia menggelinding, aku jadi ingat hamster di rumahku, dia cuma lebih besar sedikit saja.\"\n\"Itu namanya jauh lebih besar...\"",
+            "card_quote": "—Catatan observasi Hollow Investigator yang dikutip dari obrolan santai dua orang observator.",
+            "skill_text": "Dalam pertarungan, Miasma Ravager - Avarus akan memanfaatkan tubuhnya yang besar untuk melancarkan serangan menggelinding. Jika berhasil melawan skill ini tiga kali berturut-turut dengan Defensive Assist, serangan menggelinding akan terhenti dan titik lemah Miasma Ravager - Avarus akan terpapar. Setelah menerima sejumlah DMG dalam pertarungan, Miasma Ravager - Avarus akan mengaktifkan Miasmic Field."
+        },
+        "930171": {
+            "monster_id": 930171,
+            "monster_name": "Fisher Crab",
+            "card_text": "Dengan memangsa \"Investigator Pemula\", \"Hollow Raider Amatir\", dan \"Petualang pemula yang serakah dan ceroboh\", Fisher Crab bisa dikategorikan sebagai pemburu \"orang dungu\" yang paling sabar di Hollow.\nSebelum menghampiri \"Suplai Hollow\" dengan gegabah, selalu ingatkan diri sendiri:\nJangan sampai menjadi bahan tertawaan rekan kerja saat makan malam nanti, atau menjadi subjek berita duka yang diumumkan lewat email besok pagi.\n\n\"Monster peti harta? Kamu sudah kebanyakan main board game ya?\"",
+            "card_quote": "——Jurnal rekaman dari Investigator pemula yang bertanggung jawab atas pengumpulan suplai, yang direkam saat mengajukan kompensasi kecelakaan kerja.",
+            "skill_text": "Dalam pertarungan, Fisher Crab akan bergerak ke samping dengan cepat, melancarkan serangan ganas dengan kedua capitnya sambil melindungi dirinya dengan cangkang yang keras. Setelah menerima serangan yang kuat, Fisher Crab akan masuk ke mode bertahan. Jika masih memiliki cangkang pelindung pada saat itu, dia akan keluar dari mode bertahan setelah beberapa saat dan melancarkan serangan balik yang ganas. Namun, jika tidak memiliki cangkang pelindung dan sudah menerima beberapa serangan, Fisher Crab justru akan kalah dan masuk ke kondisi lumpuh."
+        },
+        "930172": {
+            "monster_id": 930172,
+            "monster_name": "Huskron",
+            "card_text": "Huskron yang memiliki dua wujud—setelah dan sebelum inkubasi—membuat semua Investigator kewalahan. HIA kemudian memberikan rekomendasi: Selalu perhatikan Miasma yang ada di bawah kaki Anda. Jika menemukan benda berbentuk bola yang menyerupai batu, segera lancarkan serangan! Jangan ragu-ragu! Jangan ragu-ragu!\nMenurut sumber yang bisa dipercaya, sebenarnya tidak ada pengulangan bagian akhir rekomendasi ini, sampai akhirnya ada beberapa Investigator yang tetap mencoba berjalan melewati Huskron setelah membaca rekomendasi itu. Tindakan itu sama percumanya dengan membuka pintu kulkas pelan-pelan supaya tidak membangunkan anjing mereka di tengah malam.\n\n\"Aku lebih suka penampilannya waktu sebelum inkubasi, gembul dan bisa menggelinding.\"\n\"Jadi itu alasanmu tidak mau serang dia duluan...?\" ",
+            "card_quote": "—Obrolan Anne dan Bessa, dua calon Investigator yang baru lolos dari maut dan keluar dari Hollow.",
+            "skill_text": "Dalam pertarungan, Huskron akan bergerak dengan hati-hati. Ketika menghadapi serangan pemain, dia akan mengeluarkan pose bertahan dan melancarkan serangan balik yang dahsyat. Jika berhasil melakukan Defensive Assist terhadap skill serangan balik ini, Huskron akan memasuki status Paralyze."
+        },
+        "930173": {
+            "monster_id": 930173,
+            "monster_name": "Miasma Walker - Arcavor",
+            "card_text": "Kepala Arcavor yang berkilau bagaikan koral itu selalu langsung menarik perhatian Hollow Raider pemula. Banyak orang yang tiba-tiba terpesona olehnya dan terpaku menatapnya tanpa menyadari kalau mereka akan segera terjerumus dalam bahaya.\nSaat lawannya lengah, Arcavor akan mengangkat kaki panjangnya dengan elegan, lalu mengeluarkan pose mengagumkan layaknya atraksi akrobat. Dalam dokumen HIA, pose ini bahkan disebut seperti balerina yang sedang menari di atas es.\nKendati demikian, HIA juga menulis peringatan dengan jelas: Ketika kamu melihat dia mengeluarkan pose ini, langsung mundur dan ambil langkah seribu karena dia sedang membidik dan bersiap untuk melancarkan serangan yang mematikan ke arahmu.\n\n\"Aku rasa dia salah profesi. Coba kalau jadi penari, pemain akrobat, atau mungkin pemain seluncur indah, pasti bakal terkenal kan? Kenapa dia malah pilih hajar orang di dalam Hollow...\"",
+            "card_quote": "—Pesan yang ditinggalkan dalam forum Bencana Hari Ini oleh seorang Hollow Raider yang pernah mengalami \"serangan brutal artistik\".",
+            "skill_text": "Dalam pertarungan, Miasma Walker - Arcavor akan terus-menerus melancarkan tembakan dari jarak jauh. Setelah tumbang untuk pertama kalinya, dia akan berdiri kembali jika menyentuh Miasma Pool."
+        },
+        "930178": {
+            "monster_id": 930178,
+            "monster_name": "Miasmic - Thracian",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nEthereal ganas yang dinamai dari bangsa prajurit dalam legenda peradaban kuno. Konon hanya para pahlawan paling berani dan penjahat paling gila yang mampu berubah menjadi monster semacam ini di tengah kontaminasi Ether.\n\nNamun faktanya bukan begitu. Meski otot yang dilatih dalam Hollow dan gym, serta adrenalin berlebih yang dilepaskan sebelum kematian mungkin membuatmu menjadi masalah besar bagi mantan rekanmu semasa hidup. Tapi, mereka seharusnya tidak akan menyalahkan seorang teman lama yang sudah mati, kan?\n\nSudahlah, saat wajah tampanmu berubah menjadi bola energi hitam yang aneh, apa lagi yang perlu dikhawatirkan tentang reputasi sosial?\n\n\"Bos memang hebat! Dia bahkan masih begitu kuat meski sudah berubah jadi Ethereal!\"\n\"Dia dulu selalu lama sekali di gym setiap hari... waktu itu aku sebenarnya sudah punya firasat buruk tahu!\"",
+            "card_quote": "— Kesaksian dari anggota geng Hollow Raider yang menjerit.",
+            "skill_text": "Dalam pertarungan, musuh ini akan mengaktifkan Miasmic Field pada waktu tertentu dan langsung melancarkan satu serangan dahsyat dengan jangkauan luas sembari memperkuat skill miliknya sendiri selama durasi serangan ini. "
+        },
+        "940001": {
+            "monster_id": 940001,
+            "monster_name": "Huskron",
+            "card_text": "Saat Huskron ditangkis, <color=#D9A600>DEF-nya akan meningkat drastis</color>. Segera kalahkan dia sebelum hal itu terjadi!",
+            "card_quote": null,
+            "skill_text": "HP: Rendah\nATK: Menengah\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#31CC00>Rendah</color>"
         }
     },
     "Thug": {
@@ -630,7 +749,7 @@
             "monster_name": "Enraged Sweeper",
             "card_text": "Setiap tahunnya, sejumlah besar unit mecha pendukung milik Public Security hancur di dalam Hollow, dan sebagian dari unit-unit tersebut jatuh ke tangan para preman di dalam Hollow, kemudian dimodifikasi menjadi Enraged Sweeper.\n\nMeski para preman Hollow tidak memiliki cara untuk memperoleh bahan perbaikan profesional secara legal, tapi mereka tetap melakukan modifikasi dan memperbaiki unit-unit ini dengan prinsip \"gabung-gabung saja, yang penting bekerja\", dan \"tukar tambal saja, yang penting murah meriah\" demi memaksimalkan kemampuan tempur mecha tersebut.\n\nUntuk menonjolkan kepribadian mecha, mereka juga sering menambahkan desain mereka sendiri atau bahkan memasang pengeras suara berdaya tinggi pada Enraged Sweeper ini.\n\nMeskipun hal ini tidak meningkatkan kekuatan pertempuran, namun dapat dipastikan bahwa dari segi intimidasi, Enraged Sweeper tidak kalah dengan versi resmi.\n\n\"Ada yang datang! Yang berambut pink di sana itu, kayaknya bakalan rezeki nomplok nih!\"\n\"Yuk putar OST yang kita selalu putar buat ngerampok!\"",
             "card_quote": "——Di dalam suatu Hollow, para preman Hollow sedang melakukan debug darurat pada Enraged Sweeper.",
-            "skill_text": "Dalam pertarungan, Illegal Support Unit - Enraged Sweeper akan menggunakan lengannya yang panjang untuk melancarkan serangan berputar. Gunakan Defensive Assist sebelum menyerangnya untuk mencegahnya melancarkan serangan tersebut."
+            "skill_text": "Dalam pertarungan, Illegal Support Unit - Enraged Sweeper akan menggunakan lengannya yang panjang untuk melancarkan serangan berputar. Gunakan Defensive Assist sebelum dia menyerang untuk mencegahnya melancarkan serangan tersebut."
         },
         "20023": {
             "monster_id": 20023,
@@ -715,15 +834,92 @@
             "card_text": "Ada sesuatu yang diketahui semua orang di dunia bawah tanah New Eridu, yaitu: Petinju yang paling kuat bukanlah juara beruntun di ring tinju, melainkan Bulky Enforcer. Ia adalah preman profesional yang dipekerjakan dengan bayaran tinggi oleh Hollow Raider, dan khususnya bertanggung jawab untuk menjaga sumber daya Ether hasil curian mereka.\nSebagai pencinta olahraga tinju yang fanatik, Bulky Enforcer tidak mahir dalam mengoperasikan perangkat elektronik yang rumit. Namun, ia ahli dalam mengubah pistol kejut bertegangan tinggi menjadi \"sarung tinju\" agar tinjunya menjadi lebih mematikan.\n\nBagi Bulky Enforcer dan Wanted Enforcer, baik Ethereal, Hollow Raider, Hollow Investigator, atau petugas Public Security yang terpisah dari timnya... semuanya tidak lebih dari \"kantong pasir latihan\" yang mereka gunakan untuk hiburan semata.\n\n\"Eh, tunggu dulu! Kayaknya aku pernah lihat gaya tinju orang ini di arkade Fourth Street!\"",
             "card_quote": "——Billy yang sedang menghadapi para Enforcer di dalam Hollow",
             "skill_text": "Dalam pertarungan, Troublemaker - Wanted Enforcer akan menyerang dengan brutal dan terus menghindar ke samping untuk mengatur sudut serangannya."
+        },
+        "940002": {
+            "monster_id": 940002,
+            "monster_name": "Lumberjack",
+            "card_text": "Lumberjack adalah musuh dengan tingkat ancaman yang tinggi. Sambil mengakibatkan <color=#D9A600>DMG dalam jumlah besar terhadap target tunggal</color>, Lumberjack juga dapat melancarkan serangan area yang mengakibatkan <color=#D9A600>DMG Area dalam jangkauan luas</color> yang berpusat pada dirinya. Tetaplah waspada!",
+            "card_quote": null,
+            "skill_text": "HP: Sangat Tinggi\nATK: Tinggi\nDEF: Tinggi\nKecepatan Gerak: Menengah\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+        },
+        "940003": {
+            "monster_id": 940003,
+            "monster_name": "Rampant Brute",
+            "card_text": "Rampant Brute adalah musuh dengan tingkat ancaman yang tinggi. Dia dapat mengakibatkan <color=#D9A600>DMG dalam jumlah besar</color> terhadap target. Saat menggunakan Paperboo untuk menghalanginya, pastikan untuk menempatkan Bangboo Baik Hati di petak strategis untuk menjaga keselamatan <color=#D9A600>Paperboo</color>!",
+            "card_quote": null,
+            "skill_text": "HP: Sangat Tinggi\nATK: Sangat Tinggi\nDEF: Tinggi\nKecepatan Gerak: Menengah\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
         }
     },
     "Corrupted": {
+        "10017": {
+            "monster_id": 10017,
+            "monster_name": "Miasmic - Blastcrawler",
+            "card_text": "Ciptaan yang telah jatuh ke dalam kegelapan, kembali ditempa dalam ketidaksucian yang gelap.\n\nMiasma Blastcrawler berbalut warna merah, namun tetap tak lepas dari stigma \"ancaman rendah\", karena kecepatan gerak dan jangkauan ledakannya ternyata tidak berubah...\n\nNamun HIA telah berulang kali mengeluarkan pengumuman, mengingatkan para Investigator untuk sangat waspada terhadap kabut Miasma yang dilepaskannya setelah ledakan. Jika tidak sengaja dihirup, disorientasi sesaat sudah cukup untuk membuat seorang Investigator elite kehilangan nyawa dalam Hollow yang terus berubah.\n\n\"Tim Merah sudah siap! Tim Hijau berjalan menuju kita...\"",
+            "card_quote": "— Saat mengumpulkan cerita horor, Lucia sedang bermain pertarungan Blastcrawler melawan jangkrik",
+            "skill_text": "Miasmic - Blastcrawler yang terkontaminasi Miasma menjadi sangat tidak stabil, dan setelah meledak akan meninggalkan residu Miasma yang dapat memicu ledakan lagi. Lakukan Defensive Assist saat mereka melompat menyerang dan kamu dapat memanfaatkan ledakan tersebut untuk keuntunganmu."
+        },
         "10021": {
             "monster_id": 10021,
             "monster_name": "Raven UAV",
             "card_text": "Situasi Tidak Diketahui",
             "card_quote": "Tidak Ada",
             "skill_text": "Deskripsi Skill Monster - Tempat Sementara"
+        },
+        "10033": {
+            "monster_id": 10033,
+            "monster_name": "Miasmic Trooper - Shieldguard",
+            "card_text": "Prajurit Ethereal yang terbentuk dari Miasma, menggunakan pedang Miasma raksasa yang koruptif dan dilindungi oleh perisai pertahanan yang hampir tak tertembus, secara naluriah melindungi Miasmic Trooper lain saat mereka maju.\n\nberat tubuh dan jangkauan pertahanan yang luar biasa membuatnya sangat tangguh dalam peperangan posisi, terutama dalam kelompok, di mana mereka menjadi jauh lebih sulit untuk ditangani. HIA menyarankan untuk segera membasmi unit yang terisolasi begitu dia muncul.\n\n\"Ethereal yang peran utamanya melindungi yang lain? Jarang sekali ada yang seperti ini...\"\n\n\"Jangan terlalu meremehkan Ethereal. Ingat, apa pun yang ada di belakang makhluk-makhluk ini memang bukan manusia sejak awal!\"",
+            "card_quote": "—Dua Investigator Hollow yang bertukar intel secara diam-diam.",
+            "skill_text": "Dalam pertarungan, Miasmic Trooper - Shieldguard akan memakai perisai untuk mengurangi DMG dan Daze yang diterima secara signifikan, lalu melancarkan serangan balik pada saat yang tepat."
+        },
+        "10034": {
+            "monster_id": 10034,
+            "monster_name": "Miasmic Trooper - Cannoneer",
+            "card_text": "Prajurit Ethereal yang terbentuk dari Miasma, mengenakan seragam usang yang compang-camping dan bergerak dalam asap pertempuran bagai hantu dari masa lalu.\nData observasi Hollow menunjukkan bahwa para Grenadier dapat menyerang target di sekitar dengan presisi yang mengagumkan menggunakan bazooka mereka — tingkat akurasi yang menunjukkan adanya pelatihan ketat, yang memicu banyak spekulasi.\n\"Apa mungkin unit-unit Ethereal yang baru ditemukan dan sangat terorganisir ini... berkaitan dengan Defense Force?\"\n\"Maaf. Tidak ada komentar sampai masalah ini selesai diselidiki dan dikonfirmasi.\"",
+            "card_quote": "—Respon resmi dari juru bicara Defense Force.",
+            "skill_text": "Dalam pertempuran, Miasmic Trooper - Cannoneer akan cenderung membantu rekannya dengan melancarkan tembakan dahsyat dari jarak jauh. Selain itu, sebagian skillnya berpotensi mengakibatkan Miasma Corruption."
+        },
+        "20011": {
+            "monster_id": 20011,
+            "monster_name": "Miasmic - Huskron",
+            "card_text": "Ciptaan yang telah jatuh, dibentuk kembali dalam ketidaksucian yang dalam dan gelap.\n\nSaat melangkah ke wilayah monster yang tertidur, kita harus siap menghadapi mimpi buruk merah darah, karena dia tak lagi puas dengan permainan petak umpet.\n\nHollow Raider yang ceroboh berusaha memprovokasinya, memancingnya untuk memperlihatkan intinya yang terkubur dalam. Namun pemburu yang cerdik sering muncul dalam wujud mangsa, dan lengah karena melihat kelemahan musuh sering kali adalah kelemahan fatal bagi pemula.\n\n\"Jangan bilang aku bodoh, kepalaku benar-benar pernah dijepit oleh Ethereal...\"",
+            "card_quote": "— Investigator Pemula yang menggerutu saat dimarahi Senior",
+            "skill_text": "Dalam pertarungan, Miasma Walker - Huskron yang terkontaminasi Miasma memiliki tubuh yang lebih kuat dan kemampuan serangan yang lebih ganas. Gunakan Defensive Assist di saat yang tepat untuk menangkal serangannya yang ganas secara efektif."
+        },
+        "20016": {
+            "monster_id": 20016,
+            "monster_name": "Miasmic - Lightfoot Rover",
+            "card_text": "Mecha support utama yang terjebak dalam Hollow telah mengalami kekacauan total dalam algoritma taktisnya, menandai setiap makhluk hidup yang terlihat sebagai target berbahaya dan menembakkan serangan tanpa pandang bulu.\n\nMecha yang mengorbankan pertahanan demi serangan ini memiliki mobilitas yang sangat tinggi, sulit untuk dihantam, dan ahli dalam mengejar target.\n\nJika bernasib sial ditandai olehnya, sebaiknya berdoa ada celah spasial di dekatmu, karena hampir mustahil untuk melarikan diri.\n\n\"Kalau saja aku bisa kembali ke masa SMP, aku pasti tidak akan menyia-nyiakan latihan di klub atletik.\"",
+            "card_quote": "— Catatan harian yang ditulis dengan gemetar oleh Hollow Raider yang masih terguncang",
+            "skill_text": "Dalam pertarungan, Miasmic - Lightfoot Rover akan memanggil dua drone untuk bertempur bersamanya. Ketika berada di arena yang sama dengan Miasmic - Heavy Striker, Miasmic - Lightfoot Rover akan melakukan serangan terkoordinasi dengannya. Selain itu, saat Miasmic - Heavy Striker hampir gugur, Miasmic - Lightfoot Rover akan melompat ke target karena gangguan sinyal pertempuran terkoordinasi dan mengambil inti data pertarungannya, mendapatkan sebagian komponen Shield dan kemampuan dari Miasmic - Heavy Striker, lalu mengaktifkan Miasmic Field kecil."
+        },
+        "20018": {
+            "monster_id": 20018,
+            "monster_name": "Miasmic - Heavy Striker",
+            "card_text": "Mecha taktis yang telah tenggelam dalam Hollow, kekuatan tempurnya menjadi lebih ganas setelah terkontaminasi, bahkan bisa dengan mudah menghancurkan para Goblin.\n\nPerisai kokoh yang dulu melindungi prajurit dari serangan mematikan, rekan yang paling dipercaya oleh Defense Force, kini telah berubah menjadi mesin pembunuh yang mengerikan.\n\n\"Jika kamu berani, bantulah dan akhiri hidup teman yang dulunya bisa diandalkan ini, dan bersihkan dosa serta kejayaan yang telah menodainya.\"",
+            "card_quote": "— Pesan dari mekanik perang berambut kelabu saat serah terima pensiun",
+            "skill_text": "Dalam pertarungan, ketika Miasmic - Heavy Striker mengaktifkan Shield, ia akan membuka Miasmic Field berukuran kecil. Saat berada di arena yang sama dengan Miasmic - Lightfoot Rover, Miasmic - Heavy Striker akan bekerja sama dengannya untuk melakukan serangan terkoordinasi. Selain itu, ketika Miasmic - Lightfoot Rover hampir gugur, Miasmic - Heavy Striker akan melompat ke target karena gangguan sinyal pertempuran terkoordinasi dan mengambil data inti pertarungannya, yang berarti mendapatkan drone dan kemampuan dari Miasmic - Lightfoot Rover, lalu memerintahkan drone tersebut untuk bertempur bersamanya."
+        },
+        "20026": {
+            "monster_id": 20026,
+            "monster_name": "Miasmic - Frenzied Maniac",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nMakhluk bernasib malang ini dulunya adalah manusia yang kini telah terkontaminasi Ether dengan konsentrasi tinggi. Namun karena tubuh mereka memiliki daya tahan Ether yang cukup tinggi, mereka tidak sepenuhnya bermutasi. Wujud mereka saat ini jauh lebih kuat dibanding saat masih hidup.\nDilihat dari pakaian dan intuisi bertarung yang tersisa, kemungkinan besar mereka dulunya merupakan anggota geng atau bandit berpangkat tinggi yang berkeliaran dalam Hollow.\nMungkin berkat kondisi fisiologis tubuh aslinya yang luar biasa, atau mungkin juga karena ketertarikannya pada zat Ether, individu yang terkena kontaminasi ini tidak hanya mendapatkan kemampuan menyerang jarak dekat yang luar biasa setelah mutasi, mereka pun menjadi monster yang lebih menakutkan daripada monster-monster lain yang biasanya dijumpai di dalam Hollow.\n\"Senjata mereka sepertinya canggih sekali... tapi kelihatan seperti gratisan.\"",
+            "card_quote": "— Analisis Anby dari Cunning Hares dalam suatu operasi tertentu.",
+            "skill_text": "Dalam pertarungan, Miasmic - Frenzied Maniac akan menggunakan kemampuan menghilangnya untuk melancarkan serangan mendadak. Saat berada di medan pertarungan bersama Miasmic - Trinox, dia akan melakukan Perfect Dodge terhadap serangan pemain, lalu melancarkan serangan terkoordinasi dengan Miasmic - Trinox. Selain itu, ketika salah satu dari mereka mati, yang lainnya akan memasuki mode Frenzy."
+        },
+        "20027": {
+            "monster_id": 20027,
+            "monster_name": "Miasmic - Trinox",
+            "card_text": "Ciptaan yang telah jatuh, lalu dibentuk kembali dalam ketidaksucian yang gelap dan mendalam.\n\nHIA telah lama meneliti karakteristik mutasi tubuh Ethereal Humanoid, dan Trinox selalu berada di tiga besar penelitian populer karena struktur kepalanya berbentuk segitiga yang tampak seolah sengaja dirancang. Bahkan ada cerita tentang seorang matematikawan yang menyamar sebagai Investigator dan menyelinap ke dalam Hollow hanya untuk melihat Trinox secara langsung.\n\nHasil penelitian terbaru diterbitkan dalam \"Ensiklopedia Hollow\" edisi 28 bulan Februari. Menurut para pembaca, artikel tersebut hanya membahas makna estetika kepala Trinox.\n\nMenanggapi hal ini, para pembaca bidang Hollow yang kecewa telah memberikan rating terendah untuk artikel tersebut di situs web majalah, dengan tingkat kepuasan yang hanya mencapai 34%.\n\n\"Ukuran kepala Trinox mendekati rasio emas loh!\"\n\"Kita sedang dalam pertarungan melawan Ethereal, bukan mengadakan kontes kecantikan untuk mereka, Profesor.\"",
+            "card_quote": "— Wawancara dari acara variety show \"Durham Show\" Episode 79, percakapan antara pembawa acara Durham dan matematikawan Isaac yang kakinya pincang setelah keluar dari Hollow",
+            "skill_text": "Dalam pertarungan, Miasmic - Trinox akan menggunakan mekanisme menangkis untuk melakukan serangan balik. Ketika berada di medan pertarungan bersama Miasmic - Frenzied Maniac, Miasmic - Trinox akan memerintahkan Miasmic - Frenzied Maniac untuk melakukan serangan terkoordinasi bersamanya. Selain itu, ketika salah satu dari mereka mati, yang lainnya akan memasuki mode Frenzy."
+        },
+        "20031": {
+            "monster_id": 20031,
+            "monster_name": "Miasmic - Wicked Wraith",
+            "card_text": "Bentuk makhluk yang telah jatuh ini kembali dibentuk kembali dalam ketidakmurnian dan kegelapan.\nCiri paling mencoloknya terletak pada lengannya yang berkembang secara aneh, perwujudan amarah Wicked Wraith sepenuhnya terpusat pada kedua lengan raksasa yang telah bermutasi secara ekstrem. Lengannya sendiri lebih besar daripada kulkas dua pintu standar, dilapisi keratin padat yang saling tumpang tindih membentuk struktur seperti palu. Seorang pakar dari Hollow Investigative Association mengklaim perkembangan abnormal tersebut mungkin berasal dari tubuh asli inangnya yang telah lama bergantung pada mesin berat atau peralatan peningkatan kekuatan, yang menyebabkan ciri-ciri fisiknya diperkuat selama proses kontaminasi.\nBeberapa laporan menunjukkan bahwa ia dapat menghancurkan dinding beton dan melemparkan puing-puing kendaraan terbengkalai hingga puluhan meter. Di kalangan investigator, ia dikenal luas sebagai \"Kru Penghancur Hollow\". Salah satunya menceritakan tentang Wicked Wraith, yang menghancurkan seluruh reruntuhan dalam waktu kurang dari satu menit karena mengamuk. Namun, ia akhirnya terjebak di koridor sempit—tubuhnya yang besar kehilangan keseimbangan, dan kemudian ditangkap sebagai spesimen penelitian. \"Saat ia menghantam tanah, gema di seluruh Hollow bergetar... tapi kalau kamu cukup cepat, mungkin kamu tidak perlu berhadapan langsung dengannya.\"",
+            "card_quote": "—Seorang investigator yang selalu beruntung percaya bahwa keberuntungan berasal dari kesabaran dalam menunggu.",
+            "skill_text": "Miasmic - Wicked Wraith akan menyerang menggunakan kapak raksasa dan senapan. Serangan kapak raksasa dapat menciptakan Miasma Pool di permukaan tanah, dan serangan ini dapat menyebabkan efek Miasma Corruption ke pemain."
         },
         "30009": {
             "monster_id": 30009,
@@ -738,6 +934,34 @@
             "card_text": "Orang-orang di Outer Ring menjulukinya \"Overlord Pompey\".\nNamun sekarang, jiwanya telah terkontaminasi oleh Ether ganas, tubuhnya tercemar belerang dan minyak mentah. Jantungnya yang dulu berdetak untuk melindungi Outer Ring pun sudah berubah menjadi inti Ether superkritis dengan energi yang tidak terbatas.\n\nOrang yang dulunya adalah penguasa tertinggi Outer Ring itu kini bangkit dari api dengan wujud yang berbeda.\n\nBebas, agung, ganas, dan gila.\nDia berlari di tengah debu dan api, menangkap segala sesuatu yang bergerak di sekitarnya, lalu merobek dan menghancurkan mereka tanpa mengedipkan matanya.\n\nSeorang kawan lama yang pernah mendengar gumamannya menduga kalau yang dia lakukan bukanlah untuk balas dendam semata, tapi hanya untuk menghancurkan \"makhluk asing\" yang mencoba melanggar aturan Outer Ring.\n\nMungkin itu satu-satunya tekad yang tersisa dari Overlord Pompey.\n\"Bos kami memang sudah berubah, tapi... dia masih tetap seperti dirinya yang dulu.\"",
             "card_quote": "— Bekas bawahan The Vanquishers yang terus gemetar.",
             "skill_text": "Dalam pertarungan, Overlord Pompey akan menggunakan sepeda motor yang digabung dengan meriam melayang untuk melancarkan serangan. Namun, beberapa gerakan akan menunjukkan kelemahannya jika menerima serangan Defensive Assist. Setelah menerima sejumlah DMG, dia akan memasuki fase kedua, di mana dia akan menggunakan roda belakang sepeda motor dan pedang panjang untuk melakukan serangan secara bergantian. Di saat yang sama, roda belakang sepeda motor bisa mengakumulasi Energy Ether dan mengakibatkan ledakan skala besar."
+        },
+        "30034": {
+            "monster_id": 30034,
+            "monster_name": "Miasmic Fiend - Unfathomable",
+            "card_text": "Monster yang terlahir dari Miasma dan kenangan seorang mistikus — setiap luka dan bayang kelam kini terikat dalam sosok kacau ini.\nPada akhirnya, ia hanyalah tiruan yang tak memiliki keberanian untuk melawan, ataupun tekad untuk menghilang sepenuhnya. Tapi bagi penciptanya, itu sudah lebih dari cukup. Dengan kenangan penuh derita sebagai bahan bakar, pion ini sudah cukup untuk mengguncang Hollow dan menguak seluruh rahasia dunia.\nDipenuhi oleh kenangan yang bukan miliknya, Miasma yang melahirkannya membuatnya gelisah, kedatangan para Ethereal menyulut amarahnya, dan bahkan saat berkeliaran di wilayahnya sendiri pun ia tak pernah tenang.\nHanya sekali, saat ia memburu seorang manusia hingga ke tepi Hollow dan melihat ketakutan di wajah mangsanya, naluri berburunya tiba-tiba dipadamkan oleh dorongan aneh yang tak dipahaminya. Ia terhenti tanpa sadar. Dan ketika sosok malang itu akhirnya menghilang dari pandangan, untuk pertama kalinya ia merasakan sesuatu yang asing — sebuah emosi yang menyerupai kepuasan.\nNamun rasa puas itu tak bertahan lama. Sekelompok manusia berzirah hitam terus-menerus menerobos masuk ke wilayahnya, tak gentar menghadapi bahaya apa pun. Kegelisahan dan rasa lelah perlahan menggerogotinya, hingga pada akhirnya, satu-satunya keinginan yang tersisa hanyalah agar semua yang hal bergerak lenyap. Lenyap! LENYAP!!!\n...\n\"Saatnya... mengakhiri... semuanya...\"\nAneh, suara apa itu?\n\"Ikatannya terlalu dalam... Hanya yang mengikatnya yang bisa melepaskannya!\"\nKenangan yang lama terkubur oleh kegilaan mendadak bangkit. Ya... suara itu... Itulah suara yang terus-menerus bergema dalam benaknya. Meski nalurinya mendorongnya untuk menyerang, tubuhnya membeku. Tatapannya terpaku pada kilau rambut perak yang begitu mirip dengan dirinya sendiri, dan berusaha keras untuk memastikan apakah suara itu milik sosok yang selalu menghantui ingatannya.\nDalam kelengahannya, serangan dari belakang menghantam intinya. Rasa sakit yang luar biasa nyaris membuatnya hancur, namun di tengah derita itu, ia mendengar bisikan pelan:\n\"Maaf... aku tidak punya pilihan lain.\"\nMeski tak mengerti arti dari kata-kata itu, perasaan puas kembali muncul. Saat itu ia sadar sesuatu yang benar-benar menakutkan tengah mencengkeram dirinya. Mungkin ini adalah ajalnya... tapi ia tak pernah berpikir untuk lari.\nPada akhirnya, kekuatannya sudah habis tak bersisa. Tapi di detik terakhir itulah akhirnya ia bisa melihatnya dengan jelas. Dia memang tak persis sama seperti dalam ingatannya — dan kesadaran singkat itu membawa sejumput kesepian. Tapi meskipun begitu... ia lebih menyukai sosok gadis yang sekarang dibandingkan jeritannya yang memilukan di masa lalu. \n\n\"Miasmic Fiend... Hmm, memang bawahan Ferox yang lebih dulu menyebutnya begitu, tapi sifatnya yang ganas memang cocok dengan sebutan itu. Kami berencana mendaftarkannya dengan nama ini, menurutmu bagaimana, Shifu Yixuan?\"\n\"Pernah dengar pepatah lama? 'Nama tak membuat kebenaran lebih mudah dipahami.' Nama hanyalah nama, pilih saja yang enak didengar.\"",
+            "card_quote": "— Percakapan antara petugas investigasi yang bertanggung jawab menamai Miasmic Fiend dengan Yixuan",
+            "skill_text": "Dalam pertarungan, Miasmic Fiend - Unfathomable akan memperkuat senjatanya dan melancarkan serangan dahsyat yang tidak bisa ditangkis. Selain itu, dia akan melompat tinggi, mengaktifkan Miasmic Field, dan mengonsumsi Miasmic Shield untuk melancarkan serangan bertubi-tubi. Arahkan serangannya menuju Miasma Pool untuk meledakkannya dan mencegahnya menyerap Miasma Pool, serta memulihkan Miasmic Shield. Setelah dia melompat kembali ke arena, segera menjauh untuk menghindari serangan akhirnya yang mematikan."
+        },
+        "30036": {
+            "monster_id": 30036,
+            "monster_name": "Miasmic - Terror Raptor",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nSebagai veteran tempur yang telah melalui pertempuran yang tak terhitung jumlahnya, Terror Raptor adalah senjata perang New Eridu yang paling dipercaya. Didesain sebagai senjata yang menakutkan yang seimbang, dengan kekuatan melee yang brutal dan kekuatan tembakan jarak jauh yang mengejutkan. Setiap serangan, hantaman, dan tebasannya dapat mengakibatkan kehancuran. Dilengkapi dengan peluncur rudal dan senjata tembakan cepat, dia mampu mengendalikan pertempuran jarak dekat dan jarak jauh. Dari serangan melompat hingga serangan ledakan dan manuver menghindar di udara, Terror Raptor dapat beradaptasi dengan pertempuran apa pun dengan mudah. Serangannya yang tak ada habisnya membuat musuh tidak memiliki ruang untuk melawan, mewakili kekuatan yang tak terbendung dan ketakutan yang tak terhindarkan.\n\"Terror Raptor adalah simbol dari era itu.\"",
+            "card_quote": "— Seperti yang tertulis di \"Pertempuran Ibu Kota Lama: Kebenaran dan Kenangan\"",
+            "skill_text": "Dalam pertempuran, Miasmic - Terror Raptor dapat menekan musuhnya menggunakan berbagai senjata jarak jauh, ditambah dengan keenam drone pengintainya yang memberikan daya tembak tambahan dalam interval yang berbeda.\n\nSaat dia menembakkan peluru Miasma khusus, kamu dapat melancarkan Defensive Assist untuk menangkis dan memantulkannya, dan melumpuhkan Miasmic - Terror Raptor untuk sementara. Selain itu, pada momen-momen tertentu dalam pertempuran, dia juga akan mengaktifkan Miasmic Field, beralih ke serangan jarak dekat sementara keenam dronenya berkedip dan melakukan pola serangan dalam interval yang teratur. Hati-hati: banyak skill Terror Raptor dan serangan dronenya yang dapat mengakibatkan Miasma Corruption yang kuat."
+        },
+        "30039": {
+            "monster_id": 30039,
+            "monster_name": "Haytor",
+            "card_text": "Kerangka kurus yang menyeramkan, dengan \"jubah\" tajam pucat di punggungnya. Ini adalah ciptaan terbaru dari para Exaltist. Dalam hal \"100 Cara Berintegrasi dengan Hollow\", semangat eksperimen mereka memang tak tertandingi.\n\nMereka yang pernah bertemu dengan Haytor berpikir bahwa orang-orang ini dulunya pasti anggota senior Exaltist. Bagaimanapun juga, bahkan setelah menjadi Ethereal pun, mereka masih memiliki pengikut yang bisa mereka perintah.\n\n\"Aku paling benci orang-orang seperti itu!\"\n\n\"Saat bicara ke bayangan-bayangan mereka, apa mereka juga akan bilang kalimat-kalimat seperti... 'Aku agak kecewa padamu, kamu sebenarnya bisa melakukan kerja yang lebih baik. Saat aku memanggilmu, ekspektasiku terhadapmu sebenarnya lebih tinggi'??\"",
+            "card_quote": "— Pada suatu subuh saat lembur, seorang anggota HSO yang marah memukul kerangka Haytor dengan keras sambil berteriak",
+            "skill_text": "Dalam pertarungan, Haytor akan menggunakan \"Phantom\" miliknya untuk mengecoh lawan dan melancarkan serangan mendadak. Setelah memasuki \"Miasmic Field\", dia akan memanggil \"Phantom\" yang lebih besar untuk menyerang bersama. Selama periode ini, setiap kali berhasil menangkis serangan \"Phantom\" besar tersebut, \"Miasmic Shield\" miliknya akan berkurang."
+        },
+        "30041": {
+            "monster_id": 30041,
+            "monster_name": "Wandering Hunter",
+            "card_text": "Makhluk terkontaminasi yang memiliki pengalaman pertarungan yang kaya. Dia mahir dalam menyerang dan bertahan, memiliki pergerakan yang gesit, serta ahli dalam bersembunyi sebelum melancarkan serangan paling efektif ke titik lemah target.\n\nSeharusnya ada lebih banyak yang bisa dicatat, misalnya tentang pola perilakunya, tentang nyanyian yang selalu menyertainya, dan hal-hal semacam itu... Tapi sudahlah, catatannya cukup sampai di sini saja, seperti sketsa setengah jadi di dalam buku Lucia.\n\n\"Satu bintang kecil... Dua bintang kecil... Tiga bintang kecil... sembunyilah, anak-anak kecil.\"",
+            "card_quote": "— Para Investigator yang \"tersiksa\" oleh data simulasi Wandering Hunter, dan tanpa sadar menyanyikan lagu anak-anak saat melakukan pekerjaan rumah",
+            "skill_text": "Dalam pertarungan, Wandering Hunter memiliki DEF yang sangat tinggi, beberapa serangan jarak jauhnya dapat menghasilkan \"Miasma Pool\" di permukaan tanah, dan sebagian besar serangannya dapat memicu \"Miasma Pool\" untuk menghasilkan \"Stray Blade\" yang dapat mengganggu pemain. Selain itu, saat Wandering Hunter mengaktifkan \"Miasmic Field\", dia akan menghilang dan melakukan Charge, ketika pemain menggunakan \"Teknik Persepsi\" untuk membongkar wujud asli Impian Terpendam - Lucia, Wandering Hunter akan muncul dan melancarkan serangan mendadak. Jika berhasil melakukan \"Defensive Assist\", maka pemain akan menghentikan gerakannya, memberikan efek Impair, dan mengurangi sebagian \"Miasmic Shield\" yang dimiliki. Jika gagal menemukan impian terpendam Lucia dengan benar, atau setelah beberapa waktu, Wandering Hunter akan melancarkan serangan kuat yang dapat mengabaikan efek kebal, mengakibatkan DMG, serta membuat akumulasi nilai kontaminasi Miasma tim mencapai batas maksimal."
         },
         "100211": {
             "monster_id": 100211,
@@ -808,6 +1032,41 @@
             "card_text": "Vicious Striker memiliki <color=#FFAF2C>HP yang cukup tinggi</color>. Saran: Fokuskan daya tembak padanya!",
             "card_quote": null,
             "skill_text": "HP: Tinggi\nATK: Menengah\nKecepatan Gerak: Lambat\nTingkat Ancaman: <color=#FFAF2C>Menengah</color>"
+        },
+        "930167": {
+            "monster_id": 930167,
+            "monster_name": "Flame Cantor",
+            "card_text": "Flame Cantor, pemimpin tingkat tinggi di Exaltist ini memiliki kemampuan untuk mengendalikan kekuatan Miasma. Kejahatan yang merusak nadi kehidupan mereka adalah api lilin penerang jalanku.\n\nSemua pengikut fanatik Exaltist biasanya memang meneriakkan atau membisikkan \"penempaan\", \"sang Pencipta\", dan kata-kata aneh lainnya saat sedang menyerangmu, tapi jarang sekali pengikut yang bisa benar-benar menggunakan Miasma dan membuatmu merasakan langsung \"penempaan\" yang sebenarnya seperti Flamebearer.\n\n\"Mereka menyerang sambil meneriakkan 'penempaan', 'sang Pencipta', dan 'pemurnian'!\"",
+            "card_quote": "—Anggota Hollow Fanatic Saboteur Response Squad, Hollow Investigative Association.",
+            "skill_text": "Dalam pertarungan, Flame Cantor memiliki skill dengan kemampuan Miasma Corruption dan bisa melancarkan serangan menyebar untuk membentuk Miasma Pool di permukaan lantai. Selain itu, Flame Cantor juga bisa memanggil Huskron dari dalam Miasma Pool dan memerintahkan Huskron untuk menabrak musuh."
+        },
+        "930174": {
+            "monster_id": 930174,
+            "monster_name": "Exalting Hymnist",
+            "card_text": "Di dalam Hollow sering muncul suara meresahkan yang terdengar seperti orang yang sedang merapal mantra. Para penambang senior sudah melarang semua orang untuk mendekati sumber suara itu, tapi penambang baru yang bernama Johnny tidak mengindahkannya. Demi sebuah taruhan yang konyol, dia diam-diam berjalan mendekati sumber suara itu. Akhirnya, dia tiba di sebuah lahan kosong. Di sana dia melihat sekelompok orang yang memakai seragam dan mengenakan topeng aneh sedang berdiri melingkar dan mengadakan semacam ritual yang misterius. Sekelompok Ethereal yang ada di sekitar sedang bergerak mendekati mereka, Johnny pun berteriak memperingatkan agar mereka segera pergi dari sana. Sayangnya, mereka memilih untuk tidak menggubris Johnny, justru para Ethereal itu yang tertarik dengan suara Johnny dan menyerbunya...\n\n\"Kami akan tingkatkan kedisiplinan tim penambang. Semoga Johnny baik-baik saja.\"",
+            "card_quote": "—Wawancara New Capital Daily dengan penambang senior bernama Sully setelah kejadian Johnny menghilang.",
+            "skill_text": "Dalam pertarungan, Exalting Hymnist akan memicu ledakan dahsyat yang bisa melukai siapa saja ketika merasa terancam."
+        },
+        "940004": {
+            "monster_id": 940004,
+            "monster_name": "Flame Cantor",
+            "card_text": "Flame Cantor adalah musuh dengan tingkat ancaman yang tinggi dan memiliki spesialisasi dalam mengakibatkan <color=#D9A600>DMG area dalam jumlah besar</color>. Tempatkan <color=#D9A600>Miss Esme</color> di petak strategis untuk melindungi semuanya!",
+            "card_quote": null,
+            "skill_text": "HP: Sangat Tinggi\nATK: Tinggi\nDEF: Tinggi\nKecepatan Gerak: Menengah\nTingkat Ancaman: <color=#FF3333>Sangat Tinggi</color>"
+        },
+        "990167": {
+            "monster_id": 990167,
+            "monster_name": "Flame Dreamer",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "990174": {
+            "monster_id": 990174,
+            "monster_name": "Dreaming Hymnist",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         }
     },
     "Public Security": {
@@ -837,7 +1096,7 @@
             "monster_name": "Autonomous Support Unit - Sweeper",
             "card_text": "Mecha tempur otonom milik Public Security yang dirancang khusus untuk menangani berbagai jenis Ethereal, sehingga dilengkapi berbagai mode tempur seperti mode pemotong putar-putar, pemancar energi panas, dan lainnya.\n\nSweeper juga dapat dengan cepat mengidentifikasi jenis Ethereal serta ciri-ciri gerakan mereka dan menyusun strategi yang terbaik untuk menghadapinya.\nNamun dibandingkan dengan Ethereal yang hanya memiliki satu mode bertarung, ia tidak begitu lincah saat menjalankan perintah untuk menangkap para Hollow Raider.\n\n\"Mengaduk, memotong, dan memanaskan... Perancang mecha ini sebenarnya mata-mata dari departemen sales perusahaan peralatan dapur atau apa ya...?\"",
             "card_quote": "——Acara Bincang Larut Malam \"Kebun Binatang Hollow\".",
-            "skill_text": "Dalam pertarungan, Autonomous Support Unit - Sweeper akan menggunakan lengannya yang panjang untuk melancarkan serangan berputar. Gunakan Defensive Assist sebelum menyerangnya untuk mencegahnya melancarkan serangan tersebut."
+            "skill_text": "Dalam pertarungan, Autonomous Support Unit - Sweeper akan menggunakan lengannya yang panjang untuk melancarkan serangan berputar. Gunakan Defensive Assist sebelum dia menyerang untuk mencegahnya melancarkan serangan tersebut."
         }
     },
     "Rebel Soldier": {
@@ -988,6 +1247,13 @@
             "card_quote": "——Pesan dari Modul Mimpi Siang Bolong di forum Bencana Hari Ini.",
             "skill_text": "Dalam pertarungan, Assault Gunner akan memakai meriam laser dan granat fragmentasi secara bergantian untuk melancarkan serangan beruntun dari jarak jauh."
         },
+        "200092": {
+            "monster_id": 200092,
+            "monster_name": "Specialized Assault Bomber",
+            "card_text": "Salah satu jenis pasukan New Eridu Defense Force yang termasuk unit berat.\nMereka dilengkapi dengan baju tempur berat bernama \"Gray Rhino\" dan juga senjata-senjata yang sudah ditingkatkan dengan teknologi Ether.\n\nDengan amunisi dan suplai yang cukup, mereka mampu melancarkan serangan dengan intensitas tinggi secara terus-menerus, sehingga bisa dijadikan sebagai penyerang inti dalam kelompok tempur, dan sering diutus saat menjalankan operasi penyerbuan dan pembersihan.\n\nSetelah jatuhnya ibu kota lama, banyak pasukan yang memutuskan untuk keluar dari militer dan \"berbaur\" dengan masyarakat sipil. Pasukan elit ini pun mulai bekerja di bawah kekuasaan atau menjadi bagian dari organisasi tertentu. Misalnya, menjadi pasukan pribadi konglomerat, bekerja di perusahaan keamanan, atau bahkan bergabung dengan geng bandit yang berkeliaran...\n\n\"Aku yakin 100% bahwa di dalam baju tempur Heavy Gunner, pasti ada seorang gadis cantik mungil yang membantunya. Karena kalau tidak, bagaimana ia bisa simpan begitu banyak amunisi?\"",
+            "card_quote": "——Pesan dari Modul Mimpi Siang Bolong di forum Bencana Hari Ini",
+            "skill_text": "Dalam pertarungan, Specialized Assault Bomber mengombinasikan seni bela diri dengan berbagai senjata untuk menekan musuh. Saat memasuki status Overheat, beberapa skill akan diperkuat dengan menggunakan api, sehingga serangannya menjadi lebih ganas. Jika ia menerima banyak DMG saat berada dalam status Overheat, peralatannya akan hancur dan membuatnya melemah."
+        },
         "300021": {
             "monster_id": 300021,
             "monster_name": "Guardian MK II",
@@ -1025,6 +1291,55 @@
             "card_quote": "——Cunning Hares tanpa lelah mengejar Bangboo Emas di kedalaman Hollow.",
             "skill_text": "Dalam pertarungan, Bangboo Emas sesekali juga akan melancarkan serangan balik."
         },
+        "10032": {
+            "monster_id": 10032,
+            "monster_name": "Miasma Spawn",
+            "card_text": "Meski monster-monster ini masih mempertahankan sedikit wujud manusia setelah disuntik dengan serum Sacrifice, dan sebagian tubuhnya dikekang oleh Porcelume, namun distorsi tubuh mereka tetap sulit dipandang.\nMenurut laporan laboratorium dari Hollow Investigative Association, saat lapisan Porcelume terkelupas dari tubuh mereka, makhluk-makhluk humanoid malang ini seketika kehilangan kendali, lalu membusuk dengan cepat menjadi wujud yang jauh lebih mengerikan.\nMeski gerakan mereka tampak lamban, Asosiasi dengan tegas melarang siapa pun untuk mendekat atau mencoba \"menyelamatkan\" mereka — kecuali jika yakin mampu menghabisi mereka dalam satu tebasan sebelum mereka mengamuk.\n\n\"Lihat benjolan-benjolan besar di punggungnya, seperti beban yang tak pernah bisa dilepaskan... ibarat peziarah terkutuk yang selalu siap memulai perjalanan berikutnya.\"",
+            "card_quote": "— Majalah Mingguan \"Bencana Hari Ini\", Kontributor Khusus Kruz",
+            "skill_text": "Dalam pertarungan, Miasma Spawn akan memanggil debu di sekeliling pemain yang akan meledak setelah beberapa saat. Langkah terbaik adalah untuk segera menjauh dari area ini sebelum terlambat."
+        },
+        "19999": {
+            "monster_id": 19999,
+            "monster_name": "Kartu Monster Acak",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "20028": {
+            "monster_id": 20028,
+            "monster_name": "Security Enforcer",
+            "card_text": "Unit Keamanan Taktis kelas sipil ini adalah hasil replikasi Typhoeus Security dari Search Patroller milik Public Security. Unit ini telah dimodifikasi baik dari sisi persenjataan maupun teknologi untuk menghindari potensi tinjauan teknis maupun gugatan pelanggaran hak cipta.\n\nNamun, modifikasi ini sama sekali tidak mengurangi kemampuan bertarung unit keamanan. Justru karena tidak ada batasan anggaran produksi, Typhoeus Security menggunakan material berkualitas yang jauh lebih mahal, dan meningkatkan kemudahan penggunaan serta daya tahannya secara signifikan.\n\nPerangkat ini langsung menjadi incaran banyak perusahaan komersial begitu diluncurkan ke pasar.\n\n\"Halo, Security Enforcer siap melayani. Silakan pilih mode patroli yang diinginkan...\"\n\"Eh... ada lebih dari seratus mode bawaan?!\"",
+            "card_quote": "— Di sebuah pameran, seorang calon pembeli bimbang yang akhirnya menjerit pasrah",
+            "skill_text": "Dalam pertarungan, Tactical Security Unit - Security Enforcer akan memakai perisai untuk mengurangi DMG dan Daze yang diterima secara signifikan, lalu melancarkan serangan balik pada saat yang tepat."
+        },
+        "20029": {
+            "monster_id": 20029,
+            "monster_name": "Light Patroller",
+            "card_text": "Unit keamanan yang diproduksi massal oleh Typhoeus Security yang kini telah digunakan di berbagai sektor sipil. Memiliki beragam keunggulan, mulai dari harga yang terjangkau, fleksibilitas tinggi, sistem keseimbangan dinamis roda tunggal yang revolusioner, hingga inti identifikasi ancaman berbasis sistem pintar. Unit ini mampu memenuhi kebutuhan keamanan di berbagai ruang yang kompleks.\n\"Setelah melewati 47 uji ketahanan yang ketat, Unit Keamanan Taktis ini telah dikerahkan di area inti dari 32 kawasan industri. Umpan balik klien menunjukkan rata-rata penurunan kasus penerobosan hingga 91%. Apa pun tugas keamanan yang bisa kamu bayangkan, unit ini siap melaksanakannya.\"",
+            "card_quote": "—Sales Typhoeus Security yang mengoceh panjang lebar",
+            "skill_text": "Dalam pertarungan, Tactical Security Unit - Light Patroller akan menggunakan gergaji listrik di tangannya untuk melancarkan serangan cepat."
+        },
+        "20030": {
+            "monster_id": 20030,
+            "monster_name": "Medium Patroller",
+            "card_text": "Diproduksi oleh Typhoeus Security, unit keamanan produksi massal ini dimodifikasi dari mecha pendukung tempur Public Security. Dibandingkan dengan mecha pendukung tempur pada umumnya, unit ini memiliki kekuatan tempur yang lebih rendah dan mengandalkan perisai besar untuk mengendalikan kelompok ancaman rendah seperti preman, dan berperan dalam menjaga ketertiban dan mengarahkan kerumunan di acara besar dan tempat-tempat khusus.\n\nMenurut laporan, beberapa unit telah dibeli dan dimodifikasi oleh pihak yang tidak bertanggung jawab untuk membuat Illegal Support Unit - Enraged Sweeper. Yang lebih parah lagi, mereka bahkan memberikan ulasan di situs web resmi perusahaan dengan mengatakan \"Kualitasnya bahkan lebih buruk dari mecha rongsokan yang kutemukan di dalam Hollow!\" dan memberikan penilaian satu bintang untuk produk tersebut.\n\n\"Modifikasi ilegal seperti ini tidak berhubungan dengan perusahaan keamanan kami, melainkan sepenuhnya dilakukan oleh pengguna. Kami akan tetap berkomitmen untuk menindak ulasan buruk... eh, maksudnya tindakan ilegal semacam ini sampai akhir..\"",
+            "card_quote": "—Juru Bicara Typhoeus Security",
+            "skill_text": "Dalam pertarungan, Tactical Security Unit - Medium Patroller akan menggunakan lengannya yang panjang untuk melancarkan serangan berputar. Gunakan Defensive Assist sebelum dia menyerang untuk mencegahnya melancarkan serangan tersebut."
+        },
+        "29999": {
+            "monster_id": 29999,
+            "monster_name": "Kartu Monster Acak",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
+        "30003": {
+            "monster_id": 30003,
+            "monster_name": "Lockspring",
+            "card_text": "Pada masa awal penciptaan Bangboo, Lady Sunbringer memiliki visi yang agung, menciptakan Bangboo dengan kecerdasan tinggi yang dapat menilai dan melaksanakan perintah \"perlindungan\" secara mandiri, untuk membantu umat manusia melawan ancaman dari Hollow.\n\nDan \"Lockspring\", dengan kode GU-0001, adalah ciptaan pertama dari rencana besar ini.\nDia dibekali dengan modul taktis paling canggih, sistem persenjataan paling kuat, dan... hati paling murni yang telah diprogram dengan perintah tertinggi untuk \"melindungi manusia\".\n\nNamun, dalam bencana yang bagaikan neraka saat jatuhnya ibu kota lama, untuk pertama kalinya dia menyaksikan kegelapan yang tak tertolong di dalam jiwa manusia yang seharusnya dia \"lindungi\". Dia melihat orang-orang saling mengkhianati demi bertahan hidup, saling membunuh, dia melihat penggunanya yang dia percaya memaksanya untuk mengarahkan senjata kepada orang yang tak bersenjata.\n\nCita-cita mulia yang terukir dalam kode intinya bertabrakan dengan kenyataan yang ada di hadapannya, menciptakan konflik yang paling tajam dan kejam.\n\nSaat itulah dia akhirnya mengerti, bagi umat manusia, musuh terbesar bukanlah monster dari luar—\nMelainkan hasrat dan perselisihan manusia sendiri yang tiada habisnya.\n\n\"Manusia memang menggemaskan. Meskipun kalian selalu mengulangi kesalahan yang sama...\"\n\n\"Tapi tidak apa-apa, aku akan memaafkan kalian.\"\n\n\"Dan... akan kuperbaiki semuanya dengan tanganku sendiri.\"",
+            "card_quote": "— Lockspring",
+            "skill_text": "Dalam pertarungan, Lockspring akan menggunakan senjatanya untuk menyerang pemain. Beberapa serangannya sangat kuat, bahkan jika berhasil melakukan Defensive Assist terhadap serangan ini, kamu tidak akan bisa melakukan Assist Follow-Up, Lockspring bahkan akan melakukan Taunt."
+        },
         "30004": {
             "monster_id": 30004,
             "monster_name": "Greta",
@@ -1060,19 +1375,75 @@
             "card_quote": "— Teriakan Bringer dari lubuk hatinya yang terdalam",
             "skill_text": "Selama pertarungan, Sacrifice - Bringer akan mengubah berbagai senjata untuk melancarkan kombinasi gerakan jauh dan dekat, dan akan memanggil panggilan besar dari celah Ether untuk membantunya menyerang. Setelah menerima sejumlah DMG, ia akan memasuki tahap kedua, di mana ia akan melancarkan serangan yang lebih kuat dan menembakkan serangan bertubi-tubi. Jika berhasil mengakibatkan DMG yang cukup besar selama periode persiapan Sacrificial Knife, pengisian dayanya akan terhenti, membuatnya rentan untuk menerima DMG."
         },
-        "30025": {
-            "monster_id": 30025,
-            "monster_name": "Hitchspiker",
-            "card_text": "Ether adalah hama beracun yang serakah dan tak pernah puas, parasit yang sangat jahat, yang menggerogoti segala yang hidup.\nDan Hitchspiker adalah perwujudan Ether lebih berbahaya yang menghinggapi tubuh rekan-rekannya. Tyrfing dan Alpeca bisa memuaskan rasa lapar Hollow dengan wujud yang lebih ganas.\n\n\"Menjauhlah dari wajahku!!!\"",
-            "card_quote": "—Seorang ahli ekologi Ethereal yang menyadari kalau ini adalah serangga yang bisa melompat",
-            "skill_text": "Selama pertarungan, Hitchspiker akan terus berkeliaran untuk mencari Tyrfing dan Alpeca yang bisa dihinggapi sebagai parasit."
-        },
         "30028": {
             "monster_id": 30028,
             "monster_name": "Security Operative",
             "card_text": "Security Operative mungkin terlihat seperti penjaga biasa, tapi jangan tertipu — mereka punya \"skill rahasia\" yang lengkap. Tugas mereka bukan cuma berdiri di pintu dan mengintimidasi. Mereka adalah orang yang akan turun tangan saat bos minum terlalu banyak, atau yang akan menangani pengacau kecil dengan ekspresi \"aku sudah pernah melihatnya\" yang dingin. Misi mereka bukan untuk melawan kejahatan — tapi untuk menjaga agar bos tidak terjatuh, memperbaiki lift di pintu masuk, dan terutama, untuk tetap tidak menarik perhatian. Di dalam dunianya, senjata terkuat adalah \"terlihat seperti penjaga yang kuat\", dan hasil yang terbaik adalah \"tidak melakukan apa-apa\". Bagaimanapun, Security Operative yang hebat adalah orang yang tidak kamu perhatikan — sampai masalahnya sudah teratasi dan orang-orang menyadari, \"Oh, dia dari tadi sudah ada di sini\".\n\"Kalau kamu bisa berdiri dengan stabil, tidak ada yang lebih tangguh darimu.\"",
             "card_quote": "— Ditulis oleh seorang satpam veteran di halaman depan Buku Panduan Operasional Personil Keamanan",
             "skill_text": "Saat bertempur, Security Operative akan menggunakan berbagai macam senjata untuk menyerang dan saling berkomunikasi jika diperlukan."
+        },
+        "30030": {
+            "monster_id": 30030,
+            "monster_name": "Abyssal Enforcer",
+            "card_text": "Pemimpin sindikat pencuri andal \"Mockingbird\". Selain mahir dalam penyamaran, tipu-muslihat, dan berbagai teknik mencuri, Abyssal Enforcer juga memiliki gaya bertarung aneh dan tidak dapat ditebak. Sabit raksasa yang digunakannya seolah-olah sedang menghabisi \"ketidakadilan\" ada di dunia. Tas kerja yang selalu dibawanya lebih misterius lagi. Di dalamnya menyimpan alat-alat rumit dan senjata mematikan untuk melakukan kejahatan. Setiap langkahnya penuh dengan misteri dan bahaya yang tak terduga.",
+            "card_quote": null,
+            "skill_text": "Dalam pertarungan, Abyssal Enforcer akan menghindari musuh secara aktif dan mengaktifkan Vital View, lalu melancarkan Serangan Menerjang yang kuat. Skill ini dapat dibalas dengan Perfect Dodge atau Perfect Assist."
+        },
+        "30035": {
+            "monster_id": 30035,
+            "monster_name": "Sacrifice - Heretic Jester",
+            "card_text": "Fluktuasi energinya yang ganjil yang aneh mengungkap jati dirinya — ciptaan Exaltist, sumber dari segala mimpi buruk.\nPemburu mengerikan yang mendekati mangsanya tanpa suara. Namun terkadang, ia justru seperti anak kecil gelisah yang bermain petak umpet, tak mampu menahan tawa nakalnya. Mungkin Miasma yang melahirkannya membawa terlalu banyak bisikan jiwa-jiwa yang hilang, menjadikannya makhluk yang penuh keraguan.\n\"Jika bermain adalah hak makhluk berakal, maka yang ia lakukan hanyalah tiruan tanpa jiwa — tak ada sorakan yang menanti, hanya pertumpahan darah.\"",
+            "card_quote": "— Sebuah pesan yang dikirim ke seorang psikiater oleh seorang peneliti laboratorium (kini telah mengundurkan diri) yang menjadi korban serangan.",
+            "skill_text": "Dalam pertarungan, Sacrifice - Heretic Jester akan melayang ke udara, melancarkan \"Flying Dagger Frenzy\" dan mengaktifkan Miasmic Field. Gunakan Defensive Assist di waktu yang tepat selama durasi skill untuk mematahkan \"Flying Dagger Frenzy\". Jika berhasil, musuh akan jatuh ke tanah dan memasuki status Weakened untuk beberapa saat."
+        },
+        "30037": {
+            "monster_id": 30037,
+            "monster_name": "The Defector",
+            "card_text": "Perlindungan, kesetiaan, kehormatan — Apa yang berdiri di antara prajurit dan garis pertahanan, di antara mereka dan Hollow, alasan mereka mengabdikan kehidupan singkat mereka, tak lain hanyalah kata-kata lembut ini.\n\nTapi bagaimana jika... apa yang kita coba lindungi tak layak untuk dilindungi? Bagaimana jika mereka yang kita layani tak pantas mendapatkan kesetiaan kita, dan cita-cita yang kita hormati sebenarnya tidak terhormat? Maka pengorbanan akan menjadi lelucon yang ironis, penghinaan bagi mereka yang gugur karena memercayai kebohongan.\n\nMaka biarlah api dendam ini melahapku, dan hanya aku seorang.\n\n\"Mundur? Hal itu sudah terlambat sekarang.\"",
+            "card_quote": "—Helaan napas yang bergema dari batu karang, memudar bersama pasang surut Miasma",
+            "skill_text": "Dalam pertempuran, The Defector akan melancarkan serangan ganas menggunakan pedang dan pistol. Setelah menerima DMG dalam jumlah tertentu, dia akan mengaktifkan Miasmic Field dan melancarkan serangan menusuk yang kuat dan cepat."
+        },
+        "30038": {
+            "monster_id": 30038,
+            "monster_name": "The Defiler",
+            "card_text": "Api dendam dari dalam sungai kematian tak akan pernah menerangi jalan mereka yang mencari pembalasan. Para fanatik yang terobsesi yang mengukir kutukan di kuil suci kini menuai buah pahit dari penistaan mereka.\n\nMiasma berkumpul di bawah menara yang menjulang saat jiwa-jiwa yang tersesat bangkit dari Ether. Dalam kekuatan mencekam yang diselimuti kotoran dan bayangan ini, kebencian membentuk wujudnya, dan menyatu menjadi sesuatu yang nyata. Tak terikat keyakinan, tak tersentuh keadilan, kekuatan duniawi ini terus menempa senjata perang, dibentuk oleh dendam dan kegilaan.\n\nTanah berbau busuk dicemari oleh darah dan dosa, terus menyebar... dan akhirnya mencapai akhir dari kisah panjang yang menyeramkan ini.\n\n\"Jika titik akhirnya tidak bisa sempurna, setidaknya biarkan aku yang menulisnya dengan tanganku sendiri.\"",
+            "card_quote": "—Sebuah bisikan menggema di antara gelombang Miasma yang membumbung",
+            "skill_text": "Dalam pertarungan, The Defiler dapat melancarkan serangan cepat dan dahsyat menggunakan senjatanya. Tangkis serangan Miasma Blades yang dilancarkan The Defiler serta serangan dari Miasmic Trooper yang dipanggilnya agar lebih mudah mengalahkannya. Setelah menerima sejumlah DMG dalam pertarungan, The Defiler akan mengaktifkan Miasmic Field dan memanggil Miasmic Tsunami untuk mengakibatkan serangan fatal. Hancurkan bagian tubuh The Defiler selama proses pemanggilan untuk menciptakan penghalang Miasma untuk menahan Miasmic Tsunami."
+        },
+        "30040": {
+            "monster_id": 30040,
+            "monster_name": "Impian Terpendam - Komano Manato",
+            "card_text": "Musuh ilusi yang seharusnya tidak ada dan mungkin tidak akan ditemui lagi, namun tekanan yang ditimbulkan oleh kekuatannya terasa begitu nyata. Meskipun catatan tentangnya pada akhirnya akan menjadi bagian dari data simulasi HIA, para pemuda dan pemudi yang pernah memasuki alam mimpi sebagai penemu pertama memiliki pemahaman berbeda tentang pola perilakunya.\n\n\"Apa ini hanya perasaanku saja, atau dia terlihat lebih kurus dari Manato?\"",
+            "card_quote": "— Penilaian subjektif dari seorang Agen yang mengenal baik Manato",
+            "skill_text": "Dalam pertarungan, Impian Terpendam - Komano Manato akan melancarkan serangan tajam yang bertubi-tubi kepada pemain. Pemain perlu mengerahkan seluruh kemampuan untuk menangkis serangannya. Ketika berhasil melakukan Defensive Assist terhadap beberapa serangannya, pemain dapat menghentikan serangannya. Jika berhasil melakukan Defensive Assist terhadap serangan kuatnya, pemain dapat membuatnya masuk ke dalam kondisi Weakened."
+        },
+        "30042": {
+            "monster_id": 30042,
+            "monster_name": "Ye Shiyuan the Thrall",
+            "card_text": "Miasma yang ternoda dan kehendak yang korup mengendalikan segalanya. Behemoth itu masih mempertahankan instingnya untuk berkeliaran dan menerobos, namun wujud manusia di punggungnya telah kehilangan seluruh kesadarannya, hanya tersisa bayang-bayang keinginan. Terkadang, ia menebas kabut gelap dengan pedangnya, terkadang ia membuat rahang makhluk raksasa itu menganga untuk menghancurkan bumi. Serangannya presisi, tanpa kelembutan yang dimilikinya ketika masih menjadi manusia — bagaikan boneka yang dikendalikan oleh serpihan mimpi buruk.\nHanya ketika seberkas pita merah melintas dalam kesadarannya, gerakan pedangnya menjadi goyah—bagaikan bayang keinginan yang tersisa tiba-tiba menggenggam erat jiwanya yang telah nyaris hilang.\n\n\"Di antara keduanya, siapa yang sebenarnya mengendalikan siapa...? 'Orang' di punggungnya itulah yang menjadi tawanan sejati.\"\n\"Keputusasaan seharusnya dimanfaatkan semaksimal mungkin hingga detik terakhir, bukan?\"",
+            "card_quote": "—Di kedalaman Hollow, \"Ia\" membisikkan ejekan.",
+            "skill_text": "Dalam pertarungan, The Thrall akan memanggil Miasma Ravager - Sobek untuk membantunya bertarung. Sobek tidak dapat terkena Stun dan tidak mengakumulasi Anomaly Buildup. Setiap kali Sobek kalah, The Thrall akan membangkitkannya dan Binder dan melancarkan serangan kombinasi yang lebih kuat. Jika pemain berhasil menangkis serangan terakhir dari serangan kombinasi ini, Sobek akan masuk ke status Weakened selama beberapa saat."
+        },
+        "30044": {
+            "monster_id": 30044,
+            "monster_name": "Sacrifice - Covenant Guardian",
+            "card_text": "\"Siapa pun yang mendengar suara itu akan melihat wujud kebenaran.\" —Meskipun kebenaran itu tak lebih dari sekadar ilusi dari gumaman tak jelas.\nMungkin ia pernah memiliki nama, sejarah, dan jati diri. Entah kenapa, suatu hari ia melangkah ke dalam ruang gelap dengan sukarela, menawarkan telinga, mata, bahkan pikirannya untuk menjadi wadah yang hanya ada untuk menyampaikan suara tertentu. Ia mengira bisikan dari kekosongan itu sebagai wahyu ilahi—seolah dirinya menjadi saluran paling langsung bagi suara kehendak-Nya di dunia fana. Dan ketika target lengah, suara yang begitu familier, suara mereka sendiri, bergema di benak mereka dan tak terhindarkan.\nNamun, dalam jeda singkat di antara ucapan-ucapan ilahinya, ketika pikiran menolak gumaman-gumaman itu dan menghancurkan delusi, apakah pada gilirannya, ia merasakan sedikit emosi manusia?\nHingga saat-saat terakhir, ia berdenyut dengan sisa-sisa \"kebenaran\" yang tak terucapkan. Tak ada amarah, tak ada teror—hanya keteguhan, nyaris seperti pengorbanan suci, hingga nada terakhir memudar bersama raganya dalam kesunyian.\n\n\"'Covenant Guardian'? Ia melekat pada suara menjijikkan itu seolah sedang menegakkan hukum, seperti orang bodoh yang yakin telah menemukan jalan pulang, hanya untuk berakhir sebagai batu nisan yang diukir bagi suara itu.\"\n\"Tapi sungguh... apa gunanya membenci wadah itu? Jika memang ada yang patut disalahkan, bukankah itu sumber suara tersebut?\"",
+            "card_quote": "—Kata agen layanan pelanggan yang asyik mengobrol di telepon saat jam kerja",
+            "skill_text": "Dalam pertarungan, Sacrifice - Covenant Guardian akan menggunakan sayapnya untuk mengejar. Ketika berhasil melakukan Defensive Assist terhadap beberapa serangan Guardian, kamu dapat menghentikan serangannya. Selain itu, Covenant Guardian akan mengumpulkan Energy-nya untuk melancarkan serangan jarak jauh, beberapa serangannya dapat menciptakan Miasma Pool di permukaan tanah, memanggil peluru pengintai dari Miasma Pool untuk mengejar. Kamu dapat memanfaatkan celah saat peluru berbelok untuk memicu Perfect Dodge dan melakukan Dodge Counter."
+        },
+        "40000": {
+            "monster_id": 40000,
+            "monster_name": "Primordial Nightmare - \"The Creator\"",
+            "card_text": "Bagi manusia yang berjuang dalam malam panjang, kehidupan adalah siksaan tanpa akhir.\nKebaikan dan kejahatan, cinta dan kebencian, harapan dan keputusasaan... Konsep yang selalu bertentangan ini, bagaikan belenggu yang membelit jiwa, membuat manusia saling mencabik dalam siklus tiada akhir, tak bisa menemukan kedamaian.\n\nNamun, sebelum semua konsep lahir, sebelum semua pertentangan terbentuk, ada \"Satu\" yang paling awal.\n\nDia adalah titik awal dari segalanya, juga akhir dari segalanya. Dia tidak memiliki kebaikan atau kejahatan, karena dia adalah kebaikan dan kejahatan itu sendiri. Dia tidak memiliki kesedihan atau kebahagiaan, karena dia adalah kumpulan dari segala emosi.\n\nDia akan menghapus batas antara \"kamu\" dan \"aku\", membiarkan semua kesadaran yang terpisah kembali mengalir ke dalam arus \"kesatuan\" yang agung.\n\nDi dunianya, tanpa individualitas, tidak ada keinginan pribadi. Tanpa perselisihan, tidak ada penderitaan. Tanpa pilihan, tidak ada kesalahan. Semua jiwa akan terbebas dari belenggu, kembali ke keadaan awal, kesetaraan mutlak, dan kedamaian abadi.\n\nDia tidak memiliki bentuk tetap, karena dia adalah bentuk dari segala sesuatu. Dia tidak memiliki suara tetap, karena dia adalah resonansi alam semesta.\n\nDia adalah badai, juga ketenangan. Adalah akhir, juga kelahiran baru.\n\n\"Hentikanlah perjuangan sia-siamu, wahai anak-anak yang tersesat.\"\n\"Penderitaan kalian akan berakhir di sini.\"\n\"Kembalilah ke dalam pelukannya...\"",
+            "card_quote": "— Ciptaan sang Pencipta",
+            "skill_text": "Primordial Nightmare dapat keluar dan masuk Miasmic Field dengan bebas. Meskipun tidak berada di Miasmic Field, keberadaan Miasmic Shield tetap dapat melindungi Primordial Nightmare agar tidak terkena Stun. Hanya setelah Miasmic Shield hancur, dia dapat terkena Stun. Ketika Primordial Nightmare pulih dari Stun, perlindungan Miasmic Shield akan kembali aktif.\n\nDalam pertarungan, Primordial Nightmare akan menggunakan \"Control Skill\". Jika dapat mengatasi setiap serangan dengan sempurna, kamu akan mendapatkan keuntungan dalam pertarungan."
+        },
+        "100132": {
+            "monster_id": 100132,
+            "monster_name": "Light Patroller",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
         },
         "100231": {
             "monster_id": 100231,
@@ -1123,12 +1494,54 @@
             "card_quote": "——Mesin AI Pilihan, Friday.",
             "skill_text": "Dalam pertarungan, Friday akan melancarkan serangan gelombang kejut dengan jangkauan luas. Gelombang kejut ini sulit untuk dihindari, tapi sebagian besar skill lainnya bisa diatasi dengan Defensive Assist. Setelah mengakibatkan sejumlah DMG terhadap bagian kakinya, kamu bisa memicu efek Impaired dan menumpuk banyak Daze sekaligus."
         },
+        "300372": {
+            "monster_id": 300372,
+            "monster_name": "Miasmic - Doppelganger - The Defector",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nBahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized - Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melancarkan skill yang sama dengan target yang ditirunya, melancarkan serangan ganas menggunakan pedang dan pistol. Setelah menerima DMG dalam jumlah tertentu, dia akan mengaktifkan Miasmic Field dan melancarkan serangan menusuk yang kuat dan cepat."
+        },
+        "300402": {
+            "monster_id": 300402,
+            "monster_name": "Miasmic - Komano Manato",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nBahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized - Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Postingan di Inter-Knot dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, Miasmic - Doppelganger - Komano Manato akan melancarkan serangan tajam yang bertubi-tubi kepada pemain. Pemain perlu mengerahkan seluruh kemampuan untuk menangkis serangannya. Ketika berhasil melakukan Defensive Assist terhadap beberapa serangannya, pemain dapat menghentikan serangannya. Jika berhasil melakukan Defensive Assist terhadap serangan kuatnya, pemain dapat membuatnya masuk ke dalam kondisi Weakened. Setelah menerima sejumlah DMG dalam pertarungan, dia akan mengaktifkan \"Miasmic Field\" dan melancarkan serangan-serangan kuat."
+        },
         "930151": {
             "monster_id": 930151,
             "monster_name": "Bangboo Emas",
             "card_text": "Bangboo Emas <color=#D9A600>memiliki kecepatan bergerak yang sangat cepat, dan HP yang sangat tinggi</color>, tetapi dia tidak akan menyerang Bangboo. Jika berhasil mengalahkannya, sepertinya akan ada <color=#D9A600>kejutan baik</color>~",
             "card_quote": null,
             "skill_text": "HP: Tinggi\nATK: Menengah\nKecepatan Gerak: Cepat\nTingkat Ancaman: <color=#FF3333>Tinggi</color>"
+        },
+        "930170": {
+            "monster_id": 930170,
+            "monster_name": "Mecha Golden Bangboo",
+            "card_text": "Dalam legenda urban di antara Hollow Raider, para Bangboo Emas terus mengumpulkan Denny dan Gear Coin di dalam Hollow hanya untuk satu tujuan, yaitu mengekstrak logam yang diperlukan untuk membangun \"Mecha Emas\" secara gotong-royong. (Tentu saja, \"emas\" berkilau yang dimaksud ini hanyalah paduan tembaga dan kromium, karena hanya logam ini yang cukup kuat untuk menopang postur yang begitu besar.)\nSetelah \"Mecha Emas\" selesai dibuat, Bangboo yang memberikan kontribusi terbesar akan duduk di kokpit dikelilingi oleh para Bangboo lainnya, dan menyerang musuh dalam wujud \"Mecha Emas Mechboo\", menghancurkan musuh-musuh yang menyerang Bangboo Emas dengan berbagai jurus pertarungan yang kuat dan dahsyat.\n\n\"Kejar Emas\", \"Sinar Emas\", \"Misil Emas\"...\nMeskipun nama jurusnya aneh-aneh, tapi para Bangboo menganggapnya super keren!\n\n\"Lihat! Itu Mecha Emas Mechboo!\" \"Ja-jangan takut! Kalau kita bisa mengalahkannya, kita akan jadi kaya raya!\"...\nMeski sering dijadikan brankas berjalan oleh para Hollow Raider jahat, tapi para Bangboo benar-benar menganggapnya keren!",
+            "card_quote": "—\"Enh-na, enh-neh-na-na-na!\" \"Mecha Bangboo Emas berdiri tegak di atas bumi!\"",
+            "skill_text": "Mecha Golden Bangboo dilengkapi dengan sistem armor emas terbaru. Saat mengaktifkan Armor Emas, dia akan mendapatkan Shield dalam jumlah besar. Selama durasi tersebut, ketahanan terhadap Ether meningkat drastis, namun ketahanan terhadap Electric juga menurun drastis. Mecha Golden Bangboo memiliki sistem jet propulsi yang sangat kuat, memungkinkannya untuk melakukan Dodge dengan lincah atau melancarkan serangan udara, tetapi waktu terbangnya terbatas."
+        },
+        "930175": {
+            "monster_id": 930175,
+            "monster_name": "Miasmic - Jane",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nBahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized - Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan mengaktifkan Miasmic Field pada waktu tertentu. Jika diperlukan, dia akan menangkis dan membalas serangan musuh, tapi biasanya titik lemahnya akan terpapar setelah kombo berakhir."
+        },
+        "930176": {
+            "monster_id": 930176,
+            "monster_name": "Miasmic - Abyssal Enforcer",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nBahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized - Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan menghindari musuh pada waktu tertentu, lalu mengaktifkan Vital View dan Miasmic Field, kemudian melancarkan Serangan Menerjang yang dahsyat. Skill ini bisa dilawan dengan Perfect Dodge atau Perfect Assist."
+        },
+        "930177": {
+            "monster_id": 930177,
+            "monster_name": "Miasmic - Doppelganger",
+            "card_text": "Ciptaan yang telah tenggelam, kembali dibentuk dan ditempa dalam kegelapan yang kelam.\n\nBahkan di antara makhluk ionisasi yang terkenal dengan keanehannya, Ionized - Doppelganger juga termasuk jenis yang sangat istimewa.\nMereka bisa menyelimuti permukaan tubuh dengan ion Ether aktif, lalu meniru penampilan target mereka dengan akurat, penyamaran mereka bahkan sampai sulit dibedakan dari aslinya. Baik detail maupun teksturnya, hampir tidak bisa dibedakan dari targetnya.\nYang lebih merepotkan lagi, mereka bahkan bisa meniru berbagai teknik bertarung yang digunakan targetnya.\nTidak ada yang tahu dari mana mereka mendapatkan informasi targetnya. Menurut rumor yang beredar, mereka bisa membaca pikiran dan memilih penantang yang paling sesuai dalam ingatan targetnya, lalu menyerang target dengan wujud penantang itu.\n\"Omong kosong! Kalau dia bisa tahu apa yang kutakutkan, dia bakal berubah jadi ibu-ibu paruh baya yang pegang gantungan baju dengan muka galak! Betul, aku paling takut sama ibuku!\"",
+            "card_quote": "— Di Inter-Knot, postingan dari seorang Hollow Raider yang mengeluh",
+            "skill_text": "Dalam pertarungan, musuh ini akan melancarkan skill yang sama dengan target yang ditirunya. Karena pengaruh kontaminasi Miasma, dia juga akan mengaktifkan Miasmic Field pada waktu tertentu."
         }
     }
 }
