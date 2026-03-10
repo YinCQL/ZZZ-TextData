@@ -2391,6 +2391,110 @@
             }
         ]
     },
+    "1491": {
+        "role_id": 1491,
+        "name": "千夏",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Summer_Talent_01_Title": "『孤毒が蝕む』",
+                "Summer_Talent_01_Desc_01_Realign": "千夏がフィールドに入場した時、エネルギーを15Pt回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。\n<color=#FFFFFF>「ねこにらみ」</color>の効果が発動して敵に命中した時、ターゲットの防御力-7%、継続時間40秒、最大3重まで重ね掛け可能。継続時間は1重ごとに独立してカウントされる。",
+                "Summer_Talent_01_Desc_02": "理解されなくても、音楽さえあればいい。\n誰からも声をかけられなくたって構わない、\nどうせ少女は、最初から期待なんてしていないのだから…\n人々に囲まれる緊張を嫌った彼女は世界から慌ただしく逃げ出し、\n取り残された空白を妄想で埋め尽くした。\n彼女は自分だけの小さな世界の王様で、\n領土の境界線に「立入禁止」のテープを張り巡らせ、\n音符でカラフルに塗り替えていく。\n「うちは他の子らとちゃうねん…う、うちは…孤独な天才や！」\n彼女は頬を膨らませ、目尻から\nこぼれ落ちそうな寂しさを、手のひらでそっと拭い去った。",
+                "Summer_Talent_01_Desc_01": "千夏がフィールドに入場した時、エネルギーを15Pt回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。<color=#FFFFFF>「ねこにらみ」</color>の効果が発動して敵に命中した時、ターゲットの防御力-7%、継続時間40秒、最大3重まで重ね掛け可能。継続時間は1重ごとに独立してカウントされる。",
+                "Summer_Talent_01_Title_Realign": "『孤毒が蝕む』"
+            },
+            {
+                "talent_id": "2",
+                "Summer_Talent_02_Title": "『猫のまにまに』",
+                "Summer_Talent_02_Desc_01_Realign": "千夏がいずれかの<color=#FFFFFF>「エーテルベール」</color>の効果を受けている時、メンバー全員の攻撃力+10%、\n千夏は10秒ごとに<color=#FFFFFF>「爪とぎチャンス」</color>を1つ獲得する。\n<color=#FFFFFF>「ねこにらみ」</color>の発動に必要な攻撃回数が減少する。\n<color=#FFFFFF>「ねこにらみ」</color>効果発動時のダメージ倍率が以下のようにアップする。\n<color=#FFFFFF>「強攻」</color>メンバーの場合：ダメージ倍率+200%；\n<color=#FFFFFF>「異常」</color>メンバーの場合：ダメージ倍率+300%。",
+                "Summer_Talent_02_Desc_02": "「変な子～…いつも一人で、ブツブツ歌って…」\nそんな陰口もとっくに慣れっこの彼女は、すでに\n評価されることに期待するのをやめていた。\nしかしあの暖かい日射しの午後、\n天使のように現れた黒髪の少女は、\nうつむく千夏に手を差し伸べた。\nそのとき彼女は気づく。\nやっぱり、ずっと理解してほしかったのだと、\n仲間と呼べる存在を…ずっと待ちわびていたのだと。\nどんなに寂しさとの付き合い方を覚えたとしても、\n人間は繋がりを求めずにはいられない。\nあの子が、湿り気を帯びた孤独から彼女を救い上げて以来\n千夏は羽根で編まれた巣を手に入れたのだった。",
+                "Summer_Talent_02_Desc_01": "千夏がいずれかの<color=#FFFFFF>「エーテルベール」</color>の効果を受けている時、メンバー全員の攻撃力+10%、千夏は10秒ごとに<color=#FFFFFF>「爪とぎチャンス」</color>を1つ獲得する。<color=#FFFFFF>「ねこにらみ」</color>の発動に必要な攻撃回数が減少する。<color=#FFFFFF>「ねこにらみ」</color>効果発動時のダメージ倍率が以下のようにアップする。\n<color=#FFFFFF>「強攻」</color>メンバーの場合：ダメージ倍率+200%；\n<color=#FFFFFF>「異常」</color>メンバーの場合：ダメージ倍率+300%。",
+                "Summer_Talent_02_Title_Realign": "『猫のまにまに』"
+            },
+            {
+                "talent_id": "3",
+                "Summer_Talent_03_Title": "『ringoになっていく』",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Summer_Talent_03_Desc_02": "見知らぬ人たちからこんなに称賛を浴びるのは、\n彼女にとって初めてのことだった。\n「優しい歌をありがとう…元気になれたよ！」\n「一番辛い時にこの歌に出会えて、本当によかった…」\n「こういう曲調めっちゃかわいい！！」\n少女は緊張した面持ちで画面とにらめっこし、\nメッセージ欄を彩る通知が、高鳴る鼓動に合わせて小刻みに震える。\nマウスを握りしめ、ウィンドウを閉じては開いて——\nもっと、たくさんの人にうちの音楽を聴いてほしい。\nうちにはこれしかないんや、だから…\n一人でもたくさんの人に、届いて。",
+                "Summer_Talent_03_Title_Realign": "『ringoになっていく』"
+            },
+            {
+                "talent_id": "4",
+                "Summer_Talent_04_Title": "『モーソー☆調査隊のテーゼ』",
+                "Summer_Talent_04_Desc_01_Realign": "千夏が<color=#FFFFFF>『終結スキル』</color>を発動した時、メンバー全員の与ダメージ+<color=#FFFFFF>18%</color>、継続時間60秒。",
+                "Summer_Talent_04_Desc_02": "羽に連れ出され、契約書にサインする…\n少女にとってその1日は、夏の夜の稲妻の如く\n瞬く間に過ぎ去った。\nまるで夢のような、おままごとのような…\nとにかく、今まで「妄想」の中にしか\n存在しなかったことが現実に起きたのだった。\n一歩踏み出せば、彼女たちはもう個別の3人ではなく、\n「妄想エンジェル」という一つのグループになる。\nそして彼女自身、もう「裏方の千夏」ではなくなる。\nファンの視線に自分をさらけ出す、アイドルになるのだ。\n——このあまりにも壮大なモーソーは、\n彼女が今までに貰ったなかでも\nもっとも不思議な贈り物だった。",
+                "Summer_Talent_04_Desc_01": "千夏が<color=#FFFFFF>『終結スキル』</color>を発動した時、メンバー全員の与ダメージ+<color=#FFFFFF>18%</color>、継続時間60秒。",
+                "Summer_Talent_04_Title_Realign": "『モーソー☆調査隊のテーゼ』"
+            },
+            {
+                "talent_id": "5",
+                "Summer_Talent_05_Title": "『銀河電車』",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Summer_Talent_05_Desc_02": "夜の帳に瞬く星々は、黄昏に\nひとつまたひとつと灯るガス燈のよう。\n彼女は思い描く。広大な銀河をガタゴト走る電車が、\n淡い朝焼けから無限の彼方へ旅立つ光景を。\nイヌやネコ、ウサギといった可愛い乗客を乗せ、\n車掌は深海魚やフクロウの言葉だってわかる人。\n慌ただしい生活も、ありふれた日常も置き去りにして——\n「『妄想エンジェル』の翼に乗せたみんなを、\nそんな音楽の中へ連れてくんや！」\nアロマキャンドルの甘い香りに包まれ、\n彼女はふぁ～っと伸びをした。\n譜面に書き留めたのは、そんなロマンチックな夢だった。",
+                "Summer_Talent_05_Title_Realign": "『銀河電車』"
+            },
+            {
+                "talent_id": "6",
+                "Summer_Talent_06_Title": "『ホロウ大爆発』",
+                "Summer_Talent_06_Desc_01_Realign": "千夏が<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、<color=#FFFFFF>「創作没頭ちゅう！」</color>状態に入る、継続時間8秒。\n<color=#FFFFFF>「創作没頭ちゅう！」</color>状態中、千夏の攻撃は必ず会心となり、自身の会心ダメージが自身の開幕攻撃力0.03%分アップする、最大105%アップできる。\n<color=#FFFFFF>「創作没頭ちゅう！」</color>状態中、千夏の中断耐性レベルがアップし、被ダメージ-40%。\n<color=#FFFFFF>「創作没頭ちゅう！」</color>状態中、千夏は<color=#FFFFFF>「ねこにらみ」</color>の効果を発動させることが可能になり、<color=#FFFFFF>「強攻」</color>メンバーとみなされた上にダメージ計算を行う。<color=#FFFFFF>「ねこにらみ」</color>の効果を発動させた時に千夏が<color=#FFFFFF>「爪とぎチャンス」</color>を所持している場合、即座に<color=#FFFFFF>「爪とぎチャンス」</color>を消費して、再び敵に<color=#FFFFFF>「ねこにらみ」</color>を付与する。\n<color=#FFFFFF>「創作没頭ちゅう！」</color>状態中、チーム全体による<color=#FFFFFF>「ねこにらみ」</color>のダメージ+<color=#FFFFFF>50%</color>。",
+                "Summer_Talent_06_Desc_02": "「何のために、ステージに立つ？」\nファンのため？ステージで栄光に浸るため？\nそれとも、他の子を羨ましそうに眺めるだけで\n一歩も踏み出せずにいた自分のため？\n全部かもしれないし、どれでもないかもしれない。\n少女にわかるのは、マイクを握れば鼓動は凪ぎ、\nあたりが静寂に包まれるということだけ…\nビートが刻まれ、旋律が波紋のようにステージを満たす\nそのとき、音楽というかすかな光が\nみんなとの時間を照らし出した。\nまるで――彼女たち天使が、その場の全員を\n連れて「今、ここ」から羽ばたくように。",
+                "Summer_Talent_06_Desc_01": "千夏が<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、<color=#FFFFFF>「創作没頭ちゅう！」</color>状態に入る、継続時間8秒。\n<color=#FFFFFF>「創作没頭ちゅう！」</color>状態中、千夏の攻撃は必ず会心となり、自身の会心ダメージが自身の開幕攻撃力0.03%分アップする、最大105%アップできる。\n<color=#FFFFFF>「創作没頭ちゅう！」</color>状態中、千夏の中断耐性レベルがアップし、被ダメージ-40%。\n<color=#FFFFFF>「創作没頭ちゅう！」</color>状態中、千夏は<color=#FFFFFF>「ねこにらみ」</color>の効果を発動させることが可能になり、<color=#FFFFFF>「強攻」</color>メンバーとみなされた上にダメージ計算を行う。<color=#FFFFFF>「ねこにらみ」</color>の効果を発動させた時に千夏が<color=#FFFFFF>「爪とぎチャンス」</color>を所持している場合、即座に<color=#FFFFFF>「爪とぎチャンス」</color>を消費して、再び敵に<color=#FFFFFF>「ねこにらみ」</color>を付与する。\n<color=#FFFFFF>「創作没頭ちゅう！」</color>状態中、チーム全体による<color=#FFFFFF>「ねこにらみ」</color>のダメージ+<color=#FFFFFF>50%</color>。",
+                "Summer_Talent_06_Title_Realign": "『ホロウ大爆発』"
+            }
+        ]
+    },
+    "1501": {
+        "role_id": 1501,
+        "name": "アリア",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Aria_Talent_01_Title": "元気な音波",
+                "Aria_Talent_01_Desc_01_Realign": "アリアが<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>で敵にダメージを与えた時、ターゲットの<color=#FE437E>エーテル属性状態異常蓄積耐性</color>を10%無視する。\nまた、自身が<color=#FFFFFF>「狂咲」</color>を発動させた時、確率で「狂咲」に会心が発生する。この「狂咲」の初期会心率は25%、会心ダメージは25%となる。アリアの開幕異常掌握が100Ptを上回った場合、1Pt上回るごとに、この効果の会心率は追加で+0.5%。",
+                "Aria_Talent_01_Desc_02": "「羽ちゃん、ちなつちゃん…ここから見える？\nみんな、私たちのことをすっごく楽しみにしてくれてるよ…\nだからスポットライトが点いたら、\nぜったいに元気いっぱいのところを見せてあげようね！\nだって私たち、アイドルだから！」\n――ステージに上がる直前、ひそひそ声で。",
+                "Aria_Talent_01_Desc_01": "アリアが<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>で敵にダメージを与えた時、ターゲットの<color=#FE437E>エーテル属性状態異常蓄積耐性</color>を10%無視する。また、自身が<color=#FFFFFF>「狂咲」</color>を発動させた時、確率で「狂咲」に会心が発生する。この「狂咲」の初期会心率は25%、会心ダメージは25%となる。アリアの開幕異常掌握が100Ptを上回った場合、1Pt上回るごとに、この効果の会心率は追加で+0.5%。",
+                "Aria_Talent_01_Title_Realign": "元気な音波"
+            },
+            {
+                "talent_id": "2",
+                "Aria_Talent_02_Title": "夢の拍動",
+                "Aria_Talent_02_Desc_01_Realign": "アリアは攻撃時、または<color=#FFFFFF>「狂咲」</color>を発動させた時、ターゲットの防御力を16%無視する。<color=#FFFFFF>「モーソータイム」</color>継続中、アリアは攻撃時、または<color=#FFFFFF>「狂咲」</color>を発動させた時、追加でターゲットの防御力を8%無視する。",
+                "Aria_Talent_02_Desc_02": "「まずは、私たちだけで聴いてみよ。\n目を閉じて、感じて、受け入れるの…\nそしたら本番では、私たちを通して\n会場のみんなを夢中にできるから」",
+                "Aria_Talent_02_Desc_01": "アリアは攻撃時、または<color=#FFFFFF>「狂咲」</color>を発動させた時、ターゲットの防御力を16%無視する。<color=#FFFFFF>「モーソータイム」</color>継続中、アリアは攻撃時、または<color=#FFFFFF>「狂咲」</color>を発動させた時、追加でターゲットの防御力を8%無視する。",
+                "Aria_Talent_02_Title_Realign": "夢の拍動"
+            },
+            {
+                "talent_id": "3",
+                "Aria_Talent_03_Title": "妄想する女の子",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Aria_Talent_03_Desc_02": "「夢でも、妄想でも…もっと素敵な自分になるために\n走り続けてるなら…それはすごいことだよ。\nゼッタイに覚えてくれてる誰かがいるからね！」",
+                "Aria_Talent_03_Title_Realign": "妄想する女の子"
+            },
+            {
+                "talent_id": "4",
+                "Aria_Talent_04_Title": "機械仕掛けの天使",
+                "Aria_Talent_04_Desc_01_Realign": "アリアが<color=#FFFFFF>「狂咲」</color>を発動させた時、自身のエネルギーが4Pt、デシベル値が70Pt回復する。この効果は10秒に1回のみ発動可能。",
+                "Aria_Talent_04_Desc_02": "アリアの翼は、鋼で出来たお月様の光、\nその羽ばたきはデータで制御されています。\n回転する歯車が運命のビートを刻み…\nボディの中で、電流が静かに音を立てる。",
+                "Aria_Talent_04_Desc_01": "アリアが<color=#FFFFFF>「狂咲」</color>を発動させた時、自身のエネルギーが4Pt、デシベル値が70Pt回復する。この効果は10秒に1回のみ発動可能。",
+                "Aria_Talent_04_Title_Realign": "機械仕掛けの天使"
+            },
+            {
+                "talent_id": "5",
+                "Aria_Talent_05_Title": "雨に消える涙",
+                "Common_Talent_Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+                "Aria_Talent_05_Desc_02": "アリア、見たことがあります。\n街がホロウに包まれて、秩序が\nエーテルで作り変えられていくところを…\n美しいもの全部が闇に飲まれて、\n時間の流れに沈んでいくところを…\n雨の中に消えていく、涙のようでした。",
+                "Aria_Talent_05_Title_Realign": "雨に消える涙"
+            },
+            {
+                "talent_id": "6",
+                "Aria_Talent_06_Title": "構造体の夢",
+                "Aria_Talent_06_Desc_01_Realign": "フィールド入場時、アリアはデシベル値を1200Pt獲得する。探査モードにおいて、この効果は180秒に1回のみ発動可能。また、アリアが<color=#FFFFFF>「モーソータイム」</color>に入った後、その状態は解除されなくなるほか、<color=#FFFFFF>強化された『通常攻撃：絶対音感』</color>と<color=#FFFFFF>『終結スキル』</color>による<color=#FE437E>エーテル属性ダメージ</color>+40%。\nアリアが<color=#FFFFFF>「モーソータイム」</color>状態にある時、フィールド上の敵が状態異常になった際、アリアは<color=#FFFFFF>「フィーバー」</color>を1重獲得する。この効果は6秒に1回のみ発動可能。\n<color=#FFFFFF>「フィーバー」</color>を獲得する際、自身が既に<color=#FFFFFF>「フィーバー」</color>を3重所持している場合、上限を超えた分の<color=#FFFFFF>「フィーバー」</color>は2つの<color=#FFFFFF>「応援エネルギー」</color>に変換され、フィールド上に生成される。",
+                "Aria_Talent_06_Desc_02": "覚えていますか？愛が芽生えた、\nあの9月の夜を。\n覚えてる？どんどんモーソーに落ちてくなか、\nステージの上で踊ってた日々を。",
+                "Aria_Talent_06_Desc_01": "フィールド入場時、アリアはデシベル値を1200Pt獲得する。探査モードにおいて、この効果は180秒に1回のみ発動可能。また、アリアが<color=#FFFFFF>「モーソータイム」</color>に入った後、その状態は解除されなくなるほか、<color=#FFFFFF>強化された『通常攻撃：絶対音感』</color>と<color=#FFFFFF>『終結スキル』</color>による<color=#FE437E>エーテル属性ダメージ</color>+40%。アリアが<color=#FFFFFF>「モーソータイム」</color>状態にある時、フィールド上の敵が状態異常になった際、アリアは<color=#FFFFFF>「フィーバー」</color>を1重獲得する。この効果は6秒に1回のみ発動可能。<color=#FFFFFF>「フィーバー」</color>を獲得する際、自身が既に<color=#FFFFFF>「フィーバー」</color>を3重所持している場合、上限を超えた分の<color=#FFFFFF>「フィーバー」</color>は2つの<color=#FFFFFF>「応援エネルギー」</color>に変換され、フィールド上に生成される。",
+                "Aria_Talent_06_Title_Realign": "構造体の夢"
+            }
+        ]
+    },
     "0": {
         "role_id": 0,
         "name": null,

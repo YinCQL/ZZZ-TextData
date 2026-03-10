@@ -2391,6 +2391,110 @@
             }
         ]
     },
+    "1491": {
+        "role_id": 1491,
+        "name": "Sunna",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Summer_Talent_01_Title": "Loneliness Corruption Symptoms",
+                "Summer_Talent_01_Desc_01_Realign": "Saat Sunna memulai pertarungan, akan langsung memulihkan 15 Energy. Di mode Eksplorasi Area, efek ini dapat dipicu sekali setiap 180 detik. Saat <color=#FFFFFF>Cat's Gaze</color> terpicu dan mengenai musuh, akan mengurangi 7% DEF target selama 40 detik, dapat ditumpuk hingga 3 lapis. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Summer_Talent_01_Desc_02": "Tidak masalah jika tidak ada yang memahaminya. Selama dia memiliki musik, itu saja sudah cukup. Tidak masalah juga jika tidak ada yang pernah mengajaknya bicara duluan. Dia tidak pernah mengharapkannya...\nDikelilingi orang-orang membuatnya sangat gugup hingga dia melarikan diri dari dunia, menggunakan fantasi untuk mengisi kekosongan yang ditinggalkannya. Dia adalah penguasa dunia kecilnya sendiri. Dia memasang peringatan \"dilarang masuk\", dan mewarnai segalanya dengan cerah melalui musik.\n\"Aku tidak seperti mereka. A—Aku seorang jenius yang kesepian!\"\nDia menggembungkan pipinya dan diam-diam menyeka air mata kesepian yang menetes dari sudut matanya.",
+                "Summer_Talent_01_Desc_01": "Saat Sunna memulai pertarungan, akan langsung memulihkan 15 Energy. Di mode Eksplorasi Area, efek ini dapat dipicu sekali setiap 180 detik. Saat <color=#FFFFFF>Cat's Gaze</color> terpicu dan mengenai musuh, akan mengurangi 7% DEF target selama 40 detik, dapat ditumpuk hingga 3 lapis. Durasi setiap lapis akan dihitung secara terpisah.",
+                "Summer_Talent_01_Title_Realign": "Loneliness Corruption Symptoms"
+            },
+            {
+                "talent_id": "2",
+                "Summer_Talent_02_Title": "Feline Go-With-the-Flow",
+                "Summer_Talent_02_Desc_01_Realign": "Saat Sunna berada di dalam <color=#FFFFFF>Ether Veil</color>, ATK semua Agen dalam tim akan meningkat 10% dan dia akan mendapatkan 1 <color=#FFFFFF>Claw Sharpener</color> setiap 10 detik.\nJumlah serangan yang dibutuhkan untuk memicu <color=#FFFFFF>Cat's Gaze</color> berkurang dan Kelipatan DMG yang diakibatkannya meningkat.\nSaat dipicu oleh Agen <color=#FFFFFF>Attack</color>, Kelipatan DMG meningkat 200%. Saat dipicu oleh Agen <color=#FFFFFF>Anomaly</color>, Kelipatan DMG meningkat 300%.",
+                "Summer_Talent_02_Desc_02": "\"Anak itu aneh, dia selalu bersenandung lagu-lagu aneh sendirian di pojokan...\"\nSetelah mendengar ucapan seperti itu sepanjang hidupnya, dia berhenti berharap orang lain akan memiliki pandangan yang lain terhadapnya.\nKemudian, di suatu siang yang hangat dan lembut, seorang gadis berambut hitam mengulurkan tangannya seperti malaikat.\nAh... jadi selama ini dia ingin dipahami seperti ini. Dia selalu... menunggu seseorang yang bisa dia anggap sebagai teman.\nMeskipun sudah terbiasa dengan kesepian sambil berlatih tanpa henti, manusia pada akhirnya tetaplah makhluk sosial. Orang itu mengangkatnya dari kesepian yang penuh tangisan, dan sejak saat itu, dia memiliki tempat berlindung yang terbuat dari bulu.",
+                "Summer_Talent_02_Desc_01": "Saat Sunna berada di dalam <color=#FFFFFF>Ether Veil</color>, ATK semua Agen dalam tim akan meningkat 10% dan dia akan mendapatkan 1 <color=#FFFFFF>Claw Sharpener</color> setiap 10 detik. Jumlah serangan yang dibutuhkan untuk memicu <color=#FFFFFF>Cat's Gaze</color> berkurang dan Kelipatan DMG yang diakibatkannya meningkat.\nSaat dipicu oleh Agen <color=#FFFFFF>Attack</color>, Kelipatan DMG meningkat 200%. Saat dipicu oleh Agen <color=#FFFFFF>Anomaly</color>, Kelipatan DMG meningkat 300%.",
+                "Summer_Talent_02_Title_Realign": "Feline Go-With-the-Flow"
+            },
+            {
+                "talent_id": "3",
+                "Summer_Talent_03_Title": "Transformation Apple",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Summer_Talent_03_Desc_02": "Dia belum pernah menerima pujian dari begitu banyak orang asing sebelumnya.\n\"Lagu-lagu lembut itu memberiku kekuatan...\"\n\"Menemukan musik yang bisa beresonansi denganku di saat aku sedang sedih sangat mengharukan...\"\n\"Gaya musik ini sangat menggemaskan!!\"\nGadis itu menatap layar dengan gugup. Titik merah kecil penanda pesan baru bergetar mengikuti detak jantungnya, saat ia membuka jendela yang sama berulang kali—\nSedikit lagi... Aku ingin lebih banyak orang yang mendengar musikku... lebih banyak orang yang melihat aku, seseorang yang tidak berguna selain menulis musik...\nYang aku inginkan hanyalah agar laguku bisa memberikan mereka semangat.",
+                "Summer_Talent_03_Title_Realign": "Transformation Apple"
+            },
+            {
+                "talent_id": "4",
+                "Summer_Talent_04_Title": "Delusion Investigation Team",
+                "Summer_Talent_04_Desc_01_Realign": "Saat Sunna melancarkan <color=#FFFFFF>Ultimate</color>, DMG yang diakibatkan semua Agen dalam tim meningkat <color=#FFFFFF>18%</color> selama 60 detik.",
+                "Summer_Talent_04_Desc_02": "Dari diseret keluar pintu oleh Nangong hingga menandatangani kontrak itu... bagi gadis itu, hari berlalu secepat kilat petir di musim panas yang membelah malam hujan.\nBagaikan mimpi, bagaikan bermain rumah-rumahan... pada akhirnya, semuanya terasa seperti \"delusi\".\nSaat mereka melangkah keluar, mereka bukan lagi tiga individu terpisah, melainkan sebagai sebuah grup \"Angels of Delusion\". Dan saat dia melangkah keluar, dia bukan lagi hanya seorang Sunna, penulis lagu yang bekerja di balik layar, melainkan menjadi idola yang berdiri di hadapan penggemarnya, mengekspresikan dirinya di atas panggung.\nDelusi luar biasa yang menyelimutinya ini adalah hadiah paling menakjubkan yang pernah diterimanya.",
+                "Summer_Talent_04_Desc_01": "Saat Sunna melancarkan <color=#FFFFFF>Ultimate</color>, DMG yang diakibatkan semua Agen dalam tim meningkat <color=#FFFFFF>18%</color> selama 60 detik.",
+                "Summer_Talent_04_Title_Realign": "Delusion Investigation Team"
+            },
+            {
+                "talent_id": "5",
+                "Summer_Talent_05_Title": "Galaxy Tramway",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Summer_Talent_05_Desc_02": "Bintang-bintang berjejer di langit malam bagaikan lampu pijar yang menyala di saat senja.\nDia membayangkan bahwa di suatu tempat di galaksi Bima Sakti yang luas, seseorang sedang mengendarai trem listrik yang bergemuruh, berangkat dari cahaya pagi yang pucat dan melaju lurus menuju keabadian.\nPenumpangnya adalah makhluk-makhluk kecil yang menggemaskan seperti kucing, anjing, dan kelinci, dan kondekturnya fasih berbicara dalam bahasa ikan dan burung hantu.\nMeninggalkan hiruk pikuk kehidupan sehari-hari, melangkah jauh dari rutinitas yang membosankan—\n\"Kalau aku bisa meminjam sayap Angels of Delusion, mungkin aku bisa membawa semua orang ke dalam dunia musik seperti ini!\"\nDikelilingi aroma manis lilin aromaterapi, dia meregangkan tubuhnya sambil menguap pelan, lalu menuliskan mimpi romantis ini ke dalam partitur musik.",
+                "Summer_Talent_05_Title_Realign": "Galaxy Tramway"
+            },
+            {
+                "talent_id": "6",
+                "Summer_Talent_06_Title": "Hollow Big Bang",
+                "Summer_Talent_06_Desc_01_Realign": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Sunna akan memasuki status <color=#FFFFFF>Focused Creation!</color> selama 8 detik.\nSaat berada dalam status <color=#FFFFFF>Focused Creation!</color>, semua serangan yang dilancarkan Sunna pasti akan memicu CRIT dan CRIT DMG-nya akan meningkat sebesar 0,03% dari ATK awal, maksimum dapat meningkat hingga 105%.\nSaat berada dalam status <color=#FFFFFF>Focused Creation!</color>, Level Anti-Interrupt Sunna meningkat dan DMG yang diterima berkurang 40%.\nSaat berada dalam status <color=#FFFFFF>Focused Creation!</color>, Sunna dapat memicu <color=#FFFFFF>Cat's Gaze</color> dan DMG yang diakibatkannya dihitung berdasarkan aturan Agen <color=#FFFFFF>Attack</color>. Jika Sunna memiliki <color=#FFFFFF>Claw Sharpener</color> saat memicu <color=#FFFFFF>Cat's Gaze</color>, maka akan langsung mengonsumsi <color=#FFFFFF>Claw Sharpener</color> dan kembali memberikan <color=#FFFFFF>Cat's Gaze</color> terhadap musuh.\nSaat berada dalam status <color=#FFFFFF>Focused Creation!</color>, DMG yang diakibatkan dari <color=#FFFFFF>Cat's Gaze</color> yang dipicu oleh semua anggota tim meningkat <color=#FFFFFF>50%</color>.",
+                "Summer_Talent_06_Desc_02": "\"Kenapa kamu memilih naik ke atas panggung?\"\nApakah demi para penggemar? Demi kejayaan di bawah sorot lampu? Atau demi versi dirimu yang dulu selalu menyaksikan orang lain tampil dari pojok, dan terlalu takut untuk melangkah maju?\nMungkin semuanya benar, atau mungkin tak ada satu pun dari itu yang benar.\nGadis itu hanya tahu bahwa saat dia menggenggam mikrofon, detak jantungnya melambat, dan dunia di sekelilingnya menjadi sunyi... hingga dentuman drum dimulai, dan musik bergema di seluruh panggung. Pada momen itu, cahaya lembut musik menerangi waktu yang mereka semua habiskan bersama.\nRasanya seolah-olah mereka adalah malaikat, dengan sayap yang mampu membawa semua orang melampaui ruang waktu.",
+                "Summer_Talent_06_Desc_01": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Sunna akan memasuki status <color=#FFFFFF>Focused Creation!</color> selama 8 detik.\nSaat berada dalam status <color=#FFFFFF>Focused Creation!</color>, semua serangan yang dilancarkan Sunna pasti akan memicu CRIT dan CRIT DMG-nya akan meningkat sebesar 0,03% dari ATK awal, maksimum dapat meningkat hingga 105%.\nSaat berada dalam status <color=#FFFFFF>Focused Creation!</color>, Level Anti-Interrupt Sunna meningkat dan DMG yang diterima berkurang 40%.\nSaat berada dalam status <color=#FFFFFF>Focused Creation!</color>, Sunna dapat memicu <color=#FFFFFF>Cat's Gaze</color> dan DMG yang diakibatkannya dihitung berdasarkan aturan Agen <color=#FFFFFF>Attack</color>. Jika Sunna memiliki <color=#FFFFFF>Claw Sharpener</color> saat memicu <color=#FFFFFF>Cat's Gaze</color>, maka akan langsung mengonsumsi <color=#FFFFFF>Claw Sharpener</color> dan kembali memberikan <color=#FFFFFF>Cat's Gaze</color> terhadap musuh.\nSaat berada dalam status <color=#FFFFFF>Focused Creation!</color>, DMG yang diakibatkan dari <color=#FFFFFF>Cat's Gaze</color> yang dipicu oleh semua anggota tim meningkat <color=#FFFFFF>50%</color>.",
+                "Summer_Talent_06_Title_Realign": "Hollow Big Bang"
+            }
+        ]
+    },
+    "1501": {
+        "role_id": 1501,
+        "name": "Aria",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Aria_Talent_01_Title": "Energetic Sound Waves",
+                "Aria_Talent_01_Desc_01_Realign": "Saat <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Special Attack</color>, atau <color=#FFFFFF>EX Special Attack</color> Aria mengakibatkan DMG kepada musuh, serangan tersebut akan mengabaikan 10% <color=#FE437E>Ketahanan Ether Anomaly Buildup</color> target.\nSelain itu, saat Aria memicu <color=#FFFFFF>Abloom</color>, berpeluang memicu CRIT. CRIT Rate dasar senilai 25% dan CRIT DMG senilai 25%. Jika Anomaly Mastery awal melebihi 100 poin, setiap 1 poin Anomaly Mastery awal yang melebihinya akan meningkatkan CRIT Rate efek ini sebesar 0,5%.",
+                "Aria_Talent_01_Desc_02": "\"Kamu lihat mereka? Semua orang di luar sana menunggu kita. Jadi saat lampu menyala, kita harus tampil penuh energi. Itulah makna menjadi seorang idola.\"\n— Bisikan sebelum naik ke panggung.",
+                "Aria_Talent_01_Desc_01": "Saat <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Special Attack</color>, atau <color=#FFFFFF>EX Special Attack</color> Aria mengakibatkan DMG kepada musuh, serangan tersebut akan mengabaikan 10% <color=#FE437E>Ketahanan Ether Anomaly Buildup</color> target. Selain itu, saat Aria memicu <color=#FFFFFF>Abloom</color>, berpeluang memicu CRIT. CRIT Rate dasar senilai 25% dan CRIT DMG senilai 25%. Jika Anomaly Mastery awal melebihi 100 poin, setiap 1 poin Anomaly Mastery awal yang melebihinya akan meningkatkan CRIT Rate efek ini sebesar 0,5%.",
+                "Aria_Talent_01_Title_Realign": "Energetic Sound Waves"
+            },
+            {
+                "talent_id": "2",
+                "Aria_Talent_02_Title": "Fantastical Beat",
+                "Aria_Talent_02_Desc_01_Realign": "Serangan yang dilancarkan dan <color=#FFFFFF>Abloom</color> yang dipicu oleh Aria akan mengabaikan 16% DEF target. Selama durasi <color=#FFFFFF>Moment of Delusion</color> berlangsung, serangan yang dilancarkan dan <color=#FFFFFF>Abloom</color> yang dipicu oleh Aria akan mengabaikan 8% DEF target tambahan.",
+                "Aria_Talent_02_Desc_02": "\"Kita tidak perlu menyanyikannya. Cukup pejamkan matamu, rasakan, dan terimalah. Setelah itu, lewat penampilan kita di atas panggung, kita akan buat semua penonton jatuh cinta kepadanya.\"",
+                "Aria_Talent_02_Desc_01": "Serangan yang dilancarkan dan <color=#FFFFFF>Abloom</color> yang dipicu oleh Aria akan mengabaikan 16% DEF target. Selama durasi <color=#FFFFFF>Moment of Delusion</color> berlangsung, serangan yang dilancarkan dan <color=#FFFFFF>Abloom</color> yang dipicu oleh Aria akan mengabaikan 8% DEF target tambahan.",
+                "Aria_Talent_02_Title_Realign": "Fantastical Beat"
+            },
+            {
+                "talent_id": "3",
+                "Aria_Talent_03_Title": "Delulu",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Aria_Talent_03_Desc_02": "\"Baik itu mimpi maupun fantasi, selama kamu terus berlari menuju versi yang lebih baik dari dirimu. Setiap orang layak untuk diapresiasi, segala bentuk upaya akan selalu diingat oleh seseorang.\"",
+                "Aria_Talent_03_Title_Realign": "Delulu"
+            },
+            {
+                "talent_id": "4",
+                "Aria_Talent_04_Title": "Mechanical Angel",
+                "Aria_Talent_04_Desc_01_Realign": "Saat memicu <color=#FFFFFF>Abloom</color>, Aria akan mendapatkan 4 poin Energy dan 70 poin Decibel. Efek ini dapat dipicu sekali setiap 10 detik.",
+                "Aria_Talent_04_Desc_02": "Sayapku adalah sinar bulan yang ditempa dari baja, setiap getarannya dikalibrasi dalam data.\nGerigi mengunci irama takdir, sementara arus listrik merongrong di tubuhku dalam sunyi.",
+                "Aria_Talent_04_Desc_01": "Saat memicu <color=#FFFFFF>Abloom</color>, Aria akan mendapatkan 4 poin Energy dan 70 poin Decibel. Efek ini dapat dipicu sekali setiap 10 detik.",
+                "Aria_Talent_04_Title_Realign": "Mechanical Angel"
+            },
+            {
+                "talent_id": "5",
+                "Aria_Talent_05_Title": "Tears in the Rain",
+                "Common_Talent_Desc": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
+                "Aria_Talent_05_Desc_02": "Aku pernah melihat kota yang dilahap oleh Hollow dan tatanannya diubah oleh Ether. Semua yang indah ditelan oleh kegelapan, jatuh ke dalam sungai waktu... seperti air mata yang melebur dalam hujan.",
+                "Aria_Talent_05_Title_Realign": "Tears in the Rain"
+            },
+            {
+                "talent_id": "6",
+                "Aria_Talent_06_Title": "Construct's Dream",
+                "Aria_Talent_06_Desc_01_Realign": "Saat memulai pertarungan, Aria akan langsung mendapatkan 1200 poin Decibel. Efek ini dapat dipicu sekali setiap 180 detik dalam mode Eksplorasi Area. Setelah Aria memasuki <color=#FFFFFF>Moment of Delusion</color>, dia tidak akan keluar dan <color=#FE437E>Ether DMG</color> yang diakibatkan dari <color=#FFFFFF>Basic Attack: Perfect Pitch yang ditingkatkan</color> dan <color=#FFFFFF>Ultimate</color> meningkat 40%.\nSaat Aria berada dalam <color=#FFFFFF>Moment of Delusion</color>, jika ada musuh di medan pertempuran yang terkena status Attribute Anomaly, Aria akan mendapatkan 1 lapis <color=#FFFFFF>All-Out Cheering</color>. Efek ini dapat dipicu sekali setiap 6 detik.\nSaat mendapatkan efek <color=#FFFFFF>All-Out Cheering</color>, jika sudah memiliki 3 lapis efek <color=#FFFFFF>All-Out Cheering</color>, maka efek <color=#FFFFFF>All-Out Cheering</color> yang berlebih akan dikonversi menjadi 2 <color=#FFFFFF>Fandom Power</color> di medan pertempuran.",
+                "Aria_Talent_06_Desc_02": "\"Apa kamu masih ingat malam di bulan September itu, ketika cinta mulai tumbuh?\nApa kamu masih ingat tarian di atas panggung, saat kita terjatuh ke dalam mimpi?\"",
+                "Aria_Talent_06_Desc_01": "Saat memulai pertarungan, Aria akan langsung mendapatkan 1200 poin Decibel. Efek ini dapat dipicu sekali setiap 180 detik dalam mode Eksplorasi Area. Setelah Aria memasuki <color=#FFFFFF>Moment of Delusion</color>, dia tidak akan keluar dan <color=#FE437E>Ether DMG</color> yang diakibatkan dari <color=#FFFFFF>Basic Attack: Perfect Pitch yang ditingkatkan</color> dan <color=#FFFFFF>Ultimate</color> meningkat 40%.\nSaat Aria berada dalam <color=#FFFFFF>Moment of Delusion</color>, jika ada musuh di medan pertempuran yang terkena status Attribute Anomaly, Aria akan mendapatkan 1 lapis <color=#FFFFFF>All-Out Support</color>. Efek ini dapat dipicu sekali setiap 6 detik. Saat mendapatkan efek <color=#FFFFFF>All-Out Cheering</color>, jika sudah memiliki 3 lapis efek <color=#FFFFFF>All-Out Cheering</color>, maka efek <color=#FFFFFF>All-Out Cheering</color> yang berlebih akan dikonversi menjadi 2 <color=#FFFFFF>Fandom Power</color> di medan pertempuran.",
+                "Aria_Talent_06_Title_Realign": "Construct's Dream"
+            }
+        ]
+    },
     "0": {
         "role_id": 0,
         "name": null,
