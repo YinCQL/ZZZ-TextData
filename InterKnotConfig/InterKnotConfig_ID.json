@@ -1,6 +1,6 @@
 {
     "1001": {
-        "id": "1001",
+        "id": 1001,
         "poster": "lalala",
         "likes": "34",
         "views": 5881,
@@ -32,7 +32,7 @@
         "player_reply": []
     },
     "1002": {
-        "id": "1002",
+        "id": 1002,
         "poster": "nganggur_memang_napa",
         "likes": "105",
         "views": 3864,
@@ -64,7 +64,7 @@
         "player_reply": []
     },
     "1003": {
-        "id": "1003",
+        "id": 1003,
         "poster": "Indigo",
         "likes": "364",
         "views": 7989,
@@ -96,7 +96,7 @@
         "player_reply": []
     },
     "1004": {
-        "id": "1004",
+        "id": 1004,
         "poster": "Genta Ang1n",
         "likes": "512",
         "views": 4124,
@@ -133,7 +133,7 @@
         "player_reply": []
     },
     "1005": {
-        "id": "1005",
+        "id": 1005,
         "poster": "Kucingku_Paling_Imut_Sedunia",
         "likes": "312",
         "views": 9631,
@@ -165,7 +165,7 @@
         "player_reply": []
     },
     "1007": {
-        "id": "1007",
+        "id": 1007,
         "poster": "CHAR",
         "likes": "6",
         "views": 7812,
@@ -200,7 +200,7 @@
         ]
     },
     "1008": {
-        "id": "1008",
+        "id": 1008,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 8267,
@@ -237,7 +237,7 @@
         "player_reply": []
     },
     "1009": {
-        "id": "1009",
+        "id": 1009,
         "poster": "Butterfly Jack",
         "likes": "62",
         "views": 12563,
@@ -269,7 +269,7 @@
         "player_reply": []
     },
     "1010": {
-        "id": "1010",
+        "id": 1010,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 13409,
@@ -306,7 +306,7 @@
         "player_reply": []
     },
     "1011": {
-        "id": "1011",
+        "id": 1011,
         "poster": "kemasan_sachet_unyu",
         "likes": "16895",
         "views": 3697,
@@ -340,7 +340,7 @@
         ]
     },
     "1014": {
-        "id": "1014",
+        "id": 1014,
         "poster": "Suuuuri",
         "likes": "7",
         "views": 2168,
@@ -380,7 +380,7 @@
         ]
     },
     "1015": {
-        "id": "1015",
+        "id": 1015,
         "poster": "Fisherman",
         "likes": "25",
         "views": 559,
@@ -414,7 +414,7 @@
         ]
     },
     "1016": {
-        "id": "1016",
+        "id": 1016,
         "poster": "Kesatria Cilik Pemberani",
         "likes": "0",
         "views": 309,
@@ -444,7 +444,7 @@
         ]
     },
     "1017": {
-        "id": "1017",
+        "id": 1017,
         "poster": "Ote-ote udang",
         "likes": "13",
         "views": 241,
@@ -481,7 +481,7 @@
         "player_reply": []
     },
     "1018": {
-        "id": "1018",
+        "id": 1018,
         "poster": "Ahli_Bulu_Rontok",
         "likes": "21",
         "views": 319,
@@ -528,10 +528,10 @@
         "player_reply": []
     },
     "1020": {
-        "id": "1020",
+        "id": 1020,
         "poster": "AAA_Kerja_Sampingan",
         "likes": "5",
-        "views": 204,
+        "views": 10,
         "title": "[Kontrak] Layanan Profesional Hollow ★ Perbaikan Pegas",
         "text": "Lowongan kerja paruh waktu berkualitas! Gampang kok belajarnya, gaji hariannya juga tinggi.\nLowongan ini hanya untuk satu orang. Siapa cepat, dia dapat.",
         "script": null,
@@ -560,27 +560,14 @@
                 "floor": 4,
                 "commenter": "KaryawanPalingRajin",
                 "content": "Bubar deh bubar. Orang jujur seperti kita memang tidak jodoh sama kontrak yang berkualitas."
-            },
-            {
-                "floor": 3,
-                "commenter": "TipsAntiPenipuan",
-                "content": "Iklan seperti ini masih ada yang percaya? \"Lowongan kerja paruh waktu berkualitas\" apaan... cuma penipuan uang deposit dan biaya latihan kali."
-            },
-            {
-                "floor": 4,
-                "commenter": "HargaiTakdirOrangLain",
-                "content": "Tidak perlu khawatir. \nDi postingannya ditulis \"hanya satu orang\", dan ada yang dalam sedetik langsung kirim komentar. Mereka pasti sudah janjian sih."
-            },
-            {
-                "floor": 5,
-                "commenter": "KaryawanPalingRajin",
-                "content": "Bubar deh bubar. Orang jujur seperti kita memang tidak jodoh sama kontrak yang berkualitas."
             }
         ],
-        "player_reply": []
+        "player_reply": [
+            "Aku."
+        ]
     },
     "1021": {
-        "id": "1021",
+        "id": 1021,
         "poster": "magangKidz_sedih",
         "likes": "2",
         "views": 573,
@@ -614,7 +601,7 @@
         ]
     },
     "1022": {
-        "id": "1022",
+        "id": 1022,
         "poster": "Berjuang_Melewati_Masa_Percobaan",
         "likes": "15",
         "views": 3092,
@@ -653,7 +640,7 @@
         ]
     },
     "1023": {
-        "id": "1023",
+        "id": 1023,
         "poster": "magangKidz_Hepi",
         "likes": "2",
         "views": 976,
@@ -703,7 +690,7 @@
         ]
     },
     "1024": {
-        "id": "1024",
+        "id": 1024,
         "poster": "Anonim",
         "likes": "21",
         "views": 121,
@@ -732,7 +719,7 @@
         ]
     },
     "1025": {
-        "id": "1025",
+        "id": 1025,
         "poster": "magangKidz_MURKA",
         "likes": "5",
         "views": 421,
@@ -766,7 +753,7 @@
         ]
     },
     "1026": {
-        "id": "1026",
+        "id": 1026,
         "poster": "KARYAWAN_TETAP_Hepi",
         "likes": "5",
         "views": 651,
@@ -805,8 +792,55 @@
             "Masalah ini akhirnya beres!"
         ]
     },
+    "1029": {
+        "id": 1029,
+        "poster": "AAA_Kerja_Sampingan",
+        "likes": "5",
+        "views": 204,
+        "title": "[Kontrak] Layanan Profesional Hollow ★ Perbaikan Pegas",
+        "text": "Lowongan kerja paruh waktu berkualitas! Gampang kok belajarnya, gaji hariannya juga tinggi.\nLowongan ini hanya untuk satu orang. Siapa cepat, dia dapat.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 3,
+                "commenter": "TipsAntiPenipuan",
+                "content": "Iklan seperti ini masih ada yang percaya? \"Lowongan kerja paruh waktu berkualitas\" apaan... cuma penipuan uang deposit dan biaya latihan kali."
+            },
+            {
+                "floor": 4,
+                "commenter": "HargaiTakdirOrangLain",
+                "content": "Tidak perlu khawatir. \nDi postingannya ditulis \"hanya satu orang\", dan ada yang dalam sedetik langsung kirim komentar. Mereka pasti sudah janjian sih."
+            },
+            {
+                "floor": 5,
+                "commenter": "KaryawanPalingRajin",
+                "content": "Bubar deh bubar. Orang jujur seperti kita memang tidak jodoh sama kontrak yang berkualitas."
+            },
+            {
+                "floor": 6,
+                "commenter": "BBB_Kerja_Sampingan",
+                "content": "Bisa-bisanya ada orang yang curi kontrak orang?! Emangnya itu kontrakmu ya? Terima seenak jidat!\nID-nya aja beda! Pasti mau pakai alasan \"soalnya akun utamaku diretas, jadi aku pakai akun kecilku deh\"! K-O-N-Y-O-L!\nSemoga akun utama si pencuri kontrak diretas! DI-RE-TAS!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Coocoocoocooda",
+                "content": "Ups, santai dong bruh..."
+            },
+            {
+                "floor": 8,
+                "commenter": "NungguK0nTrakB3S4R",
+                "content": "Aku sudah paham... si TS ini pasti baru pertama kali posting kontrak deh, buat bantu temannya naik level. Masa cara atur izin penelusuran aja enggak bisa sih...\nOrang lain mau terima kontrak, yah terserah dia dong. Wajar kok."
+            },
+            {
+                "floor": 9,
+                "commenter": "TipsAntiPenipuan",
+                "content": "WKWKWK! Sebelum baca, aku enggak nyangka bakalan selucu ini sih\nTernyata ini penipuan terbalik ya!"
+            }
+        ],
+        "player_reply": []
+    },
     "2001": {
-        "id": "2001",
+        "id": 2001,
         "poster": "LZ",
         "likes": "3724",
         "views": 19012,
@@ -833,7 +867,7 @@
         "player_reply": []
     },
     "2002": {
-        "id": "2002",
+        "id": 2002,
         "poster": "TinMaster_serang!",
         "likes": "1490",
         "views": 7540,
@@ -870,7 +904,7 @@
         "player_reply": []
     },
     "2003": {
-        "id": "2003",
+        "id": 2003,
         "poster": "Angsa Hitam",
         "likes": "465",
         "views": 7195,
@@ -902,7 +936,7 @@
         "player_reply": []
     },
     "2004": {
-        "id": "2004",
+        "id": 2004,
         "poster": "Chrysochroa",
         "likes": "159",
         "views": 2536,
@@ -934,7 +968,7 @@
         "player_reply": []
     },
     "2005": {
-        "id": "2005",
+        "id": 2005,
         "poster": "alibi_kucing",
         "likes": "2229",
         "views": 12577,
@@ -971,7 +1005,7 @@
         "player_reply": []
     },
     "2006": {
-        "id": "2006",
+        "id": 2006,
         "poster": "D.L",
         "likes": "12",
         "views": 9364,
@@ -1031,7 +1065,7 @@
         ]
     },
     "2007": {
-        "id": "2007",
+        "id": 2007,
         "poster": "otw_kumpul_100_rumputlaut_sebelum_kiamat",
         "likes": "12",
         "views": 3159,
@@ -1085,7 +1119,7 @@
         ]
     },
     "2009": {
-        "id": "2009",
+        "id": 2009,
         "poster": "si_paling_jenius",
         "likes": "56",
         "views": 6547,
@@ -1134,7 +1168,7 @@
         ]
     },
     "2010": {
-        "id": "2010",
+        "id": 2010,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 6225,
@@ -1166,7 +1200,7 @@
         "player_reply": []
     },
     "2011": {
-        "id": "2011",
+        "id": 2011,
         "poster": "Master Wortel",
         "likes": "62",
         "views": 363,
@@ -1203,7 +1237,7 @@
         "player_reply": []
     },
     "2012": {
-        "id": "2012",
+        "id": 2012,
         "poster": "SeniLedakanColt",
         "likes": "0",
         "views": 64,
@@ -1237,7 +1271,7 @@
         ]
     },
     "2013": {
-        "id": "2013",
+        "id": 2013,
         "poster": "Gunn",
         "likes": "13",
         "views": 3378,
@@ -1271,7 +1305,7 @@
         ]
     },
     "2014": {
-        "id": "2014",
+        "id": 2014,
         "poster": "RatuGosip",
         "likes": "25",
         "views": 236,
@@ -1313,7 +1347,7 @@
         "player_reply": []
     },
     "2015": {
-        "id": "2015",
+        "id": 2015,
         "poster": "Pekerja No. 7",
         "likes": "1",
         "views": 1559,
@@ -1345,11 +1379,6 @@
                 "floor": 5,
                 "commenter": "!Proxy Nakal!",
                 "content": "Semuanya, hati-hati ya. Aku admin di grup Proxy, dan belakangan ini ada beberapa Proxy elite muda-muda yang pergi menjelajahi Hollow ini. \nTapi... mereka tidak pernah kembali. Katanya agen mereka juga disuruh kembali setelah masuk ke Hollow itu... \nBagaimanapun juga, aku sih tidak berani. Maaf, TS."
-            },
-            {
-                "floor": 6,
-                "commenter": "RedGiant",
-                "content": "Tidak ada yang paksa kamu harus suka kok. Kurang dikasih perhatian di rumah ya? Harus banget caper di postingan Astra Yao?"
             }
         ],
         "player_reply": [
@@ -1357,7 +1386,7 @@
         ]
     },
     "2016": {
-        "id": "2016",
+        "id": 2016,
         "poster": "Tukang malas-malasan",
         "likes": "34",
         "views": 637,
@@ -1396,10 +1425,10 @@
         ]
     },
     "2017": {
-        "id": "2017",
+        "id": 2017,
         "poster": "AAA_Kerja_Sampingan",
         "likes": "8",
-        "views": 173,
+        "views": 61,
         "title": "[Kontrak] Layanan Profesional Hollow ★ Perbaikan Ledakan",
         "text": "Kerja paruh waktu berkualitas: gampang dipelajari, gaji harian tinggi.\nMasih butuh satu orang. Dibutuhkan segera!",
         "script": null,
@@ -1426,12 +1455,24 @@
             }
         ],
         "player_reply": [
-            "Apa aku sudah terlibat dalam pertengkaran sepasang kekasih?",
-            "Kayaknya sih bukan sekedar perselisihan kontrak..."
+            "Umm... Aku saja?"
+        ]
+    },
+    "2018": {
+        "id": 2018,
+        "poster": "Pekerja No. 7",
+        "likes": "1",
+        "views": 1559,
+        "title": "[Kontrak] Dibutuhkan seorang ahli dalam menyelidiki anomali Hollow",
+        "text": "Aku adalah anggota komite penilai dari \"Tujuh Legenda Urban New Eridu\"... Ya, benar, komite ini benaran ada. Ini adalah pekerjaan utamaku. \n\nPekerjaanku menyelidiki Hollow dengan karakteristik yang unik, lalu mengumpulkan datanya agar komite penilaian bisa memperbarui Ketujuh Legenda. \n\nBelakangan ini, makin banyak rumor beredar tentang \"Hollow yang diramalkan\" itu... \n\nAku sudah mencari beberapa intel di Inter-Knot. Tapi jujur, datanya tidak terlalu bermanfaat... Rata-rata isinya hanya \"Ada seorang peramal yang bisa meramal masa depanmu di dalamnya\", \"dia juga bisa memberimu kekuatan ajaib\", dll. Waktu aku minta info lebih detail, orang itu tiba-tiba hilang begitu saja.\n\nDi dunia ini memang banyak orang yang mencari nafkah dengan bekerja di bidang ini, meski mereka tidak ahli sama sekali. Aku bukan lagi mengeluh... Ini perasaanku yang sesungguhnya. \n\nMaka karena itu, aku perlu seorang Proxy yang benar-benar kompeten untuk mencari tahu tentang Hollow itu dan memberikanku informasi. \n\nKontrak ini mungkin tergolong sulit, tapi aku jamin upahnya pasti memuaskan.",
+        "script": "Sepertinya lingkungan Ether yang menyebabkan distorsi kognitif di dalam Hollow yang diramalkan itu. Awalnya aku pikir ini mungkin bisa masuk ke daftar Legenda Urban, tapi sepertinya belum mencentang semua kriterianya... \n\nDi New Eridu terlalu banyak Hollow yang aneh!",
+        "comments": [],
+        "player_reply": [
+            "Kontrak ini aku ambil ya~"
         ]
     },
     "2019": {
-        "id": "2019",
+        "id": 2019,
         "poster": "Musang Kuning",
         "likes": "11302",
         "views": 31020,
@@ -1464,8 +1505,53 @@
             "Aku terima kontraknya!"
         ]
     },
+    "2020": {
+        "id": 2020,
+        "poster": "AAA_Kerja_Sampingan",
+        "likes": "8",
+        "views": 173,
+        "title": "[Kontrak] Layanan Profesional Hollow ★ Perbaikan Ledakan",
+        "text": "Kerja paruh waktu berkualitas: gampang dipelajari, gaji harian tinggi.\nMasih butuh satu orang. Dibutuhkan segera!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 16,
+                "commenter": "Terima_Kontrak_Berkualitas",
+                "content": "Ternyata kebaikan yang paling dermawan bisa datang dari pasangan yang lagi bertengkar juga ya...\nTapi, semoga lain kali aku yang seberuntung itu!"
+            },
+            {
+                "floor": 19,
+                "commenter": "TipsAntiPenipuan",
+                "content": "Hahahahaha! Entah BBB sudah maafin AAA belum ya...\nTapi kalau dilihat dari efisiensi {NICKNAME} sih, kerjaannya harusnya sudah kelar sih."
+            },
+            {
+                "floor": 20,
+                "commenter": "[TS] AAA_Kerja_Sampingan",
+                "content": "Waktu itu dia memang emosi banget, jadi tujuan awal kontrak kali ini memang untuk... minta maaf.\nTapi kayaknya dia masih tidak menggubrisku... Aku serahkan kontrak ini kasih {NICKNAME} dulu saja, terus pikirkan cara lain lagi."
+            },
+            {
+                "floor": 21,
+                "commenter": "TipsAntiPenipuan",
+                "content": "...Emang sekarang mau jadi rekan untuk naikin level harus setulus gini?"
+            },
+            {
+                "floor": 23,
+                "commenter": "BaaAAAk4R!",
+                "content": "? BaaAAAk4R!"
+            },
+            {
+                "floor": 27,
+                "commenter": "BBB_Kerja_Sampingan",
+                "content": "Hmph... Kali ini kamu cukup tulus sih... \nYa sudah deh! Tapi, jangan diulangi lagi ya!"
+            }
+        ],
+        "player_reply": [
+            "Apa aku sudah terlibat dalam pertengkaran sepasang kekasih?",
+            "Kayaknya sih bukan sekedar perselisihan kontrak..."
+        ]
+    },
     "2501": {
-        "id": "2501",
+        "id": 2501,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 7503,
@@ -1497,7 +1583,7 @@
         "player_reply": []
     },
     "2502": {
-        "id": "2502",
+        "id": 2502,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 3889,
@@ -1534,7 +1620,7 @@
         "player_reply": []
     },
     "2503": {
-        "id": "2503",
+        "id": 2503,
         "poster": "siPalingMigrain",
         "likes": "125",
         "views": 3513,
@@ -1571,7 +1657,7 @@
         "player_reply": []
     },
     "2504": {
-        "id": "2504",
+        "id": 2504,
         "poster": "PerluUangJajan",
         "likes": "48",
         "views": 3513,
@@ -1608,7 +1694,7 @@
         "player_reply": []
     },
     "2505": {
-        "id": "2505",
+        "id": 2505,
         "poster": "Anonim",
         "likes": "323",
         "views": 8599,
@@ -1640,7 +1726,7 @@
         "player_reply": []
     },
     "2507": {
-        "id": "2507",
+        "id": 2507,
         "poster": "apapundemikakak",
         "likes": "8",
         "views": 61,
@@ -1689,7 +1775,7 @@
         ]
     },
     "2508": {
-        "id": "2508",
+        "id": 2508,
         "poster": "om_insiyur",
         "likes": "8",
         "views": 55,
@@ -1723,7 +1809,7 @@
         ]
     },
     "2509": {
-        "id": "2509",
+        "id": 2509,
         "poster": "om_insiyur",
         "likes": "9",
         "views": 61,
@@ -1757,7 +1843,7 @@
         ]
     },
     "2512": {
-        "id": "2512",
+        "id": 2512,
         "poster": "apaArtiHidup_tanpaSohib",
         "likes": "35",
         "views": 2775,
@@ -1786,7 +1872,7 @@
         ]
     },
     "2513": {
-        "id": "2513",
+        "id": 2513,
         "poster": "Bot_Intel_Metis_01",
         "likes": "4584",
         "views": 7503,
@@ -1828,7 +1914,7 @@
         "player_reply": []
     },
     "2514": {
-        "id": "2514",
+        "id": 2514,
         "poster": "Berita Kota",
         "likes": "657",
         "views": 2029,
@@ -1870,7 +1956,7 @@
         "player_reply": []
     },
     "2515": {
-        "id": "2515",
+        "id": 2515,
         "poster": "0r4n6_j4duL",
         "likes": "8",
         "views": 61,
@@ -1909,10 +1995,10 @@
         ]
     },
     "2516": {
-        "id": "2516",
+        "id": 2516,
         "poster": "BBB_Kerja_Sampingan",
-        "likes": "10",
-        "views": 24,
+        "likes": "8",
+        "views": 10,
         "title": "[Kontrak] Layanan Profesional Hollow ★ Perbaikan Sinyal",
         "text": "Lowongan kerja paruh waktu berkualitas! Gampang kok belajarnya, gaji hariannya juga tinggi.\nLowongan ini hanya untuk satu orang. Siapa cepat, dia dapat.",
         "script": null,
@@ -1953,10 +2039,39 @@
                 "content": "Hah?! Berarti aku melewatkan kesempatan emas untuk dapat Kontrak Besar nih?!"
             }
         ],
+        "player_reply": [
+            "Aku dong."
+        ]
+    },
+    "2517": {
+        "id": 2517,
+        "poster": "BBB_Kerja_Sampingan",
+        "likes": "10",
+        "views": 24,
+        "title": "[Kontrak] Layanan Profesional Hollow ★ Perbaikan Sinyal",
+        "text": "Lowongan kerja paruh waktu berkualitas! Gampang kok belajarnya, gaji hariannya juga tinggi.\nLowongan ini hanya untuk satu orang. Siapa cepat, dia dapat.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 15,
+                "commenter": "AAA_Kerja_Sampingan",
+                "content": "Ini yang kamu maksud... \"kalau kasih pesananku ke orang lain lagi, kita tidak akan kerja sama lagi\"?"
+            },
+            {
+                "floor": 16,
+                "commenter": "[TS] BBB_Kerja_Sampingan",
+                "content": "Hmmm...Kak! Semua ini kan karena aku percaya sama kamu!\nKarena aku terlalu sibuk, jadi terpaksa serahkan kerjaannya ke Proxy yang kamu pilih sendiri. Pilihanmu memang sangat bisa diandalkan!"
+            },
+            {
+                "floor": 18,
+                "commenter": "AAA_Kerja_Sampingan",
+                "content": "Sebaiknya kamu bukan sibuk dengan hal yang aneh-aneh..."
+            }
+        ],
         "player_reply": []
     },
     "3001": {
-        "id": "3001",
+        "id": 3001,
         "poster": "seni_kontemporer_itu_apaan_sih",
         "likes": "122",
         "views": 6690,
@@ -1988,7 +2103,7 @@
         "player_reply": []
     },
     "3002": {
-        "id": "3002",
+        "id": 3002,
         "poster": "Tim Pemburu Hantu",
         "likes": "1336",
         "views": 9864,
@@ -2025,7 +2140,7 @@
         "player_reply": []
     },
     "3003": {
-        "id": "3003",
+        "id": 3003,
         "poster": "susu_stroberiii",
         "likes": "2281",
         "views": 7171,
@@ -2062,7 +2177,7 @@
         "player_reply": []
     },
     "3004": {
-        "id": "3004",
+        "id": 3004,
         "poster": "MiInstanWaterfallSoup",
         "likes": "426",
         "views": 2871,
@@ -2094,7 +2209,7 @@
         "player_reply": []
     },
     "3005": {
-        "id": "3005",
+        "id": 3005,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 4210,
@@ -2126,7 +2241,7 @@
         "player_reply": []
     },
     "3006": {
-        "id": "3006",
+        "id": 3006,
         "poster": "pahlawan dim sum",
         "likes": "43",
         "views": 471,
@@ -2158,7 +2273,7 @@
         "player_reply": []
     },
     "3007": {
-        "id": "3007",
+        "id": 3007,
         "poster": "Pai Kacang Merah",
         "likes": "7",
         "views": 853,
@@ -2195,7 +2310,7 @@
         "player_reply": []
     },
     "3008": {
-        "id": "3008",
+        "id": 3008,
         "poster": "TuanUdang",
         "likes": "95",
         "views": 8562,
@@ -2232,7 +2347,7 @@
         "player_reply": []
     },
     "3009": {
-        "id": "3009",
+        "id": 3009,
         "poster": "si_delulu",
         "likes": "34",
         "views": 4678,
@@ -2274,7 +2389,7 @@
         "player_reply": []
     },
     "3010": {
-        "id": "3010",
+        "id": 3010,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 13205,
@@ -2311,7 +2426,7 @@
         "player_reply": []
     },
     "3011": {
-        "id": "3011",
+        "id": 3011,
         "poster": "gaji_numpang_lewat",
         "likes": "157",
         "views": 121,
@@ -2345,7 +2460,7 @@
         ]
     },
     "3012": {
-        "id": "3012",
+        "id": 3012,
         "poster": "Dinding_Punya_Telinga",
         "likes": "1201",
         "views": 5621,
@@ -2384,7 +2499,7 @@
         ]
     },
     "3016": {
-        "id": "3016",
+        "id": 3016,
         "poster": "Seni.itu.Bangboo",
         "likes": "8",
         "views": 61,
@@ -2423,7 +2538,7 @@
         ]
     },
     "3018": {
-        "id": "3018",
+        "id": 3018,
         "poster": "Seniman Pembuka Kunci",
         "likes": "12112",
         "views": 61242,
@@ -2457,7 +2572,7 @@
         ]
     },
     "3019": {
-        "id": "3019",
+        "id": 3019,
         "poster": "Guguk_Golden_Retriever",
         "likes": "512",
         "views": 1241,
@@ -2486,7 +2601,7 @@
         ]
     },
     "3020": {
-        "id": "3020",
+        "id": 3020,
         "poster": "Strongboo_Official",
         "likes": "21",
         "views": 35,
@@ -2530,7 +2645,7 @@
         ]
     },
     "3021": {
-        "id": "3021",
+        "id": 3021,
         "poster": "AAAPelatihanInvestigator",
         "likes": "215",
         "views": 154,
@@ -2579,7 +2694,7 @@
         ]
     },
     "3022": {
-        "id": "3022",
+        "id": 3022,
         "poster": "Baca_tapi_EnggakBalas",
         "likes": "1305",
         "views": 3520,
@@ -2616,7 +2731,7 @@
         "player_reply": []
     },
     "3023": {
-        "id": "3023",
+        "id": 3023,
         "poster": "si_pemula",
         "likes": "3",
         "views": 251,
@@ -2663,7 +2778,7 @@
         "player_reply": []
     },
     "3024": {
-        "id": "3024",
+        "id": 3024,
         "poster": "AaaakuMauCariUang",
         "likes": "237",
         "views": 1635,
@@ -2687,7 +2802,7 @@
         ]
     },
     "3025": {
-        "id": "3025",
+        "id": 3025,
         "poster": "BBB_Kerja_Sampingan",
         "likes": "8",
         "views": 61,
@@ -2716,7 +2831,7 @@
         ]
     },
     "3026": {
-        "id": "3026",
+        "id": 3026,
         "poster": "BBB_Kerja_Sampingan",
         "likes": "8",
         "views": 173,
@@ -2743,7 +2858,7 @@
         "player_reply": []
     },
     "9701": {
-        "id": "9701",
+        "id": 9701,
         "poster": "Ikan teri di lapangan",
         "likes": "107",
         "views": 4019,
@@ -2820,7 +2935,7 @@
         "player_reply": []
     },
     "9702": {
-        "id": "9702",
+        "id": 9702,
         "poster": "delulu_jadi_miliarder",
         "likes": "2130",
         "views": 20761,
@@ -2902,7 +3017,7 @@
         "player_reply": []
     },
     "9703": {
-        "id": "9703",
+        "id": 9703,
         "poster": "Bot_Intel_Metis_03",
         "likes": "5007",
         "views": 8732,
@@ -2959,7 +3074,7 @@
         "player_reply": []
     },
     "9704": {
-        "id": "9704",
+        "id": 9704,
         "poster": "Topan_Badai_Tornado_Woooosh",
         "likes": "26",
         "views": 937,
@@ -3001,7 +3116,7 @@
         "player_reply": []
     },
     "9705": {
-        "id": "9705",
+        "id": 9705,
         "poster": "Lil Wang, Pemandu Wisata Hollow Profesional",
         "likes": "1068",
         "views": 3042,
@@ -3048,7 +3163,7 @@
         "player_reply": []
     },
     "9706": {
-        "id": "9706",
+        "id": 9706,
         "poster": "miomio",
         "likes": "3",
         "views": 10649,
@@ -3120,7 +3235,7 @@
         "player_reply": []
     },
     "9801": {
-        "id": "9801",
+        "id": 9801,
         "poster": "Tim Inter-Knot",
         "likes": "27636",
         "views": 199861,
@@ -3131,7 +3246,7 @@
         "player_reply": []
     },
     "9802": {
-        "id": "9802",
+        "id": 9802,
         "poster": "Tim Inter-Knot",
         "likes": "27636",
         "views": 152740,
@@ -3163,7 +3278,7 @@
         "player_reply": []
     },
     "9803": {
-        "id": "9803",
+        "id": 9803,
         "poster": "Tim Inter-Knot",
         "likes": "27636",
         "views": 101629,
@@ -3190,7 +3305,7 @@
         "player_reply": []
     },
     "9804": {
-        "id": "9804",
+        "id": 9804,
         "poster": "Tim Inter-Knot",
         "likes": "27636",
         "views": 100514,
@@ -3222,7 +3337,7 @@
         "player_reply": []
     },
     "9805": {
-        "id": "9805",
+        "id": 9805,
         "poster": "Tim Inter-Knot",
         "likes": "27636",
         "views": 897469,
@@ -3249,7 +3364,7 @@
         "player_reply": []
     },
     "9806": {
-        "id": "9806",
+        "id": 9806,
         "poster": "Tim Inter-Knot",
         "likes": "27636",
         "views": 776851,
@@ -3281,7 +3396,7 @@
         "player_reply": []
     },
     "9901": {
-        "id": "9901",
+        "id": 9901,
         "poster": "bot cemas",
         "likes": "172",
         "views": 9819,
@@ -3331,7 +3446,7 @@
         ]
     },
     "9902": {
-        "id": "9902",
+        "id": 9902,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 17509,
@@ -3381,7 +3496,7 @@
         ]
     },
     "9903": {
-        "id": "9903",
+        "id": 9903,
         "poster": "Tidur_cepat_Bangun_siang",
         "likes": "85",
         "views": 3002,
@@ -3413,7 +3528,7 @@
         "player_reply": []
     },
     "9904": {
-        "id": "9904",
+        "id": 9904,
         "poster": "Foodiesoul",
         "likes": "68",
         "views": 9015,
@@ -3462,7 +3577,7 @@
         ]
     },
     "9905": {
-        "id": "9905",
+        "id": 9905,
         "poster": "Sahabat_Proxy_Kakami",
         "likes": "250",
         "views": 1300,
@@ -3499,7 +3614,7 @@
         "player_reply": []
     },
     "9906": {
-        "id": "9906",
+        "id": 9906,
         "poster": "Anonim",
         "likes": "？",
         "views": 7316,
@@ -3531,7 +3646,7 @@
         "player_reply": []
     },
     "9907": {
-        "id": "9907",
+        "id": 9907,
         "poster": "QuQ",
         "likes": "17",
         "views": 892,
@@ -3573,7 +3688,7 @@
         "player_reply": []
     },
     "9908": {
-        "id": "9908",
+        "id": 9908,
         "poster": "Kontaminasi Tak Bernama",
         "likes": "355",
         "views": 3910,
@@ -3605,7 +3720,7 @@
         "player_reply": []
     },
     "9909": {
-        "id": "9909",
+        "id": 9909,
         "poster": "StarlightKnight_Hidupku_Cintaku",
         "likes": "56",
         "views": 8998,
@@ -3642,7 +3757,7 @@
         "player_reply": []
     },
     "9910": {
-        "id": "9910",
+        "id": 9910,
         "poster": "siput terbang",
         "likes": "141",
         "views": 1778,
@@ -3674,7 +3789,7 @@
         "player_reply": []
     },
     "9911": {
-        "id": "9911",
+        "id": 9911,
         "poster": "gawadaw",
         "likes": "0",
         "views": 612,
@@ -3706,7 +3821,7 @@
         "player_reply": []
     },
     "9912": {
-        "id": "9912",
+        "id": 9912,
         "poster": "Tim Inter-Knot",
         "likes": "27636",
         "views": 41096,
@@ -3743,7 +3858,7 @@
         "player_reply": []
     },
     "9913": {
-        "id": "9913",
+        "id": 9913,
         "poster": "Bot_Intel_Metis_03",
         "likes": "5007",
         "views": 8789,
@@ -3778,7 +3893,7 @@
         ]
     },
     "9914": {
-        "id": "9914",
+        "id": 9914,
         "poster": "gula100%_es200%",
         "likes": "301",
         "views": 2556,
@@ -3815,7 +3930,7 @@
         "player_reply": []
     },
     "10001": {
-        "id": "10001",
+        "id": 10001,
         "poster": "Pendamping Keadilan",
         "likes": "222",
         "views": 8344,
@@ -3875,7 +3990,7 @@
         ]
     },
     "10002": {
-        "id": "10002",
+        "id": 10002,
         "poster": "AntiPelsong",
         "likes": "233",
         "views": 9282,
@@ -3935,7 +4050,7 @@
         ]
     },
     "11001": {
-        "id": "11001",
+        "id": 11001,
         "poster": "Q1",
         "likes": "0",
         "views": 11,
@@ -3972,7 +4087,7 @@
         "player_reply": []
     },
     "11002": {
-        "id": "11002",
+        "id": 11002,
         "poster": "PenunggangPaus",
         "likes": "166",
         "views": 1044,
@@ -4009,7 +4124,7 @@
         "player_reply": []
     },
     "11003": {
-        "id": "11003",
+        "id": 11003,
         "poster": "Bot_Intel_Metis_03",
         "likes": "5007",
         "views": 21250,
@@ -4041,12 +4156,17 @@
                 "floor": 5,
                 "commenter": "Anonim",
                 "content": "Jujur, suara Astra Yao b aja sih."
+            },
+            {
+                "floor": 6,
+                "commenter": "RedGiant",
+                "content": "Tidak ada yang paksa kamu harus suka kok. Kurang dikasih perhatian di rumah ya? Harus banget caper di postingan Astra Yao?"
             }
         ],
         "player_reply": []
     },
     "11004": {
-        "id": "11004",
+        "id": 11004,
         "poster": "Pedang Obsidian",
         "likes": "3960",
         "views": 9524,
@@ -4100,7 +4220,7 @@
         ]
     },
     "11005": {
-        "id": "11005",
+        "id": 11005,
         "poster": "Pedang Obsidian",
         "likes": "3960",
         "views": 10650,
@@ -4144,7 +4264,7 @@
         ]
     },
     "11006": {
-        "id": "11006",
+        "id": 11006,
         "poster": "Pedang Obsidian",
         "likes": "3960",
         "views": 8691,
@@ -4188,7 +4308,7 @@
         ]
     },
     "11007": {
-        "id": "11007",
+        "id": 11007,
         "poster": "Pedang Obsidian",
         "likes": "3960",
         "views": 20341,
@@ -4232,7 +4352,7 @@
         ]
     },
     "12001": {
-        "id": "12001",
+        "id": 12001,
         "poster": "OuterRing-trnyta-begini",
         "likes": "11",
         "views": 1021,
@@ -4282,7 +4402,7 @@
         ]
     },
     "12003": {
-        "id": "12003",
+        "id": 12003,
         "poster": "777",
         "likes": "667",
         "views": 2378,
@@ -4344,7 +4464,7 @@
         "player_reply": []
     },
     "12004": {
-        "id": "12004",
+        "id": 12004,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 35101,
@@ -4386,7 +4506,7 @@
         "player_reply": []
     },
     "12005": {
-        "id": "12005",
+        "id": 12005,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 14510,
@@ -4428,7 +4548,7 @@
         "player_reply": []
     },
     "12007": {
-        "id": "12007",
+        "id": 12007,
         "poster": "MAU-KEMANA-MINGDEP?",
         "likes": "5011",
         "views": 6407,
@@ -4488,7 +4608,7 @@
         ]
     },
     "12009": {
-        "id": "12009",
+        "id": 12009,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 778,
@@ -4515,7 +4635,7 @@
         "player_reply": []
     },
     "12011": {
-        "id": "12011",
+        "id": 12011,
         "poster": "Pemain Suling",
         "likes": "24",
         "views": 2750,
@@ -4549,7 +4669,7 @@
         ]
     },
     "12012": {
-        "id": "12012",
+        "id": 12012,
         "poster": "Bocah Outer Ring",
         "likes": "59",
         "views": 3690,
@@ -4608,7 +4728,7 @@
         ]
     },
     "12013": {
-        "id": "12013",
+        "id": 12013,
         "poster": "Jgn-tny-bgmn-aku-makan",
         "likes": "168",
         "views": 3770,
@@ -4643,7 +4763,7 @@
         ]
     },
     "13001": {
-        "id": "13001",
+        "id": 13001,
         "poster": "AkunSmurf_JanganKepo",
         "likes": "1",
         "views": 42322,
@@ -4733,7 +4853,7 @@
         ]
     },
     "13002": {
-        "id": "13002",
+        "id": 13002,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7962",
         "views": 9877,
@@ -4780,7 +4900,7 @@
         "player_reply": []
     },
     "13003": {
-        "id": "13003",
+        "id": 13003,
         "poster": "Suka_Biskuit_Beruang",
         "likes": "35",
         "views": 2754,
@@ -4860,7 +4980,7 @@
         ]
     },
     "13004": {
-        "id": "13004",
+        "id": 13004,
         "poster": "Hector_Musuh_Ethereal",
         "likes": "276",
         "views": 8751,
@@ -4904,7 +5024,7 @@
         ]
     },
     "13005": {
-        "id": "13005",
+        "id": 13005,
         "poster": "Hector_Musuh_Ethereal",
         "likes": "281",
         "views": 11437,
@@ -4961,7 +5081,7 @@
         "player_reply": []
     },
     "14001": {
-        "id": "14001",
+        "id": 14001,
         "poster": "[Peringatan Sistem]",
         "likes": "10211",
         "views": 10248,
@@ -5008,7 +5128,7 @@
         "player_reply": []
     },
     "14002": {
-        "id": "14002",
+        "id": 14002,
         "poster": "JantungFusiNuklir",
         "likes": "1312",
         "views": 4501,
@@ -5075,7 +5195,7 @@
         "player_reply": []
     },
     "14003": {
-        "id": "14003",
+        "id": 14003,
         "poster": "RabunParah",
         "likes": "32",
         "views": 2754,
@@ -5122,7 +5242,7 @@
         "player_reply": []
     },
     "14004": {
-        "id": "14004",
+        "id": 14004,
         "poster": "BangbooTenagaUap",
         "likes": "351",
         "views": 6524,
@@ -5169,7 +5289,7 @@
         "player_reply": []
     },
     "15001": {
-        "id": "15001",
+        "id": 15001,
         "poster": "Musim Dingin Si AC",
         "likes": "3920",
         "views": 382109,
@@ -5221,7 +5341,7 @@
         "player_reply": []
     },
     "15002": {
-        "id": "15002",
+        "id": 15002,
         "poster": "salingMenjaga",
         "likes": "3192",
         "views": 46015,
@@ -5313,7 +5433,7 @@
         "player_reply": []
     },
     "15003": {
-        "id": "15003",
+        "id": 15003,
         "poster": "segigitBiskuit",
         "likes": "294",
         "views": 31502,
@@ -5365,7 +5485,7 @@
         "player_reply": []
     },
     "15004": {
-        "id": "15004",
+        "id": 15004,
         "poster": "Little Ethereal Empuk",
         "likes": "42",
         "views": 9100,
@@ -5412,7 +5532,7 @@
         "player_reply": []
     },
     "15005": {
-        "id": "15005",
+        "id": 15005,
         "poster": "Penguin_cegukan",
         "likes": "2913",
         "views": 210,
@@ -5442,7 +5562,7 @@
         ]
     },
     "15006": {
-        "id": "15006",
+        "id": 15006,
         "poster": "udang_air_tawar",
         "likes": "120",
         "views": 13921,
@@ -5474,7 +5594,7 @@
         "player_reply": []
     },
     "15007": {
-        "id": "15007",
+        "id": 15007,
         "poster": "petarungKincir",
         "likes": "3",
         "views": 3567,
@@ -5516,7 +5636,7 @@
         "player_reply": []
     },
     "16001": {
-        "id": "16001",
+        "id": 16001,
         "poster": "PenempaDiri",
         "likes": "4",
         "views": 1486,
@@ -5558,7 +5678,7 @@
         "player_reply": []
     },
     "16002": {
-        "id": "16002",
+        "id": 16002,
         "poster": "Anonim",
         "likes": "0",
         "views": 1098,
@@ -5600,7 +5720,7 @@
         "player_reply": []
     },
     "16003": {
-        "id": "16003",
+        "id": 16003,
         "poster": "AntiPelsong",
         "likes": "248",
         "views": 2333,
@@ -5652,7 +5772,7 @@
         "player_reply": []
     },
     "16004": {
-        "id": "16004",
+        "id": 16004,
         "poster": "KoiSejati",
         "likes": "109",
         "views": 3469,
@@ -5704,7 +5824,7 @@
         "player_reply": []
     },
     "16005": {
-        "id": "16005",
+        "id": 16005,
         "poster": "❤Anonim❤",
         "likes": "75",
         "views": 97,
@@ -5751,7 +5871,7 @@
         "player_reply": []
     },
     "16006": {
-        "id": "16006",
+        "id": 16006,
         "poster": "orang_jahat >:)",
         "likes": "0",
         "views": 8349,
@@ -5793,7 +5913,7 @@
         "player_reply": []
     },
     "17001": {
-        "id": "17001",
+        "id": 17001,
         "poster": "Spook Shack",
         "likes": "105",
         "views": 15742,
@@ -5830,7 +5950,7 @@
         "player_reply": []
     },
     "17002": {
-        "id": "17002",
+        "id": 17002,
         "poster": "Bos.JayaJaya!",
         "likes": "2",
         "views": 179,
@@ -5867,7 +5987,7 @@
         "player_reply": []
     },
     "20001": {
-        "id": "20001",
+        "id": 20001,
         "poster": "infoTerbaru",
         "likes": "17188",
         "views": 1778,
@@ -5899,7 +6019,7 @@
         "player_reply": []
     },
     "20002": {
-        "id": "20002",
+        "id": 20002,
         "poster": "ensiklopedia_KW",
         "likes": "7188",
         "views": 4510,
@@ -5931,7 +6051,7 @@
         "player_reply": []
     },
     "20003": {
-        "id": "20003",
+        "id": 20003,
         "poster": "mesinPenyebarGosip",
         "likes": "2351",
         "views": 7207,
@@ -5963,7 +6083,7 @@
         "player_reply": []
     },
     "20004": {
-        "id": "20004",
+        "id": 20004,
         "poster": "pengenGabungMockingbird",
         "likes": "2",
         "views": 79700,
@@ -6038,7 +6158,7 @@
         ]
     },
     "21001": {
-        "id": "21001",
+        "id": 21001,
         "poster": "Keledai_Penggiling",
         "likes": "996",
         "views": 8996,
@@ -6075,7 +6195,7 @@
         "player_reply": []
     },
     "21002": {
-        "id": "21002",
+        "id": 21002,
         "poster": "AnakPantai",
         "likes": "5",
         "views": 14541,
@@ -6112,7 +6232,7 @@
         "player_reply": []
     },
     "21003": {
-        "id": "21003",
+        "id": 21003,
         "poster": "Super_Pemberani",
         "likes": "13",
         "views": 21787,
@@ -6154,7 +6274,7 @@
         "player_reply": []
     },
     "21004": {
-        "id": "21004",
+        "id": 21004,
         "poster": "CatatanPetualanganSiKuning",
         "likes": "1832",
         "views": 11896,
@@ -6186,7 +6306,7 @@
         "player_reply": []
     },
     "21005": {
-        "id": "21005",
+        "id": 21005,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 8325,
@@ -6223,7 +6343,7 @@
         "player_reply": []
     },
     "21006": {
-        "id": "21006",
+        "id": 21006,
         "poster": "Sabun_Cuci_Lemon",
         "likes": "67",
         "views": 1420,
@@ -6265,7 +6385,7 @@
         "player_reply": []
     },
     "21007": {
-        "id": "21007",
+        "id": 21007,
         "poster": "One-Bite King",
         "likes": "808",
         "views": 3799,
@@ -6307,7 +6427,7 @@
         "player_reply": []
     },
     "21008": {
-        "id": "21008",
+        "id": 21008,
         "poster": "Hmn-ne-nah",
         "likes": "15",
         "views": 2103,
@@ -6339,7 +6459,7 @@
         "player_reply": []
     },
     "22001": {
-        "id": "22001",
+        "id": 22001,
         "poster": "Mau_jadi_B3st13_Selamanya",
         "likes": "999",
         "views": 1557,
@@ -6376,7 +6496,7 @@
         "player_reply": []
     },
     "22002": {
-        "id": "22002",
+        "id": 22002,
         "poster": "Jangan_Tangkap_Aku",
         "likes": "142",
         "views": 2093,
@@ -6428,7 +6548,7 @@
         "player_reply": []
     },
     "22003": {
-        "id": "22003",
+        "id": 22003,
         "poster": "Pen-Gambar-Sendiri",
         "likes": "983",
         "views": 6832,
@@ -6465,7 +6585,7 @@
         "player_reply": []
     },
     "22004": {
-        "id": "22004",
+        "id": 22004,
         "poster": "Kenangan.dalam.Angin",
         "likes": "12",
         "views": 193,
@@ -6497,7 +6617,7 @@
         "player_reply": []
     },
     "22005": {
-        "id": "22005",
+        "id": 22005,
         "poster": "Mau_jadi_B3st13_Selamanya",
         "likes": "1123",
         "views": 9999,
@@ -6549,7 +6669,7 @@
         "player_reply": []
     },
     "23001": {
-        "id": "23001",
+        "id": 23001,
         "poster": "LagiKecanduanNovel",
         "likes": "51",
         "views": 24815,
@@ -6586,7 +6706,7 @@
         "player_reply": []
     },
     "23002": {
-        "id": "23002",
+        "id": 23002,
         "poster": "SemogaBeruntung",
         "likes": "245",
         "views": 2110,
@@ -6638,7 +6758,7 @@
         "player_reply": []
     },
     "23003": {
-        "id": "23003",
+        "id": 23003,
         "poster": "Aku_tahu_terlalu_banyak",
         "likes": "142",
         "views": 2100,
@@ -6685,7 +6805,7 @@
         "player_reply": []
     },
     "23004": {
-        "id": "23004",
+        "id": 23004,
         "poster": "Suara_Tapak_Kaki_Tengah_Malam",
         "likes": "449",
         "views": 6902,
@@ -6722,7 +6842,7 @@
         "player_reply": []
     },
     "23005": {
-        "id": "23005",
+        "id": 23005,
         "poster": "kue_lemon",
         "likes": "1194",
         "views": 31502,
@@ -6774,7 +6894,7 @@
         "player_reply": []
     },
     "23006": {
-        "id": "23006",
+        "id": 23006,
         "poster": "cumi-cumi-kecil",
         "likes": "702",
         "views": 19562,
@@ -6831,7 +6951,7 @@
         "player_reply": []
     },
     "23007": {
-        "id": "23007",
+        "id": 23007,
         "poster": "BurgerPisang",
         "likes": "2292",
         "views": 37702,
@@ -6883,7 +7003,7 @@
         "player_reply": []
     },
     "25001": {
-        "id": "25001",
+        "id": 25001,
         "poster": "Bot_Intel_Metis_03",
         "likes": "5147",
         "views": 18403,
@@ -6925,7 +7045,7 @@
         "player_reply": []
     },
     "25002": {
-        "id": "25002",
+        "id": 25002,
         "poster": "Boss di Surga",
         "likes": "233",
         "views": 2341,
@@ -6962,7 +7082,7 @@
         "player_reply": []
     },
     "25003": {
-        "id": "25003",
+        "id": 25003,
         "poster": "Boss di Surga",
         "likes": "233",
         "views": 5433,
@@ -7009,7 +7129,7 @@
         "player_reply": []
     },
     "25004": {
-        "id": "25004",
+        "id": 25004,
         "poster": "GituAja",
         "likes": "141",
         "views": 44444,
@@ -7061,7 +7181,7 @@
         "player_reply": []
     },
     "25005": {
-        "id": "25005",
+        "id": 25005,
         "poster": "Melaporkan Secara Langsung Dari Tempat Kejadian",
         "likes": "1194",
         "views": 51502,
@@ -7113,7 +7233,7 @@
         "player_reply": []
     },
     "25006": {
-        "id": "25006",
+        "id": 25006,
         "poster": "Pawang Licik",
         "likes": "268",
         "views": 6709,
@@ -7158,7 +7278,7 @@
         ]
     },
     "25007": {
-        "id": "25007",
+        "id": 25007,
         "poster": "Seniman Tua",
         "likes": "681",
         "views": 16286,
@@ -7205,7 +7325,7 @@
         "player_reply": []
     },
     "25008": {
-        "id": "25008",
+        "id": 25008,
         "poster": "Keledai_Pekerja",
         "likes": "32",
         "views": 2623,
@@ -7242,7 +7362,7 @@
         "player_reply": []
     },
     "25009": {
-        "id": "25009",
+        "id": 25009,
         "poster": "Tikus Cari Cuan",
         "likes": "3429",
         "views": 37702,
@@ -7294,7 +7414,7 @@
         "player_reply": []
     },
     "25010": {
-        "id": "25010",
+        "id": 25010,
         "poster": "Tetap Anonim",
         "likes": "3245",
         "views": 35467,
@@ -7346,7 +7466,7 @@
         "player_reply": []
     },
     "25011": {
-        "id": "25011",
+        "id": 25011,
         "poster": "Spook Shack - Tim Arkeologi",
         "likes": "5647",
         "views": 32145,
@@ -7393,7 +7513,7 @@
         "player_reply": []
     },
     "26002": {
-        "id": "26002",
+        "id": 26002,
         "poster": "Tenang & Damai",
         "likes": "8567",
         "views": 2349,
@@ -7435,7 +7555,7 @@
         "player_reply": []
     },
     "26003": {
-        "id": "26003",
+        "id": 26003,
         "poster": "Jiwa Keadilan",
         "likes": "671",
         "views": 1379,
@@ -7477,7 +7597,7 @@
         "player_reply": []
     },
     "26004": {
-        "id": "26004",
+        "id": 26004,
         "poster": "Ekor_Monster",
         "likes": "469",
         "views": 1424,
@@ -7492,7 +7612,7 @@
             },
             {
                 "floor": 2,
-                "commenter": "Manusia Sempurna",
+                "commenter": "akujugamestikerja?",
                 "content": "Bagaimanapun juga, fakta bahwa robot melukai orang tidak dapat diperdebatkan. Kita mungkin harus meninjau kembali hubungan kita dengan mereka, soalnya mereka kan berbeda dengan manusia."
             },
             {
@@ -7542,7 +7662,7 @@
         ]
     },
     "26005": {
-        "id": "26005",
+        "id": 26005,
         "poster": "MakmurBerlimpah",
         "likes": "16",
         "views": 3571,
@@ -7589,7 +7709,7 @@
         "player_reply": []
     },
     "26006": {
-        "id": "26006",
+        "id": 26006,
         "poster": "Detektif Ridu",
         "likes": "1521",
         "views": 3147,
@@ -7654,7 +7774,7 @@
         ]
     },
     "26007": {
-        "id": "26007",
+        "id": 26007,
         "poster": "Akun Resmi Satu-Satunya Angels of Delusion",
         "likes": "2854",
         "views": 3454,
@@ -7696,7 +7816,7 @@
         "player_reply": []
     },
     "26008": {
-        "id": "26008",
+        "id": 26008,
         "poster": "Akun Resmi Satu-Satunya Angels of Delusion",
         "likes": "3843",
         "views": 5849,
@@ -7738,7 +7858,7 @@
         "player_reply": []
     },
     "26009": {
-        "id": "26009",
+        "id": 26009,
         "poster": "Akun Resmi Satu-Satunya Angels of Delusion",
         "likes": "3843",
         "views": 48392,
@@ -7775,7 +7895,7 @@
         "player_reply": []
     },
     "26010": {
-        "id": "26010",
+        "id": 26010,
         "poster": "Anonim",
         "likes": "0",
         "views": 3260,
@@ -7817,7 +7937,7 @@
         "player_reply": []
     },
     "26011": {
-        "id": "26011",
+        "id": 26011,
         "poster": "Kekayaan Berpihak Pada Pemberani",
         "likes": "356",
         "views": 1265,
@@ -7879,7 +7999,7 @@
         "player_reply": []
     },
     "26012": {
-        "id": "26012",
+        "id": 26012,
         "poster": "Tikus_Hitam",
         "likes": "105",
         "views": 4210,
@@ -7924,7 +8044,7 @@
         ]
     },
     "26013": {
-        "id": "26013",
+        "id": 26013,
         "poster": "Bot_Intel_Metis_03",
         "likes": "5007",
         "views": 6031,
@@ -7949,7 +8069,7 @@
             },
             {
                 "floor": 4,
-                "commenter": "Ohhh",
+                "commenter": "diujungLangit",
                 "content": "Kalau begitu... memang benar itu Badai Minerva! Markas Marcel Group tidak jauh dari sana, jadi bisa dibilang itu kampung halaman Bangboo!"
             },
             {
@@ -7974,7 +8094,7 @@
         ]
     },
     "26014": {
-        "id": "26014",
+        "id": 26014,
         "poster": "Penari_Gembira",
         "likes": "233",
         "views": 3069,
@@ -8019,7 +8139,7 @@
         ]
     },
     "26015": {
-        "id": "26015",
+        "id": 26015,
         "poster": "Bot_Intel_Metis_01",
         "likes": "7188",
         "views": 8354,
@@ -8069,5 +8189,1240 @@
             }
         ],
         "player_reply": []
+    },
+    "27001": {
+        "id": 27001,
+        "poster": "Bangboo Kecil tiba",
+        "likes": "779",
+        "views": 2297,
+        "title": "[Spam] Gosip Panas dari Dalam TOPS! Dijamin Bukan Hoaks!",
+        "text": "HAHAHAHAHAHAHAHAHAHA!!!\nTOPS akhirnya kena batunya juga!\nOke, langsung ke intinya saja. TOPS sekarang benar-benar lagi kacau! Banyak perusahaan kecil dan menengah di bawah mereka yang lagi menghadapi masalah besar. Para pengguna Inter-Knot pasti masih ingat, kan? Siapa sponsor Kompetisi Pahlawan Hollow yang ada segudang masalah belakangan ini? Wah wah, sulit sekali menebak hubungan di balik semua ini, ya~\nDan lagi! Justru gara-gara semua masalah ini, kabarnya badan audit internal TOPS juga lagi super sibuk. Memang sih masih belum ada bukti konkretnya, tapi melihat keadaan TOPS akhir-akhir ini... rasanya bukan cuma sekedar gosip. (Catatan: bukan karena aku tidak punya bukti ya, tapi tidak bisa dibocorkan saja! Kalau penasaran, coba cari sendiri pakai kata kuncinya).\nIntinya! Pasti ada masalah serius di dalam TOPS. Teman-teman sebaiknya jangan dekat-dekat mereka, jaga jarak!!!\nSiapa tahu, jangan-jangan kita benar-benar bisa lihat hari TOPS runtuh dari dalam dan akhirnya bangkrut? Sekian deh, nyawa lebih penting. Aku cabut dulu.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "TOPSadaskandalapalagi",
+                "content": "Oh ya?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Warga Biasa (Nonton Gosip)",
+                "content": "Username di atas kocak banget! Tapi jujur saja, kapan TOPS punya skandal yang bisa bikin mereka runtuh?"
+            },
+            {
+                "floor": 3,
+                "commenter": "speak_up_kalau_kesal",
+                "content": "Gosip panas? Segini doang? Status perusahaan itu transparan dan terbuka untuk umum. Gosip yang beneran malah enggak disinggung. Fix cuma postingan clickbait."
+            },
+            {
+                "floor": 4,
+                "commenter": "HeningItuSejuk",
+                "content": "Aku rasa TS terlalu lebay deh. Konglomerat sebesar itu cuma kena masalah kecil langsung dibilang bakal bangkrut? Enggak segitunya kali..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Si Paling Detail di Inter-Knot",
+                "content": "Tidak ada yang ngeh sama \"badan audit\" ini? Bukannya ini justru inti masalahnya?"
+            },
+            {
+                "floor": 6,
+                "commenter": "diam_paling_aman",
+                "content": "Yang tidak perlu diomongin sebaiknya jangan diomongin ya~ Ngeri loh kalau sampai ada yang lacak kamu lewat internet."
+            }
+        ],
+        "player_reply": []
+    },
+    "27002": {
+        "id": 27002,
+        "poster": "Bot_Intel_Metis_01",
+        "likes": "7245",
+        "views": 5482,
+        "title": "[Info] Kompetisi Pahlawan Hollow Dibatalkan",
+        "text": "HEAL hari ini mengumumkan bahwa kompetisi tahun ini dihentikan lebih awal. Waktu penyelenggaraan selanjutnya akan diumumkan kemudian, setelah melihat perkembangan investigasi dan hasil evaluasi keamanan.\n\nMenurut laporan Public Security, tersangka Romeul yang memicu beberapa insiden berdarah telah ditangkap. Dalam operasi pencarian dan penyelamatan gabungan oleh Public Security dan HIA, sebagian kontestan yang sempat tersesat di Hollow juga telah berhasil ditemukan dalam keadaan selamat dan kini sedang menjalani observasi medis.\n\nSelain itu, berdasarkan kesaksian sejumlah saksi mata, seorang individu anonim disebut berbagai pihak pertama yang menemukan adanya anomali pada data Carrot, lalu mengirimkan rute aman yang akurat kepada seluruh kontestan melalui saluran khusus, sehingga secara signifikan mengurangi risiko korban jiwa. Identitas serta motif tindakan individu anonim tersebut saat ini masih dalam proses verifikasi.\n\nHEAL dan Public Security akan memberikan dukungan yang diperlukan kepada para kontestan serta pihak terkait yang terdampak dalam insiden ini. Informasi lebih lanjut akan diumumkan kepada publik setelah penyelidikan selesai.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "KagetWoi!",
+                "content": "\"Black Wolf\" akhirnya ditangkap! Waktu lihat dia ikut, aku sampai tidak berani daftar..."
+            },
+            {
+                "floor": 2,
+                "commenter": "salah, belajar lagi",
+                "content": "Mulai sekarang aku tidak mau ikut kompetisi lagi. Kalau bukan karena pahlawan tanpa nama itu, aku benar-benar bisa celaka."
+            },
+            {
+                "floor": 3,
+                "commenter": "Proxy Setia",
+                "content": "Jangan-jangan... Master Phaethon kembali beraksi?! Aku sudah tahu dia pasti akan kembali ke Inter-Knot yang selalu setia padanya!\nSiapa yang masih tidak terima? Hah? Mana??? Proxy mana lagi yang mau protes?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Master5Kata",
+                "content": "Enggak nyangka... kompetisi tidak resmi bisa berujung dampak seburuk ini..."
+            },
+            {
+                "floor": 5,
+                "commenter": "gugugaga",
+                "content": "Di New Eridu memang selalu begini. Masa kamu tidak tahu? Kamu ini alien ya?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Orang Hilang!!!",
+                "content": "Temanku masih belum balik... Kalau ada petunjuk terkait kompetisi ini atau orang hilang, tolong hubungi aku!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27003": {
+        "id": 27003,
+        "poster": "cuma_makan_puff",
+        "likes": "25",
+        "views": 3578,
+        "title": "[Spam] Ethereal Ini Kenapa?",
+        "text": "Aku ada lihat di arena Pahlawan Hollow, sempat kaget juga. Ethereal-nya seperti berubah jadi patung...\nDi intinya tertancap bulu putih, malah kelihatan cukup artistik...\nAda yang tahu ini mekanismenya bagaimana? Masa iya ini ulah Romeul yang terkenal itu?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Raja Merah",
+                "content": "Daripada berubah jadi patung, ini lebih mirip waktu yang berhenti... seram banget."
+            },
+            {
+                "floor": 2,
+                "commenter": "menujuneraka",
+                "content": "Melihat Romeul yang gila-gilaan menebar hadiah ke mana-mana, mungkin dia sudah naik kelas dari pembuat onar jadi seniman performans."
+            },
+            {
+                "floor": 3,
+                "commenter": "Penonton_Berkelas",
+                "content": "Aku juga pernah ketemu! TS benar-benar berani ya. Aku waktu itu malah takut dan enggak berani mendekat."
+            },
+            {
+                "floor": 4,
+                "commenter": "KeringKeringKering",
+                "content": "Aku sempat tanya teman di White Star Institute, mereka juga belum pernah melihat kasus seperti ini. Katanya sekarang sedang buru-buru membentuk tim riset khusus."
+            },
+            {
+                "floor": 5,
+                "commenter": "ada_orang_dalam",
+                "content": "Sebenarnya fenomena Ethereal memudar ini bukan pertama kali terjadi. Pihak atas sudah lama turun tangan menyelidiki, tapi sampai sekarang belum ada kabar. Sepertinya belum ada progres."
+            },
+            {
+                "floor": 6,
+                "commenter": "Pawang Manusia Serigala",
+                "content": "Jadi sebenarnya Ethereal ini sudah mati atau masih hidup? Kalau nanti ketemu lagi, harus menghindar atau gimana?"
+            },
+            {
+                "floor": 7,
+                "commenter": "jahihihil",
+                "content": "Aku juga penasaran! Kalau memang aman, aku mau foto bareng!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27004": {
+        "id": 27004,
+        "poster": "Paparazzi",
+        "likes": "2901",
+        "views": 4789,
+        "title": "[Intel] Kontestan Ramiel Menghilang Bersama Hadiah",
+        "text": "Kalian tahu kan W-Engine Porcelloy hilang tanpa jejak? Di kalangan dalam ada rumor kalau W-Engine itu diambil kontestan Ramiel!\nIni bukan gosip kosong. Coba pikir—berapa orang yang bisa merebut barang dari tangan Black Wolf? Ramiel salah satunya.\nYang lebih mencurigakan lagi, setelah kompetisi dihentikan, Ramiel langsung menghilang tanpa jejak, bahkan poinnya pun tidak ditukar. Sekarang kalau dipikir-pikir, kemungkinan dia memang ikut kompetisi dengan tujuan lain, mungkin demi W-Engine Porcelloy.\nDan sebenarnya Ramiel itu siapa? Asal-usul, riwayat, bahkan wajahnya pun hampir tidak ada yang tahu. Rasanya seperti muncul begitu saja dari entah mana... makin diselidiki makin seru...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Hantu",
+                "content": "Bukan Ramiel saja, banyak juga yang masuk ke Hollow untuk merebut hadiah dan akhirnya hilang... Memang benar kata orang, yang bukan untukmu tidak akan pernah jadi milikmu."
+            },
+            {
+                "floor": 2,
+                "commenter": "KokTahuAkuDapatHargaMiring",
+                "content": "Aku juga bisa hilang?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Hantu",
+                "content": "Betul."
+            },
+            {
+                "floor": 4,
+                "commenter": "AngkatGelas!!!",
+                "content": "Kalau butuh W-Engine Porcelloy, kemungkinan besar Ramiel itu robot cerdas kan? Aku sendiri pernah ketemu satu. Dia bawa dua pistol, kemampuannya cukup hebat, hanya saja gayanya agak lebay."
+            },
+            {
+                "floor": 5,
+                "commenter": "Tenang&Damai",
+                "content": "Teori konspirasi lagi? Mana tahu kontestan Ramiel cuma mengundurkan diri?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Anonim",
+                "content": "Ingin mengungkap wajah asli kontestan Ramiel?\nPenasaran dengan kisah permusuhan lama antara Black Wolf dan Calydon?\nSemua detail kunci yang mungkin kamu lewatkan ada di sini.\nHarga spesial: 9.999 Denny\nLihat sekarang: [Klik untuk masuk ke utas]"
+            },
+            {
+                "floor": 7,
+                "commenter": "Ramiel",
+                "content": "Maaf, ternyata cuma kebetulan namanya sama. Aku pikir aku yang hilang."
+            }
+        ],
+        "player_reply": [
+            "Aku harus menemukan Ramiel",
+            "Kalau ada petunjuk, tolong hubungi aku"
+        ]
+    },
+    "27005": {
+        "id": 27005,
+        "poster": "Pengguna Anonim",
+        "likes": "0",
+        "views": 3670,
+        "title": "[Spam] Kenapa desain karakter Bangboo-ku tidak lolos...",
+        "text": "Marcel Group sedang mengadakan kompetisi desain Bangboo untuk seluruh kota. Begitu melihat hadiahnya, DNA anak seni dalam diriku langsung terbangun. Ini jelas panggung yang dibuat khusus untukku!\nAku langsung mengurung diri selama sebulan penuh untuk berkarya! Satu bulan penuh! Aku gambar puluhan sketsa gagal, sebelum akhirnya menghasilkan mahakarya ini!\nAku bahkan sudah latihan pidato kemenanganku, tapi jangankan juara pertama, bahkan hadiah hiburan pun tidak dapat. Keterlaluan sekali!\nMarcel! Mungkin kalian cuma kehilangan satu kontestan, tapi New Eridu kehilangan pencipta semesta Bangboo yang baru!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Mimpiin Denny",
+                "content": "Bangboo-ku habis baca karyamu, langsung mimpi buruk semalaman."
+            },
+            {
+                "floor": 2,
+                "commenter": "harus_panggil_ahlinya",
+                "content": "Kamu lulusan kampus seni mana? Tolong kasih tahu, biar semua orang bisa waspada."
+            },
+            {
+                "floor": 3,
+                "commenter": "NgemisOnline",
+                "content": "Kami anak seni tidak seperti itu! Jangan langsung digeneralisasi dong aaaa!!!"
+            },
+            {
+                "floor": 4,
+                "commenter": "tukang cor",
+                "content": "Eh tapi kalau dipikir-pikir, kalau Bangboo ukuran besar seperti ini benar-benar diproduksi massal, kerjaan para kuli pasti jauh lebih ringan."
+            },
+            {
+                "floor": 5,
+                "commenter": "Tuh kan emosian",
+                "content": "Bro, tiap bidang ada ahlinya, paham enggak? Bangboo itu mesin presisi, masa mau dipakai buat angkut batu?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Emosi_duarduarduar",
+                "content": "Kalian salah fokus deh! Masa kalian terima Bangboo yang tampilannya begini?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Insinyur Maung",
+                "content": "Kalau tidak salah, aturan penilaiannya yang paling penting itu orisinalitas. Bisa saja desainmu kebetulan mirip dengan milik orang lain, atau mungkin Marcel pernah punya konsep serupa yang akhirnya dibatalkan"
+            },
+            {
+                "floor": 8,
+                "commenter": "[TS] Pengguna Anonim",
+                "content": "Kalimat terakhirnya harus banget ditulis ya... huhuhu..."
+            },
+            {
+                "floor": 9,
+                "commenter": "Insinyur Maung",
+                "content": "Kamu benar-benar terlalu fokus pada sisi seninya... desain Bangboo itu bukan lukisan seni, harus digambar seperti gambar teknik."
+            },
+            {
+                "floor": 10,
+                "commenter": "JANGANMINUMAIR",
+                "content": "Di internet sih enak saja ngomong begitu. Di dunia nyata siapa yang tidak mau cepat-cepat gantiin Bangboo di rumah dengan \"penyelamat umat manusia\" seperti ini?"
+            }
+        ],
+        "player_reply": []
+    },
+    "27006": {
+        "id": 27006,
+        "poster": "kasih_noob_jalan",
+        "likes": "25",
+        "views": 6289,
+        "title": "[Spam] Rosetta Data bisa eror?!",
+        "text": "Belakangan ini, rumor tentang anomali Rosetta Data makin sering muncul di internet. Bahkan ada yang mengeluh kalau membuat Carrot sendiri jadi makin sulit, dan rute yang dihitung dari data Rosetta yang sudah dikoreksi sering kali juga tidak akurat.\nApakah ada yang bisa menjelaskan, rumor ini benar atau tidak?\nKalau memang benar, apa ada data referensi lain yang bisa dipakai?\nAku baru saja pindah profesi jadi Proxy, tapi sampai sekarang belum dapat satu pesanan pun. Masa belum sempat kerja sudah keburu nganggur, huhuhu...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "MenangDalam40Detik",
+                "content": "Tidak mungkin. Rosetta Data adalah data induk yang disahkan langsung oleh wali kota. Semua perhitungan pola perubahan Hollow dibuat dari data observasi lapangan yang berulang kali dikalibrasi berdasarkan data induk itu.\nKalau data induk saja tidak bisa dipercaya, berarti tidak ada lagi data observasi yang bisa dipercaya."
+            },
+            {
+                "floor": 2,
+                "commenter": "Sejuk2Panas",
+                "content": "Pemerintah kota dan HIA tidak pernah mengungkapkan sumber data maupun metode perhitungan Rosetta Data ke publik. Belakangan ini banyak kejadian besar, tenaga kerja juga sedang terbatas, ditambah lagi tidak ada pengawasan eksternal. Apa kamu bisa menjamin mereka tidak mungkin salah?"
+            },
+            {
+                "floor": 3,
+                "commenter": "SudahTanya?",
+                "content": "Katanya Carrot yang dibagikan di Pahlawan Hollow sebelumnya juga bermasalah, jangan-jangan..."
+            },
+            {
+                "floor": 4,
+                "commenter": "MimpiJadiGrandmaster",
+                "content": "Sudahlah, di pengumuman sudah jelas dibilang itu ulah virus."
+            },
+            {
+                "floor": 5,
+                "commenter": "Dunia Milik Bangboo",
+                "content": "Carrot sudah tidak ada, Proxy sudah tidak ada, Inter-Knot juga sudah tidak ada."
+            },
+            {
+                "floor": 6,
+                "commenter": "Standar Ganda",
+                "content": "Coba introspeksi diri dulu. Menurutku ada orang yang skill-nya kurang jago aja, jadi enggak bisa cari rute yang akurat. Kalau masih noob ya lebih rajin latihan. Jangan bikin malu di Inter-Knot."
+            },
+            {
+                "floor": 7,
+                "commenter": "position zero",
+                "content": "Belakangan ini ekspansi Hollow anomali sering terjadi, pihak berwenang mungkin perlu mengukur ulang secara menyeluruh. Mungkin data mereka belum selesai diperbarui, atau ada delay atau semacamnya?"
+            }
+        ],
+        "player_reply": [
+            "Sepertinya hanya kasus tertentu saja...?",
+            "Saat ini tidak ditemukan anomali"
+        ]
+    },
+    "27007": {
+        "id": 27007,
+        "poster": "Biasa Saja",
+        "likes": "218",
+        "views": 1203,
+        "title": "[Diskusi] Kok makanan di Simmer jadi tidak enak?",
+        "text": "Eh, kalian tidak merasa makanan di Simmer makin lama makin bikin mengecewakan? Sup hotpot-nya terlalu asin, dessertnya kemanisan, seafoodnya amis parah. Aku cuma komentar sedikit, pemiliknya malah ngamuk!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Eh Bagus Ya",
+                "content": "Biasa saja, aku suka yang manis-manis."
+            },
+            {
+                "floor": 2,
+                "commenter": "BangTikusAAA",
+                "content": "Memang tidak seenak waktu baru buka dulu..."
+            },
+            {
+                "floor": 3,
+                "commenter": "laparmaumakan",
+                "content": "Iya, enggak enak tapi enggak boleh komplain. Pemiliknya galak banget!"
+            },
+            {
+                "floor": 4,
+                "commenter": "eh_taugaksih",
+                "content": "Toko begini biasanya cuma enak di awal, makin lama kualitasnya malah makin drop!"
+            },
+            {
+                "floor": 5,
+                "commenter": "FOMObanget",
+                "content": "Apa cuma aku yang datang makan ke sini karena si bosnya cantik?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Lady_Sunbringer_Tiada_Dua",
+                "content": "Yang di atas, seleramu bagus!"
+            }
+        ],
+        "player_reply": [
+            "Menurutku rasanya oke sih.",
+            "Mereka harus perbaiki diri..."
+        ]
+    },
+    "28001": {
+        "id": 28001,
+        "poster": "Aku tidak bisa beri tahu.",
+        "likes": "629",
+        "views": 9081,
+        "title": "[Spam] Lagi syuting film besar ya?",
+        "text": "Seperti yang terlihat di foto, bukan aku yang motret, tapi temanku yang lagi main di Outer Ring. Katanya, pemandangan aslinya lebih mengagumkan daripada yang di foto. Temanku baru mau mendekat buat motret detail lebih banyak, tapi langsung dicegat sama orang berbaju jas. Dia bahkan diperingatkan untuk tidak masuk ke Hollow sembarangan... Ngomong-ngomong, robot-robot yang bergerombol begitu kelihatan agak menyeramkan ya, mirip dengan adegan film bertema kiamat. Ada yang tahu situasi sebenarnya?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Tong_Hangat",
+                "content": "Pertama kali lihat model mecha seperti ini, kelihatan kalau biaya produksinya tidak murah. Kalau lihat fotonya, mereka sedang menuju ke Hollow, jangan-jangan ada masalah di Outer Ring? Atau seperti yang TS bilang, mereka sedang syuting film besar?"
+            },
+            {
+                "floor": 2,
+                "commenter": "RoketPlastik",
+                "content": "Katanya lokasi syuting \"Beheboth 2\" jadinya di Outer Ring, ini pasti item mecha dari kru mereka."
+            },
+            {
+                "floor": 3,
+                "commenter": "HulaHoop",
+                "content": "Kiamat mau tiba, pilih mecha eksklusifmu berdasarkan 12 zodiak!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Meerkat Super",
+                "content": "Menurut informasi yang kudapat dari kenalanku di Blazewood, ini bukan item film biasa, ini mecha pertarungan TOPS yang sungguhan! Tak kusangka sudah diproduksi massal sebanyak ini."
+            },
+            {
+                "floor": 5,
+                "commenter": "Master5Kata",
+                "content": "Mecha TOPS? Dengan formasi seperti ini, jangan-jangan ada Ethereal yang sangat kuat muncul di Hollow Outer Ring, dan mereka mau menekannya?"
+            },
+            {
+                "floor": 6,
+                "commenter": "UP2U",
+                "content": "Sadar deh! TOPS tidak akan menekan Ethereal karena kebaikan hati mereka. Kalau mereka sebaik itu, mereka bukan TOPS namanya. Mereka cuma akan melakukan hal yang menguntungkan. Pasti ada sesuatu yang sangat berharga di Hollow itu. Entah itu sumber daya dalam jumlah besar, atau rahasia yang sangat penting."
+            },
+            {
+                "floor": 7,
+                "commenter": "Cuma_Lewat",
+                "content": "Setuju dengan yang di atas. Kebanyakan orang di sini mungkin tidak tahu kalau TOPS sudah pernah melakukan yang seperti ini di Waifei Peninsula. Demi merebut sumber daya, mereka sembarangan melemparkan senjata tempur ke dalam Hollow dan semacamnya. Ini hanya pengulangan trik lama mereka. Blazewood sepertinya akan jadi tidak aman belakangan ini."
+            }
+        ],
+        "player_reply": []
+    },
+    "28002": {
+        "id": 28002,
+        "poster": "PengejarBintang",
+        "likes": "65",
+        "views": 3326,
+        "title": "[Spam] Burung apa ini?",
+        "text": "Foto terbaru, baru difoto 1 menit yang lalu! Ada yang tahu burung apa ini? Terbangnya sangat cepat, dan mengeluarkan cahaya yang sangat terang. Samar-samar bisa terlihat sayapnya mengepak, jadi pasti bukan pesawat. Tapi seumur hidup aku belum pernah lihat burung seperti ini, baik di Hollow maupun di kota, ada yang paham tentang burung dan bisa bantu identifikasi?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Gaspol",
+                "content": "Identifikasi selesai, ini adalah burung berkecepatan tiga kali lipat yang memancarkan cahaya putih."
+            },
+            {
+                "floor": 2,
+                "commenter": "Sup_Ikan_Gelatin",
+                "content": "Lihat tingginya, dengan bangunan di sampingnya sebagai referensi... burung ini ukurannya tidak kecil, bahkan lebih besar dari manusia? Jangan-jangan ini gambar hasil edit komputer, kalau benar-benar ada makhluk seperti ini, pasti sudah heboh dari dulu."
+            },
+            {
+                "floor": 3,
+                "commenter": "HujanMeteor",
+                "content": "Malaikat~ Itu pasti malaikat~ Jangan scroll dulu kalau kamu liat postingan ini, ayo lambai tangan dan bersorak bersamaku, tahun ini kamu bakal dapat keberuntungan sepanjang tahun lho. Malaikat~"
+            },
+            {
+                "floor": 4,
+                "commenter": "PutihPenuhWarna",
+                "content": "\\Angels~/ of \\Delusion~/"
+            },
+            {
+                "floor": 5,
+                "commenter": "PermenSemangka",
+                "content": "Eh, malaikat ya! Bukan tidak bisa juga sih."
+            },
+            {
+                "floor": 6,
+                "commenter": "Yasutrahlah",
+                "content": "Aku tidak yakin apakah yang kulihat sama dengan yang dilihat TS, tadi aku juga melihat cahaya putih di langit. Mungkin karena posisiku agak jauh, aku hanya bisa melihat titik cahaya putih yang terbang miring ke atas, terus terbang sampai ke awan, lalu menghilang."
+            },
+            {
+                "floor": 7,
+                "commenter": "Aiyoo",
+                "content": "Aku punya firasat, postingan ini akan segera dibanjiri banyak orang yang mengaku melihat burung putih terbang di langit."
+            }
+        ],
+        "player_reply": []
+    },
+    "28003": {
+        "id": 28003,
+        "poster": "Api_Abadi",
+        "likes": "7318",
+        "views": 16710,
+        "title": "[Spam] Gerhana juga ada di Hollow?",
+        "text": "Tidak basa-basi, langsung ke intinya. Ini diambil 3 jam yang lalu di Sub-Hollow dekat Hollow Pursenas. Saat itu kami baru mau keluar dari Hollow, tiba-tiba langit langsung gelap, tanpa tanda-tanda apa pun! Seluruh tim kaget setengah mati, mengira ada makhluk besar yang datang. Kebetulan ada lubang tersembunyi di dekat situ, jadi kami langsung mengubah rencana dan masuk ke dalam lubang. Proxy di tim kami melihat ke atas, lalu melihat pemandangan ini. Untungnya semua orang selamat, menegangkan tapi berakhir aman!\nOmong-omong, ini gerhana matahari kan... Kalian yang di luar Hollow juga melihat gerhana matahari?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Foamy Pink",
+                "content": "Di luar Hollow tidak ada gerhana matahari kok. Sudah kutanyakan ke orang-orang di sekitar, tidak ada yang merasakan anomali apa pun. Kami jalan-jalan di luar terus loh."
+            },
+            {
+                "floor": 2,
+                "commenter": "Berantakan_Kayak_Bubur",
+                "content": "Jangan-jangan ini juga gambar hasil edit komputer ya? Di postingan sebelah ada yang posting burung bercahaya terbang di langit, kayaknya kalian bisa duduk bareng dan adu siapa yang lebih jago edit."
+            },
+            {
+                "floor": 3,
+                "commenter": "MieGorengSapi",
+                "content": "Aku cari banyak foto gerhana matahari di internet, dan setelah membandingkannya dengan teliti, terlihat jelas bahwa perbedaannya sangat besar dengan gambar yang diambil TS. Ini seharusnya bukan gerhana matahari, melainkan fenomena alam yang lebih langka."
+            },
+            {
+                "floor": 4,
+                "commenter": "Hitam&Putih",
+                "content": "Kalau dipikir-pikir kejadiannya di Hollow, hal apa pun yang terjadi pasti masuk akal!"
+            },
+            {
+                "floor": 5,
+                "commenter": "JenggotSerabutEmas",
+                "content": "Tapi melihat TS bisa keluar dari Hollow dengan selamat dan masih bisa posting, setidaknya fenomena ini tidak berbahaya kan? Tidak ada Ethereal yang mengerikan, atau gejala kontaminasi yang tidak diketahui."
+            },
+            {
+                "floor": 6,
+                "commenter": "Nonanonim",
+                "content": "Belum tentu juga, siapa tahu kontaminasi seperti itu punya masa inkubasi. TS memangnya sudah periksa kondisi tubuhnya setelah kembali?"
+            },
+            {
+                "floor": 7,
+                "commenter": "SiPemalas",
+                "content": "Komentar ke-2 mengingatkanku, kalian tidak merasa langit ini cocok banget sama mecha di postingan sebelah? Sempurna banget, visualnya keren abis! Jangan-jangan mereka beneran lagi syuting \"Beheboth 2\"? Ini sih produksinya gede banget!"
+            }
+        ],
+        "player_reply": []
+    },
+    "28004": {
+        "id": 28004,
+        "poster": "Anonim",
+        "likes": "0",
+        "views": 22170,
+        "title": "[Minta Bantuan] Aku sepertinya dalam masalah!",
+        "text": "Begini ceritanya, aku lagi nyetir mobil dengan normal di jalan, tiba-tiba aku mendengar suara \"dung\". Saat turun dari mobil, aku melihat ada seseorang tergeletak di jalan... Sumpah, bukan aku yang tabrak! Dia pasti sudah tergeletak di sana sebelumnya! Yang lebih parah lagi, sepertinya dia menggambar pola dengan jari yang berlumuran darah... Apakah ini pesan kematian atau semacamnya, mungkin potret pelakunya... Tidak, tunggu, aku ngomong apa sih yang tidak-tidak begini, dia masih hidup kok! Meskipun terlihat terluka parah tapi masih bernapas! Pokoknya aku tahu ada rumah sakit di sekitar, jadi aku langsung menggendongnya ke mobil dan membawanya ke rumah sakit, sekarang masih dalam perjalanan, nanti akan aku update lagi kalau ada perkembangan. Tolong bantu lihat juga siapa yang ada di potret ini, pasti ini petunjuk penting!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Choco_Ice_Cream",
+                "content": "Kalau ini potret pelakunya, korbannya pasti mati karena gemas."
+            },
+            {
+                "floor": 2,
+                "commenter": "Si_Kurang_Fotogenik",
+                "content": "TS sudah bilang orangnya belum mati, sepertinya orang itu kecelakaan parah. Tapi kalau memang kecelakaan mendadak, bagaimana mungkin masih punya tenaga untuk menggambar potret... memang sangat aneh ya..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Hai",
+                "content": "Kamu bilang TS punya otak, tapi dia ngomong kontradiksi sendiri. Kalau dibilang TS tidak punya otak, dia sendiri tahu kalau postingan ini harus diposting secara anonim."
+            },
+            {
+                "floor": 4,
+                "commenter": "[TS] Anonim",
+                "content": "Aku punya kabar terbaru! Tadi di perjalanan ke rumah sakit, mobilku dihentikan oleh surat wasiat kematian! Eh tunggu, ngomong apa sih aku, coba aku susun lagi kata-kataku. Orang yang menghentikan mobilku adalah orang yang ada di sketsa wajah itu — manusia separuh kelinci yang bertubuh mungil! Tapi 10 kali lebih galak dari sketsa! Dia mengoceh panjang lebar tentang rekan kerja, kerahasiaan, babi hitam, dan lain-lain, tapi aku tidak dengar apa-apa. Dia juga bilang orang di mobilku tidak kenapa-kenapa dan dia akan membawanya pergi, aku sama sekali tidak berani menolak! Lalu aku cuma bisa melihatnya menggotong orang itu pergi..."
+            },
+            {
+                "floor": 5,
+                "commenter": "[TS] Anonim",
+                "content": "Saat ini aku sedang jongkok di pinggir jalan sambil memikirkan kejadiannya lagi, semakin kupikir semakin aneh rasanya. Jangan-jangan ini modus penipuan baru? Apa nanti ada orang yang datang buat meras uang dariku?"
+            },
+            {
+                "floor": 6,
+                "commenter": "LampuJalanBerkilau",
+                "content": "Kalau begitu, ini mungkin penipuan paling mahal yang pernah kulihat."
+            },
+            {
+                "floor": 7,
+                "commenter": "Soda No Bubble",
+                "content": "TS, kalau ada info terbaru jangan lupa update ya, siapa tahu nanti aku ketemu, jadi bisa persiapan dulu menghadapi manusia separuh kelinci yang 10 kali lebih galak itu."
+            }
+        ],
+        "player_reply": []
+    },
+    "28005": {
+        "id": 28005,
+        "poster": "Akun Resmi Satu-Satunya Partner Aneh",
+        "likes": "17",
+        "views": 6352,
+        "title": "[Spam] Pengumuman Maintenance \"Partner Aneh\"",
+        "text": "Para Penjelajah Mimpi yang terhormat:\nUntuk memberikan pengalaman bermain yang lebih berkualitas kepada kalian semua, menyelesaikan peningkatan konten inti dan optimalisasi server, \"Partner Aneh\" akan melakukan maintenance offline dalam periode waktu mendatang. Selama maintenance, semua perangkat terminal tidak dapat login ke game, dan semua fitur serta gameplay dalam game akan ditutup sementara.\nWaktu penyelesaian maintenance kali ini dapat lebih cepat atau lebih lambat sesuai dengan progres kerja. Jika ada perubahan, kami akan segera menyampaikan informasi terbaru melalui channel resmi.\nKami memohon maaf atas ketidaknyamanan yang ditimbulkan oleh maintenance offline yang cukup lama ini kepada para Penjelajah Mimpi, dan kami juga tulus berterima kasih atas pengertian dan kesabaran kalian semua. Setelah maintenance selesai, kami akan memberikan kompensasi maintenance eksklusif kepada para pemain lama melalui setiap Arkade. Harap segera datang ke toko untuk mengklaimnya.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 3,
+                "commenter": "Ayah Tegas Partner Aneh",
+                "content": "Penjelajah Mimpi yang dirilis di game ini semakin membosankan, lebih baik maintenance saja terus! Dengarkan ya, selama periode ini jangan ada yang main Partner Aneh di Godfinger, biar tim developer bisa memperbaiki masalah-masalah mereka!"
+            },
+            {
+                "floor": 12,
+                "commenter": "Informan Intel Game",
+                "content": "Singkatnya: Untuk lebih mengurangi beban dan membiarkan para Penjelajah Mimpi menikmati hidup dengan tenang, semua hadiah in-game akan otomatis dikirim ke inbox setelah maintenance selesai, jadi kalian tidak perlu terburu-buru! Tidak perlu login juga!"
+            },
+            {
+                "floor": 31,
+                "commenter": "Ular Nomor Satu di Dunia",
+                "content": "Kalian ini! Demi mendapatkan hadiah in-game eksklusif yang terbatas, kalian benar-benar nekat melakukan apa saja..."
+            },
+            {
+                "floor": 50,
+                "commenter": "Kamu kok tahu aku punya Omnom?",
+                "content": "Sejujurnya, game \"Partner Aneh\" ini, kalau dimainkan terlalu lama memang melelahkan... Aku dulu juga kecanduan, tapi setelah berhenti main belakangan ini, baru benar-benar merasa hidupku kembali.\nSekuat apa pun kamu di dalam game, pada akhirnya hanya sekadar data. Lebih baik gunakan semangat kompetitifmu itu untuk kehidupan nyata — barulah kamu akan benar-benar merasakan bahwa kamu hidup, berkembang, dan menjadi lebih baik."
+            },
+            {
+                "floor": 86,
+                "commenter": "SatuEkorPemalas",
+                "content": "Semuanya mabuk karena acara kantor ya, kok pada bilang tidak main Partner Aneh lagi sih\nPadahal menurutku seru banget, jangan pada berhenti dong!"
+            },
+            {
+                "floor": 88,
+                "commenter": "Terbaik di Seluruh New Eridu",
+                "content": "Biar aku jelaskan...\n\"Partner Aneh\" sedang mengadakan event promosi. Kalau kamu pergi ke Arkade dan menyelesaikan stage waktu terbatas, kamu bisa ikut undian berhadiah. Hadiah utamanya 4 miliar Denny! Orang-orang ini ingin mengambil semua hadiahnya sendiri, jadi mereka pasti menipu orang lain supaya berhenti main!"
+            },
+            {
+                "floor": 89,
+                "commenter": "Monggu",
+                "content": "Untung ada komentar di atas, kalau tidak aku masih tidak tahu apa-apa!"
+            }
+        ],
+        "player_reply": [
+            "Gawat, ada yang benar-benar percaya!",
+            "Ah, sebenarnya tidak seperti itu..."
+        ]
+    },
+    "30001": {
+        "id": 30001,
+        "poster": "Memangnya ada orang yang tidak bisa berenang?",
+        "likes": "41",
+        "views": 2496,
+        "title": "[Spam] Diskusi: Resor Fantasy benar-benar sudah membaik ya?",
+        "text": "Sesuai gambar, sore tadi TS sedang jalan-jalan di tepi pantai dan tidak sengaja melihat dua orang staff Resor Fantasy sedang ngobrol serius di dekat pagar kawat. Aku cuma nebak mungkin apa yang mereka bahas ada hubungannya dengan musim panas yang akan datang.\nKita semua tahu, resor ini dulunya hampir bangkrut, lalu berkembang dengan bantuan seseorang sampai bisa mengadakan festival musik pantai besar-besaran. Sayangnya, saat itu musim panas hampir berakhir, dan setelah masuk musim gugur, suasananya jadi sepi lagi.\nTS sendiri sangat suka musim panas dan laut, dia sangat menantikan hal-hal baru yang ditawarkan resor untuk pengalaman musim panas yang tak terlupakan lagi... Tapi sebagai tempat wisata yang baru dibuka kembali setelah melewati keterpurukan, aku khawatir mereka bisa menghadapi lonjakan pengunjung yang akan datang.\nBagaimana menurut kalian, Proxy yang serba bisa? Apa Resor Fantasy bisa kembali mencetak kesuksesan besar?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "serbaBisa_kecualiBerenang",
+                "content": "Tempat bagus untuk liburan musim panas itu banyak kok, buat apa memedulikan resor kecil seperti itu. Ngomong-ngomong, apa artinya panggilan TS? Memangnya kenapa kalau tidak bisa berenang!"
+            },
+            {
+                "floor": 2,
+                "commenter": "bencimusim_SemiGugurDingin",
+                "content": "Tidak ada yang peduli sama orang yang tidak peduli, pantai musim panas itu tempat terbaik! Yang tidak paham berarti seleranya buruk!"
+            },
+            {
+                "floor": 3,
+                "commenter": "semogaAstraSelaluBersinar",
+                "content": "TS jangan ngawur, dulu ada Astra yang tampil di festival musik pantai, pasti ramai dong! Tapi siapa yang tahu nasib musim panas tahun ini~ Kalau bisa, undang Astra lagi dong!"
+            },
+            {
+                "floor": 4,
+                "commenter": "waktunyaLiburan",
+                "content": "Terdengar suara sempoa yang nyaring..."
+            },
+            {
+                "floor": 5,
+                "commenter": "minoritasRasional",
+                "content": "Ini bukan diskusi rasional? Resor Fantasy musim panas tahun ini tidak bisa dibandingkan dengan tahun-tahun sebelumnya, baik dari segi hal baru maupun hype-nya. Tapi, pantai tetap jadi salah satu destinasi favorit di musim panas. Ditambah lagi tanpa adanya rumor yang beredar, omsetnya harusnya tidak akan terlalu buruk. Lagipula, itu adalah urusan yang perlu dipikirkan oleh staf resor, sebagai pengunjung kita cukup menikmati liburan saja."
+            },
+            {
+                "floor": 6,
+                "commenter": "Yes_Sepakat",
+                "content": "Setuju sama komentar ke-5. Situasi resor saat ini tidak akan bangkrut, kita semua tinggal makan enak, minum enak dan bersenang-senang saja!"
+            }
+        ],
+        "player_reply": []
+    },
+    "30002": {
+        "id": 30002,
+        "poster": "Mulai karier dari nol",
+        "likes": "393",
+        "views": 3193,
+        "title": "[Spam] Apa Bosku Mau Jadi Agen Rahasia?",
+        "text": "Ada yang pernah dengar soal proyek kerja sama antara White Star Institute dan Marcel Group?\nAku baru setengah tahun kerja, bosku tiba-tiba harus pergi jauh karena proyek ini, bahkan disuruh menandatangani banyak perjanjian kerahasiaan, dan bilang ke aku kalau dia akan pergi dalam waktu lama... Jangan-jangan dia sebenarnya dipilih jadi agen rahasia, ya!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "CabeSelancar",
+                "content": "Kalau beneran jadi agen rahasia, mana mungkin kamu diberi tahu... IQ TS ini agak mengkhawatirkan."
+            },
+            {
+                "floor": 2,
+                "commenter": "Ampun_BuGuru",
+                "content": "Mungkin ada data penelitian yang rahasia di dalamnya... Aku sudah tanya mentorku, tapi dia bilang tahu apa pun soal proyek seperti itu."
+            },
+            {
+                "floor": 3,
+                "commenter": "KantongSemesta",
+                "content": "TS, cepat hapus postingannya! Hati-hati penegak hukum terkuat di muka bumi datang menghampirimu! Kalau sampai kamu ditangkap karena bocorkan rahasia, pasti nyesel deh!"
+            },
+            {
+                "floor": 4,
+                "commenter": "HewanBegadang",
+                "content": "Kalau White Star Institute bekerja sama dengan Marcel, apa mereka sedang mengembangkan jenis Bangboo baru? Tapi dari penjelasan TS, kok terlihat misterius banget, entah apa yang mereka rencanakan di balik layar..."
+            },
+            {
+                "floor": 5,
+                "commenter": "pembenciMakananSampah",
+                "content": "Yang atas ini kayaknya sebangku sama TS deh, kalau memang ada konspirasi, mana mungkin seorang staff rendahan yang baru masuk kerja bisa tahu? Menurutku, itu paling cuma rahasia dagang yang tidak bisa dibahas sembarangan."
+            },
+            {
+                "floor": 6,
+                "commenter": "panjanginRambut",
+                "content": "Kotaknya besar banget, kenapa tidak dibuka saja sih, TS!"
+            },
+            {
+                "floor": 7,
+                "commenter": "tehOolongAra",
+                "content": "Yang di atas ini serius? Kalau dibuka bisa beneran ditangkap lho!"
+            }
+        ],
+        "player_reply": [
+            "Masa sih...",
+            "Mungkin cuma menyangkut hal-hal yang perlu dirahasiakan."
+        ]
+    },
+    "30003": {
+        "id": 30003,
+        "poster": "Tanpa bos, aku bisa kacau.",
+        "likes": "7",
+        "views": 9382,
+        "title": "[Minta Bantuan] Tolong!! Ada yang pernah lihat wanita di foto ini kah?!",
+        "text": "Ada yang pernah lihat wanita di foto ini? Di mana tempat yang ada di foto ini? Aku sedang mencarinya, Aku akan beri hariah bagi yang punya petunjuk detail!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "pencintaSemangka",
+                "content": "Kayaknya aku pernah melihat wanita ini... terakhir kali melihatnya, dia juga dikejar-kejar seperti ini!"
+            },
+            {
+                "floor": 2,
+                "commenter": "AAA_RajaNagihUtang",
+                "content": "Kalian orang-orang Cunning Hares suka pura-pura ya? Alasan \"Bos kami menghilang dan minta tambahan waktu lagi buat bayar hutang\"... Dengar ya, trik itu tidak akan berhasil!"
+            },
+            {
+                "floor": 3,
+                "commenter": "sesendokBubukProtein",
+                "content": "Hmm... meski fotonya agak buram, tapi bisa kelihatan kalau wanita di foto ini punya massa otot yang bagus. Kalau dia tambah suplemen dan fokus melatih otot bisep, lekuk ototnya pasti akan lebih bagus! Bisa DM aku kalau mau rekomendasi gym."
+            },
+            {
+                "floor": 4,
+                "commenter": "jamurBaikHati",
+                "content": "Orang di atas ada masalah apa sih—lagi posting cari orang hilang malah promosi gym di sini?"
+            },
+            {
+                "floor": 5,
+                "commenter": "PrinceSiAnabul",
+                "content": "Kenapa banyak Bangboo yang mengejarnya? Ini semacam konten acara atau apa?"
+            },
+            {
+                "floor": 6,
+                "commenter": "rajaLembur",
+                "content": "Hah? Ada hadiahnya? Berapa jumlahnya? Cukup buat aku libur kerja setengah tahun enggak?"
+            },
+            {
+                "floor": 7,
+                "commenter": "tolongIngetinMinumAer",
+                "content": "Yang di atas, jangan percaya, mereka bisa dibilang terkenal di Inter-Knot, mereka sangat miskin dan mungkin tidak punya uang untuk kamu."
+            }
+        ],
+        "player_reply": []
+    },
+    "30004": {
+        "id": 30004,
+        "poster": "Dapur Mama Beruang",
+        "likes": "8895",
+        "views": 5220,
+        "title": "[Spam] Bangboo di rumah agak aneh...",
+        "text": "Bangboo di rumah menceritakan sebuah kisah \"Pangeran Bangboo\" kepada anak-anak, katanya dari sebuah buku cerita, dan mereka bahkan menggambar bersama berdasarkan isi ceritanya. Tapi aku sudah mencari ke mana-mana dan tidak menemukan buku itu...\nAda yang pernah dengar cerita ini? Atau jangan-jangan Bangboo mengarangnya sendiri? Tapi waktu menceritakannya terdengar sangat meyakinkan, mana mungkin dia bohong padaku...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Mampir_ke_RSJ",
+                "content": "Pangeran Bangboo? Aku pernah bicara dengan Bangboo yang mengaku sebagai kesatria. Jangan-jangan si pangeran ini juga Bangboo yang kebanyakan baca novel sampai tidak bisa membedakan fantasi dan kenyataan..."
+            },
+            {
+                "floor": 2,
+                "commenter": "jadi_Ethereal_juga_tetap_suka_kamu",
+                "content": "Gambar berantakan ini apa sih? Entah kenapa elemen-elemen di gambar ini tidak asing, ada yang tahu maksudnya?"
+            },
+            {
+                "floor": 3,
+                "commenter": "burungbisaberenang",
+                "content": "Jangan-jangan kamu teringat novel atau serial TV? Bukankah pangeran memang sering muncul dalam karya sastra fantasi? Soal istana bintang dan semacamnya... sepertinya juga sering muncul dalam cerita dongeng."
+            },
+            {
+                "floor": 4,
+                "commenter": "akuanakmeong",
+                "content": "Menurutku sih, Bangboo ini punya ingatan yang kacau, jadi semua yang pernah dia lihat tercampur jadi satu cerita. TS, coba hubungi layanan purna jual Marcel untuk memeriksa."
+            },
+            {
+                "floor": 5,
+                "commenter": "Identitas Inter-Knot ditentukan diri sendiri",
+                "content": "Setuju sama yang di atas, kalau ingatannya kacau sih masih oke, tapi yang paling parah kalau ternyata Bangboo itu memang mengarang. Kalau sampai bohong, harus dibina dengan baik nih. TS, jangan sampai anak kecil terpengaruh hal buruk!"
+            },
+            {
+                "floor": 6,
+                "commenter": "PestaTehKelinci",
+                "content": "Cuma aku yang peduli tentang cerita ini ya?Kelihatannya sangat menarik!"
+            },
+            {
+                "floor": 7,
+                "commenter": "kaloLaperMinumAer",
+                "content": "Di New Eridu, rasanya Bangboo ngapain aja sudah tidak aneh lagi. Betul, kan?"
+            }
+        ],
+        "player_reply": [
+            "Bagaimana kalau dibawa ke tempat servis?",
+            "Mungkin ada cerita di baliknya..."
+        ]
+    },
+    "31001": {
+        "id": 31001,
+        "poster": "Katakan sesuatu yang orang lain belum tahu.",
+        "likes": "1",
+        "views": 9577,
+        "title": "[Spam] Informasi rahasia, nanti dihapus.",
+        "text": "Baru saja dapat informasi langsung dari beberapa sumber. Sepertinya bos kita tidak akan punya penerus. Kondisi di lokasi benar-benar mengerikan, dan pelakunya masih belum tertangkap.\nInformasi ini pasti akan dirahasiakan, tapi semuanya sudah terjadi. New Eridu akan berubah.\nKalau kalian tidak percaya, lihat foto ini.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Bicara Apa Adanya",
+                "content": "TS ngomong apaan sih? Berhenti ngomong muter-muter dan angkat kaki dari New Eridu. Terus, kakek di foto itu juga kelihatannya enggak bisa dipercaya. Jangan posting beginian lagi."
+            },
+            {
+                "floor": 2,
+                "commenter": "Tertekan",
+                "content": "Dalam tiga menit, aku mau semua informasi tentang wanita berambut panjang di foto ini."
+            },
+            {
+                "floor": 3,
+                "commenter": "Mahasiswa Lugu",
+                "content": "Meski postingan TS bosenin, tapi cewek ini beneran cantik banget, meski enggak kelihatan wajahnya. Apa dia artis?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Dukung Tim Harimau Minerva di Piala Ridu",
+                "content": "Kayaknya gue pernah lihat kakek ini di TV. Bukannya itu Mosseint, bosnya High Ambitions Corp.? Foto ini diambil TS ya? Kelihatannya kayak pesta kalangan elit.\nEh bentar... TS tadi bilang garis keturunan si bos bakal putus... Kalau bos yang dimaksud Mosseint, jangan-jangan terjadi sesuatu pada anaknya?"
+            },
+            {
+                "floor": 5,
+                "commenter": "Tidak Kerja, Tidak Mati",
+                "content": "Maksudnya apa? Cewek cantik ini? Sebenarnya ada apa sih, TS tidak bisa cerita lebih detail lagi? Apakah High Ambitions Corp. kena masalah besar?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Kebenaran Hanya Satu (Tapi Bisa Membelah Diri)",
+                "content": "Aku sudah cek, ternyata Mosseint memang memiliki sepasang anak angkat laki-laki dan perempuan, hal ini dia mengakuinya sendiri dalam sebuah wawancara beberapa tahun lalu. Katanya, anak angkat laki-lakinya meninggal karena kecelakaan, sedangkan anak angkat perempuannya bekerja sebagai peneliti di salah satu institusi riset milik perusahaan. Dia hampir tidak pernah muncul di depan publik selama bertahun-tahun menjadi sosok yang misterius.\nSoal foto yang diposting TS, setelah sedikit diperhatikan, sepertinya diambil di sebuah pesta kalangan elit sekitar satu atau dua tahun lalu. Aku agak ingat lobi ini, pamanku pernah jadi pelayan di sana. Aku enggak menemukan foto yang sama, jadi sepertinya apa yang dikatakan TS mungkin saja benar."
+            },
+            {
+                "floor": 7,
+                "commenter": "Cuma Penasaran",
+                "content": "Eh yang komentar di atas, kamu detektif ya...? Ngomong-ngomong, aku baru saja melihat postingan berita tentang Mosseint. Ternyata memang terjadi sesuatu pada putrinya, harusnya kelihatan dari sikap atau tingkahnya, kan?"
+            }
+        ],
+        "player_reply": []
+    },
+    "31002": {
+        "id": 31002,
+        "poster": "111 Hari Lagi Menuju Liburan",
+        "likes": "9",
+        "views": 2663,
+        "title": "[Spam] Kenapa bos orang lain semua tugas dinas, tapi bosku...",
+        "text": "Teman-temanku belakangan ini liburan atau santai-santai di tempat kerja. Kalau ditanya, ternyata bos mereka semua sedang dinas keluar kota, jadi beban kerja mereka langsung berkurang banyak. Tidak adil!! Kenapa cuma bosku yang tidak cuti, dan masih saja duduk di mejanya sambil minum teh hangat dan nulis laporan kerja buat komisaris!! Tolong ajak bosku pergi dinas juga, biar aku juga bisa santai-santai dan liburan!!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Kapan Hari Carrot Emas?",
+                "content": "Bos pada rombongan dinas, memangnya lagi ada apa? Teman-teman TS dari perusahaan mana saja?"
+            },
+            {
+                "floor": 2,
+                "commenter": "[TS] 111 Hari Lagi Menuju Liburan",
+                "content": "TOPS, HAND, HIA, pemerintah kota... entahlah, relasiku sangat keren."
+            },
+            {
+                "floor": 3,
+                "commenter": "Peneliti Void Hunter",
+                "content": "TS sempat menyebut komisaris, kalau dilihat dari postingannya, sepertinya mereka cuma staf biasa di Public Security? Beberapa organisasi yang disebut tadi memang pemain besar, dibanding mereka, Public Security memang terasa kurang istimewa..."
+            },
+            {
+                "floor": 4,
+                "commenter": "Tidak Ganti Nama Sebelum Diet",
+                "content": "Tunggu, seorang petugas PubSec main Inter-Knot... TS, ini enggak masalah? Lagi pula foto ini memperlihatkan jari dan telinga TS, kayaknya gampang buat nebak kamu petugas Public Security yang mana."
+            },
+            {
+                "floor": 5,
+                "commenter": "Aku Tidak Sarkas",
+                "content": "TS: Aku pernah punya pekerjaan"
+            },
+            {
+                "floor": 6,
+                "commenter": "Pembeli Relik Hollow AAA",
+                "content": "Lihat, TS sudah tidak membalas kita. Jangan-jangan postingan ini sebentar lagi dihapus?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Pemain Juru Masak",
+                "content": "Tapi kalau dipikir-pikir lagi, kalau orang-orang dari begitu banyak organisasi pergi dinas secara bersamaan, kayaknya ini beneran deh. Beberapa waktu lalu ada juga dari White Star Institute yang posting... Jangan-jangan memang ada pertemuan rahasia?"
+            }
+        ],
+        "player_reply": []
+    },
+    "31003": {
+        "id": 31003,
+        "poster": "Ken Membahas Ridu",
+        "likes": "13",
+        "views": 8465,
+        "title": "[Intel] Mosseint, Pemimpin High Ambitions Corp., Terlihat di Pesta Amal",
+        "text": "Baru-baru ini, pimpinan High Ambitions Corp., Mosseint, menghadiri sebuah pesta amal yang digelar di Janus Quarter. Acara amal tersebut diselenggarakan oleh Odeum High Ambitions Entertainment (selanjutnya disebut Odeum), dengan tujuan mengajak semua pihak untuk terus memberi dukungan dan bantuan kepada keluarga-keluarga yang terdampak jatuhnya ibu kota lama.\nSebagai pendiri High Ambitions Corp., Mosseint telah lama berkecimpung di bidang keuangan, hiburan, dan ilmu pengetahuan Hollow sejak era Eridu. Dia membangun High Ambitions dari nol hingga menjadi sebuah kerajaan bisnis berskala besar, bahkan di antara anggota Aliansi TOPS. Menariknya, dia selama ini dikenal rendah hati dan jarang tampil di acara publik seperti ini.\nFoto itu menampilkan Mosseint saat diwawancarai oleh para wartawan. Tampaknya dia berada dalam suasana hati yang baik dan berbincang cukup banyak topik.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Cuma Penasaran",
+                "content": "Biasanya, berita membosankan seperti ini bahkan setengah tahun pun tidak akan ada yang membacanya... Tapi kalau apa yang dikatakan di postingan lain itu benar, bahwa putri Mosseint benar-benar mengalami sebuah insiden... kenapa dia malah hadir di pesta seperti itu? Padahal sebelumnya dia tidak pernah ikut sama sekali?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Tidak Kerja, Tidak Mati",
+                "content": "Dari postingan lain... kalau dipikir-pikir memang aneh, anaknya sedang dalam masalah, tapi dia malah terlihat senang? Atau mungkin saat dia hadir di pesta itu, belum terjadi apa-apa?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Dukung Tim Harimau Minerva di Piala Ridu",
+                "content": "Lho, malah nanya ke kita? Terus kita harus nanya ke siapa?Warga biasa kayak kita enggak mungkin bisa ikut acara eksklusif begitu. Mana mungkin tahu persis urutan kejadiannya?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Kebenaran Hanya Satu (Tapi Bisa Membelah Diri)",
+                "content": "Aku sudah cek, pesta ini diadakan tadi malam. Bahkan sebelum acaranya dimulai, orang dalam yang itu sudah lebih dulu membuat postingan. Berdasarkan deskripsi orang tersebut, dia sepertinya bukan orang dalam yang tahu banyak detail, kemungkinan besar dia mendapatkan intel itu dari kenalannya.\nDengan kata lain, saat pesta dimulai, kabar ini sudah menyebar keluar dari lingkaran internal. Menurutku, kecil kemungkinan Mosseint masih belum mengetahui kabar tersebut saat acara dimulai."
+            },
+            {
+                "floor": 5,
+                "commenter": "[TS] Ken Membahas Ridu",
+                "content": "Ada apa nih? Kenapa jumlah penonton postinganku belakangan tiba-tiba melonjak? Meski enggak tahu kalian lagi ngomongin apa, dan mumpung sudah terlanjur mampir, jangan lupa follow dong. Ken bakal terus hadir dengan berita paling baru dan intel paling panas. Jangan sampai ketinggalan!"
+            },
+            {
+                "floor": 6,
+                "commenter": "Tidak Kerja, Tidak Mati",
+                "content": "Yang komentar ke-4 benar-benar detektif ulung... Jadi maksudmu, orang tua itu sudah tahu putrinya mengalami musibah, tapi masih datang ke gala sambil tersenyum? Semakin digali semakin banyak yang janggal ya... orang-orang elit memang enggak punya empati."
+            },
+            {
+                "floor": 7,
+                "commenter": "Manusia Tikus",
+                "content": "Baru datang, ada apa ini, Inter-Knot merekomendasikan postingan ini ke aku, katanya lagi viral? Siapa orang tua itu? Terus postingan lain yang kalian sebut itu di mana? Aku mau lihat!"
+            }
+        ],
+        "player_reply": []
+    },
+    "32001": {
+        "id": 32001,
+        "poster": "Kepala Koki keluarga Hoshimi",
+        "likes": "6000",
+        "views": 8956,
+        "title": "[Spam] Hoshimi Miyabi yang menggemaskan tampil memukau!",
+        "text": "Minigame yang kujanjikan kepada kalian semua, \"Echoes of the Hollow\", akhirnya resmi dirilis hari ini! Seperti yang kalian tahu, aku penggemar berat Hoshimi Miyabi, Kepala Hollow Special Operations Section 6, jadi game ini pada dasarnya adalah karya fan art yang dibintangi Miyabi sendiri. Awalnya, aku hanya ingin membuat konten fan art kasual yang menampilkan Miyabi. Tapi tahu-tahu, aku sudah menggambar hampir 3.000 sketsa karakter... Dan ini sama sekali bukan salahku, oke?! Begitu melihat Miyabi bertarung, aku tidak tahan ingin memasukkan setiap momen itu ke dalam game! Tentu saja, aku mungkin sampai kehilangan banyak rambut gara-gara begadang, tapi begitu melihat rambut indah Miyabi terurai dengan sempurna di dalam game, semua penderitaan itu terbayar! Pokoknya, sebagai ucapan terima kasih atas semua dukungan kalian, dan sebagai hadiah untuk semua penggemar Miyabi di luar sana yang sama denganku. Game ini sepenuhnya GRATIS! Ayo download dan beri dukungan kalian! Tunjukkan Miyabi yang super menggemaskan ini ke seluruh dunia!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Ulasan Game APAAPA",
+                "content": "Aku ikut! Ayo gas! Keajaiban... Ini benar-benar keajaiban!"
+            },
+            {
+                "floor": 2,
+                "commenter": "Belah Hollow dengan Kedua Telinga",
+                "content": "Telinganya panjang banget, lancip, realistis, dan gemas banget! Cuma demi telinga ini saja, aku mau dukung sepenuhnya!"
+            },
+            {
+                "floor": 3,
+                "commenter": "BudidayaMelon_01",
+                "content": "Aku juga! Salut banget buat TS yang berhasil menangkap pesona Miyabi dengan sempurna lewat game seperti ini—gila, keren banget!"
+            },
+            {
+                "floor": 4,
+                "commenter": "TidakGantiNamaSampaiBisaGambar",
+                "content": "Hah? 3.000 sketsa?!"
+            },
+            {
+                "floor": 5,
+                "commenter": "jangan_berisik",
+                "content": "Aku lagi mimpi, ya? Enggak mungkin aku bisa main game sekeren ini gratis, kan?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Anonim",
+                "content": "Ini karya yang luar biasa, terima kasih. Kebetulan aku sedang berlatih mendukung seratus kreator dan memastikan untuk menunjukkan apresiasiku, jadi sepertinya ini momen yang tepat untuk menyampaikan rasa terima kasihku kepada TS."
+            },
+            {
+                "floor": 7,
+                "commenter": "MataElang",
+                "content": "Astaga, ini benar-benar legenda itu?! TS, sini lihat ini!!"
+            },
+            {
+                "floor": 8,
+                "commenter": "[TS] Kepala Koki keluarga Hoshimi",
+                "content": "Ahhhh! Aku ketinggalan apaan?! Wahhh... Nona Miyabi baik banget, lemah lembut! Aku bakal dukung Nona Miyabi seumur hidup!!!"
+            }
+        ],
+        "player_reply": [
+            "Semoga follower nambah terus, TS!",
+            "Enggak sabar lihat karya kerenmu yang berikutnya!"
+        ]
+    },
+    "32002": {
+        "id": 32002,
+        "poster": "bangun_di_vila",
+        "likes": "41",
+        "views": 2289,
+        "title": "[Spam] Bintang jatuh lewat, jangan lupa bikin permohonan!",
+        "text": "Tanpa filter, tanpa edit, langsung dari kamera. Enggak percaya? Silakan tutup postingan ini. Yang enggak percaya dilarang ikut-ikut!\nJadi hari ini, seperti biasa, aku pergi ke teras vila keluargaku. Dengan sepuluh pelayan yang melayani setiap kebutuhanku, aku lagi mau menikmati kopi yang digiling sendiri, menikmati cahaya senja, dan menjalani hari biasa yang penuh kebahagiaan...\nTapi, aku melihat bintang jatuh melintas di langit! Padahal aku yang sudah sering bepergian dan melihat banyak tempat di penjuru dunia belum pernah melihat pemandangan seperti ini. Jadi tentu saja, aku mau membagikan momen langka ini kepada kalian semua!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "PenjelajahGalaksi",
+                "content": "Dilihat dari detailnya, ini kayak bukan meteor biasa. Mungkin sampah antariksa dari zaman dulu yang terbakar saat jatuh menghantam permukaan. Sabuk badai Minerva juga tidak jauh dari sini. Cuaca di sana memang cukup ekstrem, jadi kejadian seperti ini sebenarnya wajar."
+            },
+            {
+                "floor": 2,
+                "commenter": "TidakPunyaFilter",
+                "content": "Kalau mau posting foto meteor, setidaknya kasih detail soal meteornya, dong. Jangan mancing para penggemar astronomi kayak kami buat mampir ke sini cuma buat buang-buang waktu... Sebenarnya siapa yang peduli seberapa besar balkon di vilamu? Atau berapa banyak pelayanmu?!"
+            },
+            {
+                "floor": 3,
+                "commenter": "rekrutan_kampus",
+                "content": "Bintang terang, bintang gemilang, semoga malam ini aku bisa lolos wawancara High Ambitions Corp.!"
+            },
+            {
+                "floor": 4,
+                "commenter": "PenyayangKeluarga",
+                "content": "Semoga ini benar-benar meteor, bukan sesuatu yang berhubungan dengan Hollow..."
+            },
+            {
+                "floor": 5,
+                "commenter": "DisiniBuatDrama",
+                "content": "Posting foto-foto lainnya, dong! Itu langitnya menghadap ke arah mana, sih? Terus meteornya jatuh ke arah mana? Aku sih gas aja kalau diajak petualangan buat nyari lokasi jatuhnya!"
+            },
+            {
+                "floor": 6,
+                "commenter": "Ahli-Astrologi",
+                "content": "Bagikan bintang jatuh ini, dan keberuntungan akan menghampirimu dalam tujuh hari."
+            },
+            {
+                "floor": 7,
+                "commenter": "penonton_hoki",
+                "content": "Aku juga lihat meteornya jatuh... tapi di sekitar tempatku tidak ada vila sama sekali?"
+            }
+        ],
+        "player_reply": [
+            "Ini pasti Phoenix...",
+            "Semoga tidak bikin keributan..."
+        ]
+    },
+    "32003": {
+        "id": 32003,
+        "poster": "Intel Dijual",
+        "likes": "29",
+        "views": 6900,
+        "title": "[Intel] Tentang Pria yang Tidak Boleh Disebut Namanya",
+        "text": "Biar kuingatkan dulu, kalau kalian mau balas postingan ini, jangan sebut nama itu secara langsung. Aku tidak mau diajak ngopi sama petugas! Singkat cerita: aku lagi lewat gedung HAND waktu melihat orang itu (kata kunci: Raja Iblis Public Security) keluar dari sana. Kelihatannya jelas banget dia baru saja bertemu dengan seseorang dari HSO. Aku dengar dari orang dalam... eh, maksudku, temanku di Public Security, kalau Raja Iblis itu belakangan ini lagi ada urusan mendesak di luar kota.\nNah, kalau digabung dengan pertemuannya sama orang-orang HSO... eh tunggu, apa dia mau memimpin tim untuk masuk ke Hollow?!\nPokoknya, buat kalian yang berencana masuk ke Hollow dalam waktu dekat, tetap waspada, jangan sembarangan membocorkan informasi, dan semoga enggak sampai berpapasan sama orang ini. Percaya deh, ketemu Ethereal saja masih lebih mending.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Hamster",
+                "content": "Iya, kata ibuku, orang ini juga kayaknya sebentar lagi pergi dinas. Beberapa tugas resminya bahkan sudah dialihkan ke orang lain."
+            },
+            {
+                "floor": 2,
+                "commenter": "Balikin Lisensiku",
+                "content": "Dia mau masuk Hollow? Bukannya dia cuma kerja di kantor? Aku hampir tidak pernah dengar dia turun ke lapangan."
+            },
+            {
+                "floor": 3,
+                "commenter": "Hamster",
+                "content": "Jelas, kalau ada petinggi yang ditugaskan untuk turun ke lapangan, berarti urusannya pasti serius. Wajar kalau tidak diumumkan ke publik."
+            },
+            {
+                "floor": 4,
+                "commenter": "Anonim",
+                "content": "Aku belum dengar apa-apa soal dia masuk ke Hollow. Setidaknya, kami tidak menerima permintaan bantuan."
+            },
+            {
+                "floor": 5,
+                "commenter": "Celengan Denny",
+                "content": "Katanya, dia punya satu tim spesialis yang tidak jelas di bawah komandonya. Semuanya dibiayai dari kantongnya sendiri, dan sama sekali tidak diketahui pemerintah kota. Kayaknya mereka bakal dipanggil buat urusan kali ini."
+            },
+            {
+                "floor": 6,
+                "commenter": "Anonim",
+                "content": "...Kamu beneran mau ngejelekin para spesialis kasus itu? Niat mati, ya? Anak buah Lowell bakal melacak IP-mu sebelum kamu sadar."
+            },
+            {
+                "floor": 7,
+                "commenter": "Sstt_Bangga?",
+                "content": "TS mending hapus postingan ini segera, komentarnya udah tidak terkendali... bahkan Lowell sampai disebutkan..."
+            }
+        ],
+        "player_reply": []
+    },
+    "32004": {
+        "id": 32004,
+        "poster": "Investigator yang Sedang Lewat",
+        "likes": "123",
+        "views": 1670,
+        "title": "[Spam] Ini pasti salah Hollow!",
+        "text": "Waaah... Aku cuma Investigator Hollow biasa, tidak pernah berbuat macam-macam, jadi kenapa Hollow malah kayaknya dendam sama aku... Pokoknya, begini ceritanya... apa ada yang sadar kalau data induk Hollow yang disediakan Asosiasi belakangan ini sering bermasalah? Bahkan Carrot yang datanya belum kedaluwarsa saja satu per satu mulai error, dan terakhir malah bikin aku tersesat di dalam Hollow. Hadeh... Mau tidak mau, aku terpaksa bikin Carrot sendiri dengan cara lama. Jadi, ada yang lagi butuh Carrot? Beli banyak bisa dapat diskon!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Pensiun40Thn",
+                "content": "Aku bisa jamin, Carrot yang dijual TS sangat berguna. Rosetta Data belakangan ini memang sering error, dan mau berapa kali pun bikin laporan, enggak bakal ada perubahan. Belum lagi layanan pelanggan HIA rasanya kayak ngomong sama tembok.. Kayaknya kita memang harus cari cara sendiri."
+            },
+            {
+                "floor": 2,
+                "commenter": "TehYuzu",
+                "content": "Rosetta Data juga bisa bermasalah? Apa mungkin terinfeksi virus?"
+            },
+            {
+                "floor": 3,
+                "commenter": "ProxyHoki_RankE",
+                "content": "Tapi Carrot-ku aman-aman saja. Jangan nyebarin rumor!"
+            },
+            {
+                "floor": 4,
+                "commenter": "tukang cor",
+                "content": "Buat yang bilang Rosetta Data baik-baik saja, emangnya kamu masuk Hollow berapa kali seminggu? Jangan-jangan data terakhirnya sudah enam bulan lalu. Carrot-ku juga kemarin error. Mending kita kompak dan ramai-ramai bikin laporan!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Keselamatan lebih penting—",
+                "content": "Aku mau pre-order beberapa Carrot yang dibuat secara tradisional. Harga dan alamat pengirimannya sudah kukirim lewat DM, jadi tolong dicek ya!"
+            }
+        ],
+        "player_reply": []
+    },
+    "32005": {
+        "id": 32005,
+        "poster": "Roscaelifer Central Counting Department.",
+        "likes": "2333",
+        "views": 6666,
+        "title": "[Iklan] Carrot Pintar Roscaelifer, pilihan terbaik untuk tumbuh kembang anak",
+        "text": "Anak Anda masih kesulitan belajar matematika? Masih stres sampai mau menjambak rambut karena si kecil tidak bisa hitungan dasar? Jangan khawatir! Carrot Pintar Roscaelifer—memberikan kemampuan berhitung setara dengan Celestial Nexus kepada anak Anda! Paparan sinar matahari dari tempat tinggi akan membuat si kecil tetap cerdas dan cepat tanggap! DM kami untuk info selengkapnya...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Eh Bagus Ya",
+                "content": "Jadi Roscaelifer menghasilkan Carrot seperti ini..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Kaya Makmur",
+                "content": "Teman-teman, ini benar! Benar-benar bisa meningkatkan daya komputasi anak-anak!"
+            },
+            {
+                "floor": 3,
+                "commenter": "bijak_seperti_air",
+                "content": "Aku sudah DM, bos! Ujian matematika anakku kuserahkan padamu!"
+            },
+            {
+                "floor": 4,
+                "commenter": "AnjingBesar_NomNom",
+                "content": "Central Counting Department Roscaelifer? Produk resmi dari \"Celestial Nexus\"?"
+            },
+            {
+                "floor": 5,
+                "commenter": "FOMObanget",
+                "content": "Apa aku bisa minta pemilik Restoran Simmer Hot Pot memberiku Carrot ini?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Lady_Sunbringer_Tiada_Dua",
+                "content": "Hei yang komentar di atas, ada-ada saja!"
+            }
+        ],
+        "player_reply": [
+            "Ini Carrot beneran, kan?",
+            "Memangnya ada orang yang beli beneran?"
+        ]
+    },
+    "32006": {
+        "id": 32006,
+        "poster": "AAA_RajaHollowRider",
+        "likes": "45",
+        "views": 3454,
+        "title": "[Spam] Ada yang mau beli Carrot barengan?",
+        "text": "Temenku dulu pernah ngasih aku Carrot tangan pertama seharga 99.999 Denny, dan ternyata beneran bagus. Di sepanjang rutenya juga enggak ketemu satu pun agen HIA. Kayaknya ini emang data tangan pertama beneran!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Tikus_Evakuasi",
+                "content": "Carrot? Bukannya cuma pemerintah kota atau HAND yang punya itu?"
+            },
+            {
+                "floor": 2,
+                "commenter": "BadaiDatang",
+                "content": "Ini pasti penipuan! Mana mungkin ini data tangan pertama? Emangnya kamu punya saudara di Roscaelifer?"
+            },
+            {
+                "floor": 3,
+                "commenter": "RajaLahap_Papago",
+                "content": "Aku sudah DM, bro! Spill infonya!"
+            },
+            {
+                "floor": 4,
+                "commenter": "FOMObanget",
+                "content": "Bro, kayaknya sebentar lagi Public Security bakal nyariin kamu."
+            },
+            {
+                "floor": 5,
+                "commenter": "HangatKopi",
+                "content": "Serius bisa posting beginian di Inter-Knot? Emangnya Public Security enggak ngawasin Inter-Knot?"
+            },
+            {
+                "floor": 6,
+                "commenter": "eh_taugaksih",
+                "content": "Ini Public Security, buka pintunya!"
+            }
+        ],
+        "player_reply": [
+            "Carrot tangan pertama? Mencurigakan...",
+            "Jangan bilang ada Carrot beneran yang berhasil diselundupkan..."
+        ]
+    },
+    "32007": {
+        "id": 32007,
+        "poster": "Anjing Juga Punya Mimpi",
+        "likes": "220",
+        "views": 3262,
+        "title": "[Spam] Jelaskan kenapa Biggest Fan bertingkah aneh hari ini?",
+        "text": "Bestie, dengerin deh! Hari ini aku datang ke jumpa penggemar dan akhirnya bisa lihat tiga Angel favoritku secara langsung! Aku beneran bahagia banget sekarang Ｏ(≧▽≦)Ｏ\nPas sampai rumah, aku lihat foto-foto dari fotografer acara, dan baru sadar kalau ketua klub, Biggest Fan, ternyata duduk persis di depanku sepanjang acara?! Hari ini bener-bener hari keberuntunganku!!\nTapiii... di foto-fotonya dia kelihatan agak... aneh? Apa cuma aku yang ngerasa dia kelihatan beda, atau jangan-jangan dia takut sama aku? Sebenarnya ada apa sih? Ada yang tahu lengkapnya enggak?? Aku jadi khawatir banget, OMG...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "JepitRambut_Sunna",
+                "content": "Hei TS, Biggest Fan itu bukan takut sama kamu! Tapi pernah kepikiran enggak kalau... mungkin pakaian ini agak..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Penakut_Sejak_Awal",
+                "content": "TS, tolong jangan pakai gaya yang \"waaah\" imut-imut itu deh. Sekarang aku juga kaget kayak Biggest Fan..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Panduan Busana Angel",
+                "content": "Wah, baju tank top macho akhirnya muncul juga! Waktu TS bilang mau mundur dari dunia fashion, aku langsung bilang, \"Aku tidak setuju!\""
+            },
+            {
+                "floor": 4,
+                "commenter": "100%Dukung_AngelofDelusion",
+                "content": "Eh? Jangan bilang cuma aku yang ngerasa TS itu kekar dan bisa diandalkan? Delulu kita makin lama makin seru aja!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Melihat-Segalanya",
+                "content": "Eh, maksud dari komentar di atas adalah... makin pink tank top-nya, makin kencang juga kamu menyemangatinya?"
+            },
+            {
+                "floor": 6,
+                "commenter": "BotPelatihCowokGanteng",
+                "content": "Ckck, TS sudah tanya serius, tapi enggak ada satu pun yang jawab beneran di kolom komentar! Ya udah deh, aku juga enggak bakal jawab..."
+            },
+            {
+                "floor": 7,
+                "commenter": "Ilove_Jagoanku",
+                "content": "TS! TS! Keren banget sudah dukung Angels of Delusion! Selera kamu emang bukan kaleng-kaleng, TS! Lanjutkan!"
+            }
+        ],
+        "player_reply": [
+            "Sekarang aku harus bilang apa coba...",
+            "Biggest Fan baik-baik saja, jangan khawatir!"
+        ]
     }
 }

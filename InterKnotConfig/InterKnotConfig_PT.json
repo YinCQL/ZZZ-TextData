@@ -1,6 +1,6 @@
 {
     "1001": {
-        "id": "1001",
+        "id": 1001,
         "poster": "lalala",
         "likes": "34",
         "views": 5881,
@@ -32,7 +32,7 @@
         "player_reply": []
     },
     "1002": {
-        "id": "1002",
+        "id": 1002,
         "poster": "Lenda do Ócio",
         "likes": "105",
         "views": 3864,
@@ -64,7 +64,7 @@
         "player_reply": []
     },
     "1003": {
-        "id": "1003",
+        "id": 1003,
         "poster": "Índigo",
         "likes": "364",
         "views": 7989,
@@ -96,7 +96,7 @@
         "player_reply": []
     },
     "1004": {
-        "id": "1004",
+        "id": 1004,
         "poster": "Sino dos Ventos Espiral",
         "likes": "512",
         "views": 4124,
@@ -133,7 +133,7 @@
         "player_reply": []
     },
     "1005": {
-        "id": "1005",
+        "id": 1005,
         "poster": "Meu Gato É O Cara",
         "likes": "312",
         "views": 9631,
@@ -165,7 +165,7 @@
         "player_reply": []
     },
     "1007": {
-        "id": "1007",
+        "id": 1007,
         "poster": "CHAR",
         "likes": "6",
         "views": 7812,
@@ -200,7 +200,7 @@
         ]
     },
     "1008": {
-        "id": "1008",
+        "id": 1008,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 8267,
@@ -237,7 +237,7 @@
         "player_reply": []
     },
     "1009": {
-        "id": "1009",
+        "id": 1009,
         "poster": "JackBorboleta",
         "likes": "62",
         "views": 12563,
@@ -269,7 +269,7 @@
         "player_reply": []
     },
     "1010": {
-        "id": "1010",
+        "id": 1010,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 13409,
@@ -306,7 +306,7 @@
         "player_reply": []
     },
     "1011": {
-        "id": "1011",
+        "id": 1011,
         "poster": "fofura_homeopática",
         "likes": "16895",
         "views": 3697,
@@ -340,7 +340,7 @@
         ]
     },
     "1014": {
-        "id": "1014",
+        "id": 1014,
         "poster": "Suuuuri",
         "likes": "7",
         "views": 2168,
@@ -380,7 +380,7 @@
         ]
     },
     "1015": {
-        "id": "1015",
+        "id": 1015,
         "poster": "Pescador",
         "likes": "25",
         "views": 559,
@@ -414,7 +414,7 @@
         ]
     },
     "1016": {
-        "id": "1016",
+        "id": 1016,
         "poster": "Cavaleirinho Corajoso",
         "likes": "0",
         "views": 309,
@@ -444,7 +444,7 @@
         ]
     },
     "1017": {
-        "id": "1017",
+        "id": 1017,
         "poster": "Panqueca de Camarão",
         "likes": "13",
         "views": 241,
@@ -481,7 +481,7 @@
         "player_reply": []
     },
     "1018": {
-        "id": "1018",
+        "id": 1018,
         "poster": "Especialista em Queda Capilar",
         "likes": "21",
         "views": 319,
@@ -528,10 +528,10 @@
         "player_reply": []
     },
     "1020": {
-        "id": "1020",
+        "id": 1020,
         "poster": "TrampoDoBom",
         "likes": "5",
-        "views": 204,
+        "views": 10,
         "title": "[Comissão] Serviço Profissional em Esferas Negras ★ Manutenção de Molas",
         "text": "Ótimo trabalho de meio período: fácil de começar, pagamento diário alto.\nSó precisamos de um profissional. Entre em contato rápido!",
         "script": null,
@@ -560,27 +560,14 @@
                 "floor": 4,
                 "commenter": "TrabalhoEhMinhaVida",
                 "content": "Tô fora. Gente honesta nunca tem nem chance de conseguir uma comissão de qualidade."
-            },
-            {
-                "floor": 3,
-                "commenter": "Dicas Anti-Fraude",
-                "content": "As pessoas ainda caem nesses anúncios? Ótimo trabalho de meio período? É só um golpe para conseguir um depósito ou taxas de treinamento das pessoas."
-            },
-            {
-                "floor": 4,
-                "commenter": "MeuDestinoMinhasRegras",
-                "content": "Nem esquenta.\nA publicação dizia \"só precisamos de uma pessoa\", e o primeiro comentário apareceu, tipo, um segundo depois. É óbvio que isso foi combinado."
-            },
-            {
-                "floor": 5,
-                "commenter": "TrabalhoEhMinhaVida",
-                "content": "Tô fora. Gente honesta nunca tem nem chance de conseguir uma comissão de qualidade."
             }
         ],
-        "player_reply": []
+        "player_reply": [
+            "Eu."
+        ]
     },
     "1021": {
-        "id": "1021",
+        "id": 1021,
         "poster": "Estagiário Infeliz",
         "likes": "2",
         "views": 573,
@@ -614,7 +601,7 @@
         ]
     },
     "1022": {
-        "id": "1022",
+        "id": 1022,
         "poster": "Efetivado no Trampo",
         "likes": "15",
         "views": 3092,
@@ -653,7 +640,7 @@
         ]
     },
     "1023": {
-        "id": "1023",
+        "id": 1023,
         "poster": "Estagiário Feliz",
         "likes": "2",
         "views": 976,
@@ -703,7 +690,7 @@
         ]
     },
     "1024": {
-        "id": "1024",
+        "id": 1024,
         "poster": "Anônimo",
         "likes": "21",
         "views": 121,
@@ -732,7 +719,7 @@
         ]
     },
     "1025": {
-        "id": "1025",
+        "id": 1025,
         "poster": "Estagiário Irritado",
         "likes": "5",
         "views": 421,
@@ -766,7 +753,7 @@
         ]
     },
     "1026": {
-        "id": "1026",
+        "id": 1026,
         "poster": "Funcionário Fixo Feliz",
         "likes": "5",
         "views": 651,
@@ -805,8 +792,55 @@
             "Até que enfim, um final gratificante."
         ]
     },
+    "1029": {
+        "id": 1029,
+        "poster": "TrampoDoBom",
+        "likes": "5",
+        "views": 204,
+        "title": "[Comissão] Serviço Profissional em Esferas Negras ★ Manutenção de Molas",
+        "text": "Ótimo trabalho de meio período: fácil de começar, pagamento diário alto.\nSó precisamos de um profissional. Entre em contato rápido!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 3,
+                "commenter": "Dicas Anti-Fraude",
+                "content": "As pessoas ainda caem nesses anúncios? Ótimo trabalho de meio período? É só um golpe para conseguir um depósito ou taxas de treinamento das pessoas."
+            },
+            {
+                "floor": 4,
+                "commenter": "MeuDestinoMinhasRegras",
+                "content": "Nem esquenta.\nA publicação dizia \"só precisamos de uma pessoa\", e o primeiro comentário apareceu, tipo, um segundo depois. É óbvio que isso foi combinado."
+            },
+            {
+                "floor": 5,
+                "commenter": "TrabalhoEhMinhaVida",
+                "content": "Tô fora. Gente honesta nunca tem nem chance de conseguir uma comissão de qualidade."
+            },
+            {
+                "floor": 6,
+                "commenter": "FreelancerBBB",
+                "content": "Não acredito que ainda tem gente roubando comissão dos outros. Essa é sua? As IDs nem batem. Você vai tentar dar alguma desculpa idiota, falar que teve que trocar de conta porque a outra foi hackeada. É ridículo esse teatrinho pra roubar comissão! Tomara que a sua conta principal seja hackeada mesmo!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Coocoocoocooda",
+                "content": "Tsc. Calma, cara..."
+            },
+            {
+                "floor": 8,
+                "commenter": "$ó_a$_Robusta$",
+                "content": "Acho que entendi... É a primeira publicação do OP pra ajudar um amigo a subir de nível? Ele não sabia configurar as permissões de exibição... Se for isso, não foi culpa da pessoa aceitar a tarefa."
+            },
+            {
+                "floor": 9,
+                "commenter": "Dicas Anti-Fraude",
+                "content": "Hahahaha, eu não sabia que isso ia ser tão engraçado quando cliquei!\nEntão é um golpe ao contrário!"
+            }
+        ],
+        "player_reply": []
+    },
     "2001": {
-        "id": "2001",
+        "id": 2001,
         "poster": "LZ",
         "likes": "3724",
         "views": 19012,
@@ -833,7 +867,7 @@
         "player_reply": []
     },
     "2002": {
-        "id": "2002",
+        "id": 2002,
         "poster": "FormaDeMestreLataAtivar",
         "likes": "1490",
         "views": 7540,
@@ -870,7 +904,7 @@
         "player_reply": []
     },
     "2003": {
-        "id": "2003",
+        "id": 2003,
         "poster": "Cisne Negro",
         "likes": "465",
         "views": 7195,
@@ -902,7 +936,7 @@
         "player_reply": []
     },
     "2004": {
-        "id": "2004",
+        "id": 2004,
         "poster": "Iridescente",
         "likes": "159",
         "views": 2536,
@@ -934,7 +968,7 @@
         "player_reply": []
     },
     "2005": {
-        "id": "2005",
+        "id": 2005,
         "poster": "álibidogato",
         "likes": "2229",
         "views": 12577,
@@ -971,7 +1005,7 @@
         "player_reply": []
     },
     "2006": {
-        "id": "2006",
+        "id": 2006,
         "poster": "D.L",
         "likes": "12",
         "views": 9364,
@@ -1031,7 +1065,7 @@
         ]
     },
     "2007": {
-        "id": "2007",
+        "id": 2007,
         "poster": "100PiclesDeAlgaProApocalipse",
         "likes": "12",
         "views": 3159,
@@ -1085,7 +1119,7 @@
         ]
     },
     "2009": {
-        "id": "2009",
+        "id": 2009,
         "poster": "Gênio Solitário",
         "likes": "56",
         "views": 6547,
@@ -1134,7 +1168,7 @@
         ]
     },
     "2010": {
-        "id": "2010",
+        "id": 2010,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 6225,
@@ -1166,7 +1200,7 @@
         "player_reply": []
     },
     "2011": {
-        "id": "2011",
+        "id": 2011,
         "poster": "Talento_De_Caroteno",
         "likes": "62",
         "views": 363,
@@ -1203,7 +1237,7 @@
         "player_reply": []
     },
     "2012": {
-        "id": "2012",
+        "id": 2012,
         "poster": "ArteExplosivaDoColt",
         "likes": "0",
         "views": 64,
@@ -1237,7 +1271,7 @@
         ]
     },
     "2013": {
-        "id": "2013",
+        "id": 2013,
         "poster": "Gunn",
         "likes": "13",
         "views": 3378,
@@ -1271,7 +1305,7 @@
         ]
     },
     "2014": {
-        "id": "2014",
+        "id": 2014,
         "poster": "FofocaOnipresente",
         "likes": "25",
         "views": 236,
@@ -1313,7 +1347,7 @@
         "player_reply": []
     },
     "2015": {
-        "id": "2015",
+        "id": 2015,
         "poster": "ID de Trabalho: 7",
         "likes": "1",
         "views": 1559,
@@ -1345,11 +1379,6 @@
                 "floor": 5,
                 "commenter": "Proxy Malvado",
                 "content": "Tomem cuidado, rapazes. Tenho um pequeno círculo de amigos Proxies, e alguns dos mais jovens e fortes disseram que queriam explorar essa Esfera Negra, mas não voltaram. Os agentes deles parecem ter entrado na Esfera Negra e, depois, foram mandados de volta... De qualquer forma, não é um risco que eu estaria disposto a correr. Foi mal, OP."
-            },
-            {
-                "floor": 6,
-                "commenter": "Gigan-T-vermelho",
-                "content": "Ninguém tá te forçando a gostar. É patético você vir procurar posts da Astra Yao pra vir querer aparecer."
             }
         ],
         "player_reply": [
@@ -1357,7 +1386,7 @@
         ]
     },
     "2016": {
-        "id": "2016",
+        "id": 2016,
         "poster": "PreguiçaPadrão",
         "likes": "34",
         "views": 637,
@@ -1396,10 +1425,10 @@
         ]
     },
     "2017": {
-        "id": "2017",
+        "id": 2017,
         "poster": "TrampoDoBom",
         "likes": "8",
-        "views": 173,
+        "views": 61,
         "title": "[Comissão] Serviço Profissional em Esferas Negras ★ Manutenção de Explosivos",
         "text": "Ótimo trabalho de meio período: fácil de começar, pagamento diário alto.\nAinda precisamos de um profissional. Entre em contato rápido!",
         "script": null,
@@ -1426,12 +1455,24 @@
             }
         ],
         "player_reply": [
-            "Seria uma briga de casal?",
-            "Isso parece bem mais que uma disputa por uma comissão..."
+            "Hum... Será que consigo?"
+        ]
+    },
+    "2018": {
+        "id": 2018,
+        "poster": "ID de Trabalho: 7",
+        "likes": "1",
+        "views": 1559,
+        "title": "[Comissão] Procura-se alguém com experiência em explorar Esferas Negras estranhas",
+        "text": "Sou um adjudicador dos Sete Mistérios Urbanos de Nova Eridu... Sim, é uma profissão real. Esse é o meu trabalho em tempo integral.\nMeu ofício envolve a investigação de Esferas Negras conhecidas por suas características especiais, o resumo das informações para os avaliadores e a manutenção da lista dos \"Sete Melhores\" atualizada.\nRecentemente, houve um debate acalorado sobre uma Esfera Negra chamada \"Profecia\", então comprei alguns dados na Interlaço. Pra ser sincero, não são de qualidade... É basicamente uma explicação geral sobre \"alguém lá dentro que pode profetizar o futuro e lhe dar poderes mágicos\". Quando perguntei mais sobre o assunto, as pessoas que forneceram as informações sumiram.\nHá muitos investigadores por aí que não são bons nesse trabalho, mas ainda assim ganham a vida. Não estou reclamando. É só a minha opinião.\nPreciso de um Proxy de verdade. Alguém que possa explorar a fundo a Esfera Profecia e me dar informações em primeira mão.\nPode ser assustador, mas a compensação não é de se jogar fora.",
+        "script": "O ambiente etéreo na Esfera Negra \"A Profecia\" parece causar leves distorções cognitivas. Achei que ela fosse entrar na lista de Mistérios Urbanos de Nova Eridu, mas talvez não seja o suficiente? Nova Eridu tem muitas Esferas Negras estranhas por aí!",
+        "comments": [],
+        "player_reply": [
+            "Eu aceito a comissão!"
         ]
     },
     "2019": {
-        "id": "2019",
+        "id": 2019,
         "poster": "Doninha-Siberiana",
         "likes": "11302",
         "views": 31020,
@@ -1464,8 +1505,53 @@
             "Eu te ajudo!"
         ]
     },
+    "2020": {
+        "id": 2020,
+        "poster": "TrampoDoBom",
+        "likes": "8",
+        "views": 173,
+        "title": "[Comissão] Serviço Profissional em Esferas Negras ★ Manutenção de Explosivos",
+        "text": "Ótimo trabalho de meio período: fácil de começar, pagamento diário alto.\nAinda precisamos de um profissional. Entre em contato rápido!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 16,
+                "commenter": "Só-Comissão-Top",
+                "content": "\"É incrível a gentileza que pode nascer de um bate-boca entre um casal...\nPode ser eu da próxima vez?\""
+            },
+            {
+                "floor": 19,
+                "commenter": "Dicas Anti-Fraude",
+                "content": "Hahahahaha, será que \"BBB\" perdoou \"AAA\"...?\nMas, {NICKNAME} foi tão eficiente da última vez, que acho que esse trabalho já deve estar feito."
+            },
+            {
+                "floor": 20,
+                "commenter": "[OP] TrampoDoBom",
+                "content": "Ele surtou da última vez, então essa comissão era pra ser um... pedido de desculpas.\nPelo jeito, ele ainda tá me ignorando, então vou passar essa pra você, {NICKNAME}. Depois penso em outra coisa."
+            },
+            {
+                "floor": 21,
+                "commenter": "Dicas Anti-Fraude",
+                "content": "Casal que farma junto permanece junto?"
+            },
+            {
+                "floor": 23,
+                "commenter": "QueeEEima!",
+                "content": "? QueeEEima!"
+            },
+            {
+                "floor": 27,
+                "commenter": "FreelancerBBB",
+                "content": "Hunf... Acho que agora vou acreditar...\nMas não se acostume!"
+            }
+        ],
+        "player_reply": [
+            "Seria uma briga de casal?",
+            "Isso parece bem mais que uma disputa por uma comissão..."
+        ]
+    },
     "2501": {
-        "id": "2501",
+        "id": 2501,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 7503,
@@ -1497,7 +1583,7 @@
         "player_reply": []
     },
     "2502": {
-        "id": "2502",
+        "id": 2502,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 3889,
@@ -1534,7 +1620,7 @@
         "player_reply": []
     },
     "2503": {
-        "id": "2503",
+        "id": 2503,
         "poster": "enxakeca",
         "likes": "125",
         "views": 3513,
@@ -1571,7 +1657,7 @@
         "player_reply": []
     },
     "2504": {
-        "id": "2504",
+        "id": 2504,
         "poster": "vivendo.no.vermelho",
         "likes": "48",
         "views": 3513,
@@ -1608,7 +1694,7 @@
         "player_reply": []
     },
     "2505": {
-        "id": "2505",
+        "id": 2505,
         "poster": "Anônimo",
         "likes": "323",
         "views": 8599,
@@ -1640,7 +1726,7 @@
         "player_reply": []
     },
     "2507": {
-        "id": "2507",
+        "id": 2507,
         "poster": "TudoPelaMinhaIrmã",
         "likes": "8",
         "views": 61,
@@ -1689,7 +1775,7 @@
         ]
     },
     "2508": {
-        "id": "2508",
+        "id": 2508,
         "poster": "EnGenheiro",
         "likes": "8",
         "views": 55,
@@ -1723,7 +1809,7 @@
         ]
     },
     "2509": {
-        "id": "2509",
+        "id": 2509,
         "poster": "EnGenheiro",
         "likes": "9",
         "views": 61,
@@ -1757,7 +1843,7 @@
         ]
     },
     "2512": {
-        "id": "2512",
+        "id": 2512,
         "poster": "Eu+Parça4ever",
         "likes": "35",
         "views": 2775,
@@ -1786,7 +1872,7 @@
         ]
     },
     "2513": {
-        "id": "2513",
+        "id": 2513,
         "poster": "InteligênciaMetis_bot1",
         "likes": "4584",
         "views": 7503,
@@ -1828,7 +1914,7 @@
         "player_reply": []
     },
     "2514": {
-        "id": "2514",
+        "id": 2514,
         "poster": "Notícias da Cidade",
         "likes": "657",
         "views": 2029,
@@ -1870,7 +1956,7 @@
         "player_reply": []
     },
     "2515": {
-        "id": "2515",
+        "id": 2515,
         "poster": "Tiozão_das_antigas",
         "likes": "8",
         "views": 61,
@@ -1886,7 +1972,7 @@
             {
                 "floor": 3,
                 "commenter": "TopaTudoPorDennies",
-                "content": "A mineração mecânica já é padrão faz anos... só na época que tavam construindo Nova Eridu é que a galera minerava com picareta. Op, vc faz parte de um clube de mineração retrô ou tá com saudade dos velhos tempos?"
+                "content": "A mineração mecânica já é padrão faz anos... só na época que tavam construindo Nova Eridu é que a galera minerava com picareta. OP, vc faz parte de um clube de mineração retrô ou tá com saudade dos velhos tempos?"
             },
             {
                 "floor": 7,
@@ -1909,10 +1995,10 @@
         ]
     },
     "2516": {
-        "id": "2516",
+        "id": 2516,
         "poster": "TrampoDaOraBBB",
-        "likes": "10",
-        "views": 24,
+        "likes": "8",
+        "views": 10,
         "title": "[Comissão] Serviço Profissional em Esferas Negras ★ Manutenção de Sinal",
         "text": "Ótimo trabalho de meio período: fácil de começar, pagamento diário alto.\nSó precisamos de um profissional. Entre em contato rápido!",
         "script": null,
@@ -1953,10 +2039,39 @@
                 "content": "ahhh quer dizer que eu perdi a oportunidade de pegar uma comissão que paga uma grana preta?"
             }
         ],
+        "player_reply": [
+            "Eu"
+        ]
+    },
+    "2517": {
+        "id": 2517,
+        "poster": "TrampoDaOraBBB",
+        "likes": "10",
+        "views": 24,
+        "title": "[Comissão] Serviço Profissional em Esferas Negras ★ Manutenção de Sinal",
+        "text": "Ótimo trabalho de meio período: fácil de começar, pagamento diário alto.\nSó precisamos de um profissional. Entre em contato rápido!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 15,
+                "commenter": "TrampoDoBom",
+                "content": "Cadê o \"dá essa comissão pra outra pessoa, e você nunca mais trabalha comigo\" agora, hein?"
+            },
+            {
+                "floor": 16,
+                "commenter": "[OP] TrampoDaOraBBB",
+                "content": "Pô, eu tô confiando na sua capacidade de julgamento aqui, cara.\nEu tenho uma montanha de trabalho, então indiquei outro Proxy, eficiente e confiável"
+            },
+            {
+                "floor": 18,
+                "commenter": "TrampoDoBom",
+                "content": "Melhor vc tá fazendo algo bom mesmo..."
+            }
+        ],
         "player_reply": []
     },
     "3001": {
-        "id": "3001",
+        "id": 3001,
         "poster": "DesculpeACafonice:p",
         "likes": "122",
         "views": 6690,
@@ -1988,7 +2103,7 @@
         "player_reply": []
     },
     "3002": {
-        "id": "3002",
+        "id": 3002,
         "poster": "Equipe Caça-Fantasma",
         "likes": "1336",
         "views": 9864,
@@ -2025,7 +2140,7 @@
         "player_reply": []
     },
     "3003": {
-        "id": "3003",
+        "id": 3003,
         "poster": "Moranguete",
         "likes": "2281",
         "views": 7171,
@@ -2062,7 +2177,7 @@
         "player_reply": []
     },
     "3004": {
-        "id": "3004",
+        "id": 3004,
         "poster": "Macarrão da Cascata de Macarrão",
         "likes": "426",
         "views": 2871,
@@ -2094,7 +2209,7 @@
         "player_reply": []
     },
     "3005": {
-        "id": "3005",
+        "id": 3005,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 4210,
@@ -2126,7 +2241,7 @@
         "player_reply": []
     },
     "3006": {
-        "id": "3006",
+        "id": 3006,
         "poster": "Superbolinho",
         "likes": "43",
         "views": 471,
@@ -2158,7 +2273,7 @@
         "player_reply": []
     },
     "3007": {
-        "id": "3007",
+        "id": 3007,
         "poster": "TortaDeFeijãoVermelho",
         "likes": "7",
         "views": 853,
@@ -2195,7 +2310,7 @@
         "player_reply": []
     },
     "3008": {
-        "id": "3008",
+        "id": 3008,
         "poster": "Sr. Lagosta",
         "likes": "95",
         "views": 8562,
@@ -2232,7 +2347,7 @@
         "player_reply": []
     },
     "3009": {
-        "id": "3009",
+        "id": 3009,
         "poster": "Vai-Sonhando",
         "likes": "34",
         "views": 4678,
@@ -2274,7 +2389,7 @@
         "player_reply": []
     },
     "3010": {
-        "id": "3010",
+        "id": 3010,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 13205,
@@ -2311,7 +2426,7 @@
         "player_reply": []
     },
     "3011": {
-        "id": "3011",
+        "id": 3011,
         "poster": "Desigualdade de Carteira",
         "likes": "157",
         "views": 121,
@@ -2345,7 +2460,7 @@
         ]
     },
     "3012": {
-        "id": "3012",
+        "id": 3012,
         "poster": "As Paredes Têm Ouvidos",
         "likes": "1201",
         "views": 5621,
@@ -2384,7 +2499,7 @@
         ]
     },
     "3016": {
-        "id": "3016",
+        "id": 3016,
         "poster": "VincentVanBoo",
         "likes": "8",
         "views": 61,
@@ -2423,7 +2538,7 @@
         ]
     },
     "3018": {
-        "id": "3018",
+        "id": 3018,
         "poster": "Artista das Trancas",
         "likes": "12112",
         "views": 61242,
@@ -2457,7 +2572,7 @@
         ]
     },
     "3019": {
-        "id": "3019",
+        "id": 3019,
         "poster": "Golden Retriever",
         "likes": "512",
         "views": 1241,
@@ -2486,7 +2601,7 @@
         ]
     },
     "3020": {
-        "id": "3020",
+        "id": 3020,
         "poster": "Bombaboo_oficial",
         "likes": "21",
         "views": 35,
@@ -2530,7 +2645,7 @@
         ]
     },
     "3021": {
-        "id": "3021",
+        "id": 3021,
         "poster": "Treinamento.InvestigadoresTOP",
         "likes": "215",
         "views": 154,
@@ -2579,7 +2694,7 @@
         ]
     },
     "3022": {
-        "id": "3022",
+        "id": 3022,
         "poster": "MSG-ignorada-com-sucesso",
         "likes": "1305",
         "views": 3520,
@@ -2616,7 +2731,7 @@
         "player_reply": []
     },
     "3023": {
-        "id": "3023",
+        "id": 3023,
         "poster": "n0v4t0",
         "likes": "3",
         "views": 251,
@@ -2663,7 +2778,7 @@
         "player_reply": []
     },
     "3024": {
-        "id": "3024",
+        "id": 3024,
         "poster": "precisode_dennies",
         "likes": "237",
         "views": 1635,
@@ -2687,7 +2802,7 @@
         ]
     },
     "3025": {
-        "id": "3025",
+        "id": 3025,
         "poster": "TrampoDaOraBBB",
         "likes": "8",
         "views": 61,
@@ -2716,7 +2831,7 @@
         ]
     },
     "3026": {
-        "id": "3026",
+        "id": 3026,
         "poster": "TrampoDaOraBBB",
         "likes": "8",
         "views": 173,
@@ -2743,7 +2858,7 @@
         "player_reply": []
     },
     "9701": {
-        "id": "9701",
+        "id": 9701,
         "poster": "ArrenqueDaBrinquedoteca42",
         "likes": "107",
         "views": 4019,
@@ -2820,7 +2935,7 @@
         "player_reply": []
     },
     "9702": {
-        "id": "9702",
+        "id": 9702,
         "poster": "DevaneiosDeRiqueza",
         "likes": "2130",
         "views": 20761,
@@ -2902,7 +3017,7 @@
         "player_reply": []
     },
     "9703": {
-        "id": "9703",
+        "id": 9703,
         "poster": "InteligênciaMetis_bot3",
         "likes": "5007",
         "views": 8732,
@@ -2959,7 +3074,7 @@
         "player_reply": []
     },
     "9704": {
-        "id": "9704",
+        "id": 9704,
         "poster": "FuracãoTufãoTornado",
         "likes": "26",
         "views": 937,
@@ -3001,7 +3116,7 @@
         "player_reply": []
     },
     "9705": {
-        "id": "9705",
+        "id": 9705,
         "poster": "Guia profissional de Jonesy em Esfera Negra",
         "likes": "1068",
         "views": 3042,
@@ -3048,7 +3163,7 @@
         "player_reply": []
     },
     "9706": {
-        "id": "9706",
+        "id": 9706,
         "poster": "miomio",
         "likes": "3",
         "views": 10649,
@@ -3120,7 +3235,7 @@
         "player_reply": []
     },
     "9801": {
-        "id": "9801",
+        "id": 9801,
         "poster": "Equipe Interlaço",
         "likes": "27636",
         "views": 199861,
@@ -3131,7 +3246,7 @@
         "player_reply": []
     },
     "9802": {
-        "id": "9802",
+        "id": 9802,
         "poster": "Equipe Interlaço",
         "likes": "27636",
         "views": 152740,
@@ -3163,7 +3278,7 @@
         "player_reply": []
     },
     "9803": {
-        "id": "9803",
+        "id": 9803,
         "poster": "Equipe Interlaço",
         "likes": "27636",
         "views": 101629,
@@ -3190,7 +3305,7 @@
         "player_reply": []
     },
     "9804": {
-        "id": "9804",
+        "id": 9804,
         "poster": "Equipe Interlaço",
         "likes": "27636",
         "views": 100514,
@@ -3222,7 +3337,7 @@
         "player_reply": []
     },
     "9805": {
-        "id": "9805",
+        "id": 9805,
         "poster": "Equipe Interlaço",
         "likes": "27636",
         "views": 897469,
@@ -3249,7 +3364,7 @@
         "player_reply": []
     },
     "9806": {
-        "id": "9806",
+        "id": 9806,
         "poster": "Equipe Interlaço",
         "likes": "27636",
         "views": 776851,
@@ -3281,7 +3396,7 @@
         "player_reply": []
     },
     "9901": {
-        "id": "9901",
+        "id": 9901,
         "poster": "bot_neurado",
         "likes": "172",
         "views": 9819,
@@ -3331,7 +3446,7 @@
         ]
     },
     "9902": {
-        "id": "9902",
+        "id": 9902,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 17509,
@@ -3381,7 +3496,7 @@
         ]
     },
     "9903": {
-        "id": "9903",
+        "id": 9903,
         "poster": "Dormir_e_acordar_tarde",
         "likes": "85",
         "views": 3002,
@@ -3413,7 +3528,7 @@
         "player_reply": []
     },
     "9904": {
-        "id": "9904",
+        "id": 9904,
         "poster": "AlmaGourmet",
         "likes": "68",
         "views": 9015,
@@ -3462,7 +3577,7 @@
         ]
     },
     "9905": {
-        "id": "9905",
+        "id": 9905,
         "poster": "FãDeProxies_Kakami",
         "likes": "250",
         "views": 1300,
@@ -3499,7 +3614,7 @@
         "player_reply": []
     },
     "9906": {
-        "id": "9906",
+        "id": 9906,
         "poster": "Anônimo",
         "likes": "？",
         "views": 7316,
@@ -3531,7 +3646,7 @@
         "player_reply": []
     },
     "9907": {
-        "id": "9907",
+        "id": 9907,
         "poster": "QuQ",
         "likes": "17",
         "views": 892,
@@ -3573,7 +3688,7 @@
         "player_reply": []
     },
     "9908": {
-        "id": "9908",
+        "id": 9908,
         "poster": "erosão_desconhecida",
         "likes": "355",
         "views": 3910,
@@ -3605,7 +3720,7 @@
         "player_reply": []
     },
     "9909": {
-        "id": "9909",
+        "id": 9909,
         "poster": "AmoCavaleirosDaConstelação",
         "likes": "56",
         "views": 8998,
@@ -3642,7 +3757,7 @@
         "player_reply": []
     },
     "9910": {
-        "id": "9910",
+        "id": 9910,
         "poster": "lesma_voadora",
         "likes": "141",
         "views": 1778,
@@ -3674,7 +3789,7 @@
         "player_reply": []
     },
     "9911": {
-        "id": "9911",
+        "id": 9911,
         "poster": "gawadaw",
         "likes": "0",
         "views": 612,
@@ -3706,7 +3821,7 @@
         "player_reply": []
     },
     "9912": {
-        "id": "9912",
+        "id": 9912,
         "poster": "Equipe Interlaço",
         "likes": "27636",
         "views": 41096,
@@ -3743,7 +3858,7 @@
         "player_reply": []
     },
     "9913": {
-        "id": "9913",
+        "id": 9913,
         "poster": "InteligênciaMetis_bot3",
         "likes": "5007",
         "views": 8789,
@@ -3778,7 +3893,7 @@
         ]
     },
     "9914": {
-        "id": "9914",
+        "id": 9914,
         "poster": "100%AçúcarComGelo",
         "likes": "301",
         "views": 2556,
@@ -3815,7 +3930,7 @@
         "player_reply": []
     },
     "10001": {
-        "id": "10001",
+        "id": 10001,
         "poster": "ColegaDaJustiça",
         "likes": "222",
         "views": 8344,
@@ -3875,7 +3990,7 @@
         ]
     },
     "10002": {
-        "id": "10002",
+        "id": 10002,
         "poster": "AMaisPuraVerdade",
         "likes": "233",
         "views": 9282,
@@ -3935,7 +4050,7 @@
         ]
     },
     "11001": {
-        "id": "11001",
+        "id": 11001,
         "poster": "Q1",
         "likes": "0",
         "views": 11,
@@ -3972,7 +4087,7 @@
         "player_reply": []
     },
     "11002": {
-        "id": "11002",
+        "id": 11002,
         "poster": "CowboyDeBaleia",
         "likes": "166",
         "views": 1044,
@@ -4009,7 +4124,7 @@
         "player_reply": []
     },
     "11003": {
-        "id": "11003",
+        "id": 11003,
         "poster": "InteligênciaMetis_bot3",
         "likes": "5007",
         "views": 21250,
@@ -4041,12 +4156,17 @@
                 "floor": 5,
                 "commenter": "Anônimo",
                 "content": "Astra Yao é - no máximo - básica, vai..."
+            },
+            {
+                "floor": 6,
+                "commenter": "Gigan-T-vermelho",
+                "content": "Ninguém tá te forçando a gostar. É patético você vir procurar posts da Astra Yao pra vir querer aparecer."
             }
         ],
         "player_reply": []
     },
     "11004": {
-        "id": "11004",
+        "id": 11004,
         "poster": "Lâmina Obsidiana",
         "likes": "3960",
         "views": 9524,
@@ -4100,7 +4220,7 @@
         ]
     },
     "11005": {
-        "id": "11005",
+        "id": 11005,
         "poster": "Lâmina Obsidiana",
         "likes": "3960",
         "views": 10650,
@@ -4144,7 +4264,7 @@
         ]
     },
     "11006": {
-        "id": "11006",
+        "id": 11006,
         "poster": "Lâmina Obsidiana",
         "likes": "3960",
         "views": 8691,
@@ -4188,7 +4308,7 @@
         ]
     },
     "11007": {
-        "id": "11007",
+        "id": 11007,
         "poster": "Lâmina Obsidiana",
         "likes": "3960",
         "views": 20341,
@@ -4232,7 +4352,7 @@
         ]
     },
     "12001": {
-        "id": "12001",
+        "id": 12001,
         "poster": "zona_externa_4ever",
         "likes": "11",
         "views": 1021,
@@ -4282,7 +4402,7 @@
         ]
     },
     "12003": {
-        "id": "12003",
+        "id": 12003,
         "poster": "777",
         "likes": "667",
         "views": 2378,
@@ -4344,7 +4464,7 @@
         "player_reply": []
     },
     "12004": {
-        "id": "12004",
+        "id": 12004,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 35101,
@@ -4386,7 +4506,7 @@
         "player_reply": []
     },
     "12005": {
-        "id": "12005",
+        "id": 12005,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 14510,
@@ -4428,7 +4548,7 @@
         "player_reply": []
     },
     "12007": {
-        "id": "12007",
+        "id": 12007,
         "poster": "Para onde vamos na semana que vem?",
         "likes": "5011",
         "views": 6407,
@@ -4488,7 +4608,7 @@
         ]
     },
     "12009": {
-        "id": "12009",
+        "id": 12009,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 778,
@@ -4515,7 +4635,7 @@
         "player_reply": []
     },
     "12011": {
-        "id": "12011",
+        "id": 12011,
         "poster": "Flautista Espiral",
         "likes": "24",
         "views": 2750,
@@ -4549,7 +4669,7 @@
         ]
     },
     "12012": {
-        "id": "12012",
+        "id": 12012,
         "poster": "boy da zona externa",
         "likes": "59",
         "views": 3690,
@@ -4608,7 +4728,7 @@
         ]
     },
     "12013": {
-        "id": "12013",
+        "id": 12013,
         "poster": "Não me pergunte como eu como.",
         "likes": "168",
         "views": 3770,
@@ -4643,7 +4763,7 @@
         ]
     },
     "13001": {
-        "id": "13001",
+        "id": 13001,
         "poster": "NãoPergunte_ContaAlt",
         "likes": "1",
         "views": 42322,
@@ -4733,7 +4853,7 @@
         ]
     },
     "13002": {
-        "id": "13002",
+        "id": 13002,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7962",
         "views": 9877,
@@ -4780,7 +4900,7 @@
         "player_reply": []
     },
     "13003": {
-        "id": "13003",
+        "id": 13003,
         "poster": "AmanteDosBiscoitosCoala",
         "likes": "35",
         "views": 2754,
@@ -4860,7 +4980,7 @@
         ]
     },
     "13004": {
-        "id": "13004",
+        "id": 13004,
         "poster": "HectorTerrorDosEtereos",
         "likes": "276",
         "views": 8751,
@@ -4904,7 +5024,7 @@
         ]
     },
     "13005": {
-        "id": "13005",
+        "id": 13005,
         "poster": "HectorTerrorDosEtereos",
         "likes": "281",
         "views": 11437,
@@ -4961,7 +5081,7 @@
         "player_reply": []
     },
     "14001": {
-        "id": "14001",
+        "id": 14001,
         "poster": "[Aviso do Sistema]",
         "likes": "10211",
         "views": 10248,
@@ -5008,7 +5128,7 @@
         "player_reply": []
     },
     "14002": {
-        "id": "14002",
+        "id": 14002,
         "poster": "Coração Explosivo",
         "likes": "1312",
         "views": 4501,
@@ -5075,7 +5195,7 @@
         "player_reply": []
     },
     "14003": {
-        "id": "14003",
+        "id": 14003,
         "poster": "alto_grau_de_miopia",
         "likes": "32",
         "views": 2754,
@@ -5122,7 +5242,7 @@
         "player_reply": []
     },
     "14004": {
-        "id": "14004",
+        "id": 14004,
         "poster": "Bangboo_Movido_A_Vapor",
         "likes": "351",
         "views": 6524,
@@ -5169,7 +5289,7 @@
         "player_reply": []
     },
     "15001": {
-        "id": "15001",
+        "id": 15001,
         "poster": "Inverno do Rei do Ar Condicionado",
         "likes": "3920",
         "views": 382109,
@@ -5221,7 +5341,7 @@
         "player_reply": []
     },
     "15002": {
-        "id": "15002",
+        "id": 15002,
         "poster": "Capacete_de_Melancia",
         "likes": "3192",
         "views": 46015,
@@ -5313,7 +5433,7 @@
         "player_reply": []
     },
     "15003": {
-        "id": "15003",
+        "id": 15003,
         "poster": "MordidaDeBiscoito",
         "likes": "294",
         "views": 31502,
@@ -5365,7 +5485,7 @@
         "player_reply": []
     },
     "15004": {
-        "id": "15004",
+        "id": 15004,
         "poster": "SucoDeEtéreo",
         "likes": "42",
         "views": 9100,
@@ -5412,7 +5532,7 @@
         "player_reply": []
     },
     "15005": {
-        "id": "15005",
+        "id": 15005,
         "poster": "Pinguim com Soluço (°◇°)",
         "likes": "2913",
         "views": 210,
@@ -5442,7 +5562,7 @@
         ]
     },
     "15006": {
-        "id": "15006",
+        "id": 15006,
         "poster": "Camarao_Louva_a_Deus_Sobre_a_Agua",
         "likes": "120",
         "views": 13921,
@@ -5474,7 +5594,7 @@
         "player_reply": []
     },
     "15007": {
-        "id": "15007",
+        "id": 15007,
         "poster": "DomQuixote",
         "likes": "3",
         "views": 3567,
@@ -5516,7 +5636,7 @@
         "player_reply": []
     },
     "16001": {
-        "id": "16001",
+        "id": 16001,
         "poster": "Autocultivo",
         "likes": "4",
         "views": 1486,
@@ -5558,7 +5678,7 @@
         "player_reply": []
     },
     "16002": {
-        "id": "16002",
+        "id": 16002,
         "poster": "Anônimo",
         "likes": "0",
         "views": 1098,
@@ -5600,7 +5720,7 @@
         "player_reply": []
     },
     "16003": {
-        "id": "16003",
+        "id": 16003,
         "poster": "AMaisPuraVerdade",
         "likes": "248",
         "views": 2333,
@@ -5652,7 +5772,7 @@
         "player_reply": []
     },
     "16004": {
-        "id": "16004",
+        "id": 16004,
         "poster": "Carpa_Nos_Trinques",
         "likes": "109",
         "views": 3469,
@@ -5704,7 +5824,7 @@
         "player_reply": []
     },
     "16005": {
-        "id": "16005",
+        "id": 16005,
         "poster": "❤ Anônimo ❤",
         "likes": "75",
         "views": 97,
@@ -5751,7 +5871,7 @@
         "player_reply": []
     },
     "16006": {
-        "id": "16006",
+        "id": 16006,
         "poster": "Seu_Malvado_Favorito",
         "likes": "0",
         "views": 8349,
@@ -5793,7 +5913,7 @@
         "player_reply": []
     },
     "17001": {
-        "id": "17001",
+        "id": 17001,
         "poster": "Casa Paranormal",
         "likes": "105",
         "views": 15742,
@@ -5830,7 +5950,7 @@
         "player_reply": []
     },
     "17002": {
-        "id": "17002",
+        "id": 17002,
         "poster": "Viva o chefe!",
         "likes": "2",
         "views": 179,
@@ -5867,7 +5987,7 @@
         "player_reply": []
     },
     "20001": {
-        "id": "20001",
+        "id": 20001,
         "poster": "ÚltimasNotícias",
         "likes": "17188",
         "views": 1778,
@@ -5899,7 +6019,7 @@
         "player_reply": []
     },
     "20002": {
-        "id": "20002",
+        "id": 20002,
         "poster": "Fakepédia",
         "likes": "7188",
         "views": 4510,
@@ -5931,7 +6051,7 @@
         "player_reply": []
     },
     "20003": {
-        "id": "20003",
+        "id": 20003,
         "poster": "FofocaAJato",
         "likes": "2351",
         "views": 7207,
@@ -5963,7 +6083,7 @@
         "player_reply": []
     },
     "20004": {
-        "id": "20004",
+        "id": 20004,
         "poster": "Quero entrar para a Sabiá!",
         "likes": "2",
         "views": 79700,
@@ -6038,7 +6158,7 @@
         ]
     },
     "21001": {
-        "id": "21001",
+        "id": 21001,
         "poster": "Burro de moinho",
         "likes": "996",
         "views": 8996,
@@ -6075,7 +6195,7 @@
         "player_reply": []
     },
     "21002": {
-        "id": "21002",
+        "id": 21002,
         "poster": "Viajante da Praia",
         "likes": "5",
         "views": 14541,
@@ -6112,7 +6232,7 @@
         "player_reply": []
     },
     "21003": {
-        "id": "21003",
+        "id": 21003,
         "poster": "Super Corajoso",
         "likes": "13",
         "views": 21787,
@@ -6154,7 +6274,7 @@
         "player_reply": []
     },
     "21004": {
-        "id": "21004",
+        "id": 21004,
         "poster": "Diário de Aventuras do Xiao Huang",
         "likes": "1832",
         "views": 11896,
@@ -6186,7 +6306,7 @@
         "player_reply": []
     },
     "21005": {
-        "id": "21005",
+        "id": 21005,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 8325,
@@ -6223,7 +6343,7 @@
         "player_reply": []
     },
     "21006": {
-        "id": "21006",
+        "id": 21006,
         "poster": "Detergente de limão",
         "likes": "67",
         "views": 1420,
@@ -6265,7 +6385,7 @@
         "player_reply": []
     },
     "21007": {
-        "id": "21007",
+        "id": 21007,
         "poster": "Rei da Mordida",
         "likes": "808",
         "views": 3799,
@@ -6307,7 +6427,7 @@
         "player_reply": []
     },
     "21008": {
-        "id": "21008",
+        "id": 21008,
         "poster": "Ehn-ne-neh",
         "likes": "15",
         "views": 2103,
@@ -6339,7 +6459,7 @@
         "player_reply": []
     },
     "22001": {
-        "id": "22001",
+        "id": 22001,
         "poster": "amigos p sempre",
         "likes": "999",
         "views": 1557,
@@ -6376,7 +6496,7 @@
         "player_reply": []
     },
     "22002": {
-        "id": "22002",
+        "id": 22002,
         "poster": "Não me pegue!",
         "likes": "142",
         "views": 2093,
@@ -6428,7 +6548,7 @@
         "player_reply": []
     },
     "22003": {
-        "id": "22003",
+        "id": 22003,
         "poster": "O_pincel_pinta_sozinho",
         "likes": "983",
         "views": 6832,
@@ -6465,7 +6585,7 @@
         "player_reply": []
     },
     "22004": {
-        "id": "22004",
+        "id": 22004,
         "poster": "Memórias_ao_vento",
         "likes": "12",
         "views": 193,
@@ -6497,7 +6617,7 @@
         "player_reply": []
     },
     "22005": {
-        "id": "22005",
+        "id": 22005,
         "poster": "amigos p sempre",
         "likes": "1123",
         "views": 9999,
@@ -6549,7 +6669,7 @@
         "player_reply": []
     },
     "23001": {
-        "id": "23001",
+        "id": 23001,
         "poster": "Lendo romances sem parar",
         "likes": "51",
         "views": 24815,
@@ -6586,7 +6706,7 @@
         "player_reply": []
     },
     "23002": {
-        "id": "23002",
+        "id": 23002,
         "poster": "Sai fora, zica!",
         "likes": "245",
         "views": 2110,
@@ -6638,7 +6758,7 @@
         "player_reply": []
     },
     "23003": {
-        "id": "23003",
+        "id": 23003,
         "poster": "SeiDeTudo",
         "likes": "142",
         "views": 2100,
@@ -6685,7 +6805,7 @@
         "player_reply": []
     },
     "23004": {
-        "id": "23004",
+        "id": 23004,
         "poster": "Som_De_Cascos_Noturno",
         "likes": "449",
         "views": 6902,
@@ -6722,7 +6842,7 @@
         "player_reply": []
     },
     "23005": {
-        "id": "23005",
+        "id": 23005,
         "poster": "Bolo de Limão",
         "likes": "1194",
         "views": 31502,
@@ -6774,7 +6894,7 @@
         "player_reply": []
     },
     "23006": {
-        "id": "23006",
+        "id": 23006,
         "poster": "LulinhaDeCamarão",
         "likes": "702",
         "views": 19562,
@@ -6831,7 +6951,7 @@
         "player_reply": []
     },
     "23007": {
-        "id": "23007",
+        "id": 23007,
         "poster": "Burguer.d.banana",
         "likes": "2292",
         "views": 37702,
@@ -6883,7 +7003,7 @@
         "player_reply": []
     },
     "25001": {
-        "id": "25001",
+        "id": 25001,
         "poster": "InteligênciaMetis_bot3",
         "likes": "5147",
         "views": 18403,
@@ -6925,7 +7045,7 @@
         "player_reply": []
     },
     "25002": {
-        "id": "25002",
+        "id": 25002,
         "poster": "Chefe no Paraíso",
         "likes": "233",
         "views": 2341,
@@ -6962,7 +7082,7 @@
         "player_reply": []
     },
     "25003": {
-        "id": "25003",
+        "id": 25003,
         "poster": "Chefe no Paraíso",
         "likes": "233",
         "views": 5433,
@@ -7009,7 +7129,7 @@
         "player_reply": []
     },
     "25004": {
-        "id": "25004",
+        "id": 25004,
         "poster": "Isso É Tudo",
         "likes": "141",
         "views": 44444,
@@ -7061,7 +7181,7 @@
         "player_reply": []
     },
     "25005": {
-        "id": "25005",
+        "id": 25005,
         "poster": "Reportagem Ao Vivo Do Local",
         "likes": "1194",
         "views": 51502,
@@ -7113,7 +7233,7 @@
         "player_reply": []
     },
     "25006": {
-        "id": "25006",
+        "id": 25006,
         "poster": "Imortal Inconvencional",
         "likes": "268",
         "views": 6709,
@@ -7158,7 +7278,7 @@
         ]
     },
     "25007": {
-        "id": "25007",
+        "id": 25007,
         "poster": "ArtistaVeterano",
         "likes": "681",
         "views": 16286,
@@ -7205,7 +7325,7 @@
         "player_reply": []
     },
     "25008": {
-        "id": "25008",
+        "id": 25008,
         "poster": "EscravoDoTrampo",
         "likes": "32",
         "views": 2623,
@@ -7242,7 +7362,7 @@
         "player_reply": []
     },
     "25009": {
-        "id": "25009",
+        "id": 25009,
         "poster": "RatinhoCorrendo$$$",
         "likes": "3429",
         "views": 37702,
@@ -7294,7 +7414,7 @@
         "player_reply": []
     },
     "25010": {
-        "id": "25010",
+        "id": 25010,
         "poster": "PrecisaSerAnonimo",
         "likes": "3245",
         "views": 35467,
@@ -7346,7 +7466,7 @@
         "player_reply": []
     },
     "25011": {
-        "id": "25011",
+        "id": 25011,
         "poster": "Casa Paranormal - Arqueologia",
         "likes": "5647",
         "views": 32145,
@@ -7393,7 +7513,7 @@
         "player_reply": []
     },
     "26002": {
-        "id": "26002",
+        "id": 26002,
         "poster": "Paz Interior",
         "likes": "8567",
         "views": 2349,
@@ -7435,7 +7555,7 @@
         "player_reply": []
     },
     "26003": {
-        "id": "26003",
+        "id": 26003,
         "poster": "Alma da Justiça",
         "likes": "671",
         "views": 1379,
@@ -7477,7 +7597,7 @@
         "player_reply": []
     },
     "26004": {
-        "id": "26004",
+        "id": 26004,
         "poster": "Cauda de Yokai",
         "likes": "469",
         "views": 1424,
@@ -7492,7 +7612,7 @@
             },
             {
                 "floor": 2,
-                "commenter": "Pessoa Perfeita",
+                "commenter": "eu também preciso trabalhar?",
                 "content": "De qualquer forma, o fato de que o Construto feriu alguém é indiscutível. Talvez a gente deveria reconsiderar nosso relacionamento com esses amigos, afinal, eles são diferentes dos humanos."
             },
             {
@@ -7542,7 +7662,7 @@
         ]
     },
     "26005": {
-        "id": "26005",
+        "id": 26005,
         "poster": "Boa Sorte e Prosperidade",
         "likes": "16",
         "views": 3571,
@@ -7589,7 +7709,7 @@
         "player_reply": []
     },
     "26006": {
-        "id": "26006",
+        "id": 26006,
         "poster": "Detetive de Ridu",
         "likes": "1521",
         "views": 3147,
@@ -7654,7 +7774,7 @@
         ]
     },
     "26007": {
-        "id": "26007",
+        "id": 26007,
         "poster": "Conta Oficial Exclusiva dos Anjos da Desilusão",
         "likes": "2854",
         "views": 3454,
@@ -7696,7 +7816,7 @@
         "player_reply": []
     },
     "26008": {
-        "id": "26008",
+        "id": 26008,
         "poster": "Conta Oficial Exclusiva dos Anjos da Desilusão",
         "likes": "3843",
         "views": 5849,
@@ -7738,7 +7858,7 @@
         "player_reply": []
     },
     "26009": {
-        "id": "26009",
+        "id": 26009,
         "poster": "Conta Oficial Exclusiva dos Anjos da Desilusão",
         "likes": "3843",
         "views": 48392,
@@ -7775,7 +7895,7 @@
         "player_reply": []
     },
     "26010": {
-        "id": "26010",
+        "id": 26010,
         "poster": "Usuário Anônimo",
         "likes": "0",
         "views": 3260,
@@ -7817,7 +7937,7 @@
         "player_reply": []
     },
     "26011": {
-        "id": "26011",
+        "id": 26011,
         "poster": "A Sorte Favorece os Corajosos",
         "likes": "356",
         "views": 1265,
@@ -7879,7 +7999,7 @@
         "player_reply": []
     },
     "26012": {
-        "id": "26012",
+        "id": 26012,
         "poster": "Homem-Rato Sombrio",
         "likes": "105",
         "views": 4210,
@@ -7924,7 +8044,7 @@
         ]
     },
     "26013": {
-        "id": "26013",
+        "id": 26013,
         "poster": "InteligênciaMetis_bot3",
         "likes": "5007",
         "views": 6031,
@@ -7949,7 +8069,7 @@
             },
             {
                 "floor": 4,
-                "commenter": "Oh!",
+                "commenter": "taoTAOdistante",
                 "content": "Agora que você falou... realmente me lembra das tempestades de Minerva! A sede do Grupo Marcel fica lá perto. Podemos dizer que é praticamente a terra natal dos Bangboos!"
             },
             {
@@ -7974,7 +8094,7 @@
         ]
     },
     "26014": {
-        "id": "26014",
+        "id": 26014,
         "poster": "Ruim em Pula-Pula",
         "likes": "233",
         "views": 3069,
@@ -8019,7 +8139,7 @@
         ]
     },
     "26015": {
-        "id": "26015",
+        "id": 26015,
         "poster": "InteligênciaMetis_bot1",
         "likes": "7188",
         "views": 8354,
@@ -8069,5 +8189,1240 @@
             }
         ],
         "player_reply": []
+    },
+    "27001": {
+        "id": 27001,
+        "poster": "O gênio da informação chegou!",
+        "likes": "779",
+        "views": 2297,
+        "title": "[Publicação] FURO da T.O.P.S.! Confirmado!",
+        "text": "Hahahahahahahahahaha!\nA T.O.P.S. está com o seu dia ao contrário!\nOk, vou direto ao ponto, o interior da T.O.P.S. está um verdadeiro caos agora! Várias pequenas e médias empresas que fazem parte do grupo estão enfrentando problemas gravíssimos. Penso que o Interlaço deve ter memória, certo? Quem é que está patrocinando os Heróis da Esfera Negra, que ultimamente só tem dado falha? Nossa, como é difícil adivinhar essa conexão!\nE mais! Justamente por causa dessa situação toda, dizem que os órgãos de inspeção interna da T.O.P.S. andam bem ativos ultimamente. Embora não possa postar provas concretas, olhando o estado atual da T.O.P.S.... só posso dizer que não parece mentira. (Obs: não é que eu não tenha provas, mas não posso divulgar! Quem tiver interesse, pesquise pelas palavras-chave).\nResumindo! Com certeza tem algo errado rolando no interior da T.O.P.S.. Pessoal, não se arrisquem desnecessariamente neste período, fiquem o mais longe possível.\nSerá que ainda vou viver o dia de desintegração da T.O.P.S. e ver fecharem as portas? Vou parar por aqui, minha vidinha em primeiro lugar. Fui!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "A reputação da T.O.P.S. caiu em desgraça hoje?",
+                "content": "Uau, sério?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Público (Versão Curiosa)",
+                "content": "Kkkkk morri com o nome aí de cima! Mas realmente, desde quando a T.O.P.S. teve reputação pra manchar?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Está incomodado? Abre o mic e fala",
+                "content": "É esse o bafão? Só isso? A informação de empresa é pública e transparente, cá para mim isso não é fofoca nenhuma, postagem genérica só querendo views."
+            },
+            {
+                "floor": 4,
+                "commenter": "A calma da mente refresca o coração",
+                "content": "Sinceramente, isso é alarmismo. Uma empresa desse porte, com uns probleminhas e já vai fechar as portas? Calma lá..."
+            },
+            {
+                "floor": 5,
+                "commenter": "O Detalhista Nº1 de Interlaço",
+                "content": "Ninguém reparou essa tal \"autoridade de inspeção interna\"? A parte importante não é exatamente essa?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Em boca fechada não entra mosca",
+                "content": "Coisas que não devem ser ditas, é melhor nem falar. Você não quer que alguém siga o cabo de rede até aí, né?"
+            }
+        ],
+        "player_reply": []
+    },
+    "27002": {
+        "id": 27002,
+        "poster": "InteligênciaMetis_bot1",
+        "likes": "7245",
+        "views": 5482,
+        "title": "[Info] Grande Torneio de Heróis da Esfera Negra foi cancelado",
+        "text": "A Liga de Competições das Esferas Negras divulgou hoje, por meio de comunicado oficial, a suspensão antecipada da competição atual. A nova data para a realização do evento será divulgada posteriormente, com base no progresso da investigação e nos resultados das avaliações de segurança.\nSegundo informações do Departamento de Segurança Pública, o suspeito responsável pelos múltiplos incidentes com vítimas, Romulus, já foi capturado. Em uma operação conjunta de busca e resgate entre o Departamento de Segurança Pública e a AIEN, parte dos participantes que estavam desaparecidos nas Esferas Negras foram resgatados em segurança e encontram-se sob observação médica.\nAlém disso, conforme depoimentos de diversas testemunhas, um utilizador anônimo, o primeiro a identificar anomalias nos dados do \"Caroteno\" e, por meio de canais especiais, transmitiu rotas de segurança precisas para todos os participantes, reduzindo significativamente o risco de mortes e ferimentos. A identidade desse utilizador anônimo e suas motivações ainda estão sob investigação.\n\nA Liga de Competições das Esferas Negras e o Departamento de Segurança Pública fornecerão o suporte necessário a todos os participantes e demais envolvidos neste incidente, e divulgarão mais informações assim que a investigação for concluída.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Cague! de susto",
+                "content": "Finalmente prenderam o \"Lobo Negro\"! Eu nem tive coragem de me inscrever quando vi que ele estava participando..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Sofrer um revés",
+                "content": "Nunca mais me inscrevo em torneio nenhum. Se não fosse por esse herói desconhecido, teria me dado mal feio."
+            },
+            {
+                "floor": 3,
+                "commenter": "Proxy Leal",
+                "content": "Será que? O Grande Phaethon está de volta?! Eu sabia, ele certamente retornará ao seu fiel Interlaço!\nAlguém discorda? Alguém discorda? Ainda há algum Proxy com coragem de duvidar?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Deus de Cinco Caracteres",
+                "content": "Quem diria que um torneio organizada por civis pudesse ter consequências tão graves... Tô sem palavras..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Gu-gu-quá-quá",
+                "content": "É assim que funciona em Nova Eridu, já deveria estar ciente disso, né? Ou é de outro planeta?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Pessoa Desaparecida",
+                "content": "Meu amigo continua desaparecido... Por favor, se alguém tiver informações sobre a arena ou sobre os perdidos na Esfera, entre em contato comigo!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27003": {
+        "id": 27003,
+        "poster": "Só como profiteroles",
+        "likes": "25",
+        "views": 3578,
+        "title": "[Publicação] O que há de errado com esses Etéreos?",
+        "text": "Encontrei isso na arena dos Heróis da Esfera Negra e quase tive um ataque do coração. Esses Etéreos... viraram estátuas?\nTodos eles tinham penas brancas espetadas em seus Núcleos. Até que tem um certo apelo artístico...\nAlguém sabe explicar esse fenômeno? Não me digam que foi obra daquele tal Romulus!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Rei Crimson",
+                "content": "Mais do que estátua, parece que congelaram no tempo? Medo pra dedéu."
+            },
+            {
+                "floor": 2,
+                "commenter": "Seguir para o inferno",
+                "content": "Do jeito que o Romulus está espalhando prêmios por aí, não é impossível que ele tenha evoluído de um mero criminoso por prazer para um artista performático."
+            },
+            {
+                "floor": 3,
+                "commenter": "Observadores Elegantes",
+                "content": "Também encontrei a mesma coisa! O autor do post tem muita coragem, eu achei tão estranho na hora que nem tive coragem de olhar direito."
+            },
+            {
+                "floor": 4,
+                "commenter": "Manter secadinho",
+                "content": "Perguntei aos meus amigos do Instituto Estrela Branca, e eles também nunca viram nada assim. Agora estão correndo pra montar um grupo de pesquisa especializado."
+            },
+            {
+                "floor": 5,
+                "commenter": "Segredos dos bastidores",
+                "content": "Na verdade, o fenômeno de descoloração dos Etéreos não é a primeira vez que acontece. As autoridades já abriram uma investigação há tempos, mas até agora nada de notícias. Pelos visto, não houve nenhum progresso."
+            },
+            {
+                "floor": 6,
+                "commenter": "Pastor de Lobos",
+                "content": "Afinal, esses Etéreos estão vivos ou mortos? Se encontrar um, tenho que evitar?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Miolos fervendo...",
+                "content": "Mesma pergunta! Se for seguro, vou lá tirar uma selfie na hora!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27004": {
+        "id": 27004,
+        "poster": "Paparazzo",
+        "likes": "2901",
+        "views": 4789,
+        "title": "[Informação] A jogadora Ramiel desapareceu junto com o prêmio",
+        "text": "Vocês sabem que o Motor-W de porceliga está desaparecido, né? Existe um boato circulando: o Motor-W está com aquele participante Ramiel!\nE isso não é invenção não! Pensem, quantas pessoas conseguem tomar algo à força do Lobo Negro? Ramiel é justamente uma delas.\nO mais estranho é que o cara evaporou depois que a competição foi interrompida, nem sequer foi resgatar os pontos dele. Tudo indica que Ramiel tinha outros objetivos ao participar, muito provavelmente o Motor-W de porceliga.\nE afinal, quem é esse Ramiel? Origem, passado, até a aparência dele é um mistério. Parece que saiu de baixo de uma pedra. Quanto mais cava, mais bizarro fica...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Espectro",
+                "content": "Não foi só o Ramiel, vários daqueles que entraram na Esfera Negra atrás dos prêmios desapareceram... Como diz o ditado, o que não é seu, por mais que tente, nunca será."
+            },
+            {
+                "floor": 2,
+                "commenter": "Como você sabia que eu consegui um achado?",
+                "content": "Eu também estou desaparecido?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Espectro",
+                "content": "Sim."
+            },
+            {
+                "floor": 4,
+                "commenter": "Saúdo com um brinde!",
+                "content": "Já que ele precisa do Motor-W de porceliga, então Ramiel provavelmente é um construto inteligente, não? Eu até encontrei um por aí, empunhado com duas pistolas, muito habilidoso. O problema é que o estilo dele é meio \"over\"."
+            },
+            {
+                "floor": 5,
+                "commenter": "Paz Interior",
+                "content": "Lá vem teoria da conspiração de novo! Ramiel não pode simplesmente ter desistido da competição por vontade própria?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Anônimo",
+                "content": "Quer desvendar o verdadeiro rosto por trás do participante Ramiel?\nCansou de tentar desvendar o intrincado conflito entre o Lobo Negro e Calydon?\nAqui estão os detalhes cruciais que você deixou passar. Todas as pistas, na palma da sua mão.\nPreço promocional especial: Dennies x9.999\nVeja agora: [Clique e confira]"
+            },
+            {
+                "floor": 7,
+                "commenter": "Ramiel",
+                "content": "Perdão pela intrusão, então era só alguém com o mesmo nome. Por um minuto achei que eu mesmo tinha desaparecido."
+            }
+        ],
+        "player_reply": [
+            "Preciso encontrar Ramiel",
+            "Qualquer informação que estava por aí, me avisa!"
+        ]
+    },
+    "27005": {
+        "id": 27005,
+        "poster": "Usuário anônimo",
+        "likes": "0",
+        "views": 3670,
+        "title": "[Publicação] Por que razão o meu design de Bangboo foi rejeitado...",
+        "text": "Todos sabem que o Grupo Marcel lançou aquele concurso pra cidade toda criar novos designs para os Bangboos, né? Pois é, quando vi o valor do prêmio, meu DNA artístico acordou na hora. Esse era o palco perfeito feito sob medida para mim!\nAí eu me tranquei por um mês inteiro! Um mês completo! Foram dezenas de rascunhos jogados fora até conseguir uma ideia tão absurdamente genial que faria os céus chocarem e a terra tremer.\nEu já tinha até ensaiado meu discurso de agradecimento, mas não levei nada, nem um mísero prêmio de consolação me deram! É de lascar!\nMarcel! Você pode ter perdido apenas um concorrente, mas Nova Eridu perdeu o criador de todo um universo de Bangboos!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Sonho de Dennies",
+                "content": "Meu Bangboo aqui em casa teve a honra de ler sua magnífica obra e passou a noite inteira com pesadelos."
+            },
+            {
+                "floor": 2,
+                "commenter": "Precisamos de um especialista para isso.",
+                "content": "De qual faculdade de arte você se formou? Pelo amor de Deus, fala logo pra gente saber qual evitar."
+            },
+            {
+                "floor": 3,
+                "commenter": "Mendigando online",
+                "content": "Estudantes de artes não são todos assim, pessoal! Não generalizem, pelamorrrrr!!!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Pedreiro da construção",
+                "content": "Agora falando sério, se esses Bangboos grandes fossem realmente comercializados, facilitaria muito a vida dos trabalhadores braçais."
+            },
+            {
+                "floor": 5,
+                "commenter": "Viu só, já surtou",
+                "content": "Mano, já ouviu falar em \"cada macaco no seu galho\"? Bangboo é equipamento de alta precisão, não trator pra canteiro de obra."
+            },
+            {
+                "floor": 6,
+                "commenter": "Sentimentos Desnecessários",
+                "content": "Ei, chega de viajar na discussão! Vocês acham que um Bangboo assim é aceitável?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Engenheião",
+                "content": "Se não me engano, o critério mais importante do concurso era originalidade. Pode ser que o seu design tenha coincidido com o de outra pessoa, ou talvez o Marcel já teve algum projeto similar que foi descartado.\nMas, falando sério, seu desenho é realmente feio."
+            },
+            {
+                "floor": 8,
+                "commenter": "[OP] Usuário Anônimo",
+                "content": "Você podia ter deixado a última frase de fora, snif, snif..."
+            },
+            {
+                "floor": 9,
+                "commenter": "Engenheião",
+                "content": "Sua criatividade foi longe demais... O esboço do Bangboo não é uma obra de arte, tem que desenhar como se fosse um projeto de engenharia."
+            },
+            {
+                "floor": 10,
+                "commenter": "Proibido beber água",
+                "content": "Isso é papo de internet Na vida real quem não gostaria de despachar o Bangboo antigo sem pensar duas vezes e adotar essa bênção pra humanidade?"
+            }
+        ],
+        "player_reply": []
+    },
+    "27006": {
+        "id": 27006,
+        "poster": "O Novato Voa Primeiro",
+        "likes": "25",
+        "views": 6289,
+        "title": "[Publicação] Os Dados de Rosetta podem falhar?!",
+        "text": "Ultimamente, andam rolando uns boatos na internet sobre anomalias nos Dados de Rosetta. Tem gente reclamando que tá cada vez mais difícil criar seus próprios \"Carotenos\", e que as rotas corrigidas com base nos Dados de Rosetta frequentemente não são precisos o suficiente.\nAlgum mestre aqui pra confirmar se esses rumores são verdade?\nSe sim, existe alguma fonte alternativa de dados pra consultar?\nSou um Proxy noob e ainda não consegui fechar nenhum pedido. Não posso ficar desempregado antes mesmo de começar, né? Buáá...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Vitória declarada em 40 segundos",
+                "content": "Impossível. Os Dados de Rosetta são a matriz oficial autorizada pelo prefeito. As variações das Esferas Negras só podem ser calculadas porque os dados de campo são calibrados repetidamente com base nela.\nSe nem a Rosetta é confiável, então não existem dados que se possam confiar."
+            },
+            {
+                "floor": 2,
+                "commenter": "Noite Fresca de Verão",
+                "content": "Nem a Administração Municipal nem a Associação de Investigação jamais revelaram a origem dos Dados de Rosetta ou como eles são processados. Com tantos incidentes recentes, falta de pessoal e ausência de supervisão externa, como você garante que eles não vão falhar?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Perguntei?",
+                "content": "Ouvi dizer que o \"Caroteno\" distribuído anteriormente pela Competição dos Heróis da Esfera Negra também teve problemas, não será que...?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Sonho de tornar Grande Mestra",
+                "content": "Deixa disso, o comunicado oficial disse que foi culpa do vírus."
+            },
+            {
+                "floor": 5,
+                "commenter": "O mundo pertence aos Bangboos",
+                "content": "\"Caroteno\" deixou de existir, os Proxies deixaram de existir, o Interlaço deixou de existir."
+            },
+            {
+                "floor": 6,
+                "commenter": "Indulgente com o próprio, rigoroso com os outros",
+                "content": "Que tal rever seus próprios erros? Na minha opinião, é só incompetência de certas pessoas que não conseguem decifrar as rotas corretas. Se é noob, treina mais. Não vem passar vergonha no Interlaço."
+            },
+            {
+                "floor": 7,
+                "commenter": "posição zero",
+                "content": "Ultimamente as expansões anômalas das Esferas Negras têm sido frequentes. O governo provavelmente precisa refazer todos os cálculos do zero. Pode ser que os dados ainda não foram atualizados, ou talvez haja algum atraso?"
+            }
+        ],
+        "player_reply": [
+            "Deve ser um caso isolado...?",
+            "Nenhuma anormalidade detectada no momento"
+        ]
+    },
+    "27007": {
+        "id": 27007,
+        "poster": "Cara Comum",
+        "likes": "218",
+        "views": 1203,
+        "title": "[Discussão] Por que a comida do Restaurante de Hot Pot Simmer ficou tão ruim?",
+        "text": "Família, vocês não acham que o Restaurante de Hot Pot Simmer está cada vez pior? O caldo está salgado demais, as sobremesas muito doces e os frutos do mar estão fedendo. Eu só comentei um pouquinho e a gerência achou ruim!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Nada mal!",
+                "content": "Tudo bem, eu gosto muito de doces."
+            },
+            {
+                "floor": 2,
+                "commenter": "Rato dos Materiais de Construção AAA",
+                "content": "Realmente não está tão gostoso quanto quando abriu..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Morrendo de fome!",
+                "content": "É verdade! A comida é ruim e ainda não podemos reclamar, o pessoal lá é muito mal-humorado!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Não me diga que...",
+                "content": "Esses lugares sempre são assim, começam bem, mas quanto mais o tempo passa, pior fica a qualidade!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Não perca!",
+                "content": "Sou o único que vou lá porque a dona é bonita?"
+            },
+            {
+                "floor": 6,
+                "commenter": "A Dama da Alvorada é incomparável",
+                "content": "Cara de cima, você arrasou!"
+            }
+        ],
+        "player_reply": [
+            "Hum, eu acho que o sabor está bom...",
+            "Temos que dar a eles uma chance de se corrigirem..."
+        ]
+    },
+    "28001": {
+        "id": 28001,
+        "poster": "Não posso dizer.",
+        "likes": "629",
+        "views": 9081,
+        "title": "[Publicação] Tem um filme em produção?",
+        "text": "Como mostrado na imagem, não fui eu quem tirou a foto, mas um amigo que tava passeando na Zona Externa. Fiquei sabendo que pessoalmente é ainda mais impressionante do que na foto, mas um pessoal de uniforme pararam ele e falaram pra ele não se aproximar da Esfera Negra. Enfim, vocês não têm medo de ver esses robôs em grupo assim? Parecem que saíram direto de um filme pós-apocalíptico. Alguém sabe o que tá acontecendo?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Lixeira Quente",
+                "content": "É a primeira vez que vejo esse modelo de meca, dá pra perceber que não é barato. Pela foto, eles estão indo pra Esfera Negra. Será que rolou algo na Zona Externa? Ou será que estão produzindo um longa, como o OP disse?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Foguete de Plástico",
+                "content": "Ouvi dizer que \"Cidade da Besta Etérea 2\" vai ser filmado na Zona Externa. Esse deve ser o meca de utilidade da equipe de produção."
+            },
+            {
+                "floor": 3,
+                "commenter": "Bambolê",
+                "content": "O apocalipse chegou, escolha seu meca exclusivo dos doze signos do zodíaco!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Suricato Desafiante",
+                "content": "Segundo as informações que consegui com meus contatos em Xilobrasa, isso não é nenhum adereço de filme, é um meca de combate da T.O.P.S. de verdade! Não imaginava que já tivessem produzido tantos assim."
+            },
+            {
+                "floor": 5,
+                "commenter": "Deus de Cinco Caracteres",
+                "content": "Mecas da T.O.P.S.? Então será que apareceu um Etéreo muito poderoso na Esfera Negra da Zona Externa e eles vão tentar suprimir ele?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Falou Tá Falado",
+                "content": "Acorda! Se a T.O.P.S. fosse tão gentil a ponto de conter os Etéreos, não seria a T.O.P.S. Eles só fazem o que dá lucro. Deve ter algo extremamente valioso naquela Esfera Negra. Ou é uma quantidade gigantesca de recursos, ou algum segredo monumental."
+            },
+            {
+                "floor": 7,
+                "commenter": "Só Tô de Passagem",
+                "content": "Concordo com o comentário acima. A maioria das pessoas aqui provavelmente não sabe, mas a T.O.P.S. já fez isso antes na Península Waifei. Pra conseguir alguns recursos, jogaram armamentos de combate dentro da Esfera Negra e coisas assim. É só mais do mesmo. Xilobrasa provavelmente vai ficar agitada em breve."
+            }
+        ],
+        "player_reply": []
+    },
+    "28002": {
+        "id": 28002,
+        "poster": "Perseguindo as Estrelas",
+        "likes": "65",
+        "views": 3326,
+        "title": "[Publicação] Que pássaro é esse?",
+        "text": "Foto quentinha, tirada há 1 minuto! Alguém sabe que pássaro é esse? Ele voa super rápido e emite uma luz muito brilhante. Dá para ver vagamente as asas batendo, então com certeza não é uma aeronave. Mas nunca vi um pássaro assim na minha vida, nem na Esfera Negra nem na cidade. Tem alguém que entende de aves pra identificar?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Velocidade 5 do Céu",
+                "content": "Identificação concluída: é um pássaro branco luminoso de velocidade tripla."
+            },
+            {
+                "floor": 2,
+                "commenter": "Sopinha de Peixe",
+                "content": "Julgando pela altura e usando os prédios ao redor como referência... esse pássaro não é nada pequeno, é até maior que um ser humano? Não será uma imagem gerada por computador, né? Se uma criatura dessas realmente existisse, já teria causado alvoroço."
+            },
+            {
+                "floor": 3,
+                "commenter": "Chuva de Meteoros",
+                "content": "Um anjo! Um anjo apareceu! Quem ver essa postagem, não passe direto, venha comigo acenar e comemorar, você terá boa sorte durante todo o ano. Um anjo!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Projeção Prismática",
+                "content": "\\Anjos!/\\da!/\\Desilusão!/"
+            },
+            {
+                "floor": 5,
+                "commenter": "Bala de Gelatina de Melancia",
+                "content": "Ei, que papo é esse de Anjo? Ah, acho que não seria impossível, né."
+            },
+            {
+                "floor": 6,
+                "commenter": "Deixa Baixo",
+                "content": "Não tenho certeza se vi a mesma coisa que o OP, mas também vi uma luz branca no céu ainda agora. Talvez por estar mais distante daqui, só consegui ver um ponto de luz branca subindo na diagonal, voando até as nuvens e depois desaparecendo."
+            },
+            {
+                "floor": 7,
+                "commenter": "Lascou",
+                "content": "Algo me diz que esse post vai receber vários comentários, com pessoas dizendo que também avistaram o pássaro branco voando no céu."
+            }
+        ],
+        "player_reply": []
+    },
+    "28003": {
+        "id": 28003,
+        "poster": "Fogo Eterno",
+        "likes": "7318",
+        "views": 16710,
+        "title": "[Publicação] Também tem eclipse solar na Esfera Negra?",
+        "text": "Sem enrolação, vamos direto ao ponto. Isso foi filmado há 3 horas em uma Sub-Esfera perto da Esfera Negra de Pursenas. Estávamos prestes a sair da Esfera Negra quando o céu escureceu de repente, do nada mesmo! A equipe inteira ficou apavorada, achando que tínhamos provocado alguma criatura gigante. Por sorte, havia uma caverna escondida por perto, então improvisamos e nos escondemos lá dentro. O Proxy da equipe olhou pra cima e viu isso. Felizmente, todos voltaram em segurança no final. Foi um susto, mas ficou tudo bem!\nAliás, isso é um eclipse solar, não é? Vocês que estavam fora da Esfera Negra viram o eclipse?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Espuma Rosa",
+                "content": "Não teve eclipse solar fora da Esfera Negra! Perguntei pras pessoas ao redor e ninguém viu nada anormal. A gente tava passeando ao ar livre o tempo todo."
+            },
+            {
+                "floor": 2,
+                "commenter": "Que_Bagunça!",
+                "content": "Essa imagem não deve ser uma montagem de computador também? No tópico ao lado tem alguém que postou um pássaro gigante luminoso voando no céu. Acho que vocês dois poderiam sentar juntos e comparar qual técnica de edição é melhor."
+            },
+            {
+                "floor": 3,
+                "commenter": "Macarrão com Carne",
+                "content": "Procurei várias fotos de eclipse solar na internet e, comparando com cuidado, dá pra perceber que tem uma grande diferença com a imagem no seu post. Isso não deve ser um eclipse solar, deve ser algum fenômeno natural mais raro."
+            },
+            {
+                "floor": 4,
+                "commenter": "Negativo",
+                "content": "Pensando bem, se aconteceu numa Esfera Negra, qualquer tipo de coisa faz sentido!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Bigodes Dourados",
+                "content": "Mas considerando que você conseguiu sair da Esfera Negra em segurança pra fazer essa postagem, pelo menos esse fenômeno não apresenta perigo, né? Também não apareceu nenhum Etéreo assustador, nem sintomas desconhecidos de Corrupção."
+            },
+            {
+                "floor": 6,
+                "commenter": "Não Sou Anônimo",
+                "content": "Não necessariamente, talvez esse tipo de Corrupção tenha um período de incubação. Você checou sua condição física depois de voltar, OP?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Profissional da Preguiça",
+                "content": "O segundo comentário me fez pensar: vocês não acham que esse céu combina perfeitamente com aquele meca do outro post? Ficam perfeitos juntos, a composição visual é incrível! Será que estão mesmo filmando \"Cidade da Besta Etérea 2\"? Isso seria uma produção gigantesca!"
+            }
+        ],
+        "player_reply": []
+    },
+    "28004": {
+        "id": 28004,
+        "poster": "Usuário Anônimo",
+        "likes": "0",
+        "views": 22170,
+        "title": "[Pedido de Ajuda] Acho que me meti em encrenca!",
+        "text": "Foi assim: eu tava dirigindo meu carro normalmente pela estrada quando, de repente, ouvi um \"bum\". Desci do carro pra ver, e tinha uma pessoa caída na estrada... Juro por tudo que é sagrado que não fui eu que atropelei! Com certeza ela já estava caída ali antes! E o mais bizarro é que ela parece ter desenhado um padrão com o dedo ensanguentado... Seria uma mensagem de morte? Tipo, um retrato do assassino ou algo assim? Não, não, espera, que tipo de pensamento sinistro é esse? Ela ainda tá viva! Apesar de parecer gravemente ferida, ela ainda tá respirando! Enfim, eu sei que tem um hospital aqui perto, então coloquei ela rapidamente no carro e estou levando ela para lá agora. Estou a caminho, vou atualizar se houver novidades. Ajudem a identificar quem é essa pessoa no desenho, com certeza é uma pista importante!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Tá Pronto o Sorvetinho",
+                "content": "Se este é o retrato do assassino, então a vítima deve ter morrido de fofura."
+            },
+            {
+                "floor": 2,
+                "commenter": "fiqueimalnafoto",
+                "content": "O OP disse que a pessoa ainda não morreu, parece que ela sofreu um acidente de trânsito muito grave. Mas se realmente foi um acidente repentino, como ela teria forças para desenhar um retrato? É realmente muito estranho..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Eaí",
+                "content": "Se o OP tem cérebro, ele se contradiz. Mas se não tem, pelo menos pensou em publicar isso em anônimo."
+            },
+            {
+                "floor": 4,
+                "commenter": "[OP] Anônimo",
+                "content": "Tenho novidades! No caminho pro hospital agora há pouco, a mensagem póstuma parou meu carro! Não, não, o que estou dizendo? Deixa eu organizar melhor: quem parou o carro foi a pessoa do retrato, a tirena coelha baixinha! Mas ela é 10 vezes mais intimidadora que no retrato! Ela ficou falando um monte de coisa sobre colegas, sigilo, javalis e sei lá o quê, não entendi nada. Ela também disse que a pessoa no meu carro tava perfeitamente bem e que ia levar ela embora, e eu não tive coragem de dizer uma palavra sequer pra contrariar! Aí fiquei só assistindo ela carregar a pessoa e ir embora..."
+            },
+            {
+                "floor": 5,
+                "commenter": "[OP] Anônimo",
+                "content": "Agora eu tô aqui agachado na calçada repassando tudo na cabeça, e quanto mais penso, mais estranho fica. Será que isso é algum novo tipo de golpe? Daqui a pouco não vai aparecer alguém querendo me extorquir, vai?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Poste de Luz à Contraluz",
+                "content": "Então esse deve ser o golpe mais elaborado que já vi."
+            },
+            {
+                "floor": 7,
+                "commenter": "aguacomgas_semgas",
+                "content": "Se tiver novidades, lembra de atualizar a gente. Se eu encontrar essa tirena coelha 10 vezes mais feroz, quero estar preparado pra peitar ela."
+            }
+        ],
+        "player_reply": []
+    },
+    "28005": {
+        "id": 28005,
+        "poster": "Conta Oficial Exclusiva da Brigada Bizarra",
+        "likes": "17",
+        "views": 6352,
+        "title": "[Publicação] Aviso de Manutenção de \"Brigada Bizarra\"",
+        "text": "Queridos Caçadores de Sonhos,\nPara oferecer a vocês uma experiência de jogo ainda melhor, completar a atualização do conteúdo principal da versão e realizar a otimização dos servidores, Brigada Bizarra será retirado temporariamente para manutenção durante o próximo período. Durante a manutenção, o jogo ficará indisponível em todos os dispositivos, e todas as funcionalidades e modos de jogo estarão temporariamente fora do ar.\nO tempo de conclusão da manutenção poderá ser antecipado ou prorrogado de acordo com o progresso real do trabalho. Em caso de ajustes, compartilharemos as informações mais recentes através dos canais oficiais quanto antes.\nPedimos sinceras desculpas pelo inconveniente causado aos Caçadores de Sonhos por esta longa manutenção, e agradecemos de coração pela compreensão e paciência de todos. Após o término da manutenção, enviaremos compensações exclusivas aos jogadores veteranos através dos fliperamas. Por favor, não se esqueçam de resgatar suas recompensas.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 3,
+                "commenter": "Pai Rigoroso da Brigada Bizarra",
+                "content": "Os Caçadores de Sonhos desse jogo estão cada vez mais entediados. Melhor tirar do ar pra manutenção o mais rápido possível! Atenção aqui: não vão pro Godfinger jogar Brigada Bizarra durante esse período pros desenvolvedores corrigirem todos aqueles problemas logo!"
+            },
+            {
+                "floor": 12,
+                "commenter": "Sábio dos Jogos",
+                "content": "Resumindo: pra reduzir ainda mais a carga de trabalho dos desenvolvedores e pra que os Caçadores de Sonhos possam seguir com a vida tranquilamente, todas as recompensas do jogo vão ser enviadas automaticamente pelo correio quando a manutenção terminar. Não tenham pressa! Não precisam se preocupar, nem precisa fazer login!"
+            },
+            {
+                "floor": 31,
+                "commenter": "A Cobra é Insuperável",
+                "content": "Vocês, hein! Estão fazendo de tudo pra pegar as recompensas de tempo limitado..."
+            },
+            {
+                "floor": 50,
+                "commenter": "Mordida Nada Furtiva",
+                "content": "Falando sério, depois de um tempo, jogar Brigada Bizarra fica meio cansativo. Eu também tava no vício antes, mas só depois que parei recentemente é que senti que minha vida voltou pros eixos.\nPor mais forte que você seja no jogo, no fim das contas você não passa de um monte de dados. A gente tem que usar essa determinação de vitória na vida real... Aí, a gente realmente sente que tá vivendo, crescendo e sendo uma pessoa melhor."
+            },
+            {
+                "floor": 86,
+                "commenter": "Apenas Uma Preguiça",
+                "content": "Estou na confraternização da empresa, e todo mundo perdeu a linha na bebida... Por que tá todo mundo dizendo que não vai mais jogar Brigada Bizarra de repente?\nO jogo é tão divertido, espero que ninguém pare de jogar. Não abandonem o jogo!!!"
+            },
+            {
+                "floor": 88,
+                "commenter": "A Epítome da Gentileza de Ridu",
+                "content": "Deixa eu explicar...\nO Brigada Bizarra tá promovendo um evento. Quem for ao fliperama e concluir a fase por tempo limitado pode concorrer a prêmios. O prêmio máximo é de 40 bilhões de dennies! Esse pessoal quer ficar com tudo pra eles, então estão enganando todo mundo pra desistir!"
+            },
+            {
+                "floor": 89,
+                "commenter": "Batucada Violenta",
+                "content": "Agradeço muito a quem explicou no post de cima, senão eu ainda estaria sem entender nada!!!"
+            }
+        ],
+        "player_reply": [
+            "Ah não, alguém realmente acreditou!",
+            "Ah, na verdade não é bem assim..."
+        ]
+    },
+    "30001": {
+        "id": 30001,
+        "poster": "Tem gente que realmente não sabe nadar?",
+        "likes": "41",
+        "views": 2496,
+        "title": "[Publicação] Discussão: O Resort Onírico realmente melhorou?",
+        "text": "Como vocês podem ver na imagem — o autor estava passeando à beira-mar no fim da tarde quando, por acaso, avistou dois funcionários do Resort Onírico tendo uma conversa séria perto da grade de arame. Meu palpite é que estavam falando sobre algo relacionado ao verão que se aproxima.\nComo todos sabem, esse resort esteve à beira da falência no passado, mas, com a ajuda de alguém especial, conseguiu se transformar num lugar capaz de sediar um festival de música na praia em grande estilo. O problema é que isso tudo aconteceu no fim do verão, e, quando o outono chegou, o movimento caiu bastante.\nPessoalmente, adoro o verão e o mar, e fico animado pensando que o resort pode ter algo novo para oferecer e me proporcionar mais uma experiência inesquecível nessa época do ano. Mas, sendo um local que passou por uma verdadeira renascença antes de reabrir, fico me perguntando se eles conseguirão dar conta do pico de visitantes que está por vir.\nO que vocês, sábios da internet, acham? O Resort Onírico tem chances de repetir o sucesso?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Bom em tudo, exceto natação",
+                "content": "Tem tanto lugar bom pra passear no verão; quem liga pra um resort pequenininho? E o que significa o apelido do criador do post? O que tem de errado em não saber nadar?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Detesta primavera, outono e inverno",
+                "content": "Ninguém liga pra quem não liga, tá? A praia no verão é simplesmente a melhor coisa do mundo! Quem não entende isso realmente tem um gosto horrível!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Astra, continue brilhando sempre!",
+                "content": "Para de inventar, antes tínhamos a Astra no festival de música na praia, claro que foi um sucesso! Quem sabe o que vai acontecer nesse verão... Se tiver coragem, convida a Astra de novo!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Hora das férias",
+                "content": "Ouviu-se o som alto de um ábaco..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Minoria Racional",
+                "content": "Não é um post de reclamação? O Resort Onírico neste verão não tem como competir com os anos anteriores em termos de novidade ou repercussão, mas a praia ainda é um dos destinos preferidos no verão. Sem rumores atrapalhando, o faturamento provavelmente não vai ser tão ruim assim. De qualquer forma, isso é problema da equipe do resort. Como turista, o melhor é aproveitar bem as próprias férias."
+            },
+            {
+                "floor": 6,
+                "commenter": "Todos têm razão.",
+                "content": "Apoio o 5º andar! A situação atual é que o resort não vai falir de novo, então é só curtir, comer bem e se divertir!"
+            }
+        ],
+        "player_reply": []
+    },
+    "30002": {
+        "id": 30002,
+        "poster": "Vida Profissional: Começando do Zero",
+        "likes": "393",
+        "views": 3193,
+        "title": "[Publicação] Será que meu chefe vai virar espião?",
+        "text": "Alguém já ouviu falar do projeto de colaboração entre o Instituto Estrela Branca e o Grupo Marcel?\nEntrei na empresa há apenas seis meses e, de repente, meu chefe precisa viajar por causa desse projeto. Ele assinou uma pilha de acordos de confidencialidade e me disse que vai ficar fora por muito tempo... Será que ele foi selecionado para ser agente secreto?!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Pimentinha Surfista",
+                "content": "Se fosse mesmo um agente secreto, como você saberia disso? A inteligência do autor da postagem deixa muito a desejar."
+            },
+            {
+                "floor": 2,
+                "commenter": "Mestre, me dê um Bambu de sobrevivência!",
+                "content": "Talvez contenha dados de pesquisa confidenciais... Perguntei ao meu orientador, e ele disse que nunca tinha ouvido falar desse projeto."
+            },
+            {
+                "floor": 3,
+                "commenter": "Bolso Cósmico",
+                "content": "Apaga o post logo, antes que o departamento jurídico mais poderoso do mundo te encontre! Se te pegarem por vazamento de informações, já vai ser tarde demais!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Animal Noturno",
+                "content": "Se o Instituto Estrela Branca está colaborando com Marcel, será que estão desenvolvendo algum novo tipo de Bangboo? Mas, pela descrição do autor do post, parece que tem algo bem misterioso por trás disso... Não dá pra saber o que estão tramando."
+            },
+            {
+                "floor": 5,
+                "commenter": "Não gosta de salgadinhos",
+                "content": "Concordo com quem falou antes: se realmente houvesse uma conspiração, por que deixariam um funcionário de básico, contratado há pouco tempo, saber de algo assim? Na minha opinião, deve ser apenas segredo comercial que não pode ser divulgado."
+            },
+            {
+                "floor": 6,
+                "commenter": "Quero deixar meu cabelo crescer.",
+                "content": "Que caixa enorme! Por que o criador do tópico não a abre para ver o que tem dentro?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Chá Oolong de Figo",
+                "content": "O pessoal lá em cima está falando sério? Se abrir isso, a gente vai ser preso de verdade."
+            }
+        ],
+        "player_reply": [
+            "Impossível.",
+            "Talvez envolva algo que precisa ser mantido em sigilo."
+        ]
+    },
+    "30003": {
+        "id": 30003,
+        "poster": "Sem o chefe, esse grupo vai se desfazer.",
+        "likes": "7",
+        "views": 9382,
+        "title": "[Pedido de Ajuda] Procuro uma pessoa!! Alguém já viu a mulher da foto?",
+        "text": "Alguém já viu a mulher desta foto? Alguém sabe de onde foi tirada? Estou procurando essa pessoa com urgência. Recompensa para quem fornecer informações detalhadas!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Eu amo melancia",
+                "content": "Tenho a sensação de que já vi essa mulher antes... Da última vez que a vi, ela também estava sendo perseguida assim!"
+            },
+            {
+                "floor": 2,
+                "commenter": "AAA Rei dos Cobranças",
+                "content": "A Casa das Lebres Astutas está inventando desculpas de novo, é? Esse papo de \"nosso chefe sumiu e não temos como pagar agora, nos dê mais alguns dias\" não vai funcionar com a gente!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Uma colher de proteína por dia",
+                "content": "Hmm... a imagem está um pouco borrada, mas dá para ver que a mulher na foto tem uma boa quantidade de músculo. Se ela tomar alguns suplementos e focar no treino do bíceps, a definição ficaria ainda melhor! Pode me mandar uma mensagem privada e eu recomendo uma academia."
+            },
+            {
+                "floor": 4,
+                "commenter": "Um Cogumelo Puro e Bondoso",
+                "content": "O cara lá de cima deve ter algum problema— alguém está postando um aviso de pessoa desaparecida e ele vem fazer propaganda de academia?"
+            },
+            {
+                "floor": 5,
+                "commenter": "O cachorro de estimação se chama Príncipe",
+                "content": "Por que tem tantos Bangboo atrás dela? Isso é algum tipo de show?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Rei das Horas Extras",
+                "content": "Hã? Tem recompensa? Qual é o valor? Dá pra eu ficar seis meses sem trabalhar?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Se me ver, lembre-me de beber água",
+                "content": "Pessoal de cima, não acreditem neles; esses aí são famosos no Interlaço, mas são tão pobres que provavelmente não têm dinheiro para te pagar."
+            }
+        ],
+        "player_reply": []
+    },
+    "30004": {
+        "id": 30004,
+        "poster": "Cozinha da Mamãe Ursa",
+        "likes": "8895",
+        "views": 5220,
+        "title": "[Publicação] O Bangboo da minha casa está um pouco estranho...",
+        "text": "O Bangboo de casa contou uma história chamada \"Príncipe Bangboo\" para a criança, disse que era de um livro de histórias e até desenhou uma ilustração baseada no conteúdo. Mas procurei por todo lado e não encontrei esse livro em lugar nenhum...\nAlguém já ouviu essa história? Ou será que o Bangboo inventou tudo? Mas ele contava com tanta convicção, não deve estar me enganando...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Visita Noturna ao Psiquiátrico",
+                "content": "Um Príncipe Bangboo? Antes eu falei com um Bangboo que se dizia cavaleiro... Será que esse Príncipe também é um Bangboo que leu romance demais e não consegue distinguir Fantasia da realidade?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Etéreo também gosta de você",
+                "content": "O que é essa bagunça toda? Tenho a sensação de que já vi esses elementos em algum lugar. Alguém tem alguma ideia?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Pássaros que sabem nadar",
+                "content": "Será que o pessoal do andar de cima estava pensando em algum romance ou novela? Príncipe é algo bem comum na literatura de fantasia, e quanto a cidades das estrelas, castelos e afins... acho que também aparecem bastante nos Contos de Fadas."
+            },
+            {
+                "floor": 4,
+                "commenter": "Eu sou uma gatinha",
+                "content": "Na opinião desta gatinha, será que esse Bangboo não está com a memória um pouco bagunçada, misturando várias coisas que viu antes e sintetizando tudo numa só história? O criador do tópico pode entrar em contato com o suporte pós-venda da Marcel para verificar os componentes, miau."
+            },
+            {
+                "floor": 5,
+                "commenter": "A identidade do Interlaço é dada por si mesmo",
+                "content": "Concordo com o comentário acima. Se for confusão de memória, tudo bem, mas o que mais me preocupa é o Bangboo estar inventando coisas. Se estiver mentindo, precisa ser bem educado! Dono do post, não deixe a criança aprender maus hábitos."
+            },
+            {
+                "floor": 6,
+                "commenter": "Festa do Chá com Coelho",
+                "content": "Será que só eu me importo com o que essa história realmente conta? Parece bem interessante!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Se tiver com fome, beba mais água",
+                "content": "Em Nova Eridu, nada que um Bangboo faça parece surpreendente. Família, estou certo?"
+            }
+        ],
+        "player_reply": [
+            "Que tal levar para uma revisão?",
+            "Talvez haja uma história por trás disso..."
+        ]
+    },
+    "31001": {
+        "id": 31001,
+        "poster": "Fala uma coisa que ninguém saiba.",
+        "likes": "1",
+        "views": 9577,
+        "title": "[Publicação] Informação ultrassecreta, depois apago.",
+        "text": "Acabei de receber algumas informações de primeira mão por certos canais. Parece que nosso chefe foi eliminado sem deixar herdeiros. A cena foi brutal e o assassino ainda não foi capturado\nA notícia certamente será suprimida em segredo, mas o que aconteceu já aconteceu. Nova Eridu está prestes a mudar.\nPara que vocês não fiquem em dúvida, estou anexando uma foto.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "PapoReto",
+                "content": "O que que o OP tá falando aí? Sai fora com essa de charada em Nova Eridu. E esse tio na foto? Cara de malandro. Menos esse tipo de post."
+            },
+            {
+                "floor": 2,
+                "commenter": "Reprimido_Fatal",
+                "content": "3 minutos. Quero nome, CPF, signo e tudo sobre essa moça de cabelão na foto."
+            },
+            {
+                "floor": 3,
+                "commenter": "Moço_Ingênuo",
+                "content": "O post do OP é mó sem graça, mas essa mina é linda demais. Pena que nem dá pra ver o rosto. É alguma famosa?"
+            },
+            {
+                "floor": 4,
+                "commenter": "TigresMinervaSempre",
+                "content": "Eu conheço esse tiozão, já vi ele na TV... Esse não é o Mosseint, o chefão da Corporação Futuro? Foi o OP que tirou essa foto? Isso aí parece festa de gente grande.\nPera... o OP disse que o chefe ia ficar sem herdeiros. Se for o Mosseint, quer dizer que aconteceu alguma coisa com os filhos dele?"
+            },
+            {
+                "floor": 5,
+                "commenter": "Desempregado_Vivo",
+                "content": "Como assim? Essa gata? Que história é essa? OP, conta direito aí! A Corporação Futuro tá prestes a tremer?"
+            },
+            {
+                "floor": 6,
+                "commenter": "AVerdadeFazMitose",
+                "content": "Fui dar uma pesquisada e é verdade msm... o Mosseint tem um filho adotivo e uma filha adotiva. Ele mesmo falou disso numa entrevista de anos atrás. Pelo que ele disse, o filho morreu num acidente, e a filha trabalha como pesquisadora na Corporação Futuro, mas quase nunca aparece em público. Bem misteriosa essa história.\nSobre a foto do OP, dei uma olhada e parece ser de algum evento de gala de uns anos atrás. Eu conheço esse salão, meu tio já trabalhou servindo mesas lá kkk. Também não achei nenhuma foto igual na internet... então talvez o OP não esteja inventando."
+            },
+            {
+                "floor": 7,
+                "commenter": "Só_Curioso",
+                "content": "O de cima é detetive agora? kkk Falando nisso, vi uma notícia sobre o Mosseint. Se algo realmente aconteceu com a filha dele, será que não dá pra notar alguma coisa pelo comportamento dele?"
+            }
+        ],
+        "player_reply": []
+    },
+    "31002": {
+        "id": 31002,
+        "poster": "111DiasPraFerias",
+        "likes": "9",
+        "views": 2663,
+        "title": "[Publicação] Por que o chefe dos outros sempre viaja e o meu...",
+        "text": "Meus amigos ultimamente ou tão de férias ou tão na moleza no trabalho. Fui perguntar e a resposta era sempre a mesma: o chefe deles viajou, então a carga caiu bastante.\nMas por quê??? Por que justo o meu chefe não tira férias e continua lá no escritório, tomando um chá tranquilamente enquanto escreve relatório pro inspetor da ordem??\nLeva meu chefe numa viagem também, aí sim eu consigo enrolar no trabalho e tirar umas férias!!!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "CadêDiaDoCarotenoDourado",
+                "content": "Os chefes de geral tão viajando juntos?? Que isso?? Os amigo do OP trampam onde pra ter essa sorte??"
+            },
+            {
+                "floor": 2,
+                "commenter": "[OP] 111DiasPraFerias",
+                "content": "T.O.P.S., MANEN, AIEN, a prefeitura... nem sei mais. Tenho contato com gente de todo canto."
+            },
+            {
+                "floor": 3,
+                "commenter": "EstudiosoDoVazio",
+                "content": "O OP falou de inspetor da ordem... juntando os pontos, será que ele é do baixo escalão do Departamento de Segurança Pública? Os grupos que citou são tudo gente pesada. Perto deles, o Departamento de Segurança Pública até parece meio sem moral kkk."
+            },
+            {
+                "floor": 4,
+                "commenter": "NãoMudoAtéEmagrecer",
+                "content": "Peraí, o pessoal do DPS está no Interlaço... Isso não vai dar problema pro OP? Além disso, essa foto mostra os dedos e a orelha dele, então acho que dá pra identificar facilmente qual oficial de segurança é..."
+            },
+            {
+                "floor": 5,
+                "commenter": "JuroQueNãoÉIronia",
+                "content": "OP: Houve um tempo em que eu trabalhava."
+            },
+            {
+                "floor": 6,
+                "commenter": "AAA_ComproRelíquiasDaEsferaNegra",
+                "content": "Olhem, o OP sumiu. Será que esse post vai ser deletado daqui a pouco?"
+            },
+            {
+                "floor": 7,
+                "commenter": "CozinheiraGamer",
+                "content": "Mas falando sério, com tanta gente de facção diferente viajando ao mesmo tempo, isso não é invenção. Ainda outro dia um do Instituto Estrela Branca postou também... Será que tem uma reunião secreta por trás disso?"
+            }
+        ],
+        "player_reply": []
+    },
+    "31003": {
+        "id": 31003,
+        "poster": "Ken Fala de Ridu",
+        "likes": "13",
+        "views": 8465,
+        "title": "Informação: O líder de Corporação Futuro, Mosseint, participou recentemente de um evento de caridade.",
+        "text": "Recentemente, o líder de Corporação Futuro, Mosseint, participou de uma evento de caridade realizada no distrito Janus. O evento, organizado pelo Grupo Dinastia Futuro (ou \"Odeão\" para os íntimos), teve como objetivo promover a conscientização e o apoio contínuo às famílias afetadas pela queda da antiga capital.\nComo fundador da Corporação Futuro, Mosseint atua desde a era de Eridu nas áreas de finanças, entretenimento e ciência das Esferas Negras. Começando do zero, ele construiu um império comercial que se destaca até mesmo dentro da Aliança T.O.P.S.. Vale ressaltar que ele sempre foi conhecido por sua discrição, raramente participando de eventos públicos.\nA foto mostra Mosseint sendo entrevistado por repórteres. Ele parecia estar de bom humor e conversou com eles sobre diversos assuntos.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Só Curiosidade",
+                "content": "Esse tipo de notícia sem sal, ninguém clicaria nem se pagasse. Mas se o que tão dizendo no outro post for real, e a filha do Mosseint realmente sofreu um acidente... por que ele estaria num evento agora? Ele nunca foi de aparecer nisso."
+            },
+            {
+                "floor": 2,
+                "commenter": "Não Morro Sem Trabalho",
+                "content": "Cheguei pelo outro post... Falou tudo. A filha dele tá ferida, e ele tá todo felizão? Ou será que ele ainda não tinha descoberto quando foi no evento?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Copa Ridu, eu torço pelos Tigres Minerva!",
+                "content": "E a gente pergunta pra quem? Somos uns zé-ninguém, a gente nem chega perto dessas festas. Como é que a gente vai saber a ordem das coisas?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Verdade só há uma (mas passa por mitose)",
+                "content": "Fui dar uma olhada, esse evento de caridade foi ontem à noite. Antes do evento começar, a pessoa que sabia das coisas já tinha postado o outro tópico. Pelo que ele escreveu, não parece ser alguém de dentro com todos os detalhes. Provavelmente só ouviu de alguém próximo.\nEm outras palavras, quando o evento começou, a notícia já tinha vazado. Acho muito difícil que o Mosseint não soubesse de nada naquela hora."
+            },
+            {
+                "floor": 5,
+                "commenter": "OP: Ken Fala de Ridu",
+                "content": "Que isso? Meu post explodiu de visualizações do nada! Não tô ligado no que tão falando, mas já que vocês tão aqui, deixa aquele like, segue o canal, que o Ken vai continuar trazendo as melhores fofocas e novidades!"
+            },
+            {
+                "floor": 6,
+                "commenter": "Não Morro Sem Trabalho",
+                "content": "O cara do 4º andar é um detetive... Então quer dizer que o velho sabia que a filha tava ferida e mesmo assim foi pro evento de boa? Tá parecendo que tem mais coisa escondida... Essa galera do alto escalão é gelada demais."
+            },
+            {
+                "floor": 7,
+                "commenter": "Homem-Rato",
+                "content": "Cheguei agora, o que foi que rolou? O Interlaço me mandou esse post falando que tava em alta. Quem é esse tiozão? E onde tá o outro tópico que tão falando? Vou lá ver!"
+            }
+        ],
+        "player_reply": []
+    },
+    "32001": {
+        "id": 32001,
+        "poster": "Chef Extraoficial da família Hoshimi",
+        "likes": "6000",
+        "views": 8956,
+        "title": "[Publicação] A estrela Hoshimi Miyabi vem chegando!",
+        "text": "Finalmente lancei o minijogo \"Vozes da Esfera Negra\" que eu tinha prometido para vocês! Todo mundo já sabe que eu sou completamente apaixonado pela capitã da Seção 6, Hoshimi Miyabi, então, podem considerar esse jogo um tributo de fã, em que ela é a protagonista.\nNa real, no começo eu só queria prestar uma homenagem pra ela, mas acabei desenhando mais de 3.000 esboços de personagem sem nem perceber... E isso não é culpa minha! Não consigo resistir a recriar as cenas dela sempre que vejo a Miyabi lutando toda elegante! Eu perdi um monte de cabelo no processo, mas quando vejo os cabelos da Miyabi fluindo no jogo com a mais perfeita física, tudo vale a pena!\nPra finalizar, queria agradecer o apoio de todos e retribuir os fãs que amam a Miyabi como eu, por isso essa obra é totalmente gratuita! Espero que baixem e prestigiem bastante! Vamos compartilhar nossa adorável Miyabi com o mundo inteiro!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Blablabla Gamer",
+                "content": "Assim que o grupo abriu, eu já entrei! Isso aqui é um verdadeiro milagre!"
+            },
+            {
+                "floor": 2,
+                "commenter": "Rachando a Esfera só com as Orelhas",
+                "content": "Olha essas orelhas compridas, pontudas, tão realistas e fofas! É pra isso que eu pago a Interlaço!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Centro de Cultivo de Melão",
+                "content": "Já tem meu apoio! É bizarro ter conseguido recriar o charme da Miyabi tão perfeitamente assim!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Nick provisório até eu dominar ilustração",
+                "content": "O quêêêê? 3.000 esboços?????"
+            },
+            {
+                "floor": 5,
+                "commenter": "ChegaDisso",
+                "content": "Será um sonho? Uma obra dessas, e o jogo ainda é de graça?!"
+            },
+            {
+                "floor": 6,
+                "commenter": "usuário_anônimo",
+                "content": "Seu trabalho ficou excelente, obrigada! Só por um acaso, estou fazendo um treinamento sobre apoio a criadores e livre expressão de admiração. Parece ser a oportunidade perfeita de exercitar isso e manifestar minha gratidão ao autor da postagem."
+            },
+            {
+                "floor": 7,
+                "commenter": "Olhos de Fogo",
+                "content": "Meu Deus, será que foi ela mesma que apareceu por aqui?! Volta logo, OP!"
+            },
+            {
+                "floor": 8,
+                "commenter": "[OP] Chef Extraoficial da Família Hoshimi",
+                "content": "Ahhh! O que eu perdi? Uaaaa... A Miyabi é tão gentil! Vou ser o maior fã dela pro resto da minha vida!"
+            }
+        ],
+        "player_reply": [
+            "Tomara que sua base só cresça!",
+            "Já tô esperando mais criações incríveis assim de vc"
+        ]
+    },
+    "32002": {
+        "id": 32002,
+        "poster": "Manhã na Mansão",
+        "likes": "41",
+        "views": 2289,
+        "title": "[Publicação] Estrela cadente! Não esqueça de fazer um desejo!",
+        "text": "As fotos não são editadas. É tudo original e sem retoques. Se não acredita fecha o post, nem precisa vir me questionar!\nComo sempre, hoje eu acordei, e fui até o terraço da minha mansão, com minhas dez governantas me atendendo, fazendo meu cafezinho moído na hora, me preparando para passar mais um dia tranquilo e feliz até ver o pôr do sol. Foi então que vi uma estrela cadente no céu! Foi um espetáculo tão raro que até eu, com toda a minha experiência de vida, só vi hoje pela primeira vez e não pude deixar de compartilhar com vocês!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Descobridor dos Sete Céus",
+                "content": "Pelos detalhes, isso não é um meteoro comum. Será um pedaço de equipamento antigo que virou lixo espacial, caiu ali e pegou fogo?\nO Cinturão de Tempestade Minerva não é tão longe, e as condições climáticas por lá são bem complicadas. Faria sentido ser algo desse tipo."
+            },
+            {
+                "floor": 2,
+                "commenter": "FaloMSM",
+                "content": "Quer postar, posta direito. Se vai falar de estrela cadente, coloca alguma informação sobre ela, em vez de ficar atraindo a gente aqui e perdendo o tempo de quem ama astronomia de verdade. Quem é que se importa com quantas governantas você tem, ou que mora numa mansão com terraço?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Formei atékinfim",
+                "content": "A estrela cadente veio trazer os espíritos do céu e da terra pra me abençoar! Vou arrasar na entrevista da Corporação Futuro!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Cavaleiro da Família",
+                "content": "Espero que isso seja mesmo uma estrela cadente, e não algo ruim relacionado à Esfera Negra..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Confusão é cmg mesmo",
+                "content": "Manda mais fotos! Em que direção foi isso no céu? Onde a estrela caiu? Quero vasculhar a área e encontrar onde ela pousou."
+            },
+            {
+                "floor": 6,
+                "commenter": "Astrólogo",
+                "content": "Compartilhe esta estrela cadente e a sorte virá em sete dias!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Observador de Sorte",
+                "content": "Eu também vi a estrela cadente... Mas não tem nenhuma mansão perto da minha casa..."
+            }
+        ],
+        "player_reply": [
+            "Então esta é a Phoenix...",
+            "Espero não ter causado nenhum transtorno..."
+        ]
+    },
+    "32003": {
+        "id": 32003,
+        "poster": "Forneço informações mediante pagamento",
+        "likes": "29",
+        "views": 6900,
+        "title": "[Informe] Sobre o homem cujo nome não deve ser dito",
+        "text": "Aviso antes de mais nada: se for responder, JAMAIS mencione o nome real de certa pessoa, que eu não quero receber um \"convite para tomar chá\" com nenhum oficial.\nResumo rápido: eu estava passando pelo MANEN quando \"aquele homem\" (codinome: Rei Demônio do DSP) saindo de lá. Estava óbvio que ele tinha se reunido com pessoal do DOE.\nUm agente duplo no DSP... conheço alguém que me disse que o Rei Demônio ia fazer uma viagem de trabalho importante. Combinando isso com o fato de ele ter se encontrado com o DOE, será que ele vai liderar pessoalmente uma equipe para entrar na Esfera Negra?!\nEm todo caso, muito cuidado ao entrar na Esfera Negra ultimamente. Fiquem atentos às informações ocultas e evitem cruzar com esse senhor, afinal ele é mais brutal do que os próprios Etéreos.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Hamster",
+                "content": "Pois é, minha mãe também falou que ele ia viajar a trabalho e que até já tinha repassado suas obrigações oficiais pra outras pessoas."
+            },
+            {
+                "floor": 2,
+                "commenter": "Devolvam minha carteira de motorista",
+                "content": "Entrar na Esfera Negra? Ele não é um rato de escritório? Nunca ouvi falar dele em campo."
+            },
+            {
+                "floor": 3,
+                "commenter": "Hamster",
+                "content": "Óbvio, se precisaram chamar a alta cúpula para trabalho de campo, a crise deve ser grave dessa vez. Com certeza não querem que o público saiba de nada."
+            },
+            {
+                "floor": 4,
+                "commenter": "Anônimo",
+                "content": "Não ouvi nada sobre ele querer entrar na Esfera Negra. Pelo menos do nosso lado, não recebemos nenhum pedido de reforço."
+            },
+            {
+                "floor": 5,
+                "commenter": "Cofrinho de Dennies",
+                "content": "Ouvi dizer que tem um monte de investigadores duvidosos trabalhando pra ele, todos mantidos do próprio bolso, sem nenhuma satisfação à administração municipal. Aposto que ele vai usar essas pessoas nessa operação, né?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Anônimo",
+                "content": "Você se atreveu a citar os especialistas de caso dele? Quer morrer? Os capangas dos Lowell vão rastrear sua conexão e te achar!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Fala menos, isso nem é motivo de orgulho",
+                "content": "O autor do post deveria deletar logo, esses comentários já saíram de controle, até o Lowell apareceu..."
+            }
+        ],
+        "player_reply": []
+    },
+    "32004": {
+        "id": 32004,
+        "poster": "Investigador de Passagem",
+        "likes": "123",
+        "views": 1670,
+        "title": "[Publicação] Só pode ser culpa da Esfera Negra!",
+        "text": "Ahhh! Eu só sou um investigador de Esferas Negras qualquer, nunca fiz nada de errado, e a Esfera Negra está se vingando de mim assim? Bom, a situação é a seguinte: alguém mais percebeu que os dados de Esferas fornecidos pela associação estão sempre com problemas?\nAté os Carotenos que ainda tem dados na data de validade estão falhando o tempo todo. Já acabei me perdendo na Esfera Negra por isso.\nAi... Só me resta criar Carotenos à mão agora. Tem mais alguém aí querendo Carotenos? Compras em grupo têm desconto!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Aposentar-aos-40",
+                "content": "Eu posso garantir que o Caroteno do OP funciona mesmo. Os dados de Rosetta dão problema o tempo todo, e nem adianta reclamar, que o sac da AIEN parece que tá surdo. Só nos resta resolver com as próprias mãos."
+            },
+            {
+                "floor": 2,
+                "commenter": "Chá Azedo",
+                "content": "Os dados de Rosetta também têm erros? Será que foi um vírus?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Proxy da sorte de sempre",
+                "content": "Os meus Carotenos estão perfeitos, parem com essas fake news!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Pedreiro",
+                "content": "Você aí falando que os Dados de Rosetta tão funcionando: quantas vezes você entra na Esfera Negra em uma semana? Não vem me falar que não tem problema se faz seis meses que você não entra lá! Meu Caroteno também teve problema nos dados ontem. A gente devia se unir e fazer uma reclamação em massa!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Segurança em primeiro lugar",
+                "content": "Fiz uma pré-compra de um lote de Carotenos artesanais tradicionais. Os preços e o endereço de entrega já foram enviados em privado. Por favor, dê uma olhada!"
+            }
+        ],
+        "player_reply": []
+    },
+    "32005": {
+        "id": 32005,
+        "poster": "Departamento Central de Cálculos de Roscaelifer",
+        "likes": "2333",
+        "views": 6666,
+        "title": "[Anúncio] Cenouras Inteligentes de Roscaelifer, para as crianças crescerem bem!",
+        "text": "Seu filho anda com dificuldade em matemática? Ele ainda não consegue entender as quatro operações básicas?\nSeus problemas acabaram! As cenouras inteligentes de Roscaelifer vão fazer seu filho pensar no nível do poder de processamento do Nexo Celestial!\nA luz do sol e os nutrientes vindos dos céus vão limpar a mente e os olhos das crianças! Mensagem privada para mais informações.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Nada mal!",
+                "content": "Então tem esse tipo de produção em Roscaelifer... com muito caroteno..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Flores de Fugui",
+                "content": "Família, isso é verdade! O poder de processamento das crianças aumenta mesmo!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Água do Bem Supremo",
+                "content": "Te mandei uma mensagem, OP! Conto com você para encontrar os caminhos da matemática com meu filho!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Dogão com Osso",
+                "content": "Departamento Central de Cálculos de Roscaelifer? Isso é um produto oficial do Nexo Celestial?"
+            },
+            {
+                "floor": 5,
+                "commenter": "Não perca!",
+                "content": "Será que a Blaze coloca cenouras inteligentes no hot pot dela?"
+            },
+            {
+                "floor": 6,
+                "commenter": "A Dama da Alvorada é incomparável",
+                "content": "Cara de cima, você é simplesmente invencível!"
+            }
+        ],
+        "player_reply": [
+            "Isso seria um caso de excesso de \"caroteno\"?",
+            "Será que alguém tem mesmo coragem de comprar isso?"
+        ]
+    },
+    "32006": {
+        "id": 32006,
+        "poster": "AAA Rei das Fissuras",
+        "likes": "45",
+        "views": 3454,
+        "title": "[Publicação] Alguém a fim de fazer uma compra de Caroteno em grupo?",
+        "text": "Um amigão me vendeu um Caroteno de primeira mão por 99.999 dennies... e foi útil mesmo, viu? Nem encontrei ninguém da AIEN no caminho, então realmente devem ser dados de primeira mão. Demais! Vou ser o rei das fissuras!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Tio em Retirada",
+                "content": "Caroteno de primeira mão? Isso não é um tipo de coisa exclusiva da prefeitura ou do MANEN?"
+            },
+            {
+                "floor": 2,
+                "commenter": "VentoNovo",
+                "content": "Que mentira! Como você conseguiu de primeira mão? Tem parente em Roscaelifer?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Devorador da Papago",
+                "content": "Te mandei uma mensagem, parça! Me conta mais sobre isso!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Não perca!",
+                "content": "Cara, acho que o DSP vai aparecer na sua porta a qualquer momento."
+            },
+            {
+                "floor": 5,
+                "commenter": "Cafezin Quentin",
+                "content": "E você posta isso na Interlaço? Tá achando que o DSP não monitora isso aqui?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Não me diga",
+                "content": "Toc, toc, toc. É o DSP!"
+            }
+        ],
+        "player_reply": [
+            "Caroteno? Algo de errado não tá certo aqui.",
+            "Será que tá mesmo rolando contrabando de Caroteno?"
+        ]
+    },
+    "32007": {
+        "id": 32007,
+        "poster": "Um Cachorrinho com um Sonho",
+        "likes": "220",
+        "views": 3262,
+        "title": "[Publicação] Alguém sabe por que o Mega Fã está agindo de forma estranha hoje?",
+        "text": "Então, pessoal, eu fui a um evento hoje e vi meus três Anjos amados com meus próprios olhos!!! Estou pulando de felicidade! Ｏ(≧▽≦)Ｏ\nQuando eu cheguei em casa, vi as fotos oficiais do evento e me liguei que o Mega Fã estava sentado bem na minha frente o tempo todo! Hoje eu tive muita sorte!\nSó que... ele parece meio estranho nas fotos. Será que ele estava com medo de mim? O que será que aconteceu? Alguém sabe mais detalhes? Estou tão preocupado...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Chaveirinho da Sunna",
+                "content": "Ei, o Mega Fã não tem medo de você, mas já pensou na possibilidade que essa sua roupinha..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Timidez-d-berço",
+                "content": "Por favor, para de choramingar! Meu choque é igual ao do Mega Fã..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Manual de Moda dos Anjos",
+                "content": "Uau, tá colocando as asinhas pra fora da regata, hein?! Quando o OP disse que ia deixar a moda, eu já disse que não concordava!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Anjos da Desilusão - Todos os membros",
+                "content": "Ei, fala aí. Por que vocês acham que o OP não é confiável só porque ele é fortinho? Esses Deliranjos tão cada dia melhores mesmo..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Q_td_vê",
+                "content": "Hã, então... você acha que quanto mais rosa a regata, mais fã você é?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Bot galã",
+                "content": "Tsc, o OP fez uma pergunta sincera e ninguém comentou algo útil. Então... eu tbm não vou falar nada."
+            },
+            {
+                "floor": 7,
+                "commenter": "euS2comer",
+                "content": "OP, OP, você curte os Anjos da Desilusão? Elas são as melhores, você tem bom gosto! Vai com tudo, OP!"
+            }
+        ],
+        "player_reply": [
+            "O que dizer, né?!",
+            "O Mega Fã está bem, não se preocupe!"
+        ]
     }
 }

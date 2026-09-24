@@ -1,6 +1,6 @@
 {
     "1001": {
-        "id": "1001",
+        "id": 1001,
         "poster": "lalala",
         "likes": "34",
         "views": 5881,
@@ -32,7 +32,7 @@
         "player_reply": []
     },
     "1002": {
-        "id": "1002",
+        "id": 1002,
         "poster": "Ở Nhà Thôi Thì Đã Sao",
         "likes": "105",
         "views": 3864,
@@ -64,7 +64,7 @@
         "player_reply": []
     },
     "1003": {
-        "id": "1003",
+        "id": 1003,
         "poster": "Indigo",
         "likes": "364",
         "views": 7989,
@@ -96,7 +96,7 @@
         "player_reply": []
     },
     "1004": {
-        "id": "1004",
+        "id": 1004,
         "poster": "Chuông Gió Xoắn Ốc",
         "likes": "512",
         "views": 4124,
@@ -133,7 +133,7 @@
         "player_reply": []
     },
     "1005": {
-        "id": "1005",
+        "id": 1005,
         "poster": "Mèo Nhà Tôi Dễ Thương Nhất Thế Giới",
         "likes": "312",
         "views": 9631,
@@ -165,7 +165,7 @@
         "player_reply": []
     },
     "1007": {
-        "id": "1007",
+        "id": 1007,
         "poster": "CHAR",
         "likes": "6",
         "views": 7812,
@@ -200,7 +200,7 @@
         ]
     },
     "1008": {
-        "id": "1008",
+        "id": 1008,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 8267,
@@ -237,7 +237,7 @@
         "player_reply": []
     },
     "1009": {
-        "id": "1009",
+        "id": 1009,
         "poster": "Jack Bươm Bướm",
         "likes": "62",
         "views": 12563,
@@ -269,7 +269,7 @@
         "player_reply": []
     },
     "1010": {
-        "id": "1010",
+        "id": 1010,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 13409,
@@ -306,7 +306,7 @@
         "player_reply": []
     },
     "1011": {
-        "id": "1011",
+        "id": 1011,
         "poster": "Bé Nhỏ Dễ Thương",
         "likes": "16895",
         "views": 3697,
@@ -340,7 +340,7 @@
         ]
     },
     "1014": {
-        "id": "1014",
+        "id": 1014,
         "poster": "Suuuuri",
         "likes": "7",
         "views": 2168,
@@ -380,7 +380,7 @@
         ]
     },
     "1015": {
-        "id": "1015",
+        "id": 1015,
         "poster": "Fisherman",
         "likes": "25",
         "views": 559,
@@ -414,7 +414,7 @@
         ]
     },
     "1016": {
-        "id": "1016",
+        "id": 1016,
         "poster": "Kỵ Sĩ Nhỏ Không Ngại Trắc Trở",
         "likes": "0",
         "views": 309,
@@ -444,7 +444,7 @@
         ]
     },
     "1017": {
-        "id": "1017",
+        "id": 1017,
         "poster": "Bánh Tôm",
         "likes": "13",
         "views": 241,
@@ -481,7 +481,7 @@
         "player_reply": []
     },
     "1018": {
-        "id": "1018",
+        "id": 1018,
         "poster": "Chuyên Gia Rụng Tóc",
         "likes": "21",
         "views": 319,
@@ -528,10 +528,10 @@
         "player_reply": []
     },
     "1020": {
-        "id": "1020",
+        "id": 1020,
         "poster": "Điều Phối Làm Thêm AAA",
         "likes": "5",
-        "views": 204,
+        "views": 10,
         "title": "[Ủy Thác] Dịch Vụ Lỗ Hổng Chuyên Nghiệp ★ Bảo Trì Lò Xo",
         "text": "Việc part-time chất lượng cao: Việc nhẹ lương cao, trả theo ngày.\nChỉ tuyển một người, hãy nhanh tay liên hệ chúng tôi nhé.",
         "script": null,
@@ -560,27 +560,14 @@
                 "floor": 4,
                 "commenter": "Người Làm Công Cần Cù Chăm Chỉ",
                 "content": "Giải tán thôi, mấy người thật thà như chúng ta chẳng liên quan gì đến \"ủy thác chất lượng cao\" đâu."
-            },
-            {
-                "floor": 3,
-                "commenter": "Mẹo Chống Lừa Đảo",
-                "content": "Loại đơn này mà vẫn có người tin sao? \"Part-time chất lượng cao\" gì chứ... toàn là lừa tiền đặt cọc và phí đào tạo thôi."
-            },
-            {
-                "floor": 4,
-                "commenter": "Tôn Trọng Vận Mệnh Của Người Khác",
-                "content": "Lo lắng dư thừa.\nBài đăng \"chỉ tuyển một người\", một giây sau liền có người trả lời, rõ ràng hai người này thông đồng với nhau rồi."
-            },
-            {
-                "floor": 5,
-                "commenter": "Người Làm Công Cần Cù Chăm Chỉ",
-                "content": "Giải tán thôi, mấy người thật thà như chúng ta chẳng liên quan gì đến \"ủy thác chất lượng cao\" đâu."
             }
         ],
-        "player_reply": []
+        "player_reply": [
+            "Tôi."
+        ]
     },
     "1021": {
-        "id": "1021",
+        "id": 1021,
         "poster": "Thực Tập Sinh Đau Khổ",
         "likes": "2",
         "views": 573,
@@ -614,7 +601,7 @@
         ]
     },
     "1022": {
-        "id": "1022",
+        "id": 1022,
         "poster": "Vượt Qua Thời Gian Thử Việc",
         "likes": "15",
         "views": 3092,
@@ -653,7 +640,7 @@
         ]
     },
     "1023": {
-        "id": "1023",
+        "id": 1023,
         "poster": "Thực Tập Sinh Vui Vẻ",
         "likes": "2",
         "views": 976,
@@ -703,7 +690,7 @@
         ]
     },
     "1024": {
-        "id": "1024",
+        "id": 1024,
         "poster": "Nặc Danh",
         "likes": "21",
         "views": 121,
@@ -732,7 +719,7 @@
         ]
     },
     "1025": {
-        "id": "1025",
+        "id": 1025,
         "poster": "Thực Tập Sinh Tức Giận",
         "likes": "5",
         "views": 421,
@@ -766,7 +753,7 @@
         ]
     },
     "1026": {
-        "id": "1026",
+        "id": 1026,
         "poster": "Nhân Viên Chính Thức Vui Vẻ",
         "likes": "5",
         "views": 651,
@@ -805,8 +792,55 @@
             "Sự việc cuối cùng cũng được giải quyết \"viên mãn\" rồi!"
         ]
     },
+    "1029": {
+        "id": 1029,
+        "poster": "Điều Phối Làm Thêm AAA",
+        "likes": "5",
+        "views": 204,
+        "title": "[Ủy Thác] Dịch Vụ Lỗ Hổng Chuyên Nghiệp ★ Bảo Trì Lò Xo",
+        "text": "Việc part-time chất lượng cao: Việc nhẹ lương cao, trả theo ngày.\nChỉ tuyển một người, hãy nhanh tay liên hệ chúng tôi nhé.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 3,
+                "commenter": "Mẹo Chống Lừa Đảo",
+                "content": "Loại đơn này mà vẫn có người tin sao? \"Part-time chất lượng cao\" gì chứ... toàn là lừa tiền đặt cọc và phí đào tạo thôi."
+            },
+            {
+                "floor": 4,
+                "commenter": "Tôn Trọng Vận Mệnh Của Người Khác",
+                "content": "Lo lắng dư thừa.\nBài đăng \"chỉ tuyển một người\", một giây sau liền có người trả lời, rõ ràng hai người này thông đồng với nhau rồi."
+            },
+            {
+                "floor": 5,
+                "commenter": "Người Làm Công Cần Cù Chăm Chỉ",
+                "content": "Giải tán thôi, mấy người thật thà như chúng ta chẳng liên quan gì đến \"ủy thác chất lượng cao\" đâu."
+            },
+            {
+                "floor": 6,
+                "commenter": "Nhận Đơn Làm Thêm BBB",
+                "content": "Sao lại có người lấy trộm ủy thác của người khác để làm vậy? Là ủy thác của bạn sao mà bạn lại nhận??\nNgay cả ID cũng không khớp, vậy có cần phải bịa thêm cái cớ nói là tài khoản chính bị hack nên mới đổi sang tài khoản phụ không? Thật là vô lý!\nTên giả mạo người khác để trộm ủy thác! Vì sự ngụy trang tuyệt vời của bạn! Tài khoản chính của bạn chắc chắn sẽ bị hack!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Ừng Ực",
+                "content": "Ôi, tức đến mức này..."
+            },
+            {
+                "floor": 8,
+                "commenter": "Đợi 1 ủy thác thù lao cao",
+                "content": "Hiểu rồi... Có phải chủ thớt lần đầu đăng ủy thác giúp bạn bè nhận kinh nghiệm không? Ngay cả quyền xem cũng không biết cách cài đặt sao...\nNgười ta nhận ủy thác để làm là hợp tình hợp lý mà."
+            },
+            {
+                "floor": 9,
+                "commenter": "Mẹo Chống Lừa Đảo",
+                "content": "Hahahaha, lúc nhấn vào không ngờ sẽ buồn cười như thế!\nThì ra là \"lừa đảo\" ngược lại à!"
+            }
+        ],
+        "player_reply": []
+    },
     "2001": {
-        "id": "2001",
+        "id": 2001,
         "poster": "LZ",
         "likes": "3724",
         "views": 19012,
@@ -833,7 +867,7 @@
         "player_reply": []
     },
     "2002": {
-        "id": "2002",
+        "id": 2002,
         "poster": "Tôi Sẽ Tham Gia Dưới Hình Dáng Tin Master",
         "likes": "1490",
         "views": 7540,
@@ -870,7 +904,7 @@
         "player_reply": []
     },
     "2003": {
-        "id": "2003",
+        "id": 2003,
         "poster": "Thiên Nga Đen",
         "likes": "465",
         "views": 7195,
@@ -902,7 +936,7 @@
         "player_reply": []
     },
     "2004": {
-        "id": "2004",
+        "id": 2004,
         "poster": "Màu Óng Ánh",
         "likes": "159",
         "views": 2536,
@@ -934,7 +968,7 @@
         "player_reply": []
     },
     "2005": {
-        "id": "2005",
+        "id": 2005,
         "poster": "Bằng Chứng Ngoại Phạm Của Mèo",
         "likes": "2229",
         "views": 12577,
@@ -971,7 +1005,7 @@
         "player_reply": []
     },
     "2006": {
-        "id": "2006",
+        "id": 2006,
         "poster": "D.L",
         "likes": "12",
         "views": 9364,
@@ -1031,7 +1065,7 @@
         ]
     },
     "2007": {
-        "id": "2007",
+        "id": 2007,
         "poster": "100 Suất Rong Biển Ngâm Giấm Cho Ngày Tận Thế",
         "likes": "12",
         "views": 3159,
@@ -1085,7 +1119,7 @@
         ]
     },
     "2009": {
-        "id": "2009",
+        "id": 2009,
         "poster": "Thiên Tài Cô Độc",
         "likes": "56",
         "views": 6547,
@@ -1134,7 +1168,7 @@
         ]
     },
     "2010": {
-        "id": "2010",
+        "id": 2010,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 6225,
@@ -1166,7 +1200,7 @@
         "player_reply": []
     },
     "2011": {
-        "id": "2011",
+        "id": 2011,
         "poster": "Chuyên Gia Cà Rốt",
         "likes": "62",
         "views": 363,
@@ -1203,7 +1237,7 @@
         "player_reply": []
     },
     "2012": {
-        "id": "2012",
+        "id": 2012,
         "poster": "Nghệ Thuật Bùng Nổ Của Colt",
         "likes": "0",
         "views": 64,
@@ -1237,7 +1271,7 @@
         ]
     },
     "2013": {
-        "id": "2013",
+        "id": 2013,
         "poster": "Gunn",
         "likes": "13",
         "views": 3378,
@@ -1271,7 +1305,7 @@
         ]
     },
     "2014": {
-        "id": "2014",
+        "id": 2014,
         "poster": "Tâm Hồn Hóng Hớt",
         "likes": "25",
         "views": 236,
@@ -1313,7 +1347,7 @@
         "player_reply": []
     },
     "2015": {
-        "id": "2015",
+        "id": 2015,
         "poster": "Mã Nhân Viên: 7",
         "likes": "1",
         "views": 1559,
@@ -1345,11 +1379,6 @@
                 "floor": 5,
                 "commenter": "Người Kết Nối Tệ, Người Kết Nối Xấu",
                 "content": "Mọi người hãy đề cao cảnh giác. Tôi quản lý một nhóm nhỏ giao lưu Người Kết Nối, gần đây có một số Người Kết Nối trẻ tuổi trình độ khá nói rằng muốn thám hiểm Lỗ Hổng này, sau đó một đi không trở lại. Hình như Người Đại Diện của họ sau khi vào Lỗ Hổng đã bị đưa trở về... Dù sao thì tôi sẽ không mạo hiểm đâu, xin lỗi chủ thớt."
-            },
-            {
-                "floor": 6,
-                "commenter": "RedGiant",
-                "content": "Có ai ép bạn thích cô ấy đâu, sao phải vào mục thông tin về Astra để tìm cảm giác tồn tại chứ?"
             }
         ],
         "player_reply": [
@@ -1357,7 +1386,7 @@
         ]
     },
     "2016": {
-        "id": "2016",
+        "id": 2016,
         "poster": "Con Lười Chính Hiệu",
         "likes": "34",
         "views": 637,
@@ -1396,10 +1425,10 @@
         ]
     },
     "2017": {
-        "id": "2017",
+        "id": 2017,
         "poster": "Điều Phối Làm Thêm AAA",
         "likes": "8",
-        "views": 173,
+        "views": 61,
         "title": "[Ủy Thác] Dịch Vụ Lỗ Hổng Chuyên Nghiệp ★ Bảo Trì Bùng Nổ",
         "text": "Việc part-time chất lượng cao: Việc nhẹ lương cao, trả theo ngày.\nVẫn chỉ tuyển một người, nhanh tay nào.",
         "script": null,
@@ -1426,12 +1455,24 @@
             }
         ],
         "player_reply": [
-            "Tôi vô tình rơi vào sự tranh chấp tình cảm sao?",
-            "Xem ra không chỉ là tranh chấp ủy thác..."
+            "Hừm... để tôi nhé?"
+        ]
+    },
+    "2018": {
+        "id": 2018,
+        "poster": "Mã Nhân Viên: 7",
+        "likes": "1",
+        "views": 1559,
+        "title": "[Ủy Thác] Dành cho người có sở trường điều tra Lỗ Hổng kỳ lạ",
+        "text": "Tôi là ban chấp hành \"Bảy Truyền Thuyết Đô Thị New Eridu\"... Đúng thế, ban chấp hành này là có thật, đây là công việc toàn thời gian của tôi và được trả lương.\nCông việc của tôi là điều tra những Lỗ Hổng thu hút sự chú ý do tính chất đặc thù của chúng, tổng hợp tài liệu cho ban chấp hành và cập nhật vào danh sách \"Bảy Truyền Thuyết Đô Thị\".\nGần đây có nhiều bàn luận về Lỗ Hổng \"Dưới Lời Tiên Tri\", tôi đã mua một số tài liệu liên quan trên Inter-Knot. Nói thật là không có giá trị lắm... Căn bản chỉ nói chung chung rằng \"Trong đó có một Nhà Tiên Tri có thể dự đoán tương lai của bạn\" \"Còn có thể ban cho bạn sức mạnh thần kỳ\" v.v. khi tôi hỏi kỹ thì những người cung cấp tài liệu này đều đã biệt tăm biệt tích.\nTrên đời thật sự có nhiều người không am hiểu điều tra nhưng lại làm nghề này. Không phải phàn nàn, mà là cảm nhận thật của tôi.\nTôi cần một Người Kết Nối thực sự có năng lực, giúp tôi thám hiểm triệt để \"Dưới Lời Tiên Tri\" và mang về thông tin quý giá.\nQuá trình có thể gian nan nhưng thù lao sẽ không làm bạn thất vọng.",
+        "script": "Trong Lỗ Hổng \"Dưới Lời Tiên Tri\", môi trường Ether dường như có thể khiến nhận thức xảy ra đôi chút sai lệch. Vốn nghĩ có thể lọt vào danh sách \"truyền thuyết đô thị\" mới, nhưng vẫn có khả năng không đủ tiêu chuẩn? Có quá nhiều Lỗ Hổng kỳ lạ ở New Eridu rồi đấy...!",
+        "comments": [],
+        "player_reply": [
+            "Ủy thác này cứ để tôi!"
         ]
     },
     "2019": {
-        "id": "2019",
+        "id": 2019,
         "poster": "Yellow Weasel",
         "likes": "11302",
         "views": 31020,
@@ -1464,8 +1505,53 @@
             "Tôi nhận nhé!"
         ]
     },
+    "2020": {
+        "id": 2020,
+        "poster": "Điều Phối Làm Thêm AAA",
+        "likes": "8",
+        "views": 173,
+        "title": "[Ủy Thác] Dịch Vụ Lỗ Hổng Chuyên Nghiệp ★ Bảo Trì Bùng Nổ",
+        "text": "Việc part-time chất lượng cao: Việc nhẹ lương cao, trả theo ngày.\nVẫn chỉ tuyển một người, nhanh tay nào.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 16,
+                "commenter": "Tiếp nhận ủy thác chất lượng cao",
+                "content": "Hóa ra lòng tốt hào phóng nhất có thể đến từ người cộng tác từng cãi nhau...\nNhưng lần sau người được lợi có thể là tôi không?"
+            },
+            {
+                "floor": 19,
+                "commenter": "Mẹo Chống Lừa Đảo",
+                "content": "Hahaha, không biết \"Nhận Đơn Làm Thêm\" đã tha thứ cho \"Điều Phối Làm Thêm\" chưa...\nNhưng theo hiệu suất lần trước của {NICKNAME}, chắc là đã làm xong rồi."
+            },
+            {
+                "floor": 20,
+                "commenter": "[Chủ Thớt] Điều Phối Làm Thêm AAA",
+                "content": "Lần trước đúng là anh ấy rất tức giận, nên ủy thác lần này vốn là để... Khụ, xin lỗi mà.\nNhưng hình như vẫn không thèm để ý đến tôi... Đơn ủy thác giao cho {NICKNAME}, để tôi nghĩ cách khác xem sao."
+            },
+            {
+                "floor": 21,
+                "commenter": "Mẹo Chống Lừa Đảo",
+                "content": "...Bây giờ muốn trở thành cộng sự nhận đơn hàng, cần phải chân thành đến mức này sao?"
+            },
+            {
+                "floor": 23,
+                "commenter": "Cháy Cháy Cháy!",
+                "content": "? Cháy cháy cháy!"
+            },
+            {
+                "floor": 27,
+                "commenter": "Nhận Đơn Làm Thêm BBB",
+                "content": "Hừm... Xem như thành ý lần này cũng tạm được...\nKhông có lần sau đâu đấy!"
+            }
+        ],
+        "player_reply": [
+            "Tôi vô tình rơi vào sự tranh chấp tình cảm sao?",
+            "Xem ra không chỉ là tranh chấp ủy thác..."
+        ]
+    },
     "2501": {
-        "id": "2501",
+        "id": 2501,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 7503,
@@ -1497,7 +1583,7 @@
         "player_reply": []
     },
     "2502": {
-        "id": "2502",
+        "id": 2502,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 3889,
@@ -1534,7 +1620,7 @@
         "player_reply": []
     },
     "2503": {
-        "id": "2503",
+        "id": 2503,
         "poster": "Đau Nửa Đầu",
         "likes": "125",
         "views": 3513,
@@ -1571,7 +1657,7 @@
         "player_reply": []
     },
     "2504": {
-        "id": "2504",
+        "id": 2504,
         "poster": "Thiếu Tiền Tiêu Vặt",
         "likes": "48",
         "views": 3513,
@@ -1608,7 +1694,7 @@
         "player_reply": []
     },
     "2505": {
-        "id": "2505",
+        "id": 2505,
         "poster": "Nặc Danh",
         "likes": "323",
         "views": 8599,
@@ -1640,7 +1726,7 @@
         "player_reply": []
     },
     "2507": {
-        "id": "2507",
+        "id": 2507,
         "poster": "Làm Tất Cả Vì Chị Yêu",
         "likes": "8",
         "views": 61,
@@ -1689,7 +1775,7 @@
         ]
     },
     "2508": {
-        "id": "2508",
+        "id": 2508,
         "poster": "Kỹ Sư Kou",
         "likes": "8",
         "views": 55,
@@ -1723,7 +1809,7 @@
         ]
     },
     "2509": {
-        "id": "2509",
+        "id": 2509,
         "poster": "Kỹ Sư Kou",
         "likes": "9",
         "views": 61,
@@ -1757,7 +1843,7 @@
         ]
     },
     "2512": {
-        "id": "2512",
+        "id": 2512,
         "poster": "Sao tôi có thể sống thiếu anh em tốt của mình được",
         "likes": "35",
         "views": 2775,
@@ -1786,7 +1872,7 @@
         ]
     },
     "2513": {
-        "id": "2513",
+        "id": 2513,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "4584",
         "views": 7503,
@@ -1828,7 +1914,7 @@
         "player_reply": []
     },
     "2514": {
-        "id": "2514",
+        "id": 2514,
         "poster": "Tin Tức Đô Thị",
         "likes": "657",
         "views": 2029,
@@ -1870,7 +1956,7 @@
         "player_reply": []
     },
     "2515": {
-        "id": "2515",
+        "id": 2515,
         "poster": "Cây Đa Già Cỗi",
         "likes": "8",
         "views": 61,
@@ -1909,10 +1995,10 @@
         ]
     },
     "2516": {
-        "id": "2516",
+        "id": 2516,
         "poster": "BBBNhậnJobLàmThêm",
-        "likes": "10",
-        "views": 24,
+        "likes": "8",
+        "views": 10,
         "title": "[Ủy Thác] Dịch Vụ Lỗ Hổng Chuyên Nghiệp ★ Bảo Trì Tín Hiệu",
         "text": "Việc part-time chất lượng cao: Việc nhẹ lương cao, trả lương theo ngày.\nChỉ tuyển một người, hãy nhanh tay liên hệ chúng tôi nhé.",
         "script": null,
@@ -1953,10 +2039,39 @@
                 "content": "Hả?? Vậy tức là tôi lại bỏ lỡ \"ủy thác giá cao\" thực sự nữa sao?!"
             }
         ],
+        "player_reply": [
+            "Tôi"
+        ]
+    },
+    "2517": {
+        "id": 2517,
+        "poster": "BBBNhậnJobLàmThêm",
+        "likes": "10",
+        "views": 24,
+        "title": "[Ủy Thác] Dịch Vụ Lỗ Hổng Chuyên Nghiệp ★ Bảo Trì Tín Hiệu",
+        "text": "Việc part-time chất lượng cao: Việc nhẹ lương cao, trả lương theo ngày.\nChỉ tuyển một người, hãy nhanh tay liên hệ chúng tôi nhé.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 15,
+                "commenter": "AAAĐiềuPhốiFreelance",
+                "content": "Đây chính là điều anh đã nói... \"lần sau còn giao mối của tôi cho người khác làm nữa thì nghỉ hợp tác\"?"
+            },
+            {
+                "floor": 16,
+                "commenter": "[Chủ Thớt] BBBNhậnJobLàmThêm",
+                "content": "Chậc... Anh trai à! Tôi cũng là vì tin vào mắt nhìn của anh mà!\nVì quá bận nên tôi phải giao việc lại cho Người Kết Nối mà anh đã đích thân lựa chọn, quả thực hiệu quả cao lại đáng tin cậy!"
+            },
+            {
+                "floor": 18,
+                "commenter": "AAAĐiềuPhốiFreelance",
+                "content": "Tốt nhất là anh đang bận rộn với việc nào đó nghiêm túc..."
+            }
+        ],
         "player_reply": []
     },
     "3001": {
-        "id": "3001",
+        "id": 3001,
         "poster": "Xin Lỗi Đã Để Bạn Gặp Phải Người Không Có Gu",
         "likes": "122",
         "views": 6690,
@@ -1988,7 +2103,7 @@
         "player_reply": []
     },
     "3002": {
-        "id": "3002",
+        "id": 3002,
         "poster": "Đội Truy Lùng Quỷ Dữ",
         "likes": "1336",
         "views": 9864,
@@ -2025,7 +2140,7 @@
         "player_reply": []
     },
     "3003": {
-        "id": "3003",
+        "id": 3003,
         "poster": "Sữa Dâu",
         "likes": "2281",
         "views": 7171,
@@ -2062,7 +2177,7 @@
         "player_reply": []
     },
     "3004": {
-        "id": "3004",
+        "id": 3004,
         "poster": "Đến Tiệm Mì Cá Koi Xin Nước Nấu Mì",
         "likes": "426",
         "views": 2871,
@@ -2094,7 +2209,7 @@
         "player_reply": []
     },
     "3005": {
-        "id": "3005",
+        "id": 3005,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 4210,
@@ -2126,7 +2241,7 @@
         "player_reply": []
     },
     "3006": {
-        "id": "3006",
+        "id": 3006,
         "poster": "Siêu Nhân Bánh Bao",
         "likes": "43",
         "views": 471,
@@ -2158,7 +2273,7 @@
         "player_reply": []
     },
     "3007": {
-        "id": "3007",
+        "id": 3007,
         "poster": "Tín Đồ Đậu Đỏ",
         "likes": "7",
         "views": 853,
@@ -2195,7 +2310,7 @@
         "player_reply": []
     },
     "3008": {
-        "id": "3008",
+        "id": 3008,
         "poster": "Mr. Macrobrachium",
         "likes": "95",
         "views": 8562,
@@ -2232,7 +2347,7 @@
         "player_reply": []
     },
     "3009": {
-        "id": "3009",
+        "id": 3009,
         "poster": "Nằm Mơ Giữa Ban Ngày",
         "likes": "34",
         "views": 4678,
@@ -2274,7 +2389,7 @@
         "player_reply": []
     },
     "3010": {
-        "id": "3010",
+        "id": 3010,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 13205,
@@ -2311,7 +2426,7 @@
         "player_reply": []
     },
     "3011": {
-        "id": "3011",
+        "id": 3011,
         "poster": "Bất Đẳng Thức Ví Tiền",
         "likes": "157",
         "views": 121,
@@ -2345,7 +2460,7 @@
         ]
     },
     "3012": {
-        "id": "3012",
+        "id": 3012,
         "poster": "Tường Thông Gió",
         "likes": "1201",
         "views": 5621,
@@ -2384,7 +2499,7 @@
         ]
     },
     "3016": {
-        "id": "3016",
+        "id": 3016,
         "poster": "Nghệ Thuật Chính Là Bangboo",
         "likes": "8",
         "views": 61,
@@ -2423,7 +2538,7 @@
         ]
     },
     "3018": {
-        "id": "3018",
+        "id": 3018,
         "poster": "Nhà Nghệ Thuật Bẻ Khóa",
         "likes": "12112",
         "views": 61242,
@@ -2457,7 +2572,7 @@
         ]
     },
     "3019": {
-        "id": "3019",
+        "id": 3019,
         "poster": "Chó Săn Hoàng Kim",
         "likes": "512",
         "views": 1241,
@@ -2486,7 +2601,7 @@
         ]
     },
     "3020": {
-        "id": "3020",
+        "id": 3020,
         "poster": "BooLựcĐiền_Official",
         "likes": "21",
         "views": 35,
@@ -2530,7 +2645,7 @@
         ]
     },
     "3021": {
-        "id": "3021",
+        "id": 3021,
         "poster": "Tuyển Sinh Lớp Đào Tạo Điều Tra Viên AAA",
         "likes": "215",
         "views": 154,
@@ -2579,7 +2694,7 @@
         ]
     },
     "3022": {
-        "id": "3022",
+        "id": 3022,
         "poster": "Đã Seen Không Rep",
         "likes": "1305",
         "views": 3520,
@@ -2616,7 +2731,7 @@
         "player_reply": []
     },
     "3023": {
-        "id": "3023",
+        "id": 3023,
         "poster": "Một Con Gà",
         "likes": "3",
         "views": 251,
@@ -2663,7 +2778,7 @@
         "player_reply": []
     },
     "3024": {
-        "id": "3024",
+        "id": 3024,
         "poster": "Aaaaaaaa phải kiếm tiền",
         "likes": "237",
         "views": 1635,
@@ -2687,7 +2802,7 @@
         ]
     },
     "3025": {
-        "id": "3025",
+        "id": 3025,
         "poster": "BBBNhậnJobLàmThêm",
         "likes": "8",
         "views": 61,
@@ -2716,7 +2831,7 @@
         ]
     },
     "3026": {
-        "id": "3026",
+        "id": 3026,
         "poster": "BBBNhậnJobLàmThêm",
         "likes": "8",
         "views": 173,
@@ -2743,7 +2858,7 @@
         "player_reply": []
     },
     "9701": {
-        "id": "9701",
+        "id": 9701,
         "poster": "Cá Mặn Trên Sân",
         "likes": "107",
         "views": 4019,
@@ -2820,7 +2935,7 @@
         "player_reply": []
     },
     "9702": {
-        "id": "9702",
+        "id": 9702,
         "poster": "Nằm Mơ Phát Tài Giữa Ban Ngày",
         "likes": "2130",
         "views": 20761,
@@ -2902,7 +3017,7 @@
         "player_reply": []
     },
     "9703": {
-        "id": "9703",
+        "id": 9703,
         "poster": "Phòng Tình Báo Metis_Máy Số 3",
         "likes": "5007",
         "views": 8732,
@@ -2959,7 +3074,7 @@
         "player_reply": []
     },
     "9704": {
-        "id": "9704",
+        "id": 9704,
         "poster": "Gió Bão Gió Lốc Gió Xoáy",
         "likes": "26",
         "views": 937,
@@ -3001,7 +3116,7 @@
         "player_reply": []
     },
     "9705": {
-        "id": "9705",
+        "id": 9705,
         "poster": "Jonesy Hướng Dẫn Viên Du Lịch Lỗ Hổng Chuyên Nghiệp",
         "likes": "1068",
         "views": 3042,
@@ -3048,7 +3163,7 @@
         "player_reply": []
     },
     "9706": {
-        "id": "9706",
+        "id": 9706,
         "poster": "miomio",
         "likes": "3",
         "views": 10649,
@@ -3120,7 +3235,7 @@
         "player_reply": []
     },
     "9801": {
-        "id": "9801",
+        "id": 9801,
         "poster": "Đội Ngũ Inter-Knot",
         "likes": "27636",
         "views": 199861,
@@ -3131,7 +3246,7 @@
         "player_reply": []
     },
     "9802": {
-        "id": "9802",
+        "id": 9802,
         "poster": "Đội Ngũ Inter-Knot",
         "likes": "27636",
         "views": 152740,
@@ -3163,7 +3278,7 @@
         "player_reply": []
     },
     "9803": {
-        "id": "9803",
+        "id": 9803,
         "poster": "Đội Ngũ Inter-Knot",
         "likes": "27636",
         "views": 101629,
@@ -3190,7 +3305,7 @@
         "player_reply": []
     },
     "9804": {
-        "id": "9804",
+        "id": 9804,
         "poster": "Đội Ngũ Inter-Knot",
         "likes": "27636",
         "views": 100514,
@@ -3222,7 +3337,7 @@
         "player_reply": []
     },
     "9805": {
-        "id": "9805",
+        "id": 9805,
         "poster": "Đội Ngũ Inter-Knot",
         "likes": "27636",
         "views": 897469,
@@ -3249,7 +3364,7 @@
         "player_reply": []
     },
     "9806": {
-        "id": "9806",
+        "id": 9806,
         "poster": "Đội Ngũ Inter-Knot",
         "likes": "27636",
         "views": 776851,
@@ -3281,7 +3396,7 @@
         "player_reply": []
     },
     "9901": {
-        "id": "9901",
+        "id": 9901,
         "poster": "Bot Lo Âu",
         "likes": "172",
         "views": 9819,
@@ -3331,7 +3446,7 @@
         ]
     },
     "9902": {
-        "id": "9902",
+        "id": 9902,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 17509,
@@ -3381,7 +3496,7 @@
         ]
     },
     "9903": {
-        "id": "9903",
+        "id": 9903,
         "poster": "Ngủ Sớm Không Dậy Sớm",
         "likes": "85",
         "views": 3002,
@@ -3413,7 +3528,7 @@
         "player_reply": []
     },
     "9904": {
-        "id": "9904",
+        "id": 9904,
         "poster": "Foodiesoul",
         "likes": "68",
         "views": 9015,
@@ -3462,7 +3577,7 @@
         ]
     },
     "9905": {
-        "id": "9905",
+        "id": 9905,
         "poster": "Bạn Của Người Kết Nối - Kakami",
         "likes": "250",
         "views": 1300,
@@ -3499,7 +3614,7 @@
         "player_reply": []
     },
     "9906": {
-        "id": "9906",
+        "id": 9906,
         "poster": "Nặc Danh",
         "likes": "？",
         "views": 7316,
@@ -3531,7 +3646,7 @@
         "player_reply": []
     },
     "9907": {
-        "id": "9907",
+        "id": 9907,
         "poster": "QuQ",
         "likes": "17",
         "views": 892,
@@ -3573,7 +3688,7 @@
         "player_reply": []
     },
     "9908": {
-        "id": "9908",
+        "id": 9908,
         "poster": "Ăn Mòn Vô Danh",
         "likes": "355",
         "views": 3910,
@@ -3605,7 +3720,7 @@
         "player_reply": []
     },
     "9909": {
-        "id": "9909",
+        "id": 9909,
         "poster": "Love Kỵ Sĩ Ánh Sao",
         "likes": "56",
         "views": 8998,
@@ -3642,7 +3757,7 @@
         "player_reply": []
     },
     "9910": {
-        "id": "9910",
+        "id": 9910,
         "poster": "Flying Snail",
         "likes": "141",
         "views": 1778,
@@ -3674,7 +3789,7 @@
         "player_reply": []
     },
     "9911": {
-        "id": "9911",
+        "id": 9911,
         "poster": "gawadaw",
         "likes": "0",
         "views": 612,
@@ -3706,7 +3821,7 @@
         "player_reply": []
     },
     "9912": {
-        "id": "9912",
+        "id": 9912,
         "poster": "Đội Ngũ Inter-Knot",
         "likes": "27636",
         "views": 41096,
@@ -3743,7 +3858,7 @@
         "player_reply": []
     },
     "9913": {
-        "id": "9913",
+        "id": 9913,
         "poster": "Phòng Tình Báo Metis_Máy Số 3",
         "likes": "5007",
         "views": 8789,
@@ -3778,7 +3893,7 @@
         ]
     },
     "9914": {
-        "id": "9914",
+        "id": 9914,
         "poster": "100% Đường Gấp Đôi Đá",
         "likes": "301",
         "views": 2556,
@@ -3815,7 +3930,7 @@
         "player_reply": []
     },
     "10001": {
-        "id": "10001",
+        "id": 10001,
         "poster": "Người Bạn Chính NghĩaĐồng Đội Của Chính Nghĩa",
         "likes": "222",
         "views": 8344,
@@ -3875,7 +3990,7 @@
         ]
     },
     "10002": {
-        "id": "10002",
+        "id": 10002,
         "poster": "Chưa Từng Nói Dối",
         "likes": "233",
         "views": 9282,
@@ -3935,7 +4050,7 @@
         ]
     },
     "11001": {
-        "id": "11001",
+        "id": 11001,
         "poster": "Q1",
         "likes": "0",
         "views": 11,
@@ -3972,7 +4087,7 @@
         "player_reply": []
     },
     "11002": {
-        "id": "11002",
+        "id": 11002,
         "poster": "WhaleRider",
         "likes": "166",
         "views": 1044,
@@ -4009,7 +4124,7 @@
         "player_reply": []
     },
     "11003": {
-        "id": "11003",
+        "id": 11003,
         "poster": "Phòng Tình Báo Metis_Máy Số 3",
         "likes": "5007",
         "views": 21250,
@@ -4041,12 +4156,17 @@
                 "floor": 5,
                 "commenter": "Nặc Danh",
                 "content": "Giọng của Astra cũng bình thường mà."
+            },
+            {
+                "floor": 6,
+                "commenter": "RedGiant",
+                "content": "Có ai ép bạn thích cô ấy đâu, sao phải vào mục thông tin về Astra để tìm cảm giác tồn tại chứ?"
             }
         ],
         "player_reply": []
     },
     "11004": {
-        "id": "11004",
+        "id": 11004,
         "poster": "Lưỡi Kiếm Obsidian",
         "likes": "3960",
         "views": 9524,
@@ -4100,7 +4220,7 @@
         ]
     },
     "11005": {
-        "id": "11005",
+        "id": 11005,
         "poster": "Lưỡi Kiếm Obsidian",
         "likes": "3960",
         "views": 10650,
@@ -4144,7 +4264,7 @@
         ]
     },
     "11006": {
-        "id": "11006",
+        "id": 11006,
         "poster": "Lưỡi Kiếm Obsidian",
         "likes": "3960",
         "views": 8691,
@@ -4188,7 +4308,7 @@
         ]
     },
     "11007": {
-        "id": "11007",
+        "id": 11007,
         "poster": "Lưỡi Kiếm Obsidian",
         "likes": "3960",
         "views": 20341,
@@ -4232,7 +4352,7 @@
         ]
     },
     "12001": {
-        "id": "12001",
+        "id": 12001,
         "poster": "Đó Là Vành Đai Ngoài Đấy",
         "likes": "11",
         "views": 1021,
@@ -4282,7 +4402,7 @@
         ]
     },
     "12003": {
-        "id": "12003",
+        "id": 12003,
         "poster": "777",
         "likes": "667",
         "views": 2378,
@@ -4344,7 +4464,7 @@
         "player_reply": []
     },
     "12004": {
-        "id": "12004",
+        "id": 12004,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 35101,
@@ -4386,7 +4506,7 @@
         "player_reply": []
     },
     "12005": {
-        "id": "12005",
+        "id": 12005,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 14510,
@@ -4428,7 +4548,7 @@
         "player_reply": []
     },
     "12007": {
-        "id": "12007",
+        "id": 12007,
         "poster": "Tuần Sau Đi Đâu Đây?",
         "likes": "5011",
         "views": 6407,
@@ -4488,7 +4608,7 @@
         ]
     },
     "12009": {
-        "id": "12009",
+        "id": 12009,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 778,
@@ -4515,7 +4635,7 @@
         "player_reply": []
     },
     "12011": {
-        "id": "12011",
+        "id": 12011,
         "poster": "Người Thổi Sáo Xoắn Ốc",
         "likes": "24",
         "views": 2750,
@@ -4549,7 +4669,7 @@
         ]
     },
     "12012": {
-        "id": "12012",
+        "id": 12012,
         "poster": "Boy Vành Đai Ngoài",
         "likes": "59",
         "views": 3690,
@@ -4608,7 +4728,7 @@
         ]
     },
     "12013": {
-        "id": "12013",
+        "id": 12013,
         "poster": "Đừng Hỏi Tôi Ăn Cơm Thế Nào",
         "likes": "168",
         "views": 3770,
@@ -4643,7 +4763,7 @@
         ]
     },
     "13001": {
-        "id": "13001",
+        "id": 13001,
         "poster": "Acc Phụ Đừng Hỏi",
         "likes": "1",
         "views": 42322,
@@ -4733,7 +4853,7 @@
         ]
     },
     "13002": {
-        "id": "13002",
+        "id": 13002,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7962",
         "views": 9877,
@@ -4780,7 +4900,7 @@
         "player_reply": []
     },
     "13003": {
-        "id": "13003",
+        "id": 13003,
         "poster": "Thích Ăn Bánh Gấu",
         "likes": "35",
         "views": 2754,
@@ -4860,7 +4980,7 @@
         ]
     },
     "13004": {
-        "id": "13004",
+        "id": 13004,
         "poster": "Hector Là Khắc Tinh Của Ethereal",
         "likes": "276",
         "views": 8751,
@@ -4904,7 +5024,7 @@
         ]
     },
     "13005": {
-        "id": "13005",
+        "id": 13005,
         "poster": "Hector Là Khắc Tinh Của Ethereal",
         "likes": "281",
         "views": 11437,
@@ -4961,7 +5081,7 @@
         "player_reply": []
     },
     "14001": {
-        "id": "14001",
+        "id": 14001,
         "poster": "[Hệ Thống Nhắc Nhở]",
         "likes": "10211",
         "views": 10248,
@@ -5008,7 +5128,7 @@
         "player_reply": []
     },
     "14002": {
-        "id": "14002",
+        "id": 14002,
         "poster": "Tim Phản Ứng Nhiệt Hạch",
         "likes": "1312",
         "views": 4501,
@@ -5075,7 +5195,7 @@
         "player_reply": []
     },
     "14003": {
-        "id": "14003",
+        "id": 14003,
         "poster": "Cận Thị Nặng",
         "likes": "32",
         "views": 2754,
@@ -5122,7 +5242,7 @@
         "player_reply": []
     },
     "14004": {
-        "id": "14004",
+        "id": 14004,
         "poster": "Bangboo Động Lực Hơi Nước",
         "likes": "351",
         "views": 6524,
@@ -5169,7 +5289,7 @@
         "player_reply": []
     },
     "15001": {
-        "id": "15001",
+        "id": 15001,
         "poster": "Mùa Đông Của Máy Điều Hòa",
         "likes": "3920",
         "views": 382109,
@@ -5221,7 +5341,7 @@
         "player_reply": []
     },
     "15002": {
-        "id": "15002",
+        "id": 15002,
         "poster": "Bảo Vệ Lẫn Nhau",
         "likes": "3192",
         "views": 46015,
@@ -5313,7 +5433,7 @@
         "player_reply": []
     },
     "15003": {
-        "id": "15003",
+        "id": 15003,
         "poster": "Cắn Một Miếng Bánh Quy",
         "likes": "294",
         "views": 31502,
@@ -5365,7 +5485,7 @@
         "player_reply": []
     },
     "15004": {
-        "id": "15004",
+        "id": 15004,
         "poster": "Ethereal Nhỏ Có Mùi Nước Ép",
         "likes": "42",
         "views": 9100,
@@ -5412,7 +5532,7 @@
         "player_reply": []
     },
     "15005": {
-        "id": "15005",
+        "id": 15005,
         "poster": "Cánh Cụt Nấc Cục",
         "likes": "2913",
         "views": 210,
@@ -5442,7 +5562,7 @@
         ]
     },
     "15006": {
-        "id": "15006",
+        "id": 15006,
         "poster": "Tôm Hùm Ở Vùng Nước Nông",
         "likes": "120",
         "views": 13921,
@@ -5474,7 +5594,7 @@
         "player_reply": []
     },
     "15007": {
-        "id": "15007",
+        "id": 15007,
         "poster": "Chiến Sĩ Chong Chóng",
         "likes": "3",
         "views": 3567,
@@ -5516,7 +5636,7 @@
         "player_reply": []
     },
     "16001": {
-        "id": "16001",
+        "id": 16001,
         "poster": "Tu Thân Dưỡng Tính",
         "likes": "4",
         "views": 1486,
@@ -5558,7 +5678,7 @@
         "player_reply": []
     },
     "16002": {
-        "id": "16002",
+        "id": 16002,
         "poster": "Nặc Danh",
         "likes": "0",
         "views": 1098,
@@ -5600,7 +5720,7 @@
         "player_reply": []
     },
     "16003": {
-        "id": "16003",
+        "id": 16003,
         "poster": "Chưa Từng Nói Dối",
         "likes": "248",
         "views": 2333,
@@ -5652,7 +5772,7 @@
         "player_reply": []
     },
     "16004": {
-        "id": "16004",
+        "id": 16004,
         "poster": "Cá Koi May Mắn",
         "likes": "109",
         "views": 3469,
@@ -5704,7 +5824,7 @@
         "player_reply": []
     },
     "16005": {
-        "id": "16005",
+        "id": 16005,
         "poster": "❤Nặc❤Danh❤",
         "likes": "75",
         "views": 97,
@@ -5751,7 +5871,7 @@
         "player_reply": []
     },
     "16006": {
-        "id": "16006",
+        "id": 16006,
         "poster": "Một Kẻ Xấu",
         "likes": "0",
         "views": 8349,
@@ -5793,7 +5913,7 @@
         "player_reply": []
     },
     "17001": {
-        "id": "17001",
+        "id": 17001,
         "poster": "Ngôi Nhà Quái Dị",
         "likes": "105",
         "views": 15742,
@@ -5830,7 +5950,7 @@
         "player_reply": []
     },
     "17002": {
-        "id": "17002",
+        "id": 17002,
         "poster": "Ngài Thủ Lĩnh Vạn Tuế!",
         "likes": "2",
         "views": 179,
@@ -5867,7 +5987,7 @@
         "player_reply": []
     },
     "20001": {
-        "id": "20001",
+        "id": 20001,
         "poster": "Trùm Đưa Tin",
         "likes": "17188",
         "views": 1778,
@@ -5899,7 +6019,7 @@
         "player_reply": []
     },
     "20002": {
-        "id": "20002",
+        "id": 20002,
         "poster": "Bách Khoa Toàn Thư Giả Mạo",
         "likes": "7188",
         "views": 4510,
@@ -5931,7 +6051,7 @@
         "player_reply": []
     },
     "20003": {
-        "id": "20003",
+        "id": 20003,
         "poster": "Máy Vận Chuyển Tin Đồn",
         "likes": "2351",
         "views": 7207,
@@ -5963,7 +6083,7 @@
         "player_reply": []
     },
     "20004": {
-        "id": "20004",
+        "id": 20004,
         "poster": "Tôi muốn gia nhập Chim Nhại!",
         "likes": "2",
         "views": 79700,
@@ -6038,7 +6158,7 @@
         ]
     },
     "21001": {
-        "id": "21001",
+        "id": 21001,
         "poster": "Lừa Kéo Cối Xay",
         "likes": "996",
         "views": 8996,
@@ -6075,7 +6195,7 @@
         "player_reply": []
     },
     "21002": {
-        "id": "21002",
+        "id": 21002,
         "poster": "Lữ Khách Bãi Biển",
         "likes": "5",
         "views": 14541,
@@ -6112,7 +6232,7 @@
         "player_reply": []
     },
     "21003": {
-        "id": "21003",
+        "id": 21003,
         "poster": "Siêu Dũng Cảm",
         "likes": "13",
         "views": 21787,
@@ -6154,7 +6274,7 @@
         "player_reply": []
     },
     "21004": {
-        "id": "21004",
+        "id": 21004,
         "poster": "Nhật Ký Phiêu Lưu Của Huang",
         "likes": "1832",
         "views": 11896,
@@ -6186,7 +6306,7 @@
         "player_reply": []
     },
     "21005": {
-        "id": "21005",
+        "id": 21005,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 8325,
@@ -6223,7 +6343,7 @@
         "player_reply": []
     },
     "21006": {
-        "id": "21006",
+        "id": 21006,
         "poster": "Thuốc Tẩy Chanh",
         "likes": "67",
         "views": 1420,
@@ -6265,7 +6385,7 @@
         "player_reply": []
     },
     "21007": {
-        "id": "21007",
+        "id": 21007,
         "poster": "Vua Ăn Một Miếng",
         "likes": "808",
         "views": 3799,
@@ -6307,7 +6427,7 @@
         "player_reply": []
     },
     "21008": {
-        "id": "21008",
+        "id": 21008,
         "poster": "Eh Ne Ne",
         "likes": "15",
         "views": 2103,
@@ -6339,7 +6459,7 @@
         "player_reply": []
     },
     "22001": {
-        "id": "22001",
+        "id": 22001,
         "poster": "Muốn Làm BFF",
         "likes": "999",
         "views": 1557,
@@ -6376,7 +6496,7 @@
         "player_reply": []
     },
     "22002": {
-        "id": "22002",
+        "id": 22002,
         "poster": "Đừng Bắt Tôi Nha",
         "likes": "142",
         "views": 2093,
@@ -6428,7 +6548,7 @@
         "player_reply": []
     },
     "22003": {
-        "id": "22003",
+        "id": 22003,
         "poster": "Bút Tự Vẽ",
         "likes": "983",
         "views": 6832,
@@ -6465,7 +6585,7 @@
         "player_reply": []
     },
     "22004": {
-        "id": "22004",
+        "id": 22004,
         "poster": "Hồi Ức Trong Gió",
         "likes": "12",
         "views": 193,
@@ -6497,7 +6617,7 @@
         "player_reply": []
     },
     "22005": {
-        "id": "22005",
+        "id": 22005,
         "poster": "Muốn Làm BFF",
         "likes": "1123",
         "views": 9999,
@@ -6549,7 +6669,7 @@
         "player_reply": []
     },
     "23001": {
-        "id": "23001",
+        "id": 23001,
         "poster": "Đang Mê Đọc Tiểu Thuyết",
         "likes": "51",
         "views": 24815,
@@ -6586,7 +6706,7 @@
         "player_reply": []
     },
     "23002": {
-        "id": "23002",
+        "id": 23002,
         "poster": "Xua Tan Vận Xui",
         "likes": "245",
         "views": 2110,
@@ -6638,7 +6758,7 @@
         "player_reply": []
     },
     "23003": {
-        "id": "23003",
+        "id": 23003,
         "poster": "Tôi Đã Biết Quá Nhiều Rồi",
         "likes": "142",
         "views": 2100,
@@ -6685,7 +6805,7 @@
         "player_reply": []
     },
     "23004": {
-        "id": "23004",
+        "id": 23004,
         "poster": "Tiếng Vó Lúc Nửa Đêm",
         "likes": "449",
         "views": 6902,
@@ -6722,7 +6842,7 @@
         "player_reply": []
     },
     "23005": {
-        "id": "23005",
+        "id": 23005,
         "poster": "Bánh Kem Chanh",
         "likes": "1194",
         "views": 31502,
@@ -6774,7 +6894,7 @@
         "player_reply": []
     },
     "23006": {
-        "id": "23006",
+        "id": 23006,
         "poster": "Hoa Mực Nhỏ Xíu",
         "likes": "702",
         "views": 19562,
@@ -6831,7 +6951,7 @@
         "player_reply": []
     },
     "23007": {
-        "id": "23007",
+        "id": 23007,
         "poster": "Hamburger Chuối",
         "likes": "2292",
         "views": 37702,
@@ -6883,7 +7003,7 @@
         "player_reply": []
     },
     "25001": {
-        "id": "25001",
+        "id": 25001,
         "poster": "Phòng Tình Báo Metis_Máy Số 3",
         "likes": "5147",
         "views": 18403,
@@ -6925,7 +7045,7 @@
         "player_reply": []
     },
     "25002": {
-        "id": "25002",
+        "id": 25002,
         "poster": "Sếp Trên Thiên Đường",
         "likes": "233",
         "views": 2341,
@@ -6962,7 +7082,7 @@
         "player_reply": []
     },
     "25003": {
-        "id": "25003",
+        "id": 25003,
         "poster": "Sếp Trên Thiên Đường",
         "likes": "233",
         "views": 5433,
@@ -7009,7 +7129,7 @@
         "player_reply": []
     },
     "25004": {
-        "id": "25004",
+        "id": 25004,
         "poster": "Thế Thôi",
         "likes": "141",
         "views": 44444,
@@ -7061,7 +7181,7 @@
         "player_reply": []
     },
     "25005": {
-        "id": "25005",
+        "id": 25005,
         "poster": "Phóng viên tại hiện trường đang đưa tin",
         "likes": "1194",
         "views": 51502,
@@ -7113,7 +7233,7 @@
         "player_reply": []
     },
     "25006": {
-        "id": "25006",
+        "id": 25006,
         "poster": "Tiên Nhân Tà Đạo",
         "likes": "268",
         "views": 6709,
@@ -7158,7 +7278,7 @@
         ]
     },
     "25007": {
-        "id": "25007",
+        "id": 25007,
         "poster": "Nhà Nghệ Thuật Già",
         "likes": "681",
         "views": 16286,
@@ -7205,7 +7325,7 @@
         "player_reply": []
     },
     "25008": {
-        "id": "25008",
+        "id": 25008,
         "poster": "Vừa Làm Trâu Vừa Làm Ngựa",
         "likes": "32",
         "views": 2623,
@@ -7242,7 +7362,7 @@
         "player_reply": []
     },
     "25009": {
-        "id": "25009",
+        "id": 25009,
         "poster": "Con Chuột Đang Cố Gắng Kiếm Tiền",
         "likes": "3429",
         "views": 37702,
@@ -7294,7 +7414,7 @@
         "player_reply": []
     },
     "25010": {
-        "id": "25010",
+        "id": 25010,
         "poster": "Phải Ẩn Danh",
         "likes": "3245",
         "views": 35467,
@@ -7346,7 +7466,7 @@
         "player_reply": []
     },
     "25011": {
-        "id": "25011",
+        "id": 25011,
         "poster": "Ngôi Nhà Quái Dị - Đội Khảo Cổ",
         "likes": "5647",
         "views": 32145,
@@ -7393,7 +7513,7 @@
         "player_reply": []
     },
     "26002": {
-        "id": "26002",
+        "id": 26002,
         "poster": "Tâm Bình Khí Hòa",
         "likes": "8567",
         "views": 2349,
@@ -7435,7 +7555,7 @@
         "player_reply": []
     },
     "26003": {
-        "id": "26003",
+        "id": 26003,
         "poster": "Linh Hồn Chính Nghĩa",
         "likes": "671",
         "views": 1379,
@@ -7477,7 +7597,7 @@
         "player_reply": []
     },
     "26004": {
-        "id": "26004",
+        "id": 26004,
         "poster": "Đuôi Của Yêu Quái",
         "likes": "469",
         "views": 1424,
@@ -7492,7 +7612,7 @@
             },
             {
                 "floor": 2,
-                "commenter": "Người Hoàn Thiện",
+                "commenter": "Tôi cũng phải làm việc sao?",
                 "content": "Dù thế nào đi nữa, việc thể cấu trúc gây thương tích cho con người là một sự thật không thể chối cãi, có lẽ chúng ta nên xem xét lại mối quan hệ với những người bạn này, chung quy lại chúng vẫn khác con người."
             },
             {
@@ -7542,7 +7662,7 @@
         ]
     },
     "26005": {
-        "id": "26005",
+        "id": 26005,
         "poster": "Cát Tường Như Ý",
         "likes": "16",
         "views": 3571,
@@ -7589,7 +7709,7 @@
         "player_reply": []
     },
     "26006": {
-        "id": "26006",
+        "id": 26006,
         "poster": "Thám Tử Ridu",
         "likes": "1521",
         "views": 3147,
@@ -7654,7 +7774,7 @@
         ]
     },
     "26007": {
-        "id": "26007",
+        "id": 26007,
         "poster": "Tài Khoản Duy Nhất Của Thiên Thần Vọng Tưởng",
         "likes": "2854",
         "views": 3454,
@@ -7696,7 +7816,7 @@
         "player_reply": []
     },
     "26008": {
-        "id": "26008",
+        "id": 26008,
         "poster": "Tài Khoản Duy Nhất Của Thiên Thần Vọng Tưởng",
         "likes": "3843",
         "views": 5849,
@@ -7738,7 +7858,7 @@
         "player_reply": []
     },
     "26009": {
-        "id": "26009",
+        "id": 26009,
         "poster": "Tài Khoản Duy Nhất Của Thiên Thần Vọng Tưởng",
         "likes": "3843",
         "views": 48392,
@@ -7775,7 +7895,7 @@
         "player_reply": []
     },
     "26010": {
-        "id": "26010",
+        "id": 26010,
         "poster": "Người Dùng Nặc Danh",
         "likes": "0",
         "views": 3260,
@@ -7817,7 +7937,7 @@
         "player_reply": []
     },
     "26011": {
-        "id": "26011",
+        "id": 26011,
         "poster": "Có Gan Làm Giàu",
         "likes": "356",
         "views": 1265,
@@ -7879,7 +7999,7 @@
         "player_reply": []
     },
     "26012": {
-        "id": "26012",
+        "id": 26012,
         "poster": "Người Chuột U Tối",
         "likes": "105",
         "views": 4210,
@@ -7924,7 +8044,7 @@
         ]
     },
     "26013": {
-        "id": "26013",
+        "id": 26013,
         "poster": "Phòng Tình Báo Metis_Máy Số 3",
         "likes": "5007",
         "views": 6031,
@@ -7949,7 +8069,7 @@
             },
             {
                 "floor": 4,
-                "commenter": "Ồ ồ ồ",
+                "commenter": "Xa Tận Chân Trời",
                 "content": "Nói vậy... đúng là Bão Minerva thật! Trụ sở chính của Tập Đoàn Marcel cách đó không xa, miễn cưỡng thì cũng coi như quê hương của Bangboo rồi!"
             },
             {
@@ -7974,7 +8094,7 @@
         ]
     },
     "26014": {
-        "id": "26014",
+        "id": 26014,
         "poster": "Gà Mờ Nhảy Nhót",
         "likes": "233",
         "views": 3069,
@@ -8019,7 +8139,7 @@
         ]
     },
     "26015": {
-        "id": "26015",
+        "id": 26015,
         "poster": "Phòng Tình Báo Metis_Máy Số 1",
         "likes": "7188",
         "views": 8354,
@@ -8069,5 +8189,1240 @@
             }
         ],
         "player_reply": []
+    },
+    "27001": {
+        "id": 27001,
+        "poster": "Tiểu Linh Thông Giá Lâm",
+        "likes": "779",
+        "views": 2297,
+        "title": "[Bài Đăng] Biến căng nội bộ TOPS! Bao uy tín!",
+        "text": "Ha ha ha ha ha!\nTOPS cũng có ngày hôm nay!\nThôi, không nói nhảm nữa, tôi nói thẳng luôn - Nội bộ TOPS hiện tại vô cùng hỗn loạn! Có nhiều doanh nghiệp vừa và nhỏ phụ thuộc vào họ đều xuất hiện vấn đề rất nghiêm trọng. Tin rằng Inter-Knot chắc cũng có trí nhớ nhỉ? Gần đây nhà tài trợ của giải đấu Anh Hùng Lỗ Hổng đầy rẫy sơ hở là ai thế - Mối liên hệ trong chuyện này khó đoán thật đấy~\nHơn nữa! Chính vì tồn tại những tình huống kể trên, nghe nói cơ quan thẩm tra nội bộ của TOPS dạo này cũng hoạt động khá năng nổ, tuy nói là không đưa ra được bằng chứng xác thực, nhưng nhìn vào tình trạng của TOPS dạo gần đây... chỉ có thể nói là không giống giả. (Chú thích: Không phải tôi không có bằng chứng, mà là không thể nói! Ai có hứng thú xin hãy tự tìm kiếm theo từ khóa nhé)\nTóm lại! Nội bộ TOPS chắc chắn đã xuất hiện vấn đề nghiêm trọng, các anh em dạo này đừng có đâm đầu vào chuốc lấy xui xẻo, tránh xa được bao nhiêu thì tránh đi nhé.\nKhông chừng lúc còn sống thật sự có thể nhìn thấy cái ngày TOPS tự tan rã từ bên trong rồi phá sản nhỉ? Dừng ở đây thôi, giữ mạng quan trọng hơn, chuồn đây.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Hôm nay TOPS đã sập chưa?",
+                "content": "Còn có chuyện tốt vậy sao?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Quần Chúng Bình Thường (Hóng Chuyện)",
+                "content": "Tên của lầu trên mắc cười quá! Nhưng nói đi cũng phải nói lại, TOPS làm gì có hình tượng để mà sập chứ?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Không Vui Là Bật Mic",
+                "content": "Phốt lớn hả? Chỉ thế này thôi á? Tình trạng doanh nghiệp đều công khai minh bạch cả rồi, phốt thật thì chả thấy hé răng nửa lời, đánh giá là bài spam câu view."
+            },
+            {
+                "floor": 4,
+                "commenter": "Tâm Tĩnh Ắt Mát Mẻ",
+                "content": "Cảm giác chủ thớt hơi nói quá rồi, tập đoàn lớn như vậy có chút vấn đề nhỏ mà đã suy diễn đến mức phá sản sao? Thật sự không đến mức đó đâu..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Kẻ Soi Chi Tiết Số Một Inter-Knot",
+                "content": "Không ai để ý đến \"cơ quan thẩm tra\" sao? Lẽ nào đây không phải là trọng điểm à?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Nói Nhiều Sai Nhiều Không Nói Không Sai",
+                "content": "Những gì không nên nói thì đừng nói nhé~ Bạn cũng đâu muốn có người lần theo đường truyền mạng để tìm đến mình đâu nhỉ?"
+            }
+        ],
+        "player_reply": []
+    },
+    "27002": {
+        "id": 27002,
+        "poster": "Phòng Tình Báo Metis_Máy Số 1",
+        "likes": "7245",
+        "views": 5482,
+        "title": "[Tin Tức] Giải đấu Anh Hùng Lỗ Hổng thông báo kết thúc",
+        "text": "Hôm nay, Liên Đoàn Thách Đấu Lỗ Hổng đã đưa ra thông báo giải đấu lần này sẽ chấm dứt trước thời hạn, sau đó sẽ căn cứ vào tiến độ điều tra và kết quả đánh giá an toàn để công bố lại thời gian tổ chức.\n\nTheo thông báo của Cục Trị An, nghi phạm Romeul gây ra nhiều vụ án đẫm máu đã sa lưới. Dưới sự phối hợp tìm kiếm cứu nạn giữa Cục Trị An và HIA, một số tuyển thủ từng đi lạc vào Lỗ Hổng đã được tìm thấy an toàn và đang được theo dõi y tế.\n\nNgoài ra, theo lời khai của nhiều nhân chứng, từng có một người ẩn danh đã phát hiện ra bất thường dữ liệu của Cà Rốt trước, và truyền tuyến đường an toàn chính xác cho tất cả các tuyển thủ thông qua kênh đặc biệt, giảm thiểu đáng kể rủi ro thương vong về người. Hiện vẫn đang xác minh danh tính và động cơ hành vi của người ẩn danh này.\n\nLiên Đoàn Thách Đấu Lỗ Hổng và Cục Trị An sẽ cung cấp hỗ trợ cần thiết cho các tuyển thủ bị ảnh hưởng trong sự kiện lần này và những người có liên quan, đồng thời sẽ công bố thêm thông tin cho công chúng sau khi kết thúc điều tra.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Sợ Chớt",
+                "content": "Sói Đen cuối cùng cũng bị bắt rồi! Thấy có hắn, tôi còn chẳng dám đăng ký..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Chịu Một Vố",
+                "content": "Sau này không bao giờ tham gia thi đấu nữa đâu, nếu không nhờ vị anh hùng vô danh này, tôi thật sự đã tiêu đời rồi."
+            },
+            {
+                "floor": 3,
+                "commenter": "Người Kết Nối Trung Thành",
+                "content": "Lẽ nào? Ngài Phaethon đã tái xuất giang hồ sao?! Tôi biết ngay mà, ngài ấy nhất định sẽ quay về với Inter-Knot trung thành của mình!\nCó ai không phục? Có ai không phục? Còn Người Kết Nối nào không phục nữa?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Thần Nhân Năm Chữ",
+                "content": "Giải đấu tự phát lại có thể gây ra ảnh hưởng tồi tệ đến thế... Thật khó tưởng tượng nổi..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Gu Gu Ga Ga",
+                "content": "New Eridu của chúng ta là vậy đấy, chuyện này mà cũng không biết, bạn là người ngoài hành tinh à?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Thông Báo Tìm Người",
+                "content": "Hiện giờ vẫn chưa tìm được bạn tôi... Nếu có bất kỳ manh mối nào liên quan đến đấu trường hay người mất tích, xin hãy liên hệ với tôi!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27003": {
+        "id": 27003,
+        "poster": "Chỉ Ăn Su Kem",
+        "likes": "25",
+        "views": 3578,
+        "title": "[Bài Đăng] Đám Ethereal này sao vậy?",
+        "text": "Gặp trên đấu trường của Anh Hùng Lỗ Hổng làm tôi giật cả mình, đám Ethereal này biến thành tượng hết rồi à...?\nTrên Lõi của chúng đều cắm lông vũ màu trắng, trông cũng nghệ thuật phết...\nCó ai biết nguyên lý của chuyện này là gì không? Chắc không phải do cái tên Romeul khét tiếng đó làm đâu nhỉ?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Vua Đỏ Thẫm",
+                "content": "So với biến thành tượng, thì trông giống ngưng đọng thời gian hơn nhỉ? Sợ phát khóc."
+            },
+            {
+                "floor": 2,
+                "commenter": "Phía Trước Là Địa Ngục",
+                "content": "Nhìn cái kiểu điên khùng rải phần thưởng khắp nơi của Romeul, từ một kẻ đơn thuần phá cho vui nâng cấp thành nghệ sĩ trình diễn cũng không phải là không thể."
+            },
+            {
+                "floor": 3,
+                "commenter": "Người Thanh Lịch Vây Xem",
+                "content": "Tôi cũng gặp rồi! Chủ thớt đúng là tài cao gan lớn nha, lúc đó tôi thấy kỳ dị quá nên không dám nhìn kỹ."
+            },
+            {
+                "floor": 4,
+                "commenter": "Giữ Khô Ráo",
+                "content": "Tôi đã hỏi bạn bè ở Học Viện White Star, họ cũng chưa từng thấy, giờ đang gấp rút thành lập nhóm nghiên cứu chuyên trách."
+            },
+            {
+                "floor": 5,
+                "commenter": "Có Nội Tình",
+                "content": "Thật ra hiện tượng Ethereal phai màu không phải mới xảy ra lần đầu, cấp trên đã sớm vào cuộc điều tra rồi, chỉ là đến giờ vẫn chưa có tin tức gì, chắc là không có tiến triển."
+            },
+            {
+                "floor": 6,
+                "commenter": "Người Chăn Sói",
+                "content": "Vậy rốt cuộc đám Ethereal này là sống hay chết? Sau này đụng phải có cần tránh đi không?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Đang Nghĩ Ý Đồ Xấu",
+                "content": "Cùng câu hỏi! Nếu chắc chắn an toàn thì tôi muốn lên đó chụp chung một tấm!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27004": {
+        "id": 27004,
+        "poster": "Paparazzi",
+        "likes": "2901",
+        "views": 4789,
+        "title": "[Tình Báo] Tuyển thủ Ramiel và phần thưởng đã cùng nhau mất tích",
+        "text": "Mọi người đều biết W-Engine Vàng Sáng đang không rõ tung tích đúng không? Trong giới đang lan truyền một lời đồn: W-Engine đang ở chỗ tuyển thủ Ramiel đó!\nChuyện này không phải vô căn cứ đâu, các bạn tự nghĩ xem, người có thể cướp đồ từ tay Sói Đen có được mấy ai? Ramiel tình cờ lại là một trong số đó.\nĐáng suy ngẫm hơn là, sau khi cuộc thi bị đình chỉ, Ramiel liền bốc hơi khỏi thế gian, thậm chí còn không đi đổi điểm. Bây giờ xem ra, Ramiel tham gia thi đấu vốn dĩ là có mục đích khác, rất có thể chính là vì W-Engine Vàng Sáng.\nHơn nữa Ramiel rốt cuộc là ai? Xuất thân, lý lịch, thậm chí diện mạo cũng chẳng mấy ai từng thấy, cứ như chui ra từ kẽ đá vậy... Càng đào sâu càng có nhiều chuyện để nói...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Bóng Ma",
+                "content": "Không chỉ Ramiel, đám người đổ xô vào Lỗ Hổng cướp giải thưởng đó có không ít người đã mất tích... Quả nhiên, những thứ không thuộc về bạn thì cuối cùng sẽ không thuộc về bạn."
+            },
+            {
+                "floor": 2,
+                "commenter": "Sao Biết Tôi Vớ Bở",
+                "content": "Tôi cũng phải mất tích sao?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Bóng Ma",
+                "content": "Đúng vậy."
+            },
+            {
+                "floor": 4,
+                "commenter": "Nâng Ly Ăn Mừng",
+                "content": "Nếu đã cần W-Engine Vàng Sáng, vậy Ramiel khả năng cao là một cấu trúc thông minh nhỉ? Tôi tình cờ bắt gặp một người, tay cầm hai súng, thực lực khá tốt, chỉ là phong cách hơi lố chút."
+            },
+            {
+                "floor": 5,
+                "commenter": "Tâm Bình Khí Hòa",
+                "content": "Lại là thuyết âm mưu nữa à? Tuyển thủ Ramiel không thể rút lui tự nhiên được sao?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Nặc Danh",
+                "content": "Muốn khám phá bộ mặt thật chưa từng được biết đến của tuyển thủ Ramiel?\nMuốn làm rõ ân oán tình thù dây dưa từ lâu giữa Sói Đen và Calydon?\nỞ đây có những chi tiết quan trọng mà bạn đã bỏ lỡ, mọi manh mối, đều nằm trong tầm tay.\nGiá ưu đãi chuyên đề: 9.999 Denny\nXem ngay: Nhấn vào liên kết"
+            },
+            {
+                "floor": 7,
+                "commenter": "Ramiel",
+                "content": "Làm phiền rồi, hóa ra chỉ là trùng tên à, tôi còn tưởng mình bị mất tích rồi cơ."
+            }
+        ],
+        "player_reply": [
+            "Tôi cần tìm Ramiel",
+            "Có bất kỳ manh mối nào xin hãy liên hệ tôi"
+        ]
+    },
+    "27005": {
+        "id": 27005,
+        "poster": "Người Dùng Nặc Danh",
+        "likes": "0",
+        "views": 3670,
+        "title": "[Bài Đăng] Tại sao bản thiết kế hình ảnh Bangboo của tôi lại bị loại...",
+        "text": "Không phải Tập Đoàn Marcel đang kêu gọi thiết kế hình ảnh Bangboo trên toàn thành phố sao, vừa nhìn thấy số tiền thưởng, DNA sinh viên nghệ thuật của tôi đã thức tỉnh ngay tại chỗ - đây chẳng phải là sân khấu được tạo ra dành riêng cho tôi sao?\nSau đó tôi đã bế quan sáng tác một tháng! Tròn một tháng trời! Vẽ hàng chục bản thảo, mới có thể đưa ra được một ý tưởng kinh thiên động địa như vậy.\nTôi đã tập luyện xong bài phát biểu nhận giải rồi, kết quả đừng nói là giải nhất, đến cái giải an ủi cũng không có, như vậy có quá đáng lắm không?\nMarcel! Thứ bạn mất đi có thể chỉ là một người tham gia, nhưng thứ New Eridu mất đi, chính là người kiến tạo nên cả một vũ trụ Bangboo hoàn toàn mới đó!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Chu Công Mơ Về Denny",
+                "content": "Bangboo nhà tôi sau khi đọc xong tuyệt tác của bạn đã gặp ác mộng cả đêm."
+            },
+            {
+                "floor": 2,
+                "commenter": "Phải Mời Cao Thủ",
+                "content": "Tốt nghiệp trường nghệ thuật nào thế, coi như tôi xin đấy, nói ra để mọi người còn biết mà né."
+            },
+            {
+                "floor": 3,
+                "commenter": "Ăn Xin Online",
+                "content": "Sinh viên nghệ thuật bọn tôi không phải thế đâu, mọi người đừng vơ đũa cả nắm á á á á á!!!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Thợ Hồ",
+                "content": "Công nhận nha, bạn nói thật có lý, nếu Bangboo cỡ lớn này mà được phổ biến thật, người lao động chân tay sẽ đỡ vất vả hơn nhiều."
+            },
+            {
+                "floor": 5,
+                "commenter": "Lại Cuống Lên Rồi",
+                "content": "Người anh em, có biết câu nghề nào nghiệp nấy không, Bangboo là một cỗ máy tinh vi đấy, định lấy nó đi vác gạch à?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Tình Cảm Dư Thừa",
+                "content": "Nhầm trọng tâm rồi đó! Chẳng lẽ mọi người có thể chấp nhận Bangboo trông như thế này sao?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Kỹ Sư Tử",
+                "content": "Tôi nhớ tiêu chí quan trọng nhất trong quy định đánh giá là tính độc đáo, có thể ý tưởng của bạn trùng với người khác rồi, hoặc nội bộ Marcel từng có bản thảo bị loại tương tự chăng.\nNhưng mà đúng là vẽ xấu thật đấy."
+            },
+            {
+                "floor": 8,
+                "commenter": "[Chủ Thớt] Người Dùng Nặc Danh",
+                "content": "Thật ra bạn không cần thêm câu cuối cùng đâu, hu hu hu..."
+            },
+            {
+                "floor": 9,
+                "commenter": "Kỹ Sư Tử",
+                "content": "Bạn hoàn toàn đắm chìm vào nghệ thuật của mình rồi... Bản thiết kế Bangboo không phải là tác phẩm nghệ thuật đâu, bạn phải vẽ nó như một bản vẽ kỹ thuật mới được."
+            },
+            {
+                "floor": 10,
+                "commenter": "Không Được Uống Nước",
+                "content": "Trên mạng thì nói vậy thôi, chứ ngoài đời ai mà không cuống cuồng tống cổ Bangboo nhà mình đi để đổi lấy vị cứu tinh của nhân loại này chứ?"
+            }
+        ],
+        "player_reply": []
+    },
+    "27006": {
+        "id": 27006,
+        "poster": "Gà Mờ Bay Trước",
+        "likes": "25",
+        "views": 6289,
+        "title": "[Bài Đăng] Dữ Liệu Rosetta cũng có thể bị lỗi sao?!",
+        "text": "Gần đây trên mạng có những tin đồn liên quan đến bất thường của Dữ Liệu Rosetta xuất hiện nhan nhản, còn có người than phiền việc tự chế Cà Rốt ngày càng khó khăn, đường dẫn phân tích được dựa trên hiệu chỉnh Dữ Liệu Rosetta thường không đủ chính xác.\nCó đại thần nào đích thân lên tiếng giải thích một chút không, tin đồn là thật sao?\nNếu là thật, liệu có dữ liệu tham khảo nào có thể dùng để thay thế không?\nTôi vừa mới chuyển nghề làm Người Kết Nối, bây giờ vẫn chưa nhận được đơn nào, không thể chưa đi làm đã thất nghiệp luôn chứ, hu hu hu...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "40 Giây Tuyên Bố Thắng",
+                "content": "Không thể nào. Dữ Liệu Rosetta là dữ liệu gốc do thị trưởng ủy quyền, quy luật thay đổi của Lỗ Hổng đều được tính ra sau khi hiệu chỉnh dữ liệu khảo sát hiện trường nhiều lần dựa trên nó.\nNếu nó mà không đáng tin, thì không có Dữ Liệu Quan Trắc nào đáng tin được nữa."
+            },
+            {
+                "floor": 2,
+                "commenter": "Đêm Hè Mát Mẻ",
+                "content": "Chính quyền thành phố và Hiệp Hội Điều Tra chưa bao giờ công khai nguồn dữ liệu và phương pháp tính toán của Dữ Liệu Rosetta. Gần đây liên tục xảy ra chuyện lớn, nhân lực thiếu hụt, lại thiếu giám sát từ bên ngoài, bạn dám chắc chắn là họ sẽ không mắc sai lầm chứ?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Hỏi Chưa",
+                "content": "Tôi nghe nói Cà Rốt mà Anh Hùng Lỗ Hổng phát trước đây cũng xảy ra vấn đề, không lẽ cũng là...?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Tôi Có Giấc Mơ Tông Sư",
+                "content": "Thôi đi, trong thông báo nói là do virus giở trò mà."
+            },
+            {
+                "floor": 5,
+                "commenter": "Thế Giới Thuộc Về Bangboo",
+                "content": "Cà Rốt không còn tồn tại nữa, Người Kết Nối không còn tồn tại nữa, Inter-Knot không còn tồn tại nữa."
+            },
+            {
+                "floor": 6,
+                "commenter": "Dễ Mình Khó Người",
+                "content": "Sao không tự xem lại vấn đề của bản thân đi? Tôi thấy chỉ là ai đó kỹ năng kém, không giải mã được lộ trình chính xác thôi. Gà thì lo mà luyện tập đi, đừng lên Inter-Knot làm mất mặt nữa."
+            },
+            {
+                "floor": 7,
+                "commenter": "position zero",
+                "content": "Gần đây việc Lỗ Hổng mở rộng bất thường xảy ra rất thường xuyên, chắc bên chính thức cần phải tính toán lại toàn bộ, có thể chỉ là chưa cập nhật xong dữ liệu thôi, hoặc là bị trễ gì đó chăng?"
+            }
+        ],
+        "player_reply": [
+            "Chắc là hiện tượng cá biệt thôi...?",
+            "Hiện tại chưa phát hiện bất thường"
+        ]
+    },
+    "27007": {
+        "id": 27007,
+        "poster": "Thường",
+        "likes": "218",
+        "views": 1203,
+        "title": "[Thảo Luận] Nồi Hơi sao lại thành ra khó ăn thế này?",
+        "text": "Anh em ơi, không thấy Nồi Hơi ngày càng dở tệ à? Nước lẩu mặn chát, tráng miệng ngọt gắt, hải sản thì tanh rình. Tôi mới nói có vài câu, mà tính khí chủ tiệm còn cực kỳ khó chịu!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Ấy Được Đó",
+                "content": "Cũng được mà, tôi khá thích đồ ngọt."
+            },
+            {
+                "floor": 2,
+                "commenter": "Anh Chuột VLXD AAA",
+                "content": "Đúng là không còn ngon như hồi mới khai trương nữa..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Đói Muốn Xỉu",
+                "content": "Đúng đấy đúng đấy, khó ăn mà còn không cho nói, chủ tiệm đó dữ lắm!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Lẽ Nào",
+                "content": "Mấy cửa tiệm này đều như vậy cả, lúc mới mở thì không tệ, càng về sau kiểm soát chất lượng càng kém!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Không Muốn Bỏ Lỡ",
+                "content": "Chỉ có mình tôi là vì chủ tiệm xinh đẹp nên mới đến ăn thôi sao?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Quý Cô Sunbringer Thiên Hạ Vô Song",
+                "content": "Lầu trên à, cậu thì đỉnh rồi!"
+            }
+        ],
+        "player_reply": [
+            "Hmm, tôi cảm thấy hương vị cũng được mà...",
+            "Dù sao cũng phải cho họ chút cơ hội sửa đổi chứ..."
+        ]
+    },
+    "28001": {
+        "id": 28001,
+        "poster": "Tôi Không Thể Nói",
+        "likes": "629",
+        "views": 9081,
+        "title": "[Bài Đăng] Đây là đang quay phim bom tấn à?",
+        "text": "Như trong hình, không phải tôi chụp đâu, là bạn tôi đi chơi ở vành đai ngoài chụp lại được đấy. Nghe nói bên ngoài nhìn còn choáng ngợp hơn trong ảnh nhiều, bạn tôi vừa định bám theo để chụp thêm chút chi tiết thì bị mấy người mặc đồ vest cản lại, còn cảnh cáo không có việc gì thì đừng vào Lỗ Hổng... Mà nói đi cũng phải nói lại, đám robot kéo thành từng bầy này trông có vẻ hơi đáng sợ, giống hệt như đang quay phim bom tấn đề tài tận thế ấy, có ai biết tình hình cụ thể không?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Thùng Rác Cũng Ấm Áp",
+                "content": "Lần đầu tiên thấy loại robot này, nhìn là biết chi phí không hề rẻ. Xem ảnh thì chúng đang hướng vào trong Lỗ Hổng, lẽ nào vành đai ngoài đã xảy ra chuyện ư? Hay là đúng như chủ thớt nói, thật sự là đi chọn cảnh để quay phim bom tấn?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Tên Lửa Nhựa",
+                "content": "Nghe nói \"Thành Phố Quái Thú 2\" sắp chọn cảnh ở vành đai ngoài, đây chắc là đạo cụ robot của đoàn làm phim bọn họ."
+            },
+            {
+                "floor": 3,
+                "commenter": "Vòng Hula-la-la",
+                "content": "Tận thế ập đến, 12 chòm sao lựa chọn robot độc quyền của mình!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Meerkat Siêu Cấp Học Đường",
+                "content": "Theo tin tức tôi dò hỏi được từ người quen ở Thị Trấn Blazewood, đây không phải đạo cụ điện ảnh gì đâu, đây là robot chiến đấu thứ thiệt của TOPS đấy! Không ngờ đã sản xuất hàng loạt nhiều đến vậy rồi."
+            },
+            {
+                "floor": 5,
+                "commenter": "Thần Nhân Năm Chữ",
+                "content": "Robot của TOPS? Khí thế này, chẳng lẽ trong Lỗ Hổng vành đai ngoài xuất hiện Ethereal rất lợi hại, bọn họ định đi trấn áp sao?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Nói Sao Thì Là Vậy",
+                "content": "Tỉnh lại đi, còn đòi trấn áp Ethereal á, TOPS mà tốt bụng thế thì đã không gọi là TOPS rồi. Bọn họ chỉ làm những chuyện có lợi thôi. Trong Lỗ Hổng đó chắc chắn có thứ cực kỳ đáng giá. Hoặc là lượng tài nguyên khổng lồ, hoặc là bí mật động trời."
+            },
+            {
+                "floor": 7,
+                "commenter": "Chỉ Đi Ngang Qua",
+                "content": "Đồng ý với lầu trên. Có thể phần lớn mọi người ở đây đều không biết, TOPS đã từng làm chuyện này từ hồi ở Bán Đảo Waifei rồi, vì tranh giành chút tài nguyên mà ném bừa vũ khí tác chiến vào Lỗ Hổng các kiểu, chỉ là giở lại trò cũ thôi. Thị Trấn Blazewood dạo này e là sắp không yên ổn rồi."
+            }
+        ],
+        "player_reply": []
+    },
+    "28002": {
+        "id": 28002,
+        "poster": "Đuổi Theo Vì Sao",
+        "likes": "65",
+        "views": 3326,
+        "title": "[Bài Đăng] Đây là chim gì",
+        "text": "Ảnh mới ra lò, vừa chụp 1 phút trước! Có ai biết đây là chim gì không? Nó bay rất nhanh, hơn nữa còn phát ra ánh sáng cực kỳ chói. Lờ mờ có thể nhìn thấy nó vỗ cánh, nên chắc chắn không phải thiết bị bay. Nhưng tôi lớn ngần này rồi chưa từng thấy con chim nào như vậy, bất kể là trong Lỗ Hổng hay trong thành phố đều chưa từng gặp, có ai am hiểu các loài chim đến giám định thử xem?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Hết Tốc Lực Tiến Lên",
+                "content": "Giám định hoàn tất, là chim phát sáng màu trắng tốc độ gấp ba lần."
+            },
+            {
+                "floor": 2,
+                "commenter": "Canh Cá Sùng Sục",
+                "content": "Nhìn độ cao này, cộng thêm việc lấy tòa nhà bên cạnh làm vật tham chiếu... kích thước con chim này không nhỏ đâu nha, còn lớn hơn cả con người nữa? Chắc không phải là ảnh ghép bằng máy tính đấy chứ, nếu thật sự có sinh vật như vậy thì đã gây chấn động từ lâu rồi."
+            },
+            {
+                "floor": 3,
+                "commenter": "Mưa Sao Băng",
+                "content": "Thiên thần! Là thiên thần xuất hiện! Ai thấy bài đăng này đừng lướt qua nhé, hãy cùng tôi vẫy tay reo hò nào, cả năm nay sẽ gặp may mắn đó. Thiên~ thần~"
+            },
+            {
+                "floor": 4,
+                "commenter": "Màu Trắng Rực Rỡ",
+                "content": "\\Thiên Thần~/\\Vọng Tưởng~/"
+            },
+            {
+                "floor": 5,
+                "commenter": "Kẹo Dẻo Dưa Hấu",
+                "content": "Hả, là thiên thần này sao! Cũng không phải là không được."
+            },
+            {
+                "floor": 6,
+                "commenter": "Thôi Thôi",
+                "content": "Tôi không chắc thứ tôi thấy có giống với chủ thớt không, lúc nãy tôi cũng thấy trên trời có ánh sáng trắng. Có thể do chỗ tôi ở khá xa, chỉ nhìn thấy một đốm sáng màu trắng bay xéo lên trên, bay thẳng vào tầng mây rồi biến mất."
+            },
+            {
+                "floor": 7,
+                "commenter": "Ây Da",
+                "content": "Tôi có linh cảm, bên dưới bài đăng này sắp có rất nhiều người bình luận, đều nói rằng mình đã chứng kiến chim trắng bay trên trời."
+            }
+        ],
+        "player_reply": []
+    },
+    "28003": {
+        "id": 28003,
+        "poster": "Lửa Bất Diệt",
+        "likes": "7318",
+        "views": 16710,
+        "title": "[Bài Đăng] Trong Lỗ Hổng cũng có nhật thực?",
+        "text": "Không nói nhiều nữa, vào thẳng vấn đề luôn. Đây là bức ảnh được chụp cách đây 3 tiếng tại Lỗ Hổng Phát Sinh gần Lỗ Hổng Pursenas. Lúc đó chúng tôi đang định rời khỏi Lỗ Hổng, trời bỗng nhiên tối sầm lại, không hề có điềm báo! Cả đội đều sợ hết hồn, cứ tưởng là đụng phải tên to xác nào rồi. Đúng lúc gần đó có một cái hang ngầm bí mật, chúng tôi liền tạm thời thay đổi kế hoạch và chui xuống hang. Người Kết Nối trong đội vừa ngẩng đầu lên là nhìn thấy cảnh tượng này. May mà cuối cùng mọi người đều an toàn trở về, đúng là hú hồn hú vía!\nNhắc mới nhớ, đây là nhật thực nhỉ... Mọi người ở bên ngoài Lỗ Hổng có nhìn thấy nhật thực không?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Foamy Hồng",
+                "content": "Bên ngoài Lỗ Hổng không có nhật thực đâu, hỏi người xung quanh thì mọi người đều không cảm thấy điều gì khác thường, bọn tôi nãy giờ vẫn đi dạo phố ở bên ngoài mà."
+            },
+            {
+                "floor": 2,
+                "commenter": "Rối Tinh Rối Mù",
+                "content": "Ảnh này của bạn chắc không phải cũng là ảnh ghép bằng máy tính đấy chứ, bài đăng bên cạnh còn có con chim lớn phát sáng bay trên trời kìa, cảm giác hai người có thể ngồi chung một bàn, so xem kỹ thuật ghép ảnh của ai giỏi hơn."
+            },
+            {
+                "floor": 3,
+                "commenter": "Mì Xào Bò",
+                "content": "Tôi đã lên mạng tìm một đống ảnh nhật thực, so sánh kỹ thì sẽ thấy khác rất nhiều so với ảnh của chủ thớt chụp. Đây chắc không phải là nhật thực đâu, mà là một hiện tượng tự nhiên nào đó hiếm gặp hơn."
+            },
+            {
+                "floor": 4,
+                "commenter": "Cờ Trắng Đen",
+                "content": "Cứ nghĩ đến việc nó xảy ra trong Lỗ Hổng, thì dù là chuyện gì cũng trở nên hợp tình hợp lý!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Râu Tơ Vàng",
+                "content": "Nhưng nhìn việc chủ thớt có thể bình an vô sự rời khỏi Lỗ Hổng để đăng bài, thì hiện tượng bất thường này ít ra cũng không có nguy hiểm gì nhỉ? Cũng không xuất hiện Ethereal đáng sợ, hay là Triệu Chứng Ăn Mòn chưa biết."
+            },
+            {
+                "floor": 6,
+                "commenter": "Không Phải Nặc Danh",
+                "content": "Chưa chắc đâu, biết đâu loại Ăn Mòn này có thời kỳ ủ bệnh thì sao, chủ thớt sau khi về đã kiểm tra tình trạng sức khỏe chưa?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Người Này Rất Lười",
+                "content": "Lầu 2 nhắc tôi mới nhớ, mọi người không thấy bầu trời này ghép với robot ở bài đăng bên cạnh rất hợp sao! Cực kỳ ăn khớp, đậm chất điện ảnh! Không lẽ đang quay \"Thành Phố Quái Thú 2\" thật sao? Thế này thì đầu tư quá khủng rồi!"
+            }
+        ],
+        "player_reply": []
+    },
+    "28004": {
+        "id": 28004,
+        "poster": "Người Dùng Nặc Danh",
+        "likes": "0",
+        "views": 22170,
+        "title": "[Cầu Cứu] Hình như tôi gặp rắc rối rồi!",
+        "text": "Chuyện là thế này, tôi đang lái xe bình thường trên đường, đột nhiên nghe thấy một tiếng \"rầm\". Xuống xe xem thử, trên đường có một người đang nằm sấp... Thề có trời đất chứng giám không phải do tôi tông đâu! Chắc chắn là đã nằm sấp ở đó từ trước rồi! Càng khó tin hơn là, cô ấy hình như đã dùng ngón tay dính máu vẽ một hình vẽ... Đây là lời trăn trối sao, ví dụ như chân dung hung thủ hay gì đó... Không, không đúng không đúng, tôi đang nói cái gì xui xẻo vậy, cô ấy vẫn chưa chết mà! Tuy trông có vẻ bị thương nặng nhưng vẫn còn thở! Tóm lại là tôi biết gần đây có một bệnh viện, nên đã vội bế cô ấy lên xe chở đi bệnh viện rồi, đang trên đường đi, có diễn biến mới tôi sẽ cập nhật sau, mọi người cũng giúp xem thử chân dung này là ai nhé, chắc chắn là manh mối quan trọng!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Kem Socola",
+                "content": "Nếu đây là chân dung của hung thủ, thì chắc nạn nhân đã chết vì quá đáng yêu."
+            },
+            {
+                "floor": 2,
+                "commenter": "Không Ăn Ảnh Làm Sao Đây",
+                "content": "Chủ thớt đã nói người vẫn chưa chết mà, có vẻ người đó đã gặp tai nạn giao thông rất nghiêm trọng. Nhưng nếu thật sự là tai nạn bất ngờ, sao lại có sức vẽ chân dung chứ... Đúng là ly kỳ thật..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Hi",
+                "content": "Nếu bảo chủ thớt có não, thì lời nói trước sau có mâu thuẫn. Nếu bảo chủ thớt không có não, thì người ta lại biết bài này phải đăng ẩn danh."
+            },
+            {
+                "floor": 4,
+                "commenter": "[Chủ Thớt] Nặc Danh",
+                "content": "Tôi đến cập nhật tin tức đây! Vừa nãy trên đường đến bệnh viện, xe của tôi đã bị di ngôn tử thần chặn lại! Không đúng không đúng, tôi đang nói cái gì thế này, để tôi sắp xếp lại ngôn từ đã, người chặn xe chính là người được vẽ trong hình - một người thỏ rất nhỏ con! Nhưng mà hung dữ hơn trên chân dung gấp 10 lần! Cô ta lải nhải một đống gì mà đồng nghiệp, rồi bảo mật rồi heo đen các kiểu, tôi chẳng lọt tai được chữ nào. Cô ta còn nói người trên xe tôi không sao cả, cô ta muốn đưa đi, tôi cũng chẳng dám hó hé nửa lời phản đối! Rồi cứ thế trơ mắt nhìn cô ta vác người đi..."
+            },
+            {
+                "floor": 5,
+                "commenter": "[Chủ Thớt] Nặc Danh",
+                "content": "Hiện giờ tôi đang ngồi bên đường ngẫm lại, càng nghĩ càng thấy sai sai. Đây có phải là thủ đoạn lừa đảo kiểu mới không? Sẽ không có chuyện lát nữa có người đến ăn vạ đòi tiền tôi đâu nhỉ?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Đèn Đường Ngược Sáng",
+                "content": "Vậy chắc đây là thủ đoạn lừa đảo chịu chi nhất mà tôi từng thấy rồi."
+            },
+            {
+                "floor": 7,
+                "commenter": "Nước Có Ga Không Bọt",
+                "content": "Chủ thớt nếu có tin mới nhất thì nhớ cập nhật nhé, lỡ như sau này tôi gặp phải thì còn chuẩn bị trước để đối phó với tên người thỏ hung dữ gấp 10 lần đó."
+            }
+        ],
+        "player_reply": []
+    },
+    "28005": {
+        "id": 28005,
+        "poster": "Tài Khoản Duy Nhất Của Đồng Hành Kỳ Quái",
+        "likes": "17",
+        "views": 6352,
+        "title": "[Bài Đăng] Thông báo bảo trì Đồng Hành Kỳ Quái",
+        "text": "Các Kẻ Tầm Mộng thân mến:\nĐể mang đến cho các bạn trải nghiệm trò chơi chất lượng hơn, hoàn thành công tác nâng cấp nội dung chính của phiên bản và tối ưu hóa server, Đồng Hành Kỳ Quái sẽ tạm gỡ xuống để bảo trì trong một khoảng thời gian tới. Trong thời gian bảo trì, toàn bộ thiết bị đầu cuối sẽ không thể đăng nhập game, mọi tính năng và cách chơi trong game đều tạm ngừng mở.\nThời gian hoàn thành bảo trì lần này có thể sớm hoặc muộn hơn tùy theo tiến độ công việc thực tế, nếu có điều chỉnh, chúng tôi sẽ cập nhật tin tức mới nhất qua các kênh chính thức trong thời gian sớm nhất.\nChúng tôi vô cùng xin lỗi vì sự bất tiện do đợt gỡ xuống để bảo trì dài hạn này gây ra cho các Kẻ Tầm Mộng, đồng thời chân thành cảm ơn sự thấu hiểu và kiên nhẫn chờ đợi của mọi người. Sau khi bảo trì kết thúc, chúng tôi sẽ phát đền bù bảo trì độc quyền cho người chơi cũ thông qua các Tiệm Trò Chơi Điện Tử, mong các bạn kịp thời đến tiệm để nhận.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 3,
+                "commenter": "Người Cha Nghiêm Khắc Của Đồng Hành Kỳ Quái",
+                "content": "Kẻ Tầm Mộng mà game này tung ra ngày càng chán, gỡ xuống bảo trì sớm cũng tốt! Mọi người nghe tôi, thời gian tới đừng ai đến Godfinger chơi Đồng Hành Kỳ Quái nữa, để nhóm chế tác sửa đổi đàng hoàng mấy cái lỗi trước đây đi!"
+            },
+            {
+                "floor": 12,
+                "commenter": "Chuyên Gia Tin Game",
+                "content": "Tóm tắt: Để tiếp tục giảm tải và giúp các Kẻ Tầm Mộng yên tâm tận hưởng cuộc sống, tất cả phần thưởng game sẽ tự động được gửi đến hộp thư sau khi hoàn tất bảo trì, mọi người không cần vội! Cũng không cần đăng nhập!"
+            },
+            {
+                "floor": 31,
+                "commenter": "Thiên Hạ Đệ Nhất Rắn",
+                "content": "Mấy người này thật là! Vì muốn độc chiếm phần thưởng game giới hạn, đúng là không từ thủ đoạn nào..."
+            },
+            {
+                "floor": 50,
+                "commenter": "Sao Lại Biết Tôi Cắn",
+                "content": "Nói thật nhé, game Đồng Hành Kỳ Quái này chơi lâu sẽ thực sự rất mệt... Trước đây tôi cũng chìm đắm trong đó, mãi đến gần đây bỏ game, mới thực sự cảm nhận được cuộc sống đã quay về tay mình.\nTrong game bạn có mạnh đến đâu, suy cho cùng cũng chỉ là một chuỗi dữ liệu. Hãy mang tinh thần hiếu thắng đó dùng trong cuộc đời thực đi - bạn mới thực sự cảm nhận được bạn đang sống, đang trưởng thành, đang trở nên tốt hơn."
+            },
+            {
+                "floor": 86,
+                "commenter": "Chỉ Là Một Con Lười",
+                "content": "Liên hoan công ty uống say bí tỉ, sao mọi người đều bảo không chơi Đồng Hành Kỳ Quái nữa\nThực ra tôi thấy khá vui mà, mọi người đừng bỏ game được không"
+            },
+            {
+                "floor": 88,
+                "commenter": "Người Lương Thiện Nhất Ridu",
+                "content": "Để tôi giải thích cho...\nGần đây Đồng Hành Kỳ Quái đang tổ chức sự kiện quảng bá, đến Tiệm Trò Chơi Điện Tử vượt qua ải hạn giờ là có thể chia suất rút thưởng - giải thưởng cao nhất lên tới 4 tỷ Denny! Đám người này đều muốn độc chiếm quỹ thưởng, chắc chắn là đi khắp nơi lừa người ta nghỉ game rồi!"
+            },
+            {
+                "floor": 89,
+                "commenter": "Người Tối Cổ",
+                "content": "Thật may nhờ có lầu trên, nếu không thì tôi vẫn còn mù tịt đấy!"
+            }
+        ],
+        "player_reply": [
+            "Hỏng rồi, thật sự có người tin kìa!",
+            "À thực ra không phải như vậy..."
+        ]
+    },
+    "30001": {
+        "id": 30001,
+        "poster": "Thật Sự Có Vịt Cạn Không Biết Bơi Sao",
+        "likes": "41",
+        "views": 2496,
+        "title": "[Bài Đăng] Thảo luận: Fantasy Resort thật sự đã tốt lên rồi sao?",
+        "text": "Như trong hình - chiều tối chủ thớt đi dạo trên bãi biển, tình cờ thấy hai nhân viên của Fantasy Resort đang nghiêm túc thảo luận bên hàng rào thép gai, đoán mò những gì họ nói có liên quan đến mùa hè sắp tới.\nNhư mọi người đều biết, khu nghỉ dưỡng này trước đây từng đứng bên bờ vực phá sản, nhờ cao nhân giúp đỡ đã vươn lên quy mô có thể tổ chức lễ hội âm nhạc bãi biển hoành tráng, nhưng lúc đó đã là cuối hè, sau khi vào thu thì nhanh chóng đìu hiu trở lại.\nCá nhân chủ thớt rất thích mùa hè và biển, cũng rất mong chờ những điều mới mẻ mà khu nghỉ dưỡng mang đến có thể cho tôi thêm một trải nghiệm mùa hè khó quên nữa... nhưng với tư cách là một khu du lịch mở cửa trở lại sau khi hồi sinh, thật sự lo lắng không biết họ có đối phó được với đỉnh điểm lượng khách sắp tới hay không.\nCác Người Kết Nối toàn năng nghĩ sao? Liệu Fantasy Resort có khả năng lập thành tích xuất sắc một lần nữa không?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Toàn Năng Trừ Bơi Lội",
+                "content": "Chỗ hay để đi chơi mùa hè có mà đầy, một khu nghỉ dưỡng bé xíu, chẳng ai thèm bận tâm. Với cả nickname của chủ thớt có ý gì đấy? Vịt cạn đắc tội gì với bạn hả!"
+            },
+            {
+                "floor": 2,
+                "commenter": "Ghét Xuân Thu Đông",
+                "content": "Chẳng ai để ý chuyện lầu trên bảo \"không ai quan tâm\" đâu, bãi biển mùa hè là tuyệt nhất đó được chưa! Ai không hiểu được thì gu thẩm mỹ thực sự rất kém á!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Astra Hãy Luôn Tỏa Sáng Nhé",
+                "content": "Chủ thớt đừng đùa, lễ hội âm nhạc bãi biển lúc trước có Astra của chúng ta góp mặt cơ mà, chắc chắn phải bùng nổ chứ! Mùa hè năm nay ai biết được chứ~ Có giỏi thì mời Astra đến lần nữa đi!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Đến Giờ Nghỉ Lễ",
+                "content": "Nghe thấy một tràng tiếng bàn tính gõ lách cách rõ to..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Chủ Nghĩa Duy Lý Thiểu Số",
+                "content": "Không phải bài thảo luận nghiêm túc sao? Fantasy Resort mùa hè năm nay dù là sự mới mẻ hay độ hot đều không thể sánh bằng trước đây, nhưng bãi biển luôn là một trong những lựa chọn hàng đầu cho mùa hè, cộng thêm việc không có tin đồn thất thiệt, doanh thu chắc cũng không quá tệ, hơn nữa đây là chuyện mà nhân viên khu nghỉ dưỡng nên bận tâm, làm du khách thì cứ tận hưởng trọn vẹn kỳ nghỉ của mình thôi."
+            },
+            {
+                "floor": 6,
+                "commenter": "Ai Cũng Nói Đúng",
+                "content": "Ủng hộ lầu 5, thực tế là dù sao thì khu nghỉ dưỡng cũng không đến bờ vực phá sản lần nữa đâu, mọi người cứ ăn ngon uống say chơi vui là được rồi!"
+            }
+        ],
+        "player_reply": []
+    },
+    "30002": {
+        "id": 30002,
+        "poster": "Cuộc Sống Công Sở Bắt Đầu Lại Từ Đầu",
+        "likes": "393",
+        "views": 3193,
+        "title": "[Bài Đăng] Có phải sếp của tôi sắp đi làm đặc vụ không",
+        "text": "Có ai từng nghe nói về dự án hợp tác giữa Học Viện White Star và Tập Đoàn Marcel chưa?\nMới vào làm nửa năm, sếp đã đột nhiên phải đi xa vì dự án này, còn ký cả đống thỏa thuận bảo mật, nói với tôi là sẽ đi rất lâu... Không lẽ sếp được chọn làm đặc vụ thật rồi sao!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Ớt Nhỏ Lướt Sóng",
+                "content": "Nếu thực sự làm đặc vụ thì sao có thể để bạn biết được chứ... IQ của chủ thớt hơi đáng lo đấy."
+            },
+            {
+                "floor": 2,
+                "commenter": "Giáo Viên Hướng Dẫn Hãy Cho Em Con Đường Sống",
+                "content": "Chắc bên trong có dữ liệu nghiên cứu bảo mật gì đó... Tôi hỏi giáo viên hướng dẫn rồi, thầy ấy bảo chưa từng nghe nói đến dự án kiểu này."
+            },
+            {
+                "floor": 3,
+                "commenter": "Túi Lớn Vũ Trụ",
+                "content": "Chủ thớt mau xóa bài đi, cẩn thận bộ phận pháp chế mạnh nhất hành tinh gọi tới đó! Đợi đến lúc bạn bị bắt đi vì tiết lộ bí mật thì muộn mất!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Động Vật Sống Về Đêm",
+                "content": "Nếu Học Viện White Star và Marcel hợp tác, lẽ nào định nghiên cứu Bangboo kiểu mới nào sao? Nhưng theo mô tả của chủ thớt, sao thấy cứ bí ẩn thế nào ấy, không biết đằng sau định giở trò gì..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Không Thích Bánh Snack",
+                "content": "Lầu trên và chủ thớt ngồi chung một bàn đi, nếu thật sự có âm mưu, sao có thể để một nhân viên cấp thấp mới vào làm chưa bao lâu biết được chứ? Theo tôi thấy, chắc trong chuyện này chỉ có một số bí mật thương mại không tiện kể chi tiết thôi."
+            },
+            {
+                "floor": 6,
+                "commenter": "Tôi Muốn Mọc Tóc",
+                "content": "Hộp to quá, sao chủ thớt không mở ra xem thử!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Trà Ô Long Sung Ngọt",
+                "content": "Lầu trên nghiêm túc hả? Mở ra thật là sẽ bị bắt đi đấy."
+            }
+        ],
+        "player_reply": [
+            "Không đến mức đó chứ...",
+            "Có lẽ chỉ liên quan đến chuyện cần giữ bí mật."
+        ]
+    },
+    "30003": {
+        "id": 30003,
+        "poster": "Không Có Sếp Thì Cái Nhà Này Toang Mất",
+        "likes": "7",
+        "views": 9382,
+        "title": "[Cầu Cứu] Tìm người!! Có ai từng thấy người phụ nữ trong ảnh không!",
+        "text": "Có ai từng thấy người phụ nữ trong ảnh không? Nơi trong ảnh là ở đâu vậy? Đang cần tìm người gấp, cung cấp manh mối chi tiết sẽ có hậu tạ!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Tôi Thích Dưa Hấu To",
+                "content": "Cứ có cảm giác từng gặp người phụ nữ này... Lần trước gặp, cô ta cũng bị người ta rượt đuổi như thế này!"
+            },
+            {
+                "floor": 2,
+                "commenter": "Vương Tổng Đòi Nợ AAA",
+                "content": "Mấy người Nhà Thỏ Xảo Quyệt lại đang tự biên tự diễn chứ gì, cái gì mà \"Bây giờ sếp mất tích rồi, không rảnh trả nợ, thư thả cho chúng tôi thêm vài ngày đi\", nói cho mấy người biết, chiêu này vô dụng!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Mỗi Ngày Một Muỗng Bột Protein",
+                "content": "Hừm... Mặc dù ảnh hơi mờ, nhưng có thể thấy lượng cơ bắp của người phụ nữ trong ảnh khá ổn, nếu dùng thêm thực phẩm bổ sung và chú trọng rèn luyện cơ bắp tay, đường nét sẽ càng đẹp hơn! Có thể nhắn tin riêng cho tôi để được giới thiệu phòng gym."
+            },
+            {
+                "floor": 4,
+                "commenter": "Một Cây Nấm Hiền Lành",
+                "content": "Lầu trên bị gì vậy cha - người ta đăng tin tìm người, cha lại quảng cáo phòng gym?"
+            },
+            {
+                "floor": 5,
+                "commenter": "Chó Nhà Tên Hoàng Tử",
+                "content": "Sao đằng sau lại có nhiều Bangboo đuổi theo cô ấy thế? Đang tạo hiệu ứng chương trình gì à?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Vua Tăng Ca",
+                "content": "Hả? Có thù lao à? Số tiền thế nào, có đủ để tôi nghỉ làm nửa năm không?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Thấy Thì Nhắc Tôi Uống Nước Nhé",
+                "content": "Lầu trên đừng tin, đây được xem là người nổi tiếng trên Inter-Knot rồi, bọn họ nghèo lắm, e là không có tiền cho bạn đâu."
+            }
+        ],
+        "player_reply": []
+    },
+    "30004": {
+        "id": 30004,
+        "poster": "Nhà Bếp Mẹ Gấu",
+        "likes": "8895",
+        "views": 5220,
+        "title": "[Bài Đăng] Bangboo ở nhà hơi kỳ lạ...",
+        "text": "Bangboo ở nhà kể cho tụi nhỏ nghe câu chuyện gì đó về Hoàng Tử Bangboo, bảo là nằm trong một quyển sách, còn dựa theo nội dung câu chuyện cùng vẽ chung một bức tranh nữa. Nhưng tôi tìm khắp nơi cả buổi trời, mà cũng chẳng thấy quyển sách này đâu...\nCó ai từng đọc câu chuyện này chưa? Hay là mấy chuyện này đều do Bangboo tự bịa ra vậy? Nhưng nó kể câu chuyện này cứ y như thật, chắc không thể lừa tôi đâu nhỉ...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Thăm Bệnh Nhân Tâm Thần Trong Đêm",
+                "content": "Hoàng Tử Bangboo? Trước đây tôi từng nói chuyện với một Bangboo tự xưng là kỵ sĩ, vị Hoàng Tử này không lẽ cũng là một Bangboo đọc tiểu thuyết quá nhiều, không phân biệt được ảo tưởng và hiện thực sao..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Biến Thành Ethereal Vẫn Thích Bạn",
+                "content": "Bức tranh lộn xộn này vẽ cái gì vậy? Cứ thấy mấy chi tiết trong bức tranh này quen quen thế nào ấy, có ai có manh mối gì không?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Chim Biết Bơi",
+                "content": "Lầu trên chẳng lẽ nghĩ đến cuốn tiểu thuyết hay phim truyền hình nào rồi à? Hoàng Tử chẳng phải là thứ thường thấy trong văn học giả tưởng sao, còn lâu đài ngôi sao gì đó... hình như cũng thường xuất hiện trong truyện cổ tích."
+            },
+            {
+                "floor": 4,
+                "commenter": "Tôi Là Mèo Con",
+                "content": "Theo suy nghĩ của mèo tôi, có phải trí nhớ của Bangboo này hơi hỗn loạn, trộn lẫn rất nhiều thứ từng xem trước đây rồi ghép thành một câu chuyện không? Chủ thớt có thể liên hệ bộ phận hậu mãi của Marcel để kiểm tra linh kiện gì đó xem sao meow."
+            },
+            {
+                "floor": 5,
+                "commenter": "Thân Phận Inter-Knot Tự Tạo Ra",
+                "content": "Đồng ý với lầu trên, nếu là trí nhớ bị lẫn lộn thì còn đỡ, sợ nhất là Bangboo nói nhăng nói cuội. Nếu nói dối thì phải dạy dỗ đàng hoàng đó chủ thớt, đừng dạy hư trẻ nhỏ."
+            },
+            {
+                "floor": 6,
+                "commenter": "Tiệc Trà Thỏ",
+                "content": "Chỉ có mình tôi quan tâm rốt cuộc câu chuyện này kể về cái gì sao? Trông có vẻ thú vị lắm đấy!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Đói Thì Uống Nhiều Nước",
+                "content": "Ở New Eridu, luôn cảm thấy Bangboo làm gì cũng không có gì lạ. Cả nhà thấy tôi nói đúng không?"
+            }
+        ],
+        "player_reply": [
+            "Hay là mang đi sửa xem sao?",
+            "Có lẽ đằng sau có câu chuyện gì đó..."
+        ]
+    },
+    "31001": {
+        "id": 31001,
+        "poster": "Nói gì đó mà mọi người chưa biết đi",
+        "likes": "1",
+        "views": 9577,
+        "title": "[Bài Đăng] Thông tin tuyệt mật, sẽ xóa sau",
+        "text": "Vừa hóng được một số tin tức từ vài nguồn tin. Ông chủ của chúng ta chắc là sắp tuyệt hậu rồi. Hiện trường rất thê thảm, hung thủ vẫn chưa bị bắt.\nTin tức chắc chắn sẽ bị bí mật che giấu, nhưng chuyện cũng đã xảy ra rồi. New Eridu sắp có biến lớn.\nSợ mọi người không tin, tôi đính kèm một bức ảnh.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Nói cho dễ hiểu",
+                "content": "Chủ thớt lảm nhảm gì thế? Kẻ thích nói úp mở cút khỏi New Eridu đi. Còn lão già trong ảnh nữa, nhìn đã thấy không phải người tốt rồi, bớt đăng mấy thứ này lên mạng đi."
+            },
+            {
+                "floor": 2,
+                "commenter": "Kìm nén quá mức",
+                "content": "Trong vòng 3 phút, tôi muốn toàn bộ thông tin về người đẹp tóc dài trong bức ảnh này."
+            },
+            {
+                "floor": 3,
+                "commenter": "Nam Sinh Viên Trong Sáng",
+                "content": "Mặc dù bài đăng của chủ thớt rất nhạt, nhưng chị gái này xinh thật đấy, tuy không nhìn thấy mặt. Là nữ minh tinh nào trong giới giải trí sao?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Cúp Ridu tôi ủng hộ đội Hổ Minerva",
+                "content": "Tôi từng thấy ông già này trên tivi rồi, đây chẳng phải là Mosseint, người đứng đầu Tập Đoàn High Ambitions sao? Bức ảnh này là do chủ thớt chụp à? Trông giống như bữa tiệc có sự tham gia của những người thượng lưu nào đó vậy.\nĐợi đã, chủ thớt nói ông chủ sắp tuyệt hậu... Nếu là ông chủ Mosseint thật, ý là con của ông ấy đã xảy ra chuyện?"
+            },
+            {
+                "floor": 5,
+                "commenter": "Không tìm được việc thì không chết nữa",
+                "content": "Ý gì đây? Người đẹp này á? Rốt cuộc đã xảy ra chuyện gì, chủ thớt không thể nói chi tiết hơn chút sao? Tập Đoàn High Ambitions sắp xảy ra động đất à?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Sự thật chỉ có một (Nhưng sẽ có nguyên phân)",
+                "content": "Tôi đã tra thử, Mosseint đúng là có một người con trai nuôi và một người con gái nuôi, điều này do chính miệng ông ấy thừa nhận trong một cuộc phỏng vấn nhiều năm trước. Theo như ông ấy nói, người con trai nuôi đã qua đời trong một tai nạn, còn cô con gái nuôi thì nghe nói vẫn luôn làm nghiên cứu viên trong cơ sở nghiên cứu của tập đoàn, bao năm nay gần như chưa từng xuất hiện trước đám đông, rất là bí ẩn.\nVề bức ảnh chủ thớt đăng, nhìn kỹ một chút thì hình như được chụp tại một bữa tiệc nào đó của giới thượng lưu vào một hai năm trước. Tôi có chút ấn tượng với sảnh này, cậu tôi từng làm phục vụ ở đây. Trên mạng cũng không tìm thấy bức ảnh tương tự, nên tôi nghĩ lời chủ thớt nói biết đâu lại là sự thật."
+            },
+            {
+                "floor": 7,
+                "commenter": "Tôi chỉ là tò mò",
+                "content": "Bạn bên trên làm thám tử à... Nhắc mới nhớ, tôi vừa thấy một bài đăng tin tức liên quan đến Mosseint. Nếu con gái cưng của ông ấy thật sự xảy ra chuyện, thì chắc cũng có thể nhìn ra chút manh mối từ biểu hiện của ông ấy chứ nhỉ?"
+            }
+        ],
+        "player_reply": []
+    },
+    "31002": {
+        "id": 31002,
+        "poster": "Còn 111 ngày nữa đến kỳ nghỉ",
+        "likes": "9",
+        "views": 2663,
+        "title": "[Bài Đăng] Tại sao sếp của người khác đều đi công tác rồi, còn sếp của tôi thì...",
+        "text": "Dạo này bạn bè tôi không đi nghỉ mát thì cũng làm biếng trong giờ làm việc. Hỏi ra mới biết toàn là sếp đi công tác vắng mặt, nên cường độ công việc bỗng chốc giảm đi đáng kể. Dựa vào đâu chứ!!! Dựa vào đâu mà chỉ có sếp tôi là không nghỉ phép, vẫn đang ngồi ở chỗ làm vừa uống trà nóng vừa viết báo cáo công việc cho Giám Sát Trật Tự!!! Xin vía sếp tôi cũng đi công tác, rồi tôi cũng có thể lười biếng và nghỉ phép!!!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Khi nào mới đến Ngày Cà Rốt Vàng đây",
+                "content": "Các sếp rủ nhau đi công tác, tình hình gì đây? Bạn của chủ thớt làm ở những công ty nào thế?"
+            },
+            {
+                "floor": 2,
+                "commenter": "[Chủ Thớt] Còn 111 ngày nữa đến kỳ nghỉ",
+                "content": "TOPS, HAND, HIA, Thị Chính... Không biết nữa, các mối quan hệ của tôi vi diệu lắm."
+            },
+            {
+                "floor": 3,
+                "commenter": "Nhà Nghiên Cứu Thợ Săn Lỗ Hổng",
+                "content": "Chủ thớt có nhắc đến Giám Sát Trật Tự, kết hợp với bối cảnh này, chắc là cấp cơ sở của Cục Trị An nhỉ? Mấy thế lực đó toàn là những thành phần máu mặt, so ra thì Cục Trị An đúng là không tay to đến thế..."
+            },
+            {
+                "floor": 4,
+                "commenter": "Không đổi tên trước khi giảm cân thành công",
+                "content": "Không đúng, người của Cục Trị An chơi Inter-Knot... Chủ thớt làm vậy thật sự không sao chứ? Hơn nữa trong bức ảnh này còn lộ ra ngón tay và tai của chủ thớt, cảm giác rất dễ xác định cụ thể là nhân viên trị an nào."
+            },
+            {
+                "floor": 5,
+                "commenter": "Thật sự không có mỉa mai bạn đâu",
+                "content": "Chủ thớt: Tôi từng có một công việc"
+            },
+            {
+                "floor": 6,
+                "commenter": "AAA thu mua văn vật Lỗ Hổng giá cao",
+                "content": "Bạn xem kìa, chủ thớt không trả lời tụi mình nữa. Bài đăng này chắc lát nữa không bị xóa đâu nhỉ?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Gamer Cooking",
+                "content": "Nhưng nói đi cũng phải nói lại, nhiều thế lực cùng lúc có người đi công tác như vậy, chuyện này chắc không phải giả đâu. Dạo trước chẳng phải cũng có người của Học Viện White Star đăng bài sao... Lẽ nào thật sự có cuộc họp bí mật gì à?"
+            }
+        ],
+        "player_reply": []
+    },
+    "31003": {
+        "id": 31003,
+        "poster": "Anh Ken nói về Ridu",
+        "likes": "13",
+        "views": 8465,
+        "title": "[Tình Báo] Mosseint - Người đứng đầu Tập Đoàn High Ambitions, mới đây đã tham dự bữa tiệc từ thiện",
+        "text": "Gần đây, Mosseint - người đứng đầu Tập Đoàn High Ambitions, đã tham dự một bữa tiệc từ thiện được tổ chức tại Khu Janus. Bữa tiệc từ thiện này do Tập Đoàn Giải Trí Odyan - High Ambitions (Sau đây gọi là Odeum) tổ chức, nhằm kêu gọi duy trì sự quan tâm và hỗ trợ cho các gia đình nạn nhân trong sự kiện cố đô sụp đổ.\nLà người sáng lập Tập Đoàn High Ambitions, từ thời Eridu, Mosseint đã hoạt động sâu rộng trong các lĩnh vực tài chính, giải trí và khoa học Lỗ Hổng, đi lên từ hai bàn tay trắng để gây dựng nên High Ambitions, một đế chế thương mại có quy mô khổng lồ ngay cả trong Liên Minh Tài Chính TOPS. Đáng chú ý là ông luôn hành sự kín tiếng, cực kỳ hiếm khi tham dự những sự kiện như thế này.\nTrong ảnh là Mosseint đang được các phóng viên phỏng vấn. Tâm trạng của ông có vẻ khá tốt, đã trò chuyện với các phóng viên về rất nhiều chủ đề.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Tôi chỉ là tò mò",
+                "content": "Vốn dĩ bài đăng tin tức vô vị thế này, nửa năm cũng sẽ chẳng có ai thèm bấm vào xem... Nhưng nếu giống như một bài đăng khác đã nói, con gái cưng của Mosseint thật sự đã gặp bất trắc... Vậy tại sao ông ấy lại tham dự bữa tiệc vào lúc này? Rõ ràng trước nay chưa từng tham gia mà?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Không tìm được việc thì không chết nữa",
+                "content": "Từ bài viết khác qua đây... Nói vậy mới thấy đúng thật, con gái xảy ra chuyện rồi, mà tâm trạng ông ấy lại trông có vẻ rất tốt? Hay là lúc ông ấy tham gia bữa tiệc thì chuyện vẫn chưa xảy ra?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Cúp Ridu tôi ủng hộ đội Hổ Minerva",
+                "content": "Hỏi bọn tôi thì bọn tôi biết hỏi ai... Dân thường như bọn tôi còn chẳng có cửa bén mảng tới mấy bữa tiệc kiểu này, sao có thể nắm rõ được thứ tự thời gian chứ?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Sự thật chỉ có một (Nhưng sẽ có nguyên phân)",
+                "content": "Tôi đã tra thử, bữa tiệc này vừa diễn ra vào tối qua. Trước khi bữa tiệc bắt đầu, người biết rõ nội tình đó đã đăng bài viết kia. Theo mô tả của người đó, anh ta có lẽ cũng không phải là nhân vật cốt lõi nắm được nhiều chi tiết, mà khả năng cao là nghe ngóng được thông tin từ người quen.\nNói cách khác, khi bữa tiệc bắt đầu, tin tức này đã lan ra ngoài tầng lớp cốt lõi, tôi thấy khả năng Mosseint hoàn toàn không biết gì lúc bữa tiệc diễn ra là cực kỳ thấp."
+            },
+            {
+                "floor": 5,
+                "commenter": "[Chủ Thớt] Anh Kan nói về Ridu",
+                "content": "Chuyện gì thế này? Sao lượt xem bài đăng này của tôi hai ngày nay lại tăng vọt thế? Tuy không rõ các bạn đang bàn luận chuyện gì, nhưng mọi người đã lỡ bấm vào rồi thì tiện tay bấm theo dõi nhé. Sau này anh Kan sẽ tiếp tục mang đến những tin tức mới nhất cho mọi người!"
+            },
+            {
+                "floor": 6,
+                "commenter": "Không tìm được việc thì không chết nữa",
+                "content": "Bạn comment số 4 đúng là thám tử lừng danh... Vậy ý là ông già này biết rõ con gái xảy ra chuyện, mà vẫn tươi cười đi tham gia bữa tiệc sao? Sao cảm giác càng đào càng ra nhiều chuyện thế nhỉ... Giới thượng lưu thật là máu lạnh."
+            },
+            {
+                "floor": 7,
+                "commenter": "Người Chuột",
+                "content": "Mới tới, tình hình gì đây, Inter-Knot đẩy bài viết này cho tôi, bảo là độ hot đang tăng vọt? Ông lão này là ai vậy, bài viết khác mà mấy người nhắc đến ở đâu thế? Để tôi đi xem thử!"
+            }
+        ],
+        "player_reply": []
+    },
+    "32001": {
+        "id": 32001,
+        "poster": "Bếp Trưởng Ngoài Biên Chế Nhà Hoshimi",
+        "likes": "6000",
+        "views": 8956,
+        "title": "[Bài Đăng] Hoshimi Miyabi dễ thương chính thức xuất hiện!",
+        "text": "Minigame \"Âm Thanh Lỗ Hổng\" đã hứa với mọi người hôm nay cuối cùng đã ra mắt!\nNhư mọi người đã biết, chủ kênh vô cùng yêu thích đội trưởng Hoshimi Miyabi của Biệt Đội Ứng Phó Lỗ Hổng 6, thế nên tựa game này có thể coi là một tác phẩm fanmade lấy cô Miyabi làm nhân vật chính.\nThật lòng mà nói, ban đầu chủ kênh chỉ định làm vài nội dung fanmade về cô Miyabi cho vui, không ngờ chẳng mấy chốc đã vẽ gần 3000 bức phác thảo nhân vật... Nhưng thật sự không thể trách chủ kênh đâu á á á! Vừa nhìn thấy dáng vẻ chiến đấu oai phong của cô Miyabi, là lại không kìm được muốn tái hiện toàn bộ những cảnh đó vào trong game! Mặc dù chủ kênh đã thức đêm rụng cả đống tóc, nhưng chỉ cần nhìn thấy suối tóc của cô Miyabi chuyển động đàn hồi hoàn hảo trong game, chủ kênh có thể tha thứ cho tất cả!\nTóm lại, để cảm ơn sự ủng hộ của mọi người, cũng như tri ân những người hâm mộ yêu thích cô Miyabi giống tôi, tác phẩm này... Hoàn! Toàn! Miễn! Phí! Hy vọng mọi người sẽ tải về và ủng hộ thật nhiều! Hãy mau chia sẻ cô Miyabi siêu đáng yêu này với cả thế giới đi nào!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Đánh Giá Game Bla Bla",
+                "content": "Vừa lên kèo là theo ngay, oánh chén liền tay!... Kỳ tích, đây hoàn toàn là kỳ tích!"
+            },
+            {
+                "floor": 2,
+                "commenter": "Chỉ Bằng Đôi Tai Xẻ Đôi Lỗ Hổng",
+                "content": "Đôi tai vừa dài vừa nhọn, vừa chân thực lại vừa đáng yêu! Vì đôi tai này, tôi cũng nhất định sẽ nghiêm túc ủng hộ!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Trung Tâm Nhân Giống Dưa Lưới",
+                "content": "Tôi cũng ủng hộ! Chủ thớt có thể tái hiện hoàn hảo sức quyến rũ của cô Miyabi trong thể loại game này, thật sự quá đỉnh!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Không Học Được Vẽ Minh Họa Không Đổi Tên",
+                "content": "Cái gì? 3000 bản thảo cơ á?!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Thôi Bớt Giỡn Đi",
+                "content": "Chắc tôi chưa tỉnh ngủ rồi... tác phẩm vĩ đại thế này mà tôi lại được chơi miễn phí sao?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Người Dùng Nặc Danh",
+                "content": "Đây là tác phẩm rất tuyệt, cảm ơn. Ừm, tôi vừa hay đang tiến hành tu luyện \"bảo vệ một trăm nhà sáng tạo và tích cực bày tỏ sự yêu thích\", nên bây giờ có vẻ chính là thời điểm tuyệt hảo để bày tỏ lòng biết ơn đến chủ thớt."
+            },
+            {
+                "floor": 7,
+                "commenter": "Hỏa Nhãn Kim Tinh",
+                "content": "Trời ơi, chính chủ xuất hiện rồi này?! Chủ thớt mau quay lại xem đi!"
+            },
+            {
+                "floor": 8,
+                "commenter": "[Chủ Thớt] Bếp Trưởng Ngoài Biên Chế Nhà Hoshimi",
+                "content": "A a a! Tôi đã bỏ lỡ gì vậy! Hu hu... Cô Miyabi dịu dàng quá! Tôi sẽ dùng cả đời này để ủng hộ cô Miyabi!!!"
+            }
+        ],
+        "player_reply": [
+            "Chúc chủ thớt ngày càng nhiều fan!",
+            "Mong chờ thêm nhiều tác phẩm thú vị!"
+        ]
+    },
+    "32002": {
+        "id": 32002,
+        "poster": "Thức Dậy Trong Biệt Thự",
+        "likes": "41",
+        "views": 2289,
+        "title": "[Bài Đăng] Sao băng rơi, nhớ ước nhé!",
+        "text": "Ảnh không qua chỉnh sửa, xuất thẳng từ ảnh gốc, ai không tin có thể đóng luôn bài đăng này, miễn bàn cãi!\nNgay hôm nay, tôi bước ra ban công biệt thự nhà mình như mọi khi, dưới sự chăm sóc của mười hầu gái, chuẩn bị thưởng thức ly cà phê xay tay, ngắm ráng chiều trên bầu trời, trải qua một ngày hạnh phúc bình dị... Thế nhưng đúng lúc này, tôi đã thấy sao băng xuất hiện trên bầu trời! Kỳ quan thế này, ngay cả một người kiến thức sâu rộng như tôi cũng lần đầu tiên nhìn thấy, nên hào phóng chia sẻ cho mọi người cùng chiêm ngưỡng!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Nhà Khai Phá Ngân Hà",
+                "content": "Nhìn chi tiết thì cảm giác không giống sao băng bình thường, chẳng lẽ là rác vũ trụ gì đó từ thời đại trước, rơi xuống đất tự bốc cháy sao?\nCách đây không xa là vành đai bão Minerva, tình hình thời tiết ở đó phức tạp, gây ra tình trạng này cũng là điều bình thường."
+            },
+            {
+                "floor": 2,
+                "commenter": "Tôi Nói Chuyện Khó Nghe",
+                "content": "Muốn đăng ảnh sao băng, thì phiền bạn nói thêm vài thông tin về sao băng đi, đừng dụ những người đam mê thiên văn chúng tôi vào đây lãng phí thời gian... rốt cuộc ai thèm quan tâm sân thượng biệt thự nhà bạn rộng bao nhiêu, có bao nhiêu hầu gái chứ?!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Sinh Viên Mới Tốt Nghiệp",
+                "content": "Thiên linh linh địa linh linh, sao băng phù hộ, buổi phỏng vấn vào Tập Đoàn High Ambitions của tôi nhất định sẽ thành công!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Hiệp Sĩ Người Nhà",
+                "content": "Hy vọng đây thực sự là sao băng, chứ không phải thứ tồi tệ gì đó liên quan đến Lỗ Hổng..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Hóng Chuyện Không Ngại To Chuyện",
+                "content": "Gửi thêm vài tấm ảnh nữa đi, rốt cuộc đây là bầu trời ở hướng nào thế? Sao băng rơi về hướng nào vậy? Tôi còn muốn đi thám hiểm, tìm nơi sao băng rơi xuống nữa cơ."
+            },
+            {
+                "floor": 6,
+                "commenter": "Thuật Sĩ Chiêm Tinh",
+                "content": "Chia sẻ ngôi sao băng này, trong vòng bảy ngày sẽ có may mắn bất chợt."
+            },
+            {
+                "floor": 7,
+                "commenter": "Khán Giả May Mắn",
+                "content": "Lúc sao băng này rơi xuống, tôi cũng nhìn thấy... Nhưng mà, gần nhà tôi làm gì có biệt thự nào đâu?"
+            }
+        ],
+        "player_reply": [
+            "Đây chính là Phoenix nhỉ...",
+            "Hy vọng không gây xôn xao..."
+        ]
+    },
+    "32003": {
+        "id": 32003,
+        "poster": "Cung Cấp Tình Báo Có Trả Phí",
+        "likes": "29",
+        "views": 6900,
+        "title": "[Tình Báo] Về người đàn ông không thể nhắc tên ấy",
+        "text": "Nhắc trước nhé, lúc mọi người bình luận tuyệt đối đừng nhắc đích danh cái tên đó, tôi không muốn bị chuyên viên mời đi uống trà đâu!\nNói tóm lại, lúc tôi đi ngang qua tòa nhà H.A.N.D., đã nhìn thấy người đàn ông đó (từ khóa: Ma vương đại nhân của Cục Trị An) vừa rời đi, rất rõ ràng là anh ta đã gặp mặt người của Đội Ứng Phó Lỗ Hổng.\nTôi nghe tay trong... à không, người bạn ở Cục Trị An nói, gần đây ma vương đại nhân có việc quan trọng phải đi công tác, kết hợp với việc anh ta gặp mặt người của Đội Ứng Phó Lỗ Hổng, lẽ nào anh ta định đích thân dẫn đội vào Lỗ Hổng sao?!\nTóm lại, dạo này mọi người vào Lỗ Hổng nhớ hết sức cẩn thận, chú ý ẩn thông tin, đừng để đụng mặt vị đại nhân này, dù sao thì anh ta còn tàn bạo hơn cả Ethereal nữa.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Hamster",
+                "content": "Ừm, mẹ tôi cũng nói gần đây vị đại nhân này hình như sắp đi công tác, một số công vụ đều đã bàn giao lại rồi."
+            },
+            {
+                "floor": 2,
+                "commenter": "Trả Bằng Lái Cho Tôi",
+                "content": "Anh ta định vào Lỗ Hổng sao? Người này không phải chỉ ngồi văn phòng à? Tôi chưa từng nghe tin tức gì về việc anh ta ra ngoài làm nhiệm vụ cả."
+            },
+            {
+                "floor": 3,
+                "commenter": "Hamster",
+                "content": "Nói thừa, đến mức phải để cấp cao ra ngoài làm nhiệm vụ, thì sự việc đó chắc chắn rất nghiêm trọng, dĩ nhiên không thể công khai ra ngoài rồi."
+            },
+            {
+                "floor": 4,
+                "commenter": "Nặc Danh",
+                "content": "Chưa từng nghe chuyện anh ấy muốn vào Lỗ Hổng, ít nhất thì bên chúng tôi chưa nhận được yêu cầu chi viện."
+            },
+            {
+                "floor": 5,
+                "commenter": "Ống Heo Denny",
+                "content": "Nghe nói dưới trướng anh ta, có cả đống... chuyên viên phá án không rõ lai lịch, toàn do anh ta tự bỏ tiền túi ra nuôi, hoàn toàn không nghe lời chính quyền thành phố, hành động lần này chắc sẽ dùng đến những người này nhỉ?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Nặc Danh",
+                "content": "...Dám nói chuyện của mấy chuyên viên phá án đó, bạn chán sống rồi hả? Lát nữa đám chó săn nhà Lowell sẽ lần theo dây mạng tới tìm bạn đó~"
+            },
+            {
+                "floor": 7,
+                "commenter": "Nói Nhỏ Thôi Hay Ho Lắm À",
+                "content": "Chủ thớt mau xóa bài đi thì hơn, phần bình luận bên dưới đã mất kiểm soát rồi, đến cả Lowell cũng xuất hiện..."
+            }
+        ],
+        "player_reply": []
+    },
+    "32004": {
+        "id": 32004,
+        "poster": "Điều Tra Viên Đi Ngang Qua",
+        "likes": "123",
+        "views": 1670,
+        "title": "[Bài Đăng] Chắc chắn là Lỗ Hổng đang hại tôi!",
+        "text": "Hu hu hu... tôi chỉ là một Nhân Viên Điều Tra Lỗ Hổng bình thường thôi mà, bình thường cũng chẳng làm chuyện gì xấu xa, tại sao Lỗ Hổng lại trả thù tôi như vậy... Chuyện là thế này, dạo gần đây mọi người có phát hiện, dữ liệu gốc Lỗ Hổng do hiệp hội cung cấp cứ hay xảy ra vấn đề không?\nRõ ràng là Cà Rốt chưa hề hết hạn dữ liệu, thế mà bây giờ cứ hết cái này đến cái khác bị lỗi, lần trước còn hại tôi bị lạc trong Lỗ Hổng nữa.\nHaiz... tôi đành phải tự chế Cà Rốt bằng phương pháp thủ công thôi, thế nên có ai cũng cần Cà Rốt của tôi không, mua chung sẽ có ưu đãi đó!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "40 Tuổi Đã Nghỉ Hưu",
+                "content": "Tôi làm chứng, Cà Rốt chủ thớt bán dùng rất tốt.\nDữ Liệu Rosetta dạo này suốt ngày bị lỗi, khiếu nại kiểu gì cũng vô ích, còn cả bộ phận CSKH của Hiệp Hội Điều Tra Lỗ Hổng nữa, thật sự y như bù nhìn vậy... Haiz, chúng ta cũng đành tự nghĩ cách thôi."
+            },
+            {
+                "floor": 2,
+                "commenter": "Trà Bưởi",
+                "content": "Dữ Liệu Rosetta cũng gặp lỗi sao? Có phải bị nhiễm virus không?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Người Kết Nối Luôn Có Vận May Hạng E",
+                "content": "Nhưng Cà Rốt bên tôi đâu có vấn đề gì, mấy người đừng có tung tin đồn nhảm!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Thợ Hồ",
+                "content": "Cái người bảo Dữ Liệu Rosetta không có vấn đề gì kia, một tuần bạn xuống Lỗ Hổng được mấy lần vậy? Không lẽ chuyện không có vấn đề mà bạn nói, là chuyện của hơn nửa năm trước rồi à? Cà Rốt hôm qua của tôi cũng xuất hiện lỗi dữ liệu, mọi người nên hợp sức lại khiếu nại thật mạnh tay!"
+            },
+            {
+                "floor": 5,
+                "commenter": "An Toàn Là Trên Hết",
+                "content": "Đặt trước một lô Cà Rốt nặn tay cổ truyền, giá cả và địa chỉ nhận hàng đã gửi riêng, phiền bạn kiểm tra giúp nhé!"
+            }
+        ],
+        "player_reply": []
+    },
+    "32005": {
+        "id": 32005,
+        "poster": "Cục Toán Trục Roscaelifer",
+        "likes": "2333",
+        "views": 6666,
+        "title": "[Quảng Cáo] Cà Rốt thông minh Roscaelifer, lựa chọn tốt nhất cho sự phát triển của trẻ",
+        "text": "Vẫn đang đau đầu vì con trẻ không biết tính toán? Vẫn đang phiền lòng vì con không phân biệt được cộng trừ nhân chia?\nĐừng lo lắng, Cà Rốt thông minh Roscaelifer sẽ giúp con của bạn có được khả năng tính toán như Thiên Không Toán Trục!\nÁnh nắng dồi dào từ trên cao sẽ giúp con của bạn tinh mắt sáng dạ! Nhắn tin riêng để tìm hiểu chi tiết...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Ấy Dà Được Đó",
+                "content": "Vậy ra Roscaelifer sản xuất loại Cà Rốt trái cây này à..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Hoa Khai Phú Quý",
+                "content": "Mọi người ơi, là thật đấy! Thật sự có thể nâng cao năng lực tính toán của bọn trẻ!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Thượng Thiện Nhược Thủy",
+                "content": "Đã nhắn tin riêng cho bạn rồi! Bài kiểm tra toán của con nhà tôi trông cậy hết vào bạn đó!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Chó Bự Nhóp Nhép",
+                "content": "Cục Toán Trục Roscaelifer? Là sản phẩm chính thức của Thiên Không Toán Trục sao?"
+            },
+            {
+                "floor": 5,
+                "commenter": "Không Muốn Bỏ Lỡ",
+                "content": "Cà Rốt này có thể để chủ tiệm Blaze đút cho tôi ăn ở tiệm lẩu Nồi Hơi không?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Quý Cô Sunbringer Thiên Hạ Vô Song",
+                "content": "Lầu trên à, bạn đỉnh thật đó!"
+            }
+        ],
+        "player_reply": [
+            "Đây có phải là Cà Rốt bình thường không?",
+            "Thật sự có người mua thứ này sao?"
+        ]
+    },
+    "32006": {
+        "id": 32006,
+        "poster": "Vua Lỗ Hổng AAA",
+        "likes": "45",
+        "views": 3454,
+        "title": "[Bài Đăng] Có ai muốn mua chung Cà Rốt không?",
+        "text": "Trước đây được người anh em tặng một Cà Rốt độc quyền trị giá 99999 Denny, không ngờ lại có ích thật. Hơn nữa trên tuyến đường này không hề thấy bóng dáng người của HIA, có vẻ đúng là dữ liệu độc quyền thật!\nQuá đỉnh! Kiểu này sắp thành Vua Lỗ Hổng thật rồi!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Chuột Sơ Tán",
+                "content": "Cà Rốt độc quyền? Chẳng phải thứ này chỉ chính quyền thành phố hoặc HAND mới có sao?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Cơn Bão Mới Xuất Hiện",
+                "content": "Rõ lừa đảo! Làm gì có chuyện lấy được hàng tận tay chứ, nhà bạn có người thân ở Roscaelifer chắc?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Thánh Ăn Papago",
+                "content": "Nhắn tin riêng cho bạn rồi nhé người anh em! Giới thiệu chút đi nào!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Không Muốn Bỏ Lỡ",
+                "content": "Người anh em, tôi có cảm giác Cục Trị An sắp đến tìm bạn rồi."
+            },
+            {
+                "floor": 5,
+                "commenter": "Cà Phê Ấm Áp",
+                "content": "Cái này mà cũng đăng lên Inter-Knot được à? Tưởng Cục Trị An không giám sát Inter-Knot chắc?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Lẽ Nào",
+                "content": "Cục Trị An, mở cửa!"
+            }
+        ],
+        "player_reply": [
+            "Cà Rốt độc quyền? Có mờ ám...",
+            "Không lẽ thật sự có Cà Rốt bị buôn lậu ra ngoài sao..."
+        ]
+    },
+    "32007": {
+        "id": 32007,
+        "poster": "Cún Con Có Ước Mơ",
+        "likes": "220",
+        "views": 3262,
+        "title": "[Bài Đăng] Cho hỏi, tại sao hôm nay Fan Cứng hơi khác thường vậy?",
+        "text": "Chuyện là thế này, hôm nay tôi đi tham gia sự kiện offline, cuối cùng cũng được tận mắt nhìn thấy ba bé thiên thần mà tôi hằng mong nhớ, thật sự cực kỳ cực kỳ vui meo Ｏ(≧▽≦)Ｏ\nSau khi về nhà xem ảnh mà thợ chụp tại hiện trường trả, tôi mới phát hiện ra hội trưởng Fan Cứng thế mà lại ngồi ngay vị trí phía trước tôi, hôm nay tôi thật sự siêu may mắn luôn!\nChỉ có điều... trong ảnh nhìn cậu ấy... có vẻ hơi khác thường, lẽ nào là sợ tôi sao? Rốt cuộc là chuyện gì vậy, có ai biết chi tiết không? Hu hu... lo lắng quá đi...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Trở Thành Kẹp Tóc Nhỏ Của Sunna",
+                "content": "Chủ thớt, Fan Cứng còn lâu mới sợ bạn nhé! Nhưng bạn có từng nghĩ đến một khả năng là... bộ đồ này nó có hơi..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Nhát Gan Từ Nhỏ",
+                "content": "Chủ thớt, tôi xin bạn đừng \"Hu hu\" nữa, bây giờ tôi cũng đang sốc y như Fan Cứng..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Cẩm Nang Phối Đồ Thiên Thần",
+                "content": "Wow, áo ba lỗ \"men lì\" xuất hiện rồi! Hồi trước chủ thớt bảo muốn rút khỏi giới thời trang, tôi đã nói là không đồng ý rồi mà!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Fan All Thiên Thần Vọng Tưởng",
+                "content": "Hửm? Khoan đã, không ai thấy chủ thớt vạm vỡ rất đáng tin sao? Tập thể Người Mơ Mộng của chúng ta đang ngày càng lớn mạnh!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Nhìn Thấu Tất Cả",
+                "content": "Ờ, ý của lầu trên là... áo ba lỗ càng hồng, cổ vũ càng cháy?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Bot Bồi Dưỡng Soái Ca",
+                "content": "Chậc, chủ thớt người ta hỏi thật lòng, vậy mà không có ai trong phần bình luận trả lời đàng hoàng! Nếu đã vậy, thì tôi cũng không nói..."
+            },
+            {
+                "floor": 7,
+                "commenter": "Tôi Yêu Bữa Ăn Của Mình",
+                "content": "Chủ thớt chủ thớt, ủng hộ Thiên Thần Vọng Tưởng, bạn là tuyệt nhất! Chủ thớt có gu! Chủ thớt cố lên!"
+            }
+        ],
+        "player_reply": [
+            "Lúc này nên nói gì mới tốt đây...",
+            "Fan Cứng vẫn ổn, xin đừng lo lắng!"
+        ]
     }
 }

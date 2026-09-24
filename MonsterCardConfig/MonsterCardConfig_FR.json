@@ -77,6 +77,27 @@
             "card_quote": "— À l'intérieur de la Néantre, un groupe d'écumeurs de Néantres débutants se retrouve face à un Sordidus.",
             "skill_text": "En combat, Sordidus utilise ses tentacules pour effectuer des attaques à bout portant ou enfonce ses tentacules dans le sol pour effectuer des attaques par surprises à distance."
         },
+        "10036": {
+            "monster_id": 10036,
+            "monster_name": "Kulullu",
+            "card_text": "Avec son apparence grotesque et inquiétante, Kulullu trône depuis plusieurs années en tête du classement de Bouastrum dans le tableau des « Facteurs affectant la sécurité nocturne des enfants ».\nPourtant, malgré ce visage cauchemardesque, ses attaques sont étonnamment simples et lentes, comme s'il ne représentait aucune véritable menace... mais est-ce vraiment le cas ?\nLa vérité, c'est qu'une seule frappe suffit à assommer quelqu'un pendant plusieurs jours. Au fil du temps, de nombreux inspecteurs en sont venus à le désigner avec un mélange de crainte et de respect : « Le roi de la mandale ».\nKulullu comprend peut-être mieux que quiconque l'essence des arts martiaux : concentrer toute sa force dans une seule frappe, et la perfectionner.\n\n« Vous avez déjà pris une mandale grosse comme un sac de sable ? »",
+            "card_quote": "— Plainte d'un inspecteur depuis son lit d'hôpital, après avoir été projeté à plusieurs mètres de distance.",
+            "skill_text": "En combat, Kulullu utilise des attaques à distance et des impulsions après une charge. Soyez sur vos gardes et esquivez-le dès que vous le voyez arriver."
+        },
+        "10037": {
+            "monster_id": 10037,
+            "monster_name": "Métamorphosé - Engin scruteur",
+            "card_text": "Celui qui brise sa carapace dans les ténèbres renaît par la corruption, ayant renoncé à sa forme déchue.\n\nBien que l'Engin scruteur soit répertorié dans les archives de l'Association d'inspection des Néantres comme un Éthéréen ne représentant un certain niveau de menace qu'à courte distance, il est souvent la source de problèmes imprévisibles pour les inspecteurs lors de leurs expéditions en Néantres. Même les inspecteurs les plus aguerris peuvent être pris d'une panique incontrôlable lorsqu'ils sont confrontés au regard pénétrant de ses yeux tapis dans l'ombre.\nÀ l'intérieur des Néantres, la peur a tendance à intensifier le développement de la corruption éthérique, source de toutes les catastrophes.\n\n« Le seul moyen de vaincre sa peur... C'est de la regarder droit dans les yeux et de se battre. »",
+            "card_quote": "– Recueil des connaissances d'un inspecteur chevronné sur le forum « Planète des catastrophes »",
+            "skill_text": "En combat, Métamorphosé - Engin scruteur tire des rayons laser depuis son œil et attaque avec son corps sphérique."
+        },
+        "10040": {
+            "monster_id": 10040,
+            "monster_name": "Métamorphosé - Frelon",
+            "card_text": null,
+            "card_quote": null,
+            "skill_text": null
+        },
         "20000": {
             "monster_id": 20000,
             "monster_name": "Farbauti",
@@ -96,7 +117,7 @@
             "monster_name": "Gobelin",
             "card_text": "Lors des premières rencontres avec ces Éthéréens uniques en leur genre, les inspecteurs de Néantres ont d'abord cru qu'ils possédaient un certain degré d'intelligence et montraient même des signes d'apprentissage, notamment pour le maniement d'armes contendantes similaires à celles des humains. C'est pourquoi on leur donna le nom de Gobelins. Cependant, on a découvert par la suite que ce qu'on croyait être des gourdins, n'étaient en réalité que des membres déformés, et que ces créatures étaient incapables d'imiter les comportements humains.\nNéanmoins, les Gobelins restent des adversaires redoutables en raison de leur stature impressionnante et de leur force brute. En effet, un simple coup de leur membre peut s'avérer mortel.\nDès qu'un intrus pénètre sur leur territoire, ils entrent dans une rage incontrôlable et se jettent sur l'invité indésirable pour le mettre en morceaux.\n« Hein ? Il y a un Gobelin qui tape sur de la ferraille là-bas.\n– Tu ne trouves pas qu'il a le sens du rythme ? On dirait qu'il joue de la batterie...\n– Hé, arrêtez de jouer aux imbéciles, vous deux ! Ce n'est pas de la ferraille, c'est notre camion de ravitaillement ! »",
             "card_quote": "– Un intru gobelin entre par effraction dans le repère du gang",
-            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'ils infligent et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il subit un Étourdissement."
+            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'ils infligent et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il est étourdi."
         },
         "20003": {
             "monster_id": 20003,
@@ -110,7 +131,7 @@
             "monster_name": "Gobelin du métro",
             "card_text": "Le débat qui entoure les Gobelins du métro dure, et n'est pas près de s'arrêter. Certains attribuent leur apparence particulière à une technique de camouflage destinée à trompeur leurs ennemis, tandis que d'autres pensent que les débris accolés à leurs corps sont le résultat d'une fusion entre eux et les installations du métro due à la corruption.\nQuoi qu'il en soit, la seule présence de Gobelins du métro suffit à insuffler la peur chez les inspecteurs qui explore les Néantres dans la zone de l'ancien métro.\nÀ n'importe quel moment, un panneau de signalisation d'apparence ordinaire peut se mettre à trembler, et laisser place à un Éthéréen qui sort de terre pour vous foncer dessus sans hésiter.\n« Hein ? Je crois que j'ai déjà vu ce panneau il y a quelques minutes. Est-ce qu'on tourne en rond ,\n– Non... Je crois que ce panneau nous a suivis ! »",
             "card_quote": "– Le film d'horreur <i>Une perte sans fin</i>, dans lequel le personnage principal cherche à sortir d'une Néantre",
-            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'il inflige et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il subit un Étourdissement."
+            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'ils infligent et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il est étourdi."
         },
         "20005": {
             "monster_id": 20005,
@@ -139,6 +160,27 @@
             "card_text": "Tous les êtres Ionisés des Néantres ne préfèrent pas se cacher, et Pugnus affiche sa menace sur chacune de ses pointes acérées. Vêtu d'une armure, son dos et sa queue sont hérissés d'épines tranchantes, tandis que ses pinces massives lui servent non seulement d'armes, mais aussi de tambours de guerre qui martèlent le sol pour marquer son territoire. Pugnus a tendance à accumuler sa puissance dans l'ombre, mais peut bondir d'un coup, abattant tout son poids sur sa proie avec ses deux pinces écrasantes. Ses ondes de choc sont suffisamment puissantes pour déséquilibrer les combattants inexpérimentés et les débris qui volent dans tous les sens bloquent souvent toute voie de fuite. Le rythme de ses attaques fait penser qu'il se fie aux vibrations du sol pour traquer sa proie avant de se jeter sur elle dans une attaque brusque et explosive pour mettre fin au combat. Il est intéressant de noter que certains écumeurs de Néantres qui ont passé des années à affronter Pugnus ont développé une technique unique appelée « À pas de velours dans la Néantre ». « Avant, ses vibrations me déséquilibraient, mais j'ai appris à marcher sur la pointe des pieds et à me déplacer rapidement... Désormais, je remporte même des courses d'échasses lors de festivals. »",
             "card_quote": "- Issu des « Récits des pièges de la Néantre » écrits par un successeur autoproclamé de « À pas de velours dans la Néantre ».",
             "skill_text": "En combat, Ionisé - Pugnus a tendance à enchaîner des coups de marteau continus à l'aide de ses bras puissants en combinant ses attaques avec les pointes de sa tête et de sa queue. Lorsque Ionisé - Pugnus frappe le sol, il crée également une attaque dans une vaste zone."
+        },
+        "20033": {
+            "monster_id": 20033,
+            "monster_name": "Lahmu",
+            "card_text": "D'après les rapports de défense de la Patrouille aérienne, les Lahmus comptent parmi les Éthéréens indigènes les plus communs de Roscaelifer. Leurs griffes acérées et leur mobilité exceptionnelle en font de véritables casse-têtes pour les agents en patrouille.\nReprésentant un niveau de menace idéal, les Lahmus sont devenus la référence officieuse de la Patrouille aérienne en matière d'évaluation de combat. Vaincre l'un d'eux permet de prouver qu'un officier est capable de se défendre sur le terrain.\n\n« Hé, t'as entendu ? Il paraît que la commandante Sigrid peut terrasser 100 Lahmus d'une main ! »\n« Alors avec les deux mains, ça ferait 200 ! La commandante Sigrid est incroyable ! »\n« Espèce d'idiot, c'est pas comme ça que ça marche ! Si la commandante Sigrid utilisait ses deux mains... elle pourrait probablement terrasser 10 000 Lahmus ! »",
+            "card_quote": "— De nouvelles recrues enthousiastes lors d'une orientation de la Patrouille aérienne",
+            "skill_text": "En combat, les Lahmus utilisent leurs quatre immenses griffes pour attaquer en mêlée, écrasant répétitivement toute cible qui s'approche trop près."
+        },
+        "20034": {
+            "monster_id": 20034,
+            "monster_name": "Mushussu",
+            "card_text": "Éthéréen redoutable, le Mushussu est connu pour ses charges incessantes et ses attaques à distance difficiles à esquiver, ce qui en fait un ennemi redouté par les inspecteurs.\nMoitié machine de guerre, moitié serpent en colère, le Mushussu fonce à travers le champ de bataille, écrasant tout ce qui se met en travers de son chemin. Seuls ceux qui l'ont affronté peuvent vraiment comprendre à quel point il est terrifiant.\nD'après une rumeur persistante, les Mushussu s'en prennent aux civils Bangbous. Malgré les tentatives répétées de la Patrouille aérienne pour démentir cette affirmation, de nombreux Bangbous en sont toujours convaincus. Même équipés d'une armure de combat avancée, certains officiers Bangbous tremblent encore à la vue d'un Mushussu, ce qui réduit considérablement leur efficacité au combat.\n\n« Alors pourquoi les Bangbous ont-ils si peur des Mushussus ? »\n« Les serpents adorent manger des œufs, hein ? Et les Bangbous ressemblent un peu à des œufs sur pattes, non ? Un serpent sur pattes qui mange un œuf sur pattes, ça me paraît tout à fait logique ! » « En quoi c'est logique ?! »",
+            "card_quote": "— Un mot passé en douce au fond de la classe lors d'un cours sur la Néantre à l'Académie Aurélia",
+            "skill_text": "Au combat, le Mushussu canalise l'énergie éthérique dans sa gueule et ses canons d'épaule pour lancer une variété de projectiles à longue portée."
+        },
+        "20035": {
+            "monster_id": 20035,
+            "monster_name": "Métamorphosé - Bétonnière tarasque",
+            "card_text": "Celle qui brise sa carapace dans les ténèbres renaît par la corruption, ayant renoncé à sa forme déchue.\n\nD'après ses recherches, l'Association d'inspection des Néantres pense que les Bétonnières tarasques contiennent de l'éther liquéfié en quantités variables. À mesure qu'elles remuent et mélangent l'éther qu'elles contiennent, une réaction complexe se produit et dégage violemment une quantité folle d'énergie destructrice. La force qui en résulte est comparable à celle générée par l'artillerie lourde des Forces de défense.\nLes inspecteurs chevronnés savent à quel point il est crucial de ne pas attirer leur attention et de tomber sous le feu de leurs bombardements.\n\n« Quand elle s'est penchée dans ma direction, j'ai cru qu'elle allait m'offrir une sorte de cadeau de bienvenue. Mais quand j'ai vu son canon s'illuminer, j'ai compris qu'il s'agissait... d'un cadeau d'adieu. »",
+            "card_quote": "– L'entretien d'un inspecteur célèbre sur son expérience personnelle dans <i>2 Retour</i>",
+            "skill_text": "Au combat, Métamorphosé - Bétonnière tarasque attaque les ennemis proches avec ses griffes mécaniques et tire un rayon laser continu sur les cibles à distance."
         },
         "30000": {
             "monster_id": 30000,
@@ -252,12 +294,75 @@
             "card_quote": "— Un Prêtre miasmatique en plein rituel",
             "skill_text": "Pendant le combat, le Prêtre miasmatique alterne entre différentes phases qui comportent chacune des compétences spéciales. Lorsque les agents déclenchent un soutien parfait contre certaines compétences du Prêtre miasmatique, ils ne consomment pas de points de soutien. De plus, après plusieurs soutiens défensifs dans un court laps de temps, le Prêtre miasmatique entre dans un état de Vacillement spécial, pendant lequel les DGT que lui infligent les agents sont augmentés."
         },
+        "30049": {
+            "monster_id": 30049,
+            "monster_name": "Métamorphosé - Avarus",
+            "card_text": "Celui qui se défait de son enveloppe dans l'ombre, renaît de sa propre décomposition et rejette la forme déchue qu'il portait autrefois.\n\nD'après les rapports de l'Association d'inspection des Néantres, Avarus est souvent surnommé en plaisantant d'incarnation du « péché mignon », sa silhouette bedonnante lui donne l'air d'un gros tas paresseux, prêt à piquer un roupillon à tout moment.\nMais ne vous y fiez pas. Les observations montrent qu'Avarus peut se mettre en boule et foncer sur ses cibles à une vitesse incroyable.\nComment peut-il conserver cette rondeur malgré une activité aussi intense ? L'Association se creuse encore la tête.\n« Sa façon de rouler me rappelle mon hamster... un poil plus grand. »\n« Un poil, bien sûr... »",
+            "card_quote": "— Journal d'observation d'un inspecteur de Néantres, extrait d'une discussion informelle entre deux observateurs",
+            "skill_text": "En combat, Métamorphosé - Avarus utilise son corps massif pour effectuer des attaques en roulade. Déclencher un soutien défensif trois fois de suite contre ce mouvement interrompt son attaque de roulade et expose sa vulnérabilité. Après avoir subi une certaine quantité de DGT en combat, il active une Barrière corruptrice."
+        },
+        "30050": {
+            "monster_id": 30050,
+            "monster_name": "Métamorphosé - Scorpion",
+            "card_text": "Celui qui brise sa carapace dans les ténèbres renaît par la corruption, ayant renoncé à sa forme déchue.\n\nDans un royaume désolé entièrement dévoré par la Néantre, il sommeillait... jusqu'à l'arrivée de « cette puissance ».\nCette force agressive et contaminante, tel un artisan habile mais malveillant, l'a rempli d'une énergie sombre plus pure, le transformant en l'actuel « Scorpion miasmatique ».\nPeu à peu, il semblait avoir saisi le secret de « l'existence » par mimétisme. Il pouvait scinder son énergie miasmatique, créant de multiples Mimiques impossibles à distinguer de l'original.\nCes Mimiques possèdent des capacités offensives presque identiques à l'original, lançant des attaques éblouissantes sous différents angles pour dissimuler l'unique « vérité » mortelle.\nEn cas d'encerclement, n'oubliez pas que tout ce que vous voyez n'est qu'illusion. Tout ce que vous ressentez n'est qu'un piège.\n\n« Ce n'est qu'en filtrant toutes les distractions et en percevant l'unique \"vérité\" que vous pourrez trouver une lueur d'espoir dans cette danse mortelle de fantômes. »",
+            "card_quote": "— Un explorateur courageux",
+            "skill_text": "En combat, Métamorphosé - Scorpion se dissimule et attaque par l'intermédiaire de ses Mimiques. Déclencher avec succès un soutien défensif ou un contre d'esquive contre une Mimique fait tomber Métamorphosé - Scorpion à terre, le laissant en état de vacillement pendant un court instant. Lorsqu'il active la <Term:2000001></Term>, il invoque des Mimiques supplémentaires qui attaquent en même temps que lui. Il peut également cracher du venin chargé de sacs d'œufs d'Araignée explosive."
+        },
+        "30051": {
+            "monster_id": 30051,
+            "monster_name": "Doppelganger - Billy - Stellaire",
+            "card_text": "Même parmi les ennemis Ionisés, bien connus pour leurs qualités étranges et mystérieuses, les Doppelgangers Ionisés sont d'un genre totalement unique.\nCes entités peuvent recouvrir leur corps de couches particulières d'ions éthériques actifs, leur permettant de prendre l'apparence de leur cible au point qu'il est difficile de les discerner de l'original.\nCe qui les rend encore plus indiscernables des originaux, c'est qu'ils peuvent copier la force et les techniques de combat propres à leurs cibles.\nPersonne ne sait d'où ils tirent les informations pour imiter leurs victimes. Il paraîtrait qu'ils pourraient lire dans les pensées, reprenant la forme qu'avaient leurs cibles dans leurs souvenirs du moment où elles ont affronté leur adversaire le plus coriace. Puis, ils les attaquent sous cette apparence.\n\n« Ce sont des balivernes ! S'ils pouvaient vraiment lire dans mes peurs les plus profondes, ils se transformeraient en une femme féroce brandissant un cintre ! C'est bien ça, ma mère me fout les jetons ! »",
+            "card_quote": "— Inter-nœud, publication d'une plainte d'un écumeur de Néantres.",
+            "skill_text": "Au combat, Doppelganger - Billy - Stellaire attaque avec de puissantes charges à moto et des coups de pied sautés du Chevalier stellaire. Un soutien défensif bien placé peut le désarçonner. Après avoir utilisé Roues haute adhérence, il entre dans un état de renforcement et il faut deux soutiens défensifs consécutifs pour le désarçonner."
+        },
+        "30052": {
+            "monster_id": 30052,
+            "monster_name": "Revenant infernal",
+            "card_text": "Un Éthéréen ressurgi du Lac des braises ardentes.\nIl fut jadis un Boucher de l'Impasse. Lorsqu'il fut vaincu par le Suzerain Pompée, il tomba dans le Lac des braises ardentes. Mais au lieu d'être réduit en cendres, son corps fut encastré dans des cristaux formés lors de la combustion des sous-produits de l'éther.\nDans les flammes, son enveloppe externe fondit pour se reformer, ralliant à chaque fois de nouvelles couches de cristaux. Après une agonie digne des derniers cercles de l'enfer, il émergea avec un corps semblable à une armure et un insensibilité totale au feu.\nAprès une longue errance dans un monde qui semblait l'avoir oublié, la créature trouva enfin une faille spatiale au fond du lac en feu, qui lui permit d'entrer dans le Labyrinthe des dieux à l'intérieur de la Néantre Papago.\nMais cet endroit ne se révéla rien d'autre qu'un enfer différent.\nCe monstre a essuyé une défaite cuisante. Depuis lors, une force inconnue le pousse à collecter de manière obsessionnelle l'éther spécial éparpillé dans le Labyrinthe.\nToutefois, il ne sait déjà plus si ce qu'il accomplit sera sa salvation... ou un simple blasphème.\n\n« À chaque fois que ce feu de joie ambulant se pointe, la température crève le plafond. J'exige une prime de risque ! »",
+            "card_quote": "— Journal d'observation, Avant-poste de Papago.",
+            "skill_text": "En combat, le Revenant infernal assène de puissantes attaques à l'aide de son arme. Après avoir subi une certaine quantité de DGT, il entre dans l'état « Infernal ». Dans cet état, certaines de ses attaques ne peuvent être bloquées qu'en réussissant une parade en chaîne. Le Revenant infernal invoque également une pluie de feu qui inflige des DGT en continu aux agents. Brisez chaque silex pour obtenir un « Bouclier infernal » et restaurer de l'énergie. Brisez les trois silex pour mettre fin à la pluie de feu.\nDans l'Opération Bagel, Revenant infernal ne possède aucune faiblesse ou résistance."
+        },
+        "30053": {
+            "monster_id": 30053,
+            "monster_name": "Ulidim",
+            "card_text": "Un Éthéréen infâme qui rôde dans le Labyrinthe des dieux de la Néantre Papago.\nSi le paysage sonore hallucinogène est l'appât qui attire les proies dans le labyrinthe, alors Ulidim est le chien de chasse qui traque les âmes assez infortunées pour s'y être égarées.\nLe pouvoir le plus terrifiant d'Ulidim est sa capacité à surgir de n'importe quel endroit ou objet à l'intérieur de l'illusion de la Néantre, qu'il s'agisse d'un coin oublié du labyrinthe ou d'une vieille relique représentant les souvenirs les plus précieux d'une de ses victimes. Le choc de son apparition soudaine porte un coup dévastateur au corps comme à l'esprit, ce qui lui a valu le surnom de « Limier des temps jadis ». Mais, sa véritable force réside dans sa capacité à ignorer les illusions tissées par le paysage sonore hallucinogène, ce qui lui permet de se déplacer librement dans l'environnement réel de la Néantre.\nEn raison de sa nature et de son apparence terrifiantes, Ulidim est l'une des menaces les plus courantes et les plus redoutées lors des missions d'exploration dans la Néantre Papago. Parmi les Bangbous stationnés à l'avant-poste de la Néantre Papago, la simple mention de son nom inspire la terreur, et d'horribles légendes à son sujet se sont répandues de Bangbou à Bangbou.\nIl existe plusieurs Ulidims dans la Néantre. Ils patrouillent dans des zones et sur des itinéraires désignés, maintenant ainsi la stabilité du paysage sonore hallucinogène. S'ils détectent un intrus qui perturbe la constante expansion de la Néantre, ils le traquent pour l'éliminer immédiatement.\n« Dans ce labyrinthe qui a un début mais pas de fin, se faire dévorer par ce molosse terrifiant est peut-être une sorte de délivrance. »",
+            "card_quote": "— « Les Néantres pour les nuls : Mémoires de Papago »",
+            "skill_text": "En combat, Ulidim change d'armes au fil de la bataille et lance des attaques-surprises en se téléportant. Esquivez les lances qu'il projette et effectuez une défense en chaîne contre ses combos incessants pour prendre progressivement le dessus.\nDans l'Opération Bagel, Ulidim ne possède aucune faiblesse ou résistance d'attribut."
+        },
         "35001": {
             "monster_id": 35001,
             "monster_name": "Ninive",
             "card_text": "La beauté unique de l'essaim d'Éthéréens symbiotes appelé Ninive peut être trompeur et incite ceux qui le voient à baisser leur garde.\nD'après le peu de recherches disponibles, à mesure que Ninive s'étend, un puissant flot d'éther concentré circule depuis son noyau vers ses rhizomes, et leur fournit une source constante d'énergie. Certains chercheurs pensent que ce comportement est similaire à celui de la photosynthèse chez les plantes.\nAu fil de ses mouvements de balancier, des surplus d'énergie éthérique hautement active se dégage constamment de son corps. Lorsque l'accumulation d'éther actif atteint un seuil de saturation, il se transforme et révèle sa véritable forme, telle une floraison.\nL'épanouissement de cette fleur est annonciateur de mort.\n« La bonne nouvelle, c'est qu'il ne nous veut aucun mal. Il absorbe juste des nutriments pour la photosynthèse. La mauvaise nouvelle, c'est que les nutriments... c'est nous. »",
             "card_quote": "– Journal d'enquête K-411 des Forces de défense de la Néantre Zéro",
             "skill_text": "En combat, Ninive lance des attaques à vaste effet de zone, bloque ses ennemis avec des barrages de missiles et invoque des Frelons pour l'aider."
+        },
+        "40006": {
+            "monster_id": 40006,
+            "monster_name": "Girtablullu",
+            "card_text": "Un Éthéréen extrêmement dangereux, semblable à un scorpion, combat avec une lance grise et possède une partie inférieure puissante ainsi qu'un torse supérieur agile qui se combinent pour former une machine de guerre aussi dévastatrice que mobile. En creusant des « trous de ver », il traverse la Néantre Scamall à la recherche de sa prochaine victime dans le but de la faire tomber dans le nid. Contrairement aux Éthéréens transformés à partir de faune ou de machines corrompues, cette créature a été engendrée par quelque chose de bien plus terrifiant, portant une signature éthérique unique.\n\n« Il n'y a pas de mode entomophobie dans les paramètres ! »",
+            "card_quote": "— Un garde de l'escouade, accro aux jeux de combat en réalité virtuelle et terrifié par les arthropodes.",
+            "skill_text": "Au combat, Girtablullu lacère l'espace environnant, utilisant des trous de ver éthériques autogénérés pour se déplacer de manière imprévisible et lancer des attaques-surprises. Lorsque sa Barrière corruptrice est activée, il effectue une puissante attaque qui ne peut être bloquée que par deux agents conjointement. Réussir une parade en chaîne au bon moment offre un avantage tactique."
+        },
+        "40008": {
+            "monster_id": 40008,
+            "monster_name": "Girtablullu - Marasme aberrant",
+            "card_text": "Une bête sauvage qui se tient au bord de l'abîme, qui ne cache en rien son désir brûlant de dévorer la graine du malin afin de s'élever au rang de Messager choisi par l'abîme.\n\nLa larve d'Entraveur connue sous le nom de Girtablullu a tenté de dévorer le Noyau du Karma à l'intérieur de Dracaene de l'Aurore, mais son ascension a échoué. Le résultat de cette transformation ratée fut ce Marasme aberrant. Son corps sculpté par l'éther n'a pas pu supporter plus longtemps le pouvoir du Noyau du Karma, ce qui a provoqué chez lui une série de mutations incontrôlables. Sa forme grotesque se déchaîne alors avec une malice née de ses ambitions perverses et de pure avidité.\n\n« On ne peut pas dévorer tout ce qui entre dans son champ de vision, ce n'est pas bon pour la santé. »",
+            "card_quote": "— Un écologue spécialisé dans les Éthéréens, dont les récentes recherches s'intéressent à maintenir une alimentation équilibrée.",
+            "skill_text": "En combat, Girtablullu - Marasme aberrant active la Barrière corruptrice plusieurs fois et manie une multitude d'armes. Lors de la première activation, il ne peut pas subir de confusion, alors brisez la barrière pour l'étourdir le plus vite possible. Lorsqu'il active à nouveau la Barrière corruptrice, il charge continuellement pour renforcer cette dernière. Infligez-lui d'importants DGT afin d'annuler sa charge et de prendre l'avantage."
+        },
+        "40009": {
+            "monster_id": 40009,
+            "monster_name": "Isomorphe - Girtablullu",
+            "card_text": "Une unité de simulation à haut risque modélisée à partir de données en combat réel. Grâce à une reconstruction en profondeur et une révision de sa logique de combat originelle, certaines unités ont même surpassé les limites standard de leurs modèles et représentent donc une menace de niveau supérieur au combat.\n\nUn Éthéréen extrêmement dangereux, semblable à un scorpion, combat avec une lance grise et possède une partie inférieure puissante ainsi qu'un torse supérieur agile qui se combinent pour former une machine de guerre aussi dévastatrice que mobile. En creusant des « trous de ver », il traverse la Néantre Scamall à la recherche de sa prochaine victime dans le but de la faire tomber dans le nid. Contrairement aux Éthéréens transformés à partir de faune ou de machines corrompues, cette créature a été engendrée par quelque chose de bien plus terrifiant, portant une signature éthérique unique.\n\n« Il n'y a pas de mode entomophobie dans les paramètres ! »",
+            "card_quote": "— Un garde de l'escouade, accro aux jeux de combat en réalité virtuelle et terrifié par les arthropodes.",
+            "skill_text": "Pendant le combat, Girtablullu génère fréquemment des trous de ver éthériques afin de se téléporter à travers le champ de bataille et lancer des attaques surprises. Il lance exécute également des compétences diverses qui requièrent deux agents pour être contrées. En parvenant à déclencher une parade en chaîne, vous affaiblirez rapidement sa Barrière corruptrice. À certains moments de l'affrontement, Girtablullu invoque des sbires pour lancer des attaques consécutives. Parez leurs attaques pour déclencher Conversion active et prendre l'avantage au combat."
+        },
+        "40010": {
+            "monster_id": 40010,
+            "monster_name": "Kusarikku",
+            "card_text": "Une bête cuirassée née du néant. Elle s'enfonce dans l'abîme en suivant de sombres murmures. Sa force brute suffit à déchirer l'espace. Elle convoite le pouvoir de l'Entraveur et cherche à transformer son enveloppe encore immature en un réceptacle du mal absolu.\nGuidée par Youkai, la larve d'Entraveur Kusarikku tente de s'approprier le pouvoir du Noyau du Karma que renferme Lindverne de l'Aurore.\nElle est capable de manier une lame et un marteau dont la taille défie l'entendement. Ses assauts féroces suffisent à déchaîner des tourbillons éthériques, laissant dans leur sillage des failles spatiales instables. Son instinct de chasseur lui permet de se faufiler dans ce labyrinthe de failles, et son corps massif se mue alors en un spectre insaisissable qui dévore les vies.\n\n« Ce genre de pouvoir, c'est vraiment pratique : si ça tourne mal, on peut toujours prendre la fuite. Pas qu'il en ait jamais eu besoin... »",
+            "card_quote": "—— Un capitaine de patrouille étudiant la vidéo du combat image par image.",
+            "skill_text": "Pendant le combat, Kusarikku utilise son marteau météore pour ouvrir des failles spatiales. Une fois la Barrière corruptrice activée, il se déplace à travers ces failles spatiales et déclenche <Term:2000005></Term>. Contrer <Term:2000005></Term> avec un soutien défensif permet de réduire rapidement la Barrière corruptrice. Enchaînez les contres réussis pour prendre l'avantage au combat."
         },
         "100001": {
             "monster_id": 100001,
@@ -390,7 +495,7 @@
             "monster_name": "Gobelin (Énergisé)",
             "card_text": "Lors des premières rencontres avec ces Éthéréens uniques en leur genre, les inspecteurs de Néantres ont d'abord cru qu'ils possédaient un certain degré d'intelligence et montraient même des signes d'apprentissage, notamment pour le maniement d'armes contendantes similaires à celles des humains. C'est pourquoi on leur donna le nom de Gobelins. Cependant, on a découvert par la suite que ce qu'on croyait être des gourdins, n'étaient en réalité que des membres déformés, et que ces créatures étaient incapables d'imiter les comportements humains.\nNéanmoins, les Gobelins restent des adversaires redoutables en raison de leur stature impressionnante et de leur force brute. En effet, un simple coup de leur membre peut s'avérer mortel.\nDès qu'un intrus pénètre sur leur territoire, ils entrent dans une rage incontrôlable et se jettent sur l'invité indésirable pour le mettre en morceaux.\n« Hein ? Il y a un Gobelin qui tape sur de la ferraille là-bas.\n– Tu ne trouves pas qu'il a le sens du rythme ? On dirait qu'il joue de la batterie...\n– Hé, arrêtez de jouer aux imbéciles, vous deux ! Ce n'est pas de la ferraille, c'est notre camion de ravitaillement ! »",
             "card_quote": "– Un intru gobelin entre par effraction dans le repère du gang",
-            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'ils infligent et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il subit un Étourdissement."
+            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'ils infligent et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il est étourdi."
         },
         "200031": {
             "monster_id": 200031,
@@ -411,7 +516,7 @@
             "monster_name": "Gobelin du métro (Énergisé)",
             "card_text": "Le débat qui entoure les Gobelins du métro dure, et n'est pas près de s'arrêter. Certains attribuent leur apparence particulière à une technique de camouflage destinée à trompeur leurs ennemis, tandis que d'autres pensent que les débris accolés à leurs corps sont le résultat d'une fusion entre eux et les installations du métro due à la corruption.\nQuoi qu'il en soit, la seule présence de Gobelins du métro suffit à insuffler la peur chez les inspecteurs qui explore les Néantres dans la zone de l'ancien métro.\nÀ n'importe quel moment, un panneau de signalisation d'apparence ordinaire peut se mettre à trembler, et laisser place à un Éthéréen qui sort de terre pour vous foncer dessus sans hésiter.\n« Hein ? Je crois que j'ai déjà vu ce panneau il y a quelques minutes. Est-ce qu'on tourne en rond ,\n– Non... Je crois que ce panneau nous a suivis ! »",
             "card_quote": "– Le film d'horreur <i>Une perte sans fin</i>, dans lequel le personnage principal cherche à sortir d'une Néantre",
-            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'il inflige et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il subit un Étourdissement."
+            "skill_text": "En combat, le rugissement du Gobelin augmente les DGT qu'ils infligent et réduit considérablement les DGT qu'il subit. Toutefois, ces renforcements s'annulent lorsqu'il est étourdi."
         },
         "200051": {
             "monster_id": 200051,
@@ -786,6 +891,20 @@
             "card_quote": "— Dans la Néantre, quelques écumeurs de Néantres discutent des principes de fonctionnement du « Bûcheron ».",
             "skill_text": "En combat, le Bûcheron modifie constamment la forme de sa tronçonneuse pour effectuer des combos fluides, et utilise ses roues pour se déplacer rapidement. Lorsque les ennemis sont hors de portée, il tire des lames de scie pour les traquer à distance."
         },
+        "40002": {
+            "monster_id": 40002,
+            "monster_name": "Balayeur sanguinaire",
+            "card_text": "Évaluation psychologique : Irréversiblement anormal. Il avait beau baisser la tête et verser toutes les larmes de son corps, rien n'aurait pu changer le verdict écrit sur son arrêt de mort.\nPuis, vint la Néantre qui engloutit la prison. Et, dans ce chaos, il brisa ses chaînes et abandonna son nom et son identité. Debout devant cette aube rouge sang, il cria à pleins poumons : « Gloire aux Néantres ! ».\nLes Néantres ne font pas que créer des monstres, elle libère des horreurs, les déchaînent leur enlève tout besoin de se cacher. Il pensait pouvoir s'en tirer facilement, mais il se trouve que la Nouvelle-Eridu n'aime pas non plus les bouchers anonymes.\nIl vagabonda vers la couronne extérieure. Recruté comme Balayeur par diverses bandes criminelles, il finit par se faire un nom. Lorsqu'il tenait une vie entre ses mains, il savourait l'adrénaline, et s'enivrait de l'agonie lorsque le sang coulait. Alors il acceptait les contrats les plus sordides, se jetait même dans les guerres de gangs pour se délecter du goût métallique du sang.\nSes pulsions sadiques ne connaissent aucune limite. Même son activité de Balayeur ne pouvait jamais combler ce vide.\nAlors il sauta sur le contrat des TOPS sans hésiter... obtenant le privilège de « nettoyer » des êtres humains. Il ne note jamais de noms, ne garde jamais de souvenirs. Pour lui, seules les taches de sang sont réelles. Tout le reste ? C'est sans importance.\n« Quand il accepte un boulot, ce type reste muet comme une tombe, mais quand c'est l'heure de toucher, il revient toujours avec le sourire aux lèvres.\n— Ce n'est pas un sourire de travail bien fait, c'est un sourire qui dit \"j'en veux encore\". »",
+            "card_quote": "— Il y a des années, des chefs de gangs se paient la tête des petits nouveaux dans un bar de la couronne extérieure",
+            "skill_text": "En combat, le Balayeur fait preuve d'une ruse sauvage digne d'un véritable prédateur. Il utilise sa Barrière corruptrice pour bloquer les attaques tout en lançant des attaques brutales. Choisissez la bonne stratégie pour briser ses défenses rapidement et lui montrer la force de l'ingéniosité humaine."
+        },
+        "40003": {
+            "monster_id": 40003,
+            "monster_name": "Réplique - Balayeur sanguinaire",
+            "card_text": "Une machine de combat produite par la société Mont Vermoulu, modelée sur l'apparence et les données d'entraînement de Romeul.\nMême en tant que modèle produit en masse, ses capacités de combat individuelles ne sont en rien inférieures à l'original. Lorsque ces machines combattent en groupe, leur style d'attaque féroce ressemble à une meute de loups encerclant sa proie, laissant les adversaires complètement submergés.\nAprès avoir été déployées en hâte dans la couronne extérieure par TOPS, Youkai en a brièvement pris le contrôle, tentant d'utiliser cette meute de loups d'acier pour empêcher le groupe de rechercher Ramiel.\n\n« Pff, de la camelote inutile. Voyons voir où je vais trouver mon prochain jouet... »",
+            "card_quote": "— Marmonna le mécha Romeul vaincu tandis que la lumière violette dans ses yeux clignotait et s'éteignait.",
+            "skill_text": "En combat, le Balayeur hérite de la prouesse de combat de l'original, tout en bénéficiant de capacités uniques grâce à ses augmentations mécaniques. Faites preuve de prudence !"
+        },
         "100151": {
             "monster_id": 100151,
             "monster_name": "Rapineur",
@@ -835,6 +954,13 @@
             "card_quote": "– Billy s'occupant d'un truand en pleine charge dans une Néantre",
             "skill_text": "En combat, Délinquant – Truand recherché est extrêmement agressif, et utilise son jeu de jambes agile pour changer l'angle d'attaque."
         },
+        "300191": {
+            "monster_id": 300191,
+            "monster_name": "Brute déchaînée",
+            "card_text": "Les Bandits des Néantres sont constitués de personnes de tous horizons qui se sont rassemblés dans un seul but : piller les ressources éthériques des Néantres pour se remplir les poches.\nCes bandes de malfrats hétéroclites sont sans foi ni loi.\nNéanmoins, lorsque la Brute déchaînée, le mètre-étalon de la violence, fait son apparition, c'est elle qui fait la loi.\nElle porte des équipements de construction modifiés et ramasse la moindre ferraille qui traîne pour en faire des armes de fortune. Les appareils et les armes qu'elle porte ont l'air assez lourds pour écraser un bodybuilder, mais pour elle, il s'agit de poids idéals pour une bonne séance de muscu.\nFrapper, briser, écraser... autant de techniques de combat de base qui sont, lorsque assénées des mains de la Brute déchaînée. Une véritable démonstration de leur force destructrice inégalée.\nD'après les recherches de la Sécurité publique, les bandes de Bandits des Néantres menée par des Brutes déchaînées développent souvent une étrange culture de musculation intensive en pleine rue et sont bien plus soudées...\n« Quoi ? Tu trouves que les entraîneurs de la salle sont hyper forts ?\n– Hahaha, t'as oublié tes lunettes ou quoi ?\n– Tu devrais nous rejoindre. Trois semaines de muscu avec le boss et t'aurais des biceps en acier trempé ! »",
+            "card_quote": "– Quelque part à la Nouvelle-Eridu, des Bandit des Néantres tentent de rallier de nouvelles recrues.",
+            "skill_text": "En combat, Bandit des Néantres – Brute déchaînée charge son armure d'électricité pour lancer des attaques à haut niveau. Lorsque sa charge est interrompue, il subit Électrocution immédiatement, et Dysfonctionnement s'il souffre déjà d'une autre anomalie d'attribut."
+        },
         "940002": {
             "monster_id": 940002,
             "monster_name": "Bûcheron",
@@ -864,6 +990,13 @@
             "card_text": "Inconnu",
             "card_quote": "Aucun",
             "skill_text": "Infos sur les compétences du monstre - Espace réservé"
+        },
+        "10022": {
+            "monster_id": 10022,
+            "monster_name": "Exofourmi mutante",
+            "card_text": "Cette unité était à l'origine une simple caisse de stockage de provisions standard. Elle fut équipée d'un système électronique anti-vol de haute performance, capable de déjouer les voleurs même sans alimentation externe.\nUn groupe de contrebandiers parvint un jour à intercepter une livraison, avant de s'apercevoir qu'ils ne pouvaient contourner ses autorisations de sécurité. À court de solutions, ils abandonnèrent la caisse dans la Néantre. À la surprise générale, plusieurs Fourmicargos finirent par fusionner avec elle. Elles la transformèrent en nid mobile et s'y installèrent comme des bernard-l'ermite. Les écumeurs de Néantres chevronnés connaissent le secret pour l'ouvrir : inutile de pirater la serrure, il suffit d'abord de rosser les Fourmicargos qui y résident. Cet incident vient confirmer une fois de plus la célèbre observation d'un certain penseur : la destruction vient de ce qui brise de l'extérieur, tandis que le renouveau vient de ce qui brise de l'intérieur.\nDu moins, c'est certainement vrai pour cette caisse en particulier.\n\n« Attends... tu es en train de me dire que ma cargaison, et mes dennies, se sont fait la malle ?! »",
+            "card_quote": "— Un écumeur de Néantres agité",
+            "skill_text": "En combat, la timide Exofourmi mutante se cache dans des coffres au trésor. Si quelqu'un essaie de lui dérober son butin, elle... prendra ses jambes à son cou."
         },
         "10033": {
             "monster_id": 10033,
@@ -954,7 +1087,7 @@
             "monster_name": "Haytor",
             "card_text": "Un squelette décharné et sinistre, portant une « Cape » pâle et coupante, encore un chef-d'œuvre des Exaltés. Quand il s'agit des « 100 façons d'intégrer les humains dans la Néantre », leur enthousiasme pour l'expérimentation est vraiment sans égal.\nCeux qui ont rencontré des Haytors pensent que ces individus doivent être des membres haut placés des Exaltés, après tout, même en tant qu'Éthéréens, ils n'ont pas pu résister à l'envie de créer quelques laquais à commander.\n\n« Je déteste vraiment les gens comme ça ! »\n\n« Je parie qu'ils disent même à leurs fantômes... \"Tu me déçois, tu aurais pu faire mieux, quand je t'ai invoqué, j'avais de bien plus grandes attentes\" ?! »",
             "card_quote": "— Lors d'une soirée d'heures supp' typique, un officier de la FSN enragé frappe violemment en hurlant sur le cadre du Haytor.",
-            "skill_text": "En combat, Haytor utilise des fantômes pour tromper ses ennemis et lancer des attaques surprises. Après être entré dans le champ miasmatique, Haytor peut invoquer des fantômes encore plus grands pour attaquer à ses côtés. Parer les attaques des grands fantômes pendant cette période affaiblira le Bouclier miasmatique."
+            "skill_text": "En combat, Haytor utilise des fantômes pour tromper ses ennemis et lancer des attaques surprises. Après être entré dans le champ miasmatique, Haytor peut invoquer des fantômes encore plus grands pour attaquer à ses côtés. Parer les attaques des grands fantômes pendant cette période affaiblira le <Term:2000002></Term>."
         },
         "30041": {
             "monster_id": 30041,
@@ -1018,6 +1151,13 @@
             "card_text": "Les habitants de la couronne extérieure le nommaient respectueusement « Suzerain Pompée ».\nMais son âme a été corrompue par l'éther et son corps est intoxiqué par le soufre et le pétrole brut. Ce cœur qui ne battait que pour la couronne extérieure s'est changé en noyau éthérique emplit d'une puissance infinie.\nL'ancien « Seigneur de la couronne extérieure » est revenu des flammes dans une forme différente.\nLibre, majestueux... violent, fou.\nIl charge à travers cendres et flammes en saisissant tout ce qui bouge pour l'exterminer sans pitié.\nCeux qui le connaissaient ont compris, en se basant sur ses chuchotements saccadés, qu'il n'est pas animé par un désir de vengeance mesquin, mais plutôt par la volonté d'écraser tous les intrus qui osent défier les règles de la couronne extérieure.\nIl s'agit peut-être du dernier vestige de la volonté de l'ancien Suzerain Pompée.\n« Notre chef s'est transformé en \"ça\", mais... il n'en reste pas moins lui-même. »",
             "card_quote": "— Un ancien sous-fifre des Conquérants, tremblant de peur.",
             "skill_text": "En combat, les attaques de Pompée (Infâme) laissent des traces éthériques instables sur le sol. Lorsque ses adversaires en approchent, ou qu'il lance une attaque chargée, l'énergie éthérique provoque une puissante explosion. Lorsque c'est nécessaire, il lève son arme pour bloquer les coups. Lorsqu'il bloque une attaque, il lance immédiatement une riposte."
+        },
+        "300391": {
+            "monster_id": 300391,
+            "monster_name": "Haytor",
+            "card_text": "Un squelette décharné et sinistre, portant une « Cape » pâle et coupante, encore un chef-d'œuvre des Exaltés. Quand il s'agit des « 100 façons d'intégrer les humains dans la Néantre », leur enthousiasme pour l'expérimentation est vraiment sans égal.\nCeux qui ont rencontré des Haytors pensent que ces individus doivent être des membres haut placés des Exaltés, après tout, même en tant qu'Éthéréens, ils n'ont pas pu résister à l'envie de créer quelques laquais à commander.\n\n« Je déteste vraiment les gens comme ça ! »\n\n« Je parie qu'ils disent même à leurs fantômes... \"Tu me déçois, tu aurais pu faire mieux, quand je t'ai invoqué, j'avais de bien plus grandes attentes\" ?! »",
+            "card_quote": "— Lors d'une soirée d'heures supp' typique, un officier de la FSN enragé frappe violemment en hurlant sur le cadre du Haytor.",
+            "skill_text": "En combat, Haytor utilise des fantômes pour tromper ses ennemis et lancer des attaques surprises. Après être entré dans le champ miasmatique, Haytor peut invoquer des fantômes encore plus grands pour attaquer à ses côtés. Parer les attaques des grands fantômes pendant cette période affaiblira le <Term:2000002></Term>."
         },
         "930155": {
             "monster_id": 930155,
@@ -1142,12 +1282,40 @@
             "card_quote": "– Instructeur du camp d'entraînement des nouvelles recrues expliquant comment utiliser les projectiles",
             "skill_text": "En combat, le Jäger grenadier fournit des tirs de soutien lourds constants."
         },
+        "10044": {
+            "monster_id": 10044,
+            "monster_name": "Assaut spécial : Jäger grenadier",
+            "card_text": "L'unité d'« Assaut spécial » est déployée secrètement par la société Grandes Ambitions. Ses effectifs, ses entraînements et ses équipements ont été conçus sur le modèle des unités spéciales des Forces de défense. Elle est chargée d'exécuter des missions hautement confidentielles ou à haut risque, dans lesquelles les forces conventionnelles ne peuvent pas intervenir.",
+            "card_quote": null,
+            "skill_text": "Pendant le combat, Assaut spécial - Jäger grenadier privilégie un puissant soutien à distance."
+        },
+        "10045": {
+            "monster_id": 10045,
+            "monster_name": "Assaut spécial : Jäger léger",
+            "card_text": "L'unité d'« Assaut spécial » est déployée secrètement par la société Grandes Ambitions. Ses effectifs, ses entraînements et ses équipements ont été conçus sur le modèle des unités spéciales des Forces de défense. Elle est chargée d'exécuter des missions hautement confidentielles ou à haut risque, dans lesquelles les forces conventionnelles ne peuvent pas intervenir.",
+            "card_quote": null,
+            "skill_text": "Pendant le combat, Assaut spécial - Jäger léger assure un soutien en tirant en continu."
+        },
+        "10046": {
+            "monster_id": 10046,
+            "monster_name": "Assaut spécial : Jäger de frappe",
+            "card_text": "L'unité d'« Assaut spécial » est déployée secrètement par la société Grandes Ambitions. Ses effectifs, ses entraînements et ses équipements ont été conçus sur le modèle des unités spéciales des Forces de défense. Elle est chargée d'exécuter des missions hautement confidentielles ou à haut risque, dans lesquelles les forces conventionnelles ne peuvent pas intervenir.",
+            "card_quote": null,
+            "skill_text": "Pendant le combat, Assaut spécial - Jäger de frappe effectue une glissade pour se rapprocher rapidement de ses cibles ou lance de nombreux couteaux qui explosent en décalé."
+        },
+        "10047": {
+            "monster_id": 10047,
+            "monster_name": "Assaut spécial : Jäger sentinelle",
+            "card_text": "L'unité d'« Assaut spécial » est déployée secrètement par la société Grandes Ambitions. Ses effectifs, ses entraînements et ses équipements ont été conçus sur le modèle des unités spéciales des Forces de défense. Elle est chargée d'exécuter des missions hautement confidentielles ou à haut risque, dans lesquelles les forces conventionnelles ne peuvent pas intervenir.",
+            "card_quote": null,
+            "skill_text": "Pendant le combat, Assaut spécial - Jäger sentinelle utilise son bouclier pour réduire considérablement les DGT et la confusion qu'il subit, puis contre-attaque au moment opportun."
+        },
         "20007": {
             "monster_id": 20007,
             "monster_name": "Frappeur lourd",
             "card_text": "Un mécha automatique tactique des Forces de défense qui fournit une puissance de feu constante pour assister les troupes de première ligne.\nSon bouclier éthérique à inertie peut résister à la plupart des attaques légères et même aux impacts d'Éthéréens de gabarit supérieur.\nIl s'agit sans aucun doute du compagnon d'armes le plus fiable des Forces de défense.\n« Souvenez-vous, si vous êtes dans la mouise, vous n'avez qu'à vous replier derrière eux... Vous serez en sécurité, à moins qu'ils vous écrasent par mégarde. »",
             "card_quote": "– Un instructeur partage son expérience avec des recrues des Forces de défense lors d'un stage de formation",
-            "skill_text": "En combat, le Frappeur lourd déploie un bouclier. Lorsqu'il est protégé par un bouclier, il ne subit que de l'accumulation d'anomalie de feu et physique. Infligez-lui Brûlure, Assaut ou un Étourdissement pour briser son bouclier."
+            "skill_text": "En combat, le Frappeur lourd déploie un bouclier. Lorsqu'il est protégé par un bouclier, il ne subit que de l'accumulation d'anomalie de feu et physique. Infligez-lui Brûlure, Assaut ou un étourdissement pour briser son bouclier."
         },
         "20008": {
             "monster_id": 20008,
@@ -1162,6 +1330,20 @@
             "card_text": "Une unité d'infanterie lourde des Forces de défense de la Nouvelle-Eridu.\nÉquipés d'une armure lourde de combat « Rhino Gris » et d'un arsenal amélioré à l'aide de technologie éthérique, ils peuvent fournir un feu fourni sur de longue période lorsque les munitions sont suffisantes. Équipe d'assaut principale des Forces de défense, ils sont souvent déployés en première ligne lors des opérations offensives et de nettoyage.\nAprès la chute de l'ancienne capitale, de nombreux militaires ont quitté l'armée pour rejoindre des factions civiles. Depuis, ces tireurs aguerris se sont démarqués sous diverses bannières, notamment des armées privées financées par des ploutocrates, de nouvelles entreprises de sécurité, et même des bandes criminelles errantes...\n« Je suis convaincu que ces tireurs lourds sont en réalité d'adorables fillettes qui cachent leurs munitions dans l'espace libre de leurs combinaisons de combat. Autrement, comment expliquer leurs stocks inépuisables de cartouches ? »",
             "card_quote": "– Un commentaire sur la page Rêverie du forum « Planète des catastrophes »",
             "skill_text": "En combat, le Canonnier lance des attaques à distance en continu en alternant entre son canon laser et des grenades à fragmentation."
+        },
+        "20037": {
+            "monster_id": 20037,
+            "monster_name": "Assaut spécial : Rover agile",
+            "card_text": "L'unité d'« Assaut spécial » est déployée secrètement par la société Grandes Ambitions. Ses effectifs, ses entraînements et ses équipements ont été conçus sur le modèle des unités spéciales des Forces de défense. Elle est chargée d'exécuter des missions hautement confidentielles ou à haut risque, dans lesquelles les forces conventionnelles ne peuvent pas intervenir.",
+            "card_quote": null,
+            "skill_text": "Pendant le combat, Assaut spécial - Rover agile invoque deux drones pour combattre à ses côtés. Si nécessaire, les drones lancent une attaque auto-destructrice contre les ennemis."
+        },
+        "20038": {
+            "monster_id": 20038,
+            "monster_name": "Assaut spécial : Frappeur lourd",
+            "card_text": "L'unité d'« Assaut spécial » est déployée secrètement par la société Grandes Ambitions. Ses effectifs, ses entraînements et ses équipements ont été conçus sur le modèle des unités spéciales des Forces de défense. Elle est chargée d'exécuter des missions hautement confidentielles ou à haut risque, dans lesquelles les forces conventionnelles ne peuvent pas intervenir.",
+            "card_quote": null,
+            "skill_text": "Pendant le combat, Assaut spécial - Frappeur lourd déploie un bouclier. Lorsque le bouclier est actif, il n'inflige que l'accumulation d'anomalie électrique et de feu. Infligez-lui l'effet Brûlure/Électrocution ou étourdissez-le pour briser directement le bouclier."
         },
         "30002": {
             "monster_id": 30002,
@@ -1224,7 +1406,7 @@
             "monster_name": "Frappeur lourd MK II",
             "card_text": "Un mécha automatique tactique des Forces de défense qui fournit une puissance de feu constante pour assister les troupes de première ligne.\nSon bouclier éthérique à inertie peut résister à la plupart des attaques légères et même aux impacts d'Éthéréens de gabarit supérieur.\nIl s'agit sans aucun doute du compagnon d'armes le plus fiable des Forces de défense.\n« Souvenez-vous, si vous êtes dans la mouise, vous n'avez qu'à vous replier derrière eux... Vous serez en sécurité, à moins qu'ils vous écrasent par mégarde. »",
             "card_quote": "– Un instructeur partage son expérience avec des recrues des Forces de défense lors d'un stage de formation",
-            "skill_text": "En combat, le Frappeur lourd MK II déploie un bouclier. Lorsqu'il est protégé par un bouclier, il ne subit que de l'accumulation d'anomalie électrique. Infligez-lui Électrocution ou un Étourdissement pour briser son bouclier."
+            "skill_text": "En combat, le Frappeur lourd MK II déploie un bouclier. Lorsqu'il est protégé par un bouclier, il ne subit que de l'accumulation d'anomalie électrique. Infligez-lui Électrocution ou un étourdissement pour briser son bouclier."
         },
         "200072": {
             "monster_id": 200072,
@@ -1238,7 +1420,7 @@
             "monster_name": "Égide oméga",
             "card_text": "Un mécha automatique tactique des Forces de défense qui fournit une puissance de feu constante pour assister les troupes de première ligne.\nSon bouclier éthérique à inertie peut résister à la plupart des attaques légères et même aux impacts d'Éthéréens de gabarit supérieur.\nIl s'agit sans aucun doute du compagnon d'armes le plus fiable des Forces de défense.\n« Souvenez-vous, si vous êtes dans la mouise, vous n'avez qu'à vous replier derrière eux... Vous serez en sécurité, à moins qu'ils vous écrasent par mégarde. »",
             "card_quote": "— Un instructeur partage son expérience avec des recrues des Forces de défense lors d'un stage de formation.",
-            "skill_text": "En combat, l'Égide oméga devient plus agressif et déploie un Bouclier. Sous la protection du bouclier, il peut accumuler uniquement l'anomalie d'attribut électrique. Infligez-lui Électrocution ou Étourdissement pour briser immédiatement son bouclier."
+            "skill_text": "En combat, l'Égide oméga devient plus agressif et déploie un bouclier. Sous la protection du bouclier, il peut accumuler uniquement l'anomalie d'attribut électrique. Infligez-lui Électrocution ou étourdissement pour briser immédiatement son bouclier."
         },
         "200081": {
             "monster_id": 200081,
@@ -1256,6 +1438,13 @@
         },
         "200092": {
             "monster_id": 200092,
+            "monster_name": "Artificier d'assaut",
+            "card_text": "Une unité d'infanterie lourde des Forces de défense de la Nouvelle-Eridu.\nÉquipés d'une armure lourde de combat « Rhino Gris » et d'un arsenal amélioré à l'aide de technologie éthérique, ils peuvent fournir un feu fourni sur de longue période lorsque les munitions sont suffisantes. Équipe d'assaut principale des Forces de défense, ils sont souvent déployés en première ligne lors des opérations offensives et de nettoyage.\nAprès la chute de l'ancienne capitale, de nombreux militaires ont quitté l'armée pour rejoindre des factions civiles. Depuis, ces tireurs aguerris se sont démarqués sous diverses bannières, notamment des armées privées financées par des ploutocrates, de nouvelles entreprises de sécurité, et même des bandes criminelles errantes...\n« Je suis convaincu que ces tireurs lourds sont en réalité d'adorables fillettes qui cachent leurs munitions dans l'espace libre de leurs combinaisons de combat. Autrement, comment expliquer leurs stocks inépuisables de cartouches ? »",
+            "card_quote": "– Un commentaire sur la page Rêverie du forum « Planète des catastrophes »",
+            "skill_text": "En combat, l'Artificier d'assaut combine les arts martiaux avec différentes armes pour éliminer les ennemis. Lors d'une surchauffe ardente, certains mouvements sont renforcés par des flammes pour des attaques encore plus féroces. Si suffisamment de dégâts sont infligés durant cet état de surchauffe, son équipement peut être détruit, provoquant un affaiblissement de ses capacités."
+        },
+        "200093": {
+            "monster_id": 200093,
             "monster_name": "Artificier d'assaut",
             "card_text": "Une unité d'infanterie lourde des Forces de défense de la Nouvelle-Eridu.\nÉquipés d'une armure lourde de combat « Rhino Gris » et d'un arsenal amélioré à l'aide de technologie éthérique, ils peuvent fournir un feu fourni sur de longue période lorsque les munitions sont suffisantes. Équipe d'assaut principale des Forces de défense, ils sont souvent déployés en première ligne lors des opérations offensives et de nettoyage.\nAprès la chute de l'ancienne capitale, de nombreux militaires ont quitté l'armée pour rejoindre des factions civiles. Depuis, ces tireurs aguerris se sont démarqués sous diverses bannières, notamment des armées privées financées par des ploutocrates, de nouvelles entreprises de sécurité, et même des bandes criminelles errantes...\n« Je suis convaincu que ces tireurs lourds sont en réalité d'adorables fillettes qui cachent leurs munitions dans l'espace libre de leurs combinaisons de combat. Autrement, comment expliquer leurs stocks inépuisables de cartouches ? »",
             "card_quote": "– Un commentaire sur la page Rêverie du forum « Planète des catastrophes »",
@@ -1288,6 +1477,13 @@
             "card_text": "Le Typhon destructeur est un mécha lourd dépourvu de système d'attaque à distance. À la place, sa conception se concentre sur son armure cinétique éthérique.\nDirects, crochets, attaques plongeantes... Le Typhon destructeur emploie des tactiques simples, mais efficaces, pour maximiser sa puissance destructrice conférée par son armure cinétique éthérique. Les ondes de choc générées par ses coups feraient trembler même les plus gros Éthéréens.\nMême les écumeurs de Néantres les plus aguerris ne peuvent que laisser échapper un soupir désespéré, lorsqu'ils croisent la route d'un Typhon destructeur.\n« Ce grand buste robuste, ces bras imposants... C'est tout à fait mon type... Euh, je veux dire, j'aime beaucoup ce modèle. »",
             "card_quote": "– Grace jouant avec une réplique du Typhon destructeur à la boutique de gadgets",
             "skill_text": "En combat, l'Unité offensive autonome Typhon cogneur lance des combos encore plus puissants. Cependant, la majorité de ses compétences ne peut pas être contrée à l'aide de soutiens parfaits. Une fois son bras mécanique chargé, il lance une attaque chargée, qui, elle, peut être contrée à l'aide d'un soutien parfait. Si vous utilisez un soutien défensif pour contrer cette compétence plusieurs fois d'affilée, vous exposez sa faiblesse."
+        },
+        "300083": {
+            "monster_id": 300083,
+            "monster_name": "Typhon combattant",
+            "card_text": "Le Typhon combattant est un mécha lourd dépourvu de système d'attaque à distance. À la place, sa conception se concentre sur son armure cinétique éthérique.\nDirects, crochets, attaques plongeantes... Le Typhon combattant emploie des tactiques simples, mais efficaces, pour maximiser sa puissance destructrice conférée par son armure cinétique éthérique. Les ondes de choc générées par ses coups feraient trembler même les plus gros Éthéréens.\nMême les écumeurs de Néantres les plus aguerris ne peuvent que laisser échapper un soupir désespéré, lorsqu'ils croisent la route d'un Typhon combattant.\n« Ce grand buste robuste, ces bras imposants... C'est tout à fait mon type... Euh, je veux dire, j'aime beaucoup ce modèle. »",
+            "card_quote": "– Grace jouant avec une réplique du Typhon combattant à la boutique de gadgets",
+            "skill_text": "En combat, Unité tactique autonome – Typhon combattant lance de puissants combos, et bondit parfois dans les airs pour asséner une attaque plongeante."
         }
     },
     "Spéciaux": {
@@ -1298,6 +1494,13 @@
             "card_quote": "– Les Lièvres rusés poursuivant désespéremment un Bangbou doré au fin fond d'une Néantre",
             "skill_text": "En combat, le Bangbou doré peut parfois riposter."
         },
+        "10024": {
+            "monster_id": 10024,
+            "monster_name": "Patrouillebou aérien",
+            "card_text": "Un mécha de reconnaissance léger des gardiens Bangbous de la Patrouille aérienne. Conçu pour la vitesse, il excelle dans les missions de patrouille et de reconnaissance, tandis que son canon automatique monté sur le bras offre suffisamment de puissance de feu pour repousser les cibles hostiles.\nSon armure légère lui permet d'être rapide, mais offre peu de protection lors des manœuvres à grande vitesse. En conséquence, les pilotes de mécha de reconnaissance sont tous des pilotes de course chevronnés. « Seuls les Bangbous sans talent ont besoin d'airbags ! »",
+            "card_quote": "C'était pour rire. N'oubliez jamais de conduire prudemment !",
+            "skill_text": "En combat, le Patrouillebou aérien engage ses cibles avec un canon fixé sur le bras et des missiles à tête chercheuse tirés depuis son lanceur de tête."
+        },
         "10032": {
             "monster_id": 10032,
             "monster_name": "Rejeton de miasme",
@@ -1305,12 +1508,61 @@
             "card_quote": "— Kruz, contributeur spécial pour l'hebdomadaire Planète des catastrophes",
             "skill_text": "Pendant le combat, le Rejeton de miasme fait apparaître autour de vous de la poussière qui explosera après quelques secondes. Votre meilleure option est de sortir de la poussière au plus vite."
         },
+        "10035": {
+            "monster_id": 10035,
+            "monster_name": "Bangbou d'intervention spéciale",
+            "card_text": "Une unité de première ligne standard des gardiens Bangbous de la Patrouille aérienne. Ses bras mécaniques souples et sa puissante tronçonneuse la rendent particulièrement efficace contre les Éthéréens. Ils lui permettent aussi d'assurer la maintenance et la réparation des machines lourdes, ce qui lui vaut les éloges du personnel de la Patrouille aérienne et des ingénieurs du pôle énergétique.\nCette polyvalence a un prix. Sa conception à cockpit ouvert et sa portée de combat limitée exposent davantage les pilotes au danger sur le champ de bataille, si bien que seuls les Bangbous les plus courageux sont autorisés à le piloter. « Bras gauche solide, bras droit encore plus solide ! »",
+            "card_quote": "— L'instructeur des gardiens Bangbous qui présente les caractéristiques et les capacités du mécha anti-émeute.",
+            "skill_text": "En combat, le Bangbou d'intervention spéciale peut enchaîner une série d'attaques au corps à corps. Utilisez un soutien défensif avant qu'il frappe afin d'interrompre son assaut."
+        },
+        "10038": {
+            "monster_id": 10038,
+            "monster_name": "Métamorphosé - Patrouillebou aérien",
+            "card_text": "Celui qui brise sa carapace dans les ténèbres renaît par la corruption, ayant renoncé à sa forme déchue.\nUn mécha de reconnaissance léger des gardiens Bangbous de la Patrouille aérienne. La peinture bleue indique que l'unité est déployée dans la Néantre. Conçu pour la vitesse, il excelle dans les missions de patrouille et de reconnaissance, tandis que son canon automatique monté sur le bras offre suffisamment de puissance de feu pour repousser les cibles hostiles.\nSon armure légère lui permet d'être rapide, mais offre peu de protection lors des manœuvres à grande vitesse. En conséquence, les pilotes de mécha de reconnaissance sont tous des pilotes de course chevronnés. « Seuls les Bangbous sans talent ont besoin d'airbags ! »",
+            "card_quote": "C'était pour rire. N'oubliez jamais de conduire prudemment !",
+            "skill_text": "En combat, Métamorphosé -Patrouillebou aérien engage ses cibles avec un canon fixé sur le bras et des missiles à tête chercheuse tirés depuis son lanceur de tête."
+        },
+        "10039": {
+            "monster_id": 10039,
+            "monster_name": "Métamorphosé - Bangbou d'intervention spéciale",
+            "card_text": "Celui qui brise sa carapace dans les ténèbres renaît par la corruption, ayant renoncé à sa forme déchue.\nUne unité de première ligne standard des gardiens Bangbous de la Patrouille aérienne. La peinture bleue indique que l'unité est déployée dans la Néantre. Ses bras mécaniques souples et sa puissante tronçonneuse la rendent particulièrement efficace contre les Éthéréens. Ils lui permettent aussi d'assurer la maintenance et la réparation des machines lourdes, ce qui lui vaut les éloges du personnel de la Patrouille aérienne et des ingénieurs du pôle énergétique.\nCette polyvalence a un prix. Sa conception à cockpit ouvert et sa portée de combat limitée exposent davantage les pilotes au danger sur le champ de bataille, si bien que seuls les Bangbous les plus courageux sont autorisés à le piloter. « Bras gauche solide, bras droit encore plus solide ! »",
+            "card_quote": "— L'instructeur des gardiens Bangbous qui présente les caractéristiques et les capacités du mécha anti-émeute.",
+            "skill_text": "En combat, Métamorphosé - Bangbou d'intervention spéciale peut enchaîner une série d'attaques au corps à corps. Utilisez un soutien défensif avant qu'il frappe afin d'interrompre son assaut."
+        },
+        "10041": {
+            "monster_id": 10041,
+            "monster_name": "Sentinelle de la Patrouille aérienne",
+            "card_text": "Unité d'avant-garde de la Patrouille aérienne de Roscaelifer, équipée d'épées longues standard forgées en porcelliage. Ces épées possèdent une excellente conductivité éthérique. Elles peuvent ainsi entrer en résonance avec l'éther et en canaliser l'énergie dans leur tranchant pour renforcer leur puissance offensive.\n\nLes forces de patrouille de la Patrouille aérienne sont réputées pour leur discipline et leur efficacité opérationnelle.\nLes membres de la Patrouille aérienne sont issus d'horizons divers, mais la plupart des commandants de terrain, notamment ceux du grade de lieutenant ou supérieur, proviennent d'une famille noble à la riche histoire : la famille de L'Azur.\nLes titres militaires ne sont pas héréditaires. Les membres de la famille s'entraînent au combat dès leur plus jeune âge, et c'est grâce à cette tradition que la famille a acquis son statut actuel. Pour les jeunes générations des de L'Azur, rejoindre les forces de patrouille fait partie de leur rite de passage à l'âge adulte. Être un de L'Azur, c'est devoir devenir un modèle irréprochable au sein des forces de patrouille.\n« Tu ne trouves pas que cette épée est... trop lourde ?\n— Quoi !? Tu trouves aussi ? Je croyais que je n'avais pas assez de force, alors je n'osais pas le dire... »",
+            "card_quote": "—— Une remarque timide qui, contre toute attente, a trouvé un écho chez les membres de la patrouille.",
+            "skill_text": "Pendant le combat, la Sentinelle de la Patrouille aérienne se coordonne avec ses alliés pour lancer des attaques."
+        },
+        "10042": {
+            "monster_id": 10042,
+            "monster_name": "Lancier de la Patrouille aérienne",
+            "card_text": "Un Lancier de la Patrouille aérienne de Roscaelifer équipé d'une lance forgée en porcelliage et doté d'une grande mobilité en combat.\n\nLes forces de patrouille de la Patrouille aérienne sont réputées pour leur discipline et leur efficacité opérationnelle.\nLes membres de la Patrouille aérienne sont issus d'horizons divers, mais la plupart des commandants de terrain, notamment ceux du grade de lieutenant ou supérieur, proviennent d'une famille noble à la riche histoire : la famille de L'Azur.\nLes titres militaires ne sont pas héréditaires. Les membres de la famille s'entraînent au combat dès leur plus jeune âge, et c'est grâce à cette tradition que la famille a acquis son statut actuel. Pour les jeunes générations des de L'Azur, rejoindre les forces de patrouille fait partie de leur rite de passage à l'âge adulte. Être un de L'Azur, c'est devoir devenir un modèle irréprochable au sein des forces de patrouille.\n« Qu'est-ce qu'on en sait ? Dame Lindverne a sûrement une bonne raison de faire ça ! »",
+            "card_quote": "—— Les nouvelles recrues qui posent des questions reçoivent toujours la même réponse de leurs aînés.",
+            "skill_text": "Pendant le combat, les Lanciers de la Patrouille aérienne commandent les Sentinelles de la Patrouille aérienne et les Porte-bouclier de la Patrouille aérienne à proximité pour lancer des attaques coordonnées."
+        },
+        "10043": {
+            "monster_id": 10043,
+            "monster_name": "Porte-bouclier de la Patrouille aérienne",
+            "card_text": "Porte-bouclier de la Patrouille aérienne de Roscaelifer, équipé d'armes forgées par la famille Flint et chargé de maintenir l'ordre dans la ville.\n\nLes forces de patrouille de la Patrouille aérienne sont réputées pour leur discipline et leur efficacité opérationnelle.\nLes membres de la Patrouille aérienne sont issus d'horizons divers, mais la plupart des commandants de terrain, notamment ceux du grade de lieutenant ou supérieur, proviennent d'une famille noble à la riche histoire : la famille de L'Azur.\nLes titres militaires ne sont pas héréditaires. Les membres de la famille s'entraînent au combat dès leur plus jeune âge, et c'est grâce à cette tradition que la famille a acquis son statut actuel. Pour les jeunes générations des de L'Azur, rejoindre les forces de patrouille fait partie de leur rite de passage à l'âge adulte. Être un de L'Azur, c'est devoir devenir un modèle irréprochable au sein des forces de patrouille.\n« C'est ça que t'appelle te battre ? Tu crois que ces petits tours tape-à-l'œil te donneraient la moindre chance contre dame Sigrid ? Retourne t'entraîner et reviens quand tu seras vraiment prêt. »",
+            "card_quote": "—— Un instructeur à la retraite qui réprimande les recrues sur le terrain d'entraînement.",
+            "skill_text": "Pendant le combat, les Porte-bouclier de la Patrouille aérienne se coordonnent avec leurs alliés pour lancer des attaques."
+        },
         "19999": {
             "monster_id": 19999,
             "monster_name": "Carte d'ennemi aléatoire",
             "card_text": null,
             "card_quote": null,
             "skill_text": null
+        },
+        "20019": {
+            "monster_id": 20019,
+            "monster_name": "Gardebou municipal",
+            "card_text": "Une unité de combat d'élite déployée par la Patrouille aérienne de Roscaelifer. Initialement chargée de protéger des infrastructures critiques, elle a perdu tout contrôle sous les effets cumulés d'une singularité de fuite et de l'activité de la Néantre. Elle sème désormais le chaos dans les niveaux inférieurs de l'île flottante et dans les Néantres environnantes.\nLe Gardebou municipal constitue l'épine dorsale des gardes Bangbous de Roscaelifer. Il assure des missions d'assaut, de défense aérienne et de sécurité des installations. Pour mener à bien ces missions, il est équipé d'un armement air-sol lourd.\nBien que l'exosquelette mécha ait été compromis par la corruption éthérique, le pilote Bangbou à l'intérieur reste totalement opérationnel, en veille, attendant l'occasion de se libérer.\n\n« Ehn-ne, ehn-ne-ne ! (Je voulais devenir un Gardebou ! La cheffe Norma était tellement contente qu'elle m'a donné mes batteries d'éther préférées !) »",
+            "card_quote": "— Une unité de réserve composée de Bangbous en formation. Premier choix : l'unité de méchas de la Patrouille aérienne.",
+            "skill_text": "En combat, le Gardebou municipal alterne entre des combos à courte portée et des attaques à distance. Il peut également lancer des attaques chargées. Utiliser un soutien défensif au bon moment permet de contrer son offensive."
         },
         "20028": {
             "monster_id": 20028,
@@ -1332,6 +1584,13 @@
             "card_text": "Une unité de sécurité produite en masse par l'entreprise de sécurité Typhée, modifiée à partir des méchas de combat de soutien de la Sécurité publique. Par rapport aux méchas de combat de soutien, certaines capacités de combat ont été réduites, s'appuyant principalement sur son large bouclier pour maîtriser les groupes à faible menace comme les émeutiers, maintenir l'ordre et guider les foules lors d'événements importants et d'occasions spéciales.\n\nD'après certains rapports, des unités ont été achetées et modifiées par des opérateurs illégaux pour créer l'Unité de soutien illégale - « Balayeur enragé ». Certains sont même allés jusqu'à poster des avis sur le site officiel de l'entreprise en disant : « Cette qualité est pire que celle des méchas de soutien mis au rebut que j'ai ramassés en Néantre ! » et n'accorde qu'une étoile au produit.\n\n« Ces modifications illégales n'ont rien à voir avec notre société de sécurité et sont des modifications privées effectuées par les utilisateurs. Nous lutterons jusqu'au bout contre ces avis négatifs... Je veux dire, ces activités illégales... »",
             "card_quote": "— Porte-parole de l'entreprise de sécurité Typhée",
             "skill_text": "En combat, Unité de sécurité tactique - Patrouilleur moyen lance une attaque tournoyante à l'aide de ses longs bras. Lancez un soutien défensif avant son attaque pour l'empêcher d'exécuter sa compétence."
+        },
+        "20036": {
+            "monster_id": 20036,
+            "monster_name": "Métamorphosé - Gardebou municipal",
+            "card_text": "Celui qui brise sa carapace dans les ténèbres renaît par la corruption, ayant renoncé à sa forme déchue.\nUne unité de combat d'élite déployée par la Patrouille aérienne de Roscaelifer. La peinture bleue indique que l'unité est déployée dans la Néantre. Initialement chargée de protéger des infrastructures critiques, elle a perdu tout contrôle sous les effets cumulés d'une singularité de fuite et de l'activité de la Néantre. Elle sème désormais le chaos dans les niveaux inférieurs de l'Île céleste et dans les Néantres environnantes.\nLe Gardebou municipal constitue l'épine dorsale des gardes Bangbous de Roscaelifer. Il assure des missions d'assaut, de défense aérienne et de sécurité des installations. Pour mener à bien ces missions, il est équipé d'un armement air-sol lourd.\nBien que l'exosquelette mécha ait été compromis par la corruption éthérique, le pilote Bangbou à l'intérieur reste totalement opérationnel, en veille, attendant l'occasion de se libérer.\n\n« Ehn-ne, ehn-ne-ne ! (Je voulais devenir un Gardebou ! La cheffe Norma était tellement contente qu'elle m'a donné mes batteries d'éther préférées !) »",
+            "card_quote": "— Une unité de réserve composée de Bangbous en formation. Premier choix : l'unité de méchas de la Patrouille aérienne.",
+            "skill_text": "En combat, Métamorphosé - Gardebou municipal alterne entre des combos à courte portée et des attaques à distance. Il peut également lancer des attaques chargées. Utiliser un soutien défensif au bon moment permet de contrer son offensive."
         },
         "29999": {
             "monster_id": 29999,
@@ -1452,12 +1711,47 @@
             "card_quote": "- Rapporté par un représentant du service client incapable de résister à une bonne conversation pendant un appel professionnel.",
             "skill_text": "En combat, Sacrifice - Gardien des Commandements utilise des ailes pour lancer des attaques de suivi. Lorsque vous réussissez un soutien défensif contre certaines compétences du Gardien, vous pouvez interrompre ses attaques. De plus, le Gardien des Commandements concentre son énergie pour déclencher des attaques à distance, certaines de ces compétences à distance créant une flaque de miasme au sol. Des missiles à tête chercheuse invoqués depuis la flaque de miasme vous prennent pour cible. Profitez du bref moment où les missiles changent de direction pour déclencher une esquive parfaite et effectuer un contre d'esquive."
         },
+        "30046": {
+            "monster_id": 30046,
+            "monster_name": "Le Décisionnaire - Oiseau de terreur",
+            "card_text": "Modifié à partir de l'Unité de soutien autonome militaire « Oiseau de terreur », le « mécha anti-Chasseur du néant » est une arme hautement classifiée développée minutieusement par la société Mont Vermoulu.\nSon identifiant militaire original a depuis longtemps été effacé, comme s'il n'avait jamais été destiné à laisser la moindre trace depuis le début.\nPrétendument capable de contrer des combattants de rang Chasseur du néant, le mécha est encore au stade de prototype, et ses capacités de combat réelles sont loin d'être à la hauteur de son nom terrifiant. Cependant, tant la puissance de ses munitions que les spécifications de son armure dépassent les seuils militaires conventionnels. Sans aucun doute, ce colosse d'acier possède une efficacité meurtrière sans égale, témoignage des efforts acharnés que les TOPS ont déployés pour briser le contrôle militaire de longue date de l'administration de la ville.\n« Le mécha anti-Chasseur du néant... Un adversaire à ma hauteur, enfin. Mais désolé ! Comme toujours, le Chevalier de passage a une fois de plus sauvé la Nouvelle-Eridu. »\n« Billy, dépêche-toi ! On s'en va ! »\n« Déjà ?! Attendez ! J'ai encore quelques répliques... Bon, tant pis, ne partez pas sans moi ! »",
+            "card_quote": "— Journal d'un certain chevalier dont les monologues autocentrés ont été interrompus",
+            "skill_text": "En combat, le Décisionnaire - Oiseau de terreur se repose sur ses pattes mécaniques agiles et puissantes pour attaquer au corps à corps tout en déclenchant un déluge d'armes à distance pour supprimer ses ennemis.\nUtilisez des soutiens défensifs pour renvoyer ses bombes, ce qui paralysera temporairement le Décisionnaire - Oiseau de terreur. De plus, le Décisionnaire - Oiseau de terreur activera sa Barrière corruptrice à des moments spécifiques pour repousser les attaques, durant lesquels il se concentre sur les attaques au corps à corps et certaines de ses actions infligent en outre de puissants DGT électriques."
+        },
+        "30047": {
+            "monster_id": 30047,
+            "monster_name": "Promesse éclatante - Billy",
+            "card_text": "Un ami fiable, un combattant aguerri et le mentor pionnier dans l'apprentissage du combat.\nRegarde ! Le badge de la galaxie brillante résonne !\nÉcoute ! Un tempo puissant retentit !\nLes moteurs vrombissent, les tirs étincellent, et l'échauffement est enfin terminé. Le Chevalier clame dans son enceinte et rejoint le champ de bataille. Tu es prêt{F#e}, mon ami{F#e} ? C'est l'heure du spectacle !\n« Je n'en attendais pas moins de ta part ! Il est temps de la jouer sérieux ! » « C'est pas vrai, c'est moi qui vais affronter le champion ? Vraiment ? »",
+            "card_quote": "— Pas au niveau et dépassé, un affrontement épique !",
+            "skill_text": "Au combat, Promesse éclatante - Billy attaque avec de puissantes charges à moto et des coups de pied sautés du Chevalier stellaire. Un soutien défensif bien placé peut le désarçonner. Après avoir utilisé Roues haute adhérence, il entre dans un état de renforcement et il faut deux soutiens défensifs consécutifs pour le désarçonner."
+        },
+        "30048": {
+            "monster_id": 30048,
+            "monster_name": "Sentinelle de l'espace aérien",
+            "card_text": "Une unité spéciale de combat lourd déployée par la Patrouille aérienne de Roscaelifer. Ce bijou de technologie militaire est stationné dans les installations du module d'énergie aux niveaux inférieurs de l'île flottante.\nEn mission de patrouille, elle reste en configuration de tourelle fixe, offrant un appui-feu important et tonitruant aux forces au sol. Lorsque sa base stabilisée se transforme en châssis quadrupède, elle devient un mécha de combat lourd hautement mobile, capable de dominer le champ de bataille.\nElle constitue une ligne défensive fiable contre les incursions Éthéréennes causées par la singularité de fuite. Cependant, si elle est affectée par la corruption éthérique et perd le contrôle, elle devient une menace sévère pour le pôle énergétique.\n\n« Si un ennemi ose envahir, je me déploierai en mode mécha ! »",
+            "card_quote": "— Un pilote novice, espérant secrètement que des méchas ennemis et des vaisseaux de guerre apparaissent dans le ciel.",
+            "skill_text": "La Sentinelle de l'espace aérien expose son noyau lors de certaines attaques ou lorsqu'un agent esquive avec succès certains coups. Attaquer le noyau exposé inflige des dégâts supplémentaires et déclenche l'état Brisé."
+        },
+        "30054": {
+            "monster_id": 30054,
+            "monster_name": "Arès",
+            "card_text": "Unité de combat hors normes déployée par la société Grandes Ambitions.\nEn appliquant le principe de tirer le plus possible de toutes les ressources disponibles, les opérateurs de méchas ont récupérer de grandes quantités de porcelliage venant du Récif caché pour améliorer les matériaux structurels du Conquérant.\nEn raison du manque de savoir-faire dans la manipulation du poreclliage, le matériau n'a pas été intégré dans la matrice principale du mécha de manière optimale. Cependant, grâce à son exceptionnelle rigidité et sa force structurelle, le porcelliage a tout de même grandement renforcé les défenses et la durabilité de l'unité.\n\n« Euh, le porcelliage, c'est pas genre hyper rare ? On ne va pas l'utiliser comme de banales plaques de métal, si ?\n— Oh, ça va ! Dis, il a pas trop la classe le nouveau mécha ? »",
+            "card_quote": "— Une unité de Grandes Ambitions chargée de transporter les nouvelles machines avec ce qui semble être un amateur de films à effets spéciaux dans les rangs.",
+            "skill_text": "Lorsque le Conquérant entre dans l'état camouflage optique, il active une Barrière corruptrice et devient immunisé aux DGT durant cette période. Esquivez ses attaques et contre-attaquez pour déclencher Brisé, ce qui permet de réduire considérablement la Barrière corruptrice et d'infliger de la confusion. Attention néanmoins aux feintes du Conquérant."
+        },
+        "30055": {
+            "monster_id": 30055,
+            "monster_name": "Conquérant",
+            "card_text": "Station de transfert de porcelliage du Récif caché. La société Grandes Ambitions l'a occupée illégalement pour en faire un arsenal secret. Les méchas de modèle Conquérants en constituent l'unité de combat principale. Dotés d'une excellente mobilité et d'une puissance destructrice, ils marquent une étape importante dans la militarisation de la technologie éthérique civile des TOPS.\nLes Conquérants disposent d'une certaine capacité de combat autonome. Cependant, il faut encore des pilotes expérimentés pour exploiter pleinement leur potentiel dans les situations de combat complexes.\n\n« Deviens la lumière... Deviens la lumière... Deviens la lumière...\n— ... Il faut réciter des incantations pour piloter un mécha, maintenant ? »",
+            "card_quote": "—— Un chercheur travaillant sur les unités tactiques qui n'a pu s'empêcher de questionner le pilote recruté à prix d'or.",
+            "skill_text": "Lorsque le Conquérant entre dans l'état camouflage optique, il active une Barrière corruptrice et devient immunisé aux DGT durant cette période. Esquivez ses attaques et contre-attaquez pour déclencher Brisé, ce qui permet de réduire considérablement la Barrière corruptrice et d'infliger de la confusion. Attention néanmoins aux feintes du Conquérant."
+        },
         "40000": {
             "monster_id": 40000,
             "monster_name": "Cauchemar originel - « Le Créateur »",
             "card_text": "Pour les humains qui luttent dans la longue nuit noire, la vie n'est qu'une torture sans fin.\nLe bien et le mal, l'amour et la haine, l'espoir et le désespoir... ces concepts éternellement opposés sont comme des chaînes qui enserrent l'âme, forçant l'humanité à se déchirer dans des cycles sans fin, sans jamais trouver la paix.\nPourtant, avant que tous les concepts ne naissent, avant que toutes les oppositions ne se forment, il existait un « Unique » primordial.\nIl est le commencement de toutes choses et la fin de toutes choses. Il ne porte ni bien ni mal, car Il est le bien et le mal même. Il ne connaît ni joie ni chagrin, car Il incarne chaque émotion.\nIls effaceront les frontières entre « toi » et « moi », laissant toute conscience indépendante refluer dans le grand courant de l'« Unité ».\nDans Son monde, sans individus, il n'y a pas de désir égoïste. Sans conflit, il n'y a pas de souffrance. Sans choix, il ne peut y avoir d'erreurs. Toutes les âmes se libéreront de leurs chaînes, retournant à la paix primordiale, absolument égale et éternelle.\nIl n'a pas de forme fixe, car Il est la forme de toutes choses. Il n'a pas de voix fixe, car Il est la résonance de l'univers.\nIl est la tempête, et aussi le calme. La fin, et aussi la renaissance.\n« Abandonnez vos luttes futiles, enfants égarés. »\n« Votre souffrance s'arrête ici. »\n« Retournez dans Son étreinte... »",
             "card_quote": "— Création du Créateur",
-            "skill_text": "Le Cauchemar originel peut entrer ou sortir librement d'un champ miasmatique. Même en dehors d'un champ miasmatique, le Bouclier miasmatique continue de le protéger contre l'Étourdissement. Il ne peut être étourdi que lorsque le Bouclier miasmatique est brisé. Lorsque le Cauchemar primordial sort de l'état étourdi, la protection du Bouclier miasmatique est restaurée.\n\nAu combat, le Cauchemar primordial utilise des compétences de contrôle. Réagir parfaitement à chaque attaque peut apporter un avantage au combat."
+            "skill_text": "Le Cauchemar originel peut entrer ou sortir librement d'un champ miasmatique. Même en dehors d'un champ miasmatique, le Bouclier miasmatique continue de le protéger contre l'étourdissement. Il ne peut être étourdi que lorsque le Bouclier miasmatique est brisé. Lorsque le Cauchemar originel sort de l'état étourdi, la protection du Bouclier miasmatique est restaurée.\n\nAu combat, le Cauchemar originel utilise des compétences de contrôle. Réagir parfaitement à chaque attaque peut apporter un avantage au combat."
         },
         "40001": {
             "monster_id": 40001,
@@ -1465,6 +1759,34 @@
             "card_text": "La Nouvelle-Eridu n'hésite jamais à mettre en lumière les étoiles montantes, et ne cesse de tirer profit des légendes éphémères. Dans le plan éblouissant du département de divertissement des TOPS, la parfaite étoile montante est toujours décrite ainsi : une chanteuse d'une précision sans faille, au talent maîtrisé, et capable de porter n'importe quelle vision artistique, définissant ainsi le standard d'idole d'une ère nouvelle.\nEt Vesper, modèle « V-DTX », se trouve parmi les principaux sujets sous observation.\nElle fut pourvue du module vocal le plus avancé, du système de simulation émotionnelle le plus sophistiqué, et... d'un noyau cristallin gravé d'un « amour pour la scène ». À chaque rappel et dans chaque pause entre ses paroles, elle le ressentait encore et encore : son propre cœur, pur comme du cristal.\nEt pourtant, elle succomba à une obsession : peu importe ce qu'elle donnait d'elle-même, elle et sa voix n'étaient que des instruments sur une scène, de simples chiffres dans le registre d'un producteur.\nMême les performances les plus parfaites et les applaudissements les plus chaleureux n'étaient que des notes de bas de page dans l'histoire de quelqu'un d'autre, jamais le feu qui brûlait vraiment en elle.\nSa voix se mit à présenter de légères distorsions, son cœur n'était plus aussi pur, et elle sombra dans un vide pitoyable, fracturé. La scène qu'elle chérissait autrefois par-dessus tout devint une cage magnifique, mais impitoyable.\n« La scène est vraiment superbe, n'est-ce pas ? Même si vous ne souhaitez entendre que les échos que vous avez conçus... »\n« Ça ne fait rien. Je chanterai pour vous. »\n« À ma manière, je mettrai fin à cette mascarade. »",
             "card_quote": "— Une chanteuse qui marmonne seule juste avant de monter sur scène.",
             "skill_text": "Les compétences de Soliste dissonante modifient l'environnement de la scène et changent son style de combat. En s'adaptant à son rythme musical, vous pouvez habilement contrer ses compétences de contrôle. Contrer avec succès une compétence de contrôle et infliger un Contre-parfait, ou parer le coup final de certaines compétences, infligera un effet Brisé à Soliste dissonante, créant une ouverture permettant aux agents d'infliger des dégâts."
+        },
+        "40004": {
+            "monster_id": 40004,
+            "monster_name": "Phaéthon du Zénith ardent",
+            "card_text": "La lumière descend avant l'agonie.\nL'éther incontrôlable jaillit comme une couronne solaire. La silhouette de ce qui fut autrefois humain brûle, se désintègre et se refaçonne en une aberration ressemblant à un Éthéréen. Des lentilles cristallines tremblent au fond de sa vision, déversant un éclat excessif : trop brillant, trop proche, comme si quelqu'un avait enchâssé le soleil ardent dans ses orbites.\nLa conscience est consumée par les flammes.\nLe coup tombe comme un réflexe, comme une habitude dépourvue même de la notion d'objectif. Il n'y a qu'un vide étouffant et familier, comme si, il y a longtemps, il avait lui aussi perdu sa voix et son poids, en observant comment tout succombait entre la lumière et la chaleur. Ces fragments enfouis remontent le long des flammes résiduelles : l'éclat froid de la table de laboratoire, la force soudaine incontrôlable, les visages vidés de toute vie... Les souvenirs sont d'une vivacité écœurante, et laissent des marques de brûlure indélébiles dans l'esprit.\n... Qui est-ce ?\nCette voix transperce le rugissement du sang dans ses oreilles pour lui rappeler un instant un nom effacé et accorder à sa conscience un répit momentané. Avant que sa raison ne soit complètement incinérée, un choix doit être fait : « Ne provoque plus jamais de malheur. Va-t'en... Va-t'en... Va-t'en... »\n... Où ? Avec qui ? Pour faire quoi ?\n...\n... Oh, je crois bien qu'on a vraiment fait une telle promesse...\n... « On attrapera le \"soleil\". »\n\n« Et dire que ton péché originel me conduirait vers de nouveaux sommets plus d'une décennie plus tard... Quelle ironie, toi, héritage d'Hélios. »",
+            "card_quote": "— Un vieil homme tenant le Sceptre de plomb qui passe en revue les rapports confidentiels du concours.",
+            "skill_text": null
+        },
+        "40005": {
+            "monster_id": 40005,
+            "monster_name": "Phaéthon du Zénith ardent",
+            "card_text": "La lumière descend avant l'agonie.\nL'éther incontrôlable jaillit comme une couronne solaire. La silhouette de ce qui fut autrefois humain brûle, se désintègre et se refaçonne en une aberration ressemblant à un Éthéréen. Des lentilles cristallines tremblent au fond de sa vision, déversant un éclat excessif : trop brillant, trop proche, comme si quelqu'un avait enchâssé le soleil ardent dans ses orbites.\nLa conscience est consumée par les flammes.\nLe coup tombe comme un réflexe, comme une habitude dépourvue même de la notion d'objectif. Il n'y a qu'un vide étouffant et familier, comme si, il y a longtemps, il avait lui aussi perdu sa voix et son poids, en observant comment tout succombait entre la lumière et la chaleur. Ces fragments enfouis remontent le long des flammes résiduelles : l'éclat froid de la table de laboratoire, la force soudaine incontrôlable, les visages vidés de toute vie... Les souvenirs sont d'une vivacité écœurante, et laissent des marques de brûlure indélébiles dans l'esprit.\n... Qui est-ce ?\nCette voix transperce le rugissement du sang dans ses oreilles pour lui rappeler un instant un nom effacé et accorder à sa conscience un répit momentané. Avant que sa raison ne soit complètement incinérée, un choix doit être fait : « Ne provoque plus jamais de malheur. Va-t'en... Va-t'en... Va-t'en... »\n... Où ? Avec qui ? Pour faire quoi ?\n...\n... Oh, je crois bien qu'on a vraiment fait une telle promesse...\n... « On attrapera le \"soleil\". »\n\n« Et dire que ton péché originel me conduirait vers de nouveaux sommets plus d'une décennie plus tard... Quelle ironie, toi, héritage d'Hélios. »",
+            "card_quote": "— Un vieil homme tenant le Sceptre de plomb qui passe en revue les rapports confidentiels du concours.",
+            "skill_text": "En combat, Zénith ardent peut utiliser sa maîtrise extraordinaire de l'éther pour se reconstruire plusieurs fois, simulant les schémas d'attaque et les attributs correspondants de diverses irrégularités éthériques. Zénith ardent activera Foehn brûlant à des moments spécifiques pour renforcer ses attaques, générant des tornades sur le champ de bataille pour combattre à ses côtés. Pendant ce temps, Zénith ardent entrera dans l'état Arasement, infligez-lui une autre anomalie d'attribut à ce moment-là pour lui infliger Vortex et le briser."
+        },
+        "40007": {
+            "monster_id": 40007,
+            "monster_name": "Isomorphe - Cauchemar originel",
+            "card_text": "Des unités de simulation à haut risque basées sur des données de combat réel. En reconstituant en profondeur et en surapprenant la logique de combat de leurs prototypes, certains individus ont dépassé les limites de performance standard, représentant une menace de combat exceptionnellement élevée.",
+            "card_quote": null,
+            "skill_text": "Isomorphe - Cauchemar originel est renforcé. Toutes ses capacités au combat sont améliorées. Isomorphe - Cauchemar originel peut entrer ou sortir librement d'un champ miasmatique. Même en dehors d'un champ miasmatique, le Bouclier miasmatique continue de le protéger contre l'étourdissement. Il ne peut être étourdi que lorsque le Bouclier miasmatique est brisé. Lorsque Isomorphe - Cauchemar originel sort de l'état étourdi, la protection du Bouclier miasmatique est restaurée.\n\nAu combat, Isomorphe - Cauchemar originel utilise des compétences de contrôle. Réagir parfaitement à chaque attaque peut apporter un avantage au combat."
+        },
+        "40011": {
+            "monster_id": 40011,
+            "monster_name": "Isomorphe : Zénith ardent",
+            "card_text": "Unité de simulation à haute risque basée sur des données de combat. Résultat d'une profonde reconstruction et d'une synchronisation complète avec la logique de combat du prototype. Certains dépassent les limites de performance établies et représentent une menace extrême sur le terrain.\n\nLa lumière descend avant l'agonie.\nL'éther incontrôlable jaillit comme une couronne solaire. La silhouette de ce qui fut autrefois humain brûle, se désintègre et se refaçonne en une aberration ressemblant à un Éthéréen. Des lentilles cristallines tremblent au fond de sa vision, déversant un éclat excessif : trop brillant, trop proche, comme si quelqu'un avait enchâssé le soleil ardent dans ses orbites.\nLa conscience est consumée par les flammes.\nLe coup tombe comme un réflexe, comme une habitude dépourvue même de la notion d'objectif. Il n'y a qu'un vide étouffant et familier, comme si, il y a longtemps, il avait lui aussi perdu sa voix et son poids, en observant comment tout succombait entre la lumière et la chaleur. Ces fragments enfouis remontent le long des flammes résiduelles : l'éclat froid de la table de laboratoire, la force soudaine incontrôlable, les visages vidés de toute vie... Les souvenirs sont d'une vivacité écœurante, et laissent des marques de brûlure indélébiles dans l'esprit.\n... Qui est-ce ?\nCette voix transperce le rugissement du sang dans ses oreilles pour lui rappeler un instant un nom effacé et accorder à sa conscience un répit momentané. Avant que sa raison ne soit complètement incinérée, un choix doit être fait : « Ne provoque plus jamais de malheur. Va-t'en... Va-t'en... Va-t'en... »\n... Où ? Avec qui ? Pour faire quoi ?\n...\n... Oh, je crois bien qu'on a vraiment fait une telle promesse...\n... « On attrapera le \"soleil\". »\n\n« Et dire que ton péché originel me conduirait vers de nouveaux sommets plus d'une décennie plus tard... Quelle ironie, toi, héritage d'Hélios. »",
+            "card_quote": "— Un vieil homme tenant le Sceptre de plomb qui passe en revue les rapports confidentiels du concours.",
+            "skill_text": "Pendant le combat, Zénith ardent peut se transformer à plusieurs reprises grâce à sa maîtrise exceptionnelle de l'éther, reproduisant diverses formes d'attaque d'aberration éthérique et leurs attributs correspondants. Zénith ardent entre dans l'état Voile brumeux à des moments précis et active une Barrière corruptrice par la même occasion. Durant l'état Voile brumeux, effectuer une défense en chaîne contre certaines attaques de Zénith ardent permet de déclencher Brisé et de réduire rapidement la Barrière corruptrice. De plus, des courants ascendants apparaissent fréquemment sur le terrain. Lorsque l'un de ces courants vous touche, il restaure une partie de la Barrière corruptrice de Zénith ardent."
         },
         "100132": {
             "monster_id": 100132,

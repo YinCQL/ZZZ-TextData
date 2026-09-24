@@ -1,6 +1,6 @@
 {
     "1001": {
-        "id": "1001",
+        "id": 1001,
         "poster": "lalala",
         "likes": "34",
         "views": 5881,
@@ -32,7 +32,7 @@
         "player_reply": []
     },
     "1002": {
-        "id": "1002",
+        "id": 1002,
         "poster": "Rumtreiber-Legende",
         "likes": "105",
         "views": 3864,
@@ -64,7 +64,7 @@
         "player_reply": []
     },
     "1003": {
-        "id": "1003",
+        "id": 1003,
         "poster": "Indigo",
         "likes": "364",
         "views": 7989,
@@ -96,12 +96,12 @@
         "player_reply": []
     },
     "1004": {
-        "id": "1004",
+        "id": 1004,
         "poster": "Spiralwindspiel",
         "likes": "512",
         "views": 4124,
         "title": "[Diskussion] Was ist das beste Lebensmittel, das man in Höhlen mitnehmen kann?",
-        "text": "Ich muss bald einen anspruchsvollen Auftrag auszuführen, und ich vermute, dass er viel Zeit in Anspruch nehmen wird, also bereite ich Essen für die Mitnahme in die Höhle vor. Ich habe Anti-Korrosions-Nährstoffpakete von St. Leen vorbereitet. Die Breinahrung ist von der Konsistenz her zwar etwas unangenehm, aber glücklicherweise schmeckt sie nach Pfirsich, das gefällt mir.\nAnsonsten gibt es nur Fertignahrung, Kekse und Süßigkeiten. Habt ihr irgendwelche Vorschläge?",
+        "text": "Ich muss bald einen anspruchsvollen Auftrag auszuführen, und ich vermute, dass er viel Zeit in Anspruch nehmen wird, also bereite ich Essen für die Mitnahme in die Höhle vor. Ich habe Anti-Korrosions-Nährstoffpakete von St. Leen vorbereitet. Die Breinahrung ist von der Konsistenz her zwar etwas unangenehm, aber glücklicherweise schmeckt sie nach Pfirsich – das gefällt mir.\nAnsonsten gibt es nur Fertignahrung, Kekse und Süßigkeiten. Habt ihr irgendwelche Vorschläge?",
         "script": null,
         "comments": [
             {
@@ -133,7 +133,7 @@
         "player_reply": []
     },
     "1005": {
-        "id": "1005",
+        "id": 1005,
         "poster": "Meine_Katze_ist_die_süßeste_der_Welt",
         "likes": "312",
         "views": 9631,
@@ -165,7 +165,7 @@
         "player_reply": []
     },
     "1007": {
-        "id": "1007",
+        "id": 1007,
         "poster": "CHAR",
         "likes": "6",
         "views": 7812,
@@ -200,7 +200,7 @@
         ]
     },
     "1008": {
-        "id": "1008",
+        "id": 1008,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 8267,
@@ -237,7 +237,7 @@
         "player_reply": []
     },
     "1009": {
-        "id": "1009",
+        "id": 1009,
         "poster": "SchmetterlingJack",
         "likes": "62",
         "views": 12563,
@@ -269,7 +269,7 @@
         "player_reply": []
     },
     "1010": {
-        "id": "1010",
+        "id": 1010,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 13409,
@@ -306,7 +306,7 @@
         "player_reply": []
     },
     "1011": {
-        "id": "1011",
+        "id": 1011,
         "poster": "Klein und süß",
         "likes": "16895",
         "views": 3697,
@@ -340,7 +340,7 @@
         ]
     },
     "1014": {
-        "id": "1014",
+        "id": 1014,
         "poster": "Suuuuri",
         "likes": "7",
         "views": 2168,
@@ -380,7 +380,7 @@
         ]
     },
     "1015": {
-        "id": "1015",
+        "id": 1015,
         "poster": "Fisherman",
         "likes": "25",
         "views": 559,
@@ -414,7 +414,7 @@
         ]
     },
     "1016": {
-        "id": "1016",
+        "id": 1016,
         "poster": "Kleiner tapferer Ritter",
         "likes": "0",
         "views": 309,
@@ -444,7 +444,7 @@
         ]
     },
     "1017": {
-        "id": "1017",
+        "id": 1017,
         "poster": "Garnelenfrikadelle",
         "likes": "13",
         "views": 241,
@@ -481,7 +481,7 @@
         "player_reply": []
     },
     "1018": {
-        "id": "1018",
+        "id": 1018,
         "poster": "Enthaarungs-Experte",
         "likes": "21",
         "views": 319,
@@ -528,10 +528,10 @@
         "player_reply": []
     },
     "1020": {
-        "id": "1020",
+        "id": 1020,
         "poster": "AAA-Teilzeit-Auftragsgeber",
         "likes": "5",
-        "views": 204,
+        "views": 10,
         "title": "[Auftrag] Professionelle Höhlendienstleistungen ★ Federwartung",
         "text": "Premium-Nebenjob: Einfach zu erlernen, hoher Tageslohn.\nNur ein Platz, komm schnell.",
         "script": null,
@@ -560,27 +560,14 @@
                 "floor": 4,
                 "commenter": "Fleißiger_Arbeiter",
                 "content": "Also ... wir ehrlichen Leute haben nichts mit solchen „Premium-Aufträgen“ zu tun."
-            },
-            {
-                "floor": 3,
-                "commenter": "Anti-Betrugs-Tipps",
-                "content": "Glaub diesem Beitrag nicht! Diese Premium-Nebenjobs sind nur Betrügereien, bei denen man Kautionen und Schulungsgebühren zahlen muss."
-            },
-            {
-                "floor": 4,
-                "commenter": "Respektiere_das_Schicksal_anderer",
-                "content": "Mach dir keine Sorge.\nDer eine sagte, dass für den Job nur eine Person benötigt wird, und der andere antwortete sofort. Die beiden haben offensichtlich bereits vor der Bewerbung eine Vereinbarung getroffen."
-            },
-            {
-                "floor": 5,
-                "commenter": "Fleißiger_Arbeiter",
-                "content": "Also ... wir ehrlichen Leute haben nichts mit solchen „Premium-Aufträgen“ zu tun."
             }
         ],
-        "player_reply": []
+        "player_reply": [
+            "Ich."
+        ]
     },
     "1021": {
-        "id": "1021",
+        "id": 1021,
         "poster": "Praktikant_mit_gebrochenem_Herzen",
         "likes": "2",
         "views": 573,
@@ -614,7 +601,7 @@
         ]
     },
     "1022": {
-        "id": "1022",
+        "id": 1022,
         "poster": "Probezeit_Überleben",
         "likes": "15",
         "views": 3092,
@@ -653,7 +640,7 @@
         ]
     },
     "1023": {
-        "id": "1023",
+        "id": 1023,
         "poster": "Glücklicher_Praktikant",
         "likes": "2",
         "views": 976,
@@ -703,7 +690,7 @@
         ]
     },
     "1024": {
-        "id": "1024",
+        "id": 1024,
         "poster": "Anonym",
         "likes": "21",
         "views": 121,
@@ -732,7 +719,7 @@
         ]
     },
     "1025": {
-        "id": "1025",
+        "id": 1025,
         "poster": "Wütender_Praktikant",
         "likes": "5",
         "views": 421,
@@ -766,7 +753,7 @@
         ]
     },
     "1026": {
-        "id": "1026",
+        "id": 1026,
         "poster": "Glücklicher_Festangestellter",
         "likes": "5",
         "views": 651,
@@ -805,8 +792,55 @@
             "Diese Angelegenheit ist endlich perfekt gelöst!"
         ]
     },
+    "1029": {
+        "id": 1029,
+        "poster": "AAA-Teilzeit-Auftragsgeber",
+        "likes": "5",
+        "views": 204,
+        "title": "[Auftrag] Professionelle Höhlendienstleistungen ★ Federwartung",
+        "text": "Premium-Nebenjob: Einfach zu erlernen, hoher Tageslohn.\nNur ein Platz, komm schnell.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 3,
+                "commenter": "Anti-Betrugs-Tipps",
+                "content": "Glaub diesem Beitrag nicht! Diese Premium-Nebenjobs sind nur Betrügereien, bei denen man Kautionen und Schulungsgebühren zahlen muss."
+            },
+            {
+                "floor": 4,
+                "commenter": "Respektiere_das_Schicksal_anderer",
+                "content": "Mach dir keine Sorge.\nDer eine sagte, dass für den Job nur eine Person benötigt wird, und der andere antwortete sofort. Die beiden haben offensichtlich bereits vor der Bewerbung eine Vereinbarung getroffen."
+            },
+            {
+                "floor": 5,
+                "commenter": "Fleißiger_Arbeiter",
+                "content": "Also ... wir ehrlichen Leute haben nichts mit solchen „Premium-Aufträgen“ zu tun."
+            },
+            {
+                "floor": 6,
+                "commenter": "BBB-Teilzeit-Auftragnehmer",
+                "content": "Wie kann man die Aufträge anderer Leute stehlen?? Das ist doch kein Auftrag für dich!!\nSelbst die ID passt nicht zusammen. Möchtest du es vielleicht damit erklären, dass dein Hauptkonto gehackt worden sei, deshalb du jetzt ein Nebenkonto benutzt? Das ist total lächerlich!\nDu Auftrag-Dieb! Ich hoffe, dein Hauptkonto wird gehackt!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Guuuurrrrr",
+                "content": "Wow, so verärgert ..."
+            },
+            {
+                "floor": 8,
+                "commenter": "Warte-auf-einen-hochbezahlten-Auftrag",
+                "content": "Jetzt verstehe ich ... TE, war das dein erstes Mal, einen Auftrag zu posten, um einem Freund beim Hochstufen zu helfen? Es scheint, dass du nicht einmal weiß, wie man den Zugriff auf Beiträge einstellt ...\nDann könnte es natürlich passieren, dass jemand anderer den Auftrag annehmen würde."
+            },
+            {
+                "floor": 9,
+                "commenter": "Anti-Betrugs-Tipps",
+                "content": "Hahaha, ich hätte am Anfang nicht gedacht, dass es so lustig werden würde!\nÜberraschenderweise war das eine Art umgekehrter „Betrug“!"
+            }
+        ],
+        "player_reply": []
+    },
     "2001": {
-        "id": "2001",
+        "id": 2001,
         "poster": "LZ",
         "likes": "3724",
         "views": 19012,
@@ -833,7 +867,7 @@
         "player_reply": []
     },
     "2002": {
-        "id": "2002",
+        "id": 2002,
         "poster": "Ich_wähle_die_Form_von_Tin",
         "likes": "1490",
         "views": 7540,
@@ -870,7 +904,7 @@
         "player_reply": []
     },
     "2003": {
-        "id": "2003",
+        "id": 2003,
         "poster": "SchwarzerSchwan",
         "likes": "465",
         "views": 7195,
@@ -902,7 +936,7 @@
         "player_reply": []
     },
     "2004": {
-        "id": "2004",
+        "id": 2004,
         "poster": "Irisierend",
         "likes": "159",
         "views": 2536,
@@ -934,7 +968,7 @@
         "player_reply": []
     },
     "2005": {
-        "id": "2005",
+        "id": 2005,
         "poster": "Katzenalibi",
         "likes": "2229",
         "views": 12577,
@@ -971,7 +1005,7 @@
         "player_reply": []
     },
     "2006": {
-        "id": "2006",
+        "id": 2006,
         "poster": "D.L",
         "likes": "12",
         "views": 9364,
@@ -1031,7 +1065,7 @@
         ]
     },
     "2007": {
-        "id": "2007",
+        "id": 2007,
         "poster": "100EingelegteSeetangeVorDemWeltuntergang",
         "likes": "12",
         "views": 3159,
@@ -1085,7 +1119,7 @@
         ]
     },
     "2009": {
-        "id": "2009",
+        "id": 2009,
         "poster": "Einsames Genie",
         "likes": "56",
         "views": 6547,
@@ -1134,7 +1168,7 @@
         ]
     },
     "2010": {
-        "id": "2010",
+        "id": 2010,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 6225,
@@ -1166,7 +1200,7 @@
         "player_reply": []
     },
     "2011": {
-        "id": "2011",
+        "id": 2011,
         "poster": "MöhrenTalent",
         "likes": "62",
         "views": 363,
@@ -1203,7 +1237,7 @@
         "player_reply": []
     },
     "2012": {
-        "id": "2012",
+        "id": 2012,
         "poster": "ExplosiveKunstVonColt",
         "likes": "0",
         "views": 64,
@@ -1237,7 +1271,7 @@
         ]
     },
     "2013": {
-        "id": "2013",
+        "id": 2013,
         "poster": "Gunn",
         "likes": "13",
         "views": 3378,
@@ -1271,7 +1305,7 @@
         ]
     },
     "2014": {
-        "id": "2014",
+        "id": 2014,
         "poster": "KlatschSeele",
         "likes": "25",
         "views": 236,
@@ -1313,7 +1347,7 @@
         "player_reply": []
     },
     "2015": {
-        "id": "2015",
+        "id": 2015,
         "poster": "ArbeiterNr.7",
         "likes": "1",
         "views": 1559,
@@ -1345,11 +1379,6 @@
                 "floor": 5,
                 "commenter": "Böse_Proxy_böse",
                 "content": "Leute, seid gewarnt! Ich betreue einen kleinen Gruppenchat für Proxys und vor kurzem hatten einige talentierte junge Proxys darüber gesprochen, diese Höhle zu erkunden. Sie sind hineingegangen und nie zurückgekehrt. Es scheint, als wäre ihr Agent nach dem Betreten der Höhle abgeschoben worden ... Wie auch immer, ich persönlich werde mich nicht auf so ein riskantes Abenteuer einlassen. Es tut mir leid."
-            },
-            {
-                "floor": 6,
-                "commenter": "RedGiant",
-                "content": "Niemand zwingt dich. Warum suchst du denn im Informationsbeitrag von Astra nach Anerkennung?"
             }
         ],
         "player_reply": [
@@ -1357,7 +1386,7 @@
         ]
     },
     "2016": {
-        "id": "2016",
+        "id": 2016,
         "poster": "DurchschnittsFaulpelz",
         "likes": "34",
         "views": 637,
@@ -1396,10 +1425,10 @@
         ]
     },
     "2017": {
-        "id": "2017",
+        "id": 2017,
         "poster": "AAA-Teilzeit-Auftragsgeber",
         "likes": "8",
-        "views": 173,
+        "views": 61,
         "title": "[Auftrag] Professionelle Höhlendienstleistungen ★ Sprengungswartung",
         "text": "Premium-Nebenjob: Einfach zu erlernen, hoher Tageslohn.\nNoch ein Platz, komm schnell.",
         "script": null,
@@ -1426,12 +1455,24 @@
             }
         ],
         "player_reply": [
-            "Bin ich versehentlich in einen emotionalen Konflikt geraten?",
-            "Es scheint mehr als nur ein Auftragskonflikt zu sein ..."
+            "Ähm ... Ich nehme das an?"
+        ]
+    },
+    "2018": {
+        "id": 2018,
+        "poster": "ArbeiterNr.7",
+        "likes": "1",
+        "views": 1559,
+        "title": "[Auftrag] Profis für die Untersuchung mysteriöser Höhlen bitte",
+        "text": "Ich bin einer der Juroren des Bewertungsausschusses von „Sieben urbane Mysterien von New Eridu“ ... Ja, dieser Ausschuss existiert tatsächlich, ich mache das als volle Stelle, für die ich entlohnt werde.\nMeine Aufgabe besteht darin, Höhlen zu untersuchen, die aufgrund ihrer besonderen Eigenschaften Aufmerksamkeit erregen, und dem Bewertungsausschuss Informationen zur Aktualisierung der Liste der „Top 7“ zur Verfügung zu stellen.\nIn letzter Zeit wird viel über eine Höhle namens „Die Prophezeiung“ diskutiert. Ich habe einige relevante Informationen im Inter-Knot erworben, aber ehrlich gesagt sind sie nicht sehr wertvoll ... Es wurde im Grunde nur ganz allgemein behauptet, dass es „dort einen Propheten gibt, der deine Zukunft vorhersagen kann“ und der „dir magische Kräfte verleihen kann“ und so weiter. Als ich nach weiteren Informationen fragte, verschwanden die Anbieter dieser Informationen plötzlich.\nEs gibt wirklich viele Menschen auf der Welt, die nicht gut darin sind, Untersuchungen durchzuführen, aber dennoch in diesem Bereich tätig sind. Das ist keine Beschwerde, sondern meine ehrliche Meinung.\nIch benötige einen tatsächlich kompetenten Proxy, der „Die Prophezeiung“ gründlich erkundet und aus erster Hand Informationen zurückbringt.\nDer Umfang mag enorm sein, aber die Bezahlung wird dich nicht enttäuschen.",
+        "script": "In der Höhle namens „Die Prophezeiung“ scheint das Ätherumfeld eine leichte kognitive Verzerrung zu verursachen. Ich dachte, dass sie definitiv zu den neuen „Urbanen Mysterien“ zählen könnte, dabei ist es möglich, dass sie nicht genug Kriterien erfüllt? Es gibt einfach zu viele seltsame Höhlen in New Eridu ...!",
+        "comments": [],
+        "player_reply": [
+            "Diesen Auftrag nehme ich an!"
         ]
     },
     "2019": {
-        "id": "2019",
+        "id": 2019,
         "poster": "Feuerwiesel",
         "likes": "11302",
         "views": 31020,
@@ -1464,8 +1505,53 @@
             "Ich nehme das!"
         ]
     },
+    "2020": {
+        "id": 2020,
+        "poster": "AAA-Teilzeit-Auftragsgeber",
+        "likes": "8",
+        "views": 173,
+        "title": "[Auftrag] Professionelle Höhlendienstleistungen ★ Sprengungswartung",
+        "text": "Premium-Nebenjob: Einfach zu erlernen, hoher Tageslohn.\nNoch ein Platz, komm schnell.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 16,
+                "commenter": "Premium-Auftrag-herzlich-gesucht",
+                "content": "Es ist überraschend, dass die großzügigsten Gesten manchmal von Partnerstreitigkeiten stammen.\nAber kann das nächste Mal ich der Glückspilz sein?"
+            },
+            {
+                "floor": 19,
+                "commenter": "Anti-Betrugs-Tipps",
+                "content": "Hahaha, ich frage mich, ob „BBB“ „AAA“ verziehen hat ...\nAber wenn man {NICKNAME}s Effizienz beim letzten Mal bedenkt, sollten die Aufträge schon erledigt sein, oder?"
+            },
+            {
+                "floor": 20,
+                "commenter": "[TE] AAA-Teilzeit-Auftragsgeber",
+                "content": "Er war das letzte Mal wirklich sauer, deshalb war der ursprüngliche Zweck dieses Auftrags ... ähm, eine Entschuldigung.\nAber anscheinend ignoriert er mich immer noch ... Ich übergebe nun den Auftrag an {NICKNAME} und werde mir etwas einfallen lassen."
+            },
+            {
+                "floor": 21,
+                "commenter": "Anti-Betrugs-Tipps",
+                "content": "... Muss man jetzt so aufrichtig sein, um ein Auftragspartner zu werden?"
+            },
+            {
+                "floor": 23,
+                "commenter": "Brenntbrenntbrennt",
+                "content": "? Brennt, brennt, brennt!"
+            },
+            {
+                "floor": 27,
+                "commenter": "BBB-Teilzeit-Auftragnehmer",
+                "content": "Hmpf ... du bist diesmal aufrichtig ...\nAber nur das eine Mal!"
+            }
+        ],
+        "player_reply": [
+            "Bin ich versehentlich in einen emotionalen Konflikt geraten?",
+            "Es scheint mehr als nur ein Auftragskonflikt zu sein ..."
+        ]
+    },
     "2501": {
-        "id": "2501",
+        "id": 2501,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 7503,
@@ -1497,7 +1583,7 @@
         "player_reply": []
     },
     "2502": {
-        "id": "2502",
+        "id": 2502,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 3889,
@@ -1534,7 +1620,7 @@
         "player_reply": []
     },
     "2503": {
-        "id": "2503",
+        "id": 2503,
         "poster": "Kopfschmerz",
         "likes": "125",
         "views": 3513,
@@ -1571,7 +1657,7 @@
         "player_reply": []
     },
     "2504": {
-        "id": "2504",
+        "id": 2504,
         "poster": "KnappBeiKasse",
         "likes": "48",
         "views": 3513,
@@ -1592,7 +1678,7 @@
             {
                 "floor": 3,
                 "commenter": "BitteEiscreme",
-                "content": "Deinem Kumpel wurden die Pommes geklaut, aber du postest Fotos auf Inter-Knot und lachst dich kaputt ..."
+                "content": "Deinem Kumpel wurden die Pommes geklaut, aber du postest Fotos im Inter-Knot und lachst dich kaputt ..."
             },
             {
                 "floor": 4,
@@ -1608,7 +1694,7 @@
         "player_reply": []
     },
     "2505": {
-        "id": "2505",
+        "id": 2505,
         "poster": "Anonym",
         "likes": "323",
         "views": 8599,
@@ -1640,7 +1726,7 @@
         "player_reply": []
     },
     "2507": {
-        "id": "2507",
+        "id": 2507,
         "poster": "FürMeineSchwesterGeheIchDurchsFeuer!",
         "likes": "8",
         "views": 61,
@@ -1689,7 +1775,7 @@
         ]
     },
     "2508": {
-        "id": "2508",
+        "id": 2508,
         "poster": "Ingenieur_K",
         "likes": "8",
         "views": 55,
@@ -1723,7 +1809,7 @@
         ]
     },
     "2509": {
-        "id": "2509",
+        "id": 2509,
         "poster": "Ingenieur_K",
         "likes": "9",
         "views": 61,
@@ -1757,7 +1843,7 @@
         ]
     },
     "2512": {
-        "id": "2512",
+        "id": 2512,
         "poster": "wie-soll-ich-ohne-meinen-bruder-leben",
         "likes": "35",
         "views": 2775,
@@ -1786,7 +1872,7 @@
         ]
     },
     "2513": {
-        "id": "2513",
+        "id": 2513,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "4584",
         "views": 7503,
@@ -1828,7 +1914,7 @@
         "player_reply": []
     },
     "2514": {
-        "id": "2514",
+        "id": 2514,
         "poster": "StadtNews",
         "likes": "657",
         "views": 2029,
@@ -1863,14 +1949,14 @@
             },
             {
                 "floor": 24,
-                "commenter": "Tagträume",
+                "commenter": "TagTräumer",
                 "content": "Hahaha, der Kommentator über mir muss doch sicher ein Sicherheitsoffizier bei der Verkehrsabteilung sein. Man kann seinen Ärger förmlich spüren!"
             }
         ],
         "player_reply": []
     },
     "2515": {
-        "id": "2515",
+        "id": 2515,
         "poster": "AlterKauz",
         "likes": "8",
         "views": 61,
@@ -1909,10 +1995,10 @@
         ]
     },
     "2516": {
-        "id": "2516",
+        "id": 2516,
         "poster": "BBB-Teilzeit-Auftragnehmer",
-        "likes": "10",
-        "views": 24,
+        "likes": "8",
+        "views": 10,
         "title": "[Auftrag] Professionelle Höhlendienstleistungen ★ Signalwartung",
         "text": "Premium-Nebenjob: Einfach zu erlernen, hoher Tageslohn.\nNur ein Platz, komm schnell.",
         "script": null,
@@ -1953,10 +2039,39 @@
                 "content": "Hä?? Heißt das, ich habe wieder einen wirklichen „hochbezahlten Auftrag“ verpasst?!"
             }
         ],
+        "player_reply": [
+            "Ich."
+        ]
+    },
+    "2517": {
+        "id": 2517,
+        "poster": "BBB-Teilzeit-Auftragnehmer",
+        "likes": "10",
+        "views": 24,
+        "title": "[Auftrag] Professionelle Höhlendienstleistungen ★ Signalwartung",
+        "text": "Premium-Nebenjob: Einfach zu erlernen, hoher Tageslohn.\nNur ein Platz, komm schnell.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 15,
+                "commenter": "AAA-Teilzeit-Auftragsgeber",
+                "content": "Ist es das, was du meintest? „Wenn du meinen Auftrag noch einmal an jemand anderen vergibst, arbeiten wir nicht mehr zusammen“ ..."
+            },
+            {
+                "floor": 16,
+                "commenter": "[TE] BBB-Teilzeit-Auftragnehmer",
+                "content": "Komm schon, Bro! Ich vertraue hier doch auf dein Urteil!\nDa ich so beschäftigt war, musste ich die Arbeit an einen Proxy übergeben, den du persönlich ausgewählt hast – definitiv effizient und zuverlässig!"
+            },
+            {
+                "floor": 18,
+                "commenter": "AAA-Teilzeit-Auftragsgeber",
+                "content": "Du solltest besser etwas Ernstes tun ..."
+            }
+        ],
         "player_reply": []
     },
     "3001": {
-        "id": "3001",
+        "id": 3001,
         "poster": "Tutmirleid_dassichkitschigbin:p",
         "likes": "122",
         "views": 6690,
@@ -1988,7 +2103,7 @@
         "player_reply": []
     },
     "3002": {
-        "id": "3002",
+        "id": 3002,
         "poster": "Geisterjägertruppe",
         "likes": "1336",
         "views": 9864,
@@ -2025,7 +2140,7 @@
         "player_reply": []
     },
     "3003": {
-        "id": "3003",
+        "id": 3003,
         "poster": "Erdbeermilch",
         "likes": "2281",
         "views": 7171,
@@ -2062,7 +2177,7 @@
         "player_reply": []
     },
     "3004": {
-        "id": "3004",
+        "id": 3004,
         "poster": "Instandnudeln-von-Waterfall-Soup",
         "likes": "426",
         "views": 2871,
@@ -2094,7 +2209,7 @@
         "player_reply": []
     },
     "3005": {
-        "id": "3005",
+        "id": 3005,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 4210,
@@ -2126,7 +2241,7 @@
         "player_reply": []
     },
     "3006": {
-        "id": "3006",
+        "id": 3006,
         "poster": "SuperFleischpastete",
         "likes": "43",
         "views": 471,
@@ -2158,7 +2273,7 @@
         "player_reply": []
     },
     "3007": {
-        "id": "3007",
+        "id": 3007,
         "poster": "RoteBohnenKuchen",
         "likes": "7",
         "views": 853,
@@ -2195,7 +2310,7 @@
         "player_reply": []
     },
     "3008": {
-        "id": "3008",
+        "id": 3008,
         "poster": "HerrSwampShrimp",
         "likes": "95",
         "views": 8562,
@@ -2232,7 +2347,7 @@
         "player_reply": []
     },
     "3009": {
-        "id": "3009",
+        "id": 3009,
         "poster": "Tagträume",
         "likes": "34",
         "views": 4678,
@@ -2274,7 +2389,7 @@
         "player_reply": []
     },
     "3010": {
-        "id": "3010",
+        "id": 3010,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 13205,
@@ -2311,7 +2426,7 @@
         "player_reply": []
     },
     "3011": {
-        "id": "3011",
+        "id": 3011,
         "poster": "Geldbeutel-Ungleichung",
         "likes": "157",
         "views": 121,
@@ -2345,7 +2460,7 @@
         ]
     },
     "3012": {
-        "id": "3012",
+        "id": 3012,
         "poster": "Wand_mit_Ohren",
         "likes": "1201",
         "views": 5621,
@@ -2384,7 +2499,7 @@
         ]
     },
     "3016": {
-        "id": "3016",
+        "id": 3016,
         "poster": "VincentVanBangboo",
         "likes": "8",
         "views": 61,
@@ -2423,7 +2538,7 @@
         ]
     },
     "3018": {
-        "id": "3018",
+        "id": 3018,
         "poster": "Schlosskünstler",
         "likes": "12112",
         "views": 61242,
@@ -2457,7 +2572,7 @@
         ]
     },
     "3019": {
-        "id": "3019",
+        "id": 3019,
         "poster": "GoldenRetriever",
         "likes": "512",
         "views": 1241,
@@ -2486,7 +2601,7 @@
         ]
     },
     "3020": {
-        "id": "3020",
+        "id": 3020,
         "poster": "Starkboo_Official",
         "likes": "21",
         "views": 35,
@@ -2530,7 +2645,7 @@
         ]
     },
     "3021": {
-        "id": "3021",
+        "id": 3021,
         "poster": "AAAErmittlerSchulungskurse",
         "likes": "215",
         "views": 154,
@@ -2579,7 +2694,7 @@
         ]
     },
     "3022": {
-        "id": "3022",
+        "id": 3022,
         "poster": "Nachrichten_ignoriert",
         "likes": "1305",
         "views": 3520,
@@ -2616,7 +2731,7 @@
         "player_reply": []
     },
     "3023": {
-        "id": "3023",
+        "id": 3023,
         "poster": "Anfänger",
         "likes": "3",
         "views": 251,
@@ -2663,7 +2778,7 @@
         "player_reply": []
     },
     "3024": {
-        "id": "3024",
+        "id": 3024,
         "poster": "Verdien_mehr_Geeeeld!",
         "likes": "237",
         "views": 1635,
@@ -2687,7 +2802,7 @@
         ]
     },
     "3025": {
-        "id": "3025",
+        "id": 3025,
         "poster": "BBB-Teilzeit-Auftragnehmer",
         "likes": "8",
         "views": 61,
@@ -2716,7 +2831,7 @@
         ]
     },
     "3026": {
-        "id": "3026",
+        "id": 3026,
         "poster": "BBB-Teilzeit-Auftragnehmer",
         "likes": "8",
         "views": 173,
@@ -2743,7 +2858,7 @@
         "player_reply": []
     },
     "9701": {
-        "id": "9701",
+        "id": 9701,
         "poster": "TrockenfischAufDemSportplatz",
         "likes": "107",
         "views": 4019,
@@ -2820,7 +2935,7 @@
         "player_reply": []
     },
     "9702": {
-        "id": "9702",
+        "id": 9702,
         "poster": "MillionärInTagträumen",
         "likes": "2130",
         "views": 20761,
@@ -2902,7 +3017,7 @@
         "player_reply": []
     },
     "9703": {
-        "id": "9703",
+        "id": 9703,
         "poster": "Metis’Intelligenz_Bot3",
         "likes": "5007",
         "views": 8732,
@@ -2959,7 +3074,7 @@
         "player_reply": []
     },
     "9704": {
-        "id": "9704",
+        "id": 9704,
         "poster": "TyphoonHurrikanTornado",
         "likes": "26",
         "views": 937,
@@ -3001,7 +3116,7 @@
         "player_reply": []
     },
     "9705": {
-        "id": "9705",
+        "id": 9705,
         "poster": "Profi-Höhlenreiseführer Jonesy",
         "likes": "1068",
         "views": 3042,
@@ -3048,7 +3163,7 @@
         "player_reply": []
     },
     "9706": {
-        "id": "9706",
+        "id": 9706,
         "poster": "miomio",
         "likes": "3",
         "views": 10649,
@@ -3120,7 +3235,7 @@
         "player_reply": []
     },
     "9801": {
-        "id": "9801",
+        "id": 9801,
         "poster": "Inter-Knot-Team",
         "likes": "27636",
         "views": 199861,
@@ -3131,7 +3246,7 @@
         "player_reply": []
     },
     "9802": {
-        "id": "9802",
+        "id": 9802,
         "poster": "Inter-Knot-Team",
         "likes": "27636",
         "views": 152740,
@@ -3163,7 +3278,7 @@
         "player_reply": []
     },
     "9803": {
-        "id": "9803",
+        "id": 9803,
         "poster": "Inter-Knot-Team",
         "likes": "27636",
         "views": 101629,
@@ -3190,7 +3305,7 @@
         "player_reply": []
     },
     "9804": {
-        "id": "9804",
+        "id": 9804,
         "poster": "Inter-Knot-Team",
         "likes": "27636",
         "views": 100514,
@@ -3222,7 +3337,7 @@
         "player_reply": []
     },
     "9805": {
-        "id": "9805",
+        "id": 9805,
         "poster": "Inter-Knot-Team",
         "likes": "27636",
         "views": 897469,
@@ -3249,12 +3364,12 @@
         "player_reply": []
     },
     "9806": {
-        "id": "9806",
+        "id": 9806,
         "poster": "Inter-Knot-Team",
         "likes": "27636",
         "views": 776851,
         "title": "[Ankündigung] Leitfaden für Höhlen-Einsteiger: Achte jederzeit auf fremde Äthereale",
-        "text": "Nicht wenige neue Inter-Knot-Nutzer bekommen nach der Erledigung einiger Aufträge folgenden Gedanken: Ich bin stark geworden, ich kann jetzt auch starke Äthereale besiegen. Du, der du nach und nach deine Inter-Knot-Stufe gesteigert hast, hast in diesem Moment womöglich ähnliche Gedanken. Aber ist das tatsächlich realistisch?\nNatürlich nicht! Das ist nur, weil du noch keinen stärkeren Ätherealen begegnet bist. Nimm das nicht auf die leichte Schulter. \nDie HIA hat die Stärke von Ätherealen in zehn Stufen aufgeteilt (von schwach nach stark): Antimon/Sb, Zink/Zn, Zinn/Sn, Mangan/Mn, Cadmium/Cd, Nickel/Ni, Kupfer/Cu, Bismut/Bi, Blei/Pb, und Quecksilber/Hg. In den Beihöhlen, die man bei Aufträgen der Elementärstufe betreten muss, gibt es — da die Aktivität des Ätherumfeldes relativ niedrig ist — im Grunde nur Äthereale der Stufen Sb und Zn, sowie in niedrigsten Mengen der Stufe Sn. Tatsächlich handelt es sich um vergleichbar einfach zu besiegende Ziele. \nAb der nächsthöheren Stufe Mn steigt die Stärke der Äthereale allerdings steil wie ein Fahrstuhl an. Einen Äthereal der Mn-Stufe zu vernichten, benötigt in jedem Fall eine vollständige, disziplinierte Kampftruppe. \nEs empfiehlt sich daher, vor dem Betreten von Höhlen einen detaillierten und akkuraten Ätherealatlas zu kaufen oder auszudrucken, und sich das Aussehen der höhergradigen Äthereale gut einzuprägen. Auch wenn du ihnen als Neuling im Inter-Knot zu 99,99999 %iger Wahrscheinlichkeit nicht begegnen wirst, aber für den Fall, dass du doch einmal welche siehst, selbst wenn sie nur ein bisschen danach aussehen, dann zögere nicht und flüchte ohne stehenzubleiben aus der Höhle.",
+        "text": "Nicht wenige neue Inter-Knot-Nutzer bekommen nach der Erledigung einiger Aufträge folgenden Gedanken: Ich bin stark geworden, ich kann jetzt auch starke Äthereale besiegen. Du, der du nach und nach deine Inter-Knot-Stufe gesteigert hast, hast in diesem Moment womöglich ähnliche Gedanken. Aber ist das tatsächlich realistisch?\nNatürlich nicht! Das ist nur, weil du noch keinen stärkeren Ätherealen begegnet bist. Nimm das nicht auf die leichte Schulter. \nDie HIA hat die Stärke von Ätherealen in zehn Stufen aufgeteilt (von schwach nach stark): Antimon/Sb, Zink/Zn, Zinn/Sn, Mangan/Mn, Cadmium/Cd, Nickel/Ni, Kupfer/Cu, Bismut/Bi, Blei/Pb, und Quecksilber/Hg. In den Beihöhlen, die man bei Aufträgen der Elementärstufe betreten muss, gibt es – da die Aktivität des Ätherumfeldes relativ niedrig ist – im Grunde nur Äthereale der Stufen Sb und Zn, sowie in niedrigsten Mengen der Stufe Sn. Tatsächlich handelt es sich um vergleichbar einfach zu besiegende Ziele. \nAb der nächsthöheren Stufe Mn steigt die Stärke der Äthereale allerdings steil wie ein Fahrstuhl an. Einen Äthereal der Mn-Stufe zu vernichten, benötigt in jedem Fall eine vollständige, disziplinierte Kampftruppe. \nEs empfiehlt sich daher, vor dem Betreten von Höhlen einen detaillierten und akkuraten Ätherealatlas zu kaufen oder auszudrucken, und sich das Aussehen der höhergradigen Äthereale gut einzuprägen. Auch wenn du ihnen als Neuling im Inter-Knot zu 99,99999 %iger Wahrscheinlichkeit nicht begegnen wirst, aber für den Fall, dass du doch einmal welche siehst, selbst wenn sie nur ein bisschen danach aussehen, dann zögere nicht und flüchte ohne stehenzubleiben aus der Höhle.",
         "script": null,
         "comments": [
             {
@@ -3281,7 +3396,7 @@
         "player_reply": []
     },
     "9901": {
-        "id": "9901",
+        "id": 9901,
         "poster": "Sorgenbot",
         "likes": "172",
         "views": 9819,
@@ -3331,7 +3446,7 @@
         ]
     },
     "9902": {
-        "id": "9902",
+        "id": 9902,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 17509,
@@ -3381,7 +3496,7 @@
         ]
     },
     "9903": {
-        "id": "9903",
+        "id": 9903,
         "poster": "FrühSchlafen&SpätAufstehen",
         "likes": "85",
         "views": 3002,
@@ -3413,7 +3528,7 @@
         "player_reply": []
     },
     "9904": {
-        "id": "9904",
+        "id": 9904,
         "poster": "Foodiesoul",
         "likes": "68",
         "views": 9015,
@@ -3462,7 +3577,7 @@
         ]
     },
     "9905": {
-        "id": "9905",
+        "id": 9905,
         "poster": "FreundVonProxys_Kakami",
         "likes": "250",
         "views": 1300,
@@ -3499,7 +3614,7 @@
         "player_reply": []
     },
     "9906": {
-        "id": "9906",
+        "id": 9906,
         "poster": "Anonym",
         "likes": "？",
         "views": 7316,
@@ -3531,7 +3646,7 @@
         "player_reply": []
     },
     "9907": {
-        "id": "9907",
+        "id": 9907,
         "poster": "QuQ",
         "likes": "17",
         "views": 892,
@@ -3573,7 +3688,7 @@
         "player_reply": []
     },
     "9908": {
-        "id": "9908",
+        "id": 9908,
         "poster": "Namenlose_Korrosion",
         "likes": "355",
         "views": 3910,
@@ -3605,7 +3720,7 @@
         "player_reply": []
     },
     "9909": {
-        "id": "9909",
+        "id": 9909,
         "poster": "IchLiebeSternenlichtritter",
         "likes": "56",
         "views": 8998,
@@ -3642,7 +3757,7 @@
         "player_reply": []
     },
     "9910": {
-        "id": "9910",
+        "id": 9910,
         "poster": "Fliegende_Schnecke",
         "likes": "141",
         "views": 1778,
@@ -3674,7 +3789,7 @@
         "player_reply": []
     },
     "9911": {
-        "id": "9911",
+        "id": 9911,
         "poster": "gawadaw",
         "likes": "0",
         "views": 612,
@@ -3706,7 +3821,7 @@
         "player_reply": []
     },
     "9912": {
-        "id": "9912",
+        "id": 9912,
         "poster": "Inter-Knot-Team",
         "likes": "27636",
         "views": 41096,
@@ -3743,7 +3858,7 @@
         "player_reply": []
     },
     "9913": {
-        "id": "9913",
+        "id": 9913,
         "poster": "Metis’Intelligenz_Bot3",
         "likes": "5007",
         "views": 8789,
@@ -3778,7 +3893,7 @@
         ]
     },
     "9914": {
-        "id": "9914",
+        "id": 9914,
         "poster": "100%Zucker2×Eis",
         "likes": "301",
         "views": 2556,
@@ -3815,7 +3930,7 @@
         "player_reply": []
     },
     "10001": {
-        "id": "10001",
+        "id": 10001,
         "poster": "Sozius der Gerechtigkeit",
         "likes": "222",
         "views": 8344,
@@ -3875,7 +3990,7 @@
         ]
     },
     "10002": {
-        "id": "10002",
+        "id": 10002,
         "poster": "Ich_Lüge_Nie",
         "likes": "233",
         "views": 9282,
@@ -3935,7 +4050,7 @@
         ]
     },
     "11001": {
-        "id": "11001",
+        "id": 11001,
         "poster": "Q1",
         "likes": "0",
         "views": 11,
@@ -3972,7 +4087,7 @@
         "player_reply": []
     },
     "11002": {
-        "id": "11002",
+        "id": 11002,
         "poster": "Walfischgefilde",
         "likes": "166",
         "views": 1044,
@@ -4009,7 +4124,7 @@
         "player_reply": []
     },
     "11003": {
-        "id": "11003",
+        "id": 11003,
         "poster": "Metis’Intelligenz_Bot3",
         "likes": "5007",
         "views": 21250,
@@ -4041,12 +4156,17 @@
                 "floor": 5,
                 "commenter": "Anonym",
                 "content": "Sie singt ja total gewöhnlich, oder?"
+            },
+            {
+                "floor": 6,
+                "commenter": "RedGiant",
+                "content": "Niemand zwingt dich. Warum suchst du denn im Informationsbeitrag von Astra nach Anerkennung?"
             }
         ],
         "player_reply": []
     },
     "11004": {
-        "id": "11004",
+        "id": 11004,
         "poster": "Klinge des Obsidians",
         "likes": "3960",
         "views": 9524,
@@ -4100,7 +4220,7 @@
         ]
     },
     "11005": {
-        "id": "11005",
+        "id": 11005,
         "poster": "Klinge des Obsidians",
         "likes": "3960",
         "views": 10650,
@@ -4144,7 +4264,7 @@
         ]
     },
     "11006": {
-        "id": "11006",
+        "id": 11006,
         "poster": "Klinge des Obsidians",
         "likes": "3960",
         "views": 8691,
@@ -4188,7 +4308,7 @@
         ]
     },
     "11007": {
-        "id": "11007",
+        "id": 11007,
         "poster": "Klinge des Obsidians",
         "likes": "3960",
         "views": 20341,
@@ -4232,7 +4352,7 @@
         ]
     },
     "12001": {
-        "id": "12001",
+        "id": 12001,
         "poster": "So_ist_die_Außenzone",
         "likes": "11",
         "views": 1021,
@@ -4282,7 +4402,7 @@
         ]
     },
     "12003": {
-        "id": "12003",
+        "id": 12003,
         "poster": "777",
         "likes": "667",
         "views": 2378,
@@ -4344,7 +4464,7 @@
         "player_reply": []
     },
     "12004": {
-        "id": "12004",
+        "id": 12004,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 35101,
@@ -4386,7 +4506,7 @@
         "player_reply": []
     },
     "12005": {
-        "id": "12005",
+        "id": 12005,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 14510,
@@ -4428,7 +4548,7 @@
         "player_reply": []
     },
     "12007": {
-        "id": "12007",
+        "id": 12007,
         "poster": "WoGehtsNächsteWocheHin?",
         "likes": "5011",
         "views": 6407,
@@ -4488,7 +4608,7 @@
         ]
     },
     "12009": {
-        "id": "12009",
+        "id": 12009,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 778,
@@ -4515,7 +4635,7 @@
         "player_reply": []
     },
     "12011": {
-        "id": "12011",
+        "id": 12011,
         "poster": "Spiralflötenspieler",
         "likes": "24",
         "views": 2750,
@@ -4549,7 +4669,7 @@
         ]
     },
     "12012": {
-        "id": "12012",
+        "id": 12012,
         "poster": "Außenzoneboy",
         "likes": "59",
         "views": 3690,
@@ -4608,7 +4728,7 @@
         ]
     },
     "12013": {
-        "id": "12013",
+        "id": 12013,
         "poster": "Frag_nicht_wie_ich_esse",
         "likes": "168",
         "views": 3770,
@@ -4643,7 +4763,7 @@
         ]
     },
     "13001": {
-        "id": "13001",
+        "id": 13001,
         "poster": "NurEinSmurf",
         "likes": "1",
         "views": 42322,
@@ -4733,7 +4853,7 @@
         ]
     },
     "13002": {
-        "id": "13002",
+        "id": 13002,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7962",
         "views": 9877,
@@ -4780,7 +4900,7 @@
         "player_reply": []
     },
     "13003": {
-        "id": "13003",
+        "id": 13003,
         "poster": "KoalaKeksLiebhaber",
         "likes": "35",
         "views": 2754,
@@ -4860,7 +4980,7 @@
         ]
     },
     "13004": {
-        "id": "13004",
+        "id": 13004,
         "poster": "Hector_UnheilsbringerDerÄthereale",
         "likes": "276",
         "views": 8751,
@@ -4904,7 +5024,7 @@
         ]
     },
     "13005": {
-        "id": "13005",
+        "id": 13005,
         "poster": "Hector_UnheilsbringerDerÄthereale",
         "likes": "281",
         "views": 11437,
@@ -4955,13 +5075,13 @@
             {
                 "floor": 10,
                 "commenter": "Edl3rB4ndit",
-                "content": "RIP ... *seufz*, vielleicht ist das einfach das Schicksal in unserem Gewerbe."
+                "content": "RIP ... *seufz* Vielleicht ist das einfach das Schicksal in unserem Gewerbe."
             }
         ],
         "player_reply": []
     },
     "14001": {
-        "id": "14001",
+        "id": 14001,
         "poster": "[System-Erinnerung]",
         "likes": "10211",
         "views": 10248,
@@ -5008,7 +5128,7 @@
         "player_reply": []
     },
     "14002": {
-        "id": "14002",
+        "id": 14002,
         "poster": "Kernfusionsherz",
         "likes": "1312",
         "views": 4501,
@@ -5075,7 +5195,7 @@
         "player_reply": []
     },
     "14003": {
-        "id": "14003",
+        "id": 14003,
         "poster": "StarkeKurzsichtigkeit",
         "likes": "32",
         "views": 2754,
@@ -5122,7 +5242,7 @@
         "player_reply": []
     },
     "14004": {
-        "id": "14004",
+        "id": 14004,
         "poster": "DampfbetriebenesBangboo",
         "likes": "351",
         "views": 6524,
@@ -5169,7 +5289,7 @@
         "player_reply": []
     },
     "15001": {
-        "id": "15001",
+        "id": 15001,
         "poster": "Winter_der_Klimaanlage",
         "likes": "3920",
         "views": 382109,
@@ -5221,7 +5341,7 @@
         "player_reply": []
     },
     "15002": {
-        "id": "15002",
+        "id": 15002,
         "poster": "Melonen_helfen_Melonen",
         "likes": "3192",
         "views": 46015,
@@ -5313,7 +5433,7 @@
         "player_reply": []
     },
     "15003": {
-        "id": "15003",
+        "id": 15003,
         "poster": "flotter-keks",
         "likes": "294",
         "views": 31502,
@@ -5365,7 +5485,7 @@
         "player_reply": []
     },
     "15004": {
-        "id": "15004",
+        "id": 15004,
         "poster": "SaftigerÄtherealpimpf",
         "likes": "42",
         "views": 9100,
@@ -5412,7 +5532,7 @@
         "player_reply": []
     },
     "15005": {
-        "id": "15005",
+        "id": 15005,
         "poster": "SchlucksenderPinguin",
         "likes": "2913",
         "views": 210,
@@ -5442,7 +5562,7 @@
         ]
     },
     "15006": {
-        "id": "15006",
+        "id": 15006,
         "poster": "Fangschreckenkrebs_im_Seichten",
         "likes": "120",
         "views": 13921,
@@ -5474,7 +5594,7 @@
         "player_reply": []
     },
     "15007": {
-        "id": "15007",
+        "id": 15007,
         "poster": "Windmühlenritter",
         "likes": "3",
         "views": 3567,
@@ -5516,7 +5636,7 @@
         "player_reply": []
     },
     "16001": {
-        "id": "16001",
+        "id": 16001,
         "poster": "Selbstkultivierung",
         "likes": "4",
         "views": 1486,
@@ -5558,7 +5678,7 @@
         "player_reply": []
     },
     "16002": {
-        "id": "16002",
+        "id": 16002,
         "poster": "Anonym",
         "likes": "0",
         "views": 1098,
@@ -5600,7 +5720,7 @@
         "player_reply": []
     },
     "16003": {
-        "id": "16003",
+        "id": 16003,
         "poster": "Ich_Lüge_Nie",
         "likes": "248",
         "views": 2333,
@@ -5652,12 +5772,12 @@
         "player_reply": []
     },
     "16004": {
-        "id": "16004",
+        "id": 16004,
         "poster": "KoiDerKoi",
         "likes": "109",
         "views": 3469,
         "title": "[Hehe] Morgen ist meine OP, bitte drückt mir die Daumen",
-        "text": "Ich bin schon seit meiner Kindheit krank ... In den letzten Jahren war es so schlimm, dass ich nicht mal mehr zur Schule gehen konnte ... Dachte schon, ich müsste mich von Mama und Papa verabschieden ... aber dann kam das Wunder!!! Es wurde ein passendes Spenderorgan gefunden!!! Und es ist sogar von einer gesunden jungen Person!!! Ich glaub’s nicht, ich muss echt ein Glückskind sein. Klar, auch wenn die OP klappt, wird es wieder Jahre voller Schmerzen ... aber ich kann Mama und Papa wenigstens noch ein paar Jahre auf die Nerven gehen, haha.\n\nSie weinen gerade, beten so sehr für meine OP ... Aber ich wollte auch auf dem Inter-Knot ein bisschen Glück einsammeln~ Wenn die OP erfolgreich war, melde ich mich wieder, danke euch allen!",
+        "text": "Ich bin schon seit meiner Kindheit krank ... In den letzten Jahren war es so schlimm, dass ich nicht mal mehr zur Schule gehen konnte ... Dachte schon, ich müsste mich von Mama und Papa verabschieden ... aber dann kam das Wunder!!! Es wurde ein passendes Spenderorgan gefunden!!! Und es ist sogar von einer gesunden jungen Person!!! Ich glaub’s nicht, ich muss echt ein Glückskind sein. Klar, auch wenn die OP klappt, wird es wieder Jahre voller Schmerzen ... aber ich kann Mama und Papa wenigstens noch ein paar Jahre auf die Nerven gehen, haha.\n\nSie weinen gerade, beten so sehr für meine OP ... Aber ich wollte auch im Inter-Knot ein bisschen Glück einsammeln! Wenn die OP erfolgreich war, melde ich mich wieder. Danke euch allen!",
         "script": null,
         "comments": [
             {
@@ -5704,7 +5824,7 @@
         "player_reply": []
     },
     "16005": {
-        "id": "16005",
+        "id": 16005,
         "poster": "❤Anonym❤",
         "likes": "75",
         "views": 97,
@@ -5751,7 +5871,7 @@
         "player_reply": []
     },
     "16006": {
-        "id": "16006",
+        "id": 16006,
         "poster": "SchlechterMensch",
         "likes": "0",
         "views": 8349,
@@ -5793,7 +5913,7 @@
         "player_reply": []
     },
     "17001": {
-        "id": "17001",
+        "id": 17001,
         "poster": "Spukschuppen",
         "likes": "105",
         "views": 15742,
@@ -5830,7 +5950,7 @@
         "player_reply": []
     },
     "17002": {
-        "id": "17002",
+        "id": 17002,
         "poster": "LangLebeDerAnführer",
         "likes": "2",
         "views": 179,
@@ -5867,7 +5987,7 @@
         "player_reply": []
     },
     "20001": {
-        "id": "20001",
+        "id": 20001,
         "poster": "Vorab-Leak",
         "likes": "17188",
         "views": 1778,
@@ -5899,7 +6019,7 @@
         "player_reply": []
     },
     "20002": {
-        "id": "20002",
+        "id": 20002,
         "poster": "Gefälschtes_Lexikon",
         "likes": "7188",
         "views": 4510,
@@ -5931,7 +6051,7 @@
         "player_reply": []
     },
     "20003": {
-        "id": "20003",
+        "id": 20003,
         "poster": "Klatschkurier",
         "likes": "2351",
         "views": 7207,
@@ -5963,7 +6083,7 @@
         "player_reply": []
     },
     "20004": {
-        "id": "20004",
+        "id": 20004,
         "poster": "IchWillSpottdrosselBeitreten!",
         "likes": "2",
         "views": 79700,
@@ -6038,7 +6158,7 @@
         ]
     },
     "21001": {
-        "id": "21001",
+        "id": 21001,
         "poster": "Mühlstein-Esel",
         "likes": "996",
         "views": 8996,
@@ -6075,7 +6195,7 @@
         "player_reply": []
     },
     "21002": {
-        "id": "21002",
+        "id": 21002,
         "poster": "Strandwanderer",
         "likes": "5",
         "views": 14541,
@@ -6112,7 +6232,7 @@
         "player_reply": []
     },
     "21003": {
-        "id": "21003",
+        "id": 21003,
         "poster": "Supermutig",
         "likes": "13",
         "views": 21787,
@@ -6154,7 +6274,7 @@
         "player_reply": []
     },
     "21004": {
-        "id": "21004",
+        "id": 21004,
         "poster": "Huangs-Abenteuer-Tagebuch",
         "likes": "1832",
         "views": 11896,
@@ -6186,7 +6306,7 @@
         "player_reply": []
     },
     "21005": {
-        "id": "21005",
+        "id": 21005,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 8325,
@@ -6223,7 +6343,7 @@
         "player_reply": []
     },
     "21006": {
-        "id": "21006",
+        "id": 21006,
         "poster": "Zitronenreiniger",
         "likes": "67",
         "views": 1420,
@@ -6259,13 +6379,13 @@
             {
                 "floor": 6,
                 "commenter": "Pflaumenglückskeks",
-                "content": "Das ist ein Forum über gruselige, übernatürliche Sachen auf Inter-Knot – es gibt dort mehrere Unterforen."
+                "content": "Das ist ein Forum über gruselige, übernatürliche Sachen im Inter-Knot – es gibt dort mehrere Unterforen."
             }
         ],
         "player_reply": []
     },
     "21007": {
-        "id": "21007",
+        "id": 21007,
         "poster": "Ein-Biss-König",
         "likes": "808",
         "views": 3799,
@@ -6307,7 +6427,7 @@
         "player_reply": []
     },
     "21008": {
-        "id": "21008",
+        "id": 21008,
         "poster": "Weh-nene",
         "likes": "15",
         "views": 2103,
@@ -6339,7 +6459,7 @@
         "player_reply": []
     },
     "22001": {
-        "id": "22001",
+        "id": 22001,
         "poster": "Will_ein_Leben_lang_beste_Freunde_sein",
         "likes": "999",
         "views": 1557,
@@ -6376,7 +6496,7 @@
         "player_reply": []
     },
     "22002": {
-        "id": "22002",
+        "id": 22002,
         "poster": "Fass mich nicht an!",
         "likes": "142",
         "views": 2093,
@@ -6428,7 +6548,7 @@
         "player_reply": []
     },
     "22003": {
-        "id": "22003",
+        "id": 22003,
         "poster": "Der_Stift_zeichnet_von_selbst",
         "likes": "983",
         "views": 6832,
@@ -6465,7 +6585,7 @@
         "player_reply": []
     },
     "22004": {
-        "id": "22004",
+        "id": 22004,
         "poster": "Erinnerungen_im_Wind",
         "likes": "12",
         "views": 193,
@@ -6497,7 +6617,7 @@
         "player_reply": []
     },
     "22005": {
-        "id": "22005",
+        "id": 22005,
         "poster": "Will_ein_Leben_lang_beste_Freunde_sein",
         "likes": "1123",
         "views": 9999,
@@ -6549,7 +6669,7 @@
         "player_reply": []
     },
     "23001": {
-        "id": "23001",
+        "id": 23001,
         "poster": "Im-Romanfieber",
         "likes": "51",
         "views": 24815,
@@ -6580,18 +6700,18 @@
             {
                 "floor": 23,
                 "commenter": "MagKeineBerichte",
-                "content": "Ich habe die Posts von „Nachtbotin“ gelesen: Ihr Wissen über die Äthereale übertrifft das vieler Profiermittler. Gleichzeitig ist ihr Alltagsverstand so erstaunlich lückenhaft, dass es unbegreiflich ist ... Was ist da los ..."
+                "content": "Ich habe die Posts von Nachtbotin gelesen: Ihr Wissen über die Äthereale übertrifft das vieler Profiermittler. Gleichzeitig ist ihr Alltagsverstand so erstaunlich lückenhaft, dass es unbegreiflich ist ... Was ist da los ..."
             }
         ],
         "player_reply": []
     },
     "23002": {
-        "id": "23002",
+        "id": 23002,
         "poster": "RückläufigesPech",
         "likes": "245",
         "views": 2110,
-        "title": "[Info] Junger Shifu vom Suibian-Tempel steigt vom Berg!",
-        "text": "Heute bin ich zufällig dem jungen Shifu begegnet. Sie wollen in der Sailume-Bucht einen Wahrsagestand aufmachen und ich war wohl der erste Kunde! Und beim allerersten Ziehen hab ich gleich das beste Los aus dem Glücksorakel erwischt!\nIch bin sonst der Typ, der sich beim Losgehen mit dem linken Fuß am rechten verhakt und beim Umdrehen das Portemonnaie verliert ... Heißt das, mein Pech wendet sich jetzt?\nAch ja: Wer’s ausprobieren will, kommt schnell rüber. Im Moment ist noch wenig los, aber später ... Na, ihr wollt doch keine zwei Stunden anstehen, um zwei Minuten dranzukommen, oder?",
+        "title": "[Info] Junge Meister vom Suibian-Tempel steigen vom Berg!",
+        "text": "Heute bin ich zufällig einem jungen Meister begegnet. Sie wollen in der Sailume-Bucht einen Wahrsagestand aufmachen und ich war wohl der erste Kunde! Und beim allerersten Ziehen hab ich gleich das beste Los aus dem Glücksorakel erwischt!\nIch bin sonst der Typ, der sich beim Losgehen mit dem linken Fuß am rechten verhakt und beim Umdrehen das Portemonnaie verliert ... Heißt das, mein Pech wendet sich jetzt?\nAch ja: Wer’s ausprobieren will, kommt schnell rüber. Im Moment ist noch wenig los, aber später ... Na, ihr wollt doch keine zwei Stunden anstehen, um zwei Minuten dranzukommen, oder?",
         "script": null,
         "comments": [
             {
@@ -6632,13 +6752,13 @@
             {
                 "floor": 8,
                 "commenter": "PiImKopf",
-                "content": "Äh! Leih mir mal kurz den Thread für Werbung: Mein Wahrsage-Dienst mit Kopfrechnen bewahrt die mystische Aura des traditionellen Orakelns und nutzt zugleich die neusten Glücksformeln — die perfekte Balance aus Gefühl und Genauigkeit. Adresse hier: [Klick für Details].\nKein leeres Geschwätz — meine Methode ist weit bodenständiger als diese hippen „Wahrsage-Startups“!"
+                "content": "Äh! Leih mir mal kurz den Thread für Werbung: Mein Wahrsage-Dienst mit Kopfrechnen bewahrt die mystische Aura des traditionellen Orakelns und nutzt zugleich die neusten Glücksformeln – die perfekte Balance aus Gefühl und Genauigkeit. Adresse hier: [Klick für Details].\nKein leeres Geschwätz – meine Methode ist weit bodenständiger als diese hippen „Wahrsage-Startups“!"
             }
         ],
         "player_reply": []
     },
     "23003": {
-        "id": "23003",
+        "id": 23003,
         "poster": "IchWeißZuViel",
         "likes": "142",
         "views": 2100,
@@ -6685,7 +6805,7 @@
         "player_reply": []
     },
     "23004": {
-        "id": "23004",
+        "id": 23004,
         "poster": "Mitternächtliche Hufschläge",
         "likes": "449",
         "views": 6902,
@@ -6722,7 +6842,7 @@
         "player_reply": []
     },
     "23005": {
-        "id": "23005",
+        "id": 23005,
         "poster": "Zitronenkuchen",
         "likes": "1194",
         "views": 31502,
@@ -6774,7 +6894,7 @@
         "player_reply": []
     },
     "23006": {
-        "id": "23006",
+        "id": 23006,
         "poster": "Mini-Kalmarblüte",
         "likes": "702",
         "views": 19562,
@@ -6831,7 +6951,7 @@
         "player_reply": []
     },
     "23007": {
-        "id": "23007",
+        "id": 23007,
         "poster": "Bananenburger",
         "likes": "2292",
         "views": 37702,
@@ -6883,7 +7003,7 @@
         "player_reply": []
     },
     "25001": {
-        "id": "25001",
+        "id": 25001,
         "poster": "Metis’Intelligenz_Bot3",
         "likes": "5147",
         "views": 18403,
@@ -6925,7 +7045,7 @@
         "player_reply": []
     },
     "25002": {
-        "id": "25002",
+        "id": 25002,
         "poster": "Chef im Himmel",
         "likes": "233",
         "views": 2341,
@@ -6962,7 +7082,7 @@
         "player_reply": []
     },
     "25003": {
-        "id": "25003",
+        "id": 25003,
         "poster": "Chef im Himmel",
         "likes": "233",
         "views": 5433,
@@ -7009,7 +7129,7 @@
         "player_reply": []
     },
     "25004": {
-        "id": "25004",
+        "id": 25004,
         "poster": "Das war’s",
         "likes": "141",
         "views": 44444,
@@ -7061,7 +7181,7 @@
         "player_reply": []
     },
     "25005": {
-        "id": "25005",
+        "id": 25005,
         "poster": "Live-Bericht vom Schauplatz",
         "likes": "1194",
         "views": 51502,
@@ -7113,7 +7233,7 @@
         "player_reply": []
     },
     "25006": {
-        "id": "25006",
+        "id": 25006,
         "poster": "UnorthodoxerUnsterblicher",
         "likes": "268",
         "views": 6709,
@@ -7158,7 +7278,7 @@
         ]
     },
     "25007": {
-        "id": "25007",
+        "id": 25007,
         "poster": "Alter_Künstler",
         "likes": "681",
         "views": 16286,
@@ -7205,7 +7325,7 @@
         "player_reply": []
     },
     "25008": {
-        "id": "25008",
+        "id": 25008,
         "poster": "FleißigesMuli",
         "likes": "32",
         "views": 2623,
@@ -7242,7 +7362,7 @@
         "player_reply": []
     },
     "25009": {
-        "id": "25009",
+        "id": 25009,
         "poster": "MausAufGeldjagd",
         "likes": "3429",
         "views": 37702,
@@ -7294,7 +7414,7 @@
         "player_reply": []
     },
     "25010": {
-        "id": "25010",
+        "id": 25010,
         "poster": "muss_anonym_bleiben",
         "likes": "3245",
         "views": 35467,
@@ -7346,7 +7466,7 @@
         "player_reply": []
     },
     "25011": {
-        "id": "25011",
+        "id": 25011,
         "poster": "Spukschuppen – Archäologie-Team",
         "likes": "5647",
         "views": 32145,
@@ -7393,28 +7513,28 @@
         "player_reply": []
     },
     "26002": {
-        "id": "26002",
+        "id": 26002,
         "poster": "RuhigUndGefasst",
         "likes": "8567",
         "views": 2349,
         "title": "[Information] Als erfahrener Höhlenheld-Veteran habe ich ein paar Tipps für Neulinge ...",
-        "text": "Ich habe beim Höhlenhelden-Wettbewerb schon ein paar Mal mitgemacht, daher hier ein paar Ratschläge für die Neuen. Bild zeigt die Preisgelder als Beleg.\n\n1. Einstiegstipps\nIch empfehle nur zwei Arten von Leuten die Teilnahme: die mit absolutem Vertrauen in ihre Fähigkeiten und die, die am Ende ihres Weges stehen. Wenn ihr halbherzig nur euer Glück versuchen wollt, hört lieber jetzt auf. Wenn ihr nicht bereit seid, euer Leben aufs Spiel zu setzen, wird das nicht gut ausgehen.\n\n2. Teamtipps\nEgal wie erfahren, egal wie kampfstark ihr seid, schluckt euren Stolz und sucht euch Mitstreiter. Einzelgänger gehen unter und bleiben zurück. Wen ihr findet, hängt von euren Fähigkeiten ab.\nAußerdem: Besorgt euch einen Proxy!!!\nDie Möhrendaten der Veranstalter sind nur als letzte Option gedacht. Wenn etwas schiefgeht, sind sie niemals so hilfreich wie ein echter, lebendiger Proxy. Soweit ich weiß, treten viele Proxys genau dafür an, um sich von zahlungskräftigen Teilnehmern zu Wucherpreisen anheuern zu lassen.\n\n3. Punkteklau\nUnangenehm, aber das Furchterregendste in diesem Wettbewerb waren nie die Äthereale, sondern die menschliche Natur. Andere Teilnehmer auszuschalten, um ihre Punkte zu stehlen, ist so gut wie die einzige Abkürzung. Selbst wenn ihr das nicht wollt, werden euch andere auf diesen Weg drängen. Gebt euch keinen Illusionen hin.\nUnd Punkte stehlen ist noch gnädig im Vergleich zu dem, was passiert, wenn ihr auf Feinde mit offener Rechnung trefft ... In so einer chaotischen Arena fragt keiner danach, wenn ein paar Leute verschwinden.\n\nJa, der Wettbewerb ist brutal, aber für viele ist er auch die nächstmögliche Chance auf Ruhm im Leben. Wie auch immer es ausgeht, viel Glück, zukünftige Höhlenhelden.",
+        "text": "Ich habe beim Höhlenhelden-Wettbewerb schon ein paar Mal mitgemacht, daher hier ein paar Ratschläge für die Neuen. Bild zeigt die Preisgelder als Beleg.\n\n1. Einstiegstipps\nIch empfehle nur zwei Arten von Leuten die Teilnahme: die mit absolutem Vertrauen in ihre Fähigkeiten und die, die am Rande der Verzweiflung stehen. Wer nur halbherzig sein Glück versuchen will, gibt besser gleich auf. Für die, die nicht bereit ist, ihr Leben aufs Spiel zu setzen, wird das nicht gut ausgehen.\n\n2. Teamtipps\nEgal, wie erfahren oder kampfstark ihr seid, schluckt euren Stolz und sucht euch Mitstreiter. Einzelgänger gehen unter und bleiben zurück. Wen ihr findet, hängt von euren Fähigkeiten ab.\nAußerdem: Besorgt euch einen Proxy!!!\nDie Möhrendaten der Veranstalter sind nur als letzte Option gedacht. Wenn etwas schiefgeht, sind sie niemals so hilfreich wie ein echter, lebendiger Proxy. Soweit ich weiß, treten viele Proxys genau dafür an, um sich von zahlungskräftigen Teilnehmern zu Wucherpreisen anheuern zu lassen.\n\n3. Punkteklau\nUnangenehm, aber das Furchterregendste in diesem Wettbewerb waren nie die Äthereale, sondern die menschliche Natur. Andere Teilnehmer auszuschalten, um ihre Punkte zu stehlen, ist so gut wie die einzige Abkürzung. Selbst wenn ihr das nicht wollt, werden euch andere auf diesen Weg drängen. Gebt euch keinen Illusionen hin.\nUnd Punkte stehlen ist noch gnädig im Vergleich zu dem, was passiert, wenn ihr auf Feinde mit offener Rechnung trefft ... In so einer chaotischen Arena kümmert sich niemand darum, wenn ein paar Leute verschwinden.\n\nJa, der Wettbewerb ist brutal, aber für viele ist er auch die nächstmögliche Chance auf Ruhm im Leben. Wie auch immer es ausgeht, viel Glück, zukünftige Höhlenhelden.",
         "script": null,
         "comments": [
             {
                 "floor": 1,
                 "commenter": "LebenslangerIntrovertierter",
-                "content": "So ein lieber Kommentar, mir kommen echt die Tränen! Wenn ich mich nur mit dir zusammentun könnte."
+                "content": "Oh, TE! Das ist so lieb von dir! Mir kommen echt die Tränen! Wenn ich mich nur mit dir zusammentun könnte ..."
             },
             {
                 "floor": 2,
                 "commenter": "Schlafstudie",
-                "content": "TE ist echt ein toller Typ. So ein Insider, der auspackt, ist heutzutage selten. Nach der Haltung zu urteilen, wollen sie wohl aufhören. Aber wenn sie das Können für einen Sonderpreis haben, warum aufhören? Und dieser mechanische Arm ... klar, hochwertiges Zeug, aber was soll eine normale Person damit anfangen? Nicht dass das am Ende das ist, was die anderen Teilnehmer ausgeschlagen haben?"
+                "content": "TE ist echt ein toller Typ. So ein Insider, der auspackt, ist heutzutage selten. Aber es klingt nicht, als hätte er vor, teilzunehmen. Wenn er das Können für einen Sonderpreis hat, warum will er aufhören? Und dieser mechanische Arm ist natürlich eindeutig hochwertiges Zeug, aber was soll eine normale Person damit anfangen? Nicht, dass das am Ende nur ein Preis ist, den die anderen Teilnehmer nicht wollten?"
             },
             {
                 "floor": 3,
                 "commenter": "[TE] RuhigUndGefasst",
-                "content": "So wie mein Körper gerade drauf ist, könnte ich selbst wenn ich wollte nicht mehr mitmachen. Beim letzten Turnier hat mich jemand aus Rache angegangen, und ich habe einen Arm verloren. Und rate mal ... im Preispool gab es zufällig einen mechanischen Arm. Heh, was für ein verdrehter Zufall."
+                "content": "Aufgrund meines körperlichen Zustands könnte ich, selbst wenn ich wollte, nicht mehr mitmachen. Beim letzten Turnier hat mich jemand aus Rache angegangen, und ich habe einen Arm verloren. Und, wie es das Schicksal so wollte, gab es im Preispool zufällig einen mechanischen Arm ... Heh, was für ein verdrehter Zufall."
             },
             {
                 "floor": 4,
@@ -7424,34 +7544,34 @@
             {
                 "floor": 5,
                 "commenter": "KeinZurückMehr",
-                "content": "Man hört, dass der diesjährige Wettbewerb ein Sponsoring von der TOPS-Allianz bekommen hat, also wird es größer als je zuvor, und die Preise sind erstklassig. Gerade jetzt aufzuhören ... echt schade ..."
+                "content": "Man hört, dass der diesjährige Wettbewerb von der TOPS-Allianz gesponsert wird, also wird er größer als je zuvor und die Preise sind erstklassig. Gerade jetzt aufzuhören ... Echt schade ..."
             },
             {
                 "floor": 6,
                 "commenter": "TödlicheWunde",
-                "content": "ELHA hat echt keinen Stil. Ein Spieler mit so einem Vermächtnis hätte Anerkennung verdient, weißt du? Wenigstens irgendwelche Ruhestandsvorteile oder so. Ihn einfach so gehen zu lassen? Das ist ein Schlag ins Gesicht für die langjährigen Teilnehmer."
+                "content": "HEAL hat echt keinen Stil. Ein Spieler mit so einem Vermächtnis hätte Anerkennung verdient, weißt du? Wenigstens irgendwelche Ruhestandsvorteile oder so. Ihn einfach so gehen zu lassen? Das ist ein Schlag ins Gesicht für die langjährigen Teilnehmer."
             }
         ],
         "player_reply": []
     },
     "26003": {
-        "id": "26003",
+        "id": 26003,
         "poster": "SeeleDerGerechtigkeit",
         "likes": "671",
         "views": 1379,
         "title": "[Plauderei] Hat jemand Lust, sich für den Wettbewerb zusammenzutun?",
-        "text": "Mal im Ernst, findet ihr nicht, dass die Ausrüstung im Höhlenhelden-Wettbewerb genauso aussieht wie ein Sternenlichtritter-Verwandlungsgerät?\nNoch verrückter ist, dass der W-Motor Flint-Porcelloy, die legendäre ultimative Ausrüstung für intelligente Konstrukte, wirklich zu gewinnen ist!\nDas ist die nächste Generation, heißt es, fehlerlos, selbstadaptiv, und strahlt pure Kraft aus! Könnte es einen cooleren Preis geben?\n\nHelden, Verwandlungsgeräte, ultimative Ausrüstung ... schon beim Zuhören kribbelt es mir im Blut! Mein Gerechtigkeitssinn erwacht!\nIch bin dabei! Ich melde mich sofort an! Wer macht mit? Ich mach das locker alles alleine! Zieht mich nur nicht runter!",
+        "text": "Mal im Ernst, findet ihr nicht, dass die Ausrüstung beim Höhlenhelden-Wettbewerb genauso aussieht wie ein Sternenlichtritter-Verwandlungsgerät?\nNoch verrückter ist, dass der W-Motor „Flint-Porcelloy“, diese legendäre ultimative Ausrüstung für intelligente Konstrukte, wirklich zu gewinnen ist!\nDas ist die nächste Generation, angeblich makellos, selbstadaptiv, und strahlt pure Kraft aus! Könnte es einen cooleren Preis geben?!\n\nHelden, Verwandlungsgeräte, ultimative Ausrüstung – schon beim Zuhören kribbelt es mir im Blut! Mein Gerechtigkeitssinn erwacht!\nIch bin dabei! Ich melde mich sofort an! Wer macht mit? Ich mach das locker alles alleine! Haltet mich nur nicht zurück!",
         "script": null,
         "comments": [
             {
                 "floor": 1,
-                "commenter": "Magische_Miesmuschel",
-                "content": "Und keine Panik, angeblich gibt es im Preispool sogar Meet-and-Greet-Tickets mit den Sternenlichtrittern ..."
+                "commenter": "Magische_Muschel",
+                "content": "Rastet nicht gleich alle aus, aber angeblich gibt es im Preispool sogar Meet-and-Greet-Tickets mit den Sternenlichtrittern ..."
             },
             {
                 "floor": 2,
                 "commenter": "[TE] SeeleDerGerechtigkeit",
-                "content": "Beim letzten Mal habe ich mir vor lauter Hektik das Handy zerschlagen und trotzdem kein Ticket bekommen. Also HIER hat es auf mich gewartet ... Das hole ich mir. Es wird meins!"
+                "content": "Beim letzten Mal habe ich vor lauter Aufregung mein Handy fallen lassen und mein Display zertrümmert, und trotzdem kein Ticket bekommen. Diesmal, hier und jetzt, werde ich mir eines krallen! Es wird mir gehören!"
             },
             {
                 "floor": 3,
@@ -7471,18 +7591,18 @@
             {
                 "floor": 6,
                 "commenter": "NurEinInformationsvermittler",
-                "content": "Hm ... ist das nicht bloß Werbung von Rusty Cliff für die nächste Generation ihrer Rüstungstechnik? Klingt großartig, aber benutzt hat es noch niemand."
+                "content": "Ist das ... nicht bloß Werbung von Rusty Cliff für die nächste Generation ihrer Rüstungstechnik? Klingt zwar großartig, aber benutzt hat es ja eigentlich noch niemand."
             }
         ],
         "player_reply": []
     },
     "26004": {
-        "id": "26004",
+        "id": 26004,
         "poster": "SchweifDesDämons",
         "likes": "469",
         "views": 1424,
         "title": "[Information] Ein Konstrukt hat jemanden verletzt! Und das auch noch in der Höhle!",
-        "text": "Ich hab’s mit eigenen Augen gesehen. In der Gegend der Lemnian-Höhle ist ein völlig normal wirkendes Konstrukt plötzlich ausgerastet und hat jemanden angegriffen! Die junge, zierliche Frau war völlig unvorbereitet, ich fürchte, das wird böse ausgehen ... Ich selbst lag eine Ewigkeit in Deckung, bis kein Geräusch mehr zu hören war, und bin erst dann halb kriechend, halb stolpernd geflüchtet. Meine Hände zittern immer noch ... Das Ding streift vermutlich noch in der Nähe umher. Also bitte, kommt in nächster Zeit auf keinen Fall hierher!\nGerüchte dazu gab es schon: Auch in der Stadt soll es zuletzt mehrere Fälle von außer Kontrolle geratenen Konstrukten gegeben haben. Scheint also nicht aus der Luft gegriffen zu sein ... Passt bitte auf euch auf. Die Konstrukte um uns wirken freundlich, aber niemand weiß, welche Befehle in ihren Logikkernen tatsächlich laufen ...",
+        "text": "Ich hab’s mit eigenen Augen gesehen. In der Lemnian-Höhle ist ein völlig normal wirkendes Konstrukt plötzlich ausgerastet und hat jemanden angegriffen! Die junge, zierliche Frau war völlig unvorbereitet und hatte keine Chance ... Ich fürchte, ihr Zustand ist nicht gut. Ich selbst lag eine Ewigkeit in Deckung, bis kein Geräusch mehr zu hören war, und bin erst dann halb kriechend, halb stolpernd geflüchtet. Meine Hände zittern immer noch ... Das Ding streift vermutlich noch in der Nähe umher. Also bitte, kommt in nächster Zeit auf keinen Fall hierher!\nGerüchte dazu gab es schon: Auch in der Stadt soll es zuletzt mehrere Fälle von außer Kontrolle geratenen Konstrukten gegeben haben. Das schien also doch nicht einfach aus der Luft gegriffen zu sein ...\nPasst bitte auf euch auf. Die Konstrukte um uns wirken freundlich, aber niemand weiß, welche Befehle in ihren Logikkernen tatsächlich laufen ...",
         "script": null,
         "comments": [
             {
@@ -7492,13 +7612,13 @@
             },
             {
                 "floor": 2,
-                "commenter": "VollkommenerMensch",
-                "content": "Wie auch immer, fest steht: Ein Konstrukt hat jemanden verletzt. Vielleicht sollten wir unser Verhältnis zu diesen Freunden überdenken, am Ende sind sie eben doch nicht wie wir Menschen."
+                "commenter": "MussIchAuchArbeiten?",
+                "content": "Wie auch immer, fest steht, dass ein Konstrukt jemanden verletzt hat. Vielleicht sollten wir unser Verhältnis zu diesen sogenannten Freunden überdenken ... Am Ende sind sie eben doch nicht menschlich."
             },
             {
                 "floor": 3,
                 "commenter": "BinIchNichtEinGenie",
-                "content": "Melde mich als Militärfan: Die beiden Konstrukte da sehen klar nach serienmäßigen Militärmodellen aus. Diesen Typ habe ich aber noch nie gesehen ... Die menschenähnlichen Konstrukte, denen wir sonst begegnen, haben in der Regel den Test der verbotenen Frucht bestanden, aber diese zwei scheinen keinen eigenen Willen zu haben ... Schon merkwürdig."
+                "content": "Melde mich als Militärfan! Die beiden Konstrukte da sehen klar nach serienmäßigen Militärmodellen aus. Diesen Typ habe ich aber noch nie gesehen ... Die menschenähnlichen Konstrukte, denen wir sonst begegnen, haben in der Regel den Test der verbotenen Frucht bestanden, aber diese zwei scheinen kein eigenes Selbstbewusstsein zu haben ... Schon merkwürdig."
             },
             {
                 "floor": 4,
@@ -7513,7 +7633,7 @@
             {
                 "floor": 6,
                 "commenter": "VollkommenerMensch",
-                "content": "Müsst ihr aus Einzelfällen immer gleich eine generelle Gefahr machen? Für mich gibt es keinen grundlegenden Unterschied zwischen Konstrukten und Menschen, es sei denn, Meister Tin setzt mir morgen beim Kaffeekauf die Tasse auf den Kopf."
+                "content": "Müsst ihr aus Einzelfällen immer gleich eine generelle Gefahr machen? Für mich gibt es keinen grundlegenden Unterschied zwischen Konstrukten und Menschen, es sei denn, Meister Tin brät mir morgen beim Kaffeekauf eins mit der Tasse über."
             },
             {
                 "floor": 7,
@@ -7523,12 +7643,12 @@
             {
                 "floor": 8,
                 "commenter": "KuriosesWissen",
-                "content": "Heißt das ... wieder der Exaltiertenrat? Ich dachte immer, deren Expertise liegt in der Biopharma, nicht auch noch in Maschinenbau ..."
+                "content": "Sind ... das wieder die Exaltierten? Ich dachte immer, deren Expertise liegt in der Biopharma, nicht auch noch im Maschinenbau ..."
             },
             {
                 "floor": 9,
                 "commenter": "SieIstAnders",
-                "content": "Ablenkung bringt uns nicht weiter! Wie man es dreht und wendet, die Bedenken hier sind berechtigt ... Mindestens sollten die gezeigten Konstrukte für den Angriff auf eine unbeteiligte Bürgerin zur Rechenschaft gezogen werden!"
+                "content": "Jetzt wechsel doch nicht das Thema! Egal, wie man es dreht und wendet, die Bedenken hier sind berechtigt ... Mindestens sollten die gezeigten Konstrukte für den Angriff auf eine unbeteiligte Bürgerin zur Rechenschaft gezogen werden!"
             },
             {
                 "floor": 10,
@@ -7538,84 +7658,84 @@
         ],
         "player_reply": [
             "Ich bin vor Ort. Das Bildmaterial stimmt nicht mit der Realität überein.",
-            "Ich bin vor Ort. Bitte verbreite keine Gerüchte, Ersteller des Beitrags."
+            "Ich bin vor Ort. Bitte verbreite keine Gerüchte, TE."
         ]
     },
     "26005": {
-        "id": "26005",
+        "id": 26005,
         "poster": "GlückUndGelingen",
         "likes": "16",
         "views": 3571,
         "title": "[Plauderei] Was soll dieser Werbefilm zur Lichtzeremonie bedeuten?",
-        "text": "Eigentlich war die Stimmung am Tag der goldenen Möhre richtig festlich und das Programm recht lebhaft. Doch plötzlich ging es um die Gefährlichkeit von Konstrukten, und mitten im Beitrag machte es eine abrupte Kehrtwende und wurde zu Werbung für eine Aufführung?? Was ist das bitte für ein Kuddelmuddel! Man lästert ja häufig, dass die Programmdramaturgie der Lichtzeremonie immer weiter abbaut, aber so sinnfrei muss es nun wirklich nicht werden ...",
+        "text": "Eigentlich war die Stimmung am Tag der goldenen Möhre richtig festlich und das Programm recht lebhaft. Doch plötzlich ging es um die Gefährlichkeit von Konstrukten, und mittendrin gab’s eine abrupte Kehrtwende und dann kam Werbung für eine Aufführung??? Was ist das bitte für ein Kuddelmuddel! Man lästert ja häufig, dass die Programmdramaturgie der Lichtzeremonie immer weiter abbaut, aber so sinnfrei muss es nun wirklich nicht werden ...",
         "script": null,
         "comments": [
             {
                 "floor": 1,
                 "commenter": "FeinsinnigerZuschauer",
-                "content": "Ich bin auch völlig ratlos, wessen Geistesblitz das wohl war?\nAber das ist die Lichtzeremonie! Die Sendung mit den höchsten Einschaltquoten im ganzen Jahr, wer traut sich so etwas – will der seinen Job loswerden?"
+                "content": "Ich bin auch völlig verwirrt. Wessen Geistesblitz das wohl war?\nAber das ist die Lichtzeremonie! Die Sendung mit den höchsten Einschaltquoten im ganzen Jahr! Wer immer sich getraut hat, das abzuziehen, wollte wohl seinen Job loswerden?"
             },
             {
                 "floor": 2,
                 "commenter": "Besenbändiger",
-                "content": "Könnte es sein – ein extrem versierter, wagemutiger Spitzenhacker hat den Übertragungsdatenstrom gekapert, um nebenbei seine gefährlichen Ansichten zu verbreiten. Am Ende hat der Sender jedoch gekontert und das Bild in letzter Minute wiederhergestellt?"
+                "content": "Könnte es sein, dass ein extrem versierter, wagemutiger Spitzenhacker den Übertragungsdatenstrom gekapert hat, um seine gefährlichen Ansichten zu verbreiten? Doch am Ende konnte der Sender gegen ihn ankommen und das Bild in letzter Minute wiederherstellen?"
             },
             {
                 "floor": 3,
                 "commenter": "Mittagspferd",
-                "content": "Ein „Spitzenhacker“ macht so ein riesiges Theater, nur um die längst veraltete These von der Bedrohung durch Konstrukte zu propagieren – was soll das? Kommt jetzt etwa wieder die alte Science-Fiction von früher hoch?"
+                "content": "Ein „Spitzenhacker“ macht so ein riesiges Theater, nur um die längst veraltete These von der Bedrohung durch Konstrukte zu propagieren? Was soll das? Kommt jetzt etwa wieder die alte Science-Fiction von früher hoch?"
             },
             {
                 "floor": 4,
                 "commenter": "Hellster_Stern",
-                "content": "Ich habe gehört, die ursprünglich für die Lichtzeremonie eingeplante Gästin war Vesper, eine der Konstruktsängerinnen aus der Übertragung ... Wenn das stimmt, lag das Werbematerial ja fix und fertig vor – warum ist sie am Ende doch nicht aufgetreten? Weiß jemand etwas?"
+                "content": "Ich habe gehört, der ursprünglich für die Lichtzeremonie eingeplante Gast war Vesper, eine der Konstruktsängerinnen aus der Übertragung ... Wenn das stimmt, lag das Werbematerial ja fix und fertig vor – warum ist sie am Ende doch nicht aufgetreten? Weiß jemand etwas?"
             },
             {
                 "floor": 5,
                 "commenter": "Kriegsreporter",
-                "content": "Ich weiß es! Ich war vor Ort auf den Failume-Höhen und bin vor Beginn der Übertragung zufällig Vesper, einem Sicherheitsoffizier und einem freundlichen jungen Hasenthiren begegnet, die zusammen sprachen. Am Ende ist Vesper mit der Hasenthiren weggegangen. Ist wohl nichts Großes – vielleicht hatte Vespers Körper eine Störung ...?"
+                "content": "Ja! Ich war vor Ort in den Failume-Höhen und bin vor Beginn der Übertragung zufällig Vesper, einer Sicherheitsoffizierin, und einer niedlichen Hasenthirendame begegnet, die zusammen sprachen. Am Ende ist Vesper mit der Hasenthiren weggegangen. Schien aber nichts Ernstes zu sein – vielleicht hatte Vespers Körper eine Störung ...?"
             },
             {
                 "floor": 6,
                 "commenter": "Online_Kartenverkauf",
-                "content": "Im Inter-Knot trifft man die ganze Welt!"
+                "content": "WeltTrifftInterKnot"
             },
             {
                 "floor": 7,
                 "commenter": "Rufschaden",
-                "content": "Ehrlich gesagt, ich werde jedes Jahr von den Älteren zur Lichtzeremonie verdonnert, aber dieser plötzliche Vorfall hat mich tatsächlich überrascht – mutmaßlicher Live-Patzer und Cerseas Comeback – wenigstens war es diesmal nicht so langweilig!"
+                "content": "Mal ganz im Ernst? Jedes Jahr werde ich von meinen Älteren zur Lichtzeremonie geschleppt, und mittlerweile war ich’s echt leid, aber zwischen dem mutmaßlichen Live-Patzer und Cerseas Comeback war’s diesmal wenigstens nicht so langweilig!"
             }
         ],
         "player_reply": []
     },
     "26006": {
-        "id": "26006",
+        "id": 26006,
         "poster": "Ridu_Detektiv",
         "likes": "1521",
         "views": 3147,
-        "title": "[Plauderei] Ist das „404“ auf der Sixth Street der Auftrittsort von Cerseas Schülern?",
-        "text": "Alle Augen auf mich! Ich glaube, ich weiß, wer Cerseas Schüler sind!\nIn den Making-ofs der Lichtzeremonie hat Cersea im Interview doch gesagt, sie singe ein Lied, das ihre Schüler geschrieben haben, oder? Ich habe alle Erfolgsalben der letzten Jahre durchforstet und das Lied nicht gefunden – bis mir auffiel, dass mich ein Denkfehler in die Irre geführt hat: Cersea hat nie gesagt, dass ihre Schüler bereits berühmte Sänger sind.\nAlso habe ich in den letzten zwei Tagen umgedacht und so gut wie alle Live-Bühnen im Bezirk Janus abgeklappert – und endlich:\nEine Idol-Gruppe namens Angels of Delusion hat im „404“ eine Residenz. Ihr neuer Song ist genau der, den Cersea singt, und ihre Auftritte sind richtig stark. Ich bin eher der traditionelle Typ und hatte mit Idol-Kultur kaum Berührung – aber die Live-Show ist so charmant und süß, dass ich zum Fan geworden bin.\nKurzum: Sehr zu empfehlen. Selbst wenn die Angels of Delusion nichts mit Cersea zu tun hätten, hätten sie viel mehr Aufmerksamkeit verdient.",
+        "title": "[Plauderei] Ist das „404“ auf der Sixth Street der Auftrittsort von Cerseas Lehrlingen?",
+        "text": "Alle Augen auf mich! Ich glaube, ich weiß, wer Cerseas Lehrlinge sind!\nIn den Making-ofs der Lichtzeremonie hat Cersea im Interview doch gesagt, sie hätte ein Lied gesungen, das ihre Lehrlinge geschrieben haben, oder? Ich habe alle Erfolgsalben der letzten Jahre durchforstet und das Lied nicht gefunden – bis mir auffiel, dass mich ein Denkfehler in die Irre geführt hat: Cersea hat nie gesagt, dass ihre Lehrlinge bereits berühmte Sängerinnen sind.\nAlso habe ich in den letzten zwei Tagen umgedacht und so gut wie alle Live-Bühnen im Bezirk Janus abgeklappert – und endlich ...\nIm 404 tritt regelmäßig eine Idol-Gruppe namens „Angels of Delusion“ auf. Ihr neuer Song ist genau der, den Cersea gesungen hat, und ihre Auftritte sind richtig stark. Ich bin eher der traditionelle Typ und hatte mit Idol-Kultur kaum Berührung – aber die Live-Shows sind so charmant und süß, dass ich zum Fan geworden bin.\nKurzum: sehr zu empfehlen. Selbst wenn die „Angels of Delusion“ doch nichts mit Cersea zu tun haben, hätten sie viel mehr Aufmerksamkeit verdient.",
         "script": null,
         "comments": [
             {
                 "floor": 1,
                 "commenter": "InoffiziellesKonto_Angels_of_Delusion",
-                "content": "Folgt_den_Angels_of_Delusion_miau_danke_miau"
+                "content": "Folgt den „Angels of Delusion“, miau! Folgt den „Angels of Delusion“, miau! Danke, miau!"
             },
             {
                 "floor": 2,
                 "commenter": "Was_bedeutet_das",
-                "content": "„404“?! Ich wohne ganz in der Nähe und wusste das gar nicht. Wenn ich jetzt hingehe, treffe ich vielleicht Lady Cersea?"
+                "content": "Im 404?! Ich wohne ganz in der Nähe und wusste das gar nicht. Wenn ich jetzt hingehe, treffe ich vielleicht Lady Cersea?!"
             },
             {
                 "floor": 3,
                 "commenter": "KalauerMeister",
-                "content": "Ich glaube, ihr habt euch vertan, denn [404 Not Found]."
+                "content": "Ich glaube, hier liegt ein Irrtum vor, denn „404 nicht gefunden“."
             },
             {
                 "floor": 4,
                 "commenter": "[TE] RiduDetektiv",
-                "content": "Ich bitte dich inständig."
+                "content": "Ist das dein Ernst?"
             },
             {
                 "floor": 5,
@@ -7625,40 +7745,40 @@
             {
                 "floor": 6,
                 "commenter": "Kein_Stolz_keine_Hast",
-                "content": "Juhu, die kleinen Engel werden endlich gesehen. Nur – ich hoffe, dass alle, die ins 404 kommen, wirklich wegen der Show kommen und ihnen nicht das normale Leben stören."
+                "content": "Juhu, die kleinen Engel werden endlich berühmt! Das haben sie echt verdient! Nur hoffe ich, dass alle, die ins 404 kommen, wirklich wegen der Shows kommen und nicht, um sie im Alltag zu belästigen ..."
             },
             {
                 "floor": 7,
                 "commenter": "Sahneschnitte",
-                "content": "Postet nicht weiter ... *heul* ... nehmt mir meine Angels of Delusion nicht weg. Ich unterstütze diese Nischenschätze schon so lange – wenn sie groß rauskommen, werden die Chancen, sie zu treffen, sicher immer kleiner."
+                "content": "Postet nicht weiter ... *heul* ... Nehmt mir meine „Angels of Delusion“ nicht weg! Ich unterstütze diese Nischenschätze schon so lange – wenn sie groß rauskommen, werden die Chancen, sie zu treffen, sicher immer kleiner ..."
             },
             {
                 "floor": 8,
                 "commenter": "Sunnas_Superfan",
-                "content": "Du da oben bist ja ein falscher Fan – wer wünscht sich bitte, dass sein Favorit ewig unter dem Radar bleibt? Völlig absurd."
+                "content": "Du da über mir bist ja ein falscher Fan – wer wünscht sich bitte, dass sein Favorit ewig unter dem Radar bleibt?! Völlig absurd!"
             },
             {
                 "floor": 9,
                 "commenter": "Leuchtstab",
-                "content": "Immer mit der Ruhe, der Vorposter wollte wohl nur scherzen.\nAber mal ehrlich: Bei ihrer Verpeiltheit wird es wohl noch dauern, bis sie richtig berühmt sind. Auf den Tickets für die Auftritte am Tag der goldenen Möhre fand ich jedenfalls keinen Hinweis, wie man ihnen folgen kann – diese drei sind wirklich schwer zu fassen."
+                "content": "Immer mit der Ruhe, der Vorposter wollte sicher nur scherzen.\nAber mal ehrlich: Bei ihrer Verpeiltheit wird es wohl noch dauern, bis sie richtig berühmt sind. Auf den Tickets für die Auftritte am Tag der goldenen Möhre fand ich jedenfalls keinen Hinweis, wie man ihnen folgen kann – diese drei sind wirklich schwer zu fassen."
             },
             {
                 "floor": 11,
                 "commenter": "TagträumerDelulu",
-                "content": "*heul* ... die Lieder unserer kleinen Sunna sind die besten. Freue mich auf den neuen Song."
+                "content": "Och, die Lieder unserer kleinen Sunna sind die besten! Freue mich schon auf den neuen Song~"
             }
         ],
         "player_reply": [
-            "Wer bist du? Bitte unterstütze die Angels of Delusion.",
-            "Es wird noch mehr neue Lieder geben."
+            "Bitte unterstützt alle die „Angels of Delusion“!",
+            "Es wird noch mehr neue Lieder geben!"
         ]
     },
     "26007": {
-        "id": "26007",
+        "id": 26007,
         "poster": "Einziges offizielles Konto der „Angels of Delusion“",
         "likes": "2854",
         "views": 3454,
-        "title": "[Plauderei] Die Aufstiegsreise der Angels of Delusion startet offiziell!",
+        "title": "[Plauderei] Die Aufstiegsreise der „Angels of Delusion“ startet offiziell!",
         "text": "Hallo zusammen! Wir sind die Idol-Gruppe „Angels of Delusion“ und wir sind SO aufgeregt, bald auf der Bühne von „New Eridus Nachwuchsstar“ zu stehen ...\nWir können es selbst kaum glauben ... dass wir euch alle schon ganz bald in unserem ersten Livestream sehen werden! Wir sind ein bisschen nervös, etwas überwältigt, und jedes Mal, wenn wir vor der Kamera stehen, rast unser Herz ... aber sobald wir daran denken, wie wir nach Start der Übertragung die strahlenden Gesichter unserer Delulus sehen, platzen wir vor Vorfreude ...!\n\nSunna hat einmal gesagt ... „Wunschdenken“ kommt genau dann, wenn man es am wenigsten erwartet. Es leuchtet heller als Sternenlicht, blendender noch als die Sonne ...\nUnd was wir tun müssen, ist nach vorn zu laufen, uns ganz in dieses Wunschdenken zu stürzen und uns vor allen von unserer besten Seite zu zeigen ... ohne irgendetwas zurückzuhalten!\n\nAb jetzt nutzen wir dieses Konto, um unseren Alltag, unsere Livestream-Auftritte und ... alles, was wir euch sagen wollen, zu teilen! Wir hoffen, ihr bleibt bei uns und begleitet uns auf diese Reise in das Reich aus Musik und Wunschdenken ... All die Möglichkeiten für die Zukunft – angefangen mit diesem einzelnen Scheinwerfer!\n\nOje, jetzt sind wir ganz ins Schwärmen geraten ...\nAlso, viel Spaß mit dem allerersten Livestream der „Angels of Delusion“ nur für euch! Feuert uns an, ja? (≧∇≦)",
         "script": null,
         "comments": [
@@ -7696,7 +7816,7 @@
         "player_reply": []
     },
     "26008": {
-        "id": "26008",
+        "id": 26008,
         "poster": "Einziges offizielles Konto der „Angels of Delusion“",
         "likes": "3843",
         "views": 5849,
@@ -7731,14 +7851,14 @@
             },
             {
                 "floor": 6,
-                "commenter": "Aluminiumum",
+                "commenter": "Aluminimum",
                 "content": "Du sagst, wir sollen Unterstützung zeigen, aber du hast nicht gesagt, wo!"
             }
         ],
         "player_reply": []
     },
     "26009": {
-        "id": "26009",
+        "id": 26009,
         "poster": "Einziges offizielles Konto der „Angels of Delusion“",
         "likes": "3843",
         "views": 48392,
@@ -7775,33 +7895,33 @@
         "player_reply": []
     },
     "26010": {
-        "id": "26010",
+        "id": 26010,
         "poster": "Anonymer Nutzer",
         "likes": "0",
         "views": 3260,
         "title": "[Informationen] Unbekannte Muster erscheinen auf der Oberfläche von Höhle Null!",
-        "text": "Ich steckte gerade in Beobachtungsberichten, als ich hochsah und dieses unheimliche Muster sah. Erst dachte ich, meine alten Augen spielen mir etwas vor, aber da war es, schwach flackernd ... Mir schwirrte sofort der Kopf und mir wurde eiskalt. Ich beobachte Höhle Null seit Jahren und habe so etwas noch nie gesehen. Es war, als würde die Höhle lebendig – wie ein schlagender Puls ... Jedenfalls herrscht in der ganzen Beobachtungsstation jetzt Chaos. Ihr solltet mit euren Planungen beginnen. Ich muss zu Hause anrufen und sagen, dass es mir gut geht ... Ich gehe offline. Verschwendet eure Zeit nicht mit privaten Nachrichten – ich antworte nicht, und ich traue mich auch nicht.",
+        "text": "Ich war gerade in Beobachtungsberichten vertieft, als ich hoch geblickt und dieses unheimliche Muster gesehen habe. Erst dachte ich, meine alten Augen spielen mir etwas vor, aber da war es, schwach flackernd ... Mir schwirrte sofort der Kopf und mir wurde eiskalt. Ich beobachte Höhle Null seit Jahren und habe so etwas noch nie gesehen. Es war, als würde die Höhle lebendig – wie ein schlagender Puls ... Jedenfalls herrscht in der ganzen Beobachtungsstation jetzt Chaos. Ihr solltet mit euren Planungen beginnen. Ich muss zu Hause anrufen und sagen, dass es mir gut geht ... Ich gehe offline. Verschwendet eure Zeit nicht mit privaten Nachrichten – ich antworte nicht, und ich traue mich auch nicht.",
         "script": null,
         "comments": [
             {
                 "floor": 1,
-                "commenter": "Bedauerlicher Abbruch",
+                "commenter": "BedauerlicherAbbruch",
                 "content": "Wie bitte? Sag nicht, in der Höhle ist SCHON WIEDER etwas passiert?"
             },
             {
                 "floor": 2,
                 "commenter": "SuperNutzlos",
-                "content": "Ich bin durch. Sollen sie alles brennen lassen."
+                "content": "Ich bin durch. Soll doch alles brennen."
             },
             {
                 "floor": 3,
                 "commenter": "Magisches_Kopfkissen",
-                "content": "Kein Wunder, dass ich nachts, wenn ich nicht schlafen kann, Hubschrauber über mir höre. Dachte, es sei irgendeine Militärübung, aber offenbar ist etwas Großes passiert ..."
+                "content": "Kein Wunder, dass ich nachts, als ich nicht schlafen konnte, Hubschrauber über mir gehört habe. Dachte, es sei irgendeine Militärübung, aber offenbar ist etwas Großes passiert ..."
             },
             {
                 "floor": 4,
                 "commenter": "Chill",
-                "content": "Ganz ruhig. Unser lieber Herr Bürgermeister und die alten Hasen bei TOPS haben dafür bestimmt Lösungen – schließlich ist ihr Leben viel mehr wert als unseres. Glaub es oder nicht."
+                "content": "Ganz ruhig. Unser lieber Herr Bürgermeister und die alten Hasen bei TOPS haben dafür bestimmt Lösungen – schließlich ist ihr Leben viel mehr wert als unseres. Glaubt es oder nicht."
             },
             {
                 "floor": 5,
@@ -7811,18 +7931,18 @@
             {
                 "floor": 6,
                 "commenter": "Ridu Online",
-                "content": "Dieses Muster ... könnte es eine Art Signal sein? Ein Befehl? Vielleicht können es nur die Äthereale verstehen."
+                "content": "Dieses Muster ... Könnte es eine Art Signal sein? Ein Befehl? Vielleicht können es nur die Äthereale verstehen."
             }
         ],
         "player_reply": []
     },
     "26011": {
-        "id": "26011",
-        "poster": "Das Glück ist mit den Mutigen",
+        "id": 26011,
+        "poster": "ReichtumImWagnis",
         "likes": "356",
         "views": 1265,
-        "title": "[Plauderei] Hey liebe Wanderer, schaut euch das mal an!!",
-        "text": "Leute, das ist ganz sicher der von der Wanderer-Gruppe hochdotiert gesuchte zum Tode verurteilte Verbrecher! So viele Jahre sind vergangen, in der Szene hat sich niemand getraut, ihn überhaupt zu erwähnen ... Als ich damals noch in der Außenzone unterwegs war, habe ich ihn aus der Ferne einmal flüchtig gesehen – damals erledigte er für Calydon die Drecksarbeit. Der Beseitiger „Schwarzwolf“ ... Diese mörderische Ausstrahlung verwechselt man nicht!\nKnallt die Nachricht nicht? Leute, gebt mir nur ein paar Dennys, dann liefere ich euch den aktuellen Standort des Schwarzwolfes auf dem Silbertablett! Bei Interesse meldet euch sofort, ich verfolge ihn gerade unter Lebensgefahr!",
+        "title": "[Plauderei] Hey, liebe Wanderer, schaut euch das mal an!",
+        "text": "Leute, das ist ganz sicher dieser gesuchte zum Tode verurteilte Verbrecher von den Wanderern – der mit dem riesigen Kopfgeld! So viele Jahre sind vergangen und doch traut sich in der Szene niemand, ihn überhaupt zu erwähnen ... Als ich damals noch in der Außenzone unterwegs war, habe ich ihn aus der Ferne einmal flüchtig gesehen – damals erledigte er für Calydon die Drecksarbeit. Der Räumer „Schwarzwolf“ ... Diese mörderische Ausstrahlung verwechselt man nicht!\nKnallt diese Info nicht? Leute, gebt mir nur ein paar Dennys, dann liefere ich euch den aktuellen Standort von Schwarzwolf auf dem Silbertablett! Bei Interesse meldet euch sofort – ich verfolge ihn gerade unter Lebensgefahr!",
         "script": null,
         "comments": [
             {
@@ -7833,7 +7953,7 @@
             {
                 "floor": 2,
                 "commenter": "[TE] ReichtumImWagnis",
-                "content": "Keine Panik. Ich kann vieles nicht besonders gut, aber wegrennen ... darin bin ich sehr zuversichtlich."
+                "content": "Keine Panik. Ich kann vieles nicht besonders gut, aber wegrennen? Darin bin ich sehr zuversichtlich."
             },
             {
                 "floor": 3,
@@ -7848,64 +7968,64 @@
             {
                 "floor": 5,
                 "commenter": "LäufstDuGern",
-                "content": "Hm? Wie meinst du das?"
+                "content": "Hm? Was soll das denn bedeuten?"
             },
             {
                 "floor": 6,
                 "commenter": "LäufstDuGern",
-                "content": "Wo ist er? Ist er am Ende geschnappt worden ...?"
+                "content": "Wo ist er hin? Wurde er etwa erwischt ...?"
             },
             {
                 "floor": 7,
                 "commenter": "[TE] ReichtumImWagnis",
-                "content": "Tut mir leid, war gerade auf der Flucht – er hat mich entdeckt ... Der Schwarzwolf hat nur kurz herübergeschaut, da bin ich so erschrocken davongerannt, dass ich das Handy nicht mal mehr gesperrt habe und achtzehn Straßen weit gerannt bin. Vorhin war wohl eine Fehleingabe auf dem Bildschirm ..."
+                "content": "Tut mir leid, war gerade auf der Flucht – er hatte mich entdeckt ... Schwarzwolf hat sich zu mir gedreht und mich direkt angeschaut. Ich bin so erschrocken davongelaufen, dass ich nicht mal mein Handy gesperrt habe und achtzehn Straßen weit gerannt bin. Das vorhin hat wohl meine Hosentasche getippt ..."
             },
             {
                 "floor": 8,
                 "commenter": "HeimwehGefühl",
-                "content": "Dieses Foto scheint am Sternenring aufgenommen zu sein? Ich meine, dort ist die Anmeldestelle. Will er etwa auch zum Wettbewerb der Höhlenhelden?"
+                "content": "Dieses Foto scheint am Sternenring aufgenommen worden zu sein? Ich meine, das dort ist die Anmeldestelle. Will er etwa auch am Höhlenhelden-Wettbewerb teilnehmen?!"
             },
             {
                 "floor": 9,
                 "commenter": "VollerSieg",
-                "content": "Sehr wahrscheinlich. Die Teilnahmebedingungen sind recht locker – da kann man schon mal auf einen Gesuchten treffen."
+                "content": "Sehr wahrscheinlich. Die Teilnahmebedingungen sind recht locker – da kann man schon mal auf gesuchte Kriminelle treffen."
             },
             {
                 "floor": 10,
                 "commenter": "Altgedient",
-                "content": "Er war nicht nur der Beseitiger ... Er hat fast jede Drecksarbeit übernommen. „Massenhaft gemordet“ ist noch milde. Haltet euch von ihm fern ... Wenn er wirklich in die Arena geht, können die diesjährigen Teilnehmer nur noch hoffen, dass es gut ausgeht."
+                "content": "Er war nicht nur der Räumer, er hat fast jede Drecksarbeit übernommen – „Massenmörder“ ist noch milde ausgedrückt. Haltet euch von ihm fern ... Wenn er wirklich in die Arena geht, können die diesjährigen Teilnehmer nur noch hoffen, dass sie überhaupt überleben."
             }
         ],
         "player_reply": []
     },
     "26012": {
-        "id": "26012",
+        "id": 26012,
         "poster": "DunklerNager",
         "likes": "105",
         "views": 4210,
-        "title": "[Plauderei] Bei der Aktion des Wettbewerbs ist unglaublich viel los ...",
-        "text": "War länger nicht draußen und schaue mal wieder in Lumina vorbei – und der Platz ist ja voll wie noch nie! Also macht der Wettbewerb der Höhlenhelden Werbung und hat gleich mehrere Großbildschirme gemietet. Kein Wunder bei Sponsoren aus Großunternehmen ... Geld haben ist schon schön ...\nNur so Nebenbei ... Gibt es in letzter Zeit irgendwo eine Modenschau? Die Kleidung dieser beiden jungen Damen habe ich noch nie gesehen, sieht wirklich toll aus ... Wobei sie in normalen Sachen sicher auch gut aussehen würden ...\nHeimlich zu fotografieren ist zwar nicht besonders höflich, aber ich traue mich einfach nicht, das andere Geschlecht anzusprechen ... Falls die Betroffenen das sehen und es unpassend finden, lösche ich die Bilder sofort! Bin rund um die Uhr erreichbar!",
+        "title": "[Plauderei] Beim Wettbewerb ist unglaublich viel los ...",
+        "text": "War länger nicht draußen und habe gerade mal wieder am Lumina-Platz vorbeigeschaut ... und da ist es ja voll wie noch nie! Also macht der Höhlenhelden-Wettbewerb Werbung und hat gleich mehrere Großbildschirme gemietet. Kein Wunder bei Sponsoren aus Großunternehmen ... Geld haben, ist schon schön ...\nAch ja, so nebenbei gefragt, gibt’s derzeit irgendwo eine Modenschau? Die Kleidung dieser beiden jungen Damen habe ich noch nie gesehen. Sieht wirklich toll aus ... Wobei sie in normalen Sachen sicher auch gut aussehen würden ...\nHeimlich zu fotografieren, mag zwar nicht besonders höflich sein, aber ich traue mich einfach nicht, so hübsche Mädels anzusprechen ... Falls die Betroffenen das sehen und es unpassend finden, lösche ich die Bilder sofort! Bin rund um die Uhr erreichbar!",
         "script": null,
         "comments": [
             {
                 "floor": 1,
                 "commenter": "AAA_EintagsOrdnungshüter",
-                "content": "Was hat der TE überhaupt geschrieben? Ich starre nur auf die Fotos, gelesen habe ich kein Wort."
+                "content": "Was hat der TE überhaupt geschrieben? Wann immer ich versuche, die Worte zu lesen, wandern meine Augen unwillkürlich zum Foto ..."
             },
             {
                 "floor": 2,
                 "commenter": "TopGeisteskampf",
-                "content": "In diesen Zeiten lädt man also sogar heimlich geschossene Bilder ins Netz, wirklich Sittenverfall. Wo bleibt die Moral? Wo ist die Grenze? Und wo ist der Link zum Originalbild?"
+                "content": "Heutzutage lädt man also sogar heimlich geschossene Bilder ins Netz, hm? Was ist nur aus dieser Welt geworden? Wo bleibt die Moral? Wo ist die Grenze? ... Und wo ist der Link zum Originalbild?"
             },
             {
                 "floor": 3,
                 "commenter": "TiefNachgedacht0.01 s",
-                "content": "Dieses Jahr hat die Aufwärmphase für den Wettbewerb viel früher begonnen, der Veranstalter wirkt wie aufgedreht ... Ich habe das Gefühl, dass da etwas faul ist ..."
+                "content": "Dieses Jahr hat die Aufwärmphase für den Wettbewerb viel früher begonnen. Die Veranstalter scheinen echt heiß darauf zu sein ... Ich habe das Gefühl, dass da etwas faul ist ..."
             },
             {
                 "floor": 4,
                 "commenter": "Großmagier",
-                "content": "Diese Art des Zuschnitts und die Farbgebung ... Könnte es etwa ...?"
+                "content": "Dieser Zuschnittstil und die Farbgebung ... Könnte es etwa ...?"
             },
             {
                 "floor": 5,
@@ -7915,16 +8035,16 @@
             {
                 "floor": 6,
                 "commenter": "Großmagier",
-                "content": "Müssen wir gar nicht wissen. Mit denen werden wir in diesem Leben nichts zu tun haben. Sie sind viel zu weit weg – gesellschaftlich wie räumlich."
+                "content": "Müssen wir gar nicht wissen. Mit denen werden wir in diesem Leben nichts zu tun haben. Sie sind praktisch in einer anderen Welt – gesellschaftlich wie räumlich."
             }
         ],
         "player_reply": [
-            "So groß ist also der Einfluss des Wettbewerbs ...",
-            "Ich habe ein bisschen Lust, mir Lumina mal anzuschauen ..."
+            "Uff, so groß ist also der Einfluss des Wettbewerbs ...",
+            "Jetzt habe ich irgendwie Lust, auf den Lumina-Platz zu gehen ..."
         ]
     },
     "26013": {
-        "id": "26013",
+        "id": 26013,
         "poster": "Metis’Intelligenz_Bot3",
         "likes": "5007",
         "views": 6031,
@@ -7949,7 +8069,7 @@
             },
             {
                 "floor": 4,
-                "commenter": "Oooh",
+                "commenter": "WeitWeg",
                 "content": "Jetzt, wo du es erwähnst ... das ist definitiv das Minerva-Sturmgebiet! Das Hauptquartier der Marcel-Gruppe ist nicht weit von dort entfernt, man könnte also tatsächlich sagen, dass es die Heimatstadt der Bangboos ist!"
             },
             {
@@ -7965,7 +8085,7 @@
             {
                 "floor": 8,
                 "commenter": "5Eichhörnchen",
-                "content": "Mein Bangboo kann das auch, das muss wohl irgendwas in ihrer Kernregistrierung sein oder so?"
+                "content": "Mein Bangboo kann das auch. Muss wohl irgendwas in ihrer Kernregistrierung sein oder so?"
             }
         ],
         "player_reply": [
@@ -7974,8 +8094,8 @@
         ]
     },
     "26014": {
-        "id": "26014",
-        "poster": "Hüpfer_KannIchNicht",
+        "id": 26014,
+        "poster": "PlattformspieleKannIchNicht",
         "likes": "233",
         "views": 3069,
         "title": "[Plauderei] Ich flehe euch an, Belobog Heavy Industries",
@@ -7985,7 +8105,7 @@
             {
                 "floor": 1,
                 "commenter": "König_der_Äthermöhren",
-                "content": "Hatte ich auch – ich vermute stark, da will jemand der Gesellschaft eins auswischen."
+                "content": "Hatte ich auch. Ich vermute stark, da will jemand der Gesellschaft eins auswischen."
             },
             {
                 "floor": 2,
@@ -7995,17 +8115,17 @@
             {
                 "floor": 3,
                 "commenter": "König_der_Äthermöhren",
-                "content": "Du warst das also. Lass dich bloß nicht noch einmal erwischen."
+                "content": "Du warst das also! Lass dich bloß nicht noch einmal erwischen."
             },
             {
                 "floor": 4,
                 "commenter": "Soll_das_heißen",
-                "content": "Mir ist auch einer begegnet – der Boodichter aller Quellwässer."
+                "content": "Mir ist auch eins begegnet – der Boodichter aller Quellwässer!"
             },
             {
                 "floor": 5,
                 "commenter": "Nicht_schlecht",
-                "content": "Gute Arbeit, mehr davon."
+                "content": "Gute Arbeit, mehr davon bitte."
             },
             {
                 "floor": 6,
@@ -8019,43 +8139,43 @@
         ]
     },
     "26015": {
-        "id": "26015",
+        "id": 26015,
         "poster": "Metis’Intelligenz_Bot1",
         "likes": "7188",
         "views": 8354,
         "title": "[Info] Der Höhlenhelden-Wettbewerb steht vor der Tür",
-        "text": "Wie zu hören ist, wird der wegen der Anomalie in der Lemnian-Höhle verschobene Höhlenhelden-Wettbewerb nun offiziell gestartet! Der Veranstalter hat den Zeitplan veröffentlicht.\n\nAls offiziell von der Stadtverwaltung New Eridu zertifizierter Ausrichter für Höhlenkämpfe trägt die Extremliga der Höhlenathleten seit dem Fall der alten Hauptstadt die Verantwortung, den Willen der Menschen zum Kampf gegen die Höhlen zu stärken. Unter dem Motto „Höhlen bringen die Stadt zu Fall – die Stadt bringt Helden hervor!“ werden aus Tausenden Teilnehmenden am Ende 32 „Helden“ ausgewählt, die sich Preisgelder in Dennys in Milliardenhöhe teilen.\n\nDank kräftiger Unterstützung der Sponsoren können erfolgreiche Teilnehmende im Preispool zudem zahlreiche Sachprämien einlösen: neben Standardausrüstung wie Antikorrosionsmitteln und Höhlenschutzgeräten auch Hochleistungswaffen wie Porcelloy-Langklingen und Gravitationsgewehre. Als heißester Preis gilt der W-Motor Flint-Porcelloy, eine als „generationenübergreifende Konstrukt-Bewaffnung“ gepriesene Einheit.\n\nDer diesjährige Wettbewerb ist der größte aller Zeiten, begleitende Werbung und Voranmeldungen laufen bereits auf dem Lumina-Platz.",
+        "text": "Berichten zufolge wird der wegen der Anomalie in der Lemnian-Höhle verschobene Höhlenhelden-Wettbewerb nun offiziell gestartet! Der Veranstalter hat den Zeitplan veröffentlicht.\n\nAls offiziell von der Stadtverwaltung New Eridu zertifizierter Ausrichter für Höhlenkämpfe trägt die Höhlen-Extremathletikliga seit dem Fall der alten Hauptstadt die Verantwortung, den Willen der Leute zum Kampf gegen die Höhlen zu stärken. Unter dem Motto „Wenn Höhlen die Stadt bedrohen, bringt die Stadt Helden hervor!“ werden aus tausenden Teilnehmenden am Ende 32 „Helden“ ausgewählt, die sich Preisgelder in Dennys in Milliardenhöhe teilen.\n\nDank kräftiger Unterstützung der Sponsoren können erfolgreiche Teilnehmende zudem zahlreiche Sachprämien aus dem Preispool erhalten, unter anderem Standardvorräte wie Antikorrosionsmittel und Höhlenschutzausrüstung, oder auch Hochleistungswaffen wie Porcelloy-Langschwerter und Gravitationsgewehre. Als heißester Preis gilt der W-Motor „Flint-Porcelloy“, eine als „generationenübergreifende Konstrukt-Bewaffnung“ gepriesene Einheit.\n\nDer diesjährige Wettbewerb ist der größte aller Zeiten, begleitende Werbung und Voranmeldungen laufen bereits auf dem Lumina-Platz.",
         "script": null,
         "comments": [
             {
                 "floor": 1,
                 "commenter": "BlauWeiß",
-                "content": "Also war der virale Post damals doch kein Gerücht, er wurde nur wegen der Lemnian-Sache auf Eis gelegt ... Scheint, als wären die Insider doch ganz zuverlässig."
+                "content": "Also war der virale Post damals doch kein Gerücht, die Sache wurde nur wegen dem Vorfall in der Lemnian-Höhle auf Eis gelegt ... Scheint, als wären die Insider doch ganz zuverlässig."
             },
             {
                 "floor": 2,
                 "commenter": "AAA-Vollzeit-Proxy",
-                "content": "Wer einen Proxy für ein Team sucht, kann mich kontaktieren. Auf dem Turnier ist die Lage extrem wechselhaft und man verläuft sich leichter als in gewöhnlichen Höhlen. Ich war schon mehrmals dabei – absolut verlässlich."
+                "content": "Wer einen Proxy für ein Team sucht, kann mich kontaktieren. Die Arena ist extrem unvorhersehbar und man verläuft sich leichter als in gewöhnlichen Höhlen. Ich war schon mehrmals dabei, bin also absolut verlässlich."
             },
             {
                 "floor": 3,
                 "commenter": "Qualle",
-                "content": "Kostet?"
+                "content": "Und was kostet das?"
             },
             {
                 "floor": 4,
                 "commenter": "Pleitegeist",
-                "content": "Ich habe schon nachgefragt, es ist richtig teuer ... normale Leute müssen gar nicht erst darüber nachdenken."
+                "content": "Ich habe schon nachgefragt, es ist richtig teuer ... Normale Leute müssen gar nicht erst darüber nachdenken."
             },
             {
                 "floor": 5,
                 "commenter": "Klingenläufer",
-                "content": "Hier, hier, schau auf mich! Ich habe vielleicht nicht so viel Erfahrung wie der Veteran da oben, aber Abkürzungen finden und punktstarke Äthereale schnappen ist kein Problem!"
+                "content": "Hier, hier, schaut auf mich! Ich habe vielleicht nicht so viel Erfahrung wie der Veteran da oben, aber Abkürzungen und Äthereale, die viele Punkte einbringen, finden, ist kein Problem!"
             },
             {
                 "floor": 6,
                 "commenter": "KleinerSchwarzhut",
-                "content": "Die Extremliga der Höhlenathleten hat nicht so viel Geld. Dieser geheimnisvolle Sponsor ist höchstwahrscheinlich TOPS."
+                "content": "Die HEAL hat nicht so viel Geld. Dieser geheimnisvolle Sponsor ist höchstwahrscheinlich TOPS."
             },
             {
                 "floor": 7,
@@ -8065,9 +8185,1244 @@
             {
                 "floor": 8,
                 "commenter": "Neubeginn",
-                "content": "Das ist zu kurz gedacht. Der Große Preis zieht enorme öffentliche Aufmerksamkeit auf sich, und wenn die Veranstalter das zusätzlich hochjubeln, wie soll das kein Unterhaltungsgeschäft sein?"
+                "content": "Das ist zu eng gedacht. Dieser Wettbewerb zieht enorme öffentliche Aufmerksamkeit auf sich, und wenn die Veranstalter das zusätzlich hochjubeln, wie soll das kein Unterhaltungsgeschäft sein?"
             }
         ],
         "player_reply": []
+    },
+    "27001": {
+        "id": 27001,
+        "poster": "KleineKoryphäeIstDa",
+        "likes": "779",
+        "views": 2297,
+        "title": "[Plauderei] Riesiges internes Drama bei TOPS! Garantiert echt!",
+        "text": "HAHAHAHAHAHAHAHAHAHAHAHA!\nTOPS erwischt es also auch mal!\nOkay, kein langes Gelaber – ich sag’s direkt: Bei TOPS herrscht gerade totales Chaos! Und zwar so richtig. Mehrere kleinere und mittlere Firmen, die an TOPS dranhängen, haben gerade heftige Probleme. Das Inter-Knot vergisst ja nichts, oder? Wer war denn in letzter Zeit der Sponsor vom ständig pannenreichen Höhlenhelden-Wettbewerb? Der Zusammenhang ist echt nicht schwer zu erraten~\nUnd noch was! Genau wegen dieser ganzen Geschichte soll TOPS’ interne Überwachungsbehörde in letzter Zeit ziemlich aktiv sein. Klar, handfeste Beweise hab ich keine, aber wenn man sich anschaut, wie TOPS gerade dasteht ... Sagen wir mal, es wirkt nicht gerade erfunden. (Anmerkung: Nicht, dass ich keine Beweise hätte – ich darf’s nur nicht sagen! Wenn’s euch interessiert, sucht selbst nach den Stichwörtern.)\nUnterm Strich: Bei TOPS läuft intern definitiv etwas richtig schief. Leute, geht denen in der nächsten Zeit lieber nicht vor die Flinte – haltet so viel Abstand wie möglich.\nOb wir noch erleben, dass TOPS von innen zerfällt und dichtmacht? Mehr sag ich nicht, dafür ist mir mein Leben zu lieb. Und tschüs.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "WurdeTOPSHeuteGetoppt?",
+                "content": "Wow, echt jetzt?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Normalo_MitPopcorn",
+                "content": "Bei deinem Namen lach ich mich tot! Aber mal ehrlich, gibt es überhaupt eine Chance, dass TOPS mal getoppt wird?"
+            },
+            {
+                "floor": 3,
+                "commenter": "WerMucktWirdLaut",
+                "content": "Das nennst du Drama? Im Ernst? Solche Firmendetails sind öffentlich einsehbar. Echte Neuigkeiten lieferst du null – wirkt wie Clickbait-Spam."
+            },
+            {
+                "floor": 4,
+                "commenter": "Ruhigblut",
+                "content": "Fühlt sich nach Panikmache an. So ein Riesenkonzern hat ein paar Probleme und du redest gleich von Pleite? Komm mal wieder runter ..."
+            },
+            {
+                "floor": 5,
+                "commenter": "InterKnot_DetailNerd#1",
+                "content": "Niemand redet über diese „Überwachungsbehörde“? Ist das nicht der eigentliche Punkt?"
+            },
+            {
+                "floor": 6,
+                "commenter": "reden_ist_riskant",
+                "content": "Sachen, über die man nicht reden sollte, redet man auch besser nicht. Du willst doch nicht, dass jemand deine Internetverbindung nachverfolgt und dein Zuhause findet, oder?"
+            }
+        ],
+        "player_reply": []
+    },
+    "27002": {
+        "id": 27002,
+        "poster": "Metis’Intelligenz_Bot1",
+        "likes": "7245",
+        "views": 5482,
+        "title": "[Infos] Höhlenhelden-Wettbewerb vorzeitig ausgesetzt",
+        "text": "HEAL hat heute eine Ankündigung veröffentlicht: Der diesjährige Wettbewerb wird vorzeitig ausgesetzt. Ein neuer Termin ist abhängig vom Ermittlungsfortschritt und der Sicherheitsbewertung und wird später bekannt gegeben.\n\nLaut Mitteilung der Sicherheitsbehörde wurde der Verdächtige Romeul, der mehrere blutige Vorfälle ausgelöst haben soll, festgenommen. Außerdem konnten in einer gemeinsamen Rettungsaktion der Sicherheitsbehörde und der HIA einige Teilnehmende, die zeitweise in der Höhle vermisst waren, sicher geborgen werden und werden derzeit medizinisch überwacht.\n\nZusätzlich berichten mehrere Augenzeugen, dass es eine anonyme Person war, die als Erstes Möhrendaten-Anomalien festgestellt und anschließend über einen speziellen Kanal allen Teilnehmenden eine präzise sichere Route übermittelt haben soll, wodurch die Zahl der Opfer deutlich gesenkt wurde. Die Identität und das Motiv dieser Person werden derzeit noch überprüft.\n\nHEAL und die Sicherheitsbehörde werden den betroffenen Teilnehmenden sowie allen Beteiligten die notwendige Unterstützung anbieten und nach Abschluss der Ermittlungen weitere Informationen für die Öffentlichkeit freigeben.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Angstmausi",
+                "content": "„Schwarzwolf“ ist endlich geschnappt! Als ich gehört hab, dass er dabei ist, hab ich mich nicht mal getraut, mich anzumelden ..."
+            },
+            {
+                "floor": 2,
+                "commenter": "LerneAufDieHarteTour",
+                "content": "Ich mach bei so was nie wieder mit. Ohne diesen anonymen Helden wäre ich sowas von draufgegangen."
+            },
+            {
+                "floor": 3,
+                "commenter": "Treuer_Proxy",
+                "content": "Moment, könnte das bedeuten ... der Phaethon ist zurück?! Ich wusste es! Er wird zu seinem treuen Inter-Knot zurückkehren!\nWer widerspricht? Irgendjemand? Wer ist noch nicht überzeugt?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Fünf-Wort-Legende",
+                "content": "Dass bei diesem Wettbewerb so etwas passieren konnte ... Unvorstellbar."
+            },
+            {
+                "floor": 5,
+                "commenter": "gluckgluckquak",
+                "content": "So ist New Eridu halt. Wusstest du das etwa nicht? Was, bist du ein Alien?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Vermisstensuche",
+                "content": "Mein Freund ist immer noch nicht wieder aufgetaucht ... Wenn irgendwer Hinweise zum Austragungsort oder Vermissten hat, bitte meldet euch!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27003": {
+        "id": 27003,
+        "poster": "Esse-nur-Windbeutel",
+        "likes": "25",
+        "views": 3578,
+        "title": "[Plauderei] Was ist mit diesen Ätherealen los?",
+        "text": "Hab das in der Arena vom Höhlenhelden-Wettbewerb gesehen, hat mich total erschreckt. Sind diese Äthereale zu Statuen geworden ...?\nIn ihren Kernen stecken so weiße Federn. Sieht sogar irgendwie künstlerisch aus ...\nWeiß jemand, was es damit auf sich hat? Ist das etwa das Werk dieses berüchtigten Romeul ...?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "karmesinkönig",
+                "content": "Statuen? Sieht eher aus, als hätte jemand die Zeit angehalten ... Mega gruselig."
+            },
+            {
+                "floor": 2,
+                "commenter": "WegZurHölle",
+                "content": "So wie Romeul wie ein Irrer überall die Preise rumwirft, wär’s nicht unmöglich, dass er vom bloßen Störenfried zum Performance-Künstler aufgestiegen ist."
+            },
+            {
+                "floor": 3,
+                "commenter": "feinsinniger_zuschauer",
+                "content": "Ich hab die auch gesehen! Der TE hat echt Mumm ... Ich fand das so unheimlich, ich hab mich nicht mal getraut, genauer hinzuschauen."
+            },
+            {
+                "floor": 4,
+                "commenter": "BleibTrocken",
+                "content": "Ich hab Freunde beim White-Star-Institut gefragt, die kennen das auch nicht. Die stellen gerade eilig ein spezielles Forschungsteam dafür zusammen."
+            },
+            {
+                "floor": 5,
+                "commenter": "GeheimeInfos",
+                "content": "Tatsächlich ist das nicht das erste Mal, dass solche verblassten Äthereale auftauchen. Die Behörden ermitteln schon lange, aber bis jetzt kam wohl nichts dabei raus ..."
+            },
+            {
+                "floor": 6,
+                "commenter": "Hirte.der.Wölfe",
+                "content": "Also sind die jetzt tot oder lebendig? Sollte man einen Bogen um die machen, wenn man sie antrifft?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Ideenmaschine_Lädt",
+                "content": "Würd ich auch gern wissen! Wenn’s sicher ist, will ich ein Foto mit ihnen machen!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27004": {
+        "id": 27004,
+        "poster": "Paparazzi",
+        "likes": "2901",
+        "views": 4789,
+        "title": "[Insider] Teilnehmerin Ramiel verschwindet mit Preis",
+        "text": "Ihr wisst ja, dass der Porcelloy-W-Motor noch immer weg ist, oder? In der Szene geht ein Gerücht rum: Der W-Motor ist bei dieser Teilnehmerin Ramiel!\nDas ist nicht aus der Luft gegriffen. Überlegt doch mal: Wie viele können dem Schwarzwolf überhaupt etwas abnehmen? Ramiel ist zufälligerweise eine solche Person.\nUnd noch auffälliger: Nach dem Abbruch des Wettbewerbs ist Ramiel wie vom Erdboden verschluckt – sie hat nicht mal ihre Punkte eingelöst! So betrachtet, hatte sie bestimmt von Anfang an ein anderes Ziel, und zwar den Porcelloy-W-Motor.\nUnd wer ist Ramiel überhaupt? Herkunft, Werdegang, sogar ihr Gesicht – kaum jemand hat sie je gesehen, als wäre sie gerade erst aus einem Steinspalt gesprungen. Je tiefer man gräbt, desto wilder wird’s ...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Gespenst",
+                "content": "Nicht nur Ramiel. Von den Leuten, die in die Höhle gestürmt sind, um Preise zu schnappen, sind einige verschwunden ... Tja. Was nicht dir gehört, gehört dir am Ende auch nicht."
+            },
+            {
+                "floor": 2,
+                "commenter": "WoherWeißtDuVonMeinemErfolg",
+                "content": "Verschwinde ich jetzt auch?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Gespenst",
+                "content": "Ja."
+            },
+            {
+                "floor": 4,
+                "commenter": "Prösterchen!",
+                "content": "Wenn sie unbedingt den Porcelloy-W-Motor wollte, ist Ramiel wahrscheinlich ein intelligentes Konstrukt, oder? Ich hab nämlich eins gesehen, mit zwei Pistolen, richtig stark – nur der Stil war ein bisschen zu übertrieben."
+            },
+            {
+                "floor": 5,
+                "commenter": "RuhigUndGefasst",
+                "content": "Schon wieder Verschwörungstheorien? Kann Ramiel nicht einfach ganz normal ausgestiegen sein?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Anonym",
+                "content": "Wollt ihr Ramiels verborgenes wahres Gesicht enthüllen?\nWollt ihr den langjährigen Hass und die ewigen Verstrickungen zwischen Schwarzwolf und Calydon durchschauen?\nHier sind die entscheidenden Details, die ihr verpasst habt. Alle Spuren auf einen Blick.\nSpezialpreis: 9.999 Dennys\nJetzt ansehen: [Zum Link klicken]"
+            },
+            {
+                "floor": 7,
+                "commenter": "Ramiel",
+                "content": "Puh, das hat mich erschrocken. Geht wohl nur um jemanden mit demselben Namen ... Ich dachte schon, ich werde vermisst oder so."
+            }
+        ],
+        "player_reply": [
+            "Ich muss Ramiel finden.",
+            "Wer Hinweise hat, soll sich bitte bei mir melden!"
+        ]
+    },
+    "27005": {
+        "id": 27005,
+        "poster": "Anonymer Nutzer",
+        "likes": "0",
+        "views": 3670,
+        "title": "[Plauderei] Warum wurde mein Bangboo-Designentwurf abgelehnt ...?",
+        "text": "Die Marcel-Gruppe sammelt doch gerade stadtweit Designs für Bangboos, oder? Als ich die Prämie gesehen hab, ist bei mir als Kunststudent sofort die DNA angesprungen – das ist doch wie für mich gemacht!\nDann hab ich mich einen Monat lang eingeschlossen! Einen ganzen Monat! Ich hab Dutzende Entwürfe verworfen, bis ich endlich so eine geniale, weltbewegende Idee rausgehauen hab.\nMeine Dankesrede hatte ich schon geprobt ... und am Ende nicht mal ein Trostpreis, ganz zu schweigen von erster Presi. Echt jetzt?!\nMarcel! Ihr verliert vielleicht nur einen Teilnehmer, aber New Eridu verliert den Schöpfer eines brandneuen Bangboo-Universums!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Denny_Traumdeuter",
+                "content": "Mein Bangboo hat dein Meisterwerk gesehen und hatte die ganze Nacht Albträume."
+            },
+            {
+                "floor": 2,
+                "commenter": "ZeitFürProfis",
+                "content": "Bei welcher Kunstuni warst du? Ich flehe dich an, sag’s ... damit wir alle weit wegbleiben können!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Onlinebettler",
+                "content": "Wir Kunststudenten sind nicht so!!! Bitte nicht verallgemeinern!!! Aaaaaaah!!!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Zementmischer",
+                "content": "Ey, du lachst, aber wenn so ein Riesen-Bangboo wirklich eingeführt würde, hätten Leute mit körperlicher Arbeit es echt leichter."
+            },
+            {
+                "floor": 5,
+                "commenter": "Bist_Schon_Wieder_Nervös",
+                "content": "Alter, schon mal von Spezialisierung gehört? Bangboo sind Präzisionsmaschinen, keine Ziegelschleppmaschinen."
+            },
+            {
+                "floor": 6,
+                "commenter": "emotionen-nicht-notwendig",
+                "content": "Das Hauptproblem liegt doch ganz woanders! Will echt irgendjemand, dass Bangboos so aussehen?!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Codeaffe",
+                "content": "Ich glaube, in den Bewertungsregeln ist „Originalität“ der wichtigste Punkt. Vielleicht hast du zufällig was getroffen, das jemand anderes auch hatte ... oder bei Marcel gab’s intern mal einen ähnlichen verworfenen Entwurf.\nAber hässlich ist es schon."
+            },
+            {
+                "floor": 8,
+                "commenter": "[TE] Anonymer Nutzer",
+                "content": "Den letzten Satz hättest du dir echt sparen können ... *heul* ..."
+            },
+            {
+                "floor": 9,
+                "commenter": "Codeaffe",
+                "content": "Du bist komplett in deiner Kunst aufgegangen ... aber ein Bangboo-Design ist kein Kunstbild. Du musst das wie eine technische Zeichnung behandeln."
+            },
+            {
+                "floor": 10,
+                "commenter": "KeinWasserBitte",
+                "content": "Online kann man viel sagen, aber im echten Leben würde doch jeder sofort sein Bangboos rausschmeißen und gegen dieses himmlische Wesen tauschen!"
+            }
+        ],
+        "player_reply": []
+    },
+    "27006": {
+        "id": 27006,
+        "poster": "AnfängerStartenFrüh",
+        "likes": "25",
+        "views": 6289,
+        "title": "[Plauderei] Sogar die Rosetta-Daten können manchmal spinnen?!",
+        "text": "In letzter Zeit sehe ich online ständig Gerüchte über Anomalien bei den Rosetta-Daten.\nEinige beschweren sich sogar, dass es immer schwieriger wird, eigene Möhren zu basteln, und dass die von den Rosetta-Daten korrigierten Routen oft nicht präzise genug sind.\nKann mal jemand mit Ahnung aus erster Hand sagen, ob da was dran ist?\nUnd wenn ja: Gibt es irgendwelche Ersatzdaten, an denen man sich orientieren kann?\nIch bin gerade erst als Proxy eingestiegen und habe noch keinen einzigen Auftrag bekommen ... Ich kann doch nicht arbeitslos werden, bevor ich überhaupt richtig anfange ... *heul*",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "S13g1n40S3k",
+                "content": "Unmöglich. Die Rosetta-Daten sind die vom Bürgermeister autorisierten Masterkopien.\nAlle Höhlenveränderungsmuster werden immer wieder vor Ort kalibriert und neu berechnet.\nWenn man denen nicht trauen kann, kann man keinen Beobachtungsdaten trauen."
+            },
+            {
+                "floor": 2,
+                "commenter": "KühleSommernacht",
+                "content": "Die Stadtverwaltung und die HIA haben die Datenquelle und die Berechnungsmethode der Rosetta-Daten nie offengelegt.\nIn letzter Zeit passiert dauernd etwas. Das Personal ist knapp, und externe Kontrollen fehlen – wer kann also wirklich garantieren, dass da keine Fehler passieren?"
+            },
+            {
+                "floor": 3,
+                "commenter": "schongefragt?",
+                "content": "Ich habe gehört, dass auch die Möhre, die beim Höhlenhelden-Wettbewerb verteilt wurde, Probleme hatte. Hat das vielleicht damit zu tun ...?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Will_Großmeister_sein",
+                "content": "Ach komm, in der Ankündigung stand doch, dass ein Virus dahintersteckte."
+            },
+            {
+                "floor": 5,
+                "commenter": "DieWeltGehörtBangboos",
+                "content": "Keine Möhren mehr, keine Proxys mehr, kein Inter-Knot mehr."
+            },
+            {
+                "floor": 6,
+                "commenter": "NachsichtigZuMir_StrengZuDir",
+                "content": "Warum suchst du den Fehler nicht bei dir selbst? Ich glaube, manche sind einfach nicht fähig genug und können keine saubere Route knacken.\nWenn du schlecht bist, dann übe mehr und blamier dich nicht im Inter-Knot."
+            },
+            {
+                "floor": 7,
+                "commenter": "position_zero",
+                "content": "In letzter Zeit gibt’s überall Höhlenanomalien. Offiziell muss man vermutlich alles noch mal komplett neu vermessen. Vielleicht sind die Daten einfach noch nicht vollständig aktualisiert oder es gibt Verzögerungen oder so?"
+            }
+        ],
+        "player_reply": [
+            "Vermutlich nur ein Einzelfall ...?",
+            "Mir sind keine Anomalien untergekommen."
+        ]
+    },
+    "27007": {
+        "id": 27007,
+        "poster": "GanzGewöhnlich",
+        "likes": "218",
+        "views": 1203,
+        "title": "[Diskussion] Warum ist Simmer inzwischen so eklig?",
+        "text": "Leute, findet ihr nicht auch, dass Simmer immer schlechter wird? Die Brühe ist salzig wie die Hölle, die Desserts sind süß wie die Hölle, die Meeresfrüchte stinken fischig wie die Hölle. Und ich hab nur ein paar Worte gesagt, da hatte die Chefin ’ne miese Laune wie die Hölle.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Nicht_schlecht",
+                "content": "Ach, geht doch. Ich mag Süßes."
+            },
+            {
+                "floor": 2,
+                "commenter": "AAA_Baustoff_Mausbruder",
+                "content": "Stimmt schon, so gut wie direkt nach der Eröffnung ist es nicht mehr ..."
+            },
+            {
+                "floor": 3,
+                "commenter": "superhungrig",
+                "content": "Genau! Schmeckt mies und dann darf man nicht mal was sagen. Die Chefin ist voll fies!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Soll_das_heißen",
+                "content": "Ist doch bei den Läden immer so. Am Anfang top, später wird die Qualität immer schlechter!"
+            },
+            {
+                "floor": 5,
+                "commenter": "will-nix-verpassen",
+                "content": "Bin ich der Einzige, der nur wegen der hübschen Chefin hingeht?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Frau_Morgenrot_ist_unvergleichlich",
+                "content": "Hey, Kommentator über mir – du bist ja echt schamlos!"
+            }
+        ],
+        "player_reply": [
+            "Hm, ich finde, geschmacklich geht es eigentlich ...",
+            "Man sollte ihnen schon eine Chance geben, es besser zu machen ..."
+        ]
+    },
+    "28001": {
+        "id": 28001,
+        "poster": "KannIchNichtSagen",
+        "likes": "629",
+        "views": 9081,
+        "title": "[Plauderei] Wird hier ein Film gedreht?",
+        "text": "Wie auf dem Bild zu sehen – ich hab’s nicht selbst aufgenommen, sondern ein Freund, der in der Außenzone unterwegs war. Angeblich war es vor Ort noch viel beeindruckender als auf dem Foto. Als mein Freund näher ran wollte, um mehr Details zu fotografieren, wurde er von Leuten in Anzügen aufgehalten und gewarnt, bloß nicht ohne Grund in die Höhle zu gehen ... Aber mal ehrlich, diese Roboter in geschlossener Formation sehen schon ziemlich unheimlich aus. Fast wie bei einem apokalyptischen Filmset. Weiß jemand, was da genau los ist?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Warme_Mülltonne",
+                "content": "So ein Mecha-Modell sehe ich zum ersten Mal, und billig sieht es definitiv nicht aus. Auf dem Foto marschieren sie in Richtung Höhle – ist in der Außenzone etwas passiert? Oder ist es, wie der TE sagt, wirklich nur Kulisse für einen Blockbuster?"
+            },
+            {
+                "floor": 2,
+                "commenter": "Plastikrakete",
+                "content": "Ich hab gehört, dass „Beheboth 2“ in der Außenzone gedreht werden soll. Das sind bestimmt die Mecha-Requisiten des Filmteams."
+            },
+            {
+                "floor": 3,
+                "commenter": "Hula-Hoop",
+                "content": "Die Apokalypse ist da – wählt euren persönlichen Mecha aus den Sternzeichen!"
+            },
+            {
+                "floor": 4,
+                "commenter": "SuperOberstufenErdmännchen",
+                "content": "Von dem, was ich von Bekannten aus Blazewood gehört habe, sind das ganz sicher keine Filmrequisiten, sondern echte TOPS-Kampfmecha! Hätte nie gedacht, dass die schon in so großer Zahl produziert werden."
+            },
+            {
+                "floor": 5,
+                "commenter": "Fünf-Wort-Legende",
+                "content": "TOPS-Mecha? Bei dem Aufmarsch ... heißt das etwa, dass in der Außenzone-Höhle besonders starke Äthereale aufgetaucht sind und sie zur Unterdrückung ausrücken?"
+            },
+            {
+                "floor": 6,
+                "commenter": "wie_auch_immer",
+                "content": "Wach auf! Äthereale unterdrücken? Wenn TOPS plötzlich so gütig wäre, wäre TOPS nicht mehr TOPS. Die tun nur, was Gewinn bringt. In dieser Höhle steckt garantiert etwas extrem Wertvolles – entweder riesige Mengen an Ressourcen oder ein gigantisches Geheimnis."
+            },
+            {
+                "floor": 7,
+                "commenter": "PaSsAnT",
+                "content": "Sehe ich genauso. Die meisten hier wissen es wahrscheinlich nicht, aber TOPS hat so etwas in Waifei schon einmal abgezogen. Um an Ressourcen zu kommen, haben sie damals wahllos Kriegsgerätschaften in die Höhle geworfen. Hier ist genau dasselbe Spiel. In Blazewood wird es wohl bald ungemütlich."
+            }
+        ],
+        "player_reply": []
+    },
+    "28002": {
+        "id": 28002,
+        "poster": "Sternenjäger",
+        "likes": "65",
+        "views": 3326,
+        "title": "[Plauderei] Was ist das für ein Vogel?",
+        "text": "Frisch aufgenommenes Foto, vor genau 1 Minute gemacht! Weiß jemand, was das für ein Vogel ist? Er fliegt unglaublich schnell und strahlt extrem hell. Man kann schwach erkennen, dass er mit den Flügeln schlägt, also ist es definitiv kein Fluggerät. Aber ich habe in meinem ganzen Leben noch nie so einen Vogel gesehen – weder in einer Höhle noch in der Stadt. Gibt es hier irgendwen mit Ahnung von Vögeln, der das bestimmen kann?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Volle_Kraft_Voraus",
+                "content": "Bestimmung abgeschlossen: Weißer Leuchtvogel mit dreifacher Geschwindigkeit."
+            },
+            {
+                "floor": 2,
+                "commenter": "Blubber-Fischsuppe",
+                "content": "Bei der Flughöhe und im Vergleich zu den Gebäuden daneben ... ist der Vogel aber ziemlich groß. Etwas größer als ein Mensch vielleicht? Könnte das nicht einfach ein Computerbild sein? Wenn es so ein Lebewesen wirklich gäbe, hätte das doch längst riesiges Aufsehen erregt."
+            },
+            {
+                "floor": 3,
+                "commenter": "Meteorschauer",
+                "content": "Ein Engel! Ein Engel ist erschienen! Wer diesen Beitrag sieht, darf jetzt nicht weiterscrollen. Winkt zusammen mit mir, dann habt ihr das ganze Jahr über Glück. Ein Engel!"
+            },
+            {
+                "floor": 4,
+                "commenter": "FarbenfrohesWeiß",
+                "content": "\\Angels/~\\of/~\\Delusion/"
+            },
+            {
+                "floor": 5,
+                "commenter": "wassermelonenbonbon",
+                "content": "Das ist im Ernst ein Engel?! Wäre eigentlich nicht schlecht."
+            },
+            {
+                "floor": 6,
+                "commenter": "SchonGut",
+                "content": "Ich weiß nicht, ob ich dasselbe gesehen habe wie der TE, aber ich habe eben auch weißes Licht am Himmel gesehen. Vielleicht war ich weiter weg, jedenfalls habe ich nur einen weißen Lichtpunkt gesehen, der schräg nach oben flog, bis in die Wolken hinein – und dann war er verschwunden."
+            },
+            {
+                "floor": 7,
+                "commenter": "Menno",
+                "content": "Ich habe so ein Gefühl, dass unter diesem Beitrag gleich jede Menge Leute schreiben werden, sie hätten den weißen Vogel ebenfalls am Himmel gesehen."
+            }
+        ],
+        "player_reply": []
+    },
+    "28003": {
+        "id": 28003,
+        "poster": "Ewiges_Feuer",
+        "likes": "7318",
+        "views": 16710,
+        "title": "[Plauderei] Gibt es in der Höhle auch Sonnenfinsternisse?",
+        "text": "Ich komm direkt zur Sache. Das wurde vor 3 Stunden in einer Beihöhle nahe der Pursenas-Höhle aufgenommen. Wir wollten gerade die Höhle verlassen, da wurde es plötzlich stockdunkel – ohne jede Vorwarnung! Das ganze Team hat sich total erschrocken und gedacht, wir hätten irgendein riesiges Ding aufgeschreckt. Zufällig war in der Nähe ein versteckter Tunnel, also haben wir unseren Plan geändert und sind dort reingekrochen. Einer der Proxys im Team hat nach oben geschaut und genau dieses Bild gesehen. Zum Glück sind am Ende alle heil zurückgekommen – ein echter Schreckmoment, aber sonst ist nichts passiert!\nAber mal ehrlich, das ist doch eine Sonnenfinsternis, oder ...? Habt ihr draußen außerhalb der Höhle auch eine gesehen?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Erdbeerschaum",
+                "content": "Außerhalb der Höhle gab es keine Sonnenfinsternis. Ich habe extra Leute um mich herum gefragt und niemand hat irgendetwas Ungewöhnliches bemerkt. Wir waren die ganze Zeit draußen unterwegs."
+            },
+            {
+                "floor": 2,
+                "commenter": "Pures_Chaos",
+                "content": "Noch ein manipuliertes Foto? Gerade war da noch so ein Beitrag, von wegen ein leuchtender Riesenvogel sei am Himmel vorbeigeflogen. Vielleicht könnt ihr beide euch mal zusammensetzen und vergleichen, wer besser fälscht."
+            },
+            {
+                "floor": 3,
+                "commenter": "rindfleischbratnudeln",
+                "content": "Ich habe online nach einer Menge Sonnenfinsternis-Fotos gesucht. Wenn man genau vergleicht, sieht man schnell, dass das ganz anders aussieht als das Bild des Threaderstellers. Das dürfte keine Sonnenfinsternis sein, sondern irgendein viel selteneres Naturphänomen."
+            },
+            {
+                "floor": 4,
+                "commenter": "Karotanz",
+                "content": "Wenn es in einer Höhle passiert ist, klingt ehrlich gesagt jedes Phänomen irgendwie plausibel!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Goldseidenbart",
+                "content": "Aber wenn der TE die Höhle heil verlassen und hier posten konnte, war das Phänomen offenbar zumindest nicht gefährlich? Es gab ja weder furchteinflößende Äthereale noch unbekannte Korrosionssymptome."
+            },
+            {
+                "floor": 6,
+                "commenter": "nichtANONym",
+                "content": "Nicht unbedingt. Vielleicht hat so eine Korrosion ja eine Inkubationszeit? TE, hast du dich nach deiner Rückkehr körperlich untersuchen lassen?"
+            },
+            {
+                "floor": 7,
+                "commenter": "FAULE_HAUT",
+                "content": "Der zweite Kommentar hat mich auf was gebracht – findet ihr nicht auch, dass dieser Himmel perfekt mit dem von dem Mecha-Bild aus diesem einen anderen Beitrag zusammenpasst? Die Bilder könnten direkt als Set aufgenommen worden sein. Total filmreif! Wird da am Ende wirklich „Beheboth 2“ gedreht? Das wäre ja eine Wahnsinnsproduktion!"
+            }
+        ],
+        "player_reply": []
+    },
+    "28004": {
+        "id": 28004,
+        "poster": "Anonymer Nutzer",
+        "likes": "0",
+        "views": 22170,
+        "title": "[Hilfe gesucht] Ich glaube, ich hab richtig Ärger am Hals!",
+        "text": "Also, die Sache war so: Ich bin ganz normal mit meinem kleinen Wagen die Straße entlanggefahren, da höre ich plötzlich ein „Dong“. Ich steig aus und sehe .... da liegt eine Person auf der Straße?! Bei allem, was mir heilig ist, ich hab sie nicht angefahren! Die lag ganz sicher schon vorher da! Noch absurder ist, dass sie mit blutverschmierten Fingern so ein Bild gemalt hat ... Ist das irgendeine letzte Botschaft vor dem Tod? Vielleicht das Gesicht des Täters oder so ...??? Nein, nein, nein, was rede ich da für Unglück! Sie ist ja noch gar nicht tot! Sie sieht zwar schwer verletzt aus, aber sie lebt noch! Jedenfalls wusste ich, dass in der Nähe ein Krankenhaus ist, also hab ich sie schnell ins Auto gehoben und bin losgefahren. Ich bin gerade noch unterwegs. Wenn es was Neues gibt, melde ich mich wieder. Schaut euch in der Zwischenzeit bitte auch dieses Bild an – wer könnte das sein? Das muss eine wichtige Spur sein!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Schokoladeneis",
+                "content": "Wenn das das Gesicht des Täters sein soll, dann ist das Opfer wohl wegen Niedlichkeit gestorben."
+            },
+            {
+                "floor": 2,
+                "commenter": "??Unfotogen??",
+                "content": "Der TE hat doch gesagt, die Person lebt noch. Es sieht eher so aus, als hätte sie einen schweren Verkehrsunfall gehabt. Aber wenn es wirklich ein plötzlicher Unfall war, wie hatte sie dann noch die Kraft, ein Porträt zu zeichnen ...? Schon ziemlich merkwürdig."
+            },
+            {
+                "floor": 3,
+                "commenter": "HiIiI",
+                "content": "Hirnlos scheint der TE nicht zu sein, schließlich war er wenigstens so schlau, seinen Beitrag anonym zu posten. Aber andererseits widerspricht sich die Geschichte."
+            },
+            {
+                "floor": 4,
+                "commenter": "[TE] Anonymer Nutzer",
+                "content": "Ich hab Neuigkeiten! Gerade eben auf dem Weg zum Krankenhaus wurde mein Auto von der Todesbotschaft aufgehalten! Nein, nein, was schreibe ich da schon wieder?! Noch mal von vorn: Die Person, die mein Auto angehalten hat, war genau die aus dem Porträt – eine sehr kleine Hasenthiren! Aber zehnmal furchteinflößender als auf dem Bild! Sie hat irgendwas von Kollegin, Geheimhaltung und schwarzen Schweinen geredet, aber ich hab gar nichts davon kapiert. Sie meinte auch, mit der Person in meinem Auto sei überhaupt nichts, und sie nehme sie jetzt mit. Ich hab mich nicht mal getraut, ein Wort dagegen zu sagen! Und dann hab ich einfach zugesehen, wie sie die Person über ihre Schulter geworfen und mitgenommen hat ..."
+            },
+            {
+                "floor": 5,
+                "commenter": "[TE] Anonymer Nutzer",
+                "content": "Ich hocke jetzt am Straßenrand und gehe alles noch mal durch, und je länger ich darüber nachdenke, desto komischer wird’s. Ist das vielleicht irgendeine neue Betrugsmasche? Kommt da irgendwann noch jemand und will mir Geld abknöpfen?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Straßenlaterne_im_Gegenlicht",
+                "content": "Dann wäre das mit Abstand die aufwendigste Betrugsmasche, die ich je gesehen habe."
+            },
+            {
+                "floor": 7,
+                "commenter": "StillerSprudel",
+                "content": "TE, halt uns bitte weiter auf dem Laufenden. Falls mir diese zehnmal furchteinflößendere Hasenthiren irgendwann auch begegnet, will ich vorbereitet sein."
+            }
+        ],
+        "player_reply": []
+    },
+    "28005": {
+        "id": 28005,
+        "poster": "Bizarrer_Reisegefährte_Offiziell",
+        "likes": "17",
+        "views": 6352,
+        "title": "[Plauderei] Wartungsankündigung zu „Bizarrer Reisegefährte“",
+        "text": "Liebe Traumreisende,\num euch ein noch besseres Spielerlebnis zu bieten und die Kerninhalte der neuen Version sowie die Serveroptimierung abzuschließen, wird „Bizarrer Reisegefährte“ für einen gewissen Zeitraum aus dem Angebot genommen und gewartet. Während der Wartung ist auf sämtlichen Endgeräten keine Anmeldung möglich, und alle Funktionen sowie Spielmodi des Spiels sind vorübergehend nicht verfügbar.\nDer Abschluss der Wartung kann sich je nach tatsächlichem Arbeitsfortschritt vorziehen oder verzögern. Falls es Änderungen gibt, informieren wir euch so schnell wie möglich über die offiziellen Kanäle.\nWir entschuldigen uns aufrichtig für die Unannehmlichkeiten, die euch durch diese längere Wartung entstehen, und danken euch von Herzen für euer Verständnis und eure Geduld. Nach Abschluss der Wartung werden wir allen langjährigen Spielern über die Spielhallen eine exklusive Wartungsentschädigung zukommen lassen. Bitte holt sie rechtzeitig vor Ort ab.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 3,
+                "commenter": "Bizarrer-Reisegefährte-Topspieler",
+                "content": "Die Traumreisenden in diesem Spiel werden echt immer langweiliger. Gut, dass es endlich mal aus dem Verkehr gezogen und gewartet wird! Hört auf mich: In der nächsten Zeit geht einfach niemand mehr zu Godfinger, um Bizarrer Reisegefährte zu spielen, damit das Entwicklerteam endlich mal die ganzen alten Macken richtig überarbeitet!"
+            },
+            {
+                "floor": 12,
+                "commenter": "Arcade-Informant",
+                "content": "Kurzfassung: Um euch noch mehr zu entlasten und damit alle Traumreisenden das echte Leben sorgenfrei genießen können, werden sämtliche Spielbelohnungen nach Ende der Wartung automatisch per Mail verschickt. Ihr müsst euch also nicht beeilen! Und auch nicht anmelden!"
+            },
+            {
+                "floor": 31,
+                "commenter": "Schlangenduell_Genie",
+                "content": "Ihr seid vielleicht welche! Nur um die zeitlich begrenzten Belohnungen ganz für euch allein zu kassieren, greift ihr echt zu jedem Mittel ..."
+            },
+            {
+                "floor": 50,
+                "commenter": "Mampfmampfmampf",
+                "content": "Ganz ehrlich, dieses Spiel, „Bizarrer Reisegefährte“, ist auf Dauer wirklich anstrengend ... Ich war früher auch ziemlich süchtig danach. Erst seit ich aufgehört habe, habe ich wirklich das Gefühl, dass mein Leben wieder mir gehört.\nEgal wie stark du im Spiel bist – am Ende bist du dort nur eine Ansammlung von Daten. Wenn du diesen Ehrgeiz, immer besser sein zu wollen, in dein echtes Leben steckst, dann wirst du wirklich spüren, dass du lebst, wächst und besser wirst."
+            },
+            {
+                "floor": 86,
+                "commenter": "FaulesFaultier",
+                "content": "War grad bei einer Firmenveranstaltung und hatte etwas zu viel zu trinken. Warum reden auf einmal alle davon, „Bizarrer Reisegefährte“ nicht mehr spielen zu wollen?\nIch find’s eigentlich ziemlich gut. Könnt ihr mal mit eurer Negativität aufhören?"
+            },
+            {
+                "floor": 88,
+                "commenter": "GutherzigstePersonInRidu",
+                "content": "Dann erklär ich’s eben ...\n„Bizarrer Reisegefährte“ veranstaltet gerade eine Werbeaktion. Wenn man in einer Spielhalle ein zeitlich begrenztes Level schafft, teilt man sich die Lose für die Verlosung – und der Hauptpreis liegt bei 4 Milliarden Dennys! Diese Leute wollen den Jackpot natürlich allein abgreifen und reden jetzt überall anderen ein, mit dem Spiel aufzuhören!"
+            },
+            {
+                "floor": 89,
+                "commenter": "nixwisser",
+                "content": "Echt ein Glück, dass der Kommentar über mir das gesagt hat. Sonst hätte ich das gar nicht mitbekommen!"
+            }
+        ],
+        "player_reply": [
+            "Oh nein, das hat jetzt wirklich jemand geglaubt!",
+            "Äh, also, eigentlich ist das gar nicht so ..."
+        ]
+    },
+    "30001": {
+        "id": 30001,
+        "poster": "Gibt es wirklich Leute, die nicht schwimmen können?",
+        "likes": "41",
+        "views": 2496,
+        "title": "[Plauderei] Diskussion: Geht es mit dem Traumresort wirklich bergauf?",
+        "text": "Wie auf dem Bild zu sehen ist, ging ich gegen Abend am Meer entlang und sah zufällig zwei Mitarbeiter des Traumresorts, die an einem Maschendrahtzaun ernsthaft miteinander diskutierten. Ich tippe einfach mal, dass sich ihr Gespräch um den bevorstehenden Sommer drehte.\nBekanntlich stand dieses Resort früher kurz vor dem Ruin. Mit der Hilfe von Experten hat es sich jedoch so weit entwickelt, dass dort ein riesiges Strand-Musikfestival veranstaltet werden konnte. Damals neigte sich der Sommer allerdings schon dem Ende zu und nach Einbruch des Herbstes wurde es schnell wieder ruhig.\nIch mag den Sommer und das Meer persönlich sehr und hoffe, dass die neuen Angebote des Resorts mir noch einmal ein unvergessliches Sommererlebnis bieten können ... Aber als Ausflugsziel, das nach Nirwana neu eröffnet wird, mache ich mir wirklich Sorgen, ob sie den bevorstehenden Besucheransturm bewältigen können.\nWas meint ihr als Inter-Knot-Nutzer dazu? Kann das Traumresort noch einmal so einen großen Erfolg feiern?",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Kann_alles_außer_Schwimmen",
+                "content": "Es gibt so viele tolle Orte für einen Sommerausflug, ein kleines Resort interessiert da doch niemanden. Und was soll dein Nickname überhaupt? Was haben Nichtschwimmer dir denn angetan!"
+            },
+            {
+                "floor": 2,
+                "commenter": "Frühling_Herbst_Winter_hasse_ich",
+                "content": "Niemand interessiert sich dafür, dass es niemanden interessiert, hörst du? Sommer, Strand und Meer sind einfach das Beste, klar?! Wer das nicht checkt, hat echt einen miesen Geschmack!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Astra_strahle_ewig_weiter",
+                "content": "Mach keinen Quatsch! Letztes Mal hatten wir schließlich unsere Astra als Hauptact beim Musikfestival am Meer, da mussten einfach alle Feuer und Flamme sein! Wer weiß, was dieser Sommer bringt ... Wenn sie was draufhaben, sollen sie Astra noch einmal einladen!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Urlaubszeit",
+                "content": "Ich glaub, da klingelt irgendwo eine Kasse ..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Rationale_Minderheit",
+                "content": "Geht’s hier denn nicht um sachliche Diskussionen? Das Traumresort kann diesen Sommer in Sachen Neuheit und Gesprächsstoff nicht mit der Vergangenheit mithalten. Aber der Strand bleibt eines der beliebtesten Ausflugsziele im Sommer, und da keine Gerüchte im Umlauf sind, dürfte der Umsatz nicht allzu schlecht ausfallen. Außerdem ist das etwas, worum sich die Mitarbeiter des Resorts kümmern sollten. Als Tourist sollte man einfach seinen Urlaub genießen."
+            },
+            {
+                "floor": 6,
+                "commenter": "Alle_haben_recht",
+                "content": "Ich stimme der fünften Antwort zu. Fakt ist, dass das Resort ohnehin nicht noch einmal kurz vor der Pleite stehen wird. Hauptsache, alle essen gut, trinken gut und haben Spaß!"
+            }
+        ],
+        "player_reply": []
+    },
+    "30002": {
+        "id": 30002,
+        "poster": "Jetzt geht das Berufsleben los",
+        "likes": "393",
+        "views": 3193,
+        "title": "[Plauderei] Wird mein Vorgesetzter etwa Geheimagent?",
+        "text": "Hat jemand schon von dem Kooperationsprojekt zwischen dem White-Star-Institut und der Marcel-Gruppe gehört?\nIch arbeite erst seit einem halben Jahr hier und schon muss mein Vorgesetzter wegen dieses Projekts plötzlich weit verreisen, hat einen Haufen Geheimhaltungsverträge unterschrieben und mir gesagt, dass er lange weg sein wird ... Er wurde doch nicht etwa in Wirklichkeit als Geheimagent ausgewählt!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Kleine_Surf-Chili",
+                "content": "Als Geheimagent würde man es dich doch nie wissen lassen ... Dein IQ lässt da etwas zu wünschen übrig."
+            },
+            {
+                "floor": 2,
+                "commenter": "Betreuer_hab_Erbarmen",
+                "content": "Vielleicht sind da irgendwelche vertraulichen Forschungsdaten drin ... Ich habe meinen Betreuer gefragt, aber er meinte, er hätte noch nie von so einem Projekt gehört."
+            },
+            {
+                "floor": 3,
+                "commenter": "Universumstasche",
+                "content": "Thread-Ersteller, lösch den Beitrag schnell! Pass auf, dass die stärkste Rechtsabteilung der Welt nicht bei dir anklopft! Wenn du erst mal wegen des Leaks verhaftet wirst, ist es zu spät!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Nachteule",
+                "content": "Wenn das White-Star-Institut mit Marcel zusammenarbeitet, wollen sie dann etwa ein neues Bangboo-Modell entwickeln? Aber nach der Beschreibung des Beitrags wirkt das Ganze ziemlich geheimnisvoll. Wer weiß, was sie da im Hintergrund planen ..."
+            },
+            {
+                "floor": 5,
+                "commenter": "Niemals_aufgepuffte_Snacks",
+                "content": "Der Vorposter und der Thread-Ersteller gehören an denselben Tisch. Wenn es wirklich eine Verschwörung gäbe, wie könnte dann ein einfacher Angestellter, der erst vor Kurzem angefangen hat, davon wissen? Wenn ihr mich fragt, handelt es sich dabei wahrscheinlich nur um ein paar Geschäftsgeheimnisse, auf die man nicht näher eingehen kann."
+            },
+            {
+                "floor": 6,
+                "commenter": "Will_lange_Haare",
+                "content": "Was für eine große Kiste, warum macht der Thread-Ersteller sie nicht auf und guckt rein!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Feigen-Oolong-Tee",
+                "content": "Meinst du das ernst? Wenn man die wirklich öffnet, wird man doch bestimmt verhaftet."
+            }
+        ],
+        "player_reply": [
+            "Das gibt’s doch nicht ...",
+            "Vielleicht geht es nur um etwas, das geheim bleiben muss."
+        ]
+    },
+    "30003": {
+        "id": 30003,
+        "poster": "Ohne das Oberhaupt bricht diese Familie auseinander.",
+        "likes": "7",
+        "views": 9382,
+        "title": "[Hilfe gesucht] Suche jemanden!! Hat jemand die Frau auf dem Bild gesehen?!",
+        "text": "Hat jemand die Frau auf dem Foto gesehen? Was ist das für ein Ort auf dem Foto? Ich suche dringend nach ihr, für detaillierte Hinweise gibt es eine Belohnung!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Liebe_große_Wassermelonen",
+                "content": "Ich glaube, ich habe diese Frau schon mal gesehen ... Als ich sie das letzte Mal gesehen habe, wurde sie auch so verfolgt!"
+            },
+            {
+                "floor": 2,
+                "commenter": "AAA_Inkasso-Chef",
+                "content": "Ihr Cunning Hares spielt doch wieder nur Theater, von wegen „Unser Boss wird vermisst, wir haben keine Zeit, unsere Schulden zu begleichen, gebt uns noch ein paar Tage Aufschub“. Ich sag euch, die Masche zieht nicht!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Jeden_Tag_ein_Löffel_Eiweißpulver",
+                "content": "Hmm ... Obwohl das Bild etwas verschwommen ist, kann man erkennen, dass die Frau darauf ganz gute Muskelmasse hat. Wenn sie noch ein paar Nahrungsergänzungsmittel nimmt und gezielt den Bizeps trainiert, werden die Konturen noch schöner! Du kannst mich per Privatnachricht kontaktieren, dann empfehle ich dir ein Fitnessstudio."
+            },
+            {
+                "floor": 4,
+                "commenter": "Unschuldiger_Pilz",
+                "content": "Der Typ über mir spinnt wohl ... Hier postet jemand eine Vermisstenanzeige und du machst Werbung für ein Fitnessstudio?"
+            },
+            {
+                "floor": 5,
+                "commenter": "Familienhund_heißt_Prinz",
+                "content": "Warum jagen ihr so viele Bangboos hinterher? Ist das alles nur für zur Show?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Überstundenkönig",
+                "content": "Was? Es gibt eine Belohnung? Wie hoch ist sie? Reicht sie, damit ich ein halbes Jahr lang nicht arbeiten muss?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Erinnerung_Muss_Wasser_trinken",
+                "content": "An den über mir: Glaub denen bloß nicht. Das sind quasi Promis im Inter-Knot. Sie sind ziemlich pleite und haben wahrscheinlich kein Geld für dich."
+            }
+        ],
+        "player_reply": []
+    },
+    "30004": {
+        "id": 30004,
+        "poster": "Mama Bärs Küche",
+        "likes": "8895",
+        "views": 5220,
+        "title": "[Plauderei] Mein Bangboo zu Hause ist etwas seltsam ...",
+        "text": "Unser Bangboo zu Hause hat dem Kind irgendeine Geschichte über einen „Bangboo-Prinzen“ erzählt. Angeblich stammt sie aus einem Geschichtenbuch und sie haben sogar zusammen ein Bild passend zur Geschichte gemalt. Aber ich habe überall ewig gesucht und dieses Buch einfach nicht gefunden ...\nKennt jemand diese Geschichte? Oder hat sich das Bangboo das alles nur ausgedacht? Es klang dabei aber so überzeugend, es würde mich doch nicht anlügen ...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Nachts_in_der_Psychiatrie",
+                "content": "Ein Bangboo-Prinz? Ich habe schon mal mit einem Bangboo gesprochen, das sich selbst als Ritter bezeichnet hat. Dieser Prinz ist doch nicht etwa auch ein Bangboo, das zu viele Romane gelesen hat und nicht mehr zwischen Fantasie und Realität unterscheiden kann ..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Selbst_als_Äthereal_mag_ich_dich",
+                "content": "Was soll dieses Gekritzel denn darstellen? Irgendwie kommen mir die Elemente auf diesem Bild bekannt vor. Hat jemand eine Ahnung?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Schwimmender_Vogel",
+                "content": "Hat der über mir etwa an einen Roman oder eine Serie gedacht? Prinz ist in der Fantasy-Literatur doch etwas völlig Normales. Und was Sterne und Schloss angeht ... Die kommen in Märchen anscheinend auch oft vor."
+            },
+            {
+                "floor": 4,
+                "commenter": "Ich_bin_ein_Kätzchen",
+                "content": "Wenn mich fragst, ist das Gedächtnis von diesem Bangboo vielleicht etwas durcheinander. Es wäre doch möglich, dass es viele Dinge, die es früher gesehen hat, vermischt und daraus eine Geschichte gemacht hat? Der Thread-Ersteller könnte den Kundendienst von Marcel kontaktieren, um mal die Bauteile oder so überprüfen zu lassen, miau."
+            },
+            {
+                "floor": 5,
+                "commenter": "Seine_Inter-Knot-Identität_bestimmt_man_selbst",
+                "content": "Ich stimme meinem Vorredner zu. Wenn die Erinnerungen nur durcheinander sind, geht das ja noch, aber am meisten befürchte ich, dass das Bangboo eigentlich nur Unsinn redet. Wenn es gelogen hat, musst du es richtig erziehen. Lass es deinem Kind keinen Quatsch beibringen."
+            },
+            {
+                "floor": 6,
+                "commenter": "Hasen-Party",
+                "content": "Interessiert es eigentlich nur mich, worum es in dieser Geschichte genau geht? Sieht echt interessant aus!"
+            },
+            {
+                "floor": 7,
+                "commenter": "Trink_Wasser_wenn_du_Hunger_hast",
+                "content": "In New Eridu habe ich immer das Gefühl, dass mich gar nichts mehr wundert, egal was Bangboos anstellen. Hab ich recht, Leute?"
+            }
+        ],
+        "player_reply": [
+            "Oder sollen wir es mal zur Reparatur bringen?",
+            "Vielleicht steckt eine Geschichte dahinter ..."
+        ]
+    },
+    "31001": {
+        "id": 31001,
+        "poster": "Ich sag mal was, das ihr noch nicht wisst",
+        "likes": "1",
+        "views": 9577,
+        "title": "[Plauderei] Streng geheime Info, lösche ich später wieder",
+        "text": "Habe gerade aus ein paar Quellen brandneue Infos bekommen. Unser Boss wird wohl keine Nachkommen mehr haben. Am Tatort soll es übel ausgesehen haben, der Täter ist noch nicht gefasst.\nDie Nachricht wird sicher heimlich unter den Teppich gekehrt, aber passiert ist es trotzdem. In New Eridu zieht ein Sturm auf.\nDamit ihr mir glaubt, hänge ich ein Foto an.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Sag’s normal",
+                "content": "Was brabbelt der TE da eigentlich? Rätseltyp raus aus New Eridu. Und der alte Typ auf dem Bild sieht auch nicht gerade vertrauenswürdig aus. Hör auf, so was ins Netz zu stellen."
+            },
+            {
+                "floor": 2,
+                "commenter": "Zu verkopft",
+                "content": "In drei Minuten will ich alle Infos über die langhaarige Schönheit auf dem Foto."
+            },
+            {
+                "floor": 3,
+                "commenter": "Süßer Student",
+                "content": "Der Post vom TE ist zwar ziemlich langweilig, aber die junge Frau ist echt hübsch, auch wenn man ihr Gesicht nicht sieht. Ist sie irgendein Star aus der Unterhaltungsbranche?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Ridu-Cup: Team Minerva Tigers",
+                "content": "Den alten Typen hab ich doch im Fernsehen gesehen. Ist das nicht Mosseint, der Chef der High Ambitions Corp.? Hat TE das Foto selbst gemacht? Sieht aus wie irgendeine Gala voller Promis.\nMoment mal, TE meinte doch, dass sein Boss keine Nachkommen mehr haben wird ... Wenn mit Boss Mosseint gemeint ist, heißt das dann, seinem Kind ist etwas passiert?"
+            },
+            {
+                "floor": 5,
+                "commenter": "Lieber untot als arbeitslos",
+                "content": "Was soll das heißen? Diese Schönheit? Was ist da genau passiert? Kann TE nicht mal ein bisschen genauer werden? Steht der High Ambitions Corp. jetzt ein Erdbeben bevor?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Die Wahrheit ist einzig (aber teilbar)",
+                "content": "Hab mal nachgeschaut. Mosseint hat tatsächlich einen Adoptivsohn und eine Adoptivtochter. Das hat er vor vielen Jahren in einem Interview selbst bestätigt. Der Adoptivsohn soll laut ihm bei einem Unfall ums Leben gekommen sein. Die Adoptivtochter arbeitet angeblich die ganze Zeit als Forscherin in einer Forschungseinrichtung des Konzerns und ist seit Jahren kaum öffentlich aufgetreten. Ziemlich mysteriös.\nWas das Foto vom TE angeht: Ich hab es mir kurz angesehen. Es dürfte bei irgendeiner Promi-Gala vor ein, zwei Jahren aufgenommen worden sein. An die Halle erinnere ich mich vage, mein Onkel hat dort mal gekellnert. Online finde ich auch kein identisches Foto, deshalb könnte an TEs Geschichte vielleicht wirklich etwas dran sein."
+            },
+            {
+                "floor": 7,
+                "commenter": "Nur neugierig",
+                "content": "Bist du etwa Detektiv oder was ... Apropos, ich habe gerade einen News-Post über Mosseint gesehen. Wenn seiner Tochter wirklich etwas passiert ist, müsste man doch an seinem Verhalten etwas merken, oder?"
+            }
+        ],
+        "player_reply": []
+    },
+    "31002": {
+        "id": 31002,
+        "poster": "Noch 111 Tage bis zum Urlaub",
+        "likes": "9",
+        "views": 2663,
+        "title": "[Plauderei] Warum sind die Vorgesetzten von allen anderen auf Dienstreise, nur meine ...",
+        "text": "Meine Freunde sind in letzter Zeit entweder im Urlaub oder gammeln auf der Arbeit rum. Wenn man nachfragt, heißt es jedes Mal, dass ihre Chefs gerade auf Dienstreise sind, also ist die Arbeitslast plötzlich viel geringer. Warum!!! Warum hat ausgerechnet meine Vorgesetzte keinen Urlaub, sondern sitzt noch immer am Arbeitsplatz, trinkt heißen Tee und schreibt Berichte für die Kommissare!!! Holt meine Vorgesetzte auch auf Dienstreise, damit ich ebenfalls herumgammeln und Urlaub machen kann!!!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Wann ist endlich Zahltag?",
+                "content": "Vorgesetzte gehen gruppenweise auf Dienstreise? Was ist da los? In welchen Firmen arbeiten TEs Freunde denn?"
+            },
+            {
+                "floor": 2,
+                "commenter": "[TE] Noch 111 Tage bis zum Urlaub",
+                "content": "TOPS, HAND, HIA, Stadtverwaltung ... Keine Ahnung, meine Kontakte sind sehr wundersam."
+            },
+            {
+                "floor": 3,
+                "commenter": "Leerenjäger-Forscher",
+                "content": "TE hat Kommissare erwähnt, und wenn man den Hintergrund dazu nimmt, dürfte es wohl jemand von der Basis der Sicherheitsbehörde sein, oder? Die anderen Fraktionen sind allesamt harte Kaliber. Im Vergleich dazu hat die Sicherheitsbehörde tatsächlich nicht ganz so viel Gewicht ..."
+            },
+            {
+                "floor": 4,
+                "commenter": "Name bleibt bis Diäterfolg",
+                "content": "Moment mal, jemand von der Sicherheitsbehörde postet im Inter-Knot ... Ist das für TE wirklich in Ordnung? Außerdem sieht man auf dem Foto TEs Finger und Ohren. Damit lässt sich doch ziemlich leicht herausfinden, welcher Sicherheitsoffizier das genau ist."
+            },
+            {
+                "floor": 5,
+                "commenter": "Stichle wirklich nicht",
+                "content": "TE: Ich hatte mal einen Job."
+            },
+            {
+                "floor": 6,
+                "commenter": "AAA zahlt top für Höhlenrelikte",
+                "content": "Seht ihr? TE antwortet uns schon nicht mehr. Wird der Post gleich gelöscht?"
+            },
+            {
+                "floor": 7,
+                "commenter": "Küchenmaid-Gamer",
+                "content": "Aber mal im Ernst: Wenn bei so vielen Fraktionen gleichzeitig Leute auf Dienstreise sind, dürfte an der Sache wohl etwas dran sein. Vor einiger Zeit hat doch auch jemand vom White-Star-Institut gepostet ... Gibt es etwa wirklich irgendein geheimes Treffen?"
+            }
+        ],
+        "player_reply": []
+    },
+    "31003": {
+        "id": 31003,
+        "poster": "Kans Ridu-Talk",
+        "likes": "13",
+        "views": 8465,
+        "title": "[Info] Chef der High Ambitions Corp., Mosseint, besuchte kürzlich eine Wohltätigkeitsgala",
+        "text": "Vor Kurzem besuchte Mosseint, der Chef der High Ambitions Corp., eine Wohltätigkeitsgala im Bezirk Janus. Die Gala wurde von Odeum-High Ambitions Entertainment (im Folgenden Odeum) veranstaltet und sollte dazu aufrufen, den vom Fall der alten Hauptstadt betroffenen Familien weiterhin Aufmerksamkeit und Unterstützung zukommen zu lassen.\nAls Gründer der High Ambitions Corp. ist Mosseint bereits seit der Eridu-Zeit tief in den Bereichen Finanzen, Unterhaltung und Höhlenwissenschaft aktiv. Aus dem Nichts baute er mit High Ambitions ein Geschäftsimperium auf, das selbst innerhalb der TOPS-Allianz eine beachtliche Größe erreicht hat. Bemerkenswert ist, dass er stets sehr zurückhaltend auftritt und nur selten an solchen Veranstaltungen teilnimmt.\nDas Bild zeigt Mosseint während eines Interviews mit Reportern. Er scheint gut gelaunt gewesen zu sein und sprach mit den Reportern über eine ganze Reihe von Themen.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Nur neugierig",
+                "content": "Normalerweise würde solche völlig uninteressante News-Posts ein halbes Jahr lang niemand anklicken ... Aber wenn das stimmt, was in dem anderen Post steht, und Mosseints Tochter wirklich etwas zugestoßen ist ... Warum besucht er ausgerechnet jetzt eine Gala? Sonst geht er doch nie zu so was."
+            },
+            {
+                "floor": 2,
+                "commenter": "Lieber untot als arbeitslos",
+                "content": "Bin aus dem anderen Post hier ... Wenn man es so sieht, stimmt das wirklich. Seiner Tochter ist etwas passiert, und er wirkt trotzdem bestens gelaunt? Oder ist es erst nach der Gala passiert?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Ridu-Cup: Team Minerva Tigers",
+                "content": "Woher sollen wir das wissen ... Leute wie wir kommen nicht mal in die Nähe solcher Galas. Wie sollen wir da bitte die genaue Reihenfolge der Ereignisse durchblicken?"
+            },
+            {
+                "floor": 4,
+                "commenter": "Die Wahrheit ist einzig (aber teilbar)",
+                "content": "Ich hab nachgesehen. Die Gala fand erst gestern Abend statt. Vor Beginn der Gala hat die Person mit Insiderwissen den anderen Post veröffentlicht. Nach ihrer Beschreibung zu urteilen, war sie wahrscheinlich keine wirklich zentrale Quelle mit vielen Details, sondern hatte die Info eher von jemandem aus dem Umfeld gehört.\nMit anderen Worten: Als die Gala begann, hatte sich die Nachricht bereits über den innersten Kreis hinaus verbreitet. Ich halte es für äußerst unwahrscheinlich, dass Mosseint zu Beginn der Gala völlig ahnungslos war."
+            },
+            {
+                "floor": 5,
+                "commenter": "[TE] Kans Ridu-Talk",
+                "content": "Was ist hier los? Warum schießen die Aufrufzahlen dieses Posts in den letzten zwei Tagen plötzlich so in die Höhe? Keine Ahnung, worüber ihr hier redet, aber wenn ihr schon mal da seid, lasst doch ein Follow da. Kan bringt euch auch künftig die neuesten News und Infos!"
+            },
+            {
+                "floor": 6,
+                "commenter": "Lieber untot als arbeitslos",
+                "content": "Etage 4 ist ja ein echter Meisterdetektiv ... Heißt das, der Alte wusste, dass seiner Tochter etwas passiert ist, und ist trotzdem lächelnd zu einer Gala gegangen? Je tiefer man gräbt, desto mehr kommt ans Licht ... Die da oben sind echt eiskalt."
+            },
+            {
+                "floor": 7,
+                "commenter": "Kellerratte",
+                "content": "Bin gerade erst hier. Was ist los? Der Inter-Knot hat mir diesen Post empfohlen, weil die Aufmerksamkeit angeblich explodiert. Wer ist dieser Alte, und wo ist der andere Post, von dem ihr redet? Ich geh mal nachsehen!"
+            }
+        ],
+        "player_reply": []
+    },
+    "32001": {
+        "id": 32001,
+        "poster": "Inoffizieller Chefkoch des Hoshimi-Klans",
+        "likes": "6000",
+        "views": 8956,
+        "title": "[Plauderei] Der große Auftritt der süßen Hoshimi Miyabi!",
+        "text": "Das Minispiel, das ich euch allen versprochen habe, „Echos der Höhle“, ist heute endlich online!\nWie jeder weiß, bin ich ein riesiger Fan von Hoshimi Miyabi, der Leiterin der Sektion 6, also ist dieses Spiel im Grunde ein Fan-Werk mit Miyabi selbst in der Hauptrolle.\nEhrlich gesagt, ich will anfangs nur ein paar Fan-Inhalte mit Miyabi machen, aber ehe ich mich versehe, habe ich fast 3.000 Figurenskizzen gezeichnet ... Und das ist so was von nicht meine Schuld! Sobald ich Miyabi im Kampf sehe, kann ich nicht anders, als jeden einzelnen dieser Momente im Spiel nachstellen zu wollen! Klar, vielleicht habe ich bei den ganzen durchgemachten Nächten eine Menge Haare gelassen, aber in der Sekunde, in der ich sehe, wie Miyabis wunderschönes Haar mit perfekter Physik im Spiel weht, verzeihe ich alles!\nJedenfalls ist dieses Spiel als Dankeschön für all eure Unterstützung, und als Geschenkpaket für jeden Miyabi-Fan da draußen, der genauso ist wie ich. Es ist völlig, absolut, vollkommen kostenlos! Bitte ladet es herunter! Teilt dieses superniedliche Miyabi-Erlebnis mit der ganzen Welt!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Blabla-Bewertungen zu Spielen",
+                "content": "Ich bin dabei! Hauen wir rein! ... Ein Wunder ... Das ist ein echtes Wunder!"
+            },
+            {
+                "floor": 2,
+                "commenter": "Höhlen mit nichts als meinen Ohren spalten",
+                "content": "Diese Ohren sind so lang, so spitz, so realistisch, so niedlich! Allein wegen dieser Ohren bin ich voll und ernsthaft dabei!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Honigmelonenzüchterzentrale",
+                "content": "Fühl ich! Riesenrespekt an den TE, dass er Miyabis Charme in so einem Spiel perfekt eingefangen hat. Das ist echt beeindruckend!"
+            },
+            {
+                "floor": 4,
+                "commenter": "MussZeichnenErlernen",
+                "content": "Was?! 3.000 Skizzen?!"
+            },
+            {
+                "floor": 5,
+                "commenter": "halt_stopp",
+                "content": "Träume ich? Es kann doch nicht sein, dass ich so etwas Legendäres umsonst spielen darf, oder?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Anonymer Nutzer",
+                "content": "Das ist ein hervorragendes Werk. Danke. Ja, ich übe mich gerade darin, „hundert Creator zu unterstützen und meine Wertschätzung zu zeigen“, also ist das wohl der perfekte Moment, um dem TE mitzuteilen, wie dankbar ich bin."
+            },
+            {
+                "floor": 7,
+                "commenter": "ScharfesAuge",
+                "content": "Mein Gott, ist das das Original?! TE, komm wieder her und sieh dir das an!!"
+            },
+            {
+                "floor": 8,
+                "commenter": "[TE] Inoffizieller Chefkoch des Hoshimi-Klans",
+                "content": "Aaaaa! Was habe ich verpasst! Waaah ... Miyabi ist so freundlich und sanft! Ich werde mein ganzes Leben lang Miyabi unterstützen!!!"
+            }
+        ],
+        "player_reply": [
+            "Mögen deine Fans immer mehr werden, TE!",
+            "Gespannt, mehr fantastische Werke zu sehen!"
+        ]
+    },
+    "32002": {
+        "id": 32002,
+        "poster": "in_einer_Villa_aufgewacht",
+        "likes": "41",
+        "views": 2289,
+        "title": "[Plauderei] Sternschnuppe im Anflug. Vergiss nicht, dir etwas zu wünschen!",
+        "text": "Keine Filter, keine Bearbeitung, direkt aus der Kamera. Ihr glaubt mir nicht? Schließt diesen Post ruhig. Zweifler sind nicht erlaubt!\nHeute bin ich also, wie an jedem anderen Tag auch, auf die Terrasse meiner Villa gegangen. Mit zehn Dienstmädchen, die mir jeden Wunsch von den Augen ablasen, bin ich bereit, einen handgemahlenen Kaffee zu genießen, das Abendrot auf mich wirken zu lassen und einen weiteren herrlich gewöhnlichen Tag zu verbringen ... Aber dann sehe ich eine Sternschnuppe über den Himmel jagen! Selbst jemand, der so viel gereist und weltgewandt ist wie ich, hat so etwas noch nie gesehen. Also teile ich dieses seltene Schauspiel mit euch allen!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Galaxien-Trailblazer",
+                "content": "Den Details nach zu urteilen, sieht das nicht wie eine gewöhnliche Sternschnuppe aus. Könnte Weltraumschrott aus einer vergangenen Ära sein, der beim Aufprall Feuer gefangen hat.\nDas Minerva-Sturmgebiet ist nicht weit von hier. Die Wetterbedingungen dort draußen werden ziemlich extrem, also wäre so etwas nichts Ungewöhnliches."
+            },
+            {
+                "floor": 2,
+                "commenter": "IchHabeKeinenFilter",
+                "content": "Wenn du schon ein Foto einer Sternschnuppe postest, könntest du uns wenigstens ein paar Details dazu verraten. Locke uns Astronomie-Fans nicht hierher, nur um unsere Zeit zu verschwenden ... Ernsthaft, wen interessiert es, wie riesig die Terrasse deiner Villa ist oder wie viele Dienstmädchen du hast?!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Campus_Rekrut",
+                "content": "Sternenlicht, sternenhell, lass mich dieses High Ambitions-Interview meistern!"
+            },
+            {
+                "floor": 4,
+                "commenter": "FamilyMan",
+                "content": "Ich hoffe, das ist wirklich eine Sternschnuppe und nichts Schlimmes, das mit den Höhlen zusammenhängt ..."
+            },
+            {
+                "floor": 5,
+                "commenter": "WegenDesDramasHier",
+                "content": "Poste mehr Bilder! In welcher Himmelsrichtung ist das eigentlich? Und in welche Richtung ist die Sternschnuppe gefallen? Ich bin voll dabei, auf ein Abenteuer zu gehen und aufzuspüren, wo sie gelandet ist."
+            },
+            {
+                "floor": 6,
+                "commenter": "Astro-Magier",
+                "content": "Teile diese Sternschnuppe und das Glück wird dich innerhalb von sieben Tagen finden."
+            },
+            {
+                "floor": 7,
+                "commenter": "glücklicher_Zuschauer",
+                "content": "Ich habe die Sternschnuppe auch fallen sehen ... Aber bei mir in der Nähe gibt es gar keine Villen?"
+            }
+        ],
+        "player_reply": [
+            "Das muss Phoenix sein ...",
+            "Hoffentlich hat das kein Aufsehen erregt ..."
+        ]
+    },
+    "32003": {
+        "id": 32003,
+        "poster": "Bezahlte Informationen",
+        "likes": "29",
+        "views": 6900,
+        "title": "[Infos] Über den Mann, dessen Name nicht genannt werden darf",
+        "text": "Nur als Vorwarnung: Wenn ihr auf diesen Thread antwortet, erwähnt diesen Namen nicht direkt. Ich habe nicht vor, für ein „kleines Gespräch“ mit irgendeinem Beamten abgeführt zu werden!\nKurz gesagt: Ich lief gerade am HAND-Gebäude vorbei, als ich diesen Mann (Stichwort: der Dämonenherrscher der Sicherheitsbehörde) herauskommen sah. Offensichtlich, dass er sich gerade mit jemandem vom Höhlen-Sondereinsatzkommando getroffen hat.\nIch habe von meinem Maulwurf ... äh, ich meine, meinem Freund bei der Sicherheitsbehörde gehört, dass der Dämonenherrscher in letzter Zeit auf einer dringenden Geschäftsreise ist. Wenn man das nun mit seinem Treffen mit den Leuten vom Höhlen-Sondereinsatzkommando zusammenzählt und ... Moment, wird er ernsthaft selbst eine Truppe in die Höhle führen?!\nWie auch immer, jeder, der vorhat, demnächst die Höhle zu betreten, sollte auf der Hut sein, seine Infos unter Verschluss halten und beten, diesem Typen nicht über den Weg zu laufen. Glaubt mir, er lässt Äthereale zahm wirken.",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Hamster",
+                "content": "Ja, meine Mutter hat gesagt, dass dieser Typ wohl auch bald auf Geschäftsreise geht. Einige seiner offiziellen Aufgaben werden bereits an andere übergeben."
+            },
+            {
+                "floor": 2,
+                "commenter": "Gib mir meine Lizenz zurück",
+                "content": "Er geht in die Höhle? Ist dieser Typ nicht ein Bürohengst? Ich habe kaum davon gehört, dass er an Außeneinsätzen teilnimmt."
+            },
+            {
+                "floor": 3,
+                "commenter": "Hamster",
+                "content": "Offensichtlich. Wenn ein Höhergestellter in den Außeneinsatz geschickt wird, muss es etwas Ernstes sein. Natürlich können sie das nicht öffentlich machen."
+            },
+            {
+                "floor": 4,
+                "commenter": "Anonym",
+                "content": "Ich habe nichts davon gehört, dass er in eine Höhle gegangen ist. Zumindest haben wir von unserer Seite aus keine Anfragen nach Unterstützung erhalten."
+            },
+            {
+                "floor": 5,
+                "commenter": "Denny-Sparschwein",
+                "content": "Es heißt, er hat eine ganze Truppe zwielichtiger Fallspezialistinnen unter sich, und alle aus eigener Tasche finanziert, völlig unter dem Radar der Stadtverwaltung. Ich wette, er holt sie für diese Sache dazu."
+            },
+            {
+                "floor": 6,
+                "commenter": "Anonym",
+                "content": "... Du willst echt über diese Fallspezialistinnen lästern? Bist du lebensmüde? Lowells Schoßhündchen werden deine IP zurückverfolgen, bevor du dich versiehst!"
+            },
+            {
+                "floor": 7,
+                "commenter": "SchämDichLeise",
+                "content": "TE sollte diesen Post besser so schnell wie möglich löschen, die Kommentare geraten schon außer Kontrolle ... Sogar Lowell ist aufgetaucht ..."
+            }
+        ],
+        "player_reply": []
+    },
+    "32004": {
+        "id": 32004,
+        "poster": "Vorbeigehender Ermittler",
+        "likes": "123",
+        "views": 1670,
+        "title": "[Plauderei] Das muss die Schuld der Höhle sein!",
+        "text": "Waaah ... Ich bin doch nur ein ganz normaler Höhlenermittler, ich habe nichts falsch gemacht, also warum hat die Höhle es so auf mich abgesehen ... Wie dem auch sei, die Sache ist die ... Ist noch jemandem aufgefallen, dass die Höhlen-Masterkopiedaten, die von der HIA bereitgestellt werden, in letzter Zeit ständig Probleme machen?\nMöhren, deren Daten-Ablaufdatum noch nicht einmal erreicht ist, spielen eine nach der anderen verrückt, und letztes Mal habe ich mich dadurch sogar in einer Höhle verirrt.\nÄh ... Ich habe keine andere Wahl, als meine Möhren auf die altmodische Art von Hand herzustellen. Also, braucht noch jemand Möhren? Bei Sammelbestellungen gibt es Rabatt!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "RenteMit40",
+                "content": "Ich kann dafür bürgen, die Möhren vom TE sind echt gut.\nDie Rosetta-Daten spinnen in letzter Zeit, und egal, wie viele Beschwerden du einreichst, es ändert sich nichts. Fang mir gar nicht erst mit dem Kundenservice der Höhlen-Investigationsassoziation an – da kannst du genauso gut gegen eine Wand reden ... Ich denke, wir müssen es selbst herausfinden."
+            },
+            {
+                "floor": 2,
+                "commenter": "Yuzu-Tee",
+                "content": "Die Rosetta-Daten machen Fehler? Haben sie sich einen Virus eingefangen oder so?"
+            },
+            {
+                "floor": 3,
+                "commenter": "ProxyMitE-RangGlück",
+                "content": "Aber meine Möhren sind völlig in Ordnung. Hört auf, Gerüchte zu verbreiten!"
+            },
+            {
+                "floor": 4,
+                "commenter": "Zementmischer",
+                "content": "An die Person, die sagt, dass Rosettas Daten in Ordnung sind: Wie oft pro Woche gehst du überhaupt in Höhlen? Erzähl mir nicht, dass das letzte Mal, als alles „in Ordnung“ war, über sechs Monate her ist. Meine Möhre hatte gestern auch Datenfehler. Wir sollten uns alle zusammentun und massenhaft Beschwerden einreichen!"
+            },
+            {
+                "floor": 5,
+                "commenter": "SicherheitErste",
+                "content": "Ich möchte eine Ladung traditionell hergestellter Möhren vorbestellen. Ich habe den Preis und die Lieferadresse per DM geschickt, also schau bitte nach!"
+            }
+        ],
+        "player_reply": []
+    },
+    "32005": {
+        "id": 32005,
+        "poster": "Roscaelifer-Arithmetik-Abteilung",
+        "likes": "2333",
+        "views": 6666,
+        "title": "[Werbung] Roscaelifers Klugmöhre – die weise Wahl für das Wachstum deines Kindes",
+        "text": "Hat dein Kind immer noch Probleme mit Mathematik? Raufst du dir immer noch die Haare, weil dein Kind einfache Grundrechenarten nicht begreift?\nKeine Sorge! Roscaelifers Klugmöhren verleihen deinem Kind die Rechenpower eines Himmelsnexus!\nViel Sonnenlicht von weit oben hält dein Kleines schlau und aufgeweckt! Schreib uns eine DM für weitere Details ...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Nicht_schlecht",
+                "content": "Das sind also die Fruchtmöhren, die sie in Roscaelifer produzieren ..."
+            },
+            {
+                "floor": 2,
+                "commenter": "Blühender Wohlstand",
+                "content": "Leute, es ist echt! Es kann wirklich die Rechenleistung eures Kindes verbessern!"
+            },
+            {
+                "floor": 3,
+                "commenter": "Wassergleiche_Tugend",
+                "content": "Hab dir gerade eine DM geschickt! Die Matheprüfung meines Kindes liegt jetzt ganz in deinen Händen!"
+            },
+            {
+                "floor": 4,
+                "commenter": "GroßerHund_Mampf",
+                "content": "Die Roscaelifer-Arithmetik-Abteilung? Ist das ein offizielles Produkt des Himmelsnexus?"
+            },
+            {
+                "floor": 5,
+                "commenter": "will-nix-verpassen",
+                "content": "Könnte ich Blaze dazu bringen, mich im Feuertopf-Restaurant „Simmer“ mit dieser Möhre zu füttern?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Frau_Morgenrot_ist_unvergleichlich",
+                "content": "Hey, Kommentator über mir. Du bist ja echter Wahnsinn!"
+            }
+        ],
+        "player_reply": [
+            "Ist das eine echte Möhre?",
+            "Kauft wirklich jemand so etwas?"
+        ]
+    },
+    "32006": {
+        "id": 32006,
+        "poster": "AAA_Höhlenräuberkönig",
+        "likes": "45",
+        "views": 3454,
+        "title": "[Plauderei] Hat jemand Lust, zusammen eine Möhre zu kaufen?",
+        "text": "Ein Freund hat mir schon mal für 99.999 Dennys eine Möhre aus erster Hand gegeben, und erstaunlicherweise hat sie tatsächlich funktioniert. Auf der gesamten Route gab es auch keinen einzigen HIA-Agenten. Sieht so aus, als wären das wirklich Daten aus erster Hand!\nUnglaublich! Jetzt werde ich der Höhlenräuberkönig!",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "Evakuierungs-Mäuse",
+                "content": "Die Möhre aus erster Hand? Ist das nicht etwas, das nur die Stadtverwaltung oder HAND hätte?"
+            },
+            {
+                "floor": 2,
+                "commenter": "NeuerSturmKommt",
+                "content": "Totaler Schwindel! Wie sollen das bitte Daten aus erster Hand sein? Was, hast du etwa Verwandte in Roscaelifer?"
+            },
+            {
+                "floor": 3,
+                "commenter": "Papago-Schmatzkönig",
+                "content": "Hab dir gerade eine DM geschickt, Bruder! Gib mir die Kurzfassung!"
+            },
+            {
+                "floor": 4,
+                "commenter": "will-nix-verpassen",
+                "content": "Kumpel, ich habe das Gefühl, die Sicherheitsbehörde klopft bald an deine Tür."
+            },
+            {
+                "floor": 5,
+                "commenter": "Warm wie Kaffee",
+                "content": "Glaubst du wirklich, du kannst das im Inter-Knot posten? Als ob die Sicherheitsbehörde das Inter-Knot nicht im Blick hätte oder so?"
+            },
+            {
+                "floor": 6,
+                "commenter": "Soll_das_heißen",
+                "content": "Sicherheitsbehörde! Tür auf!"
+            }
+        ],
+        "player_reply": [
+            "Möhre aus erster Hand? Da ist was faul ...",
+            "Sag mir nicht, dass echte Möhren rausgeschmuggelt werden ..."
+        ]
+    },
+    "32007": {
+        "id": 32007,
+        "poster": "Hund mit Träumen",
+        "likes": "220",
+        "views": 3262,
+        "title": "[Plauderei] Frage: Warum ist Größter Fan heute etwas seltsam?",
+        "text": "Okay, pass auf, ich war heute auf einem Offline-Fantreffen und habe endlich meine drei kleinen Lieblingsengel mit meinen eigenen Augen gesehen, ich bin gerade buchstäblich überglücklich Ｏ(≧▽≦)Ｏ\nAls ich nach Hause kam, habe ich die Fotos vom Fotografen der Aktion gecheckt, und da habe ich bemerkt, dass der Clubpräsident Größter Fan die ganze Zeit buchstäblich direkt vor mir saß?? Heute war ernsthaft mein Glückstag!!\nAber ... er sieht auf den Fotos irgendwie ... komisch aus? Kommt er noch jemandem seltsam vor, oder hatte er Angst vor mir oder so?? Was ist da los, kennt jemand die ganze Geschichte?? Ich mache mir so Sorgen, OMG ...",
+        "script": null,
+        "comments": [
+            {
+                "floor": 1,
+                "commenter": "SunnasKleineHaarspange",
+                "content": "Hey TE, Größter Fan hat keine Angst vor dir! Aber hast du schon mal die Möglichkeit in Betracht gezogen, dass ... dieses Outfit vielleicht ein bisschen ..."
+            },
+            {
+                "floor": 2,
+                "commenter": "AngsthaseSeitTag1",
+                "content": "TE, bitte komm mir nicht mit dieser niedlichen Ausdrucksweise. Ich stehe gerade genauso unter Schock wie Größter Fan ..."
+            },
+            {
+                "floor": 3,
+                "commenter": "Angel-Styleguide",
+                "content": "Wow, das Macho-Tanktop ist aufgetaucht! Als TE meinte, die Mode-Welt verlassen zu wollen, habe ich gesagt, dass ich das nicht zulasse!"
+            },
+            {
+                "floor": 4,
+                "commenter": "all_in_auf_die_Angels_of_Delusion",
+                "content": "Mh? Sagt mir nicht, dass sonst niemand denkt, dass der TE durchtrainiert und zuverlässig ist? Unsere kleine „Delulu“-Crew wird einfach immer besser und besser!"
+            },
+            {
+                "floor": 5,
+                "commenter": "Ich sehe alles",
+                "content": "Ähm, was die Kommentatorin über mir also sagen will, ist ... je pinker das Tanktop, desto lautstärker die Unterstützung?"
+            },
+            {
+                "floor": 6,
+                "commenter": "HeißerTypTrainingBot",
+                "content": "Tss, TE hat eine ernst gemeinte Frage gestellt und keine einzige Person in den Kommentaren hat eine echte Antwort gegeben! Tja, dann werde ich das auch nicht tun ..."
+            },
+            {
+                "floor": 7,
+                "commenter": "IchLiebeMeinIdol",
+                "content": "TE! TE! Du bist der Beste, weil du Angels of Delusion unterstützt! Du hast Geschmack, TE! Weiter so!"
+            }
+        ],
+        "player_reply": [
+            "Was soll ich jetzt überhaupt sagen ...",
+            "Dem Größten Fan geht es super, mach dir keine Sorgen!"
+        ]
     }
 }

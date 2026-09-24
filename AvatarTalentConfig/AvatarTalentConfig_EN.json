@@ -1240,9 +1240,9 @@
             {
                 "talent_id": "6",
                 "Burnice_Talent_06_Title": "Burning Invitation",
-                "Burnice_Talent_06_Desc_01_Realign": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect, dealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>.\nAfter hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active, <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> effects will ignore 25% of the target's <color=#FF5521>Fire RES</color>.\nWhen <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>, trigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
+                "Burnice_Talent_06_Desc_01_Realign": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect, dealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>.\nAfter hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active, <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> DMG will ignore 25% of the target's <color=#FF5521>Fire RES</color>.\nWhen <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>, trigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
                 "Burnice_Talent_06_Desc_02": "It seems like no one has ever seen Burnice truly angry.\n\"Trust me, you don't want to see it.\"\n— From a driver getting ready to sleep atop Steeltusk",
-                "Burnice_Talent_06_Desc_01": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect, dealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>. After hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active, <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> effects will ignore 25% of the target's <color=#FF5521>Fire RES</color>. When <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>, trigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
+                "Burnice_Talent_06_Desc_01": "When Burnice hits an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, it triggers an additional special <color=#FFFFFF>Afterburn</color> effect, dealing 60% of Burnice's ATK as <color=#FF5521>Fire DMG</color> to the target. This effect can trigger once every 0.5s and does not consume <color=#FFFFFF>Heat</color>. After hitting an enemy with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, while the move is active, <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>, special <color=#FFFFFF>Afterburn</color> effects, and <color=#FF5521>Burn</color> DMG will ignore 25% of the target's <color=#FF5521>Fire RES</color>. When <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>'s fire blast hits an enemy, if that enemy is <color=#FF5521>Burned</color>, trigger an additional instance of <color=#FF5521>Burn</color> DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
                 "Burnice_Talent_06_Title_Realign": "Burning Invitation"
             }
         ]
@@ -1566,9 +1566,9 @@
             {
                 "talent_id": "1",
                 "Astra_Talent_01_Title": "12-Tone Equal Temperament",
-                "Astra_Talent_01_Desc_01_Realign": "When Astra Yao's attack hits an enemy, the target's All-Attribute RES is reduced by 6%, stacking up to 3 times and lasting 30s. Repeated triggers refresh the duration.\nUpon entering the battlefield, Astra Yao immediately gains 1,000 Decibels.\nWhen activating her <color=#FFFFFF>Ultimate</color>, all squad members gain 1 stack of <color=#FFFFFF>Song of Protection</color> for 60s. When attacked by an enemy, consume <color=#FFFFFF>Song of Protection</color>, granting Invulnerability for 1s.",
+                "Astra_Talent_01_Desc_01_Realign": "When Astra Yao's attack hits an enemy, the target's All-Attribute RES is reduced by 6%, stacking up to 3 times and lasting 30s. Repeated triggers reset the duration.\nUpon entering the battlefield, Astra Yao immediately gains 1,000 Decibels. This effect can trigger once every 180s in Investigation Zone Mode.\nWhen activating her <color=#FFFFFF>Ultimate</color>, all squad members gain 1 stack of <color=#FFFFFF>Song of Protection</color> for 60s. When attacked by an enemy, consume <color=#FFFFFF>Song of Protection</color>, granting Invulnerability for 1s.",
                 "Astra_Talent_01_Desc_02": "\"What is the 12-tone equal temperament?\"\n\"12-tone equal temperament is a musical tuning system, just like how children have to line up, sounds need to be in order too.\"\n\"But sounds probably don't like lining up, just like children!\"\n—Astra Yao's music teacher, recalling when she was six.",
-                "Astra_Talent_01_Desc_01": "When Astra Yao's attack hits an enemy, the target's All-Attribute RES is reduced by 6%, stacking up to 3 times and lasting 30s. Repeated triggers reset the duration. Upon entering the battlefield, Astra Yao immediately gains 1,000 Decibels. When activating her <color=#FFFFFF>Ultimate</color>, all squad members gain 1 stack of <color=#FFFFFF>Song of Protection</color> for 60s. When attacked by an enemy, consume <color=#FFFFFF>Song of Protection</color>, granting Invulnerability for 1s.",
+                "Astra_Talent_01_Desc_01": "When Astra Yao's attack hits an enemy, the target's All-Attribute RES is reduced by 6%, stacking up to 3 times and lasting 30s. Repeated triggers reset the duration. Upon entering the battlefield, Astra Yao immediately gains 1,000 Decibels. This effect can trigger once every 180s in Investigation Zone Mode. When activating her <color=#FFFFFF>Ultimate</color>, all squad members gain 1 stack of <color=#FFFFFF>Song of Protection</color> for 60s. When attacked by an enemy, consume <color=#FFFFFF>Song of Protection</color>, granting Invulnerability for 1s.",
                 "Astra_Talent_01_Title_Realign": "12-Tone Equal Temperament"
             },
             {
@@ -1618,9 +1618,9 @@
             {
                 "talent_id": "1",
                 "Evelyn_Talent_01_Title": "Dreamweave",
-                "Evelyn_Talent_01_Desc_01_Realign": "Upon entering the battlefield, Evelyn immediately gains 1,500 Decibels.\nEnemies affected by <color=#FFFFFF>Binding Seal</color> will be <color=#FFFFFF>Bound</color>. When Evelyn attacks <color=#FFFFFF>Bound</color> enemies, she ignores 12% of their DEF.\nWhen Evelyn uses <color=#FFFFFF>Special Attack: Binding Sunder - First Form</color> or <color=#FFFFFF>EX Special Attack: Binding Sunder - Final Form</color>, the <color=#FFFFFF>Bound</color> effect spreads to all enemies hit by the skill. This spread <color=#FFFFFF>Bound</color> effect lasts for 10s.",
+                "Evelyn_Talent_01_Desc_01_Realign": "Upon entering the battlefield, Evelyn immediately gains 1,500 Decibels. This effect can trigger once every 180s in Investigation Zone Mode.\nEnemies affected by <color=#FFFFFF>Binding Seal</color> will be <color=#FFFFFF>Bound</color>. When Evelyn attacks <color=#FFFFFF>Bound</color> enemies, she ignores 12% of their DEF.\nWhen Evelyn uses <color=#FFFFFF>Special Attack: Binding Sunder - First Form</color> or <color=#FFFFFF>EX Special Attack: Binding Sunder - Final Form</color>, the <color=#FFFFFF>Bound</color> effect spreads to all enemies hit by the skill. This spread <color=#FFFFFF>Bound</color> effect lasts for 10s.",
                 "Evelyn_Talent_01_Desc_02": "The distant, blurred light seemed to be a dream she had crafted, an unreachable future. It wasn't about atonement, but a yearning for freedom.\n\"You want it too, don't you? A real life.\" An anonymous former coworker once asked Evelyn.",
-                "Evelyn_Talent_01_Desc_01": "Upon entering the battlefield, Evelyn immediately gains 1,500 Decibels. Enemies affected by <color=#FFFFFF>Binding Seal</color> will be <color=#FFFFFF>Bound</color>. When Evelyn attacks <color=#FFFFFF>Bound</color> enemies, she ignores 12% of their DEF. When Evelyn uses <color=#FFFFFF>Special Attack: Binding Sunder - First Form</color> or <color=#FFFFFF>EX Special Attack: Binding Sunder - Final Form</color>, the <color=#FFFFFF>Bound</color> effect spreads to all enemies hit by the skill. This spread <color=#FFFFFF>Bound</color> effect lasts for 10s.",
+                "Evelyn_Talent_01_Desc_01": "Upon entering the battlefield, Evelyn immediately gains 1,500 Decibels. This effect can trigger once every 180s in Investigation Zone Mode. Enemies affected by <color=#FFFFFF>Binding Seal</color> will be <color=#FFFFFF>Bound</color>. When Evelyn attacks <color=#FFFFFF>Bound</color> enemies, she ignores 12% of their DEF. When Evelyn uses <color=#FFFFFF>Special Attack: Binding Sunder - First Form</color> or <color=#FFFFFF>EX Special Attack: Binding Sunder - Final Form</color>, the <color=#FFFFFF>Bound</color> effect spreads to all enemies hit by the skill. This spread <color=#FFFFFF>Bound</color> effect lasts for 10s.",
                 "Evelyn_Talent_01_Title_Realign": "Dreamweave"
             },
             {
@@ -2391,6 +2391,58 @@
             }
         ]
     },
+    "1541": {
+        "role_id": 1541,
+        "name": "Promeia",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Promeia_Talent_01_Title": "Innocent Idealism",
+                "Promeia_Talent_01_Desc_01_Realign": "When Promeia uses <color=#FFFFFF>Ultimate: Glaciating Impalement</color>, she gains an additional effect: if <color=#FFFFFF>Trial by Cold</color> points are not at maximum, gain 1 point of <color=#FFFFFF>Trial by Cold</color>. This effect can trigger once after using <color=#FFFFFF>Ultimate: Glaciating Impalement</color>.\nWhen any squad member triggers <color=#FFFFFF>Abloom</color> on enemies with <color=#FFFFFF>Presumption of Guilt</color>, it ignores an additional 20% DEF.",
+                "Promeia_Talent_01_Desc_02": "This is a chaotic, lawless land.\nRoaring engines and swirling dust, steel clashing with flesh. Conflict and violence play out day and night.\nAn innocent child grips an equally innocent weapon, wandering the same lost red earth.\n\"Would you be willing to do your part for the peace here?\"",
+                "Promeia_Talent_01_Desc_01": "When Promeia uses <color=#FFFFFF>Ultimate: Glaciating Impalement</color>, she gains an additional effect: if <color=#FFFFFF>Trial by Cold</color> points are not at maximum, gain 1 point of <color=#FFFFFF>Trial by Cold</color>. This effect can trigger once after using <color=#FFFFFF>Ultimate: Glaciating Impalement</color>. When any squad member triggers <color=#FFFFFF>Abloom</color> on enemies with <color=#FFFFFF>Presumption of Guilt</color>, it ignores an additional 20% DEF.",
+                "Promeia_Talent_01_Title_Realign": "Innocent Idealism"
+            },
+            {
+                "talent_id": "2",
+                "Promeia_Talent_02_Title": "Faltering Conviction",
+                "Promeia_Talent_02_Desc_01_Realign": "Promeia's Anomaly Proficiency increases by 40.\nThe multiplier of <color=#FFFFFF>Abloom</color> triggered by consuming <color=#FFFFFF>Trial by Cold</color> increases by 120%.",
+                "Promeia_Talent_02_Desc_02": "She became an exceptional Sweeper — swift, precise, and silent. Her targets were clear and countless: Ethereals, those infected with irreversible Corruption, those fated to turn into Ethereals... every kill marked by bloodshed and the echoes of their cries.\nBut... is it right?\n\"This is a Sweeper's duty!\" \"Just think of it as... for the greater good, got it?\" \"Those people were going to die anyway.\" ...\n\"It's a necessary sacrifice.\"",
+                "Promeia_Talent_02_Desc_01": "Promeia's Anomaly Proficiency increases by 40. The multiplier of <color=#FFFFFF>Abloom</color> triggered by consuming <color=#FFFFFF>Trial by Cold</color> increases by 120%.",
+                "Promeia_Talent_02_Title_Realign": "Faltering Conviction"
+            },
+            {
+                "talent_id": "3",
+                "Promeia_Talent_03_Title": "Cruel Moonlight",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Promeia_Talent_03_Desc_02": "The truth is often carved out from an unremarkable accident.\n\"You think the Sweepers could get rich just by dealing with worthless Ethereals?\"\n\"Gang wars are a guaranteed profit. If you're afraid of getting your hands dirty, the 'Black Wolf' is more than eager...\"\nNight fell soon after, earlier than anyone expected.\nThe Sweepers, Calydon, the gangs with names and those without... in this chaotic age, all seemed to vanish into the endless dark.",
+                "Promeia_Talent_03_Title_Realign": "Cruel Moonlight"
+            },
+            {
+                "talent_id": "4",
+                "Promeia_Talent_04_Title": "Ruthless Accusation",
+                "Promeia_Talent_04_Desc_01_Realign": "When Promeia triggers <color=#FFFFFF>Abloom</color>, she restores 5 <color=#FFFFFF>Corrosive Chill</color>. This effect can trigger once every 0.5s.",
+                "Promeia_Talent_04_Desc_02": "An invitation arrived, summoning a moth to its judgment.\nThe right to choose, light, justice, and everything that made her \"Promeia.\"\nShe put on the handcuffs and chose exile for herself.\n\"This is my final choice.\"",
+                "Promeia_Talent_04_Desc_01": "When Promeia triggers <color=#FFFFFF>Abloom</color>, she restores 5 <color=#FFFFFF>Corrosive Chill</color>. This effect can trigger once every 0.5s.",
+                "Promeia_Talent_04_Title_Realign": "Ruthless Accusation"
+            },
+            {
+                "talent_id": "5",
+                "Promeia_Talent_05_Title": "The Dying Moth",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Promeia_Talent_05_Desc_02": "She buried herself in her work.\nInvestigations, interrogations, judgments... an endless list.\nHer colleagues watched her with concern.\n\"How long are you going to keep this up...?\"\n\"Until every last sin is atoned for... or until death takes me.\"",
+                "Promeia_Talent_05_Title_Realign": "The Dying Moth"
+            },
+            {
+                "talent_id": "6",
+                "Promeia_Talent_06_Title": "To Be Continued",
+                "Promeia_Talent_06_Desc_01_Realign": "When Promeia consumes <color=#FFFFFF>Trial by Cold</color> to trigger <color=#FFFFFF>Abloom</color>, it triggers an additional special <color=#FFFFFF>Abloom</color> effect, dealing Attribute Anomaly DMG of the corresponding attribute at a fixed 200% multiplier. 5 <color=#FFFFFF>Corrosive Chill</color> and 100 Decibels are also restored. This effect can trigger at most once every 15s.\nIn addition, Attribute Anomaly DMG and <color=#FFFFFF>Disorder</color> DMG dealt by Promeia ignore 15% of enemies' All-Attribute RES.",
+                "Promeia_Talent_06_Desc_02": "The end didn't arrive as expected, and the night wasn't as dark as imagined.\nColleagues, old acquaintances, late-night lights, and new friends...\nThe poor moth still couldn't shake off these heavy gifts, and that long-awaited ending now felt even further away.\nBut maybe... such a fate isn't so bad.",
+                "Promeia_Talent_06_Desc_01": "When Promeia consumes <color=#FFFFFF>Trial by Cold</color> to trigger <color=#FFFFFF>Abloom</color>, it triggers an additional special <color=#FFFFFF>Abloom</color> effect, dealing Attribute Anomaly DMG of the corresponding attribute at a fixed 200% multiplier. 5 <color=#FFFFFF>Corrosive Chill</color> and 100 Decibels are also restored. This effect can trigger at most once every 15s. In addition, Attribute Anomaly DMG and <color=#FFFFFF>Disorder</color> DMG dealt by Promeia ignore 15% of enemies' All-Attribute RES.",
+                "Promeia_Talent_06_Title_Realign": "To Be Continued"
+            }
+        ]
+    },
     "1491": {
         "role_id": 1491,
         "name": "Sunna",
@@ -2492,6 +2544,422 @@
                 "Aria_Talent_06_Desc_02": "Do you still remember that night in September, when love was born?\nDo you still remember the dancing on the stage, in those days when we fell into delusions?",
                 "Aria_Talent_06_Desc_01": "Upon entering the battlefield, Aria immediately gains 1,200 Decibels. In Investigation Zone mode, this effect can trigger once every 180s. After Aria enters <color=#FFFFFF>Moment of Delusion</color>, she will not exit it, and <color=#FFFFFF>enhanced Basic Attack: Perfect Pitch</color> and her <color=#FFFFFF>Ultimate</color> deal 40% increased <color=#FE437E>Ether DMG</color>. While in <color=#FFFFFF>Moment of Delusion</color>, when an enemy on the field enters an Anomaly state, Aria gains 1 stacks of <color=#FFFFFF>All-Out Cheering</color>. This effect can occur once every 6s. When gaining the <color=#FFFFFF>All-Out Cheering</color> effect, if already at 3 stacks of <color=#FFFFFF>All-Out Cheering</color>, any excess <color=#FFFFFF>All-Out Cheering</color> is converted into 2 <color=#FFFFFF>Fandom Power</color> and generated on the field.",
                 "Aria_Talent_06_Title_Realign": "Construct's Dream"
+            }
+        ]
+    },
+    "1511": {
+        "role_id": 1511,
+        "name": "Nangong Yu",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "NangongYu_Talent_01_Title": "Lazy Spotlight",
+                "NangongYu_Talent_01_Desc_01_Realign": "When <color=#FFFFFF>EX Special Attack: The Unbearable Weight of Love</color> or <color=#FFFFFF>Basic Attack: Adorable Explosive Impact</color> hits an enemy, the enemy's All-Attribute RES decreases by 18% for 40s. Repeated triggers refresh the duration.\nWhen entering the battlefield, Nangong Yu's <color=#FFFFFF>Downbeat</color> is restored to the maximum. In Investigation Zone Mode, this effect can trigger once every 180s.",
+                "NangongYu_Talent_01_Desc_02": "Dreams are such troublesome and expensive things. When the spotlight shines on her, it just feels a little warm, that's all. Honestly, watching Sunna blush from being teased, seeing Aria short-circuit from nerves, or discovering our next lucky break might be far more entertaining to her.",
+                "NangongYu_Talent_01_Desc_01": "When <color=#FFFFFF>EX Special Attack: The Unbearable Weight of Love</color> or <color=#FFFFFF>Basic Attack: Adorable Explosive Impact</color> hits an enemy, the enemy's All-Attribute RES decreases by 18% for 40s. Repeated triggers refresh the duration. When entering the battlefield, Nangong Yu's <color=#FFFFFF>Downbeat</color> is restored to the maximum. In Investigation Zone Mode, this effect can trigger once every 180s.",
+                "NangongYu_Talent_01_Title_Realign": "Lazy Spotlight"
+            },
+            {
+                "talent_id": "2",
+                "NangongYu_Talent_02_Title": "Painless Tears",
+                "NangongYu_Talent_02_Desc_01_Realign": "Each stack of <color=#FFFFFF>Vibrato</color>'s additional <color=#FFFFFF>Abloom</color> DMG ratio increase from <color=#FFFFFF>Core Passive: Prodigious Idol</color> increases by an additional 10%.\nThe Stun DMG Multiplier provided by <color=#FFFFFF>Additional Ability: Angel Captain</color> increases by an additional 30%.\nWhen the active character's <color=#FFFFFF>Chain Attack</color> heavy attack hits an enemy that is both Stunned and affected by an Attribute Anomaly, it triggers <color=#FFFFFF>Polarity Disorder</color>, dealing DMG equal to 25% of the original <color=#FFFFFF>Disorder</color> DMG. Each enemy can only trigger this effect once during the same Stun period.",
+                "NangongYu_Talent_02_Desc_02": "Tears are a valuable stage prop, but unfortunately, she's always been short on stock. Luckily, her acting skills as an idol are good enough to make them fall right on cue when needed... whether it's to comfort a real crybaby, or win a little sympathy from the audience.",
+                "NangongYu_Talent_02_Desc_01": "Each stack of <color=#FFFFFF>Vibrato</color>'s additional <color=#FFFFFF>Abloom</color> DMG ratio increase from <color=#FFFFFF>Core Passive: Prodigious Idol</color> increases by an additional 10%. The Stun DMG Multiplier provided by <color=#FFFFFF>Additional Ability: Angel Captain</color> increases by an additional 30%. When the active character's <color=#FFFFFF>Chain Attack</color> heavy attack hits an enemy that is both Stunned and affected by an Attribute Anomaly, it triggers <color=#FFFFFF>Polarity Disorder</color>, dealing DMG equal to 25% of the original <color=#FFFFFF>Disorder</color> DMG. Each enemy can only trigger this effect once during the same Stun period.",
+                "NangongYu_Talent_02_Title_Realign": "Painless Tears"
+            },
+            {
+                "talent_id": "3",
+                "NangongYu_Talent_03_Title": "Chips on the Scales",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "NangongYu_Talent_03_Desc_02": "Choreography can be arranged, stage positions can be planned, and even popularity and the future seem like things money can sort out. Watching the numbers bounce around in the account feels like a reassuring little game... until a problem shows up with no price tag attached. Fiddling with the stack of \"chips\" she's best at using makes the scale of \"it's just business\" start to wobble.",
+                "NangongYu_Talent_03_Title_Realign": "Chips on the Scales"
+            },
+            {
+                "talent_id": "4",
+                "NangongYu_Talent_04_Title": "Accomplice's Dance Step",
+                "NangongYu_Talent_04_Desc_01_Realign": "Anomaly Proficiency increases by 40.\nThe Anomaly Buildup of <color=#FFFFFF>Basic Attack: Adorable Explosive Impact</color> when hitting an enemy increases by 35%.",
+                "NangongYu_Talent_04_Desc_02": "I've got a habit of giving Sunna the most dazzling position on stage, and leaving Aria the high note that cuts through the night sky. My \"dream\" was borrowed from them, but the resolve to protect what I borrowed belongs entirely to me.",
+                "NangongYu_Talent_04_Desc_01": "Anomaly Proficiency increases by 40. The Anomaly Buildup of <color=#FFFFFF>Basic Attack: Adorable Explosive Impact</color> when hitting an enemy increases by 35%.",
+                "NangongYu_Talent_04_Title_Realign": "Accomplice's Dance Step"
+            },
+            {
+                "talent_id": "5",
+                "NangongYu_Talent_05_Title": "Center Stage",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "NangongYu_Talent_05_Desc_02": "The Yearlight lanterns drift up into the sky, and the stage curtain finally opens. The stage, the lights, their faces... everything has never been this clear. Turns out I've been standing in the center of the spotlight all along. I was never just watching from the sidelines.",
+                "NangongYu_Talent_05_Title_Realign": "Center Stage"
+            },
+            {
+                "talent_id": "6",
+                "NangongYu_Talent_06_Title": "An Angel's Delusion",
+                "NangongYu_Talent_06_Desc_01_Realign": "Nangong Yu's attacks deal 50% more Daze.\nWhen the enemy is not Stunned, each time any character triggers <color=#FFFFFF>Abloom</color> DMG, <color=#FFFFFF>Disorder</color> DMG, or inflicts an Attribute Anomaly on them, the enemy gains 1 stacks of <color=#FFFFFF>Vibrato: Modified</color>. When hit by the heavy attack of <color=#FFFFFF>EX Special Attack: The Unbearable Weight of Love</color> or <color=#FFFFFF>Basic Attack: Adorable Explosive Impact</color>, they gain 1 stacks of <color=#FFFFFF>Vibrato: Modified</color>. When hit by the heavy attack of <color=#FFFFFF>Ultimate: Meteor Shower</color>, they gain 2 stacks of <color=#FFFFFF>Vibrato: Modified</color>.\n<color=#FFFFFF>Vibrato: Modified</color> can stack up to 4 times. When the enemy becomes Stunned, all <color=#FFFFFF>Vibrato: Modified</color> stacks are cleared. When <color=#FFFFFF>Vibrato: Modified</color> is cleared, if the enemy is under an <color=#FE437E>Ether</color>, <color=#2EB6FF>Electric</color>, <color=#FF5521>Fire</color>, <color=#F0D12B>Physical</color>, <color=#98EFF0>Ice</color>, or <color=#A6C5FD>Wind</color> Anomaly, Nangong Yu triggers an instance of <color=#FFFFFF>Abloom</color> DMG on the target, dealing an additional instance of Attribute Anomaly DMG equal to <color=#FE437E>800%</color>/<color=#2EB6FF>400%</color>/<color=#FF5521>1,000%</color>/<color=#F0D12B>70%</color>/<color=#98EFF0>100%</color>/<color=#A6C5FD>40%</color> of the original Attribute Anomaly DMG. Each stack of <color=#FFFFFF>Vibrato: Modified</color> on the enemy increases this <color=#FFFFFF>Abloom</color> DMG ratio by an additional 25%.\n<color=#FFFFFF>Vibrato: Modified</color> cannot stack with <color=#FFFFFF>Vibrato</color>.",
+                "NangongYu_Talent_06_Desc_02": "Cameras, cheering crowds, glow sticks... that distant warmth turns into blazing fire. The dream I borrowed from others has already fused with my flesh and blood. From here on, this intoxicating \"Delusion\" will be defined by Captain Nangong.",
+                "NangongYu_Talent_06_Desc_01": "Nangong Yu's attacks deal 50% more Daze. When the enemy is not Stunned, each time any character triggers <color=#FFFFFF>Abloom</color> DMG, <color=#FFFFFF>Disorder</color> DMG, or inflicts an Attribute Anomaly on them, the enemy gains 1 stacks of <color=#FFFFFF>Vibrato: Modified</color>. When hit by the heavy attack of <color=#FFFFFF>EX Special Attack: The Unbearable Weight of Love</color> or <color=#FFFFFF>Basic Attack: Adorable Explosive Impact</color>, they gain 1 stacks of <color=#FFFFFF>Vibrato: Modified</color>. When hit by the heavy attack of <color=#FFFFFF>Ultimate: Meteor Shower</color>, they gain 2 stacks of <color=#FFFFFF>Vibrato: Modified</color>. <color=#FFFFFF>Vibrato: Modified</color> can stack up to 4 times. When the enemy becomes Stunned, all <color=#FFFFFF>Vibrato: Modified</color> stacks are cleared. When <color=#FFFFFF>Vibrato: Modified</color> is cleared, if the enemy is under an <color=#FE437E>Ether</color>, <color=#2EB6FF>Electric</color>, <color=#FF5521>Fire</color>, <color=#F0D12B>Physical</color>, <color=#98EFF0>Ice</color>, or <color=#A6C5FD>Wind</color> Anomaly, Nangong Yu triggers an instance of <color=#FFFFFF>Abloom</color> DMG on the target, dealing an additional instance of Attribute Anomaly DMG equal to <color=#FE437E>800%</color>/<color=#2EB6FF>400%</color>/<color=#FF5521>1,000%</color>/<color=#F0D12B>70%</color>/<color=#98EFF0>100%</color>/<color=#A6C5FD>40%</color> of the original Attribute Anomaly DMG. Each stack of <color=#FFFFFF>Vibrato: Modified</color> on the enemy increases this <color=#FFFFFF>Abloom</color> DMG ratio by an additional 25%. <color=#FFFFFF>Vibrato: Modified</color> cannot stack with <color=#FFFFFF>Vibrato</color>.",
+                "NangongYu_Talent_06_Title_Realign": "An Angel's Delusion"
+            }
+        ]
+    },
+    "1521": {
+        "role_id": 1521,
+        "name": "Cissia",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Cissia_Talent_01_Title": "Traveler and Prey",
+                "Cissia_Talent_01_Desc_01_Realign": "The <color=#FFFFFF>Venom</color> gained upon entering the battlefield increases to 6.\nThe DEF ignore from the <color=#FFFFFF>Core Passive</color> increases to 140% of its original value, and all squad members ignore 5% of the target's <color=#2EB6FF>Electric RES</color>.\n<color=#FFFFFF>Corrode Bone</color> DMG ignores 10% of the target's <color=#2EB6FF>Electric RES</color>.",
+                "Cissia_Talent_01_Desc_02": "Scents, footsteps, the way someone's eyes shift... those are the \"clues\" that let me sort hunters from prey. I vanish before I'm hunted. I lower my head before I hunt. That's how I stay alive.\n\"Home\"? That's just something out of a storybook. The endless wild is my hunting cabin.",
+                "Cissia_Talent_01_Desc_01": "The <color=#FFFFFF>Venom</color> gained upon entering the battlefield increases to 6. The DEF ignore from the <color=#FFFFFF>Core Passive</color> increases to 140% of its original value, and all squad members ignore 5% of the target's <color=#2EB6FF>Electric RES</color>. <color=#FFFFFF>Corrode Bone</color> DMG ignores 10% of the target's <color=#2EB6FF>Electric RES</color>.",
+                "Cissia_Talent_01_Title_Realign": "Traveler and Prey"
+            },
+            {
+                "talent_id": "2",
+                "Cissia_Talent_02_Title": "Hunger and Hard Truths",
+                "Cissia_Talent_02_Desc_01_Realign": "After a <color=#FFFFFF>Chain Attack: Gang Operation</color> or <color=#FFFFFF>Ultimate: Ophidiophobia</color> hits a Stunned enemy, gain an additional 3 <color=#FFFFFF>Venom</color>.\n<color=#FFFFFF>Basic Attack: Serpent's Kiss</color> deals 35% increased DMG.",
+                "Cissia_Talent_02_Desc_02": "If I can eat my fill there, it's a good place. If someone gives me food, they're a good person. That's the easiest and most dependable rule in the world. And also, omelet with rice is divine. Even that last leftover bit on the spoon.",
+                "Cissia_Talent_02_Desc_01": "After a <color=#FFFFFF>Chain Attack: Gang Operation</color> or <color=#FFFFFF>Ultimate: Ophidiophobia</color> hits a Stunned enemy, gain an additional 3 <color=#FFFFFF>Venom</color>. <color=#FFFFFF>Basic Attack: Serpent's Kiss</color> deals 35% increased DMG.",
+                "Cissia_Talent_02_Title_Realign": "Hunger and Hard Truths"
+            },
+            {
+                "talent_id": "3",
+                "Cissia_Talent_03_Title": "Chains and a Warm Nest",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Cissia_Talent_03_Desc_02": "Justice? Order? That kind of righteous, aboveboard stuff makes me shaky. What I know are the rules of the shadows — betrayal, lies, bowing low if it keeps me breathing. I don't mind being used as a tool, as long as the pay is a full meal and a warm corner to curl up in.",
+                "Cissia_Talent_03_Title_Realign": "Chains and a Warm Nest"
+            },
+            {
+                "talent_id": "4",
+                "Cissia_Talent_04_Title": "A Rogue's Resolve",
+                "Cissia_Talent_04_Desc_01_Realign": "When using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, gain 1 stack of <color=#FFFFFF>Decidedness</color>, stacking up to 3 times.\nWhen using <color=#FFFFFF>Basic Attack: Serpent's Kiss</color>, consume all <color=#FFFFFF>Decidedness</color>. Each stack consumed triggers 1 special instance of <color=#FFFFFF>Corrode Bone</color> that does not consume <color=#FFFFFF>Venom</color>. This <color=#FFFFFF>Corrode Bone</color> does not cause Daze.",
+                "Cissia_Talent_04_Desc_02": "The collar around my neck is cold. The handcuffs are heavy. They remind me of the sins I can't wash away. But compared to those invisible rules and icy stares, this kind of restraint with a clear price tag actually puts me at ease... at least I know what it costs. And once I'm back in that little den with a couch and snacks, even the cold metal seems warm.",
+                "Cissia_Talent_04_Desc_01": "When using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, gain 1 stack of <color=#FFFFFF>Decidedness</color>, stacking up to 3 times. When using <color=#FFFFFF>Basic Attack: Serpent's Kiss</color>, consume all <color=#FFFFFF>Decidedness</color>. Each stack consumed triggers 1 special instance of <color=#FFFFFF>Corrode Bone</color> that does not consume <color=#FFFFFF>Venom</color>. This <color=#FFFFFF>Corrode Bone</color> does not cause Daze.",
+                "Cissia_Talent_04_Title_Realign": "A Rogue's Resolve"
+            },
+            {
+                "talent_id": "5",
+                "Cissia_Talent_05_Title": "False Evidence and Fangs",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Cissia_Talent_05_Desc_02": "Memories scorched by blinding light, crimes spelled out in black and white... those \"marks\" were once all that defined me. But things are different now. I've learned to read, and I've learned to recognize the smell of a lie. When that familiar scent of a scheme creeps in again, I won't just walk into the cage like an idiot. This time, I'll be the one leaving \"marks\" — with my teeth, and I won't hold back.",
+                "Cissia_Talent_05_Title_Realign": "False Evidence and Fangs"
+            },
+            {
+                "talent_id": "6",
+                "Cissia_Talent_06_Title": "Home and Sixth Street",
+                "Cissia_Talent_06_Desc_01_Realign": "Each time <color=#FFFFFF>Corrode Bone</color> is triggered, gain 1 stack of <color=#FFFFFF>Bone-Deep Corrosion</color>.\nWhen attacks from any squad member, other than <color=#FFFFFF>Corrode Bone</color>, hit an enemy, consume 1 stack of <color=#FFFFFF>Bone-Deep Corrosion</color> to trigger 1 special <color=#FFFFFF>Corrode Bone</color>. This instance of <color=#FFFFFF>Corrode Bone</color> cannot inflict Daze, and at most 1 stack of <color=#FFFFFF>Bone-Deep Corrosion</color> can be consumed every 3s.",
+                "Cissia_Talent_06_Desc_02": "Once there's something I want to hold onto more than just \"staying alive,\" I really do turn stupid. If fate ever decides I have to die, that big, soft couch of yours better not have anyone else lying on it.\n\n\"Don't you dare forget me... or I'll bite you to death.\"",
+                "Cissia_Talent_06_Desc_01": "Each time <color=#FFFFFF>Corrode Bone</color> is triggered, gain 1 stack of <color=#FFFFFF>Bone-Deep Corrosion</color>. When attacks from any squad member, other than <color=#FFFFFF>Corrode Bone</color>, hit an enemy, consume 1 stack of <color=#FFFFFF>Bone-Deep Corrosion</color> to trigger 1 special <color=#FFFFFF>Corrode Bone</color>. This instance of <color=#FFFFFF>Corrode Bone</color> cannot inflict Daze, and at most 1 stack of <color=#FFFFFF>Bone-Deep Corrosion</color> can be consumed every 3s.",
+                "Cissia_Talent_06_Title_Realign": "Home and Sixth Street"
+            }
+        ]
+    },
+    "1561": {
+        "role_id": 1561,
+        "name": "Velina Airgid",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Velina_Talent_01_Title": "Orderly Elegance",
+                "Velina_Talent_01_Desc_01_Realign": "<color=#FFFFFF>Sweeping Cyclone</color> from <color=#FFFFFF>Additional Ability: Tea Party Etiquette</color> deals an additional 20% Daze.\nWhen Velina triggers <color=#FFFFFF>Vortex</color>, she ignores 20% of the target's <color=#FFFFFF>All-Attribute RES</color>.\nWhen squad members deal <color=#A6C5FD>Windswept</color> DMG, 20% of the target's <color=#A6C5FD>Wind RES</color> is ignored.",
+                "Velina_Talent_01_Desc_02": "Every word and gesture is placed precisely where it belongs.\nBefore the other party even realizes it, they willingly accept the boundaries, rhythm, and outcome she has arranged—\n\"Elegance is simply the most natural expression of order in motion.\"",
+                "Velina_Talent_01_Desc_01": "<color=#FFFFFF>Sweeping Cyclone</color> from <color=#FFFFFF>Additional Ability: Tea Party Etiquette</color> deals an additional 20% Daze. When Velina triggers <color=#FFFFFF>Vortex</color>, she ignores 20% of the target's <color=#FFFFFF>All-Attribute RES</color>. When squad members deal <color=#A6C5FD>Windswept</color> DMG, 20% of the target's <color=#A6C5FD>Wind RES</color> is ignored.",
+                "Velina_Talent_01_Title_Realign": "Orderly Elegance"
+            },
+            {
+                "talent_id": "2",
+                "Velina_Talent_02_Title": "Saturation Project",
+                "Velina_Talent_02_Desc_01_Realign": "When Velina triggers <color=#A6C5FD>Windswept</color>, she can also gain 1 point of <color=#FFFFFF>Windbite</color>. This effect can trigger once every 5s.\nAfter <color=#FFFFFF>Sweeping Cyclone</color> triggers the <color=#FFFFFF>Chromatic Tint</color> effect, it can accumulate the corresponding attribute's Anomaly Buildup. The buildup accumulated by this attack is excluded from Anomaly DMG calculations.\nThe DMG increase effects of Velina's <color=#A6C5FD>Windswept</color> and <color=#FFFFFF>Vortex</color> from <color=#FFFFFF>Additional Ability: Tea Party Etiquette</color> are further increased by 15%.",
+                "Velina_Talent_02_Desc_02": "She anticipates every possibility, accounts for every variable, and makes backup plans for things going wrong.\nShe never relies on chance. Every ending is calculated.\nEven if the situation veers off course for a moment, it only leads onto another path she has already prepared for.\n\"Sigh, so it's come to this... Good thing I'm not entirely unprepared.\"",
+                "Velina_Talent_02_Desc_01": "When Velina triggers <color=#A6C5FD>Windswept</color>, she can also gain 1 point of <color=#FFFFFF>Windbite</color>. This effect can trigger once every 5s. After <color=#FFFFFF>Sweeping Cyclone</color> triggers the <color=#FFFFFF>Chromatic Tint</color> effect, it can accumulate the corresponding attribute's Anomaly Buildup. The buildup accumulated by this attack is excluded from Anomaly DMG calculations. The DMG increase effects of Velina's <color=#A6C5FD>Windswept</color> and <color=#FFFFFF>Vortex</color> from <color=#FFFFFF>Additional Ability: Tea Party Etiquette</color> are further increased by 15%.",
+                "Velina_Talent_02_Title_Realign": "Saturation Project"
+            },
+            {
+                "talent_id": "3",
+                "Velina_Talent_03_Title": "Conquest by Etiquette",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Velina_Talent_03_Desc_02": "No need to force submission through strength, nor rely on emotion or intimidation.\nA graceful response and a carefully measured compromise are enough...\nBefore anyone realizes it, the situation has already been steered toward destined conquest.\n\"Is etiquette simply violence in disguise?\"\n\"Or is etiquette the more refined form of violence?\"",
+                "Velina_Talent_03_Title_Realign": "Conquest by Etiquette"
+            },
+            {
+                "talent_id": "4",
+                "Velina_Talent_04_Title": "Tea Party Tribunal",
+                "Velina_Talent_04_Desc_01_Realign": "When Velina uses an <color=#FFFFFF>EX Special Attack</color>, her ATK increases by 15% for 40s. Repeated triggers reset the duration.",
+                "Velina_Talent_04_Desc_02": "In the midst of laughter and conversation, the scales have already tipped.\nThe tea has yet to go cold, yet the verdict is already sold.\n\"If something's bothering me, I'll simply deal with it and move on. And if someone's bothering me, heh...\"",
+                "Velina_Talent_04_Desc_01": "When Velina uses an <color=#FFFFFF>EX Special Attack</color>, her ATK increases by 15% for 40s. Repeated triggers reset the duration.",
+                "Velina_Talent_04_Title_Realign": "Tea Party Tribunal"
+            },
+            {
+                "talent_id": "5",
+                "Velina_Talent_05_Title": "Death Witch",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Velina_Talent_05_Desc_02": "\"Her footsteps herald judgment!\"\n\"Her invitation is your funeral!\"\nThe silver-haired witch sits calmly beneath the theater of the Bangboo Kingdom, listening to the tiny performers hurl accusations at her with absolute conviction. She gently waves her ornate fan, smiling without a word.",
+                "Velina_Talent_05_Title_Realign": "Death Witch"
+            },
+            {
+                "talent_id": "6",
+                "Velina_Talent_06_Title": "Chief Angel",
+                "Velina_Talent_06_Desc_01_Realign": "When Velina consumes 2 points of <color=#FFFFFF>Windbite</color> to increase the DMG Multiplier of <color=#FFFFFF>Vortex</color>, she gains 1 point of <color=#FFFFFF>Windbite</color>. This effect can trigger once every 6s.\nWhen Velina hits an enemy suffering a <color=#A6C5FD>Wind Attribute Anomaly</color>, the <color=#A6C5FD>Wind Attribute Anomaly Buildup</color> she inflicts increases by 20%.\nWhen Velina inflicts <color=#A6C5FD>Windswept</color> on an enemy already affected by <color=#A6C5FD>Windswept</color>, the new <color=#A6C5FD>Windswept</color>'s DMG increases based on the remaining duration of the previous. Each remaining second increases the DMG by 2.5%, up to a maximum increase of 40%.",
+                "Velina_Talent_06_Desc_02": "\"There is no need to ask an angel's name. She hides within rumors, behind reprimands, and within the fearful letters requesting aid you deliver with shaking hands.\"",
+                "Velina_Talent_06_Desc_01": "When Velina consumes 2 points of <color=#FFFFFF>Windbite</color> to increase the DMG Multiplier of <color=#FFFFFF>Vortex</color>, she gains 1 point of <color=#FFFFFF>Windbite</color>. This effect can trigger once every 6s. When Velina hits an enemy suffering a <color=#A6C5FD>Wind Attribute Anomaly</color>, the <color=#A6C5FD>Wind Attribute Anomaly Buildup</color> she inflicts increases by 20%. When Velina inflicts <color=#A6C5FD>Windswept</color> on an enemy already affected by <color=#A6C5FD>Windswept</color>, the new <color=#A6C5FD>Windswept</color>'s DMG increases based on the remaining duration of the previous. Each remaining second increases the DMG by 2.5%, up to a maximum increase of 40%.",
+                "Velina_Talent_06_Title_Realign": "Chief Angel"
+            }
+        ]
+    },
+    "1571": {
+        "role_id": 1571,
+        "name": "Norma Hollowell",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Norma_Talent_01_Title": "Visionary Extremism",
+                "Norma_Talent_01_Desc_01_Realign": "The duration of the En-Nah Turret's missile bay deployed by <color=#FFFFFF>EX Special Attack: Explosive Experiment</color> increases to 12s.\nWhen an Armor-Piercing Warhead or High-Explosive Warhead from any skill hits an enemy, the target's All-Attribute RES is reduced by 15% for 15s. Repeated triggers reset the duration.",
+                "Norma_Talent_01_Desc_02": "Advance! By any means necessary!\nToo many things are chasing us in this dying world: the pitch-black frontier, our fleeting lifespan.\nHuman life and civilization are more fragile than a Bangboo's logic core.\nThe only way to stay ahead of destruction is to keep moving forward, by any means necessary.\n\"Besides, the first to witness a new horizon always sees the most beautiful view, don't they?\"",
+                "Norma_Talent_01_Desc_01": "The duration of the En-Nah Turret's missile bay deployed by <color=#FFFFFF>EX Special Attack: Explosive Experiment</color> increases to 12s. When an Armor-Piercing Warhead or High-Explosive Warhead from any skill hits an enemy, the target's All-Attribute RES is reduced by 15% for 15s. Repeated triggers reset the duration.",
+                "Norma_Talent_01_Title_Realign": "Visionary Extremism"
+            },
+            {
+                "talent_id": "2",
+                "Norma_Talent_02_Title": "Axiom of Universal Unity",
+                "Norma_Talent_02_Desc_01_Realign": "The Stun DMG Multiplier granted by each stack of <color=#FFFFFF>Tech Divide</color> in Norma's <color=#FFFFFF>Additional Ability: Advantage in Numbers</color> is increased to 6%.\nWhen Norma uses <color=#FFFFFF>Basic Attack: Hat Trick</color> while in combat, she gains 25 Energy. This effect can trigger once every 20s.",
+                "Norma_Talent_02_Desc_02": "The world of physicists is constantly overturned by new theories. The order ordinary people rely on is just as often shattered by unexpected events and conflict.\nThe ties that bind all things are always mysterious, both incredibly intimate and incredibly fragile, impossible to fully comprehend.\n\"Bring Bangboo and Roscaelifer to greater heights? You mean 'the byproduct of chasing curiosity,' right?\"",
+                "Norma_Talent_02_Desc_01": "The Stun DMG Multiplier granted by each stack of <color=#FFFFFF>Tech Divide</color> in Norma's <color=#FFFFFF>Additional Ability: Advantage in Numbers</color> is increased to 6%. When Norma uses <color=#FFFFFF>Basic Attack: Hat Trick</color> while in combat, she gains 25 Energy. This effect can trigger once every 20s.",
+                "Norma_Talent_02_Title_Realign": "Axiom of Universal Unity"
+            },
+            {
+                "talent_id": "3",
+                "Norma_Talent_03_Title": "Natural-Born Villain Paradox",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Norma_Talent_03_Desc_02": "It's another calm, peaceful day in Roscaelifer, with clear skies and a gentle breeze.\nBut for the Bangboo, there may still be one ultimate supervillain...\n\"Why is it that the smartest genius in every kids' cartoon always ends up becoming the bad guy...?\"\n\"Seriously, what's so great about those crazy scientists whose budget and hairline are both hanging on by a thread?\"",
+                "Norma_Talent_03_Title_Realign": "Natural-Born Villain Paradox"
+            },
+            {
+                "talent_id": "4",
+                "Norma_Talent_04_Title": "Bangboo Superiority Theory",
+                "Norma_Talent_04_Desc_01_Realign": "When Norma consumes <color=#FFFFFF>Preheated Chamber</color> to trigger a <color=#FFFFFF>Chain Attack</color>, both Norma and the corresponding Agent gain 200 Decibels.",
+                "Norma_Talent_04_Desc_02": "Without a doubt, Bangboo are the most loyal companions humanity has had in the past century, the most efficient tools, and perhaps even... the most powerful weapons.\nLike any child yet to be taught or any blade yet to find a worthy owner, a Bangboo can serve anyone, whether it's the righteous Phaethon or the most ruthless villain.\n\"First of all, I'm a pacifist who happens to love Bangboo.\"\n\"Second, part of my job is making sure the sharpest sword stays in our hands.\"",
+                "Norma_Talent_04_Desc_01": "When Norma consumes <color=#FFFFFF>Preheated Chamber</color> to trigger a <color=#FFFFFF>Chain Attack</color>, both Norma and the corresponding Agent gain 200 Decibels.",
+                "Norma_Talent_04_Title_Realign": "Bangboo Superiority Theory"
+            },
+            {
+                "talent_id": "5",
+                "Norma_Talent_05_Title": "En-Nah Big Bang",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Norma_Talent_05_Desc_02": "According to archived External Strategy Department records, a project led by the young researcher Norma rapidly pushed the performance limits of mass-produced Bangboo to new heights.\nBefore being promoted to Chief Technician of the ESD, Norma's most important assignment was proving that she wouldn't one day launch Booastrum into orbit.\n\"Higher! Faster! Stronger!\"\n\"The only things limiting imagination are courage and the R&D budget!\"",
+                "Norma_Talent_05_Title_Realign": "En-Nah Big Bang"
+            },
+            {
+                "talent_id": "6",
+                "Norma_Talent_06_Title": "The Primary Cause of Genius",
+                "Norma_Talent_06_Desc_01_Realign": "After any squad member Stuns an enemy, Norma will continuously summon missiles to bombard random enemies on the field for 6s. A missile is launched every 0.75s, dealing <color=#FF5521>Fire DMG</color> equal to 200% of Norma's ATK to enemies within the area. This DMG is considered <color=#FFFFFF>Ultimate</color> DMG. Repeated triggers reset the duration. This effect can trigger once every 30s.\nThe Daze inflicted by Armor-Piercing Warhead increases by <color=#FFFFFF>30%</color>, and the DMG dealt by High-Explosive Warhead increases by <color=#FFFFFF>30%</color>.",
+                "Norma_Talent_06_Desc_02": "Every great creation begins with curiosity and a happy accident. Perhaps the birth of the very first Bangboo soul was nothing more than Lady Sunbringer's fascination with the mysteries of life.",
+                "Norma_Talent_06_Desc_01": "After any squad member Stuns an enemy, Norma will continuously summon missiles to bombard random enemies on the field for 6s. A missile is launched every 0.75s, dealing <color=#FF5521>Fire DMG</color> equal to 200% of Norma's ATK to enemies within the area. This DMG is considered <color=#FFFFFF>Ultimate</color> DMG. Repeated triggers reset the duration. This effect can trigger once every 30s. The Daze inflicted by Armor-Piercing Warhead increases by <color=#FFFFFF>30%</color>, and the DMG dealt by High-Explosive Warhead increases by <color=#FFFFFF>30%</color>.",
+                "Norma_Talent_06_Title_Realign": "The Primary Cause of Genius"
+            }
+        ]
+    },
+    "1581": {
+        "role_id": 1581,
+        "name": "Remielle Dan",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Remielle_Talent_01_Title": "Naive Oath",
+                "Remielle_Talent_01_Desc_01_Realign": "Upon entering the battlefield, Remielle gains 3 special <Term:1000033></Term>s. In Investigation Zone mode, this effect can trigger once every 180s.\nWhen Remielle triggers <Term:1000034></Term> to deal DMG, she ignores 50% of the target's All-Attribute RES.\nWhen using <color=#FFFFFF>Assist: Flower & Feather Dance</color>, she gains 200 Decibels. This effect can trigger once every 18s.\nWhile Remielle is in the <Term:1000035></Term> state, other squad members' Attribute Anomaly DMG increases by 10%.",
+                "Remielle_Talent_01_Desc_02": "\"We can put an end to evil and split the heavens. We can walk out of the fog and step closer to the truth...\"\n\"This is our nation, forever standing tall, and with the power to accomplish miracles.\"\n\"...\"\nThe pink-haired girl finally can't hold it in anymore. Lowering the brim of her hat, she quietly grumbles to the figure at the front of the line:\n\"Beli... This oath is way too long. We're not going to have to recite it all the time, are we?\"\n\"Just wait. It'll only get longer.\"\nEven the ever-composed figure can't help but smile wryly.",
+                "Remielle_Talent_01_Desc_01": "Upon entering the battlefield, Remielle gains 3 special <Term:1000033></Term>s. In Investigation Zone mode, this effect can trigger once every 180s. When Remielle triggers <Term:1000034></Term> to deal DMG, she ignores 50% of the target's All-Attribute RES. When using <color=#FFFFFF>Assist: Flower & Feather Dance</color>, she gains 200 Decibels. This effect can trigger once every 18s. While Remielle is in the <Term:1000035></Term> state, other squad members' Attribute Anomaly DMG increases by 10%.",
+                "Remielle_Talent_01_Title_Realign": "Naive Oath"
+            },
+            {
+                "talent_id": "2",
+                "Remielle_Talent_02_Title": "Fall Into the Noise",
+                "Remielle_Talent_02_Desc_01_Realign": "Remielle's <color=#FFA9DD>Refringe Coefficient</color> increases by 20%.\nWhen an <color=#FFFFFF>Anomaly</color> character in the squad deals Anomaly DMG to an enemy affected by <color=#FFFFFF>Prismatic</color>, the attack ignores 15% of the target's DEF. This effect persists for an additional 8s after <color=#FFFFFF>Prismatic</color> ends.\nWhile Remielle is in the <Term:1000035></Term> state, the frequency at which she automatically attacks to apply <color=#FFA9DD>Lumiflux Buildup</color> to enemies increases.",
+                "Remielle_Talent_02_Desc_02": "It was a grand ball.\nThe city was captivated. Even the full moon paled beside it.\nCrowds gathered in celebration, calling out the heroes' names, laughing and singing as though the night would never end.\nThose of unparalleled achievement stood together, gazing upon the jubilant crowd as they made a humble vow. \"This is where miracles begin.\"\nAnd so, Eridu's journey was about to begin.\nA great adventure to reclaim the world.\n\"Come on, the ball's almost over, and you still haven't found a partner? Well... I suppose I can spare you a dance.\"",
+                "Remielle_Talent_02_Desc_01": "Remielle's <color=#FFA9DD>Refringe Coefficient</color> increases by 20%. When an <color=#FFFFFF>Anomaly</color> character in the squad deals Anomaly DMG to an enemy affected by <color=#FFFFFF>Prismatic</color>, the attack ignores 15% of the target's DEF. This effect persists for an additional 8s after <color=#FFFFFF>Prismatic</color> ends. While Remielle is in the <Term:1000035></Term> state, the frequency at which she automatically attacks to apply <color=#FFA9DD>Lumiflux Buildup</color> to enemies increases.",
+                "Remielle_Talent_02_Title_Realign": "Fall Into the Noise"
+            },
+            {
+                "talent_id": "3",
+                "Remielle_Talent_03_Title": "The Garden of Diverging Time",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Remielle_Talent_03_Desc_02": "The girl wrote her name among the Sunseekers, driven by an ideal that burned brighter than the blazing sun.\nShe believed every wound could be healed. She believed every sacrifice could one day come to an end. And so, she turned and walked into the secret garden.\nShe did not yet know that, deep within that garden, time forever diverged, leading to countless futures.\nSome led to glory. Some led to hope...\nOthers led to the shadow cast by the sun, to a long night that no one would remember.\n\"I know, I know. But someone's gotta do it, right?\"",
+                "Remielle_Talent_03_Title_Realign": "The Garden of Diverging Time"
+            },
+            {
+                "talent_id": "4",
+                "Remielle_Talent_04_Title": "The Long Goodbye",
+                "Remielle_Talent_04_Desc_01_Realign": "When Remielle triggers <Term:1000034></Term>, the DMG multiplier is increased by an additional 12%.\nAfter entering the battlefield and gaining 3 special <Term:1000033></Term>s, if all <color=#FFFFFF>Voidflares</color> are consumed, she immediately gains the maximum number of special <color=#FFFFFF>Voidflares</color> again. This effect to regain special <color=#FFFFFF>Voidflares</color> is removed after being triggered once or when Remielle enters the <Term:1000035></Term> state.",
+                "Remielle_Talent_04_Desc_02": "She awakens to a pale, desolate world\nA hundred years is a dream too long. Long enough for the mists to swallow the remnants of a bygone age. Long enough for pale silence to smother the lingering warmth in her memory.\nA hundred years is a dream too short. Short enough that the smile before parting still reflects in her eyes. Short enough that her fingertips still reach for a fleeting dance.\nThen she remembers a summer night. The star-filled sky they once gazed upon together. So she begins to dance alone, just as she always has.\nTurn. Pause. Reach. Fall into empty air.\nTo an old friend. To a bygone age.\nMay this lament serve as the farewell that has waited a hundred years to be spoken.\n\"Hey... Care to share a dance with me?\"",
+                "Remielle_Talent_04_Desc_01": "When Remielle triggers <Term:1000034></Term>, the DMG multiplier is increased by an additional 12%. After entering the battlefield and gaining 3 special <Term:1000033></Term>s, if all <color=#FFFFFF>Voidflares</color> are consumed, she immediately gains the maximum number of special <color=#FFFFFF>Voidflares</color> again. This effect to regain special <color=#FFFFFF>Voidflares</color> is removed after being triggered once or when Remielle enters the <Term:1000035></Term> state.",
+                "Remielle_Talent_04_Title_Realign": "The Long Goodbye"
+            },
+            {
+                "talent_id": "5",
+                "Remielle_Talent_05_Title": "To Drink Forgetfulness",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Remielle_Talent_05_Desc_02": "Dusk spills over the rooftops of the world, and lights flicker on one by one. Behind every window glows the warmth of home.\nHer thin clothes do little to keep out the wind and rain. The girl once called a hero fusses over her disheveled wings.\nShe drains a cup brimming with forgetfulness, yet searing memories still burn her throat as moonlight flows across her lowered gaze.\n\"Be careful... The ghosts of the old world just might come knocking at your window.\"",
+                "Remielle_Talent_05_Title_Realign": "To Drink Forgetfulness"
+            },
+            {
+                "talent_id": "6",
+                "Remielle_Talent_06_Title": "Lone Feather's Endless Flight",
+                "Remielle_Talent_06_Desc_01_Realign": "When Remielle uses <color=#FFFFFF>Basic Attack: Rainbow's End</color> or <color=#FFFFFF>Basic Attack: Fleeting Grace</color>, <Term:1000034></Term> is triggered 2 times.\nIf the 4th hit of her <color=#FFFFFF>Basic Attack</color> lands against a target, Remielle gains 3 special <color=#FFFFFF>Voidflares</color> after the skill ends. Special <Term:1000033></Term>s gained this way deal DMG equal to 25% of the special <color=#FFFFFF>Voidflares</color> gained upon entering the battlefield.",
+                "Remielle_Talent_06_Desc_02": "The end of one journey is simply the beginning of another. Beyond every sky of stars lies yet another.\nSo, once more... just once more, spread your wings and soar.\nSilent, fallen feathers will touch the sky again,\ncrossing scars that have yet to heal, crossing the shattered yesterdays,\ntoward a tomorrow still waiting to be written.\n\"My story ends here. I believe it's your turn now, dear partner-in-crime.\"",
+                "Remielle_Talent_06_Desc_01": "When Remielle uses <color=#FFFFFF>Basic Attack: Rainbow's End</color> or <color=#FFFFFF>Basic Attack: Fleeting Grace</color>, <Term:1000034></Term> is triggered 2 times. If the 4th hit of her <color=#FFFFFF>Basic Attack</color> lands against a target, Remielle gains 3 special <color=#FFFFFF>Voidflares</color> after the skill ends. Special <Term:1000033></Term>s gained this way deal DMG equal to 25% of the special <color=#FFFFFF>Voidflares</color> gained upon entering the battlefield.",
+                "Remielle_Talent_06_Title_Realign": "Lone Feather's Endless Flight"
+            }
+        ]
+    },
+    "1591": {
+        "role_id": 1591,
+        "name": "Sigrid de L'Azur",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Sigrid_Talent_01_Title": "Long, Long Ago",
+                "Sigrid_Talent_01_Desc_01_Realign": "Upon activating the 3rd stage of <color=#FFFFFF>Basic Attack: Converging Spear</color>, enters the <color=#FFFFFF>Aerial Patrol Spear</color> and gains 1 additional activation of <color=#FFFFFF>Basic Attack: Converging Spear</color>.\nWhen activations exceed the stored <color=#FFFFFF>Basic Attack: Converging Spear</color>'s activation limit, the next <color=#FFFFFF>Basic Attack: Converging Spear</color>'s final hit deals an additional <color=#FFFFFF>100%</color> of ATK as <color=#98EFF0>Ice DMG</color>.\nSigrid's <color=#FFFFFF>ATK</color> increases by <color=#FFFFFF>25%</color>.",
+                "Sigrid_Talent_01_Desc_02": "Long, long ago, Lady Sunbringer lifted the very first handful of soil that would become this sky island...\nAlright, alright. The children have already heard the story of Lady Sunbringer creating Roscaelifer's first island a thousand times over.\nToday, we're telling the story of the warrior who stood at Lady Sunbringer's side. Clad in moon-bright silver armor, she looked just like an ancient knight from a fairy tale...",
+                "Sigrid_Talent_01_Desc_01": "Upon activating the 3rd stage of <color=#FFFFFF>Basic Attack: Converging Spear</color>, enters the <color=#FFFFFF>Aerial Patrol Spear</color> and gains 1 additional activation of <color=#FFFFFF>Basic Attack: Converging Spear</color>. When activations exceed the stored <color=#FFFFFF>Basic Attack: Converging Spear</color>'s activation limit, the next <color=#FFFFFF>Basic Attack: Converging Spear</color>'s final hit deals an additional <color=#FFFFFF>100%</color> of ATK as <color=#98EFF0>Ice DMG</color>. Sigrid's <color=#FFFFFF>ATK</color> increases by <color=#FFFFFF>25%</color>.",
+                "Sigrid_Talent_01_Title_Realign": "Long, Long Ago"
+            },
+            {
+                "talent_id": "2",
+                "Sigrid_Talent_02_Title": "Legend's First Act",
+                "Sigrid_Talent_02_Desc_01_Realign": "PEN Ratio of <color=#FFFFFF>Unbridled Spear</color> attacks and <color=#FFFFFF>Basic Attack: Converging Spear</color> increases by <color=#FFFFFF>24%</color>.\nThe duration of <color=#FFFFFF>Aerial Patrol Spear</color> is extended by 2s. Sigrid's Decibel Generation Rate increases by 10%.",
+                "Sigrid_Talent_02_Desc_02": "She was Roscaelifer's first soldier, its first spear. She stood on the first front line against the Hollows and led the very first charge.\nShe was the first wing to follow Lady Sunbringer, and with her own hands, she raised Roscaelifer's very first wall.\nShe was Roscaelifer's first blade broken. Her family name was de L'Azur.\nLike her legend, her descendants burn eternally in the night sky above Roscaelifer.",
+                "Sigrid_Talent_02_Desc_01": "PEN Ratio of <color=#FFFFFF>Unbridled Spear</color> attacks and <color=#FFFFFF>Basic Attack: Converging Spear</color> increases by <color=#FFFFFF>24%</color>. The duration of <color=#FFFFFF>Aerial Patrol Spear</color> is extended by 2s. Sigrid's Decibel Generation Rate increases by 10%.",
+                "Sigrid_Talent_02_Title_Realign": "Legend's First Act"
+            },
+            {
+                "talent_id": "3",
+                "Sigrid_Talent_03_Title": "Protector of Miracles",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Sigrid_Talent_03_Desc_02": "Roscaelifer is the miracle of the skies, and the title of those who protect that miracle has never belonged to only a select few.\nYet someone must lead those guardians. That was originally Lady Lindverne's duty, but with her bright and carefree nature, she was hardly suited to be a commanding general.\nFortunately, she had a dashing deputy. More accurately, she had one after another.",
+                "Sigrid_Talent_03_Title_Realign": "Protector of Miracles"
+            },
+            {
+                "talent_id": "4",
+                "Sigrid_Talent_04_Title": "Hero in Training",
+                "Sigrid_Talent_04_Desc_01_Realign": "Each time upon gaining <color=#FFFFFF>Aerial Patrol Spear</color>, DMG dealt increases by <color=#FFFFFF>18%</color> for <color=#FFFFFF>8</color>s. Repeated triggers extend the duration by <color=#FFFFFF>8</color>s, up to a maximum of <color=#FFFFFF>40</color>s.",
+                "Sigrid_Talent_04_Desc_02": "The soldiers and civilians couldn't help comparing the newly appointed Deputy Administrative Director to her predecessor. Who can blame them? After all, according to Lady Lindverne Sunbringer, every head of House de L'Azur was a legendary figure.\nBecause of that, everyone expected the young de L'Azur to surpass the last, proving worthy of the legendary guardian family's name.\nAnd so Lindverne continued weaving new, even more groundbreaking legends for Sigrid.",
+                "Sigrid_Talent_04_Desc_01": "Each time upon gaining <color=#FFFFFF>Aerial Patrol Spear</color>, DMG dealt increases by <color=#FFFFFF>18%</color> for <color=#FFFFFF>8</color>s. Repeated triggers extend the duration by <color=#FFFFFF>8</color>s, up to a maximum of <color=#FFFFFF>40</color>s.",
+                "Sigrid_Talent_04_Title_Realign": "Hero in Training"
+            },
+            {
+                "talent_id": "5",
+                "Sigrid_Talent_05_Title": "Skybound Oath",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Sigrid_Talent_05_Desc_02": "Today, Lady Sunbringer commands countless followers through her reputation as a Void Hunter alone. But every renowned leader once stood with no one behind them.\nTo follow that young leader into the skies and build a miracle city that should never have been possible required either a brute's courage or a fool's innocence.\nAnd each time a new de L'Azur recites that oath to conquer the skies, those two qualities shine brilliantly once more.",
+                "Sigrid_Talent_05_Title_Realign": "Skybound Oath"
+            },
+            {
+                "talent_id": "6",
+                "Sigrid_Talent_06_Title": "Knight of the Skies",
+                "Sigrid_Talent_06_Desc_01_Realign": "When <color=#FFFFFF>Basic Attack: Converging Spear</color>'s 1st/2nd/3rd stage's final hit lands, it deals an additional <color=#FFFFFF>80%</color>/<color=#FFFFFF>90%</color>/<color=#FFFFFF>100%</color> ATK as <color=#98EFF0>Ice DMG</color>.\nThere is no more limit on the number of times Sigrid can enter the <color=#FFFFFF>Formation Breaker</color> state upon hitting a Stunned enemy with <color=#FFFFFF>Chain Attack: Encroaching Ice</color>.\n<color=#FFFFFF>Formation Breaker</color> state's <color=#FFFFFF>Basic Attack: Converging Spear</color> will activate faster.",
+                "Sigrid_Talent_06_Desc_02": "Ancient legends tell of a Knight of the Lake.\nIn the ballads of the distant future, a frostbound spear will also pierce the skies across time and space.\n\"Until this spear is broken, the miracle of the skies shall never end.\"",
+                "Sigrid_Talent_06_Desc_01": "When <color=#FFFFFF>Basic Attack: Converging Spear</color>'s 1st/2nd/3rd stage's final hit lands, it deals an additional <color=#FFFFFF>80%</color>/<color=#FFFFFF>90%</color>/<color=#FFFFFF>100%</color> ATK as <color=#98EFF0>Ice DMG</color>. There is no more limit on the number of times Sigrid can enter the <color=#FFFFFF>Formation Breaker</color> state upon hitting a Stunned enemy with <color=#FFFFFF>Chain Attack: Encroaching Ice</color>. <color=#FFFFFF>Formation Breaker</color> state's <color=#FFFFFF>Basic Attack: Converging Spear</color> will activate faster.",
+                "Sigrid_Talent_06_Title_Realign": "Knight of the Skies"
+            }
+        ]
+    },
+    "1611": {
+        "role_id": 1611,
+        "name": "Claret Flint",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Claret_Talent_01_Title": "Bloodstained Chronicle",
+                "Claret_Talent_01_Desc_01_Realign": "When Claret's attacks hit enemies and trigger Laceration, Gash Buildup Rate increases by 20%.\nThe DMG Multiplier of Maim triggered by Claret increases to 130% of its original value.",
+                "Claret_Talent_01_Desc_02": "The girl turns the pages of the weathered family chronicle, the coarse paper scraping at her palm.\nA single drop of blood falls onto the title page; countless more stain every page that follows.",
+                "Claret_Talent_01_Desc_01": "When Claret's attacks hit enemies and trigger Laceration, Gash Buildup Rate increases by 20%. The DMG Multiplier of Maim triggered by Claret increases to 130% of its original value.",
+                "Claret_Talent_01_Title_Realign": "Bloodstained Chronicle"
+            },
+            {
+                "talent_id": "2",
+                "Claret_Talent_02_Title": "Crown of Inherited Flame",
+                "Claret_Talent_02_Desc_01_Realign": "The maximum duration of Crimson Inscription is extended by 2s. While Claret is in the Crimson Inscription state, or while using a Chain Attack, Ultimate, Counter Assist, or Assist Follow-Up, attacks ignore 18% of the target's <color=#2EB6FF>Electric RES</color>.",
+                "Claret_Talent_02_Desc_02": "The prodigy chosen by her bloodline steps into the great hall, radiant light spilling across her face.\nWithout a word, she accepts the crown and scepter, then turns and heads for the next forging ground.",
+                "Claret_Talent_02_Desc_01": "The maximum duration of Crimson Inscription is extended by 2s. While Claret is in the Crimson Inscription state, or while using a Chain Attack, Ultimate, Counter Assist, or Assist Follow-Up, attacks ignore 18% of the target's <color=#2EB6FF>Electric RES</color>.",
+                "Claret_Talent_02_Title_Realign": "Crown of Inherited Flame"
+            },
+            {
+                "talent_id": "3",
+                "Claret_Talent_03_Title": "Oath Written in Frosting",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Claret_Talent_03_Desc_02": "The forge burns day and night, and the family's heavy burden falls upon the young woman's shoulders.\nShe has never known how to ease the feelings weighing on her heart, until one day, her brilliant assistant brings her an exquisite dessert, adding a lingering touch of sweetness to her bitter days.",
+                "Claret_Talent_03_Title_Realign": "Oath Written in Frosting"
+            },
+            {
+                "talent_id": "4",
+                "Claret_Talent_04_Title": "Crimson Moon Wanderer",
+                "Claret_Talent_04_Desc_01_Realign": "During the 3rd hit of Basic Attack: Bloodbloom Oath - Starforging, the time by which the consecutive slashes can be extended is increased.\nDMG dealt by Basic Attack: Bloodbloom Oath - Starforging's 3rd hit, Chain Attack: Bloodbloom Oath - Resonant Blood Pact, and Ultimate: Bloodbloom Oath - Trial After Trial increases by 20%.",
+                "Claret_Talent_04_Desc_02": "The hammering falls silent, and only the crimson moon hangs high in the long night.\nThe young woman raises her scarlet gaze while the merciless moonlight seems to mock her as it creeps across the window frame.",
+                "Claret_Talent_04_Desc_01": "During the 3rd hit of Basic Attack: Bloodbloom Oath - Starforging, the time by which the consecutive slashes can be extended is increased. DMG dealt by Basic Attack: Bloodbloom Oath - Starforging's 3rd hit, Chain Attack: Bloodbloom Oath - Resonant Blood Pact, and Ultimate: Bloodbloom Oath - Trial After Trial increases by 20%.",
+                "Claret_Talent_04_Title_Realign": "Crimson Moon Wanderer"
+            },
+            {
+                "talent_id": "5",
+                "Claret_Talent_05_Title": "Duskblood Furnace",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Claret_Talent_05_Desc_02": "Generations of artisans have fed the furnace with their blood, but she swears to teach the flames to burn on their own.\nThe sound of hammering rings through the workshop once more. The furnace still burns eternal, but no longer needs life itself as fuel.",
+                "Claret_Talent_05_Title_Realign": "Duskblood Furnace"
+            },
+            {
+                "talent_id": "6",
+                "Claret_Talent_06_Title": "Warm Night's Dream",
+                "Claret_Talent_06_Desc_01_Realign": "When the heavy attacks of Chain Attack: Bloodbloom Oath - Resonant Blood Pact and Ultimate: Bloodbloom Oath - Trial After Trial hit an enemy, Claret directly triggers 1 instance of single-target Maim without consuming Gash.",
+                "Claret_Talent_06_Desc_02": "The young woman finally drifts into a deep sleep.\nShe dreams of a full moon and a vast land stretching on forever.\nThe crimson moonlight has long since faded, and the silver night sky seems almost like dawn.",
+                "Claret_Talent_06_Desc_01": "When the heavy attacks of Chain Attack: Bloodbloom Oath - Resonant Blood Pact and Ultimate: Bloodbloom Oath - Trial After Trial hit an enemy, Claret directly triggers 1 instance of single-target Maim without consuming Gash.",
+                "Claret_Talent_06_Title_Realign": "Warm Night's Dream"
+            }
+        ]
+    },
+    "1621": {
+        "role_id": 1621,
+        "name": "Roxy Ifrita Pryce",
+        "talent_text": [
+            {
+                "talent_id": "1",
+                "Pryce_Talent_01_Title": "Versatile Attendant",
+                "Pryce_Talent_01_Desc_01_Realign": "When <color=#ffffff>EX Special Attack: Kindly Rest in Peace</color> hits, it reduces the enemy's All-Attribute RES by 15% for 50s. Repeated triggers reset the duration. CRIT DMG increases by 40%.",
+                "Pryce_Talent_01_Desc_02": "Roxy always manages to keep everything perfectly in order, from the head of the household's daily needs to her frequent whims.\n\"If you insist on going, please take this guide with you. Yes, I knew you would make this decision, milady.\"\n\"You've changed your mind? That's fine. Here's another guide, just for this sort of situation.\"",
+                "Pryce_Talent_01_Desc_01": "When <color=#ffffff>EX Special Attack: Kindly Rest in Peace</color> hits, it reduces the enemy's All-Attribute RES by 15% for 50s. Repeated triggers reset the duration. CRIT DMG increases by 40%.",
+                "Pryce_Talent_01_Title_Realign": "Versatile Attendant"
+            },
+            {
+                "talent_id": "2",
+                "Pryce_Talent_02_Title": "Clocking Out Myth",
+                "Pryce_Talent_02_Desc_01_Realign": "<color=#ffffff>EX Special Attack: Don't Catch a Chill</color> deals 5% more Daze.\nFor each <color=#ffffff>Eye of the Storm</color> detonated, gain 1 stack of <color=#ffffff>Windflow</color>, up to 3 stacks.\nDuring <color=#ffffff>EX Special Attack: Don't Catch a Chill</color>, if Roxy switches out after entering the <color=#ffffff>Whirlwind</color> state, she consumes all <color=#ffffff>Windflow</color>. Each stack consumed sustains the <color=#ffffff>Whirlwind</color> state for 0.2s, during which no Energy is consumed, up to a maximum of 0.6s.\nWhen <color=#ffffff>EX Special Attack: Don't Catch a Chill</color> hits an enemy, that enemy's Stun DMG Multiplier increases by 30% until the target recovers from Stun.",
+                "Pryce_Talent_02_Desc_02": "Roxy's pale complexion and ever-present dark circles speak to how much effort she pours into the workshop.\nShe is all too familiar with Vyrium at four in the morning, despite having no nocturnal habits.\nTo her, clocking out feels as distant as a myth.\n\"Ah... dawn again... It feels like getting off work will never become a reality.\"",
+                "Pryce_Talent_02_Desc_01": "<color=#ffffff>EX Special Attack: Don't Catch a Chill</color> deals 5% more Daze.\nFor each <color=#ffffff>Eye of the Storm</color> detonated, gain 1 stack of <color=#ffffff>Windflow</color>, up to 3 stacks.\nDuring <color=#ffffff>EX Special Attack: Don't Catch a Chill</color>, if Roxy switches out after entering the <color=#ffffff>Whirlwind</color> state, she consumes all <color=#ffffff>Windflow</color>. Each stack consumed sustains the <color=#ffffff>Whirlwind</color> state for 0.2s, during which no Energy is consumed, up to a maximum of 0.6s.\nWhen <color=#ffffff>EX Special Attack: Don't Catch a Chill</color> hits an enemy, that enemy's Stun DMG Multiplier increases by 30% until the target recovers from Stun.",
+                "Pryce_Talent_02_Title_Realign": "Clocking Out Myth"
+            },
+            {
+                "talent_id": "3",
+                "Pryce_Talent_03_Title": "Tales of Insomnia",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Pryce_Talent_03_Desc_02": "Roxy is used to making thorough plans, but whenever Claret is involved, those plans struggle to keep up with the changes. Countless schedule adjustments, countless revisions...\nEven the perfect assistant eventually starts to lose her patience until she reaches a certain breaking point — and snaps.\nFrom then on, Vyrium gains a terrifying figure who roams the streets late at night.\n\"I just want to go home... and get a good night's sleep—!\"",
+                "Pryce_Talent_03_Title_Realign": "Tales of Insomnia"
+            },
+            {
+                "talent_id": "4",
+                "Pryce_Talent_04_Title": "R.I.P.",
+                "Pryce_Talent_04_Desc_01_Realign": "When a <color=#ffffff>Defensive Assist</color> successfully parries an enemy attack, Roxy gains 1 Energy, up to once per skill.\nWhen <color=#ffffff>Dodge Counter: Returned Courtesy</color> hits an enemy, it grants 2 Energy, up to once per skill.\n<color=#ffffff>Ultimate: Requiem for the Night-Burial</color> deals 20% more DMG and 10% more Daze.",
+                "Pryce_Talent_04_Desc_02": "Whenever Roxy brings out her weapon, her enemies are always left baffled: Who uses a coffin as a weapon?\nTheir confusion never lasts long, though.\nOnce they see the girl casually swing it around, tearing through the air with a heavy howl, they quickly understand: that thing definitely wasn't made for sleeping in.\n\"It's still daytime, but I'm afraid... it's time to say goodnight.\"",
+                "Pryce_Talent_04_Desc_01": "When a <color=#ffffff>Defensive Assist</color> successfully parries an enemy attack, Roxy gains 1 Energy, up to once per skill. When <color=#ffffff>Dodge Counter: Returned Courtesy</color> hits an enemy, it grants 2 Energy, up to once per skill. <color=#ffffff>Ultimate: Requiem for the Night-Burial</color> deals 20% more DMG and 10% more Daze.",
+                "Pryce_Talent_04_Title_Realign": "R.I.P."
+            },
+            {
+                "talent_id": "5",
+                "Pryce_Talent_05_Title": "Second Heartbeat",
+                "Common_Talent_Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+                "Pryce_Talent_05_Desc_02": "Roxy can barely remember the adventure she had as a child, and the pain of losing her heart has long since faded.\nBut she will never forget how the girl known as a genius once cried until her proud eyes were red, calling Roxy's name over and over.\nHer tears fell upon Roxy's cold chest, almost hot enough to burn a hole through her heart.\n\"Because of this Porcelloy Heart... I do get a little anemic sometimes, but with milady around, there's nothing to worry about.\"",
+                "Pryce_Talent_05_Title_Realign": "Second Heartbeat"
+            },
+            {
+                "talent_id": "6",
+                "Pryce_Talent_06_Title": "Eternity and the Clockwork Doll",
+                "Pryce_Talent_06_Desc_01_Realign": "The DMG dealt by attacks ignores 15% of the target's <color=#A6C5FD>Wind RES</color>.\nWhen <color=#ffffff>Special Attack: Forgive Me for Not Seeing You Off</color> detonates <color=#ffffff>Eyes of the Storm</color> to generate a Giant Windstorm, the primary target is inflicted with <color=#ffffff>Afterecho</color>. A Giant Windstorm is generated at the target's location every 3s, for a total of 2 additional Giant Windstorms. Repeated triggers stack the number of additional Giant Windstorm instances generated and refresh the duration of <color=#ffffff>Afterecho</color>.\nThe DMG multiplier of the Giant Windstorm increases to 250% of its original value, and the Daze it inflicts increases by 20%.",
+                "Pryce_Talent_06_Desc_02": "Some believe Roxy only remains by the head of the household's side to sustain her Porcelloy Heart: Flint Workshop used their bloodline to secure a capable assistant.\nRoxy has heard such claims so often that she no longer even bothers refuting them. The other person concerned, however, can't help but worry over it.\nOne day, during a brief lull in her busy schedule, she casually brought the matter up with her assistant, only to be met with a helpless sigh.\n\"No, I've never thought of it that way. Just being alive is already more than enough. I've always been grateful to you, milady.\"\n\"Besides... if I may be so bold, aren't you the one bound by bloodline here, milady?\"\n\"So this is what's been making you restless lately... Rather than some pointless rumor, I'd say that oversized Porcelloy order you boasted to the CCD about not long ago is far more worth worrying about.\"",
+                "Pryce_Talent_06_Desc_01": "The DMG dealt by attacks ignores 15% of the target's <color=#A6C5FD>Wind RES</color>. When <color=#ffffff>Special Attack: Forgive Me for Not Seeing You Off</color> detonates <color=#ffffff>Eyes of the Storm</color> to generate a Giant Windstorm, the primary target is inflicted with <color=#ffffff>Afterecho</color>. A Giant Windstorm is generated at the target's location every 3s, for a total of 2 additional Giant Windstorms. Repeated triggers stack the number of additional Giant Windstorm instances generated and refresh the duration of <color=#ffffff>Afterecho</color>. The DMG multiplier of the Giant Windstorm increases to 250% of its original value, and the Daze it inflicts increases by 20%.",
+                "Pryce_Talent_06_Title_Realign": "Eternity and the Clockwork Doll"
             }
         ]
     },
